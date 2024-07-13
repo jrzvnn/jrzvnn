@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hashed: 1M+ memecoins have been created on Pump.fun, a platform based on the Solana and Blast blockchains, generating $50M+ in revenue since its January launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240713/p1#a240713p1)
  - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [A look at challenges indie video game devs face, as they struggle to survive due to lack of funding and studio closures, leading to talent loss in the industry &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240712/p28#a240712p28)
- - [Boost Prime Day Savings with These Smart Amazon Shopping Tips](https://www.cnet.com/pictures/boost-prime-day-savings-with-these-smart-amazon-shopping-tips/#ftag=CAD590a51e)
- - [This Prime Day Deal Brings 45% off Pelican&#39;s Waterproof Phone Pouch](https://www.cnet.com/deals/this-prime-day-deal-brings-45-off-pelican-waterproof-phone-pouch/#ftag=CAD590a51e)
- - [This Early Prime Day Deal Will Save You Hundreds on BeatBot&#39;s Robot Pool Cleaners](https://www.cnet.com/deals/this-early-prime-day-deal-will-save-you-hundreds-on-beatbots-robot-pool-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Get an Instant $200 Amazon Gift Card for Prime Day](https://www.cnet.com/personal-finance/heres-how-to-get-an-instant-200-dollar-amazon-gift-card-for-prime-day/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 13, #132](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-132/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

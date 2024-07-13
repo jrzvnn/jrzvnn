@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland not being loland.](http://9gag.com/gag/a7o7g9w)
- - 😝 [Regret](http://9gag.com/gag/amo9y34)
- - 💣 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
- - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 👉 [A gentleman on the streets, but a freak in the sheets...](http://9gag.com/gag/aYQeZv2)<!-- MEMES:END -->
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
+ - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

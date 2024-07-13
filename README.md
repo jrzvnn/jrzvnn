@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic!!](http://9gag.com/gag/amo9OG2)
+ - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
  - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
- - 💣 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
+ - 💣 [Magic!!](http://9gag.com/gag/amo9OG2)
  - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
  - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
 

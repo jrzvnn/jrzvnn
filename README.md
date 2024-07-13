@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [&#39;Find My&#39; feature helps diver recover lost Apple Watch nearly two years later](https://appleinsider.com/articles/24/07/13/find-my-feature-helps-diver-recover-lost-apple-watch-nearly-two-years-later?utm_medium=rss)
+ - [Amazon Prime Day Live Blog: Shop Top Deals We&#39;ve Spotted So Far on TVs, Laptops, Kitchen Gadgets and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
+ - [Walmart Anti-Prime Day Deals Offer Savings on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-13/#ftag=CAD590a51e)
  - [Lowest price ever: Apple&#39;s M3 16-inch MacBook Pro plunges to $1,899 ahead of Prime Day](https://appleinsider.com/articles/24/07/13/lowest-price-ever-apples-m3-16-inch-macbook-pro-plunges-to-1899-ahead-of-prime-day?utm_medium=rss)
- - [Letter: OpenAI whistleblowers asked the SEC to probe OpenAI&#39;s allegedly restrictive NDAs barring staff from warning regulators about the risks its tech may pose &lpar;Washington Post&rpar;](http://www.techmeme.com/240713/p10#a240713p10)
- - [Check Out WIRED’s Merch Store Refresh](https://www.wired.com/story/wireds-merch-store-summer-2024-refresh/)
- - [Amazon Prime Day Live Blog: Shop Top Deals So Far on TVs, Laptops, Kitchen Gadgets and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to 20% on a New Samsung Galaxy Z Preorder and Get an Amazon Gift Card Worth up to $300](https://www.cnet.com/deals/save-up-to-20-on-a-new-samsung-galaxy-z-preorder-and-get-an-amazon-gift-card-worth-up-to-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

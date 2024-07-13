@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 💣 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
+ - 😝 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
+ - 😝 [Regret](http://9gag.com/gag/amo9y34)
+ - 💣 [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 😝 [A gentleman on the streets, but a freak in the sheets...](http://9gag.com/gag/aYQeZv2)
+ - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
 
 ---
 

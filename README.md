@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aAy1N30)
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 💣 [11 Things People Learn Too Late in Life](http://9gag.com/gag/aNDn8qG)
- - 😝 [Engineering honda](http://9gag.com/gag/awyxvyB)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
+ - 😝 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
+ - 💣 [Magic!!](http://9gag.com/gag/amo9OG2)
+ - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
+ - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
 
 ---
 

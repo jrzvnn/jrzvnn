@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The rest is history.](http://9gag.com/gag/a34Bpp1)
- - 😝 [And named her America](http://9gag.com/gag/aZZMVoW)
- - 💣 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 😝 [Did you know that Donald D, didn&#39;t have a speech impediment, until the chapter where he goes to war](http://9gag.com/gag/avyPXXb)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
+ - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
+ - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
 
 ---
 

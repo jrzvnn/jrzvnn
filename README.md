@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 💣 [Japan, never change.](http://9gag.com/gag/axyjezn)
+ - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
+ - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
+ - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
  - 😝 [Superior bugs shall remain.](http://9gag.com/gag/amo9yd6)
- - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
+ - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
 
 ---
 

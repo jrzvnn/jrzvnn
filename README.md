@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether-backed Northern Data expects sales of &amp;euro;200M-&amp;euro;240M in 2024, up from &amp;euro;77.5M in 2023, on AI demand, as it disputes allegations of misrepresenting finances &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240713/p6#a240713p6)
+ - [Sources: X-Epic, a Chinese EDA software maker for designing chips that had raised $121.7M as of March 2023, is laying off up to 50% staff amid market headwinds &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240713/p5#a240713p5)
  - [A profile of Shein&#39;s executive chair Donald Tang, who has become the public face of the company as he leads its expansion overseas and prepares for a London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240713/p4#a240713p4)
  - [Arkham: the German government appears to have sold its last bitcoin on July 12, after authorities seized ~50K bitcoin, worth $2B+, in January 2024 from suspects &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240713/p3#a240713p3)
- - [China accounts for 40%+ of sales at Applied Materials and Lam Research, as they boost shipments of legacy chipmaking equipment not targeted by US export curbs &lpar;Kosuke Shimizu/Nikkei Asia&rpar;](http://www.techmeme.com/240713/p2#a240713p2)
- - [Hashed: 1M+ memecoins have been created on Pump.fun, a platform based on the Solana and Blast blockchains, generating $50M+ in revenue since its January launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240713/p1#a240713p1)
- - [New Zealand vs. England: How to Watch a Summer International 2024 2nd Test Rugby Livestream](https://www.cnet.com/tech/services-and-software/new-zealand-vs-england-how-to-watch-a-summer-internationals-2024-2nd-test-rugby-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China accounts for 40%+ of sales at Applied Materials and Lam Research, as they boost shipments of legacy chipmaking equipment not targeted by US export curbs &lpar;Kosuke Shimizu/Nikkei Asia&rpar;](http://www.techmeme.com/240713/p2#a240713p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

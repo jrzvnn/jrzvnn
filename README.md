@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
- - 💣 [Breaking hearts quicker than Boeing breaks parts.](http://9gag.com/gag/a2vmAMO)
- - 😝 [The lies cannot continue](http://9gag.com/gag/agmVdZv)
- - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
+ - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
+ - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
+ - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
+ - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
 
 ---
 

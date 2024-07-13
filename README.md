@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at challenges indie video game devs face, as they struggle to survive due to lack of funding and studio closures, leading to talent loss in the industry &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240712/p28#a240712p28)
  - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
  - [Boost Prime Day Savings with These Smart Amazon Shopping Tips](https://www.cnet.com/pictures/boost-prime-day-savings-with-these-smart-amazon-shopping-tips/#ftag=CAD590a51e)
  - [This Prime Day Deal Brings 45% off Pelican&#39;s Waterproof Phone Pouch](https://www.cnet.com/deals/this-prime-day-deal-brings-45-off-pelican-waterproof-phone-pouch/#ftag=CAD590a51e)
- - [This Early Prime Day Deal Will Save You Hundreds on BeatBot&#39;s Robot Pool Cleaners](https://www.cnet.com/deals/this-early-prime-day-deal-will-save-you-hundreds-on-beatbots-robot-pool-cleaners/#ftag=CAD590a51e)
- - [Sony PlayStation PS Stars Program Finally Is Returning to North American Players](https://www.cnet.com/tech/gaming/sony-playstation-ps-stars-program-finally-is-returning-to-north-american-players/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Early Prime Day Deal Will Save You Hundreds on BeatBot&#39;s Robot Pool Cleaners](https://www.cnet.com/deals/this-early-prime-day-deal-will-save-you-hundreds-on-beatbots-robot-pool-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

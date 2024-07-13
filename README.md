@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Omni QLED Series TVs Hit Low Prices Ahead of Prime Day](https://www.cnet.com/deals/amazon-fire-tv-omni-qled-series-models-hit-low-prices/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Best Deals We Found So Far on Tech, Home, TVs and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
  - [Trailers of the week: Captain America, F1, and Gladiator II](https://www.theverge.com/2024/7/13/24197907/trailers-week-july-8-13-captain-america-brave-new-world-gladiator-ii-f1-time-bandits-severance)
- - [Is Apple finally serious about gaming after its latest push?](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
- - [Power Up and Save Ahead of Prime Day: Get 2 Anker USB-C Chargers for Only $13](https://www.cnet.com/deals/prime-day-anker-usb-c-two-pack-13-dollar-deal/#ftag=CAD590a51e)
- - [Early Prime Day Sales Bring Amazon Echo Devices to All-Time-Low of $18](https://www.cnet.com/deals/early-prime-day-sales-reduce-amazon-echo-devices-to-as-low-as-18/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: The Best Deals We Found So Far on Tech, Home, TVs and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yankee Candles Are Up to 57% Off on Amazon Just Before Prime Day](https://www.cnet.com/deals/yankee-candles-are-up-to-57-off-on-amazon-just-before-prime-day/#ftag=CAD590a51e)
+ - [Prime Day’s Best Subscription and Digital Deals: Enjoy Streaming Discounts and Software for Cheap](https://www.cnet.com/deals/best-prime-day-digital-deals-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Engwe P20 folding e-bike review: how forgiving are you?](https://www.theverge.com/24194819/engwe-p20-folding-e-bike-review-price-range-features)
- - [A look at the rise and fall of Jump Crypto and former President Kanav Kariya, and Jump&#39;s involvement in some of crypto&#39;s biggest scandals, like FTX&#39;s collapse &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240713/p7#a240713p7)
- - [Tether-backed Northern Data expects sales of &amp;euro;200M-&amp;euro;240M in 2024, up from &amp;euro;77.5M in 2023, on AI demand, as it disputes allegations of misrepresenting finances &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240713/p6#a240713p6)
- - [Sources: X-Epic, a Chinese EDA software maker for designing chips that had raised $121.7M as of March 2023, is laying off up to 50% staff amid market headwinds &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240713/p5#a240713p5)
- - [A profile of Shein&#39;s executive chair Donald Tang, who has become the public face of the company as he leads its expansion overseas and prepares for a London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240713/p4#a240713p4)<!-- TECH:END -->
+ - [Prime Day Steals Under $10: 23 Unbeatable Bargains at Rock-Bottom Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
+ - [Prime Day Deals Under $100: Sweet Savings on Kitchen Essentials, Tech and More at Amazon](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/#ftag=CAD590a51e)
+ - [Wimbledon Women&#39;s Singles Final 2024: How to Watch a Barbora Krejcikova vs. Jasmine Paolini Free Tennis Livestream](https://www.cnet.com/tech/services-and-software/wimbledon-womens-singles-final-2024-how-to-watch-a-barbora-krejcikova-vs-jasmine-paolini-free-tennis-livestream/#ftag=CAD590a51e)
+ - [Social Security Payment July 2024: Here&#39;s When You&#39;ll Get Your Check](https://www.cnet.com/personal-finance/social-security-payment-july-2024-heres-when-youll-get-your-check/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

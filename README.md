@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: Apple&#39;s M3 16-inch MacBook Pro plunges to $1,899 ahead of Prime Day](https://appleinsider.com/articles/24/07/13/lowest-price-ever-apples-m3-16-inch-macbook-pro-plunges-to-1899-ahead-of-prime-day?utm_medium=rss)
  - [Letter: OpenAI whistleblowers asked the SEC to probe OpenAI&#39;s allegedly restrictive NDAs barring staff from warning regulators about the risks its tech may pose &lpar;Washington Post&rpar;](http://www.techmeme.com/240713/p10#a240713p10)
  - [Check Out WIRED’s Merch Store Refresh](https://www.wired.com/story/wireds-merch-store-summer-2024-refresh/)
  - [Amazon Prime Day Live Blog: Shop Top Deals So Far on TVs, Laptops, Kitchen Gadgets and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Kobo’s Elipsa 2E, our favorite e-reader for taking notes, has hit its best price yet](https://www.theverge.com/2024/7/13/24197209/kobo-elipsa-2e-ebook-reader-google-pixel-watch-2-deal-sale)
- - [Save 20% on the Ooni Outdoor Pizza Oven, Thanks to the Prime Day Sale](https://www.cnet.com/deals/save-20-on-the-ooni-outdoor-pizza-oven-thanks-to-the-prime-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kobo’s Elipsa 2E, our favorite e-reader for taking notes, has hit its best price yet](https://www.theverge.com/2024/7/13/24197209/kobo-elipsa-2e-ebook-reader-google-pixel-watch-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

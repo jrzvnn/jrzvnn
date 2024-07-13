@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Elon](http://9gag.com/gag/aryKrE7)
- - 😝 [How cigarettes were packaged in France, 1930](http://9gag.com/gag/aGyxrEn)
- - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [\u201cIt was as if these stark, nightmare spires marked the pylons of a frightful gateway into forbidden spheres of dream, and complex gulfs of remote time, space, and ultra-dimensionality\u201d \u2015 H.P. Lovecraft](http://9gag.com/gag/aO8VNN2)
  - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 👉 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)<!-- MEMES:END -->
+ - 💣 [Girl got in man&#39;s car and refused to leave](http://9gag.com/gag/a4PYB1m)
+ - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 👉 [Women](http://9gag.com/gag/aAy1N30)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 💣 [How cigarettes were packaged in France, 1930](http://9gag.com/gag/aGyxrEn)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 👉 [Well shit](http://9gag.com/gag/aXP93nz)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 💣 [Well shit](http://9gag.com/gag/aXP93nz)
+ - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
+ - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
 
 ---
 

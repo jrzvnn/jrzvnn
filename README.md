@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 😝 [Matt Damon](http://9gag.com/gag/a7o7Ge2)
- - 💣 [Best investment ever.](http://9gag.com/gag/aAy1LOo)
- - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
- - 👉 [Now this is it.](http://9gag.com/gag/aW46epq)<!-- MEMES:END -->
+ - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 💣 [I&#39;m a Panda i Guess](http://9gag.com/gag/aryKzM0)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
 
 ---
 

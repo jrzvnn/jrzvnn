@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Google and Samsung&#39;s XR headset, codenamed Moohan and initially planned for Q1 2024, is now set for March 2025, with a developer version in October 2024 &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240713/p13#a240713p13)
- - [Is Apple finally serious about gaming after its latest push?](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
- - [Save Big on Samsonite Check-in and Carry-on Suitcases Ahead of Prime Day](https://www.cnet.com/deals/save-big-on-samsonite-luggage-and-carry-on-suitcases-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Best Prime Day Monitor Deals: Massive Savings on Acer, Samsung, Dell and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-13/#ftag=CAD590a51e)
- - [Upgrade to a Roomba Robot Vacuum for Just $160 With This Amazon Prime Day Deal](https://www.cnet.com/deals/upgrade-to-a-roomba-robot-vacuum-for-just-160-with-this-amazon-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Act Fast to Get Apple&#39;s AirTag 4-Pack For Just $75 During Walmart&#39;s Anti-Prime Day Sale](https://www.cnet.com/deals/act-fast-to-get-apples-airtag-4-pack-for-just-75-during-walmarts-anti-prime-day-sale/#ftag=CAD590a51e)
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
+ - [Save $200 off Expedman&#39;s Self-Cleaning Cat Litter Box Before Amazon Prime Day](https://www.cnet.com/deals/save-200-off-expedmans-self-cleaning-cat-litter-box-before-amazon-prime-day/#ftag=CAD590a51e)
+ - [Here&#39;s How Many Solar Panels You&#39;ll Need to Charge Your EV](https://www.cnet.com/home/energy-and-utilities/heres-how-many-solar-panels-youll-need-to-charge-your-ev/#ftag=CAD590a51e)
+ - [Source: Google and Samsung&#39;s XR headset, codenamed Moohan and initially planned for Q1 2024, is now set for March 2025, with a developer version in October 2024 &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240713/p13#a240713p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

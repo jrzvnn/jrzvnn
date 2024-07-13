@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 💣 [Well shit](http://9gag.com/gag/aXP93nz)
- - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
- - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
+ - 😝 [Maybe a download link in the pinned comment](http://9gag.com/gag/a5Q795y)
+ - 😝 [Asking AI to make a Hit country song about Beer for breakfast.](http://9gag.com/gag/an7NWKn)
+ - 💣 [...and with that terrible disappointment, it&#39;s time to end.](http://9gag.com/gag/amo9Qy2)
+ - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 👉 [Free Rent](http://9gag.com/gag/aO8VOdD)<!-- MEMES:END -->
 
 ---
 

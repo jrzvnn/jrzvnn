@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
- - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
- - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
- - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
+ - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 😝 [Matt Damon](http://9gag.com/gag/a7o7Ge2)
+ - 💣 [Best investment ever.](http://9gag.com/gag/aAy1LOo)
+ - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
+ - 👉 [Now this is it.](http://9gag.com/gag/aW46epq)<!-- MEMES:END -->
 
 ---
 

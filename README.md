@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sensations of Slime Are Serious Business](https://www.wired.com/story/slime-business-elmers-glue-sloomoo/)
  - [Prime Day Steals Under $10: 23 Unbeatable Bargains at Rock-Bottom Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)
  - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
  - [Prime Day Deals Under $100: Sweet Savings on Kitchen Essentials, Tech and More at Amazon](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/#ftag=CAD590a51e)
- - [Wimbledon Women&#39;s Singles Final 2024: How to Watch a Barbora Krejcikova vs. Jasmine Paolini Free Tennis Livestream](https://www.cnet.com/tech/services-and-software/wimbledon-womens-singles-final-2024-how-to-watch-a-barbora-krejcikova-vs-jasmine-paolini-free-tennis-livestream/#ftag=CAD590a51e)
- - [Social Security Payment July 2024: Here&#39;s When You&#39;ll Get Your Check](https://www.cnet.com/personal-finance/social-security-payment-july-2024-heres-when-youll-get-your-check/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wimbledon Women&#39;s Singles Final 2024: How to Watch a Barbora Krejcikova vs. Jasmine Paolini Free Tennis Livestream](https://www.cnet.com/tech/services-and-software/wimbledon-womens-singles-final-2024-how-to-watch-a-barbora-krejcikova-vs-jasmine-paolini-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

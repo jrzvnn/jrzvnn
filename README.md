@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
- - 😝 [Regret](http://9gag.com/gag/amo9y34)
- - 💣 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 😝 [A gentleman on the streets, but a freak in the sheets...](http://9gag.com/gag/aYQeZv2)
- - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
+ - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
+ - 😝 [Pokemon logic](http://9gag.com/gag/aAy1NKL)
+ - 💣 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
 
 ---
 

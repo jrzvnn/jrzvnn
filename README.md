@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
- - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 👉 [Disappointed parent](http://9gag.com/gag/a87MXXO)<!-- MEMES:END -->
+ - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
+ - 😝 [Magic!!](http://9gag.com/gag/amo9OG2)
+ - 💣 [Now this is it.](http://9gag.com/gag/aW46epq)
+ - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
+ - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
 
 ---
 

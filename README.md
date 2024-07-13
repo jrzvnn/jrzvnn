@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 😝 [Member when we memed that companies would start doing that sh*t?](http://9gag.com/gag/aD2oPy7)
- - 💣 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
- - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
+ - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 💣 [How cigarettes were packaged in France, 1930](http://9gag.com/gag/aGyxrEn)
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 👉 [Well shit](http://9gag.com/gag/aXP93nz)<!-- MEMES:END -->
 
 ---
 

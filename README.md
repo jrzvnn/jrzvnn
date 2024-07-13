@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [City name?](http://9gag.com/gag/ae9GEz5)
- - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
- - 💣 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 👉 [Is he right?](http://9gag.com/gag/a9y74mZ)<!-- MEMES:END -->
+ - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [Regret](http://9gag.com/gag/amo9y34)
+ - 💣 [Breaking hearts quicker than Boeing breaks parts.](http://9gag.com/gag/a2vmAMO)
+ - 😝 [Simple as that..](http://9gag.com/gag/aE07Nyn)
+ - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
 
 ---
 

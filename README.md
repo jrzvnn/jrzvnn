@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads needs to foster community builders rather than get celebrity creators from platforms like Instagram, who tend not to do well on a microblogging platform &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240713/p11#a240713p11)
- - [Apple wants you to believe it&#39;s serious about gaming, for real this time](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
- - [Best Target Circle Week Deals: Not Long Left To Save Across Apple, Bose, Sony and More](https://www.cnet.com/deals/best-target-anti-prime-day-deals/#ftag=CAD590a51e)
- - [Don&#39;t Miss This Worx Landroid Robotic Lawn Mower for $450 Off Just Before Prime Day](https://www.cnet.com/deals/dont-miss-this-worx-landroid-robotic-lawn-mower-for-450-off-just-before-prime-day/#ftag=CAD590a51e)
- - [Save 20% on the Ooni Outdoor Pizza Oven, Thanks to the Prime Day Sale](https://www.cnet.com/deals/save-20-on-the-ooni-outdoor-pizza-oven-thanks-to-the-prime-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $50 on a Ninja Creami With This Early Amazon Prime Day Deal](https://www.cnet.com/deals/ninja-creami-ice-cream-maker-for-50-off-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Best Deals We Found So Far on Tech, Home, TVs and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
+ - [Prime Day Gaming Deals: Save on Nintendo Switch, PS5 Games and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-07-13/#ftag=CAD590a51e)
+ - [Today Only: Save $200 on a 42-Inch LG OLED Evo TV at Best Buy](https://www.cnet.com/deals/today-only-save-200-on-a-42-inch-lg-oled-evo-tv-at-best-buy/#ftag=CAD590a51e)
+ - [This Prime Day Electric Standing Desk Deal Drops 34% Off if you Act Fast](https://www.cnet.com/deals/prime-day-electric-standing-desk-with-adjustable-height-at-34-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [City name?](http://9gag.com/gag/ae9GEz5)
  - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
- - 😝 [Argentina is facing a unique situation with President Millais.](http://9gag.com/gag/azxjzdm)
  - 💣 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
  - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 👉 [A gentleman on the streets, but a freak in the sheets...](http://9gag.com/gag/aYQeZv2)<!-- MEMES:END -->
+ - 👉 [Is he right?](http://9gag.com/gag/a9y74mZ)<!-- MEMES:END -->
 
 ---
 

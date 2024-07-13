@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fantasmas’ vision of the future is a dystopian dreamland](https://www.theverge.com/24195902/fantasmas-hbo-max-dystopia)
  - [A look at MetaFilter, which turns 25 on July 14; owner Jessamyn West, who helped stabilize it after near death, doesn&#39;t plan to license its archives to AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240713/p9#a240713p9)
- - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-aeropress/)
- - [Hurricanes Are Trapping Small Island Nations in Ever-Worsening Spirals of Debt](https://www.wired.com/story/hurricanes-are-trapping-small-island-nations-in-ever-worsening-spirals-of-debt/)
- - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Prime Day Finds Under $100: Unbeatable Deals on Kitchen Essentials, Tech, and More at Amazon](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Miss Out: Score a 33% Discount on Prime Day for the Ring Battery Doorbell Plus](https://www.cnet.com/deals/dont-miss-out-score-a-33-discount-on-prime-day-for-the-ring-battery-doorbell-plus/#ftag=CAD590a51e)
+ - [Drown out the noise with Amazon’s Alexa-enabled Echo Buds, available for an incredible 71% off this Prime Day](https://www.cnet.com/deals/drown-out-the-noise-with-amazons-alexa-enabled-echo-buds-available-for-an-incredible-71-off-this-prime-day/#ftag=CAD590a51e)
+ - [Tesla’s Cheaper Long-Range Model 3 Is Back](https://www.wired.com/story/teslas-cheaper-long-range-model-3-is-back/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

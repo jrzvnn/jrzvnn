@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
- - 😝 [Pokemon logic](http://9gag.com/gag/aAy1NKL)
- - 💣 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
+ - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 💣 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 😝 [The AFER Housing Development Constanta, Romania, Built in 1987.](http://9gag.com/gag/aAy17m0)
+ - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe a download link in the pinned comment](http://9gag.com/gag/a5Q795y)
- - 😝 [Asking AI to make a Hit country song about Beer for breakfast.](http://9gag.com/gag/an7NWKn)
- - 💣 [...and with that terrible disappointment, it&#39;s time to end.](http://9gag.com/gag/amo9Qy2)
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 👉 [Free Rent](http://9gag.com/gag/aO8VOdD)<!-- MEMES:END -->
+ - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
+ - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [...and with that terrible disappointment, it&#39;s time to end.](http://9gag.com/gag/amo9Qy2)
+ - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
 
 ---
 

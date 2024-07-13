@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
  - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
- - 😝 [Magic!!](http://9gag.com/gag/amo9OG2)
- - 💣 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
- - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
- - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
+ - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
+ - 👉 [Is he right?](http://9gag.com/gag/a9y74mZ)<!-- MEMES:END -->
 
 ---
 

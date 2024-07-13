@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
  - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 💣 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 💣 [Zip Tied](http://9gag.com/gag/aO8VA4D)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 👉 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)<!-- MEMES:END -->
 
 ---
 

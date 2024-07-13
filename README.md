@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
  - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 💣 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
+ - 💣 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
  - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
  - 👉 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)<!-- MEMES:END -->
 

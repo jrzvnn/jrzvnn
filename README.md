@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
  - 😝 [Zip Tied](http://9gag.com/gag/aO8VA4D)
+ - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
  - 💣 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
+ - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

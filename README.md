@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
- - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
- - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 😝 [Superior bugs shall remain.](http://9gag.com/gag/amo9yd6)
- - 👉 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)<!-- MEMES:END -->
+ - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - 😝 [Physics](http://9gag.com/gag/a87MnKY)
+ - 💣 [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

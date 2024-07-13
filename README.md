@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zip Tied](http://9gag.com/gag/aO8VA4D)
- - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
- - 💣 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
+ - 😝 [Argentina is facing a unique situation with President Millais.](http://9gag.com/gag/azxjzdm)
+ - 💣 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
+ - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 👉 [A gentleman on the streets, but a freak in the sheets...](http://9gag.com/gag/aYQeZv2)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An experiment where writers had access to GPT-4 for short story ideas finds it boosted creativity for some but reduced the collective diversity of novel content &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240712/p27#a240712p27)
- - [Top Prime Day Monitor Deals: Huge Savings on Acer, Samsung, Dell, and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-12/#ftag=CAD590a51e)
- - [Prime Day Steals Under $10: 21 Unbeatable Bargains at Rock-Bottom Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10/#ftag=CAD590a51e)
  - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Crank Up the Savings With These Early Prime Day Headphone Deals on Sony, AirPods and More](https://www.cnet.com/deals/best-prime-day-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boost Prime Day Savings with These Smart Amazon Shopping Tips](https://www.cnet.com/pictures/boost-prime-day-savings-with-these-smart-amazon-shopping-tips/#ftag=CAD590a51e)
+ - [This Prime Day Deal Brings 45% off Pelican&#39;s Waterproof Phone Pouch](https://www.cnet.com/deals/this-prime-day-deal-brings-45-off-pelican-waterproof-phone-pouch/#ftag=CAD590a51e)
+ - [This Early Prime Day Deal Will Save You Hundreds on BeatBot&#39;s Robot Pool Cleaners](https://www.cnet.com/deals/this-early-prime-day-deal-will-save-you-hundreds-on-beatbots-robot-pool-cleaners/#ftag=CAD590a51e)
+ - [Sony PlayStation PS Stars Program Finally Is Returning to North American Players](https://www.cnet.com/tech/gaming/sony-playstation-ps-stars-program-finally-is-returning-to-north-american-players/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

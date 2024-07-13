@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Device Deals for Prime Day: Massive Discounts on Kindle, Fire TV, Echo Devices and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-13/#ftag=CAD590a51e)
+ - [Galaxy Digital: investment in crypto by VCs and others rose to $3.2B in Q2 2024, the highest amount in a quarter since Q4 2022, and up from $2.5B in Q1 2024 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240713/p12#a240713p12)
  - [Delta 1.6 classic game emulator now available for iPad](https://appleinsider.com/articles/24/07/13/delta-16-classic-game-emulator-now-available-for-ipad?utm_medium=rss)
- - [Best Buy Anti-Prime Day Sale: 33 Deals Not To Miss on Tech, TVs and More](https://www.cnet.com/deals/best-buy-anti-prime-day-sale-2024-07-13/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 45 Early Deals on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-13/#ftag=CAD590a51e)
- - [Top Prime Day Finds Under $10: Get 22 Incredible Bargains at Unbeatable Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $50 on a Ninja Creami With This Early Amazon Prime Day Deal](https://www.cnet.com/deals/ninja-creami-ice-cream-maker-for-50-off-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Best Deals We Found So Far on Tech, Home, TVs and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
+ - [Prime Day Gaming Deals: Save on Nintendo Switch, PS5 Games and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads needs to foster community builders rather than get celebrity creators from platforms like Instagram, who tend not to do well on a microblogging platform &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240713/p11#a240713p11)
  - [Apple wants you to believe it&#39;s serious about gaming, for real this time](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
  - [Best Target Circle Week Deals: Not Long Left To Save Across Apple, Bose, Sony and More](https://www.cnet.com/deals/best-target-anti-prime-day-deals/#ftag=CAD590a51e)
  - [Don&#39;t Miss This Worx Landroid Robotic Lawn Mower for $450 Off Just Before Prime Day](https://www.cnet.com/deals/dont-miss-this-worx-landroid-robotic-lawn-mower-for-450-off-just-before-prime-day/#ftag=CAD590a51e)
- - [Save 20% on the Ooni Outdoor Pizza Oven, Thanks to the Prime Day Sale](https://www.cnet.com/deals/save-20-on-the-ooni-outdoor-pizza-oven-thanks-to-the-prime-day-sale/#ftag=CAD590a51e)
- - [Early Prime Day Sales Bring up to 40% off SwitchBot&#39;s Smart Home Devices](https://www.cnet.com/deals/early-prime-day-sales-bring-up-to-40-off-switchbots-smart-home-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 20% on the Ooni Outdoor Pizza Oven, Thanks to the Prime Day Sale](https://www.cnet.com/deals/save-20-on-the-ooni-outdoor-pizza-oven-thanks-to-the-prime-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

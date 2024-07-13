@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [Attention! degenerates](http://9gag.com/gag/aRBAyLy)<!-- MEMES:END -->
+ - 😝 [Some Guys Have all The Luck](http://9gag.com/gag/awyxD4W)
+ - 😝 [New UK police officers can speak english](http://9gag.com/gag/aoy9GAA)
+ - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 😝 [Attention! degenerates](http://9gag.com/gag/aRBAyLy)
+ - 👉 [Now I know](http://9gag.com/gag/aqy5pqj)<!-- MEMES:END -->
 
 ---
 

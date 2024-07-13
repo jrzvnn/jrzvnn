@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 😝 [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
- - 💣 [Funny tittle](http://9gag.com/gag/adBjr0V)
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 👉 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)<!-- MEMES:END -->
+ - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
+ - 😝 [The chair guardian](http://9gag.com/gag/ae9Gzwq)
+ - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
 
 ---
 

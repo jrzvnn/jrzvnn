@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Kobo’s Elipsa 2E, our favorite e-reader for taking notes, has hit its best price yet](https://www.theverge.com/2024/7/13/24197209/kobo-elipsa-2e-ebook-reader-google-pixel-watch-2-deal-sale)
+ - [The Best Hearing Aids for Seniors &lpar;2024&rpar;](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
  - [Fantasmas’ vision of the future is a dystopian dreamland](https://www.theverge.com/24195902/fantasmas-hbo-max-dystopia)
  - [A look at MetaFilter, which turns 25 on July 14; owner Jessamyn West, who helped stabilize it after near death, doesn&#39;t plan to license its archives to AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240713/p9#a240713p9)
- - [Don&#39;t Miss Out: Score a 33% Discount on Prime Day for the Ring Battery Doorbell Plus](https://www.cnet.com/deals/dont-miss-out-score-a-33-discount-on-prime-day-for-the-ring-battery-doorbell-plus/#ftag=CAD590a51e)
- - [Drown out the noise with Amazon’s Alexa-enabled Echo Buds, available for an incredible 71% off this Prime Day](https://www.cnet.com/deals/drown-out-the-noise-with-amazons-alexa-enabled-echo-buds-available-for-an-incredible-71-off-this-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Miss Out: Score a 33% Discount on Prime Day for the Ring Battery Doorbell Plus](https://www.cnet.com/deals/dont-miss-out-score-a-33-discount-on-prime-day-for-the-ring-battery-doorbell-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

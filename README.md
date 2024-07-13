@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how much Valve pays its staff — and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
+ - [The making of Eno, the first generative feature film](https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview)
  - [The 35 Best Shows on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [America’s Aging Dams Are a Catastrophe Waiting to Happen](https://www.wired.com/story/climate-change-failing-aging-dams-us-america-catastrophe/)
- - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Ahead of a key UK Amazon workers&#39; union vote, a look at Amazon&#39;s efforts to prevent employees from organizing, after fending off most of the similar US attempts &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/240713/p8#a240713p8)
- - [Spyware Users Exposed in Major Data Breach](https://www.wired.com/story/spyware-users-exposed-data-breach/)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

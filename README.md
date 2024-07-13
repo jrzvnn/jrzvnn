@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Apple finally serious about gaming after its latest push?](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
  - [Galaxy Digital: investment in crypto by VCs and others rose to $3.2B in Q2 2024, the highest amount in a quarter since Q4 2022, and up from $2.5B in Q1 2024 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240713/p12#a240713p12)
  - [Best Amazon Device Deals for Prime Day: Massive Discounts on Kindle, Fire TV, Echo Devices and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-13/#ftag=CAD590a51e)
  - [Delta 1.6 classic game emulator now available for iPad](https://appleinsider.com/articles/24/07/13/delta-16-classic-game-emulator-now-available-for-ipad?utm_medium=rss)
- - [Best Buy Anti-Prime Day Sale: 33 Deals Not To Miss on Tech, TVs and More](https://www.cnet.com/deals/best-buy-anti-prime-day-sale-2024-07-13/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 45 Early Deals on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Anti-Prime Day Sale: 33 Deals Not To Miss on Tech, TVs and More](https://www.cnet.com/deals/best-buy-anti-prime-day-sale-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

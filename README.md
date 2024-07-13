@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
- - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
- - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
- - 👉 [Is he right?](http://9gag.com/gag/a9y74mZ)<!-- MEMES:END -->
+ - 😝 [The rest is history.](http://9gag.com/gag/a34Bpp1)
+ - 😝 [And named her America](http://9gag.com/gag/aZZMVoW)
+ - 💣 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 😝 [Did you know that Donald D, didn&#39;t have a speech impediment, until the chapter where he goes to war](http://9gag.com/gag/avyPXXb)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

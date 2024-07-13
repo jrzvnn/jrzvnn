@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
- - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 😝 [...and with that terrible disappointment, it&#39;s time to end.](http://9gag.com/gag/amo9Qy2)
- - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 😝 [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
+ - 💣 [Funny tittle](http://9gag.com/gag/adBjr0V)
+ - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 👉 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)<!-- MEMES:END -->
 
 ---
 

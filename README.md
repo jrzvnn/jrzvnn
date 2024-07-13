@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
- - 😝 [Physics](http://9gag.com/gag/a87MnKY)
- - 💣 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 💣 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
 
 ---
 

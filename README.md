@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Ahead of a key UK Amazon workers&#39; union vote, a look at Amazon&#39;s efforts to prevent employees from organizing, after fending off most of the similar US attempts &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/240713/p8#a240713p8)
- - [Spyware Users Exposed in Major Data Breach](https://www.wired.com/story/spyware-users-exposed-data-breach/)
  - [The Sensations of Slime Are Serious Business](https://www.wired.com/story/slime-business-elmers-glue-sloomoo/)
  - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
+ - [Yes, This Kitchen Tool I Swear by Isn&#39;t for Cooking at All](https://www.cnet.com/deals/yes-this-kitchen-tool-i-swear-by-isnt-for-cooking-at-all/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

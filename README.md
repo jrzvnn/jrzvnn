@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-aeropress/)
+ - [Hurricanes Are Trapping Small Island Nations in Ever-Worsening Spirals of Debt](https://www.wired.com/story/hurricanes-are-trapping-small-island-nations-in-ever-worsening-spirals-of-debt/)
  - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
  - [Prime Day Finds Under $100: Unbeatable Deals on Kitchen Essentials, Tech, and More at Amazon](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/#ftag=CAD590a51e)
- - [Top Prime Day Finds Under $10: 22 Incredible Bargains at Unbeatable Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)
- - [Here’s how much Valve pays its staff — and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
- - [Galaxy Z Flip 6: I Spent My First Day AI-ing My Way Through Paris With It](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-i-spent-my-first-day-ai-ing-my-way-through-paris-with-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Prime Day Finds Under $10: 22 Incredible Bargains at Unbeatable Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

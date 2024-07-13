@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some Guys Have all The Luck](http://9gag.com/gag/awyxD4W)
- - 😝 [New UK police officers can speak english](http://9gag.com/gag/aoy9GAA)
- - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 😝 [Attention! degenerates](http://9gag.com/gag/aRBAyLy)
- - 👉 [Now I know](http://9gag.com/gag/aqy5pqj)<!-- MEMES:END -->
+ - 😝 [Poland not being loland.](http://9gag.com/gag/a7o7g9w)
+ - 😝 [Regret](http://9gag.com/gag/amo9y34)
+ - 💣 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
+ - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 👉 [A gentleman on the streets, but a freak in the sheets...](http://9gag.com/gag/aYQeZv2)<!-- MEMES:END -->
 
 ---
 

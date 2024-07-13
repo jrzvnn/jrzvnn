@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 💣 [Zip Tied](http://9gag.com/gag/aO8VA4D)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)<!-- MEMES:END -->
+ - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
+ - 💣 [Breaking hearts quicker than Boeing breaks parts.](http://9gag.com/gag/a2vmAMO)
+ - 😝 [The lies cannot continue](http://9gag.com/gag/agmVdZv)
+ - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China accounts for 40%+ of sales at Applied Materials and Lam Research, as they boost shipments of legacy chipmaking equipment not targeted by US export curbs &lpar;Kosuke Shimizu/Nikkei Asia&rpar;](http://www.techmeme.com/240713/p2#a240713p2)
  - [Hashed: 1M+ memecoins have been created on Pump.fun, a platform based on the Solana and Blast blockchains, generating $50M+ in revenue since its January launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240713/p1#a240713p1)
  - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
  - [Here&#39;s How to Get an Instant $200 Amazon Gift Card for Prime Day](https://www.cnet.com/personal-finance/heres-how-to-get-an-instant-200-dollar-amazon-gift-card-for-prime-day/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 13, #132](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-132/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Act Fast to Get Apple&#39;s AirTag 4-Pack For Just $75 During Walmart&#39;s Anti-Prime Day Sale](https://www.cnet.com/deals/act-fast-to-get-apples-airtag-4-pack-for-just-75-during-walmarts-anti-prime-day-sale/#ftag=CAD590a51e)
- - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
- - [Save $200 off Expedman&#39;s Self-Cleaning Cat Litter Box Before Amazon Prime Day](https://www.cnet.com/deals/save-200-off-expedmans-self-cleaning-cat-litter-box-before-amazon-prime-day/#ftag=CAD590a51e)
- - [Here&#39;s How Many Solar Panels You&#39;ll Need to Charge Your EV](https://www.cnet.com/home/energy-and-utilities/heres-how-many-solar-panels-youll-need-to-charge-your-ev/#ftag=CAD590a51e)
- - [Source: Google and Samsung&#39;s XR headset, codenamed Moohan and initially planned for Q1 2024, is now set for March 2025, with a developer version in October 2024 &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240713/p13#a240713p13)<!-- TECH:END -->
+ - [Shooting conspiracies trend on X as Musk endorses Trump](https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending)
+ - [Elon Musk ‘Fully Endorses’ Donald Trump After Deadly Rally Shooting](https://www.wired.com/story/elon-musk-endorse-donald-trump-rally-shooting/)
+ - [Catch This Leaf Blower at a Low Price of $76 Ahead of Prime Day](https://www.cnet.com/news/catch-this-leaf-blower-at-a-low-price-of-76-ahead-of-prime-day/#ftag=CAD590a51e)
+ - [Walmart Anti-Prime Day Deals Offer Sensational Savings on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-13/#ftag=CAD590a51e)
+ - [Save Big on the Insta360 X3 Waterproof Action Camera With This Early Prime Day Deal](https://www.cnet.com/deals/save-big-on-the-insta360-x3-waterproof-action-camera-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

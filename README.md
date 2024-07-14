@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 😝 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 👉 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)<!-- MEMES:END -->
+ - 😝 [New UK police officers can speak english](http://9gag.com/gag/aoy9GAA)
+ - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
+ - 💣 [Two missiles over the Caspian sea caught on fishermen&#39;s camera](http://9gag.com/gag/aQz8BKK)
+ - 😝 [Instant karma moment, Dined and dashed, but the idiot forgot her purse](http://9gag.com/gag/aryKLMp)
+ - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 ---
 

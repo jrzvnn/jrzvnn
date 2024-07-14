@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Prime Day Apple Watch deals drive prices down to as low as $189](https://appleinsider.com/articles/24/07/14/best-early-prime-day-apple-watch-deals-drive-prices-down-to-as-low-as-189?utm_medium=rss)
- - [Trump Shooting Conspiracies Are Coming From Every Direction](https://www.wired.com/story/trump-shooting-assassination-conspiracies/)
- - [PS5 vs PS5 Slim: What’s the Difference, and Which One Should You Get?](https://www.wired.com/story/ps5-vs-ps5-slim-whats-the-difference-and-which-one-should-you-get/)
- - [Here&#39;s How Much an Oven Heats Up My Kitchen Versus an Air Fryer](https://www.cnet.com/news/during-extreme-heat-i-ditch-the-grill-in-favor-of-this-cooking-tool/#ftag=CAD590a51e)
- - [Prime Day Headphone Deals: Rock Out to Your Favorite Tunes with Big Savings on Apple, Beats, JBL and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for roughly $23B, which would be its largest acquisition ever &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240714/p5#a240714p5)
+ - [Amazon Prime Live Blog: The Top 132 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Score Philips Hue Smart Lights for as Low as $20 at Woot](https://www.cnet.com/deals/score-philips-hue-smart-lights-for-as-low-as-20-at-woot/#ftag=CAD590a51e)
+ - [Save $500 on the ASUS ROG Zephyrus G14 at Best Buy Today Only](https://www.cnet.com/deals/save-500-on-the-asus-rog-zephyrus-g14-at-best-buy-today-only/#ftag=CAD590a51e)
+ - [Best early Prime Day Apple Watch deals drive prices down to as low as $189](https://appleinsider.com/articles/24/07/14/best-early-prime-day-apple-watch-deals-drive-prices-down-to-as-low-as-189?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [The Mighty Elbow](http://9gag.com/gag/a9y7Gyo)
- - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
+ - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 💣 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 ---
 

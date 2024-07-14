@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 😝 [Bro I can see Jef from here. No thats not Jef. Jef is sick today.](http://9gag.com/gag/aLn25xV)
- - 💣 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
- - 👉 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)<!-- MEMES:END -->
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 💣 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
 
 ---
 

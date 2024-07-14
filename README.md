@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
  - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 👉 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)<!-- MEMES:END -->
+ - 💣 [Batgirl](http://9gag.com/gag/amo94YX)
+ - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 ---
 

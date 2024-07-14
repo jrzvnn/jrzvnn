@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
+ - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
  - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
- - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 💣 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
- - 😝 [Another angle.](http://9gag.com/gag/aByY54z)
- - 👉 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)<!-- MEMES:END -->
+ - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
 
 ---
 

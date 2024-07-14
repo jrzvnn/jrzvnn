@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 😝 [Donald Duck](http://9gag.com/gag/an7NPzL)
  - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
+ - 💣 [He is right, you know](http://9gag.com/gag/ae9Gneq)
+ - 😝 [He is perplexed](http://9gag.com/gag/aD2oK0Z)
  - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
 
 ---

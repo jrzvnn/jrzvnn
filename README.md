@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
- - 😝 [I&#39;ll just leave this here...](http://9gag.com/gag/aQz8LPK)
- - 💣 [Free Rent](http://9gag.com/gag/aO8VOdD)
  - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
+ - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 💣 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
 
 ---
 

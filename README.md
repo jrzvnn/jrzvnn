@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2024: How To Return Items Without a Fee](https://www.cnet.com/tech/services-and-software/amazon-prime-day-2024-how-to-return-items-without-a-fee/#ftag=CAD590a51e)
- - [A look at Polymarket, a crypto-based prediction market with a focus on elections that has raised $70M+ and traded $350M+ in predictions on the US election &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240714/p2#a240714p2)
- - [Intel has been facing mounting pressure to fix Raptor Lake CPU stability issues since February 2024; a game studio accuses Intel of selling &quot;defective&quot; CPUs &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240714/p1#a240714p1)
- - [Amazon Prime Day Live Blog: The Top 116 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
- - [Apple approves the first PC emulator for iOS, UTM SE, weeks after initially rejecting and barring it from being notarized for third-party app stores in the EU &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240713/p15#a240713p15)<!-- TECH:END -->
+ - [Prime Day Headphone Deals: Hear the Best for Less with Apple, Beats, Skullcandy and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Top 116 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Apple Prime Day Deals: Save on AirPods, Watches, iPads and More at Amazon](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-14/#ftag=CAD590a51e)
+ - [The Best Pre-Prime Day Roomba Robot Vacuum Deals Aren&#39;t at Amazon](https://www.cnet.com/deals/the-best-pre-prime-day-roomba-robot-vacuum-deals-arent-at-amazon/#ftag=CAD590a51e)
+ - [Don&#39;t Miss Out on Woot&#39;s Massive Sale on Refurbished iPhones and Apple Watches](https://www.cnet.com/deals/dont-miss-woots-limited-sale-on-refurbished-iphones-and-apple-watches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

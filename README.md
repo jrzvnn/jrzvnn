@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
  - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
- - 👉 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)<!-- MEMES:END -->
+ - 😝 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
+ - 💣 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 😝 [Ultimate Hide &amp; Seek in Japan.](http://9gag.com/gag/aZZM5Z6)
+ - 👉 [Me today](http://9gag.com/gag/ae9GBmq)<!-- MEMES:END -->
 
 ---
 

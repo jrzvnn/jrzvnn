@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The chair guardian](http://9gag.com/gag/ae9Gzwq)
- - 😝 [That&#39;s an odd looking ball](http://9gag.com/gag/aLn2ovA)
- - 💣 [Shadow of Death](http://9gag.com/gag/amo9wX4)
- - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
- - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
+ - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 😝 [How twats start fights](http://9gag.com/gag/aD2o9Gw)
+ - 💣 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
+ - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 👉 [That&#39;s an odd looking ball](http://9gag.com/gag/aLn2ovA)<!-- MEMES:END -->
 
 ---
 

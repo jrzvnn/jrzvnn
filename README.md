@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
- - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
- - 💣 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
  - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 👉 [Donald Trump survives assassination attempt](http://9gag.com/gag/a87MOAZ)<!-- MEMES:END -->
+ - 💣 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [That&#39;s an odd looking ball](http://9gag.com/gag/aLn2ovA)
+ - 👉 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)<!-- MEMES:END -->
 
 ---
 

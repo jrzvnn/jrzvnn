@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 💣 [Trump shooter is pepsi](http://9gag.com/gag/aoy9wLA)
- - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
- - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
+ - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
+ - 😝 [Because you can&#39;t randomly suck on engorged milky tettens when you see them](http://9gag.com/gag/avyPqyd)
+ - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 😝 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
+ - 👉 [The chair guardian](http://9gag.com/gag/ae9Gzwq)<!-- MEMES:END -->
 
 ---
 

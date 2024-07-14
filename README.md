@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Outspent by tech companies, universities are racing to stay relevant in AI research, as some academics turn their focus to less computing-intensive areas of AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240713/p14#a240713p14)
+ - [23andMe DNA Kits Fall As Low as $69 at Amazon Ahead of Prime Day](https://www.cnet.com/deals/23andme-dna-kits-fall-as-low-as-69-at-amazon-ahead-of-amazon-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Top 109 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
  - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
- - [Shooting conspiracies trend on X as Musk endorses Trump](https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending)
- - [Apple Prime Day Deals: Save on AirPods, Watches, iPads and More at Amazon](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-13/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: The Top 109 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 51% on a Shark Robot Vacuum With This Unbeatable Early Prime Day Deal](https://www.cnet.com/deals/save-51-on-a-shark-robot-vacuum-with-this-unbeatable-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

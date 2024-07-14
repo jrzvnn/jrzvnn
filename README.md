@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
- - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
- - 💣 [Donald Trump survives assassination attempt](http://9gag.com/gag/a87MOAZ)
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
+ - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
+ - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
+ - 💣 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 👉 [Donald Trump survives assassination attempt](http://9gag.com/gag/a87MOAZ)<!-- MEMES:END -->
 
 ---
 

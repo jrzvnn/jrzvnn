@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Live Blog: The Top 131 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Keychron B6 and B1 Keyboard Review: Elegant and Inexpensive](https://www.wired.com/review/keychron-b1-pro-and-b6-pro/)
  - [Australian swimmer caught in riptides rescued using his Apple Watch](https://appleinsider.com/articles/24/07/14/australian-swimmer-caught-in-riptides-rescued-using-his-apple-watch?utm_medium=rss)
  - [Tech leaders, including Jeff Bezos, Tim Cook, Elon Musk, Satya Nadella, and Mark Zuckerberg condemned the Trump assassination attempt at a rally on July 13 &lpar;Lloyd Lee/Business Insider&rpar;](http://www.techmeme.com/240714/p4#a240714p4)
- - [Keychron B6 and B1 Keyboard Review: Elegant and Inexpensive](https://www.wired.com/review/keychron-b1-pro-and-b6-pro/)
- - [Inside the AI memory machine](https://www.theverge.com/2024/7/14/24197107/ai-memory-recall-limitless-gemini-vergecast)
- - [The Best Amazon Prime Day Picks Under $10: Nifty Savings on Tech, Essentials, Gifts and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024 Final: Livestream the Spain vs. England Soccer Match From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-final-livestream-the-spain-vs-england-soccer-match-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

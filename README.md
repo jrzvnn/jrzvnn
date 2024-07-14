@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything You See Is a Computational Process, If You Know How to Look](https://www.wired.com/story/everything-you-see-is-a-computational-process-if-you-know-how-to-look/)
- - [Amazon Prime Day Live Blog: The Top 122 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 46 Early Deals You Can Get Right Now on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-14/#ftag=CAD590a51e)
- - [This Is the Reason Your Air Conditioner Sucks, All of a Sudden](https://www.cnet.com/home/kitchen-and-household/how-to-change-the-filter-on-your-ac/#ftag=CAD590a51e)
- - [Hot Dogs In the Air Fryer Will Shift Your Summer Paradigm](https://www.cnet.com/how-to/hot-dogs-in-the-air-fryer-will-shuift-the-entire-summer-paradigm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A supercheap Android phone with looks to spare](https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter)
+ - [Prime Day Deals Under $50: Nab Bargains on Home Tech, Fitness Equipment, Outdoor Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-14/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Top 126 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [The 8 Best Corkscrews for Every Bottle and Budget &lpar;2024&rpar;](https://www.wired.com/gallery/best-corkscrews/)
+ - [Is Walking Exercise? What to Know About Your Hot Girl Walk](https://www.cnet.com/health/fitness/is-walking-exercise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

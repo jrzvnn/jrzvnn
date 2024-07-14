@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 💣 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
+ - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 😝 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
+ - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Another angle.](http://9gag.com/gag/aByY54z)
  - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
- - 😝 [How is this even legal?](http://9gag.com/gag/aRBAp8B)
- - 💣 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
+ - 💣 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 👉 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)<!-- MEMES:END -->
 
 ---
 

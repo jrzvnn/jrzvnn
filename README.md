@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 😝 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
+ - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
+ - 💣 [Shadow of Death](http://9gag.com/gag/amo9wX4)
  - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 💣 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 👉 [Stay away from crazy women .](http://9gag.com/gag/aQz8KM8)<!-- MEMES:END -->
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 ---
 

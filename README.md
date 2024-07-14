@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best early Prime Day Apple Watch deals drive prices down to as low as $189](https://appleinsider.com/articles/24/07/14/best-early-prime-day-apple-watch-deals-drive-prices-down-to-as-low-as-189?utm_medium=rss)
+ - [Trump Shooting Conspiracies Are Coming From Every Direction](https://www.wired.com/story/trump-shooting-assassination-conspiracies/)
+ - [PS5 vs PS5 Slim: What’s the Difference, and Which One Should You Get?](https://www.wired.com/story/ps5-vs-ps5-slim-whats-the-difference-and-which-one-should-you-get/)
  - [Here&#39;s How Much an Oven Heats Up My Kitchen Versus an Air Fryer](https://www.cnet.com/news/during-extreme-heat-i-ditch-the-grill-in-favor-of-this-cooking-tool/#ftag=CAD590a51e)
- - [Prime Day Headphone Deals: Rock Out to Your Favorite Tunes with Big Savings on Apple, Beats, JBL and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)
- - [The 9 Best Fish to Grill](https://www.cnet.com/health/nutrition/best-fish-to-grill/#ftag=CAD590a51e)
- - [Top Prime Day TV Deals: Top 14 Early Discounts on Popular TVs From Samsung, Sony and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-14/#ftag=CAD590a51e)
- - [Keychron B6 and B1 Keyboard Review: Elegant and Inexpensive](https://www.wired.com/review/keychron-b1-pro-and-b6-pro/)<!-- TECH:END -->
+ - [Prime Day Headphone Deals: Rock Out to Your Favorite Tunes with Big Savings on Apple, Beats, JBL and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

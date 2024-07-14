@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secure Your Home With the Ring Alarm 14-Piece Kit at 39% Off Pre-Prime Day](https://www.cnet.com/deals/secure-your-home-with-the-ring-alarm-14-piece-kit-at-39-off-pre-prime-day/#ftag=CAD590a51e)
  - [AT&amp;T reportedly gave $370,000 to a hacker to delete its stolen customer data](https://www.theverge.com/2024/7/14/24198294/att-paid-370000-ransom-hacked-customer-data-deleted-may)
+ - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
  - [An interview with Sam Altman and Arianna Huffington on their startup Thrive AI Health to build an AI health coach, and why AI has become a technology of faith &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240714/p8#a240714p8)
- - [The Blink Mini 2 Is at an All-Time Low Price With This Early Prime Day Deal](https://www.cnet.com/deals/blink-mini-2-at-an-all-time-low-price-with-this-early-prime-day-deal/#ftag=CAD590a51e)
- - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Prime Day Deals: Treat Yourself to Massive Savings on MacBooks, AirPods and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

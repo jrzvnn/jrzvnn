@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
- - 💣 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
- - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
+ - 💣 [Stay away from crazy women .](http://9gag.com/gag/aQz8KM8)
+ - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 ---
 

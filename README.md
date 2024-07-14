@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 😝 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
+ - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 💣 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
  - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
 
 ---

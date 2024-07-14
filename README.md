@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New UK police officers can speak english](http://9gag.com/gag/aoy9GAA)
- - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
- - 💣 [Two missiles over the Caspian sea caught on fishermen&#39;s camera](http://9gag.com/gag/aQz8BKK)
- - 😝 [Instant karma moment, Dined and dashed, but the idiot forgot her purse](http://9gag.com/gag/aryKLMp)
- - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
+ - 👉 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)<!-- MEMES:END -->
 
 ---
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [X&#39;s trending topics surfaced conspiracy theories around Donald Trump&#39;s assassination attempt; YouTube and Facebook primarily directed users to news outlets &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240714/p7#a240714p7)
  - [Best external SSD for Mac in 2024](https://appleinsider.com/inside/mac/best/best-external-ssd-for-mac?utm_medium=rss)
- - [AT&amp;T appears to have paid a member of ShinyHunters $370K+ to delete call records stolen from AT&amp;T&#39;s Snowflake account that exposed &quot;nearly all&quot; of its customers &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240714/p6#a240714p6)
- - [AT&amp;T Paid a Hacker $370,000 to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/)
- - [Amazon Prime Live Blog: The Top 133 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Far-Right Extremists Call for Violence and War After Trump Shooting](https://www.wired.com/story/trump-shooting-far-right-calling-for-violence-war/)
+ - [Starlink&#39;s Satellite Dish is Now $200 Off in 29 States](https://www.cnet.com/home/internet/starlinks-satellite-dish-is-now-200-off-in-29-states/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: The Top 135 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
- - 😝 [First picture of the shooter, if you don&#39;t count the ones where he&#39;s missing some braincells](http://9gag.com/gag/ajPA40R)
- - 💣 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 👉 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)<!-- MEMES:END -->
+ - 😝 [Imagine if women couldn&#39;t wear makip](http://9gag.com/gag/avyPKOd)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 💣 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 👉 [First picture of the shooter, if you don&#39;t count the ones where he&#39;s missing some braincells](http://9gag.com/gag/ajPA40R)<!-- MEMES:END -->
 
 ---
 

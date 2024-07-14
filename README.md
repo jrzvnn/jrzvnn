@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T reportedly gave $370,000 to a hacker to delete its stolen customer data](https://www.theverge.com/2024/7/14/24198294/att-paid-370000-ransom-hacked-customer-data-deleted-may)
  - [An interview with Sam Altman and Arianna Huffington on their startup Thrive AI Health to build an AI health coach, and why AI has become a technology of faith &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240714/p8#a240714p8)
  - [The Blink Mini 2 Is at an All-Time Low Price With This Early Prime Day Deal](https://www.cnet.com/deals/blink-mini-2-at-an-all-time-low-price-with-this-early-prime-day-deal/#ftag=CAD590a51e)
  - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [The Roku Express 4K Plus, Our Favorite 4K Streaming Device, Is Just $27 With This Early Prime Day Deal](https://www.cnet.com/deals/the-roku-express-4k-plus-our-favorite-4k-streaming-device-is-just-27-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

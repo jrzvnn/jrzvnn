@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for roughly $23B, which would be its largest acquisition ever &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240714/p5#a240714p5)
- - [Amazon Prime Live Blog: The Top 132 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Score Philips Hue Smart Lights for as Low as $20 at Woot](https://www.cnet.com/deals/score-philips-hue-smart-lights-for-as-low-as-20-at-woot/#ftag=CAD590a51e)
- - [Save $500 on the ASUS ROG Zephyrus G14 at Best Buy Today Only](https://www.cnet.com/deals/save-500-on-the-asus-rog-zephyrus-g14-at-best-buy-today-only/#ftag=CAD590a51e)
- - [Best early Prime Day Apple Watch deals drive prices down to as low as $189](https://appleinsider.com/articles/24/07/14/best-early-prime-day-apple-watch-deals-drive-prices-down-to-as-low-as-189?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Live Blog: The Top 133 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in New York](https://www.cnet.com/home/energy-and-utilities/new-york-solar-panels/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 46 Earlybird Sales You Can Get Right Now on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-14/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Houston](https://www.cnet.com/home/energy-and-utilities/houston-solar-panels/#ftag=CAD590a51e)
+ - [Best Apple Prime Day Deals: Massive Savings on MacBook, AirPods and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

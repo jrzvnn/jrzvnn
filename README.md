@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gager right now:](http://9gag.com/gag/agmVw4q)
- - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
- - 💣 [Shadow of Death](http://9gag.com/gag/amo9wX4)
- - 😝 [That&#39;s an odd looking ball](http://9gag.com/gag/aLn2ovA)
- - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
+ - 😝 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
+ - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
+ - 💣 [Donald Trump survives assassination attempt](http://9gag.com/gag/a87MOAZ)
+ - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
 
 ---
 

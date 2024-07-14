@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
- - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 💣 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [The chair guardian](http://9gag.com/gag/ae9Gzwq)
  - 😝 [That&#39;s an odd looking ball](http://9gag.com/gag/aLn2ovA)
- - 👉 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)<!-- MEMES:END -->
+ - 💣 [Shadow of Death](http://9gag.com/gag/amo9wX4)
+ - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
+ - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
 
 ---
 

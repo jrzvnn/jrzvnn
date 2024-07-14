@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X&#39;s trending topics surfaced conspiracy theories around Donald Trump&#39;s assassination attempt; YouTube and Facebook primarily directed users to news outlets &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240714/p7#a240714p7)
+ - [Best external SSD for Mac in 2024](https://appleinsider.com/inside/mac/best/best-external-ssd-for-mac?utm_medium=rss)
  - [AT&amp;T appears to have paid a member of ShinyHunters $370K+ to delete call records stolen from AT&amp;T&#39;s Snowflake account that exposed &quot;nearly all&quot; of its customers &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240714/p6#a240714p6)
  - [AT&amp;T Paid a Hacker $370,000 to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/)
- - [Amazon Prime Live Blog: The Top 133 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in New York](https://www.cnet.com/home/energy-and-utilities/new-york-solar-panels/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 46 Earlybird Sales You Can Get Right Now on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Live Blog: The Top 133 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

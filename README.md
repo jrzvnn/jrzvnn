@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
  - 😝 [How is this even legal?](http://9gag.com/gag/aRBAp8B)
- - 💣 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
- - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 💣 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
  - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
 
 ---

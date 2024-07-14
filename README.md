@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
- - 😝 [Because you can&#39;t randomly suck on engorged milky tettens when you see them](http://9gag.com/gag/avyPqyd)
- - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 😝 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
- - 👉 [The chair guardian](http://9gag.com/gag/ae9Gzwq)<!-- MEMES:END -->
+ - 😝 [How twats start fights](http://9gag.com/gag/aD2o9Gw)
+ - 😝 [Trump shooter is pepsi](http://9gag.com/gag/aoy9wLA)
+ - 💣 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 😝 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
+ - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
 
 ---
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple permits first PC emulator for iOS into the App Store](https://appleinsider.com/articles/24/07/14/apple-permits-first-pc-emulator-for-ios-into-the-app-store?utm_medium=rss)
+ - [Keychron B6 and B1 Keyboard Review: Elegant and Inexpensive](https://www.wired.com/review/keychron-b1-pro-and-b6-pro/)
  - [How to Properly Archive Your Digital Files](https://www.wired.com/story/how-to-properly-archive-your-digital-files/)
  - [A supercheap Android phone with looks to spare](https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter)
- - [Prime Day Deals Under $50: Nab Bargains on Home Tech, Fitness Equipment, Outdoor Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-14/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: The Top 126 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Corkscrews for Every Bottle and Budget &lpar;2024&rpar;](https://www.wired.com/gallery/best-corkscrews/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

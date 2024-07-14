@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump shooter is pepsi](http://9gag.com/gag/aoy9wLA)
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
  - 💣 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
- - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
- - 👉 [Bro I can see Jef from here. No thats not Jef. Jef is sick today.](http://9gag.com/gag/aLn25xV)<!-- MEMES:END -->
+ - 😝 [Was in front of him all the time... suspicious Secret service is a waste of money](http://9gag.com/gag/axyjr0n)
+ - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day Headphone Deals: Hear the Best for Less with Apple, Beats, Skullcandy and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: The Top 116 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Apple Prime Day Deals: Save on AirPods, Watches, iPads and More at Amazon](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-14/#ftag=CAD590a51e)
- - [The Best Pre-Prime Day Roomba Robot Vacuum Deals Aren&#39;t at Amazon](https://www.cnet.com/deals/the-best-pre-prime-day-roomba-robot-vacuum-deals-arent-at-amazon/#ftag=CAD590a51e)
- - [Don&#39;t Miss Out on Woot&#39;s Massive Sale on Refurbished iPhones and Apple Watches](https://www.cnet.com/deals/dont-miss-woots-limited-sale-on-refurbished-iphones-and-apple-watches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In their first-ever interview, Shiba Inu leaders Shytoshi Kusama and Kaal Dhairya discuss remaining anonymous, Elon Musk, SHIB&#39;s origins, future plans, and more &lpar;Anil Bhoyrul/Arabian Business&rpar;](http://www.techmeme.com/240714/p3#a240714p3)
+ - [Prime Day Laptop Deals: Big Savings From Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Top 118 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Best Prime Day Monitor Deals: Discounts on Acer, Samsung, Dell and More at Amazon](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-14/#ftag=CAD590a51e)
+ - [Unbeatable Prime Day Gaming Deals: Grab Huge Discounts on PS5, Xbox, Nintendo Switch Titles and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle at Trump rally. He was ignored.](http://9gag.com/gag/aLn257z)
- - 😝 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
- - 💣 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 😝 [Ultimate Hide &amp; Seek in Japan.](http://9gag.com/gag/aZZM5Z6)
- - 👉 [Me today](http://9gag.com/gag/ae9GBmq)<!-- MEMES:END -->
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [How is this even legal?](http://9gag.com/gag/aRBAp8B)
+ - 💣 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
+ - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
- - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
- - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
+ - 😝 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
+ - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 💣 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 👉 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)<!-- MEMES:END -->
 
 ---
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amazon Prime Live Blog: Our Top 136 Deal Discoveries So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Influencers Are Racing to Profit From the Trump Shooting](https://www.wired.com/story/trump-shooting-influencer-merchandise/)
  - [Top Prime Day Finds Under $100: Great Savings on Kitchen Gear, Tech and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-14/#ftag=CAD590a51e)
  - [Best Soda Makers to Buy in 2024](https://www.cnet.com/news/best-soda-maker/#ftag=CAD590a51e)
- - [Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
- - [X&#39;s trending topics surfaced conspiracy theories around Donald Trump&#39;s assassination attempt; YouTube and Facebook primarily directed users to news outlets &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240714/p7#a240714p7)<!-- TECH:END -->
+ - [Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

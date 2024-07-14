@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 👉 [First picture of the shooter, if you don&#39;t count the ones where he&#39;s missing some braincells](http://9gag.com/gag/ajPA40R)<!-- MEMES:END -->
+ - 😝 [Shadow of Death](http://9gag.com/gag/amo9wX4)
+ - 😝 [First picture of the shooter, if you don&#39;t count the ones where he&#39;s missing some braincells](http://9gag.com/gag/ajPA40R)
+ - 💣 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 👉 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)<!-- MEMES:END -->
 
 ---
 

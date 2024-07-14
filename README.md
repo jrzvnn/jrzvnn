@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple approves the first PC emulator for iOS, UTM SE, weeks after initially rejecting and barring it from being notarized for third-party app stores in the EU &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240713/p15#a240713p15)
  - [Save Up to 50% off Govee Smart Lights and Smart Home Tech Ahead of Prime Day](https://www.cnet.com/deals/save-up-to-50-on-colorfully-smart-govee-lights-and-smart-home-tech-during-govees-days-before-prime-day-sale/#ftag=CAD590a51e)
  - [Amazon Prime Day Live Blog: The Top 111 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
  - [Get Amazon Music Unlimited Free for Five Months With This Early Prime Day Deal](https://www.cnet.com/deals/enjoy-five-free-months-of-amazon-music-unlimited-with-this-early-prime-day-deal/#ftag=CAD590a51e)
- - [One of Our Favorite Bose Bluetooth Speakers Is $50 Off With This Early Prime Day Deal](https://www.cnet.com/deals/one-of-our-favorite-bose-bluetooth-speakers-is-50-off-with-this-early-prime-day-deal/#ftag=CAD590a51e)
- - [Outspent by tech companies, universities are racing to stay relevant in AI research, as some academics turn their focus to less computing-intensive areas of AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240713/p14#a240713p14)<!-- TECH:END -->
+ - [One of Our Favorite Bose Bluetooth Speakers Is $50 Off With This Early Prime Day Deal](https://www.cnet.com/deals/one-of-our-favorite-bose-bluetooth-speakers-is-50-off-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

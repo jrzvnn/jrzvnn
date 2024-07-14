@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
- - 💣 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
- - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 👉 [First picture of the shooter, if you don&#39;t count the ones where he&#39;s missing some braincells](http://9gag.com/gag/ajPA40R)<!-- MEMES:END -->
 
 ---
 

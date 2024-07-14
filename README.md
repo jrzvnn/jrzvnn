@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 💣 [When the mushrooms kick in](http://9gag.com/gag/avyPwPW)
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 👉 [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)<!-- MEMES:END -->
+ - 😝 [9gager right now:](http://9gag.com/gag/agmVw4q)
+ - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
+ - 💣 [Shadow of Death](http://9gag.com/gag/amo9wX4)
+ - 😝 [That&#39;s an odd looking ball](http://9gag.com/gag/aLn2ovA)
+ - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
 
 ---
 

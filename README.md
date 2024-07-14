@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
  - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 💣 [Batgirl](http://9gag.com/gag/amo94YX)
- - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 💣 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
  - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 ---

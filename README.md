@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In their first-ever interview, Shiba Inu leaders Shytoshi Kusama and Kaal Dhairya discuss remaining anonymous, Elon Musk, SHIB&#39;s origins, future plans, and more &lpar;Anil Bhoyrul/Arabian Business&rpar;](http://www.techmeme.com/240714/p3#a240714p3)
- - [The Metaverse Was Supposed to Be Your New Office. You’re Still on Zoom](https://www.wired.com/story/metaverse-virtual-reality-office-work-slow-growth/)
- - [Prime Day Laptop Deals: Big Savings From Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: The Top 118 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Best Prime Day Monitor Deals: Discounts on Acer, Samsung, Dell and More at Amazon](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything You See Is a Computational Process, If You Know How to Look](https://www.wired.com/story/everything-you-see-is-a-computational-process-if-you-know-how-to-look/)
+ - [Amazon Prime Day Live Blog: The Top 122 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 46 Early Deals You Can Get Right Now on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-14/#ftag=CAD590a51e)
+ - [This Is the Reason Your Air Conditioner Sucks, All of a Sudden](https://www.cnet.com/home/kitchen-and-household/how-to-change-the-filter-on-your-ac/#ftag=CAD590a51e)
+ - [Hot Dogs In the Air Fryer Will Shift Your Summer Paradigm](https://www.cnet.com/how-to/hot-dogs-in-the-air-fryer-will-shuift-the-entire-summer-paradigm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

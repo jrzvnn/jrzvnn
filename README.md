@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [In their first-ever interview, Shiba Inu leaders Shytoshi Kusama and Kaal Dhairya discuss remaining anonymous, Elon Musk, SHIB&#39;s origins, future plans, and more &lpar;Anil Bhoyrul/Arabian Business&rpar;](http://www.techmeme.com/240714/p3#a240714p3)
+ - [The Metaverse Was Supposed to Be Your New Office. You’re Still on Zoom](https://www.wired.com/story/metaverse-virtual-reality-office-work-slow-growth/)
  - [Prime Day Laptop Deals: Big Savings From Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)
  - [Amazon Prime Day Live Blog: The Top 118 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Best Prime Day Monitor Deals: Discounts on Acer, Samsung, Dell and More at Amazon](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-14/#ftag=CAD590a51e)
- - [Unbeatable Prime Day Gaming Deals: Grab Huge Discounts on PS5, Xbox, Nintendo Switch Titles and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Monitor Deals: Discounts on Acer, Samsung, Dell and More at Amazon](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

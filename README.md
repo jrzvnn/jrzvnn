@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Outspent by tech companies, universities are racing to stay relevant in AI research, as some academics turn their focus to less computing-intensive areas of AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240713/p14#a240713p14)
+ - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
  - [Shooting conspiracies trend on X as Musk endorses Trump](https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending)
- - [Elon Musk ‘Fully Endorses’ Donald Trump After Deadly Rally Shooting](https://www.wired.com/story/elon-musk-endorse-donald-trump-rally-shooting/)
- - [Catch This Leaf Blower at a Low Price of $76 Ahead of Prime Day](https://www.cnet.com/news/catch-this-leaf-blower-at-a-low-price-of-76-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Walmart Anti-Prime Day Deals Offer Sensational Savings on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-13/#ftag=CAD590a51e)
- - [Save Big on the Insta360 X3 Waterproof Action Camera With This Early Prime Day Deal](https://www.cnet.com/deals/save-big-on-the-insta360-x3-waterproof-action-camera-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Prime Day Deals: Save on AirPods, Watches, iPads and More at Amazon](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-13/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: The Top 109 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

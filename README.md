@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Influencers Are Racing to Profit From the Trump Shooting](https://www.wired.com/story/trump-shooting-influencer-merchandise/)
  - [Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
  - [X&#39;s trending topics surfaced conspiracy theories around Donald Trump&#39;s assassination attempt; YouTube and Facebook primarily directed users to news outlets &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240714/p7#a240714p7)
  - [Best external SSD for Mac in 2024](https://appleinsider.com/inside/mac/best/best-external-ssd-for-mac?utm_medium=rss)
- - [Far-Right Extremists Call for Violence and War After Trump Shooting](https://www.wired.com/story/trump-shooting-far-right-calling-for-violence-war/)
- - [Starlink&#39;s Satellite Dish is Now $200 Off in 29 States](https://www.cnet.com/home/internet/starlinks-satellite-dish-is-now-200-off-in-29-states/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Far-Right Extremists Call for Violence and War After Trump Shooting](https://www.wired.com/story/trump-shooting-far-right-calling-for-violence-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

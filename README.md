@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How twats start fights](http://9gag.com/gag/aD2o9Gw)
  - 😝 [Trump shooter is pepsi](http://9gag.com/gag/aoy9wLA)
- - 💣 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
- - 😝 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
- - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
+ - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 💣 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)
+ - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
+ - 👉 [Bro I can see Jef from here. No thats not Jef. Jef is sick today.](http://9gag.com/gag/aLn25xV)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 💣 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
  - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
 
 ---
 

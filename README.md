@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Live Blog: Our Favorite 139 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
  - [Hopefully, this new PARAMOUNT logo won’t stick around for long](https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger)
- - [Best Amazon Device Deals for Prime Day: Find Early Discounts on Kindle, Fire TV, Echo, Ring and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-14/#ftag=CAD590a51e)
- - [A look at Nexus, a Bank for International Settlements-backed project aiming to link domestic smartphone-based payment systems for instant cross-border payments &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240714/p9#a240714p9)
- - [Best Prime Day Headphone Deals: Jam Along to Big Savings on Apple, Beats, JBL and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)
- - [Best Prime Day TV Deals: Save Big on Popular Models From Samsung, Sony and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Early Prime Day Deal: Save $100 on an Apple Watch Series 9](https://www.cnet.com/deals/apple-watch-prime-day-deals-save-100-on-an-apple-watch-series-9/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 46 Discounts You Can Score Right Now on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-14/#ftag=CAD590a51e)
+ - [Best Prime Day Monitor Deals: Get Discounts on Acer, Dell, Samsung and More at Amazon](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kindo, which helps enterprises securely adopt and manage AI tools, raised $20.6M led by Drive Capital, and buys open-source security project WhiteRabbitNeo &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240715/p17#a240715p17)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
  - [Third betas of iOS 18, iPadOS 18 &amp; macOS Sequoia re-issued ahead of public betas](https://appleinsider.com/articles/24/07/15/apple-re-issues-third-betas-of-ios-18-ipados-18-macos-sequoia?utm_medium=rss)
  - [Adaptive, which makes financial management tools for construction companies, raised a $19M Series A led by Emergence Capital, taking its total funding to $26.4M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240715/p16#a240715p16)
- - [Samsung&#39;s Galaxy Buds 3 Look Like AirPods, But That&#39;s Not All That&#39;s New](https://www.cnet.com/tech/mobile/samsungs-galaxy-buds-3-look-like-airpods-but-thats-not-all-thats-new/#ftag=CAD590a51e)
- - [Nearly Every Tolkien Book Is on Sale for Prime Day, Here Are My Favorites](https://www.cnet.com/deals/nearly-every-tolkien-book-is-on-sale-prime-day-here-are-my-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy Buds 3 Look Like AirPods, But That&#39;s Not All That&#39;s New](https://www.cnet.com/tech/mobile/samsungs-galaxy-buds-3-look-like-airpods-but-thats-not-all-thats-new/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

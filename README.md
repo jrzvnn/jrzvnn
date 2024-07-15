@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kaspersky plans to close its US business and eliminate US-based positions, following the country&#39;s ban on the sale of its antivirus tool starting July 20 &lpar;Kim Zetter/ZERO DAY&rpar;](http://www.techmeme.com/240715/p18#a240715p18)
+ - [Grab Shokz OpenRun Pro Bone-Conduction Headphones at $80 Off With This Anti-Prime Day Deal](https://www.cnet.com/deals/grab-shokz-openrun-pro-bone-conduction-headphones-at-80-off-with-this-anti-prime-day-deal/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Kindo, which helps enterprises securely adopt and manage AI tools, raised $20.6M led by Drive Capital, and buys open-source security project WhiteRabbitNeo &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240715/p17#a240715p17)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Third betas of iOS 18, iPadOS 18 &amp; macOS Sequoia re-issued ahead of public betas](https://appleinsider.com/articles/24/07/15/apple-re-issues-third-betas-of-ios-18-ipados-18-macos-sequoia?utm_medium=rss)
- - [Adaptive, which makes financial management tools for construction companies, raised a $19M Series A led by Emergence Capital, taking its total funding to $26.4M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240715/p16#a240715p16)
- - [Samsung&#39;s Galaxy Buds 3 Look Like AirPods, But That&#39;s Not All That&#39;s New](https://www.cnet.com/tech/mobile/samsungs-galaxy-buds-3-look-like-airpods-but-thats-not-all-thats-new/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get 50% Off Amazon Blink Mini Home Security Cameras for a Limited Time](https://www.cnet.com/deals/get-50-off-amazon-blink-mini-home-security-cameras-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

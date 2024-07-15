@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
- - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 😝 [What&#39;s your excuse?](http://9gag.com/gag/a5Q739N)
- - 👉 [King Charles III, deals with shots fired at him in Sydney in 1994. A right good bloke and a top chap](http://9gag.com/gag/adBjmnQ)<!-- MEMES:END -->
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 😝 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
+ - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
 
 ---
 

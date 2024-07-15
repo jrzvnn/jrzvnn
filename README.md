@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)
- - [Best Prime Day Roku Deals: Slick Savings on Streaming Devices and TVs](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-07-15/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 142 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Yandex finalizes a deal to sell its Russian business and renames the new business as Nebius Group; sources say Yandex founder Arkady Volozh will become CEO &lpar;Liezel Hill/Bloomberg&rpar;](http://www.techmeme.com/240715/p6#a240715p6)
- - [Amazon Prime Day Soundbar Deals: Enhance Your Audio Experience With Great Discounts From Sony, Samsung and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Israeli cybersecurity startup Wiz, founded in 2020, and its co-founders, as Alphabet prepares a $23B deal; a source says each co-founder owns 9% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p5#a240715p5)
+ - [The Hidden Ties Between Google and Amazon’s Project Nimbus and Israel&#39;s Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)
+ - [Source: Apple&#39;s India revenue rose 33% YoY to almost $8B between March 2023 and March 2024, and up from $4.1B in March 2022; pricey iPhones were 50%+ of sales &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240715/p4#a240715p4)
+ - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

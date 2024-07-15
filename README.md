@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Index is Wiz&#39;s largest outside shareholder, with an 11%+ stake; Sequoia owns 10%+, Insight owns ~9%, Greenoaks owns ~5%, and Cyberstarts owns ~4% &lpar;The Information&rpar;](http://www.techmeme.com/240715/p24#a240715p24)
+ - [The Trump rally shooting is a cash cow for the dropshippers](https://www.theverge.com/2024/7/15/24199146/donald-trump-rally-shooting-assassination-picture-merch-tshirts-etsy-amazon)
  - [AliveCor suffers another loss in Apple Watch ECG patent battle](https://appleinsider.com/articles/24/07/15/alivecor-suffers-another-loss-in-apple-watch-ecg-patent-battle?utm_medium=rss)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
- - [Hackers Claim to Have Leaked 1.1 TB of Disney Slack Messages](https://www.wired.com/story/disney-slack-leak-nullbulge/)
- - [Amazon Prime Day Live Blog: 163 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: 162 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [iOS 18&#39;s Public Beta Hands On: Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/ios-18s-public-beta-hands-on-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

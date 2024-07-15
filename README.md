@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AliveCor suffers another loss in Apple Watch ECG patent battle](https://appleinsider.com/articles/24/07/15/alivecor-suffers-another-loss-in-apple-watch-ecg-patent-battle?utm_medium=rss)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
  - [Hackers Claim to Have Leaked 1.1 TB of Disney Slack Messages](https://www.wired.com/story/disney-slack-leak-nullbulge/)
- - [Amazon Prime Day Live Blog: 163 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [My Favorite Smart Lamp Is Almost Half Off Ahead of Prime Day](https://www.cnet.com/deals/my-favorite-smart-lamp-is-almost-half-off-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: 163 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

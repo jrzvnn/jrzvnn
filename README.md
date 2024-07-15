@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos Arc 2, Aqara U200, &amp; more Apple smart display leaks on HomeKit Insider](https://appleinsider.com/articles/24/07/15/sonos-arc-2-aqara-u200-more-apple-smart-display-leaks-on-homekit-insider?utm_medium=rss)
+ - [Source: Sequoia emailed LPs in funds raised between 2009 and 2011, offering to buy up to $861M of Stripe shares at $27.51 per share, valuing Stripe at $70B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240715/p12#a240715p12)
  - [Filing: HashiCorp says the company and IBM both received a request from the FTC for more information on IBM&#39;s proposed $6.4B takeover of the software maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p11#a240715p11)
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Change or Clean Your AC Filter to Get That Unit Cooling Again](https://www.cnet.com/home/kitchen-and-household/change-your-ac-filter-and-get-that-unit-cooling-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

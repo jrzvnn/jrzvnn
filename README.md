@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240715/p23#a240715p23)
  - [Nullbulge, a hacktivist group critical of AI-generated art, leaks Slack messages that it claims are from Disney, including about ad campaigns and studio tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p22#a240715p22)
  - [iOS 18 features a new way to recover lost or corrupted photos and videos in Photos app](https://appleinsider.com/articles/24/07/15/ios-18-features-a-new-way-to-recover-lost-or-corrupted-photos-and-videos-in-photos-app?utm_medium=rss)
  - [iOS 18 review: expansive customization with a pinch of AI](https://appleinsider.com/articles/24/07/15/ios-18-review-expansive-customization-with-a-pinch-of-ai?utm_medium=rss)
- - [This HR company tried to treat AI bots like people — it didn’t go over well](https://www.theverge.com/2024/7/15/24199054/lattice-digital-workers-ai)
- - [Apple offers the first public betas of iOS 18 and the other fall operating systems](https://appleinsider.com/articles/24/07/15/apple-offers-the-first-public-betas-of-ios-18-and-the-other-fall-operating-systems?utm_medium=rss)<!-- TECH:END -->
+ - [This HR company tried to treat AI bots like people — it didn’t go over well](https://www.theverge.com/2024/7/15/24199054/lattice-digital-workers-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

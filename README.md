@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Israeli cybersecurity startup Wiz, founded in 2020, and its co-founders, as Alphabet prepares a $23B deal; a source says each co-founder owns 9% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p5#a240715p5)
  - [Source: Apple&#39;s India revenue rose 33% YoY to almost $8B between March 2023 and March 2024, and up from $4.1B in March 2022; pricey iPhones were 50%+ of sales &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240715/p4#a240715p4)
  - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
- - [IDC and Counterpoint say the global smartphone market grew 6.5% and 6%, respectively, in Q2 2024, helped by China&#39;s 618 event discounts; iPhone sales stabilized &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p3#a240715p3)
- - [Best Prime Day Laptop Deals: Score Major Savings From Apple, HP, Acer and More at Amazon and Elsewhere](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IDC and Counterpoint say the global smartphone market grew 6.5% and 6%, respectively, in Q2 2024, helped by China&#39;s 618 event discounts; iPhone sales stabilized &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p3#a240715p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is perplexed](http://9gag.com/gag/aD2oK0Z)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [He is right, you know](http://9gag.com/gag/ae9Gneq)
- - 👉 [Well done camera man \ud83d\udc4f](http://9gag.com/gag/aRBAngy)<!-- MEMES:END -->
+ - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
+ - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
 
 ---
 

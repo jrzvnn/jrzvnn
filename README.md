@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML-funded Eindhoven University faces questions from the US about admitting Chinese students, as the US increasingly seeks to stem China&#39;s chip-making efforts &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240715/p15#a240715p15)
- - [AMD’s new AI chips have a home in HP’s next Copilot Plus laptop](https://www.theverge.com/2024/7/15/24198859/hp-omnibook-ultra-ai-amd-ryzen-microsoft-windows-copilot-plus)
- - [UK regulators are probing the competitiveness of digital wallets provided by Apple, Google, PayPal, and others, and what risks the wallets pose to consumers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240715/p14#a240715p14)
- - [Stream Deck will be compatible with iPad very soon](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
- - [Hands on with the Insta360 Flow Pro gimbal, the first with Apple DockKit tracking](https://appleinsider.com/articles/24/07/15/hands-on-with-the-insta360-flow-pro-gimbal-the-first-with-apple-dockkit-tracking?utm_medium=rss)<!-- TECH:END -->
+ - [FBI is working to break into the phone of the Trump rally shooter](https://www.theverge.com/2024/7/15/24198946/fbi-encryption-phone-trump-attempted-assassination-shooter)
+ - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)
+ - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [Militias Are Recruiting Off of the Trump Shooting](https://www.wired.com/story/militia-recruitment-trump-shooting-assassination-attempt/)
+ - [ASML-funded Eindhoven University faces questions from the US about admitting Chinese students, as the US increasingly seeks to stem China&#39;s chip-making efforts &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240715/p15#a240715p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

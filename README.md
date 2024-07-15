@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Music labels sue Verizon for more than $2.6 billion](https://www.theverge.com/2024/7/15/24199236/verizon-music-copyright-infringement-lawsuit-2-6-billion)
+ - [It’s never been easier for the cops to break into your phone](https://www.theverge.com/24199357/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-quantico-mdtf)
  - [Microsoft researchers unveil SpreadsheetLLM, an encoding method designed to enable LLMs to efficiently understand and analyze complex spreadsheet data &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240715/p25#a240715p25)
  - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
- - [Amazon Prime Day Live Blog: 160 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [DIYers Can Snag Cricut’s Popular Crafting Machines at Up to 43% Off This Prime Day](https://www.cnet.com/deals/diyers-can-snag-cricuts-popular-crafting-machines-on-sale-this-prime-day/#ftag=CAD590a51e)
- - [Sources: Index is Wiz&#39;s largest outside shareholder, with an 11%+ stake; Sequoia owns 10%+, Insight owns ~9%, Greenoaks owns ~5%, and Cyberstarts owns ~4% &lpar;The Information&rpar;](http://www.techmeme.com/240715/p24#a240715p24)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: 160 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

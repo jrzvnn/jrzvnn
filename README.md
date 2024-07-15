@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Appeals court halts return of net neutrality](https://www.theverge.com/2024/7/15/24199126/net-neutrality-rules-temporarily-halted-sixth-circuit)
  - [Google Vids is available to test out Gemini AI-created video presentations](https://www.theverge.com/2024/7/15/24199063/google-vids-gemini-ai-app-workspace-labs-available)
+ - [J.D. Vance Is Donald Trump’s Pick for Vice President](https://www.wired.com/story/jd-vance-trump-vice-president/)
  - [Trump chooses J.D. Vance as VP running mate](https://www.theverge.com/2024/7/15/24199043/trump-vice-president-running-mate-2024-election-jd-vance)
- - [HP Victus](https://www.cnet.com/tech/computing/hp-victus-dpnl/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HP Victus](https://www.cnet.com/tech/computing/hp-victus-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

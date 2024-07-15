@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global iPhone shipments are rising, but Apple is losing share to Chinese rivals](https://appleinsider.com/articles/24/07/15/global-iphone-shipments-are-rising-but-apple-is-losing-share-to-chinese-rivals?utm_medium=rss)
  - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)
- - [Decoding the ABB Nascar EV Prototype](https://www.wired.com/story/nascar-ev-prototype-race-car-abb/)
- - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)
- - [Best Prime Day Roku Deals: Slick Savings on Streaming Devices and TVs](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-07-15/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 142 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Anti-Prime Day Deals: Get Your Huge Savings on Tech Devices, Home Appliances, Outdoor Equipment and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-15/#ftag=CAD590a51e)
+ - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
+ - [Amazon Prime Live Blog: 147 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the AMD Ryzen AI 300 series, its AI PC chip family for laptops, and the Ryzen 9000 series for desktops, both built on the new Zen 5 CPU architecture &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240715/p9#a240715p9)
  - [Best app to upscale and enhance AI art &amp; photos up to 16K [Giveaway]](https://appleinsider.com/articles/24/07/15/best-app-to-upscale-and-enhance-ai-art-photos-up-to-16k-giveaway?utm_medium=rss)
  - [Elgato announces plans for Stream Deck for iPad](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
  - [Terminator heads back to 1997 in first trailer for Netflix anime](https://www.theverge.com/24198816/terminator-zero-trailer-netflix-anime)
- - [The DOJ Antitrust Division isn’t afraid to go to court](https://www.theverge.com/24186099/doj-antitrust-division-litigation-apple-google-ticketmaster)
- - [Best Buy&#39;s Anti-Prime Day Sale Takes Almost 50% Off This 55-Inch TCL 4K TV](https://www.cnet.com/deals/best-buys-anti-prime-day-sale-takes-almost-50-off-this-55-inch-tcl-4k-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The DOJ Antitrust Division isn’t afraid to go to court](https://www.theverge.com/24186099/doj-antitrust-division-litigation-apple-google-ticketmaster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

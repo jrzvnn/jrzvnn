@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decoding the ABB Nascar EV Prototype](https://www.wired.com/story/nascar-ev-prototype-race-car-abb/)
  - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)
  - [Best Prime Day Roku Deals: Slick Savings on Streaming Devices and TVs](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-07-15/#ftag=CAD590a51e)
  - [Amazon Prime Live Blog: 142 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Yandex finalizes a deal to sell its Russian business and renames the new business as Nebius Group; sources say Yandex founder Arkady Volozh will become CEO &lpar;Liezel Hill/Bloomberg&rpar;](http://www.techmeme.com/240715/p6#a240715p6)<!-- TECH:END -->
+ - [Yandex finalizes a deal to sell its Russian business and renames the new business as Nebius Group; sources say Yandex founder Arkady Volozh will become CEO &lpar;Liezel Hill/Bloomberg&rpar;](http://www.techmeme.com/240715/p6#a240715p6)
+ - [Amazon Prime Day Soundbar Deals: Enhance Your Audio Experience With Great Discounts From Sony, Samsung and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

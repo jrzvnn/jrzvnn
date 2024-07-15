@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: OWC Thunderbolt 3 Dock drops to $99 for Prime Day 2024](https://appleinsider.com/articles/24/07/15/lowest-price-ever-owc-thunderbolt-3-dock-drops-to-99-for-prime-day-2024?utm_medium=rss)
+ - [HP unveils the 14&quot; OmniBook Ultra, with an AMD Ryzen AI 300 CPU, one of the first non-Arm powered Copilot+ PCs, for $1,450+, and the OmniStudio X 27 and X 31.5 &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240715/p8#a240715p8)
+ - [Apple&#39;s India business surges by 33% as iPhone sales grow](https://appleinsider.com/articles/24/07/15/apples-india-business-surges-by-33-as-iphone-sales-grow?utm_medium=rss)
  - [Global iPhone shipments are rising, but Apple is losing share to Chinese rivals](https://appleinsider.com/articles/24/07/15/global-iphone-shipments-are-rising-but-apple-is-losing-share-to-chinese-rivals?utm_medium=rss)
- - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)
- - [Walmart Anti-Prime Day Deals: Get Your Huge Savings on Tech Devices, Home Appliances, Outdoor Equipment and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-15/#ftag=CAD590a51e)
- - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
- - [Amazon Prime Live Blog: 147 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

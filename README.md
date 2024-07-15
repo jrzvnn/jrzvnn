@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos Arc 2, Aqara U200, &amp; more Apple smart display leaks on HomeKit Insider](https://appleinsider.com/articles/24/07/15/sonos-arc-2-aqara-u200-more-apple-smart-display-leaks-on-homekit-insider?utm_medium=rss)
- - [Source: Sequoia emailed LPs in funds raised between 2009 and 2011, offering to buy up to $861M of Stripe shares at $27.51 per share, valuing Stripe at $70B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240715/p12#a240715p12)
- - [Filing: HashiCorp says the company and IBM both received a request from the FTC for more information on IBM&#39;s proposed $6.4B takeover of the software maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p11#a240715p11)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)<!-- TECH:END -->
+ - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)
+ - [Verizon and T-Mobile US push back on AT&amp;T asking regulators to give FirstNet more wireless frequencies for emergency responders, calling the idea a ~$14B gift &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p13#a240715p13)
+ - [Keep Your Devices Charged With $50 Off Belkin&#39;s Charging Stand, Thanks to Prime Day](https://www.cnet.com/deals/keep-your-devices-charged-with-50-off-belkins-charging-stand-thanks-to-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: 154 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [Lenovo&#39;s IdeaPad Slim 3 Is Only $340 for a Limited Time](https://www.cnet.com/deals/lenovos-ideapad-slim-3-is-only-340-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

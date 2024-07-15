@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Batgirl](http://9gag.com/gag/amo94YX)
- - 😝 [Arrogance](http://9gag.com/gag/aByY7nA)
- - 💣 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
- - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
- - 👉 [Well well](http://9gag.com/gag/aryKYv5)<!-- MEMES:END -->
+ - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
 
 ---
 

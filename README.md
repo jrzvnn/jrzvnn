@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nullbulge, a hacktivist group critical of AI-generated art, leaks Slack messages that it claims are from Disney, including about ad campaigns and studio tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p22#a240715p22)
  - [iOS 18 features a new way to recover lost or corrupted photos and videos in Photos app](https://appleinsider.com/articles/24/07/15/ios-18-features-a-new-way-to-recover-lost-or-corrupted-photos-and-videos-in-photos-app?utm_medium=rss)
  - [iOS 18 review: expansive customization with a pinch of AI](https://appleinsider.com/articles/24/07/15/ios-18-review-expansive-customization-with-a-pinch-of-ai?utm_medium=rss)
  - [This HR company tried to treat AI bots like people — it didn’t go over well](https://www.theverge.com/2024/7/15/24199054/lattice-digital-workers-ai)
- - [Apple offers the first public betas of iOS 18 and the other fall operating systems](https://appleinsider.com/articles/24/07/15/apple-offers-the-first-public-betas-of-ios-18-and-the-other-fall-operating-systems?utm_medium=rss)
- - [A look at Trump VP pick JD Vance&#39;s tech ties, including working at Peter Thiel&#39;s Mithril Capital and investing in Rumble; Vance advocated repealing Section 230 &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240715/p21#a240715p21)<!-- TECH:END -->
+ - [Apple offers the first public betas of iOS 18 and the other fall operating systems](https://appleinsider.com/articles/24/07/15/apple-offers-the-first-public-betas-of-ios-18-and-the-other-fall-operating-systems?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

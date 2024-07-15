@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
  - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 💣 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 😝 [Trump hating wannabe assassin was in a BlackRock ad](http://9gag.com/gag/adBjGrZ)
- - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
+ - 👉 [Very effective security](http://9gag.com/gag/a1mM9rb)<!-- MEMES:END -->
 
 ---
 

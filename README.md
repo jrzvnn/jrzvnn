@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
- - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
  - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 😝 [50 years ago today, Christine Chubbuck, a 29 year old news reporter became the first person to ever end her life on live television.](http://9gag.com/gag/axyjXnD)
- - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
+ - 😝 [What&#39;s your excuse?](http://9gag.com/gag/a5Q739N)
+ - 👉 [King Charles III, deals with shots fired at him in Sydney in 1994. A right good bloke and a top chap](http://9gag.com/gag/adBjmnQ)<!-- MEMES:END -->
 
 ---
 

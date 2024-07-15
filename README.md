@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)
- - [OneStream, which makes enterprise financial software, aims to raise up to $465.5M in a US IPO, selling 24.5M shares for $17 to $19 for an up to $4.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p10#a240715p10)
- - [Apple launches a black HomePod mini](https://www.theverge.com/2024/7/15/24198857/apple-black-homepod-mini-midnight-price-space-gray)
- - [A look at the AMD Ryzen AI 300 series, its AI PC chip family for laptops, and the Ryzen 9000 series for desktops, both built on the new Zen 5 CPU architecture &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240715/p9#a240715p9)
- - [Best app to upscale and enhance AI art &amp; photos up to 16K [Giveaway]](https://appleinsider.com/articles/24/07/15/best-app-to-upscale-and-enhance-ai-art-photos-up-to-16k-giveaway?utm_medium=rss)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Change or Clean Your AC Filter to Get That Unit Cooling Again](https://www.cnet.com/home/kitchen-and-household/change-your-ac-filter-and-get-that-unit-cooling-again/#ftag=CAD590a51e)
+ - [Bag Apple&#39;s AirTag 4-Pack for Just $75 With This Amazon Prime Day-Busting Discount](https://www.cnet.com/deals/bag-apples-airtag-4-pack-for-just-75-with-this-amazon-prime-day-busting-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

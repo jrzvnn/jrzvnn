@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)
- - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
- - [It Will Soon Be Easier for Americans to Recycle Batteries](https://www.wired.com/story/it-will-soon-be-easier-for-americans-to-recycle-batteries/)
  - [Decoding the ABB Nascar EV Prototype](https://www.wired.com/story/nascar-ev-prototype-race-car-abb/)
- - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)
+ - [Best Prime Day Roku Deals: Slick Savings on Streaming Devices and TVs](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-07-15/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: 142 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

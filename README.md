@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK opens probe into risks of using Apple Wallet and rivals](https://appleinsider.com/articles/24/07/15/uk-opens-probe-into-risks-of-using-apple-wallet-and-rivals?utm_medium=rss)
  - [FBI is working to break into the phone of the Trump rally shooter](https://www.theverge.com/2024/7/15/24198946/fbi-encryption-phone-trump-attempted-assassination-shooter)
  - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Militias Are Recruiting Off of the Trump Shooting](https://www.wired.com/story/militia-recruitment-trump-shooting-assassination-attempt/)
  - [ASML-funded Eindhoven University faces questions from the US about admitting Chinese students, as the US increasingly seeks to stem China&#39;s chip-making efforts &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240715/p15#a240715p15)<!-- TECH:END -->
 

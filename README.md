@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stream Deck will be compatible with iPad very soon](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
+ - [Hands on with the Insta360 Flow Pro gimbal, the first with Apple DockKit tracking](https://appleinsider.com/articles/24/07/15/hands-on-with-the-insta360-flow-pro-gimbal-the-first-with-apple-dockkit-tracking?utm_medium=rss)
  - [Apple Intelligence to drive upgrade cycles for iPhone and iPad](https://appleinsider.com/articles/24/07/15/apple-intelligence-to-drive-upgrade-cycles-for-iphone-and-ipad?utm_medium=rss)
  - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)
- - [Verizon and T-Mobile US push back on AT&amp;T asking regulators to give FirstNet more wireless frequencies for emergency responders, calling the idea a ~$14B gift &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p13#a240715p13)
- - [Keep Your Devices Charged With $50 Off Belkin&#39;s Charging Stand, Thanks to Prime Day](https://www.cnet.com/deals/keep-your-devices-charged-with-50-off-belkins-charging-stand-thanks-to-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 154 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Verizon and T-Mobile US push back on AT&amp;T asking regulators to give FirstNet more wireless frequencies for emergency responders, calling the idea a ~$14B gift &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p13#a240715p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

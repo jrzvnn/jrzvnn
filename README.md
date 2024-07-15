@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Summer Yukata](http://9gag.com/gag/azxj3mm)
- - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
  - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
  - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
 
 ---

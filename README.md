@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: hackers have exploited a Squarespace flaw to hijack domains, apparently mostly from crypto businesses, that were migrated from Google Domains &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240715/p20#a240715p20)
- - [Phone encryption debate will reignite over attempted Trump assassination](https://appleinsider.com/articles/24/07/15/phone-encryption-debate-will-reignite-over-attempted-trump-assassination?utm_medium=rss)
- - [The Google Pixel 9 just leaked again](https://www.theverge.com/2024/7/15/24199073/google-pixel-9-pro-xl-leak-tiktok-videos)
- - [YouTube Music tests &quot;AI-generated conversational radio&quot;, which lets Premium users in the US create a custom radio station by &quot;describing exactly what they want&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240715/p19#a240715p19)
- - [The Trump shooting: what happened and what’s next](https://www.theverge.com/2024/7/15/24199116/trump-shooting-assassination-attempt-rally-presidential-race)<!-- TECH:END -->
+ - [Trump chooses J.D. Vance as VP running mate](https://www.theverge.com/2024/7/15/24199043/trump-vice-president-running-mate-2024-election-jd-vance)
+ - [HP Victus](https://www.cnet.com/tech/computing/hp-victus-dpnl/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [Best Prime Day Amazon Device Deals: Massive Discounts on Blink, Ring, Kindle, Fire TV, Echo and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-15/#ftag=CAD590a51e)
+ - [Researchers: hackers have exploited a Squarespace flaw to hijack domains, apparently mostly from crypto businesses, that were migrated from Google Domains &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240715/p20#a240715p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

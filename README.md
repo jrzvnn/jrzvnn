@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy Black Friday in July sale: Apple Watch $100 off, $749 M2 MacBook Air, $500 off iPad](https://appleinsider.com/articles/24/07/15/best-buy-black-friday-in-july-sale-apple-watch-100-off-749-m2-macbook-air-500-off-ipad?utm_medium=rss)
+ - [An interview with Netflix Chief Content Officer Bela Bajaria, who presides over the company&#39;s $17B content budget, on catering to different tastes and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240715/p2#a240715p2)
  - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [IDC: ~350M people in India still use a feature phone, and 50% of them have a model that costs less than $18; ASP of a smartphone is $255, up 54% from 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240715/p1#a240715p1)
- - [Best TV Sales: Save Big on TVs From Sony, Samsung, LG and More](https://www.cnet.com/deals/best-tv-sales/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals: Score Major Savings From Apple, HP, Acer and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)
- - [Q&amp;A with Imran Ahmed, founder of the Center for Countering Digital Hate, on Elon Musk&#39;s lawsuit, election disinformation, social media harms, AI, and more &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/240714/p10#a240714p10)<!-- TECH:END -->
+ - [IDC: ~350M people in India still use a feature phone, and 50% of them have a model that costs less than $18; the ASP of a smartphone is $255, up 54% from 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240715/p1#a240715p1)
+ - [Best TV Sales: Save Big on TVs From Sony, Samsung, LG and More](https://www.cnet.com/deals/best-tv-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

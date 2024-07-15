@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Pixel 9 just leaked again](https://www.theverge.com/2024/7/15/24199073/google-pixel-9-pro-xl-leak-tiktok-videos)
+ - [YouTube Music tests &quot;AI-generated conversational radio&quot;, which lets Premium users in the US create a custom radio station by &quot;describing exactly what they want&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240715/p19#a240715p19)
+ - [The Trump shooting: what happened and what’s next](https://www.theverge.com/2024/7/15/24199116/trump-shooting-assassination-attempt-rally-presidential-race)
  - [Kaspersky plans to close its US business and eliminate US-based positions, following the country&#39;s ban on the sale of its antivirus tool starting July 20 &lpar;Kim Zetter/ZERO DAY&rpar;](http://www.techmeme.com/240715/p18#a240715p18)
- - [Grab Shokz OpenRun Pro Bone-Conduction Headphones at $80 Off With This Anti-Prime Day Deal](https://www.cnet.com/deals/grab-shokz-openrun-pro-bone-conduction-headphones-at-80-off-with-this-anti-prime-day-deal/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Kindo, which helps enterprises securely adopt and manage AI tools, raised $20.6M led by Drive Capital, and buys open-source security project WhiteRabbitNeo &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240715/p17#a240715p17)
- - [Get 50% Off Amazon Blink Mini Home Security Cameras for a Limited Time](https://www.cnet.com/deals/get-50-off-amazon-blink-mini-home-security-cameras-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab Shokz OpenRun Pro Bone-Conduction Headphones at $80 Off With This Anti-Prime Day Deal](https://www.cnet.com/deals/grab-shokz-openrun-pro-bone-conduction-headphones-at-80-off-with-this-anti-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

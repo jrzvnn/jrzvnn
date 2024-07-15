@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 😝 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
  - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 👉 [Man of culture](http://9gag.com/gag/aQz8Wg7)<!-- MEMES:END -->
+ - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 💣 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 👉 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)<!-- MEMES:END -->
 
 ---
 

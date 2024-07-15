@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Day Live Blog: 163 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [My Favorite Smart Lamp Is Almost Half Off Ahead of Prime Day](https://www.cnet.com/deals/my-favorite-smart-lamp-is-almost-half-off-ahead-of-prime-day/#ftag=CAD590a51e)
  - [Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240715/p23#a240715p23)
- - [Nullbulge, a hacktivist group critical of AI-generated art, leaks Slack messages that it claims are from Disney, including about ad campaigns and studio tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p22#a240715p22)
- - [iOS 18 features a new way to recover lost or corrupted photos and videos in Photos app](https://appleinsider.com/articles/24/07/15/ios-18-features-a-new-way-to-recover-lost-or-corrupted-photos-and-videos-in-photos-app?utm_medium=rss)
- - [iOS 18 review: expansive customization with a pinch of AI](https://appleinsider.com/articles/24/07/15/ios-18-review-expansive-customization-with-a-pinch-of-ai?utm_medium=rss)
- - [This HR company tried to treat AI bots like people — it didn’t go over well](https://www.theverge.com/2024/7/15/24199054/lattice-digital-workers-ai)<!-- TECH:END -->
+ - [Snag Our Favorite Durable Bluetooth Speaker for Only $80 With This Prime Day Deal](https://www.cnet.com/deals/snag-our-favorite-durable-bluetooth-speaker-for-only-80-with-this-prime-day-deal/#ftag=CAD590a51e)
+ - [Nullbulge, a hacktivist group critical of AI-generated art, leaks Slack messages that it claims are from Disney, including about ad campaigns and studio tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p22#a240715p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

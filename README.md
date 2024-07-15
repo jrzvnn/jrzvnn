@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
+ - 😝 [When you know a guy](http://9gag.com/gag/aPADK1g)
+ - 😝 [It should have been me.](http://9gag.com/gag/aryKY25)
+ - 💣 [Conspiracy theorists are on edge](http://9gag.com/gag/a7o7zvr)
+ - 😝 [Trash](http://9gag.com/gag/ayNdOLX)
+ - 👉 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)<!-- MEMES:END -->
 
 ---
 

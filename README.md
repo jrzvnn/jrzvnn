@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
- - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 

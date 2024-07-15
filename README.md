@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 😝 [Trump hating wannabe assassin was in a BlackRock ad](http://9gag.com/gag/adBjGrZ)
  - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 💣 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
  - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
- - 👉 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)<!-- MEMES:END -->
+ - 👉 [Well well](http://9gag.com/gag/aryKYv5)<!-- MEMES:END -->
 
 ---
 

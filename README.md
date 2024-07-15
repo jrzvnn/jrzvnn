@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
- - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
- - 💣 [Shadow of Death](http://9gag.com/gag/amo9wX4)
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
+ - 😝 [Who can confirm?](http://9gag.com/gag/aGyx5gK)
+ - 😝 [That worthless coworker](http://9gag.com/gag/a9y7woj)
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 👉 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)<!-- MEMES:END -->
 
 ---
 

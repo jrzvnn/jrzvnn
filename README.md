@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
- - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
+ - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
+ - 👉 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)<!-- MEMES:END -->
 
 ---
 

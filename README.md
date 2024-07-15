@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
  - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 💣 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
  - 😝 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
- - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
+ - 👉 [Very effective security](http://9gag.com/gag/a1mM9rb)<!-- MEMES:END -->
 
 ---
 

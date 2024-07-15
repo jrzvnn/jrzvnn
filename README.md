@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML-funded Eindhoven University faces questions from the US about admitting Chinese students, as the US increasingly seeks to stem China&#39;s chip-making efforts &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240715/p15#a240715p15)
+ - [AMD’s new AI chips have a home in HP’s next Copilot Plus laptop](https://www.theverge.com/2024/7/15/24198859/hp-omnibook-ultra-ai-amd-ryzen-microsoft-windows-copilot-plus)
+ - [UK regulators are probing the competitiveness of digital wallets provided by Apple, Google, PayPal, and others, and what risks the wallets pose to consumers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240715/p14#a240715p14)
  - [Stream Deck will be compatible with iPad very soon](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
- - [Open Bionics Hero Gauntlet Prosthetic Review: Price, Specs, Availability](https://www.wired.com/review/review-open-bionics-hero-gauntlet/)
- - [Hands on with the Insta360 Flow Pro gimbal, the first with Apple DockKit tracking](https://appleinsider.com/articles/24/07/15/hands-on-with-the-insta360-flow-pro-gimbal-the-first-with-apple-dockkit-tracking?utm_medium=rss)
- - [Apple Intelligence to drive upgrade cycles for iPhone and iPad](https://appleinsider.com/articles/24/07/15/apple-intelligence-to-drive-upgrade-cycles-for-iphone-and-ipad?utm_medium=rss)
- - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with the Insta360 Flow Pro gimbal, the first with Apple DockKit tracking](https://appleinsider.com/articles/24/07/15/hands-on-with-the-insta360-flow-pro-gimbal-the-first-with-apple-dockkit-tracking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

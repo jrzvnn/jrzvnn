@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: HashiCorp says the company and IBM both received a request from the FTC for more information on IBM&#39;s proposed $6.4B takeover of the software maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p11#a240715p11)
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
  - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Change or Clean Your AC Filter to Get That Unit Cooling Again](https://www.cnet.com/home/kitchen-and-household/change-your-ac-filter-and-get-that-unit-cooling-again/#ftag=CAD590a51e)
- - [Bag Apple&#39;s AirTag 4-Pack for Just $75 With This Amazon Prime Day-Busting Discount](https://www.cnet.com/deals/bag-apples-airtag-4-pack-for-just-75-with-this-amazon-prime-day-busting-discount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Change or Clean Your AC Filter to Get That Unit Cooling Again](https://www.cnet.com/home/kitchen-and-household/change-your-ac-filter-and-get-that-unit-cooling-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who can confirm?](http://9gag.com/gag/aGyx5gK)
- - 😝 [That worthless coworker](http://9gag.com/gag/a9y7woj)
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
- - 👉 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)<!-- MEMES:END -->
+ - 😝 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
+ - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
+ - 💣 [Military problem solving](http://9gag.com/gag/aRBAqA7)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 👉 [Yeah..](http://9gag.com/gag/a34BXe5)<!-- MEMES:END -->
 
 ---
 

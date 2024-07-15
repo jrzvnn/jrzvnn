@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These people belong in a psych-ward](http://9gag.com/gag/adBjGDM)
  - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 💣 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 👉 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)<!-- MEMES:END -->
+ - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
+ - 👉 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)<!-- MEMES:END -->
 
 ---
 

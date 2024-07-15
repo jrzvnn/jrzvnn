@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 😝 [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
- - 💣 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
- - 😝 [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 👉 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)<!-- MEMES:END -->
+ - 😝 [He is perplexed](http://9gag.com/gag/aD2oK0Z)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [He is right, you know](http://9gag.com/gag/ae9Gneq)
+ - 👉 [Well done camera man \ud83d\udc4f](http://9gag.com/gag/aRBAngy)<!-- MEMES:END -->
 
 ---
 

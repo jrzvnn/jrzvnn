@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)
+ - [OneStream, which makes enterprise financial software, aims to raise up to $465.5M in a US IPO, selling 24.5M shares for $17 to $19 for an up to $4.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p10#a240715p10)
+ - [Apple launches a black HomePod mini](https://www.theverge.com/2024/7/15/24198857/apple-black-homepod-mini-midnight-price-space-gray)
  - [A look at the AMD Ryzen AI 300 series, its AI PC chip family for laptops, and the Ryzen 9000 series for desktops, both built on the new Zen 5 CPU architecture &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240715/p9#a240715p9)
- - [Best app to upscale and enhance AI art &amp; photos up to 16K [Giveaway]](https://appleinsider.com/articles/24/07/15/best-app-to-upscale-and-enhance-ai-art-photos-up-to-16k-giveaway?utm_medium=rss)
- - [Elgato announces plans for Stream Deck for iPad](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
- - [Terminator heads back to 1997 in first trailer for Netflix anime](https://www.theverge.com/24198816/terminator-zero-trailer-netflix-anime)
- - [The DOJ Antitrust Division isn’t afraid to go to court](https://www.theverge.com/24186099/doj-antitrust-division-litigation-apple-google-ticketmaster)<!-- TECH:END -->
+ - [Best app to upscale and enhance AI art &amp; photos up to 16K [Giveaway]](https://appleinsider.com/articles/24/07/15/best-app-to-upscale-and-enhance-ai-art-photos-up-to-16k-giveaway?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

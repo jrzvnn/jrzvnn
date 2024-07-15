@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hopefully, this new PARAMOUNT logo won’t stick around for long](https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger)
+ - [Best Amazon Device Deals for Prime Day: Find Early Discounts on Kindle, Fire TV, Echo, Ring and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-14/#ftag=CAD590a51e)
  - [A look at Nexus, a Bank for International Settlements-backed project aiming to link domestic smartphone-based payment systems for instant cross-border payments &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240714/p9#a240714p9)
- - [Power Up With This Discounted Baseus Power Bank Ahead of Prime Day](https://www.cnet.com/deals/power-up-with-this-discounted-baseus-power-bank-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Best Target Circle Week Deals: Save on Apple, Lenovo and More Top Tech Products](https://www.cnet.com/deals/best-target-anti-prime-day-deals-2024-07-14/#ftag=CAD590a51e)
- - [Best E-Reader for 2024](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Headphone Deals: Jam Along to Big Savings on Apple, Beats, JBL and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-14/#ftag=CAD590a51e)
+ - [Best Prime Day TV Deals: Save Big on Popular Models From Samsung, Sony and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

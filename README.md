@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [Yeah..](http://9gag.com/gag/a34BXe5)
- - 💣 [Military problem solving](http://9gag.com/gag/aRBAqA7)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [Batgirl](http://9gag.com/gag/amo94YX)<!-- MEMES:END -->
+ - 😝 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
+ - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 💣 [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
 
 ---
 

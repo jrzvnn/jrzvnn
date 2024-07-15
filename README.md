@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
- - [Hackers Claim to Have Leaked 1.1 TB of Disney Slack Messages](https://www.wired.com/story/disney-slack-leak-nullbulge/)
  - [Amazon Prime Day Live Blog: 163 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [My Favorite Smart Lamp Is Almost Half Off Ahead of Prime Day](https://www.cnet.com/deals/my-favorite-smart-lamp-is-almost-half-off-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240715/p23#a240715p23)<!-- TECH:END -->
+ - [Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240715/p23#a240715p23)
+ - [Snag Our Favorite Durable Bluetooth Speaker for Only $80 With This Prime Day Deal](https://www.cnet.com/deals/snag-our-favorite-durable-bluetooth-speaker-for-only-80-with-this-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

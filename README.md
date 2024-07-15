@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
- - 👉 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)<!-- MEMES:END -->
+ - 😝 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
+ - 😝 [Shooter took his time](http://9gag.com/gag/aoy9bRX)
+ - 💣 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)
+ - 😝 [Always try to get up early, even if you&#39;re lazy, you&#39;ll always get something out of it. You don&#39;t know how little things can change you](http://9gag.com/gag/ae9Gv75)
+ - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appeals court halts return of net neutrality](https://www.theverge.com/2024/7/15/24199126/net-neutrality-rules-temporarily-halted-sixth-circuit)
+ - [Google Vids is available to test out Gemini AI-created video presentations](https://www.theverge.com/2024/7/15/24199063/google-vids-gemini-ai-app-workspace-labs-available)
  - [Trump chooses J.D. Vance as VP running mate](https://www.theverge.com/2024/7/15/24199043/trump-vice-president-running-mate-2024-election-jd-vance)
  - [HP Victus](https://www.cnet.com/tech/computing/hp-victus-dpnl/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Best Prime Day Amazon Device Deals: Massive Discounts on Blink, Ring, Kindle, Fire TV, Echo and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-15/#ftag=CAD590a51e)
- - [Researchers: hackers have exploited a Squarespace flaw to hijack domains, apparently mostly from crypto businesses, that were migrated from Google Domains &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240715/p20#a240715p20)<!-- TECH:END -->
+ - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

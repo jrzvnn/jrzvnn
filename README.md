@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Stream Deck will be compatible with iPad very soon](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
+ - [Open Bionics Hero Gauntlet Prosthetic Review: Price, Specs, Availability](https://www.wired.com/review/review-open-bionics-hero-gauntlet/)
  - [Hands on with the Insta360 Flow Pro gimbal, the first with Apple DockKit tracking](https://appleinsider.com/articles/24/07/15/hands-on-with-the-insta360-flow-pro-gimbal-the-first-with-apple-dockkit-tracking?utm_medium=rss)
  - [Apple Intelligence to drive upgrade cycles for iPhone and iPad](https://appleinsider.com/articles/24/07/15/apple-intelligence-to-drive-upgrade-cycles-for-iphone-and-ipad?utm_medium=rss)
- - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)
- - [Verizon and T-Mobile US push back on AT&amp;T asking regulators to give FirstNet more wireless frequencies for emergency responders, calling the idea a ~$14B gift &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p13#a240715p13)<!-- TECH:END -->
+ - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

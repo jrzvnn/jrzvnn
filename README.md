@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
  - [Best Prime Day Laptop Deals: Score Major Savings From Apple, HP, Acer and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)
  - [Q&amp;A with Imran Ahmed, founder of the Center for Countering Digital Hate, on Elon Musk&#39;s lawsuit, election disinformation, social media harms, AI, and more &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/240714/p10#a240714p10)
- - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers and  Puzzle Help for July 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-15/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 15, #134](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-15-134/#ftag=CAD590a51e)<!-- TECH:END -->
 

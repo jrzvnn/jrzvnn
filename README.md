@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
  - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: hackers have exploited a Squarespace flaw to hijack domains, apparently mostly from crypto businesses, that were migrated from Google Domains &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240715/p20#a240715p20)
  - [Phone encryption debate will reignite over attempted Trump assassination](https://appleinsider.com/articles/24/07/15/phone-encryption-debate-will-reignite-over-attempted-trump-assassination?utm_medium=rss)
  - [The Google Pixel 9 just leaked again](https://www.theverge.com/2024/7/15/24199073/google-pixel-9-pro-xl-leak-tiktok-videos)
  - [YouTube Music tests &quot;AI-generated conversational radio&quot;, which lets Premium users in the US create a custom radio station by &quot;describing exactly what they want&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240715/p19#a240715p19)
- - [The Trump shooting: what happened and what’s next](https://www.theverge.com/2024/7/15/24199116/trump-shooting-assassination-attempt-rally-presidential-race)
- - [Kaspersky plans to close its US business and eliminate US-based positions, following the country&#39;s ban on the sale of its antivirus tool starting July 20 &lpar;Kim Zetter/ZERO DAY&rpar;](http://www.techmeme.com/240715/p18#a240715p18)<!-- TECH:END -->
+ - [The Trump shooting: what happened and what’s next](https://www.theverge.com/2024/7/15/24199116/trump-shooting-assassination-attempt-rally-presidential-race)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

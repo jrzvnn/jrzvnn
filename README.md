@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: activist investor Starboard has built a 6.5%+ stake in Match Group and calls for the company to fix margins or pursue sale; MTCH jumps 8%+ after hours &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p26#a240715p26)
  - [iOS 18 might help you rescue photos you thought were gone forever](https://www.theverge.com/2024/7/15/24199358/apple-ios-18-photos-recovered-album)
  - [Music labels sue Verizon for more than $2.6 billion](https://www.theverge.com/2024/7/15/24199236/verizon-music-copyright-infringement-lawsuit-2-6-billion)
  - [It’s never been easier for the cops to break into your phone](https://www.theverge.com/24199357/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-quantico-mdtf)
- - [Microsoft researchers unveil SpreadsheetLLM, an encoding method designed to enable LLMs to efficiently understand and analyze complex spreadsheet data &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240715/p25#a240715p25)
- - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft researchers unveil SpreadsheetLLM, an encoding method designed to enable LLMs to efficiently understand and analyze complex spreadsheet data &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240715/p25#a240715p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

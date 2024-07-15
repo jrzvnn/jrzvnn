@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Prime Day Laptop Deals: Score Major Savings From Apple, HP, Acer and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)
  - [Q&amp;A with Imran Ahmed, founder of the Center for Countering Digital Hate, on Elon Musk&#39;s lawsuit, election disinformation, social media harms, AI, and more &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/240714/p10#a240714p10)
- - [Amazon Prime Live Blog: Our Favorite 136 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Google is reportedly planning its biggest startup acquisition ever](https://www.theverge.com/2024/7/14/24198613/google-wiz-acquisition-talks-23-billion-cloud-cybersecurity)
- - [Hopefully, this new PARAMOUNT logo won’t stick around for long](https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger)
- - [Apple Watch Early Prime Day Deal: Save $100 on an Apple Watch Series 9](https://www.cnet.com/deals/apple-watch-prime-day-deals-save-100-on-an-apple-watch-series-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers and  Puzzle Help for July 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-15/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 15, #134](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-15-134/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

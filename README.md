@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 😝 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
- - 💣 [I&#39;ll just leave this here...](http://9gag.com/gag/aQz8LPK)
- - 😝 [Why do Muricans make everything geh](http://9gag.com/gag/aXP9z1z)
- - 👉 [This game will haunt bro for the rest of his life](http://9gag.com/gag/ajPAw88)<!-- MEMES:END -->
+ - 😝 [Well well](http://9gag.com/gag/aryKYv5)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 💣 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
+ - 😝 [He is perplexed](http://9gag.com/gag/aD2oK0Z)
+ - 👉 [He is right, you know](http://9gag.com/gag/ae9Gneq)<!-- MEMES:END -->
 
 ---
 

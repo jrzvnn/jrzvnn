@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trash](http://9gag.com/gag/ayNdOLX)
- - 😝 [Conspiracy theorists are on edge](http://9gag.com/gag/a7o7zvr)
- - 💣 [The power of sandal](http://9gag.com/gag/aQz8W3r)
- - 😝 [Always try to get up early, even if you&#39;re lazy, you&#39;ll always get something out of it. You don&#39;t know how little things can change you](http://9gag.com/gag/ae9Gv75)
- - 👉 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)<!-- MEMES:END -->
+ - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 😝 [50 years ago today, Christine Chubbuck, a 29 year old news reporter became the first person to ever end her life on live television.](http://9gag.com/gag/axyjXnD)
+ - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
 
 ---
 

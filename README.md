@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Live Blog: Our Favorite 136 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
  - [Google is reportedly planning its biggest startup acquisition ever](https://www.theverge.com/2024/7/14/24198613/google-wiz-acquisition-talks-23-billion-cloud-cybersecurity)
- - [Amazon Prime Live Blog: Our Favorite 139 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
  - [Hopefully, this new PARAMOUNT logo won’t stick around for long](https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger)
  - [Apple Watch Early Prime Day Deal: Save $100 on an Apple Watch Series 9](https://www.cnet.com/deals/apple-watch-prime-day-deals-save-100-on-an-apple-watch-series-9/#ftag=CAD590a51e)
  - [Amazon Prime Day 2024: 46 Discounts You Can Score Right Now on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->

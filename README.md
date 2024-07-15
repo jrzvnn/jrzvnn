@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adaptive, which makes financial management tools for construction companies, raised a $19M Series A led by Emergence Capital, taking its total funding to $26.4M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240715/p16#a240715p16)
+ - [Samsung&#39;s Galaxy Buds 3 Look Like AirPods, But That&#39;s Not All That&#39;s New](https://www.cnet.com/tech/mobile/samsungs-galaxy-buds-3-look-like-airpods-but-thats-not-all-thats-new/#ftag=CAD590a51e)
+ - [Nearly Every Tolkien Book Is on Sale for Prime Day, Here Are My Favorites](https://www.cnet.com/deals/nearly-every-tolkien-book-is-on-sale-prime-day-here-are-my-favorites/#ftag=CAD590a51e)
  - [The Trump rally shooter had a Discord account, company says](https://www.theverge.com/2024/7/15/24198953/donald-trump-assassination-attempt-shooter-discord-social-media)
- - [UK opens probe into risks of using Apple Wallet and rivals](https://appleinsider.com/articles/24/07/15/uk-opens-probe-into-risks-of-using-apple-wallet-and-rivals?utm_medium=rss)
- - [FBI is working to break into the phone of the Trump rally shooter](https://www.theverge.com/2024/7/15/24198946/fbi-encryption-phone-trump-attempted-assassination-shooter)
- - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Day Savings, Delivered: Join CNET&#39;s Text Group for Deals Under $50 Every Day](https://www.cnet.com/tech/services-and-software/prime-day-savings-delivered-cnet-text-group-deals-under-50-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

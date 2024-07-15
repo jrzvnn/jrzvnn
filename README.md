@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you know a guy](http://9gag.com/gag/aPADK1g)
- - 😝 [It should have been me.](http://9gag.com/gag/aryKY25)
- - 💣 [Conspiracy theorists are on edge](http://9gag.com/gag/a7o7zvr)
- - 😝 [Trash](http://9gag.com/gag/ayNdOLX)
- - 👉 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)<!-- MEMES:END -->
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IDC and Counterpoint say the global smartphone market grew 6.5% and 6%, respectively, in Q2 2024, helped by China&#39;s 618 event discounts; iPhone sales stabilized &lpar;Bloomberg&rpar;](http://www.techmeme.com/240715/p3#a240715p3)
  - [Top Prime Day Finds Under $100: Enjoy Massive Discounts on Kitchen Gear, Tech and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-15/#ftag=CAD590a51e)
  - [Best Prime Day Graphics Card Deals: Unbeatable Prices on Nvidia and AMD GPUs](https://www.cnet.com/deals/best-prime-day-graphics-card-deals-2024-07-15/#ftag=CAD590a51e)
  - [Prime Day Deals Under $25: Big Amazon Savings on Everyday Essentials, Gifts and Tech](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-07-15/#ftag=CAD590a51e)
- - [Best Buy Black Friday in July sale: Apple Watch $100 off, $749 M2 MacBook Air, $500 off iPad](https://appleinsider.com/articles/24/07/15/best-buy-black-friday-in-july-sale-apple-watch-100-off-749-m2-macbook-air-500-off-ipad?utm_medium=rss)
- - [An interview with Netflix Chief Content Officer Bela Bajaria, who presides over the company&#39;s $17B content budget, on catering to different tastes and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240715/p2#a240715p2)<!-- TECH:END -->
+ - [Best Buy Black Friday in July sale: Apple Watch $100 off, $749 M2 MacBook Air, $500 off iPad](https://appleinsider.com/articles/24/07/15/best-buy-black-friday-in-july-sale-apple-watch-100-off-749-m2-macbook-air-500-off-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

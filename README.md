@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silicon Valley Heavyweights, Including Elon Musk, Rally Behind J.D. Vance VP Pick](https://www.wired.com/story/silicon-valley-elon-musk-rally-behind-vance-vp/)
- - [US Senate preliminary report: Amazon Prime Day is a &quot;major&quot; cause of worker injuries, with Prime Day 2019 data showing &quot;just under&quot; 45 injuries per 100 workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240716/p18#a240716p18)
- - [OnePlus unveils the $550 OnePlus Pad 2 with a 12.1-inch 3K LCD display, Snapdragon 8 Gen 3, 12GB RAM, 256GB storage, and a 6.49mm thin design, shipping August 1 &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240716/p17#a240716p17)
- - [Wearable Neck Fan](https://www.cnet.com/health/personal-care/wearable-neck-fan-dpnl/#ftag=CAD590a51e)
- - [Xbox Cloud Gaming Comes to Amazon Fire TV video](https://www.cnet.com/videos/xbox-cloud-gaming-comes-to-amazon-fire-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s 14-inch MacBook Pro drops to $1,499](https://appleinsider.com/articles/24/07/16/lowest-price-ever-apples-14-inch-macbook-pro-drops-to-1499?utm_medium=rss)
+ - [Five futures for Apple’s HomeScreenPod](https://www.theverge.com/2024/7/16/24195063/apple-smart-display-rumors-homepod-ipad)
+ - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
+ - [Puerto Rico files $1 billion suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
+ - [Silicon Valley Heavyweights, Including Elon Musk, Rally Behind J.D. Vance VP Pick](https://www.wired.com/story/silicon-valley-elon-musk-rally-behind-vance-vp/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

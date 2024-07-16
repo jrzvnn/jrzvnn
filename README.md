@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ozy Media founder Carlos Watson is guilty of fraud](https://www.theverge.com/2024/7/16/24199947/ozy-media-carlos-watson-found-guilty-fraud)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [You can escape this Royal Caribbean cruise aboard a virtual train ride](https://www.theverge.com/2024/7/16/24199880/royal-caribbean-utopia-of-the-seas-cruise-trains-immersive)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
- - [Google Search Labs is ending its Notes experiment, which debuted in December 2023 as a way to let users leave &quot;helpful tips about an article&quot; directly on Search &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240716/p22#a240716p22)
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
+ - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aKGqrEN)
- - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 👉 [The Buffet girl is the real deal!](http://9gag.com/gag/aqy5Poj)<!-- MEMES:END -->
+ - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
+ - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
- - 😝 [Shooter took his time](http://9gag.com/gag/aoy9bRX)
- - 💣 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)
- - 😝 [Always try to get up early, even if you&#39;re lazy, you&#39;ll always get something out of it. You don&#39;t know how little things can change you](http://9gag.com/gag/ae9Gv75)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 💣 [This is comedy gold.](http://9gag.com/gag/aVvPARn)
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 👉 [Asylum seekers in Germany threaten German homeowners. Now it&#39;s their home.](http://9gag.com/gag/aRBAb72)<!-- MEMES:END -->
 
 ---
 

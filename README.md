@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 💣 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
- - 😝 [Sleep paralysis + nightmare](http://9gag.com/gag/a9y73Oo)
- - 👉 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)<!-- MEMES:END -->
+ - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 💣 [Say hi to paul](http://9gag.com/gag/aO8VgxM)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 👉 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)<!-- MEMES:END -->
 
 ---
 

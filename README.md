@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lee Daniels’ The Deliverance can’t pray away the demons in new trailer](https://www.theverge.com/24199694/netflix-the-deliverance-trailer-lee-daniels)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Adorama is blowing out Apple inventory with a Prime Day coupon, prices start at $109](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)
  - [The best smart home Prime Day deals you can get right now](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)
- - [The Pixel 9 Pro could get a 50MP selfie cam](https://www.theverge.com/2024/7/16/24199655/google-pixel-9-pro-selfie-camera-upgrade-rumors-leak)
- - [The best Kindle deals available for Amazon Prime Day 2024](https://www.theverge.com/good-deals/24199060/amazon-prime-day-kindle-deals-paperwhite-scribe-deal-sale-2024)<!-- TECH:END -->
+ - [The Pixel 9 Pro could get a 50MP selfie cam](https://www.theverge.com/2024/7/16/24199655/google-pixel-9-pro-selfie-camera-upgrade-rumors-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

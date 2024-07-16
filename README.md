@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ex serviemen don&#39;t burn are fkn flag](http://9gag.com/gag/aMVG3w1)
- - 😝 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
  - 💣 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 😝 [Nice](http://9gag.com/gag/a1mM978)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
  - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
 
 ---

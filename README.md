@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [Vectara, which offers AI &quot;grounded search&quot;, or Retrieval Augmented Generation, tools to enterprise, raised a $25M Series A, following a $28.5M seed in 2023 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240716/p12#a240716p12)
  - [In iPadOS 18, the whole iPad is a calculator app](https://www.theverge.com/2024/7/16/24194423/math-notes-ipad-ios-18-calculator-app)
  - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
- - [Picking the perfect portable console](https://www.theverge.com/2024/7/16/24199603/handheld-console-steam-deck-games-smart-glasses-vergecast)
- - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
+ - [Picking the perfect portable console](https://www.theverge.com/2024/7/16/24199603/handheld-console-steam-deck-games-smart-glasses-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

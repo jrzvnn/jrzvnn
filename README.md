@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA opens a formal investigation into Microsoft&#39;s Inflection AI investment, and sets a September 11 deadline on opening an in-depth investigation &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240716/p11#a240716p11)
  - [Amazon quietly unveils $299 iPad 10th Gen deal on Prime Day](https://appleinsider.com/articles/24/07/16/amazon-quietly-unveils-299-ipad-10th-gen-deal-on-prime-day?utm_medium=rss)
  - [TSMC 2nm processor won&#39;t arrive until the iPhone 18 Pro](https://appleinsider.com/articles/24/07/16/tsmc-2nm-processor-wont-arrive-until-the-iphone-18-pro?utm_medium=rss)
  - [Apple is finally embracing Android’s chaos](https://www.theverge.com/24196806/ios-18-android-chaos)
- - [Amazon Prime Day 2024: The Best 160 Deals You Can&#39;t Miss](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)
- - [Best Amazon Prime Day Deals Under $100: Save Copious Amounts of Money on Kitchen Gear, Tech and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: The Best 160 Deals You Can&#39;t Miss](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple seeds fourth developer betas for its current-gen operating systems](https://appleinsider.com/articles/24/07/16/apple-seeds-fourth-developer-betas-for-its-current-gen-operating-systems?utm_medium=rss)
  - [Lowest price ever: Apple&#39;s 14-inch MacBook Pro drops to $1,499](https://appleinsider.com/articles/24/07/16/lowest-price-ever-apples-14-inch-macbook-pro-drops-to-1499?utm_medium=rss)
+ - [Best Amazon Prime Day Apple Watch Deals &lpar;2024&rpar;](https://www.wired.com/story/apple-watch-deals-amazon-prime-day-2024/)
  - [Five futures for Apple’s HomeScreenPod](https://www.theverge.com/2024/7/16/24195063/apple-smart-display-rumors-homepod-ipad)
- - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
- - [Puerto Rico files $1 billion suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)<!-- TECH:END -->
+ - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird Buddy’s new AI update lets you name your backyard’s frequent flyers](https://www.theverge.com/2024/7/16/24199590/bird-buddy-ai-update-name-recognition)
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
- - [Sources: Marc Andreessen and Ben Horowitz have told a16z staff in recent days that they plan to make large donations to PACs supporting Donald Trump &lpar;The Information&rpar;](http://www.techmeme.com/240716/p13#a240716p13)
- - [The best smart home Prime Day deals you can get right now](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)<!-- TECH:END -->
+ - [Amazon Prime Day: Supersize your Mac desktop with these monitor deals](https://appleinsider.com/articles/24/07/16/amazon-prime-day-supersize-your-mac-desktop-with-these-monitor-deals?utm_medium=rss)
+ - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [The OnePlus Pad 2’s vibrating stylus feels almost like writing on paper](https://www.theverge.com/24199198/oneplus-pad-2-tablet-android-stylo-price-release-date)
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

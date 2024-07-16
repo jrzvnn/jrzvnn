@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Larian Studios teases all the new features coming in the next Baldur’s Gate 3 patch](https://www.theverge.com/2024/7/16/24199957/baldurs-gate-3-patch-7-coming-soon)
- - [The 272 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-2024/)
- - [Elon Musk says that X&#39;s headquarters will move to Austin, after he protested a new California law that bans schools&#39; transgender notification policies &lpar;Laura Waxmann/San Francisco Chronicle&rpar;](http://www.techmeme.com/240716/p21#a240716p21)
- - [Here are the best Amazon Prime Day deals we’ve found on laptops](https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook)
- - [The 34 Best Prime Day Deals Under $100 &lpar;2024&rpar;](https://www.wired.com/gallery/best-prime-day-deals-under-100/)<!-- TECH:END -->
+ - [You can escape this Royal Caribbean cruise aboard a virtual train ride](https://www.theverge.com/2024/7/16/24199880/royal-caribbean-utopia-of-the-seas-cruise-trains-immersive)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
+ - [Google Search Labs is ending its Notes experiment, which debuted in December 2023 as a way to let users leave &quot;helpful tips about an article&quot; directly on Search &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240716/p22#a240716p22)
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Marc Andreessen and Ben Horowitz have told a16z staff in recent days that they plan to make large donations to PACs supporting Donald Trump &lpar;The Information&rpar;](http://www.techmeme.com/240716/p13#a240716p13)
+ - [Apple stock overtakes Microsoft on increased AI expectations](https://appleinsider.com/articles/24/07/16/apple-stock-overtakes-microsoft-on-increased-ai-expectations?utm_medium=rss)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [Vectara, which offers AI &quot;grounded search&quot;, or Retrieval Augmented Generation, tools to enterprise, raised a $25M Series A, following a $28.5M seed in 2023 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240716/p12#a240716p12)
- - [In iPadOS 18, the whole iPad is a calculator app](https://www.theverge.com/2024/7/16/24194423/math-notes-ipad-ios-18-calculator-app)
- - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
- - [Picking the perfect portable console](https://www.theverge.com/2024/7/16/24199603/handheld-console-steam-deck-games-smart-glasses-vergecast)<!-- TECH:END -->
+ - [In iPadOS 18, the whole iPad is a calculator app](https://www.theverge.com/2024/7/16/24194423/math-notes-ipad-ios-18-calculator-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
  - [Elon Musk is moving X and SpaceX to Texas](https://www.theverge.com/2024/7/16/24200039/elon-musk-moving-x-spacex-headquarters-texas)
  - [San Jose-based DreamBig, which develops chiplet platforms and was founded in 2019, raised a $75M equity round co-led by Samsung Catalyst Fund and Sehat Sutardja &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240716/p24#a240716p24)
  - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
- - [The Best Clue Is Harry Potter Clue, and It&#39;s $11 Off for Amazon Prime Day](https://www.cnet.com/deals/the-best-clue-is-harry-potter-clue-and-its-11-off-for-amazon-prime-day/#ftag=CAD590a51e)
- - [Pick Up Some Awesome Nanoleaf Smart Lights During Prime Day for Up to 44% Off](https://www.cnet.com/deals/pick-up-some-awesome-nanoleaf-smart-lights-during-prime-day-for-up-to-44-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Clue Is Harry Potter Clue, and It&#39;s $11 Off for Amazon Prime Day](https://www.cnet.com/deals/the-best-clue-is-harry-potter-clue-and-its-11-off-for-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

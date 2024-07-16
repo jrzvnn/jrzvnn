@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always try to get up early, even if you&#39;re lazy, you&#39;ll always get something out of it. You don&#39;t know how little things can change you](http://9gag.com/gag/ae9Gv75)
- - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 💣 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
- - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
- - 👉 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)<!-- MEMES:END -->
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 💣 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
+ - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
 
 ---
 

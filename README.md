@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Day Live Blog: 158 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Twitch streamer Ibai Llanos&#39; fourth boxing tournament in Madrid, with matches between influencers, set a record 3.85M+ concurrent viewers at its peak on July 13 &lpar;Adam Bumas/Wired&rpar;](http://www.techmeme.com/240715/p31#a240715p31)
  - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include Palantir&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)
  - [Mexican fintech OCN, formerly known as OneCarNow, which offers car rentals for gig workers in Mexico and the US, raised a $86M Series A in equity and debt &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/240715/p29#a240715p29)
- - [Amazon Prime Day Live Blog: 154 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [iOS 18, iPadOS 18, and macOS Sequoia add a &quot;Recovered&quot; album to the Photos app that shows previously lost or damaged photos and videos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240715/p28#a240715p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

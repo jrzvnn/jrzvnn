@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is ending an experiment that let you annotate search results](https://www.theverge.com/2024/7/16/24199822/google-search-notes-labs-experiment-ends)
- - [Apple partners with leading chumbox provider to sell ads](https://www.theverge.com/2024/7/16/24199744/apple-news-stocks-apps-chumbox-ads-taboola)
- - [Save up to $80 on the Oura Ring Gen 3 for Prime Day](https://www.cnet.com/deals/save-up-to-80-on-the-oura-ring-gen-3-for-prime-day/#ftag=CAD590a51e)
- - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 140+ Best Amazon Prime Deals Available to Shop Now](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple products eligible for US tax free holiday listed for eight states](https://appleinsider.com/articles/24/07/16/apple-products-eligible-for-us-tax-free-holiday-listed-for-eight-states?utm_medium=rss)
+ - [Instagram now lets you add up to 20 songs to your Reels](https://www.theverge.com/2024/7/16/24199820/instagram-reels-multitrack-support-20-songs)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [Google is ending an experiment that let you annotate search results](https://www.theverge.com/2024/7/16/24199822/google-search-notes-labs-experiment-ends)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

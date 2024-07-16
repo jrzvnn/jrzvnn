@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral launches two 7B LLMs: Codestral Mamba, for code generation, based on the Mamba architecture, and Mathstral, for math reasoning and scientific discovery &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240716/p25#a240716p25)
+ - [Prime Day deals: Oura Ring receives first-ever major 20% price cut at Amazon](https://appleinsider.com/articles/24/07/16/prime-day-deals-oura-ring-receives-first-ever-major-20-price-cut-at-amazon?utm_medium=rss)
  - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals You Can Grab Now. Vetted By Us](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)
  - [Apple gets ever closer to a folding iPhone](https://appleinsider.com/articles/24/07/16/apple-gets-ever-closer-to-a-folding-iphone?utm_medium=rss)
- - [Lab-Grown Meat for Pets Was Just Approved in the UK](https://www.wired.com/story/lab-grown-meat-for-pets-was-just-approved-in-the-uk-meatly/)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
- - [The 5 Best Multivitamins for Men in 2024](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lab-Grown Meat for Pets Was Just Approved in the UK](https://www.wired.com/story/lab-grown-meat-for-pets-was-just-approved-in-the-uk-meatly/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

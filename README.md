@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
- - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 💣 [This is comedy gold.](http://9gag.com/gag/aVvPARn)
- - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 👉 [Asylum seekers in Germany threaten German homeowners. Now it&#39;s their home.](http://9gag.com/gag/aRBAb72)<!-- MEMES:END -->
+ - 😝 [Ex serviemen don&#39;t burn are fkn flag](http://9gag.com/gag/aMVG3w1)
+ - 😝 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
+ - 💣 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 😝 [Nice](http://9gag.com/gag/a1mM978)
+ - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
 
 ---
 

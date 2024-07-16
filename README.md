@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
  - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 💣 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
+ - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
 
 ---
 

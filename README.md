@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 💣 [Say hi to paul](http://9gag.com/gag/aO8VgxM)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)<!-- MEMES:END -->
+ - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
+ - 💣 [As usual, blaming others for their wrongdoing.](http://9gag.com/gag/a5Q74Dg)
+ - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
 
 ---
 

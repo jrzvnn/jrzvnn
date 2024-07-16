@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 😝 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
- - 💣 [Tight and short skirt](http://9gag.com/gag/ae9GvqB)
- - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - 😝 [As usual, blaming others for their wrongdoing.](http://9gag.com/gag/a5Q74Dg)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [Asylum seekers in Germany threaten German homeowners. Now it&#39;s their home.](http://9gag.com/gag/aRBAb72)
+ - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
 
 ---
 

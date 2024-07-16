@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are a handful of Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [Taboola&#39;s CEO says the company has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps; TBLA stock jumps 9%+ &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240716/p14#a240716p14)
+ - [All Verge shirts, sweatshirts, mugs, and stickers are 30 percent off today](https://www.theverge.com/2024/7/16/24187558/verge-store-deal-merch-amazon-prime-day)
  - [Sling TV adds 4K streaming for free](https://www.theverge.com/2024/7/16/24199631/sling-tv-4k-stream-mlb-all-star-game-broadcast-fox-sports)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
- - [Supporters Believe ‘Hand Of God’ Saved Trump](https://www.wired.com/story/supporters-believe-hand-of-god-saved-trump/)
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [Amazon Prime Day: Supersize your Mac desktop with these monitor deals](https://appleinsider.com/articles/24/07/16/amazon-prime-day-supersize-your-mac-desktop-with-these-monitor-deals?utm_medium=rss)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/a1mM978)
- - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 💣 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
+ - 💣 [Tight and short skirt](http://9gag.com/gag/ae9GvqB)
+ - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
 
 ---
 

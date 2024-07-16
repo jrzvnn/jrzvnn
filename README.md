@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target &quot;burdensome&quot; AI regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240716/p19#a240716p19)
+ - [J.D. Vance is anti-Big Tech, pro-crypto](https://www.theverge.com/24199314/jd-vance-donald-trump-vp-antitrust-big-tech-ftc-lina-khan-elizabeth-warren-google)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Here’s a very clear real-world look at Google’s Pixel 9 Pro Fold](https://www.theverge.com/2024/7/16/24199848/pixel-9-pro-fold-leaked-photos-design-specs)<!-- TECH:END -->
+ - [My Favorite Coffee Mug Warmer Is 35% Off for Prime Day](https://www.cnet.com/deals/my-favorite-coffee-mug-warmer-is-35-off-for-prime-day/#ftag=CAD590a51e)
+ - [The Only Wireless Headphones You Need Outdoors Are $55 off for Amazon Prime Day](https://www.cnet.com/deals/the-only-wireless-headphones-you-need-outdoors-are-55-off-for-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

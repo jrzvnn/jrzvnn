@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 💣 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 😝 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
+ - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [Spain 2 - England 1](http://9gag.com/gag/amo9E6y)
  - 👉 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)<!-- MEMES:END -->
 
 ---

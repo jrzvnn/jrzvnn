@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Here’s a very clear real-world look at Google’s Pixel 9 Pro Fold](https://www.theverge.com/2024/7/16/24199848/pixel-9-pro-fold-leaked-photos-design-specs)
- - [Apple products eligible for US tax free holiday listed for eight states](https://appleinsider.com/articles/24/07/16/apple-products-eligible-for-us-tax-free-holiday-listed-for-eight-states?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s a very clear real-world look at Google’s Pixel 9 Pro Fold](https://www.theverge.com/2024/7/16/24199848/pixel-9-pro-fold-leaked-photos-design-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

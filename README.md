@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Andrew Ryan with another quote i agree with](http://9gag.com/gag/ajPAbzq)
- - 😝 [And they say that the culture of my swamp and jungle peoples is subhuman when compared to desert peoples](http://9gag.com/gag/a34Bm55)
- - 💣 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
- - 😝 [Here it comes](http://9gag.com/gag/apRv4wB)
- - 👉 [Yeah..](http://9gag.com/gag/a34BXe5)<!-- MEMES:END -->
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 😝 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
+ - 💣 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 

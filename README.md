@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: Apple, Nvidia, Anthropic, and others trained their AI on a dataset that contained YouTube video transcripts, including from the WSJ, MrBeast, MIT &lpar;Proof&rpar;](http://www.techmeme.com/240716/p15#a240716p15)
  - [Minecraft-branded Beats Solo 4 creeps to release on July 18](https://appleinsider.com/articles/24/07/16/minecraft-branded-beats-solo-4-creeps-to-release-on-july-18?utm_medium=rss)
  - [Bluetti: The best home electric generator for reliable power 2024](https://appleinsider.com/articles/24/07/16/bluetti-the-best-home-electric-generator-for-reliable-power-2024?utm_medium=rss)
- - [Apple, Anthropic and other companies used YouTube videos to train AI](https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright)
- - [Supplier used controversial sources for training Apple Intelligence](https://appleinsider.com/articles/24/07/16/supplier-used-controversial-sources-for-training-apple-intelligence?utm_medium=rss)
- - [Here are a handful of Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)<!-- TECH:END -->
+ - [Apple, Anthropic, and other companies used YouTube videos to train AI](https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright)
+ - [Supplier used controversial sources for training Apple Intelligence](https://appleinsider.com/articles/24/07/16/supplier-used-controversial-sources-for-training-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

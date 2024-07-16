@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
  - [Mistral launches two 7B LLMs: Codestral Mamba, for code generation, based on the Mamba architecture, and Mathstral, for math reasoning and scientific discovery &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240716/p25#a240716p25)
  - [Prime Day deals: Oura Ring receives first-ever major 20% price cut at Amazon](https://appleinsider.com/articles/24/07/16/prime-day-deals-oura-ring-receives-first-ever-major-20-price-cut-at-amazon?utm_medium=rss)
- - [Apple gets ever closer to a folding iPhone](https://appleinsider.com/articles/24/07/16/apple-gets-ever-closer-to-a-folding-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals You Can Grab Now. Vetted By Us](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

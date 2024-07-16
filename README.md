@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 😝 [Someone&#39;s got a new best friend.](http://9gag.com/gag/aD2op97)
- - 💣 [I don&#39;t understand](http://9gag.com/gag/aGyxP55)
- - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [The man took a bullet and he can also take a joke.](http://9gag.com/gag/aryN1Np)
+ - 💣 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
 
 ---
 

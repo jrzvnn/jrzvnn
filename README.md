@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 💣 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
+ - 😝 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
+ - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
+ - 💣 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
+ - 😝 [Would you ?](http://9gag.com/gag/aGyxWrX)
+ - 👉 [What a QR Code](http://9gag.com/gag/aoy9BRe)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Calling All Pet Owners—These Are the 11 Best Prime Day Pet Deals on Dog Beds, Cat Water Fountains, and More](https://www.wired.com/gallery/best-prime-day-deals-on-pet-gear-2024/)
- - [The UK CMA opens a formal investigation into Microsoft&#39;s Inflection AI investment, and sets a September 11 deadline on opening an in-depth investigation &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240716/p11#a240716p11)
- - [A Tiny Texas Village Is About To Annex a Gigantic Bitcoin Mine](https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/)
- - [Amazon quietly unveils $299 iPad 10th Gen deal on Prime Day](https://appleinsider.com/articles/24/07/16/amazon-quietly-unveils-299-ipad-10th-gen-deal-on-prime-day?utm_medium=rss)
- - [The 25 Best Prime Day Deals Under $100 &lpar;2024&rpar;](https://www.wired.com/gallery/best-prime-day-deals-under-100/)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [RCS on the iPhone is almost the solution to our green-bubble nightmare](https://www.theverge.com/2024/7/16/24194362/rcs-iphone-ios-18-preview)
+ - [Porsche fills out Macan EV lineup with rear-wheel drive models](https://www.theverge.com/2024/7/16/24199178/porsche-macan-ev-rwd-rear-wheel-drive-4s-specs-price)
+ - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [Calling All Pet Owners—These Are the 11 Best Prime Day Pet Deals on Dog Beds, Cat Water Fountains, and More](https://www.wired.com/gallery/best-prime-day-deals-on-pet-gear-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

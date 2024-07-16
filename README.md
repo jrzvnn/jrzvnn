@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk is moving X and SpaceX to Texas](https://www.theverge.com/2024/7/16/24200039/elon-musk-moving-x-spacex-headquarters-texas)
+ - [San Jose-based DreamBig, which develops chiplet platforms and was founded in 2019, raised a $75M equity round co-led by Samsung Catalyst Fund and Sehat Sutardja &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240716/p24#a240716p24)
  - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
- - [Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept &lpar;Reuters&rpar;](http://www.techmeme.com/240716/p23#a240716p23)
- - [Apple Store app gets a refresh, adds in a new &#39;Go Further&#39; tab, videos, and more](https://appleinsider.com/articles/24/07/16/apple-store-app-gets-a-refresh-adds-in-a-new-go-further-tab-videos-and-more?utm_medium=rss)
- - [The Netflix app for Quest headsets is no more](https://www.theverge.com/2024/7/16/24199965/the-netflix-app-for-quest-headsets-is-no-more)
- - [The 5 Best Prime Day 2024 TV Deals Curated By WIRED&#39;s A/V Experts](https://www.wired.com/story/top-5-tv-prime-day-deals/)<!-- TECH:END -->
+ - [The Best Clue Is Harry Potter Clue, and It&#39;s $11 Off for Amazon Prime Day](https://www.cnet.com/deals/the-best-clue-is-harry-potter-clue-and-its-11-off-for-amazon-prime-day/#ftag=CAD590a51e)
+ - [Pick Up Some Awesome Nanoleaf Smart Lights During Prime Day for Up to 44% Off](https://www.cnet.com/deals/pick-up-some-awesome-nanoleaf-smart-lights-during-prime-day-for-up-to-44-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
+ - 😝 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
  - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
- - 💣 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
- - 😝 [Would you ?](http://9gag.com/gag/aGyxWrX)
- - 👉 [What a QR Code](http://9gag.com/gag/aoy9BRe)<!-- MEMES:END -->
+ - 💣 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
+ - 😝 [What a QR Code](http://9gag.com/gag/aoy9BRe)
+ - 👉 [A well earned victory after losing a thousand times over](http://9gag.com/gag/a9y73Y6)<!-- MEMES:END -->
 
 ---
 

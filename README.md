@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
  - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 💣 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 💣 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 👉 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)<!-- MEMES:END -->
 
 ---
 

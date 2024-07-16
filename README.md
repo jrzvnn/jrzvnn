@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google offered CISPE ~&amp;euro;455M worth of Google cloud licenses and &amp;euro;14M in cash in a deal for CISPE to maintain its antitrust complaint against Microsoft &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240716/p2#a240716p2)
  - [Sources: China&#39;s CAC requires AI companies to prepare between 20K and 70K questions designed to test whether their AI models produce safe answers before release &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240716/p1#a240716p1)
  - [Amazon Prime Day Live Blog: 162 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)
- - [Adorama is blowing out Apple inventory with a Prime Day coupon, prices start at $109](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers and  Puzzle Help for July 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adorama is blowing out Apple inventory with a Prime Day coupon, prices start at $109](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

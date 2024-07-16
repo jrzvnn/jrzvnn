@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Larian Studios teases all the new features coming in the next Baldur’s Gate 3 patch](https://www.theverge.com/2024/7/16/24199957/baldurs-gate-3-patch-7-coming-soon)
+ - [The 272 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-2024/)
  - [Elon Musk says that X&#39;s headquarters will move to Austin, after he protested a new California law that bans schools&#39; transgender notification policies &lpar;Laura Waxmann/San Francisco Chronicle&rpar;](http://www.techmeme.com/240716/p21#a240716p21)
  - [Here are the best Amazon Prime Day deals we’ve found on laptops](https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook)
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
- - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)<!-- TECH:END -->
+ - [The 34 Best Prime Day Deals Under $100 &lpar;2024&rpar;](https://www.wired.com/gallery/best-prime-day-deals-under-100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

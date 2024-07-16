@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 😝 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
- - 💣 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - 😝 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
+ - 😝 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
+ - 💣 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
+ - 😝 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
+ - 👉 [A well earned victory after losing a thousand times over](http://9gag.com/gag/a9y73Y6)<!-- MEMES:END -->
 
 ---
 

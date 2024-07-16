@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In iPadOS 18, the whole iPad is a calculator app](https://www.theverge.com/2024/7/16/24194423/math-notes-ipad-ios-18-calculator-app)
  - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
  - [Picking the perfect portable console](https://www.theverge.com/2024/7/16/24199603/handheld-console-steam-deck-games-smart-glasses-vergecast)
  - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
- - [Lucid claims its Air Pure electric sedan is the most efficient EV ever made](https://www.theverge.com/2024/7/16/24199185/lucid-air-pure-2025-ev-most-efficient-5-miles-kwh)<!-- TECH:END -->
+ - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

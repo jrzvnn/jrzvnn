@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sequoia beta review: yet again small but welcome changes](https://appleinsider.com/articles/24/07/16/macos-sequoia-beta-review-yet-again-small-but-welcome-changes?utm_medium=rss)
  - [Phone mirroring on the Mac might change how you use your phone](https://www.theverge.com/2024/7/16/24194370/ios-18-iphone-mirroring-mac-sequoia-preview)
+ - [The 248 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-2024/)
  - [New rumor backs up claim of a rose-colored iPhone 16 Pro](https://appleinsider.com/articles/24/07/16/new-rumor-backs-up-claim-of-a-rose-colored-iphone-16-pro?utm_medium=rss)
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [RCS on the iPhone is almost the solution to our green-bubble nightmare](https://www.theverge.com/2024/7/16/24194362/rcs-iphone-ios-18-preview)<!-- TECH:END -->
+ - [How to Turn Off Google Ads for Sensitive Topics](https://www.wired.com/story/how-to-turn-off-google-ads-for-sensitive-topics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

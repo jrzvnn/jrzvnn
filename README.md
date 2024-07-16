@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
- - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
+ - 😝 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 💣 [A well earned victory after losing a thousand times over](http://9gag.com/gag/a9y73Y6)
+ - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
+ - 👉 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)<!-- MEMES:END -->
 
 ---
 

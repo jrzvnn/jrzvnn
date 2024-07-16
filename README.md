@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 😝 [Someone&#39;s got a new best friend.](http://9gag.com/gag/aD2op97)
+ - 😝 [Narrated by David Attenborough](http://9gag.com/gag/adBj3ZV)
+ - 💣 [What a QR Code](http://9gag.com/gag/aoy9BRe)
+ - 😝 [I don&#39;t understand](http://9gag.com/gag/aGyxP55)
+ - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
 
 ---
 

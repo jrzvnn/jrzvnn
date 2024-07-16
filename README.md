@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)
- - 😝 [Always try to get up early, even if you&#39;re lazy, you&#39;ll always get something out of it. You don&#39;t know how little things can change you](http://9gag.com/gag/ae9Gv75)
- - 💣 [Someone&#39;s got a new best friend.](http://9gag.com/gag/aD2op97)
- - 😝 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
- - 👉 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)<!-- MEMES:END -->
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [The power of sandal](http://9gag.com/gag/aQz8W3r)
+ - 💣 [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
+ - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
 
 ---
 

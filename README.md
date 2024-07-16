@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aKGqrEN)
+ - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 👉 [The Buffet girl is the real deal!](http://9gag.com/gag/aqy5Poj)<!-- MEMES:END -->
 
 ---
 

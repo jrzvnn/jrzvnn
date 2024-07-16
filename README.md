@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Nice](http://9gag.com/gag/a1mM978)
- - 💣 [The negotiator](http://9gag.com/gag/amo93Ey)
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
+ - 😝 [Say hi to paul](http://9gag.com/gag/aO8VgxM)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - 👉 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)<!-- MEMES:END -->
 
 ---
 

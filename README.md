@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI hacktivists target Disney in massive data leak](https://www.theverge.com/2024/7/16/24199545/disney-hacktivists-1tb-leak-internal-slack-communications-ai)
  - [Shanghai government website: Huawei is close to finishing building its $1.4B chip R&amp;D center in Shanghai, housing ~30,000 staff and covering 1.6M square meters &lpar;Bloomberg&rpar;](http://www.techmeme.com/240716/p9#a240716p9)
  - [Xreal Beam Pro hands-on: the $199 Android companion to Xreal&#39;s AR glasses feels a bit underpowered and unfinished, with too many bugs in AR-specific features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240716/p8#a240716p8)
  - [Uber will let you see average fares and wait times for different cities](https://www.theverge.com/2024/7/16/24198890/uber-city-insight-search-fare-wait-times-paris-olympics)
- - [London-based Huma Therapeutics, which uses AI to help developers make health apps, raised an $80M Series D at a near-$1B valuation, for $300M in total funding &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240716/p7#a240716p7)
- - [Amazon launches Prime Day AirPods deals, snap up sale prices from $69](https://appleinsider.com/articles/24/07/16/amazon-launches-prime-day-airpods-deals-snap-up-sale-prices-from-69?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: The Best 160 Deals You Can&#39;t Miss](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

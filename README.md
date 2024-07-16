@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
  - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
  - [Andrej Karpathy, an OpenAI co-founder and former head of Tesla&#39;s autopilot unit, unveils Eureka Labs, a &quot;new kind of school&quot; aiming to support teachers with AI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240716/p20#a240716p20)
  - [Hands on with new iPad magnetic charging stands with huge Prime Day discounts](https://appleinsider.com/inside/ipad-pro/best/best-magnetic-ipad-stand?utm_medium=rss)
- - [Apple&#39;s AirPods Max Are at Their Lowest Price Ever for Prime Day &lpar;2024&rpar;](https://www.wired.com/story/apple-airpods-max-deal-amazon-prime-day-2024/)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
+ - [Apple&#39;s AirPods Max Are at Their Lowest Price Ever for Prime Day &lpar;2024&rpar;](https://www.wired.com/story/apple-airpods-max-deal-amazon-prime-day-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

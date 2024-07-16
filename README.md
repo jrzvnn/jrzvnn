@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Phone mirroring on the Mac might change how you use your phone](https://www.theverge.com/2024/7/16/24194370/ios-18-iphone-mirroring-mac-sequoia-preview)
+ - [New rumor backs up claim of a rose-colored iPhone 16 Pro](https://appleinsider.com/articles/24/07/16/new-rumor-backs-up-claim-of-a-rose-colored-iphone-16-pro?utm_medium=rss)
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [RCS on the iPhone is almost the solution to our green-bubble nightmare](https://www.theverge.com/2024/7/16/24194362/rcs-iphone-ios-18-preview)
- - [Porsche fills out Macan EV lineup with rear-wheel drive models](https://www.theverge.com/2024/7/16/24199178/porsche-macan-ev-rwd-rear-wheel-drive-4s-specs-price)
- - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
- - [Calling All Pet Owners—These Are the 11 Best Prime Day Pet Deals on Dog Beds, Cat Water Fountains, and More](https://www.wired.com/gallery/best-prime-day-deals-on-pet-gear-2024/)<!-- TECH:END -->
+ - [RCS on the iPhone is almost the solution to our green-bubble nightmare](https://www.theverge.com/2024/7/16/24194362/rcs-iphone-ios-18-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

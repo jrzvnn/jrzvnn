@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
+ - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
  - [The app that promised to ‘use AI to weed out daters with STI’ has been shut down](https://www.theverge.com/2024/7/16/24199731/ai-app-calmara-hehealth-detect-sti-ftc-shut-down)
  - [Twisters doesn’t mention climate change to avoid saying anything ‘message-oriented’](https://www.theverge.com/2024/7/16/24199803/twisters-climate-change-tornadoes-lee-isaac-chung)
- - [Generac launches its first electric vehicle charger](https://www.theverge.com/2024/7/16/24199798/generac-ev-charger-home-energy-management)
- - [Vitals app will make you wear the Apple Watch while you sleep](https://appleinsider.com/articles/24/07/16/vitals-app-will-make-you-wear-the-apple-watch-while-you-sleep?utm_medium=rss)
- - [A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target &quot;burdensome&quot; AI regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240716/p19#a240716p19)<!-- TECH:END -->
+ - [Generac launches its first electric vehicle charger](https://www.theverge.com/2024/7/16/24199798/generac-ev-charger-home-energy-management)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

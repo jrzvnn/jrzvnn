@@ -170,9 +170,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
  - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 💣 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 👉 [Very effective security](http://9gag.com/gag/a1mM9rb)<!-- MEMES:END -->
+ - 💣 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
 
 ---
 

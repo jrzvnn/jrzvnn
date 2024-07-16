@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say hi to paul](http://9gag.com/gag/aO8VgxM)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - 👉 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)<!-- MEMES:END -->
+ - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
 
 ---
 

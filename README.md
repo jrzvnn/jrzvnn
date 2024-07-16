@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lee Daniels’ The Deliverance can’t pray away the demons in new trailer](https://www.theverge.com/24199694/netflix-the-deliverance-trailer-lee-daniels)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Adorama is blowing out Apple inventory with a Prime Day coupon, prices start at $109](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)
- - [The best smart home Prime Day deals you can get right now](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)
- - [The Pixel 9 Pro could get a 50MP selfie cam](https://www.theverge.com/2024/7/16/24199655/google-pixel-9-pro-selfie-camera-upgrade-rumors-leak)<!-- TECH:END -->
+ - [Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold details, including photos, battery sizes, and charging speeds, leak from Taiwanese regulator NCC &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240716/p16#a240716p16)
+ - [Musk and tech elite back a pro-Trump super PAC](https://www.theverge.com/2024/7/16/24199700/elon-musk-joe-lonsdale-america-pac-donald-trump)
+ - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
+ - [Hitchcock-style flying camera ad promotes Safari&#39;s privacy protections](https://appleinsider.com/articles/24/07/16/hitchcock-style-flying-camera-ad-promotes-safaris-privacy-protections?utm_medium=rss)
+ - [Lee Daniels’ The Deliverance can’t pray away the demons in new trailer](https://www.theverge.com/24199694/netflix-the-deliverance-trailer-lee-daniels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

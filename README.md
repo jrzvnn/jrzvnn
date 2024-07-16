@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Live Blog: 158 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)
+ - [Adorama is blowing out Apple inventory with a Prime Day coupon, prices start at $109](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)
+ - [Amazon Prime Day Live Blog: 159 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Twitch streamer Ibai Llanos&#39; fourth boxing tournament in Madrid, with matches between influencers, set a record 3.85M+ concurrent viewers at its peak on July 13 &lpar;Adam Bumas/Wired&rpar;](http://www.techmeme.com/240715/p31#a240715p31)
- - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include 8VC&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)
- - [Mexican fintech OCN, formerly known as OneCarNow, which offers car rentals for gig workers in Mexico and the US, raised a $86M Series A in equity and debt &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/240715/p29#a240715p29)
- - [iOS 18, iPadOS 18, and macOS Sequoia add a &quot;Recovered&quot; album to the Photos app that shows previously lost or damaged photos and videos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240715/p28#a240715p28)<!-- TECH:END -->
+ - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include 8VC&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 😝 [King Charles III, deals with shots fired at him in Sydney in 1994. A right good bloke and a top chap](http://9gag.com/gag/adBjmnQ)
- - 💣 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 😝 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 💣 [Nice](http://9gag.com/gag/a1mM978)
+ - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 

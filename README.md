@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
- - 💣 [As usual, blaming others for their wrongdoing.](http://9gag.com/gag/a5Q74Dg)
- - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
- - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/a1mM978)
+ - 💣 [The negotiator](http://9gag.com/gag/amo93Ey)
+ - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
 
 ---
 

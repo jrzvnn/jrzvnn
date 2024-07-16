@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Calling All Pet Owners—These Are the 11 Best Prime Day Pet Deals on Dog Beds, Cat Water Fountains, and More](https://www.wired.com/gallery/best-prime-day-deals-on-pet-gear-2024/)
  - [The UK CMA opens a formal investigation into Microsoft&#39;s Inflection AI investment, and sets a September 11 deadline on opening an in-depth investigation &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240716/p11#a240716p11)
+ - [A Tiny Texas Village Is About To Annex a Gigantic Bitcoin Mine](https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/)
  - [Amazon quietly unveils $299 iPad 10th Gen deal on Prime Day](https://appleinsider.com/articles/24/07/16/amazon-quietly-unveils-299-ipad-10th-gen-deal-on-prime-day?utm_medium=rss)
- - [The 25 Best Prime Day Deals Under $100 &lpar;2024&rpar;](https://www.wired.com/gallery/best-prime-day-deals-under-100/)
- - [TSMC 2nm processor won&#39;t arrive until the iPhone 18 Pro](https://appleinsider.com/articles/24/07/16/tsmc-2nm-processor-wont-arrive-until-the-iphone-18-pro?utm_medium=rss)
- - [Our 5 Favorite Indoor Air Quality Monitors for Healthy Air &lpar;2024&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)<!-- TECH:END -->
+ - [The 25 Best Prime Day Deals Under $100 &lpar;2024&rpar;](https://www.wired.com/gallery/best-prime-day-deals-under-100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

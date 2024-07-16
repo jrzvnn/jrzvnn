@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [Marc Andreessen and Ben Horowitz say Trump is the right choice for &quot;Little Tech&quot;; sources say they plan to make large donations to PACs supporting his campaign &lpar;The Information&rpar;](http://www.techmeme.com/240716/p26#a240716p26)
  - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
- - [Mistral launches two 7B LLMs: Codestral Mamba, for code generation, based on the Mamba architecture, and Mathstral, for math reasoning and scientific discovery &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240716/p25#a240716p25)
- - [Prime Day deals: Oura Ring receives first-ever major 20% price cut at Amazon](https://appleinsider.com/articles/24/07/16/prime-day-deals-oura-ring-receives-first-ever-major-20-price-cut-at-amazon?utm_medium=rss)
- - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals You Can Grab Now. Vetted By Us](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mistral launches two 7B LLMs: Codestral Mamba, for code generation, based on the Mamba architecture, and Mathstral, for math reasoning and scientific discovery &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240716/p25#a240716p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store app gets a refresh, adds in a new &#39;Go Further&#39; tab, videos, and more](https://appleinsider.com/articles/24/07/16/apple-store-app-gets-a-refresh-adds-in-a-new-go-further-tab-videos-and-more?utm_medium=rss)
+ - [The Netflix app for Quest headsets is no more](https://www.theverge.com/2024/7/16/24199965/the-netflix-app-for-quest-headsets-is-no-more)
  - [Ozy Media founder Carlos Watson is guilty of fraud](https://www.theverge.com/2024/7/16/24199947/ozy-media-carlos-watson-found-guilty-fraud)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [You can escape this Royal Caribbean cruise aboard a virtual train ride](https://www.theverge.com/2024/7/16/24199880/royal-caribbean-utopia-of-the-seas-cruise-trains-immersive)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
+ - [You can escape this Royal Caribbean cruise aboard a virtual train ride](https://www.theverge.com/2024/7/16/24199880/royal-caribbean-utopia-of-the-seas-cruise-trains-immersive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

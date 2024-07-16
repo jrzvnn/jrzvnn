@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Indian court allows insolvency proceedings to begin against edtech startup Byju&#39;s, and installs an interim resolution professional to replace Byju Raveendran &lpar;Bloomberg&rpar;](http://www.techmeme.com/240716/p5#a240716p5)
+ - [Elgato’s limited-edition atomic purple Stream Deck is $35 off for Prime Day](https://www.theverge.com/2024/7/16/24198784/amazon-prime-day-elgato-limited-edition-atomic-purple-stream-deck-mk2-deal-sale)
+ - [The 209 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-2024/)
  - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)
- - [Prime Day deals: Apple Watch Series 9 drops to record low $279, SE 2 dips to $169](https://appleinsider.com/articles/24/07/16/prime-day-deals-apple-watch-series-9-drops-to-record-low-279-se-2-dips-to-169?utm_medium=rss)
- - [The Xreal Beam Pro has good ideas about AR — but not enough juice](https://www.theverge.com/2024/7/16/24199117/xreal-beam-pro-review-ar-glasses)
- - [Analysis: Intel&#39;s VC arm is one of the most active foreign investors in Chinese AI and chip startups; Intel Capital owns stakes in 43 Chinese tech startups &lpar;Financial Times&rpar;](http://www.techmeme.com/240716/p3#a240716p3)<!-- TECH:END -->
+ - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

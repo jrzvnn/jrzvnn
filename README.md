@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds fourth developer betas for its current-gen operating systems](https://appleinsider.com/articles/24/07/16/apple-seeds-fourth-developer-betas-for-its-current-gen-operating-systems?utm_medium=rss)
- - [Lowest price ever: Apple&#39;s 14-inch MacBook Pro drops to $1,499](https://appleinsider.com/articles/24/07/16/lowest-price-ever-apples-14-inch-macbook-pro-drops-to-1499?utm_medium=rss)
- - [Best Amazon Prime Day Apple Watch Deals &lpar;2024&rpar;](https://www.wired.com/story/apple-watch-deals-amazon-prime-day-2024/)
- - [Five futures for Apple’s HomeScreenPod](https://www.theverge.com/2024/7/16/24195063/apple-smart-display-rumors-homepod-ipad)
- - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)<!-- TECH:END -->
+ - [Google is ending an experiment that let you annotate search results](https://www.theverge.com/2024/7/16/24199822/google-search-notes-labs-experiment-ends)
+ - [Apple partners with leading chumbox provider to sell ads](https://www.theverge.com/2024/7/16/24199744/apple-news-stocks-apps-chumbox-ads-taboola)
+ - [Save up to $80 on the Oura Ring Gen 3 for Prime Day](https://www.cnet.com/deals/save-up-to-80-on-the-oura-ring-gen-3-for-prime-day/#ftag=CAD590a51e)
+ - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 140+ Best Amazon Prime Deals Available to Shop Now](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

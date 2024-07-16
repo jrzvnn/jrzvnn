@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are a handful of Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
- - [Taboola&#39;s CEO says the company has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps; TBLA stock jumps 9%+ &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240716/p14#a240716p14)
- - [All Verge shirts, sweatshirts, mugs, and stickers are 30 percent off today](https://www.theverge.com/2024/7/16/24187558/verge-store-deal-merch-amazon-prime-day)
- - [Sling TV adds 4K streaming for free](https://www.theverge.com/2024/7/16/24199631/sling-tv-4k-stream-mlb-all-star-game-broadcast-fox-sports)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
+ - [Minecraft-branded Beats Solo 4 creeps to release on July 18](https://appleinsider.com/articles/24/07/16/minecraft-branded-beats-solo-4-creeps-to-release-on-july-18?utm_medium=rss)
+ - [Bluetti: The best home electric generator for reliable power 2024](https://appleinsider.com/articles/24/07/16/bluetti-the-best-home-electric-generator-for-reliable-power-2024?utm_medium=rss)
+ - [Apple, Anthropic and other companies used YouTube videos to train AI](https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright)
+ - [Supplier used controversial sources for training Apple Intelligence](https://appleinsider.com/articles/24/07/16/supplier-used-controversial-sources-for-training-apple-intelligence?utm_medium=rss)
+ - [Here are a handful of Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Trump was shot, Elon Musk backed his bid and made 100+ posts stepping up his political speech, entering uncharted territory for a social media leader &lpar;New York Times&rpar;](http://www.techmeme.com/240716/p10#a240716p10)
- - [AI hacktivists target Disney in massive data leak](https://www.theverge.com/2024/7/16/24199545/disney-hacktivists-1tb-leak-internal-slack-communications-ai)
- - [Shanghai government website: Huawei is close to finishing building its $1.4B chip R&amp;D center in Shanghai, housing ~30,000 staff and covering 1.6M square meters &lpar;Bloomberg&rpar;](http://www.techmeme.com/240716/p9#a240716p9)
- - [The Architect of Russia&#39;s Google Is Back](https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/)
- - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)<!-- TECH:END -->
+ - [Amazon quietly unveils $299 iPad 10th Gen deal on Prime Day](https://appleinsider.com/articles/24/07/16/amazon-quietly-unveils-299-ipad-10th-gen-deal-on-prime-day?utm_medium=rss)
+ - [TSMC 2nm processor won&#39;t arrive until the iPhone 18 Pro](https://appleinsider.com/articles/24/07/16/tsmc-2nm-processor-wont-arrive-until-the-iphone-18-pro?utm_medium=rss)
+ - [Apple is finally embracing Android’s chaos](https://www.theverge.com/24196806/ios-18-android-chaos)
+ - [Amazon Prime Day 2024: The Best 160 Deals You Can&#39;t Miss](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)
+ - [Best Amazon Prime Day Deals Under $100: Save Copious Amounts of Money on Kitchen Gear, Tech and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

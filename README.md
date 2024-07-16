@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Senate preliminary report: Amazon Prime Day is a &quot;major&quot; cause of worker injuries, with Prime Day 2019 data showing &quot;just under&quot; 45 injuries per 100 workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240716/p18#a240716p18)
  - [OnePlus unveils the $550 OnePlus Pad 2 with a 12.1-inch 3K LCD display, Snapdragon 8 Gen 3, 12GB RAM, 256GB storage, and a 6.49mm thin design, shipping August 1 &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240716/p17#a240716p17)
  - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
- - [Apple News ads may get much worse with new Taboola deal](https://appleinsider.com/articles/24/07/16/apple-news-ads-may-get-much-worse-with-new-taboola-deal?utm_medium=rss)
- - [Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold details, including photos, battery sizes, and charging speeds, leak from Taiwanese regulator NCC &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240716/p16#a240716p16)<!-- TECH:END -->
+ - [Apple News ads may get much worse with new Taboola deal](https://appleinsider.com/articles/24/07/16/apple-news-ads-may-get-much-worse-with-new-taboola-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

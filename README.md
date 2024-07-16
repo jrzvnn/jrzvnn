@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An Indian court allows insolvency proceedings to begin against edtech startup Byju&#39;s, and installs an interim resolution professional to replace Byju Raveendran &lpar;Bloomberg&rpar;](http://www.techmeme.com/240716/p5#a240716p5)
  - [Elgato’s limited-edition atomic purple Stream Deck is $35 off for Prime Day](https://www.theverge.com/2024/7/16/24198784/amazon-prime-day-elgato-limited-edition-atomic-purple-stream-deck-mk2-deal-sale)
- - [The 209 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-2024/)
- - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)<!-- TECH:END -->
+ - [The 5 Best Prime Day Vacuum Deals We&#39;ve Found &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-on-vacuums-mops-and-robots-2024/)
+ - [The Top 5 Prime Day Deals on Amazon Kindles and Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024/)
+ - [The 209 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

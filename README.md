@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sling TV adds 4K streaming for free](https://www.theverge.com/2024/7/16/24199631/sling-tv-4k-stream-mlb-all-star-game-broadcast-fox-sports)
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
  - [Supporters Believe ‘Hand Of God’ Saved Trump](https://www.wired.com/story/supporters-believe-hand-of-god-saved-trump/)
  - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [Amazon Prime Day: Supersize your Mac desktop with these monitor deals](https://appleinsider.com/articles/24/07/16/amazon-prime-day-supersize-your-mac-desktop-with-these-monitor-deals?utm_medium=rss)
- - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
- - [The 30 Best Prime Day Deals Under $100 &lpar;2024&rpar;](https://www.wired.com/gallery/best-prime-day-deals-under-100/)<!-- TECH:END -->
+ - [Amazon Prime Day: Supersize your Mac desktop with these monitor deals](https://appleinsider.com/articles/24/07/16/amazon-prime-day-supersize-your-mac-desktop-with-these-monitor-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

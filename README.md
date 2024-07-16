@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target &quot;burdensome&quot; AI regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240716/p19#a240716p19)
- - [J.D. Vance is anti-Big Tech, pro-crypto](https://www.theverge.com/24199314/jd-vance-donald-trump-vp-antitrust-big-tech-ftc-lina-khan-elizabeth-warren-google)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [My Favorite Coffee Mug Warmer Is 35% Off for Prime Day](https://www.cnet.com/deals/my-favorite-coffee-mug-warmer-is-35-off-for-prime-day/#ftag=CAD590a51e)
- - [The Only Wireless Headphones You Need Outdoors Are $55 off for Amazon Prime Day](https://www.cnet.com/deals/the-only-wireless-headphones-you-need-outdoors-are-55-off-for-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The app that promised to ‘use AI to weed out daters with STI’ has been shut down](https://www.theverge.com/2024/7/16/24199731/ai-app-calmara-hehealth-detect-sti-ftc-shut-down)
+ - [Twisters doesn’t mention climate change to avoid saying anything ‘message-oriented’](https://www.theverge.com/2024/7/16/24199803/twisters-climate-change-tornadoes-lee-isaac-chung)
+ - [Generac launches its first electric vehicle charger](https://www.theverge.com/2024/7/16/24199798/generac-ev-charger-home-energy-management)
+ - [Vitals app will make you wear the Apple Watch while you sleep](https://appleinsider.com/articles/24/07/16/vitals-app-will-make-you-wear-the-apple-watch-while-you-sleep?utm_medium=rss)
+ - [A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target &quot;burdensome&quot; AI regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240716/p19#a240716p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

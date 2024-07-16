@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andrej Karpathy, an OpenAI co-founder and former head of Tesla&#39;s autopilot unit, unveils Eureka Labs, a &quot;new kind of school&quot; aiming to support teachers with AI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240716/p20#a240716p20)
+ - [Hands on with new iPad magnetic charging stands with huge Prime Day discounts](https://appleinsider.com/inside/ipad-pro/best/best-magnetic-ipad-stand?utm_medium=rss)
  - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
  - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
- - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
- - [The app that promised to ‘use AI to weed out daters with STI’ has been shut down](https://www.theverge.com/2024/7/16/24199731/ai-app-calmara-hehealth-detect-sti-ftc-shut-down)
- - [Amazon Prime Day Sale: This Surprising And Ingenious &#39;Kitchen&#39; Tool Is 17% Off Today](https://www.cnet.com/deals/amazon-prime-day-sale-this-surprising-and-ingenious-kitchen-tool-is-17-off-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

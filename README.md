@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18, iPadOS 18, and macOS Sequoia add a &quot;Recovered&quot; album to the Photos app that shows previously lost or damaged photos and videos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240715/p28#a240715p28)
+ - [Record labels, including UMG and Sony, sue Verizon for $2.6B+, alleging it violated copyright law by continuing to serve customers accused of pirating music &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240715/p27#a240715p27)
+ - [Amazon Prime Day Live Blog: 152 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
  - [Sources: activist investor Starboard has built a 6.5%+ stake in Match Group and calls for the company to fix margins or pursue sale; MTCH jumps 8%+ after hours &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p26#a240715p26)
- - [iOS 18 might help you rescue photos you thought were gone forever](https://www.theverge.com/2024/7/15/24199358/apple-ios-18-photos-recovered-album)
- - [Music labels sue Verizon for more than $2.6 billion](https://www.theverge.com/2024/7/15/24199236/verizon-music-copyright-infringement-lawsuit-2-6-billion)
- - [It’s never been easier for the cops to break into your phone](https://www.theverge.com/24199357/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-quantico-mdtf)
- - [Microsoft researchers unveil SpreadsheetLLM, an encoding method designed to enable LLMs to efficiently understand and analyze complex spreadsheet data &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240715/p25#a240715p25)<!-- TECH:END -->
+ - [Tips for Shopping Smarter on Amazon Prime Day video](https://www.cnet.com/videos/tips-for-shopping-smarter-on-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

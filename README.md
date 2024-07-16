@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 😝 [The man took a bullet and he can also take a joke.](http://9gag.com/gag/aryN1Np)
- - 💣 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
+ - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 💣 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
+ - 😝 [Sleep paralysis + nightmare](http://9gag.com/gag/a9y73Oo)
+ - 👉 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)<!-- MEMES:END -->
 
 ---
 

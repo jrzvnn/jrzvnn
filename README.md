@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept &lpar;Reuters&rpar;](http://www.techmeme.com/240716/p23#a240716p23)
  - [Apple Store app gets a refresh, adds in a new &#39;Go Further&#39; tab, videos, and more](https://appleinsider.com/articles/24/07/16/apple-store-app-gets-a-refresh-adds-in-a-new-go-further-tab-videos-and-more?utm_medium=rss)
  - [The Netflix app for Quest headsets is no more](https://www.theverge.com/2024/7/16/24199965/the-netflix-app-for-quest-headsets-is-no-more)
- - [The 5 Best Prime Day 2024 TV Deals Curated By WIRED&#39;s A/V Experts](https://www.wired.com/story/top-5-tv-prime-day-deals/)
  - [Ozy Media founder Carlos Watson is guilty of fraud](https://www.theverge.com/2024/7/16/24199947/ozy-media-carlos-watson-found-guilty-fraud)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 

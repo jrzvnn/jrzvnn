@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
+ - 😝 [Nice](http://9gag.com/gag/a1mM978)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
  - 💣 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
  - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
 
 ---
 

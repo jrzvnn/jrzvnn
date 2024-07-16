@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Xreal Beam Pro has good ideas about AR — but not enough juice](https://www.theverge.com/2024/7/16/24199117/xreal-beam-pro-review-ar-glasses)
  - [Analysis: Intel&#39;s VC arm is one of the most active foreign investors in Chinese AI and chip startups; Intel Capital owns stakes in 43 Chinese tech startups &lpar;Financial Times&rpar;](http://www.techmeme.com/240716/p3#a240716p3)
  - [Best Grills for 2024](https://www.cnet.com/home/yard-and-outdoors/best-grill/#ftag=CAD590a51e)
  - [Helix Twilight Mattress Review 2024: Testing a Hybrid Bed for Back and Stomach Sleepers](https://www.cnet.com/health/sleep/helix-twilight-mattress-review/#ftag=CAD590a51e)
- - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
- - [Sources: Google offered CISPE ~&amp;euro;455M worth of Google cloud licenses and &amp;euro;14M in cash in a deal for CISPE to maintain its antitrust complaint against Microsoft &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240716/p2#a240716p2)<!-- TECH:END -->
+ - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

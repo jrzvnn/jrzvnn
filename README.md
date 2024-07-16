@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
- - 😝 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
- - 💣 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
- - 😝 [What a QR Code](http://9gag.com/gag/aoy9BRe)
- - 👉 [A well earned victory after losing a thousand times over](http://9gag.com/gag/a9y73Y6)<!-- MEMES:END -->
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 💣 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 😝 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 👉 [Very effective security](http://9gag.com/gag/a1mM9rb)<!-- MEMES:END -->
 
 ---
 

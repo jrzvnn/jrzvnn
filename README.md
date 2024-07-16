@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xreal Beam Pro hands-on: the $199 Android companion to Xreal&#39;s AR glasses feels a bit underpowered and unfinished, with too many bugs in AR-specific features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240716/p8#a240716p8)
+ - [Uber will let you see average fares and wait times for different cities](https://www.theverge.com/2024/7/16/24198890/uber-city-insight-search-fare-wait-times-paris-olympics)
+ - [Amazon Prime Day 2024: The Best 160 Deals You Can&#39;t Miss](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-16/#ftag=CAD590a51e)
  - [London-based Huma Therapeutics, which uses AI to help developers make health apps, raised an $80M Series D at a near-$1B valuation, for $300M in total funding &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240716/p7#a240716p7)
- - [Amazon launches Prime Day AirPods deals, snap up sale prices from $69](https://appleinsider.com/articles/24/07/16/amazon-launches-prime-day-airpods-deals-snap-up-sale-prices-from-69?utm_medium=rss)
- - [Bengaluru-based Moving Tech, which develops the open-source ride-sharing app Namma Yatri with a no-commission model, raised an $11M pre-Series A &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240716/p6#a240716p6)
- - [5 Best Amazon Prime Day Coffee Deals &lpar;2024&rpar;](https://www.wired.com/story/prime-day-coffee-deals-2024/)
- - [The Top 5 Prime Day Laptop Deals for Work and Play &lpar;2024&rpar;](https://www.wired.com/story/prime-day-laptop-deals-2024/)<!-- TECH:END -->
+ - [Best Prime Day Headphone Deals: Save on AirPods, Sony, Bose and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 😝 [This guy gets it.](http://9gag.com/gag/aW46V1Z)
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Spain 2 - England 1](http://9gag.com/gag/amo9E6y)
- - 👉 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)<!-- MEMES:END -->
+ - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 💣 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 😝 [Its 2003 and you have nothing else in mind](http://9gag.com/gag/avynpLd)
+ - 👉 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)<!-- MEMES:END -->
 
 ---
 

@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [TinyPod transforms your Apple Watch into a mock iPod](https://appleinsider.com/articles/24/07/17/tinypod-transforms-your-apple-watch-into-a-mock-ipod?utm_medium=rss)
  - [Here are our favorite tech deals from the last day of Prime Day](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [OpenAI researchers reveal an algorithm by which LLMs can learn to better explain themselves to their users and improve the legibility of their outputs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240717/p24#a240717p24)
- - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
- - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)<!-- TECH:END -->
+ - [Best Prime Day Laptop Deals: 15 Expert-Picked Deals on MacBook, HP, Asus, More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-17/#ftag=CAD590a51e)
+ - [Best Rowing Machines for 2024](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
  - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 👉 [The car is lava](http://9gag.com/gag/aYQLjAm)<!-- MEMES:END -->
+ - 😝 [Fugen LEGEND](http://9gag.com/gag/adBjmjV)
+ - 💣 [Summer with vaas](http://9gag.com/gag/a34BoO5)
+ - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - 👉 [Someone Anonymously Mailed Two Bronze Age Axes to a Museum in Ireland | Officials are asking the donor to come forward with more information about where the artifacts were discovered](http://9gag.com/gag/a9yYjL1)<!-- MEMES:END -->
 
 ---
 

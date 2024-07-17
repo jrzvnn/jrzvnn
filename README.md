@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [iPhone 15 struggles in sales but older models pick up the slack](https://appleinsider.com/articles/24/07/17/iphone-15-struggles-in-sales-but-older-models-pick-up-the-slack?utm_medium=rss)
  - [Sources: at a June dinner, David Sacks, Chamath Palihapitiya, and others told Trump to pick JD Vance as VP; Elon Musk and Peter Thiel also advocated for Vance &lpar;New York Times&rpar;](http://www.techmeme.com/240717/p19#a240717p19)
  - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
- - [Nintendo’s mystery title Emio is a detective game](https://www.theverge.com/2024/7/17/24195883/emio-nintendo-smiling-man-switch-famicom-detective-club-date)
- - [Yemen says a ship has repaired the subsea AAE-1 cable, linking Asia and Europe, in the Red Sea, and remains in the water to repair the Seacom and EIG cables &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p18#a240717p18)
- - [The next No Man’s Sky update makes planets feel more real](https://www.theverge.com/2024/7/17/24200072/no-mans-sky-next-update-worlds-part-1)<!-- TECH:END -->
+ - [Nintendo’s mystery title Emio is a detective game](https://www.theverge.com/2024/7/17/24195883/emio-nintendo-smiling-man-switch-famicom-detective-club-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

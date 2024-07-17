@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 💣 [Oh no my new car](http://9gag.com/gag/abAZ59E)
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 👉 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)<!-- MEMES:END -->
+ - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
+ - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
+ - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
+ - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
 
 ---
 

@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nintendo’s offering a rare discount on its wireless NES gamepads](https://www.theverge.com/2024/7/17/24200753/nintendo-deal-gaming-nes-gamepad-controller-wireless)
  - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
  - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
- - [There&#39;s Still Time to Shop the Best Prime Day TV Deals](https://www.wired.com/story/top-5-tv-prime-day-deals-1/)
- - [This Prime Day has cranked up the deals on Bose and Sony speakers](https://www.theverge.com/2024/7/17/24200551/amazon-prime-day-bose-soundlink-flex-bluetooth-speaker-soundbar-deal-sale)<!-- TECH:END -->
+ - [This Prime Day has cranked up the deals on Bose and Sony speakers](https://www.theverge.com/2024/7/17/24200551/amazon-prime-day-bose-soundlink-flex-bluetooth-speaker-soundbar-deal-sale)
+ - [Global chip stocks fell sharply after reports of tighter export restrictions from the US and comments from Trump, who said Taiwan should pay the US for defense &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p27#a240717p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

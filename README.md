@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Designer brings AI image generation to iPhone before Apple Intelligence](https://appleinsider.com/articles/24/07/17/microsoft-designer-brings-ai-image-generation-to-iphone-before-apple-intelligence?utm_medium=rss)
  - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
  - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
  - [The Top 5 Prime Day Kindle Deals—Plus More Amazon Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)
- - [Doc: EU regulators are asking industry participants if Google&#39;s deal to have Gemini Nano pre-installed on Samsung phones hinders rival chatbots on the devices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240717/p22#a240717p22)
- - [OpenAI Touts New AI Safety Research. Critics Say It’s a Good Step, but Not Enough](https://www.wired.com/story/openai-safety-transparency-research/)<!-- TECH:END -->
+ - [Grab $80 Off Shokz OpenRun Pro Bone-Conduction Headphones With This Anti-Prime Day Deal](https://www.cnet.com/deals/grab-shokz-openrun-pro-bone-conduction-headphones-at-80-off-with-this-anti-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

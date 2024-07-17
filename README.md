@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Samsung Galaxy Z Fold6&#39;s AI-generated &quot;sketch to image&quot; tool: turns rough sketches into images, ridiculous, fun, and slightly worrying &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240717/p15#a240717p15)
- - [The best Prime Day tech deals you can still get](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [The Paris Olympics Will Show Us the Future of Sports on TV](https://www.wired.com/story/paris-olympics-broadcast-tech-ai/)
  - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
- - [Apple device management platform Kandji raised $50M equity and $50M debt from General Catalyst, after raising $100M in 2021, taking its total funding to $288M+ &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240717/p14#a240717p14)<!-- TECH:END -->
+ - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)
+ - [Hundreds more Californians get housing with Apple&#39;s help](https://appleinsider.com/articles/24/07/17/hundreds-more-californians-get-housing-with-apples-help?utm_medium=rss)
+ - [Mercedes-Benz’s 400kW EV chargers are coming to Starbucks](https://www.theverge.com/2024/7/17/24199984/mercedes-benzs-starbucks-ev-charging-stations-400-kw)
+ - [The Biden administration wants to find more sustainable construction materials](https://www.theverge.com/2024/7/17/24199905/biden-administration-epa-grants-construction-materials-steel-cement-climate-environmental-assessment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

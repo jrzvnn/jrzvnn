@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based CytoReason, which uses AI to develop disease models, raised $80M from Nvidia, Pfizer, Thermo Fisher, and OurCrowd, and plans a Massachusetts office &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240717/p17#a240717p17)
+ - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
  - [iMessage patent row between Apple and MPH revived with new subpoena](https://appleinsider.com/articles/24/07/17/imessage-patent-row-between-apple-and-mph-revived-with-new-subpoena?utm_medium=rss)
  - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
- - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)
- - [Don&#39;t Wait to Plan Your Holiday Travel. Booking Now Could Save You Thousands](https://www.cnet.com/personal-finance/credit-cards/dont-wait-to-plan-your-holiday-travel-booking-now-could-save-you-thousands/#ftag=CAD590a51e)
- - [Hundreds more Californians get housing with Apple&#39;s help](https://appleinsider.com/articles/24/07/17/hundreds-more-californians-get-housing-with-apples-help?utm_medium=rss)<!-- TECH:END -->
+ - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

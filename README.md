@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day tech deals you can still get](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [The Paris Olympics Will Show Us the Future of Sports on TV](https://www.wired.com/story/paris-olympics-broadcast-tech-ai/)
  - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
  - [Apple device management platform Kandji raised $50M equity and $50M debt from General Catalyst, after raising $100M in 2021, taking its total funding to $288M+ &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240717/p14#a240717p14)
- - [The Top 5 Prime Day Kindle Deals—Plus More Amazon Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals: Best 15 Deals On MacBooks, Gaming Laptops and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Top 5 Prime Day Kindle Deals—Plus More Amazon Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

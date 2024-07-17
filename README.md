@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
- - [US eyeing new rules to keep Chinese software out of cars](https://www.theverge.com/2024/7/17/24200480/us-cars-limits-china-software-commerce)
- - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
- - [Canon’s new pro cameras have eye-controlled autofocus and stacked sensors](https://www.theverge.com/2024/7/17/24200381/canon-eos-r1-r5-mark-ii-2024-announce)
- - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)<!-- TECH:END -->
+ - [Rumored thin motherboard for iPhone 17 allegedly dropped over quality issues](https://appleinsider.com/articles/24/07/17/rumored-thin-motherboard-for-iphone-17-allegedly-dropped-over-quality-issues?utm_medium=rss)
+ - [Spotify launches a new voice and language for its AI DJ](https://www.theverge.com/2024/7/17/24200511/spotify-ai-dj-spanish-language-update-playlist-feature)
+ - [Best 50+ Prime Day deals on Apple to grab before the sale ends tonight](https://appleinsider.com/articles/24/07/17/best-50-prime-day-deals-on-apple-to-grab-before-the-sale-ends-tonight?utm_medium=rss)
+ - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [Apple TV+ shows nominated in the 76th Emmy Awards](https://appleinsider.com/articles/24/07/17/apple-tv-shows-nominated-in-the-76th-emmy-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

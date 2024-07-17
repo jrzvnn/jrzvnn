@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)
  - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
- - [Best Prime Day TV Deals: Up to $1,500 Off Sony, Samsung, LG and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-17/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 131 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [13 Best Amazon Prime Day Monitor Deals: Save Up to 45% on Acer, Alienware, LG and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-17/#ftag=CAD590a51e)
- - [7 Prime Day Deals for Creating Chaos and Joy Everywhere You Go](https://www.cnet.com/deals/7-prime-day-deals-for-creating-chaos-and-joy-everywhere-you-go/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tinder can now pick your dating profile picture for you](https://www.theverge.com/2024/7/17/24200306/tinder-photo-selector-ai-dating-profile-feature-release)
+ - [The US Supreme Court Kneecapped US Cyber Strategy](https://www.wired.com/story/us-supreme-court-chevron-deference-cybersecurity-policy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

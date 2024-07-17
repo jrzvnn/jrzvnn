@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its feels time!](http://9gag.com/gag/azxAgoz)
+ - 😝 [The car is lava](http://9gag.com/gag/aYQLjAm)
  - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 💣 [The car is lava](http://9gag.com/gag/aYQLjAm)
+ - 💣 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
  - 😝 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
- - 👉 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)<!-- MEMES:END -->
+ - 👉 [Its feels time!](http://9gag.com/gag/azxAgoz)<!-- MEMES:END -->
 
 ---
 

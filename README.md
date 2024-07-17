@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aKGqrEN)
- - 💣 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 👉 [The best, most highly trained bodyguards in the world:](http://9gag.com/gag/awyx6xQ)<!-- MEMES:END -->
+ - 😝 [The car is lava](http://9gag.com/gag/aYQLjAm)
+ - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - 💣 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
+ - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
 
 ---
 

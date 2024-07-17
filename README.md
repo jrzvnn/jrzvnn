@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [The did not break character](http://9gag.com/gag/ae9637v)
  - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 😝 [The 5 most famous laws in the world](http://9gag.com/gag/ayN85BX)
- - 👉 [&#39;Far-right&#39; protesters hold public pork BBQ in Greece to protest against unchecked migrants and refugees](http://9gag.com/gag/a7od5vA)<!-- MEMES:END -->
+ - 💣 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 👉 [Thought?](http://9gag.com/gag/aqyLZgY)<!-- MEMES:END -->
 
 ---
 

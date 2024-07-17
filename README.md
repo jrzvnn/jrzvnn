@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Momentum Works: SE Asia&#39;s e-commerce GMV hit $114.6B in 2023, up 15% YoY; Shopee had a 48% share and TikTok Shop&#39;s GMV grew from $4.4B in 2022 to $16.3B in 2023 &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/240717/p2#a240717p2)
  - [In an interview, Google DeepMind&#39;s and Google Research&#39;s chief scientist Jeff Dean says AI is not to blame for the brunt of data center emissions increase &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240717/p1#a240717p1)
  - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
  - [Build Your Own Home Theater With Xgimi Projectors: Get Up to 53% off During Prime Day](https://www.cnet.com/deals/create-your-own-home-theater-with-xgimi-projectors-up-to-53-off-during-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

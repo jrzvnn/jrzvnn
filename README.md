@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)
+ - [Amazon Prime Day 2024: 120+ Red Hot Amazon Prime Day Deals Directly from Our Expert Team](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
+ - [16 Best Mattresses in 2024 – Mattresses Tested by Our Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
  - [How Russian design firm Art Lebedev&#39;s Optimus keyboards, with built-in OLED screens in each key, laid the foundations for Elgato&#39;s popular Stream Deck &lpar;The Verge&rpar;](http://www.techmeme.com/240717/p8#a240717p8)
- - [Fujitsu makes a &quot;significant investment&quot; in Cohere to build and launch Japanese language LLMs, including &quot;Takane&quot;, which is based on Cohere&#39;s Command R+ LLM &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240717/p7#a240717p7)
- - [Sources: the US is mulling imposing the foreign direct product rule, seen as draconian by allies, on Tokyo Electron and ASML&#39;s chip equipment business in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p6#a240717p6)
- - [Sources: GitLab, which has a market cap of ~$8B, is exploring a sale after attracting interest from peers, including Datadog, which has a market cap of $44B &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p5#a240717p5)
- - [ASML reports Q2 net sales of &amp;euro;6.24B &lpar;$6.8B&rpar; vs. &amp;euro;6.03B est., net income of &amp;euro;1.58B vs. &amp;euro;1.43B est., and expects 2024 total net sales to be similar to 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p4#a240717p4)<!-- TECH:END -->
+ - [Fujitsu makes a &quot;significant investment&quot; in Cohere to build and launch Japanese language LLMs, including &quot;Takane&quot;, which is based on Cohere&#39;s Command R+ LLM &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240717/p7#a240717p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
- - [LevelTen, which runs a marketplace connecting buyers, sellers, advisors, and financiers of clean energy projects, raised a ~$65M Series D led by B Capital &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240716/p30#a240716p30)
- - [The best AirPods deals for Amazon Prime Day](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [On their podcast, Marc Andreessen and Ben Horowitz explain why they are backing Trump, say Trump is pro-crypto, Biden&#39;s overregulation harms startups, and more &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240716/p29#a240716p29)<!-- TECH:END -->
+ - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
+ - [Amazon slashes Microsoft 365 Family by 50% for Prime Day](https://appleinsider.com/articles/24/07/17/amazon-slashes-microsoft-365-family-by-50-for-prime-day?utm_medium=rss)
+ - [Germany-based One Data, which provides AI-powered enterprise data management software, raised a &amp;euro;32M Series B extension led by Vsquared, Molten, and HV Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240716/p31#a240716p31)
+ - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

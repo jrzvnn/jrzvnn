@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 👉 [What&#39;s wrong with Indians!!](http://9gag.com/gag/aLn2yov)<!-- MEMES:END -->
+ - 😝 [Its feels time!](http://9gag.com/gag/azxAgoz)
+ - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 💣 [The car is lava](http://9gag.com/gag/aYQLjAm)
+ - 😝 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
+ - 👉 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)<!-- MEMES:END -->
 
 ---
 

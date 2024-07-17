@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 💣 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 💣 [Maybe too high standards?](http://9gag.com/gag/aAyPVpp)
+ - 😝 [Oh no my new car](http://9gag.com/gag/abAZ59E)
+ - 👉 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)<!-- MEMES:END -->
 
 ---
 

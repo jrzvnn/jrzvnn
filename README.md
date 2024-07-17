@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
- - [Flash deal: Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro drops to $1,899](https://appleinsider.com/articles/24/07/17/flash-deal-apples-1tb-14-inch-macbook-pro-m3-pro-drops-to-1899?utm_medium=rss)
- - [Sources: Disney is working on features to increase the hours viewers spend on streaming, including pop-up live channels and more-tailored recommendations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240716/p28#a240716p28)
- - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
- - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
+ - [LevelTen, which runs a marketplace connecting buyers, sellers, advisors, and financiers of clean energy projects, raised a ~$65M Series D led by B Capital &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240716/p30#a240716p30)
+ - [The best AirPods deals for Amazon Prime Day](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [On their podcast, Marc Andreessen and Ben Horowitz explain why they are backing Trump, say Trump is pro-crypto, Biden&#39;s overregulation harms startups, and more &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240716/p29#a240716p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

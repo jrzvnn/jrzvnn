@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
+ - [6 Best Amazon Prime Day Coffee Deals](https://www.wired.com/story/prime-day-coffee-deals-2024-1/)
  - [OpenAI CEO Sam Altman’s $27 million mansion is a ‘lemon’ with a leaky pool, lawsuit alleges](https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai)
  - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
- - [Home Depot’s viral giant skeleton has some upgrades — and lots of new friends](https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton)
- - [The best Prime Day deals on smart home gear](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)<!-- TECH:END -->
+ - [Home Depot’s viral giant skeleton has some upgrades — and lots of new friends](https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

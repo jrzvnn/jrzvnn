@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Taiwan chip company employees have seen their wealth surge during the global AI boom, reinforcing Taiwan&#39;s reputation as an epicentre for creating tech wealth &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240717/p10#a240717p10)
  - [Best Apple Prime Day deals - live coverage of day 2&#39;s top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
+ - [Prime Day Has Brought the Google Pixel 7A to an Incredibly Low Price &lpar;2024&rpar;](https://www.wired.com/story/google-pixel-deals-prime-day-2024-1/)
  - [Dealogic: foreign capital in China&#39;s VC industry fell 60% YoY to $3.7B in 2023, just 10% of the 2021 peak, leading to an expansion of state-backed funds &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240717/p9#a240717p9)
- - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)
- - [Amazon Prime Day 2024: 120+ Red Hot Amazon Prime Day Deals Directly from Our Expert Team](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

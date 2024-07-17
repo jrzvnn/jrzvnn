@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 💣 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
+ - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 👉 [The car is lava](http://9gag.com/gag/aYQLjAm)<!-- MEMES:END -->
 
 ---
 

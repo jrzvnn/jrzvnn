@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 💣 [Maybe too high standards?](http://9gag.com/gag/aAyPVpp)
- - 😝 [Oh no my new car](http://9gag.com/gag/abAZ59E)
- - 👉 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)<!-- MEMES:END -->
+ - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
+ - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 💣 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 

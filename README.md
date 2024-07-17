@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
+ - [Massive price cuts on 3D printers &amp; supplies offer up to 60% off for Prime Day 2024](https://appleinsider.com/articles/24/07/17/massive-price-cuts-on-3d-printers-supplies-offer-up-to-60-off-for-prime-day-2024?utm_medium=rss)
+ - [Instagram will help researchers study if it’s hurting teen mental health](https://www.theverge.com/2024/7/17/24200579/meta-instagram-researchers-study-teen-mental-health)
  - [T-Mobile was the fastest US mobile network in H1 2024, with a Speed Score, which combines download and upload speeds, of ~206, vs. AT&amp;T&#39;s ~112, Verizon&#39;s ~108 &lpar;Ookla&rpar;](http://www.techmeme.com/240717/p23#a240717p23)
- - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)
- - [Google’s AI results are showing up less frequently, a study found](https://www.theverge.com/2024/7/17/24200544/google-ai-overviews-report)
- - [Some of the best all-in-one robot vacs are up to 50 percent off for Prime Day](https://www.theverge.com/2024/7/17/24200515/best-robot-vacuum-amazon-prime-day-deals)
- - [This case turns your Apple Watch into a tiny iPod](https://www.theverge.com/2024/7/17/24200520/tinypod-apple-watch-accessory-ipod-case-scroll-wheel)<!-- TECH:END -->
+ - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

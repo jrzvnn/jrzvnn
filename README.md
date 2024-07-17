@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [A long-delayed hands-on with Essential’s skinny Android phone](https://www.theverge.com/2024/7/17/24200617/essential-phone-project-gem-ph-2-prototype-hands-on-video)
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
  - [The best thing you can buy on Prime Day is some silly VU meters for your speakers](https://www.theverge.com/2024/7/17/24200624/amazon-prime-day-best-deal-vu-meter-speaker)
- - [TinyPod transforms your Apple Watch into a mock iPod](https://appleinsider.com/articles/24/07/17/tinypod-transforms-your-apple-watch-into-a-mock-ipod?utm_medium=rss)
- - [Here are our favorite tech deals from the last day of Prime Day](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [OpenAI researchers reveal an algorithm by which LLMs can learn to better explain themselves to their users and improve the legibility of their outputs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240717/p24#a240717p24)
- - [Best Prime Day Laptop Deals: 15 Expert-Picked Deals on MacBook, HP, Asus, More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TinyPod transforms your Apple Watch into a mock iPod](https://appleinsider.com/articles/24/07/17/tinypod-transforms-your-apple-watch-into-a-mock-ipod?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

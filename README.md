@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This flying robot needs a hug](https://www.theverge.com/2024/7/17/24200522/drone-uav-research-crash-landing-epfl-robots)
- - [Microsoft Designer brings AI image generation to iPhone before Apple Intelligence](https://appleinsider.com/articles/24/07/17/microsoft-designer-brings-ai-image-generation-to-iphone-before-apple-intelligence?utm_medium=rss)
- - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
- - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
- - [These Top 5 Prime Day Kindle Deals Won&#39;t Last](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)<!-- TECH:END -->
+ - [T-Mobile was the fastest US mobile network in H1 2024, with a Speed Score, which combines download and upload speeds, of ~206, vs. AT&amp;T&#39;s ~112, Verizon&#39;s ~108 &lpar;Ookla&rpar;](http://www.techmeme.com/240717/p23#a240717p23)
+ - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)
+ - [Google’s AI results are showing up less frequently, a study found](https://www.theverge.com/2024/7/17/24200544/google-ai-overviews-report)
+ - [Some of the best all-in-one robot vacs are up to 50 percent off for Prime Day](https://www.theverge.com/2024/7/17/24200515/best-robot-vacuum-amazon-prime-day-deals)
+ - [This case turns your Apple Watch into a tiny iPod](https://www.theverge.com/2024/7/17/24200520/tinypod-apple-watch-accessory-ipod-case-scroll-wheel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

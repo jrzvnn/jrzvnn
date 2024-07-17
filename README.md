@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 😝 [Sparks joy](http://9gag.com/gag/aKG341Z)
- - 💣 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
+ - 😝 [I love happy endings \u2764\ufe0f](http://9gag.com/gag/azxAb0m)
+ - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
+ - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
+ - 👉 [Ozzy](http://9gag.com/gag/aD2G0Dx)<!-- MEMES:END -->
 
 ---
 

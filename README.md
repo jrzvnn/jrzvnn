@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US is mulling imposing the foreign direct product rule, seen as draconian by allies, on Tokyo Electron and ASML&#39;s chip equipment business in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p6#a240717p6)
+ - [Sources: GitLab, which has a market cap of ~$8B, is exploring a sale after attracting interest from peers, including Datadog, which has a market cap of $44B &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p5#a240717p5)
  - [ASML reports Q2 net sales of &amp;euro;6.24B &lpar;$6.8B&rpar; vs. &amp;euro;6.03B est., net income of &amp;euro;1.58B vs. &amp;euro;1.43B est., and expects 2024 total net sales to be similar to 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p4#a240717p4)
- - [Source: Fei-Fei Li&#39;s World Labs, founded in April 2024 and aiming to create &quot;spatial intelligence&quot; in AI, raised ~$100M in its latest round at a $1B+ valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240717/p3#a240717p3)
  - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [Momentum Works: SE Asia&#39;s e-commerce GMV hit $114.6B in 2023, up 15% YoY; Shopee had a 48% share and TikTok Shop&#39;s GMV grew from $4.4B in 2022 to $16.3B in 2023 &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/240717/p2#a240717p2)
- - [Best Cheap Home Security Cameras for 2024](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

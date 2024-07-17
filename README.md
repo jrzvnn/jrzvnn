@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This flying robot needs a hug](https://www.theverge.com/2024/7/17/24200522/drone-uav-research-crash-landing-epfl-robots)
  - [Microsoft Designer brings AI image generation to iPhone before Apple Intelligence](https://appleinsider.com/articles/24/07/17/microsoft-designer-brings-ai-image-generation-to-iphone-before-apple-intelligence?utm_medium=rss)
  - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
  - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
- - [The Top 5 Prime Day Kindle Deals—Plus More Amazon Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)
- - [Grab $80 Off Shokz OpenRun Pro Bone-Conduction Headphones With This Anti-Prime Day Deal](https://www.cnet.com/deals/grab-shokz-openrun-pro-bone-conduction-headphones-at-80-off-with-this-anti-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Top 5 Prime Day Kindle Deals—Plus More Amazon Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

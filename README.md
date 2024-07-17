@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
- - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
- - 💣 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
+ - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
+ - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
 
 ---
 

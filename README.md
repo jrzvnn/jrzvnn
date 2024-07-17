@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
- - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
- - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
+ - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [Smell of Pepsi](http://9gag.com/gag/a0ejP9X)
+ - 💣 [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - 😝 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 

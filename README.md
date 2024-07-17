@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here are the best Amazon Prime Day deals we’ve found on laptops](https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook)
  - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
  - [The 10th-gen iPad is matching its best price to date for Prime Day](https://www.theverge.com/2024/7/17/24200665/amazon-prime-day-apple-ipad-10th-gen-deal-sale-2024)
- - [NASA cancels its VIPER rover that would’ve searched for water on the Moon](https://www.theverge.com/2024/7/17/24200807/nasa-viper-rover-project-canceled-water-moon)
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)<!-- TECH:END -->
+ - [Our Top Recommended Robot Vacuum of 2024 Is 35% Off This Prime Day](https://www.cnet.com/deals/our-top-recommended-robot-vacuum-of-2024-is-35-off-this-prime-day/#ftag=CAD590a51e)
+ - [Best Prime Day 2024 Amazon Device Deals: Save Up to 60% on Kindle, Echo, Fire TV, Ring and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap up Apple&#39;s latest 1TB 16-inch MacBook Pro for $2,399 this week only](https://appleinsider.com/articles/24/07/17/snap-up-apples-latest-1tb-16-inch-macbook-pro-for-2399-this-week-only?utm_medium=rss)
- - [The UK will start feeding lab-grown meat to pets this year](https://www.theverge.com/2024/7/17/24200412/uk-lab-grown-cultivated-meat-pet-food-approval-meatly)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
- - [6 Best Amazon Prime Day Coffee Deals](https://www.wired.com/story/prime-day-coffee-deals-2024-1/)
- - [OpenAI CEO Sam Altman’s $27 million mansion is a ‘lemon’ with a leaky pool, lawsuit alleges](https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai)<!-- TECH:END -->
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
+ - [Microsoft launches its AI-powered Designer app out of preview on iOS and Android, letting users create images, stickers, and more, expanding on a web client &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240717/p20#a240717p20)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
+ - [Microsoft’s Designer app arrives on iOS and Android with AI editing and creation](https://www.theverge.com/2024/7/17/24200294/microsoft-designer-app-launch-windows-ios-android-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

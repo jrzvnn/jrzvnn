@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: at a June dinner, David Sacks, Chamath Palihapitiya, and others told Trump to pick JD Vance as VP; Elon Musk and Peter Thiel also advocated for Vance &lpar;New York Times&rpar;](http://www.techmeme.com/240717/p19#a240717p19)
  - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
  - [Nintendo’s mystery title Emio is a detective game](https://www.theverge.com/2024/7/17/24195883/emio-nintendo-smiling-man-switch-famicom-detective-club-date)
  - [Yemen says a ship has repaired the subsea AAE-1 cable, linking Asia and Europe, in the Red Sea, and remains in the water to repair the Seacom and EIG cables &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p18#a240717p18)
- - [The New UK Government Wants Clean Energy, Sustainable Aviation Fuel, and Public Transport Reform](https://www.wired.com/story/kings-speech-starmer-labour-climate-environment-policy/)
  - [The next No Man’s Sky update makes planets feel more real](https://www.theverge.com/2024/7/17/24200072/no-mans-sky-next-update-worlds-part-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

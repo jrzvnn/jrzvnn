@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Marc Andreessen and Ben Horowitz say Trump is the right choice for &quot;Little Tech&quot;; sources say they plan to make large donations to PACs supporting his campaign &lpar;The Information&rpar;](http://www.techmeme.com/240716/p26#a240716p26)
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
- - [Mistral launches two 7B LLMs: Codestral Mamba, for code generation, based on the Mamba architecture, and Mathstral, for math reasoning and scientific discovery &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240716/p25#a240716p25)<!-- TECH:END -->
+ - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
+ - [Flash deal: Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro drops to $1,899](https://appleinsider.com/articles/24/07/17/flash-deal-apples-1tb-14-inch-macbook-pro-m3-pro-drops-to-1899?utm_medium=rss)
+ - [Sources: Disney is working on features to increase the hours viewers spend on streaming, including pop-up live channels and more-tailored recommendations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240716/p28#a240716p28)
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
+ - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

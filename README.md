@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple device management platform Kandji raised $50M equity and $50M debt from General Catalyst, after raising $100M in 2021, taking its total funding to $288M+ &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240717/p14#a240717p14)
  - [Samsung’s new image-generating AI tool is a little too good](https://www.theverge.com/2024/7/17/24199005/samsung-galaxy-ai-z-fold-6-sketch-to-image)
  - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
  - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)
- - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)<!-- TECH:END -->
+ - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

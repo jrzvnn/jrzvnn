@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 😝 [Smell of Pepsi](http://9gag.com/gag/a0ejP9X)
- - 💣 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 😝 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 👉 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)<!-- MEMES:END -->
 
 ---
 

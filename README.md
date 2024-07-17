@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The EU&#39;s General Court says TikTok is large enough to fall under the DMA, rejecting ByteDance&#39;s challenge; ByteDance can appeal to the European Court of Justice &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240717/p11#a240717p11)
- - [Taiwan chip company employees have seen their wealth surge during the global AI boom, reinforcing Taiwan&#39;s reputation as an epicentre for creating tech wealth &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240717/p10#a240717p10)
- - [Best Apple Prime Day deals - live coverage of day 2&#39;s top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [Prime Day Has Brought the Google Pixel 7A to an Incredibly Low Price &lpar;2024&rpar;](https://www.wired.com/story/google-pixel-deals-prime-day-2024-1/)
- - [Xiaomi Shows Off Mix Flip Phone Ahead of Friday Launch](https://www.cnet.com/tech/mobile/xiaomi-shows-off-mix-flip-phone-ahead-of-friday-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: 129 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
+ - [Best Savings Rates Today -- Earn APYs 15X the New National Average, July 17, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-17-2024/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $50: Enjoy Discounts on Home Tech, Fitness Essentials, Toys, Tech and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-17/#ftag=CAD590a51e)
+ - [Taiwan chip company employees have seen their wealth surge during the global AI boom, reinforcing Taiwan&#39;s reputation as an epicentre for creating tech wealth &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240717/p10#a240717p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

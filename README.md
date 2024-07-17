@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google unveils Project Oscar, an open-source platform to help product teams monitor software issues or bugs via AI agents, at its I/O Connect Bengaluru event &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240717/p13#a240717p13)
  - [Court filing: FTX and the CFTC agree a $12.7B settlement after months of negotiations, pending a judge&#39;s approval; FTX will return up to $12.7B to creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240717/p12#a240717p12)
  - [The EU&#39;s General Court says TikTok is large enough to fall under the DMA, rejecting ByteDance&#39;s challenge; ByteDance can appeal to the European Court of Justice &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240717/p11#a240717p11)
  - [Amazon Prime Day 2024: 129 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Earn APYs 15X the New National Average, July 17, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-17-2024/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $50: Enjoy Discounts on Home Tech, Fitness Essentials, Toys, Tech and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pancreatic Cancer Turns Off a Key Gene in Order to Grow](https://www.wired.com/story/pancreas-pancreatic-cancer-dna-methylation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

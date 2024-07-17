@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iMessage patent row between Apple and MPH revived with new subpoena](https://appleinsider.com/articles/24/07/17/imessage-patent-row-between-apple-and-mph-revived-with-new-subpoena?utm_medium=rss)
  - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
  - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)
- - [Hundreds more Californians get housing with Apple&#39;s help](https://appleinsider.com/articles/24/07/17/hundreds-more-californians-get-housing-with-apples-help?utm_medium=rss)
- - [Mercedes-Benz’s 400kW EV chargers are coming to Starbucks](https://www.theverge.com/2024/7/17/24199984/mercedes-benzs-starbucks-ev-charging-stations-400-kw)
- - [The Biden administration wants to find more sustainable construction materials](https://www.theverge.com/2024/7/17/24199905/biden-administration-epa-grants-construction-materials-steel-cement-climate-environmental-assessment)<!-- TECH:END -->
+ - [Don&#39;t Wait to Plan Your Holiday Travel. Booking Now Could Save You Thousands](https://www.cnet.com/personal-finance/credit-cards/dont-wait-to-plan-your-holiday-travel-booking-now-could-save-you-thousands/#ftag=CAD590a51e)
+ - [Hundreds more Californians get housing with Apple&#39;s help](https://appleinsider.com/articles/24/07/17/hundreds-more-californians-get-housing-with-apples-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

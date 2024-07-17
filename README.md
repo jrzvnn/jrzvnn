@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
  - [US eyeing new rules to keep Chinese software out of cars](https://www.theverge.com/2024/7/17/24200480/us-cars-limits-china-software-commerce)
  - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
  - [Canon’s new pro cameras have eye-controlled autofocus and stacked sensors](https://www.theverge.com/2024/7/17/24200381/canon-eos-r1-r5-mark-ii-2024-announce)
- - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
- - [We Found the 8 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/prime-day-laptop-deals-2024-1/)<!-- TECH:END -->
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

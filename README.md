@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
+ - [Nintendo’s mystery title Emio is a detective game](https://www.theverge.com/2024/7/17/24195883/emio-nintendo-smiling-man-switch-famicom-detective-club-date)
  - [Yemen says a ship has repaired the subsea AAE-1 cable, linking Asia and Europe, in the Red Sea, and remains in the water to repair the Seacom and EIG cables &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p18#a240717p18)
  - [The New UK Government Wants Clean Energy, Sustainable Aviation Fuel, and Public Transport Reform](https://www.wired.com/story/kings-speech-starmer-labour-climate-environment-policy/)
- - [The next No Man’s Sky update makes planets feel more real](https://www.theverge.com/2024/7/17/24200072/no-mans-sky-next-udate-worlds-part-1)
- - [Israel-based CytoReason, which uses AI to develop disease models, raised $80M from Nvidia, Pfizer, Thermo Fisher, and OurCrowd, and plans a Massachusetts office &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240717/p17#a240717p17)
- - [Best Prime Day Toy Deals on Board Games and Legos &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-toy-game-deals-1/)<!-- TECH:END -->
+ - [The next No Man’s Sky update makes planets feel more real](https://www.theverge.com/2024/7/17/24200072/no-mans-sky-next-update-worlds-part-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

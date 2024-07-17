@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on smart home gear](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)
- - [Deals from the desks of The Verge’s staff](https://www.theverge.com/24200654/amazon-prime-day-deals-desk-acessories-keyboards-lighting-webcams)
- - [Meta says it will withhold future multimodal AI models in the EU because of what it says is a lack of clarity from regulators; text-only models will be offered &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240717/p25#a240717p25)
- - [Travel Smart and Save 31% on an Anker Zolo Power Bank during Prime Day](https://www.cnet.com/deals/travel-smart-with-23-off-in-prime-day-savings-on-an-anker-zolo-power-bank/#ftag=CAD590a51e)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)<!-- TECH:END -->
+ - [Global chip stocks fell sharply after reports of tighter export restrictions from the US and comments from Trump, who said Taiwan should pay the US for defense &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p27#a240717p27)
+ - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
+ - [Sources: Coatue, Alkeon Capital, General Catalyst and others have invested in Figma as part of a deal valuing it at $12.5B; Figma is delivering ARR of $700M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p26#a240717p26)
+ - [Apple Studio Display is discounted to $1,299 at Amazon as Prime Day draws to a close](https://appleinsider.com/articles/24/07/17/apple-studio-display-is-discounted-to-1299-at-amazon-as-prime-day-draws-to-a-close?utm_medium=rss)
+ - [The best Prime Day deals on smart home gear](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

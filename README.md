@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
+ - [Canon’s new pro cameras have eye-controlled autofocus and stacked sensors](https://www.theverge.com/2024/7/17/24200381/canon-eos-r1-r5-mark-ii-2024-announce)
  - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
  - [Microsoft launches its AI-powered Designer app out of preview on iOS and Android, letting users create images, stickers, and more, expanding on a web client &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240717/p20#a240717p20)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
- - [Microsoft’s Designer app arrives on iOS and Android with AI editing and creation](https://www.theverge.com/2024/7/17/24200294/microsoft-designer-app-launch-windows-ios-android-features)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

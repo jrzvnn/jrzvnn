@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 💣 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
  - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 😝 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)
+ - 👉 [Yoinkers](http://9gag.com/gag/aKG3wRN)<!-- MEMES:END -->
 
 ---
 

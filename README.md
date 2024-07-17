@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
  - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
  - [This Prime Day has cranked up the deals on Bose and Sony speakers](https://www.theverge.com/2024/7/17/24200551/amazon-prime-day-bose-soundlink-flex-bluetooth-speaker-soundbar-deal-sale)
  - [Global chip stocks fell sharply after reports of tighter export restrictions from the US and comments from Trump, who said Taiwan should pay the US for defense &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p27#a240717p27)
- - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
- - [Sources: Coatue, Alkeon Capital, General Catalyst and others have invested in Figma as part of a deal valuing it at $12.5B; Figma is delivering ARR of $700M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p26#a240717p26)<!-- TECH:END -->
+ - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

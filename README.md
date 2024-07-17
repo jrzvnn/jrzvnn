@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
- - 💣 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 😝 [Tight and short skirt](http://9gag.com/gag/ae9GvqB)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 💣 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
 
 ---
 

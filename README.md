@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yemen says a ship has repaired the subsea AAE-1 cable, linking Asia and Europe, in the Red Sea, and remains in the water to repair the Seacom and EIG cables &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p18#a240717p18)
+ - [The New UK Government Wants Clean Energy, Sustainable Aviation Fuel, and Public Transport Reform](https://www.wired.com/story/kings-speech-starmer-labour-climate-environment-policy/)
+ - [The next No Man’s Sky update makes planets feel more real](https://www.theverge.com/2024/7/17/24200072/no-mans-sky-next-udate-worlds-part-1)
  - [Israel-based CytoReason, which uses AI to develop disease models, raised $80M from Nvidia, Pfizer, Thermo Fisher, and OurCrowd, and plans a Massachusetts office &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240717/p17#a240717p17)
- - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)
- - [iMessage patent row between Apple and MPH revived with new subpoena](https://appleinsider.com/articles/24/07/17/imessage-patent-row-between-apple-and-mph-revived-with-new-subpoena?utm_medium=rss)
- - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
- - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)<!-- TECH:END -->
+ - [Best Prime Day Toy Deals on Board Games and Legos &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-toy-game-deals-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

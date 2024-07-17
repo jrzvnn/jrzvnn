@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally worth it](http://9gag.com/gag/aAyPYoR)
- - 😝 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)
- - 💣 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
- - 😝 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
- - 👉 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)<!-- MEMES:END -->
+ - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 😝 [The did not break character](http://9gag.com/gag/ae9637v)
+ - 👉 [Thought?](http://9gag.com/gag/aqyLZgY)<!-- MEMES:END -->
 
 ---
 

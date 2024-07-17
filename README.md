@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Prime Day has cranked up the deals on Bose and Sony speakers](https://www.theverge.com/2024/7/17/24200551/amazon-prime-day-bose-soundlink-flex-bluetooth-speaker-soundbar-deal-sale)
  - [Global chip stocks fell sharply after reports of tighter export restrictions from the US and comments from Trump, who said Taiwan should pay the US for defense &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p27#a240717p27)
  - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
  - [Sources: Coatue, Alkeon Capital, General Catalyst and others have invested in Figma as part of a deal valuing it at $12.5B; Figma is delivering ARR of $700M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p26#a240717p26)
- - [Apple Studio Display is discounted to $1,299 at Amazon as Prime Day draws to a close](https://appleinsider.com/articles/24/07/17/apple-studio-display-is-discounted-to-1299-at-amazon-as-prime-day-draws-to-a-close?utm_medium=rss)
- - [The best Prime Day deals on smart home gear](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)<!-- TECH:END -->
+ - [Apple Studio Display is discounted to $1,299 at Amazon as Prime Day draws to a close](https://appleinsider.com/articles/24/07/17/apple-studio-display-is-discounted-to-1299-at-amazon-as-prime-day-draws-to-a-close?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

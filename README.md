@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [Prime Day deals: Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)
+ - [In an interview, Google DeepMind&#39;s and Google Research&#39;s chief scientist Jeff Dean says AI is not to blame for the brunt of data center emissions increase &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240717/p1#a240717p1)
+ - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
+ - [Build Your Own Home Theater With Xgimi Projectors: Get Up to 53% off During Prime Day](https://www.cnet.com/deals/create-your-own-home-theater-with-xgimi-projectors-up-to-53-off-during-prime-day/#ftag=CAD590a51e)
  - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)
- - [Best Sleep Headphones of 2024](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 17, #1124](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-17-1124/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

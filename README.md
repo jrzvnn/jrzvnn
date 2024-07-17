@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The car is lava](http://9gag.com/gag/aYQLjAm)
- - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - 💣 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
  - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 👉 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)<!-- MEMES:END -->
+ - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
+ - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 😝 [Sparks joy](http://9gag.com/gag/aKG341Z)
+ - 👉 [Its feels time!](http://9gag.com/gag/azxAgoz)<!-- MEMES:END -->
 
 ---
 

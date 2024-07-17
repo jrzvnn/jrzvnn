@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
  - [Canon’s new pro cameras have eye-controlled autofocus and stacked sensors](https://www.theverge.com/2024/7/17/24200381/canon-eos-r1-r5-mark-ii-2024-announce)
  - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
- - [Microsoft launches its AI-powered Designer app out of preview on iOS and Android, letting users create images, stickers, and more, expanding on a web client &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240717/p20#a240717p20)<!-- TECH:END -->
+ - [We Found the 8 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/prime-day-laptop-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

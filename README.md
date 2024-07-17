@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils Project Oscar, an open-source platform to help product teams monitor software issues or bugs via AI agents, at its I/O Connect Bengaluru event &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240717/p13#a240717p13)
- - [Court filing: FTX and the CFTC agree a $12.7B settlement after months of negotiations, pending a judge&#39;s approval; FTX will return up to $12.7B to creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240717/p12#a240717p12)
- - [The EU&#39;s General Court says TikTok is large enough to fall under the DMA, rejecting ByteDance&#39;s challenge; ByteDance can appeal to the European Court of Justice &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240717/p11#a240717p11)
- - [Amazon Prime Day 2024: 129 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [Pancreatic Cancer Turns Off a Key Gene in Order to Grow](https://www.wired.com/story/pancreas-pancreatic-cancer-dna-methylation/)<!-- TECH:END -->
+ - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)
+ - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
+ - [Best Prime Day TV Deals: Up to $1,500 Off Sony, Samsung, LG and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-17/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 131 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
+ - [13 Best Amazon Prime Day Monitor Deals: Save Up to 45% on Acer, Alienware, LG and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 💣 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 😝 [Tight and short skirt](http://9gag.com/gag/ae9GvqB)
- - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
+ - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 👉 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)<!-- MEMES:END -->
 
 ---
 

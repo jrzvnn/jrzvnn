@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
- - 😝 [Its feels time!](http://9gag.com/gag/azxAgoz)
- - 💣 [The car is lava](http://9gag.com/gag/aYQLjAm)
- - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 👉 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)<!-- MEMES:END -->
+ - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 💣 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
+ - 😝 [I\u2019ll take a BLT, babe\u2026. never gets old](http://9gag.com/gag/axyDNBp)
+ - 👉 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)<!-- MEMES:END -->
 
 ---
 

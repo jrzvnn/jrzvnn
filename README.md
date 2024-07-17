@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
- - [iPhone 15 struggles in sales but older models pick up the slack](https://appleinsider.com/articles/24/07/17/iphone-15-struggles-in-sales-but-older-models-pick-up-the-slack?utm_medium=rss)
- - [Sources: at a June dinner, David Sacks, Chamath Palihapitiya, and others told Trump to pick JD Vance as VP; Elon Musk and Peter Thiel also advocated for Vance &lpar;New York Times&rpar;](http://www.techmeme.com/240717/p19#a240717p19)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)
- - [Nintendo’s mystery title Emio is a detective game](https://www.theverge.com/2024/7/17/24195883/emio-nintendo-smiling-man-switch-famicom-detective-club-date)<!-- TECH:END -->
+ - [OpenAI CEO Sam Altman’s $27 million mansion is a ‘lemon’ with a leaky pool, lawsuit alleges](https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai)
+ - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
+ - [Home Depot’s viral giant skeleton has some upgrades — and lots of new friends](https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton)
+ - [The best Prime Day deals on smart home gear](https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs)
+ - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

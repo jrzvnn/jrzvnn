@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [Prime Day deals: Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)
  - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)
  - [Best Sleep Headphones of 2024](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 17, #1124](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-17-1124/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 17, #402](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-17-402/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 17, #1124](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-17-1124/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

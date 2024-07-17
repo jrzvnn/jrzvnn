@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta launches a small pilot program to let some researchers access Instagram data for up to about six months to study the app&#39;s effect on teens and young adults &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240717/p21#a240717p21)
  - [The best Prime Day tech deals you can still get](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [Rumored thin motherboard for iPhone 17 allegedly dropped over quality issues](https://appleinsider.com/articles/24/07/17/rumored-thin-motherboard-for-iphone-17-allegedly-dropped-over-quality-issues?utm_medium=rss)
  - [Spotify launches a new voice and language for its AI DJ](https://www.theverge.com/2024/7/17/24200511/spotify-ai-dj-spanish-language-update-playlist-feature)
- - [Best 50+ Prime Day deals on Apple to grab before the sale ends tonight](https://appleinsider.com/articles/24/07/17/best-50-prime-day-deals-on-apple-to-grab-before-the-sale-ends-tonight?utm_medium=rss)
- - [Amazon Prime Day Faves: Top Picks and Deep Discounts from CNET Readers](https://www.cnet.com/deals/amazon-prime-day-faves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 50+ Prime Day deals on Apple to grab before the sale ends tonight](https://appleinsider.com/articles/24/07/17/best-50-prime-day-deals-on-apple-to-grab-before-the-sale-ends-tonight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

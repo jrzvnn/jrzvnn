@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love happy endings \u2764\ufe0f](http://9gag.com/gag/azxAb0m)
- - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
- - 👉 [Ozzy](http://9gag.com/gag/aD2G0Dx)<!-- MEMES:END -->
+ - 😝 [The 5 most famous laws in the world](http://9gag.com/gag/ayN85BX)
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
 
 ---
 

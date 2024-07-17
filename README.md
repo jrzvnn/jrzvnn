@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sparks joy](http://9gag.com/gag/aKG341Z)
- - 😝 [RIP Ian Cameron, legendary car designer, stabbed to death during burglary/home invasion in Bavaria.](http://9gag.com/gag/aLn9K4M)
- - 💣 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)
- - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - 👉 [Yoinkers](http://9gag.com/gag/aKG3wRN)<!-- MEMES:END -->
+ - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 😝 [The 5 most famous laws in the world](http://9gag.com/gag/ayN85BX)
+ - 👉 [&#39;Far-right&#39; protesters hold public pork BBQ in Greece to protest against unchecked migrants and refugees](http://9gag.com/gag/a7od5vA)<!-- MEMES:END -->
 
 ---
 

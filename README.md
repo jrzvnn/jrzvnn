@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
  - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
  - 💣 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
  - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
 
 ---

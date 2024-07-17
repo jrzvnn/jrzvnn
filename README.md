@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 😝 [Fugen LEGEND](http://9gag.com/gag/adBjmjV)
- - 💣 [Summer with vaas](http://9gag.com/gag/a34BoO5)
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 👉 [Someone Anonymously Mailed Two Bronze Age Axes to a Museum in Ireland | Officials are asking the donor to come forward with more information about where the artifacts were discovered](http://9gag.com/gag/a9yYjL1)<!-- MEMES:END -->
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 💣 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - 😝 [Tight and short skirt](http://9gag.com/gag/ae9GvqB)
+ - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
 
 ---
 

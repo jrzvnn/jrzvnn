@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [People in the crypto space should not choose political allegiances based on who claims to be &quot;pro-crypto&quot;, as they might go against crypto&#39;s underlying goals &lpar;Vitalik Buterin&rpar;](http://www.techmeme.com/240717/p29#a240717p29)
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [Here are our favorite tech deals from the last day of Prime Day](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [Spotify launches an AI DJ that speaks Spanish, in beta for Premium customers in markets where its English-language DJ is offered, and in Spain and Latin America &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240717/p28#a240717p28)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
- - [Nintendo’s offering a rare discount on its wireless NES gamepads](https://www.theverge.com/2024/7/17/24200753/nintendo-deal-gaming-nes-gamepad-controller-wireless)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

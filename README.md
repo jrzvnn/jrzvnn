@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
  - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 💣 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - 😝 [Its 2003 and you have nothing else in mind](http://9gag.com/gag/avynpLd)
+ - 💣 [Its 2003 and you have nothing else in mind](http://9gag.com/gag/avynpLd)
+ - 😝 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
  - 👉 [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)<!-- MEMES:END -->
 
 ---

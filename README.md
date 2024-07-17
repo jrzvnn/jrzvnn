@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s General Court says TikTok is large enough to fall under the DMA, rejecting ByteDance&#39;s challenge; ByteDance can appeal to the European Court of Justice &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240717/p11#a240717p11)
  - [Taiwan chip company employees have seen their wealth surge during the global AI boom, reinforcing Taiwan&#39;s reputation as an epicentre for creating tech wealth &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240717/p10#a240717p10)
  - [Best Apple Prime Day deals - live coverage of day 2&#39;s top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
  - [Prime Day Has Brought the Google Pixel 7A to an Incredibly Low Price &lpar;2024&rpar;](https://www.wired.com/story/google-pixel-deals-prime-day-2024-1/)
- - [Xiaomi Shows Off Mix Flip Phone Ahead of Friday Launch](https://www.cnet.com/tech/mobile/xiaomi-shows-off-mix-flip-phone-ahead-of-friday-launch/#ftag=CAD590a51e)
- - [Dealogic: foreign capital in China&#39;s VC industry fell 60% YoY to $3.7B in 2023, just 10% of the 2021 peak, leading to an expansion of state-backed funds &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240717/p9#a240717p9)<!-- TECH:END -->
+ - [Xiaomi Shows Off Mix Flip Phone Ahead of Friday Launch](https://www.cnet.com/tech/mobile/xiaomi-shows-off-mix-flip-phone-ahead-of-friday-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

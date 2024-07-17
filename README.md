@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10th-gen iPad is matching its best price to date for Prime Day](https://www.theverge.com/2024/7/17/24200665/amazon-prime-day-apple-ipad-10th-gen-deal-sale-2024)
  - [NASA cancels its VIPER rover that would’ve searched for water on the Moon](https://www.theverge.com/2024/7/17/24200807/nasa-viper-rover-project-canceled-water-moon)
  - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
  - [Apple TV+ shows get 72 nominations for the 76th Emmy Awards](https://appleinsider.com/articles/24/07/17/apple-tv-shows-nominated-in-the-76th-emmy-awards?utm_medium=rss)
- - [Microsoft integrates Nvidia’s GeForce Now into its Xbox game pages](https://www.theverge.com/2024/7/17/24200819/microsoft-nvidia-geforce-now-integration-xbox-store-pages)
- - [People in the crypto space should not choose political allegiances based on who claims to be &quot;pro-crypto&quot;, as they might go against crypto&#39;s underlying goals &lpar;Vitalik Buterin&rpar;](http://www.techmeme.com/240717/p29#a240717p29)<!-- TECH:END -->
+ - [Microsoft integrates Nvidia’s GeForce Now into its Xbox game pages](https://www.theverge.com/2024/7/17/24200819/microsoft-nvidia-geforce-now-integration-xbox-store-pages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

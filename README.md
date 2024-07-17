@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
  - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
  - [Massive price cuts on 3D printers &amp; supplies offer up to 60% off for Prime Day 2024](https://appleinsider.com/articles/24/07/17/massive-price-cuts-on-3d-printers-supplies-offer-up-to-60-off-for-prime-day-2024?utm_medium=rss)
  - [Instagram will help researchers study if it’s hurting teen mental health](https://www.theverge.com/2024/7/17/24200579/meta-instagram-researchers-study-teen-mental-health)
- - [It’s Not Too Late to Buy the Oura Ring on Sale](https://www.wired.com/story/oura-ring-prime-day-deal-2024/)
- - [Get a Babbel Lifetime Subscription at 78% off With This Prime Day Competitor](https://www.cnet.com/deals/enjoy-78-off-babbel-lifetime-subscription-anti-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s Not Too Late to Buy the Oura Ring on Sale](https://www.wired.com/story/oura-ring-prime-day-deal-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

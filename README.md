@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
  - [Apple device management platform Kandji raised $50M equity and $50M debt from General Catalyst, after raising $100M in 2021, taking its total funding to $288M+ &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240717/p14#a240717p14)
- - [Samsung’s new image-generating AI tool is a little too good](https://www.theverge.com/2024/7/17/24199005/samsung-galaxy-ai-z-fold-6-sketch-to-image)
- - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)<!-- TECH:END -->
+ - [The Top 5 Prime Day Kindle Deals—Plus More Amazon Devices &lpar;2024&rpar;](https://www.wired.com/story/prime-day-kindle-amazon-device-deals-2024-1/)
+ - [RealPage Says Rental Pricing Tech Is Misunderstood, but Landlords Aren’t So Sure](https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/)
+ - [The Real Problem With TikTok’s ‘Fruity’ Boy Trend](https://www.wired.com/story/fruity-boys-prove-how-dating-apps-have-made-archetypes-of-us-all/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

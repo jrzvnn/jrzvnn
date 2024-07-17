@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aKGqrEN)
+ - 💣 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
  - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 💣 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
- - 😝 [I\u2019ll take a BLT, babe\u2026. never gets old](http://9gag.com/gag/axyDNBp)
- - 👉 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)<!-- MEMES:END -->
+ - 👉 [The best, most highly trained bodyguards in the world:](http://9gag.com/gag/awyx6xQ)<!-- MEMES:END -->
 
 ---
 

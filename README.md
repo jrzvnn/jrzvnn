@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doc: EU regulators are asking industry participants if Google&#39;s deal to have Gemini Nano pre-installed on Samsung phones hinders rival chatbots on the devices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240717/p22#a240717p22)
+ - [How to get a transcript for a YouTube video](https://www.theverge.com/24198846/youtube-video-transcribe-text-how-to)
+ - [Microsoft Designer brings AI image generation to iPhone before Apple Intelligence](https://appleinsider.com/articles/24/07/17/microsoft-designer-brings-ai-image-generation-to-iphone-before-apple-intelligence?utm_medium=rss)
  - [Apple TV+ shows get 11 nominations for the 76th Emmy Awards](https://appleinsider.com/articles/24/07/17/apple-tv-shows-nominated-in-the-76th-emmy-awards?utm_medium=rss)
- - [A custom sticker printer sent a pro-Trump mass SMS and enraged its clients](https://www.theverge.com/2024/7/17/24200441/sticker-mule-trump-endorsement-rally-shooting)
- - [Meta launches a small pilot program to let some researchers access Instagram data for up to about six months to study the app&#39;s effect on teens and young adults &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240717/p21#a240717p21)
- - [The best Prime Day tech deals you can still get](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [Rumored thin motherboard for iPhone 17 allegedly dropped over quality issues](https://appleinsider.com/articles/24/07/17/rumored-thin-motherboard-for-iphone-17-allegedly-dropped-over-quality-issues?utm_medium=rss)<!-- TECH:END -->
+ - [The ‘godmother of AI’ has a new startup already worth $1 billion](https://www.theverge.com/2024/7/17/24200496/ai-fei-fei-li-world-labs-andreessen-horowitz-radical-ventures)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 😝 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 😝 [Sparks joy](http://9gag.com/gag/aKG341Z)
- - 👉 [Its feels time!](http://9gag.com/gag/azxAgoz)<!-- MEMES:END -->
+ - 😝 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
+ - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 💣 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
 
 ---
 

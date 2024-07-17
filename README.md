@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Prime Day deals - live coverage of day 2&#39;s top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
  - [Dealogic: foreign capital in China&#39;s VC industry fell 60% YoY to $3.7B in 2023, just 10% of the 2021 peak, leading to an expansion of state-backed funds &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240717/p9#a240717p9)
  - [Live and Direct: The Best Prime Day Deals of 2024](https://www.wired.com/live/amazon-prime-day-2024-liveblog/)
  - [Amazon Prime Day 2024: 120+ Red Hot Amazon Prime Day Deals Directly from Our Expert Team](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [16 Best Mattresses in 2024 – Mattresses Tested by Our Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
- - [How Russian design firm Art Lebedev&#39;s Optimus keyboards, with built-in OLED screens in each key, laid the foundations for Elgato&#39;s popular Stream Deck &lpar;The Verge&rpar;](http://www.techmeme.com/240717/p8#a240717p8)<!-- TECH:END -->
+ - [16 Best Mattresses in 2024 – Mattresses Tested by Our Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

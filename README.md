@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fujitsu makes a &quot;significant investment&quot; in Cohere to build and launch LLMs in Japanese language, including &quot;Takane&quot;, which is based on Cohere&#39;s Command R+ LLM &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240717/p7#a240717p7)
  - [Sources: the US is mulling imposing the foreign direct product rule, seen as draconian by allies, on Tokyo Electron and ASML&#39;s chip equipment business in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p6#a240717p6)
  - [Sources: GitLab, which has a market cap of ~$8B, is exploring a sale after attracting interest from peers, including Datadog, which has a market cap of $44B &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p5#a240717p5)
  - [ASML reports Q2 net sales of &amp;euro;6.24B &lpar;$6.8B&rpar; vs. &amp;euro;6.03B est., net income of &amp;euro;1.58B vs. &amp;euro;1.43B est., and expects 2024 total net sales to be similar to 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p4#a240717p4)
- - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

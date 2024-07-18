@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI said it found the Trump rally shooter’s Steam account, then took it back](https://www.theverge.com/2024/7/18/24201220/trump-rally-shooter-steam-warning-thomas-matthew-crooks)
+ - [Google solves its Pixel 9 Pro leaks by just showing the phone early](https://www.theverge.com/2024/7/18/24201254/google-pixel-9-pro-release-date-ai)
+ - [Apple TV+ seeks more movie licenses from Hollywood studios](https://appleinsider.com/articles/24/07/18/apple-tv-seeks-more-movie-licenses-from-hollywood-studios?utm_medium=rss)
  - [An ex-Reality Labs manager says Meta asked the unit to cut spending by ~20% between 2024-2026; Meta plans two Quest 4 versions in 2026 and Quest Pro 2 in 2027 &lpar;The Information&rpar;](http://www.techmeme.com/240718/p21#a240718p21)
- - [Intel veteran Lisa Spelman plans to become CEO of Cornelis, a networking startup spun off from Intel in 2020, on August 15; Spelman worked at Intel for 20 years &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240718/p20#a240718p20)
- - [Instagram is adding expiring and semi-private comments](https://www.theverge.com/2024/7/18/24201105/instagram-notes-status-expansion-reels-grid-posts)
- - [Block&#39;s Cash App plans to close its UK operations on September 15, after launching in 2018, as the company &quot;deprioritizes global expansion&quot; to focus on the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p19#a240718p19)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Intel veteran Lisa Spelman plans to become CEO of Cornelis, a networking startup spun off from Intel in 2020, on August 15; Spelman worked at Intel for 20 years &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240718/p20#a240718p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

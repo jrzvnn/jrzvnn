@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest names in AI have teamed up to promote AI security](https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai)
- - [Portable CD players are back and now work with wireless headphones](https://www.theverge.com/2024/7/18/24201200/fiio-cd-player-dm13-portable-audio-bluetooth-discman)
- - [A US judge dismisses most of a SEC lawsuit accusing SolarWinds of misleading investors by failing to disclose cybersecurity failures in its Orion software &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240718/p23#a240718p23)
- - [Boost Mobile is getting a $25 monthly unlimited plan](https://www.theverge.com/2024/7/18/24201176/boost-mobile-rebrand-infinite-25-unlimited-plan)
- - [Ladies and gentlemen, The Weeknd &lpar;on Apple Vision Pro&rpar;](https://www.theverge.com/2024/7/18/24201304/the-weeknd-apple-vision-pro-nba-all-stars)<!-- TECH:END -->
+ - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)
+ - [Elephants and big waves are subjects of inbound Immersive Video releases](https://appleinsider.com/articles/24/07/18/elephants-and-big-waves-are-subjects-of-inbound-immersive-video-releases?utm_medium=rss)
+ - [Apple is launching new immersive video content for the Vision Pro over the next few months, including content from The Weeknd and the 2024 NBA All-Star Weekend &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p24#a240718p24)
+ - [iPhone 16 may not see super cycle after all, according to analyst report](https://appleinsider.com/articles/24/07/18/iphone-16-may-not-see-super-cycle-after-all-according-to-analyst-report?utm_medium=rss)
+ - [The biggest names in AI have teamed up to promote AI security](https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

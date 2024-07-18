@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 💣 [Thought?](http://9gag.com/gag/aqyLZgY)
  - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 👉 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)<!-- MEMES:END -->
+ - 💣 [Zero awareness](http://9gag.com/gag/aMVGpWV)
+ - 😝 [I don&#39;t understand](http://9gag.com/gag/aGyxP55)
+ - 👉 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)<!-- MEMES:END -->
 
 ---
 

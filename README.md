@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Netflix reports Q2 revenue up 16.8% YoY to $9.56B, vs. $9.53B est., paid memberships up 16.5% YoY to 277.65M, vs. 274.4M est., net income up 44% YoY to $2.15B &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/240718/p30#a240718p30)
  - [The Acolyte’s first season made Star Wars’ dark past feel like a bright future](https://www.theverge.com/2024/7/18/24200454/the-acolyte-season-one-finale)
  - [Docs: Canadian PE firm PartnerOne paid $28.2M for HeadSpin, whose 2023 revenue was $21M and its Q1 2024 was $5M; HeadSpin was valued at $1.1B in 2020 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240718/p29#a240718p29)
- - [Figma explains how its AI tool ripped off Apple’s design](https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple)
- - [Best new 2024 M4 iPad Pro cases to keep your devices safe](https://appleinsider.com/inside/ipad-pro/best/best-new-m4-ipad-pro-cases-to-keep-your-devices-safe?utm_medium=rss)
- - [Austin-based Thoughtful AI, which provides healthcare revenue collection tools, raised a $20M Series A led by Drive Capital, bringing its total funding to $35M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240718/p28#a240718p28)<!-- TECH:END -->
+ - [Figma explains how its AI tool ripped off Apple’s design](https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

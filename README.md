@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)
- - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 👉 [G.O.A.T](http://9gag.com/gag/aPAWy1w)<!-- MEMES:END -->
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
+ - 😝 [No Man&#39;s Sky be like](http://9gag.com/gag/aKG3g2j)
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 👉 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)<!-- MEMES:END -->
 
 ---
 

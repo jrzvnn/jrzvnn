@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPT-4o mini costs $0.15 per 1M input tokens and $0.60 per 1M output tokens, prices lower than those of Claude 3 Haiku and Gemini 1.5 Flash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240718/p27#a240718p27)
  - [Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240718/p26#a240718p26)
  - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)
  - [Elephants and big waves are subjects of inbound Immersive Video releases](https://appleinsider.com/articles/24/07/18/elephants-and-big-waves-are-subjects-of-inbound-immersive-video-releases?utm_medium=rss)
- - [Meta Follows in Apple&#39;s Footsteps by Restricting AI Releases in EU Countries](https://www.cnet.com/tech/services-and-software/meta-follows-in-apples-footsteps-by-restricting-ai-releases-in-eu-countries/#ftag=CAD590a51e)
- - [Apple is launching new immersive video content for the Vision Pro over the next few months, including content from The Weeknd and the 2024 NBA All-Star Weekend &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p24#a240718p24)<!-- TECH:END -->
+ - [Meta Follows in Apple&#39;s Footsteps by Restricting AI Releases in EU Countries](https://www.cnet.com/tech/services-and-software/meta-follows-in-apples-footsteps-by-restricting-ai-releases-in-eu-countries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

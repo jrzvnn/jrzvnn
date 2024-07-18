@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian crypto exchange WazirX says one of its multisig wallets &quot;experienced a security breach&quot; after $230M+ in withdrawals; WazirX had $500M in holdings in June &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240718/p7#a240718p7)
  - [Rotterdam-based chip gear maker Nearfield raised a &amp;euro;135M Series C led by Walden Catalyst Management and Temasek, and &quot;is on track to become a unicorn by 2026&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p6#a240718p6)
  - [Best Wireless Bluetooth Boom Boxes for 2024](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
  - [These 120+ Prime Day Deals Are Still Available: Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-18/#ftag=CAD590a51e)
- - [37 Best Prime Day Apple Deals You Can Still Get on AirPods, MacBooks and iPads](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-18/#ftag=CAD590a51e)
- - [Newly Discovered Moon Caves Could One Day House Astronauts](https://www.wired.com/story/moon-tunnels-caves-astronauts-moon-colony/)<!-- TECH:END -->
+ - [37 Best Prime Day Apple Deals You Can Still Get on AirPods, MacBooks and iPads](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is releasing a cheaper, smarter model](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini)
+ - [Nvidia and Mistral announce Mistral NeMo, a 12B-parameter model with a context window of up to 128k tokens, available under the Apache 2.0 open-source license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240718/p18#a240718p18)
+ - [Hisense’s new TV is just like Samsung’s Frame but costs a lot less](https://www.theverge.com/2024/7/18/24201121/hisense-canvas-tv-samsung-frame-price-sizes)
  - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
- - [Adobe: US shoppers spent $14.2B during Amazon&#39;s 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240718/p17#a240718p17)
- - [Sources: Apple has spoken to major Hollywood studios about acquiring more programming from their libraries to offer customers both in the US and abroad &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p16#a240718p16)
- - [OpenAI unveils GPT-4o mini, calling it &quot;the most capable and cost-efficient small model available&quot;, and plans to integrate image, video, and audio into it later &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240718/p15#a240718p15)
- - [Watch Steve Jobs describe the future and AI a year before the Mac](https://appleinsider.com/articles/24/07/18/watch-steve-jobs-describe-the-future-and-ai-a-year-before-the-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe: US shoppers spent $14.2B during Amazon&#39;s 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240718/p17#a240718p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

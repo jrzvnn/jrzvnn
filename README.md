@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 😝 [8 Years with frequent updates..Looks at Bethesda &amp; Todd Howard](http://9gag.com/gag/adBXYBM)
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
  - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
- - 😝 [Owner saves dog from coyote that owed him money](http://9gag.com/gag/aYQLW7N)
- - 💣 [No overtime](http://9gag.com/gag/aGyDK2X)
- - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 

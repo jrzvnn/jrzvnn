@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence wasn&#39;t trained on stolen YouTube videos](https://appleinsider.com/articles/24/07/18/apple-intelligence-wasnt-trained-on-stolen-youtube-videos?utm_medium=rss)
+ - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [The best Prime Day deals on the Verge’s favorite desk accessories](https://www.theverge.com/24200654/amazon-prime-day-deals-desk-acessories-keyboards-lighting-webcams)
  - [Meta decides to suspend its generative AI tools in Brazil after the government objected to Meta&#39;s new privacy policy on using personal data to train AI models &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p33#a240717p33)
- - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
- - [Apple says its OpenELM model doesn&#39;t power any AI features, including Apple Intelligence, after a report said Apple used YouTube subtitles to train the model &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240717/p32#a240717p32)
- - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

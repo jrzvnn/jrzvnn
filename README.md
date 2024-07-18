@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Portable CD players are back and now work with wireless headphones](https://www.theverge.com/2024/7/18/24201200/fiio-cd-player-dm13-portable-audio-bluetooth-discman)
  - [A US judge dismisses most of a SEC lawsuit accusing SolarWinds of misleading investors by failing to disclose cybersecurity failures in its Orion software &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240718/p23#a240718p23)
  - [Boost Mobile is getting a $25-a-month unlimited plan](https://www.theverge.com/2024/7/18/24201176/boost-mobile-rebrand-infinite-25-unlimited-plan)
  - [Ladies and gentlemen, The Weeknd &lpar;on Apple Vision Pro&rpar;](https://www.theverge.com/2024/7/18/24201304/the-weeknd-apple-vision-pro-nba-all-stars)
- - [Microsoft reaches a settlement with French cloud service OVHcloud in which OVHcloud will drop its March 2022 antitrust complaint to EU regulators &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/240718/p22#a240718p22)
- - [Laureen Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)<!-- TECH:END -->
+ - [Splitgate 2 Announced, New Halo-Meets-Portal FPS Coming 2025](https://www.cnet.com/tech/gaming/splitgate-2-announced-new-halo-meets-portal-fps-coming-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
+ - 💣 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
  - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 💣 [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
- - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

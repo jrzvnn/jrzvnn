@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 💣 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 💣 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
+ - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 

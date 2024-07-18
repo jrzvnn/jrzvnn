@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
- - 😝 [No Man&#39;s Sky be like](http://9gag.com/gag/aKG3g2j)
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 👉 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)<!-- MEMES:END -->
+ - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 😝 [Bro touching the spawn point](http://9gag.com/gag/aKG3zgW)
+ - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 👉 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)<!-- MEMES:END -->
 
 ---
 

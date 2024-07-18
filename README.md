@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reaches a settlement with French cloud service OVHcloud in which OVHcloud will drop its March 2022 antitrust complaint to EU regulators &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/240718/p22#a240718p22)
+ - [Laureen Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)
  - [The Boys season four finale gets a disclaimer following Trump rally shooting](https://www.theverge.com/2024/7/18/24201222/the-boys-season-4-finale-disclaimer-amazon-prime-video-trump)
  - [The FBI said it found the Trump rally shooter’s Steam account, then took it back](https://www.theverge.com/2024/7/18/24201220/trump-rally-shooter-steam-warning-thomas-matthew-crooks)
- - [Google solves its Pixel 9 Pro leaks by just showing the phone early](https://www.theverge.com/2024/7/18/24201254/google-pixel-9-pro-release-date-ai)
- - [Apple TV+ seeks more movie licenses from Hollywood studios](https://appleinsider.com/articles/24/07/18/apple-tv-seeks-more-movie-licenses-from-hollywood-studios?utm_medium=rss)
- - [Our Favorite Budget Wi-Fi Extender Is Now Even Cheaper Post-Prime Day](https://www.cnet.com/deals/tp-link-wifi-extender-discount-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google solves its Pixel 9 Pro leaks by just showing the phone early](https://www.theverge.com/2024/7/18/24201254/google-pixel-9-pro-release-date-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

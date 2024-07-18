@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [J.D. Vance Left His Venmo Public. Here’s What It Shows](https://www.wired.com/story/jd-vance-venmo/)
+ - [A US judge dismisses most of a SEC lawsuit accusing SolarWinds of misleading investors by failing to disclose cybersecurity failures in its Orion software &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240718/p23#a240718p23)
+ - [Boost Mobile is getting a $25-a-month unlimited plan](https://www.theverge.com/2024/7/18/24201176/boost-mobile-rebrand-infinite-25-unlimited-plan)
+ - [Ladies and gentlemen, The Weeknd &lpar;on Apple Vision Pro&rpar;](https://www.theverge.com/2024/7/18/24201304/the-weeknd-apple-vision-pro-nba-all-stars)
  - [Microsoft reaches a settlement with French cloud service OVHcloud in which OVHcloud will drop its March 2022 antitrust complaint to EU regulators &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/240718/p22#a240718p22)
- - [Laureen Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)
- - [Missed Out on Prime Day? These 155 Deals Are Still Going Strong &lpar;2024&rpar;](https://www.wired.com/story/leftover-prime-day-deals-2024/)
- - [The Boys season 4 finale gets a disclaimer following Trump rally shooting](https://www.theverge.com/2024/7/18/24201222/the-boys-season-4-finale-disclaimer-amazon-prime-video-trump)<!-- TECH:END -->
+ - [Laureen Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

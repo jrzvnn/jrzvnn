@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Block&#39;s Cash App plans to close its UK operations on September 15, after launching in 2018, as the company &quot;deprioritizes global expansion&quot; to focus on the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p19#a240718p19)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Dune: Prophecy hits HBO in November](https://www.theverge.com/2024/7/18/24201198/dune-prophecy-trailer-release-date-max-hbo)
- - [OpenAI is releasing a cheaper, smarter model](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini)
- - [Best Prime Day Laptop Deals: 15 Top Offers Still Available on MacBooks, Acer, HP and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Is All In On Endorsing Trump. His Chatbot, Grok, Is Not](https://www.wired.com/story/elon-musk-is-all-in-on-endorsing-trump-his-ai-chatbot-grok-is-not/)
+ - [OpenAI is releasing a cheaper, smarter model](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

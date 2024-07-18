@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 😝 [Bro touching the spawn point](http://9gag.com/gag/aKG3zgW)
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
  - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 👉 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)<!-- MEMES:END -->
+ - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
 
 ---
 

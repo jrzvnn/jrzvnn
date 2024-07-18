@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hardware drops to as low as $109, but the deals end today](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)
+ - [Beats Pill quality and Apple Music growth subjects of new Apple VP interview](https://appleinsider.com/articles/24/07/18/beats-pill-quality-and-apple-music-growth-subjects-of-new-apple-vp-interview?utm_medium=rss)
+ - [Bose SoundLink Max Bluetooth Speaker Review: Price, Specs, Availability](https://www.wired.com/review/review-bose-soundlink-max-bluetooth-speaker/)
  - [Cellebrite can&#39;t crack iPhones running iOS 17.4 or later](https://appleinsider.com/articles/24/07/18/cellebrite-cant-crack-iphones-running-ios-174-or-later?utm_medium=rss)
- - [Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership &lpar;Financial Times&rpar;](http://www.techmeme.com/240718/p12#a240718p12)
- - [Meta won’t release its multimodal Llama AI model in the EU](https://www.theverge.com/2024/7/18/24201041/meta-multimodal-llama-ai-model-launch-eu-regulations)
- - [How Spain relies on the VioG&amp;eacute;n algorithm to score the likelihood of recurring domestic violence and decide protection measures, with at times fatal consequences &lpar;New York Times&rpar;](http://www.techmeme.com/240718/p11#a240718p11)
- - [Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership &lpar;Financial Times&rpar;](http://www.techmeme.com/240718/p12#a240718p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Amazon Prime Day deals we’ve found on laptops](https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook)
- - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
- - [The 10th-gen iPad is matching its best price to date for Prime Day](https://www.theverge.com/2024/7/17/24200665/amazon-prime-day-apple-ipad-10th-gen-deal-sale-2024)
- - [Our Top Recommended Robot Vacuum of 2024 Is 35% Off This Prime Day](https://www.cnet.com/deals/our-top-recommended-robot-vacuum-of-2024-is-35-off-this-prime-day/#ftag=CAD590a51e)
- - [Best Prime Day 2024 Amazon Device Deals: Save Up to 60% on Kindle, Echo, Fire TV, Ring and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
+ - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
+ - [Nasdaq fell 2.77% in its worst session since December 2022, with Meta shares down 5.68%, ASML down 12.74%, and Nvidia down 6.62%; TSMC shares on NYSE fell 7.98% &lpar;CNBC&rpar;](http://www.techmeme.com/240717/p30#a240717p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

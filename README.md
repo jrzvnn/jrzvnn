@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Splitgate’s portal-hopping sequel announced for 2025](https://www.theverge.com/2024/7/18/24201104/splitgate-2-trailer-xbox-playstation-pc)
+ - [Metaverse expert Matthew Ball still believes in the 3D internet](https://www.theverge.com/24201098/metaverse-matthew-ball-apple-vision-pro-fortnite-gaming-spatial-internet-3d-decoder-interview)
  - [New York-based Coast, which offers expense management tools for vehicle fleets, raised a $40M Series B, after raising $25M in March 2024 and $27.5M in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p14#a240718p14)
  - [Nintendo unveils an official Joy-Con charging stand for the Switch, over seven years after the console&#39;s launch, available on October 17, but gives no price &lpar;Ryan Dinsdale/IGN&rpar;](http://www.techmeme.com/240718/p13#a240718p13)
- - [Nintendo finally made its own Joy-Con controller charging station](https://www.theverge.com/2024/7/18/24201071/nintendo-switch-joy-con-charging-accessory-gaming)
- - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/2024/7/18/24199159/amazon-prime-day-best-tech-deals-still-available-2024)
- - [Samsung Galaxy Watch FE Limited-Sale Drops Price to Lowest Yet](https://www.cnet.com/deals/samsung-galaxy-watch-fe-limited-sale-drops-price-to-lowest-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo finally made its own Joy-Con controller charging station](https://www.theverge.com/2024/7/18/24201071/nintendo-switch-joy-con-charging-accessory-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

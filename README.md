@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
  - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 💣 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
+ - 👉 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)<!-- MEMES:END -->
 
 ---
 

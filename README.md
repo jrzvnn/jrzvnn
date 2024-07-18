@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Here are 80 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [Apple Intelligence wasn&#39;t trained on stolen YouTube videos](https://appleinsider.com/articles/24/07/18/apple-intelligence-wasnt-trained-on-stolen-youtube-videos?utm_medium=rss)
+ - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [Save Big on the Jackery Explorer 1000 Plus Roam Kit Before Prime Day Is Over](https://www.cnet.com/deals/save-big-on-the-jackery-explorer-1000-plus-roam-kit-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-18/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 18, #1125](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-18-1125/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Chance for 18 Amazon Prime Day Laptop Deals on Acer, Lenovo, MacBooks and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 😝 [Nice and naturally](http://9gag.com/gag/a9yYdyD)
- - 💣 [Ubisoft tried to pass Zoro&#39;s Sandai Kitetsu as Yasuke&#39;s sword](http://9gag.com/gag/a9yYdZj)
- - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 👉 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)<!-- MEMES:END -->
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 💣 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
+ - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)<!-- MEMES:END -->
 
 ---
 

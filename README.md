@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - 💣 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
  - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 💣 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
- - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)<!-- MEMES:END -->
+ - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone needs a #21 in their life](http://9gag.com/gag/apRL0R9)
- - 😝 [Undercover cop diffuses chaotic situation](http://9gag.com/gag/aGyDRnG)
- - 💣 [Good for him](http://9gag.com/gag/awyV7bQ)
- - 😝 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)
- - 👉 [Secret Service hates this trick](http://9gag.com/gag/aMV9QjM)<!-- MEMES:END -->
+ - 😝 [Good for him](http://9gag.com/gag/awyV7bQ)
+ - 😝 [Practicing ancient samurai technique. This is so smooth](http://9gag.com/gag/avyn0Od)
+ - 💣 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)
+ - 😝 [Secret Service hates this trick](http://9gag.com/gag/aMV9QjM)
+ - 👉 [An IDF drone from Unit 636 eliminated a terrorist cell in Rafah, Gaza, who were transporting weapons and it didn&#39;t even scratch the donkey pulling the cart. PETA Approves!](http://9gag.com/gag/aoypj2e)<!-- MEMES:END -->
 
 ---
 

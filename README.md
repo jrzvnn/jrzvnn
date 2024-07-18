@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CCData: crypto coin listings on higher-volume exchanges like Binance and Coinbase are cumulatively up 11.6% to 2,066 in H1 2024, surpassing all of 2023 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240718/p9#a240718p9)
  - [German AI startup DeepL releases its new translation model with support for German, Japanese, and Simplified Chinese to and from English, available in DeepL Pro &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240718/p8#a240718p8)
  - [Indian crypto exchange WazirX says one of its multisig wallets &quot;experienced a security breach&quot; after $230M+ in withdrawals; WazirX had $500M in holdings in June &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240718/p7#a240718p7)
  - [7 New iOS 18 Messages Features You Should Probably Know About](https://www.cnet.com/tech/services-and-software/7-new-ios-18-messages-features-you-should-probably-know-about/#ftag=CAD590a51e)
- - [iOS 18 Beta: How to Finally Get Rid of the Flashlight on Your Lock Screen](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-finally-get-rid-of-the-flashlight-on-your-lock-screen/#ftag=CAD590a51e)
- - [Best Prime Day Headphone Deals: Still-Available Sales on AirPods, Beats, Bose and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 Beta: How to Finally Get Rid of the Flashlight on Your Lock Screen](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-finally-get-rid-of-the-flashlight-on-your-lock-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

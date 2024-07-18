@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Sarah Andersen is a gem](http://9gag.com/gag/aD2GAQ7)
- - 💣 [DEI is a bad idea because there aren\u2019t enough qualified people in the pools of minority candidates.](http://9gag.com/gag/aAy1nbd)
- - 😝 [Hey maybe don&#39;t get in a police car the wrong way.](http://9gag.com/gag/ae9GXVQ)
- - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
+ - 😝 [When you&#39;re playing drunk](http://9gag.com/gag/aYQLbXV)
+ - 😝 [Man how the times have changed](http://9gag.com/gag/adBXyLZ)
+ - 💣 [Correlation between cigarette sales and lung cancer mortality shows a 20 year gap with a very similar curve](http://9gag.com/gag/aD2GRwB)
+ - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 👉 [This guy gets it.](http://9gag.com/gag/aW46V1Z)<!-- MEMES:END -->
 
 ---
 

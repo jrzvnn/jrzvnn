@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re playing drunk](http://9gag.com/gag/aYQLbXV)
- - 😝 [Man how the times have changed](http://9gag.com/gag/adBXyLZ)
- - 💣 [Correlation between cigarette sales and lung cancer mortality shows a 20 year gap with a very similar curve](http://9gag.com/gag/aD2GRwB)
- - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 👉 [This guy gets it.](http://9gag.com/gag/aW46V1Z)<!-- MEMES:END -->
+ - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
+ - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 💣 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 👉 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)<!-- MEMES:END -->
 
 ---
 

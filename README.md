@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
  - 💣 [Yeah...](http://9gag.com/gag/aVveQ2K)
  - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 💣 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
+ - 😝 [No title](http://9gag.com/gag/aE0n1rx)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 

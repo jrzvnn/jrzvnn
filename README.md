@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rotterdam-based chip gear maker Nearfield raised a &amp;euro;135M Series C led by Walden Catalyst Management and Temasek, and &quot;is on track to become a unicorn by 2026&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p6#a240718p6)
  - [Best Wireless Bluetooth Boom Boxes for 2024](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
  - [These 120+ Prime Day Deals Are Still Available: Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-18/#ftag=CAD590a51e)
  - [37 Best Prime Day Apple Deals You Can Still Get on AirPods, MacBooks and iPads](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-18/#ftag=CAD590a51e)
- - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)
- - [Best Post-Prime Day Deals Under $50: Save on Fitness Gear, Home Tech, Toys and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

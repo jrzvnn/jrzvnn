@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for him](http://9gag.com/gag/awyV7bQ)
- - 😝 [Practicing ancient samurai technique. This is so smooth](http://9gag.com/gag/avyn0Od)
- - 💣 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)
- - 😝 [Secret Service hates this trick](http://9gag.com/gag/aMV9QjM)
- - 👉 [An IDF drone from Unit 636 eliminated a terrorist cell in Rafah, Gaza, who were transporting weapons and it didn&#39;t even scratch the donkey pulling the cart. PETA Approves!](http://9gag.com/gag/aoypj2e)<!-- MEMES:END -->
+ - 😝 [Shake it off](http://9gag.com/gag/agmGyEv)
+ - 😝 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
+ - 💣 [Totally worth it](http://9gag.com/gag/aAyPYoR)
+ - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
+ - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
 
 ---
 

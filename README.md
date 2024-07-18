@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 💣 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 👉 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)<!-- MEMES:END -->
+ - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 💣 [Thought?](http://9gag.com/gag/aqyLZgY)
+ - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 👉 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)<!-- MEMES:END -->
 
 ---
 

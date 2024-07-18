@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says its ad tier now accounts for over 45% of all signups in the markets where it&#39;s available, and ad tier memberships grew 34% QoQ in Q2 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240718/p33#a240718p33)
- - [Google reveals the Pixel 9 Pro Fold before it can leak again](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)
- - [Square Steel Grill](https://www.cnet.com/home/yard-and-outdoors/square-steel-grill-dpnl/#ftag=CAD590a51e)
- - [Apple Watch SE 2 is Still Available at an Incredibly Discounted $170](https://www.cnet.com/deals/the-apple-watch-se-2-is-an-incredibly-low-170-during-amazon-prime-day/#ftag=CAD590a51e)
- - [Apple&#39;s AirPods Max Headphones Are Just $395 With Post-Prime Day Deal](https://www.cnet.com/deals/this-prime-day-deal-brings-apples-airpods-max-headphones-to-just-395/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FCC wants to force carriers to unlock phones within 60 days](https://www.theverge.com/2024/7/18/24201455/fcc-carriers-unlock-cell-phones-jail-calls-e-rate-hotspots-schools)
+ - [140-Plus Best Prime Day Deals Still Available: Grab Discounts of Up to 82% on Tech, Appliances and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-18/#ftag=CAD590a51e)
+ - [Post-Prime Day Apple Deals: Grab AirPods, MacBooks and iPads While You Can](https://www.cnet.com/deals/best-prime-day-apple-deals-still-available-2024-07-18/#ftag=CAD590a51e)
+ - [Get 40% Off the Vtoman FlashSpeed 1000 Portable Power Station at Amazon While you Still can](https://www.cnet.com/deals/get-a-cool-54-off-the-vtoman-flashspeed-1000-portable-power-station-at-amazon/#ftag=CAD590a51e)
+ - [Home Waxing Kit](https://www.cnet.com/health/personal-care/home-waxing-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Analysis: the North Korea-linked WazirX hackers took 200 different assets, including $96.7M of Shiba Inu, $52.6M of Ether, $11M of Matic, and $7.6M of Pepe &lpar;Elliptic&rpar;](http://www.techmeme.com/240718/p10#a240718p10)
  - [Apple&#39;s &#39;Underdogs&#39; are back for a mad dash across Thailand](https://appleinsider.com/articles/24/07/18/apples-underdogs-are-back-for-a-mad-dash-across-thailand?utm_medium=rss)
- - [Best Prime Day TV Deals: Score Discounts of Up to $2,000 While These Sales Last](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-18/#ftag=CAD590a51e)
- - [128 Best Prime Day Deals Still Available: Last Chance to Save Big with Discounts on Tech, Home Appliances and More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-18/#ftag=CAD590a51e)
- - [Score Some Extra Storage With 27% Off an SK Hynix SSD Post-Prime Day](https://www.cnet.com/deals/score-some-extra-storage-with-27-off-an-sk-hynix-ssd-on-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [To Find Alien Life, We Might Have to Kill It](https://www.wired.com/story/alien-life-killing-ethics-mars-rovers-titan-moon-europa-clipper-dragonfly/)
+ - [How to Shop With Virtual Credit Cards to Protect Your Privacy](https://www.wired.com/story/how-to-shop-with-virtual-credit-cards/)
+ - [CCData: crypto coin listings on higher-volume exchanges like Binance and Coinbase are cumulatively up 11.6% to 2,066 in H1 2024, surpassing all of 2023 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240718/p9#a240718p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft reaches a settlement with French cloud service OVHcloud in which OVHcloud will drop its March 2022 antitrust complaint to EU regulators &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/240718/p22#a240718p22)
  - [Laureen Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)
- - [The Boys season four finale gets a disclaimer following Trump rally shooting](https://www.theverge.com/2024/7/18/24201222/the-boys-season-4-finale-disclaimer-amazon-prime-video-trump)
- - [The FBI said it found the Trump rally shooter’s Steam account, then took it back](https://www.theverge.com/2024/7/18/24201220/trump-rally-shooter-steam-warning-thomas-matthew-crooks)
- - [Google solves its Pixel 9 Pro leaks by just showing the phone early](https://www.theverge.com/2024/7/18/24201254/google-pixel-9-pro-release-date-ai)<!-- TECH:END -->
+ - [Missed Out on Prime Day? These 155 Deals Are Still Going Strong &lpar;2024&rpar;](https://www.wired.com/story/leftover-prime-day-deals-2024/)
+ - [The Boys season 4 finale gets a disclaimer following Trump rally shooting](https://www.theverge.com/2024/7/18/24201222/the-boys-season-4-finale-disclaimer-amazon-prime-video-trump)
+ - [The FBI said it found the Trump rally shooter’s Steam account, then took it back](https://www.theverge.com/2024/7/18/24201220/trump-rally-shooter-steam-warning-thomas-matthew-crooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

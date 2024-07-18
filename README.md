@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block&#39;s Cash App plans to close its UK operations on September 15, after launching in 2018, as the company &quot;deprioritizes global expansion&quot; to focus on the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p19#a240718p19)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Dune: Prophecy hits HBO in November](https://www.theverge.com/2024/7/18/24201198/dune-prophecy-trailer-release-date-max-hbo)
  - [OpenAI is releasing a cheaper, smarter model](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini)
- - [Best Prime Day Laptop Deals: 15 Top Offers Still Available on MacBooks, Acer, HP and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-18/#ftag=CAD590a51e)
- - [Last-Minute Prime Day Deal: Apple’s AirPods Pro 2 at Just $169, a Record Low](https://www.cnet.com/deals/last-minute-prime-day-deal-apples-airpods-pro-2-at-just-169-a-record-low/#ftag=CAD590a51e)
- - [Nvidia and Mistral announce Mistral NeMo, a 12B-parameter model with a context window of up to 128k tokens, available under the Apache 2.0 open-source license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240718/p18#a240718p18)<!-- TECH:END -->
+ - [Best Prime Day Laptop Deals: 15 Top Offers Still Available on MacBooks, Acer, HP and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is getting more comfortable with ads](https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising)
+ - [Sources: OpenAI has talked to chip designers including Broadcom about developing an AI server chip and hired former members of a Google unit that produces TPUs &lpar;The Information&rpar;](http://www.techmeme.com/240718/p31#a240718p31)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Netflix reports Q2 revenue up 16.8% YoY to $9.56B, vs. $9.53B est., paid memberships up 16.5% YoY to 277.65M, vs. 274.4M est., net income up 44% YoY to $2.15B &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/240718/p30#a240718p30)
- - [The Acolyte’s first season made Star Wars’ dark past feel like a bright future](https://www.theverge.com/2024/7/18/24200454/the-acolyte-season-one-finale)
- - [Docs: Canadian PE firm PartnerOne paid $28.2M for HeadSpin, whose 2023 revenue was $21M and its Q1 2024 was $5M; HeadSpin was valued at $1.1B in 2020 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240718/p29#a240718p29)
- - [Figma explains how its AI tool ripped off Apple’s design](https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple)<!-- TECH:END -->
+ - [The Acolyte’s first season made Star Wars’ dark past feel like a bright future](https://www.theverge.com/2024/7/18/24200454/the-acolyte-season-one-finale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

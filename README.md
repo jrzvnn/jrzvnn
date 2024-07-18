@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shake it off](http://9gag.com/gag/agmGyEv)
- - 😝 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
- - 💣 [Totally worth it](http://9gag.com/gag/aAyPYoR)
- - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
- - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
+ - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 💣 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
+ - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 💣 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
- - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 😝 [Great Party idea](http://9gag.com/gag/aPAW4dV)
+ - 😝 [&#39;Far-right&#39; protesters hold public pork BBQ in Greece to protest against unchecked migrants and refugees](http://9gag.com/gag/a7od5vA)
+ - 💣 [Life is unfair.](http://9gag.com/gag/aVveQLK)
+ - 😝 [The 5 most famous laws in the world](http://9gag.com/gag/ayN85BX)
+ - 👉 [The did not break character](http://9gag.com/gag/ae9637v)<!-- MEMES:END -->
 
 ---
 

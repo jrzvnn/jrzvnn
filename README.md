@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
  - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 👉 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)<!-- MEMES:END -->
+ - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 💣 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

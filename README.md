@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Please stop buying taxidermied bats online](https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon)
  - [Peter Naylor, Netflix VP of ad sales since August 2022, is leaving, and the company will hire a head of US and Canada ad sales to fill his spot &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/240718/p32#a240718p32)
  - [Netflix is getting more comfortable with ads](https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising)
  - [Sources: OpenAI has talked to chip designers including Broadcom about developing an AI server chip and hired former members of a Google unit that produces TPUs &lpar;The Information&rpar;](http://www.techmeme.com/240718/p31#a240718p31)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Netflix reports Q2 revenue up 16.8% YoY to $9.56B, vs. $9.53B est., paid memberships up 16.5% YoY to 277.65M, vs. 274.4M est., net income up 44% YoY to $2.15B &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/240718/p30#a240718p30)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

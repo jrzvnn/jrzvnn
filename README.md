@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 💣 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
- - 😝 [No title](http://9gag.com/gag/aE0n1rx)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 😝 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)
+ - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
+ - 💣 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 👉 [&#39;Far-right&#39; protesters hold public pork BBQ in Greece to protest against unchecked migrants and refugees](http://9gag.com/gag/a7od5vA)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The did not break character](http://9gag.com/gag/ae9637v)
- - 😝 [Everyone needs a #21 in their life](http://9gag.com/gag/apRL0R9)
- - 💣 [Good for him](http://9gag.com/gag/awyV7bQ)
- - 😝 [Practicing ancient samurai technique. This is so smooth](http://9gag.com/gag/avyn0Od)
- - 👉 [Secret Service hates this trick](http://9gag.com/gag/aMV9QjM)<!-- MEMES:END -->
+ - 😝 [Happy](http://9gag.com/gag/aVvePO2)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 💣 [No title](http://9gag.com/gag/aE0n1rx)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 👉 [Not alarming at all](http://9gag.com/gag/avynLmd)<!-- MEMES:END -->
 
 ---
 

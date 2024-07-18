@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
+ - [Adobe: US shoppers spent $14.2B during Amazon&#39;s 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240718/p17#a240718p17)
+ - [Sources: Apple has spoken to major Hollywood studios about acquiring more programming from their libraries to offer customers both in the US and abroad &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p16#a240718p16)
  - [OpenAI unveils GPT-4o mini, calling it &quot;the most capable and cost-efficient small model available&quot;, and plans to integrate image, video, and audio into it later &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240718/p15#a240718p15)
- - [Watch Steve Jobs describe the future and AI a year before the Mac](https://appleinsider.com/articles/24/07/18/watch-steve-jobs-describe-the-future-and-ai-a-year-before-the-mac?utm_medium=rss)
- - [Splitgate’s portal-hopping sequel announced for 2025](https://www.theverge.com/2024/7/18/24201104/splitgate-2-trailer-xbox-playstation-pc)
- - [Metaverse expert Matthew Ball still believes in the 3D internet](https://www.theverge.com/24201098/metaverse-matthew-ball-apple-vision-pro-fortnite-gaming-spatial-internet-3d-decoder-interview)
- - [New York-based Coast, which offers expense management tools for vehicle fleets, raised a $40M Series B, after raising $25M in March 2024 and $27.5M in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p14#a240718p14)<!-- TECH:END -->
+ - [Watch Steve Jobs describe the future and AI a year before the Mac](https://appleinsider.com/articles/24/07/18/watch-steve-jobs-describe-the-future-and-ai-a-year-before-the-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

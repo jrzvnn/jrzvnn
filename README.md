@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 😝 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 😝 [The did not break character](http://9gag.com/gag/ae9637v)
- - 👉 [Thought?](http://9gag.com/gag/aqyLZgY)<!-- MEMES:END -->
+ - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [Sarah Andersen is a gem](http://9gag.com/gag/aD2GAQ7)
+ - 💣 [DEI is a bad idea because there aren\u2019t enough qualified people in the pools of minority candidates.](http://9gag.com/gag/aAy1nbd)
+ - 😝 [Hey maybe don&#39;t get in a police car the wrong way.](http://9gag.com/gag/ae9GXVQ)
+ - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
 
 ---
 

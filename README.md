@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Best Wireless Bluetooth Boom Boxes for 2024](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
  - [These 120+ Prime Day Deals Are Still Available: Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-18/#ftag=CAD590a51e)
  - [37 Best Prime Day Apple Deals You Can Still Get on AirPods, MacBooks and iPads](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-18/#ftag=CAD590a51e)
- - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)<!-- TECH:END -->
+ - [Newly Discovered Moon Caves Could One Day House Astronauts](https://www.wired.com/story/moon-tunnels-caves-astronauts-moon-colony/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

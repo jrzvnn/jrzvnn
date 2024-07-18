@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lesgooo!](http://9gag.com/gag/aBy1R3P)
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 💣 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 👉 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)<!-- MEMES:END -->
+ - 😝 [The did not break character](http://9gag.com/gag/ae9637v)
+ - 😝 [Everyone needs a #21 in their life](http://9gag.com/gag/apRL0R9)
+ - 💣 [Good for him](http://9gag.com/gag/awyV7bQ)
+ - 😝 [Practicing ancient samurai technique. This is so smooth](http://9gag.com/gag/avyn0Od)
+ - 👉 [Secret Service hates this trick](http://9gag.com/gag/aMV9QjM)<!-- MEMES:END -->
 
 ---
 

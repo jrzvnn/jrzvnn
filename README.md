@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)
- - [Italy&#39;s antitrust agency launches a probe into Google and Alphabet over alleged unfair commercial practices related to consent requests Google sends to users &lpar;Giulia Segreti/Reuters&rpar;](http://www.techmeme.com/240718/p5#a240718p5)
- - [An interview with Tim Sweeney and Neal Stephenson on their definitions of &quot;Metaverse&quot;, Fortnite, Apple Vision Pro, blockchains, generative AI, and more &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240718/p4#a240718p4)
+ - [Best Wireless Bluetooth Boom Boxes for 2024](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
  - [These 120+ Prime Day Deals Are Still Available: Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-18/#ftag=CAD590a51e)
- - [TSMC reports Q2 revenue up 40.1% YoY to $20.82B and net income up 36.3% YoY to $7.62B, both above estimates, as demand for advanced AI chips continue to surge &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240718/p3#a240718p3)<!-- TECH:END -->
+ - [37 Best Prime Day Apple Deals You Can Still Get on AirPods, MacBooks and iPads](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-07-18/#ftag=CAD590a51e)
+ - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)
+ - [Best Post-Prime Day Deals Under $50: Save on Fitness Gear, Home Tech, Toys and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

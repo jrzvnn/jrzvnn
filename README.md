@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Coast, which offers expense management tools for vehicle fleets, raised a $40M Series B, after raising $25M in March 2024 and $27.5M in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p14#a240718p14)
  - [Nintendo unveils an official Joy-Con charging stand for the Switch, over seven years after the console&#39;s launch, available on October 17, but gives no price &lpar;Ryan Dinsdale/IGN&rpar;](http://www.techmeme.com/240718/p13#a240718p13)
  - [Nintendo finally made its own Joy-Con controller charging station](https://www.theverge.com/2024/7/18/24201071/nintendo-switch-joy-con-charging-accessory-gaming)
  - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/2024/7/18/24199159/amazon-prime-day-best-tech-deals-still-available-2024)
- - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM drops to $1,549 today only](https://appleinsider.com/articles/24/07/18/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-drops-to-1549-today-only?utm_medium=rss)
- - [Voicemod Key brings voice changing and soundboards to Xbox and PlayStation](https://www.theverge.com/2024/7/18/24200304/voicemod-key-xbox-playstation-voice-changer-soundboard)<!-- TECH:END -->
+ - [Samsung Galaxy Watch FE Limited-Sale Drops Price to Lowest Yet](https://www.cnet.com/deals/samsung-galaxy-watch-fe-limited-sale-drops-price-to-lowest-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

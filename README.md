@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 80 Prime Day tech deals you can still nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
  - [Apple Intelligence wasn&#39;t trained on stolen YouTube videos](https://appleinsider.com/articles/24/07/18/apple-intelligence-wasnt-trained-on-stolen-youtube-videos?utm_medium=rss)
  - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [Last Chance for 18 Amazon Prime Day Laptop Deals on Acer, Lenovo, MacBooks and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-17/#ftag=CAD590a51e)
- - [The best Prime Day deals on the Verge’s favorite desk accessories](https://www.theverge.com/24200654/amazon-prime-day-deals-desk-acessories-keyboards-lighting-webcams)<!-- TECH:END -->
+ - [Last Chance for 18 Amazon Prime Day Laptop Deals on Acer, Lenovo, MacBooks and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
- - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
- - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
- - [Nasdaq fell 2.77% in its worst session since December 2022, with Meta shares down 5.68%, ASML down 12.74%, and Nvidia down 6.62%; TSMC shares on NYSE fell 7.98% &lpar;CNBC&rpar;](http://www.techmeme.com/240717/p30#a240717p30)<!-- TECH:END -->
+ - [The best Prime Day deals on the Verge’s favorite desk accessories](https://www.theverge.com/24200654/amazon-prime-day-deals-desk-acessories-keyboards-lighting-webcams)
+ - [Meta decides to suspend its generative AI tools in Brazil after the government objected to Meta&#39;s new privacy policy on using personal data to train AI models &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p33#a240717p33)
+ - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
+ - [Apple says its OpenELM model doesn&#39;t power any AI features, including Apple Intelligence, after a report said Apple used YouTube subtitles to train the model &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240717/p32#a240717p32)
+ - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
  - 😝 [Owner saves dog from coyote that owed him money](http://9gag.com/gag/aYQLW7N)
- - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 💣 [No overtime](http://9gag.com/gag/aGyDK2X)
+ - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
+ - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
 
 ---
 

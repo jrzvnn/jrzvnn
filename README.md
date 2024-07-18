@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lesgooo!](http://9gag.com/gag/aBy1R3P)
  - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [RIP Ian Cameron, legendary car designer, stabbed to death during burglary/home invasion in Bavaria.](http://9gag.com/gag/aLn9K4M)
- - 💣 [No title](http://9gag.com/gag/aE0n1rx)
- - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
+ - 💣 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 👉 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240718/p26#a240718p26)
  - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)
  - [Elephants and big waves are subjects of inbound Immersive Video releases](https://appleinsider.com/articles/24/07/18/elephants-and-big-waves-are-subjects-of-inbound-immersive-video-releases?utm_medium=rss)
  - [Apple is launching new immersive video content for the Vision Pro over the next few months, including content from The Weeknd and the 2024 NBA All-Star Weekend &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p24#a240718p24)
- - [iPhone 16 may not see super cycle after all, according to analyst report](https://appleinsider.com/articles/24/07/18/iphone-16-may-not-see-super-cycle-after-all-according-to-analyst-report?utm_medium=rss)
- - [The biggest names in AI have teamed up to promote AI security](https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai)<!-- TECH:END -->
+ - [iPhone 16 may not see super cycle after all, according to analyst report](https://appleinsider.com/articles/24/07/18/iphone-16-may-not-see-super-cycle-after-all-according-to-analyst-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

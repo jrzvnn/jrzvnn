@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
  - [China has been ASML&#39;s biggest market for four quarters in a row, with sales rising 21% YoY to &amp;euro;2.3B in Q2 2024, accounting for 49% of the company&#39;s sales &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p2#a240718p2)
+ - [I Use My Stanley Tumblers Every Day, and They&#39;re on Sale for Prime Day&#39;s Last Day](https://www.cnet.com/deals/i-use-my-stanley-tumblers-every-day-and-theyre-on-sale-for-prime-days-last-day/#ftag=CAD590a51e)
  - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [Leaked docs show Cellebrite couldn&#39;t forcibly unlock any iPhone running iOS 17.4 or newer as of April 2024; most of the listed Android devices could be unlocked &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240718/p1#a240718p1)
- - [Dyson unmasks its super customizable OnTrac headphones](https://www.theverge.com/2024/7/18/24200553/dyson-ontrac-headphones-customizable-ear-cups-cushions)
- - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked docs show Cellebrite couldn&#39;t forcibly unlock any iPhone running iOS 17.4 or newer as of April 2024; most of the listed Android devices could be unlocked &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240718/p1#a240718p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

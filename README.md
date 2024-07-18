@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lab-Grown Diamonds Are Everywhere. This Company Thinks It Has the Secret to Making Them High-End](https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/)
- - [Live from the RNC: Republicans Are Acting Like They&#39;ve Already Won](https://www.wired.com/story/rnc-republicans-democrats/)
- - [Analysis: the North Korea-linked WazirX hackers took 200 different assets, including $96.7M of Shiba Inu, $52.6M of Ether, $11M of Matic, and $7.6M of Pepe &lpar;Elliptic&rpar;](http://www.techmeme.com/240718/p10#a240718p10)
- - [Apple&#39;s &#39;Underdogs&#39; are back for a mad dash across Thailand](https://appleinsider.com/articles/24/07/18/apples-underdogs-are-back-for-a-mad-dash-across-thailand?utm_medium=rss)
- - [Best Prime Day TV Deals: Score Discounts of Up to $2,000 While These Sales Last](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cellebrite can&#39;t crack iPhones running iOS 17.4 or later](https://appleinsider.com/articles/24/07/18/cellebrite-cant-crack-iphones-running-ios-174-or-later?utm_medium=rss)
+ - [Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership &lpar;Financial Times&rpar;](http://www.techmeme.com/240718/p12#a240718p12)
+ - [Meta won’t release its multimodal Llama AI model in the EU](https://www.theverge.com/2024/7/18/24201041/meta-multimodal-llama-ai-model-launch-eu-regulations)
+ - [How Spain relies on the VioG&amp;eacute;n algorithm to score the likelihood of recurring domestic violence and decide protection measures, with at times fatal consequences &lpar;New York Times&rpar;](http://www.techmeme.com/240718/p11#a240718p11)
+ - [Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

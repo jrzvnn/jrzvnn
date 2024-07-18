@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeap. Time to meet God](http://9gag.com/gag/azxA7nx)
- - 😝 [Understandable](http://9gag.com/gag/aO8vb1R)
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)
+ - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
  - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 👉 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)<!-- MEMES:END -->
+ - 👉 [G.O.A.T](http://9gag.com/gag/aPAWy1w)<!-- MEMES:END -->
 
 ---
 

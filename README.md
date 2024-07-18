@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China has been ASML&#39;s biggest market for four quarters in a row, with sales rising 21% YoY to &amp;euro;2.3B in Q2 2024, accounting for 49% of the company&#39;s sales &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p2#a240718p2)
  - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
  - [Leaked docs show Cellebrite couldn&#39;t forcibly unlock any iPhone running iOS 17.4 or newer as of April 2024; most of the listed Android devices could be unlocked &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240718/p1#a240718p1)
  - [Dyson unmasks its super customizable OnTrac headphones](https://www.theverge.com/2024/7/18/24200553/dyson-ontrac-headphones-customizable-ear-cups-cushions)
- - [A look at the Cyberspace Administration of China, which oversees the country&#39;s AI and data strategy, as it relaxes some policies to promote economic growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p34#a240717p34)
- - [Here are 80 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)<!-- TECH:END -->
+ - [A look at the Cyberspace Administration of China, which oversees the country&#39;s AI and data strategy, as it relaxes some policies to promote economic growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p34#a240717p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

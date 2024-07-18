@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best new 2024 M4 iPad Pro cases to keep your devices safe](https://appleinsider.com/inside/ipad-pro/best/best-new-m4-ipad-pro-cases-to-keep-your-devices-safe?utm_medium=rss)
+ - [Austin-based Thoughtful AI, which provides healthcare revenue collection tools, raised a $20M Series A led by Drive Capital, bringing its total funding to $35M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240718/p28#a240718p28)
  - [GPT-4o mini costs $0.15 per 1M input tokens and $0.60 per 1M output tokens, prices lower than those of Claude 3 Haiku and Gemini 1.5 Flash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240718/p27#a240718p27)
  - [Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240718/p26#a240718p26)
- - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)
- - [Elephants and big waves are subjects of inbound Immersive Video releases](https://appleinsider.com/articles/24/07/18/elephants-and-big-waves-are-subjects-of-inbound-immersive-video-releases?utm_medium=rss)
- - [Meta Follows in Apple&#39;s Footsteps by Restricting AI Releases in EU Countries](https://www.cnet.com/tech/services-and-software/meta-follows-in-apples-footsteps-by-restricting-ai-releases-in-eu-countries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

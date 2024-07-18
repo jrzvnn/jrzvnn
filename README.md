@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 😝 [8 Years with frequent updates..Looks at Bethesda &amp; Todd Howard](http://9gag.com/gag/adBXYBM)
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 💣 [Understandable](http://9gag.com/gag/aO8vb1R)
+ - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 👉 [8 Years with frequent updates..Looks at Bethesda &amp; Todd Howard](http://9gag.com/gag/adBXYBM)<!-- MEMES:END -->
 
 ---
 

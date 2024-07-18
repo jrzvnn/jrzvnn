@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 😝 [Owner saves dog from coyote that owed him money](http://9gag.com/gag/aYQLW7N)
  - 😝 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 💣 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
+ - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

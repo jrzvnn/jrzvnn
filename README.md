@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix says its ad tier now accounts for over 45% of all signups in the markets where it&#39;s available, and ad tier memberships grew 34% QoQ in Q2 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240718/p33#a240718p33)
  - [Google reveals the Pixel 9 Pro Fold before it can leak again](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)
  - [Please stop buying taxidermied bats online](https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon)
  - [Peter Naylor, Netflix VP of ad sales since August 2022, is leaving, and the company will hire a head of US and Canada ad sales to fill his spot &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/240718/p32#a240718p32)
- - [Netflix is getting more comfortable with ads](https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising)
- - [Sources: OpenAI has talked to chip designers including Broadcom about developing an AI server chip and hired former members of a Google unit that produces TPUs &lpar;The Information&rpar;](http://www.techmeme.com/240718/p31#a240718p31)<!-- TECH:END -->
+ - [Netflix is getting more comfortable with ads](https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

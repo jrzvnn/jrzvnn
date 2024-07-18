@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
+ - 😝 [Everyone needs a #21 in their life](http://9gag.com/gag/apRL0R9)
+ - 😝 [Undercover cop diffuses chaotic situation](http://9gag.com/gag/aGyDRnG)
+ - 💣 [Good for him](http://9gag.com/gag/awyV7bQ)
+ - 😝 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)
+ - 👉 [Secret Service hates this trick](http://9gag.com/gag/aMV9QjM)<!-- MEMES:END -->
 
 ---
 

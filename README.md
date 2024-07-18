@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 💣 [Zero awareness](http://9gag.com/gag/aMVGpWV)
- - 😝 [I don&#39;t understand](http://9gag.com/gag/aGyxP55)
- - 👉 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)<!-- MEMES:END -->
+ - 😝 [The man took a bullet and he can also take a joke.](http://9gag.com/gag/aryN1Np)
+ - 😝 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
+ - 💣 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 👉 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)<!-- MEMES:END -->
 
 ---
 

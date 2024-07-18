@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
- - 💣 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 😝 [RIP Ian Cameron, legendary car designer, stabbed to death during burglary/home invasion in Bavaria.](http://9gag.com/gag/aLn9K4M)
+ - 💣 [No title](http://9gag.com/gag/aE0n1rx)
+ - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
 
 ---
 

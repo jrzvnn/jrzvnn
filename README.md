@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Netflix says its ad tier now accounts for over 45% of all signups in the markets where it&#39;s available, and ad tier memberships grew 34% QoQ in Q2 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240718/p33#a240718p33)
  - [Google reveals the Pixel 9 Pro Fold before it can leak again](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)
- - [Please stop buying taxidermied bats online](https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon)
- - [Peter Naylor, Netflix VP of ad sales since August 2022, is leaving, and the company will hire a head of US and Canada ad sales to fill his spot &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/240718/p32#a240718p32)
- - [Netflix is getting more comfortable with ads](https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising)<!-- TECH:END -->
+ - [Square Steel Grill](https://www.cnet.com/home/yard-and-outdoors/square-steel-grill-dpnl/#ftag=CAD590a51e)
+ - [Apple Watch SE 2 is Still Available at an Incredibly Discounted $170](https://www.cnet.com/deals/the-apple-watch-se-2-is-an-incredibly-low-170-during-amazon-prime-day/#ftag=CAD590a51e)
+ - [Apple&#39;s AirPods Max Headphones Are Just $395 With Post-Prime Day Deal](https://www.cnet.com/deals/this-prime-day-deal-brings-apples-airpods-max-headphones-to-just-395/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

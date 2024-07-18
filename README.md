@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An ex-Reality Labs manager says Meta asked the unit to cut spending by ~20% between 2024-2026; Meta plans two Quest 4 versions in 2026 and Quest Pro 2 in 2027 &lpar;The Information&rpar;](http://www.techmeme.com/240718/p21#a240718p21)
+ - [Intel veteran Lisa Spelman plans to become CEO of Cornelis, a networking startup spun off from Intel in 2020, on August 15; Spelman worked at Intel for 20 years &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240718/p20#a240718p20)
+ - [Instagram is adding expiring and semi-private comments](https://www.theverge.com/2024/7/18/24201105/instagram-notes-status-expansion-reels-grid-posts)
  - [Block&#39;s Cash App plans to close its UK operations on September 15, after launching in 2018, as the company &quot;deprioritizes global expansion&quot; to focus on the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p19#a240718p19)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Dune: Prophecy hits HBO in November](https://www.theverge.com/2024/7/18/24201198/dune-prophecy-trailer-release-date-max-hbo)
- - [Elon Musk Is All In On Endorsing Trump. His Chatbot, Grok, Is Not](https://www.wired.com/story/elon-musk-is-all-in-on-endorsing-trump-his-ai-chatbot-grok-is-not/)
- - [OpenAI is releasing a cheaper, smarter model](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

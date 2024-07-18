@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
  - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 💣 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
+ - 💣 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
+ - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
 
 ---
 

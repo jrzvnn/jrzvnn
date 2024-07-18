@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Canadian PE firm PartnerOne paid $28.2M for HeadSpin, whose 2023 revenue was $21M and its Q1 2024 was $5M; HeadSpin was valued at $1.1B in 2020 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240718/p29#a240718p29)
  - [Figma explains how its AI tool ripped off Apple’s design](https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple)
  - [Best new 2024 M4 iPad Pro cases to keep your devices safe](https://appleinsider.com/inside/ipad-pro/best/best-new-m4-ipad-pro-cases-to-keep-your-devices-safe?utm_medium=rss)
  - [Austin-based Thoughtful AI, which provides healthcare revenue collection tools, raised a $20M Series A led by Drive Capital, bringing its total funding to $35M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240718/p28#a240718p28)
- - [GPT-4o mini costs $0.15 per 1M input tokens and $0.60 per 1M output tokens, prices lower than those of Claude 3 Haiku and Gemini 1.5 Flash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240718/p27#a240718p27)
- - [Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240718/p26#a240718p26)<!-- TECH:END -->
+ - [GPT-4o mini costs $0.15 per 1M input tokens and $0.60 per 1M output tokens, prices lower than those of Claude 3 Haiku and Gemini 1.5 Flash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240718/p27#a240718p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

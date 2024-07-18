@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hardware drops to as low as $109, but the deals end today](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)
- - [Beats Pill quality and Apple Music growth subjects of new Apple VP interview](https://appleinsider.com/articles/24/07/18/beats-pill-quality-and-apple-music-growth-subjects-of-new-apple-vp-interview?utm_medium=rss)
- - [Bose SoundLink Max Bluetooth Speaker Review: Price, Specs, Availability](https://www.wired.com/review/review-bose-soundlink-max-bluetooth-speaker/)
- - [Cellebrite can&#39;t crack iPhones running iOS 17.4 or later](https://appleinsider.com/articles/24/07/18/cellebrite-cant-crack-iphones-running-ios-174-or-later?utm_medium=rss)
- - [Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership &lpar;Financial Times&rpar;](http://www.techmeme.com/240718/p12#a240718p12)<!-- TECH:END -->
+ - [Nintendo finally made its own Joy-Con controller charging station](https://www.theverge.com/2024/7/18/24201071/nintendo-switch-joy-con-charging-accessory-gaming)
+ - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/2024/7/18/24199159/amazon-prime-day-best-tech-deals-still-available-2024)
+ - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM drops to $1,549 today only](https://appleinsider.com/articles/24/07/18/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-drops-to-1549-today-only?utm_medium=rss)
+ - [Voicemod Key brings voice changing and soundboards to Xbox and PlayStation](https://www.theverge.com/2024/7/18/24200304/voicemod-key-xbox-playstation-voice-changer-soundboard)
+ - [Apple hardware drops to as low as $109, but the deals end today](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

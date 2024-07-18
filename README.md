@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 💣 [Understandable](http://9gag.com/gag/aO8vb1R)
- - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 👉 [8 Years with frequent updates..Looks at Bethesda &amp; Todd Howard](http://9gag.com/gag/adBXYBM)<!-- MEMES:END -->
+ - 😝 [Yeap. Time to meet God](http://9gag.com/gag/azxA7nx)
+ - 😝 [Understandable](http://9gag.com/gag/aO8vb1R)
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 👉 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)<!-- MEMES:END -->
 
 ---
 

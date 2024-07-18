@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)
- - 😝 [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
- - 💣 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [Yeap. Time to meet God](http://9gag.com/gag/azxA7nx)
+ - 💣 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
  - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 👉 [&#39;Far-right&#39; protesters hold public pork BBQ in Greece to protest against unchecked migrants and refugees](http://9gag.com/gag/a7od5vA)<!-- MEMES:END -->
+ - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
 
 ---
 

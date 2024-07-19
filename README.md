@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC wants to force carriers to unlock phones within 60 days](https://www.theverge.com/2024/7/18/24201455/fcc-carriers-unlock-cell-phones-jail-calls-e-rate-hotspots-schools)
- - [140-Plus Best Prime Day Deals Still Available: Grab Discounts of Up to 82% on Tech, Appliances and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-18/#ftag=CAD590a51e)
- - [Post-Prime Day Apple Deals: Grab AirPods, MacBooks and iPads While You Can](https://www.cnet.com/deals/best-prime-day-apple-deals-still-available-2024-07-18/#ftag=CAD590a51e)
- - [Get 40% Off the Vtoman FlashSpeed 1000 Portable Power Station at Amazon While you Still can](https://www.cnet.com/deals/get-a-cool-54-off-the-vtoman-flashspeed-1000-portable-power-station-at-amazon/#ftag=CAD590a51e)
- - [Home Waxing Kit](https://www.cnet.com/health/personal-care/home-waxing-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Cellebrite gave the FBI unreleased tech to access the Trump shooter&#39;s phone, a &quot;newer Samsung model&quot;, after the FBI&#39;s first attempt to crack it failed &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p36#a240718p36)
+ - [Appeals Court Blocks the Rest of Biden&#39;s Student Loan Plan, Creating Uncertainty for Borrowers](https://www.cnet.com/personal-finance/loans/appeals-court-blocks-the-rest-of-bidens-student-loan-plan-creating-uncertainty-for-borrowers/#ftag=CAD590a51e)
+ - [Best Prime Day Gaming Deals Still Available: You Can Still Score Epic Savings on Consoles, Games and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-still-available-2024-07-18/#ftag=CAD590a51e)
+ - [24 Prime Day TV Deals You Can Still Get Today Including Samsung, Sony and More](https://www.cnet.com/deals/best-prime-day-tv-deals-still-available-2024-07-18/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals Still Available: Shop Big Discounts on MacBooks, Samsung, HP, Acer and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

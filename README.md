@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)
- - [These 20 Best Prime Day Monitor Deals are Still Available Now](https://www.cnet.com/deals/best-prime-day-monitor-deals-still-available-2024-07-19/#ftag=CAD590a51e)
- - [Bird Feeder with Camera](https://www.cnet.com/home/smart-home/bird-feeder-with-camera-dpnl/#ftag=CAD590a51e)
- - [&#39;Too Hot to Handle&#39; Release Schedule: When to Stream More Season 6 Episodes](https://www.cnet.com/tech/services-and-software/too-hot-to-handle-release-schedule-when-to-stream-more-season-6-episodes/#ftag=CAD590a51e)
- - [Ongoing Prime Day Sales Drop Apple&#39;s AirTag 4-Pack to Just $85](https://www.cnet.com/deals/ongoing-prime-day-sales-drop-apples-airtag-4-pack-to-just-85/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s redesigned Quest app puts a big focus on Horizon Worlds](https://www.theverge.com/2024/7/19/24202090/meta-quest-app-horizon-mobile-app-update)
+ - [Nigeria fines Meta $220M after investigations showed data sharing on Facebook and WhatsApp violated local consumer, data protection, and privacy laws &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p20#a240719p20)
+ - [CrowdStrike outage Blue Screen of Death photos from around the world](https://www.theverge.com/24202037/microsoft-crowdstrike-outage-blue-screen-error-photos)
+ - [Twitch lifts its ban on Donald Trump](https://www.theverge.com/2024/7/19/24202095/twitch-lifts-donald-trump-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

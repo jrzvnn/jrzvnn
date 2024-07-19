@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No culture at all](http://9gag.com/gag/a0ejpEv)
- - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
- - 💣 [Just simple magic](http://9gag.com/gag/abAZZbL)
- - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
- - 👉 [Dog is reunited with her cat friend, she saw the babys kittens for the first time](http://9gag.com/gag/ae9664p)<!-- MEMES:END -->
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 💣 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
+ - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 👉 [Fellow IT guys: if you are using CrowdStrike on your machines, and you have a BSOD on boot, this is the fix:](http://9gag.com/gag/axyDDn2)<!-- MEMES:END -->
 
 ---
 

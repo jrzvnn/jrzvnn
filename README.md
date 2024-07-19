@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s best AirPods &amp; Apple Watch deals from Prime Day are still in effect](https://appleinsider.com/articles/24/07/19/amazons-best-airpods-apple-watch-deals-from-prime-day-are-still-in-effect?utm_medium=rss)
+ - [Starbucks mobile ordering falls victim to the CrowdStrike BSOD outage](https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage)
+ - [How One Bad CrowdStrike Update Crashed the World’s Computers](https://www.wired.com/story/crowdstrike-outage-update-windows/)
  - [The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240719/p13#a240719p13)
- - [What is CrowdStrike, and what happened?](https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod)
- - [The Best Bird Feeders With Cameras &lpar;2024&rpar;: Bird Buddy, Netvue Birdfy, FeatherSnap](https://www.wired.com/story/best-smart-bird-feeders/)
- - [Samsung says it has &quot;temporarily&quot; stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/240719/p12#a240719p12)
- - [&#39;iOS 18 customisation, iPhone sales, more &#39;Underdogs,&#39; and more Apple News ads, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/19/ios-18-customisation-iphone-sales-more-underdogs-and-more-apple-news-ads-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [What is CrowdStrike, and what happened?](https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

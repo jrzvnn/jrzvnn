@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Evo 2024, the biggest fighting game tournament of the year](https://www.theverge.com/2024/7/19/24201924/how-to-watch-evo-2024-schedule-twitch)
  - [A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240719/p16#a240719p16)
  - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
  - [LG Black Friday in July Slashes Earbuds, Party Speakers and More by up to 40%](https://www.cnet.com/deals/lg-black-friday-in-july-slashes-earbuds-party-speakers-and-more-by-up-to-40/#ftag=CAD590a51e)
- - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)
- - [The Fitbit Charge 6 Is Down to Just $120 in This Limited-Time Post-Prime Day Deal](https://www.cnet.com/deals/the-fitbit-charge-6-is-down-to-just-120-in-this-limited-time-post-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

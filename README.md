@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just look at this huge flip phone screen](https://www.theverge.com/2024/7/19/24201791/xiaomi-mix-fold-4-flip-smartphone-china-water-resistance)
  - [NetChoice decision is already influencing how courts consider social media laws](https://www.theverge.com/2024/7/19/24200737/scotus-netchoice-opinion-impact-california-x-bonta)
  - [How OpenAI&#39;s GPT-4o mini model uses a safety technique called &quot;instruction hierarchy&quot; to prevent misuse and stop &quot;ignore previous instructions&quot; types of attacks &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240719/p17#a240719p17)
  - [The workout-ready Beats Fit Pro have returned to their all-time low](https://www.theverge.com/2024/7/19/24201348/apple-beats-fit-pro-earbuds-hbo-max-subscription-deal-sale)
- - [Best 4K TV for 2024](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Best 55-Inch TVs for 2024: Hisense, Samsung and More](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Chaotic History of Clickolding, the Year’s Most Disturbing Game](https://www.wired.com/story/video-game-clickolding-oral-history/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

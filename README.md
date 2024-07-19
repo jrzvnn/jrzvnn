@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)
+ - [Meta’s redesigned Quest app puts a big focus on Horizon Worlds](https://www.theverge.com/2024/7/19/24202090/meta-quest-app-horizon-mobile-app-update)
  - [Nigeria fines Meta $220M after investigations showed data sharing on Facebook and WhatsApp violated local consumer, data protection, and privacy laws &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p20#a240719p20)
  - [CrowdStrike outage Blue Screen of Death photos from around the world](https://www.theverge.com/24202037/microsoft-crowdstrike-outage-blue-screen-error-photos)
- - [Twitch lifts its ban on Donald Trump](https://www.theverge.com/2024/7/19/24202095/twitch-lifts-donald-trump-ban)
- - [Amazon&#39;s Twitch reinstates Donald Trump&#39;s account three years after he was banned, as &quot;there is value in hearing from presidential nominees directly&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240719/p19#a240719p19)
- - [Sources: Magic Leap cut ~75 jobs, including its entire sales and marketing units, and told staffers it&#39;s pivoting from selling headsets to licensing its tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p18#a240719p18)<!-- TECH:END -->
+ - [Twitch lifts its ban on Donald Trump](https://www.theverge.com/2024/7/19/24202095/twitch-lifts-donald-trump-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

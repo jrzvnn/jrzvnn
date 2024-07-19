@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 💣 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 👉 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)<!-- MEMES:END -->
+ - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
+ - 💣 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
 
 ---
 

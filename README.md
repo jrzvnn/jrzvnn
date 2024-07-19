@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
- - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
- - 💣 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
- - 😝 [M@rk Zuckerberg, an outspoken critic of `man-made climate change`, shows off his new $300 million, 287-foot mega yacht, powered by four gigantic diesel engines. Yet another stark reminder that Net Zero is only for the peasants.](http://9gag.com/gag/a34jBR8)
- - 👉 [No culture at all](http://9gag.com/gag/a0ejpEv)<!-- MEMES:END -->
+ - 😝 [Handsome is indias tallest elephant. ~50yrs old near blind killed 2 other elephants and 15 indians](http://9gag.com/gag/a5QrKrg)
+ - 😝 [Is this some next level maths?](http://9gag.com/gag/a0ejLrv)
+ - 💣 [Almost got Steve Irwin\u2019d by a dang Marlin](http://9gag.com/gag/avyngRM)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 ---
 

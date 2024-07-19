@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil-based Matera, which provides instant payment and QR code payment software to financial institutions, raised $100M from Warburg Pincus to expand in the US &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p38#a240718p38)
  - [Xbox says an outage is affecting the Xbox Store and subscriptions, and it is investigating the cause; the outage has been going on since at least 6:57PM ET &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240718/p37#a240718p37)
  - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-19/#ftag=CAD590a51e)
  - [Prime Day Steals Under $25 You Can Still Shop: Don&#39;t Miss These Discounts on Tech, Health, Games and More](https://www.cnet.com/deals/best-prime-day-deals-under-25-still-available-2024-07-18/#ftag=CAD590a51e)
- - [Sources: Cellebrite gave the FBI unreleased tech to access the Trump shooter&#39;s phone, a &quot;newer Samsung model&quot;, after the FBI&#39;s first attempt to crack it failed &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p36#a240718p36)
- - [Appeals Court Blocks the Rest of Biden&#39;s Student Loan Plan, Creating Uncertainty for Borrowers](https://www.cnet.com/personal-finance/loans/appeals-court-blocks-the-rest-of-bidens-student-loan-plan-creating-uncertainty-for-borrowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Cellebrite gave the FBI unreleased tech to access the Trump shooter&#39;s phone, a &quot;newer Samsung model&quot;, after the FBI&#39;s first attempt to crack it failed &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p36#a240718p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

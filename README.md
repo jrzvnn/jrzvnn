@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Montr&amp;eacute;al-based Planned, which offers corporate events and travel planning tools, raised a CAD$35M Series B led by Drive Capital &lpar;Bianca Bharti/BetaKit&rpar;](http://www.techmeme.com/240718/p39#a240718p39)
- - [Brazil-based Matera, which provides instant payment and QR code payment software to financial institutions, raised $100M from Warburg Pincus to expand in the US &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p38#a240718p38)
- - [Xbox says an outage is affecting the Xbox Store and subscriptions, and it is investigating the cause; the outage has been going on since at least 6:57PM ET &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240718/p37#a240718p37)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-19/#ftag=CAD590a51e)
- - [Prime Day Steals Under $25 You Can Still Shop: Don&#39;t Miss These Discounts on Tech, Health, Games and More](https://www.cnet.com/deals/best-prime-day-deals-under-25-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 19, #138](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-19-138/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 19, #404](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-19-404/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 19, #1126](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-19-1126/#ftag=CAD590a51e)
+ - [Post-Prime Day Apple Deals: Grab These Discounts on AirPods, MacBooks and iPads While You Still Can](https://www.cnet.com/deals/best-prime-day-apple-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

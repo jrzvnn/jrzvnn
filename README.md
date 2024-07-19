@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
+ - [Experts say CrowdStrike&#39;s fix requires tampering with system files with no way to automate it at scale, meaning outages could persist for longer than expected &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p11#a240719p11)
+ - [Oops, Trump and X did a copyright infringement](https://www.theverge.com/2024/7/19/24201567/trump-shooting-ap-photo-copyright-x-twitter-hashmoji)
  - [Microsoft / CrowdStrike outage: all the latest news](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [Here’s how IT admins are fixing the Windows Blue Screen of Death chaos](https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix)
- - [We now have dates for Meta’s forthcoming Quest headsets](https://www.theverge.com/2024/7/19/24201784/meta-quest-4-la-jolla-dates-vr-headsets)
- - [Figma&#39;s AI duplication of Apple designs due to a lack of vetting](https://appleinsider.com/articles/24/07/19/figmas-ai-duplication-of-apple-designs-due-to-a-lack-of-vetting?utm_medium=rss)
- - [143 Best Prime Day Deals Still Available: Snag These Last Remaining Deals and Save Hundreds on Home Appliances, Tech, Headphones, Beauty, and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s how IT admins are fixing the Windows Blue Screen of Death chaos](https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

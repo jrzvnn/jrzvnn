@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 😝 [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)
  - 😝 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
- - 💣 [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)
- - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
- - 👉 [The internet is really really great!](http://9gag.com/gag/ae96GjO)<!-- MEMES:END -->
+ - 💣 [The internet is really really great!](http://9gag.com/gag/ae96GjO)
+ - 😝 [No culture at all](http://9gag.com/gag/a0ejpEv)
+ - 👉 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)<!-- MEMES:END -->
 
 ---
 

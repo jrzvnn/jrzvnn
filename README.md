@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 💣 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 😝 [No title](http://9gag.com/gag/aE0n1rx)
+ - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
  - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 👉 [Not alarming at all](http://9gag.com/gag/avynLmd)<!-- MEMES:END -->
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

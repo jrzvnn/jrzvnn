@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240719/p13#a240719p13)
  - [What is CrowdStrike, and what happened?](https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod)
- - [Samsung says it has &quot;temporarily&quot; stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/240719/p12#a240719p12)
- - [&#39;iOS 18 customisation, iPhone sales, more &#39;Underdogs,&#39; and more Apple News ads, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/19/ios-18-customisation-iphone-sales-more-underdogs-and-more-apple-news-ads-on-the-appleinsider-podcast?utm_medium=rss)
- - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
- - [Experts say CrowdStrike&#39;s fix requires tampering with system files with no way to automate it at scale, meaning outages could persist for longer than expected &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p11#a240719p11)<!-- TECH:END -->
+ - [Best Prime Day Deals Under $100 Still Available: Your Last Chance To Save Big on Over 50 Things](https://www.cnet.com/deals/best-prime-day-deals-under-100-still-available-2024-07-19/#ftag=CAD590a51e)
+ - [Time&#39;s Running Out to Bag Apple AirPods Pro 2 for Just $169 as Prime Day Winds Down](https://www.cnet.com/deals/times-running-out-to-bag-apple-airpods-pro-2-for-just-169-as-prime-day-winds-down/#ftag=CAD590a51e)
+ - [145 Best Prime Day Deals Still Available: Snag These Last Remaining Deals and Save Hundreds on Home Appliances, Tech, Headphones, Beauty, and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

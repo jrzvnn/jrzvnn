@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft&#39;s massive outage now hits Apple Pay terminals worldwide](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)
  - [Microsoft says it fixed a configuration issue causing Microsoft 365 apps and services outage and restored several services; some services remain degraded &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240719/p7#a240719p7)
  - [Netflix added 8M subscribers in Q2 vs. 5M est., as it benefited from a crackdown on password-sharing and popular titles like Bridgerton and Baby Reindeer &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p6#a240719p6)
- - [CrowdStrike CEO George Kurtz says &quot;the issue has been identified, isolated and a fix has been deployed&quot;, and CrowdStrike is working with impacted customers &lpar;George Kurtz/@george_kurtz&rpar;](http://www.techmeme.com/240719/p5#a240719p5)
- - [Google’s shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)<!-- TECH:END -->
+ - [We Asked AI to Take Us On a Tour of Our Cities. It Was Chaos](https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/)
+ - [CrowdStrike CEO George Kurtz says &quot;the issue has been identified, isolated and a fix has been deployed&quot;, and CrowdStrike is working with impacted customers &lpar;George Kurtz/@george_kurtz&rpar;](http://www.techmeme.com/240719/p5#a240719p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

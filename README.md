@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike says it has &quot;widespread reports of BSODs on Windows hosts&quot;, impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p2#a240719p2)
  - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
  - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-18/#ftag=CAD590a51e)
  - [Google cuts the Maps API pricing for Indian devs by ~70% and starts accepting payments in Indian rupee, after Ola unveiled one-year free dev access to Ola Maps &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240719/p1#a240719p1)
- - [Best California King Mattresses for 2024](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
- - [Best Still-Available Prime Day Deals Under $50: Grab New Headphones, Home Tech, Fashion Finds and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best California King Mattresses for 2024](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

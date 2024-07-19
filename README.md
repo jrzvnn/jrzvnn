@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 💣 [Crowdstrike right now...](http://9gag.com/gag/agmGqoK)
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
+ - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
 
 ---
 

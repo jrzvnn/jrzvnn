@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 💣 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
- - 😝 [Crowdstrike](http://9gag.com/gag/aW4MMX2)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 😝 [No culture at all](http://9gag.com/gag/a0ejpEv)
+ - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 💣 [Just simple magic](http://9gag.com/gag/abAZZbL)
+ - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
+ - 👉 [Dog is reunited with her cat friend, she saw the babys kittens for the first time](http://9gag.com/gag/ae9664p)<!-- MEMES:END -->
 
 ---
 

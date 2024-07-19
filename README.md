@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 💣 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
  - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 💣 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
  - 👉 [Not alarming at all](http://9gag.com/gag/avynLmd)<!-- MEMES:END -->
 
 ---

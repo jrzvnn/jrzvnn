@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
- - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 😝 [Total control](http://9gag.com/gag/abAZ0j9)
+ - 😝 [Happy](http://9gag.com/gag/aVvePO2)
+ - 💣 [Just simple magic](http://9gag.com/gag/abAZZbL)
+ - 😝 [No culture at all](http://9gag.com/gag/a0ejpEv)
+ - 👉 [This guy knows his stuff.](http://9gag.com/gag/aW4MM46)<!-- MEMES:END -->
 
 ---
 

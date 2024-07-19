@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Messari CEO Ryan Selkis says he&#39;s stepping down, after a series of controversial political X posts; chief revenue officer Eric Turner will be the interim CEO &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240719/p14#a240719p14)
- - [Amazon&#39;s best AirPods &amp; Apple Watch deals from Prime Day are still in effect](https://appleinsider.com/articles/24/07/19/amazons-best-airpods-apple-watch-deals-from-prime-day-are-still-in-effect?utm_medium=rss)
- - [Starbucks mobile ordering falls victim to the CrowdStrike BSOD outage](https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage)
- - [How One Bad CrowdStrike Update Crashed the World’s Computers](https://www.wired.com/story/crowdstrike-outage-update-windows/)
- - [The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240719/p13#a240719p13)<!-- TECH:END -->
+ - [Microsoft on CrowdStrike outage: Have you tried turning it off and on? &lpar;15 times&rpar;](https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc)
+ - [The workaround to fix BSODs caused by faulty CrowdStrike update involves booting Windows into Safe Mode and deleting a system file matching &quot;C-00000291*.sys&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p15#a240719p15)
+ - [iPhone SE 4 chassis now said to resemble the iPhone 16](https://appleinsider.com/articles/24/07/19/iphone-se-4-chassis-now-said-to-resemble-the-iphone-16?utm_medium=rss)
+ - [The Halo TV show has been canceled](https://www.theverge.com/2024/7/19/24201551/halo-paramount-plus-canceled)
+ - [Messari CEO Ryan Selkis says he&#39;s stepping down, after a series of controversial political X posts; chief revenue officer Eric Turner will be the interim CEO &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240719/p14#a240719p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

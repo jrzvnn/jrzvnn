@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Mark Zuckerberg says Trump&#39;s immediate reaction after being shot was &quot;badass&quot; and inspiring, but declines to endorse either Trump or Biden &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p9#a240719p9)
  - [Global chaos erupts as Windows security update goes bad](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)
  - [Google is purging ‘low-quality’ Android apps next month](https://www.theverge.com/2024/7/19/24201756/google-play-store-update-purge-low-quality-android-apps)
- - [A profile of Carlos Espina, who has 9.4M TikTok followers, posts in Spanish about immigration and politics, and whom the White House treats as a broadcaster &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p8#a240719p8)
- - [Microsoft says it fixed a configuration issue causing Microsoft 365 apps and services outage and restored several services; some services remain degraded &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240719/p7#a240719p7)
- - [Moog Labyrinth Review: A New Way to Sequence](https://www.wired.com/review/moog-labyrinth/)<!-- TECH:END -->
+ - [Required to Move Your Social Security Account Sign In to Login.gov? Here&#39;s How](https://www.cnet.com/personal-finance/required-to-move-your-social-security-account-sign-in-to-login-gov-heres-how/#ftag=CAD590a51e)
+ - [A profile of Carlos Espina, who has 9.4M TikTok followers, posts in Spanish about immigration and politics, and whom the White House treats as a broadcaster &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p8#a240719p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

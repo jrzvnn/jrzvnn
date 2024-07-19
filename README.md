@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to Stop Getting Bullied by Anyone](http://9gag.com/gag/ajPD0MQ)
- - 😝 [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
- - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
- - 😝 [That sums it up ....](http://9gag.com/gag/a34jjP1)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
  - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 ---

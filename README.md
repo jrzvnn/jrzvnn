@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy)
- - [How to watch Evo 2024, the biggest fighting game tournament of the year](https://www.theverge.com/2024/7/19/24201924/how-to-watch-evo-2024-schedule-twitch)
- - [A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240719/p16#a240719p16)
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [LG Black Friday in July Slashes Earbuds, Party Speakers and More by up to 40%](https://www.cnet.com/deals/lg-black-friday-in-july-slashes-earbuds-party-speakers-and-more-by-up-to-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The workout-ready Beats Fit Pro have returned to their all-time low](https://www.theverge.com/2024/7/19/24201348/apple-beats-fit-pro-earbuds-hbo-max-subscription-deal-sale)
+ - [A Chaotic History Clickolding, the Year’s Most Disturbing Game](https://www.wired.com/story/video-game-clickolding-oral-history/)
+ - [Best 4K TV for 2024](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
+ - [Best 55-Inch TVs for 2024: Hisense, Samsung and More](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [150 Best Prime Day Deals Still Available: Snag These Last Remaining Deals and Save Hundreds on Home Appliances, Tech, Headphones, Beauty, and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

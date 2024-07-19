@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Messari CEO Ryan Selkis says he ran &quot;too hot&quot; with X posts this week calling for war and sending immigrants back, after Messari management told him to cool it &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/240718/p40#a240718p40)
  - [Montr&amp;eacute;al-based Planned, which offers corporate events and travel planning tools, raised a CAD$35M Series B led by Drive Capital &lpar;Bianca Bharti/BetaKit&rpar;](http://www.techmeme.com/240718/p39#a240718p39)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 19, #138](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-19-138/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 19, #404](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-19-404/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 19, #1126](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-19-1126/#ftag=CAD590a51e)
- - [Post-Prime Day Apple Deals: Grab These Discounts on AirPods, MacBooks and iPads While You Still Can](https://www.cnet.com/deals/best-prime-day-apple-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 19, #1126](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-19-1126/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

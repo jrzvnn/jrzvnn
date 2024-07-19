@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to ruin everybodys day in one road rage](http://9gag.com/gag/a4PjbZ6)
  - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 💣 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
+ - 😝 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
+ - 💣 [Figure hugging](http://9gag.com/gag/aLn9B9v)
+ - 😝 [I&#39;m not saying he was right, but I understand. He worked at the airport and learned to fly via video games/simulators. He managed to get in an aircraft and take off, but knew from the start that he wouldn&#39;t be able to land. He crashed while attempting to land on a desert island.](http://9gag.com/gag/azxArNN)
+ - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
 
 ---
 

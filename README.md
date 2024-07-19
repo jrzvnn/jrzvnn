@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 💣 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 😝 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
- - 👉 [Fellow IT guys: if you are using CrowdStrike on your machines, and you have a BSOD on boot, this is the fix:](http://9gag.com/gag/axyDDn2)<!-- MEMES:END -->
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
 
 ---
 

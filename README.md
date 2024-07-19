@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bangladesh orders a nationwide shutdown of its mobile internet amid student protests that killed dozens of people to &quot;ensure the security of citizens&quot; &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/240719/p4#a240719p4)
  - [Huawei sues MediaTek in China over alleged infringement of its intellectual property patents; MediaTek says the lawsuit would have no significant impact &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240719/p3#a240719p3)
  - [CrowdStrike says it has &quot;widespread reports of BSODs on Windows hosts&quot;, impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p2#a240719p2)
  - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
- - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)
- - [Google cuts Maps API pricing for Indian developers by ~70% and starts accepting payments in rupee, after Ola offered one-year free developer access to Ola Maps &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240719/p1#a240719p1)<!-- TECH:END -->
+ - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
  - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
- - 💣 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
- - 👉 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
+ - 👉 [Who grabbed what?](http://9gag.com/gag/aMV99OG)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Moritz urges Biden to drop out, joining other tech leaders such as Reed Hastings and the Zynga co-founder Mark Pincus in calling for Biden to step aside &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p22#a240719p22)
+ - [Do you love sim racing enough to spend $2,499 on a steering wheel?](https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas)
  - [Crypto CEO steps down after posts endorsing political violence and deportations](https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x)
  - [The UK and US say they arrested a 17-year-old boy from Walsall, UK, suspected of being connected to the ransomware attack against MGM Resorts in 2023 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240719/p21#a240719p21)
- - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)
- - [These 20 Best Prime Day Monitor Deals are Still Available Now](https://www.cnet.com/deals/best-prime-day-monitor-deals-still-available-2024-07-19/#ftag=CAD590a51e)
- - [Bird Feeder with Camera](https://www.cnet.com/home/smart-home/bird-feeder-with-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

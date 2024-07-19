@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Handsome is indias tallest elephant. ~50yrs old near blind killed 2 other elephants and 15 indians](http://9gag.com/gag/a5QrKrg)
- - 😝 [Is this some next level maths?](http://9gag.com/gag/a0ejLrv)
- - 💣 [Almost got Steve Irwin\u2019d by a dang Marlin](http://9gag.com/gag/avyngRM)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
+ - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 ---
 

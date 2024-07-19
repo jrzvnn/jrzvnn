@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto CEO steps down after posts endorsing political violence and deportations](https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x)
+ - [The UK and US say they arrested a 17-year-old boy from Walsall, UK, suspected of being connected to the ransomware attack against MGM Resorts in 2023 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240719/p21#a240719p21)
  - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)
  - [These 20 Best Prime Day Monitor Deals are Still Available Now](https://www.cnet.com/deals/best-prime-day-monitor-deals-still-available-2024-07-19/#ftag=CAD590a51e)
- - [Bird Feeder with Camera](https://www.cnet.com/home/smart-home/bird-feeder-with-camera-dpnl/#ftag=CAD590a51e)
- - [&#39;Too Hot to Handle&#39; Release Schedule: When to Stream More Season 6 Episodes](https://www.cnet.com/tech/services-and-software/too-hot-to-handle-release-schedule-when-to-stream-more-season-6-episodes/#ftag=CAD590a51e)
- - [Ongoing Prime Day Sales Drop Apple&#39;s AirTag 4-Pack to Just $85](https://www.cnet.com/deals/ongoing-prime-day-sales-drop-apples-airtag-4-pack-to-just-85/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bird Feeder with Camera](https://www.cnet.com/home/smart-home/bird-feeder-with-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

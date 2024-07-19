@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 💣 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 😝 [Just simple magic](http://9gag.com/gag/abAZZbL)
+ - 😝 [The internet is really really great!](http://9gag.com/gag/ae96GjO)
+ - 💣 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
+ - 😝 [To Rob](http://9gag.com/gag/aKG33EO)
+ - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 
 ---
 

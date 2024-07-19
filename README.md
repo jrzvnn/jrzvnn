@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
  - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)
+ - [The Inevitability of Big Tech Backing Trump](https://www.wired.com/story/dial-up-jared-clemons/)
  - [Mark Zuckerberg says Trump’s fist pump was ‘one of the most badass things I’ve ever seen in my life’](https://www.theverge.com/2024/7/19/24201879/mark-zuckerberg-trump-rally-shooting-fist-pump-badass)
- - [AMD says its new laptop chips can beat Apple — but still has to prove it](https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event)
- - [Microsoft on CrowdStrike outage: have you tried turning it off and on? &lpar;15 times&rpar;](https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc)
- - [A workaround to fix the BSOD caused by CrowdStrike&#39;s faulty update involves booting Windows in Safe Mode and deleting the security firm&#39;s &quot;C-00000291*.sys&quot; file &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p15#a240719p15)<!-- TECH:END -->
+ - [AMD says its new laptop chips can beat Apple — but still has to prove it](https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

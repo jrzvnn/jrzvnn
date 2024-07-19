@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t Fall for CrowdStrike Outage Scams](https://www.wired.com/story/crowdstrike-outage-support-scams/)
+ - [The Global CrowdStrike Outage Triggered a Surprise Return to Cash](https://www.wired.com/story/microsoft-crowdstrike-outage-cash/)
  - [Hospitals Around the World Are Struggling in the Aftermath of the Great IT Meltdown](https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/)
- - [Why the Global Crowdstrike Outage Hit Airports So Hard](https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/)
- - [EV Charging vs Gas Cost Comparison: We Used Math to Determine Which Is Cheaper](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-cost-comparison-we-used-math-to-determine-which-is-cheaper/#ftag=CAD590a51e)
- - [UK teen arrested in connection to MGM hack](https://www.theverge.com/2024/7/19/24202142/uk-teen-mgm-hack-arrested-fbi)
- - [Disney announces that Safra Catz, CEO of Oracle, is departing its board of directors after six years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240719/p24#a240719p24)<!-- TECH:END -->
+ - [Why the Global CrowdStrike Outage Hit Airports So Hard](https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/)
+ - [EV Charging vs Gas Cost Comparison: We Used Math to Determine Which Is Cheaper](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-cost-comparison-we-used-math-to-determine-which-is-cheaper/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

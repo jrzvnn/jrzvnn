@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
+ - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
  - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
+ - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 ---
 

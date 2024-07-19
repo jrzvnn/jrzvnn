@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 😝 [Crowdstrike](http://9gag.com/gag/aW4MMX2)
- - 💣 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
- - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 😝 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 😝 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

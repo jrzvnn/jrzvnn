@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She loves me](http://9gag.com/gag/a874Ybd)
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
- - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 💣 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
+ - 😝 [Crowdstrike](http://9gag.com/gag/aW4MMX2)
+ - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 ---
 

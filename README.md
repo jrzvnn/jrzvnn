@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
+ - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
  - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gadgets are getting weird — and so are iPhone homescreens](https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast)
- - [Thousands of flights temporarily grounded after major global IT outage](https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage)
- - [Samsung halts Galaxy Buds 3 Pro shipments over quality issues](https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues)
- - [CrowdStrike and other endpoint security tools need access to the core of operating systems, giving them the ability to disrupt systems they&#39;re trying to protect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p10#a240719p10)
- - [Google Maps finally brings hazard reporting in CarPlay](https://appleinsider.com/articles/24/07/19/google-maps-finally-brings-hazard-reporting-in-carplay?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft / CrowdStrike outage: all the latest news](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
+ - [Here’s how IT admins are fixing the Windows Blue Screen of Death chaos](https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix)
+ - [We now have dates for Meta’s forthcoming Quest headsets](https://www.theverge.com/2024/7/19/24201784/meta-quest-4-la-jolla-dates-vr-headsets)
+ - [Figma&#39;s AI duplication of Apple designs due to a lack of vetting](https://appleinsider.com/articles/24/07/19/figmas-ai-duplication-of-apple-designs-due-to-a-lack-of-vetting?utm_medium=rss)
+ - [143 Best Prime Day Deals Still Available: Snag These Last Remaining Deals and Save Hundreds on Home Appliances, Tech, Headphones, Beauty, and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oracle agrees to pay $115M to settle a lawsuit accusing it of invading people&#39;s privacy by collecting their personal information and selling it to third parties &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240719/p27#a240719p27)
+ - [Best Prime Day Deals Under $25 Still Live: Snatch Up Savings on Tech, Health, Games and More](https://www.cnet.com/deals/best-prime-day-deals-under-25-still-available-2024-07-19/#ftag=CAD590a51e)
  - [Sources: Google recently approached EssilorLuxottica&#39;s leadership about putting its Gemini AI assistant in future smart glasses &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240719/p26#a240719p26)
- - [A profile of CrowdStrike, founded in 2011 and used by 300 companies in the Fortune 500; Gartner: CrowdStrike has ~15% of the global security software market &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240719/p25#a240719p25)
- - [Don&#39;t Fall for CrowdStrike Outage Scams](https://www.wired.com/story/crowdstrike-outage-support-scams/)
- - [SunPower Halts Solar Leases and Power Purchase Agreements](https://www.cnet.com/home/energy-and-utilities/sunpower-halts-solar-leases-and-power-purchase-agreements/#ftag=CAD590a51e)
- - [The Global CrowdStrike Outage Triggered a Surprise Return to Cash](https://www.wired.com/story/microsoft-crowdstrike-outage-cash/)<!-- TECH:END -->
+ - [Microsoft Outage: CrowdStrike Update Causes Chaos for Flights, Hospitals and Businesses Globally](https://www.cnet.com/tech/services-and-software/microsoft-outage-crowdstrike-update-causes-chaos-for-flights-hospitals-and-businesses-globally/#ftag=CAD590a51e)
+ - [A profile of CrowdStrike, founded in 2011 and used by 300 companies in the Fortune 500; Gartner: CrowdStrike has ~15% of the global security software market &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240719/p25#a240719p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

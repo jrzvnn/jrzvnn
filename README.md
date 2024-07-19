@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
  - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 💣 [She loves me](http://9gag.com/gag/a874Ybd)
- - 😝 [More splash in the comments](http://9gag.com/gag/amozz5v)
- - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
+ - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 💣 [Not alarming at all](http://9gag.com/gag/avynLmd)
+ - 😝 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
+ - 👉 [Fellow IT guys: if you are using CrowdStrike on your machines, and you have a BSOD on boot, this is the fix:](http://9gag.com/gag/axyDDn2)<!-- MEMES:END -->
 
 ---
 

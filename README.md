@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 💣 [She loves me](http://9gag.com/gag/a874Ybd)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
+ - 😝 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 💣 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 😝 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

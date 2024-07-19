@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
  - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [Crowdstrike](http://9gag.com/gag/aW4MMX2)
+ - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
  - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
 
 ---

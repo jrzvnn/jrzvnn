@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [Nature](http://9gag.com/gag/aKG32p3)
+ - 😝 [Ofcourse](http://9gag.com/gag/an71y3q)
+ - 💣 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
  - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
- - 👉 [Who grabbed what?](http://9gag.com/gag/aMV99OG)<!-- MEMES:END -->
+ - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
 
 ---
 

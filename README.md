@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
- - 😝 [Black Opal](http://9gag.com/gag/aVvePKO)
- - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
- - 😝 [No title](http://9gag.com/gag/aE0n1rx)
- - 👉 [I&#39;m not saying he was right, but I understand. He worked at the airport and learned to fly via video games/simulators. He managed to get in an aircraft and take off, but knew from the start that he wouldn&#39;t be able to land. He crashed while attempting to land on a desert island.](http://9gag.com/gag/azxArNN)<!-- MEMES:END -->
+ - 😝 [Gonna cry?](http://9gag.com/gag/aKG32xj)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 😝 [An attempted Robbery goes Sideways](http://9gag.com/gag/ayN88oV)
+ - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
 
 ---
 

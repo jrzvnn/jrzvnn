@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK teen arrested in connection to MGM hack](https://www.theverge.com/2024/7/19/24202142/uk-teen-mgm-hack-arrested-fbi)
  - [Disney announces that Safra Catz, CEO of Oracle, is departing its board of directors after six years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240719/p24#a240719p24)
  - [CrowdStrike shares close down 11.1% after a software update caused a major outage; its shares had previously risen nearly 118% in the last 12 months &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240719/p23#a240719p23)
  - [Michael Moritz urges Biden to drop out, joining other tech leaders such as Reed Hastings and the Zynga co-founder Mark Pincus in calling for Biden to step aside &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p22#a240719p22)
- - [Do you love sim racing enough to spend $2,499 on a steering wheel?](https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas)
- - [Crypto CEO steps down after posts endorsing political violence and deportations](https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x)<!-- TECH:END -->
+ - [Do you love sim racing enough to spend $2,499 on a steering wheel?](https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike and other endpoint security tools need access to the core of operating systems, giving them the ability to disrupt systems they&#39;re trying to protect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p10#a240719p10)
+ - [Google Maps finally brings hazard reporting in CarPlay](https://appleinsider.com/articles/24/07/19/google-maps-finally-brings-hazard-reporting-in-carplay?utm_medium=rss)
+ - [Prison Phone Call Fees Are Out of Control. The FCC Can Finally Rein Them In](https://www.wired.com/story/prison-phone-call-fees-fcc-caps/)
  - [Cops find $30k of fake Apple products in PA traffic stop](https://appleinsider.com/articles/24/07/19/cops-find-30k-of-fake-apple-products-in-pa-traffic-stop?utm_medium=rss)
- - [In an interview, Mark Zuckerberg says Trump&#39;s immediate reaction after being shot was &quot;badass&quot; and inspiring, but declines to endorse either Trump or Biden &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p9#a240719p9)
- - [Global chaos erupts as Windows security update goes bad](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)
- - [Best Air Purifiers: Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-air-purifiers/)
- - [Google is purging ‘low-quality’ Android apps next month](https://www.theverge.com/2024/7/19/24201756/google-play-store-update-purge-low-quality-android-apps)<!-- TECH:END -->
+ - [In an interview, Mark Zuckerberg says Trump&#39;s immediate reaction after being shot was &quot;badass&quot; and inspiring, but declines to endorse either Trump or Biden &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p9#a240719p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google cuts the Maps API pricing for Indian devs by ~70% and starts accepting payments in Indian rupee, after Ola unveiled one-year free dev access to Ola Maps &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240719/p1#a240719p1)
- - [Messari CEO Ryan Selkis says he ran &quot;too hot&quot; with X posts this week calling for war and sending immigrants back, after Messari management told him to cool it &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/240718/p40#a240718p40)
- - [Montr&amp;eacute;al-based Planned, which offers corporate events and travel planning tools, raised a CAD$35M Series B led by Drive Capital &lpar;Bianca Bharti/BetaKit&rpar;](http://www.techmeme.com/240718/p39#a240718p39)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 19, #138](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-19-138/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 19, #404](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-19-404/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best California King Mattresses for 2024](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
+ - [Best Still-Available Prime Day Deals Under $50: Grab New Headphones, Home Tech, Fashion Finds and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-still-available-2024-07-18/#ftag=CAD590a51e)
+ - [Appeals Court Blocks the Rest of Biden&#39;s Student Loan Forgiveness Plan, Creating Uncertainty for Borrowers](https://www.cnet.com/personal-finance/appeals-court-blocks-the-rest-of-bidens-student-loan-plan-creating-uncertainty-for-borrowers/#ftag=CAD590a51e)
+ - [Last Chance to Still Save Big With Post-Prime Roku Sale](https://www.cnet.com/deals/best-prime-day-roku-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

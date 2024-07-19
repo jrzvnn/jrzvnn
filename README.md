@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nigeria fines Meta $220M after investigations showed data sharing on Facebook and WhatsApp violated local consumer, data protection, and privacy laws &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p20#a240719p20)
+ - [CrowdStrike outage Blue Screen of Death photos from around the world](https://www.theverge.com/24202037/microsoft-crowdstrike-outage-blue-screen-error-photos)
+ - [Twitch lifts its ban on Donald Trump](https://www.theverge.com/2024/7/19/24202095/twitch-lifts-donald-trump-ban)
  - [Amazon&#39;s Twitch reinstates Donald Trump&#39;s account three years after he was banned, as &quot;there is value in hearing from presidential nominees directly&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240719/p19#a240719p19)
- - [Sources: Magic Leap cut ~75 jobs, including its entire sales and marketing units, and told staffers it&#39;s pivoting from selling headsets to licensing its tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p18#a240719p18)
- - [150+ Best Prime Day Deals Still Available: Snag These Last Remaining Deals and Save Hundreds on Ninja, Apple, LG, Samsung and Other Top Brands](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)
- - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Hisense, Vizio](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
- - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Magic Leap cut ~75 jobs, including its entire sales and marketing units, and told staffers it&#39;s pivoting from selling headsets to licensing its tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p18#a240719p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

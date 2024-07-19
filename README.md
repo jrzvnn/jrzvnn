@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 😝 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
 
 ---
 

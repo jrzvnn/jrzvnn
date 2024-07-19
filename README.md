@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
- - 💣 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
  - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 💣 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
+ - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just simple magic](http://9gag.com/gag/abAZZbL)
- - 😝 [The internet is really really great!](http://9gag.com/gag/ae96GjO)
+ - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
+ - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
  - 💣 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
- - 😝 [To Rob](http://9gag.com/gag/aKG33EO)
- - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
+ - 😝 [M@rk Zuckerberg, an outspoken critic of `man-made climate change`, shows off his new $300 million, 287-foot mega yacht, powered by four gigantic diesel engines. Yet another stark reminder that Net Zero is only for the peasants.](http://9gag.com/gag/a34jBR8)
+ - 👉 [No culture at all](http://9gag.com/gag/a0ejpEv)<!-- MEMES:END -->
 
 ---
 

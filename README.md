@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of CrowdStrike, founded in 2011 and used by 300 companies in the Fortune 500; Gartner: CrowdStrike has ~15% of the global security software market &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240719/p25#a240719p25)
- - [Don&#39;t Fall for CrowdStrike Outage Scams](https://www.wired.com/story/crowdstrike-outage-support-scams/)
- - [SunPower Halts Solar Leases and Power Purchase Agreements](https://www.cnet.com/home/energy-and-utilities/sunpower-halts-solar-leases-and-power-purchase-agreements/#ftag=CAD590a51e)
- - [The Global CrowdStrike Outage Triggered a Surprise Return to Cash](https://www.wired.com/story/microsoft-crowdstrike-outage-cash/)
- - [Vacuum Sealing Certain Foods Could Make You Sick. Here Are 7 to Avoid](https://www.cnet.com/news/never-vacuum-seal-these-7-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hospitals Around the World Are Struggling in the Aftermath of the Great IT Meltdown](https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/)
+ - [Why the Global Crowdstrike Outage Hit Airports So Hard](https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/)
+ - [EV Charging vs Gas Cost Comparison: We Used Math to Determine Which Is Cheaper](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-cost-comparison-we-used-math-to-determine-which-is-cheaper/#ftag=CAD590a51e)
+ - [UK teen arrested in connection to MGM hack](https://www.theverge.com/2024/7/19/24202142/uk-teen-mgm-hack-arrested-fbi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

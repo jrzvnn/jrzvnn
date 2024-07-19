@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [Yeah...](http://9gag.com/gag/aVveQ2K)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
  - 💣 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 👉 [Fellow IT guys: if you are using CrowdStrike on your machines, and you have a BSOD on boot, this is the fix:](http://9gag.com/gag/axyDDn2)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aE0n1rx)
+ - 👉 [Crowdstrike](http://9gag.com/gag/aW4MMX2)<!-- MEMES:END -->
 
 ---
 

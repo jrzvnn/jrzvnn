@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/aE0n1rx)
- - 😝 [G.O.A.T](http://9gag.com/gag/aPAWy1w)
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 😝 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
+ - 💣 [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)
+ - 😝 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
+ - 👉 [The internet is really really great!](http://9gag.com/gag/ae96GjO)<!-- MEMES:END -->
 
 ---
 

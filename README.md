@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
  - [Laurene Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)
  - [Bangladesh orders a nationwide shutdown of its mobile internet amid student protests that killed dozens of people to &quot;ensure the security of citizens&quot; &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/240719/p4#a240719p4)
- - [Huge Microsoft Outage Linked to CrowdStrike Takes Down Computers Around the World](https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/)
- - [Huawei sues MediaTek in China over alleged infringement of its intellectual property patents; MediaTek says the lawsuit would have no significant impact &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240719/p3#a240719p3)
- - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Huge Microsoft Outage, Linked to CrowdStrike, Takes Down Computers Around the World](https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/)
+ - [Huawei sues MediaTek in China over alleged infringement of its intellectual property patents; MediaTek says the lawsuit would have no significant impact &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240719/p3#a240719p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Total control](http://9gag.com/gag/abAZ0j9)
- - 😝 [Happy](http://9gag.com/gag/aVvePO2)
- - 💣 [Just simple magic](http://9gag.com/gag/abAZZbL)
- - 😝 [No culture at all](http://9gag.com/gag/a0ejpEv)
- - 👉 [This guy knows his stuff.](http://9gag.com/gag/aW4MM46)<!-- MEMES:END -->
+ - 😝 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
+ - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 

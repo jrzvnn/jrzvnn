@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;iOS 18 customisation, iPhone sales, more &#39;Underdogs,&#39; and more Apple News ads, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/19/ios-18-customisation-iphone-sales-more-underdogs-and-more-apple-news-ads-on-the-appleinsider-podcast?utm_medium=rss)
  - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
  - [Experts say CrowdStrike&#39;s fix requires tampering with system files with no way to automate it at scale, meaning outages could persist for longer than expected &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p11#a240719p11)
  - [Oops, Trump and X did a copyright infringement](https://www.theverge.com/2024/7/19/24201567/trump-shooting-ap-photo-copyright-x-twitter-hashmoji)
- - [Microsoft / CrowdStrike outage: all the latest news](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [Here’s how IT admins are fixing the Windows Blue Screen of Death chaos](https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix)<!-- TECH:END -->
+ - [Microsoft / CrowdStrike outage: all the latest news](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

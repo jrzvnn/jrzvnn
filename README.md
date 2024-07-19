@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 😝 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
  - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
- - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
- - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
+ - 💣 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 👉 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)<!-- MEMES:END -->
 
 ---
 

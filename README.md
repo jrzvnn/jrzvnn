@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gadgets are getting weird — and so are iPhone homescreens](https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast)
+ - [Thousands of flights temporarily grounded after major global IT outage](https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage)
+ - [Samsung halts Galaxy Buds 3 Pro shipments over quality issues](https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues)
  - [CrowdStrike and other endpoint security tools need access to the core of operating systems, giving them the ability to disrupt systems they&#39;re trying to protect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p10#a240719p10)
- - [Google Maps finally brings hazard reporting in CarPlay](https://appleinsider.com/articles/24/07/19/google-maps-finally-brings-hazard-reporting-in-carplay?utm_medium=rss)
- - [Prison Phone Call Fees Are Out of Control. The FCC Can Finally Rein Them In](https://www.wired.com/story/prison-phone-call-fees-fcc-caps/)
- - [Cops find $30k of fake Apple products in PA traffic stop](https://appleinsider.com/articles/24/07/19/cops-find-30k-of-fake-apple-products-in-pa-traffic-stop?utm_medium=rss)
- - [In an interview, Mark Zuckerberg says Trump&#39;s immediate reaction after being shot was &quot;badass&quot; and inspiring, but declines to endorse either Trump or Biden &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p9#a240719p9)<!-- TECH:END -->
+ - [Google Maps finally brings hazard reporting in CarPlay](https://appleinsider.com/articles/24/07/19/google-maps-finally-brings-hazard-reporting-in-carplay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s massive outage now hits Apple Pay terminals worldwide](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)
+ - [Microsoft says it fixed a configuration issue causing Microsoft 365 apps and services outage and restored several services; some services remain degraded &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240719/p7#a240719p7)
  - [Netflix added 8M subscribers in Q2 vs. 5M est., as it benefited from a crackdown on password-sharing and popular titles like Bridgerton and Baby Reindeer &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p6#a240719p6)
  - [CrowdStrike CEO George Kurtz says &quot;the issue has been identified, isolated and a fix has been deployed&quot;, and CrowdStrike is working with impacted customers &lpar;George Kurtz/@george_kurtz&rpar;](http://www.techmeme.com/240719/p5#a240719p5)
- - [Google’s shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
- - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-19/#ftag=CAD590a51e)
- - [You Can Still Save Up to 63% Off Roborock Robot Vacuums After Prime Day](https://www.cnet.com/deals/you-can-still-save-up-63-off-roborock-robot-vacuums-after-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

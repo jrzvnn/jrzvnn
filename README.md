@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 😝 [She loves me](http://9gag.com/gag/a874Ybd)
- - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
+ - 😝 [How to Stop Getting Bullied by Anyone](http://9gag.com/gag/ajPD0MQ)
+ - 😝 [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
+ - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [That sums it up ....](http://9gag.com/gag/a34jjP1)
+ - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 ---
 

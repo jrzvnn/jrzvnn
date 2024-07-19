@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [An interesting technique to protect your car against flooding.](http://9gag.com/gag/a874MzZ)
- - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 😝 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - 👉 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)<!-- MEMES:END -->
+ - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
+ - 💣 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
+ - 👉 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
 
 ---
 

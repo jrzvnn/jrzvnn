@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)
- - 😝 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
- - 💣 [The internet is really really great!](http://9gag.com/gag/ae96GjO)
- - 😝 [No culture at all](http://9gag.com/gag/a0ejpEv)
- - 👉 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)<!-- MEMES:END -->
+ - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 😝 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 💣 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
 
 ---
 

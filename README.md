@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
  - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 💣 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)
- - 😝 [No title](http://9gag.com/gag/aE0n1rx)
- - 👉 [Crowdstrike](http://9gag.com/gag/aW4MMX2)<!-- MEMES:END -->
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 😝 [More splash in the comments](http://9gag.com/gag/amozz5v)
+ - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
 
 ---
 

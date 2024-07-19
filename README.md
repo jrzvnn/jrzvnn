@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [She loves me](http://9gag.com/gag/a874Ybd)
- - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 👉 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)<!-- MEMES:END -->
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 💣 [She loves me](http://9gag.com/gag/a874Ybd)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 

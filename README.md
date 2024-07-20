@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
- - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
+ - 💣 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
 
 ---
 

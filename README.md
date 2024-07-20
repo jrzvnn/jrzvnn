@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capcom’s Kunitsu-Gami combines tower defense strategy with the heart of community organizing](https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom)
- - [High hopes and security fears for next-gen nuclear reactors](https://www.theverge.com/24201610/next-generation-nuclear-energy-reactors-security-weapons-proliferation-risk)
- - [CrowdStrike says a sensor configuration update to Windows systems triggered a logic error that resulted in a system crash and BSOD on impacted systems &lpar;CrowdStrike&rpar;](http://www.techmeme.com/240720/p5#a240720p5)
- - [Omega’s AI Will Map How Olympic Athletes Win](https://www.wired.com/story/omegas-ai-will-map-how-olympic-athletes-win/)
- - [Dyson Has New Headphones That Don’t Cover Your Mouth This Time](https://www.wired.com/story/dyson-ontrac-headphones-dont-cover-your-mouth/)<!-- TECH:END -->
+ - [The CrowdStrike debacle may have accidentally provided cybercriminals and countries like China a more detailed road map to disrupt US critical infrastructure &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240720/p6#a240720p6)
+ - [Pre-order the Motorola Razr Plus today and save $100 at Amazon](https://www.cnet.com/deals/pre-order-the-motorola-razr-plus-today-and-save-100-at-amazon/#ftag=CAD590a51e)
+ - [iFi Audio GO link Review: Supercharge Wired Headphones for Cheap](https://www.cnet.com/tech/mobile/ifi-audio-go-link-review-supercharge-wired-headphones-for-cheap/#ftag=CAD590a51e)
+ - [Nike &#39;Back to School&#39; sale slashes sportswear, trainers and more by over 35%](https://www.cnet.com/deals/nike-back-to-school-sale-slashes-sportswear-trainers-and-more-by-over-35/#ftag=CAD590a51e)
+ - [A Cornell Professor Used Science to Make Perfect Barbecue Chicken. Here&#39;s How to Do It](https://www.cnet.com/how-to/a-cornell-professor-used-science-to-make-perfect-barbecue-chicken-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

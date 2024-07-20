@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 😝 [Is this really Naples? Wtf](http://9gag.com/gag/aPAW94G)
+ - 💣 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
  - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 💣 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
+ - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
 
 ---
 

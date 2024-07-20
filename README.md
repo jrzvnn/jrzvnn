@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $1,695 smart bassinet’s best features are now behind a premium subscription](https://www.theverge.com/2024/7/20/24202166/snoo-premium-subscription-happiest-baby)
- - [All the Top New Features Coming to MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [I&#39;ve Used iOS 18 Since Its Developer Phase, Here&#39;s My Take on the Public Beta](https://www.cnet.com/tech/services-and-software/ive-used-ios-18-since-its-developer-phase-heres-my-take-on-the-public-beta/#ftag=CAD590a51e)
- - [iOS 18 Beta: Here&#39;s How to React to Messages on Your iPhone With All Emoji](https://www.cnet.com/tech/services-and-software/ios-18-beta-heres-how-to-react-to-messages-on-your-iphone-with-all-emoji/#ftag=CAD590a51e)
- - [The 48 Best Movies on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [A few weeks with the Daylight DC-1 tablet: rethinking screen time](https://www.theverge.com/2024/7/20/24201356/daylight-computer-dc-1-hands-on)
+ - [Sonos Roam 2 Review: Still the Best Sonos Bluetooth Speaker](https://www.wired.com/review/sonos-roam-2/)
+ - [Galaxy Watch 7 and Ultra Review: Samsung Squares Up Its Smartwatches](https://www.cnet.com/tech/mobile/galaxy-watch-7-and-ultra-review-samsung-squares-up-its-smartwatches/#ftag=CAD590a51e)
+ - [Where Are the Qi2 Android Phones?](https://www.cnet.com/tech/mobile/where-are-the-qi2-android-phones/#ftag=CAD590a51e)
+ - [Enough With the Arrogant Attitudes Towards Extreme Heat](https://www.wired.com/story/enough-with-the-arrogant-attitudes-towards-extreme-heat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

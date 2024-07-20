@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CrowdStrike debacle may have accidentally provided cybercriminals and countries like China a more detailed road map to disrupt US critical infrastructure &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240720/p6#a240720p6)
- - [Pre-order the Motorola Razr Plus today and save $100 at Amazon](https://www.cnet.com/deals/pre-order-the-motorola-razr-plus-today-and-save-100-at-amazon/#ftag=CAD590a51e)
- - [iFi Audio GO link Review: Supercharge Wired Headphones for Cheap](https://www.cnet.com/tech/mobile/ifi-audio-go-link-review-supercharge-wired-headphones-for-cheap/#ftag=CAD590a51e)
- - [The 12 Games We&#39;re Still Most Looking Forward to in 2024 &lpar;and Beyond&rpar;](https://www.wired.com/gallery/the-games-were-most-looking-forward-to-in-2024/)
- - [Nike &#39;Back to School&#39; sale slashes sportswear, trainers and more by over 35%](https://www.cnet.com/deals/nike-back-to-school-sale-slashes-sportswear-trainers-and-more-by-over-35/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple financial partner Green Dot slapped with millions in fines over hidden fees](https://appleinsider.com/articles/24/07/20/apple-financial-partner-green-dot-slapped-with-millions-in-fines-over-hidden-fees?utm_medium=rss)
+ - [Experts Weigh in on the Latest Heart Health Findings on Fish Oil](https://www.cnet.com/health/nutrition/what-experts-say-to-the-latest-heart-health-findings-on-fish-oil/#ftag=CAD590a51e)
+ - [Solar Cheat Sheet: Your Guide to Getting Solar Panels](https://www.cnet.com/home/energy-and-utilities/solar-cheat-sheet-your-complete-guide-to-getting-solar-panels-at-home/#ftag=CAD590a51e)
+ - [Prime Day&#39;s Best Bluetooth Speaker Deal Is Still Live… for Now](https://www.cnet.com/deals/prime-days-best-bluetooth-speaker-deal-is-still-live/#ftag=CAD590a51e)
+ - [The CrowdStrike debacle may have accidentally provided cybercriminals and countries like China a more detailed road map to disrupt US critical infrastructure &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240720/p6#a240720p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

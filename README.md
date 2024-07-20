@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 😝 [When you are illiterate, you are not bound by laws.](http://9gag.com/gag/aXPwXyP)
- - 💣 [Nature](http://9gag.com/gag/aKG32p3)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
+ - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
+ - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 💣 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
+ - 😝 [Nature](http://9gag.com/gag/aKG32p3)
+ - 👉 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)<!-- MEMES:END -->
 
 ---
 

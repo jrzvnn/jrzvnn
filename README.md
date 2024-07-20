@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s comments on Taiwan hollowing out the US chip industry are incorrect, and risks opening up a fissure for China to exploit and push its own tech sector &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/240720/p4#a240720p4)
  - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)
  - [Social Security Payment July 2024: When Will You Get Your Money?](https://www.cnet.com/personal-finance/social-security-payment-july-2024-when-will-you-get-your-money/#ftag=CAD590a51e)
  - [Q&amp;A with California state Senator Scott Wiener on his AI safety bill, addressing AI risks and liability concerns, critiques from the open source community, more &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240720/p3#a240720p3)
- - [DJI Power 1000 review: with great power comes many dongles](https://www.theverge.com/24200296/dji-power-station-review-140w-usb-specs-price)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DJI Power 1000 review: with great power comes many dongles](https://www.theverge.com/24200296/dji-power-station-review-140w-usb-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

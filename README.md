@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 😝 [Happy](http://9gag.com/gag/aVvePO2)
- - 💣 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 😝 [Rat.rar](http://9gag.com/gag/aryN5GX)
- - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
+ - 😝 [Card trick](http://9gag.com/gag/aRBemLQ)
+ - 😝 [Thank God it&#39;s Friday.](http://9gag.com/gag/awyV5nW)
+ - 💣 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)
+ - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
+ - 👉 [Patience](http://9gag.com/gag/aD2GWXG)<!-- MEMES:END -->
 
 ---
 

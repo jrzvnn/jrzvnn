@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black Opal](http://9gag.com/gag/aVvePKO)
- - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
- - 💣 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 😝 [Nature](http://9gag.com/gag/aKG32p3)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
 
 ---
 

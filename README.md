@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Marc Andreessen and Ben Horowitz&#39;s self-interested Trump support, including the &quot;final straw&quot;, a Biden proposal to tax unrealized capital gains at 25% &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240720/p8#a240720p8)
+ - [The Best Way to Roast a Chicken? Skip the Oven and Use This Speedy Method](https://www.cnet.com/how-to/the-best-way-to-roast-a-chicken-skip-the-oven-and-use-this-speedy-method/#ftag=CAD590a51e)
  - [How to make it easier to use your phone one-handed](https://www.theverge.com/24201413/iphone-android-ios-samsung-one-hand-how-to)
  - [CrowdStrike’s faulty update crashed 8.5 million Windows devices, says Microsoft](https://www.theverge.com/2024/7/20/24202527/crowdstrike-microsoft-windows-bsod-outage)
- - [Flash deal: get a lifetime Babbel subscription for just $129.97 this weekend only](https://appleinsider.com/articles/24/07/20/flash-deal-get-a-lifetime-babbel-subscription-for-just-12997-this-weekend-only?utm_medium=rss)
- - [Learn a Language for Less With This $450-Plus Discount on a Babell Lifetime Subscription](https://www.cnet.com/deals/learn-a-language-for-less-with-this-450-plus-discount-on-a-babell-lifetime-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flash deal: get a lifetime Babbel subscription for just $129.97 this weekend only](https://appleinsider.com/articles/24/07/20/flash-deal-get-a-lifetime-babbel-subscription-for-just-12997-this-weekend-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
- - 😝 [Patience](http://9gag.com/gag/aD2GWXG)
- - 💣 [Card trick](http://9gag.com/gag/aRBemLQ)
- - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
- - 👉 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
+ - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
+ - 👉 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 😝 [For the anime lovers](http://9gag.com/gag/a2v5qBe)
- - 💣 [Teachers saved up money and surprised their school janitor with a car after seeing him walk to work everyday](http://9gag.com/gag/aoyp25X)
  - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
+ - 😝 [When you are illiterate, you are not bound by laws.](http://9gag.com/gag/aXPwXyP)
+ - 💣 [Nature](http://9gag.com/gag/aKG32p3)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
 
 ---
 

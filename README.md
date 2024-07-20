@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 💣 [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
+ - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Capcom’s Kunitsu-Gami combines tower defense strategy with the heart of community organizing](https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom)
  - [High hopes and security fears for next-gen nuclear reactors](https://www.theverge.com/24201610/next-generation-nuclear-energy-reactors-security-weapons-proliferation-risk)
  - [CrowdStrike says a sensor configuration update to Windows systems triggered a logic error that resulted in a system crash and BSOD on impacted systems &lpar;CrowdStrike&rpar;](http://www.techmeme.com/240720/p5#a240720p5)
- - [Omega’s AI Will Map How Olympic Athletes Win](https://www.wired.com/story/omegas-ai-will-map-how-olympic-athletes-win/)
  - [Dyson Has New Headphones That Don’t Cover Your Mouth This Time](https://www.wired.com/story/dyson-ontrac-headphones-dont-cover-your-mouth/)
  - [The Olympics Has Big Plans to Save Energy. Can You Learn From Them?](https://www.cnet.com/home/energy-and-utilities/the-olympics-has-big-plans-to-save-energy-can-you-learn-from-them/#ftag=CAD590a51e)<!-- TECH:END -->
 

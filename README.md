@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 😝 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)
- - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
+ - 😝 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
+ - 😝 [Patience](http://9gag.com/gag/aD2GWXG)
+ - 💣 [Card trick](http://9gag.com/gag/aRBemLQ)
+ - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 👉 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)<!-- MEMES:END -->
 
 ---
 

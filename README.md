@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Marc Andreessen and Ben Horowitz&#39;s self-interested Trump support, including the &quot;final straw&quot;, a Biden proposal to tax unrealized capital gains at 25% &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240720/p8#a240720p8)
+ - [How to make it easier to use your phone one-handed](https://www.theverge.com/24201413/iphone-android-ios-samsung-one-hand-how-to)
  - [CrowdStrike’s faulty update crashed 8.5 million Windows devices, says Microsoft](https://www.theverge.com/2024/7/20/24202527/crowdstrike-microsoft-windows-bsod-outage)
  - [Flash deal: get a lifetime Babbel subscription for just $129.97 this weekend only](https://appleinsider.com/articles/24/07/20/flash-deal-get-a-lifetime-babbel-subscription-for-just-12997-this-weekend-only?utm_medium=rss)
- - [Learn a Language for Less With This $450-Plus Discount on a Babell Lifetime Subscription](https://www.cnet.com/deals/learn-a-language-for-less-with-this-450-plus-discount-on-a-babell-lifetime-subscription/#ftag=CAD590a51e)
- - [Microsoft estimates that CrowdStrike&#39;s update affected 8.5M Windows devices, or less than 1% of all Windows machines &lpar;David Weston/The Official Microsoft Blog&rpar;](http://www.techmeme.com/240720/p7#a240720p7)
- - [Where to preorder Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)<!-- TECH:END -->
+ - [Learn a Language for Less With This $450-Plus Discount on a Babell Lifetime Subscription](https://www.cnet.com/deals/learn-a-language-for-less-with-this-450-plus-discount-on-a-babell-lifetime-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

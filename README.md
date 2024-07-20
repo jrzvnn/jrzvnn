@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)
  - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 💣 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
+ - 💣 [Racial Injustice](http://9gag.com/gag/aXPwvGz)
+ - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 👉 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
+ - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
+ - 😝 [For the anime lovers](http://9gag.com/gag/a2v5qBe)
+ - 💣 [Teachers saved up money and surprised their school janitor with a car after seeing him walk to work everyday](http://9gag.com/gag/aoyp25X)
  - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 💣 [Don&#39;t Get Physical](http://9gag.com/gag/aAyPPR9)
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
+ - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 
 ---
 

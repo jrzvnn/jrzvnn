@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [Is this really Naples? Wtf](http://9gag.com/gag/aPAW94G)
- - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 😝 [No title](http://9gag.com/gag/aE0n1rx)
- - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
+ - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
+ - 😝 [Patience](http://9gag.com/gag/aD2GWXG)
+ - 💣 [Card trick](http://9gag.com/gag/aRBemLQ)
+ - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
+ - 👉 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)<!-- MEMES:END -->
 
 ---
 

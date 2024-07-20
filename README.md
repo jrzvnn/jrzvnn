@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to fix the blue screen error. crowdstrike fix](http://9gag.com/gag/a9yYpLW)
- - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
- - 💣 [Save the planet and stream!](http://9gag.com/gag/aqyLbLR)
- - 😝 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)
- - 👉 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)<!-- MEMES:END -->
+ - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

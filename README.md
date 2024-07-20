@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature](http://9gag.com/gag/aKG32p3)
+ - 😝 [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
  - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 💣 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
+ - 💣 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
+ - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
 
 ---
 

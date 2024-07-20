@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mild shock!](http://9gag.com/gag/a2v542d)
- - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
- - 💣 [Aladdin](http://9gag.com/gag/a0ej57B)
- - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
- - 👉 [British police in Leeds arrested a patriotic British woman who criticized the rioting protesting immigrants. The UK has become rotten to the core.](http://9gag.com/gag/aryN58y)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 💣 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 
 ---
 

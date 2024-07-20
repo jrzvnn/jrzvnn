@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Card trick](http://9gag.com/gag/aRBemLQ)
- - 😝 [Thank God it&#39;s Friday.](http://9gag.com/gag/awyV5nW)
- - 💣 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
- - 😝 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)
- - 👉 [Patience](http://9gag.com/gag/aD2GWXG)<!-- MEMES:END -->
+ - 😝 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 💣 [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
 
 ---
 

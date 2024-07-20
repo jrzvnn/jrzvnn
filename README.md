@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
  - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 💣 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 😝 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)
+ - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
  - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
  - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 

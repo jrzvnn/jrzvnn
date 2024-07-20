@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Flash deal: get a lifetime Babbel subscription for just $129.97 this weekend only](https://appleinsider.com/articles/24/07/20/flash-deal-get-a-lifetime-babbel-subscription-for-just-12997-this-weekend-only?utm_medium=rss)
+ - [Learn a Language for Less With This $450-Plus Discount on a Babell Lifetime Subscription](https://www.cnet.com/deals/learn-a-language-for-less-with-this-450-plus-discount-on-a-babell-lifetime-subscription/#ftag=CAD590a51e)
  - [Microsoft estimates that CrowdStrike&#39;s update affected 8.5M Windows devices, or less than 1% of all Windows machines &lpar;David Weston/The Official Microsoft Blog&rpar;](http://www.techmeme.com/240720/p7#a240720p7)
  - [Where to preorder Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)
- - [Apple financial partner Green Dot slapped with millions in fines over hidden fees](https://appleinsider.com/articles/24/07/20/apple-financial-partner-green-dot-slapped-with-millions-in-fines-over-hidden-fees?utm_medium=rss)
- - [Experts Weigh in on the Latest Heart Health Findings on Fish Oil](https://www.cnet.com/health/nutrition/what-experts-say-to-the-latest-heart-health-findings-on-fish-oil/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple financial partner Green Dot slapped with millions in fines over hidden fees](https://appleinsider.com/articles/24/07/20/apple-financial-partner-green-dot-slapped-with-millions-in-fines-over-hidden-fees?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 💣 [Racial Injustice](http://9gag.com/gag/aXPwvGz)
- - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
- - 👉 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - 💣 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 👉 [More splash in the comments](http://9gag.com/gag/amozz5v)<!-- MEMES:END -->
 
 ---
 

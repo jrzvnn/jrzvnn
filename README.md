@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 😝 [My fellow simp.. hear me out.. she almost looks like Jennifer Connelly...](http://9gag.com/gag/aLn9M3z)
+ - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
 
 ---
 

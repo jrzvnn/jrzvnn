@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
  - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
  - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 

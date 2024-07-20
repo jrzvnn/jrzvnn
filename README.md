@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score Rachio Smart Watering Systems at Lingering Prime Day Discounts of Up to $80 Off](https://www.cnet.com/deals/score-rachio-smart-watering-systems-at-lingering-prime-day-discounts-of-up-to-80-off/#ftag=CAD590a51e)
  - [Some Black founders and investors say they feel betrayed by Ben Horowitz&#39;s support for Trump, as he has always been seen as an ally to the Black community &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240720/p10#a240720p10)
+ - [I Asked Amazon&#39;s Rufus to Help Me Shop. It&#39;s Not Quite There Yet](https://www.cnet.com/tech/services-and-software/i-asked-amazons-rufus-to-help-me-shop-its-not-quite-there-yet/#ftag=CAD590a51e)
  - [&#39;Too Hot to Handle&#39; Release Schedule: When to Stream New Season 6 Episodes](https://www.cnet.com/tech/services-and-software/too-hot-to-handle-release-schedule-when-to-stream-new-season-6-episodes/#ftag=CAD590a51e)
- - [Don&#39;t Skip the SPF: A Dermatologist Shares Sun Safety Tips for the Summer](https://www.cnet.com/health/personal-care/dont-skip-the-spf-a-dermatologist-shares-sun-safety-tips-for-this-summer/#ftag=CAD590a51e)
- - [One defective CrowdStrike update for Windows breaking global systems resurfaces concerns about Microsoft&#39;s monopoly in government and enterprise IT systems &lpar;Washington Post&rpar;](http://www.techmeme.com/240720/p9#a240720p9)
- - [A look at Marc Andreessen and Ben Horowitz&#39;s self-interested Trump support, including the &quot;final straw&quot;, a Biden proposal to tax unrealized capital gains at 25% &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240720/p8#a240720p8)<!-- TECH:END -->
+ - [Don&#39;t Skip the SPF: A Dermatologist Shares Sun Safety Tips for the Summer](https://www.cnet.com/health/personal-care/dont-skip-the-spf-a-dermatologist-shares-sun-safety-tips-for-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

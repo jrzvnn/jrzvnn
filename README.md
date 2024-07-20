@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [So clumsy](http://9gag.com/gag/a6ZQM22)
- - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
- - 👉 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)<!-- MEMES:END -->
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 💣 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 
 ---
 

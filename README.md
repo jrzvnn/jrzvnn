@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Starlink faces regulatory obstacles in Africa, as countries worry about losing control over content and the company providing services without paying taxes &lpar;Sultan Quadri/Semafor&rpar;](http://www.techmeme.com/240720/p11#a240720p11)
+ - [Make Your iPhone Battery Last Longer by Disabling These iOS Settings](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-by-disabling-these-ios-settings/#ftag=CAD590a51e)
  - [Top deal: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 512GB SSD drops to $1,499](https://appleinsider.com/articles/24/07/20/top-deal-apples-m3-macbook-air-15-inch-with-16gb-ram-512gb-ssd-drops-to-1499?utm_medium=rss)
  - [The Gamma PS1 emulator for iOS gets Multitap support and better audio](https://www.theverge.com/2024/7/20/24202627/iphone-gamma-ps1-emulator-updates-graphics-multitap-multidisc-video-games)
- - [Nab SoundPEATS Audio Gear for Under $100 at Amazon Right Now](https://www.cnet.com/deals/nab-soundpeats-audio-gear-for-under-100-at-amazon-right-now/#ftag=CAD590a51e)
- - [Score Rachio Smart Watering Systems at Lingering Prime Day Discounts of Up to $80 Off](https://www.cnet.com/deals/score-rachio-smart-watering-systems-at-lingering-prime-day-discounts-of-up-to-80-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nab SoundPEATS Audio Gear for Under $100 at Amazon Right Now](https://www.cnet.com/deals/nab-soundpeats-audio-gear-for-under-100-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

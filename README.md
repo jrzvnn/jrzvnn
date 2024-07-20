@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Olympics Has Big Plans to Save Energy. Can You Learn From Them?](https://www.cnet.com/home/energy-and-utilities/the-olympics-has-big-plans-to-save-energy-can-you-learn-from-them/#ftag=CAD590a51e)
+ - [Quantum Fiber Review: Plans, Pricing, Speeds and Availability Compared](https://www.cnet.com/home/internet/quantum-fiber-review/#ftag=CAD590a51e)
  - [A few weeks with the Daylight DC-1 tablet: rethinking screen time](https://www.theverge.com/2024/7/20/24201356/daylight-computer-dc-1-hands-on)
  - [Sonos Roam 2 Review: Still the Best Sonos Bluetooth Speaker](https://www.wired.com/review/sonos-roam-2/)
- - [Galaxy Watch 7 and Ultra Review: Samsung Squares Up Its Smartwatches](https://www.cnet.com/tech/mobile/galaxy-watch-7-and-ultra-review-samsung-squares-up-its-smartwatches/#ftag=CAD590a51e)
- - [Where Are the Qi2 Android Phones?](https://www.cnet.com/tech/mobile/where-are-the-qi2-android-phones/#ftag=CAD590a51e)
- - [Enough With the Arrogant Attitudes Towards Extreme Heat](https://www.wired.com/story/enough-with-the-arrogant-attitudes-towards-extreme-heat/)<!-- TECH:END -->
+ - [Galaxy Watch 7 and Ultra Review: Samsung Squares Up Its Smartwatches](https://www.cnet.com/tech/mobile/galaxy-watch-7-and-ultra-review-samsung-squares-up-its-smartwatches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

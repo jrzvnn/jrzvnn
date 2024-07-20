@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 20, #1127](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-20-1127/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 20, #405](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-20-405/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 20, #139](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-20-139/#ftag=CAD590a51e)
  - [Kunitsu-Gami: Path of the Goddess: 5 Tips When Starting the Game](https://www.cnet.com/tech/gaming/kunitsu-gami-path-of-the-goddess-5-tips-when-starting-the-game/#ftag=CAD590a51e)
- - [Xiaomi unveils the Mix Fold 4, starting at ~$1,237, and the Mix Flip, its first flip foldable, with a 4.01&quot; cover display, starting at ~$825, available in China &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240719/p29#a240719p29)
- - [Microsoft-CrowdStrike Memes Celebrate &#39;Happy International Blue Screen Day&#39;](https://www.cnet.com/tech/services-and-software/microsoft-memes-celebrate-happy-international-blue-screen-day/#ftag=CAD590a51e)
- - [Over 200 Bethesda Game Studios workers unionize with the CWA, forming the first &quot;wall-to-wall&quot; union at a Microsoft game studio; Microsoft recognized the union &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240719/p28#a240719p28)
- - [Bethesda Game Studios workers have unionized](https://www.theverge.com/2024/7/19/24202271/bethesda-game-studios-workers-unionize-cwa)<!-- TECH:END -->
+ - [Xiaomi unveils the Mix Fold 4, starting at ~$1,237, and the Mix Flip, its first flip foldable, with a 4.01&quot; cover display, starting at ~$825, available in China &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240719/p29#a240719p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

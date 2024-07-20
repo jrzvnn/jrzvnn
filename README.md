@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 💣 [That sums it up ....](http://9gag.com/gag/a34jjP1)
  - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - 💣 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 👉 [More splash in the comments](http://9gag.com/gag/amozz5v)<!-- MEMES:END -->
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

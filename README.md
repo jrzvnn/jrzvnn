@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I&#39;ve Used iOS 18 Since Its Developer Phase, Here&#39;s My Take on the Public Beta](https://www.cnet.com/tech/services-and-software/ive-used-ios-18-since-its-developer-phase-heres-my-take-on-the-public-beta/#ftag=CAD590a51e)
+ - [iOS 18 Beta: Here&#39;s How to React to Messages on Your iPhone With All Emoji](https://www.cnet.com/tech/services-and-software/ios-18-beta-heres-how-to-react-to-messages-on-your-iphone-with-all-emoji/#ftag=CAD590a51e)
+ - [Best Smart Home Safes for 2024](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
  - [Trump&#39;s comments on Taiwan hollowing out the US chip industry are incorrect, and risks opening up a fissure for China to exploit and push its own tech sector &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/240720/p4#a240720p4)
- - [The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities](https://www.wired.com/story/carr-hackers-sanctioned-security-roundup/)
- - [iOS 18 Beta: How to Resize Your Widgets Right From Your Home Screen](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-resize-your-widgets-right-from-your-home-screen/#ftag=CAD590a51e)
- - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)
- - [Social Security Payment July 2024: When Will You Get Your Money?](https://www.cnet.com/personal-finance/social-security-payment-july-2024-when-will-you-get-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities](https://www.wired.com/story/carr-hackers-sanctioned-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Black founders and investors say they feel betrayed by Ben Horowitz&#39;s support for Trump, as he has always been seen as an ally to the Black community &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240720/p10#a240720p10)
  - [&#39;Too Hot to Handle&#39; Release Schedule: When to Stream New Season 6 Episodes](https://www.cnet.com/tech/services-and-software/too-hot-to-handle-release-schedule-when-to-stream-new-season-6-episodes/#ftag=CAD590a51e)
  - [Don&#39;t Skip the SPF: A Dermatologist Shares Sun Safety Tips for the Summer](https://www.cnet.com/health/personal-care/dont-skip-the-spf-a-dermatologist-shares-sun-safety-tips-for-this-summer/#ftag=CAD590a51e)
  - [One defective CrowdStrike update for Windows breaking global systems resurfaces concerns about Microsoft&#39;s monopoly in government and enterprise IT systems &lpar;Washington Post&rpar;](http://www.techmeme.com/240720/p9#a240720p9)
- - [A look at Marc Andreessen and Ben Horowitz&#39;s self-interested Trump support, including the &quot;final straw&quot;, a Biden proposal to tax unrealized capital gains at 25% &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240720/p8#a240720p8)
- - [The Best Way to Roast a Chicken? Skip the Oven and Use This Speedy Method](https://www.cnet.com/how-to/the-best-way-to-roast-a-chicken-skip-the-oven-and-use-this-speedy-method/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Marc Andreessen and Ben Horowitz&#39;s self-interested Trump support, including the &quot;final straw&quot;, a Biden proposal to tax unrealized capital gains at 25% &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240720/p8#a240720p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

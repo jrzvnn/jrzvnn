@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
+ - 😝 [Thank God it&#39;s Friday.](http://9gag.com/gag/awyV5nW)
+ - 💣 [Patience](http://9gag.com/gag/aD2GWXG)
  - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 👉 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)<!-- MEMES:END -->
 
 ---
 

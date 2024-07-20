@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Healthcare payments infrastructure provider Commure plans to acquire and take private Augmedix, which develops AI ambient clinical documentation tech, for $139M &lpar;Emma Beavins/FierceHealthcare&rpar;](http://www.techmeme.com/240720/p2#a240720p2)
- - [TSMC says its HPC group, which includes AI and server chips, accounted for 52% of wafer revenue in Q2, the first time it made up the majority of sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240720/p1#a240720p1)
+ - [TSMC says that its HPC group, which includes AI and server chips, accounted for 52% of wafer revenue in Q2, the first time it made up the majority of sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240720/p1#a240720p1)
  - [Venture funding to cybersecurity startups grew to $4.4B in Q2 2024, up 144% YoY; funding in H1 2024 was $7.1B, up from $4.7B in H1 2023 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240719/p30#a240719p30)
  - [Today&#39;s Wordle Hints, Answer and Help for July 20, #1127](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-20-1127/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 20, #405](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-20-405/#ftag=CAD590a51e)<!-- TECH:END -->

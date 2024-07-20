@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
- - 💣 [Nature](http://9gag.com/gag/aKG32p3)
- - 😝 [Card trick](http://9gag.com/gag/aRBemLQ)
- - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
+ - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
+ - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 💣 [Don&#39;t Get Physical](http://9gag.com/gag/aAyPPR9)
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
 
 ---
 

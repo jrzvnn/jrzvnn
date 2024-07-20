@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
- - 😝 [Thank God it&#39;s Friday.](http://9gag.com/gag/awyV5nW)
- - 💣 [Patience](http://9gag.com/gag/aD2GWXG)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 👉 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)<!-- MEMES:END -->
+ - 😝 [Mild shock!](http://9gag.com/gag/a2v542d)
+ - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 💣 [Aladdin](http://9gag.com/gag/a0ej57B)
+ - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
+ - 👉 [British police in Leeds arrested a patriotic British woman who criticized the rioting protesting immigrants. The UK has become rotten to the core.](http://9gag.com/gag/aryN58y)<!-- MEMES:END -->
 
 ---
 

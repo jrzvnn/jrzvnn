@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft estimates that CrowdStrike&#39;s update affected 8.5M Windows devices, or less than 1% of all Windows machines &lpar;David Weston/The Official Microsoft Blog&rpar;](http://www.techmeme.com/240720/p7#a240720p7)
+ - [Where to preorder Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)
  - [Apple financial partner Green Dot slapped with millions in fines over hidden fees](https://appleinsider.com/articles/24/07/20/apple-financial-partner-green-dot-slapped-with-millions-in-fines-over-hidden-fees?utm_medium=rss)
  - [Experts Weigh in on the Latest Heart Health Findings on Fish Oil](https://www.cnet.com/health/nutrition/what-experts-say-to-the-latest-heart-health-findings-on-fish-oil/#ftag=CAD590a51e)
- - [Solar Cheat Sheet: Your Guide to Getting Solar Panels](https://www.cnet.com/home/energy-and-utilities/solar-cheat-sheet-your-complete-guide-to-getting-solar-panels-at-home/#ftag=CAD590a51e)
- - [Prime Day&#39;s Best Bluetooth Speaker Deal Is Still Live… for Now](https://www.cnet.com/deals/prime-days-best-bluetooth-speaker-deal-is-still-live/#ftag=CAD590a51e)
- - [The CrowdStrike debacle may have accidentally provided cybercriminals and countries like China a more detailed road map to disrupt US critical infrastructure &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240720/p6#a240720p6)<!-- TECH:END -->
+ - [Solar Cheat Sheet: Your Guide to Getting Solar Panels](https://www.cnet.com/home/energy-and-utilities/solar-cheat-sheet-your-complete-guide-to-getting-solar-panels-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

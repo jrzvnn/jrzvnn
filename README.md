@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
- - 👉 [My fellow simp.. hear me out.. she almost looks like Jennifer Connelly...](http://9gag.com/gag/aLn9M3z)<!-- MEMES:END -->
+ - 😝 [How to fix the blue screen error. crowdstrike fix](http://9gag.com/gag/a9yYpLW)
+ - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 💣 [Save the planet and stream!](http://9gag.com/gag/aqyLbLR)
+ - 😝 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)
+ - 👉 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)<!-- MEMES:END -->
 
 ---
 

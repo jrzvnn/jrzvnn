@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
- - 💣 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
+ - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 💣 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 
 ---
 

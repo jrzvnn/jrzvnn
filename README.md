@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
  - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 💣 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 💣 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)
  - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)<!-- MEMES:END -->
+ - 👉 [Happy](http://9gag.com/gag/aVvePO2)<!-- MEMES:END -->
 
 ---
 

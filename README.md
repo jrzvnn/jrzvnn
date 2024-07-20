@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [An attempted Robbery goes Sideways](http://9gag.com/gag/ayN88oV)
- - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
+ - 😝 [Black Opal](http://9gag.com/gag/aVvePKO)
+ - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
+ - 💣 [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 ---
 

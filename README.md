@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Q&amp;A with California state Senator Scott Wiener on his AI safety bill, addressing AI risks and liability concerns, critiques from the open source community, more &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240720/p3#a240720p3)
  - [DJI Power 1000 review: with great power comes many dongles](https://www.theverge.com/24200296/dji-power-station-review-140w-usb-specs-price)
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-20/#ftag=CAD590a51e)
  - [Healthcare payments infrastructure provider Commure plans to acquire and take private Augmedix, which develops AI ambient clinical documentation tech, for $139M &lpar;Emma Beavins/FierceHealthcare&rpar;](http://www.techmeme.com/240720/p2#a240720p2)
- - [TSMC says that its HPC group, which includes AI and server chips, accounted for 52% of wafer revenue in Q2, the first time it made up the majority of sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240720/p1#a240720p1)
- - [Venture funding to cybersecurity startups grew to $4.4B in Q2 2024, up 144% YoY; funding in H1 2024 was $7.1B, up from $4.7B in H1 2023 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240719/p30#a240719p30)<!-- TECH:END -->
+ - [TSMC says that its HPC group, which includes AI and server chips, accounted for 52% of wafer revenue in Q2, the first time it made up the majority of sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240720/p1#a240720p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

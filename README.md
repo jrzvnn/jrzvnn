@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
  - 😝 [Is this really Naples? Wtf](http://9gag.com/gag/aPAW94G)
- - 💣 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Rat.rar](http://9gag.com/gag/aryN5GX)
+ - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
 
 ---
 

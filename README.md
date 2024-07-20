@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [I&#39;ve Used iOS 18 Since Its Developer Phase, Here&#39;s My Take on the Public Beta](https://www.cnet.com/tech/services-and-software/ive-used-ios-18-since-its-developer-phase-heres-my-take-on-the-public-beta/#ftag=CAD590a51e)
  - [iOS 18 Beta: Here&#39;s How to React to Messages on Your iPhone With All Emoji](https://www.cnet.com/tech/services-and-software/ios-18-beta-heres-how-to-react-to-messages-on-your-iphone-with-all-emoji/#ftag=CAD590a51e)
- - [Best Smart Home Safes for 2024](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
- - [Trump&#39;s comments on Taiwan hollowing out the US chip industry are incorrect, and risks opening up a fissure for China to exploit and push its own tech sector &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/240720/p4#a240720p4)
- - [The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities](https://www.wired.com/story/carr-hackers-sanctioned-security-roundup/)<!-- TECH:END -->
+ - [The 48 Best Movies on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [How to Save Your Home From a Wildfire](https://www.wired.com/story/how-to-save-your-home-from-a-wildfire/)
+ - [The 52 Best Shows on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

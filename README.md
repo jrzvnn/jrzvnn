@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kunitsu-Gami: Path of the Goddess: 5 Tips When Starting the Game](https://www.cnet.com/tech/gaming/kunitsu-gami-path-of-the-goddess-5-tips-when-starting-the-game/#ftag=CAD590a51e)
+ - [Xiaomi unveils the Mix Fold 4, starting at ~$1,237, and the Mix Flip, its first flip foldable, with a 4.01&quot; cover display, starting at ~$825, available in China &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240719/p29#a240719p29)
+ - [Microsoft-CrowdStrike Memes Celebrate &#39;Happy International Blue Screen Day&#39;](https://www.cnet.com/tech/services-and-software/microsoft-memes-celebrate-happy-international-blue-screen-day/#ftag=CAD590a51e)
  - [Over 200 Bethesda Game Studios workers unionize with the CWA, forming the first &quot;wall-to-wall&quot; union at a Microsoft game studio; Microsoft recognized the union &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240719/p28#a240719p28)
- - [Bethesda Game Studios workers have unionized](https://www.theverge.com/2024/7/19/24202271/bethesda-game-studios-workers-unionize-cwa)
- - [Oracle agrees to pay $115M to settle a lawsuit accusing it of invading people&#39;s privacy by collecting their personal information and selling it to third parties &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240719/p27#a240719p27)
- - [Best Prime Day Deals Under $25 Still Live: Snatch Up Savings on Tech, Health, Games and More](https://www.cnet.com/deals/best-prime-day-deals-under-25-still-available-2024-07-19/#ftag=CAD590a51e)
- - [Sources: Google approached EssilorLuxottica about putting Gemini AI in future smart glasses, but Meta is &quot;extremely unlikely&quot; to lose its partnership to Google &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240719/p26#a240719p26)<!-- TECH:END -->
+ - [Bethesda Game Studios workers have unionized](https://www.theverge.com/2024/7/19/24202271/bethesda-game-studios-workers-unionize-cwa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

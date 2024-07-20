@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
- - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
- - 💣 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
- - 😝 [Nature](http://9gag.com/gag/aKG32p3)
- - 👉 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)<!-- MEMES:END -->
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
+ - 💣 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
+ - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
 
 ---
 

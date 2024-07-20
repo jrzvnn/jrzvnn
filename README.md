@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this really Naples? Wtf](http://9gag.com/gag/aPAW94G)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 😝 [Happy](http://9gag.com/gag/aVvePO2)
+ - 💣 [Fame done right](http://9gag.com/gag/ayN8Dwp)
  - 😝 [Rat.rar](http://9gag.com/gag/aryN5GX)
- - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
+ - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
 
 ---
 

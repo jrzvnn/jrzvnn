@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 😝 [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
- - 💣 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 😝 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 💣 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
  - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
  - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
 

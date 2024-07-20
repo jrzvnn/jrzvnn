@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The CrowdStrike debacle may have accidentally provided cybercriminals and countries like China a more detailed road map to disrupt US critical infrastructure &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240720/p6#a240720p6)
  - [Pre-order the Motorola Razr Plus today and save $100 at Amazon](https://www.cnet.com/deals/pre-order-the-motorola-razr-plus-today-and-save-100-at-amazon/#ftag=CAD590a51e)
  - [iFi Audio GO link Review: Supercharge Wired Headphones for Cheap](https://www.cnet.com/tech/mobile/ifi-audio-go-link-review-supercharge-wired-headphones-for-cheap/#ftag=CAD590a51e)
- - [Nike &#39;Back to School&#39; sale slashes sportswear, trainers and more by over 35%](https://www.cnet.com/deals/nike-back-to-school-sale-slashes-sportswear-trainers-and-more-by-over-35/#ftag=CAD590a51e)
- - [A Cornell Professor Used Science to Make Perfect Barbecue Chicken. Here&#39;s How to Do It](https://www.cnet.com/how-to/a-cornell-professor-used-science-to-make-perfect-barbecue-chicken-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 12 Games We&#39;re Still Most Looking Forward to in 2024 &lpar;and Beyond&rpar;](https://www.wired.com/gallery/the-games-were-most-looking-forward-to-in-2024/)
+ - [Nike &#39;Back to School&#39; sale slashes sportswear, trainers and more by over 35%](https://www.cnet.com/deals/nike-back-to-school-sale-slashes-sportswear-trainers-and-more-by-over-35/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

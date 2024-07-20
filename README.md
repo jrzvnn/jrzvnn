@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
  - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 💣 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 💣 [My fellow simp.. hear me out.. she almost looks like Jennifer Connelly...](http://9gag.com/gag/aLn9M3z)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 👉 [More splash in the comments](http://9gag.com/gag/amozz5v)<!-- MEMES:END -->
 
 ---
 

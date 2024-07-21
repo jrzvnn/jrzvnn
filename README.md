@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 💣 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 😝 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)
+ - 👉 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)<!-- MEMES:END -->
 
 ---
 

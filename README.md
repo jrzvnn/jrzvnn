@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Open Secrets: ~80% of donations from internet companies have gone to Democrats so far this US election cycle, down from 90% in 2020, as support for Trump grows &lpar;Financial Times&rpar;](http://www.techmeme.com/240720/p12#a240720p12)
+ - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Florida](https://www.cnet.com/home/energy-and-utilities/florida-solar-panels/#ftag=CAD590a51e)
  - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Apple Watch X: Everything We Know About Apple&#39;s Next Smartwatch](https://www.cnet.com/tech/mobile/apple-watch-x-everything-we-know-about-apples-next-smartwatch/#ftag=CAD590a51e)
- - [Best Foods for Staying Hydrated During Scorching Temperatures](https://www.cnet.com/health/nutrition/best-foods-for-staying-hydrated-during-the-heat/#ftag=CAD590a51e)
- - [Starlink faces regulatory obstacles in Africa, as countries worry about losing control over content and the company providing services without paying taxes &lpar;Sultan Quadri/Semafor&rpar;](http://www.techmeme.com/240720/p11#a240720p11)
- - [Make Your iPhone Battery Last Longer by Tweaking These iOS Settings](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-by-disabling-these-ios-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch X: Everything We Know About Apple&#39;s Next Smartwatch](https://www.cnet.com/tech/mobile/apple-watch-x-everything-we-know-about-apples-next-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more comments I read the more I realise you&#39;re not kids, you&#39;re just bitter f**ks](http://9gag.com/gag/a6ZQOM8)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 😝 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)
- - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)
+ - 💣 [Oh look it&#39;s that Guy from Gladiator](http://9gag.com/gag/aBy10qx)
+ - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
+ - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 💣 [Oh look it&#39;s that Guy from Gladiator](http://9gag.com/gag/aBy10qx)
- - 😝 [Space - the final frontier..](http://9gag.com/gag/aNDWYy6)
- - 👉 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)<!-- MEMES:END -->
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 💣 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

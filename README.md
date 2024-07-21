@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 💣 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)<!-- MEMES:END -->
+ - 😝 [Types of incest](http://9gag.com/gag/avynOpb)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 😝 [`That things gonna blow up!`](http://9gag.com/gag/aBy1WwQ)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

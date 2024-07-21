@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two new must-have Android apps](https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer)
- - [Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue](https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins)
- - [iOS 18 Beta: This Hidden Feature Is Key to Customizing Your iPhone&#39;s Controls](https://www.cnet.com/tech/services-and-software/ios-18-beta-this-hidden-feature-is-key-to-customizing-your-iphones-controls/#ftag=CAD590a51e)
- - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
- - [Care for Houseplants Changes During Summer. Here&#39;s What You&#39;re Doing Wrong](https://www.cnet.com/how-to/how-to-keep-your-houseplants-alive-during-hot-summer-months/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)
+ - [Samsung Galaxy Z Fold 6 Review: So Close to Being My Favorite Foldable Phone Yet](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-6-review-steps-forward-and-backward/#ftag=CAD590a51e)
+ - [SailGP AI Camera Can Stop Collisions Before They Happen](https://www.cnet.com/tech/sailgp-puts-ai-on-deck-for-safer-and-more-exciting-racing/#ftag=CAD590a51e)
+ - [The Big Decision You Need to Make for a $300 Phone](https://www.cnet.com/tech/mobile/the-big-decision-you-need-to-make-for-a-300-phone/#ftag=CAD590a51e)
+ - [What Should You Watch This Week? Here&#39;s What&#39;s New on Netflix, Peacock and More](https://www.cnet.com/tech/services-and-software/what-should-you-watch-this-week-heres-whats-new-on-netflix-peacock-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

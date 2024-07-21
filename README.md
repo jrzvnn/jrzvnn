@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Types of incest](http://9gag.com/gag/avynOpb)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 😝 [`That things gonna blow up!`](http://9gag.com/gag/aBy1WwQ)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 😝 [Space - the final frontier..](http://9gag.com/gag/aNDWYy6)
+ - 💣 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)
+ - 😝 [Hahaha](http://9gag.com/gag/ayN8oeY)
+ - 👉 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)<!-- MEMES:END -->
 
 ---
 

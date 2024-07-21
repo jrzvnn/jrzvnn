@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use Your Fans and Cross Ventilation to Cut Down on AC Use this Summer. Here&#39;s How](https://www.cnet.com/how-to/use-your-fans-and-cross-ventilation-to-cut-down-on-ac-this-summer-heres-how/#ftag=CAD590a51e)
- - [&#39;Ghostbusters: Frozen Empire&#39;: Streaming Release Date and How to Watch the Movie From Anywhere](https://www.cnet.com/tech/services-and-software/ghostbusters-frozen-empire-streaming-release-date-and-how-to-watch-movie-from-anywhere/#ftag=CAD590a51e)
- - [Transform Your Patio: 5 Smart Patio Ideas for Year-Round Fun](https://www.cnet.com/how-to/smarten-your-patio-for-year-round-enjoyment/#ftag=CAD590a51e)
- - [The Trick to Breaking Out of a Weight Loss Plateau, According to an Expert](https://www.cnet.com/health/fitness-expert-reveals-how-to-break-out-of-a-weight-loss-plateau/#ftag=CAD590a51e)
- - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)<!-- TECH:END -->
+ - [Review: Strymon BigSky MX](https://www.wired.com/review/strymon-bigsky-mx/)
+ - [Mini Cooper SE Review: Price, Specs, Availability](https://www.wired.com/review/review-mini-cooper-se/)
+ - [The Best Travel Strollers for Your Summer Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
+ - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)
+ - [Samsung Galaxy Z Fold 6 Review: So Close to Being My Favorite Foldable Phone Yet](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-6-review-steps-forward-and-backward/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

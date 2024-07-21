@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 💣 [Instant regret](http://9gag.com/gag/a4PjGAA)
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
  - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---

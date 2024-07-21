@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
+ - 😝 [Instant regret](http://9gag.com/gag/a4PjGAA)
+ - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
+ - 💣 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 👉 [I found the whole scene of that abomination](http://9gag.com/gag/apRL2X9)<!-- MEMES:END -->
 
 ---
 

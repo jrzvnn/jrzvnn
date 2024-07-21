@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Staffers Were Told Biden Was Leaving Race In Email Telling Them to Check X](https://www.wired.com/story/biden-campaign-staffers-leaving-race-email-x-post/)
+ - [Galaxy Z Flip 6 and Z Fold 6 phones won’t come with Samsung Messages in the US](https://www.theverge.com/2024/7/21/24203137/samsung-messages-no-pre-install-galaxy-z-fold-flip-6-google-messages-android-rcs)
+ - [Staffers Were Told Biden Was Leaving Race in Email Telling Them to Check X](https://www.wired.com/story/biden-campaign-staffers-leaving-race-email-x-post/)
  - [How indie game developer Terrible Posture Games avoided bankruptcy after an ~$800K investment from an unlikely source: Nerd Ninjas, another indie developer &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240721/p7#a240721p7)
  - [NotchNook gives MacBooks their own Dynamic Island](https://www.theverge.com/2024/7/21/24202914/notchnook-mac-app-dynamic-island-iphone)
- - [President Biden Ends Reelection Bid – a Look Back at His Tech and Debt Relief Legacy](https://www.cnet.com/tech/president-biden-ends-reelection-bid-a-look-back-at-his-tech-and-debt-relief-legacy/#ftag=CAD590a51e)
- - [Best Invisible Braces of 2024](https://www.cnet.com/health/personal-care/best-invisible-braces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [President Biden Ends Reelection Bid – a Look Back at His Tech and Debt Relief Legacy](https://www.cnet.com/tech/president-biden-ends-reelection-bid-a-look-back-at-his-tech-and-debt-relief-legacy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

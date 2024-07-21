@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Academics say publisher Taylor &amp; Francis hadn&#39;t told them about selling access to authors&#39; research as part of a $10M+ Microsoft AI deal, nor let them opt out &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/240721/p4#a240721p4)
- - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)
- - [The officers of India&#39;s largest retirement fund, the EPFO, warn the organization&#39;s crash-prone IT systems require immediate attention of the Union Government &lpar;Vikas Dhoot/The Hindu&rpar;](http://www.techmeme.com/240721/p2#a240721p2)
- - [Microsoft says it cannot wall off its OS due to a 2009 deal with the EC to give security software makers the same level of access to Windows that Microsoft gets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240721/p1#a240721p1)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 Beta: Safari&#39;s Find on Page Search Function Has a New Home](https://www.cnet.com/tech/services-and-software/ios-18-beta-safaris-find-on-page-search-function-has-a-new-home/#ftag=CAD590a51e)
+ - [Best Cheap Phone of 2024: Most Value for the Money](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
+ - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
- - 👉 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)<!-- MEMES:END -->
+ - 😝 [Phenomenal voice](http://9gag.com/gag/aVve3dw)
+ - 😝 [When you ask for directions in London](http://9gag.com/gag/a874oX1)
+ - 💣 [Imagine contacting tribes with this kinda show](http://9gag.com/gag/abAZMPb)
+ - 😝 [An inconvenient thruth...](http://9gag.com/gag/azxAXgp)
+ - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Biden Drops Out of 2024 Presidential Election](https://www.wired.com/story/joe-biden-drops-out-of-2024-election/)
  - [Joe Biden drops reelection bid and endorses Kamala Harris for president](https://www.theverge.com/2024/7/21/24195289/biden-drops-out-presidential-election-race)
  - [Amazon&#39;s $299 iPad 10th Gen deal is back in stock, marking return of Prime Day pricing](https://appleinsider.com/articles/24/07/21/amazons-299-ipad-10th-gen-deal-is-back-in-stock?utm_medium=rss)
  - [Indian crypto exchange WazirX has &quot;temporarily&quot; paused trading activities days after it suspended customer withdrawals after losing ~$230M in a security breach &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240721/p6#a240721p6)
- - [Apple keeps pushing AI industry forward with more open-source models](https://appleinsider.com/articles/24/07/21/apple-keeps-pushing-ai-industry-forward-with-more-open-source-models?utm_medium=rss)<!-- TECH:END -->
+ - [Apple keeps pushing AI industry forward with more open-source models](https://appleinsider.com/articles/24/07/21/apple-keeps-pushing-ai-industry-forward-with-more-open-source-models?utm_medium=rss)
+ - [CrowdStrike outage: Photos, videos, and tales of IT workers fixing BSODs](https://www.theverge.com/2024/7/21/24202960/crowdstrike-windows-outage-it-workers-photos-videos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

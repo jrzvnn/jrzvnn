@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How indie game developer Terrible Posture Games avoided bankruptcy after an ~$800K investment from an unlikely source: Nerd Ninjas, another indie developer &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240721/p7#a240721p7)
  - [NotchNook gives MacBooks their own Dynamic Island](https://www.theverge.com/2024/7/21/24202914/notchnook-mac-app-dynamic-island-iphone)
+ - [President Biden Ends Reelection Bid – a Look Back at His Tech and Debt Relief Legacy](https://www.cnet.com/tech/president-biden-ends-reelection-bid-a-look-back-at-his-tech-and-debt-relief-legacy/#ftag=CAD590a51e)
  - [Best Invisible Braces of 2024](https://www.cnet.com/health/personal-care/best-invisible-braces/#ftag=CAD590a51e)
- - [The Best Places to Put Indoor Houseplants](https://www.cnet.com/how-to/best-places-for-indoor-houseplants/#ftag=CAD590a51e)
- - [Are Your Gas, Electric and Water Bills Rising This Summer? Here Are 8 Easy Ways to Save Money on Utilities](https://www.cnet.com/how-to/8-easy-and-free-ways-to-save-money-on-your-gas-electric-and-water-bills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Places to Put Indoor Houseplants](https://www.cnet.com/how-to/best-places-for-indoor-houseplants/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

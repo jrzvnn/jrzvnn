@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Phenomenal voice](http://9gag.com/gag/aVve3dw)
- - 😝 [When you ask for directions in London](http://9gag.com/gag/a874oX1)
+ - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
  - 💣 [Imagine contacting tribes with this kinda show](http://9gag.com/gag/abAZMPb)
  - 😝 [An inconvenient thruth...](http://9gag.com/gag/azxAXgp)
- - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
+ - 👉 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)<!-- MEMES:END -->
 
 ---
 

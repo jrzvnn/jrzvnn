@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 💣 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
+ - 😝 [When RPG launchers identify as minigun](http://9gag.com/gag/aNDWYp3)
+ - 😝 [An inconvenient thruth...](http://9gag.com/gag/azxAXgp)
+ - 💣 [Imagine contacting tribes with this kinda show](http://9gag.com/gag/abAZMPb)
+ - 😝 [I don&#39;t know what I just watched, but I can&#39;t stop looking](http://9gag.com/gag/aGyDjmz)
+ - 👉 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)<!-- MEMES:END -->
 
 ---
 

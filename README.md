@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Warm-up Legend Diego Maradona](http://9gag.com/gag/a1mXWo6)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 💣 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
  - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 👉 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)<!-- MEMES:END -->
 
 ---
 

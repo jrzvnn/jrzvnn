@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 💣 [Oh look it&#39;s that Guy from Gladiator](http://9gag.com/gag/aBy10qx)
  - 😝 [Space - the final frontier..](http://9gag.com/gag/aNDWYy6)
- - 💣 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)
- - 😝 [Hahaha](http://9gag.com/gag/ayN8oeY)
- - 👉 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)<!-- MEMES:END -->
+ - 👉 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)<!-- MEMES:END -->
 
 ---
 

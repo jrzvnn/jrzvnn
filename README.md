@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [Honey](http://9gag.com/gag/ajPDNNq)
- - 👉 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)<!-- MEMES:END -->
+ - 😝 [Real life Denzel Washington](http://9gag.com/gag/avynOXq)
+ - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 💣 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
+ - 😝 [Types of incest](http://9gag.com/gag/avynOpb)
+ - 👉 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)<!-- MEMES:END -->
 
 ---
 

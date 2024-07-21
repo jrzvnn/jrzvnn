@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant regret](http://9gag.com/gag/a4PjGAA)
- - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
- - 💣 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 👉 [I found the whole scene of that abomination](http://9gag.com/gag/apRL2X9)<!-- MEMES:END -->
+ - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
+ - 😝 [If you touch the ball twice, you&#39;re geh](http://9gag.com/gag/awyVAOD)
+ - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)
+ - 😝 [Davy Jones was great](http://9gag.com/gag/aLn90Zz)
+ - 👉 [Hahaha](http://9gag.com/gag/ayN8oeY)<!-- MEMES:END -->
 
 ---
 

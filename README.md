@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it cannot wall off its OS due to a 2009 deal with the EC to give security software makers the same level of access to Windows that Microsoft gets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240721/p1#a240721p1)
  - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-21/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 21, #406](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-21-406/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for July 21, #1128](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-21-1128/#ftag=CAD590a51e)
- - [OpenSecrets: ~80% of donations from internet companies have gone to Democrats so far this US election cycle, down from 90% in 2020, as support for Trump grows &lpar;Financial Times&rpar;](http://www.techmeme.com/240720/p12#a240720p12)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenSecrets: ~80% of donations from internet companies have gone to Democrats so far this US election cycle, down from 90% in 2020, as support for Trump grows &lpar;Financial Times&rpar;](http://www.techmeme.com/240720/p12#a240720p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

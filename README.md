@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teachers saved up money and surprised their school janitor with a car after seeing him walk to work everyday](http://9gag.com/gag/aoyp25X)
- - 😝 [HE&#39;S A GOOD BOY !](http://9gag.com/gag/aYQLK6v)
- - 💣 [Everything is simple](http://9gag.com/gag/aYQLx5x)
- - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 👉 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)<!-- MEMES:END -->
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Ugh...typical humans](http://9gag.com/gag/amoz2dX)
+ - 💣 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 👉 [Here we go again](http://9gag.com/gag/aMV98AM)<!-- MEMES:END -->
 
 ---
 

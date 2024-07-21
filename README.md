@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The all-seeing AI webcam](https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai)
  - [Malaysia&#39;s Johor state is attracting billions of dollars as tech giants take advantage of cheaper land and more abundant energy to build data centers &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/240721/p5#a240721p5)
  - [CrowdStrike has a new guidance hub for dealing with the Windows outage](https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware)
  - [The Best DAW Software Recommended by WIRED’s Resident Musicians &lpar;2024&rpar;](https://www.wired.com/story/best-daw-recording-software/)
- - [By endorsing Trump, Elon Musk is gambling with Tesla’s future](https://www.theverge.com/2024/7/21/24202062/elon-musk-donald-trump-endorsement-tesla-ev-tax-credit)
- - [Review: Strymon BigSky MX](https://www.wired.com/review/strymon-bigsky-mx/)<!-- TECH:END -->
+ - [Eat Your Way to Vision Health: 12 of the Best Foods for Your Eyes](https://www.cnet.com/health/personal-care/eat-your-way-to-vision-health-12-of-the-best-foods-for-your-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

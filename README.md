@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ offers PlayStation owners a three-month trial offer](https://appleinsider.com/articles/24/07/21/apple-tv-offers-playstation-owners-a-three-month-trial-offer?utm_medium=rss)
+ - [Apple TV+ gifts PlayStation owners a three-month trial offer](https://appleinsider.com/articles/24/07/21/apple-tv-offers-playstation-owners-a-three-month-trial-offer?utm_medium=rss)
  - [All the tech news from the 2024 election](https://www.theverge.com/24187615/2024-us-election-biden-trump-president)
  - [Nectar Hybrid Mattress Review 2024: A Memory Foam Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nectar-hybrid-mattress-review/#ftag=CAD590a51e)
  - [Joe Biden Drops Out of 2024 Presidential Election](https://www.wired.com/story/joe-biden-drops-out-of-2024-election/)

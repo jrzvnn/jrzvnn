@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to fix the blue screen error. crowdstrike fix](http://9gag.com/gag/a9yYpLW)
- - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
  - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [An inconvenient thruth...](http://9gag.com/gag/azxAXgp)
- - 👉 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)<!-- MEMES:END -->
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue](https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins)
  - [iOS 18 Beta: This Hidden Feature Is Key to Customizing Your iPhone&#39;s Controls](https://www.cnet.com/tech/services-and-software/ios-18-beta-this-hidden-feature-is-key-to-customizing-your-iphones-controls/#ftag=CAD590a51e)
  - [Care for Houseplants Changes During Summer. Here&#39;s What You&#39;re Doing Wrong](https://www.cnet.com/how-to/how-to-keep-your-houseplants-alive-during-hot-summer-months/#ftag=CAD590a51e)
  - [A Cornell Professor Invented What Many Consider the Best BBQ Chicken Recipe Ever](https://www.cnet.com/how-to/a-cornell-professor-invented-what-many-consider-the-best-bbq-chicken-recipe-ever/#ftag=CAD590a51e)
- - [Academics say publisher Taylor &amp; Francis hadn&#39;t told them about selling access to authors&#39; research as part of a $10M+ Microsoft AI deal, nor let them opt out &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/240721/p4#a240721p4)
- - [iOS 18 Beta: Safari&#39;s Find on Page Search Function Has a New Home](https://www.cnet.com/tech/services-and-software/ios-18-beta-safaris-find-on-page-search-function-has-a-new-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Academics say publisher Taylor &amp; Francis hadn&#39;t told them about selling access to authors&#39; research as part of a $10M+ Microsoft AI deal, nor let them opt out &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/240721/p4#a240721p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

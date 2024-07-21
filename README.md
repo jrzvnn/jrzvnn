@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s getting interesting now that he has covid again.](http://9gag.com/gag/aYQLLGm)
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
  - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)<!-- MEMES:END -->
+ - 😝 [Honey](http://9gag.com/gag/ajPDNNq)
+ - 👉 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)<!-- MEMES:END -->
 
 ---
 

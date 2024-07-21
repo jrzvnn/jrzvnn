@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [CrowdStrike has a new guidance hub for dealing with the Windows outage](https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware)
+ - [Eat Your Way to Vision Health: 12 of the Best Foods for Your Eyes](https://www.cnet.com/health/personal-care/eat-your-way-to-vision-health-12-of-the-best-foods-for-your-eyes/#ftag=CAD590a51e)
  - [By endorsing Trump, Elon Musk is gambling with Tesla’s future](https://www.theverge.com/2024/7/21/24202062/elon-musk-donald-trump-endorsement-tesla-ev-tax-credit)
  - [Review: Strymon BigSky MX](https://www.wired.com/review/strymon-bigsky-mx/)
- - [Use Your Fans and Cross Ventilation to Cut Down on AC Use this Summer. Here&#39;s How](https://www.cnet.com/how-to/use-your-fans-and-cross-ventilation-to-cut-down-on-ac-this-summer-heres-how/#ftag=CAD590a51e)
- - [&#39;Ghostbusters: Frozen Empire&#39;: Streaming Release Date and How to Watch the Movie From Anywhere](https://www.cnet.com/tech/services-and-software/ghostbusters-frozen-empire-streaming-release-date-and-how-to-watch-movie-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Your Fans and Cross Ventilation to Cut Down on AC Use this Summer. Here&#39;s How](https://www.cnet.com/how-to/use-your-fans-and-cross-ventilation-to-cut-down-on-ac-this-summer-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

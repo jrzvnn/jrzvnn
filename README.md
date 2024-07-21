@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)
- - 💣 [Oh look it&#39;s that Guy from Gladiator](http://9gag.com/gag/aBy10qx)
- - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
- - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
+ - 😝 [Honey](http://9gag.com/gag/ajPDNNq)
+ - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
+ - 💣 [Second coffee always tastes better](http://9gag.com/gag/an71Mjo)
+ - 😝 [I found the whole scene of that abomination](http://9gag.com/gag/apRL2X9)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

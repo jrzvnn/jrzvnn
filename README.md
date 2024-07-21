@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honey](http://9gag.com/gag/ajPDNNq)
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 💣 [Second coffee always tastes better](http://9gag.com/gag/an71Mjo)
- - 😝 [I found the whole scene of that abomination](http://9gag.com/gag/apRL2X9)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 💣 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 👉 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)<!-- MEMES:END -->
 
 ---
 

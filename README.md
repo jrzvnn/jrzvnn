@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Ugh...typical humans](http://9gag.com/gag/amoz2dX)
- - 💣 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Here we go again](http://9gag.com/gag/aMV98AM)<!-- MEMES:END -->
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 💣 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 😝 [Savage](http://9gag.com/gag/aZZpL1V)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

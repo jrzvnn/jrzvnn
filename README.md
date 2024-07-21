@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 😝 [Instant regret](http://9gag.com/gag/a4PjGAA)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
  - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 👉 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)<!-- MEMES:END -->
 
 ---
 

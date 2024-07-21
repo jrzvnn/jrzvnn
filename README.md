@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)
- - [Samsung Galaxy Z Fold 6 Review: So Close to Being My Favorite Foldable Phone Yet](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-6-review-steps-forward-and-backward/#ftag=CAD590a51e)
- - [SailGP AI Camera Can Stop Collisions Before They Happen](https://www.cnet.com/tech/sailgp-puts-ai-on-deck-for-safer-and-more-exciting-racing/#ftag=CAD590a51e)
- - [The Big Decision You Need to Make for a $300 Phone](https://www.cnet.com/tech/mobile/the-big-decision-you-need-to-make-for-a-300-phone/#ftag=CAD590a51e)
- - [What Should You Watch This Week? Here&#39;s What&#39;s New on Netflix, Peacock and More](https://www.cnet.com/tech/services-and-software/what-should-you-watch-this-week-heres-whats-new-on-netflix-peacock-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Your Fans and Cross Ventilation to Cut Down on AC Use this Summer. Here&#39;s How](https://www.cnet.com/how-to/use-your-fans-and-cross-ventilation-to-cut-down-on-ac-this-summer-heres-how/#ftag=CAD590a51e)
+ - [&#39;Ghostbusters: Frozen Empire&#39;: Streaming Release Date and How to Watch the Movie From Anywhere](https://www.cnet.com/tech/services-and-software/ghostbusters-frozen-empire-streaming-release-date-and-how-to-watch-movie-from-anywhere/#ftag=CAD590a51e)
+ - [Transform Your Patio: 5 Smart Patio Ideas for Year-Round Fun](https://www.cnet.com/how-to/smarten-your-patio-for-year-round-enjoyment/#ftag=CAD590a51e)
+ - [The Trick to Breaking Out of a Weight Loss Plateau, According to an Expert](https://www.cnet.com/health/fitness-expert-reveals-how-to-break-out-of-a-weight-loss-plateau/#ftag=CAD590a51e)
+ - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

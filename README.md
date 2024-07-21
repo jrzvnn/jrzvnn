@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 💣 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [Where my Balkan bros at?](http://9gag.com/gag/aMV98VW)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 😝 [My fellow simp.. hear me out.. she almost looks like Jennifer Connelly...](http://9gag.com/gag/aLn9M3z)
+ - 👉 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)<!-- MEMES:END -->
 
 ---
 

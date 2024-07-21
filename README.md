@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple TV+ gifts PlayStation owners a three-month trial offer](https://appleinsider.com/articles/24/07/21/apple-tv-offers-playstation-owners-a-three-month-trial-offer?utm_medium=rss)
  - [All the tech news from the 2024 election](https://www.theverge.com/24187615/2024-us-election-biden-trump-president)
- - [Nectar Hybrid Mattress Review 2024: A Memory Foam Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nectar-hybrid-mattress-review/#ftag=CAD590a51e)
- - [Joe Biden Drops Out of 2024 Presidential Race](https://www.wired.com/story/joe-biden-drops-out-of-2024-election/)
- - [Joe Biden drops reelection bid and endorses Kamala Harris for president](https://www.theverge.com/2024/7/21/24195289/biden-drops-out-presidential-election-race)<!-- TECH:END -->
+ - [Keep Your Smile Beautiful With These Post-Prime Day Deals on Oral-B Items](https://www.cnet.com/deals/keep-your-smile-beautiful-with-these-post-prime-day-deals-on-oral-b-items/#ftag=CAD590a51e)
+ - [Everything You Need to Know About Bidirectional Charging and the EVs That Support It](https://www.cnet.com/roadshow/news/bidirectional-charging-and-evs-how-does-it-work-and-which-cars-have-it/#ftag=CAD590a51e)
+ - [Casper One Foam Mattress Review 2024: Testing Casper&#39;s New Flagship Mattress](https://www.cnet.com/health/sleep/casper-one-foam-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

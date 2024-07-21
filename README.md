@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
  - [Apple Watch X: Everything We Know About Apple&#39;s Next Smartwatch](https://www.cnet.com/tech/mobile/apple-watch-x-everything-we-know-about-apples-next-smartwatch/#ftag=CAD590a51e)
  - [Best Foods for Staying Hydrated During Scorching Temperatures](https://www.cnet.com/health/nutrition/best-foods-for-staying-hydrated-during-the-heat/#ftag=CAD590a51e)
  - [Starlink faces regulatory obstacles in Africa, as countries worry about losing control over content and the company providing services without paying taxes &lpar;Sultan Quadri/Semafor&rpar;](http://www.techmeme.com/240720/p11#a240720p11)
- - [Make Your iPhone Battery Last Longer by Tweaking These iOS Settings](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-by-disabling-these-ios-settings/#ftag=CAD590a51e)
- - [Top deal: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 512GB SSD drops to $1,499](https://appleinsider.com/articles/24/07/20/top-deal-apples-m3-macbook-air-15-inch-with-16gb-ram-512gb-ssd-drops-to-1499?utm_medium=rss)<!-- TECH:END -->
+ - [Make Your iPhone Battery Last Longer by Tweaking These iOS Settings](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-by-disabling-these-ios-settings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

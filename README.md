@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the tech news from the 2024 election](https://www.theverge.com/24187615/2024-us-election-biden-trump-president)
  - [Nectar Hybrid Mattress Review 2024: A Memory Foam Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nectar-hybrid-mattress-review/#ftag=CAD590a51e)
  - [Joe Biden Drops Out of 2024 Presidential Election](https://www.wired.com/story/joe-biden-drops-out-of-2024-election/)
  - [Joe Biden drops reelection bid and endorses Kamala Harris for president](https://www.theverge.com/2024/7/21/24195289/biden-drops-out-presidential-election-race)
- - [Amazon&#39;s $299 iPad 10th Gen deal is back in stock, marking return of Prime Day pricing](https://appleinsider.com/articles/24/07/21/amazons-299-ipad-10th-gen-deal-is-back-in-stock?utm_medium=rss)
- - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s $299 iPad 10th Gen deal is back in stock, marking return of Prime Day pricing](https://appleinsider.com/articles/24/07/21/amazons-299-ipad-10th-gen-deal-is-back-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When RPG launchers identify as minigun](http://9gag.com/gag/aNDWYp3)
- - 😝 [An inconvenient thruth...](http://9gag.com/gag/azxAXgp)
- - 💣 [Imagine contacting tribes with this kinda show](http://9gag.com/gag/abAZMPb)
- - 😝 [I don&#39;t know what I just watched, but I can&#39;t stop looking](http://9gag.com/gag/aGyDjmz)
- - 👉 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)<!-- MEMES:END -->
+ - 😝 [Instant regret](http://9gag.com/gag/a4PjGAA)
+ - 😝 [Mega Mewtwo Y has no chill](http://9gag.com/gag/adBXKqQ)
+ - 💣 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 😝 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

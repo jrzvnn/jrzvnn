@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple keeps pushing AI industry forward with more open-source models](https://appleinsider.com/articles/24/07/21/apple-keeps-pushing-ai-industry-forward-with-more-open-source-models?utm_medium=rss)
+ - [CrowdStrike outage: Photos, videos, and tales of IT workers fixing BSODs](https://www.theverge.com/2024/7/21/24202960/crowdstrike-windows-outage-it-workers-photos-videos)
  - [How to Tell When Expired Food Should Be Thrown Out and When to Keep It](https://www.cnet.com/news/how-to-tell-when-expired-food-should-be-thrown-out-and-when-to-keep-it/#ftag=CAD590a51e)
  - [Here’s How Many Calories You Need to Burn to Lose Weight, According to Experts](https://www.cnet.com/health/fitness/how-many-calories-do-i-need-to-lose-weight-we-asked-the-experts/#ftag=CAD590a51e)
- - [The all-seeing AI webcam](https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai)
- - [Malaysia&#39;s Johor state is attracting billions of dollars as tech giants take advantage of cheaper land and more abundant energy to build data centers &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/240721/p5#a240721p5)
- - [CrowdStrike has a new guidance hub for dealing with the Windows outage](https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware)<!-- TECH:END -->
+ - [The all-seeing AI webcam](https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

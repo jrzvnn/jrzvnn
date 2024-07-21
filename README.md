@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
  - [Academics say publisher Taylor &amp; Francis hadn&#39;t told them about selling access to authors&#39; research as part of a $10M+ Microsoft AI deal, nor let them opt out &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/240721/p4#a240721p4)
  - [iOS 18 Beta: Safari&#39;s Find on Page Search Function Has a New Home](https://www.cnet.com/tech/services-and-software/ios-18-beta-safaris-find-on-page-search-function-has-a-new-home/#ftag=CAD590a51e)
  - [Best Cheap Phone of 2024: Most Value for the Money](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)<!-- TECH:END -->
+ - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

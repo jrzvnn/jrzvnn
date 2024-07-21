@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to fix the blue screen error. crowdstrike fix](http://9gag.com/gag/a9yYpLW)
  - 😝 [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 💣 [Imagine contacting tribes with this kinda show](http://9gag.com/gag/abAZMPb)
+ - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
  - 😝 [An inconvenient thruth...](http://9gag.com/gag/azxAXgp)
  - 👉 [Identitarian demonstration in Vienna chanting `White lives matter`](http://9gag.com/gag/awyVXZ1)<!-- MEMES:END -->
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - 😝 [If you touch the ball twice, you&#39;re geh](http://9gag.com/gag/awyVAOD)
- - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)
- - 😝 [Davy Jones was great](http://9gag.com/gag/aLn90Zz)
- - 👉 [Hahaha](http://9gag.com/gag/ayN8oeY)<!-- MEMES:END -->
+ - 😝 [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 😝 [Instant regret](http://9gag.com/gag/a4PjGAA)
+ - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

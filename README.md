@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: Strymon BigSky MX](https://www.wired.com/review/strymon-bigsky-mx/)
- - [Mini Cooper SE Review: Price, Specs, Availability](https://www.wired.com/review/review-mini-cooper-se/)
- - [The Best Travel Strollers for Your Summer Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
  - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)
- - [Samsung Galaxy Z Fold 6 Review: So Close to Being My Favorite Foldable Phone Yet](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-6-review-steps-forward-and-backward/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 Review: So Close to Being My Favorite Foldable Phone Yet](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-6-review-steps-forward-and-backward/#ftag=CAD590a51e)
+ - [SailGP AI Camera Can Stop Collisions Before They Happen](https://www.cnet.com/tech/sailgp-puts-ai-on-deck-for-safer-and-more-exciting-racing/#ftag=CAD590a51e)
+ - [The Big Decision You Need to Make for a $300 Phone](https://www.cnet.com/tech/mobile/the-big-decision-you-need-to-make-for-a-300-phone/#ftag=CAD590a51e)
+ - [What Should You Watch This Week? Here&#39;s What&#39;s New on Netflix, Peacock and More](https://www.cnet.com/tech/services-and-software/what-should-you-watch-this-week-heres-whats-new-on-netflix-peacock-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

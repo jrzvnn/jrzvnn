@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real life Denzel Washington](http://9gag.com/gag/avynOXq)
  - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 💣 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - 😝 [Types of incest](http://9gag.com/gag/avynOpb)
- - 👉 [LIgHt sAbeRs TUrN coLors nOw -disney](http://9gag.com/gag/aBy183D)<!-- MEMES:END -->
+ - 😝 [Parking skills](http://9gag.com/gag/aGyD0z5)
+ - 💣 [Nature](http://9gag.com/gag/aKG32p3)
+ - 😝 [Manga is called Instant Regret](http://9gag.com/gag/aW4M1Rn)
+ - 👉 [Wow, a wife thinking about her husband&#39;s needs](http://9gag.com/gag/aO8vzXN)<!-- MEMES:END -->
 
 ---
 

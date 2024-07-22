@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-22/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 22, #141](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-22-141/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 21, #140](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-140/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 22, #407](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-22-407/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 22, #1129](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-22-1129/#ftag=CAD590a51e)
- - [Reeling from CrowdStrike-related outages, Delta has canceled ~4.5K flights, ~1K on Sunday, and has already canceled 100+ for Monday, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240721/p9#a240721p9)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 22, #1129](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-22-1129/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

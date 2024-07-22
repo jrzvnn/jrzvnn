@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian CEO RJ Scaringe says too many carmakers are copying Tesla](https://www.theverge.com/24201749/rivian-ceo-rj-scaringe-ev-electric-truck-r1-tesla-model-y-competition-decoder-interview)
  - [Hands on: Nomad eSIM provides simple travel data options in over 170 countries](https://appleinsider.com/articles/24/07/22/hands-on-nomad-esim-provides-simple-travel-data-options-in-over-170-countries?utm_medium=rss)
  - [Tel Aviv-based enterprise identity management startup Linx emerges from stealth with $27M co-led by Index and Cyberstarts after raising $6M led by Cyberstarts &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240722/p11#a240722p11)
  - [Reddit COO Jen Wong says the company has revenue sharing deals with the NFL, NBA, MLB, and others to get video and other content, hoping to draw advertisers &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240722/p10#a240722p10)
- - [Microsoft blames European Commission for global CrowdStrike catastrophe](https://appleinsider.com/articles/24/07/22/microsoft-blames-european-commission-for-global-crowdstrike-catastrophe?utm_medium=rss)
- - [Toronto-based AI startup Cohere raised a $500M Series D led by Canadian pension fund PSP at a $5.5B valuation, after raising $270M at a $2.2B valuation in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p9#a240722p9)<!-- TECH:END -->
+ - [Microsoft blames European Commission for global CrowdStrike catastrophe](https://appleinsider.com/articles/24/07/22/microsoft-blames-european-commission-for-global-crowdstrike-catastrophe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

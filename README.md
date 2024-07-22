@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Man convicted for ‘sextortion’ of more than 100 children on Omegle, Snapchat, and TikTok](https://www.theverge.com/2024/7/22/24203577/sex-offender-convicted-sextortion-omegle-snapchat-tiktok-csam)
- - [The Shokz OpenRun Pro are selling at their best price for a few more hours](https://www.theverge.com/2024/7/22/24203441/shokz-openrun-pro-open-air-fitness-headphones-deal-sale)
- - [Rivian adds Apple Music, but won&#39;t consider CarPlay](https://appleinsider.com/articles/24/07/22/rivian-adds-apple-music-but-wont-consider-carplay?utm_medium=rss)
- - [Best Buy&#39;s Great Summer Sale: Post-Prime Day Deals Offer Hundreds of Dollars in Savings](https://www.cnet.com/deals/best-buys-great-summer-sale/#ftag=CAD590a51e)
- - [Reddit’s NFL, NBA deals bring more sports highlights — and ads](https://www.theverge.com/2024/7/22/24203528/reddit-nba-nfl-highlights-sports-leagues-ads-deal)<!-- TECH:END -->
+ - [The Amazfit GTR 4, our favorite fitness tracker, has hit a new all-time low price](https://www.theverge.com/2024/7/22/24203570/amazon-amazfit-gtr-4-deal-sale)
+ - [EU threatens to fine Meta for saying Facebook is ‘free’](https://www.theverge.com/2024/7/22/24203479/eu-meta-facebook-pay-or-consent-warning-consumer-protection-cooperation-cpc)
+ - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
+ - [Rivian CEO says CarPlay isn’t going to happen](https://www.theverge.com/2024/7/22/24203609/rivian-apple-carplay-support-rj-scaringe-decoder)
+ - [Here’s a 12,000mAh power bank cosplaying as a Super Famicom](https://www.theverge.com/2024/7/22/24203500/ayaneo-retro-power-bank-charger-super-nintendo-famicom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

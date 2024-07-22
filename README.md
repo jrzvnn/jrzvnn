@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian adds Apple Music, but won&#39;t consider CarPlay](https://appleinsider.com/articles/24/07/22/rivian-adds-apple-music-but-wont-consider-carplay?utm_medium=rss)
+ - [Best Buy&#39;s Great Summer Sale: Post-Prime Day Deals Offer Hundreds of Dollars in Savings](https://www.cnet.com/deals/best-buys-great-summer-sale/#ftag=CAD590a51e)
  - [Reddit’s NFL, NBA deals bring more sports highlights — and ads](https://www.theverge.com/2024/7/22/24203528/reddit-nba-nfl-highlights-sports-leagues-ads-deal)
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [Better than Prime Day pricing hits AirPods Max at Amazon](https://appleinsider.com/articles/24/07/22/better-than-prime-day-pricing-hits-airpods-max-at-amazon?utm_medium=rss)
- - [Is the ‘Diaper’ Method in &#39;Twisters&#39; a Real Solution For Massive Tornadoes? Not Exactly](https://www.wired.com/story/is-twisters-diaper-method-a-real-solution-for-massive-tornadoes/)
- - [Apple&#39;s Leather Link Watch Band Is Just $25 at Woot for a Limited Time](https://www.cnet.com/deals/apples-leather-link-watch-band-is-just-25-at-woot-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get AI to Be Your Personal Narrator Online](https://www.cnet.com/tech/services-and-software/how-to-get-ai-to-be-your-personal-narrator-online/#ftag=CAD590a51e)
+ - [Night Sweats? Make Sure Your Pajamas Are Made of These 5 Materials](https://www.cnet.com/health/sleep/night-sweats-make-sure-your-pajamas-are-made-of-these-5-materials/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

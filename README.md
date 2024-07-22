@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 😝 [The more comments I read the more I realise you&#39;re not kids, you&#39;re just bitter f**ks](http://9gag.com/gag/a6ZQOM8)
- - 💣 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 😝 [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
- - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 😝 [System malfunction.](http://9gag.com/gag/aGyDZQG)
+ - 👉 [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)<!-- MEMES:END -->
 
 ---
 

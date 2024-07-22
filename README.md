@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Im this old](http://9gag.com/gag/ajPDE0w)
- - 💣 [What would each state do in this situation?](http://9gag.com/gag/aO8vB3M)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 👉 [I found the whole scene of that abomination](http://9gag.com/gag/apRL2X9)<!-- MEMES:END -->
+ - 😝 [ProbablyNotGettingPaidEnoughForThisShit](http://9gag.com/gag/an71MVq)
+ - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 

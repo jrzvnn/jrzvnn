@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus ROG Ally X review: easier to grip, comfortable to hold, nice black casing, games run smoothly, and improved, but not great, battery life, but no touchpads &lpar;Rebecca Spear/Windows Central&rpar;](http://www.techmeme.com/240722/p7#a240722p7)
  - [How Japan lured some AI companies with copyright laws that critics say allow widespread use of copyrighted images and other materials, alarming creators &lpar;Financial Times&rpar;](http://www.techmeme.com/240722/p6#a240722p6)
  - [Child safety watchdog accuses Apple of hiding real CSAM figures](https://appleinsider.com/articles/24/07/22/child-safety-watchdog-accuses-apple-of-hiding-real-csam-figures?utm_medium=rss)
  - [Nothing&#39;s CMF Phone 1 review: excellent performance, camera, battery, display, and software, far above rival $199 phones, but no NFC and spotty US band support &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240722/p5#a240722p5)
- - [Samsung tells US users that Samsung Messages will no longer come pre-installed on the Galaxy Flip6, Fold6, and newer models in favor of Google Messages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240722/p4#a240722p4)
- - [Best Savings Rates Today -- Time May Be Running Out for High APYs, July 22, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-22-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung tells US users that Samsung Messages will no longer come pre-installed on the Galaxy Flip6, Fold6, and newer models in favor of Google Messages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240722/p4#a240722p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

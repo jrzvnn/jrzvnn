@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with AMD&#39;s Mike Clark, who has worked on AMD&#39;s CPU architectures for 31 years and led Zen development through all of its five generations &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p13#a240722p13)
- - [Top 100 chart debuts on Apple Music Classical](https://appleinsider.com/articles/24/07/22/top-100-chart-debuts-on-apple-music-classical?utm_medium=rss)
- - [Best Internet and TV Bundles of 2024](https://www.cnet.com/home/internet/best-internet-and-tv-bundles/#ftag=CAD590a51e)
- - [Save Up to 54% on Our Favorite Arlo Home Security Cameras Right Now](https://www.cnet.com/deals/save-up-to-54-on-our-favorite-arlo-home-security-cameras-right-now/#ftag=CAD590a51e)
- - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple HomePod Smart Speakers as Low as $80 During Best Buy&#39;s Great Summer Sale](https://www.cnet.com/deals/apple-homepod-smart-speakers-as-low-as-80-during-best-buys-great-summer-sale/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Nevada](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panels/#ftag=CAD590a51e)
+ - [Best Prescription Sunglasses for 2024](https://www.cnet.com/health/personal-care/best-prescription-sunglasses/#ftag=CAD590a51e)
+ - [Top 100 chart debuts on Apple Music Classical](https://appleinsider.com/articles/24/07/22/top-100-chart-debuts-on-apple-music-classical?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

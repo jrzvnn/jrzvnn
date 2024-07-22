@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD President Victor Peng, who rejoined the chipmaker in 2022 following its acquisition of Xilinx, where he served as CEO, plans to retire on August 30, 2024 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240722/p21#a240722p21)
  - [Spot 6 Planets in the Sky at Once During This Upcoming Aug. 23 Planet Parade](https://www.cnet.com/science/another-planetary-parade-starts-on-aug-23-spot-6-planets-in-the-sky-at-once/#ftag=CAD590a51e)
  - [Monarch Tractor, which makes autonomous electric tractors, raised a $133M Series C co-led by Astanor and HH-CTBC Partnership at a $500M+ valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240722/p20#a240722p20)
  - [You Can Watch a Once-in-a-Lifetime Cosmic Explosion From Your Own Backyard](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
- - [This Free New Warning System Helps You Prep for Extreme Heat](https://www.cnet.com/science/free-new-warning-system-helps-you-prep-for-extreme-heat/#ftag=CAD590a51e)
- - [Slack introduces iPhone widgets to make work more inescapable](https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets)<!-- TECH:END -->
+ - [This Free New Warning System Helps You Prep for Extreme Heat](https://www.cnet.com/science/free-new-warning-system-helps-you-prep-for-extreme-heat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

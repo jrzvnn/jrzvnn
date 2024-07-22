@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess we&#39;ll never know.](http://9gag.com/gag/a4PjRPy)
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 😝 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
+ - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
  - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 💣 [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [I support this](http://9gag.com/gag/adBXKd9)<!-- MEMES:END -->
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 

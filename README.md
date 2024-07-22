@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - 😝 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
- - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
+ - 😝 [Niceeeeee.](http://9gag.com/gag/aAyPbEg)
+ - 😝 [Legia Warsaw fans display a banner reading `Refugees Welcome` with a girl with a pig&#39;s head on a plate and two men with a baseball bat and a hammer.](http://9gag.com/gag/aKG3xrZ)
+ - 💣 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 😝 [Lol](http://9gag.com/gag/awyVM7x)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 

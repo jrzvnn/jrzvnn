@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slack introduces iPhone widgets to make work more inescapable](https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets)
  - [Intel says it has found the issue causing 13th and 14th Gen CPUs to crash](https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch)
  - [CrowdStrike CEO to testify about massive outage that halted flights and hospitals](https://www.theverge.com/2024/7/22/24203984/crowdstrike-ceo-testimony-house-homeland-security-outage)
  - [Google’s next streaming player looks nothing like the Chromecast](https://www.theverge.com/2024/7/22/24203993/google-tv-streamer-leak-design-features)
- - [Google’s plan to turn off third-party cookies in Chrome is dying](https://www.theverge.com/2024/7/22/24203893/google-cookie-tracking-prompt-ad-targeting-privacy-sandbox)
- - [Free update makes Cowboy e-bikes better climbers and more efficient](https://www.theverge.com/2024/7/22/24203864/cowboy-adaptive-power-2-wind-weight-hills)<!-- TECH:END -->
+ - [Google’s plan to turn off third-party cookies in Chrome is dying](https://www.theverge.com/2024/7/22/24203893/google-cookie-tracking-prompt-ad-targeting-privacy-sandbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

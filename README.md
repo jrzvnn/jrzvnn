@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAP reports Q2 cloud revenue of &amp;euro;4.15B, up 25% YoY, revenue of &amp;euro;8.29B, up 10% YoY, net profits of &amp;euro;918M, and says a &quot;restructuring&quot; will affect ~10,000 jobs &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240722/p17#a240722p17)
  - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
  - [A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240722/p16#a240722p16)
  - [One of the rarest NES games of all time goes up for auction today](https://www.theverge.com/2024/7/22/24203796/nintendo-nes-gaming-auction-rare-gold-cartridge-world-championships)
- - [This Surge Protector Is Less Than $9 at Amazon Right Now](https://www.cnet.com/deals/this-surge-protector-is-less-than-9-at-amazon-right-now/#ftag=CAD590a51e)
- - [New Olympic Sports and Events Coming to 2024 Paris Games](https://www.cnet.com/tech/services-and-software/new-olympic-sports-and-events-coming-to-2024-paris-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Surge Protector Is Less Than $9 at Amazon Right Now](https://www.cnet.com/deals/this-surge-protector-is-less-than-9-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

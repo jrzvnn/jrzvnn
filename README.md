@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it won&#39;t be &quot;deprecating third-party cookies&quot; in Chrome and will instead keep working on &quot;privacy-preserving alternatives&quot; via Privacy Sandbox APIs &lpar;Digiday&rpar;](http://www.techmeme.com/240722/p15#a240722p15)
  - [A zero-day in Telegram for Android, patched on July 11, let attackers send malicious Android APK payloads as video files; the exploit was for sale from June 6 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240722/p14#a240722p14)
- - [America’s long Street Fighter drought ends with a win at Evo 2024](https://www.theverge.com/2024/7/22/24203663/evo-2024-recap-street-fighter-6-street-fighter-third-strike)
- - [Waymo Is Suing People Who Allegedly Smashed and Slashed Its Robotaxis](https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/)
- - [An interview with AMD&#39;s Mike Clark, who has worked on AMD&#39;s CPU architectures for 31 years and led Zen development through all of its five generations &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p13#a240722p13)
- - [Apple HomePod Smart Speakers as Low as $80 During Best Buy&#39;s Great Summer Sale](https://www.cnet.com/deals/apple-homepod-smart-speakers-as-low-as-80-during-best-buys-great-summer-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Shortened Links Won&#39;t Work Next Year. Here&#39;s What to Do](https://www.cnet.com/tech/services-and-software/googles-shortened-links-wont-work-next-year-heres-what-to-do/#ftag=CAD590a51e)
+ - [1,600+ Flight Delays Later: How to Easily Track Travel Cancellations With Your iPhone](https://www.cnet.com/tech/mobile/1600-flight-delays-later-how-to-easily-track-travel-cancellations-with-your-iphone/#ftag=CAD590a51e)
+ - [Now There&#39;s a Wolverine Rounded Butt Xbox Controller to Go With Deadpool](https://www.cnet.com/tech/gaming/now-theres-a-wolverine-butt-xbox-controller-to-go-with-deadpool/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

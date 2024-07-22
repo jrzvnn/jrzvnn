@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Im this old](http://9gag.com/gag/ajPDE0w)
+ - 💣 [What would each state do in this situation?](http://9gag.com/gag/aO8vB3M)
  - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 💣 [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [Breaking news: Joe Biden withdraws his candidacy](http://9gag.com/gag/a5QrWro)<!-- MEMES:END -->
+ - 👉 [I found the whole scene of that abomination](http://9gag.com/gag/apRL2X9)<!-- MEMES:END -->
 
 ---
 

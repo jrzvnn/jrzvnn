@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Niceeeeee.](http://9gag.com/gag/aAyPbEg)
- - 😝 [Legia Warsaw fans display a banner reading `Refugees Welcome` with a girl with a pig&#39;s head on a plate and two men with a baseball bat and a hammer.](http://9gag.com/gag/aKG3xrZ)
+ - 😝 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
  - 💣 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 😝 [Lol](http://9gag.com/gag/awyVM7x)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [System malfunction.](http://9gag.com/gag/aGyDZQG)<!-- MEMES:END -->
 
 ---
 

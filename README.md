@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My iPad runs Windows XP now, and it’s all I ever wanted](https://www.theverge.com/2024/7/22/24200536/windows-xp-ipad-pc-emulation-utm-se)
  - [Biden gives states billions of dollars for EV chargers, heat pumps, and other green tech](https://www.theverge.com/2024/7/22/24203522/biden-local-governments-climate-clean-energy-grants)
  - [Limited supply: M3 MacBook Air with 16GB RAM drops to $1,099](https://appleinsider.com/articles/24/07/22/limited-supply-m3-macbook-air-with-16gb-ram-drops-to-1099?utm_medium=rss)
  - [The EU tells Meta its &quot;pay or consent&quot; model for Facebook and Instagram may violate consumer protection laws, giving Meta until September 1 to propose changes &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240722/p12#a240722p12)
- - [Rivian’s sporty R3X will be the first R3 to hit the streets](https://www.theverge.com/2024/7/22/24203599/rivian-r3x-performance-ev-suv-release)
- - [Score Almost 90% Off Lifetime Access to Microsoft Office on StackSocial](https://www.cnet.com/deals/score-almost-90-off-lifetime-access-to-microsoft-office-on-stacksocial/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rivian’s sporty R3X will be the first R3 to hit the streets](https://www.theverge.com/2024/7/22/24203599/rivian-r3x-performance-ev-suv-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

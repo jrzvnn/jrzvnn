@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahaha](http://9gag.com/gag/ayN8oeY)
- - 😝 [\u2026What?](http://9gag.com/gag/aE0nPYG)
- - 💣 [Gaze into the abyss](http://9gag.com/gag/awyVov1)
- - 😝 [Important stuff](http://9gag.com/gag/aXPwgzg)
- - 👉 [From the archives.](http://9gag.com/gag/aO8v7yD)<!-- MEMES:END -->
+ - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 💣 [Instant regret](http://9gag.com/gag/a4PjGAA)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 👉 [Mesmerising tongue tricks](http://9gag.com/gag/aVveM4v)<!-- MEMES:END -->
 
 ---
 

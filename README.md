@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ProbablyNotGettingPaidEnoughForThisShit](http://9gag.com/gag/an71MVq)
- - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 😝 [Hahaha](http://9gag.com/gag/ayN8oeY)
+ - 😝 [\u2026What?](http://9gag.com/gag/aE0nPYG)
+ - 💣 [Gaze into the abyss](http://9gag.com/gag/awyVov1)
+ - 😝 [Important stuff](http://9gag.com/gag/aXPwgzg)
+ - 👉 [From the archives.](http://9gag.com/gag/aO8v7yD)<!-- MEMES:END -->
 
 ---
 

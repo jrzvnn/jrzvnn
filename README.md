@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - 😝 [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 😝 [The Philippines President caught taking coke. What a day](http://9gag.com/gag/aO8v32M)
- - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
+ - 😝 [Davy Jones was great](http://9gag.com/gag/aLn90Zz)
+ - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
+ - 💣 [This really happened guys, her swiftie daughter is so smort](http://9gag.com/gag/aAyPemd)
+ - 😝 [Important stuff](http://9gag.com/gag/aXPwgzg)
+ - 👉 [Planky](http://9gag.com/gag/aqyLgzP)<!-- MEMES:END -->
 
 ---
 

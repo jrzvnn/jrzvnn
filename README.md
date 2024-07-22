@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [System malfunction.](http://9gag.com/gag/aGyDZQG)
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 😝 [Evil](http://9gag.com/gag/aW4MYEZ)
- - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
+ - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 😝 [How the turntables](http://9gag.com/gag/aE0npqp)
+ - 💣 [Pov: You finally bought your first PLAYSTATION](http://9gag.com/gag/avynAxn)
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 👉 [Dear John:](http://9gag.com/gag/aAyPGxZ)<!-- MEMES:END -->
 
 ---
 

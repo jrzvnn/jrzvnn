@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing&#39;s CMF Phone 1 review: excellent performance, camera, battery, display, and software, far above rival $199 phones, but no NFC and spotty US band support &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240722/p5#a240722p5)
  - [Samsung tells US users that Samsung Messages will no longer come pre-installed on the Galaxy Flip6, Fold6, and newer models in favor of Google Messages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240722/p4#a240722p4)
+ - [Best Savings Rates Today -- Time May Be Running Out for High APYs, July 22, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-22-2024/#ftag=CAD590a51e)
  - [How EA uses AI to scan ~11K players&#39; photos to create 3D avatars for its college football game; EA secured players&#39; likeness rights for the first time in 2021 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p3#a240722p3)
- - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)
- - [Asus ROG Ally X Review: More Battery and Storage, Same Windows Problems](https://www.wired.com/review/asus-rog-ally-x/)
- - [Sources: Nvidia is working with Inspur to launch and distribute a new flagship AI chip &quot;B20&quot; for China that would be compatible with current US restrictions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240722/p1#a240722p1)<!-- TECH:END -->
+ - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
  - 😝 [System malfunction.](http://9gag.com/gag/aGyDZQG)
- - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
+ - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 😝 [Evil](http://9gag.com/gag/aW4MYEZ)
+ - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
 
 ---
 

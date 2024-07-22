@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazfit GTR 4, our favorite fitness tracker, has hit a new all-time low price](https://www.theverge.com/2024/7/22/24203570/amazon-amazfit-gtr-4-deal-sale)
- - [EU threatens to fine Meta for saying Facebook is ‘free’](https://www.theverge.com/2024/7/22/24203479/eu-meta-facebook-pay-or-consent-warning-consumer-protection-cooperation-cpc)
- - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
- - [Rivian CEO says CarPlay isn’t going to happen](https://www.theverge.com/2024/7/22/24203609/rivian-apple-carplay-support-rj-scaringe-decoder)
- - [Here’s a 12,000mAh power bank cosplaying as a Super Famicom](https://www.theverge.com/2024/7/22/24203500/ayaneo-retro-power-bank-charger-super-nintendo-famicom)<!-- TECH:END -->
+ - [Biden gives states billions of dollars for EV chargers, heat pumps, and other green tech](https://www.theverge.com/2024/7/22/24203522/biden-local-governments-climate-clean-energy-grants)
+ - [Limited supply: M3 MacBook Air with 16GB RAM drops to $1,099](https://appleinsider.com/articles/24/07/22/limited-supply-m3-macbook-air-with-16gb-ram-drops-to-1099?utm_medium=rss)
+ - [The EU tells Meta its &quot;pay or consent&quot; model for Facebook and Instagram may violate consumer protection laws, giving Meta until September 1 to propose changes &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240722/p12#a240722p12)
+ - [Rivian’s sporty R3X will be the first R3 to hit the streets](https://www.theverge.com/2024/7/22/24203599/rivian-r3x-performance-ev-suv-release)
+ - [Score Almost 90% Off Lifetime Access to Microsoft Office on StackSocial](https://www.cnet.com/deals/score-almost-90-off-lifetime-access-to-microsoft-office-on-stacksocial/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

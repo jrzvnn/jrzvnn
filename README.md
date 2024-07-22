@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)
  - [iPhone SE 4 rumored to feature FaceID, OLED display in substantial redesign](https://appleinsider.com/articles/24/07/22/iphone-se-4-rumored-to-feature-faceid-oled-display-in-substantial-redesign?utm_medium=rss)
  - [Some spot ether ETFs say they have received the go-ahead from the SEC and can begin trading on Tuesday &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240722/p18#a240722p18)
  - [SAP reports Q2 cloud revenue of &amp;euro;4.15B, up 25% YoY, revenue of &amp;euro;8.29B, up 10% YoY, net profits of &amp;euro;918M, and says a &quot;restructuring&quot; will affect ~10,000 jobs &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240722/p17#a240722p17)
- - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
- - [A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240722/p16#a240722p16)<!-- TECH:END -->
+ - [Global IT Outage Continues to Delay Thousands Of Travelers](https://www.cnet.com/tech/services-and-software/global-it-outage-continues-to-delay-thousands-of-travelers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

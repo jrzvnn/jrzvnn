@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He will soon forget that he ever was president. Let him rest](http://9gag.com/gag/a2v5WZp)
- - 😝 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
- - 💣 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
  - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 💣 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
  - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
 
 ---

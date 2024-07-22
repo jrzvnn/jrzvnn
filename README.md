@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
  - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
- - 💣 [Throwback to when Kamala was the 1st democrat eliminated in the 2020 primaries after being wrecked by Tulsi Gabbard on the debate stage](http://9gag.com/gag/a4PjEKQ)
- - 😝 [Davy Jones was great](http://9gag.com/gag/aLn90Zz)
- - 👉 [Polish football club Legia Warsaw welcoming illegal immigrants](http://9gag.com/gag/aW4ME8d)<!-- MEMES:END -->
+ - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 💣 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)<!-- MEMES:END -->
 
 ---
 

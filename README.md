@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
  - 😝 [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
- - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
  - 👉 [System malfunction.](http://9gag.com/gag/aGyDZQG)<!-- MEMES:END -->
 
 ---

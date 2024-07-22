@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel says it has found the issue causing 13th and 14th Gen CPUs to crash](https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch)
+ - [CrowdStrike CEO to testify about massive outage that halted flights and hospitals](https://www.theverge.com/2024/7/22/24203984/crowdstrike-ceo-testimony-house-homeland-security-outage)
+ - [Google’s next streaming player looks nothing like the Chromecast](https://www.theverge.com/2024/7/22/24203993/google-tv-streamer-leak-design-features)
  - [Google’s plan to turn off third-party cookies in Chrome is dying](https://www.theverge.com/2024/7/22/24203893/google-cookie-tracking-prompt-ad-targeting-privacy-sandbox)
- - [Free update makes Cowboy e-bikes better climbers and more efficient](https://www.theverge.com/2024/7/22/24203864/cowboy-adaptive-power-2-wind-weight-hills)
- - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)
- - [iPhone SE 4 rumored to feature FaceID, OLED display in substantial redesign](https://appleinsider.com/articles/24/07/22/iphone-se-4-rumored-to-feature-faceid-oled-display-in-substantial-redesign?utm_medium=rss)
- - [Some spot ether ETFs say they have received the go-ahead from the SEC and can begin trading on Tuesday &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240722/p18#a240722p18)<!-- TECH:END -->
+ - [Free update makes Cowboy e-bikes better climbers and more efficient](https://www.theverge.com/2024/7/22/24203864/cowboy-adaptive-power-2-wind-weight-hills)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

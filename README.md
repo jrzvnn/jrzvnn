@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s plan to turn off third-party cookies in Chrome is dying](https://www.theverge.com/2024/7/22/24203893/google-cookie-tracking-prompt-ad-targeting-privacy-sandbox)
  - [Free update makes Cowboy e-bikes better climbers and more efficient](https://www.theverge.com/2024/7/22/24203864/cowboy-adaptive-power-2-wind-weight-hills)
  - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)
  - [iPhone SE 4 rumored to feature FaceID, OLED display in substantial redesign](https://appleinsider.com/articles/24/07/22/iphone-se-4-rumored-to-feature-faceid-oled-display-in-substantial-redesign?utm_medium=rss)
- - [Some spot ether ETFs say they have received the go-ahead from the SEC and can begin trading on Tuesday &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240722/p18#a240722p18)
- - [SAP reports Q2 cloud revenue of &amp;euro;4.15B, up 25% YoY, revenue of &amp;euro;8.29B, up 10% YoY, net profits of &amp;euro;918M, and says a &quot;restructuring&quot; will affect ~10,000 jobs &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240722/p17#a240722p17)<!-- TECH:END -->
+ - [Some spot ether ETFs say they have received the go-ahead from the SEC and can begin trading on Tuesday &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240722/p18#a240722p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

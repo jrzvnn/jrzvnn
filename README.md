@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 💣 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [System malfunction.](http://9gag.com/gag/aGyDZQG)<!-- MEMES:END -->
+ - 😝 [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 💣 [System malfunction.](http://9gag.com/gag/aGyDZQG)
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 

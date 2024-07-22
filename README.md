@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
- - 😝 [What&#39;s your darkest secret?](http://9gag.com/gag/aNDWPj0)
+ - 😝 [He will soon forget that he ever was president. Let him rest](http://9gag.com/gag/a2v5WZp)
+ - 😝 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
  - 💣 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
  - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
 
 ---
 

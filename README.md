@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
  - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
- - 😝 [How the turntables](http://9gag.com/gag/aE0npqp)
- - 💣 [Pov: You finally bought your first PLAYSTATION](http://9gag.com/gag/avynAxn)
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 👉 [Dear John:](http://9gag.com/gag/aAyPGxZ)<!-- MEMES:END -->
+ - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
 
 ---
 

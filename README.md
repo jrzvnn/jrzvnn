@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Reddit COO Jen Wong says the company has revenue sharing deals with the NFL, NBA, MLB, and others to get video and other content, hoping to draw advertisers &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240722/p10#a240722p10)
  - [Microsoft blames European Commission for global CrowdStrike catastrophe](https://appleinsider.com/articles/24/07/22/microsoft-blames-european-commission-for-global-crowdstrike-catastrophe?utm_medium=rss)
  - [Toronto-based AI startup Cohere raised a $500M Series D led by Canadian pension fund PSP at a $5.5B valuation, after raising $270M at a $2.2B valuation in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p9#a240722p9)
- - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
- - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets](https://www.wired.com/gallery/best-nintendo-switch-accessories/)<!-- TECH:END -->
+ - [10 Best Strollers for Almost Every Budget and Need &lpar;2024&rpar;: New Top Picks!](https://www.wired.com/gallery/best-stroller-for-kids/)
+ - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

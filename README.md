@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I support this](http://9gag.com/gag/adBXKd9)
- - 😝 [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 😝 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
+ - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 😝 [Davy Jones was great](http://9gag.com/gag/aLn90Zz)
+ - 💣 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 👉 [This really happened guys, her swiftie daughter is so smort](http://9gag.com/gag/aAyPemd)<!-- MEMES:END -->
 
 ---
 

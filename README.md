@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone SE 4 rumored to feature FaceID, OLED display in substantial redesign](https://appleinsider.com/articles/24/07/22/iphone-se-4-rumored-to-feature-faceid-oled-display-in-substantial-redesign?utm_medium=rss)
+ - [Some spot ether ETFs say they have received the go-ahead from the SEC and can begin trading on Tuesday &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240722/p18#a240722p18)
  - [SAP reports Q2 cloud revenue of &amp;euro;4.15B, up 25% YoY, revenue of &amp;euro;8.29B, up 10% YoY, net profits of &amp;euro;918M, and says a &quot;restructuring&quot; will affect ~10,000 jobs &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240722/p17#a240722p17)
  - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
- - [A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240722/p16#a240722p16)
- - [One of the rarest NES games of all time goes up for auction today](https://www.theverge.com/2024/7/22/24203796/nintendo-nes-gaming-auction-rare-gold-cartridge-world-championships)
- - [This Surge Protector Is Less Than $9 at Amazon Right Now](https://www.cnet.com/deals/this-surge-protector-is-less-than-9-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240722/p16#a240722p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

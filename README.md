@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus ROG Ally X Review: More Battery and Storage, Same Windows Problems](https://www.wired.com/review/asus-rog-ally-x/)
  - [Sources: Nvidia is working with Inspur to launch and distribute a new flagship AI chip &quot;B20&quot; for China that would be compatible with current US restrictions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240722/p1#a240722p1)
  - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-22/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 22, #141](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-22-141/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 21, #140](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-140/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 22, #407](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-22-407/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 21, #140](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-140/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

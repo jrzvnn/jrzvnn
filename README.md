@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 😝 [Honest work](http://9gag.com/gag/a874o3p)
- - 💣 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - 😝 [I support this](http://9gag.com/gag/adBXKd9)
  - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
+ - 💣 [I guess we&#39;ll never know.](http://9gag.com/gag/a4PjRPy)
+ - 😝 [Mesmerising tongue tricks](http://9gag.com/gag/aVveM4v)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 

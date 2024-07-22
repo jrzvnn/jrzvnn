@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Apple&#39;s Eddy Cue has pushed TV+ studio chiefs to exert more control over budgets, hoping to change Apple&#39;s reputation as the biggest spender in town &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240721/p8#a240721p8)
+ - [Biden Drops Out, the Internet Responds: Memes Abound as President Exits the Race](https://www.cnet.com/tech/biden-drops-out-the-internet-responds-memes-abound-as-president-exits-the-race/#ftag=CAD590a51e)
+ - [How to Get More Electrolytes and Stay Hydrated](https://www.cnet.com/health/nutrition/how-to-get-more-electrolytes-and-stay-hydrated/#ftag=CAD590a51e)
  - [iPhone 16 Leaks and Rumors July 2024: What We&#39;ve Heard So Far](https://www.cnet.com/tech/mobile/iphone-16-leaks-and-rumors/#ftag=CAD590a51e)
- - [How To Get More Electrolytes and Stay Hydrated](https://www.cnet.com/health/nutrition/how-to-get-more-electrolytes-and-stay-hydrated/#ftag=CAD590a51e)
- - [Galaxy Z Flip 6 and Z Fold 6 phones won’t come with Samsung Messages in the US](https://www.theverge.com/2024/7/21/24203137/samsung-messages-no-pre-install-galaxy-z-fold-flip-6-google-messages-android-rcs)
- - [Biden Drops Out, the Internet Responds: Memes Abound as President Exits the Race](https://www.cnet.com/tech/biden-drops-out-the-internet-responds-memes-abound-as-president-exits-the-race/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Z Flip 6 and Z Fold 6 phones won’t come with Samsung Messages in the US](https://www.theverge.com/2024/7/21/24203137/samsung-messages-no-pre-install-galaxy-z-fold-flip-6-google-messages-android-rcs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

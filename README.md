@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Davy Jones was great](http://9gag.com/gag/aLn90Zz)
- - 😝 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - 💣 [This really happened guys, her swiftie daughter is so smort](http://9gag.com/gag/aAyPemd)
- - 😝 [Important stuff](http://9gag.com/gag/aXPwgzg)
- - 👉 [Planky](http://9gag.com/gag/aqyLgzP)<!-- MEMES:END -->
+ - 😝 [Real life Denzel Washington](http://9gag.com/gag/avynOXq)
+ - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 💣 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 😝 [Polish football club Legia Warsaw welcoming illegal immigrants](http://9gag.com/gag/aW4ME8d)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Right Reacts to Biden’s Withdrawal: It’s a ‘Coup’](https://www.wired.com/story/gop-reaction-biden-coup/)
- - [China removes sanctions on US communications company Viasat, saying the situation had changed but offering few other details, a rare reversal for the government &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p8#a240722p8)
- - [Asus ROG Ally X review: easier to grip, comfortable to hold, nice black casing, games run smoothly, and improved, but not great, battery life, but no touchpads &lpar;Rebecca Spear/Windows Central&rpar;](http://www.techmeme.com/240722/p7#a240722p7)
- - [The Pentagon Wants to Spend $141 Billion on a Doomsday Machine](https://www.wired.com/story/the-pentagon-wants-to-spend-dollar141-billion-on-a-doomsday-machine/)
- - [How Japan lured some AI companies with copyright laws that critics say allow widespread use of copyrighted images and other materials, alarming creators &lpar;Financial Times&rpar;](http://www.techmeme.com/240722/p6#a240722p6)<!-- TECH:END -->
+ - [Party&#39;s over: Apple tries to shrink costs of Apple TV+ productions](https://appleinsider.com/articles/24/07/22/partys-over-apple-tries-to-shrink-costs-of-apple-tv-productions?utm_medium=rss)
+ - [NZXT Function 2 Review: Iterative Improvements on a Beginner&#39;s Board](https://www.wired.com/review/nzxt-function-2-mechanical-keyboard/)
+ - [An Open AI Backed Non-Profit Gave $1,000 a Month to Poor People. Here’s What They Did With It](https://www.wired.com/story/sam-altmans-big-basic-income-study-is-finally-out/)
+ - [AI terminology, explained for humans](https://www.theverge.com/24201441/ai-terminology-explained-humans)
+ - [Apple’s original content spending spree might finally be over](https://www.theverge.com/2024/7/22/24203423/apple-tv-plus-tighten-budget-streaming-losses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

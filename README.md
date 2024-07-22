@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit COO Jen Wong says the company has revenue sharing deals with the NFL, NBA, MLB, and others to get video and other content, hoping to draw advertisers &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240722/p10#a240722p10)
+ - [Microsoft blames European Commission for global CrowdStrike catastrophe](https://appleinsider.com/articles/24/07/22/microsoft-blames-european-commission-for-global-crowdstrike-catastrophe?utm_medium=rss)
  - [Toronto-based AI startup Cohere raised a $500M Series D led by Canadian pension fund PSP at a $5.5B valuation, after raising $270M at a $2.2B valuation in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p9#a240722p9)
  - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
- - [Party&#39;s over: Apple tries to shrink costs of Apple TV+ productions](https://appleinsider.com/articles/24/07/22/partys-over-apple-tries-to-shrink-costs-of-apple-tv-productions?utm_medium=rss)
- - [NZXT Function 2 Review: Iterative Improvements on a Beginner&#39;s Board](https://www.wired.com/review/nzxt-function-2-mechanical-keyboard/)
- - [Best Credit Cards for Shopping on Amazon in July 2024](https://www.cnet.com/personal-finance/best-credit-cards-for-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets](https://www.wired.com/gallery/best-nintendo-switch-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

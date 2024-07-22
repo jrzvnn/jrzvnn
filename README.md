@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Arkady Volozh, CEO of Nebius, formerly Yandex N.V., on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)
+ - [How EA uses AI to scan ~11K players&#39; photos to create 3D avatars for its college football game; EA secured players&#39; likeness rights for the first time in 2021 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p3#a240722p3)
+ - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex, on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)
  - [Asus ROG Ally X Review: More Battery and Storage, Same Windows Problems](https://www.wired.com/review/asus-rog-ally-x/)
  - [Sources: Nvidia is working with Inspur to launch and distribute a new flagship AI chip &quot;B20&quot; for China that would be compatible with current US restrictions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240722/p1#a240722p1)
- - [Best Meal Delivery Services of 2024](https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Meal Delivery Services of 2024](https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

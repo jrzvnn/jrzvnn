@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
- - 😝 [Hahaha](http://9gag.com/gag/ayN8oeY)
- - 💣 [Important stuff](http://9gag.com/gag/aXPwgzg)
- - 😝 [If you touch the ball twice, you&#39;re geh](http://9gag.com/gag/awyVAOD)
- - 👉 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)<!-- MEMES:END -->
+ - 😝 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 😝 [A stunning turn of event](http://9gag.com/gag/aD2Gz69)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 ---
 

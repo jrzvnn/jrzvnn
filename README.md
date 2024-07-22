@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Man convicted for ‘sextortion’ of more than 100 children on Omegle, Snapchat, and TikTok](https://www.theverge.com/2024/7/22/24203577/sex-offender-convicted-sextortion-omegle-snapchat-tiktok-csam)
+ - [The Shokz OpenRun Pro are selling at their best price for a few more hours](https://www.theverge.com/2024/7/22/24203441/shokz-openrun-pro-open-air-fitness-headphones-deal-sale)
  - [Rivian adds Apple Music, but won&#39;t consider CarPlay](https://appleinsider.com/articles/24/07/22/rivian-adds-apple-music-but-wont-consider-carplay?utm_medium=rss)
  - [Best Buy&#39;s Great Summer Sale: Post-Prime Day Deals Offer Hundreds of Dollars in Savings](https://www.cnet.com/deals/best-buys-great-summer-sale/#ftag=CAD590a51e)
- - [Reddit’s NFL, NBA deals bring more sports highlights — and ads](https://www.theverge.com/2024/7/22/24203528/reddit-nba-nfl-highlights-sports-leagues-ads-deal)
- - [How to Get AI to Be Your Personal Narrator Online](https://www.cnet.com/tech/services-and-software/how-to-get-ai-to-be-your-personal-narrator-online/#ftag=CAD590a51e)
- - [Night Sweats? Make Sure Your Pajamas Are Made of These 5 Materials](https://www.cnet.com/health/sleep/night-sweats-make-sure-your-pajamas-are-made-of-these-5-materials/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit’s NFL, NBA deals bring more sports highlights — and ads](https://www.theverge.com/2024/7/22/24203528/reddit-nba-nfl-highlights-sports-leagues-ads-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 💣 [Planky](http://9gag.com/gag/aqyLgzP)
- - 😝 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
- - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
+ - 😝 [I guess we&#39;ll never know.](http://9gag.com/gag/a4PjRPy)
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 💣 [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [I support this](http://9gag.com/gag/adBXKd9)<!-- MEMES:END -->
 
 ---
 

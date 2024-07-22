@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spot 6 Planets in the Sky at Once During This Upcoming Aug. 23 Planet Parade](https://www.cnet.com/science/another-planetary-parade-starts-on-aug-23-spot-6-planets-in-the-sky-at-once/#ftag=CAD590a51e)
  - [Monarch Tractor, which makes autonomous electric tractors, raised a $133M Series C co-led by Astanor and HH-CTBC Partnership at a $500M+ valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240722/p20#a240722p20)
- - [Slack introduces iPhone widgets to make work more inescapable](https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets)
- - [Intel says it has found the issue causing 13th and 14th Gen CPUs to crash](https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch)
- - [CrowdStrike CEO to testify about massive outage that halted flights and hospitals](https://www.theverge.com/2024/7/22/24203984/crowdstrike-ceo-testimony-house-homeland-security-outage)
- - [Google’s next streaming player looks nothing like the Chromecast](https://www.theverge.com/2024/7/22/24203993/google-tv-streamer-leak-design-features)<!-- TECH:END -->
+ - [You Can Watch a Once-in-a-Lifetime Cosmic Explosion From Your Own Backyard](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
+ - [This Free New Warning System Helps You Prep for Extreme Heat](https://www.cnet.com/science/free-new-warning-system-helps-you-prep-for-extreme-heat/#ftag=CAD590a51e)
+ - [Slack introduces iPhone widgets to make work more inescapable](https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

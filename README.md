@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 💣 [The more comments I read the more I realise you&#39;re not kids, you&#39;re just bitter f**ks](http://9gag.com/gag/a6ZQOM8)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 😝 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
+ - 😝 [Hahaha](http://9gag.com/gag/ayN8oeY)
+ - 💣 [Important stuff](http://9gag.com/gag/aXPwgzg)
+ - 😝 [If you touch the ball twice, you&#39;re geh](http://9gag.com/gag/awyVAOD)
+ - 👉 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)<!-- MEMES:END -->
 
 ---
 

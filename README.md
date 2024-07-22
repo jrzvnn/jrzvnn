@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toronto-based AI startup Cohere raised a $500M Series D led by Canadian pension fund PSP at a $5.5B valuation, after raising $270M at a $2.2B valuation in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p9#a240722p9)
  - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
  - [Party&#39;s over: Apple tries to shrink costs of Apple TV+ productions](https://appleinsider.com/articles/24/07/22/partys-over-apple-tries-to-shrink-costs-of-apple-tv-productions?utm_medium=rss)
  - [NZXT Function 2 Review: Iterative Improvements on a Beginner&#39;s Board](https://www.wired.com/review/nzxt-function-2-mechanical-keyboard/)
- - [An Open AI Backed Non-Profit Gave $1,000 a Month to Poor People. Here’s What They Did With It](https://www.wired.com/story/sam-altmans-big-basic-income-study-is-finally-out/)
- - [AI terminology, explained for humans](https://www.theverge.com/24201441/ai-terminology-explained-humans)<!-- TECH:END -->
+ - [Best Credit Cards for Shopping on Amazon in July 2024](https://www.cnet.com/personal-finance/best-credit-cards-for-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Better than Prime Day pricing hits AirPods Max at Amazon](https://appleinsider.com/articles/24/07/22/better-than-prime-day-pricing-hits-airpods-max-at-amazon?utm_medium=rss)
  - [Is the ‘Diaper’ Method in &#39;Twisters&#39; a Real Solution For Massive Tornadoes? Not Exactly](https://www.wired.com/story/is-twisters-diaper-method-a-real-solution-for-massive-tornadoes/)
- - [Apple&#39;s Leather Link Watch Band Is Just $25 at Woot for a Limited Time](https://www.cnet.com/deals/apples-leather-link-watch-band-is-just-25-at-woot-for-a-limited-time/#ftag=CAD590a51e)
- - [Snag Bose QuietComfort Earbuds 2 for Just $179 While You Still Can](https://www.cnet.com/deals/snag-bose-quietcomfort-earbuds-2-just-179-while-you-still-can/#ftag=CAD590a51e)
- - [16 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)<!-- TECH:END -->
+ - [16 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Rivian CEO RJ Scaringe says too many carmakers are copying Tesla](https://www.theverge.com/24201749/rivian-ceo-rj-scaringe-ev-electric-truck-r1-tesla-model-y-competition-decoder-interview)
+ - [Hands on: Nomad eSIM provides simple travel data options in over 170 countries](https://appleinsider.com/articles/24/07/22/hands-on-nomad-esim-provides-simple-travel-data-options-in-over-170-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

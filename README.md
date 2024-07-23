@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 💣 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)
- - 😝 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
- - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 💣 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 👉 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)
+ - [Amazon’s paid Alexa is coming to fill a $25 billion hole dug by Echo devices](https://www.theverge.com/2024/7/23/24204260/amazon-25-billion-losses-echo-devices-alexa-subscription)
+ - [Meta releases the biggest and best open-source AI model yet](https://www.theverge.com/2024/7/23/24204055/meta-ai-llama-3-1-open-source-assistant-openai-chatgpt)
  - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
- - [We’re at a make-or-break moment for US climate goals](https://www.theverge.com/2024/7/23/24203766/biden-us-climate-clean-energy-forecast-rhodium)
- - [Every M3 iMac is on sale this week, with prices dropping to as low as $1,149](https://appleinsider.com/articles/24/07/23/every-m3-imac-is-on-sale-this-week-with-prices-dropping-to-as-low-as-1149?utm_medium=rss)
- - [GM ditches Cruise’s custom-designed driverless car](https://www.theverge.com/2024/7/23/24204251/gm-cruise-suspends-origin-robotaxi-production-chevy-bolt-ev-self-driving)
- - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)<!-- TECH:END -->
+ - [Tandem drifting Toyotas show how AI might help drivers on slippery roads](https://www.theverge.com/2024/7/23/24204309/stanford-toyota-supra-ai-self-driving-autonomous-drifting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

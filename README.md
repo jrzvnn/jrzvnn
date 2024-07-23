@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 😝 [What&#39;s your darkest secret?](http://9gag.com/gag/aNDWPj0)
- - 💣 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
- - 😝 [From which movie is this scene from?](http://9gag.com/gag/aVve7Ww)
- - 👉 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)<!-- MEMES:END -->
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 😝 [House in the Philippines attach a sprinkler in their rooftop to beat the heat](http://9gag.com/gag/aD2Gg8K)
+ - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 👉 [From which movie is this scene from?](http://9gag.com/gag/aVve7Ww)<!-- MEMES:END -->
 
 ---
 

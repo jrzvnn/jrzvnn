@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How K-pop might lead to the downfall of Korea’s richest self-made tech mogul](https://www.theverge.com/2024/7/23/24204411/kakaotalk-kim-beom-su-kpop)
- - [Kamala Harris wants you to know she’s having a Brat summer](https://www.theverge.com/2024/7/23/24203547/kamala-harris-presidential-campaign-charli-xcx-brat-summer-meme)
- - [Harvey, which is building an AI-powered &quot;copilot&quot; for lawyers, raised a $100M Series C led by GV that values it at $1.5B and brings its total funding to $206M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p29#a240723p29)
- - [Spotify CEO confirms a ‘deluxe’ version with hi-fi audio is coming soon](https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed)
- - [Samsung Galaxy Z Flip 6 Preorder Deals: Last Chance to Score Preorder Discounts](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kamala Harris wants you to know she’s having a ‘Brat’ summer](https://www.theverge.com/2024/7/23/24203547/kamala-harris-presidential-campaign-charli-xcx-brat-summer-meme)
+ - [The iOS 18 Public Beta Is Here: How To Install Now](https://www.cnet.com/tech/services-and-software/how-to-download-ios-18-public-beta-iphone/#ftag=CAD590a51e)
+ - [Best Fitbit Deals: Enjoy Discounts on These Popular Fitness Trackers](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Save Up to $300 on Series 8 and More](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

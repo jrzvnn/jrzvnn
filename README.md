@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta plans to roll out its AI assistant to Quest in August, limited to US and Canada users in experimental mode, after first coming to Ray-Ban smart glasses &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240723/p25#a240723p25)
  - [Microsoft Copilot is fairly relaxed about trademark use](https://appleinsider.com/articles/24/07/23/microsoft-copilot-is-fairly-relaxed-about-trademark-use?utm_medium=rss)
- - [Schumer plans to bring two major kids online safety bills to the Senate floor this week](https://www.theverge.com/2024/7/23/24204318/schumer-kosa-coppa-senate-floor)
+ - [Chuck Schumer plans to bring two major kids online safety bills to the Senate floor this week](https://www.theverge.com/2024/7/23/24204318/schumer-kosa-coppa-senate-floor)
  - [The FTC seeks info from Mastercard, JPMorgan, and six other companies related to their &quot;surveillance pricing products&quot; that use personal data, AI, and more &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240723/p24#a240723p24)
  - [Apple’s first foldable iPhone could arrive in 2026](https://www.theverge.com/2024/7/23/24204421/apple-first-foldable-iphone-arrive-2026)<!-- TECH:END -->
 

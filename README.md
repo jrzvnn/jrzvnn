@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 😝 [Kallen toweling](http://9gag.com/gag/apRL5Nb)
- - 💣 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
- - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
+ - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 😝 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 💣 [Nostalgia](http://9gag.com/gag/a5QrRjo)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---
 

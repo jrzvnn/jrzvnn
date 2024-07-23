@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
- - 💣 [Cool!](http://9gag.com/gag/apRL9m5)
- - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 👉 [Cute](http://9gag.com/gag/adBXBoM)<!-- MEMES:END -->
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 😝 [Buzz buzz buzzzzzz](http://9gag.com/gag/aMV9K2V)
+ - 💣 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
+ - 😝 [The guy speeds up and discovers something unusual](http://9gag.com/gag/aW4M4Kq)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 

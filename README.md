@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Comcast reports Peacock Q2 revenue up 28% YoY to $1B, and a $348M loss, down from $651M in Q2 2023; paying subs were up 38% YoY to 33M but down from 33.5M in Q1 &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p30#a240723p30)
+ - [Stuff this trackable wallet with everything but an AirTag](https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag)
  - [How K-pop might lead to the downfall of Korea’s richest self-made tech mogul](https://www.theverge.com/2024/7/23/24204411/kakaotalk-kim-beom-su-kpop)
  - [Kamala Harris wants you to know she’s having a ‘Brat’ summer](https://www.theverge.com/2024/7/23/24203547/kamala-harris-presidential-campaign-charli-xcx-brat-summer-meme)
- - [The iOS 18 Public Beta Is Here: How To Install Now](https://www.cnet.com/tech/services-and-software/how-to-download-ios-18-public-beta-iphone/#ftag=CAD590a51e)
- - [Best Fitbit Deals: Enjoy Discounts on These Popular Fitness Trackers](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save Up to $300 on Series 8 and More](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iOS 18 Public Beta Is Here: How To Install Now](https://www.cnet.com/tech/services-and-software/how-to-download-ios-18-public-beta-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

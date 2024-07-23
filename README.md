@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadillac’s extra-long, extra-yellow EV has a fridge in the backseat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)
+ - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
+ - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)
+ - [Lenovo Yoga Slim 7x Copilot+ PC Review: Great Price to Performance](https://www.wired.com/review/lenovo-yoga-slim-7x-copilot-pc/)
  - [The soon-to-be-released Motorola Razr Plus flip phone is already $100 off](https://www.theverge.com/2024/7/23/24203564/amazon-motorola-razr-plus-apple-homepod-mini-deal-sale)
- - [Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240723/p17#a240723p17)
- - [Amazon begins rolling out a new UI for Prime Video to help distinguish content included with Prime, update its navigation bar, manage subscriptions, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240723/p16#a240723p16)
- - [Best Washing Machines for 2024](https://www.cnet.com/home/kitchen-and-household/best-washing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240723/p17#a240723p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

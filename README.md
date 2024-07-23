@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [India makes it cheaper to import and manufacture iPhones](https://appleinsider.com/articles/24/07/23/india-makes-it-cheaper-to-import-and-manufacture-iphones?utm_medium=rss)
+ - [The Best Zojirushi Rice Cookers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-zojirushi-rice-cookers/)
  - [Dragos details a sample of Russia-linked malware used in a hack in January 2024 to target a heating utility in Lviv, Ukraine, cutting service to 600 buildings &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240723/p15#a240723p15)
  - [Apple&#39;s Jeff Williams takes another secret overseas trip, this time to China](https://appleinsider.com/articles/24/07/23/apples-jeff-williams-takes-another-secret-overseas-trip-this-time-to-china?utm_medium=rss)
- - [Swiss computer hardware maker Logitech reports Q2 revenue up 12% YoY to $4.34B and expects 2024 sales up 1% to 3%, up from 0% to 2% previously forecast &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/240723/p14#a240723p14)
- - [Asus ROG Ally X Review: Gen 1.5 of Windows Gaming Handhelds](https://www.cnet.com/tech/gaming/asus-rog-ally-x-review-gen-1-5-of-windows-gaming-handhelds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Swiss computer hardware maker Logitech reports Q2 revenue up 12% YoY to $4.34B and expects 2024 sales up 1% to 3%, up from 0% to 2% previously forecast &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/240723/p14#a240723p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

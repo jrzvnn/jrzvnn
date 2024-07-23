@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
- - 😝 [Buzz buzz buzzzzzz](http://9gag.com/gag/aMV9K2V)
- - 💣 [A real G](http://9gag.com/gag/aryNm5p)
- - 😝 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 😝 [How to write a strong female character without making a man-hating, know-it-all, Mary Sue 101:](http://9gag.com/gag/abAZebX)
+ - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 💣 [Need more memes and less propaganda](http://9gag.com/gag/aMV94nx)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/adBXvXM)
+ - 👉 [Bikini bottom](http://9gag.com/gag/a87412d)<!-- MEMES:END -->
 
 ---
 

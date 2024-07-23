@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
  - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
  - 💣 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
- - 😝 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
+ - 😝 [Cute](http://9gag.com/gag/adBXBoM)
  - 👉 [Instant trigger](http://9gag.com/gag/avynyYb)<!-- MEMES:END -->
 
 ---

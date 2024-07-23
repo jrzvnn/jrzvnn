@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet Announces Second Quarter 2024 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/240723/p32#a240723p32)
+ - [Daniel Ek says Spotify is working on a deluxe Spotify tier, around a $17-$18 price point, that has &quot;a lot more control, a lot higher quality across the board&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240723/p31#a240723p31)
  - [Comcast reports Peacock Q2 revenue up 28% YoY to $1B, and a $348M loss, down from $651M in Q2 2023; paying subs were up 38% YoY to 33M but down from 33.5M in Q1 &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p30#a240723p30)
  - [Stuff this trackable wallet with everything but an AirTag](https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag)
- - [How K-pop might lead to the downfall of Korea’s richest self-made tech mogul](https://www.theverge.com/2024/7/23/24204411/kakaotalk-kim-beom-su-kpop)
- - [Kamala Harris wants you to know she’s having a ‘Brat’ summer](https://www.theverge.com/2024/7/23/24203547/kamala-harris-presidential-campaign-charli-xcx-brat-summer-meme)
- - [The iOS 18 Public Beta Is Here: How To Install Now](https://www.cnet.com/tech/services-and-software/how-to-download-ios-18-public-beta-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Paris 2024 Olympic Athletes Are Sleeping on Cardboard Beds](https://www.wired.com/story/why-paris-2024-olympic-athletes-are-sleeping-on-cardboard-beds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

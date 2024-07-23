@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Cybersecurity startup Wiz walks away from a $23B deal to be acquired by Google; memo: Wiz&#39;s CEO told staff the company would pursue an IPO as originally planned &lpar;CNBC&rpar;](http://www.techmeme.com/240722/p25#a240722p25)
  - [Sources: Amazon lost $25B+ on its devices business between 2017 and 2021 as its plan to sell hardware at a lower price and make money elsewhere hasn&#39;t worked &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p24#a240722p24)
+ - [Photos From the Galaxy Z Flip 6&#39;s Cameras](https://www.cnet.com/pictures/photos-from-the-galaxy-z-flip-6s-cameras/#ftag=CAD590a51e)
  - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)
- - [Tech billionaires can’t build their ‘California Forever’ city yet](https://www.theverge.com/2024/7/22/24203960/california-forever-billionaire-city-environmental-impact-study)
- - [Leaked Lego Fortnite Sets Show Battle Bus, Loot Llama and More](https://www.cnet.com/tech/gaming/leaked-lego-fortnite-sets-show-battle-bus-loot-llama-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tech billionaires can’t build their ‘California Forever’ city yet](https://www.theverge.com/2024/7/22/24203960/california-forever-billionaire-city-environmental-impact-study)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India plans to cut import duty on mobile phones and some key parts to 15% from 20%, a move that will directly benefit Apple, as part of its 2024/25 budget &lpar;Reuters&rpar;](http://www.techmeme.com/240723/p6#a240723p6)
  - [NXP Semiconductors reports Q2 revenue down 5% YoY to $3.13B, automotive chip sales down 7% YoY, and forecasts Q3 revenue below $3.35B est.; NXPI drops 9%+ &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240723/p5#a240723p5)
  - [Connect Any Bluetooth Headphones to In-Flight Entertainment With This $55 Device](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)
  - [How Russia-Linked Malware Cut Heat to 600 Ukrainian Buildings in Deep Winter](https://www.wired.com/story/russia-ukraine-frostygoop-malware-heating-utility/)
- - [Best Savings Rates Today -- Grab a High APY While You Still Can, July 23, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-23-2024/#ftag=CAD590a51e)
- - [Wiz rejects Google’s $23 billion takeover in favor of IPO](https://www.theverge.com/2024/7/23/24204198/google-wiz-acquisition-called-off-23-billion-cloud-cybersecurity)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Grab a High APY While You Still Can, July 23, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-23-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

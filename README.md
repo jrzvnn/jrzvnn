@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe rolls out more generative AI features to Illustrator and Photoshop](https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features)
- - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)
- - [Lenovo Yoga Slim 7x Copilot+ PC Review: Great Price to Performance](https://www.wired.com/review/lenovo-yoga-slim-7x-copilot-pc/)
- - [The soon-to-be-released Motorola Razr Plus flip phone is already $100 off](https://www.theverge.com/2024/7/23/24203564/amazon-motorola-razr-plus-apple-homepod-mini-deal-sale)<!-- TECH:END -->
+ - [Adobe rolls out new Illustrator features like Generative Shape Fill, powered by Firefly Vector 2, now in public beta, alongside new and updated Photoshop tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240723/p18#a240723p18)
+ - [Are you being exploited by AI-powered surveillance pricing?](https://www.theverge.com/2024/7/23/24204011/ftc-surveillance-pricing-investigation-mckinsey-mastercard-chase)
+ - [Pick Up Microsoft Visio Professional 2021 for Just $20 While You Still Can](https://www.cnet.com/deals/pick-up-microsoft-visio-professional-2021-for-just-20-while-you-still-can/#ftag=CAD590a51e)
+ - [&#39;Presumed Innocent&#39; Release Schedule: When the Finale Drops on Apple TV Plus](https://www.cnet.com/tech/services-and-software/presumed-innocent-release-schedule-when-the-finale-drops-on-apple-tv-plus/#ftag=CAD590a51e)
+ - [Black Hole Disks Are Like Cake: Watch This Cosmic Simulation to See Why They&#39;re So Fluffy](https://www.cnet.com/science/black-hole-disks-are-like-cake-watch-this-cosmic-simulation-to-see-why-theyre-so-fluffy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

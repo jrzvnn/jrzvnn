@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TikTok plans to launch TikTok Shop in Spain and Ireland as early as October; the rollout will be smaller than previously envisioned amid EU scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p1#a240723p1)
  - [TikTok Lite Leaves up to 1 Billion Users With Fewer Protections](https://www.wired.com/story/tiktok-lite-global-south/)
  - [An investigation shows how pedophiles groom children using Roblox, a problem exacerbated by Roblox not collecting any personal information beyond a user&#39;s age &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p26#a240722p26)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 23, #142](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-23-142/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 23, #408](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-23-408/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 23, #1130](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-23-1130/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 23, #408](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-23-408/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

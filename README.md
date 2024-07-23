@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU opens an in-depth investigation into Delivery Hero and its Spanish subsidiary Glovo to determine if they may have illegally colluded with each other &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240723/p10#a240723p10)
  - [Spotify reports Q2 revenue up 20% YoY to &amp;euro;3.8B, MAUs up 14% YoY to 626M, paid subscribers up 12% YoY to 246M, above 245.2M est., and a &amp;euro;266M operating income &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240723/p9#a240723p9)
  - [Refi Rates Dip Since Last Week: Today&#39;s Refinance Rates, July 23, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-dip-since-last-week-todays-refinance-rates-july-23-2024/#ftag=CAD590a51e)
  - [Mozilla and AI Forensics: TikTok Lite, launched in 2018 and aimed at poorer markets, leaves AI-generated content unlabeled and lacks other similar safeguards &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240723/p8#a240723p8)
- - [This Little Dial Is My Favorite Way to Control My Smart Lights](https://www.cnet.com/how-to/this-little-dial-is-my-favorite-way-to-control-my-smart-lights/#ftag=CAD590a51e)
- - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)<!-- TECH:END -->
+ - [This Little Dial Is My Favorite Way to Control My Smart Lights](https://www.cnet.com/how-to/this-little-dial-is-my-favorite-way-to-control-my-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

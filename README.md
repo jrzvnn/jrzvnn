@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 😝 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 💣 [Nostalgia](http://9gag.com/gag/a5QrRjo)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 😝 [What was next?](http://9gag.com/gag/abAZvNO)
+ - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 💣 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)
+ - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 👉 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)<!-- MEMES:END -->
 
 ---
 

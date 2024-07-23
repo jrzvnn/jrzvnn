@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
- - 😝 [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
- - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 😝 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
- - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 💣 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
+ - 😝 [System malfunction.](http://9gag.com/gag/aGyDZQG)
+ - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
 
 ---
 

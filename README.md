@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [GM ditches Cruise’s custom-designed driverless car](https://www.theverge.com/2024/7/23/24204251/gm-cruise-suspends-origin-robotaxi-production-chevy-bolt-ev-self-driving)
  - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [Angry Miao’s new $559 mechanical keyboard has Game Boy vibes](https://www.theverge.com/2024/7/23/24204005/angry-miao-am-rgb-65-nintendo-game-boy-mechanical-keyboard-price-specs)
- - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)
- - [Inside the global computer crash](https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast)<!-- TECH:END -->
+ - [CNET Wellness Editors&#39; Top Sleep Accessories for the Summer](https://www.cnet.com/health/sleep/cnet-wellness-editors-top-sleep-accessories-for-the-summer/#ftag=CAD590a51e)
+ - [How to Avoid Jet Lag and Fly in Comfort, According to an Olympic Medalist](https://www.cnet.com/health/sleep/how-to-avoid-jet-lag-according-to-an-olympic-medalist/#ftag=CAD590a51e)
+ - [Angry Miao’s new $559 mechanical keyboard has Game Boy vibes](https://www.theverge.com/2024/7/23/24204005/angry-miao-am-rgb-65-nintendo-game-boy-mechanical-keyboard-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

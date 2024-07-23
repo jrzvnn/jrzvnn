@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 😝 [A real G](http://9gag.com/gag/aryNm5p)
- - 💣 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 😝 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
+ - 😝 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 😝 [Almost identical](http://9gag.com/gag/awyVg8y)
+ - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---
 

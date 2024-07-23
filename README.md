@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India makes it cheaper to import and manufacture iPhones](https://appleinsider.com/articles/24/07/23/india-makes-it-cheaper-to-import-and-manufacture-iphones?utm_medium=rss)
- - [The Best Zojirushi Rice Cookers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-zojirushi-rice-cookers/)
- - [Dragos details a sample of Russia-linked malware used in a hack in January 2024 to target a heating utility in Lviv, Ukraine, cutting service to 600 buildings &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240723/p15#a240723p15)
- - [Apple&#39;s Jeff Williams takes another secret overseas trip, this time to China](https://appleinsider.com/articles/24/07/23/apples-jeff-williams-takes-another-secret-overseas-trip-this-time-to-china?utm_medium=rss)
- - [Swiss computer hardware maker Logitech reports Q2 revenue up 12% YoY to $4.34B and expects 2024 sales up 1% to 3%, up from 0% to 2% previously forecast &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/240723/p14#a240723p14)<!-- TECH:END -->
+ - [Cadillac’s extra-long, extra-yellow EV has a fridge in the backseat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)
+ - [The soon-to-be-released Motorola Razr Plus flip phone is already $100 off](https://www.theverge.com/2024/7/23/24203564/amazon-motorola-razr-plus-apple-homepod-mini-deal-sale)
+ - [Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240723/p17#a240723p17)
+ - [Amazon begins rolling out a new UI for Prime Video to help distinguish content included with Prime, update its navigation bar, manage subscriptions, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240723/p16#a240723p16)
+ - [Best Washing Machines for 2024](https://www.cnet.com/home/kitchen-and-household/best-washing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

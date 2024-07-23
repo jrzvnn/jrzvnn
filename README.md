@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
- - 😝 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
+ - 😝 [How the turntables](http://9gag.com/gag/aE0npqp)
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 💣 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
 
 ---
 

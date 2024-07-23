@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces Second Quarter 2024 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/240723/p32#a240723p32)
+ - [Tesla’s profits sank sharply in the second quarter of 2024](https://www.theverge.com/2024/7/23/24201234/tesla-q2-2024-earnings-robotaxi-ai-cybertruck)
+ - [Source: OpenAI has reassigned Aleksander M&amp;aogon;dry, the head of its Preparedness AI safety team, to a role within its research organization focusing on reasoning &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240723/p33#a240723p33)
+ - [Alphabet Q2: revenue of $84.7B, up 14% YoY, net income of $23.6B, up 29% YoY, Google Cloud revenue of $10.3B, up from $8B YoY, and headcount down 1% to 179,582 &lpar;Alphabet&rpar;](http://www.techmeme.com/240723/p32#a240723p32)
  - [Daniel Ek says Spotify is working on a deluxe Spotify tier, around a $17-$18 price point, that has &quot;a lot more control, a lot higher quality across the board&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240723/p31#a240723p31)
- - [Comcast reports Peacock Q2 revenue up 28% YoY to $1B, and a $348M loss, down from $651M in Q2 2023; paying subs were up 38% YoY to 33M but down from 33.5M in Q1 &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p30#a240723p30)
- - [Stuff this trackable wallet with everything but an AirTag](https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag)
- - [Why Paris 2024 Olympic Athletes Are Sleeping on Cardboard Beds](https://www.wired.com/story/why-paris-2024-olympic-athletes-are-sleeping-on-cardboard-beds/)<!-- TECH:END -->
+ - [Comcast reports Peacock Q2 revenue up 28% YoY to $1B, and a $348M loss, down from $651M in Q2 2023; paying subs were up 38% YoY to 33M but down from 33.5M in Q1 &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p30#a240723p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

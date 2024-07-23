@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to roll out its AI assistant to Quest in August, limited to US and Canada users in experimental mode, after first coming to Ray-Ban smart glasses &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240723/p25#a240723p25)
- - [Microsoft Copilot is fairly relaxed about trademark use](https://appleinsider.com/articles/24/07/23/microsoft-copilot-is-fairly-relaxed-about-trademark-use?utm_medium=rss)
- - [Chuck Schumer plans to bring two major kids online safety bills to the Senate floor this week](https://www.theverge.com/2024/7/23/24204318/schumer-kosa-coppa-senate-floor)
- - [The FTC seeks info from Mastercard, JPMorgan, and six other companies related to their &quot;surveillance pricing products&quot; that use personal data, AI, and more &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240723/p24#a240723p24)
- - [Apple’s first foldable iPhone could arrive in 2026](https://www.theverge.com/2024/7/23/24204421/apple-first-foldable-iphone-arrive-2026)<!-- TECH:END -->
+ - [A staffer at Activision Blizzard, which had layoffs in 2024 affecting many 2D artists, says some remaining artists were &quot;forced to use AI to aid in their work&quot; &lpar;Brian Merchant/Wired&rpar;](http://www.techmeme.com/240723/p27#a240723p27)
+ - [Apple issues release candidates of current-gen OS updates](https://appleinsider.com/articles/24/07/23/apple-issues-release-candidates-of-current-gen-os-updates?utm_medium=rss)
+ - [Apple seeds fourth developer betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/23/apple-seeds-fourth-developer-betas-of-ios-18-ipados-18-tvos-18-watchos-11-visionos-2?utm_medium=rss)
+ - [Mark Zuckerberg argues &quot;open source AI&quot; is the path forward, that closed models are vulnerable to vendor lock-in, state-backed espionage, and more &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/240723/p26#a240723p26)
+ - [Meta plans to roll out its AI assistant to Quest in August, limited to US and Canada users in experimental mode, after first coming to Ray-Ban smart glasses &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240723/p25#a240723p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many nerves can be saved](http://9gag.com/gag/aMV94bM)
+ - 😝 [Almost identical](http://9gag.com/gag/awyVg8y)
  - 😝 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
- - 💣 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)
- - 😝 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 💣 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 👉 [A real G](http://9gag.com/gag/aryNm5p)<!-- MEMES:END -->
 
 ---
 

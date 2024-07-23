@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working on a foldable, clamshell design iPhone that could launch as soon as 2026, and has reached out to component suppliers in recent months &lpar;The Information&rpar;](http://www.techmeme.com/240723/p21#a240723p21)
+ - [Declutter your desk with Sharge’s new 100W charging station](https://www.theverge.com/2024/7/23/24204327/sharge-charging-desk-power-usb-c)
  - [The 78 minutes that took down millions of Windows machines](https://www.theverge.com/2024/7/23/24204196/crowdstrike-windows-bsod-faulty-update-microsoft-responses)
- - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)
- - [Helldivers 2 is getting its biggest update very soon](https://www.theverge.com/2024/7/23/24204325/helldivers-2-update-release-date-playstation-arrowhead-studios)
- - [Meta debuts Llama 3.1 405B, the &quot;first frontier-level open source AI model&quot;, as well as new Llama 3.1 70B and 8B models, and says it&#39;s working on Llama 4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p20#a240723p20)
- - [Meta&#39;s New Llama 3.1 AI Model Is Free, Powerful, and Risky](https://www.wired.com/story/meta-ai-llama-3/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold6 and Galaxy Z Flip6 Review: Refined Folds](https://www.wired.com/review/samsung-galaxy-z-fold6-and-galaxy-z-flip6/)
+ - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

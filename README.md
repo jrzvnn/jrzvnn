@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Level AI, maker of AI-powered tools to automate customer service tasks, raised a $39.4M Series C led by Adams Street Partners, taking its total raised to $73.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p43#a240723p43)
  - [Sources: Samsung&#39;s HBM3 chips have been cleared by Nvidia for use in its H20 GPU, developed for the Chinese market; HBM3E chips are still being tested &lpar;Reuters&rpar;](http://www.techmeme.com/240723/p42#a240723p42)
  - [KOSA sponsors urge ‘quick and clean’ Senate vote with less than two weeks until recess](https://www.theverge.com/2024/7/23/24204702/kosa-quick-vote-senate-floor-schumer-blumenthal-blackburn)
  - [Elon Musk is not answering the most important questions about the Tesla robotaxi](https://www.theverge.com/2024/7/23/24204794/tesla-robotaxi-elon-musk-earnings-fmvss-steering-wheel)
- - [Mytra, a startup building autonomous robots for warehouses that can move loads up to 3,000 pounds, launches from stealth with $78M in total funding &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240723/p41#a240723p41)
- - [Alphabet reports Other Bets Q2 revenue of $365M, up from $285M in Q2 2023, a $1.13B loss, up from $813M, and announces a &quot;multiyear&quot; investment of $5B in Waymo &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240723/p40#a240723p40)<!-- TECH:END -->
+ - [Mytra, a startup building autonomous robots for warehouses that can move loads up to 3,000 pounds, launches from stealth with $78M in total funding &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240723/p41#a240723p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

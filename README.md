@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Jeff Williams takes another secret overseas trip, this time to China](https://appleinsider.com/articles/24/07/23/apples-jeff-williams-takes-another-secret-overseas-trip-this-time-to-china?utm_medium=rss)
+ - [Swiss computer hardware maker Logitech reports Q2 revenue up 12% YoY to $4.34B and expects 2024 sales up 1% to 3%, up from 0% to 2% previously forecast &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/240723/p14#a240723p14)
  - [GM says Cruise restarted test operations in three US cities after a vehicle dragged a pedestrian in October 2023, and suspends developing its Cruise Origin cab &lpar;Neal E. Boudette/New York Times&rpar;](http://www.techmeme.com/240723/p13#a240723p13)
  - [The newest Roomba can wash its own mop and will work with Matter](https://www.theverge.com/2024/7/23/24203847/irobot-new-roomba-combo-10-max-robot-vacuum-matter-support)
- - [Google Research and others detail NeuralGCM, a model that combines ML and existing weather forecasting to make a breakthrough in accurate long-range predictions &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240723/p12#a240723p12)
- - [A five-month FCC investigation finds AT&amp;T&#39;s February 2024 outage that lasted 12+ hours blocked 92M+ voice calls and prevented 25K+ attempts to reach 911 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240723/p11#a240723p11)
- - [The EU opens an in-depth investigation into Delivery Hero and its Spanish subsidiary Glovo to determine if they may have illegally colluded with each other &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240723/p10#a240723p10)<!-- TECH:END -->
+ - [Google Research and others detail NeuralGCM, a model that combines ML and existing weather forecasting to make a breakthrough in accurate long-range predictions &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240723/p12#a240723p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

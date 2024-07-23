@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
- - 💣 [Criminal minds solving hard case](http://9gag.com/gag/azxA1yZ)
- - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
- - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
+ - 😝 [Seriously, what&#39;s up with that?](http://9gag.com/gag/a874Eb1)
+ - 😝 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
+ - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 👉 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)<!-- MEMES:END -->
 
 ---
 

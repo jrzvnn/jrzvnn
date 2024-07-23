@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 😝 [Kallen toweling](http://9gag.com/gag/apRL5Nb)
+ - 💣 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
+ - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
+ - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
 
 ---
 

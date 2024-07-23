@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dragos details a sample of Russia-linked malware used in a hack in January 2024 to target a heating utility in Lviv, Ukraine, cutting service to 600 buildings &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240723/p15#a240723p15)
  - [Apple&#39;s Jeff Williams takes another secret overseas trip, this time to China](https://appleinsider.com/articles/24/07/23/apples-jeff-williams-takes-another-secret-overseas-trip-this-time-to-china?utm_medium=rss)
  - [Swiss computer hardware maker Logitech reports Q2 revenue up 12% YoY to $4.34B and expects 2024 sales up 1% to 3%, up from 0% to 2% previously forecast &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/240723/p14#a240723p14)
- - [GM says Cruise restarted test operations in three US cities after a vehicle dragged a pedestrian in October 2023, and suspends developing its Cruise Origin cab &lpar;Neal E. Boudette/New York Times&rpar;](http://www.techmeme.com/240723/p13#a240723p13)
- - [The newest Roomba can wash its own mop and will work with Matter](https://www.theverge.com/2024/7/23/24203847/irobot-new-roomba-combo-10-max-robot-vacuum-matter-support)
- - [Google Research and others detail NeuralGCM, a model that combines ML and existing weather forecasting to make a breakthrough in accurate long-range predictions &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240723/p12#a240723p12)<!-- TECH:END -->
+ - [Asus ROG Ally X Review: Gen 1.5 of Windows Gaming Handhelds](https://www.cnet.com/tech/gaming/asus-rog-ally-x-review-gen-1-5-of-windows-gaming-handhelds/#ftag=CAD590a51e)
+ - [Home Loan Rates Move Down for Borrowers: Current Mortgage Interest Rates on July 23, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-move-down-for-borrowers-current-mortgage-interest-rates-on-july-23-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

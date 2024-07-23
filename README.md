@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 😝 [Always the victim](http://9gag.com/gag/ayN8N5q)
- - 💣 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
- - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
- - 👉 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)<!-- MEMES:END -->
+ - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
+ - 💣 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
+ - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 

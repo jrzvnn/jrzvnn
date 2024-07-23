@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources: Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)
+ - [Scientists hunt for clues about China&#39;s supercomputing progress as Chinese scientists turn secretive and stop participating in the Top500, after US sanctions &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/240723/p4#a240723p4)
+ - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources say Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)
  - [Malaysia plans to require social and messaging apps to register for a renewable license starting late 2024; Singapore asks online platforms to curb scams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240723/p2#a240723p2)
  - [Sources: TikTok plans to launch TikTok Shop in Spain and Ireland as early as October; the rollout will be smaller than previously envisioned amid EU scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p1#a240723p1)
- - [TikTok Lite Leaves up to 1 Billion Users With Fewer Protections](https://www.wired.com/story/tiktok-lite-global-south/)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok Lite Leaves up to 1 Billion Users With Fewer Protections](https://www.wired.com/story/tiktok-lite-global-south/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

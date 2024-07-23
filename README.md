@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 💣 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
- - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 😝 [Proof of life - Biden addresses the nation after his drop out.](http://9gag.com/gag/aKG3EZ1)
+ - 😝 [Women](http://9gag.com/gag/axyDB6W)
+ - 💣 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 😝 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
+ - 👉 [Fish are friends - not food!](http://9gag.com/gag/aqyLjW7)<!-- MEMES:END -->
 
 ---
 

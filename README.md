@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
  - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)
  - [Inside the global computer crash](https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast)
  - [Adobe rolls out new Illustrator features like Generative Shape Fill, powered by Firefly Vector 2, now in public beta, alongside new and updated Photoshop tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240723/p18#a240723p18)
- - [Are you being exploited by AI-powered surveillance pricing?](https://www.theverge.com/2024/7/23/24204011/ftc-surveillance-pricing-investigation-mckinsey-mastercard-chase)
- - [Pick Up Microsoft Visio Professional 2021 for Just $20 While You Still Can](https://www.cnet.com/deals/pick-up-microsoft-visio-professional-2021-for-just-20-while-you-still-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are you being exploited by AI-powered surveillance pricing?](https://www.theverge.com/2024/7/23/24204011/ftc-surveillance-pricing-investigation-mckinsey-mastercard-chase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

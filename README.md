@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silicon Valley Is Coconuts for Kamala Harris](https://www.wired.com/story/silicon-valley-kamala-harris/)
+ - [There’s Another Chance to See the Northern Lights This Week](https://www.wired.com/story/aurora-northern-lights-visible-summer-usa-europe-july-2024/)
  - [Harvey, which is building an AI-powered &quot;copilot&quot; for lawyers, raised a $100M Series C led by GV that values it at $1.5B and brings its total funding to $206M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p29#a240723p29)
  - [Spotify CEO confirms a ‘deluxe’ version with hi-fi audio is coming soon](https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed)
- - [Samsung Galaxy Z Flip 6 Preorder Deals: Last Chance to Score Preorder Discounts](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
- - [dYdX, which is reportedly exploring a sale, says v3, an older version of its DeFi crypto exchange that averages ~$1.5B/week in derivates trading, was hacked &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240723/p28#a240723p28)
- - [Overwatch 2 Season 11: Pick Up the First-Ever Mythic Weapon Today](https://www.cnet.com/tech/gaming/overwatch-2-season-11-pick-up-the-first-ever-mythic-weapon-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 6 Preorder Deals: Last Chance to Score Preorder Discounts](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

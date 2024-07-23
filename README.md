@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An investigation shows how pedophiles groom children using Roblox, a problem exacerbated by Roblox not collecting any personal information beyond a user&#39;s age &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p26#a240722p26)
- - [Cybersecurity startup Wiz walks away from a $23B deal to be acquired by Google; memo: Wiz&#39;s CEO told staff the company would pursue an IPO as originally planned &lpar;CNBC&rpar;](http://www.techmeme.com/240722/p25#a240722p25)
- - [Sources: Amazon lost $25B+ on its devices business between 2017 and 2021 as its plan to sell hardware at a lower price and make money elsewhere hasn&#39;t worked &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p24#a240722p24)
- - [Photos From the Galaxy Z Flip 6&#39;s Cameras](https://www.cnet.com/pictures/photos-from-the-galaxy-z-flip-6s-cameras/#ftag=CAD590a51e)
- - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 23, #142](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-23-142/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 23, #408](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-23-408/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 23, #1130](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-23-1130/#ftag=CAD590a51e)
+ - [Cybersecurity startup Wiz walks away from a $23B deal to be acquired by Google; memo: Wiz&#39;s CEO told staff the company would pursue an IPO as originally planned &lpar;CNBC&rpar;](http://www.techmeme.com/240722/p25#a240722p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

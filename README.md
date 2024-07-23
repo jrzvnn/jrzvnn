@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet reports Other Bets Q2 revenue of $365M, up from $285M in Q2 2023, a $1.13B loss, up from $813M, and announces a &quot;multiyear&quot; investment of $5B in Waymo &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240723/p40#a240723p40)
  - [US spot ether ETFs hit over $1B in trading volume across nine funds, a strong debut, but far from the $4.6B traded during the spot bitcoin ETFs debut in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p39#a240723p39)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [The cheapest Wi-Fi 7 router is this $99 TP-Link one](https://www.theverge.com/2024/7/23/24204616/cheapest-wi-fi-7-router-tp-link-archer-be-3600-easymesh-no-6ghz-band)
- - [Internal messages: Meta staff complained about Threads&#39; algorithm limiting political posts, after the For You page was slow to show news of Biden dropping out &lpar;The Information&rpar;](http://www.techmeme.com/240723/p38#a240723p38)
- - [Deadpool &amp; Wolverine is a desperate Hail Mary](https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu)<!-- TECH:END -->
+ - [Internal messages: Meta staff complained about Threads&#39; algorithm limiting political posts, after the For You page was slow to show news of Biden dropping out &lpar;The Information&rpar;](http://www.techmeme.com/240723/p38#a240723p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

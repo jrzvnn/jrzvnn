@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
- - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 💣 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
- - 😝 [Cute](http://9gag.com/gag/adBXBoM)
- - 👉 [Instant trigger](http://9gag.com/gag/avynyYb)<!-- MEMES:END -->
+ - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 💣 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the turntables](http://9gag.com/gag/aE0npqp)
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 💣 [Cool!](http://9gag.com/gag/apRL9m5)
- - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
- - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
+ - 😝 [Angolan Olympic swimming team](http://9gag.com/gag/an717eE)
+ - 😝 [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
+ - 💣 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)
+ - 😝 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
+ - 👉 [Dear John:](http://9gag.com/gag/aAyPGxZ)<!-- MEMES:END -->
 
 ---
 

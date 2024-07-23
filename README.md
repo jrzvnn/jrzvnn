@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 78 minutes that took down millions of Windows machines](https://www.theverge.com/2024/7/23/24204196/crowdstrike-windows-bsod-faulty-update-microsoft-responses)
  - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)
  - [Helldivers 2 is getting its biggest update very soon](https://www.theverge.com/2024/7/23/24204325/helldivers-2-update-release-date-playstation-arrowhead-studios)
  - [Meta debuts Llama 3.1 405B, the &quot;first frontier-level open source AI model&quot;, as well as new Llama 3.1 70B and 8B models, and says it&#39;s working on Llama 4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p20#a240723p20)
- - [Google Reverses Cookies Closure in Chrome to the Relief of Advertisers](https://www.cnet.com/tech/services-and-software/google-reverses-cookies-closure-in-chrome-to-the-relief-of-advertisers/#ftag=CAD590a51e)
- - [Amazon’s paid Alexa is coming to fill a $25 billion hole dug by Echo devices](https://www.theverge.com/2024/7/23/24204260/amazon-25-billion-losses-echo-devices-alexa-subscription)<!-- TECH:END -->
+ - [Meta&#39;s New Llama 3.1 AI Model Is Free, Powerful, and Risky](https://www.wired.com/story/meta-ai-llama-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

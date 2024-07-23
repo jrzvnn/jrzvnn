@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
+ - [We’re at a make-or-break moment for US climate goals](https://www.theverge.com/2024/7/23/24203766/biden-us-climate-clean-energy-forecast-rhodium)
+ - [Every M3 iMac is on sale this week, with prices dropping to as low as $1,149](https://appleinsider.com/articles/24/07/23/every-m3-imac-is-on-sale-this-week-with-prices-dropping-to-as-low-as-1149?utm_medium=rss)
  - [GM ditches Cruise’s custom-designed driverless car](https://www.theverge.com/2024/7/23/24204251/gm-cruise-suspends-origin-robotaxi-production-chevy-bolt-ev-self-driving)
- - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [CNET Wellness Editors&#39; Top Sleep Accessories for the Summer](https://www.cnet.com/health/sleep/cnet-wellness-editors-top-sleep-accessories-for-the-summer/#ftag=CAD590a51e)
- - [How to Avoid Jet Lag and Fly in Comfort, According to an Olympic Medalist](https://www.cnet.com/health/sleep/how-to-avoid-jet-lag-according-to-an-olympic-medalist/#ftag=CAD590a51e)
- - [Angry Miao’s new $559 mechanical keyboard has Game Boy vibes](https://www.theverge.com/2024/7/23/24204005/angry-miao-am-rgb-65-nintendo-game-boy-mechanical-keyboard-price-specs)<!-- TECH:END -->
+ - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 😝 [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
- - 💣 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)
- - 😝 [Seriously, what&#39;s up with that?](http://9gag.com/gag/a874Eb1)
- - 👉 [System malfunction.](http://9gag.com/gag/aGyDZQG)<!-- MEMES:END -->
+ - 😝 [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 💣 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
+ - 👉 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)<!-- MEMES:END -->
 
 ---
 

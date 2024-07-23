@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Senate Majority Leader Chuck Schumer says the Senate will take up the Kids Online Safety Act this week, signaling there&#39;s enough support among his colleagues &lpar;Benjamin S. Weiss/Courthouse News Service&rpar;](http://www.techmeme.com/240723/p36#a240723p36)
+ - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)
  - [Google Cloud Q2 revenue grew 29% YoY to $10.35B, vs. $10.2B est.; Cloud exceeded $10B in quarterly revenues and $1B in operating profit for the first time &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240723/p35#a240723p35)
  - [Google had a massive quarter thanks to Search and AI](https://www.theverge.com/2024/7/23/24204618/google-search-ai-q2-2024-earnings-results)
- - [YouTube Q2 ad revenue grew 13% YoY to $8.66B, vs. $8.93B est.; Google&#39;s subscriptions, platforms, and devices unit that includes YouTube TV had revenue of $9.3B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p34#a240723p34)
- - [Tesla’s profits sank sharply in the second quarter of 2024](https://www.theverge.com/2024/7/23/24201234/tesla-q2-2024-earnings-robotaxi-ai-cybertruck)
- - [Source: OpenAI has reassigned Aleksander M&amp;aogon;dry, the head of its Preparedness AI safety team, to a role within its research organization focusing on reasoning &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240723/p33#a240723p33)<!-- TECH:END -->
+ - [YouTube Q2 ad revenue grew 13% YoY to $8.66B, vs. $8.93B est.; Google&#39;s subscriptions, platforms, and devices unit that includes YouTube TV had revenue of $9.3B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p34#a240723p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

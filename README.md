@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
- - 💣 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 😝 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
+ - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 💣 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
 
 ---
 

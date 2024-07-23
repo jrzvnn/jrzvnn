@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 😝 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 💣 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
- - 😝 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)
- - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
+ - 😝 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - 😝 [Buzz buzz buzzzzzz](http://9gag.com/gag/aMV9K2V)
+ - 💣 [A real G](http://9gag.com/gag/aryNm5p)
+ - 😝 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 

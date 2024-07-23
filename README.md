@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM ditches Cruise’s custom-designed driverless car](https://www.theverge.com/2024/7/23/24204251/gm-cruise-suspends-origin-robotaxi-production-chevy-bolt-ev-self-driving)
  - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
  - [Angry Miao’s new $559 mechanical keyboard has Game Boy vibes](https://www.theverge.com/2024/7/23/24204005/angry-miao-am-rgb-65-nintendo-game-boy-mechanical-keyboard-price-specs)
  - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)
- - [Inside the global computer crash](https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast)
- - [Adobe rolls out new Illustrator features like Generative Shape Fill, powered by Firefly Vector 2, now in public beta, alongside new and updated Photoshop tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240723/p18#a240723p18)<!-- TECH:END -->
+ - [Inside the global computer crash](https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

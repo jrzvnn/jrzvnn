@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify reports Q2 revenue up 20% YoY to &amp;euro;3.8B, MAUs up 14% YoY to 626M, paid subscribers up 12% YoY to 246M, above 245.2M est., and a &amp;euro;266M operating income &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240723/p9#a240723p9)
+ - [Refi Rates Dip Since Last Week: Today&#39;s Refinance Rates, July 23, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-dip-since-last-week-todays-refinance-rates-july-23-2024/#ftag=CAD590a51e)
  - [Mozilla and AI Forensics: TikTok Lite, launched in 2018 and aimed at poorer markets, leaves AI-generated content unlabeled and lacks other similar safeguards &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240723/p8#a240723p8)
- - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)
- - [India plans to cut import duty on mobile phones and some key parts to 15% from 20%, a move that will directly benefit Apple, as part of its 2024/25 budget &lpar;Reuters&rpar;](http://www.techmeme.com/240723/p6#a240723p6)
- - [NXP Semiconductors reports Q2 revenue down 5% YoY to $3.13B, automotive chip sales down 7% YoY, and forecasts Q3 revenue below $3.35B est.; NXPI drops 9%+ &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240723/p5#a240723p5)
- - [Connect Any Bluetooth Headphones to In-Flight Entertainment With This $55 Device](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Little Dial Is My Favorite Way to Control My Smart Lights](https://www.cnet.com/how-to/this-little-dial-is-my-favorite-way-to-control-my-smart-lights/#ftag=CAD590a51e)
+ - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify CEO confirms a ‘deluxe’ version with hi-fi audio is coming soon](https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed)
  - [dYdX, which is reportedly exploring a sale, says v3, an older version of its DeFi crypto exchange that averages ~$1.5B/week in derivates trading, was hacked &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240723/p28#a240723p28)
  - [X website reverts water pistol emoji to realistic gun](https://appleinsider.com/articles/24/07/23/x-website-reverts-water-pistol-emoji-to-realistic-gun?utm_medium=rss)
  - [Wooting joins Razer with a speedy new keyboard feature for PC gaming](https://www.theverge.com/2024/7/23/24204422/wooting-razer-snap-tap-socd-beta-feature)
- - [Apple issues release candidates of current-gen OS updates](https://appleinsider.com/articles/24/07/23/apple-issues-release-candidates-of-current-gen-os-updates?utm_medium=rss)
- - [A staffer at Activision Blizzard, which had layoffs in 2024 affecting many 2D artists, says some remaining artists were &quot;forced to use AI to aid in their work&quot; &lpar;Brian Merchant/Wired&rpar;](http://www.techmeme.com/240723/p27#a240723p27)<!-- TECH:END -->
+ - [Apple issues release candidates of current-gen OS updates](https://appleinsider.com/articles/24/07/23/apple-issues-release-candidates-of-current-gen-os-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

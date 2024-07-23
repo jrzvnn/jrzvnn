@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Google-Wiz deal failed, in part, due to antitrust fears and CrowdStrike&#39;s outage, which increased the potential value of cloud security companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p37#a240723p37)
- - [Lake Vrangla immersive environment appears for all Apple Vision Pro users](https://appleinsider.com/articles/24/07/23/lake-vrangla-immersive-environment-appears-for-all-apple-vision-pro-users?utm_medium=rss)
- - [US Senate Majority Leader Chuck Schumer says the Senate will take up the Kids Online Safety Act this week, signaling there&#39;s enough support among his colleagues &lpar;Benjamin S. Weiss/Courthouse News Service&rpar;](http://www.techmeme.com/240723/p36#a240723p36)
- - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)
- - [The Time Is Right for a Folding iPhone](https://www.wired.com/story/apple-folding-iphone-right-move-at-the-right-time/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [The cheapest Wi-Fi 7 router is this $99 TP-Link one](https://www.theverge.com/2024/7/23/24204616/cheapest-wi-fi-7-router-tp-link-archer-be-3600-easymesh-no-6ghz-band)
+ - [Internal messages: Meta staff complained about Threads&#39; algorithm limiting political posts, after the For You page was slow to show news of Biden dropping out &lpar;The Information&rpar;](http://www.techmeme.com/240723/p38#a240723p38)
+ - [Deadpool &amp; Wolverine is a desperate Hail Mary](https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu)
+ - [Sources: the Google-Wiz deal failed, in part, due to antitrust fears and CrowdStrike&#39;s outage, which increased the potential value of cloud security companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p37#a240723p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

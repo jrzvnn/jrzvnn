@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
  - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
  - 💣 [Cool!](http://9gag.com/gag/apRL9m5)
  - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
+ - 👉 [Cute](http://9gag.com/gag/adBXBoM)<!-- MEMES:END -->
 
 ---
 

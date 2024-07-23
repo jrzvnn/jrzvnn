@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 😝 [So edgy, men are marrying Asian women instead of entitled Western Women.](http://9gag.com/gag/amozoNX)
- - 💣 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
- - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
- - 👉 [Always the victim](http://9gag.com/gag/ayN8N5q)<!-- MEMES:END -->
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 💣 [Criminal minds solving hard case](http://9gag.com/gag/azxA1yZ)
+ - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM says Cruise restarted test operations in three US cities after a vehicle dragged a pedestrian in October 2023, and suspends developing its Cruise Origin cab &lpar;Neal E. Boudette/New York Times&rpar;](http://www.techmeme.com/240723/p13#a240723p13)
+ - [The newest Roomba can wash its own mop and will work with Matter](https://www.theverge.com/2024/7/23/24203847/irobot-new-roomba-combo-10-max-robot-vacuum-matter-support)
  - [Google Research and others detail NeuralGCM, a model that combines ML and existing weather forecasting to make a breakthrough in accurate long-range predictions &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240723/p12#a240723p12)
  - [A five-month FCC investigation finds AT&amp;T&#39;s February 2024 outage that lasted 12+ hours blocked 92M+ voice calls and prevented 25K+ attempts to reach 911 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240723/p11#a240723p11)
- - [The EU opens an in-depth investigation into Delivery Hero and its Spanish subsidiary Glovo to determine if they may have illegally colluded with each other &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240723/p10#a240723p10)
- - [Spotify reports Q2 revenue up 20% YoY to &amp;euro;3.8B, MAUs up 14% YoY to 626M, paid subscribers up 12% YoY to 246M, above 245.2M est., and a &amp;euro;266M operating income &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240723/p9#a240723p9)
- - [Refi Rates Dip Since Last Week: Today&#39;s Refinance Rates, July 23, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-dip-since-last-week-todays-refinance-rates-july-23-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU opens an in-depth investigation into Delivery Hero and its Spanish subsidiary Glovo to determine if they may have illegally colluded with each other &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240723/p10#a240723p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

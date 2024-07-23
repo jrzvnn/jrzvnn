@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 😝 [House in the Philippines attach a sprinkler in their rooftop to beat the heat](http://9gag.com/gag/aD2Gg8K)
- - 💣 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 👉 [From which movie is this scene from?](http://9gag.com/gag/aVve7Ww)<!-- MEMES:END -->
+ - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 💣 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 👉 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)<!-- MEMES:END -->
 
 ---
 

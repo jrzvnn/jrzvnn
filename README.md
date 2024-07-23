@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A real G](http://9gag.com/gag/aryNm5p)
- - 😝 [Buzz buzz buzzzzzz](http://9gag.com/gag/aMV9K2V)
- - 💣 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
- - 😝 [The guy speeds up and discovers something unusual](http://9gag.com/gag/aW4M4Kq)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 😝 [Instant trigger](http://9gag.com/gag/avynyYb)
+ - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 💣 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
+ - 😝 [That&#39;s how nature works](http://9gag.com/gag/aKG3GbN)
+ - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
 
 ---
 

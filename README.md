@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bikini bottom](http://9gag.com/gag/a87412d)
- - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
- - 💣 [Instant trigger](http://9gag.com/gag/avynyYb)
- - 😝 [Cute](http://9gag.com/gag/adBXBoM)
- - 👉 [Old enough to kill, to young for alcohol.](http://9gag.com/gag/a5QrV5r)<!-- MEMES:END -->
+ - 😝 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 💣 [Faulty Processors](http://9gag.com/gag/aYQLGPO)
+ - 😝 [Almost identical](http://9gag.com/gag/awyVg8y)
+ - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 ---
 

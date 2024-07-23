@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon lost $25B+ on its devices business between 2017 and 2021 as its plan to sell hardware at a lower price and make money elsewhere hasn&#39;t worked &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p24#a240722p24)
  - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)
  - [Tech billionaires can’t build their ‘California Forever’ city yet](https://www.theverge.com/2024/7/22/24203960/california-forever-billionaire-city-environmental-impact-study)
- - [Reeling from CrowdStrike-related outages, Delta has canceled 4,000+ flights since Friday, including 900+ flights on Monday so far, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240722/p22#a240722p22)
- - [AMD President Victor Peng, who rejoined the chipmaker in 2022 following its acquisition of Xilinx, where he served as CEO, plans to retire on August 30, 2024 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240722/p21#a240722p21)
- - [Memes and Jokes Find the Funny Side of &#39;International Blue Screen Day&#39;](https://www.cnet.com/tech/services-and-software/microsoft-memes-celebrate-happy-international-blue-screen-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked Lego Fortnite Sets Show Battle Bus, Loot Llama and More](https://www.cnet.com/tech/gaming/leaked-lego-fortnite-sets-show-battle-bus-loot-llama-and-more/#ftag=CAD590a51e)
+ - [Reeling from CrowdStrike-related outages, Delta has canceled 4,000+ flights since Friday, including 900+ flights on Monday so far, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240722/p22#a240722p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

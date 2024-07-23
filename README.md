@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Apple Vision Pro update could let users create their own gestures](https://appleinsider.com/articles/24/07/23/future-apple-vision-pro-update-could-let-users-create-their-own-gestures?utm_medium=rss)
+ - [Netflix last week said it&#39;s developing 80 games, most are &quot;interactive narrative games&quot; based on its IP, and will debut one per month; Netflix offers 100+ games &lpar;Chris Morris/Fortune&rpar;](http://www.techmeme.com/240723/p22#a240723p22)
+ - [Microsoft is bringing Call of Duty: Modern Warfare III to Xbox Game Pass](https://www.theverge.com/2024/7/23/24195537/call-of-duty-xbox-game-pass-modern-warfare-3)
  - [Sources: Apple is working on a foldable, clamshell design iPhone that could launch as soon as 2026, and has reached out to component suppliers in recent months &lpar;The Information&rpar;](http://www.techmeme.com/240723/p21#a240723p21)
- - [Declutter your desk with Sharge’s new 100W charging station](https://www.theverge.com/2024/7/23/24204327/sharge-charging-desk-power-usb-c)
- - [The 78 minutes that took down millions of Windows machines](https://www.theverge.com/2024/7/23/24204196/crowdstrike-windows-bsod-faulty-update-microsoft-responses)
- - [Samsung Galaxy Z Fold6 and Galaxy Z Flip6 Review: Refined Folds](https://www.wired.com/review/samsung-galaxy-z-fold6-and-galaxy-z-flip6/)
- - [Apple&#39;s iPhone Fold could now launch in 2026](https://appleinsider.com/articles/24/07/23/apples-iphone-fold-could-now-launch-in-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Declutter your desk with Sharge’s new 100W charging station](https://www.theverge.com/2024/7/23/24204327/sharge-charging-desk-power-usb-c)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

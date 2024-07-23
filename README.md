@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Vision Pro update could let users create their own gestures](https://appleinsider.com/articles/24/07/23/future-apple-vision-pro-update-could-let-users-create-their-own-gestures?utm_medium=rss)
- - [Netflix last week said it&#39;s developing 80 games, most are &quot;interactive narrative games&quot; based on its IP, and will debut one per month; Netflix offers 100+ games &lpar;Chris Morris/Fortune&rpar;](http://www.techmeme.com/240723/p22#a240723p22)
- - [Microsoft is bringing Call of Duty: Modern Warfare III to Xbox Game Pass](https://www.theverge.com/2024/7/23/24195537/call-of-duty-xbox-game-pass-modern-warfare-3)
- - [Sources: Apple is working on a foldable, clamshell design iPhone that could launch as soon as 2026, and has reached out to component suppliers in recent months &lpar;The Information&rpar;](http://www.techmeme.com/240723/p21#a240723p21)
- - [Declutter your desk with Sharge’s new 100W charging station](https://www.theverge.com/2024/7/23/24204327/sharge-charging-desk-power-usb-c)<!-- TECH:END -->
+ - [The FTC seeks info from Mastercard, JPMorgan, and six other companies related to their &quot;surveillance pricing products&quot; that use personal data, AI, and more &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240723/p24#a240723p24)
+ - [Apple’s first foldable iPhone could arrive in 2026](https://www.theverge.com/2024/7/23/24204421/apple-first-foldable-iphone-arrive-2026)
+ - [Netflix has a new gaming boss after hiring former Epic exec](https://www.theverge.com/2024/7/23/24204447/netflix-president-of-games-alain-tascan)
+ - [Meta VP Rob Sherman confirms a report that Meta received an EU request to pause future AI model training on data in the EU, and says the EU may get left behind &lpar;Financial Times&rpar;](http://www.techmeme.com/240723/p23#a240723p23)
+ - [Future Apple Vision Pro update could let users create their own gestures](https://appleinsider.com/articles/24/07/23/future-apple-vision-pro-update-could-let-users-create-their-own-gestures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

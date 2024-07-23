@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to write a strong female character without making a man-hating, know-it-all, Mary Sue 101:](http://9gag.com/gag/abAZebX)
- - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
- - 💣 [Need more memes and less propaganda](http://9gag.com/gag/aMV94nx)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/adBXvXM)
- - 👉 [Bikini bottom](http://9gag.com/gag/a87412d)<!-- MEMES:END -->
+ - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 💣 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 😝 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
+ - 👉 [Instant trigger](http://9gag.com/gag/avynyYb)<!-- MEMES:END -->
 
 ---
 

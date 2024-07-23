@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Wiz rejects Google’s $23 billion takeover in favor of IPO](https://www.theverge.com/2024/7/23/24204198/google-wiz-acquisition-called-off-23-billion-cloud-cybersecurity)
  - [Scientists hunt for clues about China&#39;s supercomputing progress as Chinese scientists turn secretive and stop participating in the Top500, after US sanctions &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/240723/p4#a240723p4)
- - [Here&#39;s How Much Experts Predict Your Social Security Check Will Increase in 2025](https://www.cnet.com/personal-finance/heres-how-much-experts-predict-your-social-security-check-will-increase-in-2025/#ftag=CAD590a51e)
- - [SSDI July 2024: This Is When You&#39;ll Get Your Money](https://www.cnet.com/personal-finance/ssdi-july-2024-this-is-when-youll-get-your-money/#ftag=CAD590a51e)
- - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources say Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)<!-- TECH:END -->
+ - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources say Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)
+ - [Malaysia plans to require social and messaging apps to register for a renewable license starting late 2024; Singapore asks online platforms to curb scams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240723/p2#a240723p2)
+ - [Sources: TikTok plans to launch TikTok Shop in Spain and Ireland as early as October; the rollout will be smaller than previously envisioned amid EU scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p1#a240723p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

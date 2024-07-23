@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 💣 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 😝 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
- - 👉 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)<!-- MEMES:END -->
+ - 😝 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
+ - 😝 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
+ - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 😝 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
 
 ---
 

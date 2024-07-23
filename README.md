@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [dYdX, which is reportedly exploring a sale, says v3, an older version of its DeFi crypto exchange that averages ~$1.5B/week in derivates trading, was hacked &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240723/p28#a240723p28)
  - [X website reverts water pistol emoji to realistic gun](https://appleinsider.com/articles/24/07/23/x-website-reverts-water-pistol-emoji-to-realistic-gun?utm_medium=rss)
  - [Wooting joins Razer with a speedy new keyboard feature for PC gaming](https://www.theverge.com/2024/7/23/24204422/wooting-razer-snap-tap-socd-beta-feature)
  - [Apple issues release candidates of current-gen OS updates](https://appleinsider.com/articles/24/07/23/apple-issues-release-candidates-of-current-gen-os-updates?utm_medium=rss)
- - [A staffer at Activision Blizzard, which had layoffs in 2024 affecting many 2D artists, says some remaining artists were &quot;forced to use AI to aid in their work&quot; &lpar;Brian Merchant/Wired&rpar;](http://www.techmeme.com/240723/p27#a240723p27)
- - [Apple seeds fourth developer betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/23/apple-seeds-fourth-developer-betas-of-ios-18-ipados-18-tvos-18-watchos-11-visionos-2?utm_medium=rss)<!-- TECH:END -->
+ - [A staffer at Activision Blizzard, which had layoffs in 2024 affecting many 2D artists, says some remaining artists were &quot;forced to use AI to aid in their work&quot; &lpar;Brian Merchant/Wired&rpar;](http://www.techmeme.com/240723/p27#a240723p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

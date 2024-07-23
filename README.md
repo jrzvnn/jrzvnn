@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KOSA sponsors urge ‘quick and clean’ Senate vote with less than two weeks until recess](https://www.theverge.com/2024/7/23/24204702/kosa-quick-vote-senate-floor-schumer-blumenthal-blackburn)
  - [Elon Musk is not answering the most important questions about the Tesla robotaxi](https://www.theverge.com/2024/7/23/24204794/tesla-robotaxi-elon-musk-earnings-fmvss-steering-wheel)
  - [Mytra, a startup building autonomous robots for warehouses that can move loads up to 3,000 pounds, launches from stealth with $78M in total funding &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240723/p41#a240723p41)
  - [Alphabet reports Other Bets Q2 revenue of $365M, up from $285M in Q2 2023, a $1.13B loss, up from $813M, and announces a &quot;multiyear&quot; investment of $5B in Waymo &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240723/p40#a240723p40)
- - [US spot ether ETFs hit over $1B in trading volume across nine funds, a strong debut, but far from the $4.6B traded during the spot bitcoin ETFs debut in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p39#a240723p39)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [US spot ether ETFs hit over $1B in trading volume across nine funds, a strong debut, but far from the $4.6B traded during the spot bitcoin ETFs debut in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p39#a240723p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

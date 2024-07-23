@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant trigger](http://9gag.com/gag/avynyYb)
- - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
- - 💣 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
- - 😝 [That&#39;s how nature works](http://9gag.com/gag/aKG3GbN)
- - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
+ - 😝 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
+ - 😝 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 💣 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
+ - 😝 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)
+ - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
 
 ---
 

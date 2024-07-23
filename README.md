@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe rolls out more generative AI features to Illustrator and Photoshop](https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features)
  - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
  - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)
  - [Lenovo Yoga Slim 7x Copilot+ PC Review: Great Price to Performance](https://www.wired.com/review/lenovo-yoga-slim-7x-copilot-pc/)
- - [The soon-to-be-released Motorola Razr Plus flip phone is already $100 off](https://www.theverge.com/2024/7/23/24203564/amazon-motorola-razr-plus-apple-homepod-mini-deal-sale)
- - [Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240723/p17#a240723p17)<!-- TECH:END -->
+ - [The soon-to-be-released Motorola Razr Plus flip phone is already $100 off](https://www.theverge.com/2024/7/23/24203564/amazon-motorola-razr-plus-apple-homepod-mini-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

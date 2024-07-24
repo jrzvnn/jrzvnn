@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch is cracking down on sexual harassment in chats](https://www.theverge.com/2024/7/24/24205070/twitch-sexual-harassment-policy-moderation-filters-automod)
- - [LA-based Pearl, an FDA-approved startup that uses AI to assist dentists to make diagnoses, raised a $58M Series B led by Left Lane Capital at a $400M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240724/p14#a240724p14)
- - [Samsung again rumored to be battling Sony for future iPhone camera business](https://appleinsider.com/articles/24/07/24/samsung-again-rumored-to-be-battling-sony-for-future-iphone-sensor-business?utm_medium=rss)
- - [How to use iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
- - [Ferrari plans to accept crypto payments for its cars at European dealers from the start of August, and internationally by the end of 2024, expanding on the US &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/240724/p13#a240724p13)<!-- TECH:END -->
+ - [Twitch introduces new policy and moderation updates to curb sexual harassment, including making its policy &quot;easier to understand&quot; and adding moderation tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240724/p16#a240724p16)
+ - [Apple Intelligence may get ability to create Apple Music playlist art](https://appleinsider.com/articles/24/07/24/apple-intelligence-may-get-ability-to-create-apple-music-playlist-art?utm_medium=rss)
+ - [The Overture Maps Foundation, backed by Microsoft, Amazon, Meta, and others, releases four global open maps datasets; transportation remains in beta &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240724/p15#a240724p15)
+ - [My Parents&#39; Health Worried Me. An Apple Watch Fixed That and More](https://www.cnet.com/tech/mobile/my-parents-health-worried-me-an-apple-watch-fixed-that-and-more/#ftag=CAD590a51e)
+ - [How to Stock Your Fridge So Food Lasts Longer, According to an Expert](https://www.cnet.com/how-to/how-to-stock-your-fridge-so-food-lasts-longer-according-to-an-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Copilot customers say the AI assistants are no plug-and-play offering and involve feeding Copilot data; the Copilots excel at distilling information &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240724/p22#a240724p22)
+ - [The Highly Infectious FLiRT Variants Behind the Summer Covid Wave](https://www.wired.com/story/flirt-variants-covid-wave-surge-coronavirus-japan-usa/)
+ - [How to Watch the 2024 Summer Olympics](https://www.wired.com/story/how-to-watch-2024-summer-olympics-paris-streaming/)
  - [The Sonos Ace headphones are seeing their first discount at $40 off](https://www.theverge.com/good-deals/2024/7/24/24204696/sonos-ace-anc-headphones-logitech-g-powerplay-mousepad-deal-sale)
- - [The US NCSC warns US tech startups that &quot;foreign threat actors&quot;, including China, might use private investment to exploit them and threaten national security &lpar;Financial Times&rpar;](http://www.techmeme.com/240724/p21#a240724p21)
- - [Delta Says It&#39;s Almost Back to Normal Following Global IT Outage](https://www.cnet.com/tech/services-and-software/global-it-outage-continues-to-delay-thousands-of-travelers/#ftag=CAD590a51e)
- - [Max: The 23 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/max-the-23-absolute-best-tv-shows-to-watch-july-2024/#ftag=CAD590a51e)
- - [PlushBeds Botanical Bliss Mattress Review 2024: A Luxurious Latex Foam Bed Tested by Experts](https://www.cnet.com/health/sleep/plushbeds-botanical-bliss-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coupon Code: 15% off SHED RAIN Umbrellas](https://www.wired.com/story/coupon-save-15-off-shed-rain-umbrellas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

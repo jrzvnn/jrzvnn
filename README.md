@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airtable launches Cobuilder, which can generate apps from text prompts and match them to relevant data and customer information already stored within Airtable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240724/p26#a240724p26)
  - [Meta cracks down on ‘Yahoo Boys’ and thousands of sextortion accounts](https://www.theverge.com/2024/7/24/24205236/meta-nigeria-financial-sextortion-scam)
  - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
  - [Reddit is now blocking major search engines and AI bots — except the ones that pay](https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google)
- - [Olympic drone spying scandal lands Canadian coach a red card](https://www.theverge.com/2024/7/24/24205155/drones-olympics-soccer-canada-spying)
- - [Chrome adds new warnings and cloud scanning for suspicious downloads](https://www.theverge.com/2024/7/24/24205249/google-chrome-download-malicious-file-cloud-malware-scanning)<!-- TECH:END -->
+ - [What is EQ?: How to Improve the Sound of Your Headphones](https://www.cnet.com/tech/mobile/what-is-eq-how-to-improve-the-sound-of-your-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

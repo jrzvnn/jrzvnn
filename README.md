@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn...](http://9gag.com/gag/aD2G2xB)
- - 😝 [Congresswoman Lisa McClain confronts Secret Service Director Cheatle about the lack of transparency regarding the Trump shooting incident. She demands answers on the number of shell casings and criticizes Cheatle for not sharing crucial information.](http://9gag.com/gag/azxA2Yz)
- - 💣 [Almost identical](http://9gag.com/gag/awyVg8y)
- - 😝 [Climate activists attempt to block car on the highway](http://9gag.com/gag/amozgMo)
- - 👉 [Bamboozled](http://9gag.com/gag/a2v57xd)<!-- MEMES:END -->
+ - 😝 [Instant trigger](http://9gag.com/gag/avynyYb)
+ - 😝 [Spooder collects wata](http://9gag.com/gag/a874A2Y)
+ - 💣 [Still warm](http://9gag.com/gag/aW4MGb3)
+ - 😝 [Old enough to kill, to young for alcohol.](http://9gag.com/gag/a5QrV5r)
+ - 👉 [Bikini bottom](http://9gag.com/gag/a87412d)<!-- MEMES:END -->
 
 ---
 

@@ -171,8 +171,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
  - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
  - 💣 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
- - 😝 [Climate activists attempt to block car on the highway](http://9gag.com/gag/amozgMo)
- - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
+ - 😝 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)
+ - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
 
 ---
 

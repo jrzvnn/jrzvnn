@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost identical](http://9gag.com/gag/awyVg8y)
- - 😝 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
- - 💣 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 😝 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
- - 👉 [A real G](http://9gag.com/gag/aryNm5p)<!-- MEMES:END -->
+ - 😝 [Damn...](http://9gag.com/gag/aD2G2xB)
+ - 😝 [Congresswoman Lisa McClain confronts Secret Service Director Cheatle about the lack of transparency regarding the Trump shooting incident. She demands answers on the number of shell casings and criticizes Cheatle for not sharing crucial information.](http://9gag.com/gag/azxA2Yz)
+ - 💣 [Almost identical](http://9gag.com/gag/awyVg8y)
+ - 😝 [Climate activists attempt to block car on the highway](http://9gag.com/gag/amozgMo)
+ - 👉 [Bamboozled](http://9gag.com/gag/a2v57xd)<!-- MEMES:END -->
 
 ---
 

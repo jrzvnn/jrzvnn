@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 💣 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
- - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
+ - 😝 [Bikini bottom](http://9gag.com/gag/a87412d)
+ - 😝 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)
+ - 💣 [Olympics getting to a good start](http://9gag.com/gag/ajPD1Oq)
+ - 😝 [Fixed](http://9gag.com/gag/aZZp1qQ)
+ - 👉 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)<!-- MEMES:END -->
 
 ---
 

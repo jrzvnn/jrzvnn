@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
- - 😝 [Ok bye](http://9gag.com/gag/a6ZQXxq)
- - 💣 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 😝 [Faulty Processors](http://9gag.com/gag/aYQLGPO)
- - 👉 [Here meat on a stick](http://9gag.com/gag/aqyL8oQ)<!-- MEMES:END -->
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 😝 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
+ - 💣 [A real G](http://9gag.com/gag/aryNm5p)
+ - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 👉 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)<!-- MEMES:END -->
 
 ---
 

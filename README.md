@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung again rumored to be battling Sony for future iPhone camera business](https://appleinsider.com/articles/24/07/24/samsung-again-rumored-to-be-battling-sony-for-future-iphone-sensor-business?utm_medium=rss)
  - [Kamala Harris took a leading White House role on AI, including meeting executives, and a win could mean a continued relatively smooth runway for AI companies &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p12#a240724p12)
+ - [This Machine Exposes Privacy Violations](https://www.wired.com/story/webxray-online-privacy-violations/)
  - [Spain launches antitrust investigation over Apple&#39;s App Store practices](https://appleinsider.com/articles/24/07/24/spain-launches-antitrust-investigation-over-apples-app-store-practices?utm_medium=rss)
- - [Google&#39;s failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a big payday &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240724/p11#a240724p11)
- - [iOS 18 Beta Cheat Sheet: An Expert&#39;s Guide to Exploring New iPhone Features](https://www.cnet.com/tech/services-and-software/ios-18-beta-cheat-sheet-an-experts-guide-for-exploring-new-iphone-features/#ftag=CAD590a51e)
- - [Apple&#39;s RCS Texting Starts Improving Green Bubble Chats With iOS 18 Beta](https://www.cnet.com/tech/mobile/apples-rcs-texting-starts-improving-green-bubble-chats-with-ios-18-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a big payday &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240724/p11#a240724p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

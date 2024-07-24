@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold6 review: very good battery life, easy multitasking, and seven years of updates, but narrow cover screen, bulky, heavy, and expensive &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240724/p20#a240724p20)
+ - [Android switchers boost iPhone Sales -- but not for the iPhone 15](https://appleinsider.com/articles/24/07/24/android-switchers-boost-iphone-sales----but-not-for-the-iphone-15?utm_medium=rss)
  - [Law enforcement officials and experts: criminal groups are shying away from large ransomware-as-a-service platforms after disruption operations and an exit scam &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240724/p19#a240724p19)
  - [The Samsung Galaxy Z Fold 6 is a great phone that’s out of ideas](https://www.theverge.com/24204714/samsung-galaxy-z-fold-6-review-screen-battery-camera)
- - [Google updates the Play Store on Android to add categorized &quot;collections&quot; to show installed app content, expands Play Pass, and adds curated comics in Japan &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240724/p18#a240724p18)
- - [iPhone 17 cameras may get variable aperture for better bokeh](https://appleinsider.com/articles/24/07/24/iphone-17-cameras-may-get-variable-aperture-for-better-bokeh?utm_medium=rss)
- - [OnePlus Buds 3 Hit $80 at Amazon Today, the Lowest We&#39;ve Ever Seen](https://www.cnet.com/deals/oneplus-buds-3-hit-80-at-amazon-today-the-lowest-weve-ever-seen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google updates the Play Store on Android to add categorized &quot;collections&quot; to show installed app content, expands Play Pass, and adds curated comics in Japan &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240724/p18#a240724p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

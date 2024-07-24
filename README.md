@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
- - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
+ - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - 😝 [Ok bye](http://9gag.com/gag/a6ZQXxq)
  - 💣 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 👉 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)<!-- MEMES:END -->
+ - 😝 [Faulty Processors](http://9gag.com/gag/aYQLGPO)
+ - 👉 [Here meat on a stick](http://9gag.com/gag/aqyL8oQ)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
  - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [A real G](http://9gag.com/gag/aryNm5p)
- - 💣 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)
- - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
- - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
+ - 💣 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - 😝 [Missing child support](http://9gag.com/gag/a4Pj15Z)
+ - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---
 

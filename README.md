@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you don&#39;t reply all &lpar;The email went to the entire San Francisco DA office. He was fired the same day and is now suing for wrongful termination&rpar;.](http://9gag.com/gag/aYQLV4x)
- - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
- - 💣 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 😝 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 💣 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
+ - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
+ - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
 
 ---
 

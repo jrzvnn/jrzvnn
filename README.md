@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Maps launches on the web to take on Google](https://www.theverge.com/2024/7/24/24205449/apple-maps-web-beta)
+ - [Kamala Harris hasn’t said a lot about tech policy, but here’s what we know](https://www.theverge.com/24205360/kamala-harris-tech-policy-explainer-democratic-presidential-election)
  - [Herman Miller now offers plant-based leather on its iconic lounge chair](https://www.theverge.com/2024/7/24/24205295/herman-miller-eames-lounge-chair-ottoman-vegan-plant-leather)
  - [Reddit appears to be blocking search engines that don&#39;t rely on Google&#39;s indexing; Bing, DuckDuckGo, and others are not showing recent results from Reddit &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240724/p29#a240724p29)
- - [Ninja 4QT Air Fryer](https://www.cnet.com/home/kitchen-and-household/ninja-4qt-air-fryer-dpnl/#ftag=CAD590a51e)
- - [Baby Training Potty](https://www.cnet.com/health/parenting/baby-training-potty-dpnl/#ftag=CAD590a51e)
- - [Atos appoints its chairman Jean Pierre Mustier as CEO to replace departing boss Paul Saleh, in its fifth top management reshuffle in less than two years &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p28#a240724p28)<!-- TECH:END -->
+ - [Ninja 4QT Air Fryer](https://www.cnet.com/home/kitchen-and-household/ninja-4qt-air-fryer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

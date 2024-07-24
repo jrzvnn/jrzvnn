@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has reportedly dropped Qualcomm modems on two 2025 iPhones](https://appleinsider.com/articles/24/07/24/apple-has-reportedly-dropped-qualcomm-modems-on-two-2025-iphones?utm_medium=rss)
  - [iPhone 17 again said to kill off plus size in favor of iPhone slim](https://appleinsider.com/articles/24/07/24/iphone-17-again-said-to-kill-off-plus-size-in-favor-of-iphone-slim?utm_medium=rss)
  - [Researchers suggest using &quot;synthetic&quot; data, created by AI systems to train AI systems, could lead to the rapid degradation of AI models and a collapse over time &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240724/p24#a240724p24)
  - [Samsung Galaxy Watch Ultra Review: Blood Sugar Index and Navigation Features](https://www.wired.com/review/samsung-galaxy-watch-ultra/)
- - [Best Buy is blowing out M2 iPad Pro inventory with savings up to $600 off](https://appleinsider.com/articles/24/07/24/best-buy-is-blowing-out-m2-ipad-pro-inventory-with-savings-up-to-600-off?utm_medium=rss)
- - [Stability AI unveils Stable Video 4D, a model based on the existing Stable Video Diffusion model to take video input and generate videos from eight perspectives &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240724/p23#a240724p23)<!-- TECH:END -->
+ - [Best Buy is blowing out M2 iPad Pro inventory with savings up to $600 off](https://appleinsider.com/articles/24/07/24/best-buy-is-blowing-out-m2-ipad-pro-inventory-with-savings-up-to-600-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

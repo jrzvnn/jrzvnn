@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atos appoints its chairman Jean Pierre Mustier as CEO to replace departing boss Paul Saleh, in its fifth top management reshuffle in less than two years &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p28#a240724p28)
  - [The Senate passed a bill cracking down on sexually explicit deepfakes](https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes)
  - [Insurer Parametrix estimates that the global outage sparked by CrowdStrike&#39;s faulty update will cost US Fortune 500 companies, excluding Microsoft, $5.4B &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240724/p27#a240724p27)
  - [Apple may use Samsung for iPhone cameras, ending longtime Sony run](https://www.theverge.com/2024/7/24/24205167/apple-iphone-camera-supplier-samsung-camera-sensor-ultra-wide-sony)
- - [iPhone torrenting apps are now available in the EU](https://www.theverge.com/2024/7/24/24205036/iphone-ios-torrenting-apps-eu-altstore-pal)
- - [Unisex Nursery Center](https://www.cnet.com/health/parenting/unisex-nursery-center-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone torrenting apps are now available in the EU](https://www.theverge.com/2024/7/24/24205036/iphone-ios-torrenting-apps-eu-altstore-pal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
+ - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
  - [World of Warcraft developers form Blizzard’s largest and most inclusive union](https://www.theverge.com/2024/7/24/24205366/world-of-warcraft-developers-form-union-blizzard-entertainment)
  - [The incredible shrinking, stretching iPhone](https://www.theverge.com/2024/7/24/24205325/slim-iphone-17-rumor-plus-mini)
- - [Mistral announces Mistral Large 2, the new generation of its flagship model, with 123B parameters; commercial usage requires a separate license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240724/p30#a240724p30)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Apple Maps launches on the web to take on Google](https://www.theverge.com/2024/7/24/24205449/apple-maps-web-beta)<!-- TECH:END -->
+ - [The Mysterious Discovery of ‘Dark Oxygen’ on the Ocean Floor](https://www.wired.com/story/dark-oxygen-deep-sea-polymetallic-nodules-discovery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

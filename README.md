@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need more memes and less propaganda](http://9gag.com/gag/aMV94nx)
- - 😝 [Cute](http://9gag.com/gag/adBXBoM)
- - 💣 [Bikini bottom](http://9gag.com/gag/a87412d)
- - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
- - 👉 [Spooder collects wata](http://9gag.com/gag/a874A2Y)<!-- MEMES:END -->
+ - 😝 [.................](http://9gag.com/gag/a9yY6EK)
+ - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
+ - 💣 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - 😝 [Climate activists attempt to block car on the highway](http://9gag.com/gag/amozgMo)
+ - 👉 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)<!-- MEMES:END -->
 
 ---
 

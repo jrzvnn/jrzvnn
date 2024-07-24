@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches Apple Maps on the web in beta, available in English and compatible with Safari and Chrome on Mac and iPad, and Chrome and Edge on Windows PCs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240724/p31#a240724p31)
+ - [AMD is slightly delaying its Ryzen 9000 desktop CPUs ‘out of an abundance of caution’](https://www.theverge.com/2024/7/24/24205416/amd-zen-5-ryzen-9000-desktop-delay)
  - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
  - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [World of Warcraft developers form Blizzard’s largest and most inclusive union](https://www.theverge.com/2024/7/24/24205366/world-of-warcraft-developers-form-union-blizzard-entertainment)
- - [The incredible shrinking, stretching iPhone](https://www.theverge.com/2024/7/24/24205325/slim-iphone-17-rumor-plus-mini)
- - [The Mysterious Discovery of ‘Dark Oxygen’ on the Ocean Floor](https://www.wired.com/story/dark-oxygen-deep-sea-polymetallic-nodules-discovery/)<!-- TECH:END -->
+ - [World of Warcraft developers form Blizzard’s largest and most inclusive union](https://www.theverge.com/2024/7/24/24205366/world-of-warcraft-developers-form-union-blizzard-entertainment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

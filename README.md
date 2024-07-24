@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
- - 😝 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
- - 💣 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
+ - 😝 [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
+ - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
+ - 💣 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
  - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 👉 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)<!-- MEMES:END -->
 
 ---
 

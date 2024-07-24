@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The incredible shrinking, stretching iPhone](https://www.theverge.com/2024/7/24/24205325/slim-iphone-17-rumor-plus-mini)
  - [Mistral announces Mistral Large 2, the new generation of its flagship model, with 123B parameters; commercial usage requires a separate license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240724/p30#a240724p30)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Apple Maps launches on the web to take on Google](https://www.theverge.com/2024/7/24/24205449/apple-maps-web-beta)
- - [Kamala Harris hasn’t said a lot about tech policy, but here’s what we know](https://www.theverge.com/24205360/kamala-harris-tech-policy-explainer-democratic-presidential-election)
- - [Herman Miller now offers plant-based leather on its iconic lounge chair](https://www.theverge.com/2024/7/24/24205295/herman-miller-eames-lounge-chair-ottoman-vegan-plant-leather)<!-- TECH:END -->
+ - [Kamala Harris hasn’t said a lot about tech policy, but here’s what we know](https://www.theverge.com/24205360/kamala-harris-tech-policy-explainer-democratic-presidential-election)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

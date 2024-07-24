@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
  - [Microsoft unveils Bing generative search, which shows AI-generated answers with the sources used to create them, currently available to a small subset of users &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240724/p35#a240724p35)
  - [A new Nest Learning Thermostat might be on the way](https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks)
- - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
  - [The Thomas Crooks Conspiracy Theories Aren’t Going Anywhere](https://www.wired.com/story/thomas-crooks-conspiracy-donald-trump-cia-mk-ultra/)
  - [NASA fired its space lasers to communicate with the ISS](https://www.theverge.com/2024/7/24/24205469/nasa-lasers-lcrd-optical-communication-international-space-station)<!-- TECH:END -->
 

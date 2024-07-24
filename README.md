@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [E-commerce is driving up pollution near warehouses](https://www.theverge.com/2024/7/24/24204496/e-commerce-warehouse-truck-pollution-study)
  - [French cybersecurity company Exclusive Networks receives a binding buyout proposal from private equity firms CD&amp;R and Permira valuing Exclusive at ~&amp;euro;2.2B &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240724/p9#a240724p9)
  - [Irish government data: data centers in Ireland used 21% of its electricity in 2023, up 20% YoY, more than the 18% of electricity used by all urban homes &lpar;Jillian Ambrose/The Guardian&rpar;](http://www.techmeme.com/240724/p8#a240724p8)
  - [A dip in rental profits and a shift to longer stays has led some US hosts and property managers to circumvent Airbnb, including asking guests to book directly &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240724/p7#a240724p7)
- - [Slash Your Energy Bills With These Smart Thermostat Settings](https://www.cnet.com/home/energy-and-utilities/slash-your-energy-bills-with-these-smart-thermostat-settings/#ftag=CAD590a51e)
- - [Best Tablet Deals: Score Up to $200 off Apple iPad, Samsung Galaxy, Google Pixel and More](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slash Your Energy Bills With These Smart Thermostat Settings](https://www.cnet.com/home/energy-and-utilities/slash-your-energy-bills-with-these-smart-thermostat-settings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

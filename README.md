@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some in Silicon Valley hope Kamala Harris would provide a chance for a reset, after years of bipartisan criticism in Washington DC toward big tech companies &lpar;Politico&rpar;](http://www.techmeme.com/240724/p6#a240724p6)
  - [CrowdStrike says the problematic July 19 software update that affected 8.5M Windows devices was deployed into production due to &quot;a bug in the Content Validator&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240724/p5#a240724p5)
  - [Foxconn to invest $138 mln for new business headquarters in China &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p4#a240724p4)
  - [Sources: enterprise financial software maker OneStream raised $490M after pricing its IPO at $20 a share, above its $17-$19 marketed range, at a $4.6B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240724/p3#a240724p3)
- - [Elon Musk says Starlink service is now active in a hospital in Gaza, reflecting Israel&#39;s reluctance for Gaza residents to have internet access more broadly &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240724/p2#a240724p2)
- - [In an effort to compete with Shein and Temu, Alibaba&#39;s Taobao and Tmall offer qualified merchants, selling goods in the fashion category, free overseas shipping &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240724/p1#a240724p1)<!-- TECH:END -->
+ - [Elon Musk says Starlink service is now active in a hospital in Gaza, reflecting Israel&#39;s reluctance for Gaza residents to have internet access more broadly &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240724/p2#a240724p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - 😝 [In 20th century we had this thing\u2026 called radio, Americans know it as walkie-talkie](http://9gag.com/gag/a0ejZPd)
- - 💣 [A real G](http://9gag.com/gag/aryNm5p)
- - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
- - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
+ - 😝 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 💣 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
+ - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - 👉 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)<!-- MEMES:END -->
 
 ---
 

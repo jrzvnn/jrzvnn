@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FBI director discusses the Trump rally shooter’s search history and drone details](https://www.theverge.com/2024/7/24/24205527/trump-rally-shooter-search-history-drone-fbi)
+ - [The NBA’s new TV deals put a lot of games on Amazon’s Prime Video starting in 2025](https://www.theverge.com/2024/7/24/24205603/amazon-prime-video-11-year-nba-streaming-deal)
  - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
  - [Microsoft unveils Bing generative search, which shows AI-generated answers with the sources used to create them, currently available to a small subset of users &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240724/p35#a240724p35)
- - [A new Nest Learning Thermostat might be on the way](https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks)
- - [The Thomas Crooks Conspiracy Theories Aren’t Going Anywhere](https://www.wired.com/story/thomas-crooks-conspiracy-donald-trump-cia-mk-ultra/)
- - [NASA fired its space lasers to communicate with the ISS](https://www.theverge.com/2024/7/24/24205469/nasa-lasers-lcrd-optical-communication-international-space-station)<!-- TECH:END -->
+ - [A new Nest Learning Thermostat might be on the way](https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

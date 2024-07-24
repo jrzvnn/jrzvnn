@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA fired its space lasers to communicate with the ISS](https://www.theverge.com/2024/7/24/24205469/nasa-lasers-lcrd-optical-communication-international-space-station)
  - [AltStore PAL now offers third-party iOS apps in the EU, starting with two torrenting apps, a social discovery app for dating, and a PC emulator &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240724/p34#a240724p34)
  - [Bing’s AI redesign shoves the usual list of search results to the side](https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign)
  - [IBM reports Q2 revenue up 2% YoY to $15.8B, vs. $15.6B est., and says bookings for AI consulting and software have exceeded $2B since mid-2023, vs. $1B in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240724/p33#a240724p33)
- - [Around 500 World of Warcraft workers vote to unionize with the CWA, bringing the number of unionized US gaming employees at Microsoft to around 1,750 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240724/p32#a240724p32)
- - [Collapsible Utility Wagon](https://www.cnet.com/news/collapsible-beach-wagon-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Around 500 World of Warcraft workers vote to unionize with the CWA, bringing the number of unionized US gaming employees at Microsoft to around 1,750 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240724/p32#a240724p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant trigger](http://9gag.com/gag/avynyYb)
- - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 💣 [Still warm](http://9gag.com/gag/aW4MGb3)
+ - 😝 [Bikini bottom](http://9gag.com/gag/a87412d)
+ - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
+ - 💣 [Spooder collects wata](http://9gag.com/gag/a874A2Y)
  - 😝 [Fixed](http://9gag.com/gag/aZZp1qQ)
- - 👉 [Spooder collects wata](http://9gag.com/gag/a874A2Y)<!-- MEMES:END -->
+ - 👉 [Old enough to kill, to young for alcohol.](http://9gag.com/gag/a5QrV5r)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insurer Parametrix estimates that the global outage sparked by CrowdStrike&#39;s faulty update will cost US Fortune 500 companies, excluding Microsoft, $5.4B &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240724/p27#a240724p27)
  - [Apple may use Samsung for iPhone cameras, ending longtime Sony run](https://www.theverge.com/2024/7/24/24205167/apple-iphone-camera-supplier-samsung-camera-sensor-ultra-wide-sony)
  - [iPhone torrenting apps are now available in the EU](https://www.theverge.com/2024/7/24/24205036/iphone-ios-torrenting-apps-eu-altstore-pal)
  - [Airtable launches Cobuilder, which can generate apps from text prompts and match them to relevant data and customer information already stored within Airtable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240724/p26#a240724p26)
- - [Meta cracks down on ‘Yahoo Boys’ and thousands of sextortion accounts](https://www.theverge.com/2024/7/24/24205236/meta-nigeria-financial-sextortion-scam)
- - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)<!-- TECH:END -->
+ - [Meta cracks down on ‘Yahoo Boys’ and thousands of sextortion accounts](https://www.theverge.com/2024/7/24/24205236/meta-nigeria-financial-sextortion-scam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

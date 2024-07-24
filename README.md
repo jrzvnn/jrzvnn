@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [World of Warcraft developers form Blizzard’s largest and most inclusive union](https://www.theverge.com/2024/7/24/24205366/world-of-warcraft-developers-form-union-blizzard-entertainment)
  - [The incredible shrinking, stretching iPhone](https://www.theverge.com/2024/7/24/24205325/slim-iphone-17-rumor-plus-mini)
  - [Mistral announces Mistral Large 2, the new generation of its flagship model, with 123B parameters; commercial usage requires a separate license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240724/p30#a240724p30)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Apple Maps launches on the web to take on Google](https://www.theverge.com/2024/7/24/24205449/apple-maps-web-beta)
- - [Kamala Harris hasn’t said a lot about tech policy, but here’s what we know](https://www.theverge.com/24205360/kamala-harris-tech-policy-explainer-democratic-presidential-election)<!-- TECH:END -->
+ - [Apple Maps launches on the web to take on Google](https://www.theverge.com/2024/7/24/24205449/apple-maps-web-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

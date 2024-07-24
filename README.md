@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch is cracking down on sexual harassment in chats](https://www.theverge.com/2024/7/24/24205070/twitch-sexual-harassment-policy-moderation-filters-automod)
+ - [LA-based Pearl, an FDA-approved startup that uses AI to assist dentists to make diagnoses, raised a $58M Series B led by Left Lane Capital at a $400M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240724/p14#a240724p14)
  - [Samsung again rumored to be battling Sony for future iPhone camera business](https://appleinsider.com/articles/24/07/24/samsung-again-rumored-to-be-battling-sony-for-future-iphone-sensor-business?utm_medium=rss)
  - [How to use iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
- - [Ferrari plans to accept crypto payments for its cars at European dealers from the start of August, and internationally by the end of 2024, expanding on the US &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/240724/p13#a240724p13)
- - [The ACLU Fights for Your Constitutional Right to Make Deepfakes](https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/)
- - [Apple&#39;s batterygate settlement fund didn&#39;t have enough money to pay a $92.17 check](https://appleinsider.com/articles/24/07/24/apples-batterygate-settlement-fund-didnt-have-enough-money-to-pay-a-9217-check?utm_medium=rss)<!-- TECH:END -->
+ - [Ferrari plans to accept crypto payments for its cars at European dealers from the start of August, and internationally by the end of 2024, expanding on the US &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/240724/p13#a240724p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

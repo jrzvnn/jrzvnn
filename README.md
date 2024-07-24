@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new Nest Learning Thermostat might be on the way](https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks)
  - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
  - [The Thomas Crooks Conspiracy Theories Aren’t Going Anywhere](https://www.wired.com/story/thomas-crooks-conspiracy-donald-trump-cia-mk-ultra/)
  - [NASA fired its space lasers to communicate with the ISS](https://www.theverge.com/2024/7/24/24205469/nasa-lasers-lcrd-optical-communication-international-space-station)
- - [Best Buy&#39;s Great Summer Sale: Save on Top Tech, Laptops, Kitchen Appliances and More](https://www.cnet.com/deals/best-buys-great-summer-sale/#ftag=CAD590a51e)
- - [Apple&#39;s SOS Live Video Gets More Support From 911 Operators Ahead of iOS 18 Launch](https://www.cnet.com/tech/mobile/apples-sos-live-video-gets-more-support-from-911-operators-ahead-of-ios-18-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Great Summer Sale: Save on Top Tech, Laptops, Kitchen Appliances and More](https://www.cnet.com/deals/best-buys-great-summer-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

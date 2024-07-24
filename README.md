@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spain launches antitrust investigation over Apple&#39;s App Store practices](https://appleinsider.com/articles/24/07/24/spain-launches-antitrust-investigation-over-apples-app-store-practices?utm_medium=rss)
  - [Google&#39;s failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a big payday &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240724/p11#a240724p11)
- - [A profile of Blake Benthall, arrested in 2014 for running Silk Road 2.0, which had 1.7M users and $8M/month sales, as he promotes his crypto startup Fathom&lpar;x&rpar; &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p10#a240724p10)
- - [CrowdStrike blames test software for taking down 8.5 million Windows machines](https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue)
- - [Best Earbuds for Phone Calls for 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Don&#39;t Sleep on APYs This High, July 24, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-24-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 Beta Cheat Sheet: An Expert&#39;s Guide to Exploring New iPhone Features](https://www.cnet.com/tech/services-and-software/ios-18-beta-cheat-sheet-an-experts-guide-for-exploring-new-iphone-features/#ftag=CAD590a51e)
+ - [Apple&#39;s RCS Texting Starts Improving Green Bubble Chats With iOS 18 Beta](https://www.cnet.com/tech/mobile/apples-rcs-texting-starts-improving-green-bubble-chats-with-ios-18-beta/#ftag=CAD590a51e)
+ - [iOS 18 Beta: Keep Your Notes App Organized With Collapsible Sections](https://www.cnet.com/tech/services-and-software/ios-18-beta-keep-your-notes-app-organized-with-collapsible-sections/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

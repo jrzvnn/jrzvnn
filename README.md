@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a big payday &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240724/p11#a240724p11)
  - [A profile of Blake Benthall, arrested in 2014 for running Silk Road 2.0, which had 1.7M users and $8M/month sales, as he promotes his crypto startup Fathom&lpar;x&rpar; &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p10#a240724p10)
  - [CrowdStrike blames test software for taking down 8.5 million Windows machines](https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue)
  - [Best Earbuds for Phone Calls for 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Don&#39;t Sleep on APYs This High, July 24, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-24-2024/#ftag=CAD590a51e)
- - [E-commerce is driving up pollution near warehouses](https://www.theverge.com/2024/7/24/24204496/e-commerce-warehouse-truck-pollution-study)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Don&#39;t Sleep on APYs This High, July 24, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-24-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

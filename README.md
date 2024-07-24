@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - 😝 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
- - 💣 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
+ - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
+ - 💣 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
+ - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
 
 ---
 

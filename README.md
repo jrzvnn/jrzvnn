@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bikini bottom](http://9gag.com/gag/a87412d)
- - 😝 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)
- - 💣 [Olympics getting to a good start](http://9gag.com/gag/ajPD1Oq)
- - 😝 [Fixed](http://9gag.com/gag/aZZp1qQ)
- - 👉 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)<!-- MEMES:END -->
+ - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
+ - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
+ - 💣 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 👉 [Woman goes on a solo trip to India, wtf.](http://9gag.com/gag/agmGmX6)<!-- MEMES:END -->
 
 ---
 

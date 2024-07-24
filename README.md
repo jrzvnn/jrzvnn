@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike blames test software for taking down 8.5 million Windows machines](https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue)
  - [Best Earbuds for Phone Calls for 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
  - [Best Savings Rates Today -- Don&#39;t Sleep on APYs This High, July 24, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-24-2024/#ftag=CAD590a51e)
  - [E-commerce is driving up pollution near warehouses](https://www.theverge.com/2024/7/24/24204496/e-commerce-warehouse-truck-pollution-study)
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
- - [French cybersecurity company Exclusive Networks receives a binding buyout proposal from private equity firms CD&amp;R and Permira valuing Exclusive at ~&amp;euro;2.2B &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240724/p9#a240724p9)<!-- TECH:END -->
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

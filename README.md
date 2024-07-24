@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM reports Q2 revenue up 2% YoY to $15.8B, vs. $15.6B est., and says bookings for AI consulting and software have exceeded $2B since mid-2023, vs. $1B in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240724/p33#a240724p33)
  - [Around 500 World of Warcraft workers vote to unionize with the CWA, bringing the number of unionized US gaming employees at Microsoft to around 1,750 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240724/p32#a240724p32)
  - [Apple launches Apple Maps on the web in beta, available in English and compatible with Safari and Chrome on Mac and iPad, and Chrome and Edge on Windows PCs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240724/p31#a240724p31)
  - [AMD is slightly delaying its Ryzen 9000 desktop CPUs ‘out of an abundance of caution’](https://www.theverge.com/2024/7/24/24205416/amd-zen-5-ryzen-9000-desktop-delay)
- - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)<!-- TECH:END -->
+ - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

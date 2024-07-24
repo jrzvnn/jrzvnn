@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We experimented with macOS on the iPad and it was surprisingly good](https://www.theverge.com/24204727/macos-on-ipad-pro-apple-ios-18)
+ - [The Sonos Ace headphones are seeing their first discount at $40 off](https://www.theverge.com/good-deals/2024/7/24/24204696/sonos-ace-anc-headphones-logitech-g-powerplay-mousepad-deal-sale)
+ - [The US NCSC warns US tech startups that &quot;foreign threat actors&quot;, including China, might use private investment to exploit them and threaten national security &lpar;Financial Times&rpar;](http://www.techmeme.com/240724/p21#a240724p21)
+ - [We experimented with macOS on the iPad, and it was surprisingly good](https://www.theverge.com/24204727/macos-on-ipad-pro-apple-ios-18)
  - [Apple’s Sunny imagines a cozy future where screens fade into the background](https://www.theverge.com/2024/7/24/24204666/sunny-apple-tv-plus-gadget-interview-katie-robbins)
- - [Samsung Galaxy Z Fold6 review: very good battery life, easy multitasking, and seven years of updates, but narrow cover screen, bulky, heavy, and expensive &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240724/p20#a240724p20)
- - [Android switchers boost iPhone Sales -- but not for the iPhone 15](https://appleinsider.com/articles/24/07/24/android-switchers-boost-iphone-sales----but-not-for-the-iphone-15?utm_medium=rss)
- - [Law enforcement officials and experts: criminal groups are shying away from large ransomware-as-a-service platforms after disruption operations and an exit scam &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240724/p19#a240724p19)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold6 review: very good battery life, easy multitasking, and seven years of updates, but narrow cover screen, bulky, heavy, and expensive &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240724/p20#a240724p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 😝 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
  - 💣 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
  - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---

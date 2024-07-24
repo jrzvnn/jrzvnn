@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is why you don&#39;t reply all &lpar;The email went to the entire San Francisco DA office. He was fired the same day and is now suing for wrongful termination&rpar;.](http://9gag.com/gag/aYQLV4x)
+ - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 💣 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
  - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
- - 💣 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
- - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
+ - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---
 

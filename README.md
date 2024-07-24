@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an effort to compete with Shein and Temu, Alibaba&#39;s Taobao and Tmall offer qualified merchants, selling goods in the fashion category, free overseas shipping &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240724/p1#a240724p1)
  - [India scraps &quot;angel tax&quot; for all classes of investors, a major victory to the country&#39;s startup ecosystem that had lobbied for years against the measure &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240723/p49#a240723p49)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 24, #409](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-24-409/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for July 24, #1131](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-24-1131/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 24, #143](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-24-143/#ftag=CAD590a51e)
- - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 24, #143](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-24-143/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

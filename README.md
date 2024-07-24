@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
+ - [The Thomas Crooks Conspiracy Theories Aren’t Going Anywhere](https://www.wired.com/story/thomas-crooks-conspiracy-donald-trump-cia-mk-ultra/)
  - [NASA fired its space lasers to communicate with the ISS](https://www.theverge.com/2024/7/24/24205469/nasa-lasers-lcrd-optical-communication-international-space-station)
- - [AltStore PAL now offers third-party iOS apps in the EU, starting with two torrenting apps, a social discovery app for dating, and a PC emulator &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240724/p34#a240724p34)
- - [Bing’s AI redesign shoves the usual list of search results to the side](https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign)
- - [IBM reports Q2 revenue up 2% YoY to $15.8B, vs. $15.6B est., and says bookings for AI consulting and software have exceeded $2B since mid-2023, vs. $1B in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240724/p33#a240724p33)<!-- TECH:END -->
+ - [Best Buy&#39;s Great Summer Sale: Save on Top Tech, Laptops, Kitchen Appliances and More](https://www.cnet.com/deals/best-buys-great-summer-sale/#ftag=CAD590a51e)
+ - [Apple&#39;s SOS Live Video Gets More Support From 911 Operators Ahead of iOS 18 Launch](https://www.cnet.com/tech/mobile/apples-sos-live-video-gets-more-support-from-911-operators-ahead-of-ios-18-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

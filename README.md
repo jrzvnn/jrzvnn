@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
  - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 💣 [A real G](http://9gag.com/gag/aryNm5p)
- - 😝 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
- - 👉 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)<!-- MEMES:END -->
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 💣 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
+ - 😝 [This is why you don&#39;t reply all &lpar;The email went to the entire San Francisco DA office. He was fired the same day and is now suing for wrongful termination&rpar;.](http://9gag.com/gag/aYQLV4x)
+ - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
 
 ---
 

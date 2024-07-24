@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta cracks down on ‘Yahoo Boys’ and thousands of sextortion accounts](https://www.theverge.com/2024/7/24/24205236/meta-nigeria-financial-sextortion-scam)
+ - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
  - [Reddit is now blocking major search engines and AI bots — except the ones that pay](https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google)
  - [Olympic drone spying scandal lands Canadian coach a red card](https://www.theverge.com/2024/7/24/24205155/drones-olympics-soccer-canada-spying)
- - [Chrome adds new warnings and cloud scanning for suspicious downloads](https://www.theverge.com/2024/7/24/24205249/google-chrome-download-malicious-file-cloud-malware-scanning)
- - [All Raise: ~18% of US VC firms have one or more female partners, double from 2018; PitchBook says female founders secured ~28% of total US deal value in 2023 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240724/p25#a240724p25)
- - [Apple has reportedly dropped Qualcomm modems on two 2025 iPhones](https://appleinsider.com/articles/24/07/24/apple-has-reportedly-dropped-qualcomm-modems-on-two-2025-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Chrome adds new warnings and cloud scanning for suspicious downloads](https://www.theverge.com/2024/7/24/24205249/google-chrome-download-malicious-file-cloud-malware-scanning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

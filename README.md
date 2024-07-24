@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
- - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 💣 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
- - 😝 [Missing child support](http://9gag.com/gag/a4Pj15Z)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - 💣 [A real G](http://9gag.com/gag/aryNm5p)
+ - 😝 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
+ - 👉 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bikini bottom](http://9gag.com/gag/a87412d)
- - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
- - 💣 [Spooder collects wata](http://9gag.com/gag/a874A2Y)
- - 😝 [Fixed](http://9gag.com/gag/aZZp1qQ)
- - 👉 [Old enough to kill, to young for alcohol.](http://9gag.com/gag/a5QrV5r)<!-- MEMES:END -->
+ - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 💣 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
+ - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---
 

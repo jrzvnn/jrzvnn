@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
  - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
  - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - 😝 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
  - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
 
 ---

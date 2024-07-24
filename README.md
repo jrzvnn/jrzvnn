@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony tests a new PS5 3D audio profile setup to personalize in-game effects](https://www.theverge.com/2024/7/24/24205192/playstation-5-beta-3d-audio-profiles-remote-play)
  - [Microsoft Copilot customers say the AI assistants are no plug-and-play offering and involve feeding Copilot data; the Copilots excel at distilling information &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240724/p22#a240724p22)
  - [The Highly Infectious FLiRT Variants Behind the Summer Covid Wave](https://www.wired.com/story/flirt-variants-covid-wave-surge-coronavirus-japan-usa/)
  - [How to Watch the 2024 Summer Olympics](https://www.wired.com/story/how-to-watch-2024-summer-olympics-paris-streaming/)
- - [The Sonos Ace headphones are seeing their first discount at $40 off](https://www.theverge.com/good-deals/2024/7/24/24204696/sonos-ace-anc-headphones-logitech-g-powerplay-mousepad-deal-sale)
- - [Coupon Code: 15% off SHED RAIN Umbrellas](https://www.wired.com/story/coupon-save-15-off-shed-rain-umbrellas/)<!-- TECH:END -->
+ - [The Sonos Ace headphones are seeing their first discount at $40 off](https://www.theverge.com/good-deals/2024/7/24/24204696/sonos-ace-anc-headphones-logitech-g-powerplay-mousepad-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

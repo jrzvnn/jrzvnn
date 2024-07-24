@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Senate passed a bill cracking down on sexually explicit deepfakes](https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes)
  - [Insurer Parametrix estimates that the global outage sparked by CrowdStrike&#39;s faulty update will cost US Fortune 500 companies, excluding Microsoft, $5.4B &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240724/p27#a240724p27)
  - [Apple may use Samsung for iPhone cameras, ending longtime Sony run](https://www.theverge.com/2024/7/24/24205167/apple-iphone-camera-supplier-samsung-camera-sensor-ultra-wide-sony)
  - [iPhone torrenting apps are now available in the EU](https://www.theverge.com/2024/7/24/24205036/iphone-ios-torrenting-apps-eu-altstore-pal)
- - [Unisex Nursery Center](https://www.cnet.com/health/parenting/unisex-nursery-center-dpnl/#ftag=CAD590a51e)
- - [I Saw the Foam in Your Mattress Get Made. Here&#39;s the Inside Scoop From a Sleep Expert](https://www.cnet.com/health/sleep/the-inside-scoop-on-how-the-foam-in-your-mattress-gets-made/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unisex Nursery Center](https://www.cnet.com/health/parenting/unisex-nursery-center-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

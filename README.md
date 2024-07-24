@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [.................](http://9gag.com/gag/a9yY6EK)
  - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 💣 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - 💣 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
  - 😝 [Climate activists attempt to block car on the highway](http://9gag.com/gag/amozgMo)
- - 👉 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)<!-- MEMES:END -->
+ - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas Instruments reports Q2 revenue down 16% YoY to $3.82B and forecasts Q3 revenue in line with analysts&#39; estimates of $4.14B, easing fears of a chip downturn &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240723/p47#a240723p47)
+ - [X reverts its water pistol emoji back to a firearm on the web, after Twitter originally switched the pistol emoji from a realistic-looking handgun in 2018 &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/240723/p46#a240723p46)
  - [Apple seeds fourth developer betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/23/apple-seeds-fourth-developer-betas-of-ios-18-ipados-18-tvos-18-watchos-11-visionos-2?utm_medium=rss)
  - [Meta says it will allow developers to use the outputs from Llama models, including Llama 3.1 405B, to improve other models for the first time &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240723/p45#a240723p45)
- - [Elon Musk says &quot;I am not donating $45M a month to Trump&quot;, but states he created American PAC to support Trump, without revealing how much he will donate &lpar;Eva Roytburg/Fortune&rpar;](http://www.techmeme.com/240723/p44#a240723p44)
- - [Build Shadow the Hedgehog&#39;s Disembodied Head With This New Lego Set](https://www.cnet.com/tech/gaming/build-shadow-the-hedgehogs-disembodied-head-with-this-new-lego-set/#ftag=CAD590a51e)
- - [X replaced the water pistol emoji with a regular gun, for some reason](https://www.theverge.com/2024/7/23/24204742/x-water-pistol-emoji-changed-gun-twitter-unicode)<!-- TECH:END -->
+ - [Elon Musk says &quot;I am not donating $45M a month to Trump&quot;, but states he created American PAC to support Trump, without revealing how much he will donate &lpar;Eva Roytburg/Fortune&rpar;](http://www.techmeme.com/240723/p44#a240723p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

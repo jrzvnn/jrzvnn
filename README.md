@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wireless GameSir G8 Plus controller works with smartphones and the Switch](https://www.theverge.com/2024/7/24/24187539/gamesir-g8-bluetooth-mobile-controller-ios-android-nintendo-switch-pc)
- - [Compliance startup Vanta raised a $150M Series C led by Sequoia Capital at a $2.45B valuation, up from $1.6B in 2022, to accelerate adding AI to its products &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240724/p17#a240724p17)
- - [Twitch introduces new policy and moderation updates to curb sexual harassment, including making its policy &quot;easier to understand&quot; and adding moderation tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240724/p16#a240724p16)
- - [Apple Intelligence may get ability to create Apple Music playlist art](https://appleinsider.com/articles/24/07/24/apple-intelligence-may-get-ability-to-create-apple-music-playlist-art?utm_medium=rss)
- - [The Overture Maps Foundation, backed by Microsoft, Amazon, Meta, and others, releases four global open maps datasets; transportation remains in beta &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240724/p15#a240724p15)<!-- TECH:END -->
+ - [Google updates the Play Store on Android to add categorized &quot;collections&quot; to show installed app content, expands Play Pass, and adds curated comics in Japan &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240724/p18#a240724p18)
+ - [iPhone 17 cameras may get variable aperture for better bokeh](https://appleinsider.com/articles/24/07/24/iphone-17-cameras-may-get-variable-aperture-for-better-bokeh?utm_medium=rss)
+ - [First responder network RapidSOS adds Emergency SOS video support with iOS 18](https://appleinsider.com/articles/24/07/24/first-responder-network-rapidsos-adds-emergency-sos-video-support-with-ios-18?utm_medium=rss)
+ - [Google has big new ideas about the Play Store](https://www.theverge.com/2024/7/24/24205052/google-play-collections-ai-features-rewards-pixel)
+ - [The wireless GameSir G8 Plus controller works with smartphones and the Switch](https://www.theverge.com/2024/7/24/24187539/gamesir-g8-bluetooth-mobile-controller-ios-android-nintendo-switch-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

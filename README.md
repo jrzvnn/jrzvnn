@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
- - 😝 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
- - 💣 [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
- - 😝 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)
- - 👉 [Mindly interesting](http://9gag.com/gag/a8740Ge)<!-- MEMES:END -->
+ - 😝 [Greetings from Poland, no drama, no politics, just BBQ](http://9gag.com/gag/aGyDBD7)
+ - 😝 [It&#39;s a nice thing going on around here, thank you.](http://9gag.com/gag/a6ZQ9R8)
+ - 💣 [Here meat on a stick](http://9gag.com/gag/aqyL8oQ)
+ - 😝 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
+ - 👉 [Telling fat women how to lose weight doesn&#39;t go well](http://9gag.com/gag/aAyPEA9)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use the new &#39;Search Here&#39; feature in Apple Maps with iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-new-search-here-feature-in-apple-maps-with-ios-18?utm_medium=rss)
  - [ServiceNow President CJ Desai leaves the company after an internal probe found he violated company policy related to a US contract and an ex-Army CIO&#39;s hiring &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240724/p42#a240724p42)
  - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-25/#ftag=CAD590a51e)
  - [Meta removes ~63K Instagram accounts used by sextortion scammers in Nigeria, along with ~7,200 Facebook assets, including accounts linked to the Yahoo Boys &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240724/p41#a240724p41)
- - [Microsoft says Bing stopped crawling Reddit after Reddit updated its robots.txt file on July 1 &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240724/p40#a240724p40)
- - [Elon Musk&#39;s poll asking if Tesla should invest $5B in xAI ends with 67.9% voting yes, after Musk said on Tesla&#39;s earnings call that he supported the idea &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/240724/p39#a240724p39)<!-- TECH:END -->
+ - [Microsoft says Bing stopped crawling Reddit after Reddit updated its robots.txt file on July 1 &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240724/p40#a240724p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

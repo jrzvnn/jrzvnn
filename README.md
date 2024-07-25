@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gagers rn](http://9gag.com/gag/aAyP2g0)
- - 😝 [Great success](http://9gag.com/gag/aqyLW9L)
- - 💣 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
  - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 👉 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)<!-- MEMES:END -->
+ - 💣 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
+ - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Buds Pro 2 leak brings back the wing tip — kind of](https://www.theverge.com/2024/7/25/24206015/google-pixel-buds-pro-2-leak-wing-tip-colors)
+ - [Apple&#39;s iPhone shipments are still getting squeezed in China by rising rivals](https://appleinsider.com/articles/24/07/25/apples-iphone-shipments-are-still-getting-squeezed-in-china-by-rising-rivals?utm_medium=rss)
+ - [Apple plans fabric displays for future devices like the HomePod](https://appleinsider.com/articles/24/07/25/apple-plans-fabric-displays-for-future-devices-like-the-homepod?utm_medium=rss)
  - [Sources: Meta is set to be hit with its first EU antitrust fine, which could be as much as 10% of its 2023 global revenue, for tying Marketplace and Facebook &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240725/p20#a240725p20)
- - [Southwest is switching to assigned seating](https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits)
- - [Anthropic’s crawler is ignoring websites’ anti-AI scraping policies](https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [The new Disney+, Hulu, and Max streaming bundle goes on sale in the US for $16.99 per month with ads and $29.99 per month without ads &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240725/p19#a240725p19)<!-- TECH:END -->
+ - [Southwest is switching to assigned seating](https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

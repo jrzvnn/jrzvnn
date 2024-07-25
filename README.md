@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any tips how to grill or smoke this piece of meat?](http://9gag.com/gag/aGyDAG7)
- - 😝 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
- - 💣 [I Need a new wallpaper, post your best ones. Here, I&#39;ll start with mine](http://9gag.com/gag/ayN84dr)
- - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 💣 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)<!-- MEMES:END -->
 
 ---
 

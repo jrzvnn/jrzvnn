@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/240725/p10#a240725p10)
  - [Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p9#a240725p9)
  - [Asus ROG Ally X review: the best Windows gaming handheld by a mile](https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc)
  - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Now&#39;s the Time to Score a High APY, July 25, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-25-2024/#ftag=CAD590a51e)
- - [Revolut secures a preliminary UK banking license, ending a three-year long regulatory battle; the London-based fintech has ~9M UK customers and 45M+ globally &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240725/p8#a240725p8)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Now&#39;s the Time to Score a High APY, July 25, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-25-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

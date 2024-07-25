@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
- - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 💣 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 😝 [BBQ on oil tanker](http://9gag.com/gag/aryN256)
- - 👉 [One does not simply stop propaganda](http://9gag.com/gag/aGyD2o7)<!-- MEMES:END -->
+ - 😝 [Any tips how to grill or smoke this piece of meat?](http://9gag.com/gag/aGyDAG7)
+ - 😝 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
+ - 💣 [I Need a new wallpaper, post your best ones. Here, I&#39;ll start with mine](http://9gag.com/gag/ayN84dr)
+ - 😝 [Lol](http://9gag.com/gag/apRLx85)
+ - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 ---
 

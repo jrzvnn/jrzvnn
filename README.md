@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Supreme Court’s Chevron ruling could doom net neutrality](https://www.theverge.com/24205957/supreme-court-chevron-loper-bright-net-neutrality-federal-regulation-congress-decoder-interview)
+ - [Source and doc: Runway scraped thousands of videos from YouTube creators and brands, including Disney and VICE News, to train its Gen-3 AI video generation tool &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240725/p18#a240725p18)
  - [Chainguard, which helps companies secure their software supply chain, raised a $140M Series C co-led by Redpoint, Lightspeed, and IVP at a $1.12B valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240725/p17#a240725p17)
  - [How to Factory Reset iPhone without Password or Apple ID](https://appleinsider.com/articles/24/07/25/how-to-factory-reset-iphone-without-password-or-apple-id?utm_medium=rss)
- - [Elgato transforms its Stream Deck Plus with new XLR dock and USB hub accessories](https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories)
- - [OpenAI introduces Rule-Based Rewards, a method to automate some model fine-tuning and cut down the time required to ensure a model behaves safely &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240725/p16#a240725p16)
- - [Leagues Cup returns to Apple TV&#39;s MLS Season Pass](https://appleinsider.com/articles/24/07/25/leagues-cup-returns-to-apple-tvs-mls-season-pass?utm_medium=rss)<!-- TECH:END -->
+ - [Elgato transforms its Stream Deck Plus with new XLR dock and USB hub accessories](https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

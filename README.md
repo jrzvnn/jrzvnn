@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leagues Cup returns to Apple TV&#39;s MLS Season Pass](https://appleinsider.com/articles/24/07/25/leagues-cup-returns-to-apple-tvs-mls-season-pass?utm_medium=rss)
  - [Adobe exec compared Creative Cloud cancellation fees to ‘heroin’](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
  - [New leak spoils Google’s upcoming Pixel 9 event](https://www.theverge.com/2024/7/25/24205904/google-pixel-9-leak-marketing-materials)
  - [The UK&#39;s FCA fines Coinbase &amp;pound;3.5M for providing payment services to over 13,000 &quot;high-risk&quot; customers, in its first enforcement action against a crypto company &lpar;Financial Times&rpar;](http://www.techmeme.com/240725/p15#a240725p15)
- - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)
- - [The massive Fallout: London mod is out now](https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available)<!-- TECH:END -->
+ - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

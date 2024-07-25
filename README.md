@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
  - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
- - 💣 [Lol](http://9gag.com/gag/apRLx85)
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
+ - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
+ - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 😝 [Lol](http://9gag.com/gag/apRLx85)
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 ---
 

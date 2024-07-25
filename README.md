@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We need a US-led global coalition of like-minded countries and a new strategy to ensure that a democratic vision for AI prevails over an authoritarian one &lpar;Sam Altman/Washington Post&rpar;](http://www.techmeme.com/240725/p14#a240725p14)
+ - [Cannondale Moterra SL 2 Electric Mountain Bike Review: Lightweight and Powerful](https://www.wired.com/review/cannondale-moterra-carbon-sl2/)
+ - [Beats Pill &lpar;2024&rpar; Review: A Fortified Contender](https://www.wired.com/review/beats-pill-2024/)
  - [Don&#39;t lose your iPhone in South Korea, because Find My doesn&#39;t work there](https://appleinsider.com/articles/24/07/25/dont-lose-your-iphone-in-south-korea-because-find-my-doesnt-work-there?utm_medium=rss)
- - [DefiLlama and Wintermute: the aggregate market cap of stablecoins crossed $164B for the first time since the collapse of Terra in May 2022; USDT is at $114.26B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/240725/p13#a240725p13)
- - [Coast-to-coast in a solar-powered car — and a new Cannonball Run record](https://www.theverge.com/2024/7/25/24205583/cannonball-run-solar-powered-car-record-cross-country)
- - [Apple is about to open its new research lab in Shenzhen](https://appleinsider.com/articles/24/07/25/apple-is-about-to-open-its-new-research-lab-in-shenzhen?utm_medium=rss)
- - [Joe Biden Lost The Internet. Kamala Harris Is Trying to Win it Back](https://www.wired.com/story/joe-biden-lost-the-internet-kamala-harris-is-trying-to-win-it-back/)<!-- TECH:END -->
+ - [DefiLlama and Wintermute: the aggregate market cap of stablecoins crossed $164B for the first time since the collapse of Terra in May 2022; USDT is at $114.26B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/240725/p13#a240725p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

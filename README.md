@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Southwest is switching to assigned seating](https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits)
+ - [Anthropic’s crawler is ignoring websites’ anti-AI scraping policies](https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [The new Disney+, Hulu, and Max streaming bundle goes on sale in the US for $16.99 per month with ads and $29.99 per month without ads &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240725/p19#a240725p19)
- - [How the Supreme Court’s Chevron ruling could doom net neutrality](https://www.theverge.com/24205957/supreme-court-chevron-loper-bright-net-neutrality-federal-regulation-congress-decoder-interview)
- - [Source and doc: Runway scraped thousands of videos from YouTube creators and brands, including Disney and VICE News, to train its Gen-3 AI video generation tool &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240725/p18#a240725p18)
- - [Chainguard, which helps companies secure their software supply chain, raised a $140M Series C co-led by Redpoint, Lightspeed, and IVP at a $1.12B valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240725/p17#a240725p17)
- - [How to Factory Reset iPhone without Password or Apple ID](https://appleinsider.com/articles/24/07/25/how-to-factory-reset-iphone-without-password-or-apple-id?utm_medium=rss)<!-- TECH:END -->
+ - [Eminem’s New Album Prompted Gen X to Declare a TikTok ‘War’ on Gen Z](https://www.wired.com/story/gen-x-has-declared-war-on-gen-z-eminem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 💣 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
- - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
+ - 😝 [Survival instinct -9000](http://9gag.com/gag/apRLDNM)
+ - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 💣 [I don&#39;t have a BBQ](http://9gag.com/gag/avynEXZ)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 ---
 

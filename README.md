@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First responder network RapidSOS adds Emergency SOS video support with iOS 18](https://appleinsider.com/articles/24/07/24/first-responder-network-rapidsos-adds-emergency-sos-video-support-with-ios-18?utm_medium=rss)
- - [Congress moves forward on the Kids Online Safety Act](https://www.theverge.com/24205393/kids-online-safety-act-minors-age-verification-kosa)
- - [WinkBed Mattress Review: A Luxury Mattress With Widespread Appeal](https://www.cnet.com/health/sleep/winkbed-mattress-review/#ftag=CAD590a51e)
- - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)
- - [The 4 Best Air Mattresses We Tested](https://www.cnet.com/health/sleep/best-air-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California&#39;s Supreme Court upholds Prop 22, allowing Uber, Lyft, DoorDash, and other companies to keep classifying California drivers as independent contractors &lpar;Maia Spoto/Bloomberg&rpar;](http://www.techmeme.com/240725/p25#a240725p25)
+ - [Sonos CEO apologizes for disastrous rollout of new app](https://www.theverge.com/2024/7/25/24206203/sonos-ceo-apology-redesigned-app-controversy)
+ - [OpenAI is releasing a prototype of its search engine to rival Google, Perplexity](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival)
+ - [WhatsApp now has 100 million daily users in the U.S.](https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone)
+ - [First responder network RapidSOS adds Emergency SOS video support with iOS 18](https://appleinsider.com/articles/24/07/24/first-responder-network-rapidsos-adds-emergency-sos-video-support-with-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

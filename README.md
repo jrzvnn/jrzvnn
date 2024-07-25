@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 😝 [The news we deserve](http://9gag.com/gag/aKG3eZN)
- - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
+ - 😝 [Audition for Stomp group.](http://9gag.com/gag/a8742qZ)
+ - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
+ - 💣 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
 
 ---
 

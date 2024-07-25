@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dazz, which provides AI-based cloud security remediation software for enterprises, raised $50M from Greylock and others, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240724/p43#a240724p43)
  - [How to use the new &#39;Search Here&#39; feature in Apple Maps with iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-new-search-here-feature-in-apple-maps-with-ios-18?utm_medium=rss)
- - [ServiceNow President CJ Desai leaves the company after an internal probe found he violated company policy related to a US contract and an ex-Army CIO&#39;s hiring &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240724/p42#a240724p42)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-25/#ftag=CAD590a51e)
- - [Meta removes ~63K Instagram accounts used by sextortion scammers in Nigeria, along with ~7,200 Facebook assets, including accounts linked to the Yahoo Boys &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240724/p41#a240724p41)
- - [Microsoft says Bing stopped crawling Reddit after Reddit updated its robots.txt file on July 1 &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240724/p40#a240724p40)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 25, #144](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-25-144/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 25, #410](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-25-410/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 25, #1132](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-25-1132/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

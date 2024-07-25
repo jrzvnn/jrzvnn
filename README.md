@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 💣 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Lol](http://9gag.com/gag/apRLx85)<!-- MEMES:END -->
+ - 😝 [One does not simply stop propaganda](http://9gag.com/gag/aGyD2o7)
+ - 😝 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
+ - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
+ - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - 👉 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)<!-- MEMES:END -->
 
 ---
 

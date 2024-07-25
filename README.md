@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 😝 [Boys](http://9gag.com/gag/amozWv4)
- - 💣 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
- - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 👉 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)<!-- MEMES:END -->
+ - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 😝 [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
+ - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 😝 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
+ - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
 
 ---
 

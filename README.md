@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 😝 [It&#39;s a nice thing going on around here, thank you.](http://9gag.com/gag/a6ZQ9R8)
- - 💣 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 😝 [Telling fat women how to lose weight doesn&#39;t go well](http://9gag.com/gag/aAyPEA9)
- - 👉 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)<!-- MEMES:END -->
+ - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
+ - 😝 [Survival instinct -9000](http://9gag.com/gag/apRLDNM)
+ - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 😝 [Boys](http://9gag.com/gag/amozWv4)
+ - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
 
 ---
 

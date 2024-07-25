@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peacock’s horror thriller Teacup starts streaming in October](https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024)
+ - [Epic will bring Fortnite to third-party iOS app stores](https://www.theverge.com/2024/7/25/24206372/epic-games-fortnite-third-party-ios-app-stores-altstore)
  - [Canalys: China&#39;s smartphone shipments rose 10% YoY in Q2, with Huawei&#39;s shipments up 41%; Apple&#39;s market share in China dropped to 14%, down from 16% in Q2 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240725/p35#a240725p35)
- - [Amazon says a judge has dismissed a Washington state case, alleging that Amazon exposed warehouse workers to injuries, for lack of evidence &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240725/p34#a240725p34)
- - [Uber, Lyft, and DoorDash have finally won the Prop 22 gig worker battle](https://www.theverge.com/2024/7/25/24206354/california-prop-22-uber-lyft-doordash-win)
- - [Fortnite coming to iPhones in the EU via AltStore](https://appleinsider.com/articles/24/07/25/fortnite-coming-to-iphones-in-the-eu-via-altstore?utm_medium=rss)
- - [Anthropic says it does not support California&#39;s AI safety bill and suggests changes, including a shift from &quot;pre-harm enforcement&quot; to &quot;outcome-based deterrence&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240725/p33#a240725p33)<!-- TECH:END -->
+ - [Video Game Performers Are Going on Strike Over AI](https://www.wired.com/story/video-game-voice-actors-are-going-on-strike-over-ai/)
+ - [Want to Cut Your Energy Bills by 10 Percent? Set Your Thermostat to These Temperatures](https://www.cnet.com/home/energy-and-utilities/want-to-cut-your-energy-bills-by-10-percent-set-your-thermostat-to-these-temperatures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 😝 [You know what to do boizzz!](http://9gag.com/gag/ae9672O)
- - 💣 [Never let anyone know your next move.](http://9gag.com/gag/axyDOKM)
- - 😝 [Clown world](http://9gag.com/gag/aO8v1Zr)
- - 👉 [S\u01dd\u0287\u0250\u0279\u01ddu\u01dd\u0183\u01ddp \u028doll\u01dd\u025f \u028e\u026f \u0250\u1d09l\u0250\u0279\u0287sn\u2200 \u026fo\u0279\u025f s\u0279\u01dd\u01dd\u0265\u0186](http://9gag.com/gag/a34j0Ne)<!-- MEMES:END -->
+ - 😝 [You know you did.](http://9gag.com/gag/a1mX2MY)
+ - 😝 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
+ - 💣 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
+ - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
 
 ---
 

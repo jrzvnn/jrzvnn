@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google DeepMind rolls out AlphaProof AI model, which specializes in math reasoning, and AlphaGeometry 2, an updated version of a model focused on geometry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p22#a240725p22)
+ - [Google DeepMind’s Game-Playing AI Tackles a Chatbot Blind Spot](https://www.wired.com/story/google-deepmind-alphaproof-ai-math/)
  - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
  - [Samsung Galaxy Ring review: great hardware, long battery life, and requires no subscription, but it&#39;s Android only and health tracking accuracy is a mixed bag &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240725/p21#a240725p21)
- - [Google Pixel Buds Pro 2 leak brings back the wing tip — kind of](https://www.theverge.com/2024/7/25/24206015/google-pixel-buds-pro-2-leak-wing-tip-colors)
- - [Apple&#39;s iPhone shipments are still getting squeezed in China by rising rivals](https://appleinsider.com/articles/24/07/25/apples-iphone-shipments-are-still-getting-squeezed-in-china-by-rising-rivals?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Buds Pro 2 leak brings back the wing tip — kind of](https://www.theverge.com/2024/7/25/24206015/google-pixel-buds-pro-2-leak-wing-tip-colors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

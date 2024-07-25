@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [STMicro reports Q2 net revenue down 25.3% YoY to $3.23B and cuts its FY 2024 revenue outlook to $13.2B to $13.7B, down from a previous range of $14B to $15B &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240725/p6#a240725p6)
+ - [India drops the 2% equalization levy on digital services offered by foreign companies starting August 1; the levy had become a point of contention with the US &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240725/p5#a240725p5)
  - [A group of 16 US lawmakers ask Meta to delay shutting down CrowdTangle for at least six months, citing concerns about the limitations of Meta Content Library &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240725/p4#a240725p4)
  - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [Analysis: since the start of Ukraine war in 2022, Russia obtained ~$4B worth of US restricted chips from 6K+ companies, including from shell firms in Hong Kong &lpar;New York Times&rpar;](http://www.techmeme.com/240725/p3#a240725p3)
- - [Lakera, which helps enterprises protect generative AI apps from LLM vulnerabilities, raised a $20M Series A led by Atomico, bringing its total funding to $30M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240725/p2#a240725p2)
- - [Enterprise financial software company OneStream&#39;s shares closed up 34.25% at $26.85 in its Nasdaq debut, giving it a market cap of ~$6.2B, after a ~$490M IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p1#a240725p1)<!-- TECH:END -->
+ - [Analysis: since the start of Ukraine war in 2022, Russia obtained ~$4B worth of US restricted chips from 6K+ companies, including from shell firms in Hong Kong &lpar;New York Times&rpar;](http://www.techmeme.com/240725/p3#a240725p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

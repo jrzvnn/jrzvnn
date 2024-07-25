@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crunchbase: in H1 2024, generative AI startups raised $500M across 198 angel/seed deals, $8.7B across 39 early-stage deals, and $3.1B across 18 late-stage deals &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240725/p12#a240725p12)
  - [After investigating how Meta handles AI-generated explicit images, Oversight Board asks Meta to use the terminology &quot;non-consensual&quot; over &quot;derogatory&quot;, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p11#a240725p11)
  - [Hands on: Everything new with CarPlay in iOS 18](https://appleinsider.com/articles/24/07/25/hands-on-everything-new-with-carplay-in-ios-18?utm_medium=rss)
  - [Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/240725/p10#a240725p10)
- - [SSI Beneficiaries Are Getting Two Payments in August. Here&#39;s Why](https://www.cnet.com/personal-finance/ssi-beneficiaries-are-getting-two-payments-in-august-heres-why/#ftag=CAD590a51e)
- - [Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p9#a240725p9)<!-- TECH:END -->
+ - [SSI Beneficiaries Are Getting Two Payments in August. Here&#39;s Why](https://www.cnet.com/personal-finance/ssi-beneficiaries-are-getting-two-payments-in-august-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

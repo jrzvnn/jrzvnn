@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike CEO George Kurtz says 97% of Windows sensors are back online, about a week after CrowdStrike shipped a faulty update that bricked Windows computers &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240725/p38#a240725p38)
  - [A decade-old drama between David Sacks and Parker Conrad has blown up into a fight on X over VC behavior, drawing in Paul Graham and other Silicon Valley names &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240725/p37#a240725p37)
  - [Leaked promo material reveals Pixel 9 series specs: all phones powered by Tensor G4, Pixel 9 Pro in 6.3-inch and 6.8-inch models with 16GB of RAM, and more &lpar;G.S Vasan/91mobiles&rpar;](http://www.techmeme.com/240725/p36#a240725p36)
  - [I&#39;m a Full-Time Creator -- Here&#39;s All the Video Gear I Use video](https://www.cnet.com/videos/im-a-full-time-creator-heres-all-the-video-gear-i-use/#ftag=CAD590a51e)
- - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
- - [The 12 Best Eye Creams of 2024](https://www.cnet.com/health/personal-care/best-eye-cream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

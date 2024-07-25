@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 💣 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
  - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 😝 [.................](http://9gag.com/gag/a9yY6EK)
- - 💣 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)<!-- MEMES:END -->
+ - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
 
 ---
 

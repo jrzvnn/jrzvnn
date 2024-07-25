@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One does not simply stop propaganda](http://9gag.com/gag/aGyD2o7)
- - 😝 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
- - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 👉 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)<!-- MEMES:END -->
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
 
 ---
 

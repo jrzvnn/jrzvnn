@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t forget the sauce](http://9gag.com/gag/a6ZQBnR)
- - 😝 [Karl Urban is a credible actor. What movie or series have you seen him in and did you like it?](http://9gag.com/gag/a874md6)
- - 💣 [As i get older this always hits harder](http://9gag.com/gag/aD2G73O)
- - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 👉 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)<!-- MEMES:END -->
+ - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 😝 [Boys](http://9gag.com/gag/amozWv4)
+ - 💣 [None of your business](http://9gag.com/gag/an717Do)
+ - 😝 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
+ - 👉 [Mindly interesting](http://9gag.com/gag/a8740Ge)<!-- MEMES:END -->
 
 ---
 

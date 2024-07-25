@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos CEO Patrick Spence apologizes for the new Sonos app, launched in May with a criticized redesign, and promises biweekly app updates through the fall &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240725/p29#a240725p29)
  - [Overwatch 2 opens the door to a return for 6v6](https://www.theverge.com/2024/7/25/24206210/overwatch-2-six-player-team-multiplayer-test)
  - [Sonos apologizes for screwing up its revamped iOS app launch](https://appleinsider.com/articles/24/07/25/sonos-apologizes-for-screwing-up-its-revamped-ios-app-launch?utm_medium=rss)
  - [OpenAI says it partnered with publishers including WSJ and The Atlantic to build its search engine SearchGPT; publishers can manage how their content appears &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240725/p28#a240725p28)
- - [Meta says WhatsApp now has more than 100M MAUs in the US and that more than 50% of WhatsApp users in the country have an iPhone; WhatsApp has 2B+ MAUs globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p27#a240725p27)
- - [There’s a blender hidden inside this insulated travel cup](https://www.theverge.com/2024/7/25/24206200/nutribullet-flip-blender-appliances)<!-- TECH:END -->
+ - [Meta says WhatsApp now has more than 100M MAUs in the US and that more than 50% of WhatsApp users in the country have an iPhone; WhatsApp has 2B+ MAUs globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p27#a240725p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

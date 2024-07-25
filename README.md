@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe exec compared Creative Cloud cancellation fees to ‘heroin’](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
+ - [New leak spoils Google’s upcoming Pixel 9 event](https://www.theverge.com/2024/7/25/24205904/google-pixel-9-leak-marketing-materials)
  - [The UK&#39;s FCA fines Coinbase &amp;pound;3.5M for providing payment services to over 13,000 &quot;high-risk&quot; customers, in its first enforcement action against a crypto company &lpar;Financial Times&rpar;](http://www.techmeme.com/240725/p15#a240725p15)
  - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)
- - [The massive Fallout: London mod is out now](https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available)
- - [The Galaxy Ring keeps you in Samsung’s orbit](https://www.theverge.com/24205156/samsung-galaxy-ring-review-smart-ring-wearables)
- - [How the Apple Ring will blow all the other smart ring manufacturers out of the water](https://appleinsider.com/articles/24/07/25/how-the-apple-ring-will-blow-all-the-other-smart-ring-manufacturers-out-of-the-water?utm_medium=rss)<!-- TECH:END -->
+ - [The massive Fallout: London mod is out now](https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA announces a strike starting Friday against major video game companies, including EA, after talks for a new contract broke down over AI protections &lpar;Sarah Parvini/Associated Press&rpar;](http://www.techmeme.com/240725/p30#a240725p30)
  - [Apple’s AirTags are on sale for $23.99 a pop, matching their all-time low](https://www.theverge.com/2024/7/25/24202063/airtag-location-tracker-apple-watch-series-9-deal-sale)
  - [WhatsApp now has 100 million monthly users in the US](https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone)
  - [Sonos CEO Patrick Spence apologizes for Sonos&#39; redesigned app, which launched in May to widespread criticism, and promises biweekly app updates through the fall &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240725/p29#a240725p29)
- - [Overwatch 2 opens the door to a return for 6v6](https://www.theverge.com/2024/7/25/24206210/overwatch-2-six-player-team-multiplayer-test)
- - [The 21 Best Movies on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Overwatch 2 opens the door to a return for 6v6](https://www.theverge.com/2024/7/25/24206210/overwatch-2-six-player-team-multiplayer-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

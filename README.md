@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [I Need a new wallpaper, post your best ones. Here, I&#39;ll start with mine](http://9gag.com/gag/ayN84dr)
- - 💣 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 😝 [Look what I got with the money I won in the lottery.](http://9gag.com/gag/aRBe4GQ)
- - 👉 [Cool but dead](http://9gag.com/gag/a2v50RY)<!-- MEMES:END -->
+ - 😝 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 💣 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 😝 [Great success](http://9gag.com/gag/aqyLW9L)
+ - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
 
 ---
 

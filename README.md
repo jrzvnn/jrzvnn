@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Leaked promo material reveals Pixel 9 series specs: all phones powered by Tensor G4, Pixel 9 Pro in 6.3-inch and 6.8-inch models with 16GB of RAM, and more &lpar;G.S Vasan/91mobiles&rpar;](http://www.techmeme.com/240725/p36#a240725p36)
- - [Peacock’s horror thriller Teacup starts streaming in October](https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024)
- - [Epic will bring Fortnite to third-party iOS app stores](https://www.theverge.com/2024/7/25/24206372/epic-games-fortnite-third-party-ios-app-stores-altstore)
- - [Canalys: China&#39;s smartphone shipments rose 10% YoY in Q2, with Huawei&#39;s shipments up 41%; Apple&#39;s market share in China dropped to 14%, down from 16% in Q2 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240725/p35#a240725p35)
- - [Video Game Performers Are Going on Strike Over AI](https://www.wired.com/story/video-game-voice-actors-are-going-on-strike-over-ai/)<!-- TECH:END -->
+ - [I&#39;m a Full-Time Creator -- Here&#39;s All the Video Gear I Use video](https://www.cnet.com/videos/im-a-full-time-creator-heres-all-the-video-gear-i-use/#ftag=CAD590a51e)
+ - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
+ - [The 12 Best Eye Creams of 2024](https://www.cnet.com/health/personal-care/best-eye-cream/#ftag=CAD590a51e)
+ - [Helix Dusk Luxe Mattress Review 2024: A Comfortable Pillow-Top Bed](https://www.cnet.com/health/sleep/helix-dusk-luxe-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

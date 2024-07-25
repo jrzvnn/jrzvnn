@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joe Biden Lost The Internet. Kamala Harris Is Trying to Win it Back](https://www.wired.com/story/joe-biden-lost-the-internet-kamala-harris-is-trying-to-win-it-back/)
+ - [At The 2024 Summer Olympics, AI Is Watching You](https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/)
  - [Crunchbase: in H1 2024, generative AI startups raised $500M across 198 angel/seed deals, $8.7B across 39 early-stage deals, and $3.1B across 18 late-stage deals &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240725/p12#a240725p12)
- - [After investigating how Meta handles AI-generated explicit images, Oversight Board asks Meta to use the terminology &quot;non-consensual&quot; over &quot;derogatory&quot;, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p11#a240725p11)
- - [Hands on: Everything new with CarPlay in iOS 18](https://appleinsider.com/articles/24/07/25/hands-on-everything-new-with-carplay-in-ios-18?utm_medium=rss)
- - [Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/240725/p10#a240725p10)
- - [SSI Beneficiaries Are Getting Two Payments in August. Here&#39;s Why](https://www.cnet.com/personal-finance/ssi-beneficiaries-are-getting-two-payments-in-august-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthony Fauci Worries About the Next Pandemic—But Worries More About Democracy](https://www.wired.com/story/anthony-fauci-interview-q-and-a-july-2024-trump-harris/)
+ - [&#39;Deadpool &amp; Wolverine&#39; Scales New Heights of Cinematic Self-Awareness](https://www.wired.com/story/deadpool-and-wolverine-trailers-launched-a-bonanza-for-internet-sleuths/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

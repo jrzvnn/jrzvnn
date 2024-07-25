@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We need a US-led global coalition of like-minded countries and a new strategy to ensure that a democratic vision for AI prevails over an authoritarian one &lpar;Sam Altman/Washington Post&rpar;](http://www.techmeme.com/240725/p14#a240725p14)
- - [Cannondale Moterra SL 2 Electric Mountain Bike Review: Lightweight and Powerful](https://www.wired.com/review/cannondale-moterra-carbon-sl2/)
- - [Beats Pill &lpar;2024&rpar; Review: A Fortified Contender](https://www.wired.com/review/beats-pill-2024/)
- - [Don&#39;t lose your iPhone in South Korea, because Find My doesn&#39;t work there](https://appleinsider.com/articles/24/07/25/dont-lose-your-iphone-in-south-korea-because-find-my-doesnt-work-there?utm_medium=rss)
- - [DefiLlama and Wintermute: the aggregate market cap of stablecoins crossed $164B for the first time since the collapse of Terra in May 2022; USDT is at $114.26B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/240725/p13#a240725p13)<!-- TECH:END -->
+ - [The UK&#39;s FCA fines Coinbase &amp;pound;3.5M for providing payment services to over 13,000 &quot;high-risk&quot; customers, in its first enforcement action against a crypto company &lpar;Financial Times&rpar;](http://www.techmeme.com/240725/p15#a240725p15)
+ - [Connect Wireless Headphones to Your TV to Watch Movies and Shows in Peace](https://www.wired.com/story/how-to-connect-wireless-headphones-to-your-tv/)
+ - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)
+ - [The massive Fallout: London mod is now available](https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available)
+ - [The Galaxy Ring keeps you in Samsung’s orbit](https://www.theverge.com/24205156/samsung-galaxy-ring-review-smart-ring-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

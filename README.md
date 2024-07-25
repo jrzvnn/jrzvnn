@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic plans to bring its mobile games to AltStore on iOS in the EU, and remove its games from the Galaxy Store due to Samsung blocking sideloading by default &lpar;Epic Games&rpar;](http://www.techmeme.com/240725/p32#a240725p32)
  - [Russia says it will throttle YouTube download speeds on computers by 70% by the end of next week, as &quot;a consequence of the anti-Russian policy of the host&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/240725/p31#a240725p31)
  - [NASA blew up this inflatable space station structure on purpose](https://www.theverge.com/2024/7/25/24206219/nasa-sierra-space-inflatable-fabric-space-station-burst-test-video)
  - [Video game performers to go on strike](https://www.theverge.com/2024/7/25/24206357/video-game-performer-strike-sag-aftra)
- - [SAG-AFTRA announces a strike starting Friday against major video game companies, including EA, after talks for a new contract broke down over AI protections &lpar;Sarah Parvini/Associated Press&rpar;](http://www.techmeme.com/240725/p30#a240725p30)
- - [Apple’s AirTags are on sale for $23.99 a pop, matching their all-time low](https://www.theverge.com/2024/7/25/24202063/airtag-location-tracker-apple-watch-series-9-deal-sale)<!-- TECH:END -->
+ - [SAG-AFTRA announces a strike starting Friday against major video game companies, including EA, after talks for a new contract broke down over AI protections &lpar;Sarah Parvini/Associated Press&rpar;](http://www.techmeme.com/240725/p30#a240725p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is about to open its new research lab in Shenzhen](https://appleinsider.com/articles/24/07/25/apple-is-about-to-open-its-new-research-lab-in-shenzhen?utm_medium=rss)
  - [Joe Biden Lost The Internet. Kamala Harris Is Trying to Win it Back](https://www.wired.com/story/joe-biden-lost-the-internet-kamala-harris-is-trying-to-win-it-back/)
  - [At The 2024 Summer Olympics, AI Is Watching You](https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/)
  - [Crunchbase: in H1 2024, generative AI startups raised $500M across 198 angel/seed deals, $8.7B across 39 early-stage deals, and $3.1B across 18 late-stage deals &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240725/p12#a240725p12)
- - [Anthony Fauci Worries About the Next Pandemic—But Worries More About Democracy](https://www.wired.com/story/anthony-fauci-interview-q-and-a-july-2024-trump-harris/)
- - [&#39;Deadpool &amp; Wolverine&#39; Scales New Heights of Cinematic Self-Awareness](https://www.wired.com/story/deadpool-and-wolverine-trailers-launched-a-bonanza-for-internet-sleuths/)<!-- TECH:END -->
+ - [Get $230 Off the Anker EverFrost Portable Cooler and Be the Life of the Party](https://www.cnet.com/deals/get-230-off-anker-everfrost-portable-cooler-be-the-life-of-the-party/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

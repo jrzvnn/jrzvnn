@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC&#39;s newly unredacted filings quote an Adobe exec comparing early termination fees to &quot;heroin&quot;; Adobe&#39;s Dana Rao says the person was not on the leadership team &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240725/p24#a240725p24)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [After record-breaking heat, UN issues ‘call to action’](https://www.theverge.com/2024/7/25/24205999/heat-record-action-call-united-nations-workers)
  - [Apple&#39;s M3 MacBook Pro 14-inch with 16GB RAM, 1TB SSD is on sale for a record low $1,749](https://appleinsider.com/articles/24/07/25/apples-m3-macbook-pro-14-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-a-record-low-1749?utm_medium=rss)
- - [Google updates its Gemini chatbot with Gemini 1.5 Flash and a 32K-token context window in its free tier, links to related content for some prompts, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240725/p23#a240725p23)
- - [Are You Still Cleaning the Old School Way? It&#39;s Time to Get Rid of Your Dustpan](https://www.cnet.com/deals/are-you-still-cleaning-the-old-school-way-its-time-to-get-rid-of-your-dustpan/#ftag=CAD590a51e)
- - [I Put My Twist on This Budgeting Method to Pay Off $72,000 in Student Loans](https://www.cnet.com/personal-finance/banking/i-put-my-twist-on-this-budgeting-method-to-pay-off-72000-in-student-loans/#ftag=CAD590a51e)
- - [The Associated Press removes a fact-check claiming JD Vance has not had sex with a couch](https://www.theverge.com/2024/7/25/24206088/jd-vance-fact-check-sex-couch-rumor-associated-press-retraction)<!-- TECH:END -->
+ - [Google updates its Gemini chatbot with Gemini 1.5 Flash and a 32K-token context window in its free tier, links to related content for some prompts, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240725/p23#a240725p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

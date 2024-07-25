@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it partnered with publishers including WSJ and The Atlantic to build its search engine SearchGPT; publishers can manage how their content appears &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240725/p28#a240725p28)
  - [Meta says WhatsApp now has more than 100M MAUs in the US and that more than 50% of WhatsApp users in the country have an iPhone; WhatsApp has 2B+ MAUs globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p27#a240725p27)
  - [There’s a blender hidden inside this insulated travel cup](https://www.theverge.com/2024/7/25/24206200/nutribullet-flip-blender-appliances)
- - [Runway’s AI video generator trained on thousands of scraped YouTube videos](https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report)
- - [OpenAI unveils SearchGPT, a search tool powered by GPT-4 that can organize links and summarize its findings, available as a prototype to 10,000 users at launch &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240725/p26#a240725p26)
- - [California&#39;s Supreme Court upholds Prop 22, allowing Uber, Lyft, DoorDash, and other companies to keep classifying California drivers as independent contractors &lpar;Maia Spoto/Bloomberg&rpar;](http://www.techmeme.com/240725/p25#a240725p25)<!-- TECH:END -->
+ - [New Jersey&#39;s $500 Million Bid to Become an AI Epicenter](https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/)
+ - [Runway’s AI video generator trained on thousands of scraped YouTube videos](https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

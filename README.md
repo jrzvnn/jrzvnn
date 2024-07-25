@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: since the start of Ukraine war in 2022, Russia obtained ~$4B worth of US restricted chips from 6K+ companies, including from shell firms in Hong Kong &lpar;New York Times&rpar;](http://www.techmeme.com/240725/p3#a240725p3)
  - [Lakera, which helps enterprises protect generative AI apps from LLM vulnerabilities, raised a $20M Series A led by Atomico, bringing its total funding to $30M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240725/p2#a240725p2)
  - [Enterprise financial software company OneStream&#39;s shares closed up 34.25% at $26.85 in its Nasdaq debut, giving it a market cap of ~$6.2B, after a ~$490M IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p1#a240725p1)
  - [Dazz, which provides AI-based cloud security remediation software for enterprises, raised $50M from Greylock and others, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240724/p43#a240724p43)
- - [How to use the new &#39;Search Here&#39; feature in Apple Maps with iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-new-search-here-feature-in-apple-maps-with-ios-18?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 25, #144](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-25-144/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use the new &#39;Search Here&#39; feature in Apple Maps with iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-new-search-here-feature-in-apple-maps-with-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

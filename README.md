@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is discontinuing my favorite Echo — the one with a dot-matrix clock](https://www.theverge.com/2024/7/24/24205675/amazon-discontinue-echo-dot-with-clock)
  - [AMD delays its Zen 5 Ryzen 9000 launch, originally set for July, to August due to an unspecified quality issue, and pulls back all units shipped to replace them &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240724/p37#a240724p37)
  - [Privacy-focused developer Proton debuts a self-custody bitcoin wallet, its first cryptocurrency product, initially available to early access users &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240724/p36#a240724p36)
  - [FBI director discusses the Trump rally shooter’s search history and drone details](https://www.theverge.com/2024/7/24/24205527/trump-rally-shooter-search-history-drone-fbi)
- - [The NBA’s new TV deals put a lot of games on Amazon’s Prime Video starting in 2025](https://www.theverge.com/2024/7/24/24205603/amazon-prime-video-11-year-nba-streaming-deal)
- - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
+ - [The NBA’s new TV deals put a lot of games on Amazon’s Prime Video starting in 2025](https://www.theverge.com/2024/7/24/24205603/amazon-prime-video-11-year-nba-streaming-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

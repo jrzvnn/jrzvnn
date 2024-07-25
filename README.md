@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Survival instinct -9000](http://9gag.com/gag/apRLDNM)
- - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 💣 [I don&#39;t have a BBQ](http://9gag.com/gag/avynEXZ)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
+ - 😝 [9gagers rn](http://9gag.com/gag/aAyP2g0)
+ - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 💣 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
+ - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
 
 ---
 

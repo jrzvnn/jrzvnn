@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 😝 [Boys](http://9gag.com/gag/amozWv4)
- - 💣 [None of your business](http://9gag.com/gag/an717Do)
- - 😝 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
- - 👉 [Mindly interesting](http://9gag.com/gag/a8740Ge)<!-- MEMES:END -->
+ - 😝 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
+ - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 💣 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 ---
 

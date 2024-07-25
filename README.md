@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Audition for Stomp group.](http://9gag.com/gag/a8742qZ)
- - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
- - 💣 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 💣 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - 👉 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
- - 😝 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
- - 💣 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
- - 👉 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)<!-- MEMES:END -->
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
+ - 😝 [Boys](http://9gag.com/gag/amozWv4)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
 
 ---
 

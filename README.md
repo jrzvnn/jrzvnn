@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
- - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
- - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 😝 [You know what to do boizzz!](http://9gag.com/gag/ae9672O)
+ - 💣 [Never let anyone know your next move.](http://9gag.com/gag/axyDOKM)
+ - 😝 [Clown world](http://9gag.com/gag/aO8v1Zr)
+ - 👉 [S\u01dd\u0287\u0250\u0279\u01ddu\u01dd\u0183\u01ddp \u028doll\u01dd\u025f \u028e\u026f \u0250\u1d09l\u0250\u0279\u0287sn\u2200 \u026fo\u0279\u025f s\u0279\u01dd\u01dd\u0265\u0186](http://9gag.com/gag/a34j0Ne)<!-- MEMES:END -->
 
 ---
 

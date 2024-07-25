@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind rolls out AlphaProof AI model, which specializes in math reasoning, and AlphaGeometry 2, an updated version of a model focused on geometry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p22#a240725p22)
  - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
  - [Samsung Galaxy Ring review: great hardware, long battery life, and requires no subscription, but it&#39;s Android only and health tracking accuracy is a mixed bag &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240725/p21#a240725p21)
  - [Google Pixel Buds Pro 2 leak brings back the wing tip — kind of](https://www.theverge.com/2024/7/25/24206015/google-pixel-buds-pro-2-leak-wing-tip-colors)
- - [Apple&#39;s iPhone shipments are still getting squeezed in China by rising rivals](https://appleinsider.com/articles/24/07/25/apples-iphone-shipments-are-still-getting-squeezed-in-china-by-rising-rivals?utm_medium=rss)
- - [Apple plans fabric displays for future devices like the HomePod](https://appleinsider.com/articles/24/07/25/apple-plans-fabric-displays-for-future-devices-like-the-homepod?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iPhone shipments are still getting squeezed in China by rising rivals](https://appleinsider.com/articles/24/07/25/apples-iphone-shipments-are-still-getting-squeezed-in-china-by-rising-rivals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gagers rn](http://9gag.com/gag/aAyP2g0)
- - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 💣 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
+ - 😝 [Great success](http://9gag.com/gag/aqyLW9L)
+ - 😝 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
+ - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
+ - 😝 [Clown world](http://9gag.com/gag/aO8v1Zr)
+ - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
 
 ---
 

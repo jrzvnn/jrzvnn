@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The news we deserve](http://9gag.com/gag/aKG3eZN)
- - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
  - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 👉 [Watching This Intelligent Bird Get The Color Right](http://9gag.com/gag/apRL6Lp)<!-- MEMES:END -->
+ - 😝 [The news we deserve](http://9gag.com/gag/aKG3eZN)
+ - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
 
 ---
 

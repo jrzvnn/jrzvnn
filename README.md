@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
- - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 💣 [Almost identical](http://9gag.com/gag/awyVg8y)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
+ - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - 😝 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
+ - 💣 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 👉 [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)<!-- MEMES:END -->
 
 ---
 

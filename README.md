@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GIVE PEOPLE WHAT THEY WANT](http://9gag.com/gag/a6ZQ5nb)
- - 😝 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
- - 💣 [Bbq in a brazilian beach - Rate my setup](http://9gag.com/gag/azxAKpZ)
- - 😝 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)
- - 👉 [9GAG right now](http://9gag.com/gag/a9yY8rK)<!-- MEMES:END -->
+ - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 💣 [Boys](http://9gag.com/gag/amozWv4)
+ - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 👉 [Cool but dead](http://9gag.com/gag/a2v50RY)<!-- MEMES:END -->
 
 ---
 

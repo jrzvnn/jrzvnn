@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Homeless man spawns around 6 am w/ background music](http://9gag.com/gag/a8747Q6)
- - 😝 [WhenYouDecidedToBecomeaProgrammer](http://9gag.com/gag/a0ejewq)
- - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
+ - 😝 [Some day in uk, be the most beautiful in uk](http://9gag.com/gag/aKG31jg)
+ - 😝 [Kirby&#39;s Bold Request](http://9gag.com/gag/aryNy5X)
+ - 💣 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
+ - 😝 [Boys](http://9gag.com/gag/amozWv4)
+ - 👉 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)<!-- MEMES:END -->
 
 ---
 

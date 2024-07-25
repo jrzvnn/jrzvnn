@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
- - 😝 [Survival instinct -9000](http://9gag.com/gag/apRLDNM)
- - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 😝 [Boys](http://9gag.com/gag/amozWv4)
- - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
+ - 😝 [Homeless man spawns around 6 am w/ background music](http://9gag.com/gag/a8747Q6)
+ - 😝 [WhenYouDecidedToBecomeaProgrammer](http://9gag.com/gag/a0ejewq)
+ - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
 
 ---
 

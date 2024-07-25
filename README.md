@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 😝 [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
- - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
+ - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - 💣 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
  - 😝 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
- - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 ---
 

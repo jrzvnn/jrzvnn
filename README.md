@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After investigating how Meta handles AI-generated explicit images, Oversight Board asks Meta to use the terminology &quot;non-consensual&quot; over &quot;derogatory&quot;, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p11#a240725p11)
+ - [Hands on: Everything new with CarPlay in iOS 18](https://appleinsider.com/articles/24/07/25/hands-on-everything-new-with-carplay-in-ios-18?utm_medium=rss)
  - [Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/240725/p10#a240725p10)
- - [Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p9#a240725p9)
- - [Asus ROG Ally X review: the best Windows gaming handheld by a mile](https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc)
- - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Now&#39;s the Time to Score a High APY, July 25, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-25-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SSI Beneficiaries Are Getting Two Payments in August. Here&#39;s Why](https://www.cnet.com/personal-finance/ssi-beneficiaries-are-getting-two-payments-in-august-heres-why/#ftag=CAD590a51e)
+ - [Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p9#a240725p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

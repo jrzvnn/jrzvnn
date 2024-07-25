@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple’s AirTags are on sale for $23.99 a pop, matching their all-time low](https://www.theverge.com/2024/7/25/24202063/airtag-location-tracker-apple-watch-series-9-deal-sale)
  - [WhatsApp now has 100 million monthly users in the US](https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone)
- - [Sonos CEO Patrick Spence apologizes for the new Sonos app, launched in May with a criticized redesign, and promises biweekly app updates through the fall &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240725/p29#a240725p29)
+ - [Sonos CEO Patrick Spence apologizes for Sonos&#39; redesigned app, which launched in May to widespread criticism, and promises biweekly app updates through the fall &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240725/p29#a240725p29)
  - [Overwatch 2 opens the door to a return for 6v6](https://www.theverge.com/2024/7/25/24206210/overwatch-2-six-player-team-multiplayer-test)
- - [Sonos apologizes for screwing up its revamped iOS app launch](https://appleinsider.com/articles/24/07/25/sonos-apologizes-for-screwing-up-its-revamped-ios-app-launch?utm_medium=rss)<!-- TECH:END -->
+ - [The 21 Best Movies on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 😝 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
- - 💣 [Boys](http://9gag.com/gag/amozWv4)
- - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 👉 [Cool but dead](http://9gag.com/gag/a2v50RY)<!-- MEMES:END -->
+ - 😝 [Don&#39;t forget the sauce](http://9gag.com/gag/a6ZQBnR)
+ - 😝 [Karl Urban is a credible actor. What movie or series have you seen him in and did you like it?](http://9gag.com/gag/a874md6)
+ - 💣 [As i get older this always hits harder](http://9gag.com/gag/aD2G73O)
+ - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 👉 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)<!-- MEMES:END -->
 
 ---
 

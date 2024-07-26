@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
+ - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)
  - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)
  - [Apple Ring, iOS betas, and iPhone 17 camera rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/26/apple-ring-ios-betas-and-iphone-17-camera-rumors-on-the-appleinsider-podcast?utm_medium=rss)
- - [How to stream the Olympics like a champ](https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock)
- - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Google brings Nest Hello support to the Home app](https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features)<!-- TECH:END -->
+ - [Teenage Engineering TX-6 Review: A Pocket-Sized Audio Mixer](https://www.wired.com/review/teenage-engineering-tx-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

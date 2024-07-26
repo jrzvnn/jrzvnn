@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 😝 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
- - 💣 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)<!-- MEMES:END -->
+ - 😝 [Thief tried to steal a driver&#39;s cell phone, who grabbed his arm and dragged him at high speed to the police.](http://9gag.com/gag/a34jWoN)
+ - 😝 [S\u01dd\u0287\u0250\u0279\u01ddu\u01dd\u0183\u01ddp \u028doll\u01dd\u025f \u028e\u026f \u0250\u1d09l\u0250\u0279\u0287sn\u2200 \u026fo\u0279\u025f s\u0279\u01dd\u01dd\u0265\u0186](http://9gag.com/gag/a34j0Ne)
+ - 💣 [Never let anyone know your next move.](http://9gag.com/gag/axyDOKM)
+ - 😝 [BBQ on oil tanker](http://9gag.com/gag/aryN256)
+ - 👉 [Me entering 9GAG after a few days without internet...](http://9gag.com/gag/a1mXELb)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 💣 [Mindly interesting](http://9gag.com/gag/a8740Ge)
  - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 💣 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
+ - 😝 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
+ - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
 
 ---
 

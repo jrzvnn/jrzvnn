@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam is getting some big upgrades for game demos](https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages)
  - [SK Hynix announces plans to invest roughly $6.8B through 2028 on a chip plant in Yongin, South Korea, including a &quot;mini-fab&quot; to process 300mm silicon wafers &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240726/p4#a240726p4)
  - [iCloud Private Relay outage hits iPhone Safari users](https://appleinsider.com/articles/24/07/26/icloud-private-relay-outage-hits-iphone-safari-users?utm_medium=rss)
  - [The Biden administration says Apple agreed to White House&#39;s voluntary safeguards for AI, joining the ranks of OpenAI, Amazon, Alphabet, Microsoft, and others &lpar;Akayla Gardner/Bloomberg&rpar;](http://www.techmeme.com/240726/p3#a240726p3)
- - [Windows 11 will soon add your Android phone to File Explorer](https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature)
- - [A US Olympic Medalist Shares How He Beats Jet Lag and Flies Like a Pro](https://www.cnet.com/health/sleep/a-us-olympic-medalist-shares-how-he-beats-jet-lag-and-flies-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Windows 11 will soon add your Android phone to File Explorer](https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Self-driving startup Applied Intuition raised $300M+ as part of a secondary deal that allowed shareholders and employees to sell shares in the $6B company &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240725/p45#a240725p45)
  - [Florida-based IntelePeer, which develops software to help businesses automate customer contact centers using AI, raised $140M in equity and debt &lpar;Denver Business Journal&rpar;](http://www.techmeme.com/240725/p44#a240725p44)
  - [FTC&#39;s Lina Khan says open-weights AI models can promote competition and &quot;liberate startups from the arbitrary whims of closed developers and cloud gatekeepers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p43#a240725p43)
  - [Binarly: UEFI Secure Boot is completely compromised on 200+ device models sold by Acer, Dell, Gigabyte, Intel, and Supermicro due to a cryptographic key leak &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240725/p42#a240725p42)
- - [OWC extends its popular $99 Thunderbolt Dock sale through July 28](https://appleinsider.com/articles/24/07/26/owc-extends-its-popular-99-thunderbolt-dock-sale-through-july-28?utm_medium=rss)
- - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)<!-- TECH:END -->
+ - [OWC extends its popular $99 Thunderbolt Dock sale through July 28](https://appleinsider.com/articles/24/07/26/owc-extends-its-popular-99-thunderbolt-dock-sale-through-july-28?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

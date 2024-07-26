@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)
- - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
- - 💣 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
- - 😝 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)
+ - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 💣 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
  - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
 
 ---

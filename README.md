@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoo hatches record number of condor chicks to release into the wild](https://www.theverge.com/2024/7/26/24206819/california-condor-zoo-conservation-record-chicks)
+ - [These are the best Apple Watch bands for working out in 2024](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-for-working-out?utm_medium=rss)
  - [Arranger’s clever puzzles will have you rearranging your schedule to play](https://www.theverge.com/24206836/arranger-puzzle-game-review-netflix-summer-game-fest)
  - [Pixel 9’s ‘Add Me’ feature puts you in a group photo even when you’re not there](https://www.theverge.com/2024/7/26/24206969/google-pixel-9-add-me-group-photos-leak)
- - [An engineer has built a classic Mac Plus from modern parts](https://appleinsider.com/articles/24/07/26/an-engineer-has-built-a-classic-mac-plus-from-modern-parts?utm_medium=rss)
- - [Foxconn eyes India for iPad production amid Apple&#39;s expansion plans](https://appleinsider.com/articles/24/07/26/foxconn-eyes-india-for-ipad-production-amid-apples-expansion-plans?utm_medium=rss)
- - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Wired&rpar;](http://www.techmeme.com/240726/p11#a240726p11)<!-- TECH:END -->
+ - [Best Smart Home Deals: Upgrade With These Device Deals and Live Smarter for Less](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
+ - 😝 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
+ - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
  - 😝 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 💣 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
+ - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
 
 ---
 

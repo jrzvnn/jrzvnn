@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 😝 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)
+ - 😝 [Lol](http://9gag.com/gag/apRLx85)
  - 💣 [Ph.D.](http://9gag.com/gag/a874zOY)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)<!-- MEMES:END -->
+ - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
 
 ---
 

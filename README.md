@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
- - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
+ - 😝 [Hear me out 9gaggers](http://9gag.com/gag/aVveRO8)
+ - 😝 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)
+ - 💣 [Finally I can post this](http://9gag.com/gag/a34jnV7)
+ - 😝 [Rest from all the propaganda and enjoy some good ol&#39; satisfying domino stuff...](http://9gag.com/gag/aNDW3OG)
+ - 👉 [Wholesome indeed](http://9gag.com/gag/aryNz0V)<!-- MEMES:END -->
 
 ---
 

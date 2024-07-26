@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Intelligence will adhere to new and vague federal artificial intelligence safeguards](https://appleinsider.com/articles/24/07/26/apple-intelligence-will-adhere-to-new-and-vague-federal-artificial-intelligence-safeguards?utm_medium=rss)
  - [The US Commerce Department says it signed a nonbinding preliminary agreement with Amkor for a CHIPS Act award consisting of $400M in grants and $200M in loans &lpar;Amy Edelen/Phoenix Business Journal&rpar;](http://www.techmeme.com/240726/p5#a240726p5)
+ - [Europe Is Pumping Billions Into New Military Tech](https://www.wired.com/story/european-commission-military-tech-spending/)
  - [Microsoft calls for Windows changes and resilience after CrowdStrike outage](https://www.theverge.com/2024/7/26/24206719/microsoft-windows-changes-crowdstrike-kernel-driver)
- - [Steam is getting some big upgrades for game demos](https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages)
- - [SK Hynix announces plans to invest roughly $6.8B through 2028 on a chip plant in Yongin, South Korea, including a &quot;mini-fab&quot; to process 300mm silicon wafers &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240726/p4#a240726p4)<!-- TECH:END -->
+ - [Steam is getting some big upgrades for game demos](https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)
+ - [Apple Ring, iOS betas, and iPhone 17 camera rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/26/apple-ring-ios-betas-and-iphone-17-camera-rumors-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How to stream the Olympics like a champ](https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock)
  - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Google brings Nest Hello support to the Home app](https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features)
- - [Hands on: Everything new in tvOS 18 for Apple TV](https://appleinsider.com/articles/24/07/26/hands-on-everything-new-in-tvos-18-for-apple-tv?utm_medium=rss)
- - [A profile of, and interview with, Sequoia&#39;s Roelof Botha on increasing Sequoia&#39;s focus on AI investments, staying politically neutral, and more &lpar;Michal Lev-Ram/Fortune&rpar;](http://www.techmeme.com/240726/p6#a240726p6)
- - [HIV Testing: How to Get a Free Home HIV Test, Who Should Take One and More](https://www.cnet.com/health/medical/hiv-testing-how-to-get-a-free-home-hiv-test-who-should-take-one-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google brings Nest Hello support to the Home app](https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

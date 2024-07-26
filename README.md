@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gojira presentation at the opening of Paris2024](http://9gag.com/gag/aGyD6z7)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 💣 [Lol](http://9gag.com/gag/apRLx85)
- - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
+ - 😝 [Kaboom](http://9gag.com/gag/a34jxdv)
+ - 😝 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
+ - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
 
 ---
 

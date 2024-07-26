@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
- - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)<!-- MEMES:END -->
+ - 😝 [Ph.D.](http://9gag.com/gag/a874zOY)
+ - 😝 [Lol](http://9gag.com/gag/apRLx85)
+ - 💣 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
 
 ---
 

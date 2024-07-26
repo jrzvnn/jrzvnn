@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
- - 😝 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 😝 [If you know, you know](http://9gag.com/gag/aqyLpvv)
- - 👉 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)<!-- MEMES:END -->
+ - 😝 [Gojira presentation at the opening of Paris2024](http://9gag.com/gag/aGyD6z7)
+ - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 💣 [Lol](http://9gag.com/gag/apRLx85)
+ - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
 
 ---
 

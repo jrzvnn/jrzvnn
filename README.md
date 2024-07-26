@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11 will soon add your Android phone to File Explorer](https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature)
+ - [A US Olympic Medalist Shares How He Beats Jet Lag and Flies Like a Pro](https://www.cnet.com/health/sleep/a-us-olympic-medalist-shares-how-he-beats-jet-lag-and-flies-like-a-pro/#ftag=CAD590a51e)
+ - [Best Savings Rates Today -- The Clock Is Ticking on APYs Up to 5.45%, July 26, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-26-2024/#ftag=CAD590a51e)
  - [Inside JD Vance&#39;s VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p2#a240726p2)
- - [6 New Apple Maps Features in iOS 18 to Help You Find Your Way](https://www.cnet.com/tech/services-and-software/6-new-apple-maps-features-in-ios-18-to-help-you-find-your-way/#ftag=CAD590a51e)
- - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-26/#ftag=CAD590a51e)
- - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 New Apple Maps Features in iOS 18 to Help You Find Your Way](https://www.cnet.com/tech/services-and-software/6-new-apple-maps-features-in-ios-18-to-help-you-find-your-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

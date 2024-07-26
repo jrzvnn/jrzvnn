@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoo hatches record number of condor chicks to release into the wild](https://www.theverge.com/2024/7/26/24206819/california-condor-zoo-conservation-record-chicks)
- - [These are the best Apple Watch bands for working out in 2024](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-for-working-out?utm_medium=rss)
- - [Arranger’s clever puzzles will have you rearranging your schedule to play](https://www.theverge.com/24206836/arranger-puzzle-game-review-netflix-summer-game-fest)
- - [Pixel 9’s ‘Add Me’ feature puts you in a group photo even when you’re not there](https://www.theverge.com/2024/7/26/24206969/google-pixel-9-add-me-group-photos-leak)
- - [Best Smart Home Deals: Upgrade With These Device Deals and Live Smarter for Less](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow](https://www.theverge.com/2024/7/26/24206952/spacex-falcon-9-resume-flight-faa)
+ - [The Boys is getting a prequel series](https://www.theverge.com/2024/7/26/24205593/the-boys-prequel-vought-rising-sdcc-2024)
+ - [US unions are trying to organize staff at chip firms set to receive CHIPS Act grants; CWA is pushing to organize workers at Intel and other big chip companies &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p12#a240726p12)
+ - [SharkNinja’s new coffee machine takes the hard parts out of making espresso](https://www.theverge.com/2024/7/26/24206758/sharkninja-ninja-luxe-cafe-coffee-espresso-cold-brew)
+ - [San Diego Comic-Con 2024: all the biggest trailers and news](https://www.theverge.com/24205446/san-diego-comic-con-2024-news-trailers-announcements-marvel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

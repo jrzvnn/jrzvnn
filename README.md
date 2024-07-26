@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)
+ - [Steve Jobs Knew the Moment the Future Had Arrived. It&#39;s Calling Again](https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/)
  - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
  - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)
- - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)
- - [What Google&#39;s Pixel 9 Pro Fold Needs to Keep Up With Samsung](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

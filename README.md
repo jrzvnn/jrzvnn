@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
- - 😝 [Polish soldiers can shoot legaly doctors and engineers trespassing our border!](http://9gag.com/gag/a2v5xy9)
- - 💣 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)
- - 😝 [If you know, you know](http://9gag.com/gag/aqyLpvv)
- - 👉 [Lord of the Chad](http://9gag.com/gag/awyVvrD)<!-- MEMES:END -->
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 💣 [If you know, you know](http://9gag.com/gag/aqyLpvv)
+ - 😝 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)
+ - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
 
 ---
 

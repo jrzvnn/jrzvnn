@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Junji Ito’s terrifying Uzumaki hits Adult Swim in September](https://www.theverge.com/2024/7/26/24207163/junji-ito-uzumaki-adult-swim-trailer-date)
+ - [A new Doctor Who spinoff series is coming to Disney Plus](https://www.theverge.com/2024/7/26/24207092/doctor-who-the-war-between-the-land-and-the-sea-sdcc-2024)
+ - [Keychron K10 Pro review: All-rounder and affordable keyboard](https://appleinsider.com/articles/24/07/26/keychron-k10-pro-review-all-rounder-and-affordable-keyboard?utm_medium=rss)
  - [Dengue Fever Threatens to Gate-Crash the 2024 Summer Olympics](https://www.wired.com/story/paris-olympics-2024-dengue-measles-bedbugs/)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Drew Afualo Will Never Stop Making Fun of Misogynist Men](https://www.wired.com/story/dial-up-drew-afualo/)
- - [X Is Using Your Tweets to Train Its AI: Here&#39;s How to Disable That](https://www.cnet.com/tech/services-and-software/x-is-using-your-tweets-to-train-its-ai-heres-how-to-disable-that/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hint for July 26, #1133 Is to Think of an Uncommon Word](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-26-1133/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

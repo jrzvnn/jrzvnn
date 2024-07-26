@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Wired&rpar;](http://www.techmeme.com/240726/p11#a240726p11)
  - [Here’s how to stop X from using your posts to train its AI](https://www.theverge.com/2024/7/26/24206904/x-grok-ai-train-turn-off)
- - [Best OTA DVR for Cord Cutters in 2024](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [Want to Watch X-Men Movies Now That Deadpool 3 Is Out? Here&#39;s Where and How](https://www.cnet.com/tech/services-and-software/want-to-watch-x-men-now-that-deadpool-3-is-out-heres-where-and-how/#ftag=CAD590a51e)
- - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+ - [X activates a setting, on by default, that gives it permission to train Grok on user&#39;s posts; the setting can be turned off on the web but not in the mobile app &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240726/p10#a240726p10)
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

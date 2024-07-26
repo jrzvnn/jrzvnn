@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Here’s your first look at Amazon’s Like a Dragon: Yakuza](https://www.theverge.com/24206830/like-a-dragon-yakuza-trailer-amazon-prime-video-sdcc-2024)
+ - [Here&#39;s How to See 6 Planets in the Sky at Once in the Upcoming Planet Parade](https://www.cnet.com/science/you-can-spot-6-planets-in-the-sky-at-once-in-aug-23-planet-parade/#ftag=CAD590a51e)
+ - [Bookmark This Heat Risk Guide to Help You Survive This Steamy Summer](https://www.cnet.com/science/use-this-free-new-warning-system-to-get-prepped-for-extreme-heat/#ftag=CAD590a51e)
  - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240726/p15#a240726p15)
- - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)
- - [Best AT&amp;T Phones in 2024](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)
- - [How to Watch the Federal Reserve Meeting](https://www.cnet.com/personal-finance/how-to-watch-the-federal-reserve-meeting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wolverine Gets a Rounded Butt Xbox Controller to Compete With Deadpool](https://www.cnet.com/tech/gaming/now-theres-a-wolverine-butt-xbox-controller-to-go-with-deadpool/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

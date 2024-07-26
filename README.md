@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-26/#ftag=CAD590a51e)
+ - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
  - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 26, #145](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-145/#ftag=CAD590a51e)
- - [Best Camera Phone of 2024](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
- - [How to update the email linked to your Apple ID](https://appleinsider.com/inside/ios/tips/how-to-update-the-email-linked-to-your-apple-id?utm_medium=rss)<!-- TECH:END -->
+ - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside JD Vance&#39;s VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p2#a240726p2)
  - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)
  - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-26/#ftag=CAD590a51e)
  - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)
- - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

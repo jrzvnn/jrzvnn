@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 😝 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
+ - 😝 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
+ - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
  - 👉 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
- - 😝 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
- - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)<!-- MEMES:END -->
+ - 😝 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)
+ - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 💣 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
+ - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 👉 [Not Ok!](http://9gag.com/gag/aVveVB2)<!-- MEMES:END -->
 
 ---
 

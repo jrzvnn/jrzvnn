@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Florida-based IntelePeer, which develops software to help businesses automate customer contact centers using AI, raised $140M in equity and debt &lpar;Denver Business Journal&rpar;](http://www.techmeme.com/240725/p44#a240725p44)
+ - [FTC&#39;s Lina Khan says open-weights AI models can promote competition and &quot;liberate startups from the arbitrary whims of closed developers and cloud gatekeepers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p43#a240725p43)
  - [Binarly: UEFI Secure Boot is completely compromised on 200+ device models sold by Acer, Dell, Gigabyte, Intel, and Supermicro due to a cryptographic key leak &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240725/p42#a240725p42)
  - [OWC extends its popular $99 Thunderbolt Dock sale through July 28](https://appleinsider.com/articles/24/07/26/owc-extends-its-popular-99-thunderbolt-dock-sale-through-july-28?utm_medium=rss)
- - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)
- - [Kamala Harris joins TikTok, following an explosion of Harris memes since announcing her presidential run; her account has attracted 400K+ followers in ~2 hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240725/p40#a240725p40)
- - [Memo: Jack Dorsey plans a Block restructuring to remove business unit silos and group staff by function and warns that it may feel &quot;disruptive or uncomfortable&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240725/p39#a240725p39)<!-- TECH:END -->
+ - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

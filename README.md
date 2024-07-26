@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 😝 [Ph.D.](http://9gag.com/gag/a874zOY)
- - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
  - 😝 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 👉 [Lol](http://9gag.com/gag/apRLx85)<!-- MEMES:END -->
+ - 💣 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
 
 ---
 

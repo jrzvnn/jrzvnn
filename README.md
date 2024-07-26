@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s overhauled One UI 7 revealed](https://www.theverge.com/2024/7/26/24206755/samsung-galaxy-one-ui-7-revealed-leak)
  - [Canadian soccer teams have been spying with drones for years](https://www.theverge.com/2024/7/26/24206788/canada-soccer-drones-spying-olympics)
  - [ESR’s inexpensive Qi2 car charger is more than 40 percent off for a limited time](https://www.theverge.com/2024/7/26/24206412/esr-qi2-magnetic-car-charger-nes-controllers-deal-sale)
  - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)
- - [Save $70 on the LG Tone Free T80 Earbuds With Our Exclusive Discount Code](https://www.cnet.com/deals/save-70-on-the-lg-tone-free-t80-earbuds-with-our-exclusive-discount-code/#ftag=CAD590a51e)
- - [Smokeless Fire Pits Are All the Rage, but Are They Worth It?](https://www.cnet.com/home/yard-and-outdoors/smokeless-fire-pits-are-all-the-rage-but-are-they-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $70 on the LG Tone Free T80 Earbuds With Our Exclusive Discount Code](https://www.cnet.com/deals/save-70-on-the-lg-tone-free-t80-earbuds-with-our-exclusive-discount-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

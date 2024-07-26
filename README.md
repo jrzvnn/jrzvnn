@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An engineer has built a classic Mac Plus from modern parts](https://appleinsider.com/articles/24/07/26/an-engineer-has-built-a-classic-mac-plus-from-modern-parts?utm_medium=rss)
+ - [Foxconn eyes India for iPad production amid Apple&#39;s expansion plans](https://appleinsider.com/articles/24/07/26/foxconn-eyes-india-for-ipad-production-amid-apples-expansion-plans?utm_medium=rss)
  - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Wired&rpar;](http://www.techmeme.com/240726/p11#a240726p11)
  - [Here’s how to stop X from using your posts to train its AI](https://www.theverge.com/2024/7/26/24206904/x-grok-ai-train-turn-off)
- - [Best OTA DVR for Cord Cutters in 2024](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [Want to Watch X-Men Movies Now That Deadpool 3 Is Out? Here&#39;s Where and How](https://www.cnet.com/tech/services-and-software/want-to-watch-x-men-now-that-deadpool-3-is-out-heres-where-and-how/#ftag=CAD590a51e)
- - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best OTA DVR for Cord Cutters in 2024](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arranger’s clever puzzles will have you rearranging your schedule to play](https://www.theverge.com/24206836/arranger-puzzle-game-review-netflix-summer-game-fest)
+ - [Pixel 9’s ‘Add Me’ feature puts you in a group photo even when you’re not there](https://www.theverge.com/2024/7/26/24206969/google-pixel-9-add-me-group-photos-leak)
  - [An engineer has built a classic Mac Plus from modern parts](https://appleinsider.com/articles/24/07/26/an-engineer-has-built-a-classic-mac-plus-from-modern-parts?utm_medium=rss)
  - [Foxconn eyes India for iPad production amid Apple&#39;s expansion plans](https://appleinsider.com/articles/24/07/26/foxconn-eyes-india-for-ipad-production-amid-apples-expansion-plans?utm_medium=rss)
- - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Wired&rpar;](http://www.techmeme.com/240726/p11#a240726p11)
- - [Here’s how to stop X from using your posts to train its AI](https://www.theverge.com/2024/7/26/24206904/x-grok-ai-train-turn-off)
- - [Best OTA DVR for Cord Cutters in 2024](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Wired&rpar;](http://www.techmeme.com/240726/p11#a240726p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

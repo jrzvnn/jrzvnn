@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sauron returns in The Rings of Power’s season 2 trailer](https://www.theverge.com/2024/7/26/24206030/the-rings-of-power-season-2-trailer-sdcc-2024)
  - [SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow](https://www.theverge.com/2024/7/26/24206952/spacex-falcon-9-resume-flight-faa)
  - [The Boys is getting a prequel series](https://www.theverge.com/2024/7/26/24205593/the-boys-prequel-vought-rising-sdcc-2024)
  - [US unions are trying to organize staff at chip firms set to receive CHIPS Act grants; CWA is pushing to organize workers at Intel and other big chip companies &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p12#a240726p12)
- - [SharkNinja’s new coffee machine takes the hard parts out of making espresso](https://www.theverge.com/2024/7/26/24206758/sharkninja-ninja-luxe-cafe-coffee-espresso-cold-brew)
- - [San Diego Comic-Con 2024: all the biggest trailers and news](https://www.theverge.com/24205446/san-diego-comic-con-2024-news-trailers-announcements-marvel)<!-- TECH:END -->
+ - [SharkNinja’s new coffee machine takes the hard parts out of making espresso](https://www.theverge.com/2024/7/26/24206758/sharkninja-ninja-luxe-cafe-coffee-espresso-cold-brew)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

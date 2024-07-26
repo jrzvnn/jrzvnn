@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US-based security vendor KnowBe4 says it unwittingly hired a North Korean hacker who then unsuccessfully attempted to load malware into the company&#39;s network &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240726/p15#a240726p15)
  - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)
  - [Best AT&amp;T Phones in 2024](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)
  - [How to Watch the Federal Reserve Meeting](https://www.cnet.com/personal-finance/how-to-watch-the-federal-reserve-meeting/#ftag=CAD590a51e)
- - [Yes, Certain Houseplants Repel Bugs. Here Are 6 to Try This Summer](https://www.cnet.com/news/best-houseplants-to-repel-bugs/#ftag=CAD590a51e)
- - [Best Credit Cards for Instant Approval in July 2024](https://www.cnet.com/personal-finance/best-instant-approval-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yes, Certain Houseplants Repel Bugs. Here Are 6 to Try This Summer](https://www.cnet.com/news/best-houseplants-to-repel-bugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

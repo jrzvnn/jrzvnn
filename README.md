@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out minor update to iOS 18 beta 4](https://appleinsider.com/articles/24/07/26/apple-rolls-out-minor-update-to-ios-18-beta-4?utm_medium=rss)
+ - [Apple rolls out minor update to iOS 18 &amp; iPadOS 18 beta 4](https://appleinsider.com/articles/24/07/26/apple-rolls-out-minor-update-to-ios-18-beta-4?utm_medium=rss)
  - [Junji Ito’s terrifying Uzumaki hits Adult Swim in September](https://www.theverge.com/2024/7/26/24207163/junji-ito-uzumaki-adult-swim-trailer-date)
  - [A new Doctor Who spinoff series is coming to Disney Plus](https://www.theverge.com/2024/7/26/24207092/doctor-who-the-war-between-the-land-and-the-sea-sdcc-2024)
  - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)

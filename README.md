@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
- - 😝 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
- - 💣 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
+ - 😝 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)
+ - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
+ - 💣 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
+ - 😝 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)
+ - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
 
 ---
 

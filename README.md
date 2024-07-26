@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
  - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
- - 💣 [The news we deserve](http://9gag.com/gag/aKG3eZN)
- - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 💣 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
 
 ---
 

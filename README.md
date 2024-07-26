@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The news we deserve](http://9gag.com/gag/aKG3eZN)
  - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
+ - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - 💣 [The news we deserve](http://9gag.com/gag/aKG3eZN)
+ - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
 
 ---
 

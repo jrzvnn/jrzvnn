@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [X Is Using Your Tweets to Train Its AI: Here&#39;s How to Disable That](https://www.cnet.com/tech/services-and-software/x-is-using-your-tweets-to-train-its-ai-heres-how-to-disable-that/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hint for July 26, #1133 Is to Think of an Uncommon Word](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-26-1133/#ftag=CAD590a51e)
  - [Ireland&#39;s Data Protection Commission says it is surprised and is &quot;seeking clarity&quot; about X&#39;s move to automatically allow user data to train Grok &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p13#a240726p13)
- - [The 20 Best Movies on Amazon Prime Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Sauron returns in The Rings of Power’s season 2 trailer](https://www.theverge.com/2024/7/26/24206030/the-rings-of-power-season-2-trailer-sdcc-2024)
- - [SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow](https://www.theverge.com/2024/7/26/24206952/spacex-falcon-9-resume-flight-faa)<!-- TECH:END -->
+ - [Best Internet Providers in Charleston, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charleston-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Ireland&#39;s Data Protection Commission says it is surprised and is &quot;seeking clarity&quot; about X&#39;s move to automatically allow user data to train Grok &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p13#a240726p13)
+ - [The 20 Best Movies on Amazon Prime Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Sauron returns in The Rings of Power’s season 2 trailer](https://www.theverge.com/2024/7/26/24206030/the-rings-of-power-season-2-trailer-sdcc-2024)
- - [SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow](https://www.theverge.com/2024/7/26/24206952/spacex-falcon-9-resume-flight-faa)
- - [The Boys is getting a prequel series](https://www.theverge.com/2024/7/26/24205593/the-boys-prequel-vought-rising-sdcc-2024)
- - [US unions are trying to organize staff at chip firms set to receive CHIPS Act grants; CWA is pushing to organize workers at Intel and other big chip companies &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p12#a240726p12)<!-- TECH:END -->
+ - [SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow](https://www.theverge.com/2024/7/26/24206952/spacex-falcon-9-resume-flight-faa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

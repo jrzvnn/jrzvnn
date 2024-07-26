@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)
- - [Steve Jobs Knew the Moment the Future Had Arrived. It&#39;s Calling Again](https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/)
- - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
- - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)
- - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)<!-- TECH:END -->
+ - [Save $70 on the LG Tone Free T80 Earbuds With Our Exclusive Discount Code](https://www.cnet.com/deals/save-70-on-the-lg-tone-free-t80-earbuds-with-our-exclusive-discount-code/#ftag=CAD590a51e)
+ - [Smokeless Fire Pits Are All the Rage, but Are They Worth It?](https://www.cnet.com/home/yard-and-outdoors/smokeless-fire-pits-are-all-the-rage-but-are-they-worth-it/#ftag=CAD590a51e)
+ - [Haven Safari Tent Review 2024: Is This Hammock More Comfortable Than Your Bed?](https://www.cnet.com/health/sleep/haven-safari-tent-review/#ftag=CAD590a51e)
+ - [Steve Jobs Knew the Moment the Future Had Arrived. It&#39;s Calling Again](https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

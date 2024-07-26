@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
- - 😝 [OP likes Boys or something or other](http://9gag.com/gag/ayN83yy)
- - 💣 [Also with hairy armpits](http://9gag.com/gag/a34jW85)
- - 😝 [Back of the garden professional golfer](http://9gag.com/gag/axyDvnp)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
+ - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 👉 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)<!-- MEMES:END -->
 
 ---
 

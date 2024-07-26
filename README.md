@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
  - [Google brings Nest Hello support to the Home app](https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features)
  - [Hands on: Everything new in tvOS 18 for Apple TV](https://appleinsider.com/articles/24/07/26/hands-on-everything-new-in-tvos-18-for-apple-tv?utm_medium=rss)
  - [A profile of, and interview with, Sequoia&#39;s Roelof Botha on increasing Sequoia&#39;s focus on AI investments, staying politically neutral, and more &lpar;Michal Lev-Ram/Fortune&rpar;](http://www.techmeme.com/240726/p6#a240726p6)
- - [HIV Testing: How to Get a Free Home HIV Test, Who Should Take One and More](https://www.cnet.com/health/medical/hiv-testing-how-to-get-a-free-home-hiv-test-who-should-take-one-and-more/#ftag=CAD590a51e)
- - [You Can Get Google&#39;s Circle to Search AI Feature on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-get-googles-circle-to-search-ai-feature-on-your-iphone-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Week of Brat Summer Will Go Down in Internet History](https://www.wired.com/story/the-week-of-brat-summer-will-go-down-in-internet-history/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

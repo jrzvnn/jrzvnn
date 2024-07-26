@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let anyone know your next move.](http://9gag.com/gag/axyDOKM)
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 💣 [S\u01dd\u0287\u0250\u0279\u01ddu\u01dd\u0183\u01ddp \u028doll\u01dd\u025f \u028e\u026f \u0250\u1d09l\u0250\u0279\u0287sn\u2200 \u026fo\u0279\u025f s\u0279\u01dd\u01dd\u0265\u0186](http://9gag.com/gag/a34j0Ne)
- - 😝 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)
- - 👉 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)<!-- MEMES:END -->
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 💣 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
+ - 😝 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
+ - 👉 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)<!-- MEMES:END -->
 
 ---
 

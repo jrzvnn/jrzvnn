@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 💣 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
- - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
+ - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
+ - 😝 [France is a no-fly zone now](http://9gag.com/gag/aLn9NO5)
+ - 👉 [If you know, you know](http://9gag.com/gag/aqyLpvv)<!-- MEMES:END -->
 
 ---
 

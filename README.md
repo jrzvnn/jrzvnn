@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not Ok!](http://9gag.com/gag/aVveVB2)
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
- - 😝 [France is a no-fly zone now](http://9gag.com/gag/aLn9NO5)
- - 👉 [If you know, you know](http://9gag.com/gag/aqyLpvv)<!-- MEMES:END -->
+ - 😝 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
+ - 😝 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [If you know, you know](http://9gag.com/gag/aqyLpvv)
+ - 👉 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)<!-- MEMES:END -->
 
 ---
 

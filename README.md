@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
  - [X activates a default setting that gives it permission to train Grok AI on user&#39;s posts; the setting can be turned off on the web but not in the mobile app &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240726/p10#a240726p10)
  - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
  - [Best 4K TV Deals: Save Thousands on a New TV From Top Brands](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [The First Zero-Emission Hydrogen Train in the US Is Setting Off in Late 2024](https://www.cnet.com/tech/the-first-zero-emission-hydrogen-train-in-the-us-is-setting-off-in-late-2024/#ftag=CAD590a51e)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The First Zero-Emission Hydrogen Train in the US Is Setting Off in Late 2024](https://www.cnet.com/tech/the-first-zero-emission-hydrogen-train-in-the-us-is-setting-off-in-late-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

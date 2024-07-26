@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 💣 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
+ - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 💣 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
 
 ---
 

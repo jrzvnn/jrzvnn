@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [X activates a default setting that gives it permission to train Grok AI on user&#39;s posts; the setting can be turned off on the web but not in the mobile app &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240726/p10#a240726p10)
- - [A Self-Healing Pole Vault Pole Is One Great Leap for Sports Tech](https://www.wired.com/story/a-self-healing-pole-vault-pole-is-one-great-leap-for-sports-tech/)
- - [Amazon knocks $100 off Apple&#39;s 2024 iPad Air 13-inch &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/24/07/26/amazon-knocks-100-off-apples-2024-ipad-air-13-inch-lowest-price-ever?utm_medium=rss)
- - [Kamala Harris, who began her career in the Bay Area and was involved in Biden&#39;s pro-tech actions like the CHIPS Act, sees a surge of support from tech donors &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/240726/p9#a240726p9)
- - [Samsung’s overhauled One UI 7 revealed](https://www.theverge.com/2024/7/26/24206755/samsung-galaxy-one-ui-7-revealed-leak)<!-- TECH:END -->
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
+ - [Best 4K TV Deals: Save Thousands on a New TV From Top Brands](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [The First Zero-Emission Hydrogen Train in the US Is Setting Off in Late 2024](https://www.cnet.com/tech/the-first-zero-emission-hydrogen-train-in-the-us-is-setting-off-in-late-2024/#ftag=CAD590a51e)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
- - 💣 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
- - 😝 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
- - 👉 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)<!-- MEMES:END -->
+ - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 💣 [Ph.D.](http://9gag.com/gag/a874zOY)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 👉 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)<!-- MEMES:END -->
 
 ---
 

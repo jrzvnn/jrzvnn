@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)
  - [Apple rolls out minor update to iOS 18 &amp; iPadOS 18 beta 4](https://appleinsider.com/articles/24/07/26/apple-rolls-out-minor-update-to-ios-18-beta-4?utm_medium=rss)
  - [Junji Ito’s terrifying Uzumaki hits Adult Swim in September](https://www.theverge.com/2024/7/26/24207163/junji-ito-uzumaki-adult-swim-trailer-date)
  - [A new Doctor Who spinoff series is coming to Disney Plus](https://www.theverge.com/2024/7/26/24207092/doctor-who-the-war-between-the-land-and-the-sea-sdcc-2024)
- - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)
- - [Keychron K10 Pro review: All-rounder and affordable keyboard](https://appleinsider.com/articles/24/07/26/keychron-k10-pro-review-all-rounder-and-affordable-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

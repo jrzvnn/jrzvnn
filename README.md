@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know you did.](http://9gag.com/gag/a1mX2MY)
- - 😝 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
- - 💣 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
- - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
+ - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 😝 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - 👉 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)<!-- MEMES:END -->
 
 ---
 

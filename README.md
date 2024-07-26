@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kamala Harris joins TikTok, following an explosion of Harris memes since announcing her presidential run; her account has attracted 400K+ followers in ~2 hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240725/p40#a240725p40)
  - [Memo: Jack Dorsey plans a Block restructuring to remove business unit silos and group staff by function and warns that it may feel &quot;disruptive or uncomfortable&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240725/p39#a240725p39)
  - [Sonos Admits Its Recent App Update Was a Colossal Mistake](https://www.wired.com/story/sonos-admits-its-recent-app-update-was-a-colossal-mistake/)
- - [CrowdStrike CEO George Kurtz says 97% of Windows sensors are back online, about a week after CrowdStrike shipped a faulty update that bricked Windows computers &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240725/p38#a240725p38)
- - [A decade-old drama between David Sacks and Parker Conrad has blown up into a fight on X over VC behavior, drawing in Paul Graham and other Silicon Valley names &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240725/p37#a240725p37)
- - [Leaked promo material reveals Pixel 9 series specs: all phones powered by Tensor G4, Pixel 9 Pro in 6.3-inch and 6.8-inch models with 16GB of RAM, and more &lpar;G.S Vasan/91mobiles&rpar;](http://www.techmeme.com/240725/p36#a240725p36)<!-- TECH:END -->
+ - [How 23 Million Americans Are Adjusting to Life Without the Affordable Connectivity Program](https://www.cnet.com/home/internet/how-23-million-americans-are-adjusting-to-life-without-the-affordable-connectivity-program/#ftag=CAD590a51e)
+ - [CrowdStrike CEO George Kurtz says 97% of Windows sensors are back online, about a week after CrowdStrike shipped a faulty update that bricked Windows computers &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240725/p38#a240725p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

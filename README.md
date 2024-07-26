@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)
  - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
  - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)
  - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)
- - [Apple Ring, iOS betas, and iPhone 17 camera rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/26/apple-ring-ios-betas-and-iphone-17-camera-rumors-on-the-appleinsider-podcast?utm_medium=rss)
- - [Teenage Engineering TX-6 Review: A Pocket-Sized Audio Mixer](https://www.wired.com/review/teenage-engineering-tx-6/)<!-- TECH:END -->
+ - [What Google&#39;s Pixel 9 Pro Fold Needs to Keep Up With Samsung](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

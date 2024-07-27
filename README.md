@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kamala Harris&#39; advisers have approached top crypto companies, including Coinbase, Circle, and Ripple Labs, to &quot;reset&quot; relations with the industry &lpar;Financial Times&rpar;](http://www.techmeme.com/240727/p5#a240727p5)
- - [Samsung Galaxy Buds3 Review: Cybertruck AirPods](https://www.wired.com/review/samsung-galaxy-buds3/)
- - [Best Outdoor Tech for 2024](https://www.cnet.com/news/the-best-outdoor-tech/#ftag=CAD590a51e)
- - [How to find the reading mode built into your browser](https://www.theverge.com/24206804/reading-mode-chrome-safari-firefox-how-to)
- - [8BitDo’s first mechanical keyboard is down to its best price to date](https://www.theverge.com/2024/7/27/24206927/8bitdo-retro-mechanical-keyboard-blink-mini-2-camera-deal-sale)<!-- TECH:END -->
+ - [How Win With Black Women and other groups are using Zoom calls to organize and fundraise for Kamala Harris; virtual rallies for Harris raised $10M+ this week &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/240727/p6#a240727p6)
+ - [Marvel Rivals Closed Beta Adds Thor and Jeff: How to Get Access Today](https://www.cnet.com/tech/gaming/marvel-rivals-closed-beta-how-to-get-access-today/#ftag=CAD590a51e)
+ - [Blazing Summer Heat Can Damage Your Lawn – but It Doesn’t Have To](https://www.cnet.com/how-to/dont-let-extreme-temps-fry-your-lawn-heres-how-to-keep-it-beautiful-all-summer/#ftag=CAD590a51e)
+ - [Best Mattresses for Couples in 2024](https://www.cnet.com/health/sleep/best-mattresses-for-couples/#ftag=CAD590a51e)
+ - [Sources: Kamala Harris&#39; advisers have approached top crypto companies, including Coinbase, Circle, and Ripple Labs, to &quot;reset&quot; relations with the industry &lpar;Financial Times&rpar;](http://www.techmeme.com/240727/p5#a240727p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

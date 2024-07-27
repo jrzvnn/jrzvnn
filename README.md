@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown Olympics](http://9gag.com/gag/a874QNZ)
- - 😝 [Lord of the Chad](http://9gag.com/gag/awyVvrD)
- - 💣 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 😝 [The culprit of paris olympic ceremony](http://9gag.com/gag/aE0nj4N)
- - 👉 [Screw you all and see you tommorow. Greetings from Romania!](http://9gag.com/gag/aVvedPd)<!-- MEMES:END -->
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
 
 ---
 

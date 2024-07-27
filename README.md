@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 💣 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 😝 [The sound of 2,008 people drumming together at the opening ceremony of the 2008 Beijing Olympics](http://9gag.com/gag/aRBe9K7)
  - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
+ - 💣 [Art modern art specifically](http://9gag.com/gag/abAZm1p)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 👉 [Lady signature](http://9gag.com/gag/aE0njMo)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
- - 💣 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
+ - 😝 [Show this to your bf](http://9gag.com/gag/aD2GX37)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 💣 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
+ - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
 
 ---
 

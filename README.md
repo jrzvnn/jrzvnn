@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Silo season 2 hits Apple TV Plus this November](https://www.theverge.com/24177603/silo-season-2-apple-tv-plus-premiere-date-sdcc-2024)
  - [Sources: Apple met with UK TV ratings body Barb to discuss options for tracking ads on Apple TV+, in another sign that it plans to introduce ads on the service &lpar;James Warrington/The Telegraph&rpar;](http://www.techmeme.com/240727/p12#a240727p12)
+ - [Tricks to Increase Your Cell Phone Signal on iPhone and Android at the Olympics](https://www.cnet.com/tech/mobile/tricks-to-increase-your-cell-phone-signal-on-iphone-and-android-at-the-olympics/#ftag=CAD590a51e)
  - [Donald Trump Backs &#39;Strategic Bitcoin Stockpile&#39; in Speech to Crypto Faithful](https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/)
- - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
- - [Best Indoor Bike Trainers for 2024: Tacx, Wahoo, Saris and More Compared](https://www.cnet.com/health/fitness/best-indoor-bike-trainer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where To Stream All X-Men Movies Now That Deadpool 3 Is Out](https://www.cnet.com/tech/services-and-software/how-to-stream-all-x-men-movies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

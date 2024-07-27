@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
- - 💣 [Lord of the Chad](http://9gag.com/gag/awyVvrD)
- - 😝 [Clown Olympics](http://9gag.com/gag/a874QNZ)
- - 👉 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)<!-- MEMES:END -->
+ - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 👉 [Show this to your bf](http://9gag.com/gag/aD2GX37)<!-- MEMES:END -->
 
 ---
 

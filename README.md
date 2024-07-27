@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
  - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 💣 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 💣 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
 
 ---
 

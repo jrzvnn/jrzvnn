@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
- - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
  - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 💣 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 😝 [UnDefined](http://9gag.com/gag/abAZRV8)
  - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
 
 ---

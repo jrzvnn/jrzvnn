@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
- - 💣 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
+ - 😝 [The culprit of paris olympic ceremony](http://9gag.com/gag/aE0nj4N)
+ - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 💣 [Lord of the Chad](http://9gag.com/gag/awyVvrD)
+ - 😝 [Screw you all and see you tommorow. Greetings from Romania!](http://9gag.com/gag/aVvedPd)
+ - 👉 [When your diplomacy skill is zero](http://9gag.com/gag/aMV9616)<!-- MEMES:END -->
 
 ---
 

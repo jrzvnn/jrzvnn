@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus Chromebook Plus CX34 Review: A Pretty Chromebook](https://www.wired.com/review/asus-chromebook-plus-cx34/)
  - [Stream the Olympics Using Peacock&#39;s New Interactive Features](https://www.cnet.com/tech/services-and-software/stream-the-olympics-using-peacocks-new-interactive-features/#ftag=CAD590a51e)
  - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)
  - [Inmotion V12 HT EUC Review: Fantastic Wheel for Newbies and Seasoned Pros Alike](https://www.cnet.com/roadshow/news/inmotion-v12-ht-euc-review-fantastic-wheel-for-newbies-and-seasoned-pros-alike/#ftag=CAD590a51e)
- - [iOS 18 Beta: How to Convert Distance, Currency and More in Calculator](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-convert-distance-currency-and-more-in-calculator/#ftag=CAD590a51e)
- - [Before iOS 18, Give Your iPhone a Security Boost in 5 Easy Steps](https://www.cnet.com/tech/services-and-software/before-ios-18-give-your-iphone-a-security-boost-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 Beta: How to Convert Distance, Currency and More in Calculator](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-convert-distance-currency-and-more-in-calculator/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 💣 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
+ - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 💣 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
+ - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
 
 ---
 

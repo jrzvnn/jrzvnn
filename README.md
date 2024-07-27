@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
- - 💣 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
- - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
- - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
+ - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
+ - 😝 [Art modern art specifically](http://9gag.com/gag/abAZm1p)
+ - 💣 [Show this to your bf](http://9gag.com/gag/aD2GX37)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
 
 ---
 

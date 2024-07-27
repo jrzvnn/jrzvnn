@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
- - 😝 [Art modern art specifically](http://9gag.com/gag/abAZm1p)
- - 💣 [Show this to your bf](http://9gag.com/gag/aD2GX37)
  - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
+ - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
+ - 💣 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)
+ - 😝 [Clown Olympics](http://9gag.com/gag/a874QNZ)
+ - 👉 [Lord of the Chad](http://9gag.com/gag/awyVvrD)<!-- MEMES:END -->
 
 ---
 

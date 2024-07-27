@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 😝 [Kaboom](http://9gag.com/gag/a34jxdv)
- - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)<!-- MEMES:END -->
+ - 😝 [Texas Governor sent a bus full of illegal immigrants to Kamala Harris\u2019 house](http://9gag.com/gag/a9yY480)
+ - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
+ - 💣 [Clown Olympics](http://9gag.com/gag/a874QNZ)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 👉 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)<!-- MEMES:END -->
 
 ---
 

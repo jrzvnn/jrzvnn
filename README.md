@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sound of 2,008 people drumming together at the opening ceremony of the 2008 Beijing Olympics](http://9gag.com/gag/aRBe9K7)
+ - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
  - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 💣 [Art modern art specifically](http://9gag.com/gag/abAZm1p)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Lady signature](http://9gag.com/gag/aE0njMo)<!-- MEMES:END -->
+ - 💣 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
+ - 😝 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP Elitebook Ultra G1q Review: Windows Battery Leader](https://www.wired.com/review/hp-elitebook-ultra-g1q/)
- - [Last Monday Was the Hottest Day on Record](https://www.wired.com/story/hottest-ever-day-on-earth-july-2024-summer-heat-climate-change/)
- - [Asus Chromebook Plus CX34 Review: A Pretty Chromebook](https://www.wired.com/review/asus-chromebook-plus-cx34/)
- - [Stream the Olympics Using Peacock&#39;s New Interactive Features](https://www.cnet.com/tech/services-and-software/stream-the-olympics-using-peacocks-new-interactive-features/#ftag=CAD590a51e)
- - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stop X’s Grok AI From Training on Your Tweets](https://www.wired.com/story/x-grok-ai-training-pegasus/)
+ - [DreamCloud Hybrid Mattress Review 2024: A Premium, Budget-Friendly Bed](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in Annapolis, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-annapolis-md/#ftag=CAD590a51e)
+ - [FaceTime on Android Phones: Everything You Need to Know](https://www.cnet.com/tech/mobile/facetime-on-android-phones-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [How to Use ChatGPT to Negotiate a Better Deal on Your Bills](https://www.cnet.com/tech/services-and-software/how-to-use-chatgpt-to-negotiate-a-better-deal-on-your-bills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

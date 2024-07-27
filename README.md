@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Talkie, which lets users chat with AI personas of celebrities and was one of most downloaded AI apps in the US in H1, is owned by China-based MiniMax &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p8#a240727p8)
+ - [Futurama’s new season struggles to make NFTs and AI funny](https://www.theverge.com/24206898/futurama-season-12-review-hulu-nft-ai)
  - [Google fixes a flaw after hackers bypassed email verification to create &quot;a few thousand&quot; Workspace accounts to access 3rd-party apps via Sign in with Google &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240727/p7#a240727p7)
  - [I Got an Inside Look at &#39;Alien: Romulus&#39; at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/an-inside-look-at-alien-romulus-at-comic-con-2024/#ftag=CAD590a51e)
- - [Lion&#39;s Mane Mushrooms: Potential Benefits, Side Effects and Supplementation](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-potential-benefits-side-effects-and-supplementation/#ftag=CAD590a51e)
- - [Apple reaches agreement with unionized Maryland Apple Store workers](https://appleinsider.com/articles/24/07/27/apple-reaches-agreement-with-unionized-maryland-apple-store-workers?utm_medium=rss)
- - [How Win With Black Women and other groups are using Zoom calls to organize and fundraise for Kamala Harris; virtual rallies for Harris raised $10M+ this week &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/240727/p6#a240727p6)<!-- TECH:END -->
+ - [Lion&#39;s Mane Mushrooms: Potential Benefits, Side Effects and Supplementation](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-potential-benefits-side-effects-and-supplementation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Texas Governor sent a bus full of illegal immigrants to Kamala Harris\u2019 house](http://9gag.com/gag/a9yY480)
- - 😝 [Gojira presentation at the opening of Paris2024](http://9gag.com/gag/aGyD6z7)
- - 💣 [Anyone remembers the most epic torch lightning on the 1992 Barcelona Olympics? Well I don\u2019t cause I was 5yo, nothing to do with that sh..t show we saw yesterday in Paris](http://9gag.com/gag/aPAW0eg)
- - 😝 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
- - 👉 [I made my own opening ceremony](http://9gag.com/gag/aBy1MeA)<!-- MEMES:END -->
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 💣 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
 
 ---
 

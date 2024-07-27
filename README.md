@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So hot right now](http://9gag.com/gag/a5QrgnG)
- - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 💣 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
- - 😝 [France is a no-fly zone now](http://9gag.com/gag/aLn9NO5)
- - 👉 [Being a man is not easy](http://9gag.com/gag/apRLXnn)<!-- MEMES:END -->
+ - 😝 [Anyone remembers the most epic torch lightning on the 1992 Barcelona Olympics? Well I don\u2019t cause I was 5yo, nothing to do with that sh..t show we saw yesterday in Paris](http://9gag.com/gag/aPAW0eg)
+ - 😝 [I made my own opening ceremony](http://9gag.com/gag/aBy1MeA)
+ - 💣 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
+ - 👉 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)<!-- MEMES:END -->
 
 ---
 

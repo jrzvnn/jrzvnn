@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
+ - [Best Indoor Bike Trainers for 2024: Tacx, Wahoo, Saris and More Compared](https://www.cnet.com/health/fitness/best-indoor-bike-trainer/#ftag=CAD590a51e)
+ - [After Sleeping on a Purple Mattress for 5 Years, I Have No Regrets](https://www.cnet.com/health/sleep/a-5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)
  - [Trump proposes a strategic national crypto stockpile; Bitcoin 2024 organizers say they were in talks to have Kamala Harris appear, but she ultimately declined &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240727/p11#a240727p11)
- - [At Nashville&#39;s Bitcoin 2024 conference, Trump said the US must become a leader in crypto, he will fire SEC chair Gary Gensler, stop creation of a CBDC, and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/240727/p10#a240727p10)
- - [Best Streaming Services for Kids in 2024](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CAD590a51e)
- - [Every &#39;Deadpool &amp; Wolverine&#39; Cameo That You Thought You Spotted](https://www.cnet.com/tech/services-and-software/all-deadpool-wolverine-cameos/#ftag=CAD590a51e)
- - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Grocery Delivery Services to Use in 2024](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

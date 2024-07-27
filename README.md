@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reaches agreement with unionized Maryland Apple Store workers](https://appleinsider.com/articles/24/07/27/apple-reaches-agreement-with-unionized-maryland-apple-store-workers?utm_medium=rss)
  - [How Win With Black Women and other groups are using Zoom calls to organize and fundraise for Kamala Harris; virtual rallies for Harris raised $10M+ this week &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/240727/p6#a240727p6)
+ - [The Best Mattresses for Side Sleepers in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-side-sleeper-mattresses/)
  - [Marvel Rivals Closed Beta Adds Thor and Jeff: How to Get Access Today](https://www.cnet.com/tech/gaming/marvel-rivals-closed-beta-how-to-get-access-today/#ftag=CAD590a51e)
- - [Blazing Summer Heat Can Damage Your Lawn – but It Doesn’t Have To](https://www.cnet.com/how-to/dont-let-extreme-temps-fry-your-lawn-heres-how-to-keep-it-beautiful-all-summer/#ftag=CAD590a51e)
- - [Best Mattresses for Couples in 2024](https://www.cnet.com/health/sleep/best-mattresses-for-couples/#ftag=CAD590a51e)
- - [Sources: Kamala Harris&#39; advisers have approached top crypto companies, including Coinbase, Circle, and Ripple Labs, to &quot;reset&quot; relations with the industry &lpar;Financial Times&rpar;](http://www.techmeme.com/240727/p5#a240727p5)<!-- TECH:END -->
+ - [Blazing Summer Heat Can Damage Your Lawn – but It Doesn’t Have To](https://www.cnet.com/how-to/dont-let-extreme-temps-fry-your-lawn-heres-how-to-keep-it-beautiful-all-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

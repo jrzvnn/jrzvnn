@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google fixes a flaw after hackers bypassed email verification to create &quot;a few thousand&quot; Workspace accounts to access 3rd-party apps via Sign in with Google &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240727/p7#a240727p7)
+ - [I Got an Inside Look at &#39;Alien: Romulus&#39; at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/an-inside-look-at-alien-romulus-at-comic-con-2024/#ftag=CAD590a51e)
+ - [Lion&#39;s Mane Mushrooms: Potential Benefits, Side Effects and Supplementation](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-potential-benefits-side-effects-and-supplementation/#ftag=CAD590a51e)
  - [Apple reaches agreement with unionized Maryland Apple Store workers](https://appleinsider.com/articles/24/07/27/apple-reaches-agreement-with-unionized-maryland-apple-store-workers?utm_medium=rss)
- - [How Win With Black Women and other groups are using Zoom calls to organize and fundraise for Kamala Harris; virtual rallies for Harris raised $10M+ this week &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/240727/p6#a240727p6)
- - [The Best Mattresses for Side Sleepers in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-side-sleeper-mattresses/)
- - [Marvel Rivals Closed Beta Adds Thor and Jeff: How to Get Access Today](https://www.cnet.com/tech/gaming/marvel-rivals-closed-beta-how-to-get-access-today/#ftag=CAD590a51e)
- - [Blazing Summer Heat Can Damage Your Lawn – but It Doesn’t Have To](https://www.cnet.com/how-to/dont-let-extreme-temps-fry-your-lawn-heres-how-to-keep-it-beautiful-all-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Win With Black Women and other groups are using Zoom calls to organize and fundraise for Kamala Harris; virtual rallies for Harris raised $10M+ this week &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/240727/p6#a240727p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

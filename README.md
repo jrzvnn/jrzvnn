@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP Elitebook Ultra G1q Review: Windows Battery Leader](https://www.wired.com/review/hp-elitebook-ultra-g1q/)
+ - [Last Monday Was the Hottest Day on Record](https://www.wired.com/story/hottest-ever-day-on-earth-july-2024-summer-heat-climate-change/)
  - [Asus Chromebook Plus CX34 Review: A Pretty Chromebook](https://www.wired.com/review/asus-chromebook-plus-cx34/)
  - [Stream the Olympics Using Peacock&#39;s New Interactive Features](https://www.cnet.com/tech/services-and-software/stream-the-olympics-using-peacocks-new-interactive-features/#ftag=CAD590a51e)
- - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)
- - [Inmotion V12 HT EUC Review: Fantastic Wheel for Newbies and Seasoned Pros Alike](https://www.cnet.com/roadshow/news/inmotion-v12-ht-euc-review-fantastic-wheel-for-newbies-and-seasoned-pros-alike/#ftag=CAD590a51e)
- - [iOS 18 Beta: How to Convert Distance, Currency and More in Calculator](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-convert-distance-currency-and-more-in-calculator/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

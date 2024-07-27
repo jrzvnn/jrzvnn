@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Buds3 Review: Cybertruck AirPods](https://www.wired.com/review/samsung-galaxy-buds3/)
  - [How to find the reading mode built into your browser](https://www.theverge.com/24206804/reading-mode-chrome-safari-firefox-how-to)
  - [8BitDo’s first mechanical keyboard is down to its best price to date](https://www.theverge.com/2024/7/27/24206927/8bitdo-retro-mechanical-keyboard-blink-mini-2-camera-deal-sale)
  - [Sources detail how Elon Musk undermined CEO Linda Yaccarino&#39;s efforts to repair X&#39;s business over the past year; X&#39;s US revenue fell 53% YoY to $114M in Q2 &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240727/p4#a240727p4)
- - [Prime Video&#39;s New Look: What&#39;s New for Your Streaming Experience](https://www.cnet.com/tech/services-and-software/prime-video-new-look-whats-new-streaming-experience/#ftag=CAD590a51e)
- - [The Best Student Discounts, Deals and Freebies for 2024](https://www.cnet.com/deals/the-best-student-discounts-deals-and-freebies-for-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Video&#39;s New Look: What&#39;s New for Your Streaming Experience](https://www.cnet.com/tech/services-and-software/prime-video-new-look-whats-new-streaming-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

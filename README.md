@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mortal Kombat 1: Khaos Reigns Expansion Includes Conan, Ghostface and the T-1000](https://www.cnet.com/tech/gaming/mortal-kombat-1-khaos-reigns-expansion-includes-conan-ghostface-and-the-t-1000/#ftag=CAD590a51e)
  - [Chinese self-driving startup WeRide files to list on the Nasdaq under the symbol WRD, reporting a loss of $268M on revenue of $55M in 2023 &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240726/p17#a240726p17)
  - [I Tried Improving My Sleep Quality With the Manta Sound Sleep Mask. Here&#39;s What Happened](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
  - [Freelancer.com, iFixit, and others say Anthropic&#39;s crawler has aggressively scraped their websites, potentially breaching their terms of service &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240726/p16#a240726p16)
- - [Like a Dragon: Yakuza TV Series Teases First Look at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/like-a-dragon-yakuza-tv-series-teases-first-look-at-comic-con-2024/#ftag=CAD590a51e)
- - [Here’s your first look at Amazon’s Like a Dragon: Yakuza](https://www.theverge.com/24206830/like-a-dragon-yakuza-trailer-amazon-prime-video-sdcc-2024)<!-- TECH:END -->
+ - [Like a Dragon: Yakuza TV Series Teases First Look at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/like-a-dragon-yakuza-tv-series-teases-first-look-at-comic-con-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

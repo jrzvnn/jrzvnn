@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Honeywell is considering a US IPO of its majority-owned quantum computing firm Quantinuum as soon as 2025, and could seek a valuation of about $10B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p18#a240726p18)
- - [Get Apple&#39;s latest Mac mini with 16GB RAM, 512GB SSD for just $799](https://appleinsider.com/articles/24/07/27/get-apples-latest-mac-mini-with-16gb-ram-512gb-ssd-for-just-799?utm_medium=rss)
- - [Best Internet Providers in Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-arizona/#ftag=CAD590a51e)
- - [Is the Olympic Cauldron Flying With a Hot-Air Balloon? Here&#39;s Everything We Know](https://www.cnet.com/tech/olympic-cauldron-is-flying-with-a-hot-air-balloon-heres-everything-we-know/#ftag=CAD590a51e)
- - [Mortal Kombat 1: Khaos Reigns Expansion Includes Conan, Ghostface and the T-1000](https://www.cnet.com/tech/gaming/mortal-kombat-1-khaos-reigns-expansion-includes-conan-ghostface-and-the-t-1000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 27, #146](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-27-146/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 27, #412](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-27-412/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 27, #1134](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-27-1134/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for July 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-27/#ftag=CAD590a51e)
+ - [Sources: Honeywell is considering a US IPO of its majority-owned quantum computing firm Quantinuum as soon as 2025, and could seek a valuation of about $10B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p18#a240726p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

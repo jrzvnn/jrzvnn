@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
- - 😝 [Show this to your bf](http://9gag.com/gag/aD2GX37)
- - 💣 [Wait, what?](http://9gag.com/gag/aZZpVqz)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)<!-- MEMES:END -->
+ - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - 😝 [Kaboom](http://9gag.com/gag/a34jxdv)
+ - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 👉 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)<!-- MEMES:END -->
 
 ---
 

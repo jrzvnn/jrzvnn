@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail how Elon Musk undermined CEO Linda Yaccarino&#39;s efforts to repair X&#39;s business over the past year; X&#39;s US revenue fell 53% YoY to $114M in Q2 &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240727/p4#a240727p4)
+ - [Stop X’s Grok AI From Training on Your Tweets](https://www.wired.com/story/x-grok-ai-training-pegasus/)
  - [DreamCloud Hybrid Mattress Review 2024: A Premium, Budget-Friendly Bed](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
  - [Best Internet Providers in Annapolis, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-annapolis-md/#ftag=CAD590a51e)
- - [FaceTime on Android Phones: Everything You Need to Know](https://www.cnet.com/tech/mobile/facetime-on-android-phones-everything-you-need-to-know/#ftag=CAD590a51e)
- - [How to Use ChatGPT to Negotiate a Better Deal on Your Bills](https://www.cnet.com/tech/services-and-software/how-to-use-chatgpt-to-negotiate-a-better-deal-on-your-bills/#ftag=CAD590a51e)
- - [Driving 4,000 Miles Across Europe in Lotus&#39; New EV Was Brutal but Incredible](https://www.cnet.com/roadshow/news/driving-4000-miles-across-europe-in-lotus-new-ev-was-brutal-but-incredible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FaceTime on Android Phones: Everything You Need to Know](https://www.cnet.com/tech/mobile/facetime-on-android-phones-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

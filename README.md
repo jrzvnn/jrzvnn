@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds3 review: auto-pause works well, but expensive, copy Apple&#39;s dated design with plastic tips, shoddy ANC, and AI tools are mostly useless &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240727/p9#a240727p9)
- - [Apple, Amazon target Twitch users for new Apple TV+ trial promotion](https://appleinsider.com/articles/24/07/27/apple-amazon-target-twitch-users-for-new-apple-tv-trial-promotion?utm_medium=rss)
- - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)
- - [Olympic Basketball 2024: When and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/olympics-basketball-how-to-watch/#ftag=CAD590a51e)
- - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At Nashville&#39;s Bitcoin 2024 conference, Trump said the US must become a leader in crypto, he will fire SEC chair Gary Gensler, stop creation of a CBDC, and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/240727/p10#a240727p10)
+ - [Best Streaming Services for Kids in 2024](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CAD590a51e)
+ - [Every &#39;Deadpool &amp; Wolverine&#39; Cameo That You Thought You Spotted](https://www.cnet.com/tech/services-and-software/all-deadpool-wolverine-cameos/#ftag=CAD590a51e)
+ - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
+ - [Samsung Galaxy Buds3 review: auto-pause works well, but expensive, copy Apple&#39;s dated design with plastic tips, shoddy ANC, and AI tools are mostly useless &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240727/p9#a240727p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

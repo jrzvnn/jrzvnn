@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
- - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 💣 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
+ - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 😝 [How do you explain road safety to Gen Z in an educational way?](http://9gag.com/gag/agmG68r)
+ - 💣 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - 😝 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
+ - 👉 [France is a no-fly zone now](http://9gag.com/gag/aLn9NO5)<!-- MEMES:END -->
 
 ---
 

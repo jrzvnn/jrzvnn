@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 Pro Fold: The 5 Biggest Upgrades I Want to See](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)
- - [iOS 18 Beta: How to Tint Your Icons and More Ways to Customize Your Home Screen](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-tint-your-icons-and-more-ways-to-customize-your-home-screen/#ftag=CAD590a51e)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
+ - [A profile of CrowdStrike CEO George Kurtz, who co-founded CrowdStrike in 2011 after departing as McAfee&#39;s CTO following Intel&#39;s acquisition of McAfee for $7.68B &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p3#a240727p3)
  - [From Skeptics to Superfans: How I Sold My Boomer Parents on the Apple Watch](https://www.cnet.com/tech/mobile/my-parents-health-worried-me-an-apple-watch-fixed-that-and-more/#ftag=CAD590a51e)
- - [To Actually Enjoy In-Flight Entertainment Audio, Add This Adapter to Your Bag](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [To Actually Enjoy In-Flight Entertainment Audio, Add This Adapter to Your Bag](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)
+ - [How to Watch Olympic Triathlon 2024: Schedule, Race Course, Streaming Tips and More](https://www.cnet.com/tech/services-and-software/olympics-triathlon-how-to-watch/#ftag=CAD590a51e)
+ - [23 Million Americans Relied on the Affordable Connectivity Program for Internet. Now It&#39;s Been Discontinued](https://www.cnet.com/home/internet/how-23-million-americans-are-adjusting-to-life-without-the-affordable-connectivity-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 😝 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
- - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
- - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 💣 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
 
 ---
 

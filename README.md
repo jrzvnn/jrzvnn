@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
- - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 💣 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
- - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 💣 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
 
 ---
 

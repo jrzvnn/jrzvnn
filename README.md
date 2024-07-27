@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump Backs &#39;Strategic Bitcoin Stockpile&#39; in Speech to Crypto Faithful](https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/)
  - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
  - [Best Indoor Bike Trainers for 2024: Tacx, Wahoo, Saris and More Compared](https://www.cnet.com/health/fitness/best-indoor-bike-trainer/#ftag=CAD590a51e)
  - [After Sleeping on a Purple Mattress for 5 Years, I Have No Regrets](https://www.cnet.com/health/sleep/a-5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)
- - [Trump proposes a strategic national crypto stockpile; Bitcoin 2024 organizers say they were in talks to have Kamala Harris appear, but she ultimately declined &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240727/p11#a240727p11)
- - [The 8 Best Grocery Delivery Services to Use in 2024](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump proposes a strategic national crypto stockpile; Bitcoin 2024 organizers say they were in talks to have Kamala Harris appear, but she ultimately declined &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240727/p11#a240727p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

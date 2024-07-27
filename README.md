@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 😝 [How do you explain road safety to Gen Z in an educational way?](http://9gag.com/gag/agmG68r)
- - 💣 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
- - 😝 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
- - 👉 [France is a no-fly zone now](http://9gag.com/gag/aLn9NO5)<!-- MEMES:END -->
+ - 😝 [If you know, you know](http://9gag.com/gag/aqyLpvv)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 💣 [Office wife](http://9gag.com/gag/aPAWdbB)
+ - 😝 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)
+ - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
 
 ---
 

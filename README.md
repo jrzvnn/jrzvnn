@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
  - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
+ - 💣 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 😝 [Kaboom](http://9gag.com/gag/a34jxdv)
+ - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
 
 ---
 

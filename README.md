@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Samsung Galaxy Buds3 review: auto-pause works well, but expensive, copy Apple&#39;s dated design with plastic tips, shoddy ANC, and AI tools are mostly useless &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240727/p9#a240727p9)
  - [Apple, Amazon target Twitch users for new Apple TV+ trial promotion](https://appleinsider.com/articles/24/07/27/apple-amazon-target-twitch-users-for-new-apple-tv-trial-promotion?utm_medium=rss)
- - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)
- - [Sources: Talkie, which lets users chat with AI personas of celebrities and was one of most downloaded AI apps in the US in H1, is owned by China-based MiniMax &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p8#a240727p8)
- - [Don’t Compromise Your Oral Health. How to Use Your Electric Toothbrush Correctly](https://www.cnet.com/health/personal-care/dont-compromise-your-oral-health-how-to-use-your-electric-toothbrush-correctly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)
+ - [Olympic Basketball 2024: When and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/olympics-basketball-how-to-watch/#ftag=CAD590a51e)
+ - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 😝 [9gag: Racism is like breathing](http://9gag.com/gag/aKG3LM1)
- - 💣 [Bonk](http://9gag.com/gag/a0ejx5B)
- - 😝 [Didn\u2018t see that coming](http://9gag.com/gag/aNDW8z3)
- - 👉 [Wholesome indeed](http://9gag.com/gag/aryNz0V)<!-- MEMES:END -->
+ - 😝 [If you know, you know](http://9gag.com/gag/aqyLpvv)
+ - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
+ - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)
+ - 👉 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)<!-- MEMES:END -->
 
 ---
 

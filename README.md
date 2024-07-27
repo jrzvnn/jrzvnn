@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Thunderbolt docks for your Mac or MacBook Pro](https://appleinsider.com/articles/24/07/27/the-best-thunderbolt-docks-for-your-mac-or-macbook-pro?utm_medium=rss)
- - [A profile of CrowdStrike CEO George Kurtz, who co-founded CrowdStrike in 2011 after departing as McAfee&#39;s CTO following Intel&#39;s acquisition of McAfee for $7.68B &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p3#a240727p3)
- - [Google Pixel 9 Pro Fold: The 5 Biggest Upgrades I Want to See](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)
- - [iOS 18 Beta: How to Tint Your Icons and More Ways to Customize Your Home Screen](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-tint-your-icons-and-more-ways-to-customize-your-home-screen/#ftag=CAD590a51e)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stream the Olympics Using Peacock&#39;s New Interactive Features](https://www.cnet.com/tech/services-and-software/stream-the-olympics-using-peacocks-new-interactive-features/#ftag=CAD590a51e)
+ - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)
+ - [Inmotion V12 HT EUC Review: Fantastic Wheel for Newbies and Seasoned Pros Alike](https://www.cnet.com/roadshow/news/inmotion-v12-ht-euc-review-fantastic-wheel-for-newbies-and-seasoned-pros-alike/#ftag=CAD590a51e)
+ - [iOS 18 Beta: How to Convert Distance, Currency and More in Calculator](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-convert-distance-currency-and-more-in-calculator/#ftag=CAD590a51e)
+ - [Before iOS 18, Give Your iPhone a Security Boost in 5 Easy Steps](https://www.cnet.com/tech/services-and-software/before-ios-18-give-your-iphone-a-security-boost-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

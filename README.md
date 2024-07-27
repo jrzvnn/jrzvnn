@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Inside Look at &#39;Alien: Romulus&#39; at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/an-inside-look-at-alien-romulus-at-comic-con-2024/#ftag=CAD590a51e)
- - [The 2024 Paris Summer Olympics is using real-time AI-based video surveillance tech to detect and predict threats, raising concerns over mass surveillance &lpar;Jorja Siemons/Bloomberg Law&rpar;](http://www.techmeme.com/240727/p2#a240727p2)
- - [Today&#39;s NYT Mini Crossword Answers for July 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-27/#ftag=CAD590a51e)
- - [Filing: the US DOJ says TikTok collected data about its users&#39; views on gun control, abortion, and religion, and censored content at ByteDance&#39;s direction &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240727/p1#a240727p1)
- - [The International Association of Machinists says Apple reached a three-year tentative labor agreement with retail workers at a Towson, Maryland store, a first &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240726/p19#a240726p19)<!-- TECH:END -->
+ - [From Skeptics to Superfans: How I Sold My Boomer Parents on the Apple Watch](https://www.cnet.com/tech/mobile/my-parents-health-worried-me-an-apple-watch-fixed-that-and-more/#ftag=CAD590a51e)
+ - [To Actually Enjoy In-Flight Entertainment Audio, Add This Adapter to Your Bag](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)
+ - [How to Watch Olympic Triathlon 2024: Schedule, Race Course, Streaming Tips and More](https://www.cnet.com/tech/services-and-software/olympics-triathlon-how-to-watch/#ftag=CAD590a51e)
+ - [23 Million Americans Relied on the Affordable Connectivity Program for Internet. Now It&#39;s Been Discontinued](https://www.cnet.com/home/internet/how-23-million-americans-are-adjusting-to-life-without-the-affordable-connectivity-program/#ftag=CAD590a51e)
+ - [An Inside Look at &#39;Alien: Romulus&#39; at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/an-inside-look-at-alien-romulus-at-comic-con-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

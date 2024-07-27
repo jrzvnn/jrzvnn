@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show this to your bf](http://9gag.com/gag/aD2GX37)
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 💣 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
+ - 😝 [The sound of 2,008 people drumming together at the opening ceremony of the 2008 Beijing Olympics](http://9gag.com/gag/aRBe9K7)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 💣 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
  - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
+ - 👉 [Wait, what?](http://9gag.com/gag/aZZpVqz)<!-- MEMES:END -->
 
 ---
 

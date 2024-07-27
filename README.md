@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The 2024 Paris Summer Olympics is using real-time AI-based video surveillance tech to detect and predict threats, raising concerns over mass surveillance &lpar;Jorja Siemons/Bloomberg Law&rpar;](http://www.techmeme.com/240727/p2#a240727p2)
- - [Today&#39;s NYT Mini Crossword Answers for July 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-27/#ftag=CAD590a51e)
  - [Filing: the US DOJ says TikTok collected data about its users&#39; views on gun control, abortion, and religion, and censored content at ByteDance&#39;s direction &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240727/p1#a240727p1)
  - [The International Association of Machinists says Apple reached a three-year tentative labor agreement with retail workers at a Towson, Maryland store, a first &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240726/p19#a240726p19)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 27, #146](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-27-146/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 27, #146](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-27-146/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 27, #412](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-27-412/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

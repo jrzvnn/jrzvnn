@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 💣 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
+ - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
  - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
  - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Chinese self-driving startup WeRide files to list on the Nasdaq under the symbol WRD, reporting a loss of $268M on revenue of $55M in 2023 &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240726/p17#a240726p17)
+ - [I Tried Improving My Sleep Quality With the Manta Sound Sleep Mask. Here&#39;s What Happened](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
  - [Freelancer.com, iFixit, and others say Anthropic&#39;s crawler has aggressively scraped their websites, potentially breaching their terms of service &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240726/p16#a240726p16)
- - [Here’s your first look at Amazon’s Like a Dragon: Yakuza](https://www.theverge.com/24206830/like-a-dragon-yakuza-trailer-amazon-prime-video-sdcc-2024)
- - [Here&#39;s How to See 6 Planets in the Sky at Once in the Upcoming Planet Parade](https://www.cnet.com/science/you-can-spot-6-planets-in-the-sky-at-once-in-aug-23-planet-parade/#ftag=CAD590a51e)
- - [Bookmark This Heat Risk Guide to Help You Survive This Steamy Summer](https://www.cnet.com/science/use-this-free-new-warning-system-to-get-prepped-for-extreme-heat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Like a Dragon: Yakuza TV Series Teases First Look at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/like-a-dragon-yakuza-tv-series-teases-first-look-at-comic-con-2024/#ftag=CAD590a51e)
+ - [Here’s your first look at Amazon’s Like a Dragon: Yakuza](https://www.theverge.com/24206830/like-a-dragon-yakuza-trailer-amazon-prime-video-sdcc-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

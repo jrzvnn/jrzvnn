@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)
  - [Sources: Talkie, which lets users chat with AI personas of celebrities and was one of most downloaded AI apps in the US in H1, is owned by China-based MiniMax &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p8#a240727p8)
+ - [Don’t Compromise Your Oral Health. How to Use Your Electric Toothbrush Correctly](https://www.cnet.com/health/personal-care/dont-compromise-your-oral-health-how-to-use-your-electric-toothbrush-correctly/#ftag=CAD590a51e)
  - [Futurama’s new season struggles to make NFTs and AI funny](https://www.theverge.com/24206898/futurama-season-12-review-hulu-nft-ai)
- - [Google fixes a flaw after hackers bypassed email verification to create &quot;a few thousand&quot; Workspace accounts to access 3rd-party apps via Sign in with Google &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240727/p7#a240727p7)
- - [I Got an Inside Look at &#39;Alien: Romulus&#39; at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/an-inside-look-at-alien-romulus-at-comic-con-2024/#ftag=CAD590a51e)
- - [Lion&#39;s Mane Mushrooms: Potential Benefits, Side Effects and Supplementation](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-potential-benefits-side-effects-and-supplementation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney Plus, Hulu and Max: The $17 Megabundle You Shouldn’t Miss](https://www.cnet.com/tech/services-and-software/disney-plus-hulu-and-max-the-17-megabundle-you-shouldnt-miss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

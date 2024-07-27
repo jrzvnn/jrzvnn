@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump proposes a strategic national crypto stockpile; Bitcoin 2024 organizers say they were in talks to have Kamala Harris appear, but she ultimately declined &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240727/p11#a240727p11)
  - [At Nashville&#39;s Bitcoin 2024 conference, Trump said the US must become a leader in crypto, he will fire SEC chair Gary Gensler, stop creation of a CBDC, and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/240727/p10#a240727p10)
  - [Best Streaming Services for Kids in 2024](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CAD590a51e)
  - [Every &#39;Deadpool &amp; Wolverine&#39; Cameo That You Thought You Spotted](https://www.cnet.com/tech/services-and-software/all-deadpool-wolverine-cameos/#ftag=CAD590a51e)
- - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
- - [Samsung Galaxy Buds3 review: auto-pause works well, but expensive, copy Apple&#39;s dated design with plastic tips, shoddy ANC, and AI tools are mostly useless &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240727/p9#a240727p9)<!-- TECH:END -->
+ - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

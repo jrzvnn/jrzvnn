@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo’s first mechanical keyboard is down to its best price to date](https://www.theverge.com/2024/7/27/24206927/8bitdo-retro-mechanical-keyboard-blink-mini-2-camera-deal-sale)
  - [Sources detail how Elon Musk undermined CEO Linda Yaccarino&#39;s efforts to repair X&#39;s business over the past year; X&#39;s US revenue fell 53% YoY to $114M in Q2 &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240727/p4#a240727p4)
- - [Stop X’s Grok AI From Training on Your Tweets](https://www.wired.com/story/x-grok-ai-training-pegasus/)
  - [DreamCloud Hybrid Mattress Review 2024: A Premium, Budget-Friendly Bed](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
  - [Best Internet Providers in Annapolis, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-annapolis-md/#ftag=CAD590a51e)
  - [FaceTime on Android Phones: Everything You Need to Know](https://www.cnet.com/tech/mobile/facetime-on-android-phones-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->

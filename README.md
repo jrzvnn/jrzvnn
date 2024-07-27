@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
- - 💣 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)
- - 😝 [Clown Olympics](http://9gag.com/gag/a874QNZ)
- - 👉 [Lord of the Chad](http://9gag.com/gag/awyVvrD)<!-- MEMES:END -->
+ - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 😝 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
+ - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
 
 ---
 

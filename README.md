@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone remembers the most epic torch lightning on the 1992 Barcelona Olympics? Well I don\u2019t cause I was 5yo, nothing to do with that sh..t show we saw yesterday in Paris](http://9gag.com/gag/aPAW0eg)
- - 😝 [I made my own opening ceremony](http://9gag.com/gag/aBy1MeA)
- - 💣 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
- - 👉 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)<!-- MEMES:END -->
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
+ - 💣 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 👉 [The Olympics deleted their own video of the opening ceremony because it was being criticized too much.](http://9gag.com/gag/a6ZQg89)<!-- MEMES:END -->
 
 ---
 

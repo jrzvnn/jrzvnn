@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 💣 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
- - 😝 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
+ - 😝 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
+ - 💣 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 😝 [Being a man is not easy](http://9gag.com/gag/apRLXnn)
+ - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
 
 ---
 

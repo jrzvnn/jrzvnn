@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
  - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 💣 [Clown Olympics](http://9gag.com/gag/a874QNZ)
- - 😝 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)
- - 👉 [Texas Governor sent a bus full of illegal immigrants to Kamala Harris\u2019 house](http://9gag.com/gag/a9yY480)<!-- MEMES:END -->
+ - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
+ - 💣 [Lord of the Chad](http://9gag.com/gag/awyVvrD)
+ - 😝 [Clown Olympics](http://9gag.com/gag/a874QNZ)
+ - 👉 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)<!-- MEMES:END -->
 
 ---
 

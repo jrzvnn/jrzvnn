@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
  - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
+ - 💣 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
  - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
- - 👉 [Show this to your bf](http://9gag.com/gag/aD2GX37)<!-- MEMES:END -->
+ - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
 
 ---
 

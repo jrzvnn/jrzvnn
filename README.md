@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you know](http://9gag.com/gag/aqyLpvv)
- - 😝 [Office wife](http://9gag.com/gag/aPAWdbB)
- - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 😝 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)
- - 👉 [When your best friend is better than you at something](http://9gag.com/gag/a7od6Ww)<!-- MEMES:END -->
+ - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - 😝 [2 great ones ended in a week :&lpar;](http://9gag.com/gag/amozxZX)
+ - 💣 [Show this to your bf](http://9gag.com/gag/aD2GX37)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 👉 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)<!-- MEMES:END -->
 
 ---
 

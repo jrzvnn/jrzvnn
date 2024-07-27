@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
  - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
+ - 💣 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
 
 ---
 

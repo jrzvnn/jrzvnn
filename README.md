@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 😝 [So hot right now](http://9gag.com/gag/a5QrgnG)
  - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 💣 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
- - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
+ - 💣 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
+ - 😝 [France is a no-fly zone now](http://9gag.com/gag/aLn9NO5)
+ - 👉 [Being a man is not easy](http://9gag.com/gag/apRLXnn)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
- - 😝 [2 great ones ended in a week :&lpar;](http://9gag.com/gag/amozxZX)
- - 💣 [Show this to your bf](http://9gag.com/gag/aD2GX37)
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 👉 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)<!-- MEMES:END -->
+ - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 😝 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
+ - 💣 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 😝 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
 
 ---
 

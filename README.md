@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 💣 [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
- - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 👉 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)<!-- MEMES:END -->
+ - 😝 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
+ - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 💣 [BBQ Landscape](http://9gag.com/gag/an71ZML)
+ - 😝 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
+ - 👉 [Merican things](http://9gag.com/gag/a874NyQ)<!-- MEMES:END -->
 
 ---
 

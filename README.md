@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How podcasting is turning into an industry of megastars with huge deals and the biggest audiences; Edison: the top 25 podcasts reach ~50% of US weekly listeners &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240728/p11#a240728p11)
  - [Crime blotter: Arrest made in theft of 280 iPhones](https://appleinsider.com/articles/24/07/28/crime-blotter-arrest-made-in-theft-of-280-iphones?utm_medium=rss)
- - [Grab a Microsoft Windows 11 Pro license for just $19.97](https://appleinsider.com/articles/24/07/28/grab-a-microsoft-windows-11-pro-license-for-just-1997?utm_medium=rss)
- - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)
- - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Power Bank for iPhone for 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [How to Turn Any Old iPhone or Android Phone Into a Home Security Camera](https://www.cnet.com/home/security/how-to-turn-old-iphone-android-into-security-camera/#ftag=CAD590a51e)
+ - [Best Cheaper Rivals to Apple AirPods Max for 2024: Sony, Bose, AirPods Pro 2 and More](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

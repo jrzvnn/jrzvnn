@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 💣 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
+ - 😝 [So much was lost, like the roman empire](http://9gag.com/gag/aAyPzwg)
+ - 😝 [In 3 days, Deadpool and Wolverine has blown by the entirety of what The Marvels pulled in. There is no super hero fatigue. We are just sick of woke crap and bad scripts.](http://9gag.com/gag/an71wWE)
+ - 💣 [Deport Deport Deport](http://9gag.com/gag/ayN8Knp)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Olympics are a joke](http://9gag.com/gag/azxAyqz)<!-- MEMES:END -->
+ - 👉 [Perfect Night](http://9gag.com/gag/a9yYGGZ)<!-- MEMES:END -->
 
 ---
 

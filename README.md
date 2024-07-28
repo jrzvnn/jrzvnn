@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US NIST re-releases Dioptra, an open-source web-based tool first unveiled in 2022 for benchmarking, testing, and assessing risks in AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240728/p8#a240728p8)
  - [AMD Ryzen AI 9 HX 370 mobile SoC review: the Zen 5 CPU architecture, RDNA 3.5 graphics, and the XDNA 2 NPU make this AMD&#39;s most compelling laptop CPU to date &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240728/p7#a240728p7)
+ - [Olympic Gymnastics 2024: How to Watch Simone Biles, Fred Richard and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)
  - [Waterfield Backpack for Apple Vision Pro review: spatial commuting](https://appleinsider.com/articles/24/07/28/waterfield-backpack-for-apple-vision-pro-review-spatial-commuting?utm_medium=rss)
- - [12 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [You’re Probably Using Your Air Purifier Wrong](https://www.wired.com/story/youre-probably-using-your-air-purifier-wrong/)
- - [Microsoft provides a technical overview of the CrowdStrike incident, explains why security products use Windows kernel drivers, and outlines future improvements &lpar;David Weston/Microsoft Security Blog&rpar;](http://www.techmeme.com/240728/p6#a240728p6)<!-- TECH:END -->
+ - [Eat Your Way to Vision Health: 12 Best Foods That Should Be in Your Diet](https://www.cnet.com/health/personal-care/eat-your-way-to-vision-health-12-best-foods-that-should-be-in-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

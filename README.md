@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 😝 [Women logic](http://9gag.com/gag/azxAvpB)
- - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
+ - 😝 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
+ - 😝 [Even normal gay ppl are disgusted with that pedo shit show in Paris](http://9gag.com/gag/a1mXgvD)
+ - 💣 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
+ - 😝 [In 3 days, Deadpool and Wolverine has blown by the entirety of what The Marvels pulled in. There is no super hero fatigue. We are just sick of woke crap and bad scripts.](http://9gag.com/gag/an71wWE)
+ - 👉 [Happiest moment in life](http://9gag.com/gag/an713Xz)<!-- MEMES:END -->
 
 ---
 

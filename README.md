@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AMD Ryzen AI 9 HX 370 mobile SoC review: the Zen 5 CPU architecture, RDNA 3.5 graphics, and the XDNA 2 NPU make this AMD&#39;s most compelling laptop CPU to date &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240728/p7#a240728p7)
  - [Waterfield Backpack for Apple Vision Pro review: spatial commuting](https://appleinsider.com/articles/24/07/28/waterfield-backpack-for-apple-vision-pro-review-spatial-commuting?utm_medium=rss)
- - [12 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
  - [You’re Probably Using Your Air Purifier Wrong](https://www.wired.com/story/youre-probably-using-your-air-purifier-wrong/)
- - [Microsoft provides a technical overview of the CrowdStrike incident, explains why security products use Windows kernel drivers, and outlines future improvements &lpar;David Weston/Microsoft Security Blog&rpar;](http://www.techmeme.com/240728/p6#a240728p6)<!-- TECH:END -->
+ - [Microsoft provides a technical overview of the CrowdStrike incident, explains why security products use Windows kernel drivers, and outlines future improvements &lpar;David Weston/Microsoft Security Blog&rpar;](http://www.techmeme.com/240728/p6#a240728p6)
+ - [In search of the perfect movie recommendation](https://www.theverge.com/2024/7/28/24206171/ai-movie-recommendations-chatgpt-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [Everyone is happy](http://9gag.com/gag/abAZwW9)
- - 💣 [So hot right now](http://9gag.com/gag/a5QrgnG)
+ - 😝 [At least it had lbgtq pro max performance](http://9gag.com/gag/aVve6Yw)
  - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 👉 [I mean, I hope it wasn&#39;t for nothing at least](http://9gag.com/gag/ae96ERB)<!-- MEMES:END -->
+ - 💣 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
+ - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
 
 ---
 

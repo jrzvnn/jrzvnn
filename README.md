@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
  - [Silo season 2 hits Apple TV Plus this November](https://www.theverge.com/24177603/silo-season-2-apple-tv-plus-premiere-date-sdcc-2024)
  - [Sources: Apple met with UK TV ratings body Barb to discuss options for tracking ads on Apple TV+, in another sign that it plans to introduce ads on the service &lpar;James Warrington/The Telegraph&rpar;](http://www.techmeme.com/240727/p12#a240727p12)
- - [Escaping Gravity Takes a Brutally Honest Look at NASA](https://www.wired.com/2022/07/geeks-guide-escaping-gravity-nasa/)
  - [Tricks to Increase Your Cell Phone Signal on iPhone and Android at the Olympics](https://www.cnet.com/tech/mobile/tricks-to-increase-your-cell-phone-signal-on-iphone-and-android-at-the-olympics/#ftag=CAD590a51e)
  - [Donald Trump Backs ‘Strategic Bitcoin Stockpile’ in Speech to Crypto Faithful](https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/)<!-- TECH:END -->
 

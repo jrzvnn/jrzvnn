@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel is bringing the Russo Bros. back to direct the next two Avengers films](https://www.theverge.com/2024/7/27/24206259/marvel-russo-brothers-avengers-doomsday-secret-wars-sdcc)
  - [California DMV granted Nuro approval to test its third-gen R3 autonomous delivery vehicle in four Bay Area cities, a boost for the startup after some setbacks &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240727/p13#a240727p13)
  - [Best Showerhead for 2024](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)
  - [SDCC 2024 Highlights: &#39;The Penguin&#39; Trailer, &#39;Boys&#39; Prequel and More](https://www.cnet.com/tech/services-and-software/all-san-diego-comic-con-2024-announcements-so-far/#ftag=CAD590a51e)
- - [Best Vitamins and Supplements for Joint Health in 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)
- - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vitamins and Supplements for Joint Health in 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

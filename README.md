@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waterfield Backpack for Apple Vision Pro review: spatial commuting](https://appleinsider.com/articles/24/07/28/waterfield-backpack-for-apple-vision-pro-review-spatial-commuting?utm_medium=rss)
  - [Dune Analytics: ~1.7M new digital coins entered circulation in H1 2024, compared with 264K in H1 2023, as the crypto market revival fuels a surge in memecoins &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240728/p9#a240728p9)
  - [The US NIST re-releases Dioptra, an open-source web-based tool first unveiled in 2022 for benchmarking, testing, and assessing risks in AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240728/p8#a240728p8)
  - [Olympic Soccer 2024: When and How to Watch Olympic Football From Anywhere](https://www.cnet.com/tech/services-and-software/olympic-soccer-2024-how-to-watch-football-from-anywhere/#ftag=CAD590a51e)
- - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
- - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

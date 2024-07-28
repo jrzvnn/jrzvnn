@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
+ - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
  - 😝 [Even normal gay ppl are disgusted with that pedo shit show in Paris](http://9gag.com/gag/a1mXgvD)
- - 💣 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
- - 😝 [In 3 days, Deadpool and Wolverine has blown by the entirety of what The Marvels pulled in. There is no super hero fatigue. We are just sick of woke crap and bad scripts.](http://9gag.com/gag/an71wWE)
- - 👉 [Happiest moment in life](http://9gag.com/gag/an713Xz)<!-- MEMES:END -->
+ - 💣 [Everyone is happy](http://9gag.com/gag/abAZwW9)
+ - 😝 [Happiest moment in life](http://9gag.com/gag/an713Xz)
+ - 👉 [New parenting technique](http://9gag.com/gag/aVve542)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Olympics deleted their own video of the opening ceremony because it was being criticized too much.](http://9gag.com/gag/a6ZQg89)
- - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
- - 💣 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
- - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 👉 [Even normal gay ppl are disgusted with that pedo shit show in Paris](http://9gag.com/gag/a1mXgvD)<!-- MEMES:END -->
+ - 😝 [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 💣 [The sound of 2,008 people drumming together at the opening ceremony of the 2008 Beijing Olympics](http://9gag.com/gag/aRBe9K7)
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 👉 [This ceremony was just missing ONE thing...](http://9gag.com/gag/a5QrA8O)<!-- MEMES:END -->
 
 ---
 

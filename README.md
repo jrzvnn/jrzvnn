@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
- - [The best way to watch the Olympics](https://www.theverge.com/2024/7/28/24206986/watch-olympics-multiview-apple-maps-meta-ai-installer)
- - [This $56 Casio watch is a retro step tracking dream](https://www.theverge.com/24206037/casio-ws-b1000-review-smartwatch-wearable)
- - [The Correct Way to Back Up Your iPhone Before Installing iOS 18 Beta](https://www.cnet.com/tech/mobile/the-correct-way-to-back-up-your-iphone-before-installing-ios-18-beta/#ftag=CAD590a51e)
- - [Where to Find Your Favorite Podcast&#39;s Transcript on Your iPhone](https://www.cnet.com/tech/services-and-software/where-to-find-your-favorite-podcasts-transcript-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset It](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)
+ - [How This Brain Implant Is Using ChatGPT](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/#ftag=CAD590a51e)
+ - [What It&#39;s Like Using a Brain Implant With ChatGPT video](https://www.cnet.com/videos/what-its-like-using-a-brain-implant-with-chatgpt/#ftag=CAD590a51e)
+ - [I Filmed My Epic 4,000-Mile Road Trip by Myself. Here&#39;s How](https://www.cnet.com/tech/computing/i-filmed-my-epic-4000-mile-road-trip-by-myself-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
- - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 💣 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
+ - 😝 [So hot right now](http://9gag.com/gag/a5QrgnG)
+ - 💣 [`We don&#39;t get paid enough!!11!!eleven!!`](http://9gag.com/gag/azxA39x)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
+ - 👉 [How Muhammad died.](http://9gag.com/gag/avynj1d)<!-- MEMES:END -->
 
 ---
 

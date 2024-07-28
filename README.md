@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 💣 [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
  - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 😝 [Traffic reporter can&#39;t catch a break](http://9gag.com/gag/a7odgww)
- - 💣 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
- - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 👉 [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)<!-- MEMES:END -->
+ - 👉 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)<!-- MEMES:END -->
 
 ---
 

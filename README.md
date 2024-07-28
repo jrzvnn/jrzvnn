@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can&#39;t Find Anything Good on Netflix? Try the Secret Menu to Find Movies and Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)
- - [How to Charge Your iPhone Faster: 9 Time-Saving Tips](https://www.cnet.com/tech/mobile/how-to-charge-iphone-faster/#ftag=CAD590a51e)
- - [Best Surge Protector of 2024](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
- - [Disconnected: 23 Million Americans Affected by the Shutdown of the Affordable Connectivity Program](https://www.cnet.com/home/internet/affordable-connectivity-program-discontinued/#ftag=CAD590a51e)
- - [Sources: Apple plans to roll out Apple Intelligence by October, missing the planned Sept. launch of its OSes; devs get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)<!-- TECH:END -->
+ - [Sources: Apple plans to roll out Apple Intelligence by October, missing the planned Sept. launch of its OSes; devs get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)
+ - [Apple in talks to bring ad-supported Apple TV+ option to UK, US](https://appleinsider.com/articles/24/07/28/apple-in-talks-to-bring-ad-supported-apple-tv-option-to-uk-us?utm_medium=rss)
+ - [Waterfield Backpack for Apple Vision Pro review: spatial commuting](https://appleinsider.com/articles/24/07/28/waterfield-backpack-for-apple-vision-pro-review-spatial-commuting?utm_medium=rss)
+ - [Dune Analytics: ~1.7M new digital coins entered circulation in H1 2024, compared with 264K in H1 2023, as the crypto market revival fuels a surge in memecoins &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240728/p9#a240728p9)
+ - [Can a Simple Smartphone Trick Give You Olympian-Level Focus?](https://www.cnet.com/health/mental/can-a-simple-smartphone-trick-give-you-olympian-level-focus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

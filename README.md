@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Where to Find Your Favorite Podcast&#39;s Transcript on Your iPhone](https://www.cnet.com/tech/services-and-software/where-to-find-your-favorite-podcasts-transcript-on-your-iphone/#ftag=CAD590a51e)
  - [Sea Moss Gummies: Benefits, Risks and Side Effects to Consider](https://www.cnet.com/health/nutrition/sea-moss-gummies-benefits-risks-side-effects/#ftag=CAD590a51e)
  - [iOS 18 Beta: How to Make Your Texts Bold or Explode in Messages](https://www.cnet.com/tech/services-and-software/ios-18-beta-how-to-make-your-texts-bold-or-explode-in-messages/#ftag=CAD590a51e)
- - [Best Internet Providers in Medford, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-medford-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo Yoga 9i 2-in-1 &lpar;2024&rpar; Review: A Tried and True Laptop](https://www.wired.com/review/lenovo-yoga-9i-2-in-1-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

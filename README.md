@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)
  - [Can&#39;t Find Anything Good on Netflix? Try the Secret Menu to Find Movies and Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)
  - [How to Charge Your iPhone Faster: 9 Time-Saving Tips](https://www.cnet.com/tech/mobile/how-to-charge-iphone-faster/#ftag=CAD590a51e)
  - [Best Surge Protector of 2024](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
- - [Disconnected: 23 Million Americans Affected by the Shutdown of the Affordable Connectivity Program](https://www.cnet.com/home/internet/affordable-connectivity-program-discontinued/#ftag=CAD590a51e)
- - [Sources: Apple plans to roll out Apple Intelligence by October, missing the planned Sept. launch of its OSes; devs get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)<!-- TECH:END -->
+ - [Disconnected: 23 Million Americans Affected by the Shutdown of the Affordable Connectivity Program](https://www.cnet.com/home/internet/affordable-connectivity-program-discontinued/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

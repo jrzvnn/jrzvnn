@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 💣 [BBQ Landscape](http://9gag.com/gag/an71ZML)
- - 😝 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
- - 👉 [Merican things](http://9gag.com/gag/a874NyQ)<!-- MEMES:END -->
+ - 😝 [The Olympics deleted their own video of the opening ceremony because it was being criticized too much.](http://9gag.com/gag/a6ZQg89)
+ - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
+ - 💣 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)
+ - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
+ - 👉 [Even normal gay ppl are disgusted with that pedo shit show in Paris](http://9gag.com/gag/a1mXgvD)<!-- MEMES:END -->
 
 ---
 

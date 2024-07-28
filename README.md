@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Happiest moment in life](http://9gag.com/gag/an713Xz)
- - 💣 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [New parenting technique](http://9gag.com/gag/aVve542)
- - 👉 [So hot right now](http://9gag.com/gag/a5QrgnG)<!-- MEMES:END -->
+ - 😝 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [Art modern art specifically](http://9gag.com/gag/abAZm1p)
+ - 💣 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
+ - 👉 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Eco-Friendly Recycled Bags for 2024, Tested and Reviewed](https://www.wired.com/gallery/best-recycled-bags/)
+ - [Ultimate Ears Everboom review: the right size](https://www.theverge.com/24206813/ultimate-ears-everboom-speaker-review)
  - [Bitcoin Bros Go Wild for Donald Trump](https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/)
  - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
  - [PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset It](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)

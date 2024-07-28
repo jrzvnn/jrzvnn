@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
- - 💣 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 💣 [Women logic](http://9gag.com/gag/azxAvpB)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
+ - 👉 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)<!-- MEMES:END -->
 
 ---
 

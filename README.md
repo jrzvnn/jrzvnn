@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So hot right now](http://9gag.com/gag/a5QrgnG)
  - 😝 [I mean, I hope it wasn&#39;t for nothing at least](http://9gag.com/gag/ae96ERB)
+ - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
  - 💣 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [New parenting technique](http://9gag.com/gag/aVve542)<!-- MEMES:END -->
+ - 👉 [`We don&#39;t get paid enough!!11!!eleven!!`](http://9gag.com/gag/azxA39x)<!-- MEMES:END -->
 
 ---
 

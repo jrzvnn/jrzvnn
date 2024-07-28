@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Ultimate Ears Everboom review: the right size](https://www.theverge.com/24206813/ultimate-ears-everboom-speaker-review)
- - [Bitcoin Bros Go Wild for Donald Trump](https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/)
- - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
- - [PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset It](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)
- - [How This Brain Implant Is Using ChatGPT](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Eco-Friendly Recycled Bags for 2024, Tested and Reviewed](https://www.wired.com/gallery/best-recycled-bags/)
+ - [What Should You Stream This Week? Watch These Releases on Max, Netflix and More](https://www.cnet.com/tech/services-and-software/what-should-you-stream-this-week-watch-these-releases-on-max-netflix-and-more/#ftag=CAD590a51e)
+ - [Ensure Your Next Grilled Meal Is Delicious With Only a Few Simple Steps](https://www.cnet.com/home/yard-and-outdoors/how-to-clean-your-grill-taste-tonights-meal-not-last-nights/#ftag=CAD590a51e)
+ - [Looking to Stream the Olympics in Peace Without Buffering Issues? Here’s How](https://www.cnet.com/home/internet/dont-suffer-the-buffer-during-the-olympics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

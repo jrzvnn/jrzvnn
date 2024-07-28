@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 💣 [Women logic](http://9gag.com/gag/azxAvpB)
+ - 😝 [So hot right now](http://9gag.com/gag/a5QrgnG)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 💣 [Ozempic Games](http://9gag.com/gag/a874N1e)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
+ - 👉 [Traffic reporter can&#39;t catch a break](http://9gag.com/gag/a7odgww)<!-- MEMES:END -->
 
 ---
 

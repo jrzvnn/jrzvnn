@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Silo season 2 hits Apple TV Plus this November](https://www.theverge.com/24177603/silo-season-2-apple-tv-plus-premiere-date-sdcc-2024)
- - [Sources: Apple met with UK TV ratings body Barb to discuss options for tracking ads on Apple TV+, in another sign that it plans to introduce ads on the service &lpar;James Warrington/The Telegraph&rpar;](http://www.techmeme.com/240727/p12#a240727p12)
- - [Tricks to Increase Your Cell Phone Signal on iPhone and Android at the Olympics](https://www.cnet.com/tech/mobile/tricks-to-increase-your-cell-phone-signal-on-iphone-and-android-at-the-olympics/#ftag=CAD590a51e)
- - [Donald Trump Backs ‘Strategic Bitcoin Stockpile’ in Speech to Crypto Faithful](https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/)<!-- TECH:END -->
+ - [California DMV granted Nuro approval to test its third-gen R3 autonomous delivery vehicle in four Bay Area cities, a boost for the startup after some setbacks &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240727/p13#a240727p13)
+ - [Best Showerhead for 2024](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)
+ - [SDCC 2024 Highlights: &#39;The Penguin&#39; Trailer, &#39;Boys&#39; Prequel and More](https://www.cnet.com/tech/services-and-software/all-san-diego-comic-con-2024-announcements-so-far/#ftag=CAD590a51e)
+ - [Best Vitamins and Supplements for Joint Health in 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

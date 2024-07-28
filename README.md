@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Arrest made in theft of 280 iPhones](https://appleinsider.com/articles/24/07/28/crime-blotter-arrest-made-in-theft-of-280-iphones?utm_medium=rss)
  - [Grab a Microsoft Windows 11 Pro license for just $19.97](https://appleinsider.com/articles/24/07/28/grab-a-microsoft-windows-11-pro-license-for-just-1997?utm_medium=rss)
  - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)
- - [Can&#39;t Find Anything Good on Netflix? Try the Secret Menu to Find Movies and Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)
- - [How to Charge Your iPhone Faster: 9 Time-Saving Tips](https://www.cnet.com/tech/mobile/how-to-charge-iphone-faster/#ftag=CAD590a51e)
- - [Best Surge Protector of 2024](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
+ - [Best Foods to Stay Hydrated and Replenish Electrolytes This Summer](https://www.cnet.com/health/nutrition/best-foods-stay-hydrated-replenish-electrolytes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How podcasting is turning into an industry of megastars with huge deals and the biggest audiences; Edison: the top 25 podcasts reach ~50% of US weekly listeners &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240728/p11#a240728p11)
  - [Crime blotter: Arrest made in theft of 280 iPhones](https://appleinsider.com/articles/24/07/28/crime-blotter-arrest-made-in-theft-of-280-iphones?utm_medium=rss)
  - [Grab a Microsoft Windows 11 Pro license for just $19.97](https://appleinsider.com/articles/24/07/28/grab-a-microsoft-windows-11-pro-license-for-just-1997?utm_medium=rss)
  - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)
- - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
- - [Best Foods to Stay Hydrated and Replenish Electrolytes This Summer](https://www.cnet.com/health/nutrition/best-foods-stay-hydrated-replenish-electrolytes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

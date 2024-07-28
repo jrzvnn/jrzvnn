@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, I hope it wasn&#39;t for nothing at least](http://9gag.com/gag/ae96ERB)
  - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 💣 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
+ - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
+ - 💣 [Ozempic Games](http://9gag.com/gag/a874N1e)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [`We don&#39;t get paid enough!!11!!eleven!!`](http://9gag.com/gag/azxA39x)<!-- MEMES:END -->
+ - 👉 [Women logic](http://9gag.com/gag/azxAvpB)<!-- MEMES:END -->
 
 ---
 

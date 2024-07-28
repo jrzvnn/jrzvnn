@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sleep Like a Champ: Two Olympic Rugby Athletes Share Their Secrets](https://www.cnet.com/health/sleep/sleep-like-a-champ-two-olympic-rugby-athletes-share-their-secrets/#ftag=CAD590a51e)
+ - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
  - [Banking trade body UK Finance: while 60% of all UK adults used mobile banking in 2023, people mainly using cash for everyday spending increased 66% YoY &lpar;Claer Barrett/Financial Times&rpar;](http://www.techmeme.com/240728/p4#a240728p4)
  - [A dozen technologists and researchers at Chinese tech companies say open-source technologies were a key reason behind China narrowing the AI gap with the US &lpar;New York Times&rpar;](http://www.techmeme.com/240728/p3#a240728p3)
- - [Analysis: the shipping industry faced 64+ cyber attacks in 2023, up from ~20 in 2022, as geopolitical disputes prompt state-linked hackers to target trade flows &lpar;Financial Times&rpar;](http://www.techmeme.com/240728/p2#a240728p2)
- - [Indian crypto exchange WazirX announces a controversial plan to &quot;socialize&quot; the ~$230M loss from its recent security breach among all its customers &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240728/p1#a240728p1)
- - [SDCC 2024 Highlights: Downey Jr. Is Doctor Doom, &#39;The Penguin&#39; Trailer and More](https://www.cnet.com/tech/services-and-software/all-san-diego-comic-con-2024-announcements-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: the shipping industry faced 64+ cyber attacks in 2023, up from ~20 in 2022, as geopolitical disputes prompt state-linked hackers to target trade flows &lpar;Financial Times&rpar;](http://www.techmeme.com/240728/p2#a240728p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

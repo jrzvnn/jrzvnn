@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US NIST re-releases Dioptra, an open-source web-based tool first unveiled in 2022 for benchmarking, testing, and assessing risks in AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240728/p8#a240728p8)
- - [AMD Ryzen AI 9 HX 370 mobile SoC review: the Zen 5 CPU architecture, RDNA 3.5 graphics, and the XDNA 2 NPU make this AMD&#39;s most compelling laptop CPU to date &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240728/p7#a240728p7)
- - [Olympic Gymnastics 2024: How to Watch Simone Biles, Fred Richard and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)
- - [Waterfield Backpack for Apple Vision Pro review: spatial commuting](https://appleinsider.com/articles/24/07/28/waterfield-backpack-for-apple-vision-pro-review-spatial-commuting?utm_medium=rss)
- - [Eat Your Way to Vision Health: 12 Best Foods That Should Be in Your Diet](https://www.cnet.com/health/personal-care/eat-your-way-to-vision-health-12-best-foods-that-should-be-in-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Olympic Soccer 2024: When and How to Watch Olympic Football From Anywhere](https://www.cnet.com/tech/services-and-software/olympic-soccer-2024-how-to-watch-football-from-anywhere/#ftag=CAD590a51e)
+ - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
+ - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)
+ - [AMD Ryzen AI 9 HX 370 mobile SoC review: the Zen 5 CPU architecture, RDNA 3.5 graphics, and the XDNA 2 NPU make this AMD&#39;s most compelling laptop CPU to date &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240728/p7#a240728p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

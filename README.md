@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to launch Apple Intelligence by October, missing the September launch of iOS 18; devs will get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)
+ - [Sources: Apple plans to roll out Apple Intelligence by October, missing the planned Sept. launch of its OSes; devs get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)
  - [Apple in talks to bring ad-supported Apple TV+ option to UK, US](https://appleinsider.com/articles/24/07/28/apple-in-talks-to-bring-ad-supported-apple-tv-option-to-uk-us?utm_medium=rss)
  - [Waterfield Backpack for Apple Vision Pro review: spatial commuting](https://appleinsider.com/articles/24/07/28/waterfield-backpack-for-apple-vision-pro-review-spatial-commuting?utm_medium=rss)
  - [Dune Analytics: ~1.7M new digital coins entered circulation in H1 2024, compared with 264K in H1 2023, as the crypto market revival fuels a surge in memecoins &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240728/p9#a240728p9)

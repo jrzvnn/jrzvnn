@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)
- - 😝 [So hot right now](http://9gag.com/gag/a5QrgnG)
- - 💣 [`We don&#39;t get paid enough!!11!!eleven!!`](http://9gag.com/gag/azxA39x)
+ - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 💣 [Women logic](http://9gag.com/gag/azxAvpB)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Probably suitable for loan calls](http://9gag.com/gag/aRBep1Q)<!-- MEMES:END -->
+ - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
 
 ---
 

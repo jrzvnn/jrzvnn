@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
  - 😝 [Even normal gay ppl are disgusted with that pedo shit show in Paris](http://9gag.com/gag/a1mXgvD)
- - 💣 [Everyone is happy](http://9gag.com/gag/abAZwW9)
- - 😝 [Happiest moment in life](http://9gag.com/gag/an713Xz)
- - 👉 [New parenting technique](http://9gag.com/gag/aVve542)<!-- MEMES:END -->
+ - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 💣 [Happiest moment in life](http://9gag.com/gag/an713Xz)
+ - 😝 [New parenting technique](http://9gag.com/gag/aVve542)
+ - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
 
 ---
 

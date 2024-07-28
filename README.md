@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women logic](http://9gag.com/gag/azxAvpB)
- - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
  - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
+ - 😝 [Everyone is happy](http://9gag.com/gag/abAZwW9)
+ - 💣 [So hot right now](http://9gag.com/gag/a5QrgnG)
+ - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
+ - 👉 [I mean, I hope it wasn&#39;t for nothing at least](http://9gag.com/gag/ae96ERB)<!-- MEMES:END -->
 
 ---
 

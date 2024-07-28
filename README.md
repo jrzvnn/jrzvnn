@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Study: the shipping industry faced 64+ cyber attacks in 2023, up from ~20 in 2022, as geopolitical disputes prompt state-linked hackers to target trade flows &lpar;Financial Times&rpar;](http://www.techmeme.com/240728/p2#a240728p2)
  - [Indian crypto exchange WazirX announces a controversial plan to &quot;socialize&quot; the ~$230M loss from its recent security breach among all its customers &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240728/p1#a240728p1)
+ - [SDCC 2024 Highlights: Downey Jr. Is Doctor Doom, &#39;The Penguin&#39; Trailer and More](https://www.cnet.com/tech/services-and-software/all-san-diego-comic-con-2024-announcements-so-far/#ftag=CAD590a51e)
  - [Musk reposts an edited Kamala Harris campaign video that mimics her voice, possibly with deepfake tech; it has 104M+ views and seemingly breaks X&#39;s own rules &lpar;Ken Bensinger/New York Times&rpar;](http://www.techmeme.com/240727/p14#a240727p14)
- - [Today&#39;s NYT Mini Crossword Answers for July 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-28/#ftag=CAD590a51e)
- - [Robert Downey Jr. to Play Doctor Doom in &#39;Avengers 5&#39;](https://www.cnet.com/tech/services-and-software/robert-downey-jr-to-play-doctor-doom-in-avengers-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for July 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

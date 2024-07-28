@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
  - 😝 [Women logic](http://9gag.com/gag/azxAvpB)
- - 💣 [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
- - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
+ - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
 
 ---
 

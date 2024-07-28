@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 💣 [Women logic](http://9gag.com/gag/azxAvpB)
+ - 😝 [Git Rotated](http://9gag.com/gag/aAyPzKo)
+ - 😝 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
+ - 💣 [Core memory created](http://9gag.com/gag/adBXMyN)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
+ - 👉 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)<!-- MEMES:END -->
 
 ---
 

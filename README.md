@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even normal gay ppl are disgusted with that pedo shit show in Paris](http://9gag.com/gag/a1mXgvD)
- - 😝 [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 💣 [Happiest moment in life](http://9gag.com/gag/an713Xz)
- - 😝 [New parenting technique](http://9gag.com/gag/aVve542)
- - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
+ - 😝 [Ozempic Games](http://9gag.com/gag/a874N1e)
+ - 😝 [Women logic](http://9gag.com/gag/azxAvpB)
+ - 💣 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
+ - 👉 [Core memory created](http://9gag.com/gag/adBXMyN)<!-- MEMES:END -->
 
 ---
 

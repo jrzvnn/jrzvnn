@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 😝 [Women logic](http://9gag.com/gag/azxAvpB)
- - 💣 [What did she expect?](http://9gag.com/gag/aGyD6RK)
- - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 👉 [Being a man is not easy](http://9gag.com/gag/apRLXnn)<!-- MEMES:END -->
+ - 😝 [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 💣 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
 
 ---
 

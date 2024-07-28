@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deport Deport Deport](http://9gag.com/gag/ayN8Knp)
- - 😝 [Really? It&#39;s not even a religious manifestation, it&#39;s a symbol of his town Rio de Janeiro and one of most famous monuments of his country, and was used in Brazil&#39;s olympics as promotional image all the time. This is hypocrisy at its highest level...](http://9gag.com/gag/aLn97rP)
- - 💣 [So much was lost, like the roman empire](http://9gag.com/gag/aAyPzwg)
+ - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
+ - 💣 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Anyone into knots?](http://9gag.com/gag/a0ej3Qv)<!-- MEMES:END -->
+ - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
 
 ---
 

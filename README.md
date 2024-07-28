@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re Probably Using Your Air Purifier Wrong](https://www.wired.com/story/youre-probably-using-your-air-purifier-wrong/)
  - [Microsoft provides a technical overview of the CrowdStrike incident, explains why security products use Windows kernel drivers, and outlines future improvements &lpar;David Weston/Microsoft Security Blog&rpar;](http://www.techmeme.com/240728/p6#a240728p6)
  - [In search of the perfect movie recommendation](https://www.theverge.com/2024/7/28/24206171/ai-movie-recommendations-chatgpt-vergecast)
  - [Ultimate Ears Everboom review: the right size](https://www.theverge.com/24206813/ultimate-ears-everboom-speaker-review)
- - [The Best Eco-Friendly Recycled Bags for 2024, Tested and Reviewed](https://www.wired.com/gallery/best-recycled-bags/)<!-- TECH:END -->
+ - [The Best Eco-Friendly Recycled Bags for 2024, Tested and Reviewed](https://www.wired.com/gallery/best-recycled-bags/)
+ - [What Should You Stream This Week? Watch These Releases on Max, Netflix and More](https://www.cnet.com/tech/services-and-software/what-should-you-stream-this-week-watch-these-releases-on-max-netflix-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

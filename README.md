@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Over $300 on This TCL 4K TV at Walmart](https://www.cnet.com/deals/save-over-300-on-this-tcl-4k-tv-at-walmart/#ftag=CAD590a51e)
  - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)
+ - [Score a Refurbished iPad or MacBook at Woot Starting at $350 for a Limited Time](https://www.cnet.com/deals/score-a-refurbished-ipad-or-macbook-at-woot-starting-at-350-for-a-limited-time/#ftag=CAD590a51e)
  - [Astro Bot’s new PS5 controller has a pair of adorable eyes](https://www.theverge.com/2024/7/29/24208726/astro-bot-limited-edition-ps5-dual-sense-controller)
- - [Flash deal: get Apple&#39;s 14-inch MacBook Pro with 36GB RAM for $2,149](https://appleinsider.com/articles/24/07/29/flash-deal-get-apples-14-inch-macbook-pro-with-36gb-ram-for-2149?utm_medium=rss)
- - [A US court ruled on July 24 that border agents must get a warrant before searching the electronic devices of US and international travelers crossing the border &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240729/p8#a240729p8)
- - [Indie studio opens up to share canceled Magic School project](https://www.theverge.com/2024/7/29/24208757/dinosaur-polo-club-canceled-game-magic-school)<!-- TECH:END -->
+ - [How Much Are American Express Membership Rewards Points Worth?](https://www.cnet.com/personal-finance/credit-cards/how-much-are-american-express-membership-rewards-points-worth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

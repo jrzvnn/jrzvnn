@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 😝 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 💣 [Ozempic Games](http://9gag.com/gag/a874N1e)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
+ - 👉 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)<!-- MEMES:END -->
 
 ---
 

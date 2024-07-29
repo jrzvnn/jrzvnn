@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In another world](http://9gag.com/gag/ae96vpv)
- - 😝 [Hugh Jackman recreated the meme](http://9gag.com/gag/aKG3Q36)
- - 💣 [Third term for Maduro with 51.20% of the vote](http://9gag.com/gag/azxA07b)
- - 😝 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
- - 👉 [I almost forgot](http://9gag.com/gag/avynNYn)<!-- MEMES:END -->
+ - 😝 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)
+ - 😝 [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 💣 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 😝 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
+ - 👉 [Takes a little practice, but it does the trick..](http://9gag.com/gag/aD2Geg9)<!-- MEMES:END -->
 
 ---
 

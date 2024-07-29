@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
  - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Ah yes, another racist app](http://9gag.com/gag/an71P50)
- - 💣 [Anyone into knots?](http://9gag.com/gag/a0ej3Qv)
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [All work is honourable](http://9gag.com/gag/aNDWEnG)<!-- MEMES:END -->
+ - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
 
 ---
 

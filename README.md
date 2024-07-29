@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
  - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)
+ - [iOS 18 Public: How to Schedule a Birthday Text Now So You Don&#39;t Forget Later](https://www.cnet.com/tech/services-and-software/ios-18-public-how-to-schedule-a-birthday-text-now-so-you-dont-forget-later/#ftag=CAD590a51e)
  - [TikTok Has a Nazi Problem](https://www.wired.com/story/tiktok-nazi-content-moderation/)
- - [Hikers saved from wildfires by Emergency SOS via Satellite](https://appleinsider.com/articles/24/07/29/hikers-saved-from-wildfires-by-emergency-sos-via-satellite?utm_medium=rss)
- - [Google’s new Nest Thermostat has an improved UI and ‘borderless’ display](https://www.theverge.com/2024/7/29/24208556/google-nest-thermostat-4th-gen-leak-pricing-features)
- - [Best Sunscreens for 2024](https://www.cnet.com/health/personal-care/best-sunscreen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

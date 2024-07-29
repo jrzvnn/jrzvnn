@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 💣 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
- - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
+ - 😝 [In another world](http://9gag.com/gag/ae96vpv)
+ - 😝 [Hugh Jackman recreated the meme](http://9gag.com/gag/aKG3Q36)
+ - 💣 [Third term for Maduro with 51.20% of the vote](http://9gag.com/gag/azxA07b)
+ - 😝 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - 👉 [I almost forgot](http://9gag.com/gag/avynNYn)<!-- MEMES:END -->
 
 ---
 

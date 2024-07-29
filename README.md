@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iOS 17.6 &amp; more arrives in wake of Apple Intelligence beta release](https://appleinsider.com/articles/24/07/29/ios-176-more-arrives-in-wake-of-apple-intelligence-beta-release?utm_medium=rss)
  - [A look at the AI-assisted Judging Support System for scoring in gymnastics that made its debut at the 2023 world championships and helps settle disputes &lpar;Dvora Meyers/The Verge&rpar;](http://www.techmeme.com/240729/p13#a240729p13)
  - [Apple’s iOS 18.1 developer beta adds AI call recording and transcription](https://www.theverge.com/2024/7/29/24209024/apple-ios-18-1-developer-beta-iphone-call-recording-transcription)
- - [How to pause Activity Rings in watchOS 11 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_medium=rss)<!-- TECH:END -->
+ - [Two Days Left to Get Marvel Rivals Twitch Drops: Here’s How to Get Into the Beta](https://www.cnet.com/tech/gaming/marvel-rivals-closed-beta-how-to-get-access-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

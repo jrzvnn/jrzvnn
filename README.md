@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 😝 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
- - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Perfect Night](http://9gag.com/gag/a9yYGGZ)
+ - 😝 [Streatch your back!](http://9gag.com/gag/aXPwy0v)
+ - 💣 [Ah yes, another racist app](http://9gag.com/gag/an71P50)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
+ - 👉 [Anyone into knots?](http://9gag.com/gag/a0ej3Qv)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)
  - [Best Noise-Canceling Earbuds for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
  - [How podcasting is turning into an industry of megastars with huge deals and the biggest audiences; Edison: the top 25 podcasts reach ~50% of US weekly listeners &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240728/p11#a240728p11)
  - [Crime blotter: Arrest made in theft of 280 iPhones](https://appleinsider.com/articles/24/07/28/crime-blotter-arrest-made-in-theft-of-280-iphones?utm_medium=rss)
- - [Best Power Bank for iPhone for 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [How to Turn Any Old iPhone or Android Phone Into a Home Security Camera](https://www.cnet.com/home/security/how-to-turn-old-iphone-android-into-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Power Bank for iPhone for 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [TD Cowen raises AAPL target to $250 on AI and China sales](https://appleinsider.com/articles/24/07/29/td-cowen-raises-aapl-target-to-250-on-ai-and-china-sales?utm_medium=rss)
+ - [People Are Using Memecoins to Bet on the US Election](https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/)
+ - [Back to BASIC—the Most Consequential Programming Language in the History of Computing](https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/)
  - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)
- - [iOS 18 Public: How to Schedule a Birthday Text Now So You Don&#39;t Forget Later](https://www.cnet.com/tech/services-and-software/ios-18-public-how-to-schedule-a-birthday-text-now-so-you-dont-forget-later/#ftag=CAD590a51e)
- - [TikTok Has a Nazi Problem](https://www.wired.com/story/tiktok-nazi-content-moderation/)<!-- TECH:END -->
+ - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

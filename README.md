@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hikers saved from wildfires by Emergency SOS via Satellite](https://appleinsider.com/articles/24/07/29/hikers-saved-from-wildfires-by-emergency-sos-via-satellite?utm_medium=rss)
  - [Google’s new Nest Thermostat has an improved UI and ‘borderless’ display](https://www.theverge.com/2024/7/29/24208556/google-nest-thermostat-4th-gen-leak-pricing-features)
- - [A now freed Ethiopian man named Guracha Belachew Bersha details how he scammed hundreds online after he was enslaved in a pig butchering scam center in Myanmar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p1#a240729p1)
- - [CNET Survey: US Adults Will Spend an Average of $662 This Year on Back-to-School Shopping](https://www.cnet.com/personal-finance/us-adults-will-spend-an-average-of-662-this-year-on-back-to-school-shopping/#ftag=CAD590a51e)
- - [Best Resume Writing Services for 2024](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
- - [Q&amp;A with Ghostery CEO Jean-Paul Schmetz about the service turning 15, the state of ad tracking, why regulation is not the best path to protecting online privacy &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240728/p12#a240728p12)<!-- TECH:END -->
+ - [Best Sunscreens for 2024](https://www.cnet.com/health/personal-care/best-sunscreen/#ftag=CAD590a51e)
+ - [Best Savings Rates Today -- Act Now to Earn APYs as High as 5.45%, July 29, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-29-2024/#ftag=CAD590a51e)
+ - [A now freed Ethiopian man named Guracha Belachew Bersha details how he scammed hundreds online after he was enslaved in a pig butchering scam center in Myanmar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p1#a240729p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

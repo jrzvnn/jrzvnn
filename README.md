@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The divide in an interracial wedding is visible](http://9gag.com/gag/aNDW7O3)
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 💣 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
+ - 😝 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)<!-- MEMES:END -->
+ - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
 
 ---
 

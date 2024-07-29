@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
- - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 😝 [Why is that?](http://9gag.com/gag/aXPw1zV)
- - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
+ - 😝 [Dog?](http://9gag.com/gag/ae96nwp)
+ - 😝 [Good driving skills](http://9gag.com/gag/aGyD4j6)
+ - 💣 [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)
+ - 😝 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
+ - 👉 [Amazing achievement no one talks about](http://9gag.com/gag/aBy1pZQ)<!-- MEMES:END -->
 
 ---
 

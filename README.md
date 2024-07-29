@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ADT’s new smart security system will unlock your door for a Trusted Neighbor](https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock)
  - [Twitch rolls out a revamped iOS and Android app, which now shows a TikTok-like feed of recommended content when it&#39;s opened, instead of a &quot;Following&quot; list &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240729/p14#a240729p14)
  - [Apple admits to using Google Tensor hardware to train Apple Intelligence](https://appleinsider.com/articles/24/07/29/apple-admits-to-using-google-tensor-hardware-to-train-apple-intelligence?utm_medium=rss)
  - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)
- - [Jennifer Aniston doused in oil for &#39;The Morning Show&#39; season 4](https://appleinsider.com/articles/24/07/29/jennifer-aniston-doused-in-oil-for-the-morning-show-season-4?utm_medium=rss)
- - [The 6 Best Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jennifer Aniston doused in oil for &#39;The Morning Show&#39; season 4](https://appleinsider.com/articles/24/07/29/jennifer-aniston-doused-in-oil-for-the-morning-show-season-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)
- - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 😝 [Did he just get struck by lightning? What on earth happened?](http://9gag.com/gag/aVver4v)
  - 😝 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
- - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
+ - 💣 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: HPE is expected to secure unconditional EU approval for its $14B acquisition of Juniper Networks; the EC is scheduled to decide on the deal by Aug. 1 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240729/p5#a240729p5)
+ - [Logitech CEO Hanneke Faber wants your next mouse to last forever](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview)
  - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
  - [Leaked Google devices, Roomba adds Matter, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/07/29/leaked-google-devices-roomba-adds-matter-more-on-homekit-insider?utm_medium=rss)
- - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)
- - [Keep your Mac running smoothly with CleanMyMac X](https://appleinsider.com/articles/24/07/29/keep-your-mac-running-smoothly-with-cleanmymac-x?utm_medium=rss)
- - [8 Best Electric Toothbrushes We&#39;ve Tested and Reviewed in 2024](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

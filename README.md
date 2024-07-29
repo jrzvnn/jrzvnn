@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 18.1 developer beta with the first ‘Apple Intelligence’ iPhone features](https://www.theverge.com/2024/7/29/24208732/apple-intelligence-ai-ios-18-1-developer-beta-launch-iphone)
  - [Apple Intelligence testing arrives in betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1](https://appleinsider.com/articles/24/07/29/apple-intelligence-testing-arrives-in-betas-of-ios-181-and-macos-sequoia-151?utm_medium=rss)
  - [New Harry Potter: Quidditch Champions Trailer Reveals More About the Game](https://www.cnet.com/tech/gaming/new-harry-potter-quidditch-champions-trailer-reveals-more-about-the-game/#ftag=CAD590a51e)
  - [Apple Intelligence Arrives for Developers: How to Download the iOS 18.1 Beta](https://www.cnet.com/tech/services-and-software/apple-intelligence-arrives-for-developers-how-to-download-the-ios-18-1-beta/#ftag=CAD590a51e)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
- - [Consolidated Communications Review: Plans, Prices and Availability](https://www.cnet.com/home/internet/consolidated-communications-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

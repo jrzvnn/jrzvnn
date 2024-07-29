@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 😝 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
- - 💣 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 😝 [Did he just get struck by lightning? What on earth happened?](http://9gag.com/gag/aVver4v)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 💣 [Proud smile](http://9gag.com/gag/aqyLPKR)
+ - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
+ - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
 
 ---
 

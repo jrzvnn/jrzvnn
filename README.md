@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor roundup: iPhone Slim could be Apple&#39;s thinnest smartphone](https://appleinsider.com/articles/24/07/29/rumor-roundup-iphone-slim-could-be-apples-thinnest-smartphone?utm_medium=rss)
  - [NYC-based Altana, which develops AI logistics software to help companies manage their supply chains, raised a $200M Series C at a $1B valuation &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240729/p7#a240729p7)
  - [Elon Musk posts deepfake of Kamala Harris that violates X policy](https://www.theverge.com/2024/7/29/24208671/elon-musk-deepfake-ai-kamala-harris-parody)
  - [Luxury brands Balenciaga and Rimowa launch Apple Vision Pro apps](https://appleinsider.com/articles/24/07/29/luxury-brands-balenciaga-and-rimowa-launch-apple-vision-pro-apps?utm_medium=rss)
- - [Apple Intelligence AI features will wait for iOS 18.1](https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch)
- - [Arc’teryx’s new powered pants could make hikers feel 30 pounds lighter](https://www.theverge.com/2024/7/29/24208615/arcteryx-skip-google-x-labs-mogo-hiking-exoskeleton)<!-- TECH:END -->
+ - [Apple Intelligence AI features will wait for iOS 18.1](https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

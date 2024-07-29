@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some popular sites like Cond&amp;eacute; Nast&#39;s and Reuters&#39; have robots.txt files meant to block Anthropic&#39;s bots, but Anthropic has just made new bots with other names &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240729/p12#a240729p12)
- - [This $60 chip fixes a longstanding Super Nintendo flaw](https://www.theverge.com/2024/7/29/24208741/super-nintendo-upgrade-voultar-edge-enhancer-mod)
- - [Apple debuts Apple Intelligence in the iOS 18.1, iPadOS 18.1, and macOS 15.1 developer betas, with text generation and Siri updates, but missing some features &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240729/p11#a240729p11)
- - [San Diego Comic-Con 2024: all the biggest trailers and news](https://www.theverge.com/24205446/san-diego-comic-con-2024-news-trailers-announcements-marvel)
- - [Apple releases iOS 18.1 developer beta with the first ‘Apple Intelligence’ iPhone features](https://www.theverge.com/2024/7/29/24208732/apple-intelligence-ai-ios-18-1-developer-beta-launch-iphone)<!-- TECH:END -->
+ - [Samsung’s artsy Music Frame speaker is down to its lowest price to date](https://www.theverge.com/2024/7/29/24208786/samsung-music-frame-speaker-deal-sale)
+ - [Best Bike Phone Mount of 2024](https://www.cnet.com/tech/mobile/best-bike-phone-mount/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Z Fold 6 Deals: Save on the Latest Galaxy Z Fold Phone and Nab Perks](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
+ - [Olympic Basketball 2024: When and How to Watch Tuesday From Anywhere](https://www.cnet.com/tech/services-and-software/olympics-basketball-how-to-watch/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword for July 29 Leans on L and O](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

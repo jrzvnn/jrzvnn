@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
  - [Leaked Google devices, Roomba adds Matter, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/07/29/leaked-google-devices-roomba-adds-matter-more-on-homekit-insider?utm_medium=rss)
  - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)
  - [Keep your Mac running smoothly with CleanMyMac X](https://appleinsider.com/articles/24/07/29/keep-your-mac-running-smoothly-with-cleanmymac-x?utm_medium=rss)
- - [South Korea will provide $400M to vendors hit by payment delays on two Qoo10 e-commerce platforms, and Qoo10&#39;s founder pledges to use his own assets to help &lpar;Reuters&rpar;](http://www.techmeme.com/240729/p4#a240729p4)
- - [The AI Keeps the Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)<!-- TECH:END -->
+ - [8 Best Electric Toothbrushes We&#39;ve Tested and Reviewed in 2024](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jennifer Aniston doused in oil for &#39;The Morning Show&#39; season 4](https://appleinsider.com/articles/24/07/29/jennifer-aniston-doused-in-oil-for-the-morning-show-season-4?utm_medium=rss)
  - [iOS 17.6 &amp; more arrives in wake of Apple Intelligence beta release](https://appleinsider.com/articles/24/07/29/ios-176-more-arrives-in-wake-of-apple-intelligence-beta-release?utm_medium=rss)
  - [A look at the AI-assisted Judging Support System for scoring in gymnastics that made its debut at the 2023 world championships and helps settle disputes &lpar;Dvora Meyers/The Verge&rpar;](http://www.techmeme.com/240729/p13#a240729p13)
  - [Apple’s iOS 18.1 developer beta adds AI call recording and transcription](https://www.theverge.com/2024/7/29/24209024/apple-ios-18-1-developer-beta-iphone-call-recording-transcription)
- - [How to pause Activity Rings in watchOS 11 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_medium=rss)
- - [What Is &#39;Teflon Flu&#39; and Is Nonstick Cookware to Blame for a Uptick in Cases?](https://www.cnet.com/how-to/what-is-teflon-flu-and-is-nonstick-cookware-to-blame/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to pause Activity Rings in watchOS 11 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

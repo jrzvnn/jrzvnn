@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof....](http://9gag.com/gag/a6ZQ0rb)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 💣 [I never knew until now](http://9gag.com/gag/aE0nLqo)
+ - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
  - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
+ - 💣 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
 
 ---
 

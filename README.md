@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at ByteDance&#39;s CapCut, which has 318M+ MAUs outside China, vs. ~97.4M Canva MAUs, and has made $125M so far in 2024 on mobile, per Sensor Tower &lpar;Bloomberg&rpar;](http://www.techmeme.com/240729/p10#a240729p10)
+ - [Sony’s PlayStation VR 2 is $200 off and cheaper than ever before](https://www.theverge.com/2024/7/29/24208642/sony-playstation-vr-2-psvr2-ps5-pc-headset-pixel-8a-deal-sale)
+ - [Twitch completes its TikTok makeover with new app update](https://www.theverge.com/2024/7/29/24207119/twitch-tiktok-feed-app-update)
  - [Save Over $300 on This TCL 4K TV at Walmart](https://www.cnet.com/deals/save-over-300-on-this-tcl-4k-tv-at-walmart/#ftag=CAD590a51e)
- - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)
- - [Score a Refurbished iPad or MacBook at Woot Starting at $350 for a Limited Time](https://www.cnet.com/deals/score-a-refurbished-ipad-or-macbook-at-woot-starting-at-350-for-a-limited-time/#ftag=CAD590a51e)
- - [Astro Bot’s new PS5 controller has a pair of adorable eyes](https://www.theverge.com/2024/7/29/24208726/astro-bot-limited-edition-ps5-dual-sense-controller)
- - [How Much Are American Express Membership Rewards Points Worth?](https://www.cnet.com/personal-finance/credit-cards/how-much-are-american-express-membership-rewards-points-worth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

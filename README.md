@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
- - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Why is that?](http://9gag.com/gag/aXPw1zV)
- - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)
+ - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 😝 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 ---
 

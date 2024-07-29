@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog?](http://9gag.com/gag/ae96nwp)
- - 😝 [Good driving skills](http://9gag.com/gag/aGyD4j6)
- - 💣 [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)
- - 😝 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
- - 👉 [Amazing achievement no one talks about](http://9gag.com/gag/aBy1pZQ)<!-- MEMES:END -->
+ - 😝 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
+ - 😝 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
+ - 💣 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 ---
 

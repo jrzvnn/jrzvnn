@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 💣 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Ah yes, another racist app](http://9gag.com/gag/an71P50)
+ - 💣 [Anyone into knots?](http://9gag.com/gag/a0ej3Qv)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)<!-- MEMES:END -->
+ - 👉 [All work is honourable](http://9gag.com/gag/aNDWEnG)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did he just get struck by lightning? What on earth happened?](http://9gag.com/gag/aVver4v)
- - 😝 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
- - 💣 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
  - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
+ - 💣 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
+ - 😝 [Did he just get struck by lightning? What on earth happened?](http://9gag.com/gag/aVver4v)
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 ---
 

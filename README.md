@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)
  - [Hikers saved from wildfires by Emergency SOS via Satellite](https://appleinsider.com/articles/24/07/29/hikers-saved-from-wildfires-by-emergency-sos-via-satellite?utm_medium=rss)
  - [Google’s new Nest Thermostat has an improved UI and ‘borderless’ display](https://www.theverge.com/2024/7/29/24208556/google-nest-thermostat-4th-gen-leak-pricing-features)
  - [Best Sunscreens for 2024](https://www.cnet.com/health/personal-care/best-sunscreen/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Act Now to Earn APYs as High as 5.45%, July 29, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-29-2024/#ftag=CAD590a51e)
- - [A now freed Ethiopian man named Guracha Belachew Bersha details how he scammed hundreds online after he was enslaved in a pig butchering scam center in Myanmar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p1#a240729p1)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Act Now to Earn APYs as High as 5.45%, July 29, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-29-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

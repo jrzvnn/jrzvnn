@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [M3 MacBook Pro 14-inch gets an upgrade with macOS Sonoma 14.6](https://appleinsider.com/articles/24/07/29/m3-macbook-pro-14-inch-gets-an-upgrade-with-macos-sonoma-146?utm_medium=rss)
  - [Meta rolls out AI Studio in the US, letting users create and share AI chatbots, and Instagram creators set up chatbots to answer DM questions and story replies &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240729/p15#a240729p15)
+ - [Instagram Will Let You Make Custom AI Chatbots—Even Ones Based on Yourself](https://www.wired.com/story/meta-ai-studio-instagram-chatbots/)
  - [Customs agents need a warrant to search your phone now](https://www.theverge.com/2024/7/29/24209130/customs-border-protection-unlock-phone-warrant-new-york-jfk)
- - [ADT’s new smart security system will unlock your door for a Trusted Neighbor](https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock)
- - [Twitch rolls out a revamped iOS and Android app, which now shows a TikTok-like feed of recommended content when it&#39;s opened, instead of a &quot;Following&quot; list &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240729/p14#a240729p14)<!-- TECH:END -->
+ - [You Can Try Apple Intelligence: How to Download the iOS 18.1 Developer Beta on Your iPhone](https://www.cnet.com/tech/services-and-software/you-can-try-apple-intelligence-how-to-download-the-ios-18-1-developer-beta-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

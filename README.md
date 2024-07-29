@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
  - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
  - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Oof....](http://9gag.com/gag/a6ZQ0rb)<!-- MEMES:END -->
+ - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
 
 ---
 

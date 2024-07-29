@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Intelligence testing arrives in betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1](https://appleinsider.com/articles/24/07/29/apple-intelligence-testing-arrives-in-betas-of-ios-181-and-macos-sequoia-151?utm_medium=rss)
+ - [New Harry Potter: Quidditch Champions Trailer Reveals More About the Game](https://www.cnet.com/tech/gaming/new-harry-potter-quidditch-champions-trailer-reveals-more-about-the-game/#ftag=CAD590a51e)
+ - [Apple Intelligence Arrives for Developers: How to Download the iOS 18.1 Beta](https://www.cnet.com/tech/services-and-software/apple-intelligence-arrives-for-developers-how-to-download-the-ios-18-1-beta/#ftag=CAD590a51e)
  - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
- - [A look at ByteDance&#39;s CapCut, which has 318M+ MAUs outside China, vs. ~97.4M Canva MAUs, and has made $125M so far in 2024 on mobile, per Sensor Tower &lpar;Bloomberg&rpar;](http://www.techmeme.com/240729/p10#a240729p10)
- - [Sony’s PlayStation VR2 is $200 off and cheaper than ever before](https://www.theverge.com/2024/7/29/24208642/sony-playstation-vr-2-psvr2-ps5-pc-headset-pixel-8a-deal-sale)
- - [Twitch completes its TikTok makeover with new app update](https://www.theverge.com/2024/7/29/24207119/twitch-tiktok-feed-app-update)<!-- TECH:END -->
+ - [Consolidated Communications Review: Plans, Prices and Availability](https://www.cnet.com/home/internet/consolidated-communications-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

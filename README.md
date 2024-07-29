@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
+ - 😝 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)
  - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 💣 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 💣 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
  - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
+ - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
 
 ---
 

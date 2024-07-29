@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Dog?](http://9gag.com/gag/ae96nwp)
- - 💣 [Streatch your back!](http://9gag.com/gag/aXPwy0v)
+ - 😝 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
+ - 😝 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 ---
 

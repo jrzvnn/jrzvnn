@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iCloud Private Relay outage finally resolved](https://appleinsider.com/articles/24/07/29/icloud-private-relay-outage-finally-resolved?utm_medium=rss)
+ - [Bought a New iPhone 15? Try These USB-C Accessories First](https://www.cnet.com/tech/mobile/best-iphone-15-accessories/#ftag=CAD590a51e)
  - [People Are Using Memecoins to Bet on the US Election](https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/)
- - [Samsung Galaxy Book4 Edge Copilot+ PC Review: A Powerful Laptop](https://www.wired.com/review/samsung-galaxy-book4-edge-copilot-pc/)
- - [ISD: hundreds of extremist TikTok accounts are openly sharing Hitler-related propaganda, including Holocaust denial videos, and trying to recruit new members &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240729/p3#a240729p3)
- - [Apple prepares for iPhone 16 Pro model production in India](https://appleinsider.com/articles/24/07/29/apple-prepares-for-iphone-16-pro-model-production-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Nab a Windows 11 Pro License for a New Low of Just $20](https://www.cnet.com/deals/nab-a-windows-11-pro-license-for-a-new-low-of-just-20/#ftag=CAD590a51e)
+ - [Microsoft, OpenAI Chase Google in AI Search as Senate Passes AI Deepfakes Bill](https://www.cnet.com/tech/computing/microsoft-openai-chase-google-in-ai-search-as-senate-passes-ai-deepfakes-bill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

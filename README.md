@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 💣 [Proud smile](http://9gag.com/gag/aqyLPKR)
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 💣 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
  - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
  - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)
+ - 😝 [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
  - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
  - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
+ - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
 
 ---
 

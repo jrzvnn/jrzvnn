@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CNET Survey: US Adults Will Spend an Average of $662 This Year on Back-to-School Shopping](https://www.cnet.com/personal-finance/us-adults-will-spend-an-average-of-662-this-year-on-back-to-school-shopping/#ftag=CAD590a51e)
+ - [Best Resume Writing Services for 2024](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
  - [Q&amp;A with Ghostery CEO Jean-Paul Schmetz about the service turning 15, the state of ad tracking, why regulation is not the best path to protecting online privacy &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240728/p12#a240728p12)
  - [Best MP3 Players for 2024](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 29, #148](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-29-148/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 29 #414](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-29-414/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 29, #1136](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-29-1136/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 29, #148](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-29-148/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 😝 [Oof....](http://9gag.com/gag/a6ZQ0rb)
- - 💣 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 😝 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
+ - 💣 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Heron\u2019t](http://9gag.com/gag/a6ZQejR)<!-- MEMES:END -->
+ - 👉 [Everyone always asks `wheres security? ` but nobody ever asks `How&#39;s security? `](http://9gag.com/gag/apRLZ69)<!-- MEMES:END -->
 
 ---
 

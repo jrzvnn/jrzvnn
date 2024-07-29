@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
  - 😝 [Olympic Muses #003 Alicia Schmidt &lpar;Germany&rpar; Athletics &lpar;+ pics in comments&rpar;](http://9gag.com/gag/a0ejgyO)
- - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 😝 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 💣 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Heron\u2019t](http://9gag.com/gag/a6ZQejR)<!-- MEMES:END -->
+ - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
  - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)
- - 💣 [The divide in an interracial wedding is visible](http://9gag.com/gag/aNDW7O3)
- - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 💣 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
+ - 😝 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)
+ - 👉 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)<!-- MEMES:END -->
 
 ---
 

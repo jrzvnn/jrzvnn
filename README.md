@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to pause Activity Rings in watchOS 11 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_medium=rss)
+ - [What Is &#39;Teflon Flu&#39; and Is Nonstick Cookware to Blame for a Uptick in Cases?](https://www.cnet.com/how-to/what-is-teflon-flu-and-is-nonstick-cookware-to-blame/#ftag=CAD590a51e)
+ - [Best Beats Headphone Deals: Upgrade Your Audio Game With Discounts on New Beats Gear](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
  - [The Bird Flu Threat Keeps Growing](https://www.wired.com/story/bird-flu-human-transmission-colorado-farms-poultry-usa/)
- - [Samsung’s artsy Music Frame speaker is down to its lowest price to date](https://www.theverge.com/2024/7/29/24208786/samsung-music-frame-speaker-deal-sale)
- - [Best Bike Phone Mount of 2024](https://www.cnet.com/tech/mobile/best-bike-phone-mount/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Fold 6 Deals: Save on the Latest Galaxy Z Fold Phone and Nab Perks](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
- - [Olympic Basketball 2024: When and How to Watch Tuesday From Anywhere](https://www.cnet.com/tech/services-and-software/olympics-basketball-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Dollar-Store LED String Lights cost $6 and Punch Way Above Their Weight](https://www.cnet.com/home/smart-home/these-6-dollar-store-string-lights-punch-way-above-their-weight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

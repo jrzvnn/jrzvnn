@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
  - 💣 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
- - 😝 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)
- - 👉 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)<!-- MEMES:END -->
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 ---
 

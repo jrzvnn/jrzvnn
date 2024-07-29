@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Altana, which develops AI logistics software to help companies manage their supply chains, raised a $200M Series C at a $1B valuation &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240729/p7#a240729p7)
  - [Elon Musk posts deepfake of Kamala Harris that violates X policy](https://www.theverge.com/2024/7/29/24208671/elon-musk-deepfake-ai-kamala-harris-parody)
  - [Luxury brands Balenciaga and Rimowa launch Apple Vision Pro apps](https://appleinsider.com/articles/24/07/29/luxury-brands-balenciaga-and-rimowa-launch-apple-vision-pro-apps?utm_medium=rss)
  - [Apple Intelligence AI features will wait for iOS 18.1](https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch)
- - [Arc’teryx’s new powered pants could make hikers feel 30 pounds lighter](https://www.theverge.com/2024/7/29/24208615/arcteryx-skip-google-x-labs-mogo-hiking-exoskeleton)
- - [Germany-based osapiens, which develops ESG compliance tech, raised a $120M Series B led by Growth Equity, bringing its total funding to $145M &lpar;Stefano De Marzo/EU-Startups&rpar;](http://www.techmeme.com/240729/p6#a240729p6)<!-- TECH:END -->
+ - [Arc’teryx’s new powered pants could make hikers feel 30 pounds lighter](https://www.theverge.com/2024/7/29/24208615/arcteryx-skip-google-x-labs-mogo-hiking-exoskeleton)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

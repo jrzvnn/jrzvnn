@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
+ - 😝 [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 💣 [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 ---
 

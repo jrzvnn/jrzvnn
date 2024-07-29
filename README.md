@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ISD: hundreds of extremist TikTok accounts are openly sharing Hitler-related propaganda, including Holocaust denial videos, and trying to recruit new members &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240729/p3#a240729p3)
  - [Apple prepares for iPhone 16 Pro model production in India](https://appleinsider.com/articles/24/07/29/apple-prepares-for-iphone-16-pro-model-production-in-india?utm_medium=rss)
+ - [How Infostealers Pillaged the World’s Passwords](https://www.wired.com/story/infostealer-malware-password-theft/)
  - [TD Cowen raises AAPL target to $250 on AI and China sales](https://appleinsider.com/articles/24/07/29/td-cowen-raises-aapl-target-to-250-on-ai-and-china-sales?utm_medium=rss)
- - [Back to BASIC—the Most Consequential Programming Language in the History of Computing](https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/)
- - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)<!-- TECH:END -->
+ - [People Are Using Memecoins to Bet on the US Election](https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s Crazy. . .](http://9gag.com/gag/a4Pj0mp)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 💣 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
+ - 😝 [The divide in an interracial wedding is visible](http://9gag.com/gag/aNDW7O3)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 💣 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [Oof....](http://9gag.com/gag/a6ZQ0rb)<!-- MEMES:END -->
+ - 👉 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)<!-- MEMES:END -->
 
 ---
 

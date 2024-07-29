@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Back to BASIC—the Most Consequential Programming Language in the History of Computing](https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/)
  - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
  - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)
  - [iOS 18 Public: How to Schedule a Birthday Text Now So You Don&#39;t Forget Later](https://www.cnet.com/tech/services-and-software/ios-18-public-how-to-schedule-a-birthday-text-now-so-you-dont-forget-later/#ftag=CAD590a51e)
- - [TikTok Has a Nazi Problem](https://www.wired.com/story/tiktok-nazi-content-moderation/)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok Has a Nazi Problem](https://www.wired.com/story/tiktok-nazi-content-moderation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

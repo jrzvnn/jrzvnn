@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Intelligence AI features will wait for iOS 18.1](https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch)
  - [Arc’teryx’s new powered pants could make hikers feel 30 pounds lighter](https://www.theverge.com/2024/7/29/24208615/arcteryx-skip-google-x-labs-mogo-hiking-exoskeleton)
  - [Germany-based osapiens, which develops ESG compliance tech, raised a $120M Series B led by Growth Equity, bringing its total funding to $145M &lpar;Stefano De Marzo/EU-Startups&rpar;](http://www.techmeme.com/240729/p6#a240729p6)
- - [How to Buy an Air Purifier in 4 Easy Steps](https://www.wired.com/story/how-to-buy-an-air-purifier/)<!-- TECH:END -->
+ - [Sources: HPE is expected to secure unconditional EU approval for its $14B acquisition of Juniper Networks; the EC is scheduled to decide on the deal by Aug. 1 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240729/p5#a240729p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

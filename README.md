@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keep your Mac running smoothly with CleanMyMac X](https://appleinsider.com/articles/24/07/29/keep-your-mac-running-smoothly-with-cleanmymac-x?utm_medium=rss)
  - [South Korea will provide $400M to vendors hit by payment delays on two Qoo10 e-commerce platforms, and Qoo10&#39;s founder pledges to use his own assets to help &lpar;Reuters&rpar;](http://www.techmeme.com/240729/p4#a240729p4)
  - [The AI Keeps the Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
  - [iCloud Private Relay outage finally resolved](https://appleinsider.com/articles/24/07/29/icloud-private-relay-outage-finally-resolved?utm_medium=rss)
- - [Bought a New iPhone 15? Try These USB-C Accessories First](https://www.cnet.com/tech/mobile/best-iphone-15-accessories/#ftag=CAD590a51e)
- - [People Are Using Memecoins to Bet on the US Election](https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/)<!-- TECH:END -->
+ - [Bought a New iPhone 15? Try These USB-C Accessories First](https://www.cnet.com/tech/mobile/best-iphone-15-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Olympics Swimming 2024: How to Watch Olympic Swimming Events Anywhere](https://www.cnet.com/tech/services-and-software/olympics-swimming-how-to-watch-olympic-event/#ftag=CAD590a51e)
  - [Jennifer Aniston doused in oil for &#39;The Morning Show&#39; season 4](https://appleinsider.com/articles/24/07/29/jennifer-aniston-doused-in-oil-for-the-morning-show-season-4?utm_medium=rss)
- - [iOS 17.6 &amp; more arrives in wake of Apple Intelligence beta release](https://appleinsider.com/articles/24/07/29/ios-176-more-arrives-in-wake-of-apple-intelligence-beta-release?utm_medium=rss)
- - [A look at the AI-assisted Judging Support System for scoring in gymnastics that made its debut at the 2023 world championships and helps settle disputes &lpar;Dvora Meyers/The Verge&rpar;](http://www.techmeme.com/240729/p13#a240729p13)
- - [Apple’s iOS 18.1 developer beta adds AI call recording and transcription](https://www.theverge.com/2024/7/29/24209024/apple-ios-18-1-developer-beta-iphone-call-recording-transcription)
- - [Two Days Left to Get Marvel Rivals Twitch Drops: Here’s How to Get Into the Beta](https://www.cnet.com/tech/gaming/marvel-rivals-closed-beta-how-to-get-access-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
+ - [Experience Watching the Olympics With Peacock&#39;s New Interactive Tools](https://www.cnet.com/tech/services-and-software/experience-watching-the-olympics-with-peacocks-new-interactive-tools/#ftag=CAD590a51e)
+ - [Best Memory Foam Mattresses for 2024](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

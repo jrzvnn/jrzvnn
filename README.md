@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 💣 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 😝 [Olympic Muses #003 Alicia Schmidt &lpar;Germany&rpar; Athletics &lpar;+ pics in comments&rpar;](http://9gag.com/gag/a0ejgyO)
+ - 💣 [Why is that?](http://9gag.com/gag/aXPw1zV)
  - 😝 [What\u2019s rolling in NYC? \ud83d\udd34\ud83d\udfe2\ud83d\udfe1\ud83d\udfe3That\u2019s the question people who pass this part of town keep asking themselves.](http://9gag.com/gag/ayN8zqb)
- - 👉 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)<!-- MEMES:END -->
+ - 👉 [Heron\u2019t](http://9gag.com/gag/a6ZQejR)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Samsung is narrowing the gap with rival SK Hynix in high-bandwidth memory chips and anticipates Nvidia&#39;s approval for its HBM3E chips by November 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240729/p19#a240729p19)
  - [A US congressional spokesperson says UAE scuttled meetings this month between congressional staff and G42 after the US raised concerns about Microsoft-G42 deal &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240729/p18#a240729p18)
  - [Following Google&#39;s announcement of plans to keep cookies, W3C says third-party cookies must be removed as this invisible tracking &quot;hurts everyone&#39;s privacy&quot; &lpar;Hadley Beeman/W3C&rpar;](http://www.techmeme.com/240729/p17#a240729p17)
  - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)
- - [Best Silk Pillowcases for 2024](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

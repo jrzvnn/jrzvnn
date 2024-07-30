@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd](https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd)
  - [OpenAI begins rolling out ChatGPT&#39;s Advanced Voice Mode, initially called out for sounding like Scarlett Johansson after its demo in May, to ChatGPT Plus users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240730/p28#a240730p28)
+ - [The 51 Best Shows on Disney+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [Pixel Watch 3 leak shows thinner bezels and new 45mm model](https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs)
- - [The Olympics has moved on from Mario and Sonic](https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports)
- - [How to use Call recording and transcription in iOS 18.1](https://appleinsider.com/articles/24/07/30/how-to-use-call-recording-and-transcription-in-ios-181?utm_medium=rss)<!-- TECH:END -->
+ - [The Olympics has moved on from Mario and Sonic](https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

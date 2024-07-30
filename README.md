@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Riyadh- and London-based AI startup Intelmatix raised a $20M Series A led by Shorooq Partners, the largest Series A investment for an AI firm in the MENA region &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/240730/p5#a240730p5)
  - [Scammers are using Meta&#39;s copyright protection tools to target influencers in the Middle East; creators see their content removed from Instagram unless they pay &lpar;Tekendra Parmar/Bloomberg&rpar;](http://www.techmeme.com/240730/p4#a240730p4)
  - [The US NTIA issues a report in support of &quot;open-weight&quot; generative AI models like Meta&#39;s Llama 3.1, but recommends the government to monitor for potential risks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240730/p3#a240730p3)
  - [Price war: Amazon, Best Buy drop 16-inch MacBook Pro to $1,999 &lpar;$500 off&rpar;](https://appleinsider.com/articles/24/07/30/price-war-amazon-best-buy-drop-16-inch-macbook-pro-to-1999-500-off?utm_medium=rss)
- - [Temu faces backlash from its Chinese suppliers over its aggressive effort to recruit Amazon merchants who hold goods in warehouses in the US and the EU &lpar;Financial Times&rpar;](http://www.techmeme.com/240730/p2#a240730p2)
- - [Today&#39;s NYT Mini Crossword Answers for July 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Temu faces backlash from its Chinese suppliers over its aggressive effort to recruit Amazon merchants who hold goods in warehouses in the US and the EU &lpar;Financial Times&rpar;](http://www.techmeme.com/240730/p2#a240730p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

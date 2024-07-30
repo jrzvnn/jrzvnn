@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 💣 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
+ - 😝 [Real Wtfact](http://9gag.com/gag/a7od4qz)
+ - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 💣 [Anyone remember this classic?](http://9gag.com/gag/a5Qrm3q)
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 👉 [To my Venezuelan friends. Love, Romania](http://9gag.com/gag/ajPDbjQ)<!-- MEMES:END -->
 
 ---
 

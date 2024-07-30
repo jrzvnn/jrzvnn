@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC charges BitClout founder Nader Al-Naji of raising $257M+ from unregistered offers and sales of BTCLT and lying to investors about personal compensation &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/240730/p25#a240730p25)
  - [The US Senate passes the Kids Online Safety Act and the Children and Teens&#39; Online Privacy Protection Act; the bills now move to the House &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240730/p24#a240730p24)
- - [Friend is the creepy and dystopian iPhone accessory that might just work](https://appleinsider.com/articles/24/07/30/friend-is-the-creepy-and-dystopian-iphone-accessory-that-might-just-work?utm_medium=rss)
- - [Senate passes the Kids Online Safety Act](https://www.theverge.com/2024/7/30/24205718/senate-passes-kids-online-safety-act-kosa-content-moderation)
- - [Echo Spot review: this smart alarm clock hits a sweet spot](https://www.theverge.com/24207052/amazon-alexa-echo-spot-review)
- - [Lineaje, a software supply chain management startup, raised a $20M Series A co-led by Prosperity7 Ventures, Neotribe Ventures, and Hitachi &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240730/p23#a240730p23)<!-- TECH:END -->
+ - [iOS 17.6: Why This Could Be Apple&#39;s Last Update Before iOS 18](https://www.cnet.com/tech/services-and-software/ios-17-6-why-this-could-be-apples-last-update-before-ios-18/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Z Flip 6 Deals: Snag the Latest Galaxy Foldable for Less With Trade-Ins, Gift Cards and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
+ - [Save Big on the Perfect Headphones for Summer Travel at Best Buy](https://www.cnet.com/paid-content/news/save-big-on-the-perfect-headphones-for-summer-travel-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

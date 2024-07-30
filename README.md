@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
  - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 😝 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
- - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 😝 [He was polite until he had enough of their bs](http://9gag.com/gag/aYQL0PV)
- - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
+ - 💣 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 ---
 

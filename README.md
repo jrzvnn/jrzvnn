@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA reports Q1 net bookings down 20% YoY to $1.26B, above expectations, revenue down 14% YoY to $1.66B, and net income down 30% YoY to 280M &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/240730/p36#a240730p36)
+ - [Samsung hypes the Galaxy Z Flip as a great police bodycam](https://www.theverge.com/2024/7/30/24209797/samsung-galaxy-z-flip-police-bodycam)
  - [Zscaler ThreatLabz and Chainalysis say ransomware group Dark Angels received a payment worth ~$75M in early 2024, the largest known ransomware payment to date &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240730/p35#a240730p35)
  - [Activision’s big contribution to AI is Call of Duty: Warzone data](https://www.theverge.com/2024/7/30/24209775/activision-call-of-duty-warzone-caldera-dataset-ai)
- - [Minecraft and Tetris combine for some very blocky dungeon crawling](https://www.theverge.com/2024/7/30/24209869/minecraft-tetris-dlc-dungeon-crawler)
- - [Match Group reports Q2 revenue up 4% YoY to $864M and paying Tinder users down 8% YoY to 9.6M, vs. 9.55M est.; MTCH jumps 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240730/p34#a240730p34)
- - [The Affordable Connectivity Program Died—and Thousands of Households Have Already Lost Their Internet](https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/)<!-- TECH:END -->
+ - [Minecraft and Tetris combine for some very blocky dungeon crawling](https://www.theverge.com/2024/7/30/24209869/minecraft-tetris-dlc-dungeon-crawler)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to paint...landlord version!](http://9gag.com/gag/ae96XEB)
- - 😝 [Men are simple creatures](http://9gag.com/gag/a347vGr)
- - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
+ - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
+ - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
  - 😝 [Hole-ly sh*t](http://9gag.com/gag/aoy2mKe)
- - 👉 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)<!-- MEMES:END -->
+ - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
 
 ---
 

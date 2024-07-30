@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
- - 😝 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
- - 💣 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
+ - 😝 [Concerning the stabbing in Southport...](http://9gag.com/gag/aYQL2Mm)
+ - 😝 [In another world](http://9gag.com/gag/ae96vpv)
+ - 💣 [F**k cancer](http://9gag.com/gag/aO8vXB6)
+ - 😝 [South Korea women\u2019s archery team has been winning gold medals at every olympics since women\u2019s team archery has been introduced in 1988 Seoul Olympics.](http://9gag.com/gag/azxA0qx)
+ - 👉 [A bit of theatre](http://9gag.com/gag/aAyPj8L)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The history of Roku and the fight over CarPlay](https://www.theverge.com/2024/7/30/24205129/roku-netflix-player-carplay-automakers-vergecast)
+ - [Dashlane says passkey adoption has increased by 400 percent in 2024](https://www.theverge.com/2024/7/30/24209395/dashlane-passkey-report-adoption-passwordless-sign-on)
+ - [Perplexity is cutting newsrooms a check following plagiarism accusations](https://www.theverge.com/2024/7/30/24208979/perplexity-publishers-program-ad-revenue-sharing-ai-time-fortune-der-spiegel)
  - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [The UK CMA is gathering information from market players to determine whether Google&#39;s partnership with Anthropic qualifies as a merger and harms competition &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240730/p13#a240730p13)
- - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
- - [The 17 Best Laptop Stands We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
- - [These 2 iPad Pro Features Belong on the iPhone](https://www.cnet.com/tech/mobile/i-hope-these-2-ipad-pro-features-make-it-to-the-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA is gathering information from market players to determine whether Google&#39;s partnership with Anthropic qualifies as a merger and harms competition &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240730/p13#a240730p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

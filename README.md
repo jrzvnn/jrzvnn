@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I never knew until now](http://9gag.com/gag/aE0nLqo)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
  - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 😝 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
- - 💣 [I never knew until now](http://9gag.com/gag/aE0nLqo)
- - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 ---
 

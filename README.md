@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Faye, which offers travel insurance and fintech services via a single smartphone app, raised a $31M Series B led by Portage; Faye raised a $10M Series A in 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240730/p10#a240730p10)
  - [The NHTSA says Tesla released an OTA update for 1.8M cars, including 2021-2024 Model 3, Model S, and Model X, to fix a software failure to detect unlatched hood &lpar;Disha Mishra/Reuters&rpar;](http://www.techmeme.com/240730/p9#a240730p9)
- - [The New Gods of Weather Can Make Rain on Demand—or So They Want You to Believe](https://www.wired.com/story/new-gods-weather-rain-cloud-seeding-emirates/)
- - [Flipkart consolidates its various fintech offerings, including UPI and BNPL, under Flipkart Pay; the move follows recent expansions and a spinoff of PhonePe &lpar;The Economic Times&rpar;](http://www.techmeme.com/240730/p8#a240730p8)
- - [Qualcomm debuts the 4nm Snapdragon 4s Gen 2, a feature limited version of the Snapdragon 4 Gen 2, to make 5G accessible to smartphones in the sub-$100 category &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240730/p7#a240730p7)
- - [Home Wi-Fi Issues? Three Words: Location, Location, Location](https://www.cnet.com/home/internet/home-wi-fi-issues-three-words-location-location-location/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RCS Messaging Finally Lands on Your iPhone With the iOS 18 Public Betas](https://www.cnet.com/tech/services-and-software/rcs-messaging-finally-lands-on-your-iphone-with-the-ios-18-public-betas/#ftag=CAD590a51e)
+ - [Want to Try iOS 18 Now? Here&#39;s All You Need to Know About the Public Beta](https://www.cnet.com/tech/services-and-software/want-to-try-ios-18-now-heres-all-you-need-to-know-about-the-public-beta/#ftag=CAD590a51e)
+ - [These 2 Apps Let You Easily Stream Almost Any Show With Friends](https://www.cnet.com/tech/services-and-software/these-two-apps-let-you-stream-almost-any-show-with-friends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

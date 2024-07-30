@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concerning the stabbing in Southport...](http://9gag.com/gag/aYQL2Mm)
- - 😝 [In another world](http://9gag.com/gag/ae96vpv)
- - 💣 [F**k cancer](http://9gag.com/gag/aO8vXB6)
- - 😝 [South Korea women\u2019s archery team has been winning gold medals at every olympics since women\u2019s team archery has been introduced in 1988 Seoul Olympics.](http://9gag.com/gag/azxA0qx)
- - 👉 [A bit of theatre](http://9gag.com/gag/aAyPj8L)<!-- MEMES:END -->
+ - 😝 [So big](http://9gag.com/gag/aPAWNen)
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 ---
 

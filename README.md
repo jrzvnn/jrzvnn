@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s Quest 3 ‘Layout’ app lets you take measurements in mixed reality](https://www.theverge.com/2024/7/30/24209438/meta-quest-layout-app-measurements-mixed-reality)
  - [Olympic men’s triathlon postponed due to river pollution](https://www.theverge.com/2024/7/30/24209440/olympics-men-triathlon-postponed-pollution-river-seine)
  - [macOS Sequoia beta proves there will be new Macs, iPads, iPhones in the future](https://appleinsider.com/articles/24/07/30/macos-sequoia-beta-proves-there-will-be-new-macs-ipads-iphones-in-the-future?utm_medium=rss)
  - [Perplexity is launching a program to share ad revenue with partners such as Time, Der Spiegel, Fortune, and WordPress.com, after weeks of plagiarism accusations &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240730/p15#a240730p15)
- - [Apple AirPods 2 Can Be Yours for Just $70 at Amazon, for Now](https://www.cnet.com/deals/apple-airpods-2-can-be-yours-for-just-70-at-amazon-for-now/#ftag=CAD590a51e)
- - [The UK ICO says the country&#39;s election authority failed to take &quot;basic steps&quot; to protect the personal data of 40M people before a 2021 China-backed cyberattack &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/240730/p14#a240730p14)<!-- TECH:END -->
+ - [Apple AirPods 2 Can Be Yours for Just $70 at Amazon, for Now](https://www.cnet.com/deals/apple-airpods-2-can-be-yours-for-just-70-at-amazon-for-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

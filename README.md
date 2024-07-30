@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lime tests two new e-bikes you don’t have to pedal](https://www.theverge.com/2024/7/30/24209553/lime-tests-shared-rideables-limebike-limeglider)
+ - [August 2024 Social Security Payment: When&#39;s Your Money Coming?](https://www.cnet.com/personal-finance/august-2024-social-security-payment-whens-your-money-coming/#ftag=CAD590a51e)
+ - [Best iPad Deals: Nab One of These High-Quality Apple Tablets for Much Less](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [Meta to pay $1.4 billion settlement with Texas over facial recognition and photo tags](https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit)
- - [You may be able to unlock future Apple devices with only your heart](https://appleinsider.com/articles/24/07/30/you-may-be-able-to-unlock-future-apple-devices-with-only-your-heart?utm_medium=rss)
- - [Lawmakers want to carve out intimate AI deepfakes from Section 230 immunity](https://www.theverge.com/2024/7/30/24209514/intimate-privacy-protection-act-ai-deepfakes-section-230)
- - [Marvel reportedly spent big to bring back Robert Downey Jr. and the Russo brothers](https://www.theverge.com/2024/7/30/24209499/marvel-robert-downey-jr-doomsday-russo-bros-salaries)
- - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)<!-- TECH:END -->
+ - [Rising Energy Costs Have Most Americans Concerned. Solar Panels Might Be the Answer](https://www.cnet.com/home/energy-and-utilities/rising-energy-costs-have-most-americans-concerned-solar-panels-might-be-the-answer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

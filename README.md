@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro lineup rumored to get Wi-Fi 7, just one year after the last upgrade](https://appleinsider.com/articles/24/07/30/iphone-16-pro-lineup-rumored-to-get-wi-fi-7-just-one-year-after-the-last-upgrade?utm_medium=rss)
- - [Amazon is expanding its one- to two-day delivery to rural areas in the US, using hyper-efficient warehouses, contracted drivers, and mom-and-pop shops &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240730/p20#a240730p20)
- - [Dasung’s latest color E ink monitor is portable](https://www.theverge.com/2024/7/30/24209452/dasung-e-ink-monitor-display-portable)
- - [An Apple Vision Pro has been controlled for the first time by a brain computer interface](https://appleinsider.com/articles/24/07/30/an-apple-vision-pro-has-been-controlled-for-the-first-time-by-a-brain-computer-interface?utm_medium=rss)
- - [SEC drops claims about 10 tokens it had argued were securities in its Binance suit; the case against other Binance programs, like staking, looks set to proceed &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240730/p19#a240730p19)<!-- TECH:END -->
+ - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)
+ - [Sources including frontline health care workers say their testing of Google&#39;s AI-powered nurse handoff tool has left questions about its consistency and quality &lpar;Bloomberg&rpar;](http://www.techmeme.com/240730/p21#a240730p21)
+ - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
+ - [Your new AI Friend is almost ready to meet you](https://www.theverge.com/2024/7/30/24207029/friend-ai-companion-gadget)
+ - [Wear This AI Friend Around Your Neck](https://www.wired.com/story/friend-ai-pendant/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

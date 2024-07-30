@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)
  - [Best Silk Pillowcases for 2024](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)
  - [Best Wine Club and Subscriptions to Gift in 2024](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)
- - [Meta releases Segment Anything Model 2 with support for object segmentation in videos and images; the code and weights are available under an Apache 2.0 license &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240729/p16#a240729p16)<!-- TECH:END -->
+ - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

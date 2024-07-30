@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)<!-- MEMES:END -->
+ - 😝 [Anyone remember this classic?](http://9gag.com/gag/a5Qrm3q)
+ - 😝 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
+ - 💣 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)
+ - 😝 [Brazilian putting pickpocket to run in Paris](http://9gag.com/gag/a7odjOq)
+ - 👉 [Proud smile](http://9gag.com/gag/aqyLPKR)<!-- MEMES:END -->
 
 ---
 

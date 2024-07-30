@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC drops claims about 10 tokens it had argued were securities in its Binance suit; the case against other Binance programs, like staking, looks set to proceed &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240730/p19#a240730p19)
+ - [Zombie Alt-Weeklies Are Stuffed With AI Slop About OnlyFans](https://www.wired.com/story/zombie-alt-weeklies-are-stuffed-with-ai-slop-about-onlyfans/)
  - [A Senate Bill Would Radically Improve Voting Machine Security](https://www.wired.com/story/a-senate-bill-would-radically-improve-voting-machine-security/)
  - [Meta agrees to pay $1.4B to settle Texas&#39; lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p18#a240730p18)
- - [Refi Rates Improve Marginally Ahead of Fed Decision. Today&#39;s Refinance Rates, July 30, 2024](https://www.cnet.com/personal-finance/mortgage-refinance-rates-fall-todays-refinance-rates-july-30-2024/#ftag=CAD590a51e)
- - [Mortgage Rates Hold Firm Before Fed Meeting. Today&#39;s Mortgage Rates, July 30, 2024](https://www.cnet.com/personal-finance/mortgage-rates-increase-for-prospective-buyers-mortgage-rates-on-july-30-2024/#ftag=CAD590a51e)
- - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Refi Rates Improve Marginally Ahead of Fed Decision. Today&#39;s Refinance Rates, July 30, 2024](https://www.cnet.com/personal-finance/mortgage-refinance-rates-fall-todays-refinance-rates-july-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

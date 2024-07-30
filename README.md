@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)
  - [Sources including frontline health care workers say their testing of Google&#39;s AI-powered nurse handoff tool has left questions about its consistency and quality &lpar;Bloomberg&rpar;](http://www.techmeme.com/240730/p21#a240730p21)
  - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
- - [Your new AI Friend is almost ready to meet you](https://www.theverge.com/2024/7/30/24207029/friend-ai-companion-gadget)<!-- TECH:END -->
+ - [These OTC Hearing Aids Are the Best Deal for You. Here&#39;s the Math](https://www.cnet.com/health/medical/these-otc-hearing-aids-are-the-best-deal-for-you-heres-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
+ - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 ---
 

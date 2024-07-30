@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta to pay $1.4 billion settlement with Texas over facial recognition and photo tags](https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit)
+ - [You may be able to unlock future Apple devices with only your heart](https://appleinsider.com/articles/24/07/30/you-may-be-able-to-unlock-future-apple-devices-with-only-your-heart?utm_medium=rss)
  - [Lawmakers want to carve out intimate AI deepfakes from Section 230 immunity](https://www.theverge.com/2024/7/30/24209514/intimate-privacy-protection-act-ai-deepfakes-section-230)
  - [Marvel reportedly spent big to bring back Robert Downey Jr. and the Russo brothers](https://www.theverge.com/2024/7/30/24209499/marvel-robert-downey-jr-doomsday-russo-bros-salaries)
- - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)
- - [Sources including frontline health care workers say their testing of Google&#39;s AI-powered nurse handoff tool has left questions about its consistency and quality &lpar;Bloomberg&rpar;](http://www.techmeme.com/240730/p21#a240730p21)
- - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)<!-- TECH:END -->
+ - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

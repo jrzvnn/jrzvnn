@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
  - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
+ - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 👉 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Norman Foster speaks on creating Apple Park&#39;s iconic spaceship campus](https://appleinsider.com/articles/24/07/30/norman-foster-speaks-on-creating-apple-parks-iconic-spaceship-campus?utm_medium=rss)
+ - [Pinterest reports Q2 revenue up 21% YoY to $853.7M, vs. $847.8M est., MAUs up 12% YoY to 522M, and forecasts Q3 revenue below est.; PINS drops 13%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240730/p32#a240730p32)
+ - [Microsoft Q4: Intelligent Cloud revenue up 19% YoY to $28.52B, vs. $28.68B est., with Azure and other cloud services rev. up 29% YoY; MSFT drops ~5% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240730/p31#a240730p31)
  - [Meta scraps its celebrity AI chatbot feature less than a year after launch and now expects people to use Meta&#39;s new AI Studio to customize their own AI avatars &lpar;The Information&rpar;](http://www.techmeme.com/240730/p30#a240730p30)
- - [Microsoft’s cloud revenues rule again in Q4, as Surface continues to dip](https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Microsoft reports Q4 revenue up 15% YoY to $64.7B, net income up 10% to $22B, Azure and other cloud services revenue up 29% YoY, and LinkedIn revenue up 10% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/240730/p29#a240730p29)
- - [Apple Intelligence vs Grammarly -- AI powered text tool showdown](https://appleinsider.com/inside/ios-18/vs/apple-intelligence-vs-grammarly----ai-powered-text-tool-showdown?utm_medium=rss)
- - [Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd](https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd)<!-- TECH:END -->
+ - [Microsoft’s cloud revenues rule again in Q4, as Surface continues to dip](https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

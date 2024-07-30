@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
  - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
  - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
- - 💣 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
  - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 ---

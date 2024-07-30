@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone remember this classic?](http://9gag.com/gag/a5Qrm3q)
- - 😝 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
- - 💣 [Proud smile](http://9gag.com/gag/aqyLPKR)
- - 😝 [Nice.](http://9gag.com/gag/ajPDbGG)
- - 👉 [I never knew until now](http://9gag.com/gag/aE0nLqo)<!-- MEMES:END -->
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
+ - 👉 [I\u2019m on vacation in Poland and I saw this from my balcony. Is this a normal thing in Poland?](http://9gag.com/gag/aGyDWw6)<!-- MEMES:END -->
 
 ---
 

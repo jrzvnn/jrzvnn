@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US congressional spokesperson says UAE scuttled meetings this month between congressional staff and G42 after the US raised concerns about Microsoft-G42 deal &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240729/p18#a240729p18)
+ - [Following Google&#39;s announcement of plans to keep cookies, W3C says third-party cookies must be removed as this invisible tracking &quot;hurts everyone&#39;s privacy&quot; &lpar;Hadley Beeman/W3C&rpar;](http://www.techmeme.com/240729/p17#a240729p17)
  - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)
- - [Best Silk Pillowcases for 2024](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)
- - [Best Wine Club and Subscriptions to Gift in 2024](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Silk Pillowcases for 2024](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [The UK CMA is gathering information from market players to determine whether Google&#39;s partnership with Anthropic qualifies as a merger and harms competition &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240730/p13#a240730p13)
+ - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
  - [The 17 Best Laptop Stands We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
- - [Coros Dura Solar GPS Bike Computer Review: Battery Life for Days](https://www.wired.com/review/coros-dura-solar-gps-bike-computer/)
- - [LG Display steps in to iPhone SE 4 OLED supply chain](https://appleinsider.com/articles/24/07/30/lg-display-steps-in-to-iphone-se-4-oled-supply-chain?utm_medium=rss)
- - [PayPal reports Q2 revenue up 8% YoY to $7.89B, total payment volume up 11% to $416.81B, transaction margin dollars up 8%, and raises its FY 2024 profit forecast &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240730/p12#a240730p12)
- - [Canva adds a new generative AI platform to its growing creative empire](https://www.theverge.com/2024/7/30/24209421/canva-leonardo-generative-ai-platform-acquisition-design-software)<!-- TECH:END -->
+ - [These 2 iPad Pro Features Belong on the iPhone](https://www.cnet.com/tech/mobile/i-hope-these-2-ipad-pro-features-make-it-to-the-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

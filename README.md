@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva acquires AI image generation service Leonardo.ai for an undisclosed amount; Leonardo.ai launched in December 2022 and has more than 19M registered users &lpar;Capital Brief&rpar;](http://www.techmeme.com/240730/p1#a240730p1)
  - [Lime’s New Rideshare Ebikes Are More Approachable—Throttle and All](https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/)
  - [Sources: Samsung is narrowing the gap with rival SK Hynix in high-bandwidth memory chips and anticipates Nvidia&#39;s approval for its HBM3E chips by November 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240729/p19#a240729p19)
  - [A US congressional spokesperson says UAE scuttled meetings this month between congressional staff and G42 after the US raised concerns about Microsoft-G42 deal &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240729/p18#a240729p18)
- - [Following Google&#39;s announcement of plans to keep cookies, W3C says third-party cookies must be removed as this invisible tracking &quot;hurts everyone&#39;s privacy&quot; &lpar;Hadley Beeman/W3C&rpar;](http://www.techmeme.com/240729/p17#a240729p17)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 30, #149](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-30-149/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Following Google&#39;s announcement of plans to keep cookies, W3C says third-party cookies must be removed as this invisible tracking &quot;hurts everyone&#39;s privacy&quot; &lpar;Hadley Beeman/W3C&rpar;](http://www.techmeme.com/240729/p17#a240729p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

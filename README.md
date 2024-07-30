@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Cloud Strength Drives Fourth Quarter Results &lpar;Microsoft&rpar;](http://www.techmeme.com/240730/p29#a240730p29)
  - [Apple Intelligence vs Grammarly -- AI powered text tool showdown](https://appleinsider.com/inside/ios-18/vs/apple-intelligence-vs-grammarly----ai-powered-text-tool-showdown?utm_medium=rss)
  - [Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd](https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd)
  - [OpenAI begins rolling out ChatGPT&#39;s Advanced Voice Mode, initially called out for sounding like Scarlett Johansson after its demo in May, to ChatGPT Plus users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240730/p28#a240730p28)
- - [The 51 Best Shows on Disney+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [Pixel Watch 3 leak shows thinner bezels and new 45mm model](https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs)<!-- TECH:END -->
+ - [The 51 Best Shows on Disney+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor roundup: iPhone Slim could be Apple&#39;s thinnest smartphone](https://appleinsider.com/articles/24/07/29/rumor-roundup-iphone-slim-could-be-apples-thinnest-smartphone?utm_medium=rss)
  - [AMD is becoming an AI chip company, just like Nvidia](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue)
  - [Sources: Intel may unveil plans as early as this week to cut thousands of jobs to reduce costs and fund a rebound from an earnings slump and market share losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240730/p39#a240730p39)
  - [Startup Friend previews a $99 AI pendant with an always-on microphone that&#39;s designed to provide the wearer with companionship, set to ship in January 2025 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240730/p38#a240730p38)
- - [Microsoft Q4: Windows OEM revenue up 4% YoY, devices revenue down 11% YoY, overall gaming revenue up 44% YoY, and Xbox content and services revenue up 61% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240730/p37#a240730p37)
- - [EA reports Q1 net bookings down 20% YoY to $1.26B, above expectations, revenue down 14% YoY to $1.66B, and net income down 30% YoY to 280M &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/240730/p36#a240730p36)<!-- TECH:END -->
+ - [Microsoft Q4: Windows OEM revenue up 4% YoY, devices revenue down 11% YoY, overall gaming revenue up 44% YoY, and Xbox content and services revenue up 61% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240730/p37#a240730p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

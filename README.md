@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato Prompter Review: No iPad Required for This Teleprompter](https://www.wired.com/review/elgato-teleprompter/)
- - [What to expect from Apple&#39;s Q3 2024 earnings on August 1](https://appleinsider.com/articles/24/07/30/what-to-expect-from-apples-q3-2024-earnings-on-august-1?utm_medium=rss)
- - [The Untold Story of How Ridley Scott Saw &#39;Star Wars&#39;—and Ended Up Making &#39;Alien&#39;](https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/)
- - [Experts say AI forecasting models are predicting weather patterns with new speed and precision and are likely to complement supercomputer forecasting models &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/240730/p11#a240730p11)
- - [Microsoft wants Congress to outlaw AI-generated deepfake fraud](https://www.theverge.com/2024/7/30/24209404/microsoft-deepfake-congress-lawmakers-ai-fraud)<!-- TECH:END -->
+ - [The 17 Best Laptop Stands We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
+ - [Coros Dura Solar GPS Bike Computer Review: Battery Life for Days](https://www.wired.com/review/coros-dura-solar-gps-bike-computer/)
+ - [LG Display steps in to iPhone SE 4 OLED supply chain](https://appleinsider.com/articles/24/07/30/lg-display-steps-in-to-iphone-se-4-oled-supply-chain?utm_medium=rss)
+ - [PayPal reports Q2 revenue up 8% YoY to $7.89B, total payment volume up 11% to $416.81B, transaction margin dollars up 8%, and raises its FY 2024 profit forecast &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240730/p12#a240730p12)
+ - [Canva adds a new generative AI platform to its growing creative empire](https://www.theverge.com/2024/7/30/24209421/canva-leonardo-generative-ai-platform-acquisition-design-software)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

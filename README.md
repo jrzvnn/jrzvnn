@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never knew until now](http://9gag.com/gag/aE0nLqo)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 💣 [Her reaction was so genuine and pure! Totally priceless](http://9gag.com/gag/an71A3L)
- - 😝 [Just a casual encounter with a puma in the wild](http://9gag.com/gag/a1mX4NG)
- - 👉 [How to paint...landlord version!](http://9gag.com/gag/ae96XEB)<!-- MEMES:END -->
+ - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 3D Printer Deals: Save Up to $300 on Our Favorite 3D Printers Including Creality, Elegoo and More](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Nvidia and Meta CEOs Talk Generative AI at Siggraph 2024 video](https://www.cnet.com/videos/nvidia-and-meta-ceos-talk-generative-ai-at-siggraph-2024/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Puerto Rico](https://www.cnet.com/home/energy-and-utilities/puerto-rico-solar-panels/#ftag=CAD590a51e)
- - [A US Olympic Medalist Shares How He Beats Jet Lag and Travels Like a Pro](https://www.cnet.com/health/sleep/a-us-olympic-medalist-shares-how-he-beats-jet-lag-and-flies-like-a-pro/#ftag=CAD590a51e)
- - [M3 MacBook Pro 14-inch gets an upgrade with macOS Sonoma 14.6](https://appleinsider.com/articles/24/07/29/m3-macbook-pro-14-inch-gets-an-upgrade-with-macos-sonoma-146?utm_medium=rss)<!-- TECH:END -->
+ - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)
+ - [Meta releases Segment Anything Model 2 with support for object segmentation in videos and images; the code and weights are available under an Apache 2.0 license &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240729/p16#a240729p16)
+ - [Logitech’s Circle View Doorbell is safe... for now](https://www.theverge.com/2024/7/29/24209161/logitech-circle-view-doorbell-still-available)
+ - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2024](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
+ - [Best iPhone SE Deals: Get a New Phone for Free With Trade-In or New Line](https://www.cnet.com/deals/best-iphone-se-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

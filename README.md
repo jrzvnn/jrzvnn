@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group reports Q2 revenue up 4% YoY to $864M and paying Tinder users down 8% YoY to 9.6M, vs. 9.55M est.; MTCH jumps 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240730/p34#a240730p34)
+ - [The Affordable Connectivity Program Died—and Thousands of Households Have Already Lost Their Internet](https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/)
  - [AMD reports Q2 revenue up 9% YoY to $5.83B, vs. $5.72B est., Data Center revenue up 115% to $2.8B, net income up 881% to $265M, Q3 revenue forecast above est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240730/p33#a240730p33)
  - [Norman Foster speaks on creating Apple Park&#39;s iconic spaceship campus](https://appleinsider.com/articles/24/07/30/norman-foster-speaks-on-creating-apple-parks-iconic-spaceship-campus?utm_medium=rss)
- - [Pinterest reports Q2 revenue up 21% YoY to $853.7M, vs. $847.8M est., MAUs up 12% YoY to 522M, and forecasts Q3 revenue below est.; PINS drops 13%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240730/p32#a240730p32)
- - [Microsoft Q4: Intelligent Cloud revenue up 19% YoY to $28.52B, vs. $28.68B est., with Azure and other cloud services rev. up 29% YoY; MSFT drops ~5% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240730/p31#a240730p31)
- - [Meta scraps its celebrity AI chatbot feature less than a year after launch and now expects people to use Meta&#39;s new AI Studio to customize their own AI avatars &lpar;The Information&rpar;](http://www.techmeme.com/240730/p30#a240730p30)<!-- TECH:END -->
+ - [Pinterest reports Q2 revenue up 21% YoY to $853.7M, vs. $847.8M est., MAUs up 12% YoY to 522M, and forecasts Q3 revenue below est.; PINS drops 13%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240730/p32#a240730p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

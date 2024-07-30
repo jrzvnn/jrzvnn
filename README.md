@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD CEO Lisa Su says the MI300 AI chips did over $1B in sales in Q2 and that supply of MI300 chips will remain tight through 2025 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240730/p40#a240730p40)
  - [Meta moves on from its celebrity lookalike AI chatbots](https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on)
  - [Rumor roundup: iPhone Slim could be Apple&#39;s thinnest smartphone](https://appleinsider.com/articles/24/07/29/rumor-roundup-iphone-slim-could-be-apples-thinnest-smartphone?utm_medium=rss)
  - [AMD is becoming an AI chip company, just like Nvidia](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue)
- - [Sources: Intel may unveil plans as early as this week to cut thousands of jobs to reduce costs and fund a rebound from an earnings slump and market share losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240730/p39#a240730p39)
- - [Startup Friend previews a $99 AI pendant with an always-on microphone that&#39;s designed to provide the wearer with companionship, set to ship in January 2025 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240730/p38#a240730p38)<!-- TECH:END -->
+ - [Sources: Intel may unveil plans as early as this week to cut thousands of jobs to reduce costs and fund a rebound from an earnings slump and market share losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240730/p39#a240730p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

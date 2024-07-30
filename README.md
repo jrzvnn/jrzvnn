@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 😝 [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
- - 💣 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 😝 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
+ - 😝 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
+ - 💣 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
 
 ---
 

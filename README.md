@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US CPSC rules that Amazon is legally responsible for recalled products sold on Amazon.com, even by third parties, and must remove them and notify purchasers &lpar;Kate Gibson/CBS News&rpar;](http://www.techmeme.com/240730/p27#a240730p27)
  - [California&#39;s DMV says it has created tokens for 42M car titles on the Avalanche blockchain and aims to help residents access them by early next year &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240730/p26#a240730p26)
  - [Batman: Caped Crusader is a pulpy throwback to the golden age of DC animation](https://www.theverge.com/2024/7/30/24208904/batman-caped-crusader-amazon)
  - [The SEC charges BitClout founder Nader Al-Naji of raising $257M+ from unregistered offers and sales of BTCLT and lying to investors about personal compensation &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/240730/p25#a240730p25)
- - [The US Senate passes the Kids Online Safety Act and the Children and Teens&#39; Online Privacy Protection Act; the bills now move to the House &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240730/p24#a240730p24)
- - [Friend is the creepy and dystopian iPhone accessory that might just work](https://appleinsider.com/articles/24/07/30/friend-is-the-creepy-and-dystopian-iphone-accessory-that-might-just-work?utm_medium=rss)<!-- TECH:END -->
+ - [The US Senate passes the Kids Online Safety Act and the Children and Teens&#39; Online Privacy Protection Act; the bills now move to the House &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240730/p24#a240730p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

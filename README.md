@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [What to expect from Apple&#39;s Q3 2024 earnings on August 1](https://appleinsider.com/articles/24/07/30/what-to-expect-from-apples-q3-2024-earnings-on-august-1?utm_medium=rss)
- - [The Untold Story of How Ridley Scott Saw &#39;Star Wars&#39;—and Ended Up Making &#39;Alien&#39;](https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/)
- - [Experts say AI forecasting models are predicting weather patterns with new speed and precision and are likely to complement supercomputer forecasting models &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/240730/p11#a240730p11)
- - [Microsoft wants Congress to outlaw AI-generated deepfake fraud](https://www.theverge.com/2024/7/30/24209404/microsoft-deepfake-congress-lawmakers-ai-fraud)
- - [Faye, which offers travel insurance and fintech services via a single smartphone app, raised a $31M Series B led by Portage; Faye raised a $10M Series A in 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240730/p10#a240730p10)<!-- TECH:END -->
+ - [Best Press Events, Conferences and Trade Shows, Rated by CNET](https://www.cnet.com/tech/best-press-events-conferences-and-trade-shows-rated-by-cnet/#ftag=CAD590a51e)
+ - [I Tried 5 Ways to Reheat Pizza. One Was the Absolute Best.](https://www.cnet.com/how-to/i-tried-5-ways-to-reheat-pizza-one-was-the-absolute-best/#ftag=CAD590a51e)
+ - [Crunchyroll Game Vault Continues to Expand and Offer More Games](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-continues-to-expand-and-offer-more-games/#ftag=CAD590a51e)
+ - [The Untold Story of How Ridley Scott Saw &#39;Star Wars&#39;—and Ended Up Making &#39;Alien&#39;](https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

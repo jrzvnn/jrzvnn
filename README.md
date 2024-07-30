@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
  - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
  - 👉 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)<!-- MEMES:END -->
 
 ---

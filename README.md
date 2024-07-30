@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Friend is the creepy and dystopian iPhone accessory that might just work](https://appleinsider.com/articles/24/07/30/friend-is-the-creepy-and-dystopian-iphone-accessory-that-might-just-work?utm_medium=rss)
+ - [Senate passes the Kids Online Safety Act](https://www.theverge.com/2024/7/30/24205718/senate-passes-kids-online-safety-act-kosa-content-moderation)
  - [Echo Spot review: this smart alarm clock hits a sweet spot](https://www.theverge.com/24207052/amazon-alexa-echo-spot-review)
  - [Lineaje, a software supply chain management startup, raised a $20M Series A co-led by Prosperity7 Ventures, Neotribe Ventures, and Hitachi &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240730/p23#a240730p23)
- - [Apple AirPods drop to all-time low price of $69.99 at Amazon, AirPods Pro 2 dip to $179.99](https://appleinsider.com/articles/24/07/30/apple-airpods-drop-to-all-time-low-price-of-6999-at-amazon-airpods-pro-2-dip-to-17999?utm_medium=rss)
- - [Spain&#39;s antitrust watchdog fines Booking.com &amp;euro;413.2M for abusing its dominant position of 70%-90% market share in the country over the last five years &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p22#a240730p22)
- - [Lime tests two new e-bikes you don’t have to pedal](https://www.theverge.com/2024/7/30/24209553/lime-tests-shared-rideables-limebike-limeglider)<!-- TECH:END -->
+ - [Apple AirPods drop to all-time low price of $69.99 at Amazon, AirPods Pro 2 dip to $179.99](https://appleinsider.com/articles/24/07/30/apple-airpods-drop-to-all-time-low-price-of-6999-at-amazon-airpods-pro-2-dip-to-17999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

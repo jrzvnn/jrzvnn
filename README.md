@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
  - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
  - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
 
 ---

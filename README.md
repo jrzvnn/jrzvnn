@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
- - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
- - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
+ - 😝 [How to paint...landlord version!](http://9gag.com/gag/ae96XEB)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/a347vGr)
+ - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
+ - 😝 [Hole-ly sh*t](http://9gag.com/gag/aoy2mKe)
+ - 👉 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)<!-- MEMES:END -->
 
 ---
 

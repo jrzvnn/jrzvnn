@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 😝 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
- - 💣 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 💣 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
 
 ---
 

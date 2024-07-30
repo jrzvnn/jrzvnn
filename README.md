@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 😝 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
- - 💣 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 😝 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
+ - 💣 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
 
 ---
 

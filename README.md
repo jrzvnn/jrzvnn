@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is that?](http://9gag.com/gag/aXPw1zV)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 💣 [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
- - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
+ - 😝 [Third term for Maduro with 51.20% of the vote](http://9gag.com/gag/azxA07b)
+ - 😝 [Concerning the stabbing in Southport...](http://9gag.com/gag/aYQL2Mm)
+ - 💣 [South Korea women\u2019s archery team has been winning gold medals at every olympics since women\u2019s team archery has been introduced in 1988 Seoul Olympics.](http://9gag.com/gag/azxA0qx)
+ - 😝 [A bit of theatre](http://9gag.com/gag/aAyPj8L)
+ - 👉 [In another world](http://9gag.com/gag/ae96vpv)<!-- MEMES:END -->
 
 ---
 

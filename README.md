@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Cloud Strength Drives Fourth Quarter Results &lpar;Microsoft&rpar;](http://www.techmeme.com/240730/p29#a240730p29)
+ - [Meta scraps its celebrity AI chatbot feature less than a year after launch and now expects people to use Meta&#39;s new AI Studio to customize their own AI avatars &lpar;The Information&rpar;](http://www.techmeme.com/240730/p30#a240730p30)
+ - [Microsoft’s cloud revenues rule again in Q4, as Surface continues to dip](https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Microsoft reports Q4 revenue up 15% YoY to $64.7B, net income up 10% to $22B, Azure and other cloud services revenue up 29% YoY, and LinkedIn revenue up 10% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/240730/p29#a240730p29)
  - [Apple Intelligence vs Grammarly -- AI powered text tool showdown](https://appleinsider.com/inside/ios-18/vs/apple-intelligence-vs-grammarly----ai-powered-text-tool-showdown?utm_medium=rss)
- - [Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd](https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd)
- - [OpenAI begins rolling out ChatGPT&#39;s Advanced Voice Mode, initially called out for sounding like Scarlett Johansson after its demo in May, to ChatGPT Plus users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240730/p28#a240730p28)
- - [The 51 Best Shows on Disney+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd](https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

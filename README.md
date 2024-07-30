@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s Q3 2024 earnings on August 1](https://appleinsider.com/articles/24/07/30/what-to-expect-from-apples-q3-2024-earnings-on-august-1?utm_medium=rss)
+ - [The Untold Story of How Ridley Scott Saw &#39;Star Wars&#39;—and Ended Up Making &#39;Alien&#39;](https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/)
  - [Experts say AI forecasting models are predicting weather patterns with new speed and precision and are likely to complement supercomputer forecasting models &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/240730/p11#a240730p11)
  - [Microsoft wants Congress to outlaw AI-generated deepfake fraud](https://www.theverge.com/2024/7/30/24209404/microsoft-deepfake-congress-lawmakers-ai-fraud)
- - [Faye, which offers travel insurance and fintech services via a single smartphone app, raised a $31M Series B led by Portage; Faye raised a $10M Series A in 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240730/p10#a240730p10)
- - [The NHTSA says Tesla released an OTA update for 1.8M cars, including 2021-2024 Model 3, Model S, and Model X, to fix a software failure to detect unlatched hood &lpar;Disha Mishra/Reuters&rpar;](http://www.techmeme.com/240730/p9#a240730p9)
- - [RCS Messaging Finally Lands on Your iPhone With the iOS 18 Public Betas](https://www.cnet.com/tech/services-and-software/rcs-messaging-finally-lands-on-your-iphone-with-the-ios-18-public-betas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Faye, which offers travel insurance and fintech services via a single smartphone app, raised a $31M Series B led by Portage; Faye raised a $10M Series A in 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240730/p10#a240730p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

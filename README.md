@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Offering a ride](http://9gag.com/gag/a1mX37D)
+ - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
  - 😝 [To my Venezuelan friends. Love, Romania](http://9gag.com/gag/ajPDbjQ)
- - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 😝 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
+ - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 👉 [Hikaru notices that Magnus Carlsen is in a losing position](http://9gag.com/gag/aNDWb24)<!-- MEMES:END -->
 
 ---
 

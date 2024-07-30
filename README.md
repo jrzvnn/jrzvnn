@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British people protesting/rioting after Rwandan migrant killed 3 children with a knife.](http://9gag.com/gag/avyr2MM)
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
  - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 💣 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
+ - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
  - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
 
 ---
 

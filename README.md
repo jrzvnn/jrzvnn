@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
- - 😝 [To my Venezuelan friends. Love, Romania](http://9gag.com/gag/ajPDbjQ)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 😝 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
  - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - 👉 [Hikaru notices that Magnus Carlsen is in a losing position](http://9gag.com/gag/aNDWb24)<!-- MEMES:END -->
+ - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
+ - 👉 [Takes a little practice, but it does the trick..](http://9gag.com/gag/aD2Geg9)<!-- MEMES:END -->
 
 ---
 

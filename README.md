@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC drops claims about 10 tokens it had argued were securities in its Binance suit; the case against other Binance programs, like staking, looks set to proceed &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240730/p19#a240730p19)
- - [Zombie Alt-Weeklies Are Stuffed With AI Slop About OnlyFans](https://www.wired.com/story/zombie-alt-weeklies-are-stuffed-with-ai-slop-about-onlyfans/)
- - [A Senate Bill Would Radically Improve Voting Machine Security](https://www.wired.com/story/a-senate-bill-would-radically-improve-voting-machine-security/)
- - [Meta agrees to pay $1.4B to settle Texas&#39; lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p18#a240730p18)
- - [Refi Rates Improve Marginally Ahead of Fed Decision. Today&#39;s Refinance Rates, July 30, 2024](https://www.cnet.com/personal-finance/mortgage-refinance-rates-fall-todays-refinance-rates-july-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is expanding its one- to two-day delivery to rural areas in the US, using hyper-efficient warehouses, contracted drivers, and mom-and-pop shops &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240730/p20#a240730p20)
+ - [Dasung’s latest color E ink monitor is portable](https://www.theverge.com/2024/7/30/24209452/dasung-e-ink-monitor-display-portable)
+ - [An Apple Vision Pro has been controlled for the first time by a brain computer interface](https://appleinsider.com/articles/24/07/30/an-apple-vision-pro-has-been-controlled-for-the-first-time-by-a-brain-computer-interface?utm_medium=rss)
+ - [iPhone 16 Pro lineup rumored to get Wi-Fi 7, just one year after the last upgrade](https://appleinsider.com/articles/24/07/30/iphone-16-pro-lineup-rumored-to-get-wi-fi-7-just-one-year-after-the-last-upgrade?utm_medium=rss)
+ - [SEC drops claims about 10 tokens it had argued were securities in its Binance suit; the case against other Binance programs, like staking, looks set to proceed &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240730/p19#a240730p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

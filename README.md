@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lineaje, a software supply chain management startup, raised a $20M Series A co-led by Prosperity7 Ventures, Neotribe Ventures, and Hitachi &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240730/p23#a240730p23)
+ - [Apple AirPods drop to all-time low price of $69.99 at Amazon, AirPods Pro 2 dip to $179.99](https://appleinsider.com/articles/24/07/30/apple-airpods-drop-to-all-time-low-price-of-6999-at-amazon-airpods-pro-2-dip-to-17999?utm_medium=rss)
+ - [Spain&#39;s antitrust watchdog fines Booking.com &amp;euro;413.2M for abusing its dominant position of 70%-90% market share in the country over the last five years &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p22#a240730p22)
  - [Lime tests two new e-bikes you don’t have to pedal](https://www.theverge.com/2024/7/30/24209553/lime-tests-shared-rideables-limebike-limeglider)
- - [August 2024 Social Security Payment: When&#39;s Your Money Coming?](https://www.cnet.com/personal-finance/august-2024-social-security-payment-whens-your-money-coming/#ftag=CAD590a51e)
- - [Best iPad Deals: Nab One of These High-Quality Apple Tablets for Much Less](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Meta to pay $1.4 billion settlement with Texas over facial recognition and photo tags](https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit)
- - [Rising Energy Costs Have Most Americans Concerned. Solar Panels Might Be the Answer](https://www.cnet.com/home/energy-and-utilities/rising-energy-costs-have-most-americans-concerned-solar-panels-might-be-the-answer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [August 2024 Social Security Payment: When&#39;s Your Money Coming?](https://www.cnet.com/personal-finance/august-2024-social-security-payment-whens-your-money-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

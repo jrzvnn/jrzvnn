@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd](https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd)
+ - [OpenAI begins rolling out ChatGPT&#39;s Advanced Voice Mode, initially called out for sounding like Scarlett Johansson after its demo in May, to ChatGPT Plus users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240730/p28#a240730p28)
  - [Pixel Watch 3 leak shows thinner bezels and new 45mm model](https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs)
  - [The Olympics has moved on from Mario and Sonic](https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports)
- - [How to use Call recording and transcription in iOS 18.1](https://appleinsider.com/articles/24/07/30/how-to-use-call-recording-and-transcription-in-ios-181?utm_medium=rss)
- - [Apple’s entry-level AirPods have already returned to their Prime Day low](https://www.theverge.com/2024/7/30/24208784/apple-airpods-second-gen-playstation-5-slim-deal-sale)
- - [The US CPSC rules that Amazon is legally responsible for recalled products sold on Amazon.com, even by third parties, and must remove them and notify purchasers &lpar;Kate Gibson/CBS News&rpar;](http://www.techmeme.com/240730/p27#a240730p27)<!-- TECH:END -->
+ - [How to use Call recording and transcription in iOS 18.1](https://appleinsider.com/articles/24/07/30/how-to-use-call-recording-and-transcription-in-ios-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

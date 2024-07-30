@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 💣 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
  - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
- - 👉 [I\u2019m on vacation in Poland and I saw this from my balcony. Is this a normal thing in Poland?](http://9gag.com/gag/aGyDWw6)<!-- MEMES:END -->
+ - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 ---
 

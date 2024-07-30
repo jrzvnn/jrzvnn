@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flipkart consolidates its various fintech offerings, including UPI and BNPL, under Flipkart Pay; the move follows recent expansions and a spinoff of PhonePe &lpar;The Economic Times&rpar;](http://www.techmeme.com/240730/p8#a240730p8)
  - [Qualcomm debuts the 4nm Snapdragon 4s Gen 2, a feature limited version of the Snapdragon 4 Gen 2, to make 5G accessible to smartphones in the sub-$100 category &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240730/p7#a240730p7)
- - [Chinese e-commerce firms prioritize sustainable growth over ultra-low prices amid slow GMV growth and anti-unfair competition rules taking effect on September 1 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240730/p6#a240730p6)
- - [Qualcomm&#39;s New Chip Could Bring 5G to Phones Priced Under $100](https://www.cnet.com/tech/mobile/qualcomms-new-chip-could-bring-5g-to-phones-priced-under-100/#ftag=CAD590a51e)
- - [How a Secret BJP War Room Mobilized Female Voters to Win the Indian Elections](https://www.wired.com/story/how-a-secret-bjp-war-room-mobilized-female-voters-to-win-the-indian-elections/)
- - [Riyadh- and London-based AI startup Intelmatix raised a $20M Series A led by Shorooq Partners, the largest Series A investment for an AI firm in the MENA region &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/240730/p5#a240730p5)<!-- TECH:END -->
+ - [Home Wi-Fi Issues? Three Words: Location, Location, Location](https://www.cnet.com/home/internet/home-wi-fi-issues-three-words-location-location-location/#ftag=CAD590a51e)
+ - [If Your Gmail Inbox Is Full, Here&#39;s How You Can Get Back 15GB of Free Storage](https://www.cnet.com/tech/services-and-software/if-your-gmail-inbox-is-full-heres-how-you-can-get-back-15gb-of-free-storage/#ftag=CAD590a51e)
+ - [Chinese e-commerce firms prioritize sustainable growth over ultra-low prices amid slow GMV growth and anti-unfair competition rules taking effect on September 1 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240730/p6#a240730p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

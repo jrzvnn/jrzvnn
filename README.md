@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta agrees to pay $1.4B to settle Texas&#39; lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p18#a240730p18)
+ - [The Purple Track at the 2024 Summer Olympic Games Has a Secret Ingredient](https://www.wired.com/story/paris-summer-olympics-2024-purple-track-athletics-mondo/)
  - [Microsoft calls on US Congress to pass a comprehensive law to crack down on AI deepfakes that aim to interfere in elections or maliciously target people &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240730/p17#a240730p17)
  - [Slew of new iPhone, Mac and iPad models identified in Apple&#39;s beta code](https://appleinsider.com/articles/24/07/30/macos-sequoia-beta-proves-there-will-be-new-macs-ipads-iphones-in-the-future?utm_medium=rss)
- - [London-based fertility app Flo Health raised a $200M+ Series C from General Atlantic at a $1B+ valuation and expects subscription revenue of over $200M in 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240730/p16#a240730p16)
- - [Meta’s Quest 3 ‘Layout’ app lets you take measurements in mixed reality](https://www.theverge.com/2024/7/30/24209438/meta-quest-layout-app-measurements-mixed-reality)
- - [Olympic men’s triathlon postponed due to river pollution](https://www.theverge.com/2024/7/30/24209440/olympics-men-triathlon-postponed-pollution-river-seine)<!-- TECH:END -->
+ - [London-based fertility app Flo Health raised a $200M+ Series C from General Atlantic at a $1B+ valuation and expects subscription revenue of over $200M in 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240730/p16#a240730p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

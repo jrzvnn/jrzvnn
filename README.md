@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California&#39;s DMV says it has created tokens for 42M car titles on the Avalanche blockchain and aims to help residents access them by early next year &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240730/p26#a240730p26)
  - [Batman: Caped Crusader is a pulpy throwback to the golden age of DC animation](https://www.theverge.com/2024/7/30/24208904/batman-caped-crusader-amazon)
  - [The SEC charges BitClout founder Nader Al-Naji of raising $257M+ from unregistered offers and sales of BTCLT and lying to investors about personal compensation &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/240730/p25#a240730p25)
  - [The US Senate passes the Kids Online Safety Act and the Children and Teens&#39; Online Privacy Protection Act; the bills now move to the House &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240730/p24#a240730p24)
- - [iOS 17.6: Why This Could Be Apple&#39;s Last Update Before iOS 18](https://www.cnet.com/tech/services-and-software/ios-17-6-why-this-could-be-apples-last-update-before-ios-18/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Flip 6 Deals: Snag the Latest Galaxy Foldable for Less With Trade-Ins, Gift Cards and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Friend is the creepy and dystopian iPhone accessory that might just work](https://appleinsider.com/articles/24/07/30/friend-is-the-creepy-and-dystopian-iphone-accessory-that-might-just-work?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

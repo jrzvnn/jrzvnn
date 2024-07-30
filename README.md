@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Third term for Maduro with 51.20% of the vote](http://9gag.com/gag/azxA07b)
- - 😝 [Concerning the stabbing in Southport...](http://9gag.com/gag/aYQL2Mm)
- - 💣 [South Korea women\u2019s archery team has been winning gold medals at every olympics since women\u2019s team archery has been introduced in 1988 Seoul Olympics.](http://9gag.com/gag/azxA0qx)
- - 😝 [A bit of theatre](http://9gag.com/gag/aAyPj8L)
- - 👉 [In another world](http://9gag.com/gag/ae96vpv)<!-- MEMES:END -->
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 😝 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
+ - 💣 [I never knew until now](http://9gag.com/gag/aE0nLqo)
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 👉 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)<!-- MEMES:END -->
 
 ---
 

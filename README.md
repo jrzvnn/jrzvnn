@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple’s entry-level AirPods have already returned to their Prime Day low](https://www.theverge.com/2024/7/30/24208784/apple-airpods-second-gen-playstation-5-slim-deal-sale)
  - [The US CPSC rules that Amazon is legally responsible for recalled products sold on Amazon.com, even by third parties, and must remove them and notify purchasers &lpar;Kate Gibson/CBS News&rpar;](http://www.techmeme.com/240730/p27#a240730p27)
  - [OpenAI starts rolling out its Her-like voice mode for ChatGPT](https://www.theverge.com/2024/7/30/24209650/openai-chatgpt-advanced-voice-mode)
- - [California&#39;s DMV says it has created tokens for 42M car titles on the Avalanche blockchain and aims to help residents access them by early next year &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240730/p26#a240730p26)
- - [Batman: Caped Crusader is a pulpy throwback to the golden age of DC animation](https://www.theverge.com/2024/7/30/24208904/batman-caped-crusader-amazon)<!-- TECH:END -->
+ - [Best Mesh Router Deals: Amp Up Your Wi-Fi Gear With Great Discounts on Top Brands](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
+ - [Can an Air Fryer Cause Teflon Flu?](https://www.cnet.com/home/kitchen-and-household/can-an-air-fryer-cause-teflon-flu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

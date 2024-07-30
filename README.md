@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So big](http://9gag.com/gag/aPAWNen)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 😝 [Offering a ride](http://9gag.com/gag/a1mX37D)
+ - 😝 [To my Venezuelan friends. Love, Romania](http://9gag.com/gag/ajPDbjQ)
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 😝 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
  - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 ---

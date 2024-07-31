@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Reduce Interruptions on iOS 18 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_medium=rss)
+ - [Apple may have shut down a supplier&#39;s proposed partnership with Vivo](https://appleinsider.com/articles/24/07/31/apple-may-have-shut-down-a-suppliers-proposed-partnership-with-vivo?utm_medium=rss)
+ - [Meet the Swifties Campaigning for Kamala Harris](https://www.wired.com/story/swifties-campaigning-for-kamala-harris/)
  - [Epic&#39;s Tim Sweeney ludicrously calls Apple&#39;s &#39;Find My&#39; a privacy hazard for thieves](https://appleinsider.com/articles/24/07/31/epics-tim-sweeney-ludicrously-calls-apples-find-my-a-privacy-hazard-for-thieves?utm_medium=rss)
- - [Multi-state Apple fraud ring exposed by DHS after routine traffic stop](https://appleinsider.com/articles/24/07/31/multi-state-apple-fraud-ring-exposed-by-dhs-after-routine-traffic-stop?utm_medium=rss)
- - [Apple Arcade developers say working with Apple is like being in an &#39;abusive relationship&#39;](https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship?utm_medium=rss)
- - [The Best Cat Furniture, Scratching Posts, and Litter Boxes &lpar;2024&rpar;](https://www.wired.com/story/fancy-cat-furniture/)
- - [Amazon ends the month with a $799 MacBook Air deal, plus get up to $200 off upgraded specs](https://appleinsider.com/articles/24/07/31/amazon-ends-the-month-with-a-799-macbook-air-deal-plus-get-up-to-200-off-upgraded-specs?utm_medium=rss)<!-- TECH:END -->
+ - [Multi-state Apple fraud ring exposed by DHS after routine traffic stop](https://appleinsider.com/articles/24/07/31/multi-state-apple-fraud-ring-exposed-by-dhs-after-routine-traffic-stop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

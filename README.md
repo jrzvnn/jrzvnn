@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 😝 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
- - 💣 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
+ - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
  - 😝 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
- - 👉 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)<!-- MEMES:END -->
+ - 💣 [Asia road rage](http://9gag.com/gag/aRBeY17)
+ - 😝 [Real Wtfact](http://9gag.com/gag/a7od4qz)
+ - 👉 [Old but gold](http://9gag.com/gag/a4PjDWm)<!-- MEMES:END -->
 
 ---
 

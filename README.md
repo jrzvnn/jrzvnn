@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - 😝 [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)
+ - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
  - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [Hold my Wednesday](http://9gag.com/gag/aryOvb7)
- - 💣 [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)
- - 😝 [You have to be a special kind of person to be pissed off someone who avoided crashing into you in the first place.](http://9gag.com/gag/abA6X7B)
- - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
+ - 👉 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)<!-- MEMES:END -->
 
 ---
 

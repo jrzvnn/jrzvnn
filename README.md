@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
- - 😝 [Hot very hot](http://9gag.com/gag/a9yY9GZ)
- - 💣 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 😝 [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
+ - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
  - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 ---

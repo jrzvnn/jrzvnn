@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro may ship in a new bronze color](https://appleinsider.com/articles/24/07/31/iphone-16-pro-may-ship-in-a-new-bronze-color?utm_medium=rss)
- - [Chinese regulators propose taking over online identity verification from companies to give people a single internet ID, citing privacy and online fraud &lpar;New York Times&rpar;](http://www.techmeme.com/240731/p13#a240731p13)
- - [District of Columbia AG Brian Schwalb sues StubHub, alleging the company uses &quot;deceptive, manipulative, and unfair practices&quot; to advertise event fees to users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240731/p12#a240731p12)
- - [22 Grill and BBQ Tools You Won&#39;t Regret Buying](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)
- - [All of the iPhone 16 colors &amp; camera layouts just got leaked](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)<!-- TECH:END -->
+ - [Donald Trump’s Plan to Hoard Billions in Bitcoin Has Economists Stumped](https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/)
+ - [Logitech wants to sell you a subscription mouse some day](https://appleinsider.com/articles/24/07/31/logitech-wants-to-sell-you-a-subscription-mouse-some-day?utm_medium=rss)
+ - [10 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)
+ - [The iPhone 16 Plus May Be Apple&#39;s Last. Here&#39;s Why](https://www.cnet.com/tech/mobile/the-iphone-16-plus-may-be-apples-last-heres-why/#ftag=CAD590a51e)
+ - [7 Things I&#39;ll Never Cook in an Air Fryer Again](https://www.cnet.com/how-to/7-foods-you-should-never-cook-in-your-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

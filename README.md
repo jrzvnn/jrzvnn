@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 💣 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 👉 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)<!-- MEMES:END -->
+ - 😝 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
+ - 😝 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 😝 [Main character vibes](http://9gag.com/gag/ayN8gwM)
+ - 👉 [Southport - getting bricked in all the worst places](http://9gag.com/gag/a347Yq3)<!-- MEMES:END -->
 
 ---
 

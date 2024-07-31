@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit CEO says Microsoft needs to pay to search the site](https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search)
  - [How to read the Apple Intelligence Report in iOS 18.1](https://appleinsider.com/inside/ios-18/tips/how-to-read-the-apple-intelligence-report-in-ios-181?utm_medium=rss)
  - [A ransomware attack hits blood donation nonprofit OneBlood, which has asked over 250 hospitals in the US to activate their critical blood shortage protocols &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240731/p30#a240731p30)
  - [Ohio residents can now add driver&#39;s license, state ID to the iPhone Wallet app](https://appleinsider.com/articles/24/07/31/ohio-residents-can-now-add-drivers-license-state-id-to-the-iphone-wallet-app?utm_medium=rss)
- - [A first look at Apple Intelligence and its &lpar;slightly&rpar; smarter Siri](https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri)
- - [Nvidia shares jump 10%+ after Microsoft and AMD signaled no slowdown in the buildout of AI servers built around GPUs; Microsoft spent $19B on capex in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p29#a240731p29)<!-- TECH:END -->
+ - [A first look at Apple Intelligence and its &lpar;slightly&rpar; smarter Siri](https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - 😝 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
- - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
- - 😝 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)
- - 👉 [Fact](http://9gag.com/gag/abAZjd8)<!-- MEMES:END -->
+ - 😝 [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
+ - 😝 [Hot very hot](http://9gag.com/gag/a9yY9GZ)
+ - 💣 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 😝 [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
+ - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 ---
 

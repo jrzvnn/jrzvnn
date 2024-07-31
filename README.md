@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
- - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [Dad instincts?](http://9gag.com/gag/aNDWxmA)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
+ - 😝 [Proud of you bastards.](http://9gag.com/gag/aMVweEx)
+ - 💣 [A relaxing chiropractic procedure](http://9gag.com/gag/avynMNW)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
 

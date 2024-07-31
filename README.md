@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazilian putting pickpocket to run in Paris](http://9gag.com/gag/a7odjOq)
- - 😝 [Muslim invasion of Europe always reminds me how lucky we are that our illegals are Catholic.](http://9gag.com/gag/a9yWbLo)
- - 💣 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
- - 😝 [Give this granny a stage](http://9gag.com/gag/a2vdz0p)
- - 👉 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)<!-- MEMES:END -->
+ - 😝 [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 😝 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - 👉 [Asia road rage](http://9gag.com/gag/aRBeY17)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 😝 [I will just wait here](http://9gag.com/gag/agmGWR6)
+ - 💣 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
  - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
- - 😝 [Proud of you bastards.](http://9gag.com/gag/aMVweEx)
- - 💣 [A relaxing chiropractic procedure](http://9gag.com/gag/avynMNW)
- - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
+ - 👉 [Hot very hot](http://9gag.com/gag/a9yY9GZ)<!-- MEMES:END -->
 
 ---
 

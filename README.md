@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest iPhone 16 dummy units show off colors and camera layout](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)
- - [An investigation finds 450+ illicit drug ads on Facebook and Instagram from March to June 2024, some showing bottles or bricks of cocaine; Meta removed the ads &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p10#a240731p10)
- - [Nothing unveils the Phone 2A Plus, offering the same 6.7-inch display as the 2A and a new MediaTek Dimensity 7350 Pro 5G SoC, available for $399 on August 7 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240731/p9#a240731p9)
- - [How US safeguards on the Microsoft-G42 deal, aiming to protect critical data center and AI infrastructure, could shape future international data center projects &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240731/p8#a240731p8)
- - [T-Mobile now has five partnerships with fiber internet providers that could serve millions of US users in the coming years, in a bid to catch AT&amp;T and Verizon &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p7#a240731p7)<!-- TECH:END -->
+ - [All of the iPhone 16 colors &amp; camera layouts just got leaked](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)
+ - [Epic&#39;s Tim Sweeney ludicrously calls Apple&#39;s &#39;Find My&#39; a privacy hazard for thieves](https://appleinsider.com/articles/24/07/31/epics-tim-sweeney-ludicrously-calls-apples-find-my-a-privacy-hazard-for-thieves?utm_medium=rss)
+ - [Researchers: vulnerabilities in Badoo, Bumble, Grindr, happn, Hinge, and Hily let malicious users pinpoint locations to two meters; the apps fixed the issue &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240731/p11#a240731p11)
+ - [How to Create Your Own Browser Extension](https://www.wired.com/story/how-to-write-your-own-browser-extension/)
+ - [Audi launches new A6 and S6 E-tron Sportback EVs](https://www.theverge.com/2024/7/31/24210243/audi-launches-new-a6-and-s6-e-tron-sportback-evs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

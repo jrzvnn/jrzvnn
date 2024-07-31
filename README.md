@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Makes sense](http://9gag.com/gag/a9yWbDD)
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 💣 [Go Sports!!!](http://9gag.com/gag/avyr0nX)
- - 😝 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
- - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
+ - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
+ - 💣 [You have to be a special kind of person to be pissed off someone who avoided crashing into you in the first place.](http://9gag.com/gag/abA6X7B)
+ - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - 👉 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)<!-- MEMES:END -->
 
 ---
 

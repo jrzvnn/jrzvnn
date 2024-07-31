@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240731/p17#a240731p17)
+ - [Spotify plans to expand the availability of lyrics for Spotify Free users in the &quot;coming weeks&quot;; paid subscribers could access unlimited lyrics since May 2024 &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/240731/p16#a240731p16)
+ - [Sony’s NFL tech overhaul goes from the chain gang to coaches’ headphones](https://www.theverge.com/2024/7/31/24210036/sony-new-headphones-nfl-coaches)
  - [iPhone dominates top 10 smartphones list for Q2 2024](https://appleinsider.com/articles/24/07/31/iphone-dominates-top-10-smartphones-list-for-q2-2024?utm_medium=rss)
- - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240731/p15#a240731p15)
- - [Google Cracks Down on Explicit Deepfakes](https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/)
- - [&#39;Date Like Goblins&#39; Thinks Playing Games Can Fix Dating Apps](https://www.wired.com/story/dating-apps-suck-date-like-goblins/)
- - [Wix’s AI will now write whole blog posts for you](https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts)<!-- TECH:END -->
+ - [Belkin&#39;s 3-in-1 MagSafe Charging Stand Is as Cheap Now as It Was During Prime Day](https://www.cnet.com/deals/belkins-3-in-1-magsafe-charging-stand-is-as-cheap-now-as-it-was-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

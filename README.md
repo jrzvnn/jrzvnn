@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
- - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 💣 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
- - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
+ - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
+ - 😝 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)
+ - 👉 [Proud of you bastards.](http://9gag.com/gag/aMVweEx)<!-- MEMES:END -->
 
 ---
 

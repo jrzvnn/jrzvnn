@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber deal could add 100,000 ride-hailing EVs to roads](https://www.theverge.com/2024/7/31/24210369/uber-byd-partnership-ride-hailing-evs)
- - [Germany blames China for a &quot;serious&quot; 2021 cyberattack on its government agency for precision mapping, after a three-year investigation by its security services &lpar;Sam Jones/Financial Times&rpar;](http://www.techmeme.com/240731/p22#a240731p22)
- - [Amazon sues Nokia in Delaware federal court, accusing Nokia of infringing 12 AWS cloud computing patents; Nokia will &quot;review these matters and defend ourselves&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240731/p21#a240731p21)
- - [Microsoft’s new Xbox controller is more translucent than ever before](https://www.theverge.com/2024/7/31/24210403/microsoft-xbox-controller-translucent-blue-model)
- - [Vintage Polaroids used to pitch the Apple-1 hit the auction block](https://appleinsider.com/articles/24/07/31/vintage-polaroids-used-to-pitch-the-apple-1-hit-the-auction-block?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Arcade developers say working with Apple is like being in an &#39;abusive relationship&#39;](https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship?utm_medium=rss)
+ - [The Best Cat Furniture, Scratching Posts, and Litter Boxes &lpar;2024&rpar;](https://www.wired.com/story/fancy-cat-furniture/)
+ - [Amazon ends the month with a $799 MacBook Air deal, plus get up to $200 off upgraded specs](https://appleinsider.com/articles/24/07/31/amazon-ends-the-month-with-a-799-macbook-air-deal-plus-get-up-to-200-off-upgraded-specs?utm_medium=rss)
+ - [Etsy plans to launch Etsy Insider, its first loyalty program, in September 2024 to boost sales; CEO Raina Moskowitz says it will cost about the price of a latte &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240731/p23#a240731p23)
+ - [Discord on Xbox will soon let you watch your friends’ streams](https://www.theverge.com/2024/7/31/24210270/microsoft-xbox-discord-watch-friends-streams-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

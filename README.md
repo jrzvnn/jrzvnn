@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A ransomware attack hits blood donation nonprofit OneBlood, which has asked over 250 hospitals in the US to activate their critical blood shortage protocols &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240731/p30#a240731p30)
+ - [Ohio residents can now add driver&#39;s license, state ID to the iPhone Wallet app](https://appleinsider.com/articles/24/07/31/ohio-residents-can-now-add-drivers-license-state-id-to-the-iphone-wallet-app?utm_medium=rss)
+ - [A first look at Apple Intelligence and its &lpar;slightly&rpar; smarter Siri](https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri)
  - [Nvidia shares jump 10%+ after Microsoft and AMD signaled no slowdown in the buildout of AI servers built around GPUs; Microsoft spent $19B on capex in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p29#a240731p29)
- - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [HP Envy x360 16 Review: Midrange Convertible With Premium OLED Display](https://www.cnet.com/tech/computing/hp-envy-x360-16-review-midrange-convertible-with-premium-oled-display/#ftag=CAD590a51e)
- - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moog Muse Review: A Machine for Musical Inspiration](https://www.wired.com/review/moog-muse-review/)
+ - [Amazon’s big-screen Kindle Scribe is more than $100 off right now](https://www.theverge.com/2024/7/31/24209525/amazon-kindle-scribe-echo-show-8-smart-display-deal-sale)
  - [Delta Air Lines CEO Ed Bastian says the CrowdStrike outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;Financial Times&rpar;](http://www.techmeme.com/240731/p19#a240731p19)
  - [Sony signs a deal to be the NFL&#39;s official tech and headphones partner, with a new headset in 2025; the NFL also plans to expand the use of Sony&#39;s Hawk-Eye tech &lpar;Randall Williams/Bloomberg&rpar;](http://www.techmeme.com/240731/p18#a240731p18)
- - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240731/p17#a240731p17)
- - [Spotify plans to expand the availability of lyrics for Spotify Free users in the &quot;coming weeks&quot;; paid subscribers could access unlimited lyrics since May 2024 &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/240731/p16#a240731p16)
- - [Sony’s NFL tech overhaul goes from the chain gang to headphones for coaches](https://www.theverge.com/2024/7/31/24210036/sony-new-headphones-nfl-coaches)<!-- TECH:END -->
+ - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240731/p17#a240731p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

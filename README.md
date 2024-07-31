@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real Wtfact](http://9gag.com/gag/a7od4qz)
- - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
- - 💣 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
+ - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
  - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)<!-- MEMES:END -->
+ - 💣 [Old but gold](http://9gag.com/gag/a4PjDWm)
+ - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - 👉 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)<!-- MEMES:END -->
 
 ---
 

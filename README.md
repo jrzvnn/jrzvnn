@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says that a nine-hour outage on July 30, which disrupted multiple Microsoft 365 and Azure services worldwide, was triggered by a DDoS attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240731/p27#a240731p27)
+ - [Election Deniers Are Ramping Up Efforts to Disenfranchise US Voters](https://www.wired.com/story/election-deniers-efforts-disenfranchise-voters/)
  - [Delta Air Lines CEO Ed Bastian says the CrowdStrike-caused outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p26#a240731p26)
  - [Taco Bell’s drive-thru AI might take your next order](https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion)
- - [Mark Cuban and a team of VC leaders back Kamala Harris for president](https://www.theverge.com/2024/7/31/24210495/mark-cuban-reid-hoffman-vcs-for-kamala-harris-president)
- - [Apple Vision Pro rumored to get tandem OLED screen tech developed for new iPad Pro](https://appleinsider.com/articles/24/07/31/apple-vision-pro-rumored-to-get-tandem-oled-screen-tech-developed-for-new-ipad-pro?utm_medium=rss)
- - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)<!-- TECH:END -->
+ - [Mark Cuban and a team of VC leaders back Kamala Harris for president](https://www.theverge.com/2024/7/31/24210495/mark-cuban-reid-hoffman-vcs-for-kamala-harris-president)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

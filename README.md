@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reid Hoffman, Vinod Khosla, Mark Cuban, Ron Conway, Chris Sacca, and 100+ other VCs pledge to vote for Kamala Harris and solicit donations for her campaign &lpar;New York Times&rpar;](http://www.techmeme.com/240731/p14#a240731p14)
  - [Donald Trump’s Plan to Hoard Billions in Bitcoin Has Economists Stumped](https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/)
  - [Logitech wants to sell you a subscription mouse some day](https://appleinsider.com/articles/24/07/31/logitech-wants-to-sell-you-a-subscription-mouse-some-day?utm_medium=rss)
  - [10 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)
- - [The iPhone 16 Plus May Be Apple&#39;s Last. Here&#39;s Why](https://www.cnet.com/tech/mobile/the-iphone-16-plus-may-be-apples-last-heres-why/#ftag=CAD590a51e)
- - [7 Things I&#39;ll Never Cook in an Air Fryer Again](https://www.cnet.com/how-to/7-foods-you-should-never-cook-in-your-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 16 Plus May Be Apple&#39;s Last. Here&#39;s Why](https://www.cnet.com/tech/mobile/the-iphone-16-plus-may-be-apples-last-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

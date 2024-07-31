@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 😝 [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
+ - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
  - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 😝 [I will just wait here](http://9gag.com/gag/agmGWR6)
- - 💣 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
- - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
- - 👉 [Hot very hot](http://9gag.com/gag/a9yY9GZ)<!-- MEMES:END -->
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 💣 [Hot very hot](http://9gag.com/gag/a9yY9GZ)
+ - 😝 [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
+ - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
 

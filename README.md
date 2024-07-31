@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google unveils updates to its Gemma family of open models, including Gemma 2 2B, which it claims surpasses GPT-3.5 and Mixtral 8x7B on the LMSYS Chatbot Arena &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/240731/p39#a240731p39)
+ - [Qualcomm promises Snapdragon X PCs will cost as little as $700 next year](https://www.theverge.com/2024/7/31/24210783/qualcomm-promises-snapdragon-x-pcs-will-cost-as-little-as-700-next-year)
+ - [Amazon Has to Recall More Than 400,000 Dangerous Products](https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/)
  - [Honda’s 1984 HP-X concept was the carbon fiber future we expected](https://www.theverge.com/2024/7/31/24210621/honda-hp-x-concept-car-1984-nsx-gps-pininfarina)
- - [&#39;Batman: Caped Crusader&#39;: Release Date and How to Watch the New Series](https://www.cnet.com/tech/services-and-software/batman-caped-crusader-release-date-and-how-to-watch-the-new-series/#ftag=CAD590a51e)
- - [Reddit CEO says Microsoft, Anthropic, and Perplexity need to pay to scrape the site&#39;s data, and it has been &quot;a real pain in the ass to block these companies&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p38#a240731p38)
- - [Achieve Instant Ambiance With a Tabletop Fire Pit Marked Down to $53](https://www.cnet.com/deals/achieve-instant-ambiance-with-a-tabletop-fire-pit-marked-down-to-53/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit CEO says Microsoft, Anthropic, and Perplexity need to pay to scrape the site&#39;s data, and it has been &quot;a real pain in the ass to block these companies&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p38#a240731p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

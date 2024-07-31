@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
- - 😝 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
- - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
- - 😝 [Main character vibes](http://9gag.com/gag/ayN8gwM)
- - 👉 [Southport - getting bricked in all the worst places](http://9gag.com/gag/a347Yq3)<!-- MEMES:END -->
+ - 😝 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
+ - 💣 [Old but gold](http://9gag.com/gag/a4PjDWm)
+ - 😝 [You have to be a special kind of person to be pissed off someone who avoided crashing into you in the first place.](http://9gag.com/gag/abA6X7B)
+ - 👉 [Main character vibes](http://9gag.com/gag/ayN8gwM)<!-- MEMES:END -->
 
 ---
 

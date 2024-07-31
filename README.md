@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proud of you bastards.](http://9gag.com/gag/aMVweEx)
- - 😝 [Nice catch](http://9gag.com/gag/aoy2mPm)
- - 💣 [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 👉 [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)<!-- MEMES:END -->
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 😝 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
+ - 💣 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
+ - 😝 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - 👉 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)<!-- MEMES:END -->
 
 ---
 

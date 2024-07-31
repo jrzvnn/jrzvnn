@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 😝 [Old but gold](http://9gag.com/gag/a4PjDWm)
+ - 😝 [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
  - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 😝 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
 

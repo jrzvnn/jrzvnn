@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240730/p42#a240730p42)
  - [Ring camera features are down due to AWS problems](https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east)
- - [How Elon Musk and X&#39;s division of labor stymied some of Linda Yaccarino&#39;s plans, like a Visa deal; internal figures show X had 250.8M DAUs in Q2, up 1.56% YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240730/p41#a240730p41)
- - [Amazon must recall dangerous products properly — even ones sold by third-parties](https://www.theverge.com/2024/7/30/24209953/amazon-notify-customers-recalled-items-cpsc)
- - [How Come I Can Never See the Northern Lights From Where I Live?](https://www.cnet.com/science/space/how-come-i-can-never-see-the-northern-lights-aurora-borealis-from-where-i-live/#ftag=CAD590a51e)
- - [The 16 Best External Hard Drives and SSDs for 2024](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)
+ - [Dangerous Heat Is Coming, but This Free Heat Risk Website Offers Guidance](https://www.cnet.com/science/use-this-free-new-warning-system-to-get-prepped-for-extreme-heat/#ftag=CAD590a51e)
+ - [How Elon Musk and X&#39;s division of labor stymied some of Linda Yaccarino&#39;s plans, like a Visa deal; internal figures show X had 250.8M DAUs in Q2, up 1.56% YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240730/p41#a240730p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

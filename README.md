@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honda’s 1984 HP-X concept was the carbon fiber future we expected](https://www.theverge.com/2024/7/31/24210621/honda-hp-x-concept-car-1984-nsx-gps-pininfarina)
+ - [&#39;Batman: Caped Crusader&#39;: Release Date and How to Watch the New Series](https://www.cnet.com/tech/services-and-software/batman-caped-crusader-release-date-and-how-to-watch-the-new-series/#ftag=CAD590a51e)
  - [Reddit CEO says Microsoft, Anthropic, and Perplexity need to pay to scrape the site&#39;s data, and it has been &quot;a real pain in the ass to block these companies&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p38#a240731p38)
- - [eBay reports Q2 revenue up 1% YoY to $2.57B, vs. $2.53B est., GMV up 1% to $18.4B, net income up 31% to $226M, and forecasts Q3 revenue below estimates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240731/p37#a240731p37)
- - [Meta&#39;s Reality Labs posts Q2 revenue up 28% YoY of $353M, vs. $371M est., and operating loss of $4.48B, vs. $4.55B est.; Reality Labs has lost ~$50B since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240731/p36#a240731p36)
- - [Arm reports Q1 revenue up 39% YoY to $939M vs. $905.4M est., license and other revenue up 72% YoY to $472M, and royalty revenue up 17% YoY to $467M &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240731/p35#a240731p35)
- - [Qualcomm reports Q3 revenue up 11% YoY to $9.39B, vs. $9.21B est., handset chip sales up 12% YoY to $5.9B, and forecasts Q4 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240731/p34#a240731p34)<!-- TECH:END -->
+ - [Achieve Instant Ambiance With a Tabletop Fire Pit Marked Down to $53](https://www.cnet.com/deals/achieve-instant-ambiance-with-a-tabletop-fire-pit-marked-down-to-53/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

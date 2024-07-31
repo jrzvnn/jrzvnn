@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring camera features are down due to AWS problems](https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east)
+ - [How Elon Musk and X&#39;s division of labor stymied some of Linda Yaccarino&#39;s plans, like a Visa deal; internal figures show X had 250.8M DAUs in Q2, up 1.56% YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240730/p41#a240730p41)
  - [Amazon must recall dangerous products properly — even ones sold by third-parties](https://www.theverge.com/2024/7/30/24209953/amazon-notify-customers-recalled-items-cpsc)
- - [AMD CEO Lisa Su says the MI300 AI chips did over $1B in sales in Q2 and that supply of MI300 chips will remain tight through 2025 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240730/p40#a240730p40)
- - [Meta moves on from its celebrity lookalike AI chatbots](https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on)
- - [Rumor roundup: iPhone Slim could be Apple&#39;s thinnest smartphone](https://appleinsider.com/articles/24/07/29/rumor-roundup-iphone-slim-could-be-apples-thinnest-smartphone?utm_medium=rss)
- - [AMD is becoming an AI chip company, just like Nvidia](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue)<!-- TECH:END -->
+ - [How Come I Can Never See the Northern Lights From Where I Live?](https://www.cnet.com/science/space/how-come-i-can-never-see-the-northern-lights-aurora-borealis-from-where-i-live/#ftag=CAD590a51e)
+ - [The 16 Best External Hard Drives and SSDs for 2024](https://www.cnet.com/tech/computing/best-external-hard-drive-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

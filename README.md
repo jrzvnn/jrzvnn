@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)
+ - [Milan-based mobile app developer Bending Spoons acquires Dutch file-sharing service WeTransfer, which backed out of an IPO in 2022, without disclosing terms &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240731/p25#a240731p25)
+ - [Rising popularity of older iPhone models drove down average selling prices in June quarter](https://appleinsider.com/articles/24/07/31/rising-popularity-in-older-models-drove-down-iphone-prices-in-june-quarter?utm_medium=rss)
  - [The redesigned Tesla Model Y ‘Juniper’ might have a new rear light bar](https://www.theverge.com/2024/7/31/24210360/tesla-model-y-redesign-refresh-uncovered-lightbar-juniper)
- - [Interviews with 24 current and former Amazon staff say Jeff Bezos&#39; Amazon Way principles remain core under Andy Jassy but are now less universally agreed upon &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240731/p24#a240731p24)
- - [How to use Reduce Interruptions on iOS 18 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_medium=rss)
- - [Apple may have shut down a supplier&#39;s proposed partnership with Vivo](https://appleinsider.com/articles/24/07/31/apple-may-have-shut-down-a-suppliers-proposed-partnership-with-vivo?utm_medium=rss)
- - [Meet the Swifties Campaigning for Kamala Harris](https://www.wired.com/story/swifties-campaigning-for-kamala-harris/)<!-- TECH:END -->
+ - [Interviews with 24 current and former Amazon staff say Jeff Bezos&#39; Amazon Way principles remain core under Andy Jassy but are now less universally agreed upon &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240731/p24#a240731p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

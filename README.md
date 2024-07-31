@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can ChatGPT-4o Be Trusted With Your Private Data?](https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/)
  - [An airline industry group executive says India doubled the use of digital biometric systems in airports to 28 in June, covering ~90% of sky-bound travel volumes &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240731/p6#a240731p6)
  - [Microsoft is removing ads from Skype](https://www.theverge.com/2024/7/31/24210273/microsoft-skype-ads-removal)
  - [Nothing Phone &lpar;2a&rpar; Plus With AI News Widget: Specs, Prices, Availability](https://www.wired.com/story/nothing-news-reporter-widget-nothing-phone-2a-plus/)
- - [Nothing’s Phone 2A Plus is a little shinier, a little faster, and a little bit more expensive](https://www.theverge.com/2024/7/31/24209693/nothing-phone-2a-plus-camera-price-release)
- - [Interviews with Hollywood sound and picture editors, artists, and others detail their fears of AI replacing much of their work, despite a new IATSE contract &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240731/p5#a240731p5)<!-- TECH:END -->
+ - [Nothing’s Phone 2A Plus is a little shinier, a little faster, and a little bit more expensive](https://www.theverge.com/2024/7/31/24209693/nothing-phone-2a-plus-camera-price-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

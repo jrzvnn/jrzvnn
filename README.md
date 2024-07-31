@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
  - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
- - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
- - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)<!-- MEMES:END -->
+ - 😝 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 💣 [Main character vibes](http://9gag.com/gag/ayN8gwM)
+ - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
+ - 👉 [Real Wtfact](http://9gag.com/gag/a7od4qz)<!-- MEMES:END -->
 
 ---
 

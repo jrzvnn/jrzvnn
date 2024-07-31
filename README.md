@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
- - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 💣 [Her reaction was so genuine and pure! Totally priceless](http://9gag.com/gag/an71A3L)
- - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 😝 [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 💣 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 ---
 

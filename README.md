@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)
+ - [Leak: Here’s the DJI Neo, the lightest budget drone DJI’s ever made](https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography)
  - [Tether reports &quot;record&quot; net profit of $5.2B in H1 2024, net operating profit of $1.3B in Q2, and US debt holdings of $97.6B, more than countries like Germany &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240731/p31#a240731p31)
  - [Reddit CEO says Microsoft needs to pay to search the site](https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search)
- - [Microsoft, Copyright Office to Lawmakers: Make Deepfakes Illegal](https://www.cnet.com/tech/services-and-software/microsoft-says-ai-deepfake-abuse-should-be-illegal/#ftag=CAD590a51e)
- - [How to read the Apple Intelligence Report in iOS 18.1](https://appleinsider.com/inside/ios-18/tips/how-to-read-the-apple-intelligence-report-in-ios-181?utm_medium=rss)
- - [This Is the Best Time to Weigh Yourself for Accurate Results](https://www.cnet.com/health/fitness/this-is-the-best-time-to-weigh-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft, Copyright Office to Lawmakers: Make Deepfakes Illegal](https://www.cnet.com/tech/services-and-software/microsoft-says-ai-deepfake-abuse-should-be-illegal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

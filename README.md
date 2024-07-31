@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia shares jump 10%+ after Microsoft and AMD signaled no slowdown in the buildout of AI servers built around GPUs; Microsoft spent $19B on capex in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p29#a240731p29)
  - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)
  - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [Microsoft says that a nine-hour outage on July 30, which disrupted multiple Microsoft 365 and Azure services worldwide, was triggered by a DDoS attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240731/p27#a240731p27)
- - [Election Deniers Are Ramping Up Efforts to Disenfranchise US Voters](https://www.wired.com/story/election-deniers-efforts-disenfranchise-voters/)
- - [Delta Air Lines CEO Ed Bastian says the CrowdStrike-caused outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p26#a240731p26)<!-- TECH:END -->
+ - [HP Envy x360 16 Review: Midrange Convertible With Premium OLED Display](https://www.cnet.com/tech/computing/hp-envy-x360-16-review-midrange-convertible-with-premium-oled-display/#ftag=CAD590a51e)
+ - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

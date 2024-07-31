@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing unveils the Phone 2A Plus, offering the same 6.7-inch display as the 2A and a new MediaTek Dimensity 7350 Pro 5G SoC, available for $399 on August 7 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240731/p9#a240731p9)
  - [How US safeguards on the Microsoft-G42 deal, aiming to protect critical data center and AI infrastructure, could shape future international data center projects &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240731/p8#a240731p8)
  - [T-Mobile now has five partnerships with fiber internet providers that could serve millions of US users in the coming years, in a bid to catch AT&amp;T and Verizon &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p7#a240731p7)
  - [Can ChatGPT-4o Be Trusted With Your Private Data?](https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/)
- - [An airline industry group executive says India doubled the use of digital biometric systems in airports to 28 in June, covering ~90% of sky-bound travel volumes &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240731/p6#a240731p6)
- - [Microsoft is removing ads from Skype](https://www.theverge.com/2024/7/31/24210273/microsoft-skype-ads-removal)<!-- TECH:END -->
+ - [An airline industry group executive says India doubled the use of digital biometric systems in airports to 28 in June, covering ~90% of sky-bound travel volumes &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240731/p6#a240731p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

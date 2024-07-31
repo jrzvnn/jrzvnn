@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
  - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 💣 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 😝 [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
- - 👉 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)<!-- MEMES:END -->
+ - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
+ - 😝 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)
+ - 👉 [Fact](http://9gag.com/gag/abAZjd8)<!-- MEMES:END -->
 
 ---
 

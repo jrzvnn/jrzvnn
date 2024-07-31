@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
- - 😝 [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
- - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
+ - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
+ - 😝 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
+ - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
+ - 😝 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)
+ - 👉 [Fact](http://9gag.com/gag/abAZjd8)<!-- MEMES:END -->
 
 ---
 

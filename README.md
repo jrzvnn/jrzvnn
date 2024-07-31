@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is one of Microsoft’s biggest AI cloud computing customers](https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer)
+ - [The Incredible Physics of Simone Biles’ Yurchenko Double Pike](https://www.wired.com/story/the-incredible-physics-of-simone-biles-yurchenko-double-pike/)
  - [Google unveils updates to its Gemma family of open models, including Gemma 2 2B, which it claims surpasses GPT-3.5 and Mixtral 8x7B on the LMSYS Chatbot Arena &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/240731/p39#a240731p39)
  - [Qualcomm promises Snapdragon X PCs will cost as little as $700 next year](https://www.theverge.com/2024/7/31/24210783/qualcomm-promises-snapdragon-x-pcs-will-cost-as-little-as-700-next-year)
- - [Amazon Has to Recall More Than 400,000 Dangerous Products](https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/)
- - [Honda’s 1984 HP-X concept was the carbon fiber future we expected](https://www.theverge.com/2024/7/31/24210621/honda-hp-x-concept-car-1984-nsx-gps-pininfarina)
- - [Reddit CEO says Microsoft, Anthropic, and Perplexity need to pay to scrape the site&#39;s data, and it has been &quot;a real pain in the ass to block these companies&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p38#a240731p38)<!-- TECH:END -->
+ - [Amazon Has to Recall More Than 400,000 Dangerous Products](https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

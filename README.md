@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC sues former IRL CEO Abraham Shafi, accusing him of a $170M fraud by misleading investors about the company&#39;s growth and concealing personal expenses &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/240731/p43#a240731p43)
  - [Squid Game returns this December — and will end with another season next year](https://www.theverge.com/2024/7/31/24210859/netflix-squid-game-second-final-season-release-date)
  - [Meta’s future is AI, AI, and more AI](https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg)
  - [US senators unveil the bipartisan NO FAKES Act, which would make individuals and companies liable for producing, hosting, or sharing unauthorized AI deepfakes &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/240731/p42#a240731p42)
- - [Best TV in 2024: Test and Review by TV Experts](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Best Internet Providers in Vermont](https://www.cnet.com/home/internet/best-internet-providers-in-vermont/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best TV in 2024: Test and Review by TV Experts](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

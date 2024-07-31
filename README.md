@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro rumored to get tandem OLED screen tech developed for new iPad Pro](https://appleinsider.com/articles/24/07/31/apple-vision-pro-rumored-to-get-tandem-oled-screen-tech-developed-for-new-ipad-pro?utm_medium=rss)
  - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)
  - [Milan-based mobile app developer Bending Spoons acquires Dutch file-sharing service WeTransfer, which backed out of an IPO in 2022, without disclosing terms &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240731/p25#a240731p25)
  - [Rising popularity of older iPhone models drove down average selling prices in June quarter](https://appleinsider.com/articles/24/07/31/rising-popularity-in-older-models-drove-down-iphone-prices-in-june-quarter?utm_medium=rss)
- - [The redesigned Tesla Model Y ‘Juniper’ might have a new rear light bar](https://www.theverge.com/2024/7/31/24210360/tesla-model-y-redesign-refresh-uncovered-lightbar-juniper)
- - [Interviews with 24 current and former Amazon staff say Jeff Bezos&#39; Amazon Way principles remain core under Andy Jassy but are now less universally agreed upon &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240731/p24#a240731p24)<!-- TECH:END -->
+ - [The redesigned Tesla Model Y ‘Juniper’ might have a new rear light bar](https://www.theverge.com/2024/7/31/24210360/tesla-model-y-redesign-refresh-uncovered-lightbar-juniper)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
  - 😝 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
- - 👉 [Asia road rage](http://9gag.com/gag/aRBeY17)<!-- MEMES:END -->
+ - 😝 [Hot very hot](http://9gag.com/gag/a9yY9GZ)
+ - 💣 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
+ - 😝 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
+ - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
 

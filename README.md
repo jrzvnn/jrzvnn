@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
- - [Sources: the US plans to unveil a new rule next month to stop chipmaking equipment exports from some countries to China, exempting allies like the Netherlands &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/240731/p2#a240731p2)
- - [Nvidia shares close down 7% to $103.73, after falling ~23% since July 10, as investors pull back from large tech stocks amid doubts over AI spending paying off &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/240731/p1#a240731p1)
- - [Samsung Galaxy Watch Ultra review: premium materials and build quality, powerful Exynos processor, but large and bulky with only one size, and expensive &lpar;Steve Smith/SlashGear&rpar;](http://www.techmeme.com/240730/p45#a240730p45)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 31 #416](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-31-416/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with Hollywood sound and picture editors, artists, and others detail their fears of AI replacing much of their work, despite a new IATSE contract &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240731/p5#a240731p5)
+ - [StubHub accused of charging ‘deceptive’ fees in DC lawsuit](https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees)
+ - [An IBM and Ponemon study of 604 organizations affected by data breaches between March 2023 and February 2024 finds the global average cost rose 10% YoY to $4.9M &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240731/p4#a240731p4)
+ - [A profile of Bengaluru-based Pocket FM, which has 2,000+ audio shows with 10- to 15-minute episodes and is working with ElevenLabs to convert scripts into audio &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/240731/p3#a240731p3)
+ - [You Could Miss Your Flight if You Don&#39;t Have a Real ID. Here&#39;s How to Get One](https://www.cnet.com/culture/you-could-miss-your-flight-if-you-dont-have-a-real-id-heres-how-to-get-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

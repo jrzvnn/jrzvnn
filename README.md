@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 💣 [Old but gold](http://9gag.com/gag/a4PjDWm)
- - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
- - 👉 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)<!-- MEMES:END -->
+ - 😝 [Hold my Wednesday](http://9gag.com/gag/aryOvb7)
+ - 💣 [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)
+ - 😝 [You have to be a special kind of person to be pissed off someone who avoided crashing into you in the first place.](http://9gag.com/gag/abA6X7B)
+ - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta Air Lines CEO Ed Bastian says the CrowdStrike-caused outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p26#a240731p26)
+ - [Taco Bell’s drive-thru AI might take your next order](https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion)
+ - [Mark Cuban and a team of VC leaders back Kamala Harris for president](https://www.theverge.com/2024/7/31/24210495/mark-cuban-reid-hoffman-vcs-for-kamala-harris-president)
  - [Apple Vision Pro rumored to get tandem OLED screen tech developed for new iPad Pro](https://appleinsider.com/articles/24/07/31/apple-vision-pro-rumored-to-get-tandem-oled-screen-tech-developed-for-new-ipad-pro?utm_medium=rss)
- - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)
- - [Milan-based mobile app developer Bending Spoons acquires Dutch file-sharing service WeTransfer, which backed out of an IPO in 2022, without disclosing terms &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240731/p25#a240731p25)
- - [Rising popularity of older iPhone models drove down average selling prices in June quarter](https://appleinsider.com/articles/24/07/31/rising-popularity-in-older-models-drove-down-iphone-prices-in-june-quarter?utm_medium=rss)
- - [The redesigned Tesla Model Y ‘Juniper’ might have a new rear light bar](https://www.theverge.com/2024/7/31/24210360/tesla-model-y-redesign-refresh-uncovered-lightbar-juniper)<!-- TECH:END -->
+ - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

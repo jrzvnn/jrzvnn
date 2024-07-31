@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 😝 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
- - 💣 [Best community is...](http://9gag.com/gag/aGy0Y5G)
- - 😝 [Go Sports!!!](http://9gag.com/gag/avyr0nX)
- - 👉 [Western Europe right now](http://9gag.com/gag/aGy0Y45)<!-- MEMES:END -->
+ - 😝 [You have to be a special kind of person to be pissed off someone who avoided crashing into you in the first place.](http://9gag.com/gag/abA6X7B)
+ - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - 😝 [Real Wtfact](http://9gag.com/gag/a7od4qz)
+ - 👉 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
  - 😝 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 💣 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)
- - 😝 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)
- - 👉 [Fact](http://9gag.com/gag/abAZjd8)<!-- MEMES:END -->
+ - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
 
 ---
 

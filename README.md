@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm reports Q3 revenue up 11% YoY to $9.39B, vs. $9.21B est., handset chip sales up 12% YoY to $5.9B, and forecasts Q4 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240731/p34#a240731p34)
+ - [Meta reports Q2 revenue up 22% YoY to $39.07B, net income up 73% YoY to $13.47B, and family daily active people up 7% YoY to 3.27B on average for June 2024 &lpar;Meta&rpar;](http://www.techmeme.com/240731/p33#a240731p33)
  - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)
- - [Leak: Here’s the DJI Neo, the lightest budget drone DJI’s ever made](https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography)
- - [Tether reports &quot;record&quot; net profit of $5.2B in H1 2024, net operating profit of $1.3B in Q2, and US debt holdings of $97.6B, more than countries like Germany &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240731/p31#a240731p31)
- - [Reddit CEO says Microsoft needs to pay to search the site](https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search)
- - [Microsoft, Copyright Office to Lawmakers: Make Deepfakes Illegal](https://www.cnet.com/tech/services-and-software/microsoft-says-ai-deepfake-abuse-should-be-illegal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak: here’s the DJI Neo, the lightest budget drone DJI’s ever made](https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography)
+ - [Tether reports &quot;record&quot; net profit of $5.2B in H1 2024, net operating profit of $1.3B in Q2, and US debt holdings of $97.6B, more than countries like Germany &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240731/p31#a240731p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

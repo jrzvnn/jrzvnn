@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Arm reports Q1 revenue up 39% YoY to $939M vs. $905.4M est., license and other revenue up 72% YoY to $472M, and royalty revenue up 17% YoY to $467M &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240731/p35#a240731p35)
  - [Qualcomm reports Q3 revenue up 11% YoY to $9.39B, vs. $9.21B est., handset chip sales up 12% YoY to $5.9B, and forecasts Q4 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240731/p34#a240731p34)
  - [Meta reports Q2 revenue up 22% YoY to $39.07B, net income up 73% YoY to $13.47B, and family daily active people up 7% YoY to 3.27B on average for June 2024 &lpar;Meta&rpar;](http://www.techmeme.com/240731/p33#a240731p33)
- - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)
+ - [Bungie says it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent company Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)
  - [Leak: here’s the DJI Neo, the lightest budget drone DJI’s ever made](https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

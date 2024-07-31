@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone 16 Pro may ship in a new bronze color](https://appleinsider.com/articles/24/07/31/iphone-16-pro-may-ship-in-a-new-bronze-color?utm_medium=rss)
  - [Chinese regulators propose taking over online identity verification from companies to give people a single internet ID, citing privacy and online fraud &lpar;New York Times&rpar;](http://www.techmeme.com/240731/p13#a240731p13)
  - [District of Columbia AG Brian Schwalb sues StubHub, alleging the company uses &quot;deceptive, manipulative, and unfair practices&quot; to advertise event fees to users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240731/p12#a240731p12)
- - [All of the iPhone 16 colors &amp; camera layouts just got leaked](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)
- - [Epic&#39;s Tim Sweeney ludicrously calls Apple&#39;s &#39;Find My&#39; a privacy hazard for thieves](https://appleinsider.com/articles/24/07/31/epics-tim-sweeney-ludicrously-calls-apples-find-my-a-privacy-hazard-for-thieves?utm_medium=rss)<!-- TECH:END -->
+ - [22 Grill and BBQ Tools You Won&#39;t Regret Buying](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)
+ - [All of the iPhone 16 colors &amp; camera layouts just got leaked](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

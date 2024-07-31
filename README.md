@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [You Know](http://9gag.com/gag/aNDdozG)
- - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 😝 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
+ - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - 💣 [WTF](http://9gag.com/gag/aMV9ppG)
  - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 👉 [China&#39;s No.1 Wang Chuqin suffered a shock exit in the singles event to Sweden&#39;s No.26 Truls M\u00f6reg\u00e5rdh, who played a spectacular match to advance to the Round 16.](http://9gag.com/gag/amorLpv)<!-- MEMES:END -->
+ - 👉 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)<!-- MEMES:END -->
 
 ---
 

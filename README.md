@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 😝 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
- - 💣 [Asia road rage](http://9gag.com/gag/aRBeY17)
  - 😝 [Real Wtfact](http://9gag.com/gag/a7od4qz)
- - 👉 [Old but gold](http://9gag.com/gag/a4PjDWm)<!-- MEMES:END -->
+ - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
+ - 💣 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
+ - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 👉 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)<!-- MEMES:END -->
 
 ---
 

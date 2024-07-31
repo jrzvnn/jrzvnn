@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 😝 [Best community is...](http://9gag.com/gag/aGy0Y5G)
- - 💣 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
+ - 😝 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
+ - 💣 [Best community is...](http://9gag.com/gag/aGy0Y5G)
  - 😝 [Go Sports!!!](http://9gag.com/gag/avyr0nX)
  - 👉 [Western Europe right now](http://9gag.com/gag/aGy0Y45)<!-- MEMES:END -->
 

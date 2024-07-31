@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this granny a stage](http://9gag.com/gag/a2vdz0p)
+ - 😝 [Makes sense](http://9gag.com/gag/a9yWbDD)
  - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
  - 💣 [Go Sports!!!](http://9gag.com/gag/avyr0nX)
- - 😝 [Makes sense](http://9gag.com/gag/a9yWbDD)
- - 👉 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)<!-- MEMES:END -->
+ - 😝 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
+ - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
 
 ---
 

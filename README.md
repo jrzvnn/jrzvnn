@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany blames China for a &quot;serious&quot; 2021 cyberattack on its government agency for precision mapping, after a three-year investigation by its security services &lpar;Sam Jones/Financial Times&rpar;](http://www.techmeme.com/240731/p22#a240731p22)
  - [Amazon sues Nokia in Delaware federal court, accusing Nokia of infringing 12 AWS cloud computing patents; Nokia will &quot;review these matters and defend ourselves&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240731/p21#a240731p21)
  - [Microsoft’s new Xbox controller is more translucent than ever before](https://www.theverge.com/2024/7/31/24210403/microsoft-xbox-controller-translucent-blue-model)
  - [Vintage Polaroids used to pitch the Apple-1 hit the auction block](https://appleinsider.com/articles/24/07/31/vintage-polaroids-used-to-pitch-the-apple-1-hit-the-auction-block?utm_medium=rss)
- - [Zimperium: a massive SMS stealer campaign has targeted Android devices worldwide using Telegram bots to infect devices in 113 countries since February 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240731/p20#a240731p20)
- - [Moog Muse Review: A Machine for Musical Inspiration](https://www.wired.com/review/moog-muse-review/)<!-- TECH:END -->
+ - [Zimperium: a massive SMS stealer campaign has targeted Android devices worldwide using Telegram bots to infect devices in 113 countries since February 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240731/p20#a240731p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

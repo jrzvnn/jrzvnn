@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Spring Health, which offers a mental health app that matches patients with care providers, raised a $100M Series E at a $3.3B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](http://www.techmeme.com/240731/p40#a240731p40)
  - [How to get started using Apple Open Directory](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-apple-open-directory?utm_medium=rss)
  - [TikTok is one of Microsoft’s biggest AI cloud computing customers](https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer)
  - [The Incredible Physics of Simone Biles’ Yurchenko Double Pike](https://www.wired.com/story/the-incredible-physics-of-simone-biles-yurchenko-double-pike/)
- - [Google unveils updates to its Gemma family of open models, including Gemma 2 2B, which it claims surpasses GPT-3.5 and Mixtral 8x7B on the LMSYS Chatbot Arena &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/240731/p39#a240731p39)
- - [Qualcomm promises Snapdragon X PCs will cost as little as $700 next year](https://www.theverge.com/2024/7/31/24210783/qualcomm-promises-snapdragon-x-pcs-will-cost-as-little-as-700-next-year)<!-- TECH:END -->
+ - [Google unveils updates to its Gemma family of open models, including Gemma 2 2B, which it claims surpasses GPT-3.5 and Mixtral 8x7B on the LMSYS Chatbot Arena &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/240731/p39#a240731p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 😝 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
- - 💣 [Best community is...](http://9gag.com/gag/aGy0Y5G)
- - 😝 [Go Sports!!!](http://9gag.com/gag/avyr0nX)
- - 👉 [Western Europe right now](http://9gag.com/gag/aGy0Y45)<!-- MEMES:END -->
+ - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
+ - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 👉 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)<!-- MEMES:END -->
 
 ---
 

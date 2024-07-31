@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
- - 💣 [Main character vibes](http://9gag.com/gag/ayN8gwM)
+ - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - 😝 [You Know](http://9gag.com/gag/aNDdozG)
+ - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
  - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 👉 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)<!-- MEMES:END -->
+ - 👉 [China&#39;s No.1 Wang Chuqin suffered a shock exit in the singles event to Sweden&#39;s No.26 Truls M\u00f6reg\u00e5rdh, who played a spectacular match to advance to the Round 16.](http://9gag.com/gag/amorLpv)<!-- MEMES:END -->
 
 ---
 

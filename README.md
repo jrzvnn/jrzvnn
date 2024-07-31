@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reid Hoffman, Vinod Khosla, Mark Cuban, Ron Conway, Chris Sacca, and 100+ other VCs pledge to vote for Kamala Harris and solicit donations for her campaign &lpar;New York Times&rpar;](http://www.techmeme.com/240731/p14#a240731p14)
- - [Donald Trump’s Plan to Hoard Billions in Bitcoin Has Economists Stumped](https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/)
- - [Logitech wants to sell you a subscription mouse some day](https://appleinsider.com/articles/24/07/31/logitech-wants-to-sell-you-a-subscription-mouse-some-day?utm_medium=rss)
- - [10 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)
- - [The iPhone 16 Plus May Be Apple&#39;s Last. Here&#39;s Why](https://www.cnet.com/tech/mobile/the-iphone-16-plus-may-be-apples-last-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone dominates top 10 smartphones list for Q2 2024](https://appleinsider.com/articles/24/07/31/iphone-dominates-top-10-smartphones-list-for-q2-2024?utm_medium=rss)
+ - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240731/p15#a240731p15)
+ - [Google Cracks Down on Explicit Deepfakes](https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/)
+ - [&#39;Date Like Goblins&#39; Thinks Playing Games Can Fix Dating Apps](https://www.wired.com/story/dating-apps-suck-date-like-goblins/)
+ - [Wix’s AI will now write whole blog posts for you](https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

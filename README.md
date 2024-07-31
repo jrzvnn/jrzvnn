@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ohio residents can now add driver&#39;s license, state ID to the iPhone Wallet app](https://appleinsider.com/articles/24/07/31/ohio-residents-can-now-add-drivers-license-state-id-to-the-iphone-wallet-app?utm_medium=rss)
  - [A first look at Apple Intelligence and its &lpar;slightly&rpar; smarter Siri](https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri)
  - [Nvidia shares jump 10%+ after Microsoft and AMD signaled no slowdown in the buildout of AI servers built around GPUs; Microsoft spent $19B on capex in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p29#a240731p29)
- - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)<!-- TECH:END -->
+ - [Continued Interest Rate Pause Makes It Hard to Pay Down Credit Card Debt](https://www.cnet.com/personal-finance/credit-cards/continued-interest-rate-pause-makes-it-hard-to-pay-down-credit-card-debt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

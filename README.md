@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 😝 [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)
- - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 👉 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)<!-- MEMES:END -->
+ - 😝 [Give this granny a stage](http://9gag.com/gag/a2vdz0p)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 💣 [Go Sports!!!](http://9gag.com/gag/avyr0nX)
+ - 😝 [Makes sense](http://9gag.com/gag/a9yWbDD)
+ - 👉 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)<!-- MEMES:END -->
 
 ---
 

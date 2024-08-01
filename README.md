@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta CEO: ‘When was the last time you heard of a big outage at Apple?’](https://www.theverge.com/2024/8/1/24210680/crowdstrike-microsoft-outage-delta-lawsuit-class-action-damages)
+ - [PDP’s once-elusive Riffmaster guitar controller is now readily available](https://www.theverge.com/2024/8/1/24155728/pdp-riffmaster-wireless-guitar-controller-fortnite-festival-rock-band-stock-availability)
+ - [Best Cold-Brew Coffee Maker for 2024: Oxo, Takeya, Filtron, Espro and More](https://www.cnet.com/home/kitchen-and-household/best-cold-brew-coffee-maker/#ftag=CAD590a51e)
  - [In its annual report, Microsoft lists OpenAI as a competitor for the first time in AI offerings and in search and news advertising &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p34#a240801p34)
- - [A UK court sides with Intel in a patent dispute brought by R2 Semiconductor; R2 has filled similar suits against Intel in Germany, France, and Italy &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240801/p33#a240801p33)
- - [Honda and Nissan invite Mitsubishi to join their EV development partnership](https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership)
- - [Google is expanding ‘school time’ to phones and tablets](https://www.theverge.com/2024/8/1/24211399/google-school-time-phones-tablets-expansion)
- - [The Ford Maverick adds AWD to its hybrid lineup](https://www.theverge.com/2024/8/1/24211184/ford-maverick-2025-hybrid-awd-lariat-lobo-pickup-truck)<!-- TECH:END -->
+ - [&#39;Too Hot to Handle&#39; Release Schedule: When the Remaining Episodes Hit Netflix](https://www.cnet.com/tech/services-and-software/too-hot-to-handle-release-schedule-when-the-remaining-episodes-hit-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

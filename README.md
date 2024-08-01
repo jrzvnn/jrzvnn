@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com Announces Second Quarter Results &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/240801/p37#a240801p37)
- - [PC emulators are now explicitly allowed on the iPhone and iPad](https://appleinsider.com/articles/24/08/01/pc-emulators-are-now-explicitly-allowed-on-the-iphone-and-ipad?utm_medium=rss)
- - [Morpho, a decentralized lending developer, raised $50M led by Ribbit Capital, after raising an undisclosed sum earlier in 2024, and $18M in 2022 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240801/p36#a240801p36)
- - [Apple files motion to dismiss DOJ antitrust lawsuit](https://www.theverge.com/2024/8/1/24211386/apple-motion-to-dismiss-doj-antitrust-lawsuit)
- - [Rabbit says a June security breach was caused by an employee who leaked API keys and has since been terminated, and it has revoked and rotated those API keys &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240801/p35#a240801p35)<!-- TECH:END -->
+ - [DoorDash reports Q2 revenue up 23% YoY to $2.63B vs. $2.54B est., total orders up 19% YoY to $635M, and forecasts Q3 adjusted EBITDA above expectations &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240801/p39#a240801p39)
+ - [Intel is laying off over 10,000 employees and will cut $10 billion in costs](https://www.theverge.com/2024/8/1/24210656/intel-is-laying-off-over-10000-employees-and-will-cut-10-billion-in-costs)
+ - [Intel Q2: revenue down 1% YoY to $12.8B, vs. $12.9B est., Data Center and AI down 3% to $3B; announces $10B cost reduction plan, including cutting 15% of staff &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p38#a240801p38)
+ - [Amazon reports Q2 revenue up 10% YoY to $148B, a $13.5B net income, vs. $6.7B YoY, $14.7B operating income, vs. $7.7B YoY, subscription sales up 10% to $10.9B &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/240801/p37#a240801p37)
+ - [The Best Electrolyte Powders and Drinks, According to Experts](https://www.cnet.com/health/the-best-electrolytes-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear 9gag developers, pretty please](http://9gag.com/gag/a4PZdNp)
+ - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
  - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - 💣 [Respect my enthusiasm](http://9gag.com/gag/ajPq0L8)
- - 😝 [#27.](http://9gag.com/gag/a0edLMv)
- - 👉 [My fellow 9gaggers... any sauce?](http://9gag.com/gag/aryO475)<!-- MEMES:END -->
+ - 💣 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
+ - 😝 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
+ - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
 
 ---
 

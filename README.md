@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
- - 😝 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
- - 💣 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 👉 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)<!-- MEMES:END -->
+ - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - 😝 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
+ - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 😝 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
+ - 👉 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)<!-- MEMES:END -->
 
 ---
 

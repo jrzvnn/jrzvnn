@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple files motion to dismiss DOJ antitrust lawsuit](https://www.theverge.com/2024/8/1/24211386/apple-motion-to-dismiss-doj-antitrust-lawsuit)
+ - [Rabbit says a June security breach was caused by an employee who leaked API keys and has since been terminated, and it has revoked and rotated those API keys &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240801/p35#a240801p35)
  - [Delta CEO: ‘When was the last time you heard of a big outage at Apple?’](https://www.theverge.com/2024/8/1/24210680/crowdstrike-microsoft-outage-delta-lawsuit-class-action-damages)
  - [PDP’s once-elusive Riffmaster guitar controller is now readily available](https://www.theverge.com/2024/8/1/24155728/pdp-riffmaster-wireless-guitar-controller-fortnite-festival-rock-band-stock-availability)
- - [Best Cold-Brew Coffee Maker for 2024: Oxo, Takeya, Filtron, Espro and More](https://www.cnet.com/home/kitchen-and-household/best-cold-brew-coffee-maker/#ftag=CAD590a51e)
- - [In its annual report, Microsoft lists OpenAI as a competitor for the first time in AI offerings and in search and news advertising &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p34#a240801p34)
- - [&#39;Too Hot to Handle&#39; Release Schedule: When the Remaining Episodes Hit Netflix](https://www.cnet.com/tech/services-and-software/too-hot-to-handle-release-schedule-when-the-remaining-episodes-hit-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In its annual report, Microsoft lists OpenAI as a competitor for the first time in AI offerings and in search and news advertising &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p34#a240801p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

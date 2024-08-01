@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Hamster Kombat, a Telegram &quot;mini-game&quot; with 53M channel subscribers, the most on Telegram; in June 2024, Iran said the crypto game distracted voters &lpar;Jeff Wilser/Wired&rpar;](http://www.techmeme.com/240801/p16#a240801p16)
- - [Drivers love CarPlay as car infotainment systems get wrose](https://appleinsider.com/articles/24/08/01/drivers-love-carplay-as-car-infotainment-systems-get-wrose?utm_medium=rss)
- - [Dating Apps Are Dehumanizing. Let’s Try Something New](https://www.wired.com/story/gadget-lab-podcast-653/)
- - [The EU&#39;s AI Act takes effect, triggering compliance deadlines for a range of AI developers and apps; most provisions will be fully applicable by mid-2026 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240801/p15#a240801p15)
- - [OpenAI tells US lawmakers that it is &quot;dedicated&quot; to &quot;rigorous safety protocols at every stage of our process&quot; and is working with the US AI Safety Institute &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240801/p14#a240801p14)<!-- TECH:END -->
+ - [Drivers love CarPlay as car infotainment systems get worse overall](https://appleinsider.com/articles/24/08/01/drivers-love-carplay-as-car-infotainment-systems-get-wrose?utm_medium=rss)
+ - [Twitter for Mac leaves the Mac App Store, but iPad X is still usable](https://appleinsider.com/articles/24/08/01/twitter-for-mac-leaves-the-mac-app-store-but-ipad-x-is-still-usable?utm_medium=rss)
+ - [Outbrain confirms plans to acquire Altice-owned Teads, in a transaction valuing the SSP and video monetization company at $1B+; Outbrain will pay $725M in cash &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240801/p17#a240801p17)
+ - [16 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Google Maps and Waze get new route guidance and alerts](https://appleinsider.com/articles/24/08/01/google-maps-and-waze-get-new-route-guidance-and-alerts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

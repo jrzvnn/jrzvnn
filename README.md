@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CISA names Lisa Einstein as its first chief AI officer; Einstein has been a senior adviser at the agency since last year and helped craft CISA&#39;s AI roadmap &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240801/p21#a240801p21)
+ - [Doctor Doom’s comics legacy is so much bigger than his Iron Man connections](https://www.theverge.com/2024/8/1/24207907/doctor-doom-infamous-iron-man-mcu-rdj)
+ - [You can buy the M2 MacBook Air starting at just $799 right now](https://www.theverge.com/2024/8/1/24211001/apple-macbook-air-m2-laptop-bose-soundlink-deal-sale)
  - [Asus Chromebook CM14 Review: An Uber-Cheap Laptop](https://www.wired.com/review/asus-chromebook-cm14/)
- - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)
- - [The teens lobbying against the Kids Online Safety Act](https://www.theverge.com/24210795/kosa-kids-online-safety-act-senate-teens-student-lobby)
- - [How unboxing sneakers got this creator to the PGA](https://www.theverge.com/24210605/jacques-slade-pga-sneaker-unboxing-youtube)
- - [Apple Vision Pro gestures may spread to the iPhone, iPad, and Mac](https://appleinsider.com/articles/24/08/01/apple-vision-pro-gestures-may-spread-to-the-iphone-ipad-and-mac?utm_medium=rss)<!-- TECH:END -->
+ - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

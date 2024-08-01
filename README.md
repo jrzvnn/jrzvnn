@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Premier League, Bundesliga, DAZN, Sky, UEFA, CONMEBOL, and others write to X CEO Linda Yaccarino demanding more action against illegal soccer content on X &lpar;Tales Azzoni/Associated Press&rpar;](http://www.techmeme.com/240801/p12#a240801p12)
- - [8 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Apple Intelligence in iOS 18.1 beta hands-on: meaningful Siri language understanding improvements and Siri text input is nice, but few other notable features &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240801/p11#a240801p11)
- - [Investigation: 2020 to 2023 data shows how thousands of middlemen game the H-1B program and companies that farm out IT workers exploit the US lottery system &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p10#a240801p10)
- - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)<!-- TECH:END -->
+ - [Sources: the US considers unilateral restrictions on China&#39;s access to AI memory chips and equipment, to keep Micron, SK Hynix, and Samsung from supplying China &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240801/p13#a240801p13)
+ - [A $500 Open-Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/)
+ - [How Telegram Game &#39;Hamster Kombat&#39; Got 300 Million Users—and the Ire of Iran’s Military](https://www.wired.com/story/telegram-game-hamster-kombat-massive/)
+ - [Samsung Galaxy Watch Ultra review: if you can’t beat ’em, join ’em](https://www.theverge.com/24210505/samsung-galaxy-watch-ultra-review-smartwatch-wearables)
+ - [The Premier League, Bundesliga, DAZN, Sky, UEFA, CONMEBOL, and others write to X CEO Linda Yaccarino demanding more action against illegal soccer content on X &lpar;Tales Azzoni/Associated Press&rpar;](http://www.techmeme.com/240801/p12#a240801p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

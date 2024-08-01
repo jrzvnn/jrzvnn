@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK told tech companies the AI bill will make existing voluntary agreements legally binding and the AI Safety Institute into an Arm&#39;s Length Body &lpar;Financial Times&rpar;](http://www.techmeme.com/240801/p22#a240801p22)
+ - [Netflix’s next Geeked Week event kicks off in September](https://www.theverge.com/2024/8/1/24211143/netflix-geeked-week-2024-date-trailer)
+ - [He Was an FBI Informant—and Inspired a Generation of Violent Extremists](https://www.wired.com/story/the-dangerous-exploits-of-an-extremist-fbi-informant/)
  - [The CISA names Lisa Einstein as its first chief AI officer; Einstein has been a senior adviser at the agency since last year and helped craft CISA&#39;s AI roadmap &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240801/p21#a240801p21)
- - [Doctor Doom’s comics legacy is so much bigger than his Iron Man connections](https://www.theverge.com/2024/8/1/24207907/doctor-doom-infamous-iron-man-mcu-rdj)
- - [You can buy the M2 MacBook Air starting at just $799 right now](https://www.theverge.com/2024/8/1/24211001/apple-macbook-air-m2-laptop-bose-soundlink-deal-sale)
- - [Asus Chromebook CM14 Review: An Uber-Cheap Laptop](https://www.wired.com/review/asus-chromebook-cm14/)
- - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)<!-- TECH:END -->
+ - [Doctor Doom’s comics legacy is so much bigger than his Iron Man connections](https://www.theverge.com/2024/8/1/24207907/doctor-doom-infamous-iron-man-mcu-rdj)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

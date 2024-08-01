@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Indian startup VC funding has dwindled, depriving India of capital needed to grow its economy, as the valuation of top companies like Byju&#39;s implodes &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240801/p8#a240801p8)
  - [Telegram rolls out a Mini App Store to help users find new apps, updates the in-app browser to support multiple tabs, and says its mini apps have 500M MAUs &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240801/p7#a240801p7)
  - [Some UK business leaders and academics worry the UK rejecting a record number of Chinese students due to fears of espionage puts the UK&#39;s tech ambitions at risk &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/240801/p6#a240801p6)
  - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
- - [Staff memo: Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if the company does not revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)
- - [OpenSecrets: the number of groups lobbying the US government on AI grew from 459 in 2023 to 556 in H1 2024; OpenAI spent $800K in H1 2024, up from $260K in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240801/p3#a240801p3)<!-- TECH:END -->
+ - [Staff memo: Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if the company does not revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge dismisses a 2022 RNC lawsuit accusing Google of misdirecting its emails to Gmail spam folders, saying the RNC had not made an adequate case &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240801/p28#a240801p28)
- - [Google unveils AI features for Chrome on desktop, including support for Google Lens and searching history via natural language queries, rolling out in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240801/p27#a240801p27)
- - [Hurry, Final Few Hours To Grab the Jackery Explorer 290 For Only $180](https://www.cnet.com/deals/hurry-final-few-hours-to-grab-the-jackery-explorer-290-for-only-180/#ftag=CAD590a51e)
- - [50 Cent to Launch a Free Streaming TV Channel](https://www.cnet.com/tech/services-and-software/50-cent-to-launch-a-free-streaming-tv-channel/#ftag=CAD590a51e)
- - [UAE-based G42 is working with the US and Emirati government &quot;to comply with the highest global standards&quot; in AI, after US lawmakers questioned its China ties &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p26#a240801p26)<!-- TECH:END -->
+ - [Don Lemon sues Elon Musk and X for canceling his talk show](https://www.theverge.com/2024/8/1/24211356/don-lemon-elon-musk-x-lawsuit-talk-show-canceled)
+ - [Apple defends business practices in motion to dismiss DOJ lawsuit](https://appleinsider.com/articles/24/08/01/apple-defends-business-practices-in-motion-to-dismiss-doj-lawsuit?utm_medium=rss)
+ - [Google adds Chrome AI features that can search your browsing history](https://appleinsider.com/articles/24/08/01/google-adds-chrome-ai-features-that-can-search-your-browsing-history?utm_medium=rss)
+ - [Save Up to 50% on Amazon Fire TV Streaming Devices](https://www.cnet.com/deals/save-up-to-50-on-amazon-fire-tv-streaming-devices/#ftag=CAD590a51e)
+ - [Best Cooling Comforters of 2024](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

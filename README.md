@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Protect AI, which develops software to help enterprises secure AI models and applications, raised $60M led by Evolution Equity Partners at a $400M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240801/p25#a240801p25)
- - [Judge dismisses Republicans’ claim that Gmail unfairly marked its fundraising emails as spam](https://www.theverge.com/2024/8/1/24211217/judge-dismisses-republican-national-committee-gmail-spam-case)
- - [The best way to watch the Olympics is on TikTok](https://www.theverge.com/2024/8/1/24210650/paris-olympics-tiktok-influencers-chocolate-muffins-memes)
- - [Google Cloud expands its database portfolio with new AI capabilities, including updates to its Spanner SQL database, which now supports graph and vector search &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240801/p24#a240801p24)
- - [Saudi Arabia proposes World Cup stadium straight out of a cyberpunk dystopia](https://www.theverge.com/2024/8/1/24211200/saudi-arabia-world-cup-soccer-stadium-cyberpunk-design)<!-- TECH:END -->
+ - [UAE-based G42 is working with the US and Emirati government &quot;to comply with the highest global standards&quot; in AI, after US lawmakers questioned its China ties &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p26#a240801p26)
+ - [To Lead in AI, the US Needs a Silicon Revolution](https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/)
+ - [Spectre Divide is a fascinating Valorant-like shooter where you control two bodies](https://www.theverge.com/24211078/spectre-divide-preview-mountaintop-fps-game)
+ - [Chrome is going to use AI to help you compare products from across your tabs](https://www.theverge.com/2024/8/1/24210777/google-chrome-ai-tab-compare-products)
+ - [Desktop Chrome is getting a feature that’s a lot like Circle to Search](https://www.theverge.com/2024/8/1/24210670/google-chrome-lens-ai-search-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

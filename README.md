@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission unconditionally approves HPE&#39;s $14B takeover of networking gear maker Juniper Networks after finding no competition concerns &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/240801/p20#a240801p20)
  - [Roblox reports Q2 revenue up 31% YoY to $894M, bookings up 22% YoY to $995M, a $206M net loss, average DAUs up 21% YoY to 79.5M, projects Q3 bookings above est. &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240801/p19#a240801p19)
  - [What Project 2025 Means for Big Tech … and Everyone Else](https://www.wired.com/story/project-2025-tech-industry/)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
- - [LG C4 OLED Review: The Best High-End TV for Most People](https://www.wired.com/review/lg-c4/)
- - [Live sports streamer Venu Sports will cost $42.99 per month](https://www.theverge.com/2024/8/1/24211138/venu-sports-disney-fox-warner-bros-discovery-pricing)<!-- TECH:END -->
+ - [LG C4 OLED Review: The Best High-End TV for Most People](https://www.wired.com/review/lg-c4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

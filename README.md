@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
- - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
- - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
- - 😝 [The winner of the Triathlon after swimming in the Seine.](http://9gag.com/gag/apRrq39)
- - 👉 [Just a minute](http://9gag.com/gag/ajPq6mQ)<!-- MEMES:END -->
+ - 😝 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 😝 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
+ - 👉 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)<!-- MEMES:END -->
 
 ---
 

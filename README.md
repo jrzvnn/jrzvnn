@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta CEO criticizes Microsoft&#39;s fragility, praises Apple&#39;s stability](https://appleinsider.com/articles/24/08/01/delta-ceo-criticizes-microsofts-fragility-praises-apples-stability?utm_medium=rss)
- - [Block reports Q2 revenue up 11% YoY to $6.16B, vs. $6.28B est., Square profit up 15% to $923M, Cash App profit up 23% to $1.3B, and raises its FY 2024 guidance &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240801/p46#a240801p46)
- - [iPad sales rebound as Apple nears big push into AI](https://www.theverge.com/2024/8/1/24211479/apple-q3-2024-earnings-ipad-services-mac-ai)
+ - [Apple reports Q3 revenue from Services, which includes App Store, Apple TV+, and Apple Music, rose 14% YoY to $24.21B, vs. $23.96B estimated, an all-time record &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240801/p48#a240801p48)
  - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)
- - [The Twelve South AirFly Duo in-flight earbud adapter is down to its best price yet](https://www.theverge.com/2024/8/1/24211471/amazon-twelve-south-airfly-duo-deal-sale)<!-- TECH:END -->
+ - [Roku reports Q2 revenue up 14% YoY to $968.2M vs. $935.3M estimated, a net loss of $33.95M vs. $107.6M in Q2 2023, and 83.6M streaming households, up 2M from Q1 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240801/p47#a240801p47)
+ - [Delta CEO criticizes Microsoft&#39;s fragility, praises Apple&#39;s stability](https://appleinsider.com/articles/24/08/01/delta-ceo-criticizes-microsofts-fragility-praises-apples-stability?utm_medium=rss)
+ - [Block reports Q2 revenue up 11% YoY to $6.16B, vs. $6.28B est., Square profit up 15% to $923M, Cash App profit up 23% to $1.3B, and raises its FY 2024 guidance &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240801/p46#a240801p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

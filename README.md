@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
- - 😝 [The jiggles](http://9gag.com/gag/a347dOr)
- - 💣 [Yay or nay](http://9gag.com/gag/aGy09gK)
  - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 👉 [Premature celebration backfires](http://9gag.com/gag/awy5b08)<!-- MEMES:END -->
+ - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 💣 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
+ - 😝 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
+ - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
 

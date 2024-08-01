@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
  - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
- - 💣 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 😝 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
- - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
+ - 😝 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
+ - 💣 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
+ - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
 

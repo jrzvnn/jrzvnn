@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Q3 revenue in Greater China was down 6.5% YoY to $14.7B , up 5.7% YoY to $5.1B in Japan, and up 13.5% YoY to $6.4B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240801/p52#a240801p52)
+ - [Net neutrality is on ice](https://www.theverge.com/2024/8/1/24211570/net-neutrality-sixth-circuit-stay-blocked-fcc)
  - [NZXT will rent full gaming PCs, but the costs add up fast](https://www.theverge.com/2024/8/1/24211490/nzxt-flex-desktop-gaming-pc-rental-service-subscription-nvidia-gpu-games)
  - [Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/240801/p51#a240801p51)
- - [A US appeals court blocks the FCC&#39;s reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240801/p50#a240801p50)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Intel Is Cutting More Than 15,000 Jobs Despite Getting Billions From the US Government](https://www.wired.com/story/intel-job-cuts/)<!-- TECH:END -->
+ - [iOS 18 Public Beta: An Early Access Guide for the Brave at Heart](https://www.cnet.com/tech/services-and-software/how-to-download-ios-18-public-beta-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

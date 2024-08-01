@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta CEO criticizes Microsoft&#39;s fragility, praises Apple&#39;s stability](https://appleinsider.com/articles/24/08/01/delta-ceo-criticizes-microsofts-fragility-praises-apples-stability?utm_medium=rss)
+ - [Block reports Q2 revenue up 11% YoY to $6.16B, vs. $6.28B est., Square profit up 15% to $923M, Cash App profit up 23% to $1.3B, and raises its FY 2024 guidance &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240801/p46#a240801p46)
+ - [iPad sales rebound as Apple nears big push into AI](https://www.theverge.com/2024/8/1/24211479/apple-q3-2024-earnings-ipad-services-mac-ai)
  - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)
- - [Apple Q3 revenue: iPhone down 1% YoY to $39.3B, Mac up 2% to $7.01B, iPad up 24% to $7.16B, and Wearables, Home, and Accessories down 2% to $8.1B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240801/p45#a240801p45)
- - [Amazon reports Q2 ad revenue up 20% YoY to $12.77B, vs. $13B estimated &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240801/p44#a240801p44)
- - [How &#39;World of Warcraft&#39; Devs Launched One of the Biggest Unions in Video Games](https://www.wired.com/story/world-of-warcraft-union-vidoe-games-labor/)
- - [Intel plans to cut 15% of its workforce by the end of 2024 as part of a $10B cost reduction plan and will suspend its dividend starting in Q4 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240801/p42#a240801p42)<!-- TECH:END -->
+ - [The Twelve South AirFly Duo in-flight earbud adapter is down to its best price yet](https://www.theverge.com/2024/8/1/24211471/amazon-twelve-south-airfly-duo-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

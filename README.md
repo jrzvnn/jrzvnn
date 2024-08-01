@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 💣 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 😝 [Wife material](http://9gag.com/gag/a9yWd8m)
- - 👉 [Can I dad? Yes.](http://9gag.com/gag/aW48QL6)<!-- MEMES:END -->
+ - 😝 [Guatemala just won their first ever golden medal at the Olympics](http://9gag.com/gag/aVvDQm2)
+ - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 💣 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
+ - 😝 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
+ - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
 
 ---
 

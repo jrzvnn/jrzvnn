@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel is Cutting More Than 15,000 Jobs Despite Getting Billions from the US Government](https://www.wired.com/story/intel-job-cuts/)
+ - [A US appeals court blocks the FCC&#39;s reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240801/p50#a240801p50)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Intel Is Cutting More Than 15,000 Jobs Despite Getting Billions From the US Government](https://www.wired.com/story/intel-job-cuts/)
  - [Coinbase reports Q2 revenue up 105% YoY to $1.45B, vs. $1.39B est., a $36.2M net income, and forecasts subscription and services Q3 revenue below expectations &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240801/p49#a240801p49)
- - [Apple reports Q3 revenue from Services, which includes App Store, Apple TV+, and Apple Music, rose 14% YoY to $24.21B, vs. $23.96B estimated, an all-time record &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240801/p48#a240801p48)
- - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)
- - [Roku reports Q2 revenue up 14% YoY to $968.2M vs. $935.3M estimated, a net loss of $33.95M vs. $107.6M in Q2 2023, and 83.6M streaming households, up 2M from Q1 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240801/p47#a240801p47)<!-- TECH:END -->
+ - [Apple reports Q3 revenue from Services, which includes App Store, Apple TV+, and Apple Music, rose 14% YoY to $24.21B, vs. $23.96B estimated, an all-time record &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240801/p48#a240801p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

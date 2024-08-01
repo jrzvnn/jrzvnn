@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Indian startup VC funding has dwindled, depriving India of capital needed to grow its economy, as the valuation of top companies like Byju&#39;s implodes &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240801/p8#a240801p8)
- - [Telegram rolls out a Mini App Store to help users find new apps, updates the in-app browser to support multiple tabs, and says its mini apps have 500M MAUs &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240801/p7#a240801p7)
- - [Some UK business leaders and academics worry the UK rejecting a record number of Chinese students due to fears of espionage puts the UK&#39;s tech ambitions at risk &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/240801/p6#a240801p6)
- - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
- - [Staff memo: Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if the company does not revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)<!-- TECH:END -->
+ - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)
+ - [Infosys confirms that Indian authorities hit the IT giant with a $3.9B tax demand, covering July 2017 to March 2022, the latest company to get such a demand &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240801/p9#a240801p9)
+ - [Apple brings back dark black for the iPhone 16 Pro](https://appleinsider.com/articles/24/08/01/apple-brings-back-dark-black-for-the-iphone-16-pro?utm_medium=rss)
+ - [The Cure for Disposable Plastic Crap Is Here—and It’s Loony](https://www.wired.com/story/the-cure-for-disposable-plastic-crap-is-here-and-its-loony/)
+ - [Analysis: Indian startup VC funding has dwindled, depriving India of capital needed to grow its economy, as the valuation of top companies like Byju&#39;s implodes &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240801/p8#a240801p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

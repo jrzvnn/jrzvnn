@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a minute](http://9gag.com/gag/ajPq6mQ)
- - 😝 [Funny but true.](http://9gag.com/gag/azxrEdZ)
- - 💣 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - 😝 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
+ - 😝 [What Money?](http://9gag.com/gag/a9yWjn0)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 💣 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
+ - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
  - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
 
 ---

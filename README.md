@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How QAnon Destroys American Families](https://www.wired.com/story/qanon-destroys-american-families/)
- - [The Twitter for Mac app appears to have been delisted from the App Store; some users say their X accounts were suspended after using the X for iPad app on macOS &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240801/p31#a240801p31)
- - [A watchdog for corporate climate commitments is cracking down on carbon credits](https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset)
- - [The US releases Russian cybercriminals Roman Seleznev and Vladislav Klyushin as part of a prisoner swap that freed 16 people from Russia &lpar;CyberScoop&rpar;](http://www.techmeme.com/240801/p30#a240801p30)
- - [Apple files a motion to dismiss the US DOJ&#39;s antitrust lawsuit, arguing the lawsuit has not demonstrated anticompetitive conduct and would harm innovation &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240801/p29#a240801p29)<!-- TECH:END -->
+ - [Honda and Nissan invite Mitsubishi to join their EV development partnership](https://www.theverge.com/2024/8/1/24211319/honda-and-nissan-invite-mitsubishi-to-join-their-ev-development-partnership)
+ - [Google is expanding ‘school time’ to phones and tablets](https://www.theverge.com/2024/8/1/24211399/google-school-time-phones-tablets-expansion)
+ - [The Ford Maverick adds AWD to its hybrid lineup](https://www.theverge.com/2024/8/1/24211184/ford-maverick-2025-hybrid-awd-lariat-lobo-pickup-truck)
+ - [A Montenegro appeals court upholds a ruling to hand over Terraform Labs co-founder Do Kwon to South Korea, rejecting a bid to extradite him to the US &lpar;Associated Press&rpar;](http://www.techmeme.com/240801/p32#a240801p32)
+ - [How QAnon Destroys American Families](https://www.wired.com/story/qanon-destroys-american-families/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
- - 😝 [WTF](http://9gag.com/gag/aMV9ppG)
- - 💣 [When you&#39;re browsing for memes and suddenly see a tetten post](http://9gag.com/gag/aMVweyR)
- - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 👉 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)<!-- MEMES:END -->
+ - 😝 [Guatemala just won their first ever golden medal at the Olympics](http://9gag.com/gag/aVvDQm2)
+ - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 💣 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
+ - 😝 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
 
 ---
 

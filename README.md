@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Hamster Kombat, a Telegram &quot;mini-game&quot; with 53M channel subscribers, the most on Telegram; in June 2024, Iran said the crypto game distracted voters &lpar;Jeff Wilser/Wired&rpar;](http://www.techmeme.com/240801/p16#a240801p16)
+ - [Drivers love CarPlay as car infotainment systems get wrose](https://appleinsider.com/articles/24/08/01/drivers-love-carplay-as-car-infotainment-systems-get-wrose?utm_medium=rss)
+ - [Dating Apps Are Dehumanizing. Let’s Try Something New](https://www.wired.com/story/gadget-lab-podcast-653/)
  - [The EU&#39;s AI Act takes effect, triggering compliance deadlines for a range of AI developers and apps; most provisions will be fully applicable by mid-2026 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240801/p15#a240801p15)
- - [OpenAI tells US lawmakers that it is &quot;dedicated&quot; to &quot;rigorous safety protocols at every stage of our process&quot; and is working with the US AI Safety Institute &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240801/p14#a240801p14)
- - [Democrats Have Finally Learned the Value of Shitposting](https://www.wired.com/story/democrats-have-finally-learned-the-value-of-shitposting/)
- - [Sources: the US considers unilateral restrictions on China&#39;s access to AI memory chips and equipment, to keep Micron, SK Hynix, and Samsung from supplying China &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240801/p13#a240801p13)
- - [A $500 Open-Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/)<!-- TECH:END -->
+ - [OpenAI tells US lawmakers that it is &quot;dedicated&quot; to &quot;rigorous safety protocols at every stage of our process&quot; and is working with the US AI Safety Institute &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240801/p14#a240801p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge dismisses a 2022 RNC lawsuit accusing Google of misdirecting its emails to Gmail spam folders, saying the RNC had not made an adequate case &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240801/p28#a240801p28)
  - [Google unveils AI features for Chrome on desktop, including support for Google Lens and searching history via natural language queries, rolling out in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240801/p27#a240801p27)
  - [UAE-based G42 is working with the US and Emirati government &quot;to comply with the highest global standards&quot; in AI, after US lawmakers questioned its China ties &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p26#a240801p26)
  - [To Lead in AI, the US Needs a Silicon Revolution](https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/)
- - [Spectre Divide is a fascinating Valorant-like shooter where you control two bodies](https://www.theverge.com/24211078/spectre-divide-preview-mountaintop-fps-game)
- - [Chrome is going to use AI to help you compare products from across your tabs](https://www.theverge.com/2024/8/1/24210777/google-chrome-ai-tab-compare-products)<!-- TECH:END -->
+ - [Spectre Divide is a fascinating Valorant-like shooter where you control two bodies](https://www.theverge.com/24211078/spectre-divide-preview-mountaintop-fps-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

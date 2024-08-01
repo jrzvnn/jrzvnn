@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 😝 [Is this what they call as a win-win situation?](http://9gag.com/gag/aNDdZG6)
- - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
+ - 😝 [Miss Poland 2024 finalists](http://9gag.com/gag/ae9Ypg5)
+ - 😝 [Olympics](http://9gag.com/gag/a7oZyj2)
+ - 💣 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 😝 [I&#39;m too high for this shit damn](http://9gag.com/gag/a7oZbRr)
+ - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
 
 ---
 

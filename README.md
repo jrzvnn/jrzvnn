@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
- - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 😝 [Is this what they call as a win-win situation?](http://9gag.com/gag/aNDdZG6)
  - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
- - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
- - 👉 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)<!-- MEMES:END -->
+ - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
 
 ---
 

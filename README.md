@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 😝 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
- - 💣 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)
  - 😝 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
- - 👉 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)<!-- MEMES:END -->
+ - 😝 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
+ - 💣 [Dear 9gag developers, pretty please](http://9gag.com/gag/a4PZdNp)
+ - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 👉 [Respect my enthusiasm](http://9gag.com/gag/ajPq0L8)<!-- MEMES:END -->
 
 ---
 

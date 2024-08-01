@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/240801/p51#a240801p51)
  - [A US appeals court blocks the FCC&#39;s reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240801/p50#a240801p50)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Intel Is Cutting More Than 15,000 Jobs Despite Getting Billions From the US Government](https://www.wired.com/story/intel-job-cuts/)
- - [Coinbase reports Q2 revenue up 105% YoY to $1.45B, vs. $1.39B est., a $36.2M net income, and forecasts subscription and services Q3 revenue below expectations &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240801/p49#a240801p49)
- - [Apple reports Q3 revenue from Services, which includes App Store, Apple TV+, and Apple Music, rose 14% YoY to $24.21B, vs. $23.96B estimated, an all-time record &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240801/p48#a240801p48)<!-- TECH:END -->
+ - [Coinbase reports Q2 revenue up 105% YoY to $1.45B, vs. $1.39B est., a $36.2M net income, and forecasts subscription and services Q3 revenue below expectations &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240801/p49#a240801p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
  - [Discord on Xbox adds the ability to watch friends&#39; Discord streams whether they&#39;re sharing from a PC, mobile phone, or Xbox, rolling out over the coming weeks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240731/p46#a240731p46)
  - [Best Deals on Portable Jump-Starters Will Spark Big Savings and Give You Peace of Mind on the Road](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
  - [Sources: Commerce Department officials inform Applied Materials that the company&#39;s planned $4B Silicon Valley R&amp;D facility doesn&#39;t qualify for CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240731/p45#a240731p45)
- - [On Meta&#39;s earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p44#a240731p44)
- - [Best AirPods Pro 2 Deals: Score $59 Off from Multiple Retailers on These Splurge-Worthy Earbuds](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On Meta&#39;s earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p44#a240731p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

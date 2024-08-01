@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
- - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 😝 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
- - 👉 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)<!-- MEMES:END -->
+ - 😝 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
+ - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 💣 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 😝 [The winner of the Triathlon after swimming in the Seine.](http://9gag.com/gag/apRrq39)
+ - 👉 [Just a minute](http://9gag.com/gag/ajPq6mQ)<!-- MEMES:END -->
 
 ---
 

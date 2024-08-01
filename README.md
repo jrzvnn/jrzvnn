@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
- - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
- - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
+ - 😝 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 💣 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
+ - 😝 [Wife material](http://9gag.com/gag/a9yWd8m)
+ - 👉 [Can I dad? Yes.](http://9gag.com/gag/aW48QL6)<!-- MEMES:END -->
 
 ---
 

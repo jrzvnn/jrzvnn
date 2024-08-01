@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
  - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
  - 💣 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
  - 😝 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)

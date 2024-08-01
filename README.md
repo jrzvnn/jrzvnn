@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How QAnon Destroys American Families](https://www.wired.com/story/qanon-destroys-american-families/)
+ - [The Twitter for Mac app appears to have been delisted from the App Store; some users say their X accounts were suspended after using the X for iPad app on macOS &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240801/p31#a240801p31)
  - [A watchdog for corporate climate commitments is cracking down on carbon credits](https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset)
  - [The US releases Russian cybercriminals Roman Seleznev and Vladislav Klyushin as part of a prisoner swap that freed 16 people from Russia &lpar;CyberScoop&rpar;](http://www.techmeme.com/240801/p30#a240801p30)
- - [Apple files a motion to dismiss the US DOJ&#39;s antitrust lawsuit, arguing the lawsuit has not demonstrated anticompetitive conduct and would harm innovation &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240801/p29#a240801p29)
- - [Don Lemon sues Elon Musk and X for canceling his talk show](https://www.theverge.com/2024/8/1/24211356/don-lemon-elon-musk-x-lawsuit-talk-show-canceled)
- - [Apple defends business practices in motion to dismiss DOJ lawsuit](https://appleinsider.com/articles/24/08/01/apple-defends-business-practices-in-motion-to-dismiss-doj-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Apple files a motion to dismiss the US DOJ&#39;s antitrust lawsuit, arguing the lawsuit has not demonstrated anticompetitive conduct and would harm innovation &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240801/p29#a240801p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
  - [In a memo to staff, Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if it doesn&#39;t revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)
  - [OpenSecrets: the number of groups lobbying the US government on AI grew from 459 in 2023 to 556 in H1 2024; OpenAI spent $800K in H1 2024, vs. $260K in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240801/p3#a240801p3)
  - [While owning less than 1% of TSMC, the number of retail shareholders hit a new high in 2024, as locals believe TSMC&#39;s success helps Taiwan fend off China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p2#a240801p2)
- - [Document: FirstCry, India&#39;s leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p1#a240801p1)
- - [Best Surge Protector of 2024](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Document: FirstCry, India&#39;s leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p1#a240801p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fo realz tho](http://9gag.com/gag/aVvDQ2y)
- - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 😝 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
+ - 😝 [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
  - 💣 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
- - 😝 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
- - 👉 [Just a minute](http://9gag.com/gag/ajPq6mQ)<!-- MEMES:END -->
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 👉 [Main character vibes](http://9gag.com/gag/ayN8gwM)<!-- MEMES:END -->
 
 ---
 

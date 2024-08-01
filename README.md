@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guatemala just won their first ever golden medal at the Olympics](http://9gag.com/gag/aVvDQm2)
- - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
- - 💣 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
- - 😝 [Wife material](http://9gag.com/gag/a9yWd8m)
- - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
+ - 😝 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
+ - 😝 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
+ - 💣 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 👉 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)<!-- MEMES:END -->
 
 ---
 

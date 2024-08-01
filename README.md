@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
- - 😝 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
- - 💣 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
- - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
+ - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
+ - 😝 [Typical British sea side holiday destination](http://9gag.com/gag/amorLG6)
+ - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
 
 ---
 

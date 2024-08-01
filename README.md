@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)
+ - [Amazon reports Q2 ad revenue up 20% YoY to $12.77B, vs. $13B estimated &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240801/p44#a240801p44)
+ - [How &#39;World of Warcraft&#39; Devs Launched One of the Biggest Unions in Video Games](https://www.wired.com/story/world-of-warcraft-union-vidoe-games-labor/)
  - [Intel plans to cut 15% of its workforce by the end of 2024 as part of a $10B cost reduction plan and will suspend its dividend starting in Q4 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240801/p42#a240801p42)
- - [Apple reports third quarter results &lpar;Apple Inc.&rpar;](http://www.techmeme.com/240801/p43#a240801p43)
- - [The Shameful Controversy Over Olympic Boxer Imane Khelif](https://www.wired.com/story/imane-khelif-olympic-boxer-controversy/)
- - [Snap reports Q2 revenue up 16% YoY to $1.24B vs. $1.25B est., DAUs up 9% YoY to 432M, and forecasts Q3 sales below expectations; SNAP drops 20%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240801/p41#a240801p41)
- - [Amazon reports Q2 AWS revenue up 19% YoY to $26.28B, vs. $26.02B est., and AWS operating income of $9.33B, vs. $8.51B est., up from $5.37B in Q2 2023 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p40#a240801p40)<!-- TECH:END -->
+ - [Apple reports Q3 revenue up 5% YoY to $85.8B, net income up 8% to $21.4B, Americas net sales up 6% to $37.7B, and Europe net sales up 8% to $21.9B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/240801/p43#a240801p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

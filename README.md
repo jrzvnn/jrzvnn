@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Telegram rolls out a Mini App Store to help users find new apps, updates the in-app browser to support multiple tabs, and says its mini apps have 500M MAUs &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240801/p7#a240801p7)
- - [Olympic Tennis 2024: How to Watch Men&#39;s Quarterfinals and Women&#39;s Semifinals Today](https://www.cnet.com/tech/services-and-software/how-to-watch-olympic-tennis-2024/#ftag=CAD590a51e)
- - [Be Your Own DJ With These Expert Spotify Hacks](https://www.cnet.com/tech/services-and-software/be-your-own-dj-with-these-expert-spotify-hacks/#ftag=CAD590a51e)
- - [High-Yield Savings Account Rates Hold High Following Fed Rate Pause -- But They&#39;re Already Starting to Drop, Aug. 1, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-aug-1-2024/#ftag=CAD590a51e)
- - [Some UK business leaders and academics worry the UK rejecting a record number of Chinese students due to fears of espionage puts the UK&#39;s tech ambitions at risk &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/240801/p6#a240801p6)<!-- TECH:END -->
+ - [Some UK business leaders and academics worry the UK rejecting a record number of Chinese students due to fears of espionage puts the UK&#39;s tech ambitions at risk &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/240801/p6#a240801p6)
+ - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
+ - [Staff memo: Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if the company does not revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)
+ - [OpenSecrets: the number of groups lobbying the US government on AI grew from 459 in 2023 to 556 in H1 2024; OpenAI spent $800K in H1 2024, up from $260K in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240801/p3#a240801p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

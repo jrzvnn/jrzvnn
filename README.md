@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In its annual report, Microsoft lists OpenAI as a competitor for the first time in AI offerings and in search and news advertising &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p34#a240801p34)
  - [A UK court sides with Intel in a patent dispute brought by R2 Semiconductor; R2 has filled similar suits against Intel in Germany, France, and Italy &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240801/p33#a240801p33)
  - [Honda and Nissan invite Mitsubishi to join their EV development partnership](https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership)
  - [Google is expanding ‘school time’ to phones and tablets](https://www.theverge.com/2024/8/1/24211399/google-school-time-phones-tablets-expansion)
- - [The Ford Maverick adds AWD to its hybrid lineup](https://www.theverge.com/2024/8/1/24211184/ford-maverick-2025-hybrid-awd-lariat-lobo-pickup-truck)
- - [A Montenegro appeals court upholds a ruling to hand over Terraform Labs co-founder Do Kwon to South Korea, rejecting a bid to extradite him to the US &lpar;Associated Press&rpar;](http://www.techmeme.com/240801/p32#a240801p32)<!-- TECH:END -->
+ - [The Ford Maverick adds AWD to its hybrid lineup](https://www.theverge.com/2024/8/1/24211184/ford-maverick-2025-hybrid-awd-lariat-lobo-pickup-truck)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

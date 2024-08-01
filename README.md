@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Document: FirstCry, India&#39;s leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p1#a240801p1)
+ - [Today&#39;s NYT Mini Crossword Answers for August 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-1/#ftag=CAD590a51e)
  - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
  - [Today&#39;s NYT Connections Hints, Answers and Help for August 1, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-1-417/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for August 1, #1139](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-1-1139/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 1, #151](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-1-151/#ftag=CAD590a51e)
- - [Discord on Xbox adds the ability to watch friends&#39; Discord streams whether they&#39;re sharing from a PC, mobile phone, or Xbox, rolling out over the coming weeks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240731/p46#a240731p46)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for August 1, #1139](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-1-1139/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

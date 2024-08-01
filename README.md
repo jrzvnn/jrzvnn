@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 😝 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
- - 💣 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 😝 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
- - 👉 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)<!-- MEMES:END -->
+ - 😝 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
+ - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 💣 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 😝 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
+ - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Premier League, Bundesliga, DAZN, Sky, UEFA, CONMEBOL, and others write to X CEO Linda Yaccarino demanding more action against illegal soccer content on X &lpar;Tales Azzoni/Associated Press&rpar;](http://www.techmeme.com/240801/p12#a240801p12)
+ - [8 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
  - [Apple Intelligence in iOS 18.1 beta hands-on: meaningful Siri language understanding improvements and Siri text input is nice, but few other notable features &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240801/p11#a240801p11)
  - [Investigation: 2020 to 2023 data shows how thousands of middlemen game the H-1B program and companies that farm out IT workers exploit the US lottery system &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p10#a240801p10)
- - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)
- - [Infosys confirms that Indian authorities hit the IT giant with a $3.9B tax demand, covering July 2017 to March 2022, the latest company to get such a demand &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240801/p9#a240801p9)
- - [Apple brings back dark black for the iPhone 16 Pro](https://appleinsider.com/articles/24/08/01/apple-brings-back-dark-black-for-the-iphone-16-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

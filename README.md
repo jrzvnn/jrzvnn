@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: 2020 to 2023 data shows how thousands of middlemen game the H-1B program and companies that farm out IT workers exploit the US lottery system &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p10#a240801p10)
  - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)
  - [Infosys confirms that Indian authorities hit the IT giant with a $3.9B tax demand, covering July 2017 to March 2022, the latest company to get such a demand &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240801/p9#a240801p9)
  - [Apple brings back dark black for the iPhone 16 Pro](https://appleinsider.com/articles/24/08/01/apple-brings-back-dark-black-for-the-iphone-16-pro?utm_medium=rss)
- - [The Cure for Disposable Plastic Crap Is Here—and It’s Loony](https://www.wired.com/story/the-cure-for-disposable-plastic-crap-is-here-and-its-loony/)
- - [Analysis: Indian startup VC funding has dwindled, depriving India of capital needed to grow its economy, as the valuation of top companies like Byju&#39;s implodes &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240801/p8#a240801p8)<!-- TECH:END -->
+ - [The Cure for Disposable Plastic Crap Is Here—and It’s Loony](https://www.wired.com/story/the-cure-for-disposable-plastic-crap-is-here-and-its-loony/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

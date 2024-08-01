@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon.com Announces Second Quarter Results &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/240801/p37#a240801p37)
+ - [PC emulators are now explicitly allowed on the iPhone and iPad](https://appleinsider.com/articles/24/08/01/pc-emulators-are-now-explicitly-allowed-on-the-iphone-and-ipad?utm_medium=rss)
+ - [Morpho, a decentralized lending developer, raised $50M led by Ribbit Capital, after raising an undisclosed sum earlier in 2024, and $18M in 2022 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240801/p36#a240801p36)
  - [Apple files motion to dismiss DOJ antitrust lawsuit](https://www.theverge.com/2024/8/1/24211386/apple-motion-to-dismiss-doj-antitrust-lawsuit)
- - [Rabbit says a June security breach was caused by an employee who leaked API keys and has since been terminated, and it has revoked and rotated those API keys &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240801/p35#a240801p35)
- - [Delta CEO: ‘When was the last time you heard of a big outage at Apple?’](https://www.theverge.com/2024/8/1/24210680/crowdstrike-microsoft-outage-delta-lawsuit-class-action-damages)
- - [PDP’s once-elusive Riffmaster guitar controller is now readily available](https://www.theverge.com/2024/8/1/24155728/pdp-riffmaster-wireless-guitar-controller-fortnite-festival-rock-band-stock-availability)
- - [Best Cold-Brew Coffee Maker for 2024: Oxo, Takeya, Filtron, Espro and More](https://www.cnet.com/home/kitchen-and-household/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rabbit says a June security breach was caused by an employee who leaked API keys and has since been terminated, and it has revoked and rotated those API keys &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240801/p35#a240801p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

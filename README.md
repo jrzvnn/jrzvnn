@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s AI Act takes effect, triggering compliance deadlines for a range of AI developers and apps; most provisions will be fully applicable by mid-2026 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240801/p15#a240801p15)
  - [OpenAI tells US lawmakers that it is &quot;dedicated&quot; to &quot;rigorous safety protocols at every stage of our process&quot; and is working with the US AI Safety Institute &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240801/p14#a240801p14)
  - [Democrats Have Finally Learned the Value of Shitposting](https://www.wired.com/story/democrats-have-finally-learned-the-value-of-shitposting/)
  - [Sources: the US considers unilateral restrictions on China&#39;s access to AI memory chips and equipment, to keep Micron, SK Hynix, and Samsung from supplying China &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240801/p13#a240801p13)
- - [A $500 Open-Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/)
- - [How Telegram Game &#39;Hamster Kombat&#39; Got 300 Million Users—and the Ire of Iran’s Military](https://www.wired.com/story/telegram-game-hamster-kombat-massive/)<!-- TECH:END -->
+ - [A $500 Open-Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A US judge dismisses a 2022 RNC lawsuit accusing Google of misdirecting its emails to Gmail spam folders, saying the RNC had not made an adequate case &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240801/p28#a240801p28)
  - [Google unveils AI features for Chrome on desktop, including support for Google Lens and searching history via natural language queries, rolling out in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240801/p27#a240801p27)
- - [UAE-based G42 is working with the US and Emirati government &quot;to comply with the highest global standards&quot; in AI, after US lawmakers questioned its China ties &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p26#a240801p26)
- - [To Lead in AI, the US Needs a Silicon Revolution](https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/)
- - [Spectre Divide is a fascinating Valorant-like shooter where you control two bodies](https://www.theverge.com/24211078/spectre-divide-preview-mountaintop-fps-game)<!-- TECH:END -->
+ - [Hurry, Final Few Hours To Grab the Jackery Explorer 290 For Only $180](https://www.cnet.com/deals/hurry-final-few-hours-to-grab-the-jackery-explorer-290-for-only-180/#ftag=CAD590a51e)
+ - [50 Cent to Launch a Free Streaming TV Channel](https://www.cnet.com/tech/services-and-software/50-cent-to-launch-a-free-streaming-tv-channel/#ftag=CAD590a51e)
+ - [UAE-based G42 is working with the US and Emirati government &quot;to comply with the highest global standards&quot; in AI, after US lawmakers questioned its China ties &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p26#a240801p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

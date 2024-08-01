@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a memo to staff, Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if it doesn&#39;t revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)
+ - [OpenSecrets: the number of groups lobbying the US government on AI grew from 459 in 2023 to 556 in H1 2024; OpenAI spent $800K in H1 2024, vs. $260K in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240801/p3#a240801p3)
  - [While owning less than 1% of TSMC, the number of retail shareholders hit a new high in 2024, as locals believe TSMC&#39;s success helps Taiwan fend off China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p2#a240801p2)
  - [Document: FirstCry, India&#39;s leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p1#a240801p1)
- - [Today&#39;s NYT Mini Crossword Answers for August 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-1/#ftag=CAD590a51e)
- - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 1, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-1-417/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for August 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

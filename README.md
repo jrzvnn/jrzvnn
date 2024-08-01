@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
  - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
- - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
- - 💣 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)<!-- MEMES:END -->
+ - 💣 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
+ - 😝 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
+ - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
 
 ---
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)
+ - [Apple Q3 revenue: iPhone down 1% YoY to $39.3B, Mac up 2% to $7.01B, iPad up 24% to $7.16B, and Wearables, Home, and Accessories down 2% to $8.1B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240801/p45#a240801p45)
  - [Amazon reports Q2 ad revenue up 20% YoY to $12.77B, vs. $13B estimated &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240801/p44#a240801p44)
  - [How &#39;World of Warcraft&#39; Devs Launched One of the Biggest Unions in Video Games](https://www.wired.com/story/world-of-warcraft-union-vidoe-games-labor/)
- - [Intel plans to cut 15% of its workforce by the end of 2024 as part of a $10B cost reduction plan and will suspend its dividend starting in Q4 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240801/p42#a240801p42)
- - [Apple reports Q3 revenue up 5% YoY to $85.8B, net income up 8% to $21.4B, Americas net sales up 6% to $37.7B, and Europe net sales up 8% to $21.9B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/240801/p43#a240801p43)<!-- TECH:END -->
+ - [Intel plans to cut 15% of its workforce by the end of 2024 as part of a $10B cost reduction plan and will suspend its dividend starting in Q4 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240801/p42#a240801p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

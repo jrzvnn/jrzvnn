@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 💣 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
- - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 👉 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)<!-- MEMES:END -->
+ - 😝 [Voicemail: \u201cYou have a need message -beep\u201d](http://9gag.com/gag/a1mdM9b)
+ - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 💣 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 

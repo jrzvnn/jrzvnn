@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Quickly Remove Bloatware and Invasive Apps From Your Computer](https://www.wired.com/story/how-to-remove-bloatware-from-your-computer/)
- - [The European Commission unconditionally approves HPE&#39;s $14B takeover of networking gear maker Juniper Networks after finding no competition concerns &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/240801/p20#a240801p20)
- - [Roblox reports Q2 revenue up 31% YoY to $894M, bookings up 22% YoY to $995M, a $206M net loss, average DAUs up 21% YoY to 79.5M, projects Q3 bookings above est. &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240801/p19#a240801p19)
- - [What Project 2025 Means for Big Tech … and Everyone Else](https://www.wired.com/story/project-2025-tech-industry/)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)<!-- TECH:END -->
+ - [Asus Chromebook CM14 Review: An Uber-Cheap Laptop](https://www.wired.com/review/asus-chromebook-cm14/)
+ - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)
+ - [The teens lobbying against the Kids Online Safety Act](https://www.theverge.com/24210795/kosa-kids-online-safety-act-senate-teens-student-lobby)
+ - [How unboxing sneakers got this creator to the PGA](https://www.theverge.com/24210605/jacques-slade-pga-sneaker-unboxing-youtube)
+ - [Apple Vision Pro gestures may spread to the iPhone, iPad, and Mac](https://appleinsider.com/articles/24/08/01/apple-vision-pro-gestures-may-spread-to-the-iphone-ipad-and-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

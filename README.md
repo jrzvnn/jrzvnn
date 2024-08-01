@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple files a motion to dismiss the US DOJ&#39;s antitrust lawsuit, arguing the lawsuit has not demonstrated anticompetitive conduct and would harm innovation &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240801/p29#a240801p29)
  - [Don Lemon sues Elon Musk and X for canceling his talk show](https://www.theverge.com/2024/8/1/24211356/don-lemon-elon-musk-x-lawsuit-talk-show-canceled)
  - [Apple defends business practices in motion to dismiss DOJ lawsuit](https://appleinsider.com/articles/24/08/01/apple-defends-business-practices-in-motion-to-dismiss-doj-lawsuit?utm_medium=rss)
  - [Google adds Chrome AI features that can search your browsing history](https://appleinsider.com/articles/24/08/01/google-adds-chrome-ai-features-that-can-search-your-browsing-history?utm_medium=rss)
- - [Save Up to 50% on Amazon Fire TV Streaming Devices](https://www.cnet.com/deals/save-up-to-50-on-amazon-fire-tv-streaming-devices/#ftag=CAD590a51e)
- - [Best Cooling Comforters of 2024](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to 50% on Amazon Fire TV Streaming Devices](https://www.cnet.com/deals/save-up-to-50-on-amazon-fire-tv-streaming-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

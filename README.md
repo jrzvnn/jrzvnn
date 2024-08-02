@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tuariki Delamere’s Somersault Could Have Launched a New Era in the Olympic Long Jump](https://www.wired.com/story/physics-of-the-banned-front-flip-long-jump/)
+ - [Want to Save Money on Digital Storage? Try These Google Drive Tricks](https://www.cnet.com/tech/services-and-software/want-to-save-money-on-digital-storage-try-these-google-drive-tricks/#ftag=CAD590a51e)
+ - [iOS 18 Beta: Your iPhone&#39;s Maps App Just Got This Helpful New Feature](https://www.cnet.com/tech/services-and-software/ios-18-beta-your-iphones-maps-app-just-got-this-helpful-new-feature/#ftag=CAD590a51e)
  - [How the ‘Slamming Door’ Sound Became Embedded in Hip-Hop History](https://www.wired.com/story/korg-tribe-slam-sound-hip-hop-history/)
- - [Stability AI announces Stable Fast 3D, a generative AI model for rapid 3D asset generation, says it can generate a 3D asset from a single image in 0.5 seconds &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240802/p8#a240802p8)
- - [Nvidia faces two DOJ antitrust probes over market dominance](https://www.theverge.com/2024/8/2/24211810/nvidia-doj-antitrust-probes-ai-market-dominance)
- - [Zomato&#39;s stock raised as much as 19% on August 2 after it reported Q1 profits up 125x to $30.2M, vs. ~$238K a year ago; Zomato&#39;s shares gained 110% in 2024 &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/240802/p7#a240802p7)<!-- TECH:END -->
+ - [Stability AI announces Stable Fast 3D, a generative AI model for rapid 3D asset generation, says it can generate a 3D asset from a single image in 0.5 seconds &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240802/p8#a240802p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

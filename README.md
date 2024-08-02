@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pump and Trump](https://www.theverge.com/24211345/bitcoin-conference-2024-nashville-trump-maga-crypto)
  - [Both iPhone 16 Pro batteries rumored to get significant capacity increase](https://appleinsider.com/articles/24/08/02/both-iphone-16-pro-batteries-rumored-to-get-significant-capacity-increase?utm_medium=rss)
  - [Echo Spot Review &lpar;2024&rpar;: Small and Surprisingly Helpful](https://www.wired.com/review/echo-spot/)
- - [You Won’t Believe What Car Headlights Have in Store](https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/)
- - [Welcome to the Weird Era](https://www.wired.com/story/welcome-to-the-weird-era/)
- - [Tuariki Delamere’s Somersault Could Have Launched a New Era in the Olympic Long Jump](https://www.wired.com/story/physics-of-the-banned-front-flip-long-jump/)<!-- TECH:END -->
+ - [iPhone 16 Design Rumors: What to Expect From the Colors, Cameras and Buttons](https://www.cnet.com/tech/mobile/how-the-iphone-16s-design-may-change/#ftag=CAD590a51e)
+ - [Samsung Galaxy Buds 3 Pro Review: Better Than the AirPods Pro 2 &lpar;in Some Ways&rpar;](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-3-pro-review-better-than-the-airpods-pro-2-in-some-ways/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

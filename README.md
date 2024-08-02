@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple brings back dark black for the iPhone 16 Pro](https://appleinsider.com/articles/24/08/01/apple-brings-back-dark-black-for-the-iphone-16-pro?utm_medium=rss)
  - [A Holdings Corp., a holding company owned equally by SoftBank and Naver, plans to sell down its stake in LY&#39;s ~$1B tender; LY operates Line messaging app &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/240802/p6#a240802p6)
  - [Nintendo reports Q1 revenue down 46.5% YoY to ~$1.65B, vs. ~$1.92B exp., net profit down 55.3% YoY to ~$536M, and Switch sales down 46% YoY to 2.1M units &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240802/p5#a240802p5)
  - [Study: a year after Meta blocked news content in Canada due to the Online News Act, Canadians&#39; total engagement with news content on social media is down 43% &lpar;The Canadian Press&rpar;](http://www.techmeme.com/240802/p4#a240802p4)
- - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)
- - [Sources: Apple in recent months has demanded Tencent and ByteDance close loopholes used by their in-app creators to funnel users to external payment systems &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240802/p2#a240802p2)<!-- TECH:END -->
+ - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

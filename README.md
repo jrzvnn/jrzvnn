@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone Fold to be joined by foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
  - [Character.AI co-founders Noam Shazeer and Daniel De Freitas, and some employees, are joining Google; Google has signed a non-exclusive agreement to use its tech &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240802/p18#a240802p18)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [The Pixel 8 Pro has hit an all-time low ahead of Google’s next hardware event](https://www.theverge.com/2024/8/2/24211397/google-pixel-8-pro-ue-wonderboom-4-bluetooth-speaker-deal-sale)
- - [The US DOJ sues TikTok, saying it collected children&#39;s data without parents&#39; permission, knowingly let users under the age of 13 create accounts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240802/p17#a240802p17)<!-- TECH:END -->
+ - [Best TV in 2024: Tested and Reviewed by TV Experts](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [The Pixel 8 Pro has hit an all-time low ahead of Google’s next hardware event](https://www.theverge.com/2024/8/2/24211397/google-pixel-8-pro-ue-wonderboom-4-bluetooth-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

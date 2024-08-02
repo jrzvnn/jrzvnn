@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple leaning on dominant Chinese companies to comply with App Store payment rules](https://appleinsider.com/articles/24/08/02/apple-leaning-on-dominant-chinese-companies-to-comply-with-app-store-payment-rules?utm_medium=rss)
- - [Pump and Trump](https://www.theverge.com/24211345/bitcoin-conference-2024-nashville-trump-maga-crypto)
- - [Both iPhone 16 Pro batteries rumored to get significant capacity increase](https://appleinsider.com/articles/24/08/02/both-iphone-16-pro-batteries-rumored-to-get-significant-capacity-increase?utm_medium=rss)
- - [Echo Spot Review &lpar;2024&rpar;: Small and Surprisingly Helpful](https://www.wired.com/review/echo-spot/)
- - [You Won’t Believe What Car Headlights Have in Store](https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/)<!-- TECH:END -->
+ - [Berkshire Hathaway may have continued its streak of selling off Apple stock](https://appleinsider.com/articles/24/08/02/berkshire-hathaway-may-have-continued-its-streak-of-selling-off-apple-stock?utm_medium=rss)
+ - [AI music startups say copyright violation is just rock-and-roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
+ - [Apple earnings, Apple Intelligence, and you&#39;ve got a Friend, on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/02/apple-earnings-apple-intelligence-and-youve-got-a-friend-on-the-appleinsider-podcast?utm_medium=rss)
+ - [A profile of, and interview with, former OpenAI board member Helen Toner, who is building a reputation in Washington, DC, as a trusted expert on AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240802/p9#a240802p9)
+ - [MSI Claw Review: Don&#39;t Buy This Gaming Handheld](https://www.wired.com/review/msi-claw/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age old Question](http://9gag.com/gag/aNDdWGG)
- - 😝 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
- - 👉 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)<!-- MEMES:END -->
+ - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
+ - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - 💣 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 😝 [Battle Sister Tattoo](http://9gag.com/gag/ae9Yppb)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

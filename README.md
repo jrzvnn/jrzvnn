@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI announces Stable Fast 3D, a generative AI model for rapid 3D asset generation, says it can generate a 3D asset from a single image in 0.5 seconds &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240802/p8#a240802p8)
+ - [Nvidia faces two DOJ antitrust probes over market dominance](https://www.theverge.com/2024/8/2/24211810/nvidia-doj-antitrust-probes-ai-market-dominance)
  - [Zomato&#39;s stock raised as much as 19% on August 2 after it reported Q1 profits up 125x to $30.2M, vs. ~$238K a year ago; Zomato&#39;s shares gained 110% in 2024 &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/240802/p7#a240802p7)
  - [Apple brings back dark black for the iPhone 16 Pro](https://appleinsider.com/articles/24/08/01/apple-brings-back-dark-black-for-the-iphone-16-pro?utm_medium=rss)
- - [A Holdings Corp., a holding company owned equally by SoftBank and Naver, plans to sell down its stake in LY&#39;s ~$1B tender; LY operates Line messaging app &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/240802/p6#a240802p6)
- - [Nintendo reports Q1 revenue down 46.5% YoY to ~$1.65B, vs. ~$1.92B exp., net profit down 55.3% YoY to ~$536M, and Switch sales down 46% YoY to 2.1M units &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240802/p5#a240802p5)
- - [Study: a year after Meta blocked news content in Canada due to the Online News Act, Canadians&#39; total engagement with news content on social media is down 43% &lpar;The Canadian Press&rpar;](http://www.techmeme.com/240802/p4#a240802p4)<!-- TECH:END -->
+ - [Got an Extra AirTag? Leave It in Your Luggage or One of These Locations](https://www.cnet.com/tech/mobile/you-might-want-to-stash-an-airtag-in-one-of-these-spots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

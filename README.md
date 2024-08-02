@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tesla sues maker of ‘highly unsafe’ breakaway EV charging adapters](https://www.theverge.com/2024/8/2/24212160/tesla-evject-lawsuit-escape-connector-dangerous-hot)
+ - [Best PlayStation Deals: Last Few Days to Grab Games and Gear at Low Prices](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
+ - [Shop Smarter, Not Harder. This Money-Saving Back-to-School Tip is a Game-Changer](https://www.cnet.com/personal-finance/banking/shop-smarter-not-harder-this-money-saving-back-to-school-tip-is-a-game-changer/#ftag=CAD590a51e)
  - [Trump says Zuckerberg called him after the assassination attempt and told Trump he wouldn&#39;t endorse a Democrat because he &quot;respected&quot; Trump&#39;s reaction that day &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240802/p22#a240802p22)
- - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)
- - [US sues TikTok for collecting kids’ data without parents’ permission](https://www.theverge.com/2024/8/2/24212095/us-vs-tiktok-sue-children-privacy-law)
- - [Crypto lender Genesis and related companies complete their bankruptcy restructuring and begin distributing ~$4B in digital assets and cash to creditors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240802/p21#a240802p21)<!-- TECH:END -->
+ - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
+ - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
+ - 💣 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
  - 😝 [Dad strength will not be denied](http://9gag.com/gag/ae9YGLO)
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 💣 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 👉 [Premature celebration backfires](http://9gag.com/gag/awy5b08)<!-- MEMES:END -->
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
+ - 😝 [Still the best unscripted moment on TV](http://9gag.com/gag/aMVw9dW)
+ - 😝 [Trump broke the Internet today, again.](http://9gag.com/gag/aO8dbGr)
+ - 💣 [Even the dog is shocked!](http://9gag.com/gag/aMVwQQV)
  - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 💣 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
- - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
  - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---

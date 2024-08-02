@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dating Someone New? Here&#39;s How to Talk About Money &lpar;and Why You Should&rpar;](https://www.cnet.com/personal-finance/banking/dating-someone-new-heres-how-to-talk-about-money-and-why-you-should/#ftag=CAD590a51e)
  - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
- - [10 Simple Ways You Can Support Your Eye Health Every Day](https://www.cnet.com/health/personal-care/ways-support-eye-health-every-day/#ftag=CAD590a51e)
- - [How to Safely Dispose of an Old or Broken Propane Tank](https://www.cnet.com/news/how-to-properly-dispose-of-propane-tanks/#ftag=CAD590a51e)
- - [The iPhone 16, Pixel 9 Pro and Other Top Phones We Still May See in 2024](https://www.cnet.com/tech/mobile/iphone-16-pixel-9-pro-top-phones-we-expect-in-2024/#ftag=CAD590a51e)
- - [Sleep Like an Olympian: How Two USA Rugby Athletes Get Quality Sleep](https://www.cnet.com/health/sleep/sleep-like-an-olympian-how-two-usa-rugby-athletes-get-quality-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Make This Easy Air Fryer Chicken at Least Twice a Week, and It&#39;s Not Wings](https://www.cnet.com/how-to/i-make-this-air-fryer-chicken-at-least-twice-a-week-and-its-not-wings/#ftag=CAD590a51e)
+ - [Best VPN Deals: Get Discounts on Surfshark, ExpressVPN, NordVPN and More](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
+ - [YouTube TV vs. Hulu Plus Live TV: Top TV Streaming Services Compared](https://www.cnet.com/tech/services-and-software/youtube-tv-vs-hulu-plus-live-tv-rated-the-pros-and-cons-of-each-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

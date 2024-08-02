@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Clear Your Watch History on Netflix, Apple TV+, YouTube, and More](https://www.wired.com/story/how-to-clear-your-watch-history-on-netflix-apple-tv-youtube/)
  - [The UK&#39;s NCA shuts down Russian Coms, a caller ID spoofing platform used by hundreds of criminals to make 1.8M+ scam calls in 107 countries since 2021 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240802/p11#a240802p11)
  - [Another Apple ad campaign crashes and burns under pressure from viewers](https://appleinsider.com/articles/24/08/02/another-apple-ad-campaign-crashes-and-burns-under-pressure-from-viewers?utm_medium=rss)
  - [Trump&#39;s Crypto Embrace Could Be a Disaster for Bitcoin](https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/)
- - [Best Healthy Meal Delivery Services of 2024, Tested and Reviewed](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Smart Home Tech for Back-to-School in 2024](https://www.cnet.com/home/smart-home/best-smart-home-tech-for-back-to-school/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Healthy Meal Delivery Services of 2024, Tested and Reviewed](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

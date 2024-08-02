@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: a year after Meta blocked news content in Canada due to the Online News Act, Canadians&#39; total engagement with news content on social media is down 43% &lpar;The Canadian Press&rpar;](http://www.techmeme.com/240802/p4#a240802p4)
  - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)
  - [Sources: Apple in recent months has demanded Tencent and ByteDance close loopholes used by their in-app creators to funnel users to external payment systems &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240802/p2#a240802p2)
  - [Infoblox and Eclypsium: since 2018, Russian hackers hijacked 35K+ registered domains using Sitting Ducks attacks that involve exploiting DNS configuration flaws &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240802/p1#a240802p1)
- - [Today&#39;s NYT Mini Crossword Answers for August 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-2/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for August 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

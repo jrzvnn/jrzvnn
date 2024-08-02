@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off Home Switching in the iOS 17.6 Home app](https://appleinsider.com/inside/homekit/tips/how-to-turn-off-home-switching-in-the-ios-176-home-app?utm_medium=rss)
+ - [Google Ads used to distribute Mac malware disguised as &#39;Loom&#39; app](https://appleinsider.com/articles/24/08/02/google-ads-used-to-distribute-mac-malware-disguised-as-loom-app?utm_medium=rss)
+ - [No, The Seine Cleanup Wasn&#39;t a Failure](https://www.wired.com/story/no-the-seine-cleanup-wasnt-a-failure/)
  - [A look at Musk-backed America PAC&#39;s &quot;Register to Vote&quot; online campaign, which collects users&#39; personal data in swing states, but does not help them register &lpar;Brian Schwartz/CNBC&rpar;](http://www.techmeme.com/240802/p16#a240802p16)
- - [The Audi Q8 E-tron’s new S-line appearance package could be its last hurrah](https://www.theverge.com/2024/8/2/24211884/audi-q8-e-tron-s-line-appearance-package-falling-ev-sales)
- - [Apple is apologizing for one of its ads again](https://www.theverge.com/2024/8/2/24212005/apple-thailand-ad-pulled-underdogs-out-of-office)
- - [Best Bluetooth Speaker for 2024](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [Best Prepaid Phone Plans for August 2024](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Audi Q8 E-tron’s new ‘S line’ appearance package could be its last hurrah](https://www.theverge.com/2024/8/2/24211884/audi-q8-e-tron-s-line-appearance-package-falling-ev-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

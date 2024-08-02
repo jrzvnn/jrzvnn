@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US sues TikTok for collecting kids’ data without parents’ permission](https://www.theverge.com/2024/8/2/24212095/us-vs-tiktok-sue-children-privacy-law)
+ - [Crypto lender Genesis and related companies complete their bankruptcy restructuring and begin distributing ~$4B in digital assets and cash to creditors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240802/p21#a240802p21)
  - [Trump and Zuck relationship status: complicated](https://www.theverge.com/2024/8/2/24212119/trump-zuckerberg-meta-facebook-google-interview)
  - [Google pulls Gemini AI ad from Olympics after backlash](https://www.theverge.com/2024/8/2/24212078/google-gemini-olympics-ad-backlash)
- - [Sources: Revolut has told staff it is launching a sale of up to $500M worth of existing shares at a $45B valuation; former employees are ineligible &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240802/p20#a240802p20)
- - [Character.AI told staff that investors will be bought out at a valuation of ~2.5x its $1B 2023 valuation, and it plans to adopt open-source models for products &lpar;The Information&rpar;](http://www.techmeme.com/240802/p19#a240802p19)
- - [iPhone Fold to be joined by foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Revolut has told staff it is launching a sale of up to $500M worth of existing shares at a $45B valuation; former employees are ineligible &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240802/p20#a240802p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

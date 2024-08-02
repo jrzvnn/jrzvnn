@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon extends $299 iPad 10th Gen deal into August](https://appleinsider.com/articles/24/08/02/amazon-extends-299-ipad-10th-gen-deal-into-august?utm_medium=rss)
+ - [Intel extends the warranty for its boxed Core 13th and 14th Gen desktop processors by an additional two years, due to customers experiencing instability issues &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240801/p56#a240801p56)
+ - [Amazon forecasts Q3 revenue below estimates and reports slowing online stores sales growth of 5% YoY in Q2, vs. a growth of 7% in Q1; AMZN drops 6%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p55#a240801p55)
  - [Twilio reports Q2 revenue up 4% YoY to $1.08B, vs. $1.06B est., 316K+ active customer accounts as of June 30, vs. 304K+ a year ago; TWLO jumps 6%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240801/p54#a240801p54)
- - [Intel’s crashing 13th and 14th Gen CPUs get two additional years of warranty coverage](https://www.theverge.com/2024/8/1/24211616/intel-crashing-13th-14th-gen-cpus-warranty-two-more-years)
- - [Cloudflare reports Q2 revenue up 30% YoY to $401M, vs. $394.7M est., and raises its full-year 2024 forecast; NET jumps 10%+ after hours &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240801/p53#a240801p53)
- - [Apple&#39;s Q3 revenue in Greater China was down 6.5% YoY to $14.7B , up 5.7% YoY to $5.1B in Japan, and up 13.5% YoY to $6.4B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240801/p52#a240801p52)
- - [Net neutrality is on ice](https://www.theverge.com/2024/8/1/24211570/net-neutrality-sixth-circuit-stay-blocked-fcc)<!-- TECH:END -->
+ - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

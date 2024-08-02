@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
  - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 😝 [Premature celebration backfires](http://9gag.com/gag/awy5b08)
- - 💣 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 👉 [Thats what she said.](http://9gag.com/gag/aD2jj0O)<!-- MEMES:END -->
+ - 💣 [Age old Question](http://9gag.com/gag/aNDdWGG)
+ - 😝 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
+ - 👉 [Elon on absolute demon time \ud83d\ude08](http://9gag.com/gag/a0edjzZ)<!-- MEMES:END -->
 
 ---
 

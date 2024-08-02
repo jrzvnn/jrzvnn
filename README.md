@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Trick Could Block the Misuse of Open Source AI](https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/)
  - [Surface Pro 11 review: OLED display is vibrant, Flex Keyboard is magic, hardware is solid, but it&#39;s costly, not all x86 apps run well, AI features are skippable &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/240802/p13#a240802p13)
  - [Dating Someone New? Here&#39;s How to Talk About Money &lpar;and Why You Should&rpar;](https://www.cnet.com/personal-finance/banking/dating-someone-new-heres-how-to-talk-about-money-and-why-you-should/#ftag=CAD590a51e)
  - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
- - [I Make This Easy Air Fryer Chicken at Least Twice a Week, and It&#39;s Not Wings](https://www.cnet.com/how-to/i-make-this-air-fryer-chicken-at-least-twice-a-week-and-its-not-wings/#ftag=CAD590a51e)
- - [Best VPN Deals: Get Discounts on Surfshark, ExpressVPN, NordVPN and More](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Make This Easy Air Fryer Chicken at Least Twice a Week, and It&#39;s Not Wings](https://www.cnet.com/how-to/i-make-this-air-fryer-chicken-at-least-twice-a-week-and-its-not-wings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

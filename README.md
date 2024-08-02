@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [US sues TikTok for collecting kids’ data without parents’ permission](https://www.theverge.com/2024/8/2/24212095/us-vs-tiktok-sue-children-privacy-law)
  - [Crypto lender Genesis and related companies complete their bankruptcy restructuring and begin distributing ~$4B in digital assets and cash to creditors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240802/p21#a240802p21)
  - [Trump and Zuck relationship status: complicated](https://www.theverge.com/2024/8/2/24212119/trump-zuckerberg-meta-facebook-google-interview)
- - [Google pulls Gemini AI ad from Olympics after backlash](https://www.theverge.com/2024/8/2/24212078/google-gemini-olympics-ad-backlash)
- - [Sources: Revolut has told staff it is launching a sale of up to $500M worth of existing shares at a $45B valuation; former employees are ineligible &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240802/p20#a240802p20)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for August 2 Get Kind Of Meta](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-2/#ftag=CAD590a51e)
+ - [Yes, Your Wi-Fi Can Get Hacked. Here&#39;s How to Secure Your Network](https://www.cnet.com/home/internet/protect-your-wi-fi-security-and-prevent-network-hacking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla sues maker of ‘highly unsafe’ breakaway EV charging adapters](https://www.theverge.com/2024/8/2/24212160/tesla-evject-lawsuit-escape-connector-dangerous-hot)
  - [Trump says Zuckerberg called him after the assassination attempt and told Trump he wouldn&#39;t endorse a Democrat because he &quot;respected&quot; Trump&#39;s reaction that day &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240802/p22#a240802p22)
  - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)
  - [US sues TikTok for collecting kids’ data without parents’ permission](https://www.theverge.com/2024/8/2/24212095/us-vs-tiktok-sue-children-privacy-law)
- - [Crypto lender Genesis and related companies complete their bankruptcy restructuring and begin distributing ~$4B in digital assets and cash to creditors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240802/p21#a240802p21)
- - [Trump and Zuck relationship status: complicated](https://www.theverge.com/2024/8/2/24212119/trump-zuckerberg-meta-facebook-google-interview)<!-- TECH:END -->
+ - [Crypto lender Genesis and related companies complete their bankruptcy restructuring and begin distributing ~$4B in digital assets and cash to creditors &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240802/p21#a240802p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

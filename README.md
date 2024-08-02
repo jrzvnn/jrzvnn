@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
  - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 💣 [Age old Question](http://9gag.com/gag/aNDdWGG)
+ - 😝 [Age old Question](http://9gag.com/gag/aNDdWGG)
+ - 💣 [Let them fight](http://9gag.com/gag/aD2jG6d)
  - 😝 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
  - 👉 [Elon on absolute demon time \ud83d\ude08](http://9gag.com/gag/a0edjzZ)<!-- MEMES:END -->
 

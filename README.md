@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 💣 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
  - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 👉 [Premature celebration backfires](http://9gag.com/gag/awy5b08)<!-- MEMES:END -->
+ - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - 💣 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

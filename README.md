@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 😝 [Angela Carini\u2019s choice to withdraw from the match against a trans woman shows common sense in an otherwise poorly managed event. Her decision highlights the event\u2019s lack of fairness and respect.](http://9gag.com/gag/azxrVYp)
+ - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
+ - 💣 [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
  - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 💣 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 😝 [Gold medal from wish](http://9gag.com/gag/awy5xRy)
- - 👉 [Premature celebration backfires](http://9gag.com/gag/awy5b08)<!-- MEMES:END -->
+ - 👉 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 💣 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 😝 [Maduro says he can&#39;t show the true election result because Elon Musk hacked the National Electoral Council of Venezuela...](http://9gag.com/gag/aQzMMqW)
- - 👉 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)<!-- MEMES:END -->
+ - 😝 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
+ - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
+ - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
+ - 👉 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)<!-- MEMES:END -->
 
 ---
 

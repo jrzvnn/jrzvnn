@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edifier Stax Spirit S5 Headphones Review: Great Sound, No Noise Canceling](https://www.wired.com/review/edifier-stax-spirit-s5/)
- - [Kamala Harris and the Paradox of Progress](https://www.wired.com/story/kamala-harris-and-the-paradox-of-progress/)
- - [This online puzzle community has a fresh twist on battle passes](https://www.theverge.com/2024/8/2/24211408/puzzmo-pile-up-poker-battle-pass-zach-gage)
- - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
- - [A special committee of 23andMe&#39;s board says it&#39;s not &quot;prepared to move forward&quot; with CEO Anne Wojcicki&#39;s $0.40 per share offer to take the company private &lpar;Kristen V Brown/Bloomberg&rpar;](http://www.techmeme.com/240802/p12#a240802p12)<!-- TECH:END -->
+ - [10 Simple Ways You Can Support Your Eye Health Every Day](https://www.cnet.com/health/personal-care/ways-support-eye-health-every-day/#ftag=CAD590a51e)
+ - [How to Safely Dispose of an Old or Broken Propane Tank](https://www.cnet.com/news/how-to-properly-dispose-of-propane-tanks/#ftag=CAD590a51e)
+ - [The iPhone 16, Pixel 9 Pro and Other Top Phones We Still May See in 2024](https://www.cnet.com/tech/mobile/iphone-16-pixel-9-pro-top-phones-we-expect-in-2024/#ftag=CAD590a51e)
+ - [Sleep Like an Olympian: How Two USA Rugby Athletes Get Quality Sleep](https://www.cnet.com/health/sleep/sleep-like-an-olympian-how-two-usa-rugby-athletes-get-quality-sleep/#ftag=CAD590a51e)
+ - [Edifier Stax Spirit S5 Headphones Review: Great Sound, No Noise Canceling](https://www.wired.com/review/edifier-stax-spirit-s5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

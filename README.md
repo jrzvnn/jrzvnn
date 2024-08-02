@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump broke the Internet today, again.](http://9gag.com/gag/aO8dbGr)
  - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 💣 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 😝 [The jiggles](http://9gag.com/gag/a347dOr)
+ - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

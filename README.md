@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 😝 [Age old Question](http://9gag.com/gag/aNDdWGG)
- - 💣 [Let them fight](http://9gag.com/gag/aD2jG6d)
- - 😝 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
- - 👉 [Elon on absolute demon time \ud83d\ude08](http://9gag.com/gag/a0edjzZ)<!-- MEMES:END -->
+ - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 💣 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 👉 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)<!-- MEMES:END -->
 
 ---
 

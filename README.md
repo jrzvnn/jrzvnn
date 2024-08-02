@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to Safely Dispose of an Old or Broken Propane Tank](https://www.cnet.com/news/how-to-properly-dispose-of-propane-tanks/#ftag=CAD590a51e)
  - [The iPhone 16, Pixel 9 Pro and Other Top Phones We Still May See in 2024](https://www.cnet.com/tech/mobile/iphone-16-pixel-9-pro-top-phones-we-expect-in-2024/#ftag=CAD590a51e)
  - [Sleep Like an Olympian: How Two USA Rugby Athletes Get Quality Sleep](https://www.cnet.com/health/sleep/sleep-like-an-olympian-how-two-usa-rugby-athletes-get-quality-sleep/#ftag=CAD590a51e)
- - [Edifier Stax Spirit S5 Headphones Review: Great Sound, No Noise Canceling](https://www.wired.com/review/edifier-stax-spirit-s5/)<!-- TECH:END -->
+ - [Kamala Harris and the Paradox of Progress](https://www.wired.com/story/kamala-harris-and-the-paradox-of-progress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

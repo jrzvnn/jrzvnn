@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
  - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 💣 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
+ - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
  - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Both iPhone 16 Pro batteries rumored to get significant capacity increase](https://appleinsider.com/articles/24/08/02/both-iphone-16-pro-batteries-rumored-to-get-significant-capacity-increase?utm_medium=rss)
+ - [Echo Spot Review &lpar;2024&rpar;: Small and Surprisingly Helpful](https://www.wired.com/review/echo-spot/)
  - [You Won’t Believe What Car Headlights Have in Store](https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/)
  - [Welcome to the Weird Era](https://www.wired.com/story/welcome-to-the-weird-era/)
- - [Tuariki Delamere’s Somersault Could Have Launched a New Era in the Olympic Long Jump](https://www.wired.com/story/physics-of-the-banned-front-flip-long-jump/)
- - [Want to Save Money on Digital Storage? Try These Google Drive Tricks](https://www.cnet.com/tech/services-and-software/want-to-save-money-on-digital-storage-try-these-google-drive-tricks/#ftag=CAD590a51e)
- - [iOS 18 Beta: Your iPhone&#39;s Maps App Just Got This Helpful New Feature](https://www.cnet.com/tech/services-and-software/ios-18-beta-your-iphones-maps-app-just-got-this-helpful-new-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tuariki Delamere’s Somersault Could Have Launched a New Era in the Olympic Long Jump](https://www.wired.com/story/physics-of-the-banned-front-flip-long-jump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

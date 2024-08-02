@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Another Apple ad campaign crashes and burns under pressure from viewers](https://appleinsider.com/articles/24/08/02/another-apple-ad-campaign-crashes-and-burns-under-pressure-from-viewers?utm_medium=rss)
+ - [Trump&#39;s Crypto Embrace Could Be a Disaster for Bitcoin](https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/)
+ - [Surface Pro 11 review: tantalizingly close to the dream](https://www.theverge.com/24191243/microsoft-surface-pro-11-oled-review)
  - [An Indian tribunal orders a halt on insolvency proceedings against Byju&#39;s, days after Byju&#39;s settled a $19M payments dispute case with the Indian cricket board &lpar;Arpan Chaturvedi/Reuters&rpar;](http://www.techmeme.com/240802/p10#a240802p10)
- - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
- - [Berkshire Hathaway may have continued its streak of selling off Apple stock](https://appleinsider.com/articles/24/08/02/berkshire-hathaway-may-have-continued-its-streak-of-selling-off-apple-stock?utm_medium=rss)
- - [AI music startups say copyright violation is just rock and roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
- - [Apple earnings, Apple Intelligence, and you&#39;ve got a Friend, on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/02/apple-earnings-apple-intelligence-and-youve-got-a-friend-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

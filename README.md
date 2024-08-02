@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MrBeast blames terrible Beast Games conditions on the CrowdStrike outage](https://www.theverge.com/2024/8/2/24212298/mrbeast-beast-games-crowdstrike)
  - [Data breach notifications show US pharmaceutical giant Cencora has notified at least 1.43M individuals that their data was compromised in a February data breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240802/p25#a240802p25)
  - [I Tried Breville&#39;s New $2,000 Oracle Jet Espresso Machine](https://www.cnet.com/home/kitchen-and-household/breville-oracle-jet-review/#ftag=CAD590a51e)
  - [Best Floodlight Home Security Cameras of 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras-of-2024/#ftag=CAD590a51e)
- - [Best Desks of 2024](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Best Pizza Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Desks of 2024](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

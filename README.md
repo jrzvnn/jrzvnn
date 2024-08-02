@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
  - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 😝 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
- - 💣 [Age old Question](http://9gag.com/gag/aNDdWGG)
- - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 💣 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

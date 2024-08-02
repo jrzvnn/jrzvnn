@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 😝 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
- - 💣 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
- - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 😝 [Gold medal from wish](http://9gag.com/gag/awy5xRy)
+ - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
+ - 💣 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
+ - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

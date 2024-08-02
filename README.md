@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Indian tribunal orders a halt on insolvency proceedings against Byju&#39;s, days after Byju&#39;s settled a $19M payments dispute case with the Indian cricket board &lpar;Arpan Chaturvedi/Reuters&rpar;](http://www.techmeme.com/240802/p10#a240802p10)
+ - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
  - [Berkshire Hathaway may have continued its streak of selling off Apple stock](https://appleinsider.com/articles/24/08/02/berkshire-hathaway-may-have-continued-its-streak-of-selling-off-apple-stock?utm_medium=rss)
- - [AI music startups say copyright violation is just rock-and-roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
- - [Apple earnings, Apple Intelligence, and you&#39;ve got a Friend, on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/02/apple-earnings-apple-intelligence-and-youve-got-a-friend-on-the-appleinsider-podcast?utm_medium=rss)
- - [A profile of, and interview with, former OpenAI board member Helen Toner, who is building a reputation in Washington, DC, as a trusted expert on AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240802/p9#a240802p9)
- - [MSI Claw Review: Don&#39;t Buy This Gaming Handheld](https://www.wired.com/review/msi-claw/)<!-- TECH:END -->
+ - [AI music startups say copyright violation is just rock and roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
+ - [Apple earnings, Apple Intelligence, and you&#39;ve got a Friend, on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/02/apple-earnings-apple-intelligence-and-youve-got-a-friend-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

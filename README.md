@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is offering Hollywood celebrities millions of dollars for the right to use their voices for AI projects; SAG-AFTRA has agreed to a deal &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240802/p24#a240802p24)
  - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
  - [Intel shares fall 26% to close at $21.48 in their biggest drop since 1974, after the company reported a big earnings miss; Intel&#39;s market cap is now below $100B &lpar;CNBC&rpar;](http://www.techmeme.com/240802/p23#a240802p23)
  - [Tesla sues maker of ‘highly unsafe’ breakaway EV charging adapters](https://www.theverge.com/2024/8/2/24212160/tesla-evject-lawsuit-escape-connector-dangerous-hot)
- - [Best PlayStation Deals: Last Few Days to Grab Games and Gear at Low Prices](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
- - [Shop Smarter, Not Harder. This Money-Saving Back-to-School Tip is a Game-Changer](https://www.cnet.com/personal-finance/banking/shop-smarter-not-harder-this-money-saving-back-to-school-tip-is-a-game-changer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best PlayStation Deals: Last Few Days to Grab Games and Gear at Low Prices](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

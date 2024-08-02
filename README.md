@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 💣 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)
- - 😝 [How the turns tables](http://9gag.com/gag/a6ZMQpe)
- - 👉 [I&#39;m too high for this shit damn](http://9gag.com/gag/a7oZbRr)<!-- MEMES:END -->
+ - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - 💣 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

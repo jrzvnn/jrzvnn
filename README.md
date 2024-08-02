@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 💣 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
- - 😝 [Dad strength will not be denied](http://9gag.com/gag/ae9YGLO)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 😝 [Angela Carini\u2019s choice to withdraw from the match against a trans woman shows common sense in an otherwise poorly managed event. Her decision highlights the event\u2019s lack of fairness and respect.](http://9gag.com/gag/azxrVYp)
+ - 😝 [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
+ - 💣 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
+ - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
+ - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
 
 ---
 

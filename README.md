@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angela Carini\u2019s choice to withdraw from the match against a trans woman shows common sense in an otherwise poorly managed event. Her decision highlights the event\u2019s lack of fairness and respect.](http://9gag.com/gag/azxrVYp)
- - 😝 [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
- - 💣 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
+ - 😝 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
+ - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 👉 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)<!-- MEMES:END -->
 
 ---
 

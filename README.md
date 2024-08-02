@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
  - [10 Simple Ways You Can Support Your Eye Health Every Day](https://www.cnet.com/health/personal-care/ways-support-eye-health-every-day/#ftag=CAD590a51e)
  - [How to Safely Dispose of an Old or Broken Propane Tank](https://www.cnet.com/news/how-to-properly-dispose-of-propane-tanks/#ftag=CAD590a51e)
  - [The iPhone 16, Pixel 9 Pro and Other Top Phones We Still May See in 2024](https://www.cnet.com/tech/mobile/iphone-16-pixel-9-pro-top-phones-we-expect-in-2024/#ftag=CAD590a51e)
- - [Sleep Like an Olympian: How Two USA Rugby Athletes Get Quality Sleep](https://www.cnet.com/health/sleep/sleep-like-an-olympian-how-two-usa-rugby-athletes-get-quality-sleep/#ftag=CAD590a51e)
- - [Kamala Harris and the Paradox of Progress](https://www.wired.com/story/kamala-harris-and-the-paradox-of-progress/)<!-- TECH:END -->
+ - [Sleep Like an Olympian: How Two USA Rugby Athletes Get Quality Sleep](https://www.cnet.com/health/sleep/sleep-like-an-olympian-how-two-usa-rugby-athletes-get-quality-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

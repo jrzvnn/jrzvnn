@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
- - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 😝 [Yay or nay](http://9gag.com/gag/aGy09gK)
- - 👉 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)<!-- MEMES:END -->
+ - 😝 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
+ - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 💣 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - 👉 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)<!-- MEMES:END -->
 
 ---
 

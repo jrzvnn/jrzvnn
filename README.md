@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 😝 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
- - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
- - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
+ - 😝 [The jiggles](http://9gag.com/gag/a347dOr)
+ - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
+ - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 😝 [Maduro says he can&#39;t show the true election result because Elon Musk hacked the National Electoral Council of Venezuela...](http://9gag.com/gag/aQzMMqW)
+ - 👉 [Still the best unscripted moment on TV](http://9gag.com/gag/aMVw9dW)<!-- MEMES:END -->
 
 ---
 

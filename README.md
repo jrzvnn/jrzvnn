@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
- - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 💣 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
+ - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
  - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 👉 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)<!-- MEMES:END -->
+ - 💣 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - 😝 [Gold medal from wish](http://9gag.com/gag/awy5xRy)
+ - 👉 [Premature celebration backfires](http://9gag.com/gag/awy5b08)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17&#39;s front camera may double the resolution to 24MP](https://appleinsider.com/articles/24/08/02/iphone-17s-front-camera-may-double-the-resolution-to-24mp?utm_medium=rss)
- - [Google pulled an Olympics TV ad where a father uses Gemini to help his daughter write a personal letter to an athlete, after criticisms the ad was tone deaf &lpar;Asa Hiken/Ad Age&rpar;](http://www.techmeme.com/240802/p14#a240802p14)
- - [Valorant launches on Xbox Series S / X and PS5](https://www.theverge.com/2024/8/2/24211812/valorant-console-launch-xbox-series-s-x-ps5-download)
- - [A New Trick Could Block the Misuse of Open Source AI](https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/)
- - [Surface Pro 11 review: OLED display is vibrant, Flex Keyboard is magic, hardware is solid, but it&#39;s costly, not all x86 apps run well, AI features are skippable &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/240802/p13#a240802p13)<!-- TECH:END -->
+ - [Sensitive Illinois Voter Data Exposed by Contractor&#39;s Unsecured Databases](https://www.wired.com/story/illinois-voter-databases-exposed/)
+ - [Hands on: Siri starts to get better thanks to Apple Intelligence](https://appleinsider.com/articles/24/08/02/hands-on-siri-starts-to-get-better-thanks-to-apple-intelligence?utm_medium=rss)
+ - [UK shelves promised &amp;pound;800M for Edinburgh University exascale supercomputer and &amp;pound;500M for AI Research Resource, saying former government never allocated the funds &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/240802/p15#a240802p15)
+ - [Game Informer is shutting down](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
+ - [iPhone 17&#39;s front camera may double the resolution to 24MP](https://appleinsider.com/articles/24/08/02/iphone-17s-front-camera-may-double-the-resolution-to-24mp?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

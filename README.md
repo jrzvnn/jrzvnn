@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The jiggles](http://9gag.com/gag/a347dOr)
+ - 😝 [Uh ?](http://9gag.com/gag/a4PZL8y)
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
  - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 😝 [Maduro says he can&#39;t show the true election result because Elon Musk hacked the National Electoral Council of Venezuela...](http://9gag.com/gag/aQzMMqW)
- - 👉 [Still the best unscripted moment on TV](http://9gag.com/gag/aMVw9dW)<!-- MEMES:END -->
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 

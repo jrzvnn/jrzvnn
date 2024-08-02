@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Character.AI co-founders Noam Shazeer and Daniel De Freitas, and some employees, are joining Google; Google has signed a non-exclusive agreement to use its tech &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240802/p18#a240802p18)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [The Pixel 8 Pro has hit an all-time low ahead of Google’s next hardware event](https://www.theverge.com/2024/8/2/24211397/google-pixel-8-pro-ue-wonderboom-4-bluetooth-speaker-deal-sale)
  - [The US DOJ sues TikTok, saying it collected children&#39;s data without parents&#39; permission, knowingly let users under the age of 13 create accounts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240802/p17#a240802p17)
- - [How to turn off Home Switching in the iOS 17.6 Home app](https://appleinsider.com/inside/homekit/tips/how-to-turn-off-home-switching-in-the-ios-176-home-app?utm_medium=rss)
- - [Google Ads used to distribute Mac malware disguised as &#39;Loom&#39; app](https://appleinsider.com/articles/24/08/02/google-ads-used-to-distribute-mac-malware-disguised-as-loom-app?utm_medium=rss)
- - [No, the Seine Cleanup Wasn’t a Failure](https://www.wired.com/story/no-the-seine-cleanup-wasnt-a-failure/)
- - [A look at Musk-backed America PAC&#39;s &quot;Register to Vote&quot; online campaign, which collects users&#39; personal data in swing states, but does not help them register &lpar;Brian Schwartz/CNBC&rpar;](http://www.techmeme.com/240802/p16#a240802p16)<!-- TECH:END -->
+ - [How to turn off Home Switching in the iOS 17.6 Home app](https://appleinsider.com/inside/homekit/tips/how-to-turn-off-home-switching-in-the-ios-176-home-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

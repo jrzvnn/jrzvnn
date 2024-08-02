@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Contextual AI, which offers retrieval augmented generation tools for enterprises, raised an $80M Series A led by Greycroft; PitchBook values Contextual at $609M &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240801/p58#a240801p58)
+ - [Sources: the US DOJ is investigating Nvidia&#39;s acquisition of Israeli AI infrastructure orchestration and management service Run:ai on antitrust grounds &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240801/p57#a240801p57)
  - [Amazon extends $299 iPad 10th Gen deal into August](https://appleinsider.com/articles/24/08/02/amazon-extends-299-ipad-10th-gen-deal-into-august?utm_medium=rss)
  - [Intel extends the warranty for its boxed Core 13th and 14th Gen desktop processors by an additional two years, due to customers experiencing instability issues &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240801/p56#a240801p56)
- - [Amazon forecasts Q3 revenue below estimates and reports slowing online stores sales growth of 5% YoY in Q2, vs. a growth of 7% in Q1; AMZN drops 6%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p55#a240801p55)
- - [Twilio reports Q2 revenue up 4% YoY to $1.08B, vs. $1.06B est., 316K+ active customer accounts as of June 30, vs. 304K+ a year ago; TWLO jumps 6%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240801/p54#a240801p54)
- - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon forecasts Q3 revenue below estimates and reports slowing online stores sales growth of 5% YoY in Q2, vs. a growth of 7% in Q1; AMZN drops 6%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p55#a240801p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

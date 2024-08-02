@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
- - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 💣 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 😝 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)
- - 👉 [Salute the general](http://9gag.com/gag/an7y1Xz)<!-- MEMES:END -->
+ - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
+ - 😝 [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
+ - 💣 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
  - 😝 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 💣 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 👉 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)<!-- MEMES:END -->
+ - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
+ - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
 

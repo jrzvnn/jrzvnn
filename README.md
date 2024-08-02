@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Won’t Believe What Car Headlights Have in Store](https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/)
+ - [Welcome to the Weird Era](https://www.wired.com/story/welcome-to-the-weird-era/)
  - [Tuariki Delamere’s Somersault Could Have Launched a New Era in the Olympic Long Jump](https://www.wired.com/story/physics-of-the-banned-front-flip-long-jump/)
  - [Want to Save Money on Digital Storage? Try These Google Drive Tricks](https://www.cnet.com/tech/services-and-software/want-to-save-money-on-digital-storage-try-these-google-drive-tricks/#ftag=CAD590a51e)
- - [iOS 18 Beta: Your iPhone&#39;s Maps App Just Got This Helpful New Feature](https://www.cnet.com/tech/services-and-software/ios-18-beta-your-iphones-maps-app-just-got-this-helpful-new-feature/#ftag=CAD590a51e)
- - [How the ‘Slamming Door’ Sound Became Embedded in Hip-Hop History](https://www.wired.com/story/korg-tribe-slam-sound-hip-hop-history/)
- - [Stability AI announces Stable Fast 3D, a generative AI model for rapid 3D asset generation, says it can generate a 3D asset from a single image in 0.5 seconds &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240802/p8#a240802p8)<!-- TECH:END -->
+ - [iOS 18 Beta: Your iPhone&#39;s Maps App Just Got This Helpful New Feature](https://www.cnet.com/tech/services-and-software/ios-18-beta-your-iphones-maps-app-just-got-this-helpful-new-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

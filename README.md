@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 💣 [Uh ?](http://9gag.com/gag/a4PZL8y)
- - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
- - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
+ - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
+ - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 

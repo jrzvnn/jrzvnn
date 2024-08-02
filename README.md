@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
  - 😝 [Uh ?](http://9gag.com/gag/a4PZL8y)
+ - 💣 [Gold medal from wish](http://9gag.com/gag/awy5xRy)
  - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 💣 [The jiggles](http://9gag.com/gag/a347dOr)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

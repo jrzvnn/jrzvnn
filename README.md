@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 😝 [The jiggles](http://9gag.com/gag/a347dOr)
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
+ - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 😝 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
+ - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
 
 ---
 

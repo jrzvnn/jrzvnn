@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Infoblox and Eclypsium: since 2018, Russian hackers hijacked 35K+ registered domains using Sitting Ducks attacks that involve exploiting DNS configuration flaws &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240802/p1#a240802p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for August 2, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-2-418/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for August 2, #1140](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-2-1140/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Houston](https://www.cnet.com/home/energy-and-utilities/houston-solar-panels/#ftag=CAD590a51e)
- - [Contextual AI, which offers retrieval augmented generation tools for enterprises, raised an $80M Series A led by Greycroft; PitchBook values Contextual at $609M &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240801/p58#a240801p58)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Houston](https://www.cnet.com/home/energy-and-utilities/houston-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

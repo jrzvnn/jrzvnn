@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age old Question](http://9gag.com/gag/aNDdWGG)
- - 😝 [Salute to our fallen brother](http://9gag.com/gag/agmqvpW)
- - 💣 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
- - 😝 [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)
- - 👉 [What is your secret?](http://9gag.com/gag/a7oZDy2)<!-- MEMES:END -->
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 😝 [Gold medal from wish](http://9gag.com/gag/awy5xRy)
+ - 💣 [What is your secret?](http://9gag.com/gag/a7oZDy2)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 👉 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)<!-- MEMES:END -->
 
 ---
 

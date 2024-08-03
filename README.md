@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
- - 💣 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 💣 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 👉 [Maduro says he can&#39;t show the true election result because Elon Musk hacked the National Electoral Council of Venezuela...](http://9gag.com/gag/aQzMMqW)<!-- MEMES:END -->
 
 ---
 

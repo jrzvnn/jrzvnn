@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 😝 [Gold medal from wish](http://9gag.com/gag/awy5xRy)
- - 💣 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 👉 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)<!-- MEMES:END -->
+ - 😝 [Wait, hold up](http://9gag.com/gag/aYQKKR7)
+ - 😝 [Sound of Mazda 787B. banned from 24 Hours of Le Mans](http://9gag.com/gag/a87ppmO)
+ - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
+ - 👉 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)<!-- MEMES:END -->
 
 ---
 

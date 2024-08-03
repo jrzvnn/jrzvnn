@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Stop Wildfire Smoke Damaging Your Health](https://www.wired.com/story/wildfire-smoke-causes-long-term-health-problems-heres-how-to-protect-yourself/)
+ - [The video game industry is mourning the loss of Game Informer](https://www.theverge.com/2024/8/3/24212291/game-informer-video-game-industry-mourns)
  - [WWE SummerSlam 2024: When It Starts and How to Watch the Pro Wrestling Event](https://www.cnet.com/tech/services-and-software/wwe-summerslam-2024-when-it-starts-and-how-to-watch-the-pro-wrestling-event/#ftag=CAD590a51e)
  - [Google Pixel 7 vs. Pixel 7A: What to Know Before Deciding](https://www.cnet.com/tech/mobile/pixel-7-vs-pixel-7a-googles-cheaper-phone-is-the-winner/#ftag=CAD590a51e)
- - [Overwhelmed by Scam Callers? Here&#39;s a Low-Effort Fix for Unwanted Calls](https://www.cnet.com/tech/mobile/overwhelmed-by-scam-callers-heres-a-low-effort-fix-to-unwanted-calls/#ftag=CAD590a51e)
- - [Lion&#39;s Mane Mushrooms: Their Internet Fame and Health Benefits](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-benefits/#ftag=CAD590a51e)
- - [You Can Now Change Your Lock Screen&#39;s Controls in the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/you-can-finally-change-your-lock-screens-controls-in-the-ios-18-betas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Overwhelmed by Scam Callers? Here&#39;s a Low-Effort Fix for Unwanted Calls](https://www.cnet.com/tech/mobile/overwhelmed-by-scam-callers-heres-a-low-effort-fix-to-unwanted-calls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

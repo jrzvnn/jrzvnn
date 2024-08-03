@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sound of Mazda 787B. banned from 24 Hours of Le Mans](http://9gag.com/gag/a87ppmO)
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 💣 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
+ - 😝 [This Did Not Feel Good](http://9gag.com/gag/an7y1m0)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 💣 [Latest generation will ask what is that white circular thing](http://9gag.com/gag/ae9YeQj)
  - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 👉 [When u can&#39;t even focus on a simple task](http://9gag.com/gag/aNDdAb3)<!-- MEMES:END -->
+ - 👉 [What is your secret?](http://9gag.com/gag/a7oZDy2)<!-- MEMES:END -->
 
 ---
 

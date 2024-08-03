@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 49 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Insta360 Go 3S Review: Tiny, Fun, and 4K Footage](https://www.wired.com/review/insta360-go-3s-action-camera/)
- - [The 53 Best Shows on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The Fight to Save Florida’s Oranges](https://www.wired.com/story/the-fight-to-save-floridas-oranges-climate-change-farming-crop-shortages/)
- - [US Hands Over Russian Cybercriminals in WSJ Reporter Prisoner Swap](https://www.wired.com/story/russia-cybercriminal-us-prisoner-swap/)<!-- TECH:END -->
+ - [WWE SummerSlam 2024: When It Starts and How to Watch the Pro Wrestling Event](https://www.cnet.com/tech/services-and-software/wwe-summerslam-2024-when-it-starts-and-how-to-watch-the-pro-wrestling-event/#ftag=CAD590a51e)
+ - [Google Pixel 7 vs. Pixel 7A: What to Know Before Deciding](https://www.cnet.com/tech/mobile/pixel-7-vs-pixel-7a-googles-cheaper-phone-is-the-winner/#ftag=CAD590a51e)
+ - [Overwhelmed by Scam Callers? Here&#39;s a Low-Effort Fix for Unwanted Calls](https://www.cnet.com/tech/mobile/overwhelmed-by-scam-callers-heres-a-low-effort-fix-to-unwanted-calls/#ftag=CAD590a51e)
+ - [Lion&#39;s Mane Mushrooms: Their Internet Fame and Health Benefits](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-benefits/#ftag=CAD590a51e)
+ - [You Can Now Change Your Lock Screen&#39;s Controls in the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/you-can-finally-change-your-lock-screens-controls-in-the-ios-18-betas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

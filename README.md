@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reimagine Your Sleep Quality With These 9 Yoga Poses](https://www.cnet.com/health/sleep/reimagine-your-sleep-quality-with-these-9-yoga-poses/#ftag=CAD590a51e)
  - [A look at Bungie&#39;s future after it laid off 220 staffers, as current and former employees say it grew too fast and tried to develop too many projects at once &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240803/p8#a240803p8)
- - [Here&#39;s What a Light Sleeper Thought of the High-Tech Manta Sound Sleep Mask](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
  - [Meta could show AI voiced by celebrities like Judi Dench next month](https://www.theverge.com/2024/8/3/24212580/meta-ai-voice-assistant-celebrity-voices-judi-dench-awkwafina-keegan-michael-key)
- - [How Much Will Social Security Increase in 2025? Here&#39;s What Experts Predict](https://www.cnet.com/personal-finance/social-security-cola-increase-benefits-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Will Social Security Increase in 2025? Here&#39;s What Experts Predict](https://www.cnet.com/personal-finance/social-security-cola-increase-benefits-2025/#ftag=CAD590a51e)
+ - [Get One Month of $10 Cell Phone Service From Tello Until August 15](https://www.cnet.com/deals/get-one-month-of-10-cell-phone-service-from-tello-until-august-15/#ftag=CAD590a51e)
+ - [&#39;Deadpool &amp; Wolverine&#39;: Does It Have a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/deadpool-wolverine-does-it-have-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

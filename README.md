@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s honest](http://9gag.com/gag/aBywxXx)
- - 😝 [Didn&#39;t expect that](http://9gag.com/gag/aMVwjBR)
- - 💣 [Police inspection](http://9gag.com/gag/aoy2N7w)
- - 😝 [Bliss!](http://9gag.com/gag/adBqKAj)
- - 👉 [This](http://9gag.com/gag/aVvDMrO)<!-- MEMES:END -->
+ - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 💣 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
+ - 👉 [Is this legal](http://9gag.com/gag/a6ZMMqR)<!-- MEMES:END -->
 
 ---
 

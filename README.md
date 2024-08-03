@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
  - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 💣 [Indeed.](http://9gag.com/gag/aD2j1Xd)
- - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
+ - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 💣 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 👉 [I Dunno](http://9gag.com/gag/amorY5X)<!-- MEMES:END -->
 
 ---
 

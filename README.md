@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia told Microsoft, and another large cloud provider, that its new Blackwell AI chips will be delayed by three months or more due to design flaws &lpar;The Information&rpar;](http://www.techmeme.com/240802/p28#a240802p28)
  - [A security researcher says 4.6M Illinois voter and election records, including Social Security Numbers, were exposed by a contractor&#39;s unsecured databases &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240802/p27#a240802p27)
  - [Best Mattress for Back Pain of 2024](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)
  - [Best Streaming Device for 2024: Roku, Chromecast and More](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)
- - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
- - [Best Business Laptop for 2024](https://www.cnet.com/tech/computing/best-laptop-for-business/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

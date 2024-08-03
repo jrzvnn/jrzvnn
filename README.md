@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA Is ‘Evaluating All Options’ to Get the Boeing Starliner Crew Home](https://www.wired.com/story/nasa-boeing-starliner-return-home-spacex/)
+ - [How to Control Android Auto or Apple CarPlay With Your Voice While Driving](https://www.wired.com/story/how-to-use-your-voice-to-control-android-auto-or-apple-carplay/)
  - [How to Stop Wildfire Smoke Damaging Your Health](https://www.wired.com/story/wildfire-smoke-causes-long-term-health-problems-heres-how-to-protect-yourself/)
  - [The video game industry is mourning the loss of Game Informer](https://www.theverge.com/2024/8/3/24212291/game-informer-video-game-industry-mourns)
- - [WWE SummerSlam 2024: When It Starts and How to Watch the Pro Wrestling Event](https://www.cnet.com/tech/services-and-software/wwe-summerslam-2024-when-it-starts-and-how-to-watch-the-pro-wrestling-event/#ftag=CAD590a51e)
- - [Google Pixel 7 vs. Pixel 7A: What to Know Before Deciding](https://www.cnet.com/tech/mobile/pixel-7-vs-pixel-7a-googles-cheaper-phone-is-the-winner/#ftag=CAD590a51e)
- - [Overwhelmed by Scam Callers? Here&#39;s a Low-Effort Fix for Unwanted Calls](https://www.cnet.com/tech/mobile/overwhelmed-by-scam-callers-heres-a-low-effort-fix-to-unwanted-calls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WWE SummerSlam 2024: When It Starts and How to Watch the Pro Wrestling Event](https://www.cnet.com/tech/services-and-software/wwe-summerslam-2024-when-it-starts-and-how-to-watch-the-pro-wrestling-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

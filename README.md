@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
  - 😝 [Sound of Mazda 787B. banned from 24 Hours of Le Mans](http://9gag.com/gag/a87ppmO)
- - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
+ - 😝 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 💣 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 👉 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)<!-- MEMES:END -->
 
 ---
 

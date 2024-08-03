@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trap backs itself into every corner](https://www.theverge.com/2024/8/3/24211887/trap-review-m-night-shyamalan)
  - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
  - [Berkshire Hathaway unloaded more than half of its Apple stock last quarter](https://appleinsider.com/articles/24/08/03/berkshire-hathaway-unloaded-more-than-half-of-its-apple-stock-last-quarter?utm_medium=rss)
  - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
- - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)
- - [3 Simple Soutions for a More Enjoyable, Bug-free Outdoor Living Space](https://www.cnet.com/how-to/catch-mosquitos-flies-hornets-and-more-3-diy-bug-traps-that-actually-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

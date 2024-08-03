@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fight to Save Florida’s Oranges](https://www.wired.com/story/the-fight-to-save-floridas-oranges-climate-change-farming-crop-shortages/)
+ - [US Hands Over Russian Cybercriminals in WSJ Reporter Prisoner Swap](https://www.wired.com/story/russia-cybercriminal-us-prisoner-swap/)
  - [Inside the MAGA-fueled 2024 Bitcoin Conference in Nashville, as attendees were divided on Trump&#39;s keynote speech, some let down, others calling it historic &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240803/p4#a240803p4)
  - [Olympics 100 Meters: How to Watch the Men&#39;s and Women&#39;s Sprint Finals](https://www.cnet.com/tech/services-and-software/olympics-100-meters-how-to-watch/#ftag=CAD590a51e)
- - [The HoverAir X1 is the first drone I want to use all the time](https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs)
- - [Olympic Tennis 2024: How to Watch Today&#39;s Gold Medal Matches](https://www.cnet.com/tech/services-and-software/how-to-watch-olympic-tennis-2024/#ftag=CAD590a51e)
- - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The HoverAir X1 is the first drone I want to use all the time](https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

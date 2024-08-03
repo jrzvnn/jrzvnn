@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft, Alphabet, Amazon, and Meta boosted capex by 50% to a total of $106B in H1 2024, as they build AI infrastructure and pledge more investment hikes &lpar;Financial Times&rpar;](http://www.techmeme.com/240803/p6#a240803p6)
- - [Shoot Better Videos With This YouTuber&#39;s 20 Equipment Picks](https://www.cnet.com/tech/computing/im-a-pro-youtuber-heres-the-video-equipment-that-powers-my-setup/#ftag=CAD590a51e)
- - [Quality Sleep Might Be the Key to Feeling Less Lonely. What You Need To Know](https://www.cnet.com/health/sleep/quality-sleep-might-be-the-key-to-feeling-less-lonely-what-you-need-to-know/#ftag=CAD590a51e)
- - [Pizza Tastes Even Better the Second Time When You Reheat It Like This](https://www.cnet.com/how-to/the-best-way-to-reheat-pizza/#ftag=CAD590a51e)
- - [Trap backs itself into every corner](https://www.theverge.com/2024/8/3/24211887/trap-review-m-night-shyamalan)<!-- TECH:END -->
+ - [Filings: Warren Buffett&#39;s Berkshire Hathaway slashed its stake in Apple by ~50% in Q2, following a 13% cut in Q1, leaving it with a position worth $84.2B &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/240803/p7#a240803p7)
+ - [Best Cheap Phone Plans for August 2024](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [10 Back-to-School Tech Gifts My Gen Z Kids Loved](https://www.cnet.com/deals/10-tech-gifts-my-5-young-adult-kids-loved/#ftag=CAD590a51e)
+ - [5 Ways to Pay Down Debt on a Low Income](https://www.cnet.com/personal-finance/5-ways-to-pay-off-debt-on-a-low-income/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

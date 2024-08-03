@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Best Business Laptop for 2024](https://www.cnet.com/tech/computing/best-laptop-for-business/#ftag=CAD590a51e)
  - [Apple apologizes and pulls an ad set in Thailand after backlash from Thai lawmakers and influencers who deemed its portrayal of the country offensive &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/240802/p26#a240802p26)
- - [MrBeast blames terrible Beast Games conditions on the CrowdStrike outage](https://www.theverge.com/2024/8/2/24212298/mrbeast-beast-games-crowdstrike)
- - [Data breach notifications show US pharmaceutical giant Cencora has notified at least 1.43M individuals that their data was compromised in a February data breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240802/p25#a240802p25)
- - [I Tried Breville&#39;s New $2,000 Oracle Jet Espresso Machine](https://www.cnet.com/home/kitchen-and-household/breville-oracle-jet-review/#ftag=CAD590a51e)
- - [Best Floodlight Home Security Cameras of 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
+ - [MrBeast blames terrible Beast Games conditions on the CrowdStrike outage](https://www.theverge.com/2024/8/2/24212298/mrbeast-beast-games-crowdstrike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

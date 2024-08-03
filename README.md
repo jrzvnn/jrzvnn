@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Trap backs itself into every corner](https://www.theverge.com/2024/8/3/24211887/trap-review-m-night-shyamalan)
  - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
+ - [13 Biggest Questions for Umbrella Academy Season 4 to Answer](https://www.cnet.com/tech/services-and-software/13-biggest-questions-for-umbrella-academy-season-4-to-answer/#ftag=CAD590a51e)
  - [Berkshire Hathaway unloaded more than half of its Apple stock last quarter](https://appleinsider.com/articles/24/08/03/berkshire-hathaway-unloaded-more-than-half-of-its-apple-stock-last-quarter?utm_medium=rss)
- - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
- - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)<!-- TECH:END -->
+ - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

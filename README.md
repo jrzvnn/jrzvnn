@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, hold up](http://9gag.com/gag/aYQKKR7)
  - 😝 [Sound of Mazda 787B. banned from 24 Hours of Le Mans](http://9gag.com/gag/a87ppmO)
- - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
  - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 👉 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)<!-- MEMES:END -->
+ - 💣 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 👉 [When u can&#39;t even focus on a simple task](http://9gag.com/gag/aNDdAb3)<!-- MEMES:END -->
 
 ---
 

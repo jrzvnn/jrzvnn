@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI-formulated bioweapons became a security obsession inside Washington, DC, forcing officials to take tech advances in weaponizing disease seriously &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/240803/p5#a240803p5)
- - [NASA Is ‘Evaluating All Options’ to Get the Boeing Starliner Crew Home](https://www.wired.com/story/nasa-boeing-starliner-return-home-spacex/)
- - [How to Control Android Auto or Apple CarPlay With Your Voice While Driving](https://www.wired.com/story/how-to-use-your-voice-to-control-android-auto-or-apple-carplay/)
- - [The Rumored iPhone 16 Feature I Hope Becomes a Reality](https://www.cnet.com/tech/mobile/the-iphone-16-feature-im-most-excited-for/#ftag=CAD590a51e)
- - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA Today](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berkshire Hathaway unloaded more than half of its Apple stock last quarter](https://appleinsider.com/articles/24/08/03/berkshire-hathaway-unloaded-more-than-half-of-its-apple-stock-last-quarter?utm_medium=rss)
+ - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
+ - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)
+ - [Samsung Galaxy Z Flip 6 review: the practical flip phone](https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera)
+ - [How AI-formulated bioweapons became a security obsession inside Washington, DC, forcing officials to take tech advances in weaponizing disease seriously &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/240803/p5#a240803p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

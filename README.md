@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 💣 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
  - 😝 [This Did Not Feel Good](http://9gag.com/gag/an7y1m0)
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 💣 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
  - 👉 [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)<!-- MEMES:END -->
 
 ---

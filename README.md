@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
  - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [Switzerland banned Hijab and no longer recognizes Islam as an official religion via referendum](http://9gag.com/gag/aW48Y83)
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 💣 [Peak female performance](http://9gag.com/gag/abA6MGp)
+ - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
  - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
 
 ---

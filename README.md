@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
+ - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
  - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 💣 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 👉 [Is this legal](http://9gag.com/gag/a6ZMMqR)<!-- MEMES:END -->
+ - 💣 [What is your secret?](http://9gag.com/gag/a7oZDy2)
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 ---
 

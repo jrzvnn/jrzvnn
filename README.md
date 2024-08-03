@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 💣 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
+ - 😝 [He&#39;s honest](http://9gag.com/gag/aBywxXx)
+ - 😝 [Didn&#39;t expect that](http://9gag.com/gag/aMVwjBR)
+ - 💣 [Police inspection](http://9gag.com/gag/aoy2N7w)
+ - 😝 [Bliss!](http://9gag.com/gag/adBqKAj)
+ - 👉 [This](http://9gag.com/gag/aVvDMrO)<!-- MEMES:END -->
 
 ---
 

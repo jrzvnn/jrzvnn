@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 49 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Insta360 Go 3S Review: Tiny, Fun, and 4K Footage](https://www.wired.com/review/insta360-go-3s-action-camera/)
+ - [The 53 Best Shows on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [The Fight to Save Florida’s Oranges](https://www.wired.com/story/the-fight-to-save-floridas-oranges-climate-change-farming-crop-shortages/)
- - [US Hands Over Russian Cybercriminals in WSJ Reporter Prisoner Swap](https://www.wired.com/story/russia-cybercriminal-us-prisoner-swap/)
- - [Need More Gmail Storage Space? Regain 15GB Without Losing a Thing](https://www.cnet.com/tech/services-and-software/need-more-gmail-storage-space-regain-15gb-without-losing-a-thing/#ftag=CAD590a51e)
- - [How to Clean Your Keurig Coffee Machine Properly](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-keurig-coffee-machine-properly/#ftag=CAD590a51e)
- - [How to Lock and Hide Your iPhone Apps in the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/how-to-lock-and-hide-your-iphone-apps-in-the-ios-18-betas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Hands Over Russian Cybercriminals in WSJ Reporter Prisoner Swap](https://www.wired.com/story/russia-cybercriminal-us-prisoner-swap/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 💣 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
  - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
- - 👉 [Is this legal](http://9gag.com/gag/a6ZMMqR)<!-- MEMES:END -->
+ - 👉 [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)<!-- MEMES:END -->
 
 ---
 

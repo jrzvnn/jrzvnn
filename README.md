@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When It&#39;s so `bad` even the actor calls you out](http://9gag.com/gag/a2vdY7p)
- - 😝 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
- - 💣 [Maybe catwoman will be a trans?](http://9gag.com/gag/amor9Od)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)<!-- MEMES:END -->
+ - 😝 [Ex husband throws red liquid on his ex wife and new man, causing a fire](http://9gag.com/gag/an7yjBb)
+ - 😝 [Winter sports](http://9gag.com/gag/ayNLDOy)
+ - 💣 [Salute to our fallen brother](http://9gag.com/gag/agmqvpW)
+ - 😝 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 👉 [Salute to our fallen brother](http://9gag.com/gag/agmqvpW)<!-- MEMES:END -->
+ - 😝 [H E R O .....](http://9gag.com/gag/an7y1Mb)
+ - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
+ - 💣 [Sometimes you must serve justice by yourself.](http://9gag.com/gag/a0eddrO)
+ - 😝 [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 

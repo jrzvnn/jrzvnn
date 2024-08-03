@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Members Can Score This Lepow Portable Monitor for Just $99 Right Now](https://www.cnet.com/deals/amazon-prime-members-can-score-this-lepow-portable-monitor-for-just-99-right-now/#ftag=CAD590a51e)
+ - [Best Cellphone Plans of 2024: Our Top Picks for August](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)
+ - [The 6 Best Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
  - [Filings: Warren Buffett&#39;s Berkshire Hathaway slashed its stake in Apple by ~50% in Q2, following a 13% cut in Q1, leaving it with a position worth $84.2B &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/240803/p7#a240803p7)
- - [Best Cheap Phone Plans for August 2024](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [10 Back-to-School Tech Gifts My Gen Z Kids Loved](https://www.cnet.com/deals/10-tech-gifts-my-5-young-adult-kids-loved/#ftag=CAD590a51e)
- - [5 Ways to Pay Down Debt on a Low Income](https://www.cnet.com/personal-finance/5-ways-to-pay-off-debt-on-a-low-income/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

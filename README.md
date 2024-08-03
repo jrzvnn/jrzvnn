@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
  - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 💣 [Peak female performance](http://9gag.com/gag/abA6MGp)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
  - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
- - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
+ - 👉 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)<!-- MEMES:END -->
 
 ---
 

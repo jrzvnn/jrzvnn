@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 👉 [Is this legal](http://9gag.com/gag/a6ZMMqR)<!-- MEMES:END -->
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 👉 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)<!-- MEMES:END -->
 
 ---
 

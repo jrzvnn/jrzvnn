@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The HoverAir X1 is the first drone I want to use all the time](https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs)
  - [Olympic Tennis 2024: How to Watch Today&#39;s Gold Medal Matches](https://www.cnet.com/tech/services-and-software/how-to-watch-olympic-tennis-2024/#ftag=CAD590a51e)
  - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
  - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)
- - [A profile of Huawei, which has expanded into new businesses, built out its supply chain, and boosted profit, thanks to billions of dollars in Beijing support &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240803/p3#a240803p3)
- - [ROMHacking.net, a community of people sharing hacks and fixes for old games, winds down, closes all ROM hack submissions, and moves its data to Internet Archive &lpar;Michael McWhertor/Polygon&rpar;](http://www.techmeme.com/240803/p2#a240803p2)<!-- TECH:END -->
+ - [A profile of Huawei, which has expanded into new businesses, built out its supply chain, and boosted profit, thanks to billions of dollars in Beijing support &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240803/p3#a240803p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

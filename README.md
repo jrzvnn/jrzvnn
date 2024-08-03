@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 💣 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
  - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 👉 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)<!-- MEMES:END -->
+ - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
 
 ---
 

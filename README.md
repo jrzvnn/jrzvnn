@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI-formulated bioweapons became a security obsession inside Washington, DC, forcing officials to take tech advances in weaponizing disease seriously &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/240803/p5#a240803p5)
  - [NASA Is ‘Evaluating All Options’ to Get the Boeing Starliner Crew Home](https://www.wired.com/story/nasa-boeing-starliner-return-home-spacex/)
  - [How to Control Android Auto or Apple CarPlay With Your Voice While Driving](https://www.wired.com/story/how-to-use-your-voice-to-control-android-auto-or-apple-carplay/)
- - [How to Stop Wildfire Smoke Damaging Your Health](https://www.wired.com/story/wildfire-smoke-causes-long-term-health-problems-heres-how-to-protect-yourself/)
- - [The video game industry is mourning the loss of Game Informer](https://www.theverge.com/2024/8/3/24212291/game-informer-video-game-industry-mourns)
- - [WWE SummerSlam 2024: When It Starts and How to Watch the Pro Wrestling Event](https://www.cnet.com/tech/services-and-software/wwe-summerslam-2024-when-it-starts-and-how-to-watch-the-pro-wrestling-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Rumored iPhone 16 Feature I Hope Becomes a Reality](https://www.cnet.com/tech/mobile/the-iphone-16-feature-im-most-excited-for/#ftag=CAD590a51e)
+ - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA Today](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

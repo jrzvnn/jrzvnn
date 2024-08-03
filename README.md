@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
  - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 💣 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
  - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
  - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
  - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
- - 👉 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)<!-- MEMES:END -->
+ - 😝 [Switzerland banned Hijab and no longer recognizes Islam as an official religion via referendum](http://9gag.com/gag/aW48Y83)
+ - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
 
 ---
 

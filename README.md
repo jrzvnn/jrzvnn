@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Members Can Score This Lepow Portable Monitor for Just $99 Right Now](https://www.cnet.com/deals/amazon-prime-members-can-score-this-lepow-portable-monitor-for-just-99-right-now/#ftag=CAD590a51e)
- - [Best Cellphone Plans of 2024: Our Top Picks for August](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)
- - [The 6 Best Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
- - [Filings: Warren Buffett&#39;s Berkshire Hathaway slashed its stake in Apple by ~50% in Q2, following a 13% cut in Q1, leaving it with a position worth $84.2B &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/240803/p7#a240803p7)
- - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta could show AI voiced by celebrities like Judi Dench next month](https://www.theverge.com/2024/8/3/24212580/meta-ai-voice-assistant-celebrity-voices-judi-dench-awkwafina-keegan-michael-key)
+ - [How Much Will Social Security Increase in 2025? Here&#39;s What Experts Predict](https://www.cnet.com/personal-finance/social-security-cola-increase-benefits-2025/#ftag=CAD590a51e)
+ - [Get One Month of $10 Cell Phone Service From Tello Until August 15](https://www.cnet.com/deals/get-one-month-of-10-cell-phone-service-from-tello-until-august-15/#ftag=CAD590a51e)
+ - [&#39;Deadpool &amp; Wolverine&#39;: Does It Have a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/deadpool-wolverine-does-it-have-a-post-credits-scene/#ftag=CAD590a51e)
+ - [Best Buy&#39;s Flash Sale Ends Today and With It Discounts on Tech Gear, TVs, Appliances and More](https://www.cnet.com/deals/b-best-buys-flash-sale-ends-today-and-with-it-discounts-on-tech-gear-tvs-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

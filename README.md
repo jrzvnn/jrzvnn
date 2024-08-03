@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Fight to Save Florida’s Oranges](https://www.wired.com/story/the-fight-to-save-floridas-oranges-climate-change-farming-crop-shortages/)
  - [US Hands Over Russian Cybercriminals in WSJ Reporter Prisoner Swap](https://www.wired.com/story/russia-cybercriminal-us-prisoner-swap/)
- - [Inside the MAGA-fueled 2024 Bitcoin Conference in Nashville, as attendees were divided on Trump&#39;s keynote speech, some let down, others calling it historic &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240803/p4#a240803p4)
- - [Olympics 100 Meters: How to Watch the Men&#39;s and Women&#39;s Sprint Finals](https://www.cnet.com/tech/services-and-software/olympics-100-meters-how-to-watch/#ftag=CAD590a51e)
- - [The HoverAir X1 is the first drone I want to use all the time](https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs)<!-- TECH:END -->
+ - [Need More Gmail Storage Space? Regain 15GB Without Losing a Thing](https://www.cnet.com/tech/services-and-software/need-more-gmail-storage-space-regain-15gb-without-losing-a-thing/#ftag=CAD590a51e)
+ - [How to Clean Your Keurig Coffee Machine Properly](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-keurig-coffee-machine-properly/#ftag=CAD590a51e)
+ - [How to Lock and Hide Your iPhone Apps in the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/how-to-lock-and-hide-your-iphone-apps-in-the-ios-18-betas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

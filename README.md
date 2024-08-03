@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Huawei, which has expanded into new businesses, built out its supply chain, and boosted profit, thanks to billions of dollars in Beijing support &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240803/p3#a240803p3)
  - [ROMHacking.net, a community of people sharing hacks and fixes for old games, winds down, closes all ROM hack submissions, and moves its data to Internet Archive &lpar;Michael McWhertor/Polygon&rpar;](http://www.techmeme.com/240803/p2#a240803p2)
  - [A look at RayV Lite, an open-source laser hacking tool built by two hackers for less than $500 that can reverse engineer chips and exploit their vulnerabilities &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240803/p1#a240803p1)
  - [Sources: Nvidia told Microsoft, and another large cloud provider, that its new Blackwell AI chips will be delayed by three months or more due to design flaws &lpar;The Information&rpar;](http://www.techmeme.com/240802/p28#a240802p28)
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 3, #153](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-3-153/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 3, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-3-419/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for August 3, #153](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-3-153/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

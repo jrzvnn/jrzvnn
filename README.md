@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Flip6 review: all-day battery, seven years of updates, and widgets for the outer screen are helpful but hard to run full apps &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240803/p9#a240803p9)
  - [Get 4 Apple AirTags for just $75.99 at Amazon](https://appleinsider.com/articles/24/08/03/get-4-apple-airtags-for-just-7599-at-amazon?utm_medium=rss)
  - [Butterfly keyboard MacBook owners compensation payments are arriving](https://appleinsider.com/articles/24/08/03/butterfly-keyboard-macbook-owners-compensation-payments-are-arriving?utm_medium=rss)
  - [EcoFlow’s Power Hat is a floppy, phone-charging solar panel for your noggin](https://www.theverge.com/2024/8/3/24212686/ecoflow-power-hat-solar-powered-hat-usb-c-charger-smartphone)
- - [Avoid These Weight Loss Habits To Keep Extra Pounds at Bay](https://www.cnet.com/health/nutrition/avoid-these-6-habits-to-lose-weight-and-keep-it-off/#ftag=CAD590a51e)
- - [Reimagine Your Sleep Quality With These 9 Yoga Poses](https://www.cnet.com/health/sleep/reimagine-your-sleep-quality-with-these-9-yoga-poses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Avoid These Weight Loss Habits To Keep Extra Pounds at Bay](https://www.cnet.com/health/nutrition/avoid-these-6-habits-to-lose-weight-and-keep-it-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

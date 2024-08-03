@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
- - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 💣 [Thats what she said.](http://9gag.com/gag/aD2jj0O)
- - 😝 [Quiet fitting, innit?](http://9gag.com/gag/aW48qeq)
- - 👉 [Shoulder day in Germany](http://9gag.com/gag/agmqY6n)<!-- MEMES:END -->
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 💣 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 👉 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)<!-- MEMES:END -->
 
 ---
 

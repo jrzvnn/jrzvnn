@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When u can&#39;t even focus on a simple task](http://9gag.com/gag/aNDdAb3)
+ - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
  - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 💣 [Sweet Dieversity](http://9gag.com/gag/aXPAxXg)
- - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 👉 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)<!-- MEMES:END -->
+ - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 👉 [Is this legal](http://9gag.com/gag/a6ZMMqR)<!-- MEMES:END -->
 
 ---
 

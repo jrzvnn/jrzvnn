@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 💣 [Sometimes you must serve justice by yourself.](http://9gag.com/gag/a0eddrO)
- - 😝 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
- - 👉 [Shoulder day in Germany](http://9gag.com/gag/agmqY6n)<!-- MEMES:END -->
+ - 😝 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 💣 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 😝 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
+ - 👉 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)<!-- MEMES:END -->
 
 ---
 

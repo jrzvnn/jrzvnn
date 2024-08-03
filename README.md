@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 😝 [When u can&#39;t even focus on a simple task](http://9gag.com/gag/aNDdAb3)
  - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 💣 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 💣 [Sweet Dieversity](http://9gag.com/gag/aXPAxXg)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
  - 👉 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)<!-- MEMES:END -->
 
 ---

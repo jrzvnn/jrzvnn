@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)
- - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 💣 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
+ - 😝 [Age old Question](http://9gag.com/gag/aNDdWGG)
  - 😝 [Salute to our fallen brother](http://9gag.com/gag/agmqvpW)
- - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
+ - 💣 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 😝 [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)
+ - 👉 [What is your secret?](http://9gag.com/gag/a7oZDy2)<!-- MEMES:END -->
 
 ---
 

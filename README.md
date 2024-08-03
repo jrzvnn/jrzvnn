@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Berkshire Hathaway unloaded more than half of its Apple stock last quarter](https://appleinsider.com/articles/24/08/03/berkshire-hathaway-unloaded-more-than-half-of-its-apple-stock-last-quarter?utm_medium=rss)
  - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
  - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)
- - [Samsung Galaxy Z Flip 6 review: the practical flip phone](https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera)
- - [How AI-formulated bioweapons became a security obsession inside Washington, DC, forcing officials to take tech advances in weaponizing disease seriously &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/240803/p5#a240803p5)<!-- TECH:END -->
+ - [3 Simple Soutions for a More Enjoyable, Bug-free Outdoor Living Space](https://www.cnet.com/how-to/catch-mosquitos-flies-hornets-and-more-3-diy-bug-traps-that-actually-work/#ftag=CAD590a51e)
+ - [I Tested Multiple Fire Pits and I Never Thought I&#39;d Be So Surprised](https://www.cnet.com/home/yard-and-outdoors/smokeless-fire-pits-are-all-the-rage-but-are-they-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

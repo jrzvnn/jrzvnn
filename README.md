@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Butterfly keyboard MacBook owners compensation payments are arriving](https://appleinsider.com/articles/24/08/03/butterfly-keyboard-macbook-owners-compensation-payments-are-arriving?utm_medium=rss)
  - [EcoFlow’s Power Hat is a floppy, phone-charging solar panel for your noggin](https://www.theverge.com/2024/8/3/24212686/ecoflow-power-hat-solar-powered-hat-usb-c-charger-smartphone)
  - [Avoid These Weight Loss Habits To Keep Extra Pounds at Bay](https://www.cnet.com/health/nutrition/avoid-these-6-habits-to-lose-weight-and-keep-it-off/#ftag=CAD590a51e)
  - [Reimagine Your Sleep Quality With These 9 Yoga Poses](https://www.cnet.com/health/sleep/reimagine-your-sleep-quality-with-these-9-yoga-poses/#ftag=CAD590a51e)
- - [A look at Bungie&#39;s future after it laid off 220 staffers, as current and former employees say it grew too fast and tried to develop too many projects at once &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240803/p8#a240803p8)
- - [Here&#39;s What a Light Sleeper Thought of the High-Tech Manta Sound Sleep Mask](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Bungie&#39;s future after it laid off 220 staffers, as current and former employees say it grew too fast and tried to develop too many projects at once &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240803/p8#a240803p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [This kinda shit doesn&#39;t happen where I live. Can someone explain plz this doesn&#39;t make any f**king sense.](http://9gag.com/gag/aGy0e6n)
- - 💣 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 👉 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)<!-- MEMES:END -->
+ - 😝 [Salute](http://9gag.com/gag/azxrqbb)
+ - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
 
 ---
 

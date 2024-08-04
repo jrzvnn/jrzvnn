@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
  - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 💣 [The One piece here I come](http://9gag.com/gag/aByw0bP)
  - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
+ - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 💣 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
  - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 💣 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [Switzerland banned Hijab and no longer recognizes Islam as an official religion via referendum](http://9gag.com/gag/aW48Y83)
- - 👉 [I Dunno](http://9gag.com/gag/amorY5X)<!-- MEMES:END -->
+ - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 ---
 

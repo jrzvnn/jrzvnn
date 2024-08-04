@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
- - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
+ - 😝 [Sonic Boom!](http://9gag.com/gag/aAywxrE)
+ - 💣 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 ---
 

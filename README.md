@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the flurry of so-called Zoom rallies supporting the campaign to elect Kamala Harris; one Zoom call reportedly attracted 190K people and raised $4M &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240804/p6#a240804p6)
+ - [How to Quickly Charge Your iPhone and Get to 100% Faster](https://www.cnet.com/tech/mobile/how-to-charge-iphone-faster/#ftag=CAD590a51e)
+ - [Best Streaming Services for Documentaries](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-documentaries/#ftag=CAD590a51e)
  - [Unlock Your Fitness Goals by Streaming Free Workouts on Your TV](https://www.cnet.com/tech/services-and-software/free-tv-streaming-workouts/#ftag=CAD590a51e)
- - [How to Get Better Cell Phone Signal With Low Reception on iPhone and Android](https://www.cnet.com/tech/mobile/how-to-get-better-cell-phone-signal-iphone-android/#ftag=CAD590a51e)
- - [7 Habit Changes That Will Help You Burn Body Fat at Home](https://www.cnet.com/health/fitness/7-habit-changes-that-will-help-you-burn-body-fat-at-home/#ftag=CAD590a51e)
- - [3 Exercises That Will Help You Maintain Your Strength as You Age](https://www.cnet.com/health/fitness/3-exercises-that-will-help-you-maintain-your-strength-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get Better Cell Phone Signal With Low Reception on iPhone and Android](https://www.cnet.com/tech/mobile/how-to-get-better-cell-phone-signal-iphone-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

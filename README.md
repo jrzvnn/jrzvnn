@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [Salute](http://9gag.com/gag/azxrqbb)
- - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
+ - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
+ - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 💣 [True](http://9gag.com/gag/aXPAvQ9)
+ - 😝 [Police inspection](http://9gag.com/gag/aoy2N7w)
+ - 👉 [Let&#39;s protect our kids from these invaders!](http://9gag.com/gag/aPAMjxQ)<!-- MEMES:END -->
 
 ---
 

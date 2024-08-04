@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Breville Oracle Jet is a $2,000 computer that also makes coffee](https://www.theverge.com/24211592/breville-oracle-jet-espresso-machine-review)
  - [Apple Intelligence rollout timetable won&#39;t delay iPhone 16](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16?utm_medium=rss)
  - [Logitech Combo Touch for iPad Pro &lpar;2024&rpar; Review: A Must-Have Keyboard Accessory](https://www.wired.com/review/logitech-combo-touch-ipad-pro-13-inch-keyboard-case/)
  - [Left in the Dark: 23 Million American Households Struggle Without the Affordable Connectivity Program](https://www.cnet.com/home/internet/left-in-the-dark-23-million-americans-struggle-without-the-affordable-connectivity-program/#ftag=CAD590a51e)
- - [Eat Like a Champion: How Olympians Fuel Their Body for Competition](https://www.cnet.com/health/eat-like-a-champion-how-olympians-fuel-their-body-for-competition/#ftag=CAD590a51e)
- - [We Found the 6 Best Places to Install Security Cams for Homeowners](https://www.cnet.com/home/security/best-places-to-install-security-cams-for-homeowners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eat Like a Champion: How Olympians Fuel Their Body for Competition](https://www.cnet.com/health/eat-like-a-champion-how-olympians-fuel-their-body-for-competition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

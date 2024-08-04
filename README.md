@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 😝 [Yes, there&#39;s one missing.](http://9gag.com/gag/an7yjjq)
  - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 💣 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
+ - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
  - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it.](http://9gag.com/gag/a1mdWBw)
- - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 💣 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 👉 [The One piece here I come](http://9gag.com/gag/aByw0bP)<!-- MEMES:END -->
+ - 😝 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
 
 ---
 

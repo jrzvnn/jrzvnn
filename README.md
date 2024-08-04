@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI has a watermarking tech to detect text written by ChatGPT with 99.9% reliability, but the project launch has been mired in internal debates &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240804/p4#a240804p4)
  - [Thoughts on first Apple Intelligence beta, which may arrive after the new iPhones launch, Apple&#39;s industrial design team leadership reshuffle, and Q3 earnings &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240804/p3#a240804p3)
  - [Self-Tanners: Are They Safe? Are They Sunscreen? Dermatologists Weigh In](https://www.cnet.com/health/personal-care/are-self-tanners-safe/#ftag=CAD590a51e)
  - [How to Eat Your Way to Healthier Eyesight: 12 Best Foods for Vision Health](https://www.cnet.com/health/personal-care/how-to-eat-your-way-to-healthier-eyesight-12-best-foods-for-vision-health/#ftag=CAD590a51e)
- - [Best Internet Providers With Unlimited Data for 2024](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)
- - [The Breville Oracle Jet is a $2,000 computer that also makes coffee](https://www.theverge.com/24211592/breville-oracle-jet-espresso-machine-review)<!-- TECH:END -->
+ - [Best Internet Providers With Unlimited Data for 2024](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

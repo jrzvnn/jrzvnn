@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 😝 [Win for Spain](http://9gag.com/gag/axyg7oW)
- - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 👉 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)<!-- MEMES:END -->
+ - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 😝 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
+ - 💣 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
+ - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 ---
 

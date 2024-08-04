@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A pivotal online hub for ROM hacks goes news-only after two decades](https://www.theverge.com/2024/8/3/24212750/romhacking-net-shuts-down-emulation-roms-classic-gaming)
+ - [How YouTube, NBC, Eurosport, and others are enlisting creators to cover the Paris Olympics, to fill in storytelling gaps and captivate a younger generation &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/240803/p10#a240803p10)
  - [How to Keep Your Home Cool in a Heat Wave](https://www.cnet.com/home/security/keep-home-cool-heat-wave-tips/#ftag=CAD590a51e)
  - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Flip6 review: all-day battery, seven years of updates, and widgets for the outer screen are helpful but hard to run full apps &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240803/p9#a240803p9)
- - [Quick Cleaning Tips to Make Your AC Unit Run Like New](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-air-conditioner/#ftag=CAD590a51e)
- - [Get 4 Apple AirTags for just $75.99 at Amazon](https://appleinsider.com/articles/24/08/03/get-4-apple-airtags-for-just-7599-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip6 review: all-day battery, seven years of updates, and widgets for the outer screen are helpful but hard to run full apps &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240803/p9#a240803p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

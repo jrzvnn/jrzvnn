@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
- - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 💣 [True](http://9gag.com/gag/aXPAvQ9)
- - 😝 [Police inspection](http://9gag.com/gag/aoy2N7w)
- - 👉 [Let&#39;s protect our kids from these invaders!](http://9gag.com/gag/aPAMjxQ)<!-- MEMES:END -->
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
+ - 💣 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 👉 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)<!-- MEMES:END -->
 
 ---
 

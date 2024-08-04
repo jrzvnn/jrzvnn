@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: JD.com founder and chair Richard Liu has been quietly leading the company from overseas, primarily in London, despite stepping down as the CEO in 2022 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240804/p1#a240804p1)
  - [Google Chrome warns uBlock Origin may soon be disabled and tells users to switch to other ad blockers before deprecation of Manifest V2 extensions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240803/p11#a240803p11)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 4, #154](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-4-154/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 4, #420](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-4-420/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 4, #1142](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-4-1142/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 4, #1142](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-4-1142/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

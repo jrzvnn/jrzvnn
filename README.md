@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 💣 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
  - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 👉 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)<!-- MEMES:END -->
+ - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 ---
 

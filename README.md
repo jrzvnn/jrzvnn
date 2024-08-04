@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech Combo Touch for iPad Pro &lpar;2024&rpar; Review: A Must-Have Keyboard Accessory](https://www.wired.com/review/logitech-combo-touch-ipad-pro-13-inch-keyboard-case/)
  - [Crime blotter: Apple Store theft claims $21,000 worth of merchandise](https://appleinsider.com/articles/24/08/04/crime-blotter-apple-store-theft-claims-21000-worth-of-merchandise?utm_medium=rss)
  - [Why iOS 18&#39;s Newest Messaging Features Have Me Hooked](https://www.cnet.com/tech/services-and-software/why-ios-18s-newest-messaging-features-have-me-hooked/#ftag=CAD590a51e)
  - [9 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
- - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)
- - [To Study Tornados, Bring an Apocalypse-Proof Truck. And Rocket Launchers](https://www.wired.com/story/dominator-3-tornado-chaser/)<!-- TECH:END -->
+ - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
- - 👉 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)<!-- MEMES:END -->
+ - 😝 [True](http://9gag.com/gag/aXPAvQ9)
+ - 😝 [Man will understand.](http://9gag.com/gag/awy5AYy)
+ - 💣 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
 
 ---
 

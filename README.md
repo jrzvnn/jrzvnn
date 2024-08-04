@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
  - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 💣 [I Dunno](http://9gag.com/gag/amorY5X)
- - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 💣 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
  - 👉 [`I&#39;ll retire at the end of the year!!`](http://9gag.com/gag/aGy0ezG)<!-- MEMES:END -->
 
 ---

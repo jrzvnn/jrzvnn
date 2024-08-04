@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 😝 [This](http://9gag.com/gag/aVvDMrO)
- - 💣 [UK politics right now](http://9gag.com/gag/amor2e6)
- - 😝 [True](http://9gag.com/gag/aXPAvQ9)
- - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
+ - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 💣 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 😝 [Switzerland banned Hijab and no longer recognizes Islam as an official religion via referendum](http://9gag.com/gag/aW48Y83)
+ - 👉 [I Dunno](http://9gag.com/gag/amorY5X)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the flurry of so-called Zoom rallies supporting the campaign to elect Kamala Harris; one Zoom call reportedly attracted 190K people and raised $4M &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240804/p6#a240804p6)
  - [Unlock Your Fitness Goals by Streaming Free Workouts on Your TV](https://www.cnet.com/tech/services-and-software/free-tv-streaming-workouts/#ftag=CAD590a51e)
  - [How to Get Better Cell Phone Signal With Low Reception on iPhone and Android](https://www.cnet.com/tech/mobile/how-to-get-better-cell-phone-signal-iphone-android/#ftag=CAD590a51e)
  - [7 Habit Changes That Will Help You Burn Body Fat at Home](https://www.cnet.com/health/fitness/7-habit-changes-that-will-help-you-burn-body-fat-at-home/#ftag=CAD590a51e)
- - [3 Exercises That Will Help You Maintain Your Strength as You Age](https://www.cnet.com/health/fitness/3-exercises-that-will-help-you-maintain-your-strength-as-you-age/#ftag=CAD590a51e)
- - [The first-gen OnePlus Pad is selling for a new low of $379.99](https://www.theverge.com/2024/8/4/24211817/oneplus-pad-android-tablet-xbox-game-pass-ultimate-deal-sale)<!-- TECH:END -->
+ - [3 Exercises That Will Help You Maintain Your Strength as You Age](https://www.cnet.com/health/fitness/3-exercises-that-will-help-you-maintain-your-strength-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

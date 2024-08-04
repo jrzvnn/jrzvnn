@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 😝 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - 💣 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
- - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Wait for it.](http://9gag.com/gag/a1mdWBw)
+ - 💣 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 😝 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
  - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 ---

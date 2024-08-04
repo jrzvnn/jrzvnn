@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 5 Best Heating Pads in 2024](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
+ - [Best Android Tablet for 2024](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
  - [A Google DeepMind research scientist details some LLM use cases, argues LLMs are not overhyped and should be judged on what they can do, not what they can&#39;t &lpar;Nicholas Carlini&rpar;](http://www.techmeme.com/240804/p7#a240804p7)
- - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Prevent Humidity Buildup in Your Kitchen During Heat Waves With These Tips](https://www.cnet.com/home/smart-home/prevent-humidity-buildup-kitchen-heat-wave/#ftag=CAD590a51e)
- - [Best Soundbar for 2024](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prevent Night Sweats During a Heat Wave With These Simple Tricks](https://www.cnet.com/health/sleep/stop-night-sweats-heat-wave/#ftag=CAD590a51e)
+ - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

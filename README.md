@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A pivotal online hub for ROM hacks goes news-only after two decades](https://www.theverge.com/2024/8/3/24212750/romhacking-net-shuts-down-emulation-roms-classic-gaming)
- - [How YouTube, NBC, Eurosport, and others are enlisting creators to cover the Paris Olympics, to fill in storytelling gaps and captivate a younger generation &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/240803/p10#a240803p10)
- - [How to Keep Your Home Cool in a Heat Wave](https://www.cnet.com/home/security/keep-home-cool-heat-wave-tips/#ftag=CAD590a51e)
- - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Flip6 review: all-day battery, seven years of updates, and widgets for the outer screen are helpful but hard to run full apps &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240803/p9#a240803p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 4, #154](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-4-154/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 4, #420](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-4-420/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 4, #1142](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-4-1142/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-4/#ftag=CAD590a51e)
+ - [A pivotal online hub for ROM hacks goes news-only after two decades](https://www.theverge.com/2024/8/3/24212750/romhacking-net-shuts-down-emulation-roms-classic-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

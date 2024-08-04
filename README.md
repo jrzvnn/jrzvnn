@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
  - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 👉 [The One piece here I come](http://9gag.com/gag/aByw0bP)<!-- MEMES:END -->
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 💣 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 😝 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
+ - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
 
 ---
 

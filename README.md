@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
  - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 💣 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
- - 👉 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)<!-- MEMES:END -->
+ - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 💣 [I Dunno](http://9gag.com/gag/amorY5X)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 👉 [`I&#39;ll retire at the end of the year!!`](http://9gag.com/gag/aGy0ezG)<!-- MEMES:END -->
 
 ---
 

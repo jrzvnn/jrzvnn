@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To Study Tornados, Bring an Apocalypse-Proof Truck. And Rocket Launchers](https://www.wired.com/story/dominator-3-tornado-chaser/)
  - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
  - [Is Your PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset Your Sony Gaming Console](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)
  - [You Should Update Your iPhone to iOS 17.6 Now Before iOS 18&#39;s Release](https://www.cnet.com/tech/services-and-software/you-should-update-your-iphone-to-ios-17-6-now-before-ios-18s-release/#ftag=CAD590a51e)
- - [‘Gem’ of a Proof Breaks 80-Year-Old Record, Offers New Insights Into Prime Numbers](https://www.wired.com/story/sensational-proof-delivers-new-insights-into-prime-numbers/)
- - [T9 Dialing Lands on Your iPhone With the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/t9-dialing-lands-on-your-iphone-with-the-ios-18-betas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Gem’ of a Proof Breaks 80-Year-Old Record, Offers New Insights Into Prime Numbers](https://www.wired.com/story/sensational-proof-delivers-new-insights-into-prime-numbers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

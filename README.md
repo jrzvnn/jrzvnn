@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
- - 💣 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
- - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 👉 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)<!-- MEMES:END -->
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
+ - 😝 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
+ - 👉 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)<!-- MEMES:END -->
 
 ---
 

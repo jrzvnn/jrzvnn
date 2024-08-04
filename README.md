@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a kind reminder](http://9gag.com/gag/a87p396)
- - 😝 [His wife congratulated him with a touch of humor.](http://9gag.com/gag/an7y455)
- - 💣 [I forgot which book I wanted to buy......](http://9gag.com/gag/aAywgWL)
- - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 👉 [May i have some oats brother](http://9gag.com/gag/avyrojZ)<!-- MEMES:END -->
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 😝 [Win for Spain](http://9gag.com/gag/axyg7oW)
+ - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
+ - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 👉 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)<!-- MEMES:END -->
 
 ---
 

@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 💣 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
  - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 👉 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)<!-- MEMES:END -->
+ - 👉 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)<!-- MEMES:END -->
 
 ---
 

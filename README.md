@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
- - 💣 [True](http://9gag.com/gag/aXPAvQ9)
- - 😝 [Did you know that the muscle of our heart is shaped like two spirals?](http://9gag.com/gag/aqyrKqp)
- - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
+ - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 😝 [This kinda shit doesn&#39;t happen where I live. Can someone explain plz this doesn&#39;t make any f**king sense.](http://9gag.com/gag/aGy0e6n)
+ - 💣 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
+ - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 👉 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)<!-- MEMES:END -->
 
 ---
 

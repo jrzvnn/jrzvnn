@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 💣 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
+ - 😝 [If you cant win, at least lose with style](http://9gag.com/gag/aD2j46G)
+ - 😝 [Here&#39;s ma stick mother trucker&#39;s](http://9gag.com/gag/aLnMwZ6)
+ - 💣 [New GTA 6](http://9gag.com/gag/ayNLeM8)
+ - 😝 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)
+ - 👉 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)<!-- MEMES:END -->
 
 ---
 

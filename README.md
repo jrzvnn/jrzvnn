@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence rollout timetable won&#39;t delay iPhone 16](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16?utm_medium=rss)
  - [Logitech Combo Touch for iPad Pro &lpar;2024&rpar; Review: A Must-Have Keyboard Accessory](https://www.wired.com/review/logitech-combo-touch-ipad-pro-13-inch-keyboard-case/)
- - [Crime blotter: Apple Store theft claims $21,000 worth of merchandise](https://appleinsider.com/articles/24/08/04/crime-blotter-apple-store-theft-claims-21000-worth-of-merchandise?utm_medium=rss)
- - [Why iOS 18&#39;s Newest Messaging Features Have Me Hooked](https://www.cnet.com/tech/services-and-software/why-ios-18s-newest-messaging-features-have-me-hooked/#ftag=CAD590a51e)
- - [9 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
- - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Left in the Dark: 23 Million American Households Struggle Without the Affordable Connectivity Program](https://www.cnet.com/home/internet/left-in-the-dark-23-million-americans-struggle-without-the-affordable-connectivity-program/#ftag=CAD590a51e)
+ - [Eat Like a Champion: How Olympians Fuel Their Body for Competition](https://www.cnet.com/health/eat-like-a-champion-how-olympians-fuel-their-body-for-competition/#ftag=CAD590a51e)
+ - [We Found the 6 Best Places to Install Security Cams for Homeowners](https://www.cnet.com/home/security/best-places-to-install-security-cams-for-homeowners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

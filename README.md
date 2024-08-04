@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 👉 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)<!-- MEMES:END -->
+ - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 😝 [Did you know that the muscle of our heart is shaped like two spirals?](http://9gag.com/gag/aqyrKqp)
+ - 💣 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 😝 [Finally! F***around and find out!](http://9gag.com/gag/aqyrgVZ)
+ - 👉 [I forgot which book I wanted to buy......](http://9gag.com/gag/aAywgWL)<!-- MEMES:END -->
 
 ---
 

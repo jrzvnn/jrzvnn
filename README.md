@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why iOS 18&#39;s Newest Messaging Features Have Me Hooked](https://www.cnet.com/tech/services-and-software/why-ios-18s-newest-messaging-features-have-me-hooked/#ftag=CAD590a51e)
+ - [9 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
+ - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)
  - [To Study Tornados, Bring an Apocalypse-Proof Truck. And Rocket Launchers](https://www.wired.com/story/dominator-3-tornado-chaser/)
- - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Is Your PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset Your Sony Gaming Console](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)
- - [You Should Update Your iPhone to iOS 17.6 Now Before iOS 18&#39;s Release](https://www.cnet.com/tech/services-and-software/you-should-update-your-iphone-to-ios-17-6-now-before-ios-18s-release/#ftag=CAD590a51e)
- - [‘Gem’ of a Proof Breaks 80-Year-Old Record, Offers New Insights Into Prime Numbers](https://www.wired.com/story/sensational-proof-delivers-new-insights-into-prime-numbers/)<!-- TECH:END -->
+ - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

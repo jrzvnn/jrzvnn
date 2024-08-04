@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
- - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - 😝 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
- - 👉 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)<!-- MEMES:END -->
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
 
 ---
 

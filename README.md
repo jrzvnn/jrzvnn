@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man will understand.](http://9gag.com/gag/awy5AYy)
- - 😝 [Police inspection](http://9gag.com/gag/aoy2N7w)
- - 💣 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 😝 [Let&#39;s protect our kids from these invaders!](http://9gag.com/gag/aPAMjxQ)
- - 👉 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)<!-- MEMES:END -->
+ - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 👉 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
 
 ---
 

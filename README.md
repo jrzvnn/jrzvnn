@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
  - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 💣 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 👉 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)<!-- MEMES:END -->
+ - 💣 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 👉 [I Dunno](http://9gag.com/gag/amorY5X)<!-- MEMES:END -->
 
 ---
 

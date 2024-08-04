@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mynt, the parent company of Philippines-based e-wallet GCash, more than doubled its valuation to $5B after investments from Ayala Corp, Mitsubishi UFJ Financial &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/240804/p8#a240804p8)
+ - [Best Wireless Mouse for 2024](https://www.cnet.com/tech/computing/best-mouse/#ftag=CAD590a51e)
  - [The 5 Best Heating Pads in 2024](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
  - [Best Android Tablet for 2024](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
- - [A Google DeepMind research scientist details some LLM use cases, argues LLMs are not overhyped and should be judged on what they can do, not what they can&#39;t &lpar;Nicholas Carlini&rpar;](http://www.techmeme.com/240804/p7#a240804p7)
- - [Prevent Night Sweats During a Heat Wave With These Simple Tricks](https://www.cnet.com/health/sleep/stop-night-sweats-heat-wave/#ftag=CAD590a51e)
- - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google DeepMind research scientist details some LLM use cases, argues LLMs are not overhyped and should be judged on what they can do, not what they can&#39;t &lpar;Nicholas Carlini&rpar;](http://www.techmeme.com/240804/p7#a240804p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

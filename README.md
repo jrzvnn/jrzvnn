@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prevent Humidity Buildup in Your Kitchen During Heat Waves With These Tips](https://www.cnet.com/home/smart-home/prevent-humidity-buildup-kitchen-heat-wave/#ftag=CAD590a51e)
+ - [Best Soundbar for 2024](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
  - [A look at the flurry of so-called Zoom rallies supporting the campaign to elect Kamala Harris; one Zoom call reportedly attracted 190K people and raised $4M &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240804/p6#a240804p6)
  - [How to Quickly Charge Your iPhone and Get to 100% Faster](https://www.cnet.com/tech/mobile/how-to-charge-iphone-faster/#ftag=CAD590a51e)
- - [Best Streaming Services for Documentaries](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-documentaries/#ftag=CAD590a51e)
- - [Unlock Your Fitness Goals by Streaming Free Workouts on Your TV](https://www.cnet.com/tech/services-and-software/free-tv-streaming-workouts/#ftag=CAD590a51e)
- - [How to Get Better Cell Phone Signal With Low Reception on iPhone and Android](https://www.cnet.com/tech/mobile/how-to-get-better-cell-phone-signal-iphone-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Streaming Services for Documentaries](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-documentaries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

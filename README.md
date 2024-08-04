@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True](http://9gag.com/gag/aXPAvQ9)
- - 😝 [Man will understand.](http://9gag.com/gag/awy5AYy)
- - 💣 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 💣 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
+ - 👉 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)<!-- MEMES:END -->
 
 ---
 

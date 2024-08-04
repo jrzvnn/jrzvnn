@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 😝 [Did you know that the muscle of our heart is shaped like two spirals?](http://9gag.com/gag/aqyrKqp)
+ - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
+ - 😝 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
  - 💣 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 😝 [Finally! F***around and find out!](http://9gag.com/gag/aqyrgVZ)
- - 👉 [I forgot which book I wanted to buy......](http://9gag.com/gag/aAywgWL)<!-- MEMES:END -->
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
 
 ---
 

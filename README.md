@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Breville Oracle Jet is a $2,000 computer that also makes coffee](https://www.theverge.com/24211592/breville-oracle-jet-espresso-machine-review)
- - [Apple Intelligence rollout timetable won&#39;t delay iPhone 16](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16?utm_medium=rss)
- - [Logitech Combo Touch for iPad Pro &lpar;2024&rpar; Review: A Must-Have Keyboard Accessory](https://www.wired.com/review/logitech-combo-touch-ipad-pro-13-inch-keyboard-case/)
- - [Left in the Dark: 23 Million American Households Struggle Without the Affordable Connectivity Program](https://www.cnet.com/home/internet/left-in-the-dark-23-million-americans-struggle-without-the-affordable-connectivity-program/#ftag=CAD590a51e)
- - [Eat Like a Champion: How Olympians Fuel Their Body for Competition](https://www.cnet.com/health/eat-like-a-champion-how-olympians-fuel-their-body-for-competition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thoughts on first Apple Intelligence beta, which may arrive after the new iPhones launch, Apple&#39;s industrial design team leadership reshuffle, and Q3 earnings &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240804/p3#a240804p3)
+ - [Self-Tanners: Are They Safe? Are They Sunscreen? Dermatologists Weigh In](https://www.cnet.com/health/personal-care/are-self-tanners-safe/#ftag=CAD590a51e)
+ - [How to Eat Your Way to Healthier Eyesight: 12 Best Foods for Vision Health](https://www.cnet.com/health/personal-care/how-to-eat-your-way-to-healthier-eyesight-12-best-foods-for-vision-health/#ftag=CAD590a51e)
+ - [Best Internet Providers With Unlimited Data for 2024](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)
+ - [The Breville Oracle Jet is a $2,000 computer that also makes coffee](https://www.theverge.com/24211592/breville-oracle-jet-espresso-machine-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

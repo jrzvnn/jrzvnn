@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 💣 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
- - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
+ - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
+ - 💣 [True](http://9gag.com/gag/aXPAvQ9)
+ - 😝 [Did you know that the muscle of our heart is shaped like two spirals?](http://9gag.com/gag/aqyrKqp)
+ - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
 
 ---
 

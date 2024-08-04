@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 😝 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
- - 💣 [I Dunno](http://9gag.com/gag/amorY5X)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
  - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 👉 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)<!-- MEMES:END -->
+ - 💣 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 👉 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)<!-- MEMES:END -->
 
 ---
 

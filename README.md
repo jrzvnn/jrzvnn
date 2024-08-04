@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T9 Dialing Lands on Your iPhone With the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/t9-dialing-lands-on-your-iphone-with-the-ios-18-betas/#ftag=CAD590a51e)
  - [See the Perseids and Southern Delta Aquariids in a Stunning Double Meteor Shower](https://www.wired.com/story/see-the-perseids-and-southern-delta-aquariids-in-a-stunning-double-meteor-shower/)
+ - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
  - [Apple Services Q3 revenue topped Mac, iPad, and wearables combined and may soon exceed hardware profits, but its services can&#39;t ever have priority over hardware &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/240804/p2#a240804p2)
- - [One Week Left to Catch the Paris Olympics Live: Your Streaming Guide, Event Schedule and More](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-paris-olympics/#ftag=CAD590a51e)
- - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
- - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One Week Left to Catch the Paris Olympics Live: Your Streaming Guide, Event Schedule and More](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-paris-olympics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

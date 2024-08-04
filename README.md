@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Switzerland banned Hijab and no longer recognizes Islam as an official religion via referendum](http://9gag.com/gag/aW48Y83)
- - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 💣 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
+ - 😝 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 😝 [This](http://9gag.com/gag/aVvDMrO)
+ - 💣 [UK politics right now](http://9gag.com/gag/amor2e6)
+ - 😝 [True](http://9gag.com/gag/aXPAvQ9)
+ - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
 
 ---
 

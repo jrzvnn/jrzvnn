@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
+ - 😝 [This](http://9gag.com/gag/aVvDMrO)
+ - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
+ - 💣 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 😝 [True](http://9gag.com/gag/aXPAvQ9)
+ - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
 
 ---
 

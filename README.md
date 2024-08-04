@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This kinda shit doesn&#39;t happen where I live. Can someone explain plz this doesn&#39;t make any f**king sense.](http://9gag.com/gag/aGy0e6n)
- - 😝 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 💣 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
- - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
- - 👉 [The One piece here I come](http://9gag.com/gag/aByw0bP)<!-- MEMES:END -->
+ - 😝 [Just a kind reminder](http://9gag.com/gag/a87p396)
+ - 😝 [His wife congratulated him with a touch of humor.](http://9gag.com/gag/an7y455)
+ - 💣 [I forgot which book I wanted to buy......](http://9gag.com/gag/aAywgWL)
+ - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 👉 [May i have some oats brother](http://9gag.com/gag/avyrojZ)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first-gen OnePlus Pad is selling for a new low of $379.99](https://www.theverge.com/2024/8/4/24211817/oneplus-pad-android-tablet-xbox-game-pass-ultimate-deal-sale)
  - [The plastic Apple Watch SE could be for kids, and that’s actually exciting](https://www.theverge.com/2024/8/4/24213086/plastic-apple-watch-se-3rd-generation-colors-kid-friendly)
  - [An investigation finds an active trade in Nvidia chips in China despite US restrictions; some Chinese orgs with state military ties have bought restricted chips &lpar;New York Times&rpar;](http://www.techmeme.com/240804/p5#a240804p5)
  - [Best WordPress Hosting of 2024](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
- - [New Macs in 2025 rumored to get at least one major design refresh](https://appleinsider.com/articles/24/08/04/new-macs-in-2025-rumored-to-get-at-least-one-major-design-refresh?utm_medium=rss)
- - [The 6 Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)<!-- TECH:END -->
+ - [New Macs in 2025 rumored to get at least one major design refresh](https://appleinsider.com/articles/24/08/04/new-macs-in-2025-rumored-to-get-at-least-one-major-design-refresh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

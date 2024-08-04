@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This](http://9gag.com/gag/aVvDMrO)
- - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
- - 💣 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 😝 [True](http://9gag.com/gag/aXPAvQ9)
- - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
+ - 😝 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 💣 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 😝 [I Dunno](http://9gag.com/gag/amorY5X)
+ - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
 
 ---
 

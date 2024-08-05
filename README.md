@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Software consultancy Thoughtworks to be taken private by PE firm Apax Partners for ~$1.75B; TWKS jumps 26%+ but is still far below its 2021 IPO price &lpar;Reuters&rpar;](http://www.techmeme.com/240805/p31#a240805p31)
  - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
  - [Judge rules that Google ‘is a monopolist’ in US antitrust case](https://www.theverge.com/2024/8/5/24155520/judge-rules-on-us-doj-v-google-antitrust-search-suit)
  - [US v. Google: a federal judge rules that Google&#39;s payments to make its search engine the default on smartphone web browsers violates antitrust law &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240805/p30#a240805p30)
- - [Photos gets off the Carousel in fifth iOS 18 developer beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Photos gets off the Carousel in fifth iOS 18 developer beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

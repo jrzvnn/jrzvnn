@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)
- - 😝 [The dildo of consequences rarely arrives lubed](http://9gag.com/gag/abA6MAL)
- - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 👉 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)<!-- MEMES:END -->
+ - 😝 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)
+ - 😝 [Go Dave!](http://9gag.com/gag/aPAM7Eq)
+ - 💣 [Relevant](http://9gag.com/gag/ajPqmz8)
+ - 😝 [Intel CPU Issue - ExplainLikeImFive - Piratesoftware](http://9gag.com/gag/ae9Yg4v)
+ - 👉 [9 years.](http://9gag.com/gag/aZZBrRp)<!-- MEMES:END -->
 
 ---
 

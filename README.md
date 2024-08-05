@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s X Is Leaving San Francisco](https://www.wired.com/story/elon-musk-x-twitter-leaving-san-francisco-office/)
  - [OpenAI says it&#39;s changing the format of its DevDay conference this fall to a series of on-the-road developer sessions and GPT-5 will not be announced during it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240805/p37#a240805p37)
  - [Lumen, which sells data center networking and security products, says it secured new deals worth $5B from tech companies amid AI surge; LUMN up 35%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240805/p36#a240805p36)
  - [Palantir raises 2024 revenue guidance to $2.74B-$2.75B and operating income guidance to $966-$974M, vs. $882.9M est., citing AI demand; PLTR up 16%+ after hours &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240805/p35#a240805p35)
- - [Researchers discover a bug, exploited since 2018, in Windows Smart App Control and SmartScreen that lets attackers avoid security warnings for unsigned binaries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p34#a240805p34)
- - [US Federal Judge Declares Google Search a Monopoly in Stunning, Historic Court Ruling](https://www.cnet.com/tech/us-federal-judge-declares-google-search-a-monopoly-in-historic-court-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers discover a bug, exploited since 2018, in Windows Smart App Control and SmartScreen that lets attackers avoid security warnings for unsigned binaries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p34#a240805p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

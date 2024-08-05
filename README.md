@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock getting hammered after international market crashes](https://appleinsider.com/articles/24/08/05/apple-stock-getting-hammered-after-international-market-crashes?utm_medium=rss)
+ - [Donald Trump says Google ‘has to be careful’ or it will be ‘shut down’](https://www.theverge.com/2024/8/5/24212296/trump-vance-google-shut-down-first-amendment)
  - [Savvy Wealth, a digital wealth management service for financial advisors and clients, raised a $26.5M Series A led by Canvas, taking its total funding to $33M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240805/p22#a240805p22)
  - [Amazon launches $849 M3 MacBook Air, $399 AirPods Max, $699 Apple Watch Ultra 2, $1,899 16&quot; MacBook Pro deals](https://appleinsider.com/articles/24/08/05/amazon-launches-849-m3-macbook-air-399-airpods-max-699-apple-watch-ultra-2-1899-16-macbook-pro-deals?utm_medium=rss)
- - [Samsung Galaxy Watch7 review: upgraded chip and sensor, comfortable to wear, and nice circular design, but middling battery life and AI health updates are meh &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240805/p21#a240805p21)
- - [Zelda’s big adventure gets a new trailer](https://www.theverge.com/2024/8/5/24213608/zelda-echoes-of-wisdom-new-trailer-nintendo-switch)
- - [Apple, Nvidia, Alphabet, Amazon, Meta, and Microsoft stocks led a tech stock sell-off amid US recession fears; AAPL drops 5%, NVDA drops 7%+, and MSFT drops 3%+ &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240805/p20#a240805p20)<!-- TECH:END -->
+ - [Samsung Galaxy Watch7 review: upgraded chip and sensor, comfortable to wear, and nice circular design, but middling battery life and AI health updates are meh &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240805/p21#a240805p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

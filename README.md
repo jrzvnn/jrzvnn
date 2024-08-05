@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Mark Zuckerberg on laughing at the memes about him, rebranding Facebook as Meta, learning from the mobile era, Llama, his hobbies, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p13#a240805p13)
- - [ISS astronauts can watch &#39;Ted Lasso&#39; and &#39;For All Mankind&#39; in space](https://appleinsider.com/articles/24/08/05/iss-astronauts-can-watch-ted-lasso-and-for-all-mankind-in-space?utm_medium=rss)
- - [Dacia Spring EV &lpar;2024&rpar; Review: Excellent Value for an Urban EV](https://www.wired.com/review/review-dacia-spring-2024/)
- - [Sources: Chinese generative AI startup Moonshot raised $300M+ at a $3.3B valuation from Tencent, Alibaba, and others, after raising $1B in February 2024 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240805/p12#a240805p12)
- - [Investor letter: Josh Kushner says Thrive Capital raised $1B early-stage and $4B late-stage funds, its largest-ever pair of funds, after backing OpenAI in 2023 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240805/p11#a240805p11)<!-- TECH:END -->
+ - [Elon Musk is suing OpenAI and Sam Altman again](https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived)
+ - [Chinese state media: a state-owned company launched its first batch of internet satellites to rival Starlink, part of plans for 15K+ low Earth orbit satellites &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240805/p15#a240805p15)
+ - [Nvidia using Apple Vision Pro to control humanoid robots](https://appleinsider.com/articles/24/08/05/nvidia-using-apple-vision-pro-to-control-humanoid-robots?utm_medium=rss)
+ - [Get Yourself This Excellent Power Strip for Just $7 While Stock Lasts](https://www.cnet.com/deals/get-yourself-this-excellent-power-strip-for-just-7-while-stock-lasts/#ftag=CAD590a51e)
+ - [Elon Musk revives his OpenAI lawsuit, filing a complaint in California to allege that OpenAI, Sam Altman, and Greg Brockman breached OpenAI&#39;s founding contract &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240805/p14#a240805p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

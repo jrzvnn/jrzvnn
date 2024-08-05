@@ -172,7 +172,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [UK officer tells Sharia gang members to how to avoid getting arrested `if there&#39;s any weapon just hide them in a mosque`](http://9gag.com/gag/a4PZ1jw)
  - 💣 [Alternative realities](http://9gag.com/gag/aD2jdqx)
  - 😝 [Relevant](http://9gag.com/gag/ajPqmz8)
- - 👉 [Go Dave!](http://9gag.com/gag/aPAM7Eq)<!-- MEMES:END -->
+ - 👉 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)<!-- MEMES:END -->
 
 ---
 

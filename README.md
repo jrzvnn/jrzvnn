@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
+ - 😝 [You did it too. And so did I.](http://9gag.com/gag/aRBKXPB)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 💣 [Tay tay is a broomstick!](http://9gag.com/gag/aE0R0YM)
  - 😝 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
- - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
- - 👉 [Tay tay is a broomstick!](http://9gag.com/gag/aE0R0YM)<!-- MEMES:END -->
+ - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
 
 ---
 

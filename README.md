@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go to jail](http://9gag.com/gag/amorg49)
- - 😝 [Facts and statistics are now considered a crime in Europe](http://9gag.com/gag/aKG2mxQ)
- - 💣 [A real chad.](http://9gag.com/gag/aZZBr26)
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)<!-- MEMES:END -->
+ - 😝 [The joy of pi\u00f1atas](http://9gag.com/gag/a1mdPP2)
+ - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
+ - 💣 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
 
 ---
 

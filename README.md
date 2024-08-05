@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: the vast majority of damages from July&#39;s CrowdStrike global IT outage will go uninsured; CrowdStrike reported nearly 24K enterprise customers in Q1 &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240805/p3#a240805p3)
  - [Don&#39;t Wait to Grab High-Yield Savings Account Rates as High as 5.45% APY, Aug. 5, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-aug-5-2024/#ftag=CAD590a51e)
  - [Music streaming has exited its high-growth era, as big streaming services pick up fewer new subscribers, causing revenue shortfalls for music labels &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240805/p2#a240805p2)
  - [10 Best Places to Buy Plants Online for 2024](https://www.cnet.com/news/best-places-to-buy-plants-online/#ftag=CAD590a51e)
- - [Best 4K Home Security Cameras for 2024](https://www.cnet.com/home/security/best-4k-home-security-cameras/#ftag=CAD590a51e)
- - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)<!-- TECH:END -->
+ - [Best 4K Home Security Cameras for 2024](https://www.cnet.com/home/security/best-4k-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)
- - 😝 [No good woman](http://9gag.com/gag/axyg1Lb)
- - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
  - 😝 [Win for Spain](http://9gag.com/gag/axyg7oW)
+ - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
+ - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
  - 👉 [Half Half](http://9gag.com/gag/a87pGXe)<!-- MEMES:END -->
 
 ---

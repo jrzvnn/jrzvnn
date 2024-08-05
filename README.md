@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - 😝 [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 💣 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
+ - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
+ - 👉 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)<!-- MEMES:END -->
 
 ---
 

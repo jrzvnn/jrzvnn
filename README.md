@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)
+ - [The rugged Apple Watch Ultra 2 has returned to its Prime Day low](https://www.theverge.com/2024/8/5/24214042/apple-watch-ultra-2-ocean-band-trail-alpine-loop-strap-deal-sale)
  - [‘Dark oxygen’ discovered on the seafloor raises stakes for deep-sea mining negotiations](https://www.theverge.com/2024/8/5/24211885/dark-oxygen-discovery-ocean-abyss-battery-mining-rules)
  - [End of an era: Apple&#39;s SuperDrive has finally sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years?utm_medium=rss)
- - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
- - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
- - [Q&amp;A with Booking CEO Glenn Fogel on the company&#39;s Booking.com, OpenTable, Kayak, Priceline, and Agoda brands, using AI to book trips, hotel industry, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240805/p38#a240805p38)<!-- TECH:END -->
+ - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

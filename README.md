@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
- - 😝 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 💣 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
- - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
+ - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
+ - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 💣 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)
+ - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
 
 ---
 

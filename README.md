@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
- - 💣 [Thousands of British people gather outside immigration hotel in Rotherham.](http://9gag.com/gag/aByw282)
- - 😝 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)
- - 👉 [Relevant](http://9gag.com/gag/ajPqmz8)<!-- MEMES:END -->
+ - 😝 [Most aware women driver](http://9gag.com/gag/aVvDwny)
+ - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
+ - 😝 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
+ - 👉 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)<!-- MEMES:END -->
 
 ---
 

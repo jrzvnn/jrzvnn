@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)
  - [Today&#39;s NYT Mini Crossword Answers for Aug. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-5/#ftag=CAD590a51e)
  - [Sources: the US Dept. of Commerce plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 5, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-5-421/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for August 5, #1143](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-5-1143/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 5, #155](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-5-155/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for August 5, #1143](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-5-1143/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

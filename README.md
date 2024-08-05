@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most aware women driver](http://9gag.com/gag/aVvDwny)
- - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - 😝 [Uk police together with muslims attack people](http://9gag.com/gag/amorP5j)
- - 👉 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)<!-- MEMES:END -->
+ - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 💣 [No good woman](http://9gag.com/gag/axyg1Lb)
+ - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 👉 [UK officer tells Sharia gang members to how to avoid getting arrested `if there&#39;s any weapon just hide them in a mosque`](http://9gag.com/gag/a4PZ1jw)<!-- MEMES:END -->
 
 ---
 

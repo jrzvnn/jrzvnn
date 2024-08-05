@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)
- - 😝 [Go Dave!](http://9gag.com/gag/aPAM7Eq)
- - 💣 [Relevant](http://9gag.com/gag/ajPqmz8)
- - 😝 [Intel CPU Issue - ExplainLikeImFive - Piratesoftware](http://9gag.com/gag/ae9Yg4v)
- - 👉 [9 years.](http://9gag.com/gag/aZZBrRp)<!-- MEMES:END -->
+ - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 💣 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
+ - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
+ - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
 
 ---
 

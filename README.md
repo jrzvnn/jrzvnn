@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [End of an era: Apple&#39;s SuperDrive has finally sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years?utm_medium=rss)
  - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
  - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
  - [Q&amp;A with Booking CEO Glenn Fogel on the company&#39;s Booking.com, OpenTable, Kayak, Priceline, and Agoda brands, using AI to book trips, hotel industry, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240805/p38#a240805p38)
- - [Elon Musk’s X Is Leaving San Francisco](https://www.wired.com/story/elon-musk-x-twitter-leaving-san-francisco-office/)
- - [Judge Declares Google a Monopoly: What Comes Next](https://www.cnet.com/tech/us-federal-judge-declares-google-search-a-monopoly-in-historic-court-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s X Is Leaving San Francisco](https://www.wired.com/story/elon-musk-x-twitter-leaving-san-francisco-office/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

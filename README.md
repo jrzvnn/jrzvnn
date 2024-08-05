@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investor letter: Josh Kushner says Thrive Capital raised $1B early-stage and $4B late-stage funds, its largest-ever pair of funds, after backing OpenAI in 2023 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240805/p11#a240805p11)
  - [AI chip startup Groq raised a $640M Series D led by BlackRock at a $2.8B valuation, up from $1B after raising $300M in 2021, and adds an Intel executive as COO &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240805/p10#a240805p10)
  - [Jane Goodall Thinks It’s Not Too Late to Save the World](https://www.wired.com/story/wired-czechia-jane-goodall-q-and-a-conservation/)
  - [The EU Commission says TikTok agreed to permanently withdraw TikTok Lite&#39;s &quot;Reward programme&quot; in the EU to comply with the DSA and not launch a similar program &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/240805/p9#a240805p9)
- - [Infineon reports Q3 revenue down 9.5% YoY to &amp;euro;3.7B, below &amp;euro;3.79B est., and &amp;euro;2.11B in automotive chip sales, down from &amp;euro;2.13B in Q3 2023; IFX is down 24% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p8#a240805p8)
- - [Bitcoin drops to ~$52,500, its lowest level since February 2024 and down nearly 16% since August 3, and ether drops 15% to ~$2,300, as global markets plummet &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/240805/p7#a240805p7)<!-- TECH:END -->
+ - [Infineon reports Q3 revenue down 9.5% YoY to &amp;euro;3.7B, below &amp;euro;3.79B est., and &amp;euro;2.11B in automotive chip sales, down from &amp;euro;2.13B in Q3 2023; IFX is down 24% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p8#a240805p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
- - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
+ - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
+ - 😝 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
+ - 💣 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
 
 ---
 

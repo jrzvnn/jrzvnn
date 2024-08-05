@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never thought that&#39;d work](http://9gag.com/gag/a2vdRyY)
- - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
- - 💣 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
  - 😝 [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 👉 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)<!-- MEMES:END -->
 
 ---
 

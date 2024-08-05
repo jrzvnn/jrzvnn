@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin drops to ~$52,500, its lowest level since February 2024 and down nearly 16% since August 3, and ether drops 15% to ~$2,300, as global markets plummet &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/240805/p7#a240805p7)
+ - [How Project 2025 Would Put US Elections at Risk](https://www.wired.com/story/project-2025-cisa-election-critical-infrastructure-security/)
  - [After failing to win concessions, ~6,500 unionized Samsung Electronics workers in South Korea, who declared an indefinite strike in July, returned to work &lpar;Jin Yu Young/New York Times&rpar;](http://www.techmeme.com/240805/p6#a240805p6)
- - [CrowdStrike says Delta CEO Ed Bastian failed to respond to an assistance offer from CEO George Kurtz; CrowdStrike hopes Delta will &quot;agree to work cooperatively&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p5#a240805p5)
- - [JLab Hear OTC Hearing Aid Review: Super Affordable](https://www.wired.com/review/jlab-hear-otc-hearing-aid/)
- - [Elon Musk says Neuralink has implanted its device in a second trial patient, who had a spinal cord injury, and 400 of the implant&#39;s 1,024 electrodes are working &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240805/p4#a240805p4)
- - [CrowdStrike says it’s not to blame for Delta’s days-long outage](https://www.theverge.com/2024/8/5/24213521/crowdstrike-refutes-blame-delta-outage-litigation)<!-- TECH:END -->
+ - [You Can Mirror Your iPhone on Your Mac With iOS 18 and macOS Sequoia](https://www.cnet.com/tech/services-and-software/you-can-mirror-your-iphone-on-your-mac-with-ios-18-and-macos-sequoia/#ftag=CAD590a51e)
+ - [CrowdStrike says Delta CEO Ed Bastian failed to respond to an assistance offer from CEO George Kurtz; CrowdStrike hopes Delta will &quot;agree to work cooperatively&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p5#a240805p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

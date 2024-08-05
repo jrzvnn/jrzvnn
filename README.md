@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
  - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 😝 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)
+ - 😝 [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 💣 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)
+ - 😝 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
  - 👉 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)<!-- MEMES:END -->
 
 ---

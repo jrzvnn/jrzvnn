@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Lenovo may have leaked a smaller Legion Go gaming handheld months ago](https://www.theverge.com/2024/8/5/24213665/lenovo-legion-go-s-lite-leak-faq-7-inch)
  - [Apple stock getting hammered after international market crashes](https://appleinsider.com/articles/24/08/05/apple-stock-getting-hammered-after-international-market-crashes?utm_medium=rss)
- - [Donald Trump says Google ‘has to be careful’ or it will be ‘shut down’](https://www.theverge.com/2024/8/5/24212296/trump-vance-google-shut-down-first-amendment)
- - [Savvy Wealth, a digital wealth management service for financial advisors and clients, raised a $26.5M Series A led by Canvas, taking its total funding to $33M+ &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240805/p22#a240805p22)
- - [Amazon launches $849 M3 MacBook Air, $399 AirPods Max, $699 Apple Watch Ultra 2, $1,899 16&quot; MacBook Pro deals](https://appleinsider.com/articles/24/08/05/amazon-launches-849-m3-macbook-air-399-airpods-max-699-apple-watch-ultra-2-1899-16-macbook-pro-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Mortgage Rate Predictions for the Week of Aug. 5-11, 2024](https://www.cnet.com/personal-finance/mortgage-rate-predictions/#ftag=CAD590a51e)
+ - [5 Ways Sleeping Naked Might Backfire for Your Health](https://www.cnet.com/health/sleep/5-ways-sleeping-naked-might-backfire-for-your-health/#ftag=CAD590a51e)
+ - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

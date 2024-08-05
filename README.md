@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo from Microsoft&#39;s chief people officer: &quot;everyone at Microsoft&quot; now has &quot;security&quot; as a &quot;Core Priority&quot;, used in performance reviews &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240805/p25#a240805p25)
+ - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)
  - [Apple hands out fifth beta round of fall OS updates to developers](https://appleinsider.com/articles/24/08/05/apple-hands-out-fifth-beta-round-of-fall-os-updates-to-developers?utm_medium=rss)
  - [Video game actors are officially on strike over AI](https://www.theverge.com/2024/8/5/24213808/video-game-voice-actor-strike-sag-aftra)
- - [Every Microsoft employee is now being judged on their security work](https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority)
- - [Sources: Nvidia scraped sources like Netflix and YouTube to train an unreleased foundational model; concerned staff were told they had full clearance to do so &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240805/p24#a240805p24)
- - [Samsung Galaxy S24 Ultra Is Now Cheaper Than Ever Before at Amazon](https://www.cnet.com/deals/samsung-galaxy-s24-ultra-is-now-cheaper-than-ever-before-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every Microsoft employee is now being judged on their security work](https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

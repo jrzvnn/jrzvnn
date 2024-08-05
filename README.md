@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After failing to win concessions, ~6,500 unionized Samsung Electronics workers in South Korea, who declared an indefinite strike in July, returned to work &lpar;Jin Yu Young/New York Times&rpar;](http://www.techmeme.com/240805/p6#a240805p6)
+ - [CrowdStrike says Delta CEO Ed Bastian failed to respond to an assistance offer from CEO George Kurtz; CrowdStrike hopes Delta will &quot;agree to work cooperatively&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p5#a240805p5)
  - [JLab Hear OTC Hearing Aid Review: Super Affordable](https://www.wired.com/review/jlab-hear-otc-hearing-aid/)
  - [Elon Musk says Neuralink has implanted its device in a second trial patient, who had a spinal cord injury, and 400 of the implant&#39;s 1,024 electrodes are working &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240805/p4#a240805p4)
- - [CrowdStrike says it’s not to blame for Delta’s days-long outage](https://www.theverge.com/2024/8/5/24213521/crowdstrike-refutes-blame-delta-outage-litigation)
- - [Analysis: the vast majority of damages from July&#39;s CrowdStrike global IT outage will go uninsured; CrowdStrike reported nearly 24K enterprise customers in Q1 &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240805/p3#a240805p3)
- - [Don&#39;t Wait to Grab High-Yield Savings Account Rates as High as 5.45% APY, Aug. 5, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-aug-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CrowdStrike says it’s not to blame for Delta’s days-long outage](https://www.theverge.com/2024/8/5/24213521/crowdstrike-refutes-blame-delta-outage-litigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

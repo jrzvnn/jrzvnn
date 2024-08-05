@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK says &quot;there&#39;s no justification&quot; for Elon Musk saying that &quot;civil war is inevitable&quot;, and calls on social media companies to moderate more misinformation &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/240805/p17#a240805p17)
- - [iPhone Fold - what the rumor mill thinks is on the way, and when](https://appleinsider.com/articles/24/08/05/iphone-fold---what-the-rumor-mill-thinks-is-on-the-way-and-when?utm_medium=rss)
- - [Silicon Valley&#39;s Trump supporters are making the same mistake as all powerful people who back authoritarians: they can&#39;t control him and he won&#39;t keep promises &lpar;Michael Moritz/Financial Times&rpar;](http://www.techmeme.com/240805/p16#a240805p16)
- - [Elon Musk is suing OpenAI and Sam Altman again](https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived)
- - [Chinese state media: a state-owned company launched its first batch of internet satellites to rival Starlink, part of plans for 15K+ low Earth orbit satellites &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240805/p15#a240805p15)<!-- TECH:END -->
+ - [The next state to get Apple Wallet driver&#39;s licenses is probably California](https://appleinsider.com/articles/24/08/05/the-next-state-to-get-apple-wallet-drivers-licenses-is-probably-california?utm_medium=rss)
+ - [Rumored thinner iPhone may be called the iPhone Air, guesses pundit](https://appleinsider.com/articles/24/08/05/rumored-thinner-iphone-may-be-called-the-iphone-air-guesses-pundit?utm_medium=rss)
+ - [Zoom Is Going After Google and Microsoft With AI-Driven Docs](https://www.wired.com/story/zoom-is-going-after-google-and-microsoft-with-ai-driven-docs/)
+ - [Samsung Galaxy Watch 7 review: tried and true](https://www.theverge.com/24211888/samsung-galaxy-watch-7-review-smartwatch-wearables)
+ - [Max’s new homepage personalization tech makes viewers stick around, says exec](https://www.theverge.com/2024/8/5/24210825/max-personalized-homepage-viewers-watch-more)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

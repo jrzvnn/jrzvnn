@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at some of Apple&#39;s pre-prompt instructions for Apple Intelligence, including &quot;do not hallucinate&quot; for a text generation feature &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240805/p39#a240805p39)
+ - [Trump appeared on a Kick livestream with Adin Ross, then things got weird](https://www.theverge.com/2024/8/5/24214007/trump-adin-ross-livestream-kick-2024-presidential-election)
  - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)
  - [The rugged Apple Watch Ultra 2 has returned to its Prime Day low](https://www.theverge.com/2024/8/5/24214042/apple-watch-ultra-2-ocean-band-trail-alpine-loop-strap-deal-sale)
- - [‘Dark oxygen’ discovered on the seafloor raises stakes for deep-sea mining negotiations](https://www.theverge.com/2024/8/5/24211885/dark-oxygen-discovery-ocean-abyss-battery-mining-rules)
- - [End of an era: Apple&#39;s SuperDrive has finally sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years?utm_medium=rss)
- - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)<!-- TECH:END -->
+ - [The Economy Isn&#39;t &#39;Falling Off a Cliff.&#39; Here&#39;s How to Prepare for What&#39;s Next](https://www.cnet.com/personal-finance/the-economy-isnt-falling-off-a-cliff-heres-how-to-prepare-for-whats-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

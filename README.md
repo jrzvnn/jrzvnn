@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you cant win, at least lose with style](http://9gag.com/gag/aD2j46G)
  - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
- - 💣 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 💣 [Powerful](http://9gag.com/gag/aoy2MAe)
  - 😝 [New GTA 6](http://9gag.com/gag/ayNLeM8)
  - 👉 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)<!-- MEMES:END -->
 

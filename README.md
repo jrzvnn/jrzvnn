@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The anti-white racism of the regime on full display](http://9gag.com/gag/aVvDbj8)
- - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 💣 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)
- - 😝 [A journalist warns of the far right as a `new Briton` armed with a sword is framed](http://9gag.com/gag/aZZBZq3)
- - 👉 [The Narrative of The Media Summed Up](http://9gag.com/gag/aryOmby)<!-- MEMES:END -->
+ - 😝 [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
+ - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 💣 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
 

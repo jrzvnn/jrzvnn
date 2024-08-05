@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
- - 💣 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
- - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 😝 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
+ - 💣 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
 
 ---
 

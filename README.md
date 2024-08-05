@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: the US Dept. of Commerce plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)
- - [Despite a weak earnings report, corporations are still buying from Intel, which continues to dominate market share for non-AI computing workloads on servers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240804/p9#a240804p9)
- - [OpenAI won’t watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
- - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
- - [Mynt, the parent company of Philippines-based e-wallet GCash, more than doubled its valuation to $5B after investments from Ayala Corp, Mitsubishi UFJ Financial &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/240804/p8#a240804p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 5, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-5-421/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for August 5, #1143](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-5-1143/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 5, #155](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-5-155/#ftag=CAD590a51e)
+ - [Despite a weak earnings report, corporations are still buying from Intel, which continues to dominate market share for non-AI computing workloads on servers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240804/p9#a240804p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

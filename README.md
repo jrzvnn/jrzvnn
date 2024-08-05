@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
+ - 😝 [Go to jail](http://9gag.com/gag/amorg49)
+ - 😝 [Facts and statistics are now considered a crime in Europe](http://9gag.com/gag/aKG2mxQ)
+ - 💣 [A real chad.](http://9gag.com/gag/aZZBr26)
  - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 👉 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)<!-- MEMES:END -->
 
 ---
 

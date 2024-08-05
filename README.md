@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)
- - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
- - 💣 [For me is a combination of admiration and their physique](http://9gag.com/gag/aoy25e3)
- - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
- - 👉 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)<!-- MEMES:END -->
+ - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
+ - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 💣 [New GTA 6](http://9gag.com/gag/ayNLeM8)
+ - 😝 [Thousands of British people gather outside immigration hotel in Rotherham.](http://9gag.com/gag/aByw282)
+ - 👉 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)<!-- MEMES:END -->
 
 ---
 

@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
  - 😝 [If you cant win, at least lose with style](http://9gag.com/gag/aD2j46G)
- - 😝 [Here&#39;s ma stick mother trucker&#39;s](http://9gag.com/gag/aLnMwZ6)
  - 💣 [New GTA 6](http://9gag.com/gag/ayNLeM8)
  - 😝 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)
  - 👉 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)<!-- MEMES:END -->

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British Riot police circa 2024](http://9gag.com/gag/aGy0Edz)
- - 😝 [Facts and statistics are now considered a crime in Europe](http://9gag.com/gag/aKG2mxQ)
- - 💣 [A real chad.](http://9gag.com/gag/aZZBr26)
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)<!-- MEMES:END -->
+ - 😝 [Never thought that&#39;d work](http://9gag.com/gag/a2vdRyY)
+ - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 💣 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 😝 [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
+ - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
 
 ---
 

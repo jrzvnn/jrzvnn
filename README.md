@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI won’t watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
+ - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
  - [Mynt, the parent company of Philippines-based e-wallet GCash, more than doubled its valuation to $5B after investments from Ayala Corp, Mitsubishi UFJ Financial &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/240804/p8#a240804p8)
- - [The 5 Best Heating Pads in 2024](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
- - [Best Android Tablet for 2024](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
- - [A Google DeepMind research scientist details some LLM use cases, argues LLMs are not overhyped and should be judged on what they can do, not what they can&#39;t &lpar;Nicholas Carlini&rpar;](http://www.techmeme.com/240804/p7#a240804p7)
- - [Prevent Night Sweats During a Heat Wave With These Simple Tricks](https://www.cnet.com/health/sleep/stop-night-sweats-heat-wave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)
+ - [Best Wireless Mouse for 2024](https://www.cnet.com/tech/computing/best-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

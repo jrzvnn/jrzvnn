@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is finally sending checks for its bad MacBook keyboards](https://www.theverge.com/2024/8/5/24213718/apple-butterfly-keyboard-settlement-checks-macbook-pro-air)
+ - [Sources: Samsung plans to bring some Galaxy AI features to select mid-range smartphones as well, including the Galaxy A35 and Galaxy A55 which launched in 2024 &lpar;Mihai Matei/SamMobile&rpar;](http://www.techmeme.com/240805/p23#a240805p23)
  - [Lenovo may have leaked a smaller Legion Go gaming handheld months ago](https://www.theverge.com/2024/8/5/24213665/lenovo-legion-go-s-lite-leak-faq-7-inch)
  - [Apple stock getting hammered after international market crashes](https://appleinsider.com/articles/24/08/05/apple-stock-getting-hammered-after-international-market-crashes?utm_medium=rss)
- - [Mortgage Rate Predictions for the Week of Aug. 5-11, 2024](https://www.cnet.com/personal-finance/mortgage-rate-predictions/#ftag=CAD590a51e)
- - [5 Ways Sleeping Naked Might Backfire for Your Health](https://www.cnet.com/health/sleep/5-ways-sleeping-naked-might-backfire-for-your-health/#ftag=CAD590a51e)
- - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Rate Predictions for the Week of Aug. 5-11, 2024](https://www.cnet.com/personal-finance/mortgage-rate-predictions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

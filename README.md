@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 😝 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
  - 💣 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
- - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
- - 👉 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)<!-- MEMES:END -->
+ - 😝 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
 
 ---
 

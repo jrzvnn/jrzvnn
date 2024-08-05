@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
  - 😝 [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 💣 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
 
 ---
 

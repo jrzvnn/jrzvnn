@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
+ - 😝 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)
+ - 😝 [The dildo of consequences rarely arrives lubed](http://9gag.com/gag/abA6MAL)
+ - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
  - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 💣 [No good woman](http://9gag.com/gag/axyg1Lb)
- - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
  - 👉 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)<!-- MEMES:END -->
 
 ---

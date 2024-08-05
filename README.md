@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Nvidia scraped sources like Netflix and YouTube to train an unreleased foundational model; concerned staff were told they had full clearance to do so &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240805/p24#a240805p24)
+ - [Samsung Galaxy S24 Ultra Is Now Cheaper Than Ever Before at Amazon](https://www.cnet.com/deals/samsung-galaxy-s24-ultra-is-now-cheaper-than-ever-before-at-amazon/#ftag=CAD590a51e)
+ - [Best Galaxy S24 Deals: Get Money Off With Discounts and Trade-Ins](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
  - [Apple is finally sending checks for its bad MacBook keyboards](https://www.theverge.com/2024/8/5/24213718/apple-butterfly-keyboard-settlement-checks-macbook-pro-air)
- - [Sources: Samsung plans to bring some Galaxy AI features to select mid-range smartphones as well, including the Galaxy A35 and Galaxy A55 which launched in 2024 &lpar;Mihai Matei/SamMobile&rpar;](http://www.techmeme.com/240805/p23#a240805p23)
- - [Lenovo may have leaked a smaller Legion Go gaming handheld months ago](https://www.theverge.com/2024/8/5/24213665/lenovo-legion-go-s-lite-leak-faq-7-inch)
- - [Apple stock getting hammered after international market crashes](https://appleinsider.com/articles/24/08/05/apple-stock-getting-hammered-after-international-market-crashes?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Samsung plans to bring some Galaxy AI features to select mid-range smartphones as well, including the Galaxy A35 and Galaxy A55 which launched in 2024 &lpar;Mihai Matei/SamMobile&rpar;](http://www.techmeme.com/240805/p23#a240805p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

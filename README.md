@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
- - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 💣 [New GTA 6](http://9gag.com/gag/ayNLeM8)
- - 😝 [Thousands of British people gather outside immigration hotel in Rotherham.](http://9gag.com/gag/aByw282)
- - 👉 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)<!-- MEMES:END -->
+ - 😝 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)
+ - 😝 [No good woman](http://9gag.com/gag/axyg1Lb)
+ - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 😝 [Win for Spain](http://9gag.com/gag/axyg7oW)
+ - 👉 [Half Half](http://9gag.com/gag/a87pGXe)<!-- MEMES:END -->
 
 ---
 

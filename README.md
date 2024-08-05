@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t Wait to Grab High-Yield Savings Account Rates as High as 5.45% APY, Aug. 5, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-aug-5-2024/#ftag=CAD590a51e)
  - [Music streaming has exited its high-growth era, as big streaming services pick up fewer new subscribers, causing revenue shortfalls for music labels &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240805/p2#a240805p2)
+ - [10 Best Places to Buy Plants Online for 2024](https://www.cnet.com/news/best-places-to-buy-plants-online/#ftag=CAD590a51e)
  - [Best 4K Home Security Cameras for 2024](https://www.cnet.com/home/security/best-4k-home-security-cameras/#ftag=CAD590a51e)
- - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-5/#ftag=CAD590a51e)
- - [Sources: US Commerce Department plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)<!-- TECH:END -->
+ - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

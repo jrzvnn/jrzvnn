@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Music streaming has exited its high-growth era, as big streaming services pick up fewer new subscribers, causing revenue shortfalls for music labels &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240805/p2#a240805p2)
+ - [Best 4K Home Security Cameras for 2024](https://www.cnet.com/home/security/best-4k-home-security-cameras/#ftag=CAD590a51e)
  - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)
  - [Today&#39;s NYT Mini Crossword Answers for Aug. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-5/#ftag=CAD590a51e)
- - [Sources: US Commerce Department plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 5, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-5-421/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for August 5, #1143](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-5-1143/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: US Commerce Department plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

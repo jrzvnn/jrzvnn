@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 😝 [Win for Spain](http://9gag.com/gag/axyg7oW)
- - 💣 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 😝 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 👉 [Half Half](http://9gag.com/gag/a87pGXe)<!-- MEMES:END -->
+ - 😝 [No good woman](http://9gag.com/gag/axyg1Lb)
+ - 😝 [Sonic Boom!](http://9gag.com/gag/aAywxrE)
+ - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
+ - 👉 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)<!-- MEMES:END -->
 
 ---
 

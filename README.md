@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)
  - [Source: Placer.ai, which provides AI-powered market research based on location data, raised $75M at a $1.45B valuation, up from $1B at its Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240805/p26#a240805p26)
  - [The Controversial Kids Online Safety Act Faces an Uncertain Future](https://www.wired.com/story/kids-online-safety-act-kosa-stalled-in-house/)
  - [Memo from Microsoft&#39;s chief people officer: &quot;everyone at Microsoft&quot; now has &quot;security&quot; as a &quot;Core Priority&quot;, used in performance reviews &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240805/p25#a240805p25)
- - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)
  - [Apple hands out fifth beta round of fall OS updates to developers](https://appleinsider.com/articles/24/08/05/apple-hands-out-fifth-beta-round-of-fall-os-updates-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

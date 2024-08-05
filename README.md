@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
- - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 💣 [Powerful](http://9gag.com/gag/aoy2MAe)
- - 😝 [New GTA 6](http://9gag.com/gag/ayNLeM8)
- - 👉 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)<!-- MEMES:END -->
+ - 😝 [Never thought that&#39;d work](http://9gag.com/gag/a2vdRyY)
+ - 😝 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)
+ - 💣 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
 

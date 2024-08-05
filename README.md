@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
  - [In an email to staff, Linda Yaccarino says X will close its San Francisco office and move workers to San Jose offices and a new Palo Alto office shared with xAI &lpar;New York Times&rpar;](http://www.techmeme.com/240805/p33#a240805p33)
  - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)
- - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
  - [Google Search Is an Illegal Monopoly, US Judge Rules](https://www.wired.com/story/google-search-antitrust-monopoly-ruling/)
  - [In a new developer beta for iOS, iPadOS, and macOS, Safari gets Distraction Control, which lets users block distracting elements on the page like pop-ups &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240805/p32#a240805p32)<!-- TECH:END -->
 

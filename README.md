@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never thought that&#39;d work](http://9gag.com/gag/a2vdRyY)
- - 😝 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)
- - 💣 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 😝 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)
+ - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
+ - 💣 [For me is a combination of admiration and their physique](http://9gag.com/gag/aoy25e3)
  - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 👉 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)<!-- MEMES:END -->
 
 ---
 

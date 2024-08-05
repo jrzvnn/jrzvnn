@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brian Tong joins HomeKit Insider to talk smarthome, Apple Intelligence &amp; more](https://appleinsider.com/articles/24/08/05/brian-tong-joins-homekit-insider-to-talk-smarthome-apple-intelligence-more?utm_medium=rss)
+ - [An analysis of 200K+ English-language AI conversations: 21% of people use chatbots for creative writing, 18% for homework help, 17% for search, and 15% for work &lpar;Washington Post&rpar;](http://www.techmeme.com/240805/p18#a240805p18)
  - [MacBook Air deals keep cooking with the M3 model hitting a new low price](https://www.theverge.com/good-deals/2024/8/5/24213553/apple-macbook-air-m3-laptop-nintendo-mario-peach-luigi-deal-sale)
  - [Mountain Bikers Are Rewilding Land by Paying the Government to Do It](https://www.wired.com/story/bike-park-wales-rewilding-private-sector-finance/)
- - [Grab This Pickleball Speaker From QVC for Only $60 Right Now](https://www.cnet.com/deals/grab-this-pickleball-speaker-from-qvc-for-only-60-right-now/#ftag=CAD590a51e)
- - [The next state to get Apple Wallet driver&#39;s licenses is probably California](https://appleinsider.com/articles/24/08/05/the-next-state-to-get-apple-wallet-drivers-licenses-is-probably-california?utm_medium=rss)
- - [Rumored thinner iPhone may be called the iPhone Air, guesses pundit](https://appleinsider.com/articles/24/08/05/rumored-thinner-iphone-may-be-called-the-iphone-air-guesses-pundit?utm_medium=rss)<!-- TECH:END -->
+ - [Grab This Pickleball Speaker From QVC for Only $60 Right Now](https://www.cnet.com/deals/grab-this-pickleball-speaker-from-qvc-for-only-60-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

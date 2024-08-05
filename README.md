@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Photos gets off the Carousel in fifth iOS 18 developer beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Lowest price: Apple&#39;s 1TB 14-inch MacBook Pro with M3 Pro chip drops to $1,929](https://appleinsider.com/articles/24/08/05/lowest-price-apples-1tb-14-inch-macbook-pro-with-m3-pro-chip-drops-to-1929?utm_medium=rss)
  - [In a letter, the secretaries of state from PA, WA, MI, NM, and MN ask Elon Musk to change X&#39;s AI assistant Grok to stop it from spreading false election info &lpar;Washington Post&rpar;](http://www.techmeme.com/240805/p29#a240805p29)
- - [Apple hands out fifth beta round of fall OS updates to developers](https://appleinsider.com/articles/24/08/05/apple-hands-out-fifth-beta-round-of-fall-os-updates-to-developers?utm_medium=rss)
- - [Illinois governor signs a bill amending Biometric Information Privacy Act to significantly curb the penalties for improperly collecting and using biometric data &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240805/p27#a240805p27)<!-- TECH:END -->
+ - [Apple hands out fifth beta round of fall OS updates to developers](https://appleinsider.com/articles/24/08/05/apple-hands-out-fifth-beta-round-of-fall-os-updates-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

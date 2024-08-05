@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Lumen, which sells data center networking and security products, says it secured new deals worth $5B from tech companies amid AI surge; LUMN up 35%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240805/p36#a240805p36)
  - [Palantir raises 2024 revenue guidance to $2.74B-$2.75B and operating income guidance to $966-$974M, vs. $882.9M est., citing AI demand; PLTR up 16%+ after hours &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240805/p35#a240805p35)
  - [Researchers discover a bug, exploited since 2018, in Windows Smart App Control and SmartScreen that lets attackers avoid security warnings for unsigned binaries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p34#a240805p34)
- - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)<!-- TECH:END -->
+ - [US Federal Judge Declares Google Search a Monopoly in Stunning, Historic Court Ruling](https://www.cnet.com/tech/us-federal-judge-declares-google-search-a-monopoly-in-historic-court-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

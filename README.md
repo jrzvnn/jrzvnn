@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Samsung Galaxy Watch7 review: upgraded chip and sensor, comfortable to wear, and nice circular design, but middling battery life and AI health updates are meh &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240805/p21#a240805p21)
  - [Zelda’s big adventure gets a new trailer](https://www.theverge.com/2024/8/5/24213608/zelda-echoes-of-wisdom-new-trailer-nintendo-switch)
  - [Apple, Nvidia, Alphabet, Amazon, Meta, and Microsoft stocks led a tech stock sell-off amid US recession fears; AAPL drops 5%, NVDA drops 7%+, and MSFT drops ~4% &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240805/p20#a240805p20)
- - [Booking CEO Glenn Fogel wants you to take out your travel frustrations on AI chatbots](https://www.theverge.com/24212137/booking-ceo-glenn-fogel-priceline-kayak-travel-ai-chatbots-decoder-podcast-interview)
- - [Investor letter: Elliott Management says megacap tech stocks, particularly Nvidia, were in &quot;bubble land&quot;, and AI is &quot;overhyped&quot; and &quot;not ready for prime time&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240805/p19#a240805p19)<!-- TECH:END -->
+ - [23 Little-Known iOS Settings That Can Make Your iPhone So Much Better](https://www.cnet.com/tech/mobile/23-little-known-ios-settings-that-can-make-your-iphone-so-much-better/#ftag=CAD590a51e)
+ - [There&#39;s Still Time to Lock in the Best CD Rates, but Not for Much Longer, Aug. 5, 2024](https://www.cnet.com/personal-finance/cd-rates-today-aug-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

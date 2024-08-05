@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
- - 💣 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
+ - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
+ - 👉 [Indeed.](http://9gag.com/gag/aD2j1Xd)<!-- MEMES:END -->
 
 ---
 

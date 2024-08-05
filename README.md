@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dacia Spring EV &lpar;2024&rpar; Review: Excellent Value for an Urban EV](https://www.wired.com/review/review-dacia-spring-2024/)
+ - [Sources: Chinese generative AI startup Moonshot raised $300M+ at a $3.3B valuation from Tencent, Alibaba, and others, after raising $1B in February 2024 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240805/p12#a240805p12)
  - [Investor letter: Josh Kushner says Thrive Capital raised $1B early-stage and $4B late-stage funds, its largest-ever pair of funds, after backing OpenAI in 2023 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240805/p11#a240805p11)
  - [AI chip startup Groq raised a $640M Series D led by BlackRock at a $2.8B valuation, up from $1B after raising $300M in 2021, and adds an Intel executive as COO &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240805/p10#a240805p10)
- - [Jane Goodall Thinks It’s Not Too Late to Save the World](https://www.wired.com/story/wired-czechia-jane-goodall-q-and-a-conservation/)
- - [The EU Commission says TikTok agreed to permanently withdraw TikTok Lite&#39;s &quot;Reward programme&quot; in the EU to comply with the DSA and not launch a similar program &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/240805/p9#a240805p9)
- - [Infineon reports Q3 revenue down 9.5% YoY to &amp;euro;3.7B, below &amp;euro;3.79B est., and &amp;euro;2.11B in automotive chip sales, down from &amp;euro;2.13B in Q3 2023; IFX is down 24% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p8#a240805p8)<!-- TECH:END -->
+ - [Jane Goodall Thinks It’s Not Too Late to Save the World](https://www.wired.com/story/wired-czechia-jane-goodall-q-and-a-conservation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

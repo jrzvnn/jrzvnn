@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No good woman](http://9gag.com/gag/axyg1Lb)
- - 😝 [Sonic Boom!](http://9gag.com/gag/aAywxrE)
- - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
- - 👉 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)<!-- MEMES:END -->
+ - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
+ - 💣 [Thousands of British people gather outside immigration hotel in Rotherham.](http://9gag.com/gag/aByw282)
+ - 😝 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)
+ - 👉 [Relevant](http://9gag.com/gag/ajPqmz8)<!-- MEMES:END -->
 
 ---
 

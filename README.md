@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch7 review: upgraded chip and sensor, comfortable to wear, and nice circular design, but middling battery life and AI health updates are meh &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240805/p21#a240805p21)
  - [Zelda’s big adventure gets a new trailer](https://www.theverge.com/2024/8/5/24213608/zelda-echoes-of-wisdom-new-trailer-nintendo-switch)
  - [Apple, Nvidia, Alphabet, Amazon, Meta, and Microsoft stocks led a tech stock sell-off amid US recession fears; AAPL drops 5%, NVDA drops 7%+, and MSFT drops ~4% &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240805/p20#a240805p20)
  - [Booking CEO Glenn Fogel wants you to take out your travel frustrations on AI chatbots](https://www.theverge.com/24212137/booking-ceo-glenn-fogel-priceline-kayak-travel-ai-chatbots-decoder-podcast-interview)
- - [Investor letter: Elliott Management says megacap tech stocks, particularly Nvidia, were in &quot;bubble land&quot;, and AI is &quot;overhyped&quot; and &quot;not ready for prime time&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240805/p19#a240805p19)
- - [Brian Tong joins HomeKit Insider to talk smarthome, Apple Intelligence &amp; more](https://appleinsider.com/articles/24/08/05/brian-tong-joins-homekit-insider-to-talk-smarthome-apple-intelligence-more?utm_medium=rss)<!-- TECH:END -->
+ - [Investor letter: Elliott Management says megacap tech stocks, particularly Nvidia, were in &quot;bubble land&quot;, and AI is &quot;overhyped&quot; and &quot;not ready for prime time&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240805/p19#a240805p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

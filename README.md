@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JLab Hear OTC Hearing Aid Review: Super Affordable](https://www.wired.com/review/jlab-hear-otc-hearing-aid/)
+ - [Elon Musk says Neuralink has implanted its device in a second trial patient, who had a spinal cord injury, and 400 of the implant&#39;s 1,024 electrodes are working &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240805/p4#a240805p4)
+ - [CrowdStrike says it’s not to blame for Delta’s days-long outage](https://www.theverge.com/2024/8/5/24213521/crowdstrike-refutes-blame-delta-outage-litigation)
  - [Analysis: the vast majority of damages from July&#39;s CrowdStrike global IT outage will go uninsured; CrowdStrike reported nearly 24K enterprise customers in Q1 &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240805/p3#a240805p3)
- - [Don&#39;t Wait to Grab High-Yield Savings Account Rates as High as 5.45% APY, Aug. 5, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-aug-5-2024/#ftag=CAD590a51e)
- - [Music streaming has exited its high-growth era, as big streaming services pick up fewer new subscribers, causing revenue shortfalls for music labels &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240805/p2#a240805p2)
- - [10 Best Places to Buy Plants Online for 2024](https://www.cnet.com/news/best-places-to-buy-plants-online/#ftag=CAD590a51e)
- - [Best 4K Home Security Cameras for 2024](https://www.cnet.com/home/security/best-4k-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Wait to Grab High-Yield Savings Account Rates as High as 5.45% APY, Aug. 5, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-aug-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - 😝 [No good woman](http://9gag.com/gag/axyg1Lb)
- - 💣 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
+ - 😝 [UK officer tells Sharia gang members to how to avoid getting arrested `if there&#39;s any weapon just hide them in a mosque`](http://9gag.com/gag/a4PZ1jw)
+ - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
+ - 💣 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
  - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
 
 ---

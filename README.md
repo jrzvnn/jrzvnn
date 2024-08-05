@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
- - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
- - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
+ - 😝 [British PM Keir Starmer says he has mobilized a \u201cstanding army\u201d to crush further anti-mass migration protests. He also confirmed that any online dissenter will be arrested and prosecuted. And people thought China censorship was bad lol.](http://9gag.com/gag/aPAMAYq)
+ - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
+ - 💣 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
  - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
 
 ---
 

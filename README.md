@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price: Apple&#39;s 1TB 14-inch MacBook Pro with M3 Pro chip drops to $1,929](https://appleinsider.com/articles/24/08/05/lowest-price-apples-1tb-14-inch-macbook-pro-with-m3-pro-chip-drops-to-1929?utm_medium=rss)
+ - [In a letter, the secretaries of state from PA, WA, MI, NM, and MN ask Elon Musk to change X&#39;s AI assistant Grok to stop it from spreading false election info &lpar;Washington Post&rpar;](http://www.techmeme.com/240805/p29#a240805p29)
+ - [Apple hands out fifth beta round of fall OS updates to developers](https://appleinsider.com/articles/24/08/05/apple-hands-out-fifth-beta-round-of-fall-os-updates-to-developers?utm_medium=rss)
  - [Illinois governor signs a bill amending Biometric Information Privacy Act to significantly curb the penalties for improperly collecting and using biometric data &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240805/p27#a240805p27)
- - [The architect of the initial European Commission proposal behind the EU AI Act says its reach ended up being too broad and it may entrench big US tech companies &lpar;Lionel Laurent/Bloomberg&rpar;](http://www.techmeme.com/240805/p28#a240805p28)
- - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)
- - [Source: Placer.ai, which provides AI-powered market research based on location data, raised $75M at a $1.45B valuation, up from $1B at its Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240805/p26#a240805p26)
- - [The Controversial Kids Online Safety Act Faces an Uncertain Future](https://www.wired.com/story/kids-online-safety-act-kosa-stalled-in-house/)<!-- TECH:END -->
+ - [The architect of the initial European Commission proposal behind the EU AI Act says its reach ended up being too broad and it may entrench big US tech companies &lpar;Lionel Laurent/Bloomberg&rpar;](http://www.techmeme.com/240805/p28#a240805p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

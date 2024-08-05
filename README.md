@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 💣 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
- - 👉 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)<!-- MEMES:END -->
+ - 😝 [The anti-white racism of the regime on full display](http://9gag.com/gag/aVvDbj8)
+ - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 💣 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)
+ - 😝 [A journalist warns of the far right as a `new Briton` armed with a sword is framed](http://9gag.com/gag/aZZBZq3)
+ - 👉 [The Narrative of The Media Summed Up](http://9gag.com/gag/aryOmby)<!-- MEMES:END -->
 
 ---
 

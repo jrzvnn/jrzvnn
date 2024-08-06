@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese shuttler He Bingjiao carries Spanish flag badge onto the podium after her Spanish semifinal opponent&#39;s withdrawal due to injury](http://9gag.com/gag/aKG2G96)
- - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 💣 [This feels like entrapment](http://9gag.com/gag/azxreXz)
- - 😝 [When you pick the cheapest boat tour](http://9gag.com/gag/aO8d8v2)
- - 👉 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)<!-- MEMES:END -->
+ - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 😝 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
+ - 💣 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
+ - 😝 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
+ - 👉 [Where are all the big corporations and and youtubers with support for European lifes matter? It&#39;s like they dont care about us or are paid not to care. Never the less dont stop resisting English men!](http://9gag.com/gag/avyrQ5d)<!-- MEMES:END -->
 
 ---
 

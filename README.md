@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Its the only logical choice](http://9gag.com/gag/a1md79G)
  - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 💣 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)
- - 😝 [Gymnastics in the 1970s was INSANE](http://9gag.com/gag/aVvDg68)
- - 👉 [Fake speed bumper](http://9gag.com/gag/abA6enp)<!-- MEMES:END -->
+ - 💣 [Japan right now](http://9gag.com/gag/aXPAPe9)
+ - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - 👉 [It&#39;s a private matter.](http://9gag.com/gag/aD2jDwK)<!-- MEMES:END -->
 
 ---
 

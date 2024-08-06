@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope that you have license](http://9gag.com/gag/aQzMo1q)
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
+ - 😝 [Yes!](http://9gag.com/gag/aD2j2xd)
+ - 😝 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)
+ - 💣 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
+ - 😝 [What kind of sorcery is this?](http://9gag.com/gag/awy5yrr)
+ - 👉 [No Title](http://9gag.com/gag/azxr5jb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Music debuts Maestro, an AI-powered playlist generator, and Topics, which helps users find podcast episodes by topic and is powered by both AI and humans &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240806/p28#a240806p28)
  - [Razer’s Basilisk V3 Pro, one of our favorite gaming mice, is $30 off](https://www.theverge.com/2024/8/6/24213711/razer-basilisk-v3-pro-gaming-mouse-google-pixel-8a-deal-sale)
  - [Garmin adds watchfaces and more apps to its app store](https://www.theverge.com/2024/8/6/24214639/garmin-connect-iq-smartwatch-app-store)
  - [Release notes indicate macOS may get Apple Intelligence in the EU, unlike iOS and iPadOS, perhaps because of differences in how DMA requirements apply &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240806/p27#a240806p27)
- - [Public Health Experts Want the Olympics to Drop Its Oldest Sponsor](https://www.wired.com/story/public-health-experts-want-the-olympics-to-drop-its-oldest-sponsor/)
- - [‘There’s no price’ Microsoft could pay Apple to use Bing: all the spiciest parts of the Google antitrust ruling](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)<!-- TECH:END -->
+ - [Public Health Experts Want the Olympics to Drop Its Oldest Sponsor](https://www.wired.com/story/public-health-experts-want-the-olympics-to-drop-its-oldest-sponsor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

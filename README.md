@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man helping his girl finding her keys](http://9gag.com/gag/aryOod7)
- - 😝 [Mom instincs never lie](http://9gag.com/gag/aRBKBmG)
- - 💣 [You did it too. And so did I.](http://9gag.com/gag/aRBKXPB)
- - 😝 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)
- - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
+ - 😝 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)
+ - 😝 [Race War Coming To The UK Soon](http://9gag.com/gag/adBqVYj)
+ - 💣 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
+ - 😝 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
+ - 👉 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)<!-- MEMES:END -->
 
 ---
 

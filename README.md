@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI co-founder John Schulman departs to join Anthropic and focus on AI alignment, and says &quot;I&#39;m not leaving due to lack of support for alignment research&quot; &lpar;John Schulman/@johnschulman2&rpar;](http://www.techmeme.com/240805/p40#a240805p40)
+ - [Best Online Cheese Subscriptions and Delivery Services for 2024](https://www.cnet.com/news/best-place-to-buy-cheese-online/#ftag=CAD590a51e)
  - [A look at some of Apple&#39;s pre-prompt instructions for Apple Intelligence, including &quot;do not hallucinate&quot; for a text generation feature &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240805/p39#a240805p39)
  - [Trump appeared on a Kick livestream with Adin Ross, then things got weird](https://www.theverge.com/2024/8/5/24214007/trump-adin-ross-livestream-kick-2024-presidential-election)
- - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)
- - [The rugged Apple Watch Ultra 2 has returned to its Prime Day low](https://www.theverge.com/2024/8/5/24214042/apple-watch-ultra-2-ocean-band-trail-alpine-loop-strap-deal-sale)
- - [The Economy Isn&#39;t &#39;Falling Off a Cliff.&#39; Here&#39;s How to Prepare for What&#39;s Next](https://www.cnet.com/personal-finance/the-economy-isnt-falling-off-a-cliff-heres-how-to-prepare-for-whats-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

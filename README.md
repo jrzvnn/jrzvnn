@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 😝 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
- - 💣 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
- - 😝 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
- - 👉 [Where are all the big corporations and and youtubers with support for European lifes matter? It&#39;s like they dont care about us or are paid not to care. Never the less dont stop resisting English men!](http://9gag.com/gag/avyrQ5d)<!-- MEMES:END -->
+ - 😝 [Man helping his girl finding her keys](http://9gag.com/gag/aryOod7)
+ - 😝 [Mom instincs never lie](http://9gag.com/gag/aRBKBmG)
+ - 💣 [You did it too. And so did I.](http://9gag.com/gag/aRBKXPB)
+ - 😝 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)
+ - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
 
 ---
 

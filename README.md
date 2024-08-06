@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Today&#39;s NYT Mini Crossword Answers for Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-6/#ftag=CAD590a51e)
  - [Samsung starts mass production of world&#39;s thinnest LPDDR5X DRAM, claiming it&#39;s 9% thinner than typical LPDDR5X and improves devices&#39; heat resistance by 21.2% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240805/p47#a240805p47)
  - [How to add money to your Apple Account on iPhone, iPad &amp; Mac](https://appleinsider.com/inside/app-store/tips/how-to-add-money-to-your-apple-account-on-iphone-ipad-mac?utm_medium=rss)
- - [Google releases patches for 46 security vulnerabilities, including an Android kernel zero-day it says &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p46#a240805p46)<!-- TECH:END -->
+ - [Google releases patches for 46 Android security vulnerabilities, including a kernel zero-day it says &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p46#a240805p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

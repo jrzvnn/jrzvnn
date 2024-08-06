@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ziff Davis is buying CNET for just $100 million](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
  - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
  - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)
  - [Apple TV will let users share links out to iPhone with tvOS 18](https://appleinsider.com/articles/24/08/06/apple-tv-will-let-users-share-links-out-to-iphone-with-tvos-18?utm_medium=rss)
- - [Uber reports Q2 revenue up 16% YoY to $10.7B, Gross Bookings up 19% YoY to $40B, vs. $39.7B est., Mobility Gross Bookings up 23% YoY to $20.6B, and 7.4M drivers &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240806/p10#a240806p10)
- - [How Google&#39;s Character.AI deal, which sources say had a $2B licensing fee, and other Big Tech AI deals show startups are seeking bailouts after raising billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240806/p9#a240806p9)<!-- TECH:END -->
+ - [Eager to Try the iOS 18 Beta? First Back Up Your iPhone the Right Way](https://www.cnet.com/tech/mobile/eager-to-try-the-ios-18-beta-first-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

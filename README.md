@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 😝 [There are about 120 mosques in Toronto. Why are they praying in the street?](http://9gag.com/gag/a4PZ3Vm)
- - 💣 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
- - 😝 [Japan right now](http://9gag.com/gag/aXPAPe9)
- - 👉 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)<!-- MEMES:END -->
+ - 😝 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
+ - 😝 [What kind of sorcery is this?](http://9gag.com/gag/awy5yrr)
+ - 💣 [Tommy Robinson, who is hiding from British authorities for daring to speaking out against migrants destroying Britain....](http://9gag.com/gag/ae9Y9MO)
+ - 😝 [Bring more of them to Europe](http://9gag.com/gag/aVvDg8K)
+ - 👉 [Oh yeah, its happening](http://9gag.com/gag/a87p6dV)<!-- MEMES:END -->
 
 ---
 

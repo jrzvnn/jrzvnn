@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [beCreatus DP1310 Hybrid Dock review: Uniting your devices and lifestyles](https://appleinsider.com/articles/24/08/06/becreatus-dp1310-hybrid-dock-review-uniting-your-devices-and-lifestyles?utm_medium=rss)
+ - [Red Ventures sells CNET, an early pioneer of online tech coverage, to Ziff Davis, which owns Mashable, PC Mag, and other brands, a source says for $100M+ &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/240806/p18#a240806p18)
+ - [Future Apple Watch band could detect the smallest finger movements and gestures](https://appleinsider.com/articles/23/04/06/future-apple-watch-band-could-detect-the-smallest-finger-movements-and-gestures?utm_medium=rss)
  - [Keurig’s latest coffee brewer chills out drinks for the pod lovers](https://www.theverge.com/2024/8/6/24213299/keurig-k-brew-and-chill-coffee-maker-iced-cup)
- - [Rumor Roundup: What the 2025 iPhone 17 family may bring to the table](https://appleinsider.com/articles/24/08/06/rumor-roundup-what-the-2025-iphone-17-family-may-bring-to-the-table?utm_medium=rss)
- - [UK filings: since 2023, Saudi Arabia&#39;s PIF has put $750M into Magic Leap, including $160M so far in 2024; Magic Leap says it needs to raise more by next month &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240806/p17#a240806p17)
- - [Google says the Chromecast with Google TV 4K and HD will remain on sale until stocks run out, as the company stops making Chromecast, first launched in 2013 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240806/p16#a240806p16)
- - [NCR Voyix agrees to sell its digital banking business to buyout firm Veritas Capital for $2.45B+ in cash; the platform serves 1,300+ US financial institutions &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240806/p15#a240806p15)<!-- TECH:END -->
+ - [Rumor Roundup: What the 2025 iPhone 17 family may bring to the table](https://appleinsider.com/articles/24/08/06/rumor-roundup-what-the-2025-iphone-17-family-may-bring-to-the-table?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

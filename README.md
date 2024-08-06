@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to scan &amp; sign documents with Scanner for iPhone](https://appleinsider.com/articles/24/08/06/how-to-scan-sign-documents-with-scanner-for-iphone?utm_medium=rss)
+ - [Abnormal Security, which uses ML and AI to detect email cyberattacks, raised a $250M Series D at a $5.1B valuation, up from $4B after raising $210M in May 2022 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240806/p11#a240806p11)
  - [Ziff Davis is buying CNET for just $100 million](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
  - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
- - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)
- - [Apple TV will let users share links out to iPhone with tvOS 18](https://appleinsider.com/articles/24/08/06/apple-tv-will-let-users-share-links-out-to-iphone-with-tvos-18?utm_medium=rss)
- - [Eager to Try the iOS 18 Beta? First Back Up Your iPhone the Right Way](https://www.cnet.com/tech/mobile/eager-to-try-the-ios-18-beta-first-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

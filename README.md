@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 😝 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
- - 💣 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
- - 😝 [Yes!](http://9gag.com/gag/aD2j2xd)
- - 👉 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)<!-- MEMES:END -->
+ - 😝 [Family time](http://9gag.com/gag/aQzMzjW)
+ - 😝 [The last guy seems fun](http://9gag.com/gag/a9yWndL)
+ - 💣 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 😝 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
 
 ---
 

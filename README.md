@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had &quot;not modernized its IT infrastructure&quot; and refused &quot;help&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/240806/p26#a240806p26)
+ - [Distraction Control, Photos &amp; more -- hands on with all the changes in iOS 18 beta 5](https://appleinsider.com/articles/24/08/06/distraction-control-photos-more----hands-on-with-all-the-changes-in-ios-18-beta-5?utm_medium=rss)
  - [Elon Musk’s X Sues Advertisers Over Alleged Conspiracy to Boycott the Platform](https://www.wired.com/story/elon-musk-x-twitter-rumble-sue-advertisers/)
  - [Set-top showdown: Apple TV 4K vs Google TV Streamer compared](https://appleinsider.com/inside/apple-tv-4k/vs/set-top-showdown-apple-tv-4k-vs-google-tv-streamer-compared?utm_medium=rss)
- - [Intel says its Foundry&#39;s lead products on Intel 18A are booting and expects the first external customer chip design tape out in H1 2025 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240806/p25#a240806p25)
- - [A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks](https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/)
- - [Best MicroSD Card Deals: Solve Your Storage Problems for Less](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel says its Foundry&#39;s lead products on Intel 18A are booting and expects the first external customer chip design tape out in H1 2025 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240806/p25#a240806p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

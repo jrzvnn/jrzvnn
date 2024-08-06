@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to scan &amp; sign documents with Scanner for iPhone](https://appleinsider.com/articles/24/08/06/how-to-scan-sign-documents-with-scanner-for-iphone?utm_medium=rss)
- - [Abnormal Security, which uses ML and AI to detect email cyberattacks, raised a $250M Series D at a $5.1B valuation, up from $4B after raising $210M in May 2022 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240806/p11#a240806p11)
- - [Ziff Davis is buying CNET for just $100 million](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
- - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
- - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)<!-- TECH:END -->
+ - [Google unveils the $100 Google TV Streamer, with better performance than Chromecast with Google TV, Thread and Matter support, and more, shipping September 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240806/p12#a240806p12)
+ - [Basketball legend credits Apple Watch&#39;s persistence for making him see a heart doctor](https://appleinsider.com/articles/24/08/06/basketballs-legend-credits-apple-watchs-persistence-for-making-him-see-a-heart-doctor?utm_medium=rss)
+ - [Google 4th-Gen Nest Learning Thermostat and Google TV Streamer: Specs, Features, Price, Release Date](https://www.wired.com/story/google-nest-learning-thermostat-4th-gen-google-tv-streamer/)
+ - [The Google TV Streamer might be the Apple TV 4K rival we’ve been waiting for](https://www.theverge.com/2024/8/6/24214055/google-tv-streamer-features-price-matter-thread)
+ - [Gemini intelligence is coming to Google Home](https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

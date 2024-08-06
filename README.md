@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 💣 [Japan right now](http://9gag.com/gag/aXPAPe9)
- - 😝 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
+ - 😝 [That simple.](http://9gag.com/gag/a4PZn51)
+ - 😝 [Lets see how long this one stays up.](http://9gag.com/gag/aZZB1j6)
+ - 💣 [Fake speed bumper](http://9gag.com/gag/abA6enp)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
 
 ---
 

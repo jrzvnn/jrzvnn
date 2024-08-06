@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer’s Basilisk V3 Pro, one of our favorite gaming mice, is $30 off](https://www.theverge.com/2024/8/6/24213711/razer-basilisk-v3-pro-gaming-mouse-google-pixel-8a-deal-sale)
+ - [Garmin adds watchfaces and more apps to its app store](https://www.theverge.com/2024/8/6/24214639/garmin-connect-iq-smartwatch-app-store)
  - [Release notes indicate macOS may get Apple Intelligence in the EU, unlike iOS and iPadOS, perhaps because of differences in how DMA requirements apply &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240806/p27#a240806p27)
  - [Public Health Experts Want the Olympics to Drop Its Oldest Sponsor](https://www.wired.com/story/public-health-experts-want-the-olympics-to-drop-its-oldest-sponsor/)
- - [‘There’s no price’ Microsoft could pay Apple to use Bing: all the spiciest parts of the Google antitrust ruling](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
- - [Star Wars Jedi: Survivor is coming to last-gen consoles](https://www.theverge.com/2024/8/6/24214608/star-wars-jedi-survivor-xbox-one-ps4-preorder)
- - [Google Search is an illegal monopoly — what happens now?](https://www.theverge.com/2024/8/6/24214641/google-us-monopoly-ruling-what-happens)<!-- TECH:END -->
+ - [‘There’s no price’ Microsoft could pay Apple to use Bing: all the spiciest parts of the Google antitrust ruling](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

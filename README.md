@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Delta ignored Satya Nadella’s offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
- - [Sonos brings TV Audio Swap to its more affordable soundbars — and Android](https://www.theverge.com/2024/8/6/24214510/sonos-ace-tv-audio-swap-beam-ray-android)
- - [AI Is Heating the Olympic Pool](https://www.wired.com/story/ai-is-heating-the-olympic-pool/)
- - [A researcher finds another flaw in Georgia&#39;s voter registration cancellation portal, which has suffered bugs that made submitting requests for Georgians trivial &lpar;Doug Bock Clark/ProPublica&rpar;](http://www.techmeme.com/240806/p23#a240806p23)
- - [ByteDance debuts AI text-to-video app Jimeng AI on iOS in China, after its July 31 Android release; China&#39;s Kuaishou released Kling AI in beta globally in July &lpar;Reuters&rpar;](http://www.techmeme.com/240806/p22#a240806p22)<!-- TECH:END -->
+ - [Best PlayStation Plus Deals: Get a Standard Membership With 20% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
+ - [Why Is My iPhone So Slow? Four Reasons and How to Fix It](https://www.cnet.com/tech/mobile/why-is-my-iphone-so-slow-four-reasons-and-how-to-fix-it/#ftag=CAD590a51e)
+ - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
+ - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
- - 😝 [What kind of sorcery is this?](http://9gag.com/gag/awy5yrr)
- - 💣 [Tommy Robinson, who is hiding from British authorities for daring to speaking out against migrants destroying Britain....](http://9gag.com/gag/ae9Y9MO)
- - 😝 [Bring more of them to Europe](http://9gag.com/gag/aVvDg8K)
- - 👉 [Oh yeah, its happening](http://9gag.com/gag/a87p6dV)<!-- MEMES:END -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 💣 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)
+ - 😝 [Gymnastics in the 1970s was INSANE](http://9gag.com/gag/aVvDg68)
+ - 👉 [Fake speed bumper](http://9gag.com/gag/abA6enp)<!-- MEMES:END -->
 
 ---
 

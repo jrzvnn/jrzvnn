@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
- - 😝 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)
- - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [Mom instincs never lie](http://9gag.com/gag/aRBKBmG)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 😝 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 💣 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 👉 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)<!-- MEMES:END -->
 
 ---
 

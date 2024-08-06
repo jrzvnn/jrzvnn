@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s new Nest Learning Thermostat works with HomeKit through Matter](https://appleinsider.com/articles/24/08/06/googles-new-nest-learning-thermostat-works-with-homekit-through-matter?utm_medium=rss)
+ - [Best OnePlus 11 Deals: Get Big Discounts With Trade-Ins](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)
+ - [Upgrade Your Content With the Elgato Stream Deck Neo While It&#39;s Back Down to $85](https://www.cnet.com/deals/upgrade-your-content-with-the-elgato-stream-deck-neo-while-its-back-down-to-85/#ftag=CAD590a51e)
  - [Behind the YouTube influencers, WhatsApp and Telegram groups, and services like FewFeed fueling Facebook&#39;s problem of creators profiting off of viral &quot;AI slop&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240806/p21#a240806p21)
- - [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)
- - [Apple looking to the past, working on how to put a Mac in a keyboard](https://appleinsider.com/articles/22/02/24/apple-looking-to-the-past-working-on-how-to-put-a-mac-in-a-keyboard?utm_medium=rss)
- - [ProRata.ai, which aims to attribute and share revenue with content owners from AI chatbot subscriptions, raised a $25M Series A, inks deals with media companies &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p20#a240806p20)
- - [Kamala Harris chooses Minnesota Governor Tim Walz as VP running mate](https://www.theverge.com/2024/8/6/24210484/kamala-harris-vp-tim-walz-running-mate-minnesota)<!-- TECH:END -->
+ - [Maxed Out: Inside America&#39;s $1.14 Trillion Credit Card Debt Crisis](https://www.cnet.com/personal-finance/credit-cards/features/maxed-out-inside-americas-credit-card-debt-crisis-and-what-we-do-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

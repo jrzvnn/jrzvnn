@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Stranger Things play is headed to Broadway](https://www.theverge.com/2024/8/6/24214756/stranger-things-play-broadway-netflix)
  - [Instacart reports Q2 revenue up 15% YoY to $823M, vs. $806M est., gross transaction value up 10% to $8.19B; CART jumps 7%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240806/p32#a240806p32)
  - [Reddit Q2: revenue rose 54% YoY to $281.2M, vs. $254M est., Daily Active Uniques increased 51% YoY to 91.2M, and net loss dropped from $41.1M to $10.1M YoY &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240806/p31#a240806p31)
  - [Airbnb reports Q2 revenue up 11% YoY to $2.75B, above estimates, Nights and Experiences Booked up 9% YoY, and Q3 guidance below est.; ABNB down 14%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240806/p30#a240806p30)
- - [Amazon Music’s new ‘Topics’ feature uses AI to recommend podcast episodes](https://www.theverge.com/2024/8/6/24214611/amazon-music-podcast-spotify-artificial-intelligence)
- - [Seattle-based industrial analytics startup Seeq raised a $50M Series D led by Sixth Street Growth, bringing its total raised to ~$165M &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240806/p29#a240806p29)<!-- TECH:END -->
+ - [Amazon Music’s new ‘Topics’ feature uses AI to recommend podcast episodes](https://www.theverge.com/2024/8/6/24214611/amazon-music-podcast-spotify-artificial-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

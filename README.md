@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung starts mass production of world&#39;s thinnest LPDDR5X DRAM, claiming it&#39;s 9% thinner than typical LPDDR5X and improves devices&#39; heat resistance by 21.2% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240805/p47#a240805p47)
  - [How to add money to your Apple Account on iPhone, iPad &amp; Mac](https://appleinsider.com/inside/app-store/tips/how-to-add-money-to-your-apple-account-on-iphone-ipad-mac?utm_medium=rss)
  - [Google releases patches for 46 security vulnerabilities, including an Android kernel zero-day it says &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p46#a240805p46)
- - [Apple and Mozilla will take a big hit if the Google search ruling is upheld; in 2021-2022, $510M out of $593M of Mozilla&#39;s revenue came from its Google deal &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240805/p45#a240805p45)
- - [Deals: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 1TB SSD is on sale for $1,699](https://appleinsider.com/articles/24/08/06/deals-apples-m3-macbook-air-15-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-1699?utm_medium=rss)
- - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 6, #156](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-6-156/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 6, #422](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-6-422/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

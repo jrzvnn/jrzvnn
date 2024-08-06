@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X sues the World Federation of Advertisers, GARM, and GARM members CVS Health, Mars, Orsted, and Unilever over what Linda Yaccarino calls an &quot;illegal boycott&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p24#a240806p24)
+ - [X files antitrust lawsuit against advertisers over ‘illegal boycott’](https://www.theverge.com/2024/8/6/24214536/x-elon-musk-antitrust-lawsuit-advertisers-boycott)
  - [Best PlayStation Plus Deals: Get a Standard Membership With 20% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
  - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
- - [Why Is My iPhone So Slow? Four Reasons and How to Fix It](https://www.cnet.com/tech/mobile/why-is-my-iphone-so-slow-four-reasons-and-how-to-fix-it/#ftag=CAD590a51e)
- - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
- - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Is My iPhone So Slow? Four Reasons and How to Fix It](https://www.cnet.com/tech/mobile/why-is-my-iphone-so-slow-four-reasons-and-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

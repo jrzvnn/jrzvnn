@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US Judge Ruled Google an Illegal Monopolist. Here Are Five Things He Could Do Next](https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/)
  - [Pack Your Bags With 8 Great Deals from Patagonia&#39;s Past-Season Sale](https://www.wired.com/story/patagonias-past-season-sale-2024/)
- - [All of Ember’s self-heating mugs are 20 percent off right now](https://www.theverge.com/2024/8/6/24214778/ember-mug-2-self-heating-tumbler-cup-travel-deal-sale)
- - [US v. Google: Eddy Cue said there&#39;s no price Microsoft could offer to make Bing Safari&#39;s default search engine, stating &quot;they offered to give us Bing for free&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/240806/p33#a240806p33)
- - [Discovered Apple Intelligence prompts show Apple&#39;s attempt at preventing AI disaster](https://appleinsider.com/articles/24/08/06/discovered-apple-intelligence-prompts-show-apples-attempt-at-preventing-ai-disaster?utm_medium=rss)
- - [Apple&#39;s 1TB iPad Pro 13-inch dips to new record low price at $200 off](https://appleinsider.com/articles/24/08/06/apples-1tb-ipad-pro-13-inch-dips-to-new-record-low-price-at-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [Best Electric Lawn Mower Deals: Save on Gear From Top Brands Before Autumn Kicks In](https://www.cnet.com/deals/best-electric-lawnmower-deals/#ftag=CAD590a51e)
+ - [Best Elden Ring Weapons: Locations, Stats and Builds in Shadow of the Erdtree DLC](https://www.cnet.com/tech/gaming/elden-ring-best-weapons-shadow-of-the-erdtree-dlc/#ftag=CAD590a51e)
+ - [All of Ember’s self-heating mugs are 20 percent off right now](https://www.theverge.com/2024/8/6/24214778/ember-mug-2-self-heating-tumbler-cup-travel-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

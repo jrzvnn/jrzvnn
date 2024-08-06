@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI co-founder John Schulman departs to join Anthropic and focus on AI alignment, and says &quot;I&#39;m not leaving due to lack of support for alignment research&quot; &lpar;John Schulman/@johnschulman2&rpar;](http://www.techmeme.com/240805/p40#a240805p40)
- - [Best Online Cheese Subscriptions and Delivery Services for 2024](https://www.cnet.com/news/best-place-to-buy-cheese-online/#ftag=CAD590a51e)
- - [A look at some of Apple&#39;s pre-prompt instructions for Apple Intelligence, including &quot;do not hallucinate&quot; for a text generation feature &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240805/p39#a240805p39)
- - [Trump appeared on a Kick livestream with Adin Ross, then things got weird](https://www.theverge.com/2024/8/5/24214007/trump-adin-ross-livestream-kick-2024-presidential-election)
- - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)<!-- TECH:END -->
+ - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)
+ - [Sources: Black Sesame, which designs chips for self-driving systems, priced its Hong Kong IPO at the low end of its marketed range, raising $133M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p43#a240805p43)
+ - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
+ - [Apple&#39;s shift to AI could allow it to handle searches via Siri and AI chatbots instead of web browsers, softening the blow from the Google antitrust ruling &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240805/p42#a240805p42)
+ - [Source: OpenAI President and co-founder Greg Brockman is taking an extended leave of absence, and product leader Peter Deng, who joined last year, has left &lpar;The Information&rpar;](http://www.techmeme.com/240805/p41#a240805p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

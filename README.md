@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That simple.](http://9gag.com/gag/a4PZn51)
- - 😝 [Lets see how long this one stays up.](http://9gag.com/gag/aZZB1j6)
- - 💣 [Fake speed bumper](http://9gag.com/gag/abA6enp)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
+ - 😝 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
+ - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 😝 [Cop opens fire](http://9gag.com/gag/azxrx6q)
+ - 👉 [Absolute madman](http://9gag.com/gag/aVvDoVy)<!-- MEMES:END -->
 
 ---
 

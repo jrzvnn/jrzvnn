@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
- - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
- - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 💣 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
  - 😝 [Electricity baby!](http://9gag.com/gag/aVvDgY8)
- - 👉 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)<!-- MEMES:END -->
+ - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
 
 ---
 

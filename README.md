@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan right now](http://9gag.com/gag/aXPAPe9)
- - 😝 [The new Indonesian presidential office looks like an evil lair](http://9gag.com/gag/a1mdmV6)
- - 💣 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - 😝 [Date Night](http://9gag.com/gag/aVvDgMK)
  - 😝 [Fake speed bumper](http://9gag.com/gag/abA6enp)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
+ - 💣 [You cut me deep, Shrek.](http://9gag.com/gag/ae9Y4bQ)
+ - 😝 [That simple.](http://9gag.com/gag/a4PZn51)
+ - 👉 [Its the only logical choice](http://9gag.com/gag/a1md79G)<!-- MEMES:END -->
 
 ---
 

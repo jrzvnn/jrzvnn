@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man helping his girl finding her keys](http://9gag.com/gag/aryOod7)
- - 😝 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)
- - 💣 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
- - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
- - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
+ - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 💣 [And so it begins...](http://9gag.com/gag/aZZBrX9)
+ - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
+ - 👉 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)<!-- MEMES:END -->
 
 ---
 

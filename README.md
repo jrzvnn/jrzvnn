@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars Jedi: Survivor is coming to last-gen consoles](https://www.theverge.com/2024/8/6/24214608/star-wars-jedi-survivor-xbox-one-ps4-preorder)
+ - [Google Search is an illegal monopoly — what happens now?](https://www.theverge.com/2024/8/6/24214641/google-us-monopoly-ruling-what-happens)
  - [Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had &quot;not modernized its IT infrastructure&quot; and refused &quot;help&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/240806/p26#a240806p26)
  - [Distraction Control, Photos &amp; more -- hands on with all the changes in iOS 18 beta 5](https://appleinsider.com/articles/24/08/06/distraction-control-photos-more----hands-on-with-all-the-changes-in-ios-18-beta-5?utm_medium=rss)
- - [Elon Musk’s X Sues Advertisers Over Alleged Conspiracy to Boycott the Platform](https://www.wired.com/story/elon-musk-x-twitter-rumble-sue-advertisers/)
- - [Set-top showdown: Apple TV 4K vs Google TV Streamer compared](https://appleinsider.com/inside/apple-tv-4k/vs/set-top-showdown-apple-tv-4k-vs-google-tv-streamer-compared?utm_medium=rss)
- - [Intel says its Foundry&#39;s lead products on Intel 18A are booting and expects the first external customer chip design tape out in H1 2025 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240806/p25#a240806p25)<!-- TECH:END -->
+ - [Elon Musk’s X Sues Advertisers Over Alleged Boycott](https://www.wired.com/story/elon-musk-x-twitter-rumble-sue-advertisers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

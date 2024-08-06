@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes!](http://9gag.com/gag/aD2j2xd)
- - 😝 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)
- - 💣 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
- - 😝 [What kind of sorcery is this?](http://9gag.com/gag/awy5yrr)
- - 👉 [No Title](http://9gag.com/gag/azxr5jb)<!-- MEMES:END -->
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 💣 [This feels like entrapment](http://9gag.com/gag/azxreXz)
+ - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 👉 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)<!-- MEMES:END -->
 
 ---
 

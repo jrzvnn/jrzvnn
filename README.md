@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Intel VP Robert Hallock on the upcoming Lunar Lake chips, Intel using TSMC nodes, and how the Arm vs. x86 power debates are based on a false premise &lpar;Vaidyanathan Subramaniam/Notebookcheck&rpar;](http://www.techmeme.com/240806/p8#a240806p8)
  - [House of the Dragon’s fourth season will be its last](https://www.theverge.com/2024/8/6/24214339/house-of-the-dragon-four-seasons-announced-episodes)
  - [Basketball&#39;s legend credits Apple Watch&#39;s persistence for making him see a heart doctor](https://appleinsider.com/articles/24/08/06/basketballs-legend-credits-apple-watchs-persistence-for-making-him-see-a-heart-doctor?utm_medium=rss)
  - [How Nvidia is racing to build the staff and offices needed to respond to scrutiny by the US, UK, EU, and China; the company controls 90% of the AI chip market &lpar;New York Times&rpar;](http://www.techmeme.com/240806/p7#a240806p7)
- - [Google losing its US antitrust case may have major ripple effects for Apple, Amazon, and Meta, just as Microsoft&#39;s loss in 2000 influenced the Google decision &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240806/p6#a240806p6)
- - [iOS 18 has fulfilled my dream of destroying ads with a Thanos snap](https://www.theverge.com/2024/8/6/24214338/apple-ios-18-thanos-snap-animation-hide-ads)<!-- TECH:END -->
+ - [Small Improvements in Mortgage Rates: Current Mortgage Interest Rates on Aug. 6, 2024](https://www.cnet.com/personal-finance/mortgages/small-improvements-in-mortgage-rates-current-mortgage-interest-rates-on-aug-6-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

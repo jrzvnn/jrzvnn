@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
+ - 😝 [Barefoot?](http://9gag.com/gag/ayNL25Y)
+ - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
  - 💣 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
+ - 😝 [WTH WTH](http://9gag.com/gag/aPAM76B)
  - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
 
 ---

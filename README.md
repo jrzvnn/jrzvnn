@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)
- - 😝 [Race War Coming To The UK Soon](http://9gag.com/gag/adBqVYj)
- - 💣 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
- - 😝 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
- - 👉 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)<!-- MEMES:END -->
+ - 😝 [Man helping his girl finding her keys](http://9gag.com/gag/aryOod7)
+ - 😝 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)
+ - 💣 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
+ - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
+ - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
 
 ---
 

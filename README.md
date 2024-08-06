@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 💣 [And so it begins...](http://9gag.com/gag/aZZBrX9)
- - 😝 [This feels like entrapment](http://9gag.com/gag/azxreXz)
- - 👉 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)<!-- MEMES:END -->
+ - 😝 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
+ - 😝 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)
+ - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 😝 [Mom instincs never lie](http://9gag.com/gag/aRBKBmG)
+ - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
 

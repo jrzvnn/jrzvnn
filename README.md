@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Barefoot?](http://9gag.com/gag/ayNL25Y)
- - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
- - 💣 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - 😝 [WTH WTH](http://9gag.com/gag/aPAM76B)
- - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
+ - 😝 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 😝 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
+ - 💣 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
+ - 😝 [Yes!](http://9gag.com/gag/aD2j2xd)
+ - 👉 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)<!-- MEMES:END -->
 
 ---
 

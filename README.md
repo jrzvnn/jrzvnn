@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK filings: since 2023, Saudi Arabia&#39;s PIF has put $750M into Magic Leap, including $160M so far in 2024; Magic Leap says it needs to raise more by next month &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240806/p17#a240806p17)
+ - [Google says the Chromecast with Google TV 4K and HD will remain on sale until stocks run out, as the company stops making Chromecast, first launched in 2013 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240806/p16#a240806p16)
  - [NCR Voyix agrees to sell its digital banking business to buyout firm Veritas Capital for $2.45B+ in cash; the platform serves 1,300+ US financial institutions &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240806/p15#a240806p15)
  - [Kamala Harris reportedly chooses Minnesota Governor Tim Walz as VP running mate](https://www.theverge.com/2024/8/6/24210484/kamala-harris-vp-tim-walz-running-mate-minnesota)
- - [Amazon says Amazon India chief Manish Tiwary &quot;has decided to pursue an opportunity outside&quot; of Amazon after taking over in late 2020, as competition intensifies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240806/p14#a240806p14)
- - [Google unveils Gemini-based features for Google Home, coming later in 2024: descriptive video captions for Nest cameras, a smarter Assistant for Nest, and more &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240806/p13#a240806p13)
- - [Google unveils the $100 Google TV Streamer, with better performance than Chromecast with Google TV, Thread and Matter support, and more, shipping September 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240806/p12#a240806p12)<!-- TECH:END -->
+ - [Amazon says Amazon India chief Manish Tiwary &quot;has decided to pursue an opportunity outside&quot; of Amazon after taking over in late 2020, as competition intensifies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240806/p14#a240806p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

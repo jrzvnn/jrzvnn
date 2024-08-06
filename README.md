@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kamala Harris chooses Minnesota Governor Tim Walz as VP running mate](https://www.theverge.com/2024/8/6/24210484/kamala-harris-vp-tim-walz-running-mate-minnesota)
+ - [Disney+ adds Iceland immersive environment to Apple Vision Pro](https://appleinsider.com/articles/24/08/06/disney-adds-iceland-immersive-environment-to-apple-vision-pro?utm_medium=rss)
  - [Photos jettisons the Carousel in fifth iOS 18 beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
- - [Quibi’s epic fall and the future of books](https://www.theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast)
- - [Uber says its Advertising annual revenue run-rate passed $1B in Q2, up from $650M+ in Q2 2023; Uber began selling in-app Journey Ads programmatically in June &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/240806/p19#a240806p19)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [beCreatus DP1310 Hybrid Dock review: Uniting your devices and lifestyles](https://appleinsider.com/articles/24/08/06/becreatus-dp1310-hybrid-dock-review-uniting-your-devices-and-lifestyles?utm_medium=rss)<!-- TECH:END -->
+ - [Best Electric Bike for 2024](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
+ - [Quibi’s epic fall and the future of books](https://www.theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

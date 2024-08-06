@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stormtroopers training](http://9gag.com/gag/azxrxqj)
- - 😝 [Is drooling in public frowned upon in Japan?](http://9gag.com/gag/a347Eve)
- - 💣 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
- - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
- - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
+ - 😝 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 💣 [This feels like entrapment](http://9gag.com/gag/azxreXz)
+ - 😝 [When you pick the cheapest boat tour](http://9gag.com/gag/aO8d8v2)
+ - 👉 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to add money to your Apple Account on iPhone, iPad &amp; Mac](https://appleinsider.com/inside/app-store/tips/how-to-add-money-to-your-apple-account-on-iphone-ipad-mac?utm_medium=rss)
+ - [Google releases patches for 46 security vulnerabilities, including an Android kernel zero-day it says &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240805/p46#a240805p46)
  - [Apple and Mozilla will take a big hit if the Google search ruling is upheld; in 2021-2022, $510M out of $593M of Mozilla&#39;s revenue came from its Google deal &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240805/p45#a240805p45)
  - [Deals: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 1TB SSD is on sale for $1,699](https://appleinsider.com/articles/24/08/06/deals-apples-m3-macbook-air-15-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-1699?utm_medium=rss)
- - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)
- - [Sources: Black Sesame, which designs chips for self-driving systems, priced its Hong Kong IPO at the low end of its marketed range, raising $133M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p43#a240805p43)
- - [Judge Says Google Is an Illegal Monopoly: Now What? video](https://www.cnet.com/videos/judge-says-google-is-an-illegal-monopoly-now-what/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

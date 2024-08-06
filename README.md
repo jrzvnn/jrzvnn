@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google losing its US antitrust case may have major ripple effects for Apple, Amazon, and Meta, just as Microsoft&#39;s loss in 2000 influenced the Google decision &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240806/p6#a240806p6)
  - [iOS 18 has fulfilled my dream of destroying ads with a Thanos snap](https://www.theverge.com/2024/8/6/24214338/apple-ios-18-thanos-snap-animation-hide-ads)
  - [The US awards South Korea&#39;s SK Hynix an initial $450M in grants and $500M in loans to build an advanced chip packaging facility in Indiana under the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240806/p5#a240806p5)
- - [The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off &lpar;Financial Times&rpar;](http://www.techmeme.com/240806/p4#a240806p4)
- - [Best Vitamins and Supplements for Joint Health in 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Savings Rates Today – APYs Falter as Recession Fears Grow, August 6, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-6-2024/#ftag=CAD590a51e)
+ - [The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off &lpar;Financial Times&rpar;](http://www.techmeme.com/240806/p4#a240806p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

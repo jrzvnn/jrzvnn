@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Family time](http://9gag.com/gag/aQzMzjW)
- - 😝 [The last guy seems fun](http://9gag.com/gag/a9yWndL)
- - 💣 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 😝 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
- - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
+ - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 👉 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)<!-- MEMES:END -->
 
 ---
 

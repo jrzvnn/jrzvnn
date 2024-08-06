@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You did it too. And so did I.](http://9gag.com/gag/aRBKXPB)
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 💣 [Tay tay is a broomstick!](http://9gag.com/gag/aE0R0YM)
- - 😝 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
- - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
+ - 😝 [Stormtroopers training](http://9gag.com/gag/azxrxqj)
+ - 😝 [Is drooling in public frowned upon in Japan?](http://9gag.com/gag/a347Eve)
+ - 💣 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
+ - 😝 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
 
 ---
 

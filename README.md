@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 1TB SSD is on sale for $1,699](https://appleinsider.com/articles/24/08/06/deals-apples-m3-macbook-air-15-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-1699?utm_medium=rss)
  - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)
  - [Sources: Black Sesame, which designs chips for self-driving systems, priced its Hong Kong IPO at the low end of its marketed range, raising $133M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p43#a240805p43)
- - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
- - [Apple&#39;s shift to AI could allow it to handle searches via Siri and AI chatbots instead of web browsers, softening the blow from the Google antitrust ruling &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240805/p42#a240805p42)
- - [Source: OpenAI President and co-founder Greg Brockman is taking an extended leave of absence, and product leader Peter Deng, who joined last year, has left &lpar;The Information&rpar;](http://www.techmeme.com/240805/p41#a240805p41)<!-- TECH:END -->
+ - [Judge Says Google Is an Illegal Monopoly: Now What? video](https://www.cnet.com/videos/judge-says-google-is-an-illegal-monopoly-now-what/#ftag=CAD590a51e)
+ - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

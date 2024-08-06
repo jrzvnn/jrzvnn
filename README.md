@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
- - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 😝 [Cop opens fire](http://9gag.com/gag/azxrx6q)
- - 👉 [Absolute madman](http://9gag.com/gag/aVvDoVy)<!-- MEMES:END -->
+ - 😝 [How to sleep in an airport without being robbed!](http://9gag.com/gag/a6ZMXxe)
+ - 💣 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 👉 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)<!-- MEMES:END -->
 
 ---
 

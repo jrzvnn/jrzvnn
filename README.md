@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple looking to the past, working on how to put a Mac in a keyboard](https://appleinsider.com/articles/22/02/24/apple-looking-to-the-past-working-on-how-to-put-a-mac-in-a-keyboard?utm_medium=rss)
  - [ProRata.ai, which aims to attribute and share revenue with content owners from AI chatbot subscriptions, raised a $25M Series A, inks deals with media companies &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p20#a240806p20)
  - [Kamala Harris chooses Minnesota Governor Tim Walz as VP running mate](https://www.theverge.com/2024/8/6/24210484/kamala-harris-vp-tim-walz-running-mate-minnesota)
  - [Disney+ adds Iceland immersive environment to Apple Vision Pro](https://appleinsider.com/articles/24/08/06/disney-adds-iceland-immersive-environment-to-apple-vision-pro?utm_medium=rss)
- - [Photos jettisons the Carousel in fifth iOS 18 beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
- - [Quibi’s epic fall and the future of books](https://www.theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast)<!-- TECH:END -->
+ - [Photos jettisons the Carousel in fifth iOS 18 beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

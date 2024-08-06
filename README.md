@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo is expanding its robotaxi service areas in San Francisco and Los Angeles](https://www.theverge.com/2024/8/6/24214454/waymo-robotaxi-expand-service-area-sf-la-map)
  - [X sues the World Federation of Advertisers, GARM, and GARM members CVS Health, Mars, Orsted, and Unilever over what Linda Yaccarino calls an &quot;illegal boycott&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p24#a240806p24)
  - [X files antitrust lawsuit against advertisers over ‘illegal boycott’](https://www.theverge.com/2024/8/6/24214536/x-elon-musk-antitrust-lawsuit-advertisers-boycott)
- - [Microsoft says Delta ignored Satya Nadella’s offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
- - [Sonos brings TV Audio Swap to its more affordable soundbars — and Android](https://www.theverge.com/2024/8/6/24214510/sonos-ace-tv-audio-swap-beam-ray-android)
- - [AI Is Heating the Olympic Pool](https://www.wired.com/story/ai-is-heating-the-olympic-pool/)<!-- TECH:END -->
+ - [Best PlayStation Plus Deals: Get a Standard Membership With 20% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A researcher finds another flaw in Georgia&#39;s voter registration cancellation portal, which has suffered bugs that made submitting requests for Georgians trivial &lpar;Doug Bock Clark/ProPublica&rpar;](http://www.techmeme.com/240806/p23#a240806p23)
+ - [ByteDance debuts AI text-to-video app Jimeng AI on iOS in China, after its July 31 Android release; China&#39;s Kuaishou released Kling AI in beta globally in July &lpar;Reuters&rpar;](http://www.techmeme.com/240806/p22#a240806p22)
  - [Google&#39;s new Nest Learning Thermostat works with HomeKit through Matter](https://appleinsider.com/articles/24/08/06/googles-new-nest-learning-thermostat-works-with-homekit-through-matter?utm_medium=rss)
- - [Best OnePlus 11 Deals: Get Big Discounts With Trade-Ins](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)
- - [Upgrade Your Content With the Elgato Stream Deck Neo While It&#39;s Back Down to $85](https://www.cnet.com/deals/upgrade-your-content-with-the-elgato-stream-deck-neo-while-its-back-down-to-85/#ftag=CAD590a51e)
  - [Behind the YouTube influencers, WhatsApp and Telegram groups, and services like FewFeed fueling Facebook&#39;s problem of creators profiting off of viral &quot;AI slop&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240806/p21#a240806p21)
- - [Maxed Out: Inside America&#39;s $1.14 Trillion Credit Card Debt Crisis](https://www.cnet.com/personal-finance/credit-cards/features/maxed-out-inside-americas-credit-card-debt-crisis-and-what-we-do-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

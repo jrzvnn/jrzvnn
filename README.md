@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
  - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 💣 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
- - 👉 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)<!-- MEMES:END -->
+ - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 😝 [Electricity baby!](http://9gag.com/gag/aVvDgY8)
+ - 👉 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)<!-- MEMES:END -->
 
 ---
 

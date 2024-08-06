@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All of Ember’s self-heating mugs are 20 percent off right now](https://www.theverge.com/2024/8/6/24214778/ember-mug-2-self-heating-tumbler-cup-travel-deal-sale)
+ - [US v. Google: Eddy Cue said there&#39;s no price Microsoft could offer to make Bing Safari&#39;s default search engine, stating &quot;they offered to give us Bing for free&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/240806/p33#a240806p33)
  - [Discovered Apple Intelligence prompts show Apple&#39;s attempt at preventing AI disaster](https://appleinsider.com/articles/24/08/06/discovered-apple-intelligence-prompts-show-apples-attempt-at-preventing-ai-disaster?utm_medium=rss)
  - [Apple&#39;s 1TB iPad Pro 13-inch dips to new record low price at $200 off](https://appleinsider.com/articles/24/08/06/apples-1tb-ipad-pro-13-inch-dips-to-new-record-low-price-at-200-off?utm_medium=rss)
- - [Reddit’s upgraded AMA posts are rolling out this week](https://www.theverge.com/2024/8/6/24214726/reddit-ama-update-upgrade-scheduled-filters-reminders)
- - [Netflix’s Stranger Things play is headed to Broadway](https://www.theverge.com/2024/8/6/24214756/stranger-things-play-broadway-netflix)
- - [Instacart reports Q2 revenue up 15% YoY to $823M, vs. $806M est., gross transaction value up 10% to $8.19B; CART jumps 7%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240806/p32#a240806p32)<!-- TECH:END -->
+ - [Reddit’s upgraded AMA posts are rolling out this week](https://www.theverge.com/2024/8/6/24214726/reddit-ama-update-upgrade-scheduled-filters-reminders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

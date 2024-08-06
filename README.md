@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber reports Q2 revenue up 16% YoY to $10.7B, Gross Bookings up 19% YoY to $40B, vs. $39.7B est., Mobility Gross Bookings up 23% YoY to $20.6B, and 7.4M drivers &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240806/p10#a240806p10)
  - [How Google&#39;s Character.AI deal, which sources say had a $2B licensing fee, and other Big Tech AI deals show startups are seeking bailouts after raising billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240806/p9#a240806p9)
  - [How to Go to Burning Man in an Extreme Climate and Feel Good About It](https://www.wired.com/story/how-to-go-to-burning-man/)
  - [Q&amp;A with Intel VP Robert Hallock on the upcoming Lunar Lake chips, Intel using TSMC nodes, and how the Arm vs. x86 power debates are based on a false premise &lpar;Vaidyanathan Subramaniam/Notebookcheck&rpar;](http://www.techmeme.com/240806/p8#a240806p8)
- - [House of the Dragon’s fourth season will be its last](https://www.theverge.com/2024/8/6/24214339/house-of-the-dragon-four-seasons-announced-episodes)
- - [Basketball&#39;s legend credits Apple Watch&#39;s persistence for making him see a heart doctor](https://appleinsider.com/articles/24/08/06/basketballs-legend-credits-apple-watchs-persistence-for-making-him-see-a-heart-doctor?utm_medium=rss)<!-- TECH:END -->
+ - [House of the Dragon’s fourth season will be its last](https://www.theverge.com/2024/8/6/24214339/house-of-the-dragon-four-seasons-announced-episodes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

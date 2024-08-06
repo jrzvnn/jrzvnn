@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils the $100 Google TV Streamer, with better performance than Chromecast with Google TV, Thread and Matter support, and more, shipping September 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240806/p12#a240806p12)
- - [Basketball legend credits Apple Watch&#39;s persistence for making him see a heart doctor](https://appleinsider.com/articles/24/08/06/basketballs-legend-credits-apple-watchs-persistence-for-making-him-see-a-heart-doctor?utm_medium=rss)
- - [Google 4th-Gen Nest Learning Thermostat and Google TV Streamer: Specs, Features, Price, Release Date](https://www.wired.com/story/google-nest-learning-thermostat-4th-gen-google-tv-streamer/)
- - [The Google TV Streamer might be the Apple TV 4K rival we’ve been waiting for](https://www.theverge.com/2024/8/6/24214055/google-tv-streamer-features-price-matter-thread)
- - [Gemini intelligence is coming to Google Home](https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware)<!-- TECH:END -->
+ - [NCR Voyix agrees to sell its digital banking business to buyout firm Veritas Capital for $2.45B+ in cash; the platform serves 1,300+ US financial institutions &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240806/p15#a240806p15)
+ - [Kamala Harris reportedly chooses Minnesota Governor Tim Walz as VP running mate](https://www.theverge.com/2024/8/6/24210484/kamala-harris-vp-tim-walz-running-mate-minnesota)
+ - [Amazon says Amazon India chief Manish Tiwary &quot;has decided to pursue an opportunity outside&quot; of Amazon after taking over in late 2020, as competition intensifies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240806/p14#a240806p14)
+ - [Google unveils Gemini-based features for Google Home, coming later in 2024: descriptive video captions for Nest cameras, a smarter Assistant for Nest, and more &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240806/p13#a240806p13)
+ - [Google unveils the $100 Google TV Streamer, with better performance than Chromecast with Google TV, Thread and Matter support, and more, shipping September 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240806/p12#a240806p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

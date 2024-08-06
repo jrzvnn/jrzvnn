@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of 20,000 EV stations concludes that charging is still a massive bummer](https://www.theverge.com/2024/8/6/24214581/electric-vehicle-charging-reliability-study-chargehelp)
  - [Reddit says it plans to test AI-powered search result pages later this year, using a combination of first- and third-party tech to power the feature &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240806/p34#a240806p34)
  - [A US Judge Ruled That Google Is an Illegal Monopolist. Here&#39;s What Might Come Next](https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/)
  - [Pack Your Bags With 8 Great Deals from Patagonia&#39;s Past-Season Sale](https://www.wired.com/story/patagonias-past-season-sale-2024/)
- - [Best Electric Lawn Mower Deals: Save on Gear From Top Brands Before Autumn Kicks In](https://www.cnet.com/deals/best-electric-lawnmower-deals/#ftag=CAD590a51e)
- - [Best Elden Ring Weapons: Locations, Stats and Builds in Shadow of the Erdtree DLC](https://www.cnet.com/tech/gaming/elden-ring-best-weapons-shadow-of-the-erdtree-dlc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Lawn Mower Deals: Save on Gear From Top Brands Before Autumn Kicks In](https://www.cnet.com/deals/best-electric-lawnmower-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

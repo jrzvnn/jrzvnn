@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [beCreatus DP1310 Hybrid Dock review: Uniting your devices and lifestyles](https://appleinsider.com/articles/24/08/06/becreatus-dp1310-hybrid-dock-review-uniting-your-devices-and-lifestyles?utm_medium=rss)
- - [Red Ventures sells CNET, an early pioneer of online tech coverage, to Ziff Davis, which owns Mashable, PC Mag, and other brands, a source says for $100M+ &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/240806/p18#a240806p18)
- - [Future Apple Watch band could detect the smallest finger movements and gestures](https://appleinsider.com/articles/23/04/06/future-apple-watch-band-could-detect-the-smallest-finger-movements-and-gestures?utm_medium=rss)
- - [Keurig’s latest coffee brewer chills out drinks for the pod lovers](https://www.theverge.com/2024/8/6/24213299/keurig-k-brew-and-chill-coffee-maker-iced-cup)
- - [Rumor Roundup: What the 2025 iPhone 17 family may bring to the table](https://appleinsider.com/articles/24/08/06/rumor-roundup-what-the-2025-iphone-17-family-may-bring-to-the-table?utm_medium=rss)<!-- TECH:END -->
+ - [Photos jettisons the Carousel in fifth iOS 18 beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
+ - [Quibi’s epic fall and the future of books](https://www.theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast)
+ - [Uber says its Advertising annual revenue run-rate passed $1B in Q2, up from $650M+ in Q2 2023; Uber began selling in-app Journey Ads programmatically in June &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/240806/p19#a240806p19)
+ - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
+ - [beCreatus DP1310 Hybrid Dock review: Uniting your devices and lifestyles](https://appleinsider.com/articles/24/08/06/becreatus-dp1310-hybrid-dock-review-uniting-your-devices-and-lifestyles?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

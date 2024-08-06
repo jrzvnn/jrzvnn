@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
- - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 💣 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
  - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 👉 [There are about 120 mosques in Toronto. Why are they praying in the street?](http://9gag.com/gag/a4PZ3Vm)<!-- MEMES:END -->
+ - 😝 [There are about 120 mosques in Toronto. Why are they praying in the street?](http://9gag.com/gag/a4PZ3Vm)
+ - 💣 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
+ - 😝 [Japan right now](http://9gag.com/gag/aXPAPe9)
+ - 👉 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)<!-- MEMES:END -->
 
 ---
 

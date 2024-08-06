@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
- - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 😝 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 😝 [Finally good customization options.](http://9gag.com/gag/axygW9K)
+ - 💣 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)
  - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 👉 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)<!-- MEMES:END -->
+ - 👉 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)<!-- MEMES:END -->
 
 ---
 

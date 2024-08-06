@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s X Sues Advertisers Over Alleged Conspiracy to Boycott the Platform](https://www.wired.com/story/elon-musk-x-twitter-rumble-sue-advertisers/)
  - [Set-top showdown: Apple TV 4K vs Google TV Streamer compared](https://appleinsider.com/inside/apple-tv-4k/vs/set-top-showdown-apple-tv-4k-vs-google-tv-streamer-compared?utm_medium=rss)
  - [Intel says its Foundry&#39;s lead products on Intel 18A are booting and expects the first external customer chip design tape out in H1 2025 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240806/p25#a240806p25)
  - [A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks](https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/)
- - [Disney Plus, ESPN, and Hulu are all getting more expensive this October](https://www.theverge.com/2024/8/6/24214550/disney-plus-espn-and-hulu-october-price-hike)
- - [Waymo is expanding its robotaxi service areas in San Francisco and Los Angeles](https://www.theverge.com/2024/8/6/24214454/waymo-robotaxi-expand-service-area-sf-la-map)<!-- TECH:END -->
+ - [Best MicroSD Card Deals: Solve Your Storage Problems for Less](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

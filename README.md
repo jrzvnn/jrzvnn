@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [Chinese shuttler He Bingjiao carries Spanish flag badge onto the podium after her Spanish semifinal opponent&#39;s withdrawal due to injury](http://9gag.com/gag/aKG2G96)
+ - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
  - 💣 [This feels like entrapment](http://9gag.com/gag/azxreXz)
  - 😝 [When you pick the cheapest boat tour](http://9gag.com/gag/aO8d8v2)
- - 👉 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)<!-- MEMES:END -->
+ - 👉 [Inside bangladesh parliament](http://9gag.com/gag/aRBKE2M)<!-- MEMES:END -->
 
 ---
 

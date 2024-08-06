@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 💣 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
- - 😝 [Electricity baby!](http://9gag.com/gag/aVvDgY8)
- - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
+ - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 💣 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 👉 [There are about 120 mosques in Toronto. Why are they praying in the street?](http://9gag.com/gag/a4PZ3Vm)<!-- MEMES:END -->
 
 ---
 

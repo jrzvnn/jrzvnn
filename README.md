@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [There are about 120 mosques in Toronto. Why are they praying in the street?](http://9gag.com/gag/a4PZ3Vm)
  - 😝 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - 💣 [This feels like entrapment](http://9gag.com/gag/azxreXz)
- - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 👉 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)<!-- MEMES:END -->
+ - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
 
 ---
 

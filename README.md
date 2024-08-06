@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
+ - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)
  - [Apple TV will let users share links out to iPhone with tvOS 18](https://appleinsider.com/articles/24/08/06/apple-tv-will-let-users-share-links-out-to-iphone-with-tvos-18?utm_medium=rss)
  - [Uber reports Q2 revenue up 16% YoY to $10.7B, Gross Bookings up 19% YoY to $40B, vs. $39.7B est., Mobility Gross Bookings up 23% YoY to $20.6B, and 7.4M drivers &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240806/p10#a240806p10)
- - [How Google&#39;s Character.AI deal, which sources say had a $2B licensing fee, and other Big Tech AI deals show startups are seeking bailouts after raising billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240806/p9#a240806p9)
- - [How to Go to Burning Man in an Extreme Climate and Feel Good About It](https://www.wired.com/story/how-to-go-to-burning-man/)
- - [Q&amp;A with Intel VP Robert Hallock on the upcoming Lunar Lake chips, Intel using TSMC nodes, and how the Arm vs. x86 power debates are based on a false premise &lpar;Vaidyanathan Subramaniam/Notebookcheck&rpar;](http://www.techmeme.com/240806/p8#a240806p8)<!-- TECH:END -->
+ - [How Google&#39;s Character.AI deal, which sources say had a $2B licensing fee, and other Big Tech AI deals show startups are seeking bailouts after raising billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240806/p9#a240806p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

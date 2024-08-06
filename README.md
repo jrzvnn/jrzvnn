@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fake speed bumper](http://9gag.com/gag/abA6enp)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - 💣 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
- - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 👉 [Oh yeah, its happening](http://9gag.com/gag/a87p6dV)<!-- MEMES:END -->
+ - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 😝 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
+ - 💣 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
+ - 😝 [Gymnastics in the 1970s was INSANE](http://9gag.com/gag/aVvDg68)
+ - 👉 [Romanian gymnast Ana Barbosu realizing that a successful protest by USA&#39;s Jordan Chiles meant that she was pushed from 3rd to 4th place](http://9gag.com/gag/a6ZMqxA)<!-- MEMES:END -->
 
 ---
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Riverlane, a Cambridge, UK-based maker of quantum error correction tech, raised a $75M Series C led by Planet First Partners, sources say at a $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240806/p3#a240806p3)
  - [Mainframes are finding a new life in the AI era, as some banks, insurance providers, and airlines look to use them to run AI locally rather than in the cloud &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240806/p2#a240806p2)
+ - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
  - [Sources: Huawei, Baidu, and other Chinese tech companies have been stockpiling Samsung HBM chips since early 2024, in anticipation of US curbs on those chips &lpar;Reuters&rpar;](http://www.techmeme.com/240806/p1#a240806p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-6/#ftag=CAD590a51e)
- - [Samsung starts mass production of world&#39;s thinnest LPDDR5X DRAM, claiming it&#39;s 9% thinner than typical LPDDR5X and improves devices&#39; heat resistance by 21.2% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240805/p47#a240805p47)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

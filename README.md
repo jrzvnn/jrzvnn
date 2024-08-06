@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI unveils Structure Outputs in the API, a feature to ensure model-generated outputs match JSON Schemas, and lower pricing for a new version of GPT-4o &lpar;Michelle Pokrass/OpenAI&rpar;](http://www.techmeme.com/240806/p36#a240806p36)
  - [California&#39;s AI safety bill will harm developers, open-source development, the public sector, and academia, while failing to address the potential harms of AI &lpar;Fei-Fei Li/Fortune&rpar;](http://www.techmeme.com/240806/p35#a240806p35)
  - [An analysis of 20,000 EV stations concludes that charging is still a massive bummer](https://www.theverge.com/2024/8/6/24214581/electric-vehicle-charging-reliability-study-chargehelp)
  - [Reddit says it plans to test AI-powered search result pages later this year, using a combination of first- and third-party tech to power the feature &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240806/p34#a240806p34)
- - [A US Judge Ruled That Google Is an Illegal Monopolist. Here&#39;s What Might Come Next](https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/)
- - [Pack Your Bags With 8 Great Deals from Patagonia&#39;s Past-Season Sale](https://www.wired.com/story/patagonias-past-season-sale-2024/)<!-- TECH:END -->
+ - [This AI Tool Wants to Simplify Video Editing, but You&#39;ll Have to Pay for the Good Stuff](https://www.cnet.com/tech/services-and-software/this-ai-tool-wants-to-simplify-video-editing-but-youll-have-to-pay-for-the-good-stuff/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

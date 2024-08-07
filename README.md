@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is making views the primary metric for content](https://www.theverge.com/2024/8/7/24215398/instagram-primary-metric-views)
- - [Set-top showdown: Apple TV 4K vs Google TV Streamer compared](https://appleinsider.com/inside/apple-tv-4k/vs/set-top-showdown-apple-tv-4k-vs-google-tv-streamer-compared?utm_medium=rss)
- - [Senators want an investigation of the Fox–Disney–Warner Bros sports bundle](https://www.theverge.com/2024/8/7/24215343/warren-sanders-castro-doj-joint-sports-venture-disney-fox-warner-bros)
- - [iPad Pro updates ignite consumer interest, giving a giant boost to sales](https://appleinsider.com/articles/24/08/07/ipad-pro-updates-ignite-consumer-interest-giving-a-giant-boost-to-sales?utm_medium=rss)
- - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)<!-- TECH:END -->
+ - [The Great Barrier Reef faces its biggest threat in centuries](https://www.theverge.com/2024/8/7/24215219/great-barrier-reef-record-temperatures-coral-research)
+ - [A Flaw in Windows Update Opens the Door to Zombie Exploits](https://www.wired.com/story/windows-update-downdate-exploit/)
+ - [Tim Cook is without a question Apple&#39;s chief lobbyist](https://appleinsider.com/articles/24/08/07/tim-cook-is-without-a-question-apples-chief-lobbyist?utm_medium=rss)
+ - [Humane’s daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
+ - [Instagram is making views the primary metric for content](https://www.theverge.com/2024/8/7/24215398/instagram-primary-metric-views)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

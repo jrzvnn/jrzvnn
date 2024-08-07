@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monthly subscription mouse was just speculation, backtracks Logitech](https://appleinsider.com/articles/24/08/07/monthly-subscription-mouse-was-just-speculation-backtracks-logitech?utm_medium=rss)
+ - [Disney reports Q3 revenue up 4% YoY to $23.2B and a $47M streaming business operating profit, up from a $512M loss in Q3 2023, and revenue up 15% YoY to $6.4B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240807/p11#a240807p11)
+ - [Elon Musk Has Turned X Into His Personal Political Playground](https://www.wired.com/story/musk-trump-support-x/)
  - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
- - [Sweden&#39;s EQT plans to buy a majority stake in Swiss cybersecurity and data protection company Acronis, sources say valuing Acronis at $4B, up from $3.5B in 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/240807/p10#a240807p10)
- - [A look at UnDisruptable27, a new project backed by a $700K grant to help fix cybersecurity weaknesses in US water, food, health care, and other vital sectors &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240807/p9#a240807p9)
- - [Users have to confirm screen recording permission every week in macOS Sequoia](https://appleinsider.com/articles/24/08/07/users-have-to-confirm-screen-recording-permission-every-week-in-macos-sequoia?utm_medium=rss)
- - [Kamala Harris’ Campaign Is a Windfall for Influencers](https://www.wired.com/story/harris-campaign-influencers/)<!-- TECH:END -->
+ - [Sweden&#39;s EQT plans to buy a majority stake in Swiss cybersecurity and data protection company Acronis, sources say valuing Acronis at $4B, up from $3.5B in 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/240807/p10#a240807p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

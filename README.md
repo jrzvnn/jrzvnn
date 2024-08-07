@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Opal, previously Opal Camera, which makes $300 webcams, raised a $60M Series B led by OpenAI Startup Fund and plans to make new OpenAI-powered devices &lpar;The Information&rpar;](http://www.techmeme.com/240807/p20#a240807p20)
- - [The RadKick is Rad Power Bikes’ most affordable e-bike yet — and its first belt drive](https://www.theverge.com/2024/8/7/24215204/rad-power-bikes-radkick-ebike-affordable-belt-drive)
- - [Samsung Galaxy S24 Ultra Slashed to Low Price on Amazon](https://www.cnet.com/deals/samsung-galaxy-s24-ultra-slashed-to-low-price-on-amazon/#ftag=CAD590a51e)
- - [When Is the Next Steam Sale? List of Upcoming Steam Sale Dates](https://www.cnet.com/tech/gaming/when-are-steam-sales/#ftag=CAD590a51e)
- - [Best Mental Health Apps of 2024](https://www.cnet.com/health/mental/best-mental-health-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roku will launch a free 24/7 sports channel](https://www.theverge.com/2024/8/7/24215272/roku-sports-channel-mlb-sunday)
+ - [House of the Dragon’s second season was about the quiet moments that shape history](https://www.theverge.com/2024/8/7/24213802/house-of-the-dragon-season-two-finale-night-king)
+ - [Lowest price: Apple&#39;s 1TB 14-inch MacBook Pro with M3 Pro chip drops to $1,929](https://appleinsider.com/articles/24/08/05/lowest-price-apples-1tb-14-inch-macbook-pro-with-m3-pro-chip-drops-to-1929?utm_medium=rss)
+ - [Stripe withholding $100K from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)
+ - [South Korea may get the iPhone 16 at the same time as the US](https://appleinsider.com/articles/24/08/07/south-korea-may-get-the-iphone-16-at-the-same-time-as-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

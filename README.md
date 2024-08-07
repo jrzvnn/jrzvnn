@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Disney CEO Bob Iger says the company&#39;s password sharing crackdown will kick off &quot;in earnest&quot; in September, after announcing paid sharing in February 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240807/p19#a240807p19)
  - [Disney’s password-sharing crackdown starts ‘in earnest’ this September](https://www.theverge.com/2024/8/7/24215224/disney-password-sharing-crackdown-september)
  - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)
- - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)<!-- TECH:END -->
+ - [The limited edition OnePlus Open is the most striking foldable phone yet](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

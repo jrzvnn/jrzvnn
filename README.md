@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
  - [Here&#39;s what iOS 18 and other OS updates have for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
  - [KNIME, an open-source data science and AI platform used by AMD, Audi, and ~400 other customers, raised $30M from Invus, taking its total funding to $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240806/p41#a240806p41)
  - [Apple Towson wins historic labor agreement with pay increases &amp; quality-of-life improvements](https://appleinsider.com/articles/24/08/07/apple-towson-wins-historic-labor-agreement-with-pay-increases-quality-of-life-improvements?utm_medium=rss)
- - [Supermicro shares drop 13% after hours after the company reported Q4 earnings missing analyst expectations, and announces a 10-for-1 stock split &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240806/p40#a240806p40)
- - [Tribit StormBox Speaker review: Simple, yet solid summer speaker](https://appleinsider.com/articles/24/08/07/tribit-stormbox-speaker-review-simple-yet-solid-summer-speaker?utm_medium=rss)<!-- TECH:END -->
+ - [Supermicro shares drop 13% after hours after the company reported Q4 earnings missing analyst expectations, and announces a 10-for-1 stock split &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240806/p40#a240806p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

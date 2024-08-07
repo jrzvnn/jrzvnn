@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
- - 💣 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
- - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - 💣 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
+ - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
  - 👉 [Romanian gymnast Ana Barbosu realizing that a successful protest by USA&#39;s Jordan Chiles meant that she was pushed from 3rd to 4th place](http://9gag.com/gag/a6ZMqxA)<!-- MEMES:END -->
 
 ---

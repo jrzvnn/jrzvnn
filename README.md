@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Riot](http://9gag.com/gag/aE0RAVG)
- - 😝 [Based Elon as usual](http://9gag.com/gag/adBqQXZ)
- - 💣 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
- - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - 👉 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)<!-- MEMES:END -->
+ - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 😝 [He secretly learned Chinese to propose in her native language](http://9gag.com/gag/abA6W8p)
+ - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 👉 [Pedo woman](http://9gag.com/gag/ayNL4Wp)<!-- MEMES:END -->
 
 ---
 

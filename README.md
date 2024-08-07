@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 💣 [I think Trump figured out the pattern](http://9gag.com/gag/a6ZM9DR)
- - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
+ - 😝 [Gimme an armor and an electric racket](http://9gag.com/gag/an7yOGV)
+ - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
+ - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
  - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
 
 ---

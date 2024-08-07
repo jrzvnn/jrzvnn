@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker redesigned its wall charger so it won’t constantly fall out of the outlet](https://www.theverge.com/2024/8/7/24215215/anker-prime-charger-usb-c-gan-power)
  - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM plunges to $1,549](https://appleinsider.com/articles/24/08/07/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-plunges-to-1549?utm_medium=rss)
  - [The Fitbit Ace LTE smartwatch now lets kids buy stuff](https://www.theverge.com/2024/8/7/24215312/fitbit-ace-lte-updates-kids-smartwatch-wearables)
  - [Elgato’s desk-friendly Stream Deck Neo is matching its lowest price to date](https://www.theverge.com/2024/8/7/24214484/elgato-stream-deck-neo-apple-ipad-mini-deal-sale)
- - [Roku plans to launch a free, ad-supported 24/7 sports channel across its devices, apps, and website on August 12, showing live Sunday MLB games and more &lpar;Etan Vlessing/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p21#a240807p21)
- - [When will Apple launch the iPhone 16 and iPhone 16 Pro?](https://appleinsider.com/articles/24/08/07/when-will-apple-launch-the-iphone-16-and-iphone-16-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Roku plans to launch a free, ad-supported 24/7 sports channel across its devices, apps, and website on August 12, showing live Sunday MLB games and more &lpar;Etan Vlessing/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p21#a240807p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

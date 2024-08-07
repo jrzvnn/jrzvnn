@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Opal, previously Opal Camera, which makes $300 webcams, raised a $60M Series B led by OpenAI Startup Fund and plans to make new OpenAI-powered devices &lpar;The Information&rpar;](http://www.techmeme.com/240807/p20#a240807p20)
  - [The RadKick is Rad Power Bikes’ most affordable e-bike yet — and its first belt drive](https://www.theverge.com/2024/8/7/24215204/rad-power-bikes-radkick-ebike-affordable-belt-drive)
- - [Stripe withholding $100k from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)
- - [Disney CEO Bob Iger says the company&#39;s password sharing crackdown will kick off &quot;in earnest&quot; in September, after announcing paid sharing in February 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240807/p19#a240807p19)
- - [Disney’s password-sharing crackdown starts ‘in earnest’ this September](https://www.theverge.com/2024/8/7/24215224/disney-password-sharing-crackdown-september)
- - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra Slashed to Low Price on Amazon](https://www.cnet.com/deals/samsung-galaxy-s24-ultra-slashed-to-low-price-on-amazon/#ftag=CAD590a51e)
+ - [When Is the Next Steam Sale? List of Upcoming Steam Sale Dates](https://www.cnet.com/tech/gaming/when-are-steam-sales/#ftag=CAD590a51e)
+ - [Best Mental Health Apps of 2024](https://www.cnet.com/health/mental/best-mental-health-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

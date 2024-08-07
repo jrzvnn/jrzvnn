@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
- - 💣 [Civil War among us](http://9gag.com/gag/aD2j85O)
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 👉 [ItIsWhatItIs](http://9gag.com/gag/an7y7W0)<!-- MEMES:END -->
+ - 😝 [`Its just a loan`](http://9gag.com/gag/a0ed68L)
+ - 😝 [British police look like they&#39;ve been held hostage](http://9gag.com/gag/a6ZMnEA)
+ - 💣 [Classic. Tony king had a brilliant idea.](http://9gag.com/gag/a9yW8RW)
+ - 😝 [Unbothered. moisturized. happy. in his lane. focused. flourishing](http://9gag.com/gag/aryOZn7)
+ - 👉 [Based Elon as usual](http://9gag.com/gag/adBqQXZ)<!-- MEMES:END -->
 
 ---
 

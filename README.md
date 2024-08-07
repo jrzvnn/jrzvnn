@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
  - [Here&#39;s what iOS 18 and other OS updates have for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
- - [KNIME, an open-source data science and AI platform used by AMD, Audi, and ~400 other customers, raised $30M from Invus, taking its total funding to $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240806/p41#a240806p41)
- - [Apple Towson wins historic labor agreement with pay increases &amp; quality-of-life improvements](https://appleinsider.com/articles/24/08/07/apple-towson-wins-historic-labor-agreement-with-pay-increases-quality-of-life-improvements?utm_medium=rss)
- - [Supermicro shares drop 13% after hours after the company reported Q4 earnings missing analyst expectations, and announces a 10-for-1 stock split &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240806/p40#a240806p40)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 7, #157](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-7-157/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 7, #423](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-7-423/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 7, #1145](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-7-1145/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

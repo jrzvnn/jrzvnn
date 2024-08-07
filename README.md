@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram is making views the primary metric for content](https://www.theverge.com/2024/8/7/24215398/instagram-primary-metric-views)
+ - [Set-top showdown: Apple TV 4K vs Google TV Streamer compared](https://appleinsider.com/inside/apple-tv-4k/vs/set-top-showdown-apple-tv-4k-vs-google-tv-streamer-compared?utm_medium=rss)
+ - [Senators want an investigation of the Fox–Disney–Warner Bros sports bundle](https://www.theverge.com/2024/8/7/24215343/warren-sanders-castro-doj-joint-sports-venture-disney-fox-warner-bros)
  - [iPad Pro updates ignite consumer interest, giving a giant boost to sales](https://appleinsider.com/articles/24/08/07/ipad-pro-updates-ignite-consumer-interest-giving-a-giant-boost-to-sales?utm_medium=rss)
- - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)
- - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
- - [X Is Boosting the Far Right’s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)
- - [Don&#39;t Miss 60% Off Laptop Cases, Chargers and More During Hyper&#39;s Back-to-School Sale](https://www.cnet.com/deals/dont-miss-60-off-laptop-cases-chargers-and-more-during-hypers-back-to-school-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

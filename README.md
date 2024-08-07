@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches $849 M3 MacBook Air, $399 AirPods Max, $699 Apple Watch Ultra 2 deals](https://appleinsider.com/articles/24/08/05/amazon-launches-849-m3-macbook-air-399-airpods-max-699-apple-watch-ultra-2-1899-16-macbook-pro-deals?utm_medium=rss)
+ - [Sonos CEO says headphone launch was ‘overshadowed’ by app controversy](https://www.theverge.com/2024/8/7/24215589/sonos-q3-2024-earnings-ace-headphone-buggy-app)
+ - [Reddit might let users make paid subreddits](https://www.theverge.com/2024/8/7/24215505/reddit-paid-subreddits-steve-huffman-q2-2024-earnings)
  - [Meta says Facebook creators who violate Community Standards for the first time will be given the option to take a training course to remove their warning &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240807/p26#a240807p26)
- - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)
- - [US Credit Card Debt Notches New High of $1.14 Trillion](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)
- - [Will PC makers replace your crashing Intel chip? We asked 14 of them](https://www.theverge.com/2024/8/7/24215440/intel-13th-14th-gen-crash-raptor-lake-integrator-warranty-lenovo-dell-hp-acer-asus)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 7 Includes One Toughie](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

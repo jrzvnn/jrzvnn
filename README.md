@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gimme an armor and an electric racket](http://9gag.com/gag/an7yOGV)
- - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 😝 [US always fun](http://9gag.com/gag/a87pmKY)
+ - 😝 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
+ - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
  - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
+ - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 ---
 

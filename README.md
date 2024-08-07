@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney’s streaming business turned a profit for the first time](https://www.theverge.com/2024/8/7/24214898/disney-streaming-business-profitable-earnings-q3-2024)
+ - [The UK CMA approves HPE&#39;s $14B deal to buy Juniper Networks after finding no competition concerns, following EU regulators approving the deal on August 1 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240807/p15#a240807p15)
  - [Shopify reports Q2 revenue up 21% YoY to $2.05B, vs. $2B est., Gross Merchandise Volume up 22% to $67.2B, and gross profit up 25% YoY to $1B; SHOP jumps 17%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240807/p14#a240807p14)
  - [Automattic launches Write Brief with AI, to help users write and tweak content using text prompts, in beta on Jetpack, after launching an AI assistant in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240807/p13#a240807p13)
- - [AMD says its flagship Ryzen 9 9950X with 16 cores will cost $649, or $50 less than the Ryzen 9 7950X, and launches August 15; other new CPUs are $20-$50 cheaper &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240807/p12#a240807p12)
- - [Monthly subscription mouse was just speculation, backtracks Logitech](https://appleinsider.com/articles/24/08/07/monthly-subscription-mouse-was-just-speculation-backtracks-logitech?utm_medium=rss)
- - [Disney reports Q3 revenue up 4% YoY to $23.2B and a $47M streaming business operating profit, up from a $512M loss in Q3 2023, and revenue up 15% YoY to $6.4B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240807/p11#a240807p11)<!-- TECH:END -->
+ - [AMD says its flagship Ryzen 9 9950X with 16 cores will cost $649, or $50 less than the Ryzen 9 7950X, and launches August 15; other new CPUs are $20-$50 cheaper &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240807/p12#a240807p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

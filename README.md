@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Boeing Starliner astronauts might get a ride home from SpaceX — in 2025](https://www.theverge.com/2024/8/7/24215584/boeing-starliner-astronauts-iss-spacex-nasa)
  - [A US judge orders Ripple to pay a civil penalty of $125M for selling XRP to institutional investors, a fraction of the ~$2B the SEC had sought in the case &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240807/p28#a240807p28)
- - [Jackson Hole’s new Instagram filter warns you when you’re dangerously close to wildlife](https://www.theverge.com/2024/8/7/24215490/jackson-hole-travel-tourism-board-instagram-filter-animals-national-park-safety)
- - [Robinhood reports Q2 revenue up 40% YoY to $682M, vs. $640M est., crypto transaction revenue up 161% to $81M, and net income of $188M, up from $25M in Q2 2023 &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240807/p27#a240807p27)<!-- TECH:END -->
+ - [Jackson Hole’s new Instagram filter warns you when you’re dangerously close to wildlife](https://www.theverge.com/2024/8/7/24215490/jackson-hole-travel-tourism-board-instagram-filter-animals-national-park-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

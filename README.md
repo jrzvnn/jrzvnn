@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 😝 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
- - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [Greatest salesman](http://9gag.com/gag/azxrKYZ)
- - 👉 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)<!-- MEMES:END -->
+ - 😝 [WEF agenda 2030](http://9gag.com/gag/amor19V)
+ - 😝 [Its the only logical choice](http://9gag.com/gag/a1md79G)
+ - 💣 [Easy money](http://9gag.com/gag/a7oZ0dq)
+ - 😝 [This is the real England, UK and the commonwealth....](http://9gag.com/gag/aGy0L77)
+ - 👉 [Clown UK](http://9gag.com/gag/avyr635)<!-- MEMES:END -->
 
 ---
 

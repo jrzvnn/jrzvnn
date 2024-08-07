@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yeah, its happening](http://9gag.com/gag/a87p6dV)
- - 😝 [Fake speed bumper](http://9gag.com/gag/abA6enp)
- - 💣 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
- - 😝 [Lol rekt](http://9gag.com/gag/avyr10Z)
- - 👉 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)<!-- MEMES:END -->
+ - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 💣 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
+ - 👉 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)<!-- MEMES:END -->
 
 ---
 

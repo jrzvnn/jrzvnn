@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)
  - [US Credit Card Debt Notches New High of $1.14 Trillion](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)
  - [Will PC makers replace your crashing Intel chip? We asked 14 of them](https://www.theverge.com/2024/8/7/24215440/intel-13th-14th-gen-crash-raptor-lake-integrator-warranty-lenovo-dell-hp-acer-asus)
  - [Today&#39;s NYT Mini Crossword Answers for Aug. 7 Includes One Toughie](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-7/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints for Aug. 7, #157 Is to Look for Soundalike Words](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-7-157/#ftag=CAD590a51e)
- - [Ofcom publishes an open letter to social media platforms raising concerns about the use of their tools to incite violence, following days of rioting in the UK &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240807/p25#a240807p25)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints for Aug. 7, #157 Is to Look for Soundalike Words](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-7-157/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

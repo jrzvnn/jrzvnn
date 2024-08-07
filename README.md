@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US always fun](http://9gag.com/gag/a87pmKY)
  - 😝 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
- - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 💣 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
  - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
+ - 👉 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)<!-- MEMES:END -->
 
 ---
 

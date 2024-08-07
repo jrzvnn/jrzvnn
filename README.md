@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Division in Hollywood&#39;s approach to AI is growing, as some studios want to use AI tools more often in production, while unions aim to establish guardrails &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p1#a240807p1)
+ - [Best Online Flower Delivery Services for 2024](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
  - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
- - [Here&#39;s what iOS 18 and other OS updates have for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 7, #157](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-7-157/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 7, #423](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-7-423/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
+ - [Best Cold-Brew Coffee Maker for 2024: Oxo, Takeya, Filtron, Espro and More](https://www.cnet.com/home/kitchen-and-household/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

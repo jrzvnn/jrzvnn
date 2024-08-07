@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think Trump figured out the pattern](http://9gag.com/gag/a6ZM9DR)
- - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - 😝 [WEF agenda 2030](http://9gag.com/gag/amor19V)
- - 👉 [Easy money](http://9gag.com/gag/a7oZ0dq)<!-- MEMES:END -->
+ - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 😝 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
+ - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 😝 [Greatest salesman](http://9gag.com/gag/azxrKYZ)
+ - 👉 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
+ - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 💣 [Civil War among us](http://9gag.com/gag/aD2j85O)
  - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 💣 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
- - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 👉 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)<!-- MEMES:END -->
+ - 👉 [ItIsWhatItIs](http://9gag.com/gag/an7y7W0)<!-- MEMES:END -->
 
 ---
 

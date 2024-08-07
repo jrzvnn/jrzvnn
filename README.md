@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KNIME, an open-source data science and AI platform used by AMD, Audi, and ~400 other customers, raised $30M from Invus, taking its total funding to $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240806/p41#a240806p41)
+ - [Apple Towson wins historic labor agreement with pay increases &amp; quality-of-life improvements](https://appleinsider.com/articles/24/08/07/apple-towson-wins-historic-labor-agreement-with-pay-increases-quality-of-life-improvements?utm_medium=rss)
  - [Supermicro shares drop 13% after hours after the company reported Q4 earnings missing analyst expectations, and announces a 10-for-1 stock split &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240806/p40#a240806p40)
  - [Tribit StormBox Speaker review: Simple, yet solid summer speaker](https://appleinsider.com/articles/24/08/07/tribit-stormbox-speaker-review-simple-yet-solid-summer-speaker?utm_medium=rss)
- - [CrowdStrike shares a root cause analysis of the July 19 outage, and says it&#39;s working with two third-party software security vendors to conduct further review &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240806/p39#a240806p39)
- - [Google Antitrust Decision Reveals Even More of Gen Z Uses TikTok for Search, Shopping](https://www.cnet.com/tech/services-and-software/google-antitrust-decision-reveals-even-more-of-gen-z-uses-tiktok-for-search-shopping/#ftag=CAD590a51e)
- - [Coupang reports Q2 revenue up 25% YoY to $7.3B and a net loss of $77M, its first loss since 2022, due to its Farfetch deal and a South Korean regulatory fine &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240806/p38#a240806p38)<!-- TECH:END -->
+ - [CrowdStrike shares a root cause analysis of the July 19 outage, and says it&#39;s working with two third-party software security vendors to conduct further review &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240806/p39#a240806p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

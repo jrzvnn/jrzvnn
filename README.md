@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)
  - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
  - [X Is Boosting the Far Right’s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)
- - [Anker redesigned its wall charger so it won’t constantly fall out of the outlet](https://www.theverge.com/2024/8/7/24215215/anker-prime-charger-usb-c-gan-power)
- - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM plunges to $1,549](https://appleinsider.com/articles/24/08/07/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-plunges-to-1549?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Miss 60% Off Laptop Cases, Chargers and More During Hyper&#39;s Back-to-School Sale](https://www.cnet.com/deals/dont-miss-60-off-laptop-cases-chargers-and-more-during-hypers-back-to-school-sale/#ftag=CAD590a51e)
+ - [Frank Advice on Why You Might Want To Wait on the iOS 18 Public Beta](https://www.cnet.com/tech/mobile/frank-advice-on-why-you-might-want-to-wait-on-the-ios-18-public-beta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

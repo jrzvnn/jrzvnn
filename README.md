@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Google Pixel Deals: Dramatic Savings on Pixel Fold, 8, 8 Pro and More](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
  - [She’s the New Face of Climate Activism—and She’s Carrying a Pickax](https://www.wired.com/story/climate-activism-radical-new-face-lena-lazare/)
  - [Best Small Soundbar of 2024](https://www.cnet.com/tech/home-entertainment/best-small-soundbar/#ftag=CAD590a51e)
- - [Sony reports Q1 revenue up 2% YoY to ~20.5B, above ~$19.31B est., and operating profit up 10% YoY to ~$1.92B, above $1.89B est. &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240807/p4#a240807p4)
- - [Best Soundbars to Fix Muffled TV Speech in 2024](https://www.cnet.com/tech/home-entertainment/best-soundbars-to-enhance-tv-dialogue/#ftag=CAD590a51e)
- - [Best Resume Writing Services for 2024](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony reports Q1 revenue up 2% YoY to ~$20.5B, above ~$19.31B est., and operating profit up 10% YoY to ~$1.92B, above $1.89B est. &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240807/p4#a240807p4)
+ - [Best Soundbars to Fix Muffled TV Speech in 2024](https://www.cnet.com/tech/home-entertainment/best-soundbars-to-enhance-tv-dialogue/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

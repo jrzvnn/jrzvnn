@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
- - 💣 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 😝 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
- - 👉 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)<!-- MEMES:END -->
+ - 😝 [Oh yeah, its happening](http://9gag.com/gag/a87p6dV)
+ - 😝 [Fake speed bumper](http://9gag.com/gag/abA6enp)
+ - 💣 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
+ - 😝 [Lol rekt](http://9gag.com/gag/avyr10Z)
+ - 👉 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)<!-- MEMES:END -->
 
 ---
 

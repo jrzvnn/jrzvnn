@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)
+ - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)
  - [Imec, one of the top chip R&amp;D companies, reports several breakthroughs for printing logic and memory chips in a joint ASML lab using ASML&#39;s new High NA tool &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240807/p18#a240807p18)
  - [Sources: in 2017 and 2018, Intel and OpenAI executives discussed Intel buying a 15% stake for $1B in cash, but CEO Bob Swan did not go forward with the deal &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240807/p17#a240807p17)
- - [Samsung’s Frame TV is finally getting the knockoffs it deserves](https://www.theverge.com/2024/8/7/24215184/tcl-nxtframe-samsung-frame-tv-knockoff-price-announcement)
- - [The UK Online Safety Bill, set to take effect in 2025, wouldn&#39;t address anti-immigrant lies on X and Telegram that fueled riots, even before it was watered down &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240807/p16#a240807p16)
- - [NBC’s Olympics Broadcast Isn’t Just Addictive. It’s a New Era of Streaming](https://www.wired.com/story/nbc-peacock-2024-summer-olympics-coverage/)<!-- TECH:END -->
+ - [Samsung’s Frame TV is finally getting the knockoffs it deserves](https://www.theverge.com/2024/8/7/24215184/tcl-nxtframe-samsung-frame-tv-knockoff-price-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Humane&#39;s Ai Pin and accessories have brought in $9M+ in sales, and $1M+ worth of product has been returned; ~7,000 Ai Pins are still in customer hands &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240807/p23#a240807p23)
+ - [Instagram is making &quot;views&quot; the primary metric across all of its formats, letting creators track the same metric across Reels, Stories, photos, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240807/p22#a240807p22)
  - [The Great Barrier Reef faces its biggest threat in centuries](https://www.theverge.com/2024/8/7/24215219/great-barrier-reef-record-temperatures-coral-research)
  - [A Flaw in Windows Update Opens the Door to Zombie Exploits](https://www.wired.com/story/windows-update-downdate-exploit/)
- - [Tim Cook is without a question Apple&#39;s chief lobbyist](https://appleinsider.com/articles/24/08/07/tim-cook-is-without-a-question-apples-chief-lobbyist?utm_medium=rss)
- - [Humane’s daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
- - [Instagram is making views the primary metric for content](https://www.theverge.com/2024/8/7/24215398/instagram-primary-metric-views)<!-- TECH:END -->
+ - [Tim Cook is without a question Apple&#39;s chief lobbyist](https://appleinsider.com/articles/24/08/07/tim-cook-is-without-a-question-apples-chief-lobbyist?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

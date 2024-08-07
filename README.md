@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
- - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
- - 💣 [Civil War among us](http://9gag.com/gag/aD2j85O)
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
+ - 😝 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
+ - 😝 [Delete your Adblock delay today](http://9gag.com/gag/aAyw472)
+ - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 😝 [Civil War among us](http://9gag.com/gag/aD2j85O)
+ - 👉 [Are you still excited for Disney Star Wars ? Yeah, me neither.](http://9gag.com/gag/aGy0MBw)<!-- MEMES:END -->
 
 ---
 

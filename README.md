@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD says its flagship Ryzen 9 9950X with 16 cores will cost $649, or $50 less than the Ryzen 9 7950X, and launches August 15; other new CPUs are $20-$50 cheaper &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240807/p12#a240807p12)
  - [Monthly subscription mouse was just speculation, backtracks Logitech](https://appleinsider.com/articles/24/08/07/monthly-subscription-mouse-was-just-speculation-backtracks-logitech?utm_medium=rss)
  - [Disney reports Q3 revenue up 4% YoY to $23.2B and a $47M streaming business operating profit, up from a $512M loss in Q3 2023, and revenue up 15% YoY to $6.4B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240807/p11#a240807p11)
  - [Elon Musk Has Turned X Into His Personal Political Playground](https://www.wired.com/story/musk-trump-support-x/)
- - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
- - [Sweden&#39;s EQT plans to buy a majority stake in Swiss cybersecurity and data protection company Acronis, sources say valuing Acronis at $4B, up from $3.5B in 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/240807/p10#a240807p10)<!-- TECH:END -->
+ - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

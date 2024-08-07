@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian gymnast Ana Barbosu realizing that a successful protest by USA&#39;s Jordan Chiles meant that she was pushed from 3rd to 4th place](http://9gag.com/gag/a6ZMqxA)
+ - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
  - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 💣 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
- - 😝 [US always fun](http://9gag.com/gag/a87pmKY)
- - 👉 [Brutal](http://9gag.com/gag/apRr1Ln)<!-- MEMES:END -->
+ - 💣 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)
+ - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
+ - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 ---
 

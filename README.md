@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
- - 😝 [He secretly learned Chinese to propose in her native language](http://9gag.com/gag/abA6W8p)
- - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 😝 [This man took way too much of everything](http://9gag.com/gag/a6ZM51e)
  - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 👉 [Pedo woman](http://9gag.com/gag/ayNL4Wp)<!-- MEMES:END -->
+ - 💣 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)
+ - 😝 [Surprise!](http://9gag.com/gag/aMVwP5R)
+ - 👉 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)<!-- MEMES:END -->
 
 ---
 

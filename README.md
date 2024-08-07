@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)
  - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
- - [X Is Boosting the Far Right&#39;s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)
+ - [X Is Boosting the Far Right’s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)
  - [Anker redesigned its wall charger so it won’t constantly fall out of the outlet](https://www.theverge.com/2024/8/7/24215215/anker-prime-charger-usb-c-gan-power)
- - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM plunges to $1,549](https://appleinsider.com/articles/24/08/07/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-plunges-to-1549?utm_medium=rss)
- - [The Fitbit Ace LTE smartwatch now lets kids buy stuff](https://www.theverge.com/2024/8/7/24215312/fitbit-ace-lte-updates-kids-smartwatch-wearables)<!-- TECH:END -->
+ - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM plunges to $1,549](https://appleinsider.com/articles/24/08/07/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-plunges-to-1549?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

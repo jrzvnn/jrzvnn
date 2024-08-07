@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [She’s the New Face of Climate Activism—and She’s Carrying a Pickax](https://www.wired.com/story/climate-activism-radical-new-face-lena-lazare/)
  - [Sony reports Q1 revenue up 2% YoY to ~20.5B, above ~$19.31B est., and operating profit up 10% YoY to ~$1.92B, above $1.89B est. &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240807/p4#a240807p4)
  - [Global crypto hubs like Hong Kong and Dubai face a challenging outlook, as the brightening US political backdrop for crypto attracts companies and investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240807/p3#a240807p3)
  - [A profile of Kakao founder Kim Beom-su, who was arrested in July on stock manipulation charges relating to Kakao&#39;s takeover of K-pop agency SM Entertainment &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p2#a240807p2)
- - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

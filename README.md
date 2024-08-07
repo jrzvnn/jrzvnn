@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WEF agenda 2030](http://9gag.com/gag/amor19V)
- - 😝 [Its the only logical choice](http://9gag.com/gag/a1md79G)
- - 💣 [Easy money](http://9gag.com/gag/a7oZ0dq)
- - 😝 [This is the real England, UK and the commonwealth....](http://9gag.com/gag/aGy0L77)
- - 👉 [Clown UK](http://9gag.com/gag/avyr635)<!-- MEMES:END -->
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 😝 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
+ - 💣 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
+ - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 👉 [Romanian gymnast Ana Barbosu realizing that a successful protest by USA&#39;s Jordan Chiles meant that she was pushed from 3rd to 4th place](http://9gag.com/gag/a6ZMqxA)<!-- MEMES:END -->
 
 ---
 

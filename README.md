@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian gymnast Ana Barbosu realizing that a successful protest by USA&#39;s Jordan Chiles meant that she was pushed from 3rd to 4th place](http://9gag.com/gag/a6ZMqxA)
- - 😝 [Absolute madman](http://9gag.com/gag/aVvDoVy)
- - 💣 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
- - 👉 [Brutal](http://9gag.com/gag/apRr1Ln)<!-- MEMES:END -->
+ - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 💣 [Second place encourages first place to smile :&rpar;](http://9gag.com/gag/a1mdDWR)
+ - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 👉 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)<!-- MEMES:END -->
 
 ---
 

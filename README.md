@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku plans to launch a free, ad-supported 24/7 sports channel across its devices, apps, and website on August 12, showing live Sunday MLB games and more &lpar;Etan Vlessing/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p21#a240807p21)
+ - [When will Apple launch the iPhone 16 and iPhone 16 Pro?](https://appleinsider.com/articles/24/08/07/when-will-apple-launch-the-iphone-16-and-iphone-16-pro?utm_medium=rss)
  - [Roku will launch a free 24/7 sports channel](https://www.theverge.com/2024/8/7/24215272/roku-sports-channel-mlb-sunday)
  - [House of the Dragon’s second season was about the quiet moments that shape history](https://www.theverge.com/2024/8/7/24213802/house-of-the-dragon-season-two-finale-night-king)
- - [Lowest price: Apple&#39;s 1TB 14-inch MacBook Pro with M3 Pro chip drops to $1,929](https://appleinsider.com/articles/24/08/05/lowest-price-apples-1tb-14-inch-macbook-pro-with-m3-pro-chip-drops-to-1929?utm_medium=rss)
- - [Stripe withholding $100K from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)
- - [South Korea may get the iPhone 16 at the same time as the US](https://appleinsider.com/articles/24/08/07/south-korea-may-get-the-iphone-16-at-the-same-time-as-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Lowest price: Apple&#39;s 1TB 14-inch MacBook Pro with M3 Pro chip drops to $1,929](https://appleinsider.com/articles/24/08/05/lowest-price-apples-1tb-14-inch-macbook-pro-with-m3-pro-chip-drops-to-1929?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

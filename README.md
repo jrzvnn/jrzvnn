@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is in talks to license its Horizon software to Jio, which would use it to power a VR device &lpar;The Information&rpar;](http://www.techmeme.com/240807/p24#a240807p24)
  - [Apple has closed an ancient macOS Safari security hole](https://appleinsider.com/articles/24/08/07/apple-has-closed-an-ancient-macos-safari-security-hole?utm_medium=rss)
  - [A Disney+ Password-Sharing Crackdown Is Coming in September](https://www.wired.com/story/disney-password-sharing-crackdown-coming-in-september/)
  - [You can dial in the power output on Anker’s new desktop charger](https://www.theverge.com/2024/8/7/24215376/anker-prime-charger-desktop-usb-c-gan-power)
- - [Apple&#39;s iOS 17.6.1 &amp; macOS Sonoma 14.6.1 are out, with minor improvements](https://appleinsider.com/articles/24/08/07/apples-ios-1761-macos-sonoma-1461-are-out-with-minor-improvements?utm_medium=rss)
- - [Why Google decided now’s the time to move on from Chromecast](https://www.theverge.com/2024/8/7/24215275/google-tv-streamer-chromecast-gemini-interview)<!-- TECH:END -->
+ - [Apple&#39;s iOS 17.6.1 &amp; macOS Sonoma 14.6.1 are out, with minor improvements](https://appleinsider.com/articles/24/08/07/apples-ios-1761-macos-sonoma-1461-are-out-with-minor-improvements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

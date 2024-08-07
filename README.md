@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at UnDisruptable27, a new project backed by a $700K grant to help fix cybersecurity weaknesses in US water, food, health care, and other vital sectors &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240807/p9#a240807p9)
  - [Users have to confirm screen recording permission every week in macOS Sequoia](https://appleinsider.com/articles/24/08/07/users-have-to-confirm-screen-recording-permission-every-week-in-macos-sequoia?utm_medium=rss)
  - [Kamala Harris’ Campaign Is a Windfall for Influencers](https://www.wired.com/story/harris-campaign-influencers/)
  - [Lyft reports Q2 revenue up 41% YoY to $1.4B, Gross Bookings up 17% YoY to $4.02B, vs. $4.07B est., and projects $4B-$4.1B in Q3 Gross Bookings, vs. $4.14B est. &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240807/p8#a240807p8)
- - [AMD’s new Ryzen 9000 CPUs are cheaper than its previous-gen chips](https://www.theverge.com/2024/8/7/24215164/amd-ryzen-9000-series-pricing-launch-dates)
- - [CrowdStrike Faces a Potential Tsunami of Lawsuits. Only the Fine Print Can Save It, Experts Say](https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/)<!-- TECH:END -->
+ - [AMD’s new Ryzen 9000 CPUs are cheaper than its previous-gen chips](https://www.theverge.com/2024/8/7/24215164/amd-ryzen-9000-series-pricing-launch-dates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

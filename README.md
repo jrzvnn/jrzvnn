@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom publishes an open letter to social media platforms raising concerns about the use of their tools to incite violence, following days of rioting in the UK &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240807/p25#a240807p25)
- - [Fortnite will bring battle pass rewards back around](https://www.theverge.com/2024/8/7/24215375/fortnite-battle-pass-rewards-back-around-item-shop)
- - [What’s on your desk, Jess Weatherbed?](https://www.theverge.com/24212190/work-home-desk-cthulhu-msi-logitech)
- - [Uber and Lyft threatened to leave Minnesota — then Tim Walz stepped in](https://www.theverge.com/24214575/tim-walz-uber-lyft-driver-pay-veto-vp-minnesota)
- - [Sources: Meta is in talks to license its Horizon software to Jio, which would use it to power a VR device &lpar;The Information&rpar;](http://www.techmeme.com/240807/p24#a240807p24)<!-- TECH:END -->
+ - [US Credit Card Debt Notches New High of $1.14 Trillion](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)
+ - [Will PC makers replace your crashing Intel chip? We asked 14 of them](https://www.theverge.com/2024/8/7/24215440/intel-13th-14th-gen-crash-raptor-lake-integrator-warranty-lenovo-dell-hp-acer-asus)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 7 Includes One Toughie](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-7/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints for Aug. 7, #157 Is to Look for Soundalike Words](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-7-157/#ftag=CAD590a51e)
+ - [Ofcom publishes an open letter to social media platforms raising concerns about the use of their tools to incite violence, following days of rioting in the UK &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240807/p25#a240807p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
- - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 💣 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 👉 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)<!-- MEMES:END -->
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 😝 [US always fun](http://9gag.com/gag/a87pmKY)
+ - 👉 [Bad ride](http://9gag.com/gag/aMVwmOV)<!-- MEMES:END -->
 
 ---
 

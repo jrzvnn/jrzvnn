@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has closed an ancient macOS Safari security hole](https://appleinsider.com/articles/24/08/07/apple-has-closed-an-ancient-macos-safari-security-hole?utm_medium=rss)
+ - [A Disney+ Password-Sharing Crackdown Is Coming in September](https://www.wired.com/story/disney-password-sharing-crackdown-coming-in-september/)
+ - [You can dial in the power output on Anker’s new desktop charger](https://www.theverge.com/2024/8/7/24215376/anker-prime-charger-desktop-usb-c-gan-power)
  - [Apple&#39;s iOS 17.6.1 &amp; macOS Sonoma 14.6.1 are out, with minor improvements](https://appleinsider.com/articles/24/08/07/apples-ios-1761-macos-sonoma-1461-are-out-with-minor-improvements?utm_medium=rss)
- - [Why Google decided now’s the time to move on from Chromecast](https://www.theverge.com/2024/8/7/24215275/google-tv-streamer-chromecast-gemini-interview)
- - [Sources: Humane&#39;s Ai Pin and accessories have brought in $9M+ in sales, and $1M+ worth of product has been returned; ~7,000 Ai Pins are still in customer hands &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240807/p23#a240807p23)
- - [Instagram is making views the primary metric across all of its formats, letting creators track the same metric across Reels, Stories, photos, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240807/p22#a240807p22)
- - [The Great Barrier Reef faces its biggest threat in centuries](https://www.theverge.com/2024/8/7/24215219/great-barrier-reef-record-temperatures-coral-research)<!-- TECH:END -->
+ - [Why Google decided now’s the time to move on from Chromecast](https://www.theverge.com/2024/8/7/24215275/google-tv-streamer-chromecast-gemini-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

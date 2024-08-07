@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jackson Hole’s new Instagram filter warns you when you’re dangerously close to wildlife](https://www.theverge.com/2024/8/7/24215490/jackson-hole-travel-tourism-board-instagram-filter-animals-national-park-safety)
+ - [Robinhood reports Q2 revenue up 40% YoY to $682M, vs. $640M est., crypto transaction revenue up 161% to $81M, and net income of $188M, up from $25M in Q2 2023 &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240807/p27#a240807p27)
  - [Amazon launches $849 M3 MacBook Air, $399 AirPods Max, $699 Apple Watch Ultra 2 deals](https://appleinsider.com/articles/24/08/05/amazon-launches-849-m3-macbook-air-399-airpods-max-699-apple-watch-ultra-2-1899-16-macbook-pro-deals?utm_medium=rss)
  - [Sonos CEO says headphone launch was ‘overshadowed’ by app controversy](https://www.theverge.com/2024/8/7/24215589/sonos-q3-2024-earnings-ace-headphone-buggy-app)
- - [Reddit might let users make paid subreddits](https://www.theverge.com/2024/8/7/24215505/reddit-paid-subreddits-steve-huffman-q2-2024-earnings)
- - [Meta says Facebook creators who violate Community Standards for the first time will be given the option to take a training course to remove their warning &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240807/p26#a240807p26)
- - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)<!-- TECH:END -->
+ - [Download iOS 17.6.1 Now to Ensure This Feature Is Working Correctly](https://www.cnet.com/tech/services-and-software/download-ios-17-6-1-now-to-ensure-this-feature-is-working-correctly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

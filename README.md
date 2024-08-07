@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)
  - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 😝 [Still makes me laugh after all these years](http://9gag.com/gag/a6ZM1PR)
- - 💣 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 💣 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
+ - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
  - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 ---

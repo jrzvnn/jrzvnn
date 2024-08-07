@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 💣 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)
- - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
+ - 😝 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 💣 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 😝 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
+ - 👉 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)<!-- MEMES:END -->
 
 ---
 

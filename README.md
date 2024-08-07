@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 💣 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 😝 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 😝 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
+ - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - 💣 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
+ - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
  - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 ---

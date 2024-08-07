@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta closes Ready at Dawn Studios, which it acquired in 2020 and produced VR games like Lone Echo and Echo VR, to meet the new Reality Labs budgetary ceiling &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240807/p31#a240807p31)
  - [Turkey bans Roblox, after blocking Instagram on August 2; a Turkish official said the ban was primarily related to sexual content that could lead to child abuse &lpar;T&amp;uuml;rkiye Today&rpar;](http://www.techmeme.com/240807/p30#a240807p30)
  - [Bumble reports Q2 revenue up 3.4% YoY to $268.6M, vs. $273.2M est., and projects 1% to 2% annual revenue growth, vs. 8.4% expected; BMBL drops 28%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240807/p29#a240807p29)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Boeing Starliner astronauts might get a ride home from SpaceX — in 2025](https://www.theverge.com/2024/8/7/24215584/boeing-starliner-astronauts-iss-spacex-nasa)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

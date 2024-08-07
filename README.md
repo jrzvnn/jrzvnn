@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
- - 😝 [Delete your Adblock delay today](http://9gag.com/gag/aAyw472)
- - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [Civil War among us](http://9gag.com/gag/aD2j85O)
- - 👉 [Are you still excited for Disney Star Wars ? Yeah, me neither.](http://9gag.com/gag/aGy0MBw)<!-- MEMES:END -->
+ - 😝 [Riot](http://9gag.com/gag/aE0RAVG)
+ - 😝 [Depends who you ask I bet.....new core memory for kid.](http://9gag.com/gag/apRrP8D)
+ - 💣 [Based Elon as usual](http://9gag.com/gag/adBqQXZ)
+ - 😝 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
+ - 👉 [When you find the one](http://9gag.com/gag/an7yvL5)<!-- MEMES:END -->
 
 ---
 

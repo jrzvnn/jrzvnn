@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Yang Zhilin, the founder and CEO of China&#39;s highest-valued AI unicorn Moonshot, who studied at Carnegie Mellon University and worked at Huawei &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240807/p5#a240807p5)
+ - [What’s It Like To Freeze Your Credit Report? I Had To Find Out](https://www.cnet.com/how-to/i-froze-my-credit-heres-why-you-should-too/#ftag=CAD590a51e)
  - [Best Google Pixel Deals: Dramatic Savings on Pixel Fold, 8, 8 Pro and More](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
  - [She’s the New Face of Climate Activism—and She’s Carrying a Pickax](https://www.wired.com/story/climate-activism-radical-new-face-lena-lazare/)
- - [Best Small Soundbar of 2024](https://www.cnet.com/tech/home-entertainment/best-small-soundbar/#ftag=CAD590a51e)
- - [Sony reports Q1 revenue up 2% YoY to ~$20.5B, vs. ~$19.31B est., operating profit up 10% YoY to ~$1.92B, vs. $1.89B est., and 2.4M PS5 sales, down from 3.3M YoY &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240807/p4#a240807p4)<!-- TECH:END -->
+ - [Best Small Soundbar of 2024](https://www.cnet.com/tech/home-entertainment/best-small-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 😝 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
+ - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
  - 😝 [US always fun](http://9gag.com/gag/a87pmKY)
- - 👉 [Bad ride](http://9gag.com/gag/aMVwmOV)<!-- MEMES:END -->
+ - 👉 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)<!-- MEMES:END -->
 
 ---
 

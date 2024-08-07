@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Kakao founder Kim Beom-su, who was arrested in July on stock manipulation charges relating to Kakao&#39;s takeover of K-pop agency SM Entertainment &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p2#a240807p2)
  - [Division in Hollywood&#39;s approach to AI is growing, as some studios want to use AI tools more often in production, while unions aim to establish guardrails &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p1#a240807p1)
  - [Best Online Flower Delivery Services for 2024](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
  - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
- - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
- - [Best Cold-Brew Coffee Maker for 2024: Oxo, Takeya, Filtron, Espro and More](https://www.cnet.com/home/kitchen-and-household/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 💣 [I think Trump figured out the pattern](http://9gag.com/gag/a6ZM9DR)
  - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - 💣 [Second place encourages first place to smile :&rpar;](http://9gag.com/gag/a1mdDWR)
- - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
- - 👉 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)<!-- MEMES:END -->
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
 
 ---
 

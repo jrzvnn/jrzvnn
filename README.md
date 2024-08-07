@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating use of words.](http://9gag.com/gag/aqyr6yP)
  - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 💣 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [Riot](http://9gag.com/gag/aE0RAVG)
- - 👉 [Understandable](http://9gag.com/gag/ajPq7n1)<!-- MEMES:END -->
+ - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - 💣 [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 😝 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
+ - 👉 [Comparison.](http://9gag.com/gag/a7oZoXA)<!-- MEMES:END -->
 
 ---
 

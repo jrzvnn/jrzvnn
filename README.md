@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM plunges to $1,549](https://appleinsider.com/articles/24/08/07/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-plunges-to-1549?utm_medium=rss)
+ - [The Fitbit Ace LTE smartwatch now lets kids buy stuff](https://www.theverge.com/2024/8/7/24215312/fitbit-ace-lte-updates-kids-smartwatch-wearables)
+ - [Elgato’s desk-friendly Stream Deck Neo is matching its lowest price to date](https://www.theverge.com/2024/8/7/24214484/elgato-stream-deck-neo-apple-ipad-mini-deal-sale)
  - [Roku plans to launch a free, ad-supported 24/7 sports channel across its devices, apps, and website on August 12, showing live Sunday MLB games and more &lpar;Etan Vlessing/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p21#a240807p21)
- - [When will Apple launch the iPhone 16 and iPhone 16 Pro?](https://appleinsider.com/articles/24/08/07/when-will-apple-launch-the-iphone-16-and-iphone-16-pro?utm_medium=rss)
- - [Roku will launch a free 24/7 sports channel](https://www.theverge.com/2024/8/7/24215272/roku-sports-channel-mlb-sunday)
- - [House of the Dragon’s second season was about the quiet moments that shape history](https://www.theverge.com/2024/8/7/24213802/house-of-the-dragon-season-two-finale-night-king)
- - [Lowest price: Apple&#39;s 1TB 14-inch MacBook Pro with M3 Pro chip drops to $1,929](https://appleinsider.com/articles/24/08/05/lowest-price-apples-1tb-14-inch-macbook-pro-with-m3-pro-chip-drops-to-1929?utm_medium=rss)<!-- TECH:END -->
+ - [When will Apple launch the iPhone 16 and iPhone 16 Pro?](https://appleinsider.com/articles/24/08/07/when-will-apple-launch-the-iphone-16-and-iphone-16-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

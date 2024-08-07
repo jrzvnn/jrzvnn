@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 😝 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
- - 💣 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
- - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
+ - 😝 [Its the only logical choice](http://9gag.com/gag/a1md79G)
+ - 😝 [This is the real England, UK and the commonwealth....](http://9gag.com/gag/aGy0L77)
+ - 💣 [Go Ireland!](http://9gag.com/gag/aXPA4oD)
+ - 😝 [How to sleep in an airport without being robbed!](http://9gag.com/gag/a6ZMXxe)
+ - 👉 [Like a movie star!](http://9gag.com/gag/a2vdyZO)<!-- MEMES:END -->
 
 ---
 

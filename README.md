@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
+ - 😝 [British police look like they&#39;ve been held hostage](http://9gag.com/gag/a6ZMnEA)
+ - 💣 [Civil War among us](http://9gag.com/gag/aD2j85O)
  - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 💣 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
- - 😝 [Civil War among us](http://9gag.com/gag/aD2j85O)
- - 👉 [Greatest salesman](http://9gag.com/gag/azxrKYZ)<!-- MEMES:END -->
+ - 👉 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)<!-- MEMES:END -->
 
 ---
 

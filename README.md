@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
- - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
- - 💣 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
- - 😝 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
+ - 😝 [Bad ride](http://9gag.com/gag/aMVwmOV)
+ - 😝 [Still makes me laugh after all these years](http://9gag.com/gag/a6ZM1PR)
+ - 💣 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
  - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 ---

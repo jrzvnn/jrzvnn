@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
- - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
- - 💣 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
  - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 👉 [Romanian gymnast Ana Barbosu realizing that a successful protest by USA&#39;s Jordan Chiles meant that she was pushed from 3rd to 4th place](http://9gag.com/gag/a6ZMqxA)<!-- MEMES:END -->
+ - 😝 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
+ - 💣 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
+ - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 ---
 

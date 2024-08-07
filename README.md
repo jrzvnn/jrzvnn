@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The RadKick is Rad Power Bikes’ most affordable e-bike yet — and its first belt drive](https://www.theverge.com/2024/8/7/24215204/rad-power-bikes-radkick-ebike-affordable-belt-drive)
  - [Stripe withholding $100k from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)
  - [Disney CEO Bob Iger says the company&#39;s password sharing crackdown will kick off &quot;in earnest&quot; in September, after announcing paid sharing in February 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240807/p19#a240807p19)
  - [Disney’s password-sharing crackdown starts ‘in earnest’ this September](https://www.theverge.com/2024/8/7/24215224/disney-password-sharing-crackdown-september)
- - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)
- - [The limited edition OnePlus Open is the most striking foldable phone yet](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)<!-- TECH:END -->
+ - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

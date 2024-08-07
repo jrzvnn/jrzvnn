@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ofcom publishes an open letter to social media platforms raising concerns about the use of their tools to incite violence, following days of rioting in the UK &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240807/p25#a240807p25)
  - [Fortnite will bring battle pass rewards back around](https://www.theverge.com/2024/8/7/24215375/fortnite-battle-pass-rewards-back-around-item-shop)
  - [What’s on your desk, Jess Weatherbed?](https://www.theverge.com/24212190/work-home-desk-cthulhu-msi-logitech)
  - [Uber and Lyft threatened to leave Minnesota — then Tim Walz stepped in](https://www.theverge.com/24214575/tim-walz-uber-lyft-driver-pay-veto-vp-minnesota)
- - [Sources: Meta is in talks to license its Horizon software to Jio, which would use it to power a VR device &lpar;The Information&rpar;](http://www.techmeme.com/240807/p24#a240807p24)
- - [Apple has closed an ancient macOS Safari security hole](https://appleinsider.com/articles/24/08/07/apple-has-closed-an-ancient-macos-safari-security-hole?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta is in talks to license its Horizon software to Jio, which would use it to power a VR device &lpar;The Information&rpar;](http://www.techmeme.com/240807/p24#a240807p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

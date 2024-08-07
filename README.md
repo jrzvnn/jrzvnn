@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stripe withholding $100k from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)
+ - [Disney CEO Bob Iger says the company&#39;s password sharing crackdown will kick off &quot;in earnest&quot; in September, after announcing paid sharing in February 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240807/p19#a240807p19)
+ - [Disney’s password-sharing crackdown starts ‘in earnest’ this September](https://www.theverge.com/2024/8/7/24215224/disney-password-sharing-crackdown-september)
  - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)
- - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)
- - [Imec, one of the top chip R&amp;D companies, reports several breakthroughs for printing logic and memory chips in a joint ASML lab using ASML&#39;s new High NA tool &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240807/p18#a240807p18)
- - [Sources: in 2017 and 2018, Intel and OpenAI executives discussed Intel buying a 15% stake for $1B in cash, but CEO Bob Swan did not go forward with the deal &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240807/p17#a240807p17)
- - [Samsung’s Frame TV is finally getting the knockoffs it deserves](https://www.theverge.com/2024/8/7/24215184/tcl-nxtframe-samsung-frame-tv-knockoff-price-announcement)<!-- TECH:END -->
+ - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

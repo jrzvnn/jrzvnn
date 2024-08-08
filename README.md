@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games &amp; Spotify unsurprisingly unhappy with Apple&#39;s latest DMA update](https://appleinsider.com/articles/24/08/08/epic-games-spotify-unsurprisingly-unhappy-with-apples-latest-dma-update?utm_medium=rss)
+ - [Turkey blocks Roblox](https://www.theverge.com/2024/8/8/24216300/turkey-blocks-roblox-instagram)
  - [Sources: the UK is considering revisiting parts of the Online Safety Act to give authorities more power to force social media companies to curb harmful content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p33#a240808p33)
  - [Now anybody with a Substack account can publish content](https://www.theverge.com/2024/8/8/24216317/substack-socia-media-newsletter-creators)
- - [ChatGPT now lets free users generate up to two images per day made by DALL-E 3](https://www.theverge.com/2024/8/8/24216348/chatgpt-free-users-dall-e-3-images)
- - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
- - [Tricky Web Timing Attacks Are Getting Easier to Use—and Abuse](https://www.wired.com/story/web-timing-attacks-black-hat-2024/)<!-- TECH:END -->
+ - [ChatGPT now lets free users generate up to two images per day made by DALL-E 3](https://www.theverge.com/2024/8/8/24216348/chatgpt-free-users-dall-e-3-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
- - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
  - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
  - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
 
 ---

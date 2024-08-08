@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk posted and then deleted on X a fake Telegraph story on Falkland &quot;Detainment Camps&quot; shared by a far-right UK political party; the post had 1.8M+ views &lpar;Josh Self/Politics.co.uk&rpar;](http://www.techmeme.com/240808/p13#a240808p13)
  - [Microsoft and Palantir partner to sell government cloud and AI tools, including GPT-4, to US defense and intel agencies; Palantir will integrate with Azure &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p12#a240808p12)
  - [iPad Air&#39;s OLED upgrade rumored to arrive in 2026, not 2028](https://appleinsider.com/articles/24/08/08/ipad-airs-oled-upgrade-rumored-to-arrive-in-2026-not-2028?utm_medium=rss)
  - [The UK CMA opens a formal merger inquiry into Amazon&#39;s Anthropic investment after getting &quot;sufficient information&quot; about the deal; Amazon is &quot;disappointed&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240808/p11#a240808p11)
- - [The Benefits of Ozempic Are Multiplying](https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/)
- - [Google says it stopped making the Chromecast after intense competition, shifting to a premium device, and views the Nvidia Shield as something to strive towards &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240808/p10#a240808p10)<!-- TECH:END -->
+ - [The Benefits of Ozempic Are Multiplying](https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk posted and then deleted on X a fake Telegraph story on Falkland &quot;Detainment Camps&quot; shared by a far-right UK political party; the post had 1.8M+ views &lpar;Josh Self/Politics.co.uk&rpar;](http://www.techmeme.com/240808/p13#a240808p13)
- - [Microsoft and Palantir partner to sell government cloud and AI tools, including GPT-4, to US defense and intel agencies; Palantir will integrate with Azure &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p12#a240808p12)
- - [iPad Air&#39;s OLED upgrade rumored to arrive in 2026, not 2028](https://appleinsider.com/articles/24/08/08/ipad-airs-oled-upgrade-rumored-to-arrive-in-2026-not-2028?utm_medium=rss)
- - [The UK CMA opens a formal merger inquiry into Amazon&#39;s Anthropic investment after getting &quot;sufficient information&quot; about the deal; Amazon is &quot;disappointed&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240808/p11#a240808p11)
- - [The Benefits of Ozempic Are Multiplying](https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/)<!-- TECH:END -->
+ - [China&#39;s SMIC reports Q2 revenue up 21.8% YoY to ~$1.9B, above est., net profit down 59.1% YoY to ~$164.6M, above ~$103.8M est., and $2.25B capital expenditure &lpar;Reuters&rpar;](http://www.techmeme.com/240808/p14#a240808p14)
+ - [iPhone 16 mass production begins, on time for mid-September launch](https://appleinsider.com/articles/24/08/08/iphone-16-mass-production-begins-on-time-for-mid-september-launch?utm_medium=rss)
+ - [Good Luck Selling Your AI Startup](https://www.wired.com/story/gadget-lab-podcast-654/)
+ - [You can stack and sync up to 300 of Nanoleaf’s new color-changing display cases](https://www.theverge.com/2024/8/8/24206331/nanoleaf-collectors-sneakers-expo-smart-display-case-toys)
+ - [Elon Musk posted and then deleted on X a fake Telegraph story on Falkland &quot;Detainment Camps&quot; shared by a far-right UK political party; the post had 1.8M+ views &lpar;Josh Self/Politics.co.uk&rpar;](http://www.techmeme.com/240808/p13#a240808p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

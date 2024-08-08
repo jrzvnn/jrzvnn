@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Techstars lays off 17% of its workforce, and says it will end the JP Morgan-backed $80M Advancing Cities fund after it is fully deployed at the end of 2024 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240807/p35#a240807p35)
+ - [Kamala Harris’ VC supporters raise $150,000 on a Zoom call](https://www.theverge.com/2024/8/7/24215669/vcs-for-kamala-harris-zoom-call)
  - [Midea 2 Zone Air Fryer review: great air fryer, abysmal app, and lots of sticker shock](https://appleinsider.com/articles/24/08/08/midea-2-zone-air-fryer-review-great-air-fryer-abysmal-app-and-lots-of-sticker-shock?utm_medium=rss)
  - [A researcher details a Windows Update vulnerability that could be exploited to downgrade key components of Windows to older versions that contain known flaws &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240807/p34#a240807p34)
- - [Zillow names COO Jeremy Wacksman as CEO, replacing Rich Barton, who is stepping down to become co-executive chair; Zillow reported Q2 earnings topping estimates &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/240807/p33#a240807p33)
- - [Inside the Dark World of Doxing for Profit](https://www.wired.com/story/doxing-extortion-violence-as-service/)
- - [A Cheesemonger Told Me How to Find Great Cheese for Cheap](https://www.cnet.com/how-to/a-cheesemonger-told-us-how-to-find-great-cheese-for-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zillow names COO Jeremy Wacksman as CEO, replacing Rich Barton, who is stepping down to become co-executive chair; Zillow reported Q2 earnings topping estimates &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/240807/p33#a240807p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

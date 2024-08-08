@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Mozilla interim CEO Laura Chambers on investing in Firefox, privacy-preserving ad measurements, becoming less dependent on Google, and more &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/240807/p38#a240807p38)
  - [A group of VCs, including Reid Hoffman and Ron Conway, hosted a &quot;VCs for Kamala&quot; Zoom call to support Harris&#39; campaign with up to 600 attendees, raising $150K &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240807/p37#a240807p37)
  - [How to use built-in network security features for Apple devices](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
  - [Researchers: hackers have used an 18-year-old flaw in how Safari, Chrome, and Firefox on macOS handle queries to a 0.0.0.0 IP address to breach private networks &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240807/p36#a240807p36)
- - [Best Solar Companies of August 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
- - [Techstars lays off 17% of its workforce, and says it will end the JP Morgan-backed $80M Advancing Cities fund after it is fully deployed at the end of 2024 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240807/p35#a240807p35)<!-- TECH:END -->
+ - [Best Solar Companies of August 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

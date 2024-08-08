@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
- - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 💣 [We salute you](http://9gag.com/gag/axygO3K)
- - 😝 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)
- - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 😝 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
+ - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
+ - 😝 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
+ - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
 
 ---
 

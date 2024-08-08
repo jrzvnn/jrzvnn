@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ADT admits security breach after hackers advertise stolen data on the dark web](https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach)
+ - [10 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
  - [SoundHound acquires Amelia, which makes an AI agent that businesses can customize for internal or customer use, for $80M; PitchBook: Amelia raised $189M+ &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240808/p25#a240808p25)
- - [Email: the World Federation of Advertisers discontinues activities of its nonprofit, GARM, following X&#39;s antitrust lawsuit, but intends to contest X&#39;s claims &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/240808/p24#a240808p24)
- - [Democrats push Sam Altman on OpenAI’s safety record](https://www.theverge.com/2024/8/8/24216094/openai-sam-altman-warren-trahan-whistleblowers-safety-reviews)
- - [You can now share 20 slides in one Instagram post](https://www.theverge.com/2024/8/8/24216111/instagram-carousel-post-expansion)
- - [Google&#39;s DeepMind Robotics team shows a table tennis robot that it says is a &quot;solidly amateur human-level player&quot; when pitted against a human &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240808/p23#a240808p23)<!-- TECH:END -->
+ - [CNET Editors’ Choice: Our Top Picks in EnergyTech, Solar Services and EVs](https://www.cnet.com/tech/cnet-editors-choice-our-top-picks-in-energytech-solar-services-and-evs/#ftag=CAD590a51e)
+ - [Here&#39;s How Much We Expect Social Security to Go Up in 2025](https://www.cnet.com/personal-finance/heres-how-much-we-expect-social-security-to-go-up-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

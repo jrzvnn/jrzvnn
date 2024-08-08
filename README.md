@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 💣 [We salute you](http://9gag.com/gag/axygO3K)
- - 😝 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
- - 👉 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)<!-- MEMES:END -->
+ - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
+ - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 ---
 

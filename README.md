@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just think about it](http://9gag.com/gag/a1md5WG)
- - 😝 [A country that has real issues doesn&#39;t have time to create new ones](http://9gag.com/gag/ayNLR9W)
- - 💣 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)
- - 😝 [When you find the one](http://9gag.com/gag/an7yvL5)
- - 👉 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)<!-- MEMES:END -->
+ - 😝 [When you are a bike hogging in a lane.](http://9gag.com/gag/aZZBjgn)
+ - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
+ - 💣 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 ---
 

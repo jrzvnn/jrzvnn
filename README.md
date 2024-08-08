@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: the World Federation of Advertisers discontinues activities of its nonprofit, GARM, following X&#39;s antitrust lawsuit, but intends to contest X&#39;s claims &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/240808/p24#a240808p24)
  - [Democrats push Sam Altman on OpenAI’s safety record](https://www.theverge.com/2024/8/8/24216094/openai-sam-altman-warren-trahan-whistleblowers-safety-reviews)
  - [You can now share 20 slides in one Instagram post](https://www.theverge.com/2024/8/8/24216111/instagram-carousel-post-expansion)
  - [Google&#39;s DeepMind Robotics team shows a table tennis robot that it says is a &quot;solidly amateur human-level player&quot; when pitted against a human &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240808/p23#a240808p23)
- - [OpenAI Warns Users Could Become Emotionally Hooked on Its Voice Mode](https://www.wired.com/story/openai-voice-mode-emotional-attachment/)
- - [Best Cheap TV Deals: Spend as Little as $130 and Upgrade Your Cinema Room for Less](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Warns Users Could Become Emotionally Hooked on Its Voice Mode](https://www.wired.com/story/openai-voice-mode-emotional-attachment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

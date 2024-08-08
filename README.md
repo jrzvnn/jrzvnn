@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
- - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
+ - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 💣 [9gag British users keep us informed](http://9gag.com/gag/axygOdY)
+ - 😝 [I love this sport](http://9gag.com/gag/aRBKOB7)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 ---
 

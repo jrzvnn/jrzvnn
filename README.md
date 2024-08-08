@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
- - 😝 [She was not ready for this.](http://9gag.com/gag/aoy2LMm)
+ - 😝 [F**k around and find out.](http://9gag.com/gag/aVvDL7n)
+ - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
  - 💣 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - 😝 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)
- - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
+ - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 👉 [She was not ready for this.](http://9gag.com/gag/aoy2LMm)<!-- MEMES:END -->
 
 ---
 

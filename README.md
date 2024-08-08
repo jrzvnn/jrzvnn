@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s a cheap LED camera light hidden inside this fake film roll](https://www.theverge.com/2024/8/8/24216189/ttartisan-led-light-camera-photography-film)
+ - [OpenAI reveals details of GPT-4o&#39;s safety testing, including concerns that its anthropomorphic voice may make some users emotionally attached to their chatbot &lpar;Wired&rpar;](http://www.techmeme.com/240808/p27#a240808p27)
  - [Palantir partners with Microsoft to sell AI to the government](https://www.theverge.com/2024/8/8/24216215/palantir-microsoft-azure-ai-defense-partnership-surveillance)
  - [Microsoft’s AI Can Be Turned Into an Automated Phishing Machine](https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/)
- - [Twitch’s New DJ Program Has Flaws, But It’s the Best There Is](https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/)
- - [Tampa-based Rewst, which provides robotic process automation services, raised a $45M Series C led by Sapphire Ventures, bringing its total raised to $104M &lpar;CJ Fairfield/CRN&rpar;](http://www.techmeme.com/240808/p26#a240808p26)
- - [ADT admits security breach after hackers advertise stolen data on the dark web](https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach)<!-- TECH:END -->
+ - [Twitch’s New DJ Program Has Flaws, But It’s the Best There Is](https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

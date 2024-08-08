@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes Apple&#39;s iPad 9th Gen to $229, save up to $600 on entire range](https://appleinsider.com/articles/24/08/08/amazon-slashes-apples-ipad-9th-gen-to-229-save-up-to-600-on-entire-range?utm_medium=rss)
+ - [Intel’s crashing 13th and 14th Gen Raptor Lake CPUs: all the news and updates](https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards)
+ - [This hand-crampingly tiny GBA clone has a 0.85-inch screen](https://www.theverge.com/2024/8/8/24216233/thumby-tinycircuits-nintendo-game-boy-advance-handheld-gaming-console)
  - [This new EV plug automatically delivers the right connection for your car](https://www.theverge.com/2024/8/8/24216254/chargepoint-omni-plug-ev-charging-station-nacs-ccs)
- - [Q&amp;A with DOJ antitrust boss Jonathan Kanter on the US&#39; Google win, the Apple deal, competition, being &quot;overjoyed&quot;, Google&#39;s appeal, market definitions, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240808/p31#a240808p31)
- - [OpenAI says its latest GPT-4o model is ‘medium’ risk](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [Ad group sued by Elon Musk reportedly disbands](https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising)<!-- TECH:END -->
+ - [Q&amp;A with DOJ antitrust boss Jonathan Kanter on the US&#39; Google win, the Apple deal, competition, being &quot;overjoyed&quot;, Google&#39;s appeal, market definitions, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240808/p31#a240808p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

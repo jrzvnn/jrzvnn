@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/a3475Le)
- - 😝 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)
- - 💣 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 😝 [Oh england you guys are hilarious p2](http://9gag.com/gag/azxrdQq)
- - 👉 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)<!-- MEMES:END -->
+ - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
+ - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 💣 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
+ - 😝 [I swear to god](http://9gag.com/gag/an7yRQn)
+ - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s SMIC reports Q2 revenue up 21.8% YoY to ~$1.9B, above est., net profit down 59.1% YoY to ~$164.6M, above ~$103.8M est., and $2.25B capital expenditure &lpar;Reuters&rpar;](http://www.techmeme.com/240808/p14#a240808p14)
- - [iPhone 16 mass production begins, on time for mid-September launch](https://appleinsider.com/articles/24/08/08/iphone-16-mass-production-begins-on-time-for-mid-september-launch?utm_medium=rss)
- - [Good Luck Selling Your AI Startup](https://www.wired.com/story/gadget-lab-podcast-654/)
- - [You can stack and sync up to 300 of Nanoleaf’s new color-changing display cases](https://www.theverge.com/2024/8/8/24206331/nanoleaf-collectors-sneakers-expo-smart-display-case-toys)
- - [Elon Musk posted and then deleted on X a fake Telegraph story on Falkland &quot;Detainment Camps&quot; shared by a far-right UK political party; the post had 1.8M+ views &lpar;Josh Self/Politics.co.uk&rpar;](http://www.techmeme.com/240808/p13#a240808p13)<!-- TECH:END -->
+ - [The 30 Best Energy Drinks, Tested and Reviewed](https://www.wired.com/story/best-energy-drinks/)
+ - [Indian crypto exchange WazirX plans to undo all trades that occurred following its withdrawal freeze on July 18 &quot;over the next few days&quot;, after a $230M+ hack &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240808/p15#a240808p15)
+ - [The cheesegrater Mac Pro could still be the best Mac ever made](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
+ - [How to use built-in network security features for Apple devices](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
+ - [One of Our Favorite Ring Security Cams Is Down to Its Lowest Price to Date](https://www.cnet.com/deals/one-of-our-favorite-ring-security-cams-is-down-to-its-lowest-price-to-date/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

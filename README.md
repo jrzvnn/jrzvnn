@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [M4 Mac mini rumored to get a redesign making it smaller than ever before](https://appleinsider.com/articles/24/08/08/m4-mac-mini-rumored-to-get-a-redesign-making-it-smaller-than-ever-before?utm_medium=rss)
  - [Lexar Professional Go Portable SSD with Hub cuts iPhone videography cables](https://appleinsider.com/articles/24/08/08/lexar-professional-go-portable-ssd-with-hub-cuts-iphone-videography-cables?utm_medium=rss)
  - [Hugging Face buys XetHub, a collaboration platform started by ex-Apple employees that raised $7.5M to help developers work with and build large-scale models &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240808/p21#a240808p21)
- - [Sources: Apple plans a Mac mini in 2024 with M4 and M4 Pro that is less than half the size of the current mini, its first major design change since 2010 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240808/p20#a240808p20)
- - [Flyr, which provides software to travel companies, raised $225M in equity and $70M in debt, source says at a $900M valuation, bringing its total raised to $500M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240808/p19#a240808p19)<!-- TECH:END -->
+ - [Best Savings Rates Today -- APYs Falter Amid Recession Fears, Aug. 8, 2024](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-8-2024/#ftag=CAD590a51e)
+ - [Sources: Apple plans a Mac mini in 2024 with M4 and M4 Pro that is less than half the size of the current mini, its first major design change since 2010 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240808/p20#a240808p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

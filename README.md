@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)
+ - [Best Mattresses for Kids in 2024](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
  - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)
  - [Anduril Industries raised a $1.5B Series F co-led by Founders Fund and Sands Capital at a $14B valuation, up from ~$8.5B after raising ~$1.5B in December 2022 &lpar;Axios&rpar;](http://www.techmeme.com/240808/p1#a240808p1)
- - [8 Ways to Blow Out Your Backyard for the Second Half of Summer](https://www.cnet.com/how-to/7-ways-to-blow-out-your-back-yard-for-the-second-half-of-summer/#ftag=CAD590a51e)
- - [Palmer Luckey’s Defense Startup, Anduril, Raises $1.5 Billion to Produce AI-Powered Weapons](https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/)
- - [An interview with Mozilla interim CEO Laura Chambers on investing in Firefox, privacy-preserving ad measurements, becoming less dependent on Google, and more &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/240807/p38#a240807p38)<!-- TECH:END -->
+ - [8 Ways to Blow Out Your Backyard for the Second Half of Summer](https://www.cnet.com/how-to/7-ways-to-blow-out-your-back-yard-for-the-second-half-of-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

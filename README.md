@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Riot](http://9gag.com/gag/aE0RAVG)
- - 😝 [Based Elon as usual](http://9gag.com/gag/adBqQXZ)
- - 💣 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
- - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
- - 👉 [When you find the one](http://9gag.com/gag/an7yvL5)<!-- MEMES:END -->
+ - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
+ - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - 💣 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)
+ - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 ---
 

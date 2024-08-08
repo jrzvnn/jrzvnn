@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it stopped making the Chromecast after intense competition, shifting to a premium device, and views the Nvidia Shield as something to strive towards &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240808/p10#a240808p10)
+ - [Watch How a Hacker’s Infrared Laser Can Spy on Your Laptop’s Keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
  - [AI chipmaker Black Sesame drops as much as 35% on its Hong Kong trading debut, after pricing shares at the bottom of its range and raising ~$133M in its IPO &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/240808/p9#a240808p9)
  - [How VP nominee Tim Walz vetoed a bill to raise minimum pay for Uber and Lyft drivers in Minnesota, before signing an updated law in May 2024 to raise pay by 20% &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240808/p8#a240808p8)
- - [Meta and Google secretly targeted minors on YouTube with Instagram ads](https://www.theverge.com/2024/8/8/24215911/meta-google-secretly-targeted-minors-youtube-instagram-ads)
- - [Generative AI Has a &quot;Shoplifting&quot; Problem. This Startup CEO Has a Plan to Fix It](https://www.wired.com/story/bill-gross-prorata-generative-ai-business/)
- - [Interviews with 12 TSMC staff detail ongoing culture clashes in Arizona, as well as Japan and Germany; about 50% of the 2,200 Phoenix workers came from Taiwan &lpar;John Liu/New York Times&rpar;](http://www.techmeme.com/240808/p7#a240808p7)<!-- TECH:END -->
+ - [Meta and Google secretly targeted minors on YouTube with Instagram ads](https://www.theverge.com/2024/8/8/24215911/meta-google-secretly-targeted-minors-youtube-instagram-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s gonna leave a mark](http://9gag.com/gag/an7yx25)
  - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 💣 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
  - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 👉 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)<!-- MEMES:END -->
+ - 👉 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)<!-- MEMES:END -->
 
 ---
 

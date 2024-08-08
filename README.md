@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
- - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
- - 💣 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 👉 [That was cute AF](http://9gag.com/gag/aD2jndN)<!-- MEMES:END -->
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 💣 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 👉 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)<!-- MEMES:END -->
 
 ---
 

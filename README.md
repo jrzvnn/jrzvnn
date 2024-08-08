@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything changed when the firefox attacked..](http://9gag.com/gag/apRr1dD)
+ - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
  - 😝 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/a3475Le)
- - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
- - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 👉 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)<!-- MEMES:END -->
+ - 💣 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 ---
 

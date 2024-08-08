@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 Mac mini rumored to get a redesign making it smaller than ever before](https://appleinsider.com/articles/24/08/08/m4-mac-mini-rumored-to-get-a-redesign-making-it-smaller-than-ever-before?utm_medium=rss)
+ - [How to use built-in network security features for Mac, iPhone, and iPad](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
+ - [Apple charging extra for future Apple Intelligence features is probable -- but not imminent](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)
+ - [Apple debuts new rules for apps in the EU that link to the web for purchases, including allowing links to any website, and removes many other restrictions &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240808/p22#a240808p22)
  - [Lexar Professional Go Portable SSD with Hub cuts iPhone videography cables](https://appleinsider.com/articles/24/08/08/lexar-professional-go-portable-ssd-with-hub-cuts-iphone-videography-cables?utm_medium=rss)
- - [Hugging Face buys XetHub, a collaboration platform started by ex-Apple employees that raised $7.5M to help developers work with and build large-scale models &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240808/p21#a240808p21)
- - [Best Savings Rates Today -- APYs Falter Amid Recession Fears, Aug. 8, 2024](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-8-2024/#ftag=CAD590a51e)
- - [Sources: Apple plans a Mac mini in 2024 with M4 and M4 Pro that is less than half the size of the current mini, its first major design change since 2010 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240808/p20#a240808p20)<!-- TECH:END -->
+ - [Apple bows to EU pressure over App Store anti-steering practices](https://appleinsider.com/articles/24/08/08/apple-bows-to-eu-pressure-over-anti-steering-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

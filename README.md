@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ADT admits security breach after hackers advertise stolen data on the dark web](https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach)
- - [10 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [SoundHound acquires Amelia, which makes an AI agent that businesses can customize for internal or customer use, for $80M; PitchBook: Amelia raised $189M+ &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240808/p25#a240808p25)
- - [CNET Editors’ Choice: Our Top Picks in EnergyTech, Solar Services and EVs](https://www.cnet.com/tech/cnet-editors-choice-our-top-picks-in-energytech-solar-services-and-evs/#ftag=CAD590a51e)
- - [Here&#39;s How Much We Expect Social Security to Go Up in 2025](https://www.cnet.com/personal-finance/heres-how-much-we-expect-social-security-to-go-up-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Palantir partners with Microsoft to sell AI to the government](https://www.theverge.com/2024/8/8/24216215/palantir-microsoft-azure-ai-defense-partnership-surveillance)
+ - [Microsoft’s AI Can Be Turned Into an Automated Phishing Machine](https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/)
+ - [Twitch’s New DJ Program Has Flaws, But It’s the Best There Is](https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/)
+ - [Tampa-based Rewst, which provides robotic process automation services, raised a $45M Series C led by Sapphire Ventures, bringing its total raised to $104M &lpar;CJ Fairfield/CRN&rpar;](http://www.techmeme.com/240808/p26#a240808p26)
+ - [ADT admits security breach after hackers advertise stolen data on the dark web](https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

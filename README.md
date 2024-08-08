@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If our world is taken over by them, we can&#39;t have nice things like this anymore...](http://9gag.com/gag/awy5Y5B)
+ - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
+ - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
  - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 💣 [9gag British users keep us informed](http://9gag.com/gag/axygOdY)
- - 😝 [I love this sport](http://9gag.com/gag/aRBKOB7)
- - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
+ - 👉 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)<!-- MEMES:END -->
 
 ---
 

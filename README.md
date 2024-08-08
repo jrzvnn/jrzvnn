@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m here just for the comments](http://9gag.com/gag/avyrRyn)
- - 😝 [Go Ireland!](http://9gag.com/gag/aXPA4oD)
- - 💣 [Just think about it](http://9gag.com/gag/a1md5WG)
+ - 😝 [Just think about it](http://9gag.com/gag/a1md5WG)
  - 😝 [A country that has real issues doesn&#39;t have time to create new ones](http://9gag.com/gag/ayNLR9W)
- - 👉 [When you find the one](http://9gag.com/gag/an7yvL5)<!-- MEMES:END -->
+ - 💣 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)
+ - 😝 [When you find the one](http://9gag.com/gag/an7yvL5)
+ - 👉 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)<!-- MEMES:END -->
 
 ---
 

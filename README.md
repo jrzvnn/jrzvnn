@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tricky Web Timing Attacks Are Getting Easier to Use—and Abuse](https://www.wired.com/story/web-timing-attacks-black-hat-2024/)
  - [Take-Two reports Q1 net bookings up 1% YoY to $1.22B, vs. $1.25B est., net revenue up 4%, and expects sequential growth in net bookings in FY 2026 and FY 2027 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240808/p32#a240808p32)
  - [Amazon slashes Apple&#39;s iPad 9th Gen to $229, save up to $600 on entire range](https://appleinsider.com/articles/24/08/08/amazon-slashes-apples-ipad-9th-gen-to-229-save-up-to-600-on-entire-range?utm_medium=rss)
  - [Intel’s crashing 13th and 14th Gen Raptor Lake CPUs: all the news and updates](https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards)
- - [This hand-crampingly tiny GBA clone has a 0.85-inch screen](https://www.theverge.com/2024/8/8/24216233/thumby-tinycircuits-nintendo-game-boy-advance-handheld-gaming-console)
- - [This new EV plug automatically delivers the right connection for your car](https://www.theverge.com/2024/8/8/24216254/chargepoint-omni-plug-ev-charging-station-nacs-ccs)<!-- TECH:END -->
+ - [This hand-crampingly tiny GBA clone has a 0.85-inch screen](https://www.theverge.com/2024/8/8/24216233/thumby-tinycircuits-nintendo-game-boy-advance-handheld-gaming-console)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

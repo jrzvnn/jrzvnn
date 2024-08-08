@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac mini rumored to get a redesign making it smaller than ever before](https://appleinsider.com/articles/24/08/08/m4-mac-mini-rumored-to-get-a-redesign-making-it-smaller-than-ever-before?utm_medium=rss)
+ - [Lexar Professional Go Portable SSD with Hub cuts iPhone videography cables](https://appleinsider.com/articles/24/08/08/lexar-professional-go-portable-ssd-with-hub-cuts-iphone-videography-cables?utm_medium=rss)
  - [Hugging Face buys XetHub, a collaboration platform started by ex-Apple employees that raised $7.5M to help developers work with and build large-scale models &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240808/p21#a240808p21)
  - [Sources: Apple plans a Mac mini in 2024 with M4 and M4 Pro that is less than half the size of the current mini, its first major design change since 2010 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240808/p20#a240808p20)
- - [Flyr, which provides software to travel companies, raised $225M in equity and $70M in debt, source says at a $900M valuation, bringing its total raised to $500M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240808/p19#a240808p19)
- - [Saluting the Chromecast, one of the great HDMI dongles](https://www.theverge.com/2024/8/8/24215344/google-chromecast-discontinued-salute-great-hdmi-streaming-dongle)
- - [Researchers: 50 false or misleading claims about the US election posted on X in 2024 by Elon Musk have generated nearly 1.2B views and none had a Community Note &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240808/p18#a240808p18)<!-- TECH:END -->
+ - [Flyr, which provides software to travel companies, raised $225M in equity and $70M in debt, source says at a $900M valuation, bringing its total raised to $500M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240808/p19#a240808p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Riot](http://9gag.com/gag/aE0RAVG)
- - 😝 [Based Elon as usual](http://9gag.com/gag/adBqQXZ)
- - 💣 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
- - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
- - 👉 [Just think about it](http://9gag.com/gag/a1md5WG)<!-- MEMES:END -->
+ - 😝 [Everything changed when the firefox attacked..](http://9gag.com/gag/apRr1dD)
+ - 😝 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/a3475Le)
+ - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
+ - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 👉 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)<!-- MEMES:END -->
 
 ---
 

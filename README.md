@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best price hits Apple&#39;s M3 MacBook Pro 14-inch, now $1,499](https://appleinsider.com/articles/24/08/08/best-price-hits-apples-m3-macbook-pro-14-inch-now-1499?utm_medium=rss)
+ - [Apple’s last-gen iPad has dropped to $229 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
+ - [Lexar’s new SSD expands the iPhone’s storage without monopolizing its USB-C port](https://www.theverge.com/2024/8/8/24215951/lexar-ssd-iphone-15-pro-storage-hub-usb-c)
  - [The 12 Best Hair Dryers That We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
- - [Rivian and Lucid are still burning a lot of cash, but thankfully, they have rich backers](https://www.theverge.com/2024/8/8/24215217/rivian-lucid-q2-earnings-ev-investors-vw-saudi-arabia)
- - [Google’s new weather app has leaked ahead of the Pixel 9 launch](https://www.theverge.com/2024/8/8/24215947/google-pixel-weather-app-sideload-early)
- - [Refi Rates Continue Falling Streak. Today&#39;s Refinance Rates, Aug. 8, 2024](https://www.cnet.com/personal-finance/refinance-rates-slide-down-again-mortgage-refinance-rates-for-aug-8-2024/#ftag=CAD590a51e)
- - [15-Year Fixed Mortgage Rate Plunges Below 6%. Today&#39;s Mortgage Rates, Aug. 8, 2024](https://www.cnet.com/personal-finance/mortgages-cool-off-for-homeseekers-mortgage-interest-rates-today-for-aug-8-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rivian and Lucid are still burning a lot of cash, but thankfully, they have rich backers](https://www.theverge.com/2024/8/8/24215217/rivian-lucid-q2-earnings-ev-investors-vw-saudi-arabia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

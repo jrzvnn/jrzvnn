@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The actor Neal McDonough, was blackballed by Hollywood for not doing kissing scene with woman who wasn&#39;t t his wife](http://9gag.com/gag/amorVm9)
- - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 💣 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
- - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 😝 [We salute you](http://9gag.com/gag/axygO3K)
+ - 😝 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
+ - 💣 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)
+ - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 👉 [Diarhoealand](http://9gag.com/gag/abA6229)<!-- MEMES:END -->
 
 ---
 

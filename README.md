@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cheap TV Deals: Spend as Little as $130 and Upgrade Your Cinema Room for Less](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
+ - [Don&#39;t Dump Your Old Mattress in a Landfill. Try This Instead](https://www.cnet.com/health/sleep/dont-dump-your-old-mattress-in-a-landfill-try-this-instead/#ftag=CAD590a51e)
+ - [Best Wireless Mouse Deals: Get Money Off of Big Brands Like Logitech and More](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)
  - [How to use built-in network security features for Mac, iPhone, and iPad](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
- - [Apple charging extra for future Apple Intelligence features is probable -- but not imminent](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)
- - [Apple debuts new rules for apps in the EU that link out to the web for purchases, including allowing links to any website, and removes many other restrictions &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240808/p22#a240808p22)
- - [Lexar Professional Go Portable SSD with Hub cuts iPhone videography cables](https://appleinsider.com/articles/24/08/08/lexar-professional-go-portable-ssd-with-hub-cuts-iphone-videography-cables?utm_medium=rss)
- - [Apple bows to EU pressure over App Store anti-steering practices](https://appleinsider.com/articles/24/08/08/apple-bows-to-eu-pressure-over-anti-steering-practices?utm_medium=rss)<!-- TECH:END -->
+ - [Apple charging extra for future Apple Intelligence features is probable -- but not imminent](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

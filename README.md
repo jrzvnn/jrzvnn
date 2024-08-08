@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We salute you](http://9gag.com/gag/axygO3K)
  - 😝 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
- - 💣 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)
- - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 👉 [Diarhoealand](http://9gag.com/gag/abA6229)<!-- MEMES:END -->
+ - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 💣 [We salute you](http://9gag.com/gag/axygO3K)
+ - 😝 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)
+ - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
 
 ---
 

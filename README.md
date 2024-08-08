@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This new EV plug automatically delivers the right connection for your car](https://www.theverge.com/2024/8/8/24216254/chargepoint-omni-plug-ev-charging-station-nacs-ccs)
  - [Q&amp;A with DOJ antitrust boss Jonathan Kanter on the US&#39; Google win, the Apple deal, competition, being &quot;overjoyed&quot;, Google&#39;s appeal, market definitions, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240808/p31#a240808p31)
  - [OpenAI says its latest GPT-4o model is ‘medium’ risk](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)
  - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [Ad group sued by Elon Musk reportedly disbands](https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising)
- - [Beat Sticky Summer Humidity: How to Banish Mold From Your Washing Machine](https://www.cnet.com/home/kitchen-and-household/get-rid-of-mold-washing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ad group sued by Elon Musk reportedly disbands](https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: 50 false or misleading claims about the US election posted to X in 2024 by Elon Musk have generated ~1.2B views and none displayed a Community Note &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240808/p18#a240808p18)
+ - [Kia and Hyundai’s antitheft software update seems to be working](https://www.theverge.com/2024/8/8/24216042/kia-boys-hyundai-thefts-drop-software-update)
  - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
- - [Social media firms warned against inciting violence by UK regulator](https://www.theverge.com/2024/8/8/24215961/ofcom-uk-regulator-warns-online-platforms-x-telegram-incite-violence)
- - [Best price hits Apple&#39;s M3 MacBook Pro 14-inch, now $1,499](https://appleinsider.com/articles/24/08/08/best-price-hits-apples-m3-macbook-pro-14-inch-now-1499?utm_medium=rss)
- - [Apple’s last-gen iPad has dropped to $229 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
- - [Lexar’s new SSD expands the iPhone’s storage without monopolizing its USB-C port](https://www.theverge.com/2024/8/8/24215951/lexar-ssd-iphone-15-pro-storage-hub-usb-c)<!-- TECH:END -->
+ - [Social media platforms warned against inciting violence by UK regulator](https://www.theverge.com/2024/8/8/24215961/ofcom-uk-regulator-warns-online-platforms-x-telegram-incite-violence)
+ - [Score a Pair of Anker Outlet Extenders for Just $20 With This Coupon Code](https://www.cnet.com/deals/score-a-pair-of-anker-outlet-extenders-for-just-20-with-this-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

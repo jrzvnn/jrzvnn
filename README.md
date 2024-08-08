@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean prosecutors charge Kakao founder Brian Kim with stock manipulation during the takeover of SM Entertainment, after Kim was arrested in July 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p5#a240808p5)
+ - [We Can&#39;t Stop Falling for These 4 Identity Theft Scams. Here&#39;s How Spot Them](https://www.cnet.com/how-to/we-cant-stop-falling-for-these-4-identity-theft-scams-here-is-how-spot-them/#ftag=CAD590a51e)
  - [A look at AI age scanners, which websites use to verify a person&#39;s age by analyzing their facial patterns via webcam to help safeguard kids online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240808/p4#a240808p4)
  - [As Skies Fill With Space Junk, Nonprofit Urges US to Pause StarLink Launches](https://www.wired.com/story/pirg-starlink-environmental-review-space-garbage/)
- - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)
- - [Best Mattresses for Kids in 2024](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)<!-- TECH:END -->
+ - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

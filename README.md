@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 💣 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
- - 😝 [I swear to god](http://9gag.com/gag/an7yRQn)
- - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
+ - 😝 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
+ - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
+ - 💣 [Go Ireland!](http://9gag.com/gag/aXPA4oD)
+ - 😝 [Just think about it](http://9gag.com/gag/a1md5WG)
+ - 👉 [When you find the one](http://9gag.com/gag/an7yvL5)<!-- MEMES:END -->
 
 ---
 

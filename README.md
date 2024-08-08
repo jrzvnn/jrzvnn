@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You got this? How\u2019s work lately?](http://9gag.com/gag/aqyrxNY)
  - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 💣 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)
  - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
- - 💣 [You got this? How\u2019s work lately?](http://9gag.com/gag/aqyrxNY)
- - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 👉 [That was cute AF](http://9gag.com/gag/aD2jndN)<!-- MEMES:END -->
+ - 👉 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)<!-- MEMES:END -->
 
 ---
 

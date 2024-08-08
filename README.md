@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Midea 2 Zone Air Fryer review: great air fryer, abysmal app, and lots of sticker shock](https://appleinsider.com/articles/24/08/08/midea-2-zone-air-fryer-review-great-air-fryer-abysmal-app-and-lots-of-sticker-shock?utm_medium=rss)
+ - [A researcher details a Windows Update vulnerability that could be exploited to downgrade key components of Windows to older versions that contain known flaws &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240807/p34#a240807p34)
  - [Zillow names COO Jeremy Wacksman as CEO, replacing Rich Barton, who is stepping down to become co-executive chair; Zillow reported Q2 earnings topping estimates &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/240807/p33#a240807p33)
  - [Inside the Dark World of Doxing for Profit](https://www.wired.com/story/doxing-extortion-violence-as-service/)
- - [Ireland&#39;s DPC launches High Court proceedings against X over concerns about the company&#39;s use of user data in the EU and EEA to train AI systems including Grok &lpar;RT&amp;Eacute;&rpar;](http://www.techmeme.com/240807/p32#a240807p32)
- - [Meta closes Ready at Dawn Studios, which it acquired in 2020 and produced VR games like Lone Echo and Echo VR, to meet the new Reality Labs budgetary ceiling &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240807/p31#a240807p31)
- - [Turkey bans Roblox, after blocking Instagram on August 2; a Turkish official said the ban was primarily related to sexual content that could lead to child abuse &lpar;T&amp;uuml;rkiye Today&rpar;](http://www.techmeme.com/240807/p30#a240807p30)<!-- TECH:END -->
+ - [A Cheesemonger Told Me How to Find Great Cheese for Cheap](https://www.cnet.com/how-to/a-cheesemonger-told-us-how-to-find-great-cheese-for-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

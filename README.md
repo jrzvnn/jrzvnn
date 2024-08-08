@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around and find out.](http://9gag.com/gag/aVvDL7n)
- - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
- - 💣 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 👉 [She was not ready for this.](http://9gag.com/gag/aoy2LMm)<!-- MEMES:END -->
+ - 😝 [I\u2019m here just for the comments](http://9gag.com/gag/avyrRyn)
+ - 😝 [Go Ireland!](http://9gag.com/gag/aXPA4oD)
+ - 💣 [Just think about it](http://9gag.com/gag/a1md5WG)
+ - 😝 [A country that has real issues doesn&#39;t have time to create new ones](http://9gag.com/gag/ayNLR9W)
+ - 👉 [When you find the one](http://9gag.com/gag/an7yvL5)<!-- MEMES:END -->
 
 ---
 

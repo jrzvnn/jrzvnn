@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: hackers have used an 18-year-old flaw in how Safari, Chrome, and Firefox on macOS handle queries to a 0.0.0.0 IP address to breach private networks &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240807/p36#a240807p36)
  - [Best Solar Companies of August 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
  - [Techstars lays off 17% of its workforce, and says it will end the JP Morgan-backed $80M Advancing Cities fund after it is fully deployed at the end of 2024 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240807/p35#a240807p35)
  - [Kamala Harris’ VC supporters raise $150,000 on a Zoom call](https://www.theverge.com/2024/8/7/24215669/vcs-for-kamala-harris-zoom-call)
- - [Midea 2 Zone Air Fryer review: great air fryer, abysmal app, and lots of sticker shock](https://appleinsider.com/articles/24/08/08/midea-2-zone-air-fryer-review-great-air-fryer-abysmal-app-and-lots-of-sticker-shock?utm_medium=rss)
- - [A researcher details a Windows Update vulnerability that could be exploited to downgrade key components of Windows to older versions that contain known flaws &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240807/p34#a240807p34)<!-- TECH:END -->
+ - [Midea 2 Zone Air Fryer review: great air fryer, abysmal app, and lots of sticker shock](https://appleinsider.com/articles/24/08/08/midea-2-zone-air-fryer-review-great-air-fryer-abysmal-app-and-lots-of-sticker-shock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

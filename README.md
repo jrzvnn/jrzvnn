@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
+ - [TikTok adds in-app hubs for videos about movies and TV shows](https://www.theverge.com/2024/8/8/24215338/tiktok-spotlight-in-app-hubs-movies-tv-shows)
+ - [This Scuf controller looks even cooler than Microsoft’s Elite and is $84 off](https://www.theverge.com/good-deals/2024/8/8/24215944/corsair-scuf-instinct-pro-custom-xbox-controller-elite-deal-sale)
  - [The 30 Best Energy Drinks, Tested and Reviewed](https://www.wired.com/story/best-energy-drinks/)
- - [Indian crypto exchange WazirX plans to undo all trades that occurred following its withdrawal freeze on July 18 &quot;over the next few days&quot;, after a $230M+ hack &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240808/p15#a240808p15)
- - [The cheesegrater Mac Pro could still be the best Mac ever made](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
- - [How to use built-in network security features for Apple devices](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
- - [One of Our Favorite Ring Security Cams Is Down to Its Lowest Price to Date](https://www.cnet.com/deals/one-of-our-favorite-ring-security-cams-is-down-to-its-lowest-price-to-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indian crypto exchange WazirX plans to undo all trades that occurred following its withdrawal freeze on July 18 &quot;over the next few days&quot;, after a $230M+ hack &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240808/p15#a240808p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next time baby...](http://9gag.com/gag/aVvDmrK)
- - 😝 [This man took way too much of everything](http://9gag.com/gag/a6ZM51e)
- - 💣 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 😝 [If that was a chain instead of a rope, this video would have had a much more Darwinian outcome](http://9gag.com/gag/a9yW8D0)
- - 👉 [Bed designed to protect you during earthquakes](http://9gag.com/gag/a0edo5d)<!-- MEMES:END -->
+ - 😝 [Riot](http://9gag.com/gag/aE0RAVG)
+ - 😝 [Based Elon as usual](http://9gag.com/gag/adBqQXZ)
+ - 💣 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
+ - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
+ - 👉 [When you find the one](http://9gag.com/gag/an7yvL5)<!-- MEMES:END -->
 
 ---
 

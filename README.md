@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face buys XetHub, a collaboration platform started by ex-Apple employees that raised $7.5M to help developers work with and build large-scale models &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240808/p21#a240808p21)
  - [Sources: Apple plans a Mac mini in 2024 with M4 and M4 Pro that is less than half the size of the current mini, its first major design change since 2010 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240808/p20#a240808p20)
  - [Flyr, which provides software to travel companies, raised $225M in equity and $70M in debt, source says at a $900M valuation, bringing its total raised to $500M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240808/p19#a240808p19)
  - [Saluting the Chromecast, one of the great HDMI dongles](https://www.theverge.com/2024/8/8/24215344/google-chromecast-discontinued-salute-great-hdmi-streaming-dongle)
- - [Researchers: 50 false or misleading claims about the US election posted to X in 2024 by Elon Musk have generated ~1.2B views and none displayed a Community Note &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240808/p18#a240808p18)
- - [Kia and Hyundai’s antitheft software update seems to be working](https://www.theverge.com/2024/8/8/24216042/kia-boys-hyundai-thefts-drop-software-update)<!-- TECH:END -->
+ - [Researchers: 50 false or misleading claims about the US election posted on X in 2024 by Elon Musk have generated nearly 1.2B views and none had a Community Note &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240808/p18#a240808p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

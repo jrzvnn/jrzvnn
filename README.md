@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans a Mac mini in 2024 with M4 and M4 Pro that is less than half the size of the current mini, its first major design change since 2010 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240808/p20#a240808p20)
+ - [Flyr, which provides software to travel companies, raised $225M in equity and $70M in debt, source says at a $900M valuation, bringing its total raised to $500M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240808/p19#a240808p19)
+ - [Saluting the Chromecast, one of the great HDMI dongles](https://www.theverge.com/2024/8/8/24215344/google-chromecast-discontinued-salute-great-hdmi-streaming-dongle)
  - [Researchers: 50 false or misleading claims about the US election posted to X in 2024 by Elon Musk have generated ~1.2B views and none displayed a Community Note &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240808/p18#a240808p18)
- - [Kia and Hyundai’s antitheft software update seems to be working](https://www.theverge.com/2024/8/8/24216042/kia-boys-hyundai-thefts-drop-software-update)
- - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
- - [Social media platforms warned against inciting violence by UK regulator](https://www.theverge.com/2024/8/8/24215961/ofcom-uk-regulator-warns-online-platforms-x-telegram-incite-violence)
- - [Score a Pair of Anker Outlet Extenders for Just $20 With This Coupon Code](https://www.cnet.com/deals/score-a-pair-of-anker-outlet-extenders-for-just-20-with-this-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kia and Hyundai’s antitheft software update seems to be working](https://www.theverge.com/2024/8/8/24216042/kia-boys-hyundai-thefts-drop-software-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

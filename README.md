@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
  - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 😝 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
- - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
+ - 😝 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
+ - 💣 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
 
 ---
 

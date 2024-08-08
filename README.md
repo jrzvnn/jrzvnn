@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta closes Ready At Dawn, the studio behind Echo VR](https://www.theverge.com/2024/8/8/24216240/meta-ready-at-dawn-echo-vr-shutdown)
  - [Putin signs a law legalizing cryptocurrency mining in Russia; only Russian legal entities and individuals included in a register will have the right to mine &lpar;TASS&rpar;](http://www.techmeme.com/240808/p28#a240808p28)
  - [There’s a cheap LED camera light hidden inside this fake film roll](https://www.theverge.com/2024/8/8/24216189/ttartisan-led-light-camera-photography-film)
  - [OpenAI reveals details of GPT-4o&#39;s safety testing, including concerns that its anthropomorphic voice may make some users emotionally attached to their chatbot &lpar;Wired&rpar;](http://www.techmeme.com/240808/p27#a240808p27)
- - [Score Anker&#39;s Soundcore Life Q30 Headphones for New Low of $56](https://www.cnet.com/deals/score-anker-soundcore-life-q30-headphones-for-new-low-of-56/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Answer for Aug. 8, #1146 Is a Real Streak-Breaker](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-8-1146/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Palantir partners with Microsoft to sell AI to the government](https://www.theverge.com/2024/8/8/24216215/palantir-microsoft-azure-ai-defense-partnership-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

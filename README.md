@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
  - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
- - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
+ - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
+ - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anduril Industries raised a $1.5B Series F co-led by Founders Fund and Sands Capital at a $14B valuation, up from ~$8.5B after raising ~$1.5B in December 2022 &lpar;Axios&rpar;](http://www.techmeme.com/240808/p1#a240808p1)
  - [Palmer Luckey’s Defense Startup, Anduril, Raises $1.5 Billion to Produce AI-Powered Weapons](https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/)
  - [An interview with Mozilla interim CEO Laura Chambers on investing in Firefox, privacy-preserving ad measurements, becoming less dependent on Google, and more &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/240807/p38#a240807p38)
- - [A group of VCs, including Reid Hoffman and Ron Conway, hosted a &quot;VCs for Kamala&quot; Zoom call to support Harris&#39; campaign with up to 600 attendees, raising $150K &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240807/p37#a240807p37)
- - [How to use built-in network security features for Apple devices](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
- - [Researchers: hackers have used an 18-year-old flaw in how Safari, Chrome, and Firefox on macOS handle queries to a 0.0.0.0 IP address to breach private networks &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240807/p36#a240807p36)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-8/#ftag=CAD590a51e)
+ - [A group of VCs, including Reid Hoffman and Ron Conway, hosted a &quot;VCs for Kamala&quot; Zoom call to support Harris&#39; campaign with up to 600 attendees, raising $150K &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240807/p37#a240807p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

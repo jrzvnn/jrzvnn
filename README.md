@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now anybody with a Substack account can publish content](https://www.theverge.com/2024/8/8/24216317/substack-socia-media-newsletter-creators)
+ - [ChatGPT now lets free users generate up to two images per day made by DALL-E 3](https://www.theverge.com/2024/8/8/24216348/chatgpt-free-users-dall-e-3-images)
  - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
  - [Tricky Web Timing Attacks Are Getting Easier to Use—and Abuse](https://www.wired.com/story/web-timing-attacks-black-hat-2024/)
- - [Take-Two reports Q1 net bookings up 1% YoY to $1.22B, vs. $1.25B est., net revenue up 4%, and expects sequential growth in net bookings in FY 2026 and FY 2027 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240808/p32#a240808p32)
- - [Amazon slashes Apple&#39;s iPad 9th Gen to $229, save up to $600 on entire range](https://appleinsider.com/articles/24/08/08/amazon-slashes-apples-ipad-9th-gen-to-229-save-up-to-600-on-entire-range?utm_medium=rss)
- - [How Much Water Should You Drink Daily? How to Stay Hydrated](https://www.cnet.com/health/medical/how-to-stay-hydrated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Take-Two reports Q1 net bookings up 1% YoY to $1.22B, vs. $1.25B est., net revenue up 4%, and expects sequential growth in net bookings in FY 2026 and FY 2027 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240808/p32#a240808p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

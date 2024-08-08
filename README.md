@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
  - 😝 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
- - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 😝 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
- - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
+ - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
+ - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 👉 [That&#39;s gonna leave a mark](http://9gag.com/gag/an7yx25)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
- - 😝 [That was cute AF](http://9gag.com/gag/aD2jndN)
- - 💣 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
- - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
- - 👉 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)<!-- MEMES:END -->
+ - 😝 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
+ - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 💣 [Not a boomer complaint. Reality. I&#39;m tired of knowing a million logins, passwords and being tracked with everything. Even basic household items now want to track and log me in. Forget it.](http://9gag.com/gag/an7yD4o)
+ - 😝 [We salute you](http://9gag.com/gag/axygO3K)
+ - 👉 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)<!-- MEMES:END -->
 
 ---
 

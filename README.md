@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The 12 Best Hair Dryers That We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
  - [Rivian and Lucid are still burning a lot of cash, but thankfully, they have rich backers](https://www.theverge.com/2024/8/8/24215217/rivian-lucid-q2-earnings-ev-investors-vw-saudi-arabia)
- - [Google’s new weather app has leaked out ahead of the Pixel 9 launch](https://www.theverge.com/2024/8/8/24215947/google-pixel-weather-app-sideload-early)
- - [Apple charging extra for future Apple Intelligence features is probable -- but not soon](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)
- - [TikTok launches TikTok Spotlight, in-app hubs for movies and TV shows that add links to &quot;applicable&quot; videos with information and where to watch, tested on Dune &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240808/p17#a240808p17)<!-- TECH:END -->
+ - [Google’s new weather app has leaked ahead of the Pixel 9 launch](https://www.theverge.com/2024/8/8/24215947/google-pixel-weather-app-sideload-early)
+ - [Refi Rates Continue Falling Streak. Today&#39;s Refinance Rates, Aug. 8, 2024](https://www.cnet.com/personal-finance/refinance-rates-slide-down-again-mortgage-refinance-rates-for-aug-8-2024/#ftag=CAD590a51e)
+ - [15-Year Fixed Mortgage Rate Plunges Below 6%. Today&#39;s Mortgage Rates, Aug. 8, 2024](https://www.cnet.com/personal-finance/mortgages-cool-off-for-homeseekers-mortgage-interest-rates-today-for-aug-8-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

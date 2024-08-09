@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
- - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
+ - 😝 [Most countries around India is failing](http://9gag.com/gag/aPAM8XK)
+ - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
+ - 💣 [The gold medal awarded at the Paris Olympics 2024](http://9gag.com/gag/aAywMPL)
+ - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
 
 ---
 

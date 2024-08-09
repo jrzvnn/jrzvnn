@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cuckoo is a picturesque nightmare that struggles to get its point across](https://www.theverge.com/2024/8/9/24215555/neon-cuckoo-review)
  - [[Thread] A roundup of recent announcements from researchers, businesses, and academic institutions opposing California&#39;s AI safety bill &lpar;@martin_casado&rpar;](http://www.techmeme.com/240809/p16#a240809p16)
  - [Read Intel’s biggest statement yet on how it’s addressing Raptor Lake CPU woes](https://www.theverge.com/2024/8/9/24216887/intel-13th-14th-gen-raptor-lake-statement)
  - [The 14 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: We&#39;ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [A researcher shows five proof-of-concept ways that Copilot can be manipulated by attackers, including turning it into an automatic spear-phishing machine &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240809/p15#a240809p15)
- - [If Apple TV+ abandons theatrical releases, it won&#39;t be because of money](https://appleinsider.com/articles/24/08/09/if-apple-tv-abandons-theatrical-releases-it-wont-be-because-of-money?utm_medium=rss)<!-- TECH:END -->
+ - [A researcher shows five proof-of-concept ways that Copilot can be manipulated by attackers, including turning it into an automatic spear-phishing machine &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240809/p15#a240809p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

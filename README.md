@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal has been blocked by Venezuela and Russia](https://www.theverge.com/2024/8/9/24217008/signal-blocked-venezuela-russia)
  - [D23 2024: all the biggest trailers and news out of Disney’s biennial showcase](https://www.theverge.com/2024/8/9/24216962/d23-2024-all-the-biggest-trailers-and-news)
  - [Steve Jobs&#39; mega yacht bashed a billionaire&#39;s boat in Italy](https://appleinsider.com/articles/24/08/09/steve-jobs-mega-yacht-bashed-a-billionaires-boat-in-italy?utm_medium=rss)
  - [TikTok is offering steep discounts on goods to US users who invite friends to the app, expanding a referral scheme from countries like Japan and Thailand &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240809/p18#a240809p18)
- - [ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)
- - [Since the OpenAI board dispute, Microsoft diversified AI investments and partnerships, built its own models, and hired aggressively for its consumer AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p17#a240809p17)<!-- TECH:END -->
+ - [Best Mattress for Side Sleepers in 2024](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

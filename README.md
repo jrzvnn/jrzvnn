@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [I know someone who will do it for less](http://9gag.com/gag/aBywEVZ)
- - 💣 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 😝 [Title](http://9gag.com/gag/a87pKbd)
+ - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Title](http://9gag.com/gag/a87pKbd)<!-- MEMES:END -->
+ - 👉 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)<!-- MEMES:END -->
 
 ---
 

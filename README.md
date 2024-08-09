@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
  - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
- - 👉 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
+ - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 💣 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
+ - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 ---
 

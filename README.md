@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Adaptive Lighting support spreads to Matter smart lights](https://appleinsider.com/articles/24/08/09/apples-adaptive-lighting-support-spreads-to-matter-smart-lights?utm_medium=rss)
- - [iRobot’s excellent Roomba Combo j7 Plus is cheaper than ever for Verge readers](https://www.theverge.com/2024/8/9/24216073/irobot-roomba-combo-j7-j9-plus-backbone-one-controller-deal-sale)
- - [Here’s what the new Dodge Charger Daytona’s fake engine sounds like](https://www.theverge.com/2024/8/9/24216750/dodge-charger-daytona-ev-fratzonic-chambered-exhaust-sound)
- - [&#39;Crush House&#39; Is a Game For People Who Love Drama](https://www.wired.com/story/crush-house-is-the-sims-for-people-who-like-drama/)
- - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that can damage some Core 13th and 14th Gen desktop CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)<!-- TECH:END -->
+ - [A researcher shows five proof-of-concept ways that Copilot can be manipulated by attackers, including turning it into an automatic spear-phishing machine &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240809/p15#a240809p15)
+ - [If Apple TV+ abandons theatrical releases, it won&#39;t be because of money](https://appleinsider.com/articles/24/08/09/if-apple-tv-abandons-theatrical-releases-it-wont-be-because-of-money?utm_medium=rss)
+ - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
+ - [Warner Bros. Discovery pretty much wiped the Cartoon Network website](https://www.theverge.com/2024/8/9/24216846/warner-bros-discovery-cartoon-network-website-wiped-max)
+ - [Apple&#39;s Adaptive Lighting support spreads to Matter smart lights](https://appleinsider.com/articles/24/08/09/apples-adaptive-lighting-support-spreads-to-matter-smart-lights?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

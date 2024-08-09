@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google lost its first antitrust case, so what happens next?](https://www.theverge.com/2024/8/9/24216708/google-lost-antitrust-elon-musk-sues-advertisers)
  - [Cuckoo is a picturesque nightmare that struggles to get its point across](https://www.theverge.com/2024/8/9/24215555/neon-cuckoo-review)
  - [[Thread] A roundup of recent announcements from researchers, businesses, and academic institutions opposing California&#39;s AI safety bill &lpar;@martin_casado&rpar;](http://www.techmeme.com/240809/p16#a240809p16)
  - [Read Intel’s biggest statement yet on how it’s addressing Raptor Lake CPU woes](https://www.theverge.com/2024/8/9/24216887/intel-13th-14th-gen-raptor-lake-statement)
- - [The 14 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: We&#39;ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [A researcher shows five proof-of-concept ways that Copilot can be manipulated by attackers, including turning it into an automatic spear-phishing machine &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240809/p15#a240809p15)<!-- TECH:END -->
+ - [The 14 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: We&#39;ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple adds nearly endless 20 percent fee for developers in latest EU update](https://www.theverge.com/2024/8/9/24216181/apple-eu-app-store-services-fee-external-links)
+ - [He Started Out as the ‘Dear Abby’ of Grindr. Now Everyone Wants His Advice](https://www.wired.com/story/dial-up-jp-brammer/)
  - [A new Apple Maps ‘search here’ button will quickly target specific areas](https://www.theverge.com/2024/8/9/24216692/apple-maps-ios-18-search-here-button)
  - [Intel delays its Innovation event, slated for September and expected to include details about new CPUs, until 2025, citing its financial results and H2 outlook &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240809/p11#a240809p11)
- - [Microsoft might be resurrecting its mixed reality business](https://www.theverge.com/2024/8/9/24216727/microsoft-samsung-mixed-reality-display-partnership-rumor)
- - [Clean energy infrastructure is vulnerable to cyberattack — the Biden administration has a plan to protect it](https://www.theverge.com/2024/8/9/24216329/cybersecurity-clean-energy-biden-administration-priorities)
- - [Samsung’s exclusive Olympic Edition Galaxy Flips are showing up for sale online](https://www.theverge.com/2024/8/9/24216677/samsung-exclusive-galaxy-z-flip-6-olympics-paris)<!-- TECH:END -->
+ - [Microsoft might be resurrecting its mixed reality business](https://www.theverge.com/2024/8/9/24216727/microsoft-samsung-mixed-reality-display-partnership-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

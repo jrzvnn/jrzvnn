@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)
  - [Olympic Drag Artist Nicky Doll Hits Back at Online Hate Mob](https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/)
  - [A look at Whisper CEO Michael Heyward&#39;s Medialab, which acquired Imgur and Genius and was sued by their founders and others for allegedly failing to honor deals &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/240809/p1#a240809p1)
  - [The Google monopoly ruling dealt a blow to one of Big Tech&#39;s arguments against regulation: that 19th-century antitrust laws can&#39;t address modern tech innovation &lpar;Washington Post&rpar;](http://www.techmeme.com/240808/p40#a240808p40)
- - [What&#39;s new in Quick Look for visionOS 2](https://appleinsider.com/articles/24/08/09/whats-new-in-quick-look-for-visionos-2?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 9, #425](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-9-425/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What&#39;s new in Quick Look for visionOS 2](https://appleinsider.com/articles/24/08/09/whats-new-in-quick-look-for-visionos-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

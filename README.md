@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 😝 [I don&#39;t live in England so I can legally upload this without being put in jail for 10 years. It&#39;s been scrubbed everywhere I looked for it. Enjoy](http://9gag.com/gag/aMVwyx1)
- - 💣 [This is how you plan an event \u2026](http://9gag.com/gag/aKG2LgN)
+ - 😝 [*staring intensifies*](http://9gag.com/gag/ae9Y2o5)
+ - 😝 [Title](http://9gag.com/gag/a87pKbd)
+ - 💣 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [31 birthday here, I am travelling alone in Scotland, I did buy the cheapest wine and went to the loch ness to party with nessie. You are my family!](http://9gag.com/gag/amornE9)<!-- MEMES:END -->
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
- - 😝 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)
- - 💣 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 😝 [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 💣 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 👉 [I did thinking about her](http://9gag.com/gag/axygRVL)<!-- MEMES:END -->
 
 ---
 

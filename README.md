@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just vote for me peasants stop asking questions](http://9gag.com/gag/an7yrM0)
- - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 💣 [Mario wishes he had it that easy](http://9gag.com/gag/azxrYBm)
- - 😝 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)
- - 👉 [The dad side is strong with this one...](http://9gag.com/gag/a9yWXoK)<!-- MEMES:END -->
+ - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 😝 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
+ - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
 
 ---
 

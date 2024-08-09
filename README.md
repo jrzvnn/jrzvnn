@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot’s excellent Roomba Combo j7 Plus is cheaper than ever for Verge readers](https://www.theverge.com/2024/8/9/24216073/irobot-roomba-combo-j7-j9-plus-backbone-one-controller-deal-sale)
  - [Here’s what the new Dodge Charger Daytona’s fake engine sounds like](https://www.theverge.com/2024/8/9/24216750/dodge-charger-daytona-ev-fratzonic-chambered-exhaust-sound)
  - [&#39;Crush House&#39; Is a Game For People Who Love Drama](https://www.wired.com/story/crush-house-is-the-sims-for-people-who-like-drama/)
  - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that can damage some Core 13th and 14th Gen desktop CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)
- - [DevRev, which develops AI tools to improve the efficiency of employees on support, product, and engineering teams, raised $100M at a $1.15B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240809/p13#a240809p13)
- - [Prime Video&#39;s Best Sci-Fi TV Shows to Transport You to Another World](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-to-transport-you-to-another-world/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DevRev, which develops AI tools to improve the efficiency of employees on support, product, and engineering teams, raised $100M at a $1.15B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240809/p13#a240809p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

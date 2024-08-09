@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So proud of this community!](http://9gag.com/gag/aGy0oxK)
- - 😝 [Empathy](http://9gag.com/gag/amorn1d)
- - 💣 [So it begins](http://9gag.com/gag/aBywv3A)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 😝 [I know someone who will do it for less](http://9gag.com/gag/aBywEVZ)
+ - 💣 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [This guy posted about nobody coming when he was too early and then these 2 madlads showed up with him on their t-shirts](http://9gag.com/gag/abA6d29)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a87pKbd)<!-- MEMES:END -->
 
 ---
 

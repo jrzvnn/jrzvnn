@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
- - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 💣 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)
- - 😝 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
- - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 😝 [Him : aren&#39;t you gonna run out of money? Her : no Him can you be sugar mommy?](http://9gag.com/gag/a7oZpnw)
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

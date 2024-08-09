@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time boys. It&#39;s time for some big tity goth girlfriend. Post it in comments](http://9gag.com/gag/an7yrmq)
  - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 💣 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 💣 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 👉 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)<!-- MEMES:END -->
 
 ---
 

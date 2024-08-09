@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 💣 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 💣 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
 
 ---
 

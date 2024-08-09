@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 💣 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
+ - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 💣 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [I did thinking about her](http://9gag.com/gag/axygRVL)<!-- MEMES:END -->
+ - 👉 [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)<!-- MEMES:END -->
 
 ---
 

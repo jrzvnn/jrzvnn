@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 😝 [She was not ready for this.](http://9gag.com/gag/aoy2LMm)
- - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
+ - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
+ - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 👉 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
 
 ---
 

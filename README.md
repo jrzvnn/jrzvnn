@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
- - 😝 [Him : aren&#39;t you gonna run out of money? Her : no Him can you be sugar mommy?](http://9gag.com/gag/a7oZpnw)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
+ - 😝 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
+ - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
 
 ---
 

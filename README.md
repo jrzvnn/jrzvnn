@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro disappointments and beta frustrations on the AppleInsider podcast](https://appleinsider.com/articles/24/08/09/apple-vision-pro-disappointments-and-beta-frustrations-on-the-appleinsider-podcast?utm_medium=rss)
- - [The Irish Data Protection Commission says X has agreed to pause training Grok using millions of Europeans&#39; public posts it collected between May 7 and August 1 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240809/p7#a240809p7)
- - [Should You Buy a Used Phone on eBay? This Is What You Need to Know](https://www.cnet.com/tech/mobile/should-you-buy-a-used-phone-on-ebay-this-is-what-you-should-know/#ftag=CAD590a51e)
- - [iPhone 16 Design: What Apple&#39;s Next Phone Could Look Like Based on Rumors](https://www.cnet.com/tech/mobile/how-the-iphone-16s-design-may-change/#ftag=CAD590a51e)
- - [How Hackers Extracted the ‘Keys to the Kingdom’ to Clone HID Keycards](https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/)<!-- TECH:END -->
+ - [4 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
+ - [AT&amp;T changes its ‘Bad Golf Day’ ad after T-Mobile complained](https://www.theverge.com/2024/8/9/24216664/att-satellite-calling-ad-updated-tmobile-complained)
+ - [Keir Starmer confirms UK&#39;s Online Safety Act will be reviewed after London mayor Sadiq Khan said the law was &quot;not fit for purpose&quot; after far-right riots &lpar;The Guardian&rpar;](http://www.techmeme.com/240809/p8#a240809p8)
+ - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
+ - [Apple Vision Pro disappointments and beta frustrations on the AppleInsider podcast](https://appleinsider.com/articles/24/08/09/apple-vision-pro-disappointments-and-beta-frustrations-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 💣 [I did thinking about her](http://9gag.com/gag/axygRVL)
- - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
 
 ---
 

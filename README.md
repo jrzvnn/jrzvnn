@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 💣 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 😝 [Mario wishes he had it that easy](http://9gag.com/gag/azxrYBm)
+ - 😝 [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)
+ - 💣 [Repairing a car leather Seat flawlessly](http://9gag.com/gag/ayNLYdr)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
+ - 👉 [Pff](http://9gag.com/gag/aW4896x)<!-- MEMES:END -->
 
 ---
 

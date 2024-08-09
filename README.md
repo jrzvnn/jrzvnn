@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
- - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
+ - 💣 [Angry Daniel Radcliffe](http://9gag.com/gag/aQzMVmd)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 👉 [It has started...degenerates gatheing](http://9gag.com/gag/aVvDBAn)<!-- MEMES:END -->
 
 ---
 

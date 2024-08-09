@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does Jewelry and Big Hair Slow Down Olympic Runners?](https://www.wired.com/story/does-jewelry-slow-down-olympic-runners/)
  - [A look at the deepening engagement of EU&#39;s auto chipmakers with China as sales suffer in the West; McKinsey: automotive chips market will be worth $150B by 2030 &lpar;Alan Crawford/Bloomberg&rpar;](http://www.techmeme.com/240809/p2#a240809p2)
  - [Cambridge Audio Evo One Review: A Gorgeous High-End Speaker](https://www.wired.com/review/review-cambridge-audio-evo-one/)
  - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)
- - [Olympic Drag Artist Nicky Doll Hits Back at Online Hate Mob](https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/)
- - [A look at Whisper CEO Michael Heyward&#39;s Medialab, which acquired Imgur and Genius and was sued by their founders and others for allegedly failing to honor deals &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/240809/p1#a240809p1)<!-- TECH:END -->
+ - [Olympic Drag Artist Nicky Doll Hits Back at Online Hate Mob](https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

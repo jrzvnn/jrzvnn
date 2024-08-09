@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s adorable Astro Bot controller is now available for preorder](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
  - [Former Twitter board member Omid Kordestani, who helped oversee the sale of the company to Elon Musk, sues X for failing to cash out $20M+ worth of stock &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240809/p20#a240809p20)
  - [Nearly everyone working on Nova Launcher has been laid off](https://www.theverge.com/2024/8/9/24217077/nova-launcher-layoffs-only-original-developer-remaining)
  - [Instagram is testing its own take on Snap Maps](https://www.theverge.com/2024/8/9/24217027/instagram-snap-map-style-feature-testing)
- - [Interfax: Roskomnadzor blocked Signal in Russia for allegedly violating laws linked to anti-terrorist operations; Venezuela reportedly blocked Signal too &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240809/p19#a240809p19)
- - [Best Mattress Deals: Take Advantage of Deals on Top Brands Like Casper, Avocado and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interfax: Roskomnadzor blocked Signal in Russia for allegedly violating laws linked to anti-terrorist operations; Venezuela reportedly blocked Signal too &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240809/p19#a240809p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

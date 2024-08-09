@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p3#a240809p3)
  - [Does Jewelry and Big Hair Slow Down Olympic Runners?](https://www.wired.com/story/does-jewelry-slow-down-olympic-runners/)
  - [A look at the deepening engagement of EU&#39;s auto chipmakers with China as sales suffer in the West; McKinsey: automotive chips market will be worth $150B by 2030 &lpar;Alan Crawford/Bloomberg&rpar;](http://www.techmeme.com/240809/p2#a240809p2)
  - [Cambridge Audio Evo One Review: A Gorgeous High-End Speaker](https://www.wired.com/review/review-cambridge-audio-evo-one/)
- - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)
- - [Olympic Drag Artist Nicky Doll Hits Back at Online Hate Mob](https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/)<!-- TECH:END -->
+ - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

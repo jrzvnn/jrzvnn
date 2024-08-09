@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the US&#39; Chips and Science Act two years after its enactment on August 9, 2022, as the Biden administration nearly finishes divvying up $39B in grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240809/p6#a240809p6)
- - [Venezuelan President Nicolas Maduro bans X in the country for ten days, accusing Elon Musk of using X to promote hatred after Venezuela&#39;s disputed election &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p4#a240809p4)
- - [Google Photos’ Library is dead — say hello to Collections](https://www.theverge.com/2024/8/9/24216637/google-photos-collections-library-update-ios-android)
- - [The Olympics&#39; Hostile Architecture Is a Preview of What&#39;s to Come](https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/)
- - [Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p3#a240809p3)<!-- TECH:END -->
+ - [Edit PDFs With Ease With Discounted PDF Expert Subscriptions](https://www.cnet.com/deals/edit-pdfs-with-ease-with-discounted-pdf-expert-subscriptions/#ftag=CAD590a51e)
+ - [Refi Rates Drop Over the Last Week: Mortgage Refinance Rates on Aug. 9, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-drop-over-the-last-week-mortgage-refinance-rates-on-aug-9-2024/#ftag=CAD590a51e)
+ - [Rates Fall for Prospective Buyers: Mortgage Rates for Aug. 9, 2024](https://www.cnet.com/personal-finance/mortgages/rates-fall-for-prospective-buyers-mortgage-rates-for-aug-9-2024/#ftag=CAD590a51e)
+ - [Our Favorite Smart Lock Is $80 Off at Amazon Right Now](https://www.cnet.com/deals/our-favorite-smart-lock-is-80-off-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

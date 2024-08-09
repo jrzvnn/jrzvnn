@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 😝 [The gold medal awarded at the Paris Olympics 2024](http://9gag.com/gag/aAywMPL)
  - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
  - 💣 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
  - 💣 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)<!-- MEMES:END -->
+ - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
 
 ---
 

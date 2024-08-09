@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [At home, she&#39;s the boss.](http://9gag.com/gag/aVvDRjy)
  - 😝 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
  - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 😝 [That right](http://9gag.com/gag/ae9Y70p)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
+ - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 ---
 

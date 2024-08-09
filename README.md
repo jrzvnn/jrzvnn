@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs](https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/)
  - [Instagram is testing a Snap Maps-like feature that lets users post text and video updates to a map that can be shared with friends &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240809/p21#a240809p21)
  - [The FDA Just Rejected a Bid for MDMA’s Approval to Treat PTSD](https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/)
  - [Noah Lyles’ Olympic Run Is the New Normal for Living With Covid](https://www.wired.com/story/noah-lyles-covid-olympics-new-normal/)
- - [Steve Jobs&#39; mega yacht bashed a billionaire&#39;s boat in Italy](https://appleinsider.com/articles/24/08/09/steve-jobs-mega-yacht-bashed-a-billionaires-boat-in-italy?utm_medium=rss)
- - [Teflon Flu Risks, Cooking Safety Tips, and Nonstick Alternatives](https://www.cnet.com/how-to/teflon-flu-risks-cooking-safety-tips-and-nonstick-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steve Jobs&#39; mega yacht bashed a billionaire&#39;s boat in Italy](https://appleinsider.com/articles/24/08/09/steve-jobs-mega-yacht-bashed-a-billionaires-boat-in-italy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

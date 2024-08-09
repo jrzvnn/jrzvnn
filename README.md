@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Survivor or grooming gangs gives TV interview. Next day she&#39;s getting visit from the thought-police. Orwell was British btw](http://9gag.com/gag/aAyw2O0)
- - 😝 [Don&#39;t forget 28.May.16](http://9gag.com/gag/axygP02)
- - 💣 [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)
- - 😝 [Gold medal for India](http://9gag.com/gag/azxrZqB)
- - 👉 [16-year-old Taisiia Onofriichuk chose Michael Jackson\u2019s &#39;Thriller&#39; at Olympics](http://9gag.com/gag/ajPqRYg)<!-- MEMES:END -->
+ - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
+ - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 💣 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

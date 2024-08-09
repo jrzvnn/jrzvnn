@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram is testing a Snap Maps-like feature that lets users post text and video updates to a map that can be shared with friends &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240809/p21#a240809p21)
+ - [The FDA Just Rejected a Bid for MDMA’s Approval to Treat PTSD](https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/)
  - [Noah Lyles’ Olympic Run Is the New Normal for Living With Covid](https://www.wired.com/story/noah-lyles-covid-olympics-new-normal/)
  - [Steve Jobs&#39; mega yacht bashed a billionaire&#39;s boat in Italy](https://appleinsider.com/articles/24/08/09/steve-jobs-mega-yacht-bashed-a-billionaires-boat-in-italy?utm_medium=rss)
- - [Sony’s adorable Astro Bot controller is now available for preorder](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
- - [Former Twitter board member Omid Kordestani, who helped oversee the sale of the company to Elon Musk, sues X for failing to cash out $20M+ worth of stock &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240809/p20#a240809p20)
- - [Wearable Neck Fan](https://www.cnet.com/health/personal-care/wearable-neck1-fan-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teflon Flu Risks, Cooking Safety Tips, and Nonstick Alternatives](https://www.cnet.com/how-to/teflon-flu-risks-cooking-safety-tips-and-nonstick-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

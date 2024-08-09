@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*staring intensifies*](http://9gag.com/gag/ae9Y2o5)
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 💣 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 😝 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 👉 [NO 1st place for you!!](http://9gag.com/gag/a0edEKQ)<!-- MEMES:END -->
 
 ---
 

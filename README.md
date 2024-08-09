@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flaws in Ubiquitous ATM Software Could Have Let Attackers Take Over Cash Machines](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)
+ - [Since the OpenAI board dispute, Microsoft diversified AI investments and partnerships, built its own models, and hired aggressively for its consumer AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p17#a240809p17)
  - [Top 5 mice for Macs -- for gamers, professionals, and everyone in between](https://appleinsider.com/inside/mac/best/top-5-mice-for-macs----for-gamers-professionals-and-everyone-in-between?utm_medium=rss)
- - [You can get the first six Final Fantasy games for around $10 a piece on this weekend deal](https://www.theverge.com/good-deals/2024/8/9/24216891/final-fantasy-1-6-pixel-remaster-bundle-nintendo-playstation-steam-deal-sale)
- - [Netflix’s Arcane, Terminator Zero, and other anime series leak](https://www.theverge.com/2024/8/9/24216863/netflix-arcane-terminator-zero-anime-series-leak)
- - [Apple Maps now works in Firefox and Edge for Mac](https://appleinsider.com/articles/24/08/09/apple-maps-now-works-in-firefox-and-edge-for-mac?utm_medium=rss)
- - [19 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)<!-- TECH:END -->
+ - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
+ - [You can get the first six Final Fantasy games for around $10 a piece on this weekend deal](https://www.theverge.com/good-deals/2024/8/9/24216891/final-fantasy-1-6-pixel-remaster-bundle-nintendo-playstation-steam-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

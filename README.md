@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the US&#39; Chips and Science Act two years after its enactment on August 9, 2022, as the Biden administration nearly finishes divvying up $39B in grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240809/p6#a240809p6)
  - [Venezuelan President Nicolas Maduro bans X in the country for ten days, accusing Elon Musk of using X to promote hatred after Venezuela&#39;s disputed election &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p4#a240809p4)
  - [Google Photos’ Library is dead — say hello to Collections](https://www.theverge.com/2024/8/9/24216637/google-photos-collections-library-update-ios-android)
  - [The Olympics&#39; Hostile Architecture Is a Preview of What&#39;s to Come](https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/)
- - [Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p3#a240809p3)
- - [This AI Startup Wants to Be the Notary of the Internet](https://www.cnet.com/tech/services-and-software/this-ai-startup-wants-to-be-the-notary-of-the-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p3#a240809p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

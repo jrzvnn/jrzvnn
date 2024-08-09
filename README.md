@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most countries around India is failing](http://9gag.com/gag/aPAM8XK)
- - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
- - 💣 [The gold medal awarded at the Paris Olympics 2024](http://9gag.com/gag/aAywMPL)
- - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
+ - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
+ - 😝 [If our world is taken over by them, we can&#39;t have nice things like this anymore...](http://9gag.com/gag/awy5Y5B)
+ - 💣 [The actor Neal McDonough, was blackballed by Hollywood for not doing kissing scene with woman who wasn&#39;t t his wife](http://9gag.com/gag/amorVm9)
+ - 😝 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
+ - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
 
 ---
 

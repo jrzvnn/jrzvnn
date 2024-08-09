@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 😝 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 😝 [She was not ready for this.](http://9gag.com/gag/aoy2LMm)
+ - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
 
 ---
 

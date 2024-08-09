@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Torras Ostand MagSafe Power Bank review: 2-in-1 charging and stand convenience](https://appleinsider.com/articles/24/08/09/torras-ostand-magsafe-power-bank-review-2-in-1-charging-and-stand-convenience?utm_medium=rss)
+ - [NYC-based Cents, which provides business management and payments services for the laundry industry, raised a $40M Series B, taking its total funding to $77M+ &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240808/p37#a240808p37)
  - [Unity reports Q2 revenue down 16% YoY to $449M, vs. $438M est., a net loss of $125.6M, vs. $192.2M in Q2 2023, and trims its FY 2024 forecast &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240808/p36#a240808p36)
  - [Computer Crash Reports Are an Untapped Hacker Gold Mine](https://www.wired.com/story/crash-reports-vulnerability-data/)
- - [Sources: enterprise AI company Glean is in advanced talks to raise $250M led by DST Global at a $4.5B valuation, about double its valuation from February 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240808/p35#a240808p35)
- - [Doom and Doom II get a ‘definitive’ re-release that’s packed with new upgrades](https://www.theverge.com/2024/8/8/24216379/doom-doom-ii-definitive-re-release)
- - [A critical security issue in 1Password for Mac left credentials vulnerable to attack](https://appleinsider.com/articles/24/08/08/a-critical-security-issue-in-1password-for-mac-left-credentials-vulnerable-to-attack?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: enterprise AI company Glean is in advanced talks to raise $250M led by DST Global at a $4.5B valuation, about double its valuation from February 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240808/p35#a240808p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

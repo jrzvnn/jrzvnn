@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 💣 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)
- - 😝 [I know someone who will do it for less](http://9gag.com/gag/aBywEVZ)
- - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
+ - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - 💣 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
+ - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
 
 ---
 

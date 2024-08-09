@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)
  - [DevRev, which develops AI tools to improve the efficiency of employees on support, product, and engineering teams, raised $100M at a $1.15B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240809/p13#a240809p13)
  - [Sources: Cisco plans a second round of layoffs this year, affecting as many or slightly more than the 4,000 laid off in February &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p12#a240809p12)
  - [Apple adds nearly endless 20 percent fee for developers in latest EU update](https://www.theverge.com/2024/8/9/24216181/apple-eu-app-store-services-fee-external-links)
- - [He Started Out as the ‘Dear Abby’ of Grindr. Now Everyone Wants His Advice](https://www.wired.com/story/dial-up-jp-brammer/)
- - [A new Apple Maps ‘search here’ button will quickly target specific areas](https://www.theverge.com/2024/8/9/24216692/apple-maps-ios-18-search-here-button)<!-- TECH:END -->
+ - [He Started Out as the ‘Dear Abby’ of Grindr. Now Everyone Wants His Advice](https://www.wired.com/story/dial-up-jp-brammer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

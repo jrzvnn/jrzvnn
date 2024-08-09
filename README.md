@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is offering steep discounts on goods to US users who invite friends to the app, expanding a referral scheme from countries like Japan and Thailand &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240809/p18#a240809p18)
  - [ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)
  - [Since the OpenAI board dispute, Microsoft diversified AI investments and partnerships, built its own models, and hired aggressively for its consumer AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p17#a240809p17)
  - [Top 5 mice for Macs -- for gamers, professionals, and everyone in between](https://appleinsider.com/inside/mac/best/top-5-mice-for-macs----for-gamers-professionals-and-everyone-in-between?utm_medium=rss)
- - [Bored With Netflix? Use the Secret Menu for New Movies and TV Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)
- - [The Best Keurig Deals: Get Your Caffeine Fix Fast With These Sweet Savings](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bored With Netflix? Use the Secret Menu for New Movies and TV Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

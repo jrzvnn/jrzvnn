@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
- - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 💣 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
- - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
- - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
+ - 😝 [Just vote for me peasants stop asking questions](http://9gag.com/gag/an7yrM0)
+ - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 💣 [Mario wishes he had it that easy](http://9gag.com/gag/azxrYBm)
+ - 😝 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)
+ - 👉 [The dad side is strong with this one...](http://9gag.com/gag/a9yWXoK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
- - 💣 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 😝 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 💣 [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
 
 ---
 

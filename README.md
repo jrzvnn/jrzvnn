@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mario wishes he had it that easy](http://9gag.com/gag/azxrYBm)
- - 😝 [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)
- - 💣 [Repairing a car leather Seat flawlessly](http://9gag.com/gag/ayNLYdr)
+ - 😝 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 💣 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Pff](http://9gag.com/gag/aW4896x)<!-- MEMES:END -->
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

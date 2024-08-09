@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - 😝 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
- - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
- - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
+ - 😝 [Survivor or grooming gangs gives TV interview. Next day she&#39;s getting visit from the thought-police. Orwell was British btw](http://9gag.com/gag/aAyw2O0)
+ - 😝 [Don&#39;t forget 28.May.16](http://9gag.com/gag/axygP02)
+ - 💣 [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)
+ - 😝 [Gold medal for India](http://9gag.com/gag/azxrZqB)
+ - 👉 [16-year-old Taisiia Onofriichuk chose Michael Jackson\u2019s &#39;Thriller&#39; at Olympics](http://9gag.com/gag/ajPqRYg)<!-- MEMES:END -->
 
 ---
 

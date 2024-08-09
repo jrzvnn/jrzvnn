@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Venezuelan President Nicolas Maduro bans X in the country for ten days, accusing Elon Musk of using X to promote hatred after Venezuela&#39;s disputed election &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p4#a240809p4)
+ - [Google Photos’ Library is dead — say hello to Collections](https://www.theverge.com/2024/8/9/24216637/google-photos-collections-library-update-ios-android)
+ - [The Olympics&#39; Hostile Architecture Is a Preview of What&#39;s to Come](https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/)
  - [Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p3#a240809p3)
- - [Does Jewelry and Big Hair Slow Down Olympic Runners?](https://www.wired.com/story/does-jewelry-slow-down-olympic-runners/)
- - [A look at the deepening engagement of EU&#39;s auto chipmakers with China as sales suffer in the West; McKinsey: automotive chips market will be worth $150B by 2030 &lpar;Alan Crawford/Bloomberg&rpar;](http://www.techmeme.com/240809/p2#a240809p2)
- - [Cambridge Audio Evo One Review: A Gorgeous High-End Speaker](https://www.wired.com/review/review-cambridge-audio-evo-one/)
- - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)<!-- TECH:END -->
+ - [This AI Startup Wants to Be the Notary of the Internet](https://www.cnet.com/tech/services-and-software/this-ai-startup-wants-to-be-the-notary-of-the-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

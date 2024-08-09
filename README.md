@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 💣 [Not a boomer complaint. Reality. I&#39;m tired of knowing a million logins, passwords and being tracked with everything. Even basic household items now want to track and log me in. Forget it.](http://9gag.com/gag/an7yD4o)
- - 😝 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)
- - 👉 [The dad side is strong with this one...](http://9gag.com/gag/a9yWXoK)<!-- MEMES:END -->
+ - 😝 [Chaos is just a kick away](http://9gag.com/gag/ayNL6K8)
+ - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
+ - 💣 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
+ - 😝 [Boeing now f**ked up a space mission. Astronauts who were supposed to spend 8 days in the Int Space Station - will be stuck there until 2025, because Boeing Starliner had a malfunction](http://9gag.com/gag/an7yrrV)
+ - 👉 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)<!-- MEMES:END -->
 
 ---
 

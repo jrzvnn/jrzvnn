@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Price war: Apple&#39;s M3 14-inch MacBook Pro drops to record low $1,299](https://appleinsider.com/articles/24/08/09/price-war-apples-m3-14-inch-macbook-pro-drops-to-record-low-1299?utm_medium=rss)
+ - [Get the Twinkly Squares Starter Kit for Just $160, an All-Time Low](https://www.cnet.com/deals/get-the-twinkly-squares-starter-kit-for-just-160-an-all-time-low/#ftag=CAD590a51e)
  - [How to Build a PC &lpar;2024&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
- - [Foxconn cramming iPhone 16 production lines with 50,000 new workers](https://appleinsider.com/articles/24/08/09/foxconn-cramming-iphone-16-production-lines-with-50000-new-workers?utm_medium=rss)
- - [Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240809/p9#a240809p9)
- - [Google&#39;s Rise Was Inevitable. So Was Its Antitrust Ruling](https://www.wired.com/story/googles-rise-was-inevitable-so-was-its-antitrust-ruling/)
- - [Asus Zenbook S 16 review: AMD stays in the game](https://www.theverge.com/24215430/zenbook-s-16-2024-review-amd-ryzen-ai-laptop)<!-- TECH:END -->
+ - [Never Lose Your Stuff Again With a Super Low Price on Apple&#39;s AirTags](https://www.cnet.com/deals/never-lose-your-stuff-again-with-a-super-low-price-on-apples-airtags/#ftag=CAD590a51e)
+ - [Mortgage Rates Drop Sharply to 6.5%. Today&#39;s Mortgage Rates, Aug. 9, 2024](https://www.cnet.com/personal-finance/rates-fall-for-prospective-buyers-mortgage-rates-for-aug-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

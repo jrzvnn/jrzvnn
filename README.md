@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
+ - 😝 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [That right](http://9gag.com/gag/ae9Y70p)
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)
  - [Since the OpenAI board dispute, Microsoft diversified AI investments and partnerships, built its own models, and hired aggressively for its consumer AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p17#a240809p17)
  - [Top 5 mice for Macs -- for gamers, professionals, and everyone in between](https://appleinsider.com/inside/mac/best/top-5-mice-for-macs----for-gamers-professionals-and-everyone-in-between?utm_medium=rss)
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [You can get the first six Final Fantasy games for around $10 a piece on this weekend deal](https://www.theverge.com/good-deals/2024/8/9/24216891/final-fantasy-1-6-pixel-remaster-bundle-nintendo-playstation-steam-deal-sale)<!-- TECH:END -->
+ - [Bored With Netflix? Use the Secret Menu for New Movies and TV Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)
+ - [The Best Keurig Deals: Get Your Caffeine Fix Fast With These Sweet Savings](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

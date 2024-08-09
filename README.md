@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Arcane, Terminator Zero, and other anime series leak](https://www.theverge.com/2024/8/9/24216863/netflix-arcane-terminator-zero-anime-series-leak)
+ - [Apple Maps now works in Firefox and Edge for Mac](https://appleinsider.com/articles/24/08/09/apple-maps-now-works-in-firefox-and-edge-for-mac?utm_medium=rss)
+ - [19 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)
  - [Google lost its first antitrust case, so what happens next?](https://www.theverge.com/2024/8/9/24216708/google-lost-antitrust-elon-musk-sues-advertisers)
- - [Cuckoo is a picturesque nightmare that struggles to get its point across](https://www.theverge.com/2024/8/9/24215555/neon-cuckoo-review)
- - [[Thread] A roundup of recent announcements from researchers, businesses, and academic institutions opposing California&#39;s AI safety bill &lpar;@martin_casado&rpar;](http://www.techmeme.com/240809/p16#a240809p16)
- - [Read Intel’s biggest statement yet on how it’s addressing Raptor Lake CPU woes](https://www.theverge.com/2024/8/9/24216887/intel-13th-14th-gen-raptor-lake-statement)
- - [The 14 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: We&#39;ve Tested Them All](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
+ - [Cuckoo is a picturesque nightmare that struggles to get its point across](https://www.theverge.com/2024/8/9/24215555/neon-cuckoo-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

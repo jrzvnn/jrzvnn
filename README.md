@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly everyone working on Nova Launcher has been laid off](https://www.theverge.com/2024/8/9/24217077/nova-launcher-layoffs-only-original-developer-remaining)
  - [Instagram is testing its own take on Snap Maps](https://www.theverge.com/2024/8/9/24217027/instagram-snap-map-style-feature-testing)
  - [Interfax: Roskomnadzor blocked Signal in Russia for allegedly violating laws linked to anti-terrorist operations; Venezuela reportedly blocked Signal too &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240809/p19#a240809p19)
  - [Best Mattress Deals: Take Advantage of Deals on Top Brands Like Casper, Avocado and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Ergonomic Gaming Chair](https://www.cnet.com/news/gaming-chair-dpnl/#ftag=CAD590a51e)
- - [Signal has been blocked by Venezuela and Russia](https://www.theverge.com/2024/8/9/24217008/signal-blocked-venezuela-russia)<!-- TECH:END -->
+ - [Ergonomic Gaming Chair](https://www.cnet.com/news/gaming-chair-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

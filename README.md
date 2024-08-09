@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Irish Data Protection Commission says X has agreed to pause training Grok using millions of Europeans&#39; public posts it collected between May 7 and August 1 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240809/p7#a240809p7)
  - [How Camo Hats Became an Instant Meme](https://www.wired.com/story/camo-hats-harris-walz-instant-meme/)
  - [How Hackers Extracted the ‘Keys to the Kingdom’ to Clone HID Keycards](https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/)
  - [A look at the US&#39; Chips and Science Act two years after its enactment on August 9, 2022, as the Biden administration nearly finishes divvying up $39B in grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240809/p6#a240809p6)
- - [Edit PDFs With Ease With Discounted PDF Expert Subscriptions](https://www.cnet.com/deals/edit-pdfs-with-ease-with-discounted-pdf-expert-subscriptions/#ftag=CAD590a51e)
- - [Refi Rates Drop Over the Last Week: Mortgage Refinance Rates on Aug. 9, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-drop-over-the-last-week-mortgage-refinance-rates-on-aug-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Edit PDFs With Ease With Discounted PDF Expert Subscriptions](https://www.cnet.com/deals/edit-pdfs-with-ease-with-discounted-pdf-expert-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

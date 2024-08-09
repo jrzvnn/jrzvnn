@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
- - 😝 [If our world is taken over by them, we can&#39;t have nice things like this anymore...](http://9gag.com/gag/awy5Y5B)
- - 💣 [The actor Neal McDonough, was blackballed by Hollywood for not doing kissing scene with woman who wasn&#39;t t his wife](http://9gag.com/gag/amorVm9)
- - 😝 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 😝 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 💣 [Not a boomer complaint. Reality. I&#39;m tired of knowing a million logins, passwords and being tracked with everything. Even basic household items now want to track and log me in. Forget it.](http://9gag.com/gag/an7yD4o)
+ - 😝 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)
+ - 👉 [The dad side is strong with this one...](http://9gag.com/gag/a9yWXoK)<!-- MEMES:END -->
 
 ---
 

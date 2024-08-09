@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s exclusive Olympic Edition Galaxy Flips are showing up for sale online](https://www.theverge.com/2024/8/9/24216677/samsung-exclusive-galaxy-z-flip-6-olympics-paris)
+ - [IOActive researchers detail &quot;Sinkclose&quot;, a vulnerability in almost all AMD chips dating back to 2006 that allows attackers to run code in System Management Mode &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240809/p10#a240809p10)
  - [30 Best Mac Apps You Should Download Now &lpar;2024&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)
  - [Price war: Apple&#39;s M3 14-inch MacBook Pro drops to record low $1,299](https://appleinsider.com/articles/24/08/09/price-war-apples-m3-14-inch-macbook-pro-drops-to-record-low-1299?utm_medium=rss)
- - [How to Build a PC &lpar;2024&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
- - [Foxconn cramming iPhone 16 production lines with 50,000 new workers](https://appleinsider.com/articles/24/08/09/foxconn-cramming-iphone-16-production-lines-with-50000-new-workers?utm_medium=rss)
- - [Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240809/p9#a240809p9)<!-- TECH:END -->
+ - [Get the Twinkly Squares Starter Kit for Just $160, an All-Time Low](https://www.cnet.com/deals/get-the-twinkly-squares-starter-kit-for-just-160-an-all-time-low/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

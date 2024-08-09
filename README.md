@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [AT&amp;T changes its ‘Bad Golf Day’ ad after T-Mobile complained](https://www.theverge.com/2024/8/9/24216664/att-satellite-calling-ad-updated-tmobile-complained)
- - [Keir Starmer confirms UK&#39;s Online Safety Act will be reviewed after London mayor Sadiq Khan said the law was &quot;not fit for purpose&quot; after far-right riots &lpar;The Guardian&rpar;](http://www.techmeme.com/240809/p8#a240809p8)
- - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
- - [Apple Vision Pro disappointments and beta frustrations on the AppleInsider podcast](https://appleinsider.com/articles/24/08/09/apple-vision-pro-disappointments-and-beta-frustrations-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Foxconn cramming iPhone 16 production lines with 50,000 new workers](https://appleinsider.com/articles/24/08/09/foxconn-cramming-iphone-16-production-lines-with-50000-new-workers?utm_medium=rss)
+ - [Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240809/p9#a240809p9)
+ - [Google&#39;s Rise Was Inevitable. So Was Its Antitrust Ruling](https://www.wired.com/story/googles-rise-was-inevitable-so-was-its-antitrust-ruling/)
+ - [Asus Zenbook S 16 review: AMD stays in the game](https://www.theverge.com/24215430/zenbook-s-16-2024-review-amd-ryzen-ai-laptop)
+ - [4 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

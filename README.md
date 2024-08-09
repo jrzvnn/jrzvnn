@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
+ - 😝 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
  - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 😝 [Chaos is just a kick away](http://9gag.com/gag/ayNL6K8)
- - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
+ - 💣 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 😝 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 👉 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)<!-- MEMES:END -->
 
 ---
 

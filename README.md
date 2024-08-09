@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel delays its Innovation event, slated for September and expected to include details about new CPUs, until 2025, citing its financial results and H2 outlook &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240809/p11#a240809p11)
  - [Microsoft might be resurrecting its mixed reality business](https://www.theverge.com/2024/8/9/24216727/microsoft-samsung-mixed-reality-display-partnership-rumor)
  - [Clean energy infrastructure is vulnerable to cyberattack — the Biden administration has a plan to protect it](https://www.theverge.com/2024/8/9/24216329/cybersecurity-clean-energy-biden-administration-priorities)
  - [Samsung’s exclusive Olympic Edition Galaxy Flips are showing up for sale online](https://www.theverge.com/2024/8/9/24216677/samsung-exclusive-galaxy-z-flip-6-olympics-paris)
- - [IOActive researchers detail &quot;Sinkclose&quot;, a vulnerability in almost all AMD chips dating back to 2006 that allows attackers to run code in System Management Mode &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240809/p10#a240809p10)
- - [30 Best Mac Apps You Should Download Now &lpar;2024&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)<!-- TECH:END -->
+ - [IOActive researchers detail &quot;Sinkclose&quot;, a vulnerability in almost all AMD chips dating back to 2006 that allows attackers to run code in System Management Mode &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240809/p10#a240809p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

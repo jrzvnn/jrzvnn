@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google monopoly ruling dealt a blow to one of Big Tech&#39;s arguments against regulation: that 19th-century antitrust laws can&#39;t address modern tech innovation &lpar;Washington Post&rpar;](http://www.techmeme.com/240808/p40#a240808p40)
  - [What&#39;s new in Quick Look for visionOS 2](https://appleinsider.com/articles/24/08/09/whats-new-in-quick-look-for-visionos-2?utm_medium=rss)
  - [CloudPay, which offers cloud-based payroll and payments services to businesses, raised $120M led by Blue Owl Capital, taking its total funding to $228M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240808/p39#a240808p39)
  - [TikTok and Pinterest partner with Amazon to let users buy items from Amazon ads without leaving the social media apps &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240808/p38#a240808p38)
- - [Torras Ostand MagSafe Power Bank review: 2-in-1 charging and stand convenience](https://appleinsider.com/articles/24/08/09/torras-ostand-magsafe-power-bank-review-2-in-1-charging-and-stand-convenience?utm_medium=rss)
- - [Best Smart Scale for 2024](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Torras Ostand MagSafe Power Bank review: 2-in-1 charging and stand convenience](https://appleinsider.com/articles/24/08/09/torras-ostand-magsafe-power-bank-review-2-in-1-charging-and-stand-convenience?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

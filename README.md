@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top 5 mice for Macs -- for gamers, professionals, and everyone in between](https://appleinsider.com/inside/mac/best/top-5-mice-for-macs----for-gamers-professionals-and-everyone-in-between?utm_medium=rss)
+ - [You can get the first six Final Fantasy games for around $10 a piece on this weekend deal](https://www.theverge.com/good-deals/2024/8/9/24216891/final-fantasy-1-6-pixel-remaster-bundle-nintendo-playstation-steam-deal-sale)
  - [Netflix’s Arcane, Terminator Zero, and other anime series leak](https://www.theverge.com/2024/8/9/24216863/netflix-arcane-terminator-zero-anime-series-leak)
  - [Apple Maps now works in Firefox and Edge for Mac](https://appleinsider.com/articles/24/08/09/apple-maps-now-works-in-firefox-and-edge-for-mac?utm_medium=rss)
- - [19 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)
- - [Google lost its first antitrust case, so what happens next?](https://www.theverge.com/2024/8/9/24216708/google-lost-antitrust-elon-musk-sues-advertisers)
- - [Cuckoo is a picturesque nightmare that struggles to get its point across](https://www.theverge.com/2024/8/9/24215555/neon-cuckoo-review)<!-- TECH:END -->
+ - [19 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
- - 😝 [It has started...degenerates gatheing](http://9gag.com/gag/aVvDBAn)
- - 💣 [Toronto, Canada](http://9gag.com/gag/aAywmod)
+ - 😝 [For those wondering where did the Brazillian plane crashed](http://9gag.com/gag/an7yd6B)
+ - 😝 [NO 1st place for you!!](http://9gag.com/gag/a0edEKQ)
+ - 💣 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
  - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
 

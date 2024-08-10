@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t live in England so I can legally upload this without being put in jail for 10 years. It&#39;s been scrubbed everywhere I looked for it. Enjoy](http://9gag.com/gag/aMVwyx1)
- - 😝 [The Man. The Myth. The Legend. The new Disappointment-Meme?](http://9gag.com/gag/ae9YdXB)
- - 💣 [Perfection](http://9gag.com/gag/axygALL)
+ - 😝 [5 suits every man should have](http://9gag.com/gag/adBq2M9)
+ - 😝 [Well well well](http://9gag.com/gag/avyrDbd)
+ - 💣 [NO 1st place for you!!](http://9gag.com/gag/a0edEKQ)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)<!-- MEMES:END -->
+ - 👉 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)<!-- MEMES:END -->
 
 ---
 

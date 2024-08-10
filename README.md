@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Portable Solar Panels of 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)
- - [Trump Media, Truth Social&#39;s parent company that has a ~$5B market cap, reports Q2 revenue down 30% YoY to $837K; Trump owns 59.9% of Trump Media&#39;s common stock &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240809/p23#a240809p23)
- - [Sources: Anysphere, a GitHub Copilot rival, has raised a $60M Series A co-led by a16z and Thrive at a $400M post-money valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240809/p22#a240809p22)
- - [Best USB-C Monitor Deals: Snag a Top-Rated Monitor at a Low Price](https://www.cnet.com/deals/best-usb-c-monitor-deals-save-up-to-100-on-top-brands-like-lg-asus-and-more/#ftag=CAD590a51e)
- - [Cash App Customers Are Eligible for $2,500 in Settlement. How to Submit a Claim](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-2500-in-settlement-how-to-submit-a-claim/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Avatar: Fire and Ash hits theaters next December](https://www.theverge.com/2024/8/9/24217252/avatar-fire-and-ash-release-date)
+ - [New &#39;Moana 2&#39; Trailer Teases a Splashy Legend in the Making](https://www.cnet.com/tech/services-and-software/new-moana-2-trailer-teases-a-splashy-legend-in-the-making/#ftag=CAD590a51e)
+ - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
+ - [Best Camera Phone of 2024](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
+ - [Best Portable Solar Panels of 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

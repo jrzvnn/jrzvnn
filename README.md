@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former YouTube CEO Susan Wojcicki and a key figure in Google&#39;s creation, dies at age 56, after two years of living with cancer &lpar;Sundar Pichai/@sundarpichai&rpar;](http://www.techmeme.com/240810/p1#a240810p1)
  - [D23 2024: all the biggest trailers and news out of Disney’s biennial showcase](https://www.theverge.com/2024/8/9/24216962/d23-2024-all-the-biggest-trailers-and-news)
  - [Avatar: Fire and Ash hits theaters next December](https://www.theverge.com/2024/8/9/24217252/avatar-fire-and-ash-release-date)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 10, #1148](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-10-1148/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 10, #426](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-10-426/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 10, #160](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-10-160/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 10, #426](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-10-426/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can hear all Balkan dads screaming in pain](http://9gag.com/gag/aoy2DXe)
- - 😝 [Well well well](http://9gag.com/gag/avyrDbd)
- - 💣 [Such a waste](http://9gag.com/gag/aMVwNDM)
- - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Just lines.](http://9gag.com/gag/aQzMNNK)<!-- MEMES:END -->
+ - 😝 [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
+ - 😝 [Perfection](http://9gag.com/gag/axygALL)
+ - 💣 [Victory ceremony - 9gag drinking contest - Austria won, 30 beers in 3 hours, 3 guys](http://9gag.com/gag/amordy6)
+ - 😝 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)
+ - 👉 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)<!-- MEMES:END -->
 
 ---
 

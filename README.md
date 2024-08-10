@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An obituary of Susan Wojcicki, who was one of the most prominent women in Silicon Valley, helped launch and grow AdSense, and pushed for Google to buy YouTube &lpar;Washington Post&rpar;](http://www.techmeme.com/240810/p4#a240810p4)
  - [HexClad Cookware Review: Unjustifiably Expensive](https://www.wired.com/review/hexclad/)
  - [Google’s Pixel Fold one year later: I can’t wait for the sequel](https://www.theverge.com/24211366/google-pixel-fold-one-year-later-review)
  - [Q&amp;A with Wikimedia Foundation executives on how AI could make knowledge more accessible to people, the risk that AI may impact its volunteers&#39; engagement, more &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/240810/p3#a240810p3)
- - [Appeals Court Blocks Student Loan Forgiveness Plan. What&#39;s Next for SAVE?](https://www.cnet.com/personal-finance/appeals-court-blocks-student-loan-forgiveness-plan-whats-next-for-save/#ftag=CAD590a51e)
- - [What It’s Like to Recover Like an Olympic Champ](https://www.cnet.com/health/fitness/what-it-takes-to-recover-like-an-olympic-athlete/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Appeals Court Blocks Student Loan Forgiveness Plan. What&#39;s Next for SAVE?](https://www.cnet.com/personal-finance/appeals-court-blocks-student-loan-forgiveness-plan-whats-next-for-save/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

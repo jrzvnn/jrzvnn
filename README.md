@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
- - 💣 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)
+ - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 💣 [It&#39;s time boys. It&#39;s time for some big tity goth girlfriend. Post it in comments](http://9gag.com/gag/an7yrmq)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a87pKbd)<!-- MEMES:END -->
 
 ---
 

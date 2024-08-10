@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
  - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
- - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 💣 [It should have been me](http://9gag.com/gag/ajPq360)
- - 😝 [Unethiccal](http://9gag.com/gag/aqyrDG7)
- - 👉 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)<!-- MEMES:END -->
+ - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
+ - 👉 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)<!-- MEMES:END -->
 
 ---
 

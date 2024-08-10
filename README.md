@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)
- - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
- - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 😝 [I swear, cleaning tables and stuff was making me feel better. Even though i was broke all the time.](http://9gag.com/gag/an7yERn)
+ - 😝 [It has started...degenerates gatheing](http://9gag.com/gag/aVvDBAn)
+ - 💣 [Title](http://9gag.com/gag/a87pKbd)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
  - 👉 [Toronto, Canada](http://9gag.com/gag/aAywmod)<!-- MEMES:END -->
 

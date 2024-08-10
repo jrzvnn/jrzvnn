@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s How Swimming Twice a Week Affected My Sleep](https://www.cnet.com/health/sleep/heres-how-swimming-twice-a-week-for-three-weeks-affected-my-sleep/#ftag=CAD590a51e)
+ - [Do You Have To Pay Back a Social Security Overpayment if You Get Too Much Money?](https://www.cnet.com/personal-finance/do-you-have-to-pay-back-extra-social-security-money/#ftag=CAD590a51e)
+ - [How to Keep Your Food From Going Bad in a Power Outage](https://www.cnet.com/how-to/how-to-keep-food-going-bad-power-outage/#ftag=CAD590a51e)
  - [Flux, an open-source AI image generator from the startup Black Forest Labs, goes viral for creating ultra-realistic images of people &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240810/p8#a240810p8)
- - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240810/p7#a240810p7)
- - [Former YouTube CEO Susan Wojcicki Dies at 56](https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/)
- - [Former Xbox head credits Apple watch with life-saving low heart rate alerts](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)
- - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240810/p7#a240810p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

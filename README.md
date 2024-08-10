@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
- - 😝 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
- - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
+ - 💣 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
  - 👉 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)<!-- MEMES:END -->
 

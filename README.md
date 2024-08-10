@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Avatar: Fire and Ash hits theaters next December](https://www.theverge.com/2024/8/9/24217252/avatar-fire-and-ash-release-date)
- - [New &#39;Moana 2&#39; Trailer Teases a Splashy Legend in the Making](https://www.cnet.com/tech/services-and-software/new-moana-2-trailer-teases-a-splashy-legend-in-the-making/#ftag=CAD590a51e)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Best Camera Phone of 2024](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
- - [Best Portable Solar Panels of 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 10, #1148](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-10-1148/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 10, #426](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-10-426/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 10, #160](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-10-160/#ftag=CAD590a51e)
+ - [New &#39;Moana 2&#39; Trailer Teases a Splashy Legend in the Making](https://www.cnet.com/tech/services-and-software/new-moana-2-trailer-teases-a-splashy-legend-in-the-making/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

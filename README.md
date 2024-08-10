@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Pandas are awesome.](http://9gag.com/gag/ayNLZYV)
- - 😝 [Here in Denmark you can&#39;t fight off an intruder in your home without risking jail if you hurt him](http://9gag.com/gag/awy5PYR)
- - 💣 [9gager waiting](http://9gag.com/gag/aVvD4wK)
- - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
- - 👉 [So proud of this community](http://9gag.com/gag/aryOdeV)<!-- MEMES:END -->
+ - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
+ - 💣 [Unethiccal](http://9gag.com/gag/aqyrDG7)
+ - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
+ - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
 
 ---
 

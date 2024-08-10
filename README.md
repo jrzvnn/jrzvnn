@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)
- - 😝 [Thank you for making my life easier while almost dying bringing 3 babies to world. And yes, there are girls on 9gag](http://9gag.com/gag/a5QZynq)
- - 💣 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
+ - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [5 suits every man should have](http://9gag.com/gag/adBq2M9)<!-- MEMES:END -->
+ - 👉 [Toronto, Canada](http://9gag.com/gag/aAywmod)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The cheapest Cybertruck is now almost $100,000](https://www.theverge.com/2024/8/10/24217545/cybertruck-price-increase-rwd-model-gone)
+ - [Ex-YouTube CEO Susan Wojcicki Dies at 56](https://www.cnet.com/culture/internet/ex-youtube-ceo-susan-wojcicki-dies-at-56/#ftag=CAD590a51e)
  - [Turkey says it is restoring access to Instagram after Meta agreed to cooperate with authorities regarding &quot;catalog crimes&quot; and &quot;censorship imposed on users&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240810/p10#a240810p10)
- - [Apple Prototypes and Corporate Secrets Are for Sale Online—If You Know Where to Look](https://www.wired.com/story/apple-prototypes-corporate-data/)
- - [Apple&#39;s 15-inch MacBook Air M3 gets hefty price cut, on sale from $1,049](https://appleinsider.com/articles/24/08/10/apples-15-inch-macbook-air-m3-gets-hefty-price-cut-on-sale-from-1049?utm_medium=rss)
- - [Trump campaign says some of its internal communications were hacked, citing a Microsoft report that Iranian hackers &quot;sent a spear phishing email&quot; to a campaign &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240810/p9#a240810p9)
- - [Don&#39;t Miss Best Buy&#39;s Apple Sale on AirPods, MacBooks and More for This Weekend Only](https://www.cnet.com/deals/best-buy-kicks-off-weekend-long-apple-sale-with-discounts-on-airpods-macbooks-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Incase Back-to-School Sale Brings Up to 65% Off Laptop Covers, Phone Cases, Backpacks and More](https://www.cnet.com/deals/this-incase-back-to-school-sale-brings-up-to-65-off-laptop-covers-phone-cases-backpacks-and-more/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bakersfield, California](https://www.cnet.com/home/internet/best-internet-providers-in-bakersfield-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

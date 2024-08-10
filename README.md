@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
- - 😝 [Well well well](http://9gag.com/gag/avyrDbd)
- - 💣 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 😝 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 💣 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)<!-- MEMES:END -->
+ - 👉 [Me after few drink](http://9gag.com/gag/amorpYd)<!-- MEMES:END -->
 
 ---
 

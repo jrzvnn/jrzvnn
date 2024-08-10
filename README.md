@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
- - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
- - 💣 [Well well well](http://9gag.com/gag/avyrDbd)
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 👉 [Raj for the win!](http://9gag.com/gag/aQzMN9q)<!-- MEMES:END -->
+ - 😝 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
+ - 💣 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)
+ - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

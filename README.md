@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer Chromebook Plus 516 GE Review: A Game-Streaming Laptop](https://www.wired.com/review/acer-chromebook-plus-516-ge-2024/)
  - [The Sonos ‘Ultimate’ Home Theater System Needs a Lot of Elbow Grease](https://www.wired.com/story/sonoss-home-theater-system-rant/)
  - [The 36 Best Shows on Amazon Prime Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [How Do You Get Drugs to the Brain? Maybe Try a Parasite](https://www.wired.com/story/parasite-drug-delivery/)
- - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
- - [Best Google Pixel Phone to Buy in 2024](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

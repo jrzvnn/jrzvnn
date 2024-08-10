@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...addition to &#39;Past Olympic Heroes&#39;...](http://9gag.com/gag/aoy2YrX)
- - 😝 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
+ - 😝 [Trust the $cience! Not that Science!](http://9gag.com/gag/aqyrBRM)
+ - 😝 [Just lines.](http://9gag.com/gag/aQzMNNK)
  - 💣 [Such a waste](http://9gag.com/gag/aMVwNDM)
- - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
- - 👉 [Just lines.](http://9gag.com/gag/aQzMNNK)<!-- MEMES:END -->
+ - 😝 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
+ - 👉 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)<!-- MEMES:END -->
 
 ---
 

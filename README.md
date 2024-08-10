@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the consequences of Spotify&#39;s disinvestment in podcasts in Latin America, where one survey found 90% of podcast listeners used Spotify &lpar;Stan Alcorn/Rest of World&rpar;](http://www.techmeme.com/240810/p12#a240810p12)
+ - [Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All](https://www.wired.com/story/secret-hunting-bill-demirkapi/)
  - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $125](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
  - [Best 8 Hypoallergenic Mattresses and How to Choose](https://www.cnet.com/health/sleep/best-hypoallergenic-mattress/#ftag=CAD590a51e)
- - [We Sleep on Beds for a Living: Here&#39;s How We Test Mattresses](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses/#ftag=CAD590a51e)
- - [Pixar takes an old Apple Watch face to make its &quot;Toy Story 5&quot; trailer](https://appleinsider.com/articles/24/08/10/pixar-takes-an-old-apple-watch-face-to-make-its-toy-story-5-trailer?utm_medium=rss)
- - [The Hacker Who Hunts Video Game Speedrunning Cheaters](https://www.wired.com/story/the-hacker-who-hunts-video-game-speedrunning-cheaters/)<!-- TECH:END -->
+ - [We Sleep on Beds for a Living: Here&#39;s How We Test Mattresses](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

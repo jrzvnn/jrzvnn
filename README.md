@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech exec credits Apple watch with &#39;life-saving&#39; alerts over low heart rate](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)
+ - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/240810/p6#a240810p6)
  - [The FCC proposes requiring robocallers to disclose when they’re using AI](https://www.theverge.com/2024/8/10/24217435/fcc-ai-robocall-disclosure-proposed-rules-artificial-intelligence-hearing-speech-disability-exempt)
  - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)
- - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)
- - [Best AirPod Deals: Snag Sweet Savings on Apple&#39;s Earbuds and Headphones](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Why Counting Calories Is Not the End-All Weight Loss Solution](https://www.cnet.com/health/nutrition/why-counting-calories-is-not-the-end-all-weight-loss-solution/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

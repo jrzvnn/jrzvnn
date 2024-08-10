@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice one Boeing. Luckily the next Lunar projects are made by Lockheed and Airbus](http://9gag.com/gag/aryODm0)
- - 😝 [Unethiccal](http://9gag.com/gag/aqyrDG7)
- - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
- - 👉 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)<!-- MEMES:END -->
+ - 😝 [Niceeee.](http://9gag.com/gag/a2vd931)
+ - 😝 [9gager waiting](http://9gag.com/gag/aVvD4wK)
+ - 💣 [So proud of this community](http://9gag.com/gag/aryOdeV)
+ - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
+ - 👉 [The Werewolf Game is an experiment in Sociology](http://9gag.com/gag/aBywb6A)<!-- MEMES:END -->
 
 ---
 

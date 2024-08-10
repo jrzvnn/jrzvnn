@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)
- - 😝 [5 suits every man should have](http://9gag.com/gag/adBq2M9)
- - 💣 [Well well well](http://9gag.com/gag/avyrDbd)
+ - 😝 [Thank you for making my life easier while almost dying bringing 3 babies to world. And yes, there are girls on 9gag](http://9gag.com/gag/a5QZynq)
+ - 💣 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)<!-- MEMES:END -->
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 

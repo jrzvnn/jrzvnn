@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
- - 😝 [Unethiccal](http://9gag.com/gag/aqyrDG7)
- - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
  - 😝 [Nature&#39;s Other elite runners to Humans `Look What They Need To Mimic A Fraction Of Our Power`](http://9gag.com/gag/aGy0r5z)
- - 👉 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)<!-- MEMES:END -->
+ - 😝 [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
+ - 💣 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
+ - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
+ - 👉 [Unethiccal](http://9gag.com/gag/aqyrDG7)<!-- MEMES:END -->
 
 ---
 

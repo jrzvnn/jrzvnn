@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [LG S95TR 9.1.5 Soundbar System Review: Perfect Audio for Your OLED](https://www.wired.com/review/lg-s95tr/)
  - [A Russian Chess Player Allegedly Poisoned Her Opponent With Mercury](https://www.wired.com/story/russian-chess-player-poison-board-mercury/)
  - [Acer Chromebook Plus 516 GE Review: A Game-Streaming Laptop](https://www.wired.com/review/acer-chromebook-plus-516-ge-2024/)
- - [Google Pixel 9 and 9 Pro: Coming Aug. 13 With New Design and Fold 2](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-coming-aug-13-with-new-design-fold-2-confirmed/#ftag=CAD590a51e)
- - [The Sonos ‘Ultimate’ Home Theater System Needs a Lot of Elbow Grease](https://www.wired.com/story/sonoss-home-theater-system-rant/)
- - [Keep or Cancel? Peacock and Netflix Can Appease Your Streaming Desires This Month](https://www.cnet.com/tech/services-and-software/keep-or-cancel-peacock-netflix-can-appease-streaming-desires-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 9 and 9 Pro: Coming Aug. 13 With New Design and Fold 2](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-coming-aug-13-with-new-design-fold-2-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

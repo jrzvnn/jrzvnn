@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)
- - 😝 [9gager waiting](http://9gag.com/gag/aVvD4wK)
- - 💣 [Me and the boys after shitposting from the UK](http://9gag.com/gag/a9yWZv6)
- - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
- - 👉 [So proud of this community](http://9gag.com/gag/aryOdeV)<!-- MEMES:END -->
+ - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
+ - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
+ - 💣 [Well well well](http://9gag.com/gag/avyrDbd)
+ - 😝 [Title](http://9gag.com/gag/a87pKbd)
+ - 👉 [Raj for the win!](http://9gag.com/gag/aQzMN9q)<!-- MEMES:END -->
 
 ---
 

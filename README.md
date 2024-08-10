@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [HexClad Cookware Review: Unjustifiably Expensive](https://www.wired.com/review/hexclad/)
  - [Google’s Pixel Fold one year later: I can’t wait for the sequel](https://www.theverge.com/24211366/google-pixel-fold-one-year-later-review)
  - [Q&amp;A with Wikimedia Foundation executives on how AI could make knowledge more accessible to people, the risk that AI may impact its volunteers&#39; engagement, more &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/240810/p3#a240810p3)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [LG S95TR 9.1.5 Soundbar System Review: Perfect Audio for Your OLED](https://www.wired.com/review/lg-s95tr/)<!-- TECH:END -->
+ - [Appeals Court Blocks Student Loan Forgiveness Plan. What&#39;s Next for SAVE?](https://www.cnet.com/personal-finance/appeals-court-blocks-student-loan-forgiveness-plan-whats-next-for-save/#ftag=CAD590a51e)
+ - [What It’s Like to Recover Like an Olympic Champ](https://www.cnet.com/health/fitness/what-it-takes-to-recover-like-an-olympic-athlete/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

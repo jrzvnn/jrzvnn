@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time boys. It&#39;s time for some big tity goth girlfriend. Post it in comments](http://9gag.com/gag/an7yrmq)
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 💣 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
+ - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 😝 [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
+ - 👉 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)<!-- MEMES:END -->
 
 ---
 

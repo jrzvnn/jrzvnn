@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Prototypes and Corporate Secrets Are for Sale Online—If You Know Where to Look](https://www.wired.com/story/apple-prototypes-corporate-data/)
  - [Apple&#39;s 15-inch MacBook Air M3 gets hefty price cut, on sale from $1,049](https://appleinsider.com/articles/24/08/10/apples-15-inch-macbook-air-m3-gets-hefty-price-cut-on-sale-from-1049?utm_medium=rss)
  - [Trump campaign says some of its internal communications were hacked, citing a Microsoft report that Iranian hackers &quot;sent a spear phishing email&quot; to a campaign &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240810/p9#a240810p9)
- - [Here’s How Swimming Twice a Week Affected My Sleep](https://www.cnet.com/health/sleep/heres-how-swimming-twice-a-week-for-three-weeks-affected-my-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Miss Best Buy&#39;s Apple Sale on AirPods, MacBooks and More for This Weekend Only](https://www.cnet.com/deals/best-buy-kicks-off-weekend-long-apple-sale-with-discounts-on-airpods-macbooks-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

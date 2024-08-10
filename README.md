@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
- - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
- - 💣 [Perfection](http://9gag.com/gag/axygALL)
+ - 😝 [I can hear all Balkan dads screaming in pain](http://9gag.com/gag/aoy2DXe)
+ - 😝 [Well well well](http://9gag.com/gag/avyrDbd)
+ - 💣 [Such a waste](http://9gag.com/gag/aMVwNDM)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)<!-- MEMES:END -->
+ - 👉 [Just lines.](http://9gag.com/gag/aQzMNNK)<!-- MEMES:END -->
 
 ---
 

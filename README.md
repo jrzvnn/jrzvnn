@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
- - 😝 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
- - 💣 [It has started...degenerates gatheing](http://9gag.com/gag/aVvDBAn)
+ - 😝 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)
+ - 😝 [Thank you for making my life easier while almost dying bringing 3 babies to world. And yes, there are girls on 9gag](http://9gag.com/gag/a5QZynq)
+ - 💣 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
+ - 👉 [5 suits every man should have](http://9gag.com/gag/adBq2M9)<!-- MEMES:END -->
 
 ---
 

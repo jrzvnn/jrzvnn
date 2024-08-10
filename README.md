@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hacker Who Hunts Video Game Speedrunning Cheaters](https://www.wired.com/story/the-hacker-who-hunts-video-game-speedrunning-cheaters/)
  - [Around 200 nations approved the UN Convention against Cybercrime, expected to win General Assembly approval; critics say it could be used to justify repression &lpar;Michael Weissenstein/Associated Press&rpar;](http://www.techmeme.com/240810/p11#a240810p11)
  - [The cheapest Cybertruck is now almost $100,000](https://www.theverge.com/2024/8/10/24217545/cybertruck-price-increase-rwd-model-gone)
  - [Ex-YouTube CEO Susan Wojcicki Dies at 56](https://www.cnet.com/culture/internet/ex-youtube-ceo-susan-wojcicki-dies-at-56/#ftag=CAD590a51e)
- - [Turkey says it is restoring access to Instagram after Meta agreed to cooperate with authorities regarding &quot;catalog crimes&quot; and &quot;censorship imposed on users&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240810/p10#a240810p10)
- - [This Incase Back-to-School Sale Brings Up to 65% Off Laptop Covers, Phone Cases, Backpacks and More](https://www.cnet.com/deals/this-incase-back-to-school-sale-brings-up-to-65-off-laptop-covers-phone-cases-backpacks-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Turkey says it is restoring access to Instagram after Meta agreed to cooperate with authorities regarding &quot;catalog crimes&quot; and &quot;censorship imposed on users&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240810/p10#a240810p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

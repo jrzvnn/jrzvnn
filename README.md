@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
  - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
- - 💣 [Unethiccal](http://9gag.com/gag/aqyrDG7)
- - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
+ - 💣 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 👉 [Raj for the win!](http://9gag.com/gag/aQzMN9q)<!-- MEMES:END -->
 
 ---
 

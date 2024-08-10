@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
- - 😝 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
- - 💣 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)
- - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 😝 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)
+ - 😝 [Me and the boys after shitposting from the UK](http://9gag.com/gag/a9yWZv6)
+ - 💣 [9gager waiting](http://9gag.com/gag/aVvD4wK)
+ - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
+ - 👉 [So proud of this community](http://9gag.com/gag/aryOdeV)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Do You Get Drugs to the Brain? Maybe Try a Parasite](https://www.wired.com/story/parasite-drug-delivery/)
+ - [Best Google Pixel Phone to Buy in 2024](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)
+ - [Trouble Hearing Movie and TV Show Dialogue? Turn On This iPhone Setting on iOS 18](https://www.cnet.com/tech/services-and-software/trouble-hearing-movie-and-tv-show-dialogue-turn-on-this-iphone-setting-on-ios-18/#ftag=CAD590a51e)
  - [How to Watch Billie Eilish and Snoop Dogg at the Summer Olympics Closing Ceremony](https://www.wired.com/story/how-to-watch-billie-eilish-and-snoop-dogg-at-summer-olympics-closing-ceremony/)
- - [Long-time Google exec Susan Wojcicki has died at 56](https://www.theverge.com/2024/8/10/24217307/susan-wojcicki-youtube-ceo-google-exec-dies)
- - [Susan Wojcicki, former YouTube CEO and a key figure in Google&#39;s creation, dies at age 56, after two years of living with cancer &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240810/p2#a240810p2)
- - [Unbelievably saddened by the loss of my dear friend @SusanWojcicki after two years of living with cancer. She is as core to the history of Google as anyone, and it&#39;s hard to imagine the world without her. She was an incredible person, leader and friend who had a tremendous &lpar;Sundar Pichai/@sundarpichai&rpar;](http://www.techmeme.com/240810/p1#a240810p1)<!-- TECH:END -->
+ - [Long-time Google exec Susan Wojcicki has died at 56](https://www.theverge.com/2024/8/10/24217307/susan-wojcicki-youtube-ceo-google-exec-dies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

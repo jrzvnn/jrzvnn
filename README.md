@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
- - 💣 [Unethiccal](http://9gag.com/gag/aqyrDG7)
- - 😝 [Well well well...](http://9gag.com/gag/a0edDYn)
- - 👉 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)<!-- MEMES:END -->
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 💣 [Do your best](http://9gag.com/gag/azxrQKp)
+ - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
+ - 👉 [Can anyone guess?](http://9gag.com/gag/awy5P1y)<!-- MEMES:END -->
 
 ---
 

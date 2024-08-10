@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former YouTube CEO Susan Wojcicki Dies at 56](https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/)
  - [Former Xbox head credits Apple watch with life-saving low heart rate alerts](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)
  - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/240810/p6#a240810p6)
  - [The FCC proposes requiring robocallers to disclose when they’re using AI](https://www.theverge.com/2024/8/10/24217435/fcc-ai-robocall-disclosure-proposed-rules-artificial-intelligence-hearing-speech-disability-exempt)
- - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)
- - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)<!-- TECH:END -->
+ - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

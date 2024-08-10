@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An obituary of Susan Wojcicki, who was one of the most prominent women in Silicon Valley, helped launch and grow AdSense, and pushed for Google to buy YouTube &lpar;Washington Post&rpar;](http://www.techmeme.com/240810/p4#a240810p4)
- - [Best Amazon Deals: Stock Up on Everyday Goods or Snag New Tech for Less Than $100](https://www.cnet.com/deals/best-amazon-deals-stock-up-on-everyday-goods-or-snag-new-tech-for-less-than-100/#ftag=CAD590a51e)
- - [HexClad Cookware Review: Unjustifiably Expensive](https://www.wired.com/review/hexclad/)
- - [Best Checking Accounts for August 2024](https://www.cnet.com/personal-finance/best-checking-account/#ftag=CAD590a51e)
- - [Internet Down Again? Try These Tips to Getting Back Online](https://www.cnet.com/home/internet/tips-for-overcoming-internet-outages/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)
+ - [Why Counting Calories Is Not the End-All Weight Loss Solution](https://www.cnet.com/health/nutrition/why-counting-calories-is-not-the-end-all-weight-loss-solution/#ftag=CAD590a51e)
+ - [More People Are Choosing Sleep Divorce Than Ever. Why It Might Suit You Too](https://www.cnet.com/health/sleep/sleep-divorce-save-your-sleep-and-relationship-with-one-move/#ftag=CAD590a51e)
+ - [Student Loan Forgiveness Legal Troubles Keep Payments on Hold for Millions of SAVE Borrowers](https://www.cnet.com/personal-finance/student-loan-payments-paused-for-3-million-borrowers-future-save-relief-remains-in-limbo/#ftag=CAD590a51e)
+ - [Get 40% Off Speck Gear With CNET&#39;s Exclusive Back-to-School Discount](https://www.cnet.com/deals/get-40-off-speck-gear-with-cnets-exclusive-back-to-school-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

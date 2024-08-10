@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
- - 😝 [The Man. The Myth. The Legend. The new Disappointment-Meme?](http://9gag.com/gag/ae9YdXB)
+ - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
  - 💣 [Perfection](http://9gag.com/gag/axygALL)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
  - 👉 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)<!-- MEMES:END -->

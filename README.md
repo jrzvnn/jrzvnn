@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
- - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 💣 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
+ - 😝 [Well well well](http://9gag.com/gag/avyrDbd)
+ - 😝 [5 suits every man should have](http://9gag.com/gag/adBq2M9)
+ - 💣 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Me after few drink](http://9gag.com/gag/amorpYd)<!-- MEMES:END -->
+ - 👉 [NO 1st place for you!!](http://9gag.com/gag/a0edEKQ)<!-- MEMES:END -->
 
 ---
 

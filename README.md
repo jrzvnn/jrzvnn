@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 😝 [Title](http://9gag.com/gag/a87pKbd)
  - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 💣 [It&#39;s time boys. It&#39;s time for some big tity goth girlfriend. Post it in comments](http://9gag.com/gag/an7yrmq)
+ - 💣 [5 suits every man should have](http://9gag.com/gag/adBq2M9)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Title](http://9gag.com/gag/a87pKbd)<!-- MEMES:END -->
+ - 👉 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)<!-- MEMES:END -->
 
 ---
 

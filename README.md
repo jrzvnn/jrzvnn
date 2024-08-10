@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flux, an open-source AI image generator from the startup Black Forest Labs, goes viral for creating ultra-realistic images of people &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240810/p8#a240810p8)
+ - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240810/p7#a240810p7)
  - [Former YouTube CEO Susan Wojcicki Dies at 56](https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/)
  - [Former Xbox head credits Apple watch with life-saving low heart rate alerts](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)
- - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
- - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/240810/p6#a240810p6)
- - [How to Survive a Heart Attack in Hot Weather, According to Experts](https://www.cnet.com/health/medical/how-to-survive-a-heart-attack-in-hot-weather-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

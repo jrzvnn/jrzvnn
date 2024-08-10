@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victory ceremony - 9gag drinking contest - Austria won, 30 beers in 3 hours, 3 guys](http://9gag.com/gag/amordy6)
  - 😝 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)
- - 💣 [9gager waiting](http://9gag.com/gag/aVvD4wK)
- - 😝 [Me and the boys after shitposting from the UK](http://9gag.com/gag/a9yWZv6)
- - 👉 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)<!-- MEMES:END -->
+ - 😝 [9gager waiting](http://9gag.com/gag/aVvD4wK)
+ - 💣 [Me and the boys after shitposting from the UK](http://9gag.com/gag/a9yWZv6)
+ - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
+ - 👉 [So proud of this community](http://9gag.com/gag/aryOdeV)<!-- MEMES:END -->
 
 ---
 

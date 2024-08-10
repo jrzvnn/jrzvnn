@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/a87pKbd)
  - 😝 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)
- - 😝 [5 suits every man should have](http://9gag.com/gag/adBq2M9)
  - 💣 [Just lines.](http://9gag.com/gag/aQzMNNK)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)<!-- MEMES:END -->
+ - 👉 [Raj for the win!](http://9gag.com/gag/aQzMN9q)<!-- MEMES:END -->
 
 ---
 

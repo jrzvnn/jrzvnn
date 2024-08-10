@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech exec credits Apple watch with &#39;life-saving&#39; alerts over low heart rate](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)
+ - [Former Xbox head credits Apple watch with life-saving low heart rate alerts](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)
  - [Just two of OpenAI&#39;s 11-strong founding team are active at OpenAI, after a series of exits in 2024 following the attempted boardroom coup against Sam Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/240810/p6#a240810p6)
  - [The FCC proposes requiring robocallers to disclose when they’re using AI](https://www.theverge.com/2024/8/10/24217435/fcc-ai-robocall-disclosure-proposed-rules-artificial-intelligence-hearing-speech-disability-exempt)
  - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)

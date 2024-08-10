@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC proposes requiring robocallers to disclose when they’re using AI](https://www.theverge.com/2024/8/10/24217435/fcc-ai-robocall-disclosure-proposed-rules-artificial-intelligence-hearing-speech-disability-exempt)
+ - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)
  - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)
  - [Why Counting Calories Is Not the End-All Weight Loss Solution](https://www.cnet.com/health/nutrition/why-counting-calories-is-not-the-end-all-weight-loss-solution/#ftag=CAD590a51e)
- - [More People Are Choosing Sleep Divorce Than Ever. Why It Might Suit You Too](https://www.cnet.com/health/sleep/sleep-divorce-save-your-sleep-and-relationship-with-one-move/#ftag=CAD590a51e)
- - [Student Loan Forgiveness Legal Troubles Keep Payments on Hold for Millions of SAVE Borrowers](https://www.cnet.com/personal-finance/student-loan-payments-paused-for-3-million-borrowers-future-save-relief-remains-in-limbo/#ftag=CAD590a51e)
- - [Get 40% Off Speck Gear With CNET&#39;s Exclusive Back-to-School Discount](https://www.cnet.com/deals/get-40-off-speck-gear-with-cnets-exclusive-back-to-school-discount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Are Choosing Sleep Divorce Than Ever. Why It Might Suit You Too](https://www.cnet.com/health/sleep/sleep-divorce-save-your-sleep-and-relationship-with-one-move/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

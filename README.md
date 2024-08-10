@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 😝 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)
- - 💣 [Just lines.](http://9gag.com/gag/aQzMNNK)
+ - 😝 [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
+ - 😝 [The Man. The Myth. The Legend. The new Disappointment-Meme?](http://9gag.com/gag/ae9YdXB)
+ - 💣 [Perfection](http://9gag.com/gag/axygALL)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Raj for the win!](http://9gag.com/gag/aQzMN9q)<!-- MEMES:END -->
+ - 👉 [It&#39;s getting real tho lol](http://9gag.com/gag/aYQKdGV)<!-- MEMES:END -->
 
 ---
 

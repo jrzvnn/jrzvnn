@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 💣 [5 suits every man should have](http://9gag.com/gag/adBq2M9)
+ - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
+ - 😝 [Well well well](http://9gag.com/gag/avyrDbd)
+ - 💣 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)<!-- MEMES:END -->
+ - 👉 [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)<!-- MEMES:END -->
 
 ---
 

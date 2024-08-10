@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
  - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
  - 💣 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
  - 👉 [Raj for the win!](http://9gag.com/gag/aQzMN9q)<!-- MEMES:END -->
 
 ---

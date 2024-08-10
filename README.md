@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Wikimedia Foundation executives on how AI could make knowledge more accessible to people, the risk that AI may impact its volunteers&#39; engagement, more &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/240810/p3#a240810p3)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [LG S95TR 9.1.5 Soundbar System Review: Perfect Audio for Your OLED](https://www.wired.com/review/lg-s95tr/)
- - [A Russian Chess Player Allegedly Poisoned Her Opponent With Mercury](https://www.wired.com/story/russian-chess-player-poison-board-mercury/)
- - [Want Adventure? These Fantasy TV Shows on Netflix Are Worth a Binge](https://www.cnet.com/tech/services-and-software/want-adventure-these-fantasy-tv-shows-on-netflix-are-worth-a-binge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Appeals Court Blocks Student Loan Forgiveness Plan. What&#39;s Next for SAVE?](https://www.cnet.com/personal-finance/appeals-court-blocks-student-loan-forgiveness-plan-whats-next-for-save/#ftag=CAD590a51e)
+ - [What It’s Like to Recover Like an Olympic Champ](https://www.cnet.com/health/fitness/what-it-takes-to-recover-like-an-olympic-athlete/#ftag=CAD590a51e)
+ - [Robot Lawn Mower Guide: How to Save Time, Money and Your Back](https://www.cnet.com/news/do-robot-lawn-mowers-work/#ftag=CAD590a51e)
+ - [Best Immunity Supplements for 2024](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

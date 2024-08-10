@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
  - [LG S95TR 9.1.5 Soundbar System Review: Perfect Audio for Your OLED](https://www.wired.com/review/lg-s95tr/)
  - [A Russian Chess Player Allegedly Poisoned Her Opponent With Mercury](https://www.wired.com/story/russian-chess-player-poison-board-mercury/)
- - [Acer Chromebook Plus 516 GE Review: A Game-Streaming Laptop](https://www.wired.com/review/acer-chromebook-plus-516-ge-2024/)
- - [Google Pixel 9 and 9 Pro: Coming Aug. 13 With New Design and Fold 2](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-coming-aug-13-with-new-design-fold-2-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want Adventure? These Fantasy TV Shows on Netflix Are Worth a Binge](https://www.cnet.com/tech/services-and-software/want-adventure-these-fantasy-tv-shows-on-netflix-are-worth-a-binge/#ftag=CAD590a51e)
+ - [Beats Pill vs. Bose SoundLink Flex: Compact Speaker Comparison video](https://www.cnet.com/videos/beats-pill-vs-bose-soundlink-flex-compact-speaker-comparison/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

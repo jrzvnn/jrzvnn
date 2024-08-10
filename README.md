@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
  - 😝 [I did thinking about her](http://9gag.com/gag/axygRVL)
- - 💣 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
+ - 😝 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
+ - 💣 [It has started...degenerates gatheing](http://9gag.com/gag/aVvDBAn)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)<!-- MEMES:END -->
+ - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
 
 ---
 

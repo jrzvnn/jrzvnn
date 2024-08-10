@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I swear, cleaning tables and stuff was making me feel better. Even though i was broke all the time.](http://9gag.com/gag/an7yERn)
+ - 😝 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)
  - 😝 [It has started...degenerates gatheing](http://9gag.com/gag/aVvDBAn)
- - 💣 [Title](http://9gag.com/gag/a87pKbd)
+ - 💣 [Toronto, Canada](http://9gag.com/gag/aAywmod)
  - 😝 [When the madness on the battlefield is unleashed like this scene.](http://9gag.com/gag/a1mdwNP)
- - 👉 [Toronto, Canada](http://9gag.com/gag/aAywmod)<!-- MEMES:END -->
+ - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
 
 ---
 

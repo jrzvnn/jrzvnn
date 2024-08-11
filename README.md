@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celsius sued Tether on Friday in an attempt to claw back ~40K bitcoins, now worth ~$2.4B, that Celsius claims Tether sold improperly at the bottom of the market &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240811/p2#a240811p2)
  - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence?utm_medium=rss)
  - [Work on second-gen Apple Vision Pro &amp; new smart glasses is progressing](https://appleinsider.com/articles/24/08/11/work-on-second-gen-apple-vision-pro-new-smart-glasses-is-progressing?utm_medium=rss)
  - [The Best Travel Strollers for All Your Family Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
- - [Horror movies need to be more than a big mood](https://www.theverge.com/24216922/horror-movies-maxxxine-longlegs-cuckoo-nothing-to-say)
- - [Samsung Galaxy Book4 Edge review: beauty before brawn](https://www.theverge.com/24215509/samsung-galaxy-book4-edge-2024-review-qualcomm-copilot-plus-pc-snapdragon)<!-- TECH:END -->
+ - [Horror movies need to be more than a big mood](https://www.theverge.com/24216922/horror-movies-maxxxine-longlegs-cuckoo-nothing-to-say)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

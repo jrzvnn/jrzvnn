@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protect Your Privacy: How to Blur Your Home on Google Maps](https://www.cnet.com/tech/services-and-software/how-to-blur-home-google-maps/#ftag=CAD590a51e)
  - [Some longtime users of LinkedIn lament the barrage of performative content from hustle-culture influencers and AI-generated &quot;thought leadership&quot; on the site &lpar;Charlie Wells/Bloomberg&rpar;](http://www.techmeme.com/240811/p6#a240811p6)
  - [Apple’s last-gen iPad has dropped to $224 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
- - [Another Blow for Student Loan Forgiveness. What SAVE Borrowers Should Know](https://www.cnet.com/personal-finance/another-blow-for-student-loan-forgiveness-what-save-borrowers-should-know/#ftag=CAD590a51e)
- - [Dehydrated? Eat These Electrolyte-Packed Foods to Stay Hydrated This Summer](https://www.cnet.com/health/nutrition/best-foods-stay-hydrated-replenish-electrolytes/#ftag=CAD590a51e)
- - [Score 76% Off a Lifetime Babbel Subscription Right Now](https://www.cnet.com/deals/learn-languages-for-life-with-a-discounted-babbel-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Deals: Snag New Tech and Everyday Items for Less Than $100](https://www.cnet.com/deals/best-amazon-deals-stock-up-on-everyday-goods-or-snag-new-tech-for-less-than-100/#ftag=CAD590a51e)
+ - [Fall Asleep Fast With This Tried-and-True 5-Minute Hack](https://www.cnet.com/health/sleep/fall-asleep-fast-with-this-tried-and-true-5-minute-hack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

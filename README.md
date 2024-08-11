@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixar has reused an Apple Watch face to make the new &#39;Toy Story 5&#39; trailer](https://appleinsider.com/articles/24/08/10/pixar-takes-an-old-apple-watch-face-to-make-its-toy-story-5-trailer?utm_medium=rss)
+ - [Paid Apple Intelligence features won&#39;t come until at least 2027](https://appleinsider.com/articles/24/08/11/paid-apple-intelligence-features-wont-come-until-at-least-2027?utm_medium=rss)
  - [A look at Apple&#39;s future plans: iPhone 16 lineup, a new iPhone SE, a thin &quot;Air&quot; model in the iPhone 17 series, and a Watch SE with a plastic case in bold colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240811/p3#a240811p3)
  - [13 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [What Google rivals want after DOJ’s antitrust trial win](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)
- - [Celsius sued Tether on Friday in an attempt to claw back ~40K bitcoins, now worth ~$2.4B, that Celsius claims Tether sold improperly at the bottom of the market &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240811/p2#a240811p2)
- - [Cash App Customers Are Eligible for a Payout. How to Submit a $2,500 Settlement Claim](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-payout-how-to-submit-a-2500-settlement-claim/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Google rivals want after DOJ’s antitrust trial win](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

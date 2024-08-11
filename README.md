@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
  - [The kid-friendly Fitbit Ace LTE is on sale just in time for the new school year](https://www.theverge.com/2024/8/11/24215450/fitbit-ace-lte-smartwatch-amazon-fire-tv-stick-4k-max-deal-sale)
- - [29 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
- - [Pixar has reused an Apple Watch face to make the new &#39;Toy Story 5&#39; trailer](https://appleinsider.com/articles/24/08/10/pixar-takes-an-old-apple-watch-face-to-make-its-toy-story-5-trailer?utm_medium=rss)
- - [Paid Apple Intelligence features won&#39;t come until at least 2027](https://appleinsider.com/articles/24/08/11/paid-apple-intelligence-features-wont-come-until-at-least-2027?utm_medium=rss)
- - [A look at Apple&#39;s future plans: iPhone 16 lineup, a new iPhone SE, a thin &quot;Air&quot; model in the iPhone 17 series, and a Watch SE with a plastic case in bold colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240811/p3#a240811p3)<!-- TECH:END -->
+ - [The Best Online Hearing Tests of 2024](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
+ - [29 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

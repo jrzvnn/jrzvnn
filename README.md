@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [Me trying to enter BIOS](http://9gag.com/gag/aRBKWB2)
  - 😝 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)
  - 💣 [This guy posted about nobody coming when he was too early and then these 2 madlads showed up with him on their t-shirts](http://9gag.com/gag/abA6d29)
  - 😝 [Thank you for making my life easier while almost dying bringing 3 babies to world. And yes, there are girls on 9gag](http://9gag.com/gag/a5QZynq)

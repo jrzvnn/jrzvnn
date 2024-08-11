@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Nord Buds 3 Pro Review: AirPods Pro Vibes for the Cheap Seats](https://www.wired.com/review/oneplus-nord-buds-3-pro/)
  - [14 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
- - [The Physics of Cold Water May Have Jump-Started Complex Life](https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/)
- - [Best Apple Cider Vinegar Drinks for 2024, Tasted and Tested](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
- - [Best Filtered Water Bottles of 2024](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Olympics 2024 Closing Ceremony: How to Watch Tom Cruise, H.E.R. and France&#39;s AIR](https://www.cnet.com/tech/services-and-software/olympics-2024-closing-ceremony-how-to-watch-tom-cruise-h-e-r-and-frances-air/#ftag=CAD590a51e)
+ - [Your iPhone&#39;s Maps App Got This Helpful New Feature in the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/your-iphones-maps-app-got-this-helpful-new-feature-in-the-ios-18-betas/#ftag=CAD590a51e)
+ - [Forget the Number on Your Scale. Focus on Body Recomposition Instead](https://www.cnet.com/health/fitness/what-is-body-recomposition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 💣 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
+ - 😝 [Me trying to enter BIOS](http://9gag.com/gag/aRBKWB2)
+ - 😝 [Your comment will determine the setting. Farewell.](http://9gag.com/gag/ayNLrRX)
+ - 💣 [Savage](http://9gag.com/gag/adBqABM)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)<!-- MEMES:END -->
+ - 👉 [Be comfortable](http://9gag.com/gag/azxryZb)<!-- MEMES:END -->
 
 ---
 

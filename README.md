@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
- - 😝 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)
- - 💣 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 😝 [Half way through the movie made me paranoid. A dose of man made horrors](http://9gag.com/gag/aMVw71x)
+ - 😝 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
+ - 💣 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Well well well...](http://9gag.com/gag/a0edDYn)<!-- MEMES:END -->
+ - 👉 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)<!-- MEMES:END -->
 
 ---
 

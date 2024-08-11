@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be generous guys, they deserve it.](http://9gag.com/gag/aqyrw9Y)
- - 😝 [I mean.. who cares](http://9gag.com/gag/awy5j4D)
- - 💣 [Be comfortable](http://9gag.com/gag/azxryZb)
+ - 😝 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
+ - 💣 [Well well well...](http://9gag.com/gag/a0edDYn)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)<!-- MEMES:END -->
+ - 👉 [Please make love, not hate!](http://9gag.com/gag/amorwpv)<!-- MEMES:END -->
 
 ---
 

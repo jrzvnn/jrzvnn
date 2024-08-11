@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Travel Strollers for All Your Family Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
  - [Horror movies need to be more than a big mood](https://www.theverge.com/24216922/horror-movies-maxxxine-longlegs-cuckoo-nothing-to-say)
  - [Samsung Galaxy Book4 Edge review: beauty before brawn](https://www.theverge.com/24215509/samsung-galaxy-book4-edge-2024-review-qualcomm-copilot-plus-pc-snapdragon)
  - [OnePlus Nord Buds 3 Pro Review: AirPods Pro Vibes for the Cheap Seats](https://www.wired.com/review/oneplus-nord-buds-3-pro/)
- - [Pixel 9 Pro Fold: The Biggest Upgrades I Want From Google&#39;s Next Foldable](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)
- - [RayNeo Air 2S Display Glasses Review: A Step Down From the Competition](https://www.cnet.com/tech/rayneo-air-2s-display-glasses-review-a-step-down-from-the-competition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel 9 Pro Fold: The Biggest Upgrades I Want From Google&#39;s Next Foldable](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

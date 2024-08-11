@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
  - 😝 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)
- - 😝 [The effects of CTE in a brain over a decade of fighting](http://9gag.com/gag/ayNLAoV)
- - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 💣 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Content was removed, 2nd try with filter](http://9gag.com/gag/azxrw8m)<!-- MEMES:END -->
+ - 👉 [Well well well...](http://9gag.com/gag/a0edDYn)<!-- MEMES:END -->
 
 ---
 

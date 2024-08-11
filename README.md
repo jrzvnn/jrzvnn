@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature&#39;s Other elite runners to Humans `Look What They Need To Mimic A Fraction Of Our Power`](http://9gag.com/gag/aGy0r5z)
+ - 😝 [2 years for leaving a man in a coma, aka, attempted murder. NY clown state.](http://9gag.com/gag/aLnMbo6)
+ - 😝 [God bless Texas](http://9gag.com/gag/agmqp2v)
+ - 💣 [Do your best](http://9gag.com/gag/azxrQKp)
  - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 💣 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)
- - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
- - 👉 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)<!-- MEMES:END -->
+ - 👉 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)<!-- MEMES:END -->
 
 ---
 

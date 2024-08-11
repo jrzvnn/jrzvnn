@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just lines.](http://9gag.com/gag/aQzMNNK)
  - 😝 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
- - 💣 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
- - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 👉 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)<!-- MEMES:END -->
+ - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
+ - 💣 [The effects of CTE in a brain over a decade of fighting](http://9gag.com/gag/ayNLAoV)
+ - 😝 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
+ - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How cybersecurity researcher Jon DiMaggio used fake personas to infiltrate LockBit and trick its alleged administrator into revealing operation details &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240810/p13#a240810p13)
+ - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
+ - [Best Phone Plan Deals: Save on Recurring Plans or Prepaid Deals](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
  - [This Vision Pro Virtual Boy emulator isn’t fancy, but it gets the job done](https://www.theverge.com/2024/8/10/24217643/vision-pro-nintendo-virtual-boy-emulator-virtualfriend-impressions)
- - [Best iPhone 15 and iPhone 15 Pro Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
- - [A look at the consequences of Spotify&#39;s disinvestment in podcasts in Latin America, where one survey found 90% of podcast listeners used Spotify &lpar;Stan Alcorn/Rest of World&rpar;](http://www.techmeme.com/240810/p12#a240810p12)
- - [Best VPN Deals: Protect Your Data From $2 a Month](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

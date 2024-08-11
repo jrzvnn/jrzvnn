@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Horror movies need to be more than a big mood](https://www.theverge.com/24216922/horror-movies-maxxxine-longlegs-cuckoo-nothing-to-say)
  - [Samsung Galaxy Book4 Edge review: beauty before brawn](https://www.theverge.com/24215509/samsung-galaxy-book4-edge-2024-review-qualcomm-copilot-plus-pc-snapdragon)
  - [OnePlus Nord Buds 3 Pro Review: AirPods Pro Vibes for the Cheap Seats](https://www.wired.com/review/oneplus-nord-buds-3-pro/)
- - [Pixel 9 Pro Fold: The Biggest Upgrades I Want From Google&#39;s Next Foldable](https://www.cnet.com/tech/mobile/what-googles-pixel-9-pro-fold-needs-to-keep-up-with-samsung/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

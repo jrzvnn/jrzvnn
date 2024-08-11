@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD releases updates to mitigate the &quot;Sinkclose&quot; vulnerability but has no plans to update older Ryzen 1000, 2000, and 3000 or Threadripper 1000 and 2000 CPUs &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240811/p5#a240811p5)
  - [The next iPhone SE could have Apple Intelligence, which says a lot](https://www.theverge.com/2024/8/11/24217924/iphone-se-apple-intelligence-support-generative-ai-rumor)
  - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
  - [A look at Front Porch Forum, which counts nearly half of Vermont&#39;s adults as active members and prioritizes careful moderation and civility over engagement &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240811/p4#a240811p4)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
- - [Best Budget 3D Printers of 2024](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

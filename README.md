@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Elon Musk is diverting talent, data, and GPUs from his other businesses to xAI, leading to lawsuits that such resource shifting is hurting Tesla investors &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/240811/p7#a240811p7)
  - [Protect Your Privacy: How to Blur Your Home on Google Maps](https://www.cnet.com/tech/services-and-software/how-to-blur-home-google-maps/#ftag=CAD590a51e)
  - [Some longtime users of LinkedIn lament the barrage of performative content from hustle-culture influencers and AI-generated &quot;thought leadership&quot; on the site &lpar;Charlie Wells/Bloomberg&rpar;](http://www.techmeme.com/240811/p6#a240811p6)
  - [Apple’s last-gen iPad has dropped to $224 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
- - [Best Amazon Deals: Snag New Tech and Everyday Items for Less Than $100](https://www.cnet.com/deals/best-amazon-deals-stock-up-on-everyday-goods-or-snag-new-tech-for-less-than-100/#ftag=CAD590a51e)
- - [Fall Asleep Fast With This Tried-and-True 5-Minute Hack](https://www.cnet.com/health/sleep/fall-asleep-fast-with-this-tried-and-true-5-minute-hack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Deals: Snag New Tech and Everyday Items for Less Than $100](https://www.cnet.com/deals/best-amazon-deals-stock-up-on-everyday-goods-or-snag-new-tech-for-less-than-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

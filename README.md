@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Physics of Cold Water May Have Jump-Started Complex Life](https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/)
  - [How to Print Something in 2024](https://www.wired.com/story/how-to-print/)
  - [13 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $800 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
  - [Avocado Eco Organic Mattress Review 2024: Affordable, Organic Comfort](https://www.cnet.com/health/sleep/avocado-eco-organic-mattress-review/#ftag=CAD590a51e)
- - [Q&amp;A with Hasbro CEO Chris Cocks on the toymaker&#39;s gaming push, licensing deals, and more; Monopoly GO! has earned $3B+ in revenue since its April 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240811/p1#a240811p1)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 11 #427](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-11-427/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Hasbro CEO Chris Cocks on the toymaker&#39;s gaming push, licensing deals, and more; Monopoly GO! has earned $3B+ in revenue since its April 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240811/p1#a240811p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

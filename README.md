@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)
- - 😝 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
- - 💣 [Well well well...](http://9gag.com/gag/a0edDYn)
+ - 😝 [Be comfortable](http://9gag.com/gag/azxryZb)
+ - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 💣 [A wolf pup growing up](http://9gag.com/gag/aYQK6MV)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Can anyone guess?](http://9gag.com/gag/awy5P1y)<!-- MEMES:END -->
+ - 👉 [Passive income](http://9gag.com/gag/a347gnr)<!-- MEMES:END -->
 
 ---
 

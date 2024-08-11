@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget](http://9gag.com/gag/a87pvzV)
- - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 💣 [Just lines.](http://9gag.com/gag/aQzMNNK)
- - 😝 [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
- - 👉 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)<!-- MEMES:END -->
+ - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
+ - 💣 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
+ - 😝 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
+ - 👉 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)<!-- MEMES:END -->
 
 ---
 

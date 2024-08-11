@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
- - 😝 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
- - 💣 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [Persecuted Hindus of Bangladesh are trying to cross the border after mass killing by Islamist](http://9gag.com/gag/aVvD8bv)
+ - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
+ - 👉 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)<!-- MEMES:END -->
 
 ---
 

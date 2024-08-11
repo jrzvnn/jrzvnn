@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
- - 😝 [Persecuted Hindus of Bangladesh are trying to cross the border after mass killing by Islamist](http://9gag.com/gag/aVvD8bv)
- - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - 💣 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)<!-- MEMES:END -->
+ - 👉 [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)<!-- MEMES:END -->
 
 ---
 

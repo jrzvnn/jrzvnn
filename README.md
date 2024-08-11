@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s future plans: iPhone 16 lineup, a new iPhone SE, a thin &quot;Air&quot; model in the iPhone 17 series, and a Watch SE with a plastic case in bold colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240811/p3#a240811p3)
+ - [13 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
  - [What Google rivals want after DOJ’s antitrust trial win](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)
  - [Celsius sued Tether on Friday in an attempt to claw back ~40K bitcoins, now worth ~$2.4B, that Celsius claims Tether sold improperly at the bottom of the market &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240811/p2#a240811p2)
- - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence?utm_medium=rss)
- - [Work on second-gen Apple Vision Pro &amp; new smart glasses is progressing](https://appleinsider.com/articles/24/08/11/work-on-second-gen-apple-vision-pro-new-smart-glasses-is-progressing?utm_medium=rss)
- - [The Best Travel Strollers for All Your Family Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)<!-- TECH:END -->
+ - [Cash App Customers Are Eligible for a Payout. How to Submit a $2,500 Settlement Claim](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-payout-how-to-submit-a-2500-settlement-claim/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo wtf??](http://9gag.com/gag/a6ZMznR)
- - 😝 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
- - 💣 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
- - 😝 [I think I downloaded the wrong Deadpool &amp; Wolverine](http://9gag.com/gag/a7oZP9r)
- - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
+ - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)
+ - 💣 [This guy posted about nobody coming when he was too early and then these 2 madlads showed up with him on their t-shirts](http://9gag.com/gag/abA6d29)
+ - 😝 [Thank you for making my life easier while almost dying bringing 3 babies to world. And yes, there are girls on 9gag](http://9gag.com/gag/a5QZynq)
+ - 👉 [A small thing with huge impact](http://9gag.com/gag/ae9YEdb)<!-- MEMES:END -->
 
 ---
 

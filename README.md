@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can something be oddly terrifying, oddly satisfying and sweaty palms at the same time?](http://9gag.com/gag/awy5vL4)
+ - 😝 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)
+ - 💣 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
  - 😝 [Never forget](http://9gag.com/gag/a87pvzV)
- - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 💣 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)
- - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
- - 👉 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)<!-- MEMES:END -->
+ - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature&#39;s Other elite runners to Humans `Look What They Need To Mimic A Fraction Of Our Power`](http://9gag.com/gag/aGy0r5z)
- - 😝 [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
- - 💣 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
- - 👉 [Unethiccal](http://9gag.com/gag/aqyrDG7)<!-- MEMES:END -->
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 💣 [Do your best](http://9gag.com/gag/azxrQKp)
+ - 😝 [UK police will try to extradite anyone `showing` the protests even from foreign lands.](http://9gag.com/gag/aMVw0dM)
+ - 👉 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)<!-- MEMES:END -->
 
 ---
 

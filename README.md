@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Niceeee.](http://9gag.com/gag/a2vd931)
- - 😝 [So proud of this community](http://9gag.com/gag/aryOdeV)
- - 💣 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
- - 😝 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)
- - 👉 [This guy posted about nobody coming when he was too early and then these 2 madlads showed up with him on their t-shirts](http://9gag.com/gag/abA6d29)<!-- MEMES:END -->
+ - 😝 [Nature&#39;s Other elite runners to Humans `Look What They Need To Mimic A Fraction Of Our Power`](http://9gag.com/gag/aGy0r5z)
+ - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
+ - 💣 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)
+ - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
+ - 👉 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The next iPhone SE could have Apple Intelligence, which says a lot](https://www.theverge.com/2024/8/11/24217924/iphone-se-apple-intelligence-support-generative-ai-rumor)
+ - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
  - [A look at Front Porch Forum, which counts nearly half of Vermont&#39;s adults as active members and prioritizes careful moderation and civility over engagement &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240811/p4#a240811p4)
- - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
- - [The kid-friendly Fitbit Ace LTE is on sale just in time for the new school year](https://www.theverge.com/2024/8/11/24215450/fitbit-ace-lte-smartwatch-amazon-fire-tv-stick-4k-max-deal-sale)<!-- TECH:END -->
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
+ - [Best Budget 3D Printers of 2024](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

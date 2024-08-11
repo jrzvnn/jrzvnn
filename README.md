@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)
- - 😝 [Drinking competition Slovakia - Hungary - Austria.](http://9gag.com/gag/aBywjpA)
- - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 😝 [Well well well...](http://9gag.com/gag/a0edDYn)
+ - 😝 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
+ - 💣 [Half way through the movie made me paranoid. A dose of man made horrors](http://9gag.com/gag/aMVw71x)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Passive income](http://9gag.com/gag/a347gnr)<!-- MEMES:END -->
+ - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
 
 ---
 

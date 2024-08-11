@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 💣 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
+ - 😝 [Just lines.](http://9gag.com/gag/aQzMNNK)
+ - 😝 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
+ - 💣 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
  - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 👉 [Just lines.](http://9gag.com/gag/aQzMNNK)<!-- MEMES:END -->
+ - 👉 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)<!-- MEMES:END -->
 
 ---
 

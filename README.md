@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
  - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 💣 [Do your best](http://9gag.com/gag/azxrQKp)
+ - 💣 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
  - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 👉 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)<!-- MEMES:END -->
+ - 👉 [Just lines.](http://9gag.com/gag/aQzMNNK)<!-- MEMES:END -->
 
 ---
 

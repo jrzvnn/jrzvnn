@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [So proud of this community](http://9gag.com/gag/aryOdeV)
  - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
  - 💣 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
- - 😝 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)
- - 👉 [The Werewolf Game is an experiment in Sociology](http://9gag.com/gag/aBywb6A)<!-- MEMES:END -->
+ - 😝 [The Werewolf Game is an experiment in Sociology](http://9gag.com/gag/aBywb6A)
+ - 👉 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)<!-- MEMES:END -->
 
 ---
 

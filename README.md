@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
  - [The Physics of Cold Water May Have Jump-Started Complex Life](https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/)
  - [Best Apple Cider Vinegar Drinks for 2024, Tasted and Tested](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
  - [Best Filtered Water Bottles of 2024](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
- - [How to Print Something in 2024](https://www.wired.com/story/how-to-print/)<!-- TECH:END -->
+ - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

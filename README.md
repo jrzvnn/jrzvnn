@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
+ - 😝 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
  - 😝 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)
- - 💣 [Just lines.](http://9gag.com/gag/aQzMNNK)
- - 😝 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
- - 👉 [The effects of CTE in a brain over a decade of fighting](http://9gag.com/gag/ayNLAoV)<!-- MEMES:END -->
+ - 💣 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
+ - 😝 [Angry Daniel Radcliffe](http://9gag.com/gag/aQzMVmd)
+ - 👉 [Change with her, never replace her](http://9gag.com/gag/a5QZDGq)<!-- MEMES:END -->
 
 ---
 

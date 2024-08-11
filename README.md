@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drinking competition Slovakia - Hungary - Austria.](http://9gag.com/gag/aBywjpA)
- - 😝 [Be comfortable](http://9gag.com/gag/azxryZb)
- - 💣 [Me trying to enter BIOS](http://9gag.com/gag/aRBKWB2)
+ - 😝 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
+ - 😝 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
+ - 💣 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)<!-- MEMES:END -->
+ - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
 
 ---
 

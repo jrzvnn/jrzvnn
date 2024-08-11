@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The kid-friendly Fitbit Ace LTE is on sale just in time for the new school year](https://www.theverge.com/2024/8/11/24215450/fitbit-ace-lte-smartwatch-amazon-fire-tv-stick-4k-max-deal-sale)
+ - [29 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
  - [Pixar has reused an Apple Watch face to make the new &#39;Toy Story 5&#39; trailer](https://appleinsider.com/articles/24/08/10/pixar-takes-an-old-apple-watch-face-to-make-its-toy-story-5-trailer?utm_medium=rss)
  - [Paid Apple Intelligence features won&#39;t come until at least 2027](https://appleinsider.com/articles/24/08/11/paid-apple-intelligence-features-wont-come-until-at-least-2027?utm_medium=rss)
- - [A look at Apple&#39;s future plans: iPhone 16 lineup, a new iPhone SE, a thin &quot;Air&quot; model in the iPhone 17 series, and a Watch SE with a plastic case in bold colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240811/p3#a240811p3)
- - [13 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [What Google rivals want after DOJ’s antitrust trial win](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)<!-- TECH:END -->
+ - [A look at Apple&#39;s future plans: iPhone 16 lineup, a new iPhone SE, a thin &quot;Air&quot; model in the iPhone 17 series, and a Watch SE with a plastic case in bold colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240811/p3#a240811p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

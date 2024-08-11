@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A nightly Waymo robotaxi parking lot honkfest is waking San Francisco neighbors](https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco)
  - [After Kamala Harris held a rally in Detroit with thousands in attendance, Donald Trump falsely claimed the crowd was &quot;fake&quot; and a picture of it was AI-generated &lpar;Peter Wade/Rolling Stone&rpar;](http://www.techmeme.com/240811/p8#a240811p8)
  - [How Elon Musk is diverting talent, data, and GPUs from his other businesses to xAI, leading to lawsuits that such resource shifting is hurting Tesla investors &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/240811/p7#a240811p7)
- - [Protect Your Privacy: How to Blur Your Home on Google Maps](https://www.cnet.com/tech/services-and-software/how-to-blur-home-google-maps/#ftag=CAD590a51e)
- - [Some longtime users of LinkedIn lament the barrage of performative content from hustle-culture influencers and AI-generated &quot;thought leadership&quot; on the site &lpar;Charlie Wells/Bloomberg&rpar;](http://www.techmeme.com/240811/p6#a240811p6)<!-- TECH:END -->
+ - [4 Hormones That Will Help You Hack Your Happiness and Beat Burnout](https://www.cnet.com/health/mental/4-hormones-that-will-help-you-hack-your-happiness-and-beat-burnout/#ftag=CAD590a51e)
+ - [Protect Your Privacy: How to Blur Your Home on Google Maps](https://www.cnet.com/tech/services-and-software/how-to-blur-home-google-maps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

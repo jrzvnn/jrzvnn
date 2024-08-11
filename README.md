@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Front Porch Forum, which counts nearly half of Vermont&#39;s adults as active members and prioritizes careful moderation and civility over engagement &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240811/p4#a240811p4)
  - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
  - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
  - [The kid-friendly Fitbit Ace LTE is on sale just in time for the new school year](https://www.theverge.com/2024/8/11/24215450/fitbit-ace-lte-smartwatch-amazon-fire-tv-stick-4k-max-deal-sale)
- - [The Best Online Hearing Tests of 2024](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
- - [29 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
+ - [The Best Online Hearing Tests of 2024](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

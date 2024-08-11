@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones Under $100 for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
- - [AMD releases updates to mitigate the &quot;Sinkclose&quot; vulnerability but has no plans to update older Ryzen 1000, 2000, and 3000 or Threadripper 1000 and 2000 CPUs &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240811/p5#a240811p5)
- - [Best Alkaline Batteries for 2024](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
- - [Best Sounding Wireless Earbuds in 2024](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s last-gen iPad has dropped to $224 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
+ - [Another Blow for Student Loan Forgiveness. What SAVE Borrowers Should Know](https://www.cnet.com/personal-finance/another-blow-for-student-loan-forgiveness-what-save-borrowers-should-know/#ftag=CAD590a51e)
+ - [Dehydrated? Eat These Electrolyte-Packed Foods to Stay Hydrated This Summer](https://www.cnet.com/health/nutrition/best-foods-stay-hydrated-replenish-electrolytes/#ftag=CAD590a51e)
+ - [Score 76% Off a Lifetime Babbel Subscription Right Now](https://www.cnet.com/deals/learn-languages-for-life-with-a-discounted-babbel-subscription/#ftag=CAD590a51e)
+ - [Score an AeroPress Coffee Maker for as Little as $32 Right Now](https://www.cnet.com/deals/fan-favorite-aeropress-coffee-makers-are-discounted-as-low-as-32-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

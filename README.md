@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
  - 😝 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)
- - 💣 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
+ - 😝 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
+ - 💣 [Well well well...](http://9gag.com/gag/a0edDYn)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)<!-- MEMES:END -->
+ - 👉 [Can anyone guess?](http://9gag.com/gag/awy5P1y)<!-- MEMES:END -->
 
 ---
 

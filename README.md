@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well...](http://9gag.com/gag/a0edDYn)
- - 😝 [Can anyone guess?](http://9gag.com/gag/awy5P1y)
- - 💣 [Half way through the movie made me paranoid. A dose of man made horrors](http://9gag.com/gag/aMVw71x)
+ - 😝 [Drinking competition Slovakia - Hungary - Austria.](http://9gag.com/gag/aBywjpA)
+ - 😝 [Be comfortable](http://9gag.com/gag/azxryZb)
+ - 💣 [Me trying to enter BIOS](http://9gag.com/gag/aRBKWB2)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
+ - 👉 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hi-Fi Rush studio saved from Microsoft shutdown](https://www.theverge.com/2024/8/12/24218424/hifi-rush-studio-tango-gameworks-saved-krafton-microsoft)
  - [How to Watch the Made by Google Pixel 9 Launch Event, and What to Expect](https://www.wired.com/story/made-by-google-2024-pixel-9-launch-event-how-to-watch-what-to-expect/)
+ - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
  - [A detailed look at China&#39;s chip buildout and how US chip sanctions and industrial policies have accelerated China&#39;s push to develop its own chip supply chain &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240812/p4#a240812p4)
- - [At least eight US states, including Indiana and Louisiana, have passed laws or adopted rules so far in 2024 to curb students&#39; smartphone use during school hours &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240812/p3#a240812p3)
- - [Balderton Capital raised $1.3B for EU startups across two funds: a $615M early-stage fund and a $685M fund for &quot;growth&quot; investing in more mature startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240812/p2#a240812p2)
- - [PUBG publisher Krafton acquires former Xbox game studio Tango Gameworks and its Hi-Fi Rush IP; Microsoft had planned to shut down Tango Gameworks in May 2024 &lpar;Michael McWhertor/Polygon&rpar;](http://www.techmeme.com/240812/p1#a240812p1)<!-- TECH:END -->
+ - [Best Laptop Deals: Head Back to School With Big Savings on Apple, Dell, Acer and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

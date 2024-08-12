@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keir starmer finds himself to be quite hated in the UK](http://9gag.com/gag/aW48X83)
- - 😝 [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
- - 💣 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)
+ - 😝 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 💣 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [God bless Texas](http://9gag.com/gag/agmqp2v)<!-- MEMES:END -->
+ - 👉 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)<!-- MEMES:END -->
 
 ---
 

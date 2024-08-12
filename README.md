@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 💣 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
+ - 😝 [They are like siblings](http://9gag.com/gag/an7ywYB)
+ - 😝 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
+ - 💣 [Women](http://9gag.com/gag/aPAMVdG)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Women](http://9gag.com/gag/aPAMVdG)<!-- MEMES:END -->
+ - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
 
 ---
 

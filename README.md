@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
  - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 👉 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)<!-- MEMES:END -->
+ - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 ---
 

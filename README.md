@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My Ass.....................](http://9gag.com/gag/azxrpBx)
+ - 😝 [What if](http://9gag.com/gag/a87pxyZ)
+ - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 💣 [Sick move,mate](http://9gag.com/gag/aKG2oYN)
- - 😝 [Kier Stalin would have me sent to the gulag for posting this on facebook.](http://9gag.com/gag/aAywzm0)
- - 👉 [True](http://9gag.com/gag/a1md3j8)<!-- MEMES:END -->
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 ---
 

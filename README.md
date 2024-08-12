@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
- - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
+ - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 😝 [Women](http://9gag.com/gag/aPAMVdG)
  - 💣 [Miss South Africa 2024 Mia le Roux](http://9gag.com/gag/aD2jLRZ)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
+ - 👉 [TRANSformation](http://9gag.com/gag/an7y0e5)<!-- MEMES:END -->
 
 ---
 

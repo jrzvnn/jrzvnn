@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winner got the best prize](http://9gag.com/gag/aAywAKE)
- - 😝 [Miss South Africa 2024 Mia le Roux](http://9gag.com/gag/aD2jLRZ)
- - 💣 [TRANSformation](http://9gag.com/gag/an7y0e5)
+ - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 😝 [Real Breakdancing vs some cartoon shit](http://9gag.com/gag/ajPqwjG)
+ - 💣 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Women](http://9gag.com/gag/aPAMVdG)<!-- MEMES:END -->
+ - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
 
 ---
 

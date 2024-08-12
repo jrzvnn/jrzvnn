@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [7 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+ - [This 1TB Mac Studio is discounted to $1,999, plus get 3 years of AppleCare for $139](https://appleinsider.com/articles/24/08/12/this-1tb-mac-studio-is-discounted-to-1999-plus-get-3-years-of-applecare-for-139?utm_medium=rss)
  - [Meta and UMG sign a &quot;global, multi-year agreement&quot; for artists on Meta&#39;s apps, including WhatsApp for the first time, covering AI, monetization, and more &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240812/p10#a240812p10)
- - [How Uber, facing sexual assault litigation, spent millions trying to get a Nevada ballot proposal to restrict legal fees that bankroll cases against companies &lpar;Jessica Silver-Greenberg/New York Times&rpar;](http://www.techmeme.com/240812/p9#a240812p9)
- - [Humans Are Going to the Moon’s South Pole. This Is How They’ll Drive There](https://www.wired.com/story/artemis-v-lunar-terrain-vehicle-tires-wheels-design/)
- - [Waste in Space: All the news surrounding space junk](https://www.theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storystream)
- - [Gamergate’s Legacy Lives on in Attacks Against Kamala Harris](https://www.wired.com/story/gamergates-legacy-lives-on-in-attacks-against-kamala-harris/)<!-- TECH:END -->
+ - [Save Big on Flights, Hotels and More With a Bargain OneAir Elite Lifetime Subscription](https://www.cnet.com/deals/save-big-on-flights-hotels-and-more-with-a-bargain-oneair-elite-lifetime-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

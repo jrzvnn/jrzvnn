@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
- - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 😝 [Recognize the building?](http://9gag.com/gag/aLnM59v)
+ - 💣 [\ud83c\udde6\ud83c\uddfa Breakdance studies paid by your taxes.](http://9gag.com/gag/a5QZ05O)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 👉 [We need to save him..](http://9gag.com/gag/aMVwMNW)<!-- MEMES:END -->
 
 ---
 

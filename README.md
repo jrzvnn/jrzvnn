@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What if](http://9gag.com/gag/a87pxyZ)
+ - 😝 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
  - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
+ - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
+ - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
 
 ---
 

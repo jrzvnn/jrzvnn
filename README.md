@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Houseplants Even Beginners Can&#39;t Kill, According to Plant Experts](https://www.cnet.com/news/easiest-houseplants-to-keep-alive/#ftag=CAD590a51e)
  - [As 19 Chinese cities run robotaxi and robobus trials, a look at autonomous mass transit growth in China and the safety and job loss concerns from rapid adoption &lpar;Reuters&rpar;](http://www.techmeme.com/240811/p9#a240811p9)
  - [A nightly Waymo robotaxi parking lot honkfest is waking San Francisco neighbors](https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco)
  - [After Kamala Harris held a rally in Detroit with thousands in attendance, Donald Trump falsely claimed the crowd was &quot;fake&quot; and a picture of it was AI-generated &lpar;Peter Wade/Rolling Stone&rpar;](http://www.techmeme.com/240811/p8#a240811p8)
- - [Netflix Secret Menu: How to Unlock Hidden Movies and TV Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)
- - [How Elon Musk is diverting talent, data, and GPUs from his other businesses to xAI, leading to lawsuits that such resource shifting is hurting Tesla investors &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/240811/p7#a240811p7)<!-- TECH:END -->
+ - [Netflix Secret Menu: How to Unlock Hidden Movies and TV Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

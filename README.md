@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple seeds second developer betas for iOS 18.1, iPadOS 18.1, &amp; macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/12/apple-seeds-second-developer-betas-for-ios-181-and-ipados-181?utm_medium=rss)
+ - [12 Hacks to Combat Night Sweats This Summer](https://www.cnet.com/health/sleep/12-hack-to-combat-night-sweats-this-summer/#ftag=CAD590a51e)
  - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [Apple introduces sixth developer betas for fall OS updates](https://appleinsider.com/articles/24/08/12/apple-introduces-sixth-developer-betas-for-fall-os-updates?utm_medium=rss)
- - [Waymo plans to start testing its fully autonomous robotaxis on freeways in the San Francisco Bay Area this week, after getting regulator approval in March &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240812/p19#a240812p19)
- - [Apple forces Patreon to pay 30% of new memberships sold through iOS](https://appleinsider.com/articles/24/08/12/apple-forces-patreon-to-pay-30-of-new-memberships-sold-through-ios?utm_medium=rss)<!-- TECH:END -->
+ - [5 Best Sunrise Alarm Clocks and How to Choose](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [Best Laptop of 2024](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

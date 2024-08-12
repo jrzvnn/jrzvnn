@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The nurse who motivated the girl and helped her get back on her feet after she was in a car accident and doctors said she would no longer be able to walk](http://9gag.com/gag/an7ymxL)
- - 😝 [We need to save him..](http://9gag.com/gag/aMVwMNW)
- - 💣 [No title](http://9gag.com/gag/avyrKgO)
- - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 👉 [Congratulations to all the Athletes.. except Raygun.](http://9gag.com/gag/awy5WWR)<!-- MEMES:END -->
+ - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
+ - 😝 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
+ - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 ---
 

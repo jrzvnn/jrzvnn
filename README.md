@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 😝 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 😝 [Next level driving](http://9gag.com/gag/abA6w4X)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
  - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
- - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 😝 [Passive income](http://9gag.com/gag/a347gnr)
- - 💣 [A wolf pup growing up](http://9gag.com/gag/aYQK6MV)
+ - 😝 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
+ - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
+ - 💣 [Miss South Africa 2024 Mia le Roux](http://9gag.com/gag/aD2jLRZ)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)<!-- MEMES:END -->
+ - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
 
 ---
 

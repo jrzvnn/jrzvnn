@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
- - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 💣 [TRANSformation](http://9gag.com/gag/an7y0e5)
+ - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
+ - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
+ - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aPAMVdG)
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
+ - 😝 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [TRANSformation](http://9gag.com/gag/an7y0e5)<!-- MEMES:END -->
+ - 👉 [Keir starmer finds himself to be quite hated in the UK](http://9gag.com/gag/aW48X83)<!-- MEMES:END -->
 
 ---
 

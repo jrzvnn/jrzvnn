@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Fold one year later: far from the perfect gadget but the whole is greater than the sum of its parts, and the Pixel 9 Pro Fold may solve its issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240812/p5#a240812p5)
  - [Hi-Fi Rush studio saved from Microsoft shutdown](https://www.theverge.com/2024/8/12/24218424/hifi-rush-studio-tango-gameworks-saved-krafton-microsoft)
  - [How to Watch the Made by Google Pixel 9 Launch Event, and What to Expect](https://www.wired.com/story/made-by-google-2024-pixel-9-launch-event-how-to-watch-what-to-expect/)
  - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
- - [A detailed look at China&#39;s chip buildout and how US chip sanctions and industrial policies have accelerated China&#39;s push to develop its own chip supply chain &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240812/p4#a240812p4)
- - [Best Laptop Deals: Head Back to School With Big Savings on Apple, Dell, Acer and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A detailed look at China&#39;s chip buildout and how US chip sanctions and industrial policies have accelerated China&#39;s push to develop its own chip supply chain &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240812/p4#a240812p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)
+ - [The FBI says it is investigating an alleged Trump campaign hack, after the campaign claimed a hack by Iran led to the leak of sensitive internal documents &lpar;Washington Post&rpar;](http://www.techmeme.com/240812/p24#a240812p24)
  - [TikTok’s new group chats keep conversations in the app](https://www.theverge.com/2024/8/12/24218935/tiktok-group-chats-conversation-in-app)
  - [Nest now supports Apple Home, Aqara&#39;s FP1E presence sensor launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/08/12/nest-now-supports-apple-home-aqaras-fp1e-presence-sensor-launches-more-on-homekit-insider?utm_medium=rss)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Steve Jobs&#39; bomber jacket features in memorabilia auction](https://appleinsider.com/articles/24/08/12/steve-jobs-bomber-jacket-features-in-memorabilia-auction?utm_medium=rss)
- - [Best VPN for Amazon Fire TV Stick in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Next level driving](http://9gag.com/gag/abA6w4X)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
  - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
+ - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 👉 [Before/After Church](http://9gag.com/gag/aW483mZ)<!-- MEMES:END -->
 
 ---
 

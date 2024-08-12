@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raptors](http://9gag.com/gag/aO8dLov)
- - 😝 [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
- - 💣 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)
- - 😝 [Yes.](http://9gag.com/gag/amorwej)
+ - 😝 [They are like siblings](http://9gag.com/gag/an7ywYB)
+ - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 👉 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)<!-- MEMES:END -->
 
 ---

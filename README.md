@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aPAMVdG)
- - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
- - 💣 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
  - 👉 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)<!-- MEMES:END -->
 
 ---

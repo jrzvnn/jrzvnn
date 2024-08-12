@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
- - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [Raptors](http://9gag.com/gag/aO8dLov)
+ - 😝 [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
+ - 💣 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)
+ - 😝 [Yes.](http://9gag.com/gag/amorwej)
  - 👉 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)<!-- MEMES:END -->
 
 ---

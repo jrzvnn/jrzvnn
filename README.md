@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - 😝 [Felt kinda good ngl](http://9gag.com/gag/avyrwZd)
+ - 😝 [Recognize the building?](http://9gag.com/gag/aLnM59v)
  - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 👉 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)<!-- MEMES:END -->
+ - 😝 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
+ - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
 
 ---
 

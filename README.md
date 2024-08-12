@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
+ - 😝 [Kier Stalin would have me sent to the gulag for posting this on facebook.](http://9gag.com/gag/aAywzm0)
+ - 😝 [Sick move,mate](http://9gag.com/gag/aKG2oYN)
+ - 💣 [True](http://9gag.com/gag/a1md3j8)
+ - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - 👉 [We need to save him..](http://9gag.com/gag/aMVwMNW)<!-- MEMES:END -->
 
 ---
 

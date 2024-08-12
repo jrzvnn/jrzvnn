@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nest now supports Apple Home, Aqara&#39;s FP1E presence sensor launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/08/12/nest-now-supports-apple-home-aqaras-fp1e-presence-sensor-launches-more-on-homekit-insider?utm_medium=rss)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Steve Jobs&#39; bomber jacket features in memorabilia auction](https://appleinsider.com/articles/24/08/12/steve-jobs-bomber-jacket-features-in-memorabilia-auction?utm_medium=rss)
- - [CrowdStrike&#39;s president appeared at DEF CON to accept the &quot;Most Epic Fail&quot; Pwnie Award, saying &quot;we got this horribly wrong&quot; and &quot;it&#39;s super important to own it&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240812/p23#a240812p23)
- - [Ford offers free home EV charging for some Texas residents in first-of-its-kind deal](https://www.theverge.com/2024/8/12/24218702/ford-free-ev-charging-txu-energy-texas)<!-- TECH:END -->
+ - [Best VPN for Amazon Fire TV Stick in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Mississippi](https://www.cnet.com/home/energy-and-utilities/mississippi-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

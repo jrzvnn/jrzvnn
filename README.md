@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump campaign reportedly hacked by Iranian government](https://www.theverge.com/2024/8/12/24218491/trump-campaign-reportedly-hacked-iranian-government)
- - [Meta’s new music deal with UMG includes Threads and WhatsApp](https://www.theverge.com/2024/8/12/24218501/meta-umg-whatsapp-threads-licensing-agreement)
- - [Polymarket, which lets users bet on real-world events, partners with AI search engine Perplexity to show news summaries and with Tako to make AI visuals &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240812/p13#a240812p13)
- - [When to expect new AirPods and what the rumors are saying](https://appleinsider.com/articles/24/08/12/when-to-expect-new-airpods-and-what-the-rumors-are-saying?utm_medium=rss)
- - [Revolutionizing iPad use: Torras Ostand Case&#39;s rock-solid kickstands](https://appleinsider.com/articles/24/08/12/revolutionizing-ipad-use-torras-ostand-cases-rock-solid-kickstands?utm_medium=rss)<!-- TECH:END -->
+ - [PlayStation VR2 PC Adapter review: a robust VR experience, but the setup is a headache, especially with the Bluetooth dependency and the lack of included cables &lpar;Gabriel Moss/IGN&rpar;](http://www.techmeme.com/240812/p14#a240812p14)
+ - [LG Display wants compensation for Apple Watch MicroLED project closure](https://appleinsider.com/articles/24/08/12/lg-display-wants-compensation-for-apple-watch-microled-project-closure?utm_medium=rss)
+ - [NBC Sent 27 Creators to Paris. It Only Needed Snoop and Olympic Athletes](https://www.wired.com/story/nbc-sent-creators-to-paris-it-only-needed-snoop-and-some-hip-athletes/)
+ - [Replika CEO Eugenia Kuyda says it’s okay if we end up marrying AI chatbots](https://www.theverge.com/24216748/replika-ceo-eugenia-kuyda-ai-companion-chatbots-dating-friendship-decoder-podcast-interview)
+ - [Trump campaign reportedly hacked by Iranian government](https://www.theverge.com/2024/8/12/24218491/trump-campaign-reportedly-hacked-iranian-government)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gamergate’s Legacy Lives on in Attacks Against Kamala Harris](https://www.wired.com/story/gamergates-legacy-lives-on-in-attacks-against-kamala-harris/)
  - [Samsung Galaxy Book4 Edge review: nice design, display, quiet keys, and 14 hours of battery, but outperformed by Snapdragon rivals and Arm limits compatibility &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240812/p8#a240812p8)
  - [TikTok has been sending inaccurate and misleading news-style alerts to users, including a weeks-old disaster warning; TikTok removed some of the notifications &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240812/p7#a240812p7)
  - [A researcher finds 15K+ hardcoded secrets and 66K vulnerable websites, including details on accessing Stanford&#39;s Slack, by searching overlooked data sources &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240812/p6#a240812p6)
- - [Amazfit Helio Review: Woefully Behind and Lacking Features](https://www.wired.com/review/amazfit-helio/)
- - [Flush With Cash, Tether Has Got Microsoft, Google, and Amazon in Its Crosshairs](https://www.wired.com/story/tether-ceo-paolo-ardoino-crypto-ai-interview/)<!-- TECH:END -->
+ - [Amazfit Helio Review: Woefully Behind and Lacking Features](https://www.wired.com/review/amazfit-helio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Felt kinda good ngl](http://9gag.com/gag/avyrwZd)
- - 😝 [Recognize the building?](http://9gag.com/gag/aLnM59v)
- - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - 😝 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 😝 [The nurse who motivated the girl and helped her get back on her feet after she was in a car accident and doctors said she would no longer be able to walk](http://9gag.com/gag/an7ymxL)
+ - 😝 [We need to save him..](http://9gag.com/gag/aMVwMNW)
+ - 💣 [No title](http://9gag.com/gag/avyrKgO)
+ - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - 👉 [Congratulations to all the Athletes.. except Raygun.](http://9gag.com/gag/awy5WWR)<!-- MEMES:END -->
 
 ---
 

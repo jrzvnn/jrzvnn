@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
  - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 💣 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 👉 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)<!-- MEMES:END -->
 
 ---

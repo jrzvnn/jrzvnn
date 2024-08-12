@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPhone VPN of 2024](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)
+ - [2.9 Billion People May Have Been Compromised in National Public Data Breach. Here’s What You Need to Know](https://www.cnet.com/how-to/billions-may-have-been-compromised-in-national-public-data-breach-heres-what-you-should-do-next/#ftag=CAD590a51e)
  - [CrowdStrike accepted a ‘Most Epic Fail’ award at Def Con hacking conference](https://www.theverge.com/2024/8/12/24218536/crowdstrike-accepts-def-con-pwnies-award-most-epic-fail-global-windows-it-outage)
- - [Nest now supports Apple Home, Aqara&#39;s FP1E presence sensor launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/08/12/nest-now-supports-apple-home-aqaras-fp1e-presence-sensor-launches-more-on-homekit-insider?utm_medium=rss)
- - [Is the US finally getting all-aboard with electric trains?](https://www.theverge.com/2024/8/12/24218547/caltrain-electric-train-us-lags-behind-india-china-eu)
- - [Accountable Tech: the average weekly reach per post of five prominent political Instagram accounts fell 65% after Meta began to downrank political content &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240812/p15#a240812p15)
- - [Sony’s last-gen WH-1000XM4 headphones return to an all-time low of $198](https://www.theverge.com/good-deals/2024/8/12/24218497/sony-wh1000xm4-anc-headphones-samsung-galaxy-book4-deal-sale)<!-- TECH:END -->
+ - [Fitbit&#39;s New Ace LTE Kids Smartwatch Reaches Record Low Price on Amazon](https://www.cnet.com/deals/fitbits-new-ace-lte-kids-smartwatch-reaches-record-low-price-on-amazon/#ftag=CAD590a51e)
+ - [Nest now supports Apple Home, Aqara&#39;s FP1E presence sensor launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/08/12/nest-now-supports-apple-home-aqaras-fp1e-presence-sensor-launches-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

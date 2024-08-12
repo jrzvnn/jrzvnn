@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump falsely claims Kamala Harris ‘A.I.’d’ her rally crowd size](https://www.theverge.com/2024/8/12/24218533/trump-accuses-harris-ai-generated-crowd)
+ - [Stay Cool Wherever You Go With Almost 40% Off This 3-in-1 Portable Fan](https://www.cnet.com/deals/stay-cool-wherever-you-go-with-almost-40-off-this-3-in-1-portable-fan/#ftag=CAD590a51e)
  - [Pixel Buds Pro 2 could come with better active noise cancellation](https://www.theverge.com/2024/8/12/24218594/pixel-buds-pro-2-better-active-noise-cancellation)
  - [Q&amp;A with Replika founder and CEO Eugenia Kuyda on AI chatbots, marrying chatbots, Replika&#39;s therapy app Tomo, friendship chatbots, LLMs, open source, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240812/p16#a240812p16)
- - [Best iPhone VPN of 2024](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)
- - [2.9 Billion People May Have Been Compromised in National Public Data Breach. Here’s What You Need to Know](https://www.cnet.com/how-to/billions-may-have-been-compromised-in-national-public-data-breach-heres-what-you-should-do-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zander Insurance Identity Theft Protection Review: Best Budget-Friendly Service](https://www.cnet.com/how-to/zander-insurance-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

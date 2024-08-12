@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humans Are Going to the Moon’s South Pole. This Is How They’ll Drive There](https://www.wired.com/story/artemis-v-lunar-terrain-vehicle-tires-wheels-design/)
  - [Waste in Space: All the news surrounding space junk](https://www.theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storystream)
  - [Gamergate’s Legacy Lives on in Attacks Against Kamala Harris](https://www.wired.com/story/gamergates-legacy-lives-on-in-attacks-against-kamala-harris/)
  - [Samsung Galaxy Book4 Edge review: nice design, display, quiet keys, and 14 hours of battery, but outperformed by Snapdragon rivals and Arm limits compatibility &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240812/p8#a240812p8)
- - [Lower Refi Rates for Homeowners: Refinance Rates for Aug. 12, 2024](https://www.cnet.com/personal-finance/mortgages/lower-refi-rates-for-homeowners-refinance-rates-for-aug-12-2024/#ftag=CAD590a51e)
- - [Mortgage Rate Predictions for the Week of Aug. 12-18, 2024](https://www.cnet.com/personal-finance/mortgage-rate-predictions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lower Refi Rates for Homeowners: Refinance Rates for Aug. 12, 2024](https://www.cnet.com/personal-finance/mortgages/lower-refi-rates-for-homeowners-refinance-rates-for-aug-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

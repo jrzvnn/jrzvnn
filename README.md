@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Women](http://9gag.com/gag/aPAMVdG)
  - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 😝 [Real Breakdancing vs some cartoon shit](http://9gag.com/gag/ajPqwjG)
- - 💣 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)
+ - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
+ - 👉 [TRANSformation](http://9gag.com/gag/an7y0e5)<!-- MEMES:END -->
 
 ---
 

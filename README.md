@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real Breakdancing vs some cartoon shit](http://9gag.com/gag/ajPqwjG)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [Keir starmer finds himself to be quite hated in the UK](http://9gag.com/gag/aW48X83)
+ - 😝 [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
+ - 💣 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)
  - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Im too dumb to \ud83d\udcac a title.](http://9gag.com/gag/aD2jLw9)<!-- MEMES:END -->
+ - 👉 [God bless Texas](http://9gag.com/gag/agmqp2v)<!-- MEMES:END -->
 
 ---
 

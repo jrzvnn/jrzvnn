@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US SEC sues crypto company NovaTech and its co-founders, saying they fraudulently raised $650M+ from 200K+ investors globally, following the NY AG&#39;s suit &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240812/p22#a240812p22)
- - [He Made a Movie About Humans Rising Up Against AI. Now He&#39;s Doing the Real Thing](https://www.wired.com/story/hollywood-animators-fight-artificial-intelligence-labor-mike-rianda/)
+ - [He Made a Movie About Humans Rising Up Against AI. Now He’s Doing the Real Thing](https://www.wired.com/story/hollywood-animators-fight-artificial-intelligence-labor-mike-rianda/)
  - [Our favorite mopping robovac is on sale for nearly its best price to date](https://www.theverge.com/2024/8/12/24218740/narwal-freo-x-ultra-robot-vacuum-mop-deal-sale)
  - [TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240812/p21#a240812p21)
  - [Waymo’s Chinese-made robotaxis face new headwinds thanks to Biden’s tariffs](https://www.theverge.com/2024/8/12/24218528/waymo-zeekr-geely-robotaxi-china-biden-tariff-ev-import)<!-- TECH:END -->

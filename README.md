@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Iran has emerged as the most aggressive foreign threat to the US election; Microsoft published a report detailing multiple efforts to target the election &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240812/p11#a240812p11)
- - [Good luck with the PlayStation VR2 PC Adapter — you&#39;ll need it](https://www.theverge.com/games/24216389/psvr2-pc-adapter-review)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [7 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
- - [Best VPN for Windows](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Revolutionizing iPad use: Torras Ostand Case&#39;s rock-solid kickstands](https://appleinsider.com/articles/24/08/12/revolutionizing-ipad-use-torras-ostand-cases-rock-solid-kickstands?utm_medium=rss)
+ - [Thomas White, who served five years for administering Silk Road 2.0 and possessing images of CSAM, claims to have co-founded activism organization DDoSecrets &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240812/p12#a240812p12)
+ - [12 Best Sound Machines and White-Noise Machines, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-sound-machines/)
+ - [How Iran has emerged as the most aggressive foreign threat to the US election; Microsoft published a report detailing a litany of efforts to target the election &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240812/p11#a240812p11)
+ - [Good luck with the PlayStation VR2 PC Adapter — you&#39;ll need it](https://www.theverge.com/games/24216389/psvr2-pc-adapter-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

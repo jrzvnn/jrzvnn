@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music’s ‘Personal Radio’ mix shares your favorite songs with the world](https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles)
- - [Trump falsely claims Kamala Harris ‘A.I.’d’ her rally crowd size](https://www.theverge.com/2024/8/12/24218533/trump-accuses-harris-ai-generated-crowd)
- - [Pixel Buds Pro 2 could come with better active noise cancellation](https://www.theverge.com/2024/8/12/24218594/pixel-buds-pro-2-better-active-noise-cancellation)
- - [Q&amp;A with Replika founder and CEO Eugenia Kuyda on AI chatbots, marrying chatbots, Replika&#39;s therapy app Tomo, friendship chatbots, LLMs, open source, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240812/p16#a240812p16)
- - [Best iPhone VPN of 2024](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Patreon says it has begun a migration process to move all creators to Apple&#39;s subscription billing by November 2025, after Apple threatened to remove the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240812/p17#a240812p17)
+ - [Microsoft confirms its Paint 3D app is being discontinued in November](https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november)
+ - [YouTube Music’s ‘personal radio’ mix shares your favorite songs with the world](https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles)
+ - [Trump falsely claims Kamala Harris ‘AI’d’ her rally crowd size](https://www.theverge.com/2024/8/12/24218533/trump-accuses-harris-ai-generated-crowd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

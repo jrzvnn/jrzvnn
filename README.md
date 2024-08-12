@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s new music deal with UMG includes Threads and WhatsApp](https://www.theverge.com/2024/8/12/24218501/meta-umg-whatsapp-threads-licensing-agreement)
  - [Polymarket, which lets users bet on real-world events, partners with AI search engine Perplexity to show news summaries and with Tako to make AI visuals &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240812/p13#a240812p13)
  - [When to expect new AirPods and what the rumors are saying](https://appleinsider.com/articles/24/08/12/when-to-expect-new-airpods-and-what-the-rumors-are-saying?utm_medium=rss)
  - [Revolutionizing iPad use: Torras Ostand Case&#39;s rock-solid kickstands](https://appleinsider.com/articles/24/08/12/revolutionizing-ipad-use-torras-ostand-cases-rock-solid-kickstands?utm_medium=rss)
- - [Thomas White, who served five years for administering Silk Road 2.0 and possessing images of CSAM, claims to have co-founded activism organization DDoSecrets &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240812/p12#a240812p12)
- - [12 Best Sound Machines and White-Noise Machines, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-sound-machines/)<!-- TECH:END -->
+ - [Thomas White, who served five years for administering Silk Road 2.0 and possessing images of CSAM, claims to have co-founded activism organization DDoSecrets &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240812/p12#a240812p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

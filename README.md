@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Artificial Sweetener Research Bitters With Heart Risk Finding: Here&#39;s What to Know](https://www.cnet.com/health/nutrition/new-artificial-sweetener-research-bitters-with-heart-risk-finding-heres-what-to-know/#ftag=CAD590a51e)
+ - [Best MP3 Players for 2024](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
+ - [Best Apple TV Deals: Get Savings on Streaming Boxes and Remotes](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
  - [Patreon memberships sold on iOS will soon face Apple’s 30 percent fee](https://www.theverge.com/2024/8/12/24218629/patreon-membership-ios-30-percent-apple-tax)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Patreon says it has begun a migration process to move all creators to Apple&#39;s subscription billing by November 2025, after Apple threatened to remove the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240812/p17#a240812p17)
- - [Microsoft confirms its Paint 3D app is being discontinued in November](https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november)
- - [YouTube Music’s ‘personal radio’ mix shares your favorite songs with the world](https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles)<!-- TECH:END -->
+ - [The Apple Watch Series 9 Is $100 Off at Amazon and Walmart Right Now](https://www.cnet.com/deals/the-apple-watch-series-9-is-100-off-at-amazon-and-walmart-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

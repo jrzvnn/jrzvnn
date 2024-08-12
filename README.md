@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta and UMG sign a &quot;global, multi-year agreement&quot; for artists on Meta&#39;s apps, including WhatsApp for the first time, covering AI, monetization, and more &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240812/p10#a240812p10)
  - [How Uber, facing sexual assault litigation, spent millions trying to get a Nevada ballot proposal to restrict legal fees that bankroll cases against companies &lpar;Jessica Silver-Greenberg/New York Times&rpar;](http://www.techmeme.com/240812/p9#a240812p9)
  - [Humans Are Going to the Moon’s South Pole. This Is How They’ll Drive There](https://www.wired.com/story/artemis-v-lunar-terrain-vehicle-tires-wheels-design/)
  - [Waste in Space: All the news surrounding space junk](https://www.theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storystream)
- - [Gamergate’s Legacy Lives on in Attacks Against Kamala Harris](https://www.wired.com/story/gamergates-legacy-lives-on-in-attacks-against-kamala-harris/)
- - [Samsung Galaxy Book4 Edge review: nice design, display, quiet keys, and 14 hours of battery, but outperformed by Snapdragon rivals and Arm limits compatibility &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240812/p8#a240812p8)<!-- TECH:END -->
+ - [Gamergate’s Legacy Lives on in Attacks Against Kamala Harris](https://www.wired.com/story/gamergates-legacy-lives-on-in-attacks-against-kamala-harris/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

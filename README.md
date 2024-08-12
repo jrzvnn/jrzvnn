@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 😝 [Nice crop Disney](http://9gag.com/gag/aRBKbLq)
- - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
+ - 😝 [Congratulations to all the Athletes.. except Raygun.](http://9gag.com/gag/awy5WWR)
+ - 😝 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
+ - 💣 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - 😝 [Robot man !](http://9gag.com/gag/aW48rzZ)
+ - 👉 [Old habits](http://9gag.com/gag/apRr4DW)<!-- MEMES:END -->
 
 ---
 

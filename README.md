@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
+ - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
  - [A controversial experiment to artificially cool Earth was canceled — what we know about why](https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science)
  - [Best Internet Providers in Camden, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-camden-nj/#ftag=CAD590a51e)
- - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)
- - [The FBI is investigating an alleged Trump campaign hack; sources: it&#39;s probing suspected hacking attempts by Iran targeting the Trump and Harris-Biden campaigns &lpar;Washington Post&rpar;](http://www.techmeme.com/240812/p24#a240812p24)
- - [The 8 Best Herbal Teas to Reduce Stress and Promote Sleep](https://www.cnet.com/health/mental/best-teas-for-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

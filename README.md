@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A controversial experiment to artificially cool Earth was canceled — what we know about why](https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science)
  - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)
  - [The FBI is investigating an alleged Trump campaign hack; sources: it&#39;s probing suspected hacking attempts by Iran targeting the Trump and Harris-Biden campaigns &lpar;Washington Post&rpar;](http://www.techmeme.com/240812/p24#a240812p24)
  - [TikTok’s new group chats keep conversations in the app](https://www.theverge.com/2024/8/12/24218935/tiktok-group-chats-conversation-in-app)
- - [Best iPhone Deals: Up to $1,200 in iPhone Savings Up for Grabs](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
- - [Best NAS Deals: Expand Your Big File Storage With These Discounts](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone Deals: Up to $1,200 in iPhone Savings Up for Grabs](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

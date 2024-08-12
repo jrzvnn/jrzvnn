@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 👉 [What else did you realize recently?](http://9gag.com/gag/ae9Y8xW)<!-- MEMES:END -->
+ - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - 😝 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
 
 ---
 

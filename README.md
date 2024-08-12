@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
  - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
  - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 👉 [An emerging battle in World of Tanks Blitz.. quite literally.](http://9gag.com/gag/a4PZB7v)<!-- MEMES:END -->
 
 ---
 

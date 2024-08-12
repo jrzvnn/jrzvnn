@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is the US finally getting all-aboard with electric trains?](https://www.theverge.com/2024/8/12/24218547/caltrain-electric-train-us-lags-behind-india-china-eu)
  - [Accountable Tech: the average weekly reach per post of five prominent political Instagram accounts fell 65% after Meta began to downrank political content &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240812/p15#a240812p15)
  - [Sony’s last-gen WH-1000XM4 headphones return to an all-time low of $198](https://www.theverge.com/good-deals/2024/8/12/24218497/sony-wh1000xm4-anc-headphones-samsung-galaxy-book4-deal-sale)
  - [PlayStation VR2 PC Adapter review: a robust VR experience, but the setup is a headache, especially with the Bluetooth dependency and the lack of included cables &lpar;Gabriel Moss/IGN&rpar;](http://www.techmeme.com/240812/p14#a240812p14)
- - [LG Display wants compensation for Apple Watch MicroLED project closure](https://appleinsider.com/articles/24/08/12/lg-display-wants-compensation-for-apple-watch-microled-project-closure?utm_medium=rss)
- - [NBC Sent 27 Creators to Paris. It Only Needed Snoop and Olympic Athletes](https://www.wired.com/story/nbc-sent-creators-to-paris-it-only-needed-snoop-and-some-hip-athletes/)<!-- TECH:END -->
+ - [LG Display wants compensation for Apple Watch MicroLED project closure](https://appleinsider.com/articles/24/08/12/lg-display-wants-compensation-for-apple-watch-microled-project-closure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

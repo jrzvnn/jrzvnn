@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo’s Chinese-made robotaxis face new headwinds thanks to Biden’s tariffs](https://www.theverge.com/2024/8/12/24218528/waymo-zeekr-geely-robotaxi-china-biden-tariff-ev-import)
  - [Apple approves iDOS 3 following emulator rule change](https://www.theverge.com/2024/8/12/24218754/apple-idos-3-app-store-pc-emulator-rule-change)
  - [Researchers: in the 30 US states which legalized access to online betting, citizens&#39; likelihood of filing for bankruptcy went up 25-30% after about three years &lpar;Slow Boring&rpar;](http://www.techmeme.com/240812/p20#a240812p20)
  - [Apple Maps Look Around spreading outside city centers in the U.S., coming to more countries](https://appleinsider.com/articles/24/08/12/apple-maps-look-around-spreading-outside-city-centers-in-the-us-coming-to-more-countries?utm_medium=rss)
- - [Apple seeds second developer betas for iOS 18.1, iPadOS 18.1, &amp; macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/12/apple-seeds-second-developer-betas-for-ios-181-and-ipados-181?utm_medium=rss)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)<!-- TECH:END -->
+ - [Apple seeds second developer betas for iOS 18.1, iPadOS 18.1, &amp; macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/12/apple-seeds-second-developer-betas-for-ios-181-and-ipados-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

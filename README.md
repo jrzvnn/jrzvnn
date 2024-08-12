@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [He Made a Movie About Humans Rising Up Against AI. Now He’s Doing the Real Thing](https://www.wired.com/story/hollywood-animators-fight-artificial-intelligence-labor-mike-rianda/)
  - [Our favorite mopping robovac is on sale for nearly its best price to date](https://www.theverge.com/2024/8/12/24218740/narwal-freo-x-ultra-robot-vacuum-mop-deal-sale)
  - [TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240812/p21#a240812p21)
- - [Waymo’s Chinese-made robotaxis face new headwinds thanks to Biden’s tariffs](https://www.theverge.com/2024/8/12/24218528/waymo-zeekr-geely-robotaxi-china-biden-tariff-ev-import)<!-- TECH:END -->
+ - [Disney Villains, Pixar Cars Areas Coming to Disney World&#39;s Magic Kingdom](https://www.cnet.com/tech/services-and-software/disney-villains-pixar-cars-areas-coming-to-disney-worlds-magic-kingdom/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

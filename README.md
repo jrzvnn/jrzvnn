@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - 😝 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - 💣 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
- - 😝 [Rachael Lillis, the OG voice of Misty and Jessie has passed away at age 46.](http://9gag.com/gag/azxrW4m)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 😝 [Nice crop Disney](http://9gag.com/gag/aRBKbLq)
+ - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
 
 ---
 

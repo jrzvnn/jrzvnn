@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Artificial Sweetener Research Bitters With Heart Risk Finding: Here&#39;s What to Know](https://www.cnet.com/health/nutrition/new-artificial-sweetener-research-bitters-with-heart-risk-finding-heres-what-to-know/#ftag=CAD590a51e)
- - [Best MP3 Players for 2024](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
- - [Best Apple TV Deals: Get Savings on Streaming Boxes and Remotes](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
- - [Patreon memberships sold on iOS will soon face Apple’s 30 percent fee](https://www.theverge.com/2024/8/12/24218629/patreon-membership-ios-30-percent-apple-tax)
- - [The Apple Watch Series 9 Is $100 Off at Amazon and Walmart Right Now](https://www.cnet.com/deals/the-apple-watch-series-9-is-100-off-at-amazon-and-walmart-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo plans to start testing its fully autonomous robotaxis on freeways in the San Francisco Bay Area this week, after getting regulator approval in March &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240812/p19#a240812p19)
+ - [Apple forces Patreon to pay 30% of new memberships sold through iOS](https://appleinsider.com/articles/24/08/12/apple-forces-patreon-to-pay-30-of-new-memberships-sold-through-ios?utm_medium=rss)
+ - [OnePlus’ Pad 2 has a sharp display with a price tag that stings](https://www.theverge.com/2024/8/12/24214545/oneplus-pad-2-android-tablet-review)
+ - [NYT, Puck, and others are focusing on Reddit as its traffic went from 132M monthly visitors in August 2023 to 346M in April 2024 following Google Search changes &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240812/p18#a240812p18)
+ - [Patreon memberships sold on iOS will soon face Apple’s 30 percent fee](https://www.theverge.com/2024/8/12/24218629/patreon-membership-ios-30-percent-apple-tax)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

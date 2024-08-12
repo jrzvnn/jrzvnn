@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next level driving](http://9gag.com/gag/abA6w4X)
- - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
- - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
- - 👉 [Before/After Church](http://9gag.com/gag/aW483mZ)<!-- MEMES:END -->
+ - 😝 [My Ass.....................](http://9gag.com/gag/azxrpBx)
+ - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - 💣 [Sick move,mate](http://9gag.com/gag/aKG2oYN)
+ - 😝 [Kier Stalin would have me sent to the gulag for posting this on facebook.](http://9gag.com/gag/aAywzm0)
+ - 👉 [True](http://9gag.com/gag/a1md3j8)<!-- MEMES:END -->
 
 ---
 

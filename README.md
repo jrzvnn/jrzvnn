@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New AirPods Pro firmware beta brings head shaking and improved noise isolation](https://appleinsider.com/articles/24/08/12/new-airpods-pro-firmware-beta-brings-head-shaking-and-improved-noise-isolation?utm_medium=rss)
  - [The US SEC sues crypto company NovaTech and its co-founders, saying they fraudulently raised $650M+ from 200K+ investors globally, following the NY AG&#39;s suit &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240812/p22#a240812p22)
  - [He Made a Movie About Humans Rising Up Against AI. Now He’s Doing the Real Thing](https://www.wired.com/story/hollywood-animators-fight-artificial-intelligence-labor-mike-rianda/)
  - [Our favorite mopping robovac is on sale for nearly its best price to date](https://www.theverge.com/2024/8/12/24218740/narwal-freo-x-ultra-robot-vacuum-mop-deal-sale)
- - [TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240812/p21#a240812p21)
- - [Disney Villains, Pixar Cars Areas Coming to Disney World&#39;s Magic Kingdom](https://www.cnet.com/tech/services-and-software/disney-villains-pixar-cars-areas-coming-to-disney-worlds-magic-kingdom/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240812/p21#a240812p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple seeds second developer betas for iOS 18.1, iPadOS 18.1, &amp; macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/12/apple-seeds-second-developer-betas-for-ios-181-and-ipados-181?utm_medium=rss)
  - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
  - [Apple introduces sixth developer betas for fall OS updates](https://appleinsider.com/articles/24/08/12/apple-introduces-sixth-developer-betas-for-fall-os-updates?utm_medium=rss)
- - [Apple seeds second developer betas for iOS 18.1 and iPadOS 18.1](https://appleinsider.com/articles/24/08/12/apple-seeds-second-developer-betas-for-ios-181-and-ipados-181?utm_medium=rss)
  - [Waymo plans to start testing its fully autonomous robotaxis on freeways in the San Francisco Bay Area this week, after getting regulator approval in March &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240812/p19#a240812p19)
  - [Apple forces Patreon to pay 30% of new memberships sold through iOS](https://appleinsider.com/articles/24/08/12/apple-forces-patreon-to-pay-30-of-new-memberships-sold-through-ios?utm_medium=rss)<!-- TECH:END -->
 

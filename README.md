@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waste in Space: All the news surrounding space junk](https://www.theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storystream)
  - [Gamergate’s Legacy Lives on in Attacks Against Kamala Harris](https://www.wired.com/story/gamergates-legacy-lives-on-in-attacks-against-kamala-harris/)
  - [Samsung Galaxy Book4 Edge review: nice design, display, quiet keys, and 14 hours of battery, but outperformed by Snapdragon rivals and Arm limits compatibility &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240812/p8#a240812p8)
- - [TikTok has been sending inaccurate and misleading news-style alerts to users, including a weeks-old disaster warning; TikTok removed some of the notifications &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240812/p7#a240812p7)
- - [A researcher finds 15K+ hardcoded secrets and 66K vulnerable websites, including details on accessing Stanford&#39;s Slack, by searching overlooked data sources &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240812/p6#a240812p6)
- - [Amazfit Helio Review: Woefully Behind and Lacking Features](https://www.wired.com/review/amazfit-helio/)<!-- TECH:END -->
+ - [Lower Refi Rates for Homeowners: Refinance Rates for Aug. 12, 2024](https://www.cnet.com/personal-finance/mortgages/lower-refi-rates-for-homeowners-refinance-rates-for-aug-12-2024/#ftag=CAD590a51e)
+ - [Mortgage Rate Predictions for the Week of Aug. 12-18, 2024](https://www.cnet.com/personal-finance/mortgage-rate-predictions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

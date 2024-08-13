@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dodge this](http://9gag.com/gag/apRr4xp)
- - 😝 [What happened](http://9gag.com/gag/a1mdGj2)
- - 💣 [Ahmed can&#39;t handle the Truth!](http://9gag.com/gag/aRBK5rB)
+ - 😝 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
+ - 😝 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
+ - 💣 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
 
 ---
 

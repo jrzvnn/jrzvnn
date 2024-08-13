@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
  - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
  - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
 

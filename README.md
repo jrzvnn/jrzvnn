@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
  - [Fortnox CEO Tommy Eklund leaves the Swedish software provider effective immediately; Fortnox stock jumped nearly 5x between 2020 and 2024, drawing short sellers &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p12#a240813p12)
  - [Extreme Weather Poses a Challenge for Heat Pumps](https://www.wired.com/story/how-heat-pumps-are-affected-by-climate-change/)
  - [Sources: Chinese internet companies have been testing Huawei&#39;s new Ascend 910C chip in recent weeks; Huawei told clients the chip compares to Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240813/p11#a240813p11)
- - [Black Sororities and Fraternities Are Mobilizing Online and in Secret Chats for Voter Turnout](https://www.wired.com/story/black-sororities-and-fraternities-mobilizing-online-voting/)
- - [How Tether co-founder Brock Pierce&#39;s plan to use crypto to revitalize Puerto Rico&#39;s economy became mired in legal disputes and fights with his business partners &lpar;New York Times&rpar;](http://www.techmeme.com/240813/p10#a240813p10)<!-- TECH:END -->
+ - [Black Sororities and Fraternities Are Mobilizing Online and in Secret Chats for Voter Turnout](https://www.wired.com/story/black-sororities-and-fraternities-mobilizing-online-voting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

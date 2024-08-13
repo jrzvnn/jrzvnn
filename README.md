@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
- - 👉 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)<!-- MEMES:END -->
+ - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - 😝 [No title](http://9gag.com/gag/avyrKgO)
+ - 💣 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
+ - 😝 [Old habits](http://9gag.com/gag/apRr4DW)
+ - 👉 [Robot man !](http://9gag.com/gag/aW48rzZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump and Elon Musk&#39;s X Space Took Forever to Start, Then Never Ended](https://www.wired.com/story/donald-trump-elon-musks-x-space/)
+ - [Donald Trump and Elon Musk&#39;s X Interview Took Forever to Start, Then Never Ended](https://www.wired.com/story/donald-trump-elon-musks-x-space/)
  - [Elon Musk tells Donald Trump ‘we shouldn’t vilify the oil and gas industry’](https://www.theverge.com/2024/8/12/24219183/elon-musk-donald-trump-oil-gas-vilify-tesla-x-interview)
  - [Hackers leaked ~2.7B data records of people in the US containing SSNs, names, more on Aug. 6, allegedly from National Public Data, which collects and sells data &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240812/p28#a240812p28)
  - [A source at X says there wasn&#39;t actually a DDoS attack that crashed the Trump interview; another X employee said there was a &quot;99 percent&quot; chance Musk was lying &lpar;The Verge&rpar;](http://www.techmeme.com/240812/p27#a240812p27)

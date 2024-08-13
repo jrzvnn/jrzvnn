@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
  - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 😝 [Hitting a car battery at 88 MPH](http://9gag.com/gag/avyrMPX)
+ - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 

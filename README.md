@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - 😝 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
- - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 💣 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
  - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)<!-- MEMES:END -->
 
 ---

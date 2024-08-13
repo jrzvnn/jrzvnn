@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chipmakers are facing a labor crisis despite huge investments; McKinsey says US plans need 160K+ new workers, and only 1,500 engineers join the industry yearly &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/240813/p9#a240813p9)
+ - [Apple makes India withdraw its antitrust accusations](https://appleinsider.com/articles/24/08/13/apple-makes-india-withdraw-its-antitrust-accusations?utm_medium=rss)
+ - [Made by Google Live Blog: New Pixel Phones, Smartwatches, Gemini, and More](https://www.wired.com/live/made-by-google-2024-live-blog/)
  - [The FBI, the UK&#39;s NCA, and others seize the servers and websites of the Radar/Dispossessor ransomware operation; since August 2023, the gang targeted 43 SMBs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240813/p8#a240813p8)
- - [India&#39;s antitrust body orders an unusual recall of a report on its Apple investigation; a source says Apple complained about confidential revenue disclosures &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240813/p7#a240813p7)
- - [Best CD Rates Today -- Rates Continue to Plummet Across Terms, Aug. 13, 2024](https://www.cnet.com/personal-finance/banking/cd-rates-today-august-13-2024/#ftag=CAD590a51e)
- - [Best Teacher Discounts &lpar;2024&rpar;: Deals on School Supplies and Tech](https://www.wired.com/story/best-teacher-discounts/)
- - [Best Savings Rates Today -- Interest Rates Still Top 5% APY. But the Clock is Ticking, Aug. 13, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India&#39;s antitrust body orders an unusual recall of a report on its Apple investigation; a source says Apple complained about confidential revenue disclosures &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240813/p7#a240813p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
- - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
- - [A controversial experiment to artificially cool Earth was canceled — what we know about why](https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science)
- - [Best Internet Providers in Camden, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-camden-nj/#ftag=CAD590a51e)
- - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)<!-- TECH:END -->
+ - [We played Valve’s secret new shooter: Deadlock](https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game)
+ - [The Elon / Trump interview on X started with an immediate tech disaster](https://www.theverge.com/2024/8/12/24219121/donald-trump-elon-musk-interview-x-twitter-crashes)
+ - [Elon Musk&#39;s X Spaces interview of Donald Trump was derailed by technical glitches in the first minutes of the scheduled start time; Musk blamed a &quot;DDoS attack&quot; &lpar;Rebecca Picciotto/CNBC&rpar;](http://www.techmeme.com/240812/p26#a240812p26)
+ - [Aurora Borealis Will Be Visible Again to the Northernmost US States](https://www.cnet.com/science/aurora-borealis-will-be-visible-again-to-the-northernmost-us-states/#ftag=CAD590a51e)
+ - [It&#39;s Your Last Chance to Catch the Dazzling Perseids Meteor Shower](https://www.cnet.com/science/get-ready-to-witness-the-perseids-showers-dazzling-peak-tonight-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Sororities and Fraternities Are Mobilizing Online and in Secret Chats for Voter Turnout](https://www.wired.com/story/black-sororities-and-fraternities-mobilizing-online-voting/)
+ - [How Tether co-founder Brock Pierce&#39;s plan to use crypto to revitalize Puerto Rico&#39;s economy became mired in legal disputes and fights with his business partners &lpar;New York Times&rpar;](http://www.techmeme.com/240813/p10#a240813p10)
  - [Chipmakers are facing a labor crisis despite huge investments; McKinsey says US plans need 160K+ new workers, and only 1,500 engineers join the industry yearly &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/240813/p9#a240813p9)
  - [Apple makes India withdraw its antitrust accusations](https://appleinsider.com/articles/24/08/13/apple-makes-india-withdraw-its-antitrust-accusations?utm_medium=rss)
- - [Made by Google Live Blog: New Pixel Phones, Smartwatches, Gemini, and More](https://www.wired.com/live/made-by-google-2024-live-blog/)
- - [The FBI, the UK&#39;s NCA, and others seize the servers and websites of the Radar/Dispossessor ransomware operation; since August 2023, the gang targeted 43 SMBs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240813/p8#a240813p8)
- - [India&#39;s antitrust body orders an unusual recall of a report on its Apple investigation; a source says Apple complained about confidential revenue disclosures &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240813/p7#a240813p7)<!-- TECH:END -->
+ - [Made by Google Live Blog: New Pixel Phones, Smartwatches, Gemini, and More](https://www.wired.com/live/made-by-google-2024-live-blog/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

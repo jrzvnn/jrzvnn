@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Peregrine, which was founded by an ex-Palantir exec to help US police access surveillance data, raised $30M in May, and had $10M in 2023 revenue &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240813/p16#a240813p16)
  - [6 Best Cordless Vacuums for Carpet, Hardwood, and Hard-to-Reach Areas &lpar;2024&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
  - [India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240813/p15#a240813p15)
  - [Rivian is bringing Apple Music with spatial audio to its CarPlay-less EVs](https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee)
- - [Upgrade Your Asus ROG Ally Handheld With This 65-Watt Charger Dock for Just $30](https://www.cnet.com/deals/upgrade-your-asus-rog-ally-handheld-with-this-65-watt-charger-dock-for-just-30/#ftag=CAD590a51e)
- - [Made by Google Live Blog: Pixel 9, Pixel Watch 3 and More Expected](https://www.cnet.com/tech/mobile/made-by-google-live-blog-08-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrade Your Asus ROG Ally Handheld With This 65-Watt Charger Dock for Just $30](https://www.cnet.com/deals/upgrade-your-asus-rog-ally-handheld-with-this-65-watt-charger-dock-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas judge who owns Tesla stock recuses from X’s advertiser lawsuit](https://www.theverge.com/2024/8/13/24219740/texas-judge-reed-oconnor-tesla-stock-x-antitrust-lawsuit)
+ - [Google’s finally rolling out the Zoom Enhance camera trick it announced last year](https://www.theverge.com/2024/8/13/24219750/google-zoom-enhance-pixel-8-9-pro-feature)
+ - [UAW Files Federal Labor Charges Against Donald Trump and Elon Musk, Alleging They Tried to ‘Threaten and Intimidate Workers’](https://www.wired.com/story/uaw-donald-trump-elon-musk-labor-charges/)
  - [Deep-Live-Cam, a deepfake software project that lets users impersonate others on a webcam livestream, goes viral and was briefly the top trending GitHub repo &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240813/p35#a240813p35)
- - [Here’s how the new Pixel Watch 3 stacks up against Google’s last-gen model](https://www.theverge.com/24218577/google-pixel-watch-3-vs-2-comparison-specs-price)
- - [Using Gemini Live was faster than Google, but also more awkward](https://www.theverge.com/2024/8/13/24219736/gemini-live-hands-on-pixel-event)
- - [First-time QVC customers can save $30 on Star Wars Outlaws, Zelda, and more](https://www.theverge.com/2024/8/13/24218718/qvc-star-wars-outlaws-preorder-fitbit-inspire-3-deal-sale)
- - [Air Fryer Only: 7 Foods I Now Make Exclusively in the Air Fryer](https://www.cnet.com/how-to/air-fryer-only-foods-i-make-exclusively-in-the-air-fryer-after-trying-it-once/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s how the new Pixel Watch 3 stacks up against Google’s last-gen model](https://www.theverge.com/24218577/google-pixel-watch-3-vs-2-comparison-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
  - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
- - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
+ - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 💣 [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)
  - [Moog Spectravox Review: OK Vocoder, Excellent Toy](https://www.wired.com/review/moog-spectravox/)
  - [Sea reports Q2 revenue up 23% YoY to $3.8B, a $79.9M net income, vs. $60M est., and GMV up 29% YoY to $23.3B; Shopee raised its merchant fees by ~33% in 2024 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240813/p13#a240813p13)
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Fortnox CEO Tommy Eklund leaves the Swedish software provider effective immediately; Fortnox stock jumped nearly 5x between 2020 and 2024, drawing short sellers &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p12#a240813p12)
- - [Extreme Weather Poses a Challenge for Heat Pumps](https://www.wired.com/story/how-heat-pumps-are-affected-by-climate-change/)<!-- TECH:END -->
+ - [Fortnox CEO Tommy Eklund leaves the Swedish software provider effective immediately; Fortnox stock jumped nearly 5x between 2020 and 2024, drawing short sellers &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p12#a240813p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

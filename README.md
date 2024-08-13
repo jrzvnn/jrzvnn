@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the AI features coming to Google’s Pixel 9 series](https://www.theverge.com/24219355/google-pixel-9-ai-features-screenshots-add-me-magic-editor)
+ - [Apple Entrepreneur Camp is now open for applications](https://appleinsider.com/articles/24/08/13/apple-entrepreneur-camp-is-now-open-for-applications?utm_medium=rss)
  - [Google&#39;s satellite SOS service will come to all Pixel 9 owners in the US later this year, free for two years with no additional pricing details shared &lpar;Stephen Schenck/Android Authority&rpar;](http://www.techmeme.com/240813/p29#a240813p29)
  - [Google debuts Gemini Live, a voice chat mode for Gemini Advanced users, initially available in English on Android, with more languages and an iOS version coming &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240813/p28#a240813p28)
- - [Google debuts the $1,799+ Pixel 9 Pro Fold, its second take on the category with larger 8&quot; and 6.3&quot; inner and outer displays, 4650 mAh battery, shipping Sept. 4 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240813/p27#a240813p27)
- - [Google debuts Pixel Buds Pro 2 for $229 with a Tensor A1 chip, smaller and lighter than the original Pro, with improved noise cancellation and sound quality &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240813/p26#a240813p26)
- - [Here’s where you can preorder Google’s new Pixel Watch 3](https://www.theverge.com/24215675/google-pixel-watch-3-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
+ - [Google debuts the $1,799+ Pixel 9 Pro Fold, its second take on the category with larger 8&quot; and 6.3&quot; inner and outer displays, 4650 mAh battery, shipping Sept. 4 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240813/p27#a240813p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

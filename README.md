@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
- - 😝 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
- - 💣 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 😝 [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 💣 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
+ - 👉 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)<!-- MEMES:END -->
 
 ---
 

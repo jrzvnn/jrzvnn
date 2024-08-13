@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
- - 👉 [Good old days.](http://9gag.com/gag/aD2jy2d)<!-- MEMES:END -->
+ - 😝 [New neighbor](http://9gag.com/gag/a5QZOAO)
+ - 😝 [No title](http://9gag.com/gag/avyrNjb)
+ - 💣 [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 👉 [Took me 1 hour to find this video. Quick reminder to save blunder vids from this olympic. I still never saw the full smurf thing because I can&#39;t find it anywhere.](http://9gag.com/gag/aZZBObW)<!-- MEMES:END -->
 
 ---
 

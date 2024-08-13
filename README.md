@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lawsuit Attacks Florida’s Lab-Grown Meat Ban as Unconstitutional](https://www.wired.com/story/upside-foods-institute-of-justice-cultivated-lab-grown-meat-lawsuit-florida-ron-desantis/)
+ - [UAW files labor charges against Elon Musk and Donald Trump for alleged union-busting talk](https://www.theverge.com/2024/8/13/24219502/uaw-elon-musk-donald-trump-labor-charge-union-busting)
  - [Netflix is bringing an in-person Squid Game experience to New York City](https://www.theverge.com/2024/8/13/24219493/netflix-squid-game-the-experience-new-york-city)
  - [Google Pixel 9 launch event live coverage: all the news](https://www.theverge.com/2024/8/13/24216322/google-pixel-9-launch-event-live-blog-news-announcements-products)
- - [OpenAI said &quot;there&#39;s a new GPT-4o model out in ChatGPT since last week&quot;, but gave few other details; some users claim new step-by-step or multi-step reasoning &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240813/p21#a240813p21)
- - [After Thierry Breton&#39;s letter to X before the Trump interview, the EU says the &quot;timing and the wording of the letter were neither co-ordinated or agreed&quot; upon &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/240813/p20#a240813p20)
- - [Twitch rolls out video stories, which can be up to 60 seconds long and set to expire after one, 12, 24, or 48 hours, to challenge Instagram and TikTok &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240813/p19#a240813p19)<!-- TECH:END -->
+ - [OpenAI said &quot;there&#39;s a new GPT-4o model out in ChatGPT since last week&quot;, but gave few other details; some users claim new step-by-step or multi-step reasoning &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240813/p21#a240813p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

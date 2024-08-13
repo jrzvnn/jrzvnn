@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: after Google&#39;s monopoly ruling, the DOJ considers options including forcing a breakup of the company or requiring it to share more data with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p37#a240813p37)
+ - [How Google’s new Pixel 9 phones differ from one another &lpar;and don’t&rpar;](https://www.theverge.com/24216079/google-pixel-9-pro-xl-fold-comparison-specs-price-features)
  - [Paramount is shutting down its TV studio as part of a new wave of layoffs](https://www.theverge.com/2024/8/13/24219776/paramount-tv-studios-shut-down-cbs-layoffs)
  - [NIST publishes its first three post-quantum cryptography standards; IBM&#39;s director of research thinks quantum computing will hit an inflection point around 2030 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240813/p36#a240813p36)
- - [Texas judge who owns Tesla stock recuses himself from X’s advertiser lawsuit](https://www.theverge.com/2024/8/13/24219740/texas-judge-reed-oconnor-tesla-stock-x-antitrust-lawsuit)
- - [Google’s finally rolling out the Zoom Enhance camera trick it announced last year](https://www.theverge.com/2024/8/13/24219750/google-zoom-enhance-pixel-8-9-pro-feature)
- - [UAW Files Federal Labor Charges Against Donald Trump and Elon Musk, Alleging They Tried to ‘Threaten and Intimidate Workers’](https://www.wired.com/story/uaw-donald-trump-elon-musk-labor-charges/)<!-- TECH:END -->
+ - [Texas judge who owns Tesla stock recuses himself from X’s advertiser lawsuit](https://www.theverge.com/2024/8/13/24219740/texas-judge-reed-oconnor-tesla-stock-x-antitrust-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

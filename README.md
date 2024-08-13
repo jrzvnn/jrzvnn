@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations to all the Athletes.. except Raygun.](http://9gag.com/gag/awy5WWR)
- - 😝 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
- - 💣 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 😝 [Robot man !](http://9gag.com/gag/aW48rzZ)
- - 👉 [Old habits](http://9gag.com/gag/apRr4DW)<!-- MEMES:END -->
+ - 😝 [Rachael Lillis, the OG voice of Misty and Jessie has passed away at age 46.](http://9gag.com/gag/azxrW4m)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 💣 [Social experiment in Africa](http://9gag.com/gag/aE0R9Lx)
+ - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)<!-- MEMES:END -->
 
 ---
 

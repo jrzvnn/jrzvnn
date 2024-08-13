@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 😝 [What if](http://9gag.com/gag/a87pxyZ)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 💣 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 

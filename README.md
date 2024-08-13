@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 💣 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 💣 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
  - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
- - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
+ - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 ---
 

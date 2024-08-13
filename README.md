@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI, the UK&#39;s NCA, and others seize the servers and websites of the Radar/Dispossessor ransomware operation; since August 2023, the gang targeted 43 SMBs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240813/p8#a240813p8)
  - [India&#39;s antitrust body orders an unusual recall of a report on its Apple investigation; a source says Apple complained about confidential revenue disclosures &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240813/p7#a240813p7)
+ - [Best CD Rates Today -- Rates Continue to Plummet Across Terms, Aug. 13, 2024](https://www.cnet.com/personal-finance/banking/cd-rates-today-august-13-2024/#ftag=CAD590a51e)
  - [Best Teacher Discounts &lpar;2024&rpar;: Deals on School Supplies and Tech](https://www.wired.com/story/best-teacher-discounts/)
- - [Analysis: about half of all job seekers are using AI chatbots like ChatGPT and Gemini to assist them in writing CVs, cover letters, and completing assessments &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p6#a240813p6)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [A look at US chipmaker ON Semiconductor&#39;s $2B manufacturing hub in Roznov, Czech Republic to make chips for EVs and more; the hub will create 800 new jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p5#a240813p5)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Interest Rates Still Top 5% APY. But the Clock is Ticking, Aug. 13, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

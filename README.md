@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: after recent OpenAI shakeups, Chief Scientist Jakub Pachocki, post-training lead Barret Zoph, frontiers research lead Mark Chen, others gain prominence &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240813/p17#a240813p17)
  - [Anker’s slim 65W charger can squeeze in between bulkier power adapters](https://www.theverge.com/2024/8/13/24219351/anker-power-charger-prime-usb-c)
  - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
  - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
- - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)
- - [Best Savings Rates Today -- Interest Rates Still Top 5% APY. But the Clock is Ticking, Aug. 13, 2024](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

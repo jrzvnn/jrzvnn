@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flagship smartphone showdown - Apple iPhone 15 Pro vs Google Pixel 9 Pro](https://appleinsider.com/inside/iphone-15-pro/vs/flagship-smartphone-showdown---apple-iphone-15-pro-vs-google-pixel-9-pro?utm_medium=rss)
  - [Microsoft is making its Windows Game Bar more handheld-friendly](https://www.theverge.com/2024/8/13/24219741/microsoft-windows-game-bar-xbox-handheld)
  - [Google Pixel 9 launch event live coverage: all the news](https://www.theverge.com/2024/8/13/24216322/google-pixel-9-launch-event-live-blog-news-announcements-products)
  - [Everything Google announced at the Pixel 9 launch event](https://www.theverge.com/24218825/google-pixel-9-event-announcements-products)
- - [Thousands of People Are Playing the Mysterious Game ‘Deadlock’ Right Now](https://www.wired.com/story/valve-deadlock-secret-game-thousands-playing/)
- - [The US Court of Appeals for the Fifth Circuit ruled that geofence warrants are &quot;prohibited by the Fourth Amendment&quot;, at odds with a recent Fourth Circuit ruling &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240813/p33#a240813p33)<!-- TECH:END -->
+ - [Thousands of People Are Playing the Mysterious Game ‘Deadlock’ Right Now](https://www.wired.com/story/valve-deadlock-secret-game-thousands-playing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

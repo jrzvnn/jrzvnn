@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Teacher Discounts &lpar;2024&rpar;: Deals on School Supplies and Tech](https://www.wired.com/story/best-teacher-discounts/)
  - [Analysis: about half of all job seekers are using AI chatbots like ChatGPT and Gemini to assist them in writing CVs, cover letters, and completing assessments &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p6#a240813p6)
  - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
  - [A look at US chipmaker ON Semiconductor&#39;s $2B manufacturing hub in Roznov, Czech Republic to make chips for EVs and more; the hub will create 800 new jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p5#a240813p5)
- - [Best French Press of 2024](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)
- - [A look at Fragmentarium, a project to use AI to piece together digitized tablet fragments of the Epic of Gilgamesh, a 3,000-year-old Mesopotamian poem &lpar;Erik Ofgang/New York Times&rpar;](http://www.techmeme.com/240813/p4#a240813p4)<!-- TECH:END -->
+ - [Best French Press of 2024](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

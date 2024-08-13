@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened](http://9gag.com/gag/a1mdGj2)
- - 😝 [I did this incorrectly, she ended up pregnant.](http://9gag.com/gag/agmqM3x)
- - 💣 [Dodge this](http://9gag.com/gag/apRr4xp)
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 💣 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 👉 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)<!-- MEMES:END -->
 
 ---
 

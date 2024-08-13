@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A recap of Elon Musk&#39;s interview of Trump on X which started 42 mins late; X says the interview was at times heard by 1M+ people as Musk prepared for 8M to join &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p2#a240813p2)
  - [Sources: the US to remove lidar maker Hesai from a list of Chinese military-affiliated companies, after judging it did not meet the legal criteria for inclusion &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p1#a240813p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 13, #163](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-13-163/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 13 #429](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-13-429/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 13, #1151](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-13-1151/#ftag=CAD590a51e)
- - [Donald Trump and Elon Musk&#39;s X Interview Took Forever to Start, Then Never Ended](https://www.wired.com/story/donald-trump-elon-musks-x-space/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 13, #1151](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-13-1151/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

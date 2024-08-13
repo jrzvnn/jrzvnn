@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch rolls out video stories, which can be 60 seconds long and set to expire after 1, 12, 24, or 48 hours, to challenge Instagram &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240813/p19#a240813p19)
  - [How to create reminders in Calendar in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-create-reminders-in-calendar-in-ios-18?utm_medium=rss)
  - [Elon Musk tried to launder Donald Trump’s disastrous climate record — it didn’t work](https://www.theverge.com/2024/8/13/24219397/elon-musk-donald-trump-x-interivew-climate-change-ev)
  - [Canalys: AI PCs made up 14%, or 8.8M, of all PCs shipped in Q2; ~60% of AI PCs were Apple computers; shipments of Windows PCs priced over $800 grew 9% QoQ &lpar;Canalys&rpar;](http://www.techmeme.com/240813/p18#a240813p18)
- - [Flipboard is going to let you follow fediverse accounts right inside the app](https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app)
- - [Sources: after recent OpenAI shakeups, Chief Scientist Jakub Pachocki, post-training lead Barret Zoph, frontiers research lead Mark Chen, others gain prominence &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240813/p17#a240813p17)<!-- TECH:END -->
+ - [Flipboard is going to let you follow fediverse accounts right inside the app](https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

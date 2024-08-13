@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
- - 😝 [No title](http://9gag.com/gag/avyrKgO)
- - 💣 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 😝 [Old habits](http://9gag.com/gag/apRr4DW)
- - 👉 [Robot man !](http://9gag.com/gag/aW48rzZ)<!-- MEMES:END -->
+ - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
 
 ---
 

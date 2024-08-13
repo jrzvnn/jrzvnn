@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
+ - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
  - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)
- - [A profile of Peregrine, which was founded by an ex-Palantir exec to help US police access surveillance data, raised $30M in May, and had $10M in 2023 revenue &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240813/p16#a240813p16)
- - [6 Best Cordless Vacuums for Carpet, Hardwood, and Hard-to-Reach Areas &lpar;2024&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
- - [India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240813/p15#a240813p15)
- - [Rivian is bringing Apple Music with spatial audio to its CarPlay-less EVs](https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Interest Rates Still Top 5% APY. But the Clock is Ticking, Aug. 13, 2024](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-13-2024/#ftag=CAD590a51e)
+ - [Mortgage Rates Down Ahead of Key Inflation Data. Today&#39;s Mortgage Rates, Aug. 13, 2024](https://www.cnet.com/personal-finance/home-loan-rates-decline-todays-mortgage-rates-on-aug-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

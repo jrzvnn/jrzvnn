@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 😝 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
+ - 👉 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)<!-- MEMES:END -->
 
 ---
 

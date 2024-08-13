@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawsuit Attacks Florida’s Lab-Grown Meat Ban as Unconstitutional](https://www.wired.com/story/upside-foods-institute-of-justice-cultivated-lab-grown-meat-lawsuit-florida-ron-desantis/)
- - [UAW files labor charges against Elon Musk and Donald Trump for alleged union-busting talk](https://www.theverge.com/2024/8/13/24219502/uaw-elon-musk-donald-trump-labor-charge-union-busting)
- - [Netflix is bringing an in-person Squid Game experience to New York City](https://www.theverge.com/2024/8/13/24219493/netflix-squid-game-the-experience-new-york-city)
- - [Google Pixel 9 launch event live coverage: all the news](https://www.theverge.com/2024/8/13/24216322/google-pixel-9-launch-event-live-blog-news-announcements-products)
- - [OpenAI said &quot;there&#39;s a new GPT-4o model out in ChatGPT since last week&quot;, but gave few other details; some users claim new step-by-step or multi-step reasoning &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240813/p21#a240813p21)<!-- TECH:END -->
+ - [Google announces the $799+ Google Pixel 9, with a Tensor G4 chip, a design with flat sides, a bigger 6.3&quot; screen, AI features, more, on sale starting August 22 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240813/p23#a240813p23)
+ - [For Google’s Pixel Camera Team, It’s All About the Memories](https://www.wired.com/story/google-pixel-9-real-tone-pixel-camera-interview/)
+ - [Google Pixel 9, Pixel 9 Pro Fold, Pixel Watch 3, Pixel Buds Pro 2: Specs, Features, Release Date](https://www.wired.com/story/made-by-google-pixel-9-phones-pixel-watch-3-pixel-buds-pro-2/)
+ - [Google’s New Pixel Watch 3 Can Detect a Loss of Pulse](https://www.wired.com/story/google-new-pixel-watch-3-can-detect-a-loss-of-pulse/)
+ - [The Google Pixel 9’s AI Camera Features Let You Reshape Reality](https://www.wired.com/story/all-the-new-generative-ai-camera-features-in-google-pixel-9-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

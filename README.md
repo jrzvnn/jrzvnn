@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 😝 [No title](http://9gag.com/gag/avyrKgO)
- - 💣 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
- - 😝 [Old habits](http://9gag.com/gag/apRr4DW)
- - 👉 [Robot man !](http://9gag.com/gag/aW48rzZ)<!-- MEMES:END -->
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 😝 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
+ - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
+ - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)<!-- MEMES:END -->
 
 ---
 

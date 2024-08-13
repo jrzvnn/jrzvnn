@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 1997, the BBC asked Jeff Bezos when internet shopping would take off](https://www.theverge.com/24219730/jeff-bezos-amazon-bbc-archive-shopping)
  - [Sources: after Google&#39;s monopoly ruling, the DOJ considers options including forcing a breakup of the company or requiring it to share more data with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p37#a240813p37)
  - [How Google’s new Pixel 9 phones differ from one another &lpar;and don’t&rpar;](https://www.theverge.com/24216079/google-pixel-9-pro-xl-fold-comparison-specs-price-features)
- - [Paramount is shutting down its TV studio as part of a new wave of layoffs](https://www.theverge.com/2024/8/13/24219776/paramount-tv-studios-shut-down-cbs-layoffs)
- - [NIST publishes its first three post-quantum cryptography standards; IBM&#39;s director of research thinks quantum computing will hit an inflection point around 2030 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240813/p36#a240813p36)
- - [Texas judge who owns Tesla stock recuses himself from X’s advertiser lawsuit](https://www.theverge.com/2024/8/13/24219740/texas-judge-reed-oconnor-tesla-stock-x-antitrust-lawsuit)<!-- TECH:END -->
+ - [Best 3D Printer Deals: Nab Some of Our Favorite 3D Printers From Elegoo, Creality and More for $350](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Paramount is shutting down its TV studio as part of a new wave of layoffs](https://www.theverge.com/2024/8/13/24219776/paramount-tv-studios-shut-down-cbs-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

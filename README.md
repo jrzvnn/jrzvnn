@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canalys: AI PCs made up 14%, or 8.8M, of all PCs shipped in Q2; ~60% of AI PCs were Apple computers; shipments of Windows PCs priced over $800 grew 9% QoQ &lpar;Canalys&rpar;](http://www.techmeme.com/240813/p18#a240813p18)
  - [Flipboard is going to let you follow fediverse accounts right inside the app](https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app)
  - [Sources: after recent OpenAI shakeups, Chief Scientist Jakub Pachocki, post-training lead Barret Zoph, frontiers research lead Mark Chen, others gain prominence &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240813/p17#a240813p17)
  - [Anker’s slim 65W charger can squeeze in between bulkier power adapters](https://www.theverge.com/2024/8/13/24219351/anker-power-charger-prime-usb-c)
- - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
- - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

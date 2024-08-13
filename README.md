@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
  - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 💣 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
- - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
+ - 😝 [Like any husband he did not question his wife at all and just followed orders. Sometimes that does help.](http://9gag.com/gag/a5QZYyL)
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [What if](http://9gag.com/gag/a87pxyZ)
  - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 ---

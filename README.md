@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 event: how to watch the livestream](https://www.theverge.com/2024/8/13/24216320/google-pixel-9-pro-event-date-time-watch-live-stream)
- - [Politico, the NYT, the WaPo, and others say they received hacked Trump campaign materials, but gave few details, a marked contrast to Clinton&#39;s emails in 2016 &lpar;David Bauder/Associated Press&rpar;](http://www.techmeme.com/240813/p14#a240813p14)
- - [The 11 Best Travel Adapters, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-adapters/)
- - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)
- - [Best Stand-Up Paddle Boards for 2024](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Cordless Vacuums for Carpet, Hardwood, and Hard-to-Reach Areas &lpar;2024&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
+ - [India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240813/p15#a240813p15)
+ - [Rivian is bringing Apple Music with spatial audio to its CarPlay-less EVs](https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee)
+ - [Upgrade Your Asus ROG Ally Handheld With This 65-Watt Charger Dock for Just $30](https://www.cnet.com/deals/upgrade-your-asus-rog-ally-handheld-with-this-65-watt-charger-dock-for-just-30/#ftag=CAD590a51e)
+ - [Made by Google Live Blog: Pixel 9, Pixel Watch 3 and More Expected](https://www.cnet.com/tech/mobile/made-by-google-live-blog-08-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First-time QVC customers can save $30 on Star Wars Outlaws, Zelda, and more](https://www.theverge.com/2024/8/13/24218718/qvc-star-wars-outlaws-preorder-fitbit-inspire-3-deal-sale)
+ - [Encord, which offers a data labeling tools for AI, raised a $30M Series C led by Next47 and expects to grow its headcount from 70 to 100 by the end of the year &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240813/p34#a240813p34)
+ - [How You Can Tell That Kamala Harris&#39; Rally Crowds Aren&#39;t AI-Generated](https://www.wired.com/story/kamala-harris-rally-crowds-ai-trump-conspiracy/)
  - [Apple Entrepreneur Camp is now open for applications](https://appleinsider.com/articles/24/08/13/apple-entrepreneur-camp-is-now-open-for-applications?utm_medium=rss)
- - [Flagship smartphone showdown - Apple iPhone 15 Pro vs Google Pixel 9 Pro](https://appleinsider.com/inside/iphone-15-pro/vs/flagship-smartphone-showdown---apple-iphone-15-pro-vs-google-pixel-9-pro?utm_medium=rss)
- - [Microsoft is making its Windows Game Bar more handheld-friendly](https://www.theverge.com/2024/8/13/24219741/microsoft-windows-game-bar-xbox-handheld)
- - [Google Pixel 9 launch event live coverage: all the news](https://www.theverge.com/2024/8/13/24216322/google-pixel-9-launch-event-live-blog-news-announcements-products)
- - [Everything Google announced at the Pixel 9 launch event](https://www.theverge.com/24218825/google-pixel-9-event-announcements-products)<!-- TECH:END -->
+ - [Flagship smartphone showdown - Apple iPhone 15 Pro vs Google Pixel 9 Pro](https://appleinsider.com/inside/iphone-15-pro/vs/flagship-smartphone-showdown---apple-iphone-15-pro-vs-google-pixel-9-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Filing: Intel sold its 1.18M shares in Arm during the second quarter, which, based on the stock&#39;s average price in Q2, would have raised ~$147M for the company &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240813/p42#a240813p42)
  - [A US judge rules that a group of artists can pursue some copyright infringement claims in their lawsuit against Stability AI, Midjourney, and other companies &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240813/p41#a240813p41)
  - [ChatGPT Advanced Voice Mode First Impressions: Fun, and Just a Bit Creepy](https://www.wired.com/story/chatgpt-advanced-voice-mode-first-impressions/)
- - [Google announces Android accessibility updates, including an easier-to-use Guided Frame for photos, AI features for Magnifier, and new Live Caption languages &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/240813/p40#a240813p40)
- - [Every time Google dinged Apple during its Pixel 9 launch event](https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event)<!-- TECH:END -->
+ - [Google&#39;s Next Gemini Move: An AI Agent That Works Your Apps for You](https://www.cnet.com/tech/services-and-software/googles-next-gemini-move-an-ai-agent-that-works-your-apps-for-you/#ftag=CAD590a51e)
+ - [Poached Eggs Have Never Been Easier: Try This 1-Minute Microwave Hack](https://www.cnet.com/home/kitchen-and-household/poached-eggs-have-never-been-easier-with-this-1-minute-microwave-hack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

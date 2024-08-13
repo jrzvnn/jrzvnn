@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas judge who owns Tesla stock recuses from X’s advertiser lawsuit](https://www.theverge.com/2024/8/13/24219740/texas-judge-reed-oconnor-tesla-stock-x-antitrust-lawsuit)
+ - [Texas judge who owns Tesla stock recuses himself from X’s advertiser lawsuit](https://www.theverge.com/2024/8/13/24219740/texas-judge-reed-oconnor-tesla-stock-x-antitrust-lawsuit)
  - [Google’s finally rolling out the Zoom Enhance camera trick it announced last year](https://www.theverge.com/2024/8/13/24219750/google-zoom-enhance-pixel-8-9-pro-feature)
  - [UAW Files Federal Labor Charges Against Donald Trump and Elon Musk, Alleging They Tried to ‘Threaten and Intimidate Workers’](https://www.wired.com/story/uaw-donald-trump-elon-musk-labor-charges/)
  - [Deep-Live-Cam, a deepfake software project that lets users impersonate others on a webcam livestream, goes viral and was briefly the top trending GitHub repo &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240813/p35#a240813p35)

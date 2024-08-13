@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Pixel 9&#39;s AI camera features: Add Me, Reimagine, Autoframe, Zoom Enhance, and improvements to Video Boost and panoramas &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240813/p38#a240813p38)
+ - [Florida sued over its ban on lab-grown meat](https://www.theverge.com/2024/8/13/24219779/florida-lab-grown-meat-lawsuit-upside-foods)
  - [Artists’ lawsuit against Stability AI and Midjourney gets more punch](https://www.theverge.com/2024/8/13/24219520/stability-midjourney-artist-lawsuit-copyright-trademark-claims-approved)
  - [In 1997, the BBC asked Jeff Bezos when internet shopping would take off](https://www.theverge.com/24219730/jeff-bezos-amazon-bbc-archive-shopping)
- - [Sources: after Google&#39;s monopoly ruling, the DOJ considers options including forcing a breakup of the company or requiring it to share more data with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p37#a240813p37)
- - [How Google’s new Pixel 9 phones differ from one another &lpar;and don’t&rpar;](https://www.theverge.com/24216079/google-pixel-9-pro-xl-fold-comparison-specs-price-features)
- - [Best 3D Printer Deals: Nab Some of Our Favorite 3D Printers From Elegoo, Creality and More for $350](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: after Google&#39;s monopoly ruling, the DOJ considers options including forcing a breakup of the company or requiring it to share more data with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p37#a240813p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

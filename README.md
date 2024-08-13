@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic OOF moment](http://9gag.com/gag/a1mdG66)
- - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 💣 [12 years not a slave](http://9gag.com/gag/aKG2R4g)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 💣 [Unexpected twist](http://9gag.com/gag/an7ypXq)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
+ - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 ---
 

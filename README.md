@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 💣 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 😝 [Dodge this](http://9gag.com/gag/apRr4xp)
+ - 😝 [What happened](http://9gag.com/gag/a1mdGj2)
+ - 💣 [Ahmed can&#39;t handle the Truth!](http://9gag.com/gag/aRBK5rB)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)<!-- MEMES:END -->
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 

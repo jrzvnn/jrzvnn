@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Like any husband he did not question his wife at all and just followed orders. Sometimes that does help.](http://9gag.com/gag/a5QZYyL)
- - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 😝 [What if](http://9gag.com/gag/a87pxyZ)
- - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
+ - 👉 [Good old days.](http://9gag.com/gag/aD2jy2d)<!-- MEMES:END -->
 
 ---
 

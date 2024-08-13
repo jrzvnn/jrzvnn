@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 😝 [What happened](http://9gag.com/gag/a1mdGj2)
- - 💣 [When did the Olympics abandon reason for madness?](http://9gag.com/gag/aGy0W6w)
+ - 😝 [Epic OOF moment](http://9gag.com/gag/a1mdG66)
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 💣 [12 years not a slave](http://9gag.com/gag/aKG2R4g)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Wife going to be operated for Brain tumour in 6 hrs, life changing night for me. Wish us luck!](http://9gag.com/gag/aByw5DZ)<!-- MEMES:END -->
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 

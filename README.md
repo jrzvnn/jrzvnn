@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 💣 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
  - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)<!-- MEMES:END -->
+ - 💣 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 👉 [Hitting a car battery at 88 MPH](http://9gag.com/gag/avyrMPX)<!-- MEMES:END -->
 
 ---
 

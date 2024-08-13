@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New neighbor](http://9gag.com/gag/a5QZOAO)
- - 😝 [No title](http://9gag.com/gag/avyrNjb)
- - 💣 [Took me 1 hour to find this video. Quick reminder to save blunder vids from this olympic. I still never saw the full smurf thing because I can&#39;t find it anywhere.](http://9gag.com/gag/aZZBObW)
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
+ - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
 
 ---
 

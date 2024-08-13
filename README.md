@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Hitting a car battery at 88 MPH](http://9gag.com/gag/avyrMPX)
- - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 😝 [What happened](http://9gag.com/gag/a1mdGj2)
+ - 💣 [When did the Olympics abandon reason for madness?](http://9gag.com/gag/aGy0W6w)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
+ - 👉 [Wife going to be operated for Brain tumour in 6 hrs, life changing night for me. Wish us luck!](http://9gag.com/gag/aByw5DZ)<!-- MEMES:END -->
 
 ---
 

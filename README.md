@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [12 years not a slave](http://9gag.com/gag/aKG2R4g)
- - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - 💣 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
+ - 😝 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
+ - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rachael Lillis, the OG voice of Misty and Jessie has passed away at age 46.](http://9gag.com/gag/azxrW4m)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 💣 [Social experiment in Africa](http://9gag.com/gag/aE0R9Lx)
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 😝 [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
+ - 💣 [Fahhhhk fahhhhk](http://9gag.com/gag/a0edrgz)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
  - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)<!-- MEMES:END -->
 
 ---

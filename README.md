@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Court of Appeals for the Fifth Circuit ruled that geofence warrants are &quot;prohibited by the Fourth Amendment&quot;, at odds with a recent Fourth Circuit ruling &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240813/p33#a240813p33)
  - [Hands-on with Gemini Live: conversationally, a big step forward, but functionally, a step back in some ways, largely because it works entirely in the cloud &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240813/p32#a240813p32)
  - [Google debuts Pixel Studio AI image-making app](https://www.theverge.com/2024/8/13/24219655/google-pixel-studio-ai-image-generation-app)
  - [Google makes your Pixel screenshots searchable with Recall-like AI feature](https://www.theverge.com/2024/8/13/24219641/google-pixel-screenshots-ai-recall)
- - [Hands on: All the changes in iOS 18.1 beta 2 &amp; iOS 18 beta 6](https://appleinsider.com/articles/24/08/13/hands-on-all-the-changes-in-ios-181-beta-2-ios-18-beta-6?utm_medium=rss)
- - [Overview of AI features for Pixel devices including the Gemini assistant, Call Notes for call summaries, Pixel Studio for image generation, Pixel Screenshots &lpar;Molly McHugh-Johnson/The Keyword&rpar;](http://www.techmeme.com/240813/p31#a240813p31)<!-- TECH:END -->
+ - [Hands on: All the changes in iOS 18.1 beta 2 &amp; iOS 18 beta 6](https://appleinsider.com/articles/24/08/13/hands-on-all-the-changes-in-ios-181-beta-2-ios-18-beta-6?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

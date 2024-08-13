@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google previews an &quot;Add Me&quot; photo editing feature for group shots that merges two photos together so the picture taker can be added to photo &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/240813/p30#a240813p30)
- - [All the AI features coming to Google’s Pixel 9 series](https://www.theverge.com/24219355/google-pixel-9-ai-features-screenshots-add-me-magic-editor)
- - [Apple Entrepreneur Camp is now open for applications](https://appleinsider.com/articles/24/08/13/apple-entrepreneur-camp-is-now-open-for-applications?utm_medium=rss)
- - [Google&#39;s satellite SOS service will come to all Pixel 9 owners in the US later this year, free for two years with no additional pricing details shared &lpar;Stephen Schenck/Android Authority&rpar;](http://www.techmeme.com/240813/p29#a240813p29)
- - [Google debuts Gemini Live, a voice chat mode for Gemini Advanced users, initially available in English on Android, with more languages and an iOS version coming &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240813/p28#a240813p28)<!-- TECH:END -->
+ - [Hands-on with Gemini Live: conversationally, a big step forward, but functionally, a step back in some ways, largely because it works entirely in the cloud &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240813/p32#a240813p32)
+ - [Google debuts Pixel Studio AI image-making app](https://www.theverge.com/2024/8/13/24219655/google-pixel-studio-ai-image-generation-app)
+ - [Google makes your Pixel screenshots searchable with Recall-like AI feature](https://www.theverge.com/2024/8/13/24219641/google-pixel-screenshots-ai-recall)
+ - [Hands on: All the changes in iOS 18.1 beta 2 &amp; iOS 18 beta 6](https://appleinsider.com/articles/24/08/13/hands-on-all-the-changes-in-ios-181-beta-2-ios-18-beta-6?utm_medium=rss)
+ - [Overview of AI features for Pixel devices including the Gemini assistant, Call Notes for call summaries, Pixel Studio for image generation, Pixel Screenshots &lpar;Molly McHugh-Johnson/The Keyword&rpar;](http://www.techmeme.com/240813/p31#a240813p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [First-time QVC customers can save $30 on Star Wars Outlaws, Zelda, and more](https://www.theverge.com/2024/8/13/24218718/qvc-star-wars-outlaws-preorder-fitbit-inspire-3-deal-sale)
- - [Encord, which offers a data labeling tools for AI, raised a $30M Series C led by Next47 and expects to grow its headcount from 70 to 100 by the end of the year &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240813/p34#a240813p34)
- - [How You Can Tell That Kamala Harris&#39; Rally Crowds Aren&#39;t AI-Generated](https://www.wired.com/story/kamala-harris-rally-crowds-ai-trump-conspiracy/)
- - [Apple Entrepreneur Camp is now open for applications](https://appleinsider.com/articles/24/08/13/apple-entrepreneur-camp-is-now-open-for-applications?utm_medium=rss)
- - [Flagship smartphone showdown - Apple iPhone 15 Pro vs Google Pixel 9 Pro](https://appleinsider.com/inside/iphone-15-pro/vs/flagship-smartphone-showdown---apple-iphone-15-pro-vs-google-pixel-9-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Air Fryer Only: 7 Foods I Now Make Exclusively in the Air Fryer](https://www.cnet.com/how-to/air-fryer-only-foods-i-make-exclusively-in-the-air-fryer-after-trying-it-once/#ftag=CAD590a51e)
+ - [Encord, which offers a data labeling tools for AI, raised a $30M Series B led by Next47 and expects to grow its headcount from 70 to 100 by the end of the year &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240813/p34#a240813p34)
+ - [Google Pixel 9 First Take: Smarter Software Takes the Spotlight](https://www.cnet.com/tech/mobile/googles-pixel-9-is-loaded-with-more-ai-features-and-a-new-design/#ftag=CAD590a51e)
+ - [How You Can Tell That Kamala Harris&#39; Rally Crowds Aren&#39;t AI-Generated](https://www.wired.com/story/kamala-harris-rally-crowds-ai-trump-conspiracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

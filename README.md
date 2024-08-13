@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces Android accessibility updates, including an easier-to-use Guided Frame for photos, AI features for Magnifier, and new Live Caption languages &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/240813/p40#a240813p40)
  - [Every time Google dinged Apple during its Pixel 9 launch event](https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event)
  - [Researchers describe now-fixed vulnerabilities in Microsoft&#39;s Azure Health Bot Service that allowed a user to access and manage other customers&#39; resources &lpar;Nathan Eddy/Dark Reading&rpar;](http://www.techmeme.com/240813/p39#a240813p39)
  - [Hands-on with Pixel 9&#39;s AI camera features: Add Me, Reimagine, Autoframe, Zoom Enhance, and improvements to Video Boost and panoramas &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240813/p38#a240813p38)
- - [Florida sued over its ban on lab-grown meat](https://www.theverge.com/2024/8/13/24219779/florida-lab-grown-meat-lawsuit-upside-foods)
- - [Artists’ lawsuit against Stability AI and Midjourney gets more punch](https://www.theverge.com/2024/8/13/24219520/stability-midjourney-artist-lawsuit-copyright-trademark-claims-approved)<!-- TECH:END -->
+ - [Florida sued over its ban on lab-grown meat](https://www.theverge.com/2024/8/13/24219779/florida-lab-grown-meat-lawsuit-upside-foods)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

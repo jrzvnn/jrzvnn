@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 💣 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
  - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
- - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 💣 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
- - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
+ - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
 
 ---
 

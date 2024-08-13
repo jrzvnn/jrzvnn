@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A source at X says there wasn&#39;t actually a DDoS attack that crashed the Trump interview; another X employee said there was a &quot;99 percent&quot; chance Musk was lying &lpar;The Verge&rpar;](http://www.techmeme.com/240812/p27#a240812p27)
  - [We played Valve’s secret new shooter: Deadlock](https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game)
  - [The Elon / Trump interview on X started with an immediate tech disaster](https://www.theverge.com/2024/8/12/24219121/donald-trump-elon-musk-interview-x-twitter-crashes)
- - [Elon Musk&#39;s X Spaces interview of Donald Trump was derailed by technical glitches in the first minutes of the scheduled start time; Musk blamed a &quot;DDoS attack&quot; &lpar;Rebecca Picciotto/CNBC&rpar;](http://www.techmeme.com/240812/p26#a240812p26)
- - [Aurora Borealis Will Be Visible Again to the Northernmost US States](https://www.cnet.com/science/aurora-borealis-will-be-visible-again-to-the-northernmost-us-states/#ftag=CAD590a51e)
- - [It&#39;s Your Last Chance to Catch the Dazzling Perseids Meteor Shower](https://www.cnet.com/science/get-ready-to-witness-the-perseids-showers-dazzling-peak-tonight-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Donald Trump X Spaces interview was quickly derailed by technical glitches at the scheduled start time; Musk blamed it on &quot;a massive DDoS attack&quot; &lpar;Rebecca Picciotto/CNBC&rpar;](http://www.techmeme.com/240812/p26#a240812p26)
+ - [Aurora Borealis Will Be Visible Again to the Northernmost US States](https://www.cnet.com/science/aurora-borealis-will-be-visible-again-to-the-northernmost-us-states/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

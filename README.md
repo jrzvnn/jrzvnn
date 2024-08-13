@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 9 event: how to watch the livestream](https://www.theverge.com/2024/8/13/24216320/google-pixel-9-pro-event-date-time-watch-live-stream)
+ - [Politico, the NYT, the WaPo, and others say they received hacked Trump campaign materials, but gave few details, a marked contrast to Clinton&#39;s emails in 2016 &lpar;David Bauder/Associated Press&rpar;](http://www.techmeme.com/240813/p14#a240813p14)
+ - [The 11 Best Travel Adapters, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-adapters/)
  - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)
- - [Moog Spectravox Review: OK Vocoder, Excellent Toy](https://www.wired.com/review/moog-spectravox/)
- - [Sea reports Q2 revenue up 23% YoY to $3.8B, a $79.9M net income, vs. $60M est., and GMV up 29% YoY to $23.3B; Shopee raised its merchant fees by ~33% in 2024 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240813/p13#a240813p13)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Fortnox CEO Tommy Eklund leaves the Swedish software provider effective immediately; Fortnox stock jumped nearly 5x between 2020 and 2024, drawing short sellers &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p12#a240813p12)<!-- TECH:END -->
+ - [Best Stand-Up Paddle Boards for 2024](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

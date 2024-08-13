@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 💣 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
  - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 👉 [Hitting a car battery at 88 MPH](http://9gag.com/gag/avyrMPX)<!-- MEMES:END -->
+ - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 👉 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)<!-- MEMES:END -->
 
 ---
 

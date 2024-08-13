@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
+ - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
+ - 👉 [Social experiment in Africa](http://9gag.com/gag/aE0R9Lx)<!-- MEMES:END -->
 
 ---
 

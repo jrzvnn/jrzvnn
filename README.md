@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 😝 [What if](http://9gag.com/gag/a87pxyZ)
- - 💣 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
  - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
 
 ---

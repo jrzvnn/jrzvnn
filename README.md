@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
  - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
  - 💣 [Unexpected twist](http://9gag.com/gag/an7ypXq)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
  - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->

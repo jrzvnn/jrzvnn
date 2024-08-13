@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 😝 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
  - 😝 [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
- - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best French Press of 2024](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)
  - [A look at Fragmentarium, a project to use AI to piece together digitized tablet fragments of the Epic of Gilgamesh, a 3,000-year-old Mesopotamian poem &lpar;Erik Ofgang/New York Times&rpar;](http://www.techmeme.com/240813/p4#a240813p4)
  - [Inside Worldcoin&#39;s Orb factory in Germany and a profile of Tools for Humanity CEO Alex Blania; 6M+ people have gotten a World ID and WLD&#39;s market cap is $550M+ &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240813/p3#a240813p3)
  - [A recap of Elon Musk&#39;s interview of Trump on X which started 42 mins late; X says the interview was at times heard by 1M+ people, while Musk had prepared for 8M &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p2#a240813p2)
- - [Sources: the US to remove lidar maker Hesai from a list of Chinese military-affiliated companies, after judging it did not meet the legal criteria for inclusion &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p1#a240813p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 13, #163](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-13-163/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Carlsbad, California](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

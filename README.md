@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 💣 [Correct!](http://9gag.com/gag/a2vdXWp)
- - 😝 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
- - 👉 [Social experiment in Africa](http://9gag.com/gag/aE0R9Lx)<!-- MEMES:END -->
+ - 😝 [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 💣 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 😝 [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 👉 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)<!-- MEMES:END -->
 
 ---
 

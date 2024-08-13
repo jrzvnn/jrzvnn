@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deep-Live-Cam, a deepfake software project that lets users impersonate others on a webcam livestream, goes viral and was briefly the top trending GitHub repo &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240813/p35#a240813p35)
+ - [Here’s how the new Pixel Watch 3 stacks up against Google’s last-gen model](https://www.theverge.com/24218577/google-pixel-watch-3-vs-2-comparison-specs-price)
+ - [Using Gemini Live was faster than Google, but also more awkward](https://www.theverge.com/2024/8/13/24219736/gemini-live-hands-on-pixel-event)
  - [First-time QVC customers can save $30 on Star Wars Outlaws, Zelda, and more](https://www.theverge.com/2024/8/13/24218718/qvc-star-wars-outlaws-preorder-fitbit-inspire-3-deal-sale)
- - [Air Fryer Only: 7 Foods I Now Make Exclusively in the Air Fryer](https://www.cnet.com/how-to/air-fryer-only-foods-i-make-exclusively-in-the-air-fryer-after-trying-it-once/#ftag=CAD590a51e)
- - [Encord, which offers a data labeling tools for AI, raised a $30M Series B led by Next47 and expects to grow its headcount from 70 to 100 by the end of the year &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240813/p34#a240813p34)
- - [Google Pixel 9 First Take: Smarter Software Takes the Spotlight](https://www.cnet.com/tech/mobile/googles-pixel-9-is-loaded-with-more-ai-features-and-a-new-design/#ftag=CAD590a51e)
- - [How You Can Tell That Kamala Harris&#39; Rally Crowds Aren&#39;t AI-Generated](https://www.wired.com/story/kamala-harris-rally-crowds-ai-trump-conspiracy/)<!-- TECH:END -->
+ - [Air Fryer Only: 7 Foods I Now Make Exclusively in the Air Fryer](https://www.cnet.com/how-to/air-fryer-only-foods-i-make-exclusively-in-the-air-fryer-after-trying-it-once/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

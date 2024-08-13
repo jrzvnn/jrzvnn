@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: about half of all job seekers are using AI chatbots like ChatGPT and Gemini to assist them in writing CVs, cover letters, and completing assessments &lpar;Financial Times&rpar;](http://www.techmeme.com/240813/p6#a240813p6)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
  - [A look at US chipmaker ON Semiconductor&#39;s $2B manufacturing hub in Roznov, Czech Republic to make chips for EVs and more; the hub will create 800 new jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240813/p5#a240813p5)
  - [Best French Press of 2024](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)
- - [A look at Fragmentarium, a project to use AI to piece together digitized tablet fragments of the Epic of Gilgamesh, a 3,000-year-old Mesopotamian poem &lpar;Erik Ofgang/New York Times&rpar;](http://www.techmeme.com/240813/p4#a240813p4)
- - [Inside Worldcoin&#39;s Orb factory in Germany and a profile of Tools for Humanity CEO Alex Blania; 6M+ people now have a World ID, and WLD&#39;s market cap is $550M+ &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240813/p3#a240813p3)<!-- TECH:END -->
+ - [A look at Fragmentarium, a project to use AI to piece together digitized tablet fragments of the Epic of Gilgamesh, a 3,000-year-old Mesopotamian poem &lpar;Erik Ofgang/New York Times&rpar;](http://www.techmeme.com/240813/p4#a240813p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

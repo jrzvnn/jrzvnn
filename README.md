@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces the $799+ Google Pixel 9, with a Tensor G4 chip, a design with flat sides, a bigger 6.3&quot; screen, AI features, more, on sale starting August 22 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240813/p23#a240813p23)
- - [For Google’s Pixel Camera Team, It’s All About the Memories](https://www.wired.com/story/google-pixel-9-real-tone-pixel-camera-interview/)
- - [Google Pixel 9, Pixel 9 Pro Fold, Pixel Watch 3, Pixel Buds Pro 2: Specs, Features, Release Date](https://www.wired.com/story/made-by-google-pixel-9-phones-pixel-watch-3-pixel-buds-pro-2/)
- - [Google’s New Pixel Watch 3 Can Detect a Loss of Pulse](https://www.wired.com/story/google-new-pixel-watch-3-can-detect-a-loss-of-pulse/)
- - [The Google Pixel 9’s AI Camera Features Let You Reshape Reality](https://www.wired.com/story/all-the-new-generative-ai-camera-features-in-google-pixel-9-phones/)<!-- TECH:END -->
+ - [Google debuts Pixel Buds Pro 2 for $229 with a Tensor A1 chip, smaller and lighter than the original Pro, with improved noise cancellation and sound quality &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240813/p26#a240813p26)
+ - [Here’s where you can preorder Google’s new Pixel Watch 3](https://www.theverge.com/24215675/google-pixel-watch-3-preorder-how-to-buy-price-release-date)
+ - [Google unveils the Pixel Watch 3 in 41mm and 45mm sizes, with a 2,000-nit display and around 16% smaller bezels compared to the Watch 2, starting at $349 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240813/p25#a240813p25)
+ - [How to preorder all of Google’s upcoming phones, including the Pixel 9 Pro Fold](https://www.theverge.com/good-deals/24215668/google-pixel-9-pro-xl-fold-preorder-price-how-to-buy-release-date)
+ - [Google’s next big Pixel](https://www.theverge.com/2024/8/13/24219412/google-pixel-9-fold-watch-tv-streamer-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

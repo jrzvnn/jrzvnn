@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best one...](http://9gag.com/gag/avyrYqZ)
- - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 💣 [Daily struggle](http://9gag.com/gag/aPABw4g)
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [A meme](http://9gag.com/gag/a1mbpyG)<!-- MEMES:END -->
+ - 😝 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - 😝 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
+ - 💣 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 

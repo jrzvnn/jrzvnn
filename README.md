@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 😝 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
- - 💣 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
+ - 😝 [:D...](http://9gag.com/gag/a4PZvRp)
+ - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
+ - 👉 [This floor exercise landing in Paris 2024](http://9gag.com/gag/a0edBnq)<!-- MEMES:END -->
 
 ---
 

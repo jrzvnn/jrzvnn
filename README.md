@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 💣 [12 years not a slave](http://9gag.com/gag/aKG2R4g)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
+ - 😝 [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 😝 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
+ - 💣 [We don\u2019t deserve Danny](http://9gag.com/gag/avyrbYZ)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
 
 ---
 

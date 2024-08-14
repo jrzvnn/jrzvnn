@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 2025 Ford Maverick Shows That Hybrid Pickup Trucks Are Going Mainstream](https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/)
  - [Tencent reports Q2 revenue up 8% YoY to ~$22.5B, meeting est., and a $6.6B net income, above $5.6B est., after releasing blockbuster Dungeon &amp; Fighter Mobile &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240814/p9#a240814p9)
  - [Ahead of iPhone 16, AI demand boosts Apple supplier Foxconn&#39;s profits](https://appleinsider.com/articles/24/08/14/ai-demand-boosts-apple-supplier-foxconns-profits?utm_medium=rss)
  - [Apple approves Spotify updating its app to show in-app pricing information for iPhone users in the EU starting today, after Spotify&#39;s yearslong legal battle &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240814/p8#a240814p8)
- - [HMD Skyline Review: The First Qi2 Android Smartphone](https://www.wired.com/review/hmd-skyline/)
- - [How the English Premier League plans to use 28+ iPhone 14 or newer cameras at stadiums to call offsides later in the 2024/25 season, ditching its VAR system &lpar;Ben Dowsett/Wired&rpar;](http://www.techmeme.com/240814/p7#a240814p7)<!-- TECH:END -->
+ - [HMD Skyline Review: The First Qi2 Android Smartphone](https://www.wired.com/review/hmd-skyline/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

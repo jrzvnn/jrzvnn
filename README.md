@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 😝 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
- - 💣 [What?](http://9gag.com/gag/amoYNjd)
- - 😝 [Lovely!](http://9gag.com/gag/a1mbpND)
- - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
+ - 😝 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
+ - 😝 [Stunning and brave](http://9gag.com/gag/agmL36q)
+ - 💣 [We really enjoyed it!](http://9gag.com/gag/a5QbpAN)
+ - 😝 [She got eternal fame and an investigation. marketing genius](http://9gag.com/gag/a2vrNEO)
+ - 👉 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)<!-- MEMES:END -->
 
 ---
 

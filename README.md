@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
  - [Apple grants US developers the same NFC features it was forced to provide in Europe](https://appleinsider.com/articles/24/08/14/apple-grants-us-developers-the-same-nfc-features-it-was-forced-to-provide-in-europe?utm_medium=rss)
  - [Anker’s new power station can charge faster using two USB-C adapters at the same time](https://www.theverge.com/2024/8/14/24216885/anker-solix-c300-dc-power-charger-usb-c)
  - [Apple is finally going to open up iPhone tap-to-pay](https://www.theverge.com/2024/8/14/24220323/apple-iphone-tap-to-pay-nfc-api)
- - [Realme’s 320W fast charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)
- - [Apple says app developers can offer NFC contactless transactions using the iPhone&#39;s Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240814/p25#a240814p25)<!-- TECH:END -->
+ - [Realme’s 320W fast charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

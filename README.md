@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI launches Grok-2 and Grok-2 mini in beta with improved reasoning capabilities, available to X Premium and Premium+ users; the API will debut later in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240814/p3#a240814p3)
  - [Google says Gemini will replace Google Assistant as the default on the Google Pixel 9 lineup, but &quot;users can go back to the classic Google Assistant&quot; &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240814/p2#a240814p2)
  - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)
  - [Best Internet Providers in Bryan, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-bryan-tx/#ftag=CAD590a51e)
- - [A look at challenges Google faces ahead of Pixel 9 launch in India; IDC: Google&#39;s smartphone shipments in India grew over 1,300% in 2023 to a 0.5% market share &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240814/p1#a240814p1)
- - [Best Internet Providers in Albany, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-albany-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at challenges Google faces ahead of Pixel 9 launch in India; IDC: Google&#39;s smartphone shipments in India grew over 1,300% in 2023 to a 0.5% market share &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240814/p1#a240814p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Guidewheel, which offers plug-and-play sensors to make factory machines smarter, raised a $31M Series B led by BlackRock and Temasek&#39;s Decarbonization Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240813/p46#a240813p46)
+ - [How to create widgets for personal &amp; emergency contacts on iPhone](https://appleinsider.com/inside/ios/tips/how-to-create-widgets-for-personal-emergency-contacts-on-iphone?utm_medium=rss)
  - [Chinese self-driving startup WeRide gets permission to test its robotaxis with passengers in California after testing without passengers in San Jose since 2021 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240813/p45#a240813p45)
  - [A look at the growth of free streaming service Tubi, which does not require an account to use, is entirely dependent on ad revenue, and is not yet profitable &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240813/p44#a240813p44)
- - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)
- - [Best Internet Providers in Bellingham, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellingham-wa/#ftag=CAD590a51e)
- - [Valve confirms it&#39;ll support the ROG Ally with its Steam Deck operating system](https://www.theverge.com/2024/8/13/24219469/valve-steamos-asus-rog-ally-steady-progress-dual-boot)<!-- TECH:END -->
+ - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

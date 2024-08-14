@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This floor exercise landing in Paris 2024](http://9gag.com/gag/a0edBnq)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 💣 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
+ - 😝 [What a time to be alive!](http://9gag.com/gag/a9yWQE0)
+ - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 💣 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 👉 [Nice job](http://9gag.com/gag/aGy0WBK)<!-- MEMES:END -->
 
 ---
 

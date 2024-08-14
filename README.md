@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [During a talk, Eric Schmidt said Google is losing the AI race because it decided that work-life balance and working from home were &quot;more important than winning&quot; &lpar;Orianna Rosa Royle/Fortune&rpar;](http://www.techmeme.com/240814/p28#a240814p28)
  - [Apple’s next big project might be a tabletop robot / iPad](https://www.theverge.com/2024/8/14/24220475/apple-next-big-project-tabletop-robot-ipad)
  - [Disney wants to dismiss a wrongful death lawsuit because of a Disney Plus agreement](https://www.theverge.com/2024/8/14/24220228/disney-wrongful-death-lawsuit-subscription-terms)
  - [Apple moving forward with iPad on a robot arm as your next smarthome purchase](https://appleinsider.com/articles/24/08/14/apple-moving-forward-with-ipad-on-a-robot-arm-as-your-next-smarthome-purchase?utm_medium=rss)
- - [Exclusive: Sonos considers relaunching its old app](https://www.theverge.com/2024/8/14/24220421/sonos-s2-app-relaunch)
- - [Alien: Romulus is a solid franchise tribute plagued by weird optics](https://www.theverge.com/2024/8/14/24219417/alien-romulus-review)<!-- TECH:END -->
+ - [Exclusive: Sonos considers relaunching its old app](https://www.theverge.com/2024/8/14/24220421/sonos-s2-app-relaunch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

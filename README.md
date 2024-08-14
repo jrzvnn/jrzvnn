@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 💣 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
  - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 👉 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)<!-- MEMES:END -->
+ - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 😝 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
+ - 👉 [Mood](http://9gag.com/gag/a9yrj2K)<!-- MEMES:END -->
 
 ---
 

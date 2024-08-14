@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - 😝 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
  - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 😝 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
- - 👉 [Mood](http://9gag.com/gag/a9yrj2K)<!-- MEMES:END -->
+ - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
+ - 💣 [What?](http://9gag.com/gag/amoYNjd)
  - 😝 [Lovely!](http://9gag.com/gag/a1mbpND)
- - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 👉 [The full video](http://9gag.com/gag/aoy2b93)<!-- MEMES:END -->
+ - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
- - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
+ - 😝 [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
+ - 💣 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
+ - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
 
 ---
 

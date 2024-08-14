@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s market regulator sues the country&#39;s ASX stock exchange over its botched blockchain upgrade, abandoned in November 2022 after seven years of work &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240814/p6#a240814p6)
- - [Latin America digital bank Nubank reports Q2 revenue up 52% YoY to $2.8B, above $2.66B est., a $487M net income, above $418M est., and passes 100M customers &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240814/p5#a240814p5)
- - [Best Student Discounts &lpar;2024&rpar;: Laptops, Streaming Services, Tech, and Software](https://www.wired.com/story/best-student-discounts/)
- - [Foxconn reports Q2 revenue up 19% YoY to ~$48B and net profit up 6% YoY to ~$1.08B, above ~$1.04B est., on strong AI server demand; its stock is up ~80% in 2024 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240814/p4#a240814p4)
- - [The English Premier League Will Ditch Its Hated VAR Offside Tech for a Fleet of iPhones](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)<!-- TECH:END -->
+ - [HMD Skyline Review: The First Qi2 Android Smartphone](https://www.wired.com/review/hmd-skyline/)
+ - [AI demand boosts Apple supplier Foxconn&#39;s profits](https://appleinsider.com/articles/24/08/14/ai-demand-boosts-apple-supplier-foxconns-profits?utm_medium=rss)
+ - [How the English Premier League plans to use 28+ iPhone 14 or newer cameras at stadiums to call offsides later in the 2024/25 season, ditching its VAR system &lpar;Ben Dowsett/Wired&rpar;](http://www.techmeme.com/240814/p7#a240814p7)
+ - [Apple relents and approves Spotify app with EU pricing](https://www.theverge.com/2024/8/14/24220105/spotify-iphone-app-pricing-information-eu-update)
+ - [Australia&#39;s market regulator sues the country&#39;s ASX stock exchange over its botched blockchain upgrade, abandoned in November 2022 after seven years of work &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240814/p6#a240814p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

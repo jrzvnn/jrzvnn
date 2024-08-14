@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The English Premier League Has a New, iPhone-Powered Offside Detection System](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)
+ - [Foxconn reports Q2 revenue up 19% YoY to ~$48B and net profit up 6% YoY to ~$1.08B, above ~$1.04B est., on strong AI server demand; its stock is up ~80% in 2024 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240814/p4#a240814p4)
+ - [The English Premier League Will Ditch Its Hated VAR Offside Tech for a Fleet of iPhones](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)
  - [Partner Disrupting Your Sleep? Try the Scandinavian Sleep Method Tonight](https://www.cnet.com/health/sleep/the-scandinavian-sleep-method-a-simple-solution-that-will-save-your-sleep-quality/#ftag=CAD590a51e)
  - [xAI launches Grok-2 and Grok-2 mini in beta with improved reasoning capabilities, available to X Premium and Premium+ users; the API will debut later in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240814/p3#a240814p3)
- - [Best Internet Providers in Abilene, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-abilene-tx/#ftag=CAD590a51e)
- - [Google says Gemini will replace Google Assistant as the default on the Google Pixel 9 lineup, but &quot;users can go back to the classic Google Assistant&quot; &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240814/p2#a240814p2)<!-- TECH:END -->
+ - [Best Internet Providers in Abilene, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-abilene-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

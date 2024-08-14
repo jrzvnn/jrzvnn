@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)
- - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 😝 [Unexpected twist](http://9gag.com/gag/an7ypXq)
- - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
+ - 😝 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 😝 [The best one...](http://9gag.com/gag/avyrYqZ)
+ - 👉 [A meme](http://9gag.com/gag/a1mbpyG)<!-- MEMES:END -->
 
 ---
 

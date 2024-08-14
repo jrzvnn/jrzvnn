@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kiteworks, formerly Accellion, which offers secure email and file transfer tools, raised $456M from Insight and Sixth Street Growth at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240814/p14#a240814p14)
- - [Spotify crows about Apple being forced to show alternative pricing](https://appleinsider.com/articles/24/08/14/spotify-crows-about-apple-being-forced-to-show-alternative-pricing?utm_medium=rss)
- - [Meta shuts down CrowdTangle, less than three months before the US election, in favor of the Meta Content Library; Mozilla says 50K+ petitioned against the move &lpar;Dara Kerr/NPR&rpar;](http://www.techmeme.com/240814/p13#a240814p13)
- - [This Gargantuan Lab Simulates Blasting Satellites Into Space](https://www.wired.com/story/national-satellite-testing-facility-uk-nstf/)
- - [Foxconn says it will only start shipping a small volume of servers with Nvidia&#39;s GB200 chips in Q4, before ramping up significantly in Q1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p12#a240814p12)<!-- TECH:END -->
+ - [LA-based Sahara AI, which uses AI to recognize copyrights and track assets, raised a $43M Series A led by Pantera and Polychain, and claims 200K contributors &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240814/p16#a240814p16)
+ - [Access Now and Citizen Lab: Russian spy agencies are using deep knowledge about opponents, reporters, and human rights groups to target them via phishing emails &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240814/p15#a240814p15)
+ - [Massive iPhone array will replace English Premiere League&#39;s awful video referee tech](https://appleinsider.com/articles/24/08/14/array-of-iphones-will-replace-english-premiere-leagues-awful-video-referee-tech?utm_medium=rss)
+ - [Nascar Pit Crews Are Using AI for the Perfect Pit Stop](https://www.wired.com/story/lenovo-has-built-richard-childress-racing-its-own-nascar-pit-stop-ai/)
+ - [Microsoft is enabling BitLocker device encryption by default on Windows 11](https://www.theverge.com/2024/8/14/24220138/microsoft-bitlocker-device-encryption-windows-11-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

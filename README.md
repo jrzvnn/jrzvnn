@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gamergate’s Aggrieved Men Still Haunt the Internet](https://www.wired.com/story/gamergates-aggrieved-men-still-haunt-the-internet/)
+ - [AMD Ryzen 9 9950X and Ryzen 9 9900X review: the Zen 5 flagship chips are fine for highly threaded productivity workloads, but gaming issues need to be fixed &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240814/p19#a240814p19)
  - [EliseAI, which offers AI property management tools for landlords, raised a $75M Series D led by Sapphire at a $1B valuation, taking its total funding to $140M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240814/p18#a240814p18)
  - [AI overshadowed Pixel at the Pixel event](https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed)
- - [Samsung’s new Family Care service helps caregivers monitor loved ones](https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date)
- - [MIT releases a database of 700+ unique AI risks, based on 43 existing taxonomies, including peer-reviewed articles, preprints, conference papers, and reports &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240814/p17#a240814p17)
- - [LA-based Sahara AI, which uses AI to recognize copyrights and track assets, raised a $43M Series A led by Pantera and Polychain, and claims 200K contributors &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240814/p16#a240814p16)<!-- TECH:END -->
+ - [Samsung’s new Family Care service helps caregivers monitor loved ones](https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

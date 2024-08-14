@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 😝 [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
- - 💣 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
+ - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 💣 [Do NOT redeem](http://9gag.com/gag/aYQK8zm)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
+ - 👉 [12 years not a slave](http://9gag.com/gag/aKG2R4g)<!-- MEMES:END -->
 
 ---
 

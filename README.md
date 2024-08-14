@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The English Premier League Has a New, iPhone-Powered Offside Detection System](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)
  - [xAI launches Grok-2 and Grok-2 mini in beta with improved reasoning capabilities, available to X Premium and Premium+ users; the API will debut later in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240814/p3#a240814p3)
  - [Best Internet Providers in Abilene, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-abilene-tx/#ftag=CAD590a51e)
  - [Google says Gemini will replace Google Assistant as the default on the Google Pixel 9 lineup, but &quot;users can go back to the classic Google Assistant&quot; &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240814/p2#a240814p2)
- - [Best Internet Providers in Allentown, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-allentown-pa/#ftag=CAD590a51e)
- - [Best Weight Loss Programs for 2024](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Allentown, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-allentown-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme’s 320W fast-charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)
- - [Apple says app developers can offer NFC contactless transactions using the iPhone&#39;s Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240814/p25#a240814p25)
- - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
- - [The main takeaway from the Google Pixel event is Android&#39;s primacy, and Google&#39;s integration with Android is worth preserving if the goal is spurring innovation &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240814/p24#a240814p24)
- - [Best Internet Providers in Baton Rouge, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-baton-rouge-la/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple grants US developers the same NFC features it was forced to provide in Europe](https://appleinsider.com/articles/24/08/14/apple-grants-us-developers-the-same-nfc-features-it-was-forced-to-provide-in-europe?utm_medium=rss)
+ - [Anker’s new power station can charge faster using two USB-C adapters at the same time](https://www.theverge.com/2024/8/14/24216885/anker-solix-c300-dc-power-charger-usb-c)
+ - [Apple is finally going to open up iPhone tap-to-pay](https://www.theverge.com/2024/8/14/24220323/apple-iphone-tap-to-pay-nfc-api)
+ - [Realme’s 320W fast charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)
+ - [Apple says app developers can offer NFC contactless transactions using the iPhone&#39;s Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240814/p25#a240814p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

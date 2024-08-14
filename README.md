@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Gym Locker May Be Hackable](https://www.wired.com/story/electronic-locker-vulnerability/)
+ - [Instagram Isn’t Protecting Women Politicians from Hate Speech](https://www.wired.com/story/instagram-gendered-abuse/)
+ - [The weirdest ‘3 billion people’ data breach ever](https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion)
  - [When will Apple upgrade all of its Macs to M4?](https://appleinsider.com/articles/24/08/14/when-will-apple-upgrade-all-of-its-macs-to-m4?utm_medium=rss)
- - [A look at some of the victims of the now-ubiquitous deepfake video scams; an analysis of 2,000+ deepfakes found Elon Musk was featured in ~25% of such scams &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240814/p26#a240814p26)
- - [Sonos lays off 100 employees as its app crisis continues](https://www.theverge.com/2024/8/14/24220357/sonos-layoffs-august-2024-app)
- - [Halide’s new ‘Process Zero’ feature takes photos with no AI, no processing, no nothing](https://www.theverge.com/2024/8/14/24220178/halide-camera-app-process-zero-ai)
- - [You can snag a $30 gift card when you preorder Google’s Pixel Buds Pro 2](https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale)<!-- TECH:END -->
+ - [A look at some of the victims of the now-ubiquitous deepfake video scams; an analysis of 2,000+ deepfakes found Elon Musk was featured in ~25% of such scams &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240814/p26#a240814p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

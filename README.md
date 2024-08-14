@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - 😝 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
- - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 😝 [No more hiding](http://9gag.com/gag/a0eb9Yv)
- - 👉 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)<!-- MEMES:END -->
+ - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 😝 [She got eternal fame and an investigation. marketing genius](http://9gag.com/gag/a2vrNEO)
+ - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
 
 ---
 

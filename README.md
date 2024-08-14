@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Realme’s 320W fast-charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)
+ - [Apple says app developers can offer NFC contactless transactions using the iPhone&#39;s Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240814/p25#a240814p25)
+ - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
  - [The main takeaway from the Google Pixel event is Android&#39;s primacy, and Google&#39;s integration with Android is worth preserving if the goal is spurring innovation &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240814/p24#a240814p24)
- - [A look at the National Public Data breach, first noted in April 2024 and posted publicly last week, and efforts to establish if &quot;nearly 3B people&quot; were exposed &lpar;Troy Hunt&rpar;](http://www.techmeme.com/240814/p23#a240814p23)
- - [Trump’s Shooting Led QAnon Believers to Double Down](https://www.wired.com/story/trumps-shooting-rattled-qanon-believers-then-they-doubled-down/)
- - [SAG-AFTRA strikes a deal with Narrativ for voice replicas in digital ads, letting union members add themselves to the AI startup&#39;s database and negotiate fees &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/240814/p22#a240814p22)
- - [AMD’s new Zen 5 CPUs fail to impress during early reviews](https://www.theverge.com/2024/8/14/24220250/amd-zen-5-cpu-reviews-ryzen-9-9950x)<!-- TECH:END -->
+ - [Best Internet Providers in Baton Rouge, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-baton-rouge-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

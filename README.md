@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t know that this trick could scare f3minists this easily.](http://9gag.com/gag/aMVwp0V)
- - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 💣 [:D...](http://9gag.com/gag/a4PZvRp)
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 😝 [Go show mommy](http://9gag.com/gag/aE0R3RO)
+ - 💣 [Tight enough?](http://9gag.com/gag/aD2jB0x)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)<!-- MEMES:END -->
+ - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
 
 ---
 

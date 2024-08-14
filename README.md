@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - 😝 [Go show mommy](http://9gag.com/gag/aE0R3RO)
- - 💣 [Tight enough?](http://9gag.com/gag/aD2jB0x)
- - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
+ - 😝 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
+ - 😝 [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 💣 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
+ - 😝 [We don\u2019t deserve Danny](http://9gag.com/gag/avyrbYZ)
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 

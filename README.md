@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice job](http://9gag.com/gag/aGy0WBK)
- - 😝 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
- - 💣 [We don\u2019t deserve Danny](http://9gag.com/gag/avyrbYZ)
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
+ - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
+ - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 💣 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 😝 [We really enjoyed it!](http://9gag.com/gag/a5QbpAN)
+ - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
 
 ---
 

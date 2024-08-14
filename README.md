@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet’s latest update includes a new UI and in-call messaging](https://www.theverge.com/2024/8/14/24220451/google-meet-update-adds-video-call-features)
- - [AltStore PAL drops its annual subscription thanks to a grant from Epic](https://www.theverge.com/2024/8/14/24220623/altstore-pal-third-party-app-store-drops-subscription-epic-grant)
- - [A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says](https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/)
- - [Logitech is taking 10 percent off a wide array of gaming peripherals right now](https://www.theverge.com/good-deals/2024/8/14/24220579/logitech-g-pro-x-superlight-2-gaming-mouse-astro-a50x-headset-deal-sale)
- - [Epic judge says he’ll ‘tear the barriers down’ on Google’s app store monopoly](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)<!-- TECH:END -->
+ - [Anthropic says prompt caching, which enables developers to cache frequently used context between API calls, is now available in public beta on its API &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240814/p35#a240814p35)
+ - [GitHub is down](https://www.theverge.com/2024/8/14/24220685/github-down-website-pull-request)
+ - [Harris campaign deceptively trims Trump post about Elon Musk interview](https://www.theverge.com/2024/8/14/24220601/harris-campaign-trump-truth-social-elon-musk-interview-audio)
+ - [Eric Schmidt says he &quot;misspoke&quot; when he said Google was losing the AI race because it decided that &quot;working from home was more important than winning&quot; &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/240814/p34#a240814p34)
+ - [Google Meet’s latest update includes a new UI and in-call messaging](https://www.theverge.com/2024/8/14/24220451/google-meet-update-adds-video-call-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

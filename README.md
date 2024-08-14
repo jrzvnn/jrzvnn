@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Unusual Piece of Furniture Is My Favorite Place to Nap](https://www.cnet.com/news/this-unusual-piece-of-furniture-is-the-best-place-to-take-a-nap/#ftag=CAD590a51e)
  - [During a talk, Eric Schmidt said Google is losing the AI race because it decided that work-life balance and working from home were &quot;more important than winning&quot; &lpar;Orianna Rosa Royle/Fortune&rpar;](http://www.techmeme.com/240814/p28#a240814p28)
+ - [Inflation Finally Falls Below 3%, Helping Fed Prepare a September Rate Cut](https://www.cnet.com/personal-finance/banking/inflation-finally-falls-below-3-helping-fed-prepare-a-sept-rate-cut/#ftag=CAD590a51e)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Apple’s next big project might be a tabletop robot / iPad](https://www.theverge.com/2024/8/14/24220475/apple-next-big-project-tabletop-robot-ipad)
- - [Disney wants to dismiss a wrongful death lawsuit because of a Disney Plus agreement](https://www.theverge.com/2024/8/14/24220228/disney-wrongful-death-lawsuit-subscription-terms)
- - [Apple moving forward with iPad on a robot arm as your next smarthome purchase](https://appleinsider.com/articles/24/08/14/apple-moving-forward-with-ipad-on-a-robot-arm-as-your-next-smarthome-purchase?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s next big project might be a tabletop robot / iPad](https://www.theverge.com/2024/8/14/24220475/apple-next-big-project-tabletop-robot-ipad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

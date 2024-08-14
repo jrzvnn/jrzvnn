@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Unexpected twist](http://9gag.com/gag/an7ypXq)
- - 💣 [:D...](http://9gag.com/gag/a4PZvRp)
+ - 😝 [How fast women switch on the victim complex](http://9gag.com/gag/a0edy7L)
+ - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
+ - 👉 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off a VPN connection on your iPhone](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-a-vpn-connection-on-your-iphone?utm_medium=rss)
  - [Sources: Apple is prioritizing developing a tabletop home device with an iPad-like display and a robotic limb, aiming for a release in 2026 or 2027 for ~$1,000 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240814/p27#a240814p27)
  - [High-end racing bikes are now vulnerable to hacking](https://www.theverge.com/2024/8/14/24220390/bike-hack-wireless-gear-shifters)
  - [Your Gym Locker May Be Hackable](https://www.wired.com/story/electronic-locker-vulnerability/)
- - [Instagram Isn’t Protecting Women Politicians From Hate Speech](https://www.wired.com/story/instagram-gendered-abuse/)
- - [The weirdest ‘3 billion people’ data breach ever](https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion)<!-- TECH:END -->
+ - [Instagram Isn’t Protecting Women Politicians From Hate Speech](https://www.wired.com/story/instagram-gendered-abuse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

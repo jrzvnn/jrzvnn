@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhones will help decide offside violations in English soccer this season](https://www.theverge.com/2024/8/14/24220197/iphone-offside-violation-ai-detection-soccer-video-assistant-referee-english-premier-league)
+ - [Valve is now hiding meme-y and ASCII art reviews on Steam store pages](https://www.theverge.com/2024/8/14/24220553/valve-steam-reviews-helpfulness-system-filter)
  - [The US FTC announces a final rule banning the sale of fake reviews and testimonials, including AI-generated ones, with fines as high as $50K per violation &lpar;Danny Gallagher/Engadget&rpar;](http://www.techmeme.com/240814/p32#a240814p32)
  - [The FTC’s fake review crackdown begins this fall](https://www.theverge.com/2024/8/14/24220536/ftc-fake-review-rule-ai-generated)
- - [Sources: Sonos is considering relaunching its previous mobile app as it works to improve the redesigned version, which launched in May to widespread criticism &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240814/p31#a240814p31)
- - [This head-tracking spinning chair could make VR less nauseating](https://www.theverge.com/2024/8/14/24220354/vr-meta-quest-roto-explorer-chair-virtual-reality)
- - [Cisco reports Q4 revenue down 10% YoY to $13.64B, vs. $13.54B est., and says it&#39;s cutting 7% of its global workforce; CSCO jumps 5%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/240814/p30#a240814p30)<!-- TECH:END -->
+ - [Sources: Sonos is considering relaunching its previous mobile app as it works to improve the redesigned version, which launched in May to widespread criticism &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240814/p31#a240814p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

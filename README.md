@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Halide’s new ‘Process Zero’ feature takes photos with no AI, no processing, no nothing](https://www.theverge.com/2024/8/14/24220178/halide-camera-app-process-zero-ai)
  - [You can snag a $30 gift card when you preorder Google’s Pixel Buds Pro 2](https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale)
+ - [Save on Google Pixel 9 Series Phone Preorders With Discounts, Gift Cards and More](https://www.cnet.com/deals/save-on-google-pixel-9-series-phone-preorders-with-discounts-gift-cards-and-more/#ftag=CAD590a51e)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
- - [Apple grants US developers the same NFC features it was forced to provide in Europe](https://appleinsider.com/articles/24/08/14/apple-grants-us-developers-the-same-nfc-features-it-was-forced-to-provide-in-europe?utm_medium=rss)
- - [Anker’s new power station can charge faster using two USB-C adapters at the same time](https://www.theverge.com/2024/8/14/24216885/anker-solix-c300-dc-power-charger-usb-c)<!-- TECH:END -->
+ - [D23 Trailers Roundup video](https://www.cnet.com/videos/d23-trailers-roundup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

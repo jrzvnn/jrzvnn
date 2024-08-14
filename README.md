@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos lays off 100 employees as its app crisis continues](https://www.theverge.com/2024/8/14/24220357/sonos-layoffs-august-2024-app)
  - [Halide’s new ‘Process Zero’ feature takes photos with no AI, no processing, no nothing](https://www.theverge.com/2024/8/14/24220178/halide-camera-app-process-zero-ai)
  - [You can snag a $30 gift card when you preorder Google’s Pixel Buds Pro 2](https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale)
  - [Save on Google Pixel 9 Series Phone Preorders With Discounts, Gift Cards and More](https://www.cnet.com/deals/save-on-google-pixel-9-series-phone-preorders-with-discounts-gift-cards-and-more/#ftag=CAD590a51e)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [D23 Trailers Roundup video](https://www.cnet.com/videos/d23-trailers-roundup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

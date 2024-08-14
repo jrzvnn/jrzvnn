@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 😝 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 💣 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)
  - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
+ - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
 
 ---
 

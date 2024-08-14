@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)
  - [Valve confirms it&#39;ll support the ROG Ally with its Steam Deck operating system](https://www.theverge.com/2024/8/13/24219469/valve-steamos-asus-rog-ally-steady-progress-dual-boot)
- - [US District Judge Reed O&#39;Connor recuses himself from X&#39;s advertiser lawsuit over an alleged ad boycott; O&#39;Connor held stock in Tesla and Unilever &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/240813/p43#a240813p43)
- - [How to See Mars and Jupiter Cuddle Up in the Sky in a Conjunction This Week](https://www.cnet.com/science/how-to-see-mars-and-jupiter-cuddle-up-in-the-sky-in-a-conjunction-this-week/#ftag=CAD590a51e)
- - [Filing: Intel sold its 1.18M shares in Arm during the second quarter, which, based on the stock&#39;s average price in Q2, would have raised ~$147M for the company &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240813/p42#a240813p42)
- - [A US judge rules that a group of artists can pursue some copyright infringement claims in their lawsuit against Stability AI, Midjourney, and other companies &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240813/p41#a240813p41)<!-- TECH:END -->
+ - [Best AirPod Deals: Tune In for Some Nice Savings on Apple&#39;s Earbuds and Headphones](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Headphones for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [US District Judge Reed O&#39;Connor recuses himself from X&#39;s advertiser lawsuit over an alleged ad boycott; O&#39;Connor held stock in Tesla and Unilever &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/240813/p43#a240813p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

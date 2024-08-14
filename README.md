@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 😝 [The best one...](http://9gag.com/gag/avyrYqZ)
- - 👉 [A meme](http://9gag.com/gag/a1mbpyG)<!-- MEMES:END -->
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 💣 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
+ - 👉 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)<!-- MEMES:END -->
 
 ---
 

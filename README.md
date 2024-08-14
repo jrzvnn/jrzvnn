@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
- - 😝 [Stunning and brave](http://9gag.com/gag/agmL36q)
- - 💣 [We really enjoyed it!](http://9gag.com/gag/a5QbpAN)
- - 😝 [She got eternal fame and an investigation. marketing genius](http://9gag.com/gag/a2vrNEO)
- - 👉 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)<!-- MEMES:END -->
+ - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - 💣 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
 
 ---
 

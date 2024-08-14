@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice job](http://9gag.com/gag/aGy0WBK)
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 💣 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
+ - 😝 [It\u2019s a miracle!](http://9gag.com/gag/a1mdGZ8)
+ - 😝 [Some might appreciate](http://9gag.com/gag/a7oZjL2)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)<!-- MEMES:END -->
+ - 👉 [Dodge this](http://9gag.com/gag/apRr4xp)<!-- MEMES:END -->
 
 ---
 

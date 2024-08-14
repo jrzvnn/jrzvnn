@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn says it will only start shipping a small volume of servers with Nvidia&#39;s GB200 chips in Q4, before ramping up significantly in Q1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p12#a240814p12)
+ - [Supplements Companies Are Cashing In on the Ozempic Wave](https://www.wired.com/story/the-ozempic-adjacent-supplement-gold-rush-is-just-getting-started/)
+ - [xAI’s new Grok-2 chatbots brings AI image generation to X](https://www.theverge.com/2024/8/14/24220127/grok-ai-chatbot-beta-image-generation-x-xai-update)
  - [AT&amp;T says it won&#39;t carry Google&#39;s new Pixel 9 Pro Fold, after selling the original Pixel Fold; the network will carry the Pixel 9, 9 Pro, and 9 Pro XL &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/240814/p11#a240814p11)
- - [Want to Win a Bike Race? Hack Your Rival’s Wireless Shifters](https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/)
- - [How Amazon, Alphabet, Microsoft, and Meta are using accounting techniques to disguise growing emissions, while working to influence pollution disclosure rules &lpar;Financial Times&rpar;](http://www.techmeme.com/240814/p10#a240814p10)
- - [Rare Sonos Beam Deal Takes Over $100 Off the Regular Price While Supplies Last](https://www.cnet.com/deals/rare-sonos-beam-deal-takes-over-100-off-the-regular-price-while-supplies-last/#ftag=CAD590a51e)
- - [The 2025 Ford Maverick Shows That Hybrid Pickup Trucks Are Going Mainstream](https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/)<!-- TECH:END -->
+ - [Want to Win a Bike Race? Hack Your Rival’s Wireless Shifters](https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

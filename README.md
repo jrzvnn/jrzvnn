@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 💣 [Do NOT redeem](http://9gag.com/gag/aYQK8zm)
+ - 😝 [Unexpected twist](http://9gag.com/gag/an7ypXq)
+ - 💣 [:D...](http://9gag.com/gag/a4PZvRp)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [12 years not a slave](http://9gag.com/gag/aKG2R4g)<!-- MEMES:END -->
+ - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
 
 ---
 

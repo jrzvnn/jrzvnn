@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 💣 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
- - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
- - 👉 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)<!-- MEMES:END -->
+ - 😝 [The best one...](http://9gag.com/gag/avyrYqZ)
+ - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 💣 [Daily struggle](http://9gag.com/gag/aPABw4g)
+ - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 👉 [A meme](http://9gag.com/gag/a1mbpyG)<!-- MEMES:END -->
 
 ---
 

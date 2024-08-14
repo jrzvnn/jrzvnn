@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Meet’s latest update includes a new UI and in-call messaging](https://www.theverge.com/2024/8/14/24220451/google-meet-update-adds-video-call-features)
  - [AltStore PAL drops its annual subscription thanks to a grant from Epic](https://www.theverge.com/2024/8/14/24220623/altstore-pal-third-party-app-store-drops-subscription-epic-grant)
  - [A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says](https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/)
  - [Logitech is taking 10 percent off a wide array of gaming peripherals right now](https://www.theverge.com/good-deals/2024/8/14/24220579/logitech-g-pro-x-superlight-2-gaming-mouse-astro-a50x-headset-deal-sale)
- - [Epic judge says he’ll ‘tear the barriers down’ on Google’s app store monopoly](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)
- - [President Biden hosts the first White House Creator Economy Conference, with about 100 startup founders, industry stakeholders, and creators in attendance &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240814/p33#a240814p33)<!-- TECH:END -->
+ - [Epic judge says he’ll ‘tear the barriers down’ on Google’s app store monopoly](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - 😝 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
+ - 😝 [Tight enough?](http://9gag.com/gag/aD2jB0x)
+ - 💣 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
  - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 👉 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)<!-- MEMES:END -->
+ - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
 
 ---
 

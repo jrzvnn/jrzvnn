@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
  - 💣 [Nice job](http://9gag.com/gag/aGy0WBK)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)<!-- MEMES:END -->
+ - 👉 [We don\u2019t deserve Danny](http://9gag.com/gag/avyrbYZ)<!-- MEMES:END -->
 
 ---
 

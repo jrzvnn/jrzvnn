@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
  - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 💣 [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
+ - 😝 [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
+ - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
+ - 👉 [12 years not a slave](http://9gag.com/gag/aKG2R4g)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [It’s now even easier to create Google Sheets tables](https://www.theverge.com/2024/8/14/24220340/google-sheets-intelligent-suggestions-table-creation-editing-sort-filter-automatic)
+ - [Google&#39;s Circle to Search Is Coming to Samsung&#39;s Cheaper Phones, Tablets](https://www.cnet.com/tech/mobile/googles-circle-to-search-is-coming-to-samsungs-cheaper-phones-tablets/#ftag=CAD590a51e)
  - [How to turn off a VPN connection on your iPhone](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-a-vpn-connection-on-your-iphone?utm_medium=rss)
- - [Sources: Apple is prioritizing developing a tabletop home device with an iPad-like display and a robotic limb, aiming for a release in 2026 or 2027 for ~$1,000 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240814/p27#a240814p27)
- - [High-end racing bikes are now vulnerable to hacking](https://www.theverge.com/2024/8/14/24220390/bike-hack-wireless-gear-shifters)
- - [Your Gym Locker May Be Hackable](https://www.wired.com/story/electronic-locker-vulnerability/)<!-- TECH:END -->
+ - [Best Tested Portable Power Stations in 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
+ - [Amazon Offers Gift Card Bonuses When You Preorder Google Pixel 9 Series Phones](https://www.cnet.com/deals/amazon-offers-gift-card-bonuses-when-you-preorder-google-pixel-9-series-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

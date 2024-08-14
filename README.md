@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 💣 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 😝 [We really enjoyed it!](http://9gag.com/gag/a5QbpAN)
+ - 😝 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)
+ - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Unexpected twist](http://9gag.com/gag/an7ypXq)
  - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
 
 ---

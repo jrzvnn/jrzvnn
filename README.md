@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kiteworks, formerly Accellion, which offers secure email and file transfer tools, raised $456M from Insight and Sixth Street Growth at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240814/p14#a240814p14)
+ - [Spotify crows about Apple being forced to show alternative pricing](https://appleinsider.com/articles/24/08/14/spotify-crows-about-apple-being-forced-to-show-alternative-pricing?utm_medium=rss)
  - [Meta shuts down CrowdTangle, less than three months before the US election, in favor of the Meta Content Library; Mozilla says 50K+ petitioned against the move &lpar;Dara Kerr/NPR&rpar;](http://www.techmeme.com/240814/p13#a240814p13)
  - [This Gargantuan Lab Simulates Blasting Satellites Into Space](https://www.wired.com/story/national-satellite-testing-facility-uk-nstf/)
- - [Foxconn says it will only start shipping a small volume of servers with Nvidia&#39;s GB200 chips in Q4, before ramping up significantly in Q1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p12#a240814p12)
- - [Supplements Companies Are Cashing In on the Ozempic Wave](https://www.wired.com/story/the-ozempic-adjacent-supplement-gold-rush-is-just-getting-started/)
- - [xAI’s new Grok-2 chatbots bring AI image generation to X](https://www.theverge.com/2024/8/14/24220127/grok-ai-chatbot-beta-image-generation-x-xai-update)<!-- TECH:END -->
+ - [Foxconn says it will only start shipping a small volume of servers with Nvidia&#39;s GB200 chips in Q4, before ramping up significantly in Q1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p12#a240814p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

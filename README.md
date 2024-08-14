@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the National Public Data breach, first noted in April 2024 and posted publicly last week, and efforts to establish if &quot;nearly 3B people&quot; were exposed &lpar;Troy Hunt&rpar;](http://www.techmeme.com/240814/p23#a240814p23)
  - [Trump’s Shooting Led QAnon Believers to Double Down](https://www.wired.com/story/trumps-shooting-rattled-qanon-believers-then-they-doubled-down/)
  - [SAG-AFTRA strikes a deal with Narrativ for voice replicas in digital ads, letting union members add themselves to the AI startup&#39;s database and negotiate fees &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/240814/p22#a240814p22)
  - [AMD’s new Zen 5 CPUs fail to impress during early reviews](https://www.theverge.com/2024/8/14/24220250/amd-zen-5-cpu-reviews-ryzen-9-9950x)
- - [Amazon launches $1,299 Apple Studio Display deal to pair with MacBook discounts](https://appleinsider.com/articles/24/08/14/amazon-launches-1299-apple-studio-display-deal-to-pair-with-macbook-discounts?utm_medium=rss)
- - [Tencent says it is exploring with Apple ways to offer in-app transactions via iOS&#39; payment system, the first acknowledgment of talks with Apple &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240814/p21#a240814p21)<!-- TECH:END -->
+ - [Amazon launches $1,299 Apple Studio Display deal to pair with MacBook discounts](https://appleinsider.com/articles/24/08/14/amazon-launches-1299-apple-studio-display-deal-to-pair-with-macbook-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

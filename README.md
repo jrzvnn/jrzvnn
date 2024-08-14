@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
- - 😝 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
- - 💣 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
  - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 😝 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 😝 [No more hiding](http://9gag.com/gag/a0eb9Yv)
+ - 👉 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)<!-- MEMES:END -->
 
 ---
 

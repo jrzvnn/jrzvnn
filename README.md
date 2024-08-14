@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 😝 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
+ - 💣 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [The full video](http://9gag.com/gag/aoy2b93)<!-- MEMES:END -->
+ - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
 
 ---
 

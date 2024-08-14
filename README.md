@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with 48+ people detail Snowflake and Databricks&#39; intense rivalry, jockeying to be the dominant platform to organize AI data, and fear of Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p20#a240814p20)
+ - [Apple&#39;s budget iPhone SE 4: what the rumor mill says is on the way](https://appleinsider.com/articles/24/08/14/apples-budget-iphone-se-4-what-the-rumor-mill-says-is-on-the-way?utm_medium=rss)
+ - [How to troubleshoot someone else’s computer remotely](https://www.theverge.com/24218621/it-tech-support-remote-control-how-to)
  - [Google’s Pixel 9 launch also brought a new 45W USB-C charger](https://www.theverge.com/2024/8/14/24220190/google-charger-usb-c-pixel-9-price)
- - [How Surfshark VPN for travel guards against data theft &amp; blocked content](https://appleinsider.com/articles/24/08/14/how-surfshark-vpn-for-travel-guards-against-data-theft-blocked-content?utm_medium=rss)
- - [Gamergate’s Aggrieved Men Still Haunt the Internet](https://www.wired.com/story/gamergates-aggrieved-men-still-haunt-the-internet/)
- - [AMD Ryzen 9 9950X and Ryzen 9 9900X review: the Zen 5 flagship chips are fine for highly threaded productivity workloads, but gaming issues need to be fixed &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240814/p19#a240814p19)
- - [EliseAI, which offers AI property management tools for landlords, raised a $75M Series D led by Sapphire at a $1B valuation, taking its total funding to $140M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240814/p18#a240814p18)<!-- TECH:END -->
+ - [Good News for Mortgage Rates as Inflation Falls Below 3%. Today&#39;s Mortgage Rates, Aug. 14, 2024](https://www.cnet.com/personal-finance/mortgage-rates-increase-for-prospective-buyers-todays-mortgage-rates-for-aug-14-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

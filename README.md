@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [:D...](http://9gag.com/gag/a4PZvRp)
- - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [This floor exercise landing in Paris 2024](http://9gag.com/gag/a0edBnq)
+ - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 💣 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [This floor exercise landing in Paris 2024](http://9gag.com/gag/a0edBnq)<!-- MEMES:END -->
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 

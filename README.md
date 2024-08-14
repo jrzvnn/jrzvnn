@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 💣 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 😝 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 👉 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)<!-- MEMES:END -->
+ - 😝 [Metal roof tile installation](http://9gag.com/gag/abA670v)
+ - 😝 [Some might appreciate](http://9gag.com/gag/a7oZjL2)
+ - 💣 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 

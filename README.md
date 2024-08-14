@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How fast women switch on the victim complex](http://9gag.com/gag/a0edy7L)
- - 😝 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
  - 😝 [Quack quack! When the duck gang is out - MADness ensues\ud83d\udca5!](http://9gag.com/gag/a1mdGLD)
- - 👉 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)<!-- MEMES:END -->
+ - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
 
 ---
 

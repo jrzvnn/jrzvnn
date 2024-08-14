@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MIT releases a database of 700+ unique AI risks, based on 43 existing taxonomies, including peer-reviewed articles, preprints, conference papers, and reports &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240814/p17#a240814p17)
  - [LA-based Sahara AI, which uses AI to recognize copyrights and track assets, raised a $43M Series A led by Pantera and Polychain, and claims 200K contributors &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240814/p16#a240814p16)
  - [Access Now and Citizen Lab: Russian spy agencies are using deep knowledge about opponents, reporters, and human rights groups to target them via phishing emails &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240814/p15#a240814p15)
  - [Massive iPhone array will replace English Premiere League&#39;s awful video referee tech](https://appleinsider.com/articles/24/08/14/array-of-iphones-will-replace-english-premiere-leagues-awful-video-referee-tech?utm_medium=rss)
- - [Nascar Pit Crews Are Using AI for the Perfect Pit Stop](https://www.wired.com/story/lenovo-has-built-richard-childress-racing-its-own-nascar-pit-stop-ai/)
- - [Microsoft is enabling BitLocker device encryption by default on Windows 11](https://www.theverge.com/2024/8/14/24220138/microsoft-bitlocker-device-encryption-windows-11-default)<!-- TECH:END -->
+ - [Nascar Pit Crews Are Using AI for the Perfect Pit Stop](https://www.wired.com/story/lenovo-has-built-richard-childress-racing-its-own-nascar-pit-stop-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

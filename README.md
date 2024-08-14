@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 💣 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)
  - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 💣 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
+ - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - 👉 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)<!-- MEMES:END -->
 
 ---
 

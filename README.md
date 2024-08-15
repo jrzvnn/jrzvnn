@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CFIUS fines T-Mobile a record $60M for allegedly failing to prevent and report unauthorized access to sensitive data after its Sprint merger in 2020 &lpar;Reuters&rpar;](http://www.techmeme.com/240814/p38#a240814p38)
+ - [Best Laptop Deals: Back to School Savings on Apple, Dell, Lenovo and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Conroe, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-conroe-tx/#ftag=CAD590a51e)
  - [A look at Germany-based Black Forest Labs, which recently emerged from stealth with a $31M seed led by a16z and whose FLUX.1 model powers Grok&#39;s image generator &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240814/p37#a240814p37)
- - [Google says Iran-backed hacking group APT42 has targeted both Trump and Biden campaigns, as well as Israeli military, government, and diplomatic organizations &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240814/p36#a240814p36)
- - [Ex-Google CEO says successful AI startups can steal IP and hire lawyers to ‘clean up the mess’](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
- - [Arzopa M1RC Monitor Review: Respectable Budget Specs, but Reality Holds It Back](https://www.cnet.com/tech/computing/arzopa-m1rc-monitor-review-respectable-budget-specs-but-reality-holds-it-back/#ftag=CAD590a51e)
- - [Anthropic says prompt caching, which enables developers to cache frequently used context between API calls, is now available in public beta on its API &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240814/p35#a240814p35)<!-- TECH:END -->
+ - [Borrowers May Have to Wait for Supreme Court to Weigh In on Student Loan Forgiveness Plan](https://www.cnet.com/personal-finance/borrowers-may-have-to-wait-for-supreme-court-to-weigh-in-on-student-loan-forgiveness-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

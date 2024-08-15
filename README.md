@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
- - 😝 [Oj was og](http://9gag.com/gag/ayNLyrb)
- - 💣 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - 😝 [In 1911, in the Royal Swedish Academy of Sciences, a historic moment happened as Marie Curie stepped forward to receive her second Nobel Prize, this time in Chemistry. As the first person to win Nobel Prizes in two different scientific fields.](http://9gag.com/gag/azx8EDm)
+ - 😝 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 💣 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)<!-- MEMES:END -->
+ - 👉 [How to trigger whole Gen Z population with a single video](http://9gag.com/gag/a87yYZ1)<!-- MEMES:END -->
 
 ---
 

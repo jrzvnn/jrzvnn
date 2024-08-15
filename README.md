@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says prompt caching, which enables developers to cache frequently used context between API calls, is now available in public beta on its API &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240814/p35#a240814p35)
- - [GitHub is down](https://www.theverge.com/2024/8/14/24220685/github-down-website-pull-request)
- - [Harris campaign deceptively trims Trump post about Elon Musk interview](https://www.theverge.com/2024/8/14/24220601/harris-campaign-trump-truth-social-elon-musk-interview-audio)
- - [Eric Schmidt says he &quot;misspoke&quot; when he said Google was losing the AI race because it decided that &quot;working from home was more important than winning&quot; &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/240814/p34#a240814p34)
- - [Google Meet’s latest update includes a new UI and in-call messaging](https://www.theverge.com/2024/8/14/24220451/google-meet-update-adds-video-call-features)<!-- TECH:END -->
+ - [A look at Germany-based Black Forest Labs, which recently emerged from stealth with a $31M seed led by a16z and whose FLUX.1 model powers Grok&#39;s image generator &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240814/p37#a240814p37)
+ - [Google says Iran-backed hacking group APT42 has targeted both Trump and Biden campaigns, as well as Israeli military, government, and diplomatic organizations &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240814/p36#a240814p36)
+ - [Ex-Google CEO says successful AI startups can steal IP and hire lawyers to ‘clean up the mess’](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
+ - [Arzopa M1RC Monitor Review: Respectable Budget Specs, but Reality Holds It Back](https://www.cnet.com/tech/computing/arzopa-m1rc-monitor-review-respectable-budget-specs-but-reality-holds-it-back/#ftag=CAD590a51e)
+ - [Anthropic says prompt caching, which enables developers to cache frequently used context between API calls, is now available in public beta on its API &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240814/p35#a240814p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

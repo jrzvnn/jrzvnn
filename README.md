@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)
- - 😝 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
- - 💣 [After posting this, the Internet had identified all 3 men in under 3 hours.](http://9gag.com/gag/a87yWnV)
+ - 😝 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - 😝 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - 💣 [When you are offended but can&#39;t figure out why.](http://9gag.com/gag/aAywnA0)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
  - 👉 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)<!-- MEMES:END -->
 

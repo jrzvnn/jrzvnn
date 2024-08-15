@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Busty in black](http://9gag.com/gag/ayNDEjM)
- - 😝 [Was.](http://9gag.com/gag/aZZBGDX)
- - 💣 [What?](http://9gag.com/gag/amoYNjd)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 😝 [What?](http://9gag.com/gag/amoYNjd)
+ - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)<!-- MEMES:END -->
+ - 👉 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)<!-- MEMES:END -->
 
 ---
 

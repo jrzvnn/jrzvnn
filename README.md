@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Has Unleashed Its Legal Fury on Hackers and Scammers](https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/)
+ - [This Is the Most Detailed Map of Brain Connections Ever Made](https://www.wired.com/story/this-is-the-most-detailed-map-of-brain-connections-ever-made-google-harvard/)
+ - [New Zealand signs an extradition order for Kim Dotcom to the US, where he faces criminal charges related to Megaupload; Dotcom has fought extradition since 2012 &lpar;Reuters&rpar;](http://www.techmeme.com/240815/p9#a240815p9)
  - [Unit 42: open-source projects from Google, Microsoft, AWS, and others leaked GitHub auth tokens via GitHub Actions; GitHub decided not to address the risk &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240815/p8#a240815p8)
- - [How University of California doctors used brain implants and AI to help an ALS patient speak again; the implants recognize words, and AI replicates his voice &lpar;Benjamin Mueller/New York Times&rpar;](http://www.techmeme.com/240815/p7#a240815p7)
- - [The UK&#39;s Civil Aviation Authority selects six projects, including Amazon&#39;s, to test drones for deliveries, inspecting infrastructure, and emergency services &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/240815/p6#a240815p6)
- - [This Code Breaker Is Using AI to Decode the Heart’s Secret Rhythms](https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/)
- - [A look at the rise in demand for data center technicians in the US; CompTIA says technicians&#39; pay is up 43% in the past three years to a median of $75,100 &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/240815/p5#a240815p5)<!-- TECH:END -->
+ - [How University of California doctors used brain implants and AI to help an ALS patient speak again; the implants recognize words, and AI replicates his voice &lpar;Benjamin Mueller/New York Times&rpar;](http://www.techmeme.com/240815/p7#a240815p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

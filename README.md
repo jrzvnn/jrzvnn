@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
- - 😝 [Lovely!](http://9gag.com/gag/a1mbpND)
- - 💣 [It&#39;s over, lads! Time to leave the UK. Source in comments.](http://9gag.com/gag/ayND0Ry)
+ - 😝 [I ordered a custom-fit box, and then they forgot the tail](http://9gag.com/gag/axyVZvY)
+ - 😝 [A yummy Ramen stall in Japan](http://9gag.com/gag/a2vrYRe)
+ - 💣 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)<!-- MEMES:END -->
+ - 👉 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)<!-- MEMES:END -->
 
 ---
 

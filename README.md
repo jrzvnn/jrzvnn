@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Chaos Labs, which offers automated, on-chain risk management for DeFi protocols, raised a $55M Series A led by Haun Ventures &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240815/p21#a240815p21)
+ - [Tapo’s new flagship doorbell camera does more for less](https://www.theverge.com/2024/8/15/24220944/tplink-tapo-d225-video-doorbell-camera-review)
+ - [What’s next for KOSA, the controversial ‘child safety’ bill that could change online speech](https://www.theverge.com/24221014/kosa-child-safety-bills-online-free-speech-first-amendment-congress-decoder-podcast)
  - [Samsung S90D QD-OLED TV Review: Flagship Picture for Less](https://www.wired.com/review/samsung-s90d-qd-oled/)
- - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)
- - [Israeli stock research service TipRanks says investment firm Prytek bought 40% of the startup for $80M, giving Prytek an 80% stake; TipRanks has raised $102M &lpar;CTech&rpar;](http://www.techmeme.com/240815/p20#a240815p20)
- - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
- - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)<!-- TECH:END -->
+ - [Enjoy a Hefty 39% Discount on Anker Soundcore Space A40 Earbuds Today](https://www.cnet.com/deals/enjoy-a-hefty-39-discount-on-anker-soundcore-space-a40-earbuds-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
- - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 💣 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 😝 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
+ - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 💣 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)<!-- MEMES:END -->
+ - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 ---
 

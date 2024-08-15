@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
  - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)
  - [Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)
- - [HP OmniBook X 14 review: a barely disguised business laptop with excellent battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)<!-- TECH:END -->
+ - [HP’s OmniBook X 14 is a barely disguised business laptop with great battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

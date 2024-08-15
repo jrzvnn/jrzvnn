@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba reports Q1 revenue up 4% YoY to ~$34B, below ~$34.9B est., and net income down 27% YoY to ~$3.4B, after aggressive promotions failed to drive spending &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240815/p14#a240815p14)
+ - [Google says its new &quot;affirmative litigation&quot; policy of pursuing hackers and scammers in court, like two Russians behind the 2021 Glupteba botnet, has paid off &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240815/p13#a240815p13)
+ - [From Elon Musk to Carlos Espina, Meet the Influencers Shaping the US Election](https://www.wired.com/story/visual-guide-to-influencers-shaping-2024-election/)
  - [Kim Dotcom is being Megauploaded to the US for trial](https://www.theverge.com/2024/8/15/24220920/kim-dotcom-megaupload-us-extradition-trial)
- - [JD.com reports Q2 net revenue up 1.2% YoY to ~$40.7B, vs. ~$40.9B est., and a ~$1.7B net income, boosted by aggressive price cuts and the 618 shopping event &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240815/p12#a240815p12)
- - [Quantum Circuits, which aims to make error correction more efficient in quantum computers to help commercialization, raised $60M from the US&#39; In-Q-Tel and more &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240815/p11#a240815p11)
- - [A survey of 430 first-time Gen Z voters: 60%+ oppose requiring kids under 16 to get parental consent to use social media and 85% oppose notification time limits &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240815/p10#a240815p10)
- - [Google Has Unleashed Its Legal Fury on Hackers and Scammers](https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/)<!-- TECH:END -->
+ - [JD.com reports Q2 net revenue up 1.2% YoY to ~$40.7B, vs. ~$40.9B est., and a ~$1.7B net income, boosted by aggressive price cuts and the 618 shopping event &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240815/p12#a240815p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

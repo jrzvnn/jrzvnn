@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to seamlessly switch from Google Photos to iCloud Photos](https://appleinsider.com/inside/icloud/tips/how-to-seamlessly-switch-from-google-photos-to-icloud-photos?utm_medium=rss)
  - [A look at the five-person Gen Z team running Kamala Harris&#39; TikTok account @KamalaHQ, capitalizing on the VP&#39;s viral moments and averaging 6M views per post &lpar;CNN&rpar;](http://www.techmeme.com/240814/p40#a240814p40)
  - [Best Gifts Available on Amazon: 24 Gifts From $10 to $250](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)
  - [In the final hearing on remedies after Epic&#39;s antitrust win, the judge says he&#39;ll &quot;tear the barriers down&quot; on Google&#39;s app store but won&#39;t &quot;micromanage&quot; Google &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240814/p39#a240814p39)
- - [Samsung Galaxy S23 Deals: Save With New Lines and Trade-Ins](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [CFIUS fines T-Mobile a record $60M for allegedly failing to prevent and report unauthorized access to sensitive data after its Sprint merger in 2020 &lpar;Reuters&rpar;](http://www.techmeme.com/240814/p38#a240814p38)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Save With New Lines and Trade-Ins](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

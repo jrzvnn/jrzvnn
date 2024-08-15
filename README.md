@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s new voice mode threw me into the uncanny valley](https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley)
  - [Digital IDs in Apple Wallet now confirmed for California residents](https://appleinsider.com/articles/24/08/15/digital-ids-in-apple-wallet-now-confirmed-for-california-residents?utm_medium=rss)
  - [Woot is taking up to $200 off the Sonos Arc and second-gen Sonos Beam](https://www.theverge.com/2024/8/15/24221106/woot-sonos-arc-sonos-beam-soundbar-random-audio-deal-sale)
  - [California announces support for adding driver&#39;s licenses or state IDs to Apple Wallet and Google Wallet, rolling out &quot;in the coming weeks&quot; &lpar;Shawna Chen/Axios&rpar;](http://www.techmeme.com/240815/p25#a240815p25)
- - [M4 MacBook Pro updates could be imminent with display shipments starting](https://appleinsider.com/articles/24/08/15/m4-macbook-pro-updates-could-be-imminent-with-display-shipments-starting?utm_medium=rss)
- - [Tether Was Playing a Risky Game, a New Celsius Suit Reveals](https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/)<!-- TECH:END -->
+ - [M4 MacBook Pro updates could be imminent with display shipments starting](https://appleinsider.com/articles/24/08/15/m4-macbook-pro-updates-could-be-imminent-with-display-shipments-starting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

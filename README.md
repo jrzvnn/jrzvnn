@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digital IDs in Apple Wallet now confirmed for California residents](https://appleinsider.com/articles/24/08/15/digital-ids-in-apple-wallet-now-confirmed-for-california-residents?utm_medium=rss)
+ - [Woot is taking up to $200 off the Sonos Arc and second-gen Sonos Beam](https://www.theverge.com/2024/8/15/24221106/woot-sonos-arc-sonos-beam-soundbar-random-audio-deal-sale)
+ - [California announces support for adding driver&#39;s licenses or state IDs to Apple Wallet and Google Wallet, rolling out &quot;in the coming weeks&quot; &lpar;Shawna Chen/Axios&rpar;](http://www.techmeme.com/240815/p25#a240815p25)
  - [M4 MacBook Pro updates could be imminent with display shipments starting](https://appleinsider.com/articles/24/08/15/m4-macbook-pro-updates-could-be-imminent-with-display-shipments-starting?utm_medium=rss)
- - [Tether Was Playing a Risky Game, a New Celsius Suit Reveals](https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/)
- - [Suggestions for how the stranded Boeing Starliner astronauts can entertain themselves](https://www.theverge.com/2024/8/15/24221122/boeing-starliner-astronauts-stranded-iss)
- - [Threads announces new features, like the ability to store multiple drafts and an analytics page, rolling out on the web, and plans to test a scheduling feature &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240815/p24#a240815p24)
- - [Google Pixel phones sold with security vulnerability, report finds](https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify)<!-- TECH:END -->
+ - [Tether Was Playing a Risky Game, a New Celsius Suit Reveals](https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

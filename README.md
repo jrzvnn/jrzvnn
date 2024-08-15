@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly All Google Pixel Phones Are Left Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)
- - [HP OmniBook X 14 review: a barely disguised business laptop with excellent battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)
- - [Amazon slashes up to $250 off Apple&#39;s M4 iPad Pro during back-to-school sale](https://appleinsider.com/articles/24/08/15/amazon-slashes-up-to-250-off-apples-m4-ipad-pro?utm_medium=rss)
- - [Cash App Customers Are Eligible for a Payout. Submit a $2,500 Settlement Claim Form Online](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-payout-submit-a-2500-settlement-claim-form-online/#ftag=CAD590a51e)
- - [Nab JBL&#39;s Horizon 2 FM Alarm Clock for Only $32 Today](https://www.cnet.com/deals/nab-jbls-horizon-2-fm-alarm-clock-for-only-32-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israeli stock research service TipRanks says investment firm Prytek bought 40% of the startup for $80M, giving Prytek an 80% stake; TipRanks has raised $102M &lpar;CTech&rpar;](http://www.techmeme.com/240815/p20#a240815p20)
+ - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
+ - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)
+ - [Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)
+ - [HP OmniBook X 14 review: a barely disguised business laptop with excellent battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

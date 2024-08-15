@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to seamlessly switch from Google Photos to iCloud Photos](https://appleinsider.com/inside/icloud/tips/how-to-seamlessly-switch-from-google-photos-to-icloud-photos?utm_medium=rss)
- - [A look at the five-person Gen Z team running Kamala Harris&#39; TikTok account @KamalaHQ, capitalizing on the VP&#39;s viral moments and averaging 6M views per post &lpar;CNN&rpar;](http://www.techmeme.com/240814/p40#a240814p40)
- - [Best Gifts Available on Amazon: 24 Gifts From $10 to $250](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)
- - [In the final hearing on remedies after Epic&#39;s antitrust win, the judge says he&#39;ll &quot;tear the barriers down&quot; on Google&#39;s app store but won&#39;t &quot;micromanage&quot; Google &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240814/p39#a240814p39)
- - [Samsung Galaxy S23 Deals: Save With New Lines and Trade-Ins](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 15 #431](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-15-431/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 15, #1153](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-15-1153/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 15, #165](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-15-165/#ftag=CAD590a51e)
+ - [A look at the five-person Gen Z team running Kamala Harris&#39; TikTok account @KamalaHQ, capitalizing on the VP&#39;s viral moments and averaging 6M views per post &lpar;CNN&rpar;](http://www.techmeme.com/240814/p40#a240814p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

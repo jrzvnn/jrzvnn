@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India says Apple is the fastest-growing firm in the country for the last 50 years](https://appleinsider.com/articles/24/08/15/india-says-apple-is-the-fastest-growing-firm-in-the-country-for-the-last-50-years?utm_medium=rss)
+ - [India says Apple is the fastest-growing firm in the country over the last 50 years](https://appleinsider.com/articles/24/08/15/india-says-apple-is-the-fastest-growing-firm-in-the-country-for-the-last-50-years?utm_medium=rss)
+ - [Apple iPhone 15 vs Google Pixel 9 - the smartphones for everybody, compared](https://appleinsider.com/inside/iphone-15/vs/apple-iphone-15-vs-google-pixel-9---the-smartphones-for-everybody-compared?utm_medium=rss)
  - [Groyper war, dark elves, bugmen: how the GOP ticket is reviving far-right beef](https://www.theverge.com/2024/8/15/24218765/nick-fuentes-groyper-war-trump-campaign-curtis-yarvin)
  - [The HoverAir X1 selfie drone is getting big resolution upgrades in two new versions](https://www.theverge.com/2024/8/15/24220959/hoverair-drones-selfies-x1-pro-max)
- - [What you can do about the massive data breach that probably exposed all of your personal info](https://appleinsider.com/inside/iphone/tips/what-you-can-do-about-the-massive-data-breach-that-probably-exposed-all-of-your-personal-info?utm_medium=rss)
- - [Dyson OnTrac Headphones Review: A Solid, Visually Customizable Pair](https://www.wired.com/review/dyson-ontrac/)<!-- TECH:END -->
+ - [What you can do about the massive data breach that probably exposed all of your personal info](https://appleinsider.com/inside/iphone/tips/what-you-can-do-about-the-massive-data-breach-that-probably-exposed-all-of-your-personal-info?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

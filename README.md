@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How University of California doctors used brain implants and AI to help an ALS patient speak again; the implants recognize words, and AI replicates his voice &lpar;Benjamin Mueller/New York Times&rpar;](http://www.techmeme.com/240815/p7#a240815p7)
  - [The UK&#39;s Civil Aviation Authority selects six projects, including Amazon&#39;s, to test drones for deliveries, inspecting infrastructure, and emergency services &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/240815/p6#a240815p6)
  - [This Code Breaker Is Using AI to Decode the Heart’s Secret Rhythms](https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/)
  - [A look at the rise in demand for data center technicians in the US; CompTIA says technicians&#39; pay is up 43% in the past three years to a median of $75,100 &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/240815/p5#a240815p5)
- - [A profile of Chinese self-driving startup WeRide, which is set for a US IPO as soon as this week; PitchBook: WeRide has raised $1.4B and was last valued at ~$5B &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/240815/p4#a240815p4)
- - [Amsterdam-based payments giant Adyen reports H1 2024 net revenue up 24% YoY to &amp;euro;913.4M, vs. &amp;euro;908.9M est., and processed volume up 45% YoY to &amp;euro;619.5B &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240815/p3#a240815p3)<!-- TECH:END -->
+ - [A profile of Chinese self-driving startup WeRide, which is set for a US IPO as soon as this week; PitchBook: WeRide has raised $1.4B and was last valued at ~$5B &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/240815/p4#a240815p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

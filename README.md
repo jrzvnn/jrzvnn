@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
- - 😝 [When you are offended but can&#39;t figure out why.](http://9gag.com/gag/aAywnA0)
- - 💣 [Was.](http://9gag.com/gag/aZZBGDX)
+ - 😝 [Brits themselves own less than 50% of the UK](http://9gag.com/gag/arybeRV)
+ - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 💣 [What?](http://9gag.com/gag/amoYNjd)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
+ - 👉 [True](http://9gag.com/gag/aQz96Gd)<!-- MEMES:END -->
 
 ---
 

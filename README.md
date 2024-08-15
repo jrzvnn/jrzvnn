@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
- - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 💣 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
- - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
- - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
+ - 😝 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
+ - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 💣 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
 
 ---
 

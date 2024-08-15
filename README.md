@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True](http://9gag.com/gag/aQz96Gd)
- - 😝 [Dvd butter](http://9gag.com/gag/avyG0yn)
- - 💣 [What?](http://9gag.com/gag/amoYNjd)
+ - 😝 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - 😝 [What?](http://9gag.com/gag/amoYNjd)
+ - 💣 [Beach volley was nice](http://9gag.com/gag/azx878m)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [The mouse was hungry](http://9gag.com/gag/a9yrdPZ)<!-- MEMES:END -->
+ - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
 
 ---
 

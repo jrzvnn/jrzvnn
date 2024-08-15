@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California lawmakers weaken the AI safety bill with amendments proposed by Anthropic and other opponents, including giving the AG less power to sue AI companies &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240815/p29#a240815p29)
  - [Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240815/p28#a240815p28)
  - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)
  - [The Best Credit Cards for Earning Hyatt Points in August 2024](https://www.cnet.com/personal-finance/credit-cards-for-earning-hyatt-points/#ftag=CAD590a51e)
- - [Inflation Dip Puts Pressure on Fed to Cut Rates](https://www.cnet.com/personal-finance/inflation-dip-puts-pressure-on-fed-to-cut-rates/#ftag=CAD590a51e)
- - [Best Internet Providers in Cheyenne, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inflation Dip Puts Pressure on Fed to Cut Rates](https://www.cnet.com/personal-finance/inflation-dip-puts-pressure-on-fed-to-cut-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 😝 [What?](http://9gag.com/gag/amoYNjd)
- - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 💣 [Busty in black](http://9gag.com/gag/ayNDEjM)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)<!-- MEMES:END -->
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 

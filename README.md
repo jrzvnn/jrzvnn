@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H is blowing out Apple hardware at up to $500 off](https://appleinsider.com/articles/24/08/15/bh-is-blowing-out-apple-hardware-at-up-to-500-off?utm_medium=rss)
- - [Some website publishers say they can&#39;t block the Googlebot crawler that covers AI Overviews, as the crawler also covers Search, hampering sites&#39; discoverability &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p22#a240815p22)
- - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2024&rpar;](https://www.wired.com/gallery/best-pizza-ovens-1/)
- - [Researchers Have Ranked AI Models Based on Risk—and Found a Wild Range](https://www.wired.com/story/ai-models-risk-rank-studies/)
- - [Rivian’s new fold-and-stow electric kitchen lets you cook atop your tailgate](https://www.theverge.com/2024/8/15/24220583/rivian-travel-kitchen-accessory-induction-cooktop-camping)<!-- TECH:END -->
+ - [Geekbench launches new AI benchmarking tool for macOS and iOS](https://appleinsider.com/articles/24/08/15/geekbench-launches-new-ai-benchmarking-tool-for-macos-and-ios?utm_medium=rss)
+ - [Activision is finally doing something about Call of Duty’s giant downloads](https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6)
+ - [Threads is testing several new features like scheduling and analytics](https://www.theverge.com/2024/8/15/24220224/meta-threads-features-scheduling-insights-drafts)
+ - [Sennheiser’s heart-tracking ANC earbuds are almost $80 off](https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale)
+ - [Klarna rolls out a checking account-like product and a cashback offering in 12 markets including the US and across Europe, as it prepares for a US IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240815/p23#a240815p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

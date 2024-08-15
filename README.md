@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240815/p28#a240815p28)
  - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)
  - [The Uncertain Path Forward for Psychedelic Medicine](https://www.wired.com/story/where-does-psychedelic-assisted-therapy-go-next-mdma-fda-lykos/)
  - [Google’s upgraded AI image generator is now available](https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available)
- - [Meta’s VR version of GTA: San Andreas is ‘on hold indefinitely’](https://www.theverge.com/2024/8/15/24221315/meta-vr-version-gta-san-andreas-on-hold)
- - [Meta releases an app for the Quest 3, 2, and Pro to let the headsets display video from devices with an HDMI or DisplayPort output; a capture card is required &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240815/p27#a240815p27)<!-- TECH:END -->
+ - [Meta’s VR version of GTA: San Andreas is ‘on hold indefinitely’](https://www.theverge.com/2024/8/15/24221315/meta-vr-version-gta-san-andreas-on-hold)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

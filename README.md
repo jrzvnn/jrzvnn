@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether Was Playing a Risky Game, a New Celsius Suit Reveals](https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/)
  - [Suggestions for how the stranded Boeing Starliner astronauts can entertain themselves](https://www.theverge.com/2024/8/15/24221122/boeing-starliner-astronauts-stranded-iss)
  - [Threads announces new features, like the ability to store multiple drafts and an analytics page, rolling out on the web, and plans to test a scheduling feature &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240815/p24#a240815p24)
  - [Google Pixel phones sold with security vulnerability, report finds](https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify)
- - [Geekbench launches new AI benchmarking tool for macOS and iOS](https://appleinsider.com/articles/24/08/15/geekbench-launches-new-ai-benchmarking-tool-for-macos-and-ios?utm_medium=rss)
- - [Activision is finally doing something about Call of Duty’s giant downloads](https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6)<!-- TECH:END -->
+ - [Geekbench launches new AI benchmarking tool for macOS and iOS](https://appleinsider.com/articles/24/08/15/geekbench-launches-new-ai-benchmarking-tool-for-macos-and-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

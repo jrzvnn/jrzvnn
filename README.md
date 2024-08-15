@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)
  - [Israeli stock research service TipRanks says investment firm Prytek bought 40% of the startup for $80M, giving Prytek an 80% stake; TipRanks has raised $102M &lpar;CTech&rpar;](http://www.techmeme.com/240815/p20#a240815p20)
  - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
  - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)
- - [Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)
- - [HP’s OmniBook X 14 is a barely disguised business laptop with great battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)<!-- TECH:END -->
+ - [Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

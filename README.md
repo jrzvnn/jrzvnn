@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank held talks with Intel about making an AI chip to compete with Nvidia but Intel couldn&#39;t meet demands; SoftBank is now in discussions with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/240815/p1#a240815p1)
  - [How to seamlessly switch from Google Photos to iCloud Photos](https://appleinsider.com/inside/icloud/tips/how-to-seamlessly-switch-from-google-photos-to-icloud-photos?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 15 #431](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-15-431/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 15, #1153](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-15-1153/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 15, #165](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-15-165/#ftag=CAD590a51e)
- - [A look at the five-person Gen Z team running Kamala Harris&#39; TikTok account @KamalaHQ, capitalizing on the VP&#39;s viral moments and averaging 6M views per post &lpar;CNN&rpar;](http://www.techmeme.com/240814/p40#a240814p40)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 15, #165](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-15-165/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

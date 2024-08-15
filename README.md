@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
- - 😝 [Minerva McGonagall spittin facts](http://9gag.com/gag/axyVEo2)
- - 💣 [She&#39;s not done yet](http://9gag.com/gag/aMV8eGx)
+ - 😝 [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)
+ - 😝 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 💣 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Always judge a book by his cover.](http://9gag.com/gag/aLnDR4V)<!-- MEMES:END -->
+ - 👉 [Stunning and brave](http://9gag.com/gag/agmL36q)<!-- MEMES:END -->
 
 ---
 

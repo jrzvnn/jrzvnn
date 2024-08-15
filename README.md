@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - 😝 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
+ - 😝 [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - 💣 [What?](http://9gag.com/gag/amoYNjd)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
+ - 👉 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)<!-- MEMES:END -->
 
 ---
 

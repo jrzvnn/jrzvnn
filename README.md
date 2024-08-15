@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Californians will soon be able to add their driver’s licenses in Apple Wallet](https://www.theverge.com/2024/8/15/24221196/apple-wallet-drivers-license-california-mdl-pilot)
+ - [Pixel problems: Google&#39;s security nightmare caused by hidden software](https://appleinsider.com/articles/24/08/15/pixel-problems-googles-security-nightmare-caused-by-hidden-software?utm_medium=rss)
  - [Another blow to the US’ offshore wind ambitions](https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution)
  - [OpenAI’s new voice mode threw me into the uncanny valley](https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley)
- - [Digital IDs in Apple Wallet now confirmed for California residents](https://appleinsider.com/articles/24/08/15/digital-ids-in-apple-wallet-now-confirmed-for-california-residents?utm_medium=rss)
- - [Woot is taking up to $200 off the Sonos Arc and second-gen Sonos Beam](https://www.theverge.com/2024/8/15/24221106/woot-sonos-arc-sonos-beam-soundbar-random-audio-deal-sale)
- - [California announces support for adding driver&#39;s licenses or state IDs to Apple Wallet and Google Wallet, rolling out &quot;in the coming weeks&quot; &lpar;Shawna Chen/Axios&rpar;](http://www.techmeme.com/240815/p25#a240815p25)<!-- TECH:END -->
+ - [Google Pulls Built-In Pixel Phone App After Security Alarms Raised](https://www.cnet.com/tech/mobile/google-pulls-built-in-pixel-phone-app-after-security-alarms-raised/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

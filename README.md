@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly All Google Pixel Phones Are Left Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)
+ - [HP OmniBook X 14 review: a barely disguised business laptop with excellent battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)
  - [Amazon slashes up to $250 off Apple&#39;s M4 iPad Pro during back-to-school sale](https://appleinsider.com/articles/24/08/15/amazon-slashes-up-to-250-off-apples-m4-ipad-pro?utm_medium=rss)
- - [Q&amp;A with Google SVP Rick Osterloh on the new Pixel devices, Android, the history of the smartphone, integration, AI smartphones, Pixel trade-offs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240815/p18#a240815p18)
- - [Your Photos Aren’t Real](https://www.wired.com/story/gadget-lab-podcast-655/)
- - [Google expands AI Overviews in Search to Brazil, India, Indonesia, Japan, Mexico, and the UK in local languages, and adds hyperlinks to the feature &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240815/p17#a240815p17)
- - [Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240815/p16#a240815p16)<!-- TECH:END -->
+ - [Cash App Customers Are Eligible for a Payout. Submit a $2,500 Settlement Claim Form Online](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-payout-submit-a-2500-settlement-claim-form-online/#ftag=CAD590a51e)
+ - [Nab JBL&#39;s Horizon 2 FM Alarm Clock for Only $32 Today](https://www.cnet.com/deals/nab-jbls-horizon-2-fm-alarm-clock-for-only-32-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

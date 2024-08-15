@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some website publishers say they can&#39;t block the Googlebot crawler that covers AI Overviews, as the crawler also covers Search, hampering sites&#39; discoverability &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p22#a240815p22)
  - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2024&rpar;](https://www.wired.com/gallery/best-pizza-ovens-1/)
- - [Researchers Have Ranked the Nicest and Naughtiest AI Models](https://www.wired.com/story/ai-models-risk-rank-studies/)
+ - [Researchers Have Ranked AI Models Based on Risk—and Found a Wild Range](https://www.wired.com/story/ai-models-risk-rank-studies/)
  - [Rivian’s new fold-and-stow electric kitchen lets you cook atop your tailgate](https://www.theverge.com/2024/8/15/24220583/rivian-travel-kitchen-accessory-induction-cooktop-camping)
- - [Dragon Age: The Veilguard launches this fall](https://www.theverge.com/2024/8/15/24220559/dragon-age-veilguard-release-date-trailer-gamescom)
- - [India says Apple is the fastest-growing firm in the country over the last 50 years](https://appleinsider.com/articles/24/08/15/india-says-apple-is-the-fastest-growing-firm-in-the-country-for-the-last-50-years?utm_medium=rss)<!-- TECH:END -->
+ - [Dragon Age: The Veilguard launches this fall](https://www.theverge.com/2024/8/15/24220559/dragon-age-veilguard-release-date-trailer-gamescom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

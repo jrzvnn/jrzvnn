@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
- - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
- - 💣 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
+ - 😝 [First Class Problems](http://9gag.com/gag/abApqgB)
+ - 😝 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - 💣 [Accident on the highway](http://9gag.com/gag/axyV2Ep)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Stunning and brave](http://9gag.com/gag/agmL36q)<!-- MEMES:END -->
+ - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
 
 ---
 

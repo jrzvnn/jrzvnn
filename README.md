@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple accused of using privacy to excuse ignoring child abuse material on iCloud](https://appleinsider.com/articles/24/08/15/apple-accused-of-using-privacy-to-excuse-ignoring-child-abuse-material-on-icloud?utm_medium=rss)
  - [Apple Card is still best in its customer satisfaction category for four straight years](https://appleinsider.com/articles/24/08/15/apple-card-is-still-best-in-its-customer-satisfaction-category-for-four-straight-years?utm_medium=rss)
  - [Apple collaborates with Kim Kardashian on limited-edition Beats Studio Pro](https://appleinsider.com/articles/24/08/15/apple-collaborates-with-kim-kardashian-on-limited-edition-beats-studio-pro?utm_medium=rss)
  - [Google’s AI-generated search summaries change how they show their sources](https://www.theverge.com/2024/8/15/24220581/google-search-ai-overviews-links-citations-expanded-rollout)
- - [The Best Cooling Sheets for Hot Summer Nights, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
- - [NYC-based Chaos Labs, which offers automated, on-chain risk management for DeFi protocols, raised a $55M Series A led by Haun Ventures &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240815/p21#a240815p21)<!-- TECH:END -->
+ - [The Best Cooling Sheets for Hot Summer Nights, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

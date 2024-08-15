@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Photos Aren’t Real](https://www.wired.com/story/gadget-lab-podcast-655/)
  - [Google expands AI Overviews in Search to Brazil, India, Indonesia, Japan, Mexico, and the UK in local languages, and adds hyperlinks to the feature &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240815/p17#a240815p17)
  - [Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240815/p16#a240815p16)
  - [The Who&#39;s Who of Political Influencers](https://www.wired.com/story/political-influencers-2024-election/)
- - [Analysis: Kamala Harris has spent $57M on Google and Meta ads since Biden dropped out on July 21, compared to Trump&#39;s $5.6M; Biden-Harris spent $139M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240815/p15#a240815p15)
- - [How to seamlessly switch from Google Photos to iCloud Photos](https://appleinsider.com/inside/icloud/tips/how-to-seamlessly-switch-from-google-photos-to-icloud-photos?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: Kamala Harris has spent $57M on Google and Meta ads since Biden dropped out on July 21, compared to Trump&#39;s $5.6M; Biden-Harris spent $139M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240815/p15#a240815p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dogs are just the best](http://9gag.com/gag/aLnDR25)
- - 😝 [Daily struggle](http://9gag.com/gag/aPABw4g)
- - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [As a dog owner I had no idea that owning dogs was haram in Islam. Now I hate Islam even more.](http://9gag.com/gag/aE0Ywxo)<!-- MEMES:END -->
+ - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - 😝 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - 💣 [The full video](http://9gag.com/gag/aoy2b93)
+ - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 👉 [Stunning and brave](http://9gag.com/gag/agmL36q)<!-- MEMES:END -->
 
 ---
 

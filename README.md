@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A profile of Chinese self-driving startup WeRide, which is set for a US IPO as soon as this week; PitchBook: WeRide has raised $1.4B and was last valued at ~$5B &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/240815/p4#a240815p4)
  - [Amsterdam-based payments giant Adyen reports H1 2024 net revenue up 24% YoY to &amp;euro;913.4M, vs. &amp;euro;908.9M est., and processed volume up 45% YoY to &amp;euro;619.5B &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240815/p3#a240815p3)
+ - [Best Internet Providers in Daytona Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-daytona-beach-fl/#ftag=CAD590a51e)
  - [Lenovo reports Q1 revenue up 20% YoY to $15.4B, vs. $14.1B est., a third consecutive quarter of revenue growth, a $243M net income, as the PC market recovers &lpar;Reuters&rpar;](http://www.techmeme.com/240815/p2#a240815p2)
- - [Sources: SoftBank held talks with Intel about making an AI chip to compete with Nvidia but Intel couldn&#39;t meet demands; SoftBank is now in discussions with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/240815/p1#a240815p1)
- - [How to seamlessly switch from Google Photos to iCloud Photos](https://appleinsider.com/inside/icloud/tips/how-to-seamlessly-switch-from-google-photos-to-icloud-photos?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: SoftBank held talks with Intel about making an AI chip to compete with Nvidia but Intel couldn&#39;t meet demands; SoftBank is now in discussions with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/240815/p1#a240815p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

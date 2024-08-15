@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quantum Circuits, which aims to make error correction more efficient in quantum computers to help commercialization, raised $60M from the US&#39; In-Q-Tel and more &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240815/p11#a240815p11)
+ - [A survey of 430 first-time Gen Z voters: 60%+ oppose requiring kids under 16 to get parental consent to use social media and 85% oppose notification time limits &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240815/p10#a240815p10)
  - [Google Has Unleashed Its Legal Fury on Hackers and Scammers](https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/)
  - [This Is the Most Detailed Map of Brain Connections Ever Made](https://www.wired.com/story/this-is-the-most-detailed-map-of-brain-connections-ever-made-google-harvard/)
- - [New Zealand signs an extradition order for Kim Dotcom to the US, where he faces criminal charges related to Megaupload; Dotcom has fought extradition since 2012 &lpar;Reuters&rpar;](http://www.techmeme.com/240815/p9#a240815p9)
- - [Unit 42: open-source projects from Google, Microsoft, AWS, and others leaked GitHub auth tokens via GitHub Actions; GitHub decided not to address the risk &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240815/p8#a240815p8)
- - [How University of California doctors used brain implants and AI to help an ALS patient speak again; the implants recognize words, and AI replicates his voice &lpar;Benjamin Mueller/New York Times&rpar;](http://www.techmeme.com/240815/p7#a240815p7)<!-- TECH:END -->
+ - [New Zealand signs an extradition order for Kim Dotcom to the US, where he faces criminal charges related to Megaupload; Dotcom has fought extradition since 2012 &lpar;Reuters&rpar;](http://www.techmeme.com/240815/p9#a240815p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

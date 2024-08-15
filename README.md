@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes up to $250 off Apple&#39;s M4 iPad Pro during back-to-school sale](https://appleinsider.com/articles/24/08/15/amazon-slashes-up-to-250-off-apples-m4-ipad-pro?utm_medium=rss)
+ - [Q&amp;A with Google SVP Rick Osterloh on the new Pixel devices, Android, the history of the smartphone, integration, AI smartphones, Pixel trade-offs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240815/p18#a240815p18)
  - [Your Photos Aren’t Real](https://www.wired.com/story/gadget-lab-podcast-655/)
  - [Google expands AI Overviews in Search to Brazil, India, Indonesia, Japan, Mexico, and the UK in local languages, and adds hyperlinks to the feature &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240815/p17#a240815p17)
- - [Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240815/p16#a240815p16)
- - [The Who&#39;s Who of Political Influencers](https://www.wired.com/story/political-influencers-2024-election/)
- - [Analysis: Kamala Harris has spent $57M on Google and Meta ads since Biden dropped out on July 21, compared to Trump&#39;s $5.6M; Biden-Harris spent $139M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240815/p15#a240815p15)<!-- TECH:END -->
+ - [Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240815/p16#a240815p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

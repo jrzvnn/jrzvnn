@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Meta’s VR version of GTA: San Andreas is ‘on hold indefinitely’](https://www.theverge.com/2024/8/15/24221315/meta-vr-version-gta-san-andreas-on-hold)
- - [Meta releases an app for the Quest 3, 2, and Pro to let the headset display video from devices with an HDMI or DisplayPort output; a capture card is required &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240815/p27#a240815p27)
+ - [Meta releases an app for the Quest 3, 2, and Pro to let the headsets display video from devices with an HDMI or DisplayPort output; a capture card is required &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240815/p27#a240815p27)
  - [You can now use the Meta Quest as a screen for HDMI devices](https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c)
  - [The San Francisco City Attorney David Chiu files a lawsuit that seeks to shut down 16 popular websites used to create nonconsensual deepfake pornography &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240815/p26#a240815p26)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->

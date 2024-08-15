@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We live in a society](http://9gag.com/gag/aKGVgz3)
- - 😝 [The mouse was hungry](http://9gag.com/gag/a9yrdPZ)
- - 💣 [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
+ - 😝 [Mood](http://9gag.com/gag/a9yrj2K)
+ - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - 💣 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Quality job, right](http://9gag.com/gag/aLnDQOz)<!-- MEMES:END -->
+ - 👉 [Normal day in the third world country.](http://9gag.com/gag/axyV241)<!-- MEMES:END -->
 
 ---
 

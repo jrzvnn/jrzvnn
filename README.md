@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Enjoy a Hefty 39% Discount on Anker Soundcore Space A40 Earbuds Today](https://www.cnet.com/deals/enjoy-a-hefty-39-discount-on-anker-soundcore-space-a40-earbuds-today/#ftag=CAD590a51e)
  - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)
+ - [Refinance Activity Surges as Rates Fall. Today&#39;s Refi Rates, Aug. 15, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-mortgage-refinance-rates-for-aug-15-2024/#ftag=CAD590a51e)
  - [Israeli stock research service TipRanks says investment firm Prytek bought 40% of the startup for $80M, giving Prytek an 80% stake; TipRanks has raised $102M &lpar;CTech&rpar;](http://www.techmeme.com/240815/p20#a240815p20)
- - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
- - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)
- - [Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App](https://www.wired.com/story/google-android-pixel-showcase-vulnerability/)<!-- TECH:END -->
+ - [Mortgage Rates Hold Near 6.5% After Encouraging Inflation Data. Today&#39;s Mortgage Rates, Aug. 15, 2024](https://www.cnet.com/personal-finance/home-loan-rates-increased-over-the-last-week-mortgage-rates-for-aug-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

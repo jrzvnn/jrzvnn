@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily struggle](http://9gag.com/gag/aPABw4g)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
  - 😝 [Dogs are just the best](http://9gag.com/gag/aLnDR25)
  - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
  - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)

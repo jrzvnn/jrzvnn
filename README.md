@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
- - 😝 [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)
- - 💣 [Accident on the highway](http://9gag.com/gag/axyV2Ep)
+ - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 💣 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Lovely!](http://9gag.com/gag/a1mbpND)<!-- MEMES:END -->
+ - 👉 [Stunning and brave](http://9gag.com/gag/agmL36q)<!-- MEMES:END -->
 
 ---
 

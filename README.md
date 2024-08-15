@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
- - 😝 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 💣 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
- - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
+ - 😝 [Dogs are just the best](http://9gag.com/gag/aLnDR25)
+ - 😝 [Daily struggle](http://9gag.com/gag/aPABw4g)
+ - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 👉 [As a dog owner I had no idea that owning dogs was haram in Islam. Now I hate Islam even more.](http://9gag.com/gag/aE0Ywxo)<!-- MEMES:END -->
 
 ---
 

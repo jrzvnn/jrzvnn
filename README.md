@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
- - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
- - 💣 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
+ - 😝 [We live in a society](http://9gag.com/gag/aKGVgz3)
+ - 😝 [The mouse was hungry](http://9gag.com/gag/a9yrdPZ)
+ - 💣 [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
+ - 👉 [Quality job, right](http://9gag.com/gag/aLnDQOz)<!-- MEMES:END -->
 
 ---
 

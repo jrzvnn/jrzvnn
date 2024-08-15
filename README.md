@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240815/p28#a240815p28)
  - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)
- - [The Uncertain Path Forward for Psychedelic Medicine](https://www.wired.com/story/where-does-psychedelic-assisted-therapy-go-next-mdma-fda-lykos/)
- - [Google’s upgraded AI image generator is now available](https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available)
- - [Meta’s VR version of GTA: San Andreas is ‘on hold indefinitely’](https://www.theverge.com/2024/8/15/24221315/meta-vr-version-gta-san-andreas-on-hold)<!-- TECH:END -->
+ - [The Best Credit Cards for Earning Hyatt Points in August 2024](https://www.cnet.com/personal-finance/credit-cards-for-earning-hyatt-points/#ftag=CAD590a51e)
+ - [Inflation Dip Puts Pressure on Fed to Cut Rates](https://www.cnet.com/personal-finance/inflation-dip-puts-pressure-on-fed-to-cut-rates/#ftag=CAD590a51e)
+ - [Best Internet Providers in Cheyenne, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

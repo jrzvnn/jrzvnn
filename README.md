@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 😝 [Dogs are just the best](http://9gag.com/gag/aLnDR25)
- - 💣 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [As a dog owner I had no idea that owning dogs was haram in Islam. Now I hate Islam even more.](http://9gag.com/gag/aE0Ywxo)<!-- MEMES:END -->
+ - 😝 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - 😝 [Oj was og](http://9gag.com/gag/ayNLyrb)
+ - 💣 [The full video](http://9gag.com/gag/aoy2b93)
+ - 😝 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - 👉 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)<!-- MEMES:END -->
 
 ---
 

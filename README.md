@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel phones sold with security vulnerability, report finds](https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify)
  - [Geekbench launches new AI benchmarking tool for macOS and iOS](https://appleinsider.com/articles/24/08/15/geekbench-launches-new-ai-benchmarking-tool-for-macos-and-ios?utm_medium=rss)
  - [Activision is finally doing something about Call of Duty’s giant downloads](https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6)
  - [Threads is testing several new features like scheduling and analytics](https://www.theverge.com/2024/8/15/24220224/meta-threads-features-scheduling-insights-drafts)
- - [Sennheiser’s heart-tracking ANC earbuds are almost $80 off](https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale)
- - [Klarna rolls out a checking account-like product and a cashback offering in 12 markets including the US and across Europe, as it prepares for a US IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240815/p23#a240815p23)<!-- TECH:END -->
+ - [Sennheiser’s heart-tracking ANC earbuds are on sale for almost $80 off](https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

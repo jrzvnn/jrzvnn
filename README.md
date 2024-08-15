@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal day in the third world country.](http://9gag.com/gag/axyV241)
- - 😝 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
- - 💣 [Stunning and brave](http://9gag.com/gag/agmL36q)
+ - 😝 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
+ - 😝 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 💣 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)<!-- MEMES:END -->
+ - 👉 [Oii, listen!](http://9gag.com/gag/arybe6d)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
- - 💣 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
+ - 😝 [Something he hadn&#39;t thought of....](http://9gag.com/gag/aAydrBE)
+ - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)<!-- MEMES:END -->
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 ---
 

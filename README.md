@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)
- - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 😝 [This could be your job.](http://9gag.com/gag/aXPq93z)
- - 👉 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)<!-- MEMES:END -->
+ - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 😝 [Fresh Cut](http://9gag.com/gag/aoy1pzw)
+ - 💣 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 👉 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
- - 😝 [Turn back UK, Don&#39;t go into the shadows.](http://9gag.com/gag/aQz9402)
- - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 😝 [This could be your job.](http://9gag.com/gag/aXPq93z)
- - 👉 [My brain at 2am when I&#39;m trying to sleep](http://9gag.com/gag/a7oryGw)<!-- MEMES:END -->
+ - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 💣 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 ---
 

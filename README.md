@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says Iran tried to influence US elections with ChatGPT](https://www.theverge.com/2024/8/16/24221982/openai-iranian-chatgpt-accounts-banned-chatgpt-us-election)
  - [Walmart is ending DroneUp deliveries in three states](https://www.theverge.com/2024/8/16/24221964/walmart-ends-droneup-deliveries-three-states)
  - [Dark Matter is coming back for a second season on Apple TV Plus](https://www.theverge.com/2024/8/16/24221957/apple-tv-plus-dark-matter-season-2)
  - [TikTok says DoJ&#39;s China-link claims are overblown](https://appleinsider.com/articles/24/08/16/tiktok-says-dojs-china-link-claims-are-overblown?utm_medium=rss)
- - [OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn&#39;t gain much traction &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240816/p16#a240816p16)
- - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn&#39;t gain much traction &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240816/p16#a240816p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

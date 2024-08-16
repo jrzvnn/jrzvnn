@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google threatened tech influencers unless they ‘preferred’ the Pixel](https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers)
  - [Instagram is testing vertical profile grids — and knows that might mess up layouts](https://www.theverge.com/2024/8/16/24222022/instagram-vertical-profile-grids-mess-up-layouts)
  - [Marvel says X-Men ’97’s old showrunner was fired over ‘egregious’ investigation findings](https://www.theverge.com/2024/8/16/24222021/x-men-97-beau-demayo-sexual-harassment-season-2)
- - [A US appeals court largely upholds a ruling blocking the California Age-Appropriate Design Code Act, finding parts of the law likely violate the First Amendment &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240816/p18#a240816p18)
- - [Court blocks Disney-Fox-WBD sports streaming bundle](https://www.theverge.com/2024/8/16/24222035/venu-sports-disney-fox-wbd-blocked-court-antitrust)<!-- TECH:END -->
+ - [Best Back-to-School Gear for $100 or Less in 2024](https://www.cnet.com/tech/best-back-to-school-gear-under-100/#ftag=CAD590a51e)
+ - [A US appeals court largely upholds a ruling blocking the California Age-Appropriate Design Code Act, finding parts of the law likely violate the First Amendment &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240816/p18#a240816p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple warns of February store changes for EU developers, authors](https://appleinsider.com/articles/24/08/16/apple-warns-of-february-store-changes-for-eu-developers-authors?utm_medium=rss)
  - [Google’s head of Pixel 9 design won’t apologize for its big, beautiful camera bump](https://www.theverge.com/24220359/google-pixel-9-camera-bar-small-phones-claude-zellweger-interview)
  - [What Is Gemini Live and How Do You Use It?](https://www.wired.com/story/what-is-gemini-live/)
  - [Banshee Stealer malware haunts browser extensions on macOS](https://appleinsider.com/articles/24/08/16/banshee-stealer-malware-haunts-browser-extensions-on-macos?utm_medium=rss)
- - [FanDuel founders and other early shareholders sue KKR and Shamrock Capital over the 2018 Paddy Power Betfair merger that wiped out the value of their holdings &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240816/p14#a240816p14)
- - [Best iPhone 15 Deals: Get Big Discounts With Trade-Ins and New Contracts](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FanDuel founders and other early shareholders sue KKR and Shamrock Capital over the 2018 Paddy Power Betfair merger that wiped out the value of their holdings &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240816/p14#a240816p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

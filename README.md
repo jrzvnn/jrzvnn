@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)
  - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)
  - [Court filing: TikTok says DOJ misstated its ties to China, made factual errors in the case, and the divestment law would strip TikTok of its free speech rights &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240815/p33#a240815p33)
- - [Primate Labs releases Geekbench AI 1.0, formerly Geekbench ML, to test CPU, GPU, and NPU performance, available on Android, iOS, and desktop &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240815/p32#a240815p32)<!-- TECH:END -->
+ - [How to Go Through Menopause More Comfortably](https://www.cnet.com/health/medical/how-to-go-through-menopause-more-comfortably/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

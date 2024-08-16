@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Did Samsung Take Control of My Banking App? Inside Android’s ‘Clobbering’ Dilemma](https://www.wired.com/story/android-clobbering-app-store/)
- - [AI-powered ‘undressing’ websites are getting sued](https://www.theverge.com/2024/8/16/24221651/ai-deepfake-nude-undressing-websites-lawsuit-sanfrancisco)
- - [EQT agrees to buy PropertyGuru, which runs real estate rental and sale listing sites in SE Asia, for $1.1B in cash; the deal is expected to close by early 2025 &lpar;Will Davies/Bloomberg&rpar;](http://www.techmeme.com/240816/p7#a240816p7)
- - [Chinese chip equipment maker AMEC sues the Pentagon for linking AMEC to the Chinese military, seeks to get off a blacklist that bars business with US firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p6#a240816p6)
- - [EVs Are Losing Up to 50 Percent of Their Value in One Year](https://www.wired.com/story/evs-are-losing-up-to-50-percent-of-their-value-in-one-year/)<!-- TECH:END -->
+ - [Epic launches a rival app store for iOS in the EU, offering its games, including Fortnite, and plans to start onboarding third-party devs&#39; games from December &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240816/p8#a240816p8)
+ - [Fortnite is back on the iPhone — with a whole app store in tow](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store)
+ - [Epic Games Challenges Apple’s Dominance With New iOS App Store](https://www.wired.com/story/epic-games-store-eu-launch-vs-apple/)
+ - [&#39;Assassin’s Creed Shadows&#39; and How ‘DEI’ Became Gamergate 2.0’s Rallying Cry](https://www.wired.com/story/assassins-creed-shadows-dei-gamergate/)
+ - [iPhone 16: What We Know About the Release Date, Leaks and More](https://www.cnet.com/tech/mobile/apple-iphone-16-release-date-design-leaks-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

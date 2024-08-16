@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Overqualified](http://9gag.com/gag/aZZmN9W)
- - 😝 [MadeMeSmile](http://9gag.com/gag/abApy69)
- - 💣 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
- - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
- - 👉 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)<!-- MEMES:END -->
+ - 😝 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
+ - 😝 [Oii, listen!](http://9gag.com/gag/arybe6d)
+ - 💣 [Vampire](http://9gag.com/gag/a6Zbyy2)
+ - 😝 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
+ - 👉 [How to trigger whole Gen Z population with a single video](http://9gag.com/gag/a87yYZ1)<!-- MEMES:END -->
 
 ---
 

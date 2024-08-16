@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court largely upholds a ruling blocking the California Age-Appropriate Design Code Act, finding parts of the law likely violate the First Amendment &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240816/p18#a240816p18)
  - [Court blocks Disney-Fox-WBD sports streaming bundle](https://www.theverge.com/2024/8/16/24222035/venu-sports-disney-fox-wbd-blocked-court-antitrust)
  - [Acura’s Performance EV concept looks like an angry sports boat](https://www.theverge.com/2024/8/16/24221912/acura-performance-ev-concept-honda-electric-platform)
  - [Let this tiny bean bag chair for your lap hold your heavy handhelds](https://www.theverge.com/2024/8/16/24221940/gaming-pillow-handhelds-consoles-hands-free)
- - [Steamboat Willie-Style First-Person Shooter Has a Name: Mouse P.I. for Hire](https://www.cnet.com/tech/gaming/steamboat-willie-style-first-person-shooter-has-a-name-mouse-p-i-for-hire/#ftag=CAD590a51e)
- - [Best Mattress of 2024 -- Top Mattresses Tested by Sleep Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Intelligence vs Google AI, plus an iPad Robot on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/16/apple-intelligence-vs-google-ai-plus-an-ipad-robot-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

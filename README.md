@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a peach](http://9gag.com/gag/axyVGOM)
- - 😝 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
- - 💣 [MadeMeSmile](http://9gag.com/gag/abApy69)
- - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)<!-- MEMES:END -->
+ - 😝 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
+ - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
+ - 💣 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
+ - 😝 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
+ - 👉 [Oii, listen!](http://9gag.com/gag/arybe6d)<!-- MEMES:END -->
 
 ---
 

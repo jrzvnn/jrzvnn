@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)
+ - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)
  - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)
  - [Court filing: TikTok says DOJ misstated its ties to China, made factual errors in the case, and the divestment law would strip TikTok of its free speech rights &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240815/p33#a240815p33)
- - [Primate Labs releases Geekbench AI 1.0, formerly Geekbench ML, to test CPU, GPU, and NPU performance, available on Android, iOS, and desktop &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240815/p32#a240815p32)
- - [Lincoln’s massive digital dash fits right into the new Navigator](https://www.theverge.com/2024/8/15/24221242/lincoln-navigator-2025-panoramic-display-digital-dashboard)
- - [Binance resumes services in India, after completing registration with India&#39;s Financial Intelligence Unit, which imposed a ~$2.2M fine on Binance in June 2024 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240815/p31#a240815p31)<!-- TECH:END -->
+ - [Primate Labs releases Geekbench AI 1.0, formerly Geekbench ML, to test CPU, GPU, and NPU performance, available on Android, iOS, and desktop &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240815/p32#a240815p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

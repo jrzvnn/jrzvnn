@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Primate Labs releases Geekbench AI 1.0, formerly Geekbench ML, to test CPU, GPU, and NPU performance, available on Android, iOS, and desktop &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240815/p32#a240815p32)
+ - [Lincoln’s massive digital dash fits right into the new Navigator](https://www.theverge.com/2024/8/15/24221242/lincoln-navigator-2025-panoramic-display-digital-dashboard)
+ - [Binance resumes services in India, after completing registration with India&#39;s Financial Intelligence Unit, which imposed a ~$2.2M fine on Binance in June 2024 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240815/p31#a240815p31)
  - [Geekbench has an AI benchmark now](https://www.theverge.com/2024/8/15/24221382/geekbench-ai-benchmark-software)
- - [At a Crypto4Harris online event, Mark Cuban, Anthony Scaramucci, and other crypto advocates supporting Kamala Harris urged a reset in Democratic crypto policy &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240815/p30#a240815p30)
- - [California lawmakers weaken the AI safety bill with amendments proposed by Anthropic and other opponents, including giving the AG less power to sue AI companies &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240815/p29#a240815p29)
- - [Best Wi-Fi Routers for 2024](https://www.cnet.com/home/internet/best-wi-fi-router/#ftag=CAD590a51e)
- - [Best Laptop for High School Students in 2024](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At a Crypto4Harris online event, Mark Cuban, Anthony Scaramucci, and other crypto advocates supporting Kamala Harris urged a reset in Democratic crypto policy &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240815/p30#a240815p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

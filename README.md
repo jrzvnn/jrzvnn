@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
- - 😝 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
- - 💣 [Peak romance](http://9gag.com/gag/apRpoO9)
- - 😝 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
- - 👉 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)<!-- MEMES:END -->
+ - 😝 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - 💣 [MadeMeSmile](http://9gag.com/gag/abApy69)
+ - 😝 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - 👉 [`Come on guys, it&#39;s not gonna get that bad. No I&#39;m not gonna close early, people have to eat even if it&#39;s raining..`](http://9gag.com/gag/ayND0oY)<!-- MEMES:END -->
 
 ---
 

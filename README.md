@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 😝 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)
  - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 💣 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 👉 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)<!-- MEMES:END -->
 
 ---
 

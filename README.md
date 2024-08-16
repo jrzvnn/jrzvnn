@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revolut secures a $45B valuation, up from $33B during a 2021 fundraising, in a share sale by employees; the sale was led by Coatue and D1 Capital Partners &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240816/p5#a240816p5)
  - [Microsoft PowerToys will launch and automatically arrange your favorite apps](https://www.theverge.com/2024/8/16/24221639/microsoft-powertoys-workspaces-feature-demo)
  - [The Biden administration approves $1.6B in Chips Act grants and $3B in loans for Texas Instruments, to support its one chip factory in Utah and two in Texas &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240816/p4#a240816p4)
  - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
- - [Appfigures: consumers spent $3.8B on entertainment apps for mobile devices worldwide in Q1 2024, including $2.1B on streaming apps and $0.9B on short video apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240816/p3#a240816p3)
- - [Chainalysis: the value of crypto hacks increased by ~84% to $1.58B in the first seven months of 2024, likely due in large part to the rise in crypto prices &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240816/p2#a240816p2)<!-- TECH:END -->
+ - [Appfigures: consumers spent $3.8B on entertainment apps for mobile devices worldwide in Q1 2024, including $2.1B on streaming apps and $0.9B on short video apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240816/p3#a240816p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

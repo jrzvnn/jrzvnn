@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)
+ - [Epic confirms that the Epic Games Store is available to download on Android devices worldwide, in addition to iPhones in the EU &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/240816/p9#a240816p9)
  - [11 Best Laptops and Tablets for Students for the 2024 School Year](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)
  - [Epic launches a rival app store for iOS in the EU, offering its games, including Fortnite, and plans to start onboarding third-party devs&#39; games from December &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240816/p8#a240816p8)
- - [Fortnite is back on the iPhone — with a whole app store in tow](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store)
- - [Epic Games Challenges Apple’s Dominance With New iOS App Store](https://www.wired.com/story/epic-games-store-eu-launch-vs-apple/)
- - [&#39;Assassin’s Creed Shadows&#39; and How ‘DEI’ Became Gamergate 2.0’s Rallying Cry](https://www.wired.com/story/assassins-creed-shadows-dei-gamergate/)<!-- TECH:END -->
+ - [Fortnite is back on the iPhone — with a whole app store in tow](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to See the Conjunction Between Mars, Jupiter, and the Moon](https://www.wired.com/story/how-to-see-the-conjunction-between-mars-jupiter-and-the-moon-this-august/)
+ - [Best CD Rates Today -- Act Now to Lock in a High APY, Aug. 16, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-16-2024/#ftag=CAD590a51e)
+ - [Social Security Numbers and Personal Data of Billions Breached in National Public Data Cyber Attack. Here’s What You Need To Know](https://www.cnet.com/how-to/billions-may-have-been-compromised-in-national-public-data-breach-heres-what-you-should-do-next/#ftag=CAD590a51e)
  - [Anker’s speedy Qi2 charging stand is already 20 percent off](https://www.theverge.com/2024/8/16/24221166/anker-maggo-wireless-qi2-charger-breath-of-the-wild-deal-sale)
- - [Walmart and its drone delivery partner DroneUp are ending drone delivery in Phoenix, Salt Lake City, and Tampa to focus on the Dallas-Fort Worth area &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240816/p13#a240816p13)
- - [Playing Fortnite on iPhone again has shown me an alternate future](https://www.theverge.com/24221683/hands-on-fortnite-iphone-europe-epic-games-store)
- - [Caresyntax, which is building AI-powered surgical data analysis tools, raised a $180M Series C extension consisting of $80M in equity and $100M in debt &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/240816/p12#a240816p12)
- - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)<!-- TECH:END -->
+ - [You&#39;re Using Your Knife Block Wrong](https://www.cnet.com/how-to/youre-using-your-knife-block-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

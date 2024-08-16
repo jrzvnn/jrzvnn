@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well damn.](http://9gag.com/gag/aPABDMG)
- - 😝 [Women are marching from every street demanding justice for the RG Kar Medical College r@pe-mu\u20b9der victim. People of Kolkata say that this is unprecedented, they have never seen people, especially women, marching on the streets in such anger.kolkata india.](http://9gag.com/gag/a87yWgp)
- - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
- - 😝 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
- - 👉 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)<!-- MEMES:END -->
+ - 😝 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
+ - 😝 [Oii, listen!](http://9gag.com/gag/arybe6d)
+ - 💣 [Vampire](http://9gag.com/gag/a6Zbyy2)
+ - 😝 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
+ - 👉 [How to trigger whole Gen Z population with a single video](http://9gag.com/gag/a87yYZ1)<!-- MEMES:END -->
 
 ---
 

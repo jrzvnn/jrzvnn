@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [National Public Data admits it leaked Social Security numbers in a massive data breach](https://www.theverge.com/2024/8/16/24222112/data-breach-national-public-data-2-9-billion-ssn)
  - [Google says it &quot;missed the mark&quot; after leaked screenshots showed a Team Pixel program agreement threatened influencers who didn&#39;t showcase the Pixel over rivals &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240816/p19#a240816p19)
  - [Give Your Body Morning Sunlight for a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)
  - [Huawei&#39;s Rumored Trifold Foldable Spotted in Public, Slimly Folded Up](https://www.cnet.com/tech/mobile/huaweis-rumored-trifold-foldable-spotted-in-public-slimly-folded-up/#ftag=CAD590a51e)
- - [Fubo Granted Injunction Stopping Launch of Venu Sports Streaming Service](https://www.cnet.com/tech/services-and-software/fubo-granted-injunction-stopping-launch-of-venu-sports-streaming-service/#ftag=CAD590a51e)
- - [Google threatened tech influencers unless they ‘preferred’ the Pixel](https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers)<!-- TECH:END -->
+ - [Fubo Granted Injunction Stopping Launch of Venu Sports Streaming Service](https://www.cnet.com/tech/services-and-software/fubo-granted-injunction-stopping-launch-of-venu-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

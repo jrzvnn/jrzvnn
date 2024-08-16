@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Did Samsung Take Control of My Banking App? Inside Android’s ‘Clobbering’ Dilemma](https://www.wired.com/story/android-clobbering-app-store/)
  - [AI-powered ‘undressing’ websites are getting sued](https://www.theverge.com/2024/8/16/24221651/ai-deepfake-nude-undressing-websites-lawsuit-sanfrancisco)
  - [EQT agrees to buy PropertyGuru, which runs real estate rental and sale listing sites in SE Asia, for $1.1B in cash; the deal is expected to close by early 2025 &lpar;Will Davies/Bloomberg&rpar;](http://www.techmeme.com/240816/p7#a240816p7)
  - [Chinese chip equipment maker AMEC sues the Pentagon for linking AMEC to the Chinese military, seeks to get off a blacklist that bars business with US firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p6#a240816p6)
- - [EVs Are Losing Up to 50 Percent of Their Value in One Year](https://www.wired.com/story/evs-are-losing-up-to-50-percent-of-their-value-in-one-year/)
- - [Revolut secures a $45B valuation, up from $33B during a 2021 fundraising, in a share sale by employees; the sale was led by Coatue and D1 Capital Partners &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240816/p5#a240816p5)<!-- TECH:END -->
+ - [EVs Are Losing Up to 50 Percent of Their Value in One Year](https://www.wired.com/story/evs-are-losing-up-to-50-percent-of-their-value-in-one-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

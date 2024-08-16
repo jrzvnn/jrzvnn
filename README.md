@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - 😝 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
+ - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 😝 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
  - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
- - 👉 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)<!-- MEMES:END -->
+ - 😝 [This could be your job.](http://9gag.com/gag/aXPq93z)
+ - 👉 [The junior edition double knockout](http://9gag.com/gag/aByWYBz)<!-- MEMES:END -->
 
 ---
 

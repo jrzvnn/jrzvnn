@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The secret ingredient to qualify for Olympic is crime](http://9gag.com/gag/a7or5Me)
- - 😝 [My brain at 2am when I&#39;m trying to sleep](http://9gag.com/gag/a7oryGw)
- - 💣 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 😝 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
+ - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
+ - 💣 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 👉 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart is ending DroneUp deliveries in three states](https://www.theverge.com/2024/8/16/24221964/walmart-ends-droneup-deliveries-three-states)
+ - [Dark Matter is coming back for a second season on Apple TV Plus](https://www.theverge.com/2024/8/16/24221957/apple-tv-plus-dark-matter-season-2)
+ - [TikTok says DoJ&#39;s China-link claims are overblown](https://appleinsider.com/articles/24/08/16/tiktok-says-dojs-china-link-claims-are-overblown?utm_medium=rss)
  - [OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn&#39;t gain much traction &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240816/p16#a240816p16)
- - [A key part of California’s online safety law for kids is still on hold after appeals court ruling](https://www.theverge.com/2024/8/16/24221907/california-age-appropriate-design-code-appeals-court-preliminary-injunction-netchoice)
- - [Background check service National Public Data confirms a breach after hackers leaked a stolen database with millions of SSNs and other sensitive personal info &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/240816/p15#a240816p15)
- - [The Slow-Burn Nightmare of the National Public Data Breach](https://www.wired.com/story/national-public-data-breach-leak/)
- - [What happened to all the temporary air conditioning units at the Olympic Village?](https://www.theverge.com/2024/8/16/24221826/olympics-paris-what-happened-air-conditioning-heat)<!-- TECH:END -->
+ - [A key part of California’s online safety law for kids is still on hold after appeals court ruling](https://www.theverge.com/2024/8/16/24221907/california-age-appropriate-design-code-appeals-court-preliminary-injunction-netchoice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

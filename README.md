@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)
- - [Epic confirms that the Epic Games Store is available to download on Android devices worldwide, in addition to iPhones in the EU &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/240816/p9#a240816p9)
- - [11 Best Laptops and Tablets for Students for the 2024 School Year](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)
- - [Epic launches a rival app store for iOS in the EU, offering its games, including Fortnite, and plans to start onboarding third-party devs&#39; games from December &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240816/p8#a240816p8)
- - [Fortnite is back on the iPhone — with a whole app store in tow](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store)<!-- TECH:END -->
+ - [Epic says its games are available on AltStore for iOS in the EU and plans to bring them to Aptoide&#39;s iOS store in the EU and ONE Store on Android &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240816/p10#a240816p10)
+ - [Consumers prefer Apple Watch Series 9 over SE and Ultra models](https://appleinsider.com/articles/24/08/16/consumers-prefer-apple-watch-series-9-over-se-and-ultra-models?utm_medium=rss)
+ - [8 Best Bike Locks &lpar;2024&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)
+ - [AT&amp;T and Verizon have a beef with T-Mobile’s Starlink satellite service](https://www.theverge.com/2024/8/16/24221677/att-verizon-fcc-complaint-tmobile-spacex-starlink-satellite-service)
+ - [The Australian Breaker Who Broke the Internet](https://www.wired.com/story/olympics-breaking-raygun-memes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

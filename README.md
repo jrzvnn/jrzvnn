@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
- - 😝 [Oii, listen!](http://9gag.com/gag/arybe6d)
- - 💣 [Vampire](http://9gag.com/gag/a6Zbyy2)
- - 😝 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
- - 👉 [How to trigger whole Gen Z population with a single video](http://9gag.com/gag/a87yYZ1)<!-- MEMES:END -->
+ - 😝 [Can someone tell me why?](http://9gag.com/gag/aW4m6Qn)
+ - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 💣 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - 😝 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
+ - 👉 [Easiest breakup ever.](http://9gag.com/gag/a1mbY0b)<!-- MEMES:END -->
 
 ---
 

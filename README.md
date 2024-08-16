@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
- - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
- - 💣 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
- - 😝 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
- - 👉 [Oii, listen!](http://9gag.com/gag/arybe6d)<!-- MEMES:END -->
+ - 😝 [Who&#39;s Your Most Hateable Villain?](http://9gag.com/gag/aYQxNbq)
+ - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 💣 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 😝 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
+ - 👉 [`Come on guys, it&#39;s not gonna get that bad. No I&#39;m not gonna close early, people have to eat even if it&#39;s raining..`](http://9gag.com/gag/ayND0oY)<!-- MEMES:END -->
 
 ---
 

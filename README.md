@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Gemini is taking over Google](https://www.theverge.com/2024/8/16/24221721/gemini-google-pixel-apple-app-pricing-tv-shootout-vergecast)
  - [The Best Field Recorders for Portable Audio](https://www.wired.com/gallery/best-field-recorders/)
  - [Ikea’s stock-counting warehouse drones will fly alongside workers in the US](https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse)
- - [Kamala Harris&#39; Brat Summer Is Almost Over. What&#39;s Next?](https://www.wired.com/story/kamala-harris-social-media-brat/)
- - [Hottest Toys of 2024](https://www.cnet.com/culture/entertainment/hottest-toys/#ftag=CAD590a51e)
- - [Netflix Games: You Can Play the Emily in Paris Game Now and More Soon](https://www.cnet.com/tech/gaming/netflix-games-you-can-play-the-emily-in-paris-game-now-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kamala Harris’ Brat Summer Is Almost Over. What’s Next?](https://www.wired.com/story/kamala-harris-social-media-brat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

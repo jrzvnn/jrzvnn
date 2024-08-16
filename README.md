@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [What Is Gemini Live and How Do You Use It?](https://www.wired.com/story/what-is-gemini-live/)
  - [Banshee Stealer malware haunts browser extensions on macOS](https://appleinsider.com/articles/24/08/16/banshee-stealer-malware-haunts-browser-extensions-on-macos?utm_medium=rss)
  - [FanDuel founders and other early shareholders sue KKR and Shamrock Capital over the 2018 Paddy Power Betfair merger that wiped out the value of their holdings &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240816/p14#a240816p14)
- - [NASA Nears Decision Time on Boeing Starliner’s Fate](https://www.wired.com/story/nasa-boeing-starliner-decision/)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Get Big Discounts With Trade-Ins and New Contracts](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

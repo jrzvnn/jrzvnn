@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it &quot;missed the mark&quot; after leaked screenshots showed a Team Pixel program agreement threatened influencers who didn&#39;t showcase the Pixel over rivals &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240816/p19#a240816p19)
  - [Google threatened tech influencers unless they ‘preferred’ the Pixel](https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers)
  - [Instagram is testing vertical profile grids — and knows that might mess up layouts](https://www.theverge.com/2024/8/16/24222022/instagram-vertical-profile-grids-mess-up-layouts)
  - [Marvel says X-Men ’97’s old showrunner was fired over ‘egregious’ investigation findings](https://www.theverge.com/2024/8/16/24222021/x-men-97-beau-demayo-sexual-harassment-season-2)
- - [Best Back-to-School Gear for $100 or Less in 2024](https://www.cnet.com/tech/best-back-to-school-gear-under-100/#ftag=CAD590a51e)
- - [A US appeals court largely upholds a ruling blocking the California Age-Appropriate Design Code Act, finding parts of the law likely violate the First Amendment &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240816/p18#a240816p18)<!-- TECH:END -->
+ - [Best Back-to-School Gear for $100 or Less in 2024](https://www.cnet.com/tech/best-back-to-school-gear-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

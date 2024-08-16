@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese chip equipment maker AMEC sues the Pentagon for linking AMEC to the Chinese military, seeks to get off a blacklist that bars business with US firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p6#a240816p6)
+ - [EVs Are Losing Up to 50 Percent of Their Value in One Year](https://www.wired.com/story/evs-are-losing-up-to-50-percent-of-their-value-in-one-year/)
  - [Revolut secures a $45B valuation, up from $33B during a 2021 fundraising, in a share sale by employees; the sale was led by Coatue and D1 Capital Partners &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240816/p5#a240816p5)
  - [Microsoft PowerToys will launch and automatically arrange your favorite apps](https://www.theverge.com/2024/8/16/24221639/microsoft-powertoys-workspaces-feature-demo)
- - [The Biden administration approves $1.6B in Chips Act grants and $3B in loans for Texas Instruments, to support its one chip factory in Utah and two in Texas &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240816/p4#a240816p4)
- - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
- - [Appfigures: consumers spent $3.8B on entertainment apps for mobile devices worldwide in Q1 2024, including $2.1B on streaming apps and $0.9B on short video apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240816/p3#a240816p3)<!-- TECH:END -->
+ - [The Biden administration approves $1.6B in Chips Act grants and $3B in loans for Texas Instruments, to support its one chip factory in Utah and two in Texas &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240816/p4#a240816p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

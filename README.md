@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Nears Decision Time on Boeing Starliner&#39;s Fate](https://www.wired.com/story/nasa-boeing-starliner-decision/)
+ - [NASA Nears Decision Time on Boeing Starliner’s Fate](https://www.wired.com/story/nasa-boeing-starliner-decision/)
  - [Huawei’s triple-screen folding phone leaked — again](https://www.theverge.com/2024/8/16/24221720/huawei-triple-screen-foldable-leak-rumor)
  - [How to See the Conjunction Between Mars, Jupiter, and the Moon](https://www.wired.com/story/how-to-see-the-conjunction-between-mars-jupiter-and-the-moon-this-august/)
  - [Best CD Rates Today -- Act Now to Lock in a High APY, Aug. 16, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-16-2024/#ftag=CAD590a51e)

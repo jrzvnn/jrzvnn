@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What happened to all the temporary air conditioning units at the Olympic Village?](https://www.theverge.com/2024/8/16/24221826/olympics-paris-what-happened-air-conditioning-heat)
+ - [How Much Does a Home Battery Cost?](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-home-battery-cost/#ftag=CAD590a51e)
  - [Apple warns of February store changes for EU developers, authors](https://appleinsider.com/articles/24/08/16/apple-warns-of-february-store-changes-for-eu-developers-authors?utm_medium=rss)
- - [Google’s head of Pixel 9 design won’t apologize for its big, beautiful camera bump](https://www.theverge.com/24220359/google-pixel-9-camera-bar-small-phones-claude-zellweger-interview)
- - [What Is Gemini Live and How Do You Use It?](https://www.wired.com/story/what-is-gemini-live/)
- - [Banshee Stealer malware haunts browser extensions on macOS](https://appleinsider.com/articles/24/08/16/banshee-stealer-malware-haunts-browser-extensions-on-macos?utm_medium=rss)
- - [FanDuel founders and other early shareholders sue KKR and Shamrock Capital over the 2018 Paddy Power Betfair merger that wiped out the value of their holdings &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240816/p14#a240816p14)<!-- TECH:END -->
+ - [Grab This Ninja Woodfire Outdoor Grill and Smoker for Just $200](https://www.cnet.com/deals/grab-this-ninja-woodfire-outdoor-grill-and-smoker-for-just-200/#ftag=CAD590a51e)
+ - [Act Fast: This $20 Windows 11 Pro Lifetime License Deal Ends Soon](https://www.cnet.com/deals/act-fast-this-20-windows-11-pro-lifetime-license-deal-ends-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

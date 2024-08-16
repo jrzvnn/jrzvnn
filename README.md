@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really caught me off guard](http://9gag.com/gag/a87yYd6)
- - 😝 [Zlatan](http://9gag.com/gag/aVvqjg2)
- - 💣 [First Class Problems](http://9gag.com/gag/abApqgB)
+ - 😝 [The secret ingredient to qualify for Olympic is crime](http://9gag.com/gag/a7or5Me)
+ - 😝 [My brain at 2am when I&#39;m trying to sleep](http://9gag.com/gag/a7oryGw)
+ - 💣 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [`Come on guys, it&#39;s not gonna get that bad. No I&#39;m not gonna close early, people have to eat even if it&#39;s raining..`](http://9gag.com/gag/ayND0oY)<!-- MEMES:END -->
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 ---
 

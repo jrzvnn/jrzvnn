@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something he hadn&#39;t thought of....](http://9gag.com/gag/aAydrBE)
  - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 😝 [Well damn.](http://9gag.com/gag/aPABDMG)
  - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
  - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->

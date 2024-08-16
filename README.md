@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
- - 😝 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
- - 💣 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)
+ - 😝 [Really caught me off guard](http://9gag.com/gag/a87yYd6)
+ - 😝 [Zlatan](http://9gag.com/gag/aVvqjg2)
+ - 💣 [First Class Problems](http://9gag.com/gag/abApqgB)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway\ud83c\udf81AORUS 16X is here to redefine your reality. Can you guess which exhibition the ticket represents? Follow the rules on Instagram to make your guess for a chance to take home the AORUS 16X AI Gaming Laptop!](http://9gag.com/gag/adB70vd)
- - 👉 [Oii, listen!](http://9gag.com/gag/arybe6d)<!-- MEMES:END -->
+ - 👉 [`Come on guys, it&#39;s not gonna get that bad. No I&#39;m not gonna close early, people have to eat even if it&#39;s raining..`](http://9gag.com/gag/ayND0oY)<!-- MEMES:END -->
 
 ---
 

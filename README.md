@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
  - [Appfigures: consumers spent $3.8B on entertainment apps for mobile devices worldwide in Q1 2024, including $2.1B on streaming apps and $0.9B on short video apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240816/p3#a240816p3)
  - [Chainalysis: the value of crypto hacks increased by ~84% to $1.58B in the first seven months of 2024, likely due in large part to the rise in crypto prices &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240816/p2#a240816p2)
  - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)
- - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
- - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)<!-- TECH:END -->
+ - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

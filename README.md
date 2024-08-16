@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court blocks Disney-Fox-WBD sports streaming bundle](https://www.theverge.com/2024/8/16/24222035/venu-sports-disney-fox-wbd-blocked-court-antitrust)
+ - [Acura’s Performance EV concept looks like an angry sports boat](https://www.theverge.com/2024/8/16/24221912/acura-performance-ev-concept-honda-electric-platform)
  - [Let this tiny bean bag chair for your lap hold your heavy handhelds](https://www.theverge.com/2024/8/16/24221940/gaming-pillow-handhelds-consoles-hands-free)
- - [Apple Intelligence vs Google AI, plus an iPad Robot on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/16/apple-intelligence-vs-google-ai-plus-an-ipad-robot-on-the-appleinsider-podcast?utm_medium=rss)
- - [A US judge temporarily blocks the launch of Venu Sports, the streaming service from Fox/WBD/Disney, a week before rollout, after Fubo filed an antitrust lawsuit &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p17#a240816p17)
- - [OpenAI says Iran tried to influence US elections with ChatGPT](https://www.theverge.com/2024/8/16/24221982/openai-iranian-chatgpt-accounts-banned-chatgpt-us-election)
- - [Walmart is ending DroneUp deliveries in three states](https://www.theverge.com/2024/8/16/24221964/walmart-ends-droneup-deliveries-three-states)<!-- TECH:END -->
+ - [Steamboat Willie-Style First-Person Shooter Has a Name: Mouse P.I. for Hire](https://www.cnet.com/tech/gaming/steamboat-willie-style-first-person-shooter-has-a-name-mouse-p-i-for-hire/#ftag=CAD590a51e)
+ - [Best Mattress of 2024 -- Top Mattresses Tested by Sleep Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
  - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 😝 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
- - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 😝 [This could be your job.](http://9gag.com/gag/aXPq93z)
- - 👉 [The junior edition double knockout](http://9gag.com/gag/aByWYBz)<!-- MEMES:END -->
+ - 💣 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
+ - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 👉 [This could be your job.](http://9gag.com/gag/aXPq93z)<!-- MEMES:END -->
 
 ---
 

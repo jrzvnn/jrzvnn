@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis: the value of crypto hacks increased by ~84% to $1.58B in the first seven months of 2024, likely due in large part to the rise in crypto prices &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240816/p2#a240816p2)
  - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)
  - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
  - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)
- - [11 Great Back-to-School Gift Ideas for Your Teacher](https://www.cnet.com/news/teacher-gifts/#ftag=CAD590a51e)
- - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)<!-- TECH:END -->
+ - [11 Great Back-to-School Gift Ideas for Your Teacher](https://www.cnet.com/news/teacher-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

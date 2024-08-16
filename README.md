@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
- - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - 💣 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 😝 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 💣 [Overqualified](http://9gag.com/gag/aZZmN9W)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Overqualified](http://9gag.com/gag/aZZmN9W)<!-- MEMES:END -->
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 ---
 

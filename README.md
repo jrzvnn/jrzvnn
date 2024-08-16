@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Let this tiny bean bag chair for your lap hold your heavy handhelds](https://www.theverge.com/2024/8/16/24221940/gaming-pillow-handhelds-consoles-hands-free)
  - [Apple Intelligence vs Google AI, plus an iPad Robot on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/16/apple-intelligence-vs-google-ai-plus-an-ipad-robot-on-the-appleinsider-podcast?utm_medium=rss)
  - [A US judge temporarily blocks the launch of Venu Sports, the streaming service from Fox/WBD/Disney, a week before rollout, after Fubo filed an antitrust lawsuit &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p17#a240816p17)
  - [OpenAI says Iran tried to influence US elections with ChatGPT](https://www.theverge.com/2024/8/16/24221982/openai-iranian-chatgpt-accounts-banned-chatgpt-us-election)
- - [Walmart is ending DroneUp deliveries in three states](https://www.theverge.com/2024/8/16/24221964/walmart-ends-droneup-deliveries-three-states)
- - [Dark Matter is coming back for a second season on Apple TV Plus](https://www.theverge.com/2024/8/16/24221957/apple-tv-plus-dark-matter-season-2)<!-- TECH:END -->
+ - [Walmart is ending DroneUp deliveries in three states](https://www.theverge.com/2024/8/16/24221964/walmart-ends-droneup-deliveries-three-states)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Playing Fortnite on iPhone again has shown me an alternate future](https://www.theverge.com/24221683/hands-on-fortnite-iphone-europe-epic-games-store)
  - [Caresyntax, which is building AI-powered surgical data analysis tools, raised a $180M Series C extension consisting of $80M in equity and $100M in debt &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/240816/p12#a240816p12)
  - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Gemini is taking over Google](https://www.theverge.com/2024/8/16/24221721/gemini-google-pixel-apple-app-pricing-tv-shootout-vergecast)
- - [The Best Field Recorders for Portable Audio](https://www.wired.com/gallery/best-field-recorders/)<!-- TECH:END -->
+ - [Gemini is taking over Google](https://www.theverge.com/2024/8/16/24221721/gemini-google-pixel-apple-app-pricing-tv-shootout-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

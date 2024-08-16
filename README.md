@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [National Public Data admits it leaked Social Security numbers in a massive data breach](https://www.theverge.com/2024/8/16/24222112/data-breach-national-public-data-2-9-billion-ssn)
- - [Bissell Little Green Portable Carpet Cleaner](https://www.cnet.com/news/bissell-little-green-portable-carpet-cleaner-dpnl/#ftag=CAD590a51e)
- - [2 Door Mini Fridge w/ Freezer](https://www.cnet.com/home/kitchen-and-household/2-door-mini-fridge-w-freezer-dpnl/#ftag=CAD590a51e)
- - [Best Fiber Supplements of 2024](https://www.cnet.com/health/nutrition/best-fiber-supplements-for-healthy-digestion/#ftag=CAD590a51e)
- - [PowerSmart Gasoline Inverter Generator](https://www.cnet.com/home/energy-and-utilities/powersmart-gasoline-inverter-generator-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it &quot;missed the mark&quot; after leaked screenshots showed a Team Pixel program agreement threatened influencers who didn&#39;t showcase the Pixel over rivals &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240816/p19#a240816p19)
+ - [Give Your Body Morning Sunlight for a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)
+ - [Huawei&#39;s Rumored Trifold Foldable Spotted in Public, Slimly Folded Up](https://www.cnet.com/tech/mobile/huaweis-rumored-trifold-foldable-spotted-in-public-slimly-folded-up/#ftag=CAD590a51e)
+ - [Fubo Granted Injunction Stopping Launch of Venu Sports Streaming Service](https://www.cnet.com/tech/services-and-software/fubo-granted-injunction-stopping-launch-of-venu-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

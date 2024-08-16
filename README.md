@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
  - 😝 [Overqualified](http://9gag.com/gag/aZZmN9W)
- - 😝 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
- - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 💣 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [First day on the job](http://9gag.com/gag/aXPq9gg)<!-- MEMES:END -->
+ - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
 
 ---
 

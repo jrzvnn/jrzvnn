@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thanks for choosing Air Somalia!](http://9gag.com/gag/a9yrd2o)
  - 😝 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
- - 😝 [MadeMeSmile](http://9gag.com/gag/abApy69)
- - 💣 [Thanks for choosing Air Somalia!](http://9gag.com/gag/a9yrd2o)
- - 😝 [First Class Problems](http://9gag.com/gag/abApqgB)
- - 👉 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)<!-- MEMES:END -->
+ - 💣 [MadeMeSmile](http://9gag.com/gag/abApy69)
+ - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
 
 ---
 

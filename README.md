@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
  - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
- - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
+ - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
+ - 💣 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Won but at what cost](http://9gag.com/gag/ae9bG8B)<!-- MEMES:END -->
+ - 👉 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)<!-- MEMES:END -->
 
 ---
 

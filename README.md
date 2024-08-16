@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games Store goes live for EU iPhone users](https://appleinsider.com/articles/24/08/16/epic-games-store-goes-live-for-eu-iphone-users?utm_medium=rss)
+ - [How to Set Up Your New Android Phone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-your-new-android-phone/)
+ - [Score Microsoft Office for Only $25 Just in Time for Back-to-School](https://www.cnet.com/deals/score-microsoft-office-for-only-25-just-in-time-for-back-to-school/#ftag=CAD590a51e)
  - [Epic says its games are available on AltStore for iOS in the EU and plans to bring them to Aptoide&#39;s iOS store in the EU and ONE Store on Android &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240816/p10#a240816p10)
- - [Consumers prefer Apple Watch Series 9 over SE and Ultra models](https://appleinsider.com/articles/24/08/16/consumers-prefer-apple-watch-series-9-over-se-and-ultra-models?utm_medium=rss)
- - [8 Best Bike Locks &lpar;2024&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)
- - [AT&amp;T and Verizon have a beef with T-Mobile’s Starlink satellite service](https://www.theverge.com/2024/8/16/24221677/att-verizon-fcc-complaint-tmobile-spacex-starlink-satellite-service)
- - [The Australian Breaker Who Broke the Internet](https://www.wired.com/story/olympics-breaking-raygun-memes/)<!-- TECH:END -->
+ - [Consumers prefer Apple Watch Series 9 over SE and Ultra models](https://appleinsider.com/articles/24/08/16/consumers-prefer-apple-watch-series-9-over-se-and-ultra-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s Your Most Hateable Villain?](http://9gag.com/gag/aYQxNbq)
- - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
- - 💣 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 😝 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
  - 😝 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
- - 👉 [`Come on guys, it&#39;s not gonna get that bad. No I&#39;m not gonna close early, people have to eat even if it&#39;s raining..`](http://9gag.com/gag/ayND0oY)<!-- MEMES:END -->
+ - 💣 [Peak romance](http://9gag.com/gag/apRpoO9)
+ - 😝 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
+ - 👉 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)<!-- MEMES:END -->
 
 ---
 

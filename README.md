@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
- - 😝 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
- - 💣 [Normal day in the third world country.](http://9gag.com/gag/axyV241)
- - 😝 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
- - 👉 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)<!-- MEMES:END -->
+ - 😝 [Overqualified](http://9gag.com/gag/aZZmN9W)
+ - 😝 [MadeMeSmile](http://9gag.com/gag/abApy69)
+ - 💣 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 👉 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)<!-- MEMES:END -->
 
 ---
 

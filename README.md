@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
  - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - 😝 [No Wonder He Is Goat](http://9gag.com/gag/aGy1xKK)
- - 💣 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
+ - 💣 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)<!-- MEMES:END -->
+ - 👉 [Overqualified](http://9gag.com/gag/aZZmN9W)<!-- MEMES:END -->
 
 ---
 

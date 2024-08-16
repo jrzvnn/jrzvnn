@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
- - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 😝 [No Wonder He Is Goat](http://9gag.com/gag/aGy1xKK)
+ - 💣 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 👉 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)<!-- MEMES:END -->
 
 ---
 

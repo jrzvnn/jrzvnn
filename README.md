@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone tell me why?](http://9gag.com/gag/aW4m6Qn)
- - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
- - 💣 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
- - 😝 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
- - 👉 [Easiest breakup ever.](http://9gag.com/gag/a1mbY0b)<!-- MEMES:END -->
+ - 😝 [Well damn.](http://9gag.com/gag/aPABDMG)
+ - 😝 [Women are marching from every street demanding justice for the RG Kar Medical College r@pe-mu\u20b9der victim. People of Kolkata say that this is unprecedented, they have never seen people, especially women, marching on the streets in such anger.kolkata india.](http://9gag.com/gag/a87yWgp)
+ - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 😝 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
+ - 👉 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)<!-- MEMES:END -->
 
 ---
 

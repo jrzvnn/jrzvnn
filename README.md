@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)
  - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - 👉 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)<!-- MEMES:END -->
+ - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 💣 [When you want it the most, there&#39;s no easy way out](http://9gag.com/gag/aoy19yx)
+ - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 ---
 

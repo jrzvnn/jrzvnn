@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Geekbench has an AI benchmark now](https://www.theverge.com/2024/8/15/24221382/geekbench-ai-benchmark-software)
  - [At a Crypto4Harris online event, Mark Cuban, Anthony Scaramucci, and other crypto advocates supporting Kamala Harris urged a reset in Democratic crypto policy &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240815/p30#a240815p30)
  - [California lawmakers weaken the AI safety bill with amendments proposed by Anthropic and other opponents, including giving the AG less power to sue AI companies &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240815/p29#a240815p29)
  - [Best Wi-Fi Routers for 2024](https://www.cnet.com/home/internet/best-wi-fi-router/#ftag=CAD590a51e)
- - [Best Laptop for High School Students in 2024](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)
- - [Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240815/p28#a240815p28)<!-- TECH:END -->
+ - [Best Laptop for High School Students in 2024](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

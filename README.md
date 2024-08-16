@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
- - 😝 [Well damn.](http://9gag.com/gag/aPABDMG)
- - 💣 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 😝 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 😝 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
+ - 💣 [Too big!](http://9gag.com/gag/axyVZQp)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 👉 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)<!-- MEMES:END -->
 
 ---
 

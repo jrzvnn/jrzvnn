@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)
  - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
  - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)
  - [11 Great Back-to-School Gift Ideas for Your Teacher](https://www.cnet.com/news/teacher-gifts/#ftag=CAD590a51e)
- - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 16 #432](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-16-432/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

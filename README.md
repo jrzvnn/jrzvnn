@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First day on the job](http://9gag.com/gag/aXPq9gg)
  - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
- - 💣 [Solid 3, 9gager in the wild](http://9gag.com/gag/a6ZbMy2)
+ - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)<!-- MEMES:END -->
+ - 👉 [Won but at what cost](http://9gag.com/gag/ae9bG8B)<!-- MEMES:END -->
 
 ---
 

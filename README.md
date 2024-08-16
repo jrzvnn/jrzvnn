@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
  - 😝 [This tradition is dying late.. It must not. 9gaggers..njoi your Friday!](http://9gag.com/gag/an7bNK5)
- - 💣 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
- - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 😝 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
  - 👉 [Turn back UK, Don&#39;t go into the shadows.](http://9gag.com/gag/aQz9402)<!-- MEMES:END -->
 
 ---

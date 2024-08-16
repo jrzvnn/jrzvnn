@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn&#39;t gain much traction &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240816/p16#a240816p16)
  - [A key part of California’s online safety law for kids is still on hold after appeals court ruling](https://www.theverge.com/2024/8/16/24221907/california-age-appropriate-design-code-appeals-court-preliminary-injunction-netchoice)
  - [Background check service National Public Data confirms a breach after hackers leaked a stolen database with millions of SSNs and other sensitive personal info &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/240816/p15#a240816p15)
  - [The Slow-Burn Nightmare of the National Public Data Breach](https://www.wired.com/story/national-public-data-breach-leak/)
- - [What happened to all the temporary air conditioning units at the Olympic Village?](https://www.theverge.com/2024/8/16/24221826/olympics-paris-what-happened-air-conditioning-heat)
- - [How Much Does a Home Battery Cost?](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-home-battery-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What happened to all the temporary air conditioning units at the Olympic Village?](https://www.theverge.com/2024/8/16/24221826/olympics-paris-what-happened-air-conditioning-heat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

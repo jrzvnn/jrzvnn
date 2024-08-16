@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 😝 [Fresh Cut](http://9gag.com/gag/aoy1pzw)
- - 💣 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
- - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 😝 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
+ - 💣 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
  - 👉 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)<!-- MEMES:END -->
 
 ---

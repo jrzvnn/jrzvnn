@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Gemini is taking over Google](https://www.theverge.com/2024/8/16/24221721/gemini-google-pixel-apple-app-pricing-tv-shootout-vergecast)
  - [The Best Field Recorders for Portable Audio](https://www.wired.com/gallery/best-field-recorders/)
- - [Ikea’s stock-counting warehouse drones will fly alongside workers in the US](https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse)
- - [Kamala Harris’ Brat Summer Is Almost Over. What’s Next?](https://www.wired.com/story/kamala-harris-social-media-brat/)<!-- TECH:END -->
+ - [Ikea’s stock-counting warehouse drones will fly alongside workers in the US](https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Field Recorders for Portable Audio](https://www.wired.com/gallery/best-field-recorders/)
+ - [Ikea’s stock-counting warehouse drones will fly alongside workers in the US](https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse)
  - [Kamala Harris&#39; Brat Summer Is Almost Over. What&#39;s Next?](https://www.wired.com/story/kamala-harris-social-media-brat/)
- - [Segway’s new electric kick scooter gives kids a boost with every push](https://www.theverge.com/2024/8/16/24221710/segway-ninebot-ekickscooter-c2-lite-electric-scooters)
- - [The European Commission asks Meta for information about its Content Library tool and API under the DSA, following Meta&#39;s decision to deprecate CrowdTangle &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240816/p11#a240816p11)
- - [Elon Musk Is No Climate Hero](https://www.wired.com/story/elon-musk-trump-climate-tesla/)
- - [Epic Games Store goes live for EU iPhone users](https://appleinsider.com/articles/24/08/16/epic-games-store-goes-live-for-eu-iphone-users?utm_medium=rss)<!-- TECH:END -->
+ - [Hottest Toys of 2024](https://www.cnet.com/culture/entertainment/hottest-toys/#ftag=CAD590a51e)
+ - [Netflix Games: You Can Play the Emily in Paris Game Now and More Soon](https://www.cnet.com/tech/gaming/netflix-games-you-can-play-the-emily-in-paris-game-now-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

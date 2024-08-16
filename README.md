@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
  - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)
+ - [11 Great Back-to-School Gift Ideas for Your Teacher](https://www.cnet.com/news/teacher-gifts/#ftag=CAD590a51e)
  - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)
- - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)
- - [Court filing: TikTok says DOJ misstated its ties to China, made factual errors in the case, and the divestment law would strip TikTok of its free speech rights &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240815/p33#a240815p33)
- - [How to Go Through Menopause More Comfortably](https://www.cnet.com/health/medical/how-to-go-through-menopause-more-comfortably/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 16 #432](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-16-432/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

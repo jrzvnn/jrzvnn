@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amount, which provides digital lending services for credit unions and banks, raised $30M from Curql, Goldman Sachs, WestCap, Hanaco Ventures, QED, and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240816/p21#a240816p21)
  - [Filing: AT&amp;T and Verizon ask the FCC to deny SpaceX&#39;s request to waive rules, claiming Starlink&#39;s service with T-Mobile would interfere with existing networks &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240816/p20#a240816p20)
- - [Today Only: This Flash Sale on Samsung&#39;s Galaxy Watch 6 Classic Saves You $80](https://www.cnet.com/deals/today-only-this-flash-sale-on-samsungs-galaxy-watch-6-classic-saves-you-80/#ftag=CAD590a51e)
- - [Best Online Cheese Subscriptions and Delivery Services for 2024](https://www.cnet.com/news/best-place-to-buy-cheese-online/#ftag=CAD590a51e)
- - [National Public Data admits it leaked Social Security numbers in a massive data breach](https://www.theverge.com/2024/8/16/24222112/data-breach-national-public-data-2-9-billion-ssn)
- - [Google Under Fire After Influencers Were Asked to Prefer Pixel Phones Over Competitors](https://www.cnet.com/tech/mobile/google-under-fire-after-influencers-were-asked-to-prefer-pixel-phones-over-competitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sectional Sofa w/ Storage](https://www.cnet.com/news/sectional-sofa-w-storage-dpnl/#ftag=CAD590a51e)
+ - [Adult Foldable Ebike](https://www.cnet.com/roadshow/news/adult-foldable-ebike-dpnl/#ftag=CAD590a51e)
+ - [Apple Watch Series 9 &lpar;41mm&rpar;](https://www.cnet.com/tech/mobile/apple-watch-series1-9-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

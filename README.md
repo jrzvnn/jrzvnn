@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
- - 😝 [Quadratic formula meme](http://9gag.com/gag/avyGPLq)
- - 💣 [Peak Writing](http://9gag.com/gag/aW4m8W4)
- - 😝 [Savage!!](http://9gag.com/gag/a87ypbd)
- - 👉 [Too big!](http://9gag.com/gag/axyVZQp)<!-- MEMES:END -->
+ - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
+ - 😝 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)
+ - 💣 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
+ - 😝 [When you go eat seafood hotpot and the squid ink sac ruptured....](http://9gag.com/gag/ayNDnyM)
+ - 👉 [Savage!!](http://9gag.com/gag/a87ypbd)<!-- MEMES:END -->
 
 ---
 

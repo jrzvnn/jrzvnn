@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
- - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
- - 💣 [Overqualified](http://9gag.com/gag/aZZmN9W)
- - 😝 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
+ - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
+ - 💣 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
+ - 👉 [Looks like the real world](http://9gag.com/gag/a6ZbMML)<!-- MEMES:END -->
 
 ---
 

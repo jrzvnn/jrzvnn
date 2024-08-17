@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
- - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
- - 💣 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
- - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
- - 👉 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)<!-- MEMES:END -->
+ - 😝 [I don&#39;t even care about racism](http://9gag.com/gag/a87y873)
+ - 😝 [Be grateful in the country you live or get out.](http://9gag.com/gag/avyGGyO)
+ - 💣 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
+ - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
+ - 👉 [Physics](http://9gag.com/gag/aLnD8j5)<!-- MEMES:END -->
 
 ---
 

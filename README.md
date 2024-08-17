@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is always funny to me](http://9gag.com/gag/avyG7ZE)
- - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
- - 💣 [Funny animal photography contest &lpar;yes it&#39;s old but it still checks out and I had never seen it&rpar;. Some may be funny, some maybe aren&#39;t, but the reality is that it takes A LOT of effort to do this. Kudos to everyone involved in this who made me laugh](http://9gag.com/gag/azx88jK)
- - 😝 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
- - 👉 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)<!-- MEMES:END -->
+ - 😝 [Groomed to groom](http://9gag.com/gag/a7ord7q)
+ - 😝 [Most 80s thing ever](http://9gag.com/gag/aYQxxR0)
+ - 💣 [Scratch me! `Bonk`](http://9gag.com/gag/aZZmmyX)
+ - 😝 [Get ready! :D](http://9gag.com/gag/avyG7eb)
+ - 👉 [This is the sign for good relationship.](http://9gag.com/gag/awynQx8)<!-- MEMES:END -->
 
 ---
 

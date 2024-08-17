@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EcoFlow’s battery-powered A/C and heater combo is too overblown](https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price)
  - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)
  - [Ericsson to sell its network portability and data exchange services unit Iconectiv to Koch Equity Development for $1B; the deal is expected to close in H1 2025 &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240817/p1#a240817p1)
  - [Best AT&amp;T Phones in 2024](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)
- - [A YouTuber files a proposed class action against Nvidia, accusing it of scraping his content without consent to train AI models, weeks after also suing OpenAI &lpar;Justin Bachman/Legal Dive&rpar;](http://www.techmeme.com/240816/p22#a240816p22)
- - [5 Best RV Mattresses of 2024 -- How to Choose](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A YouTuber files a proposed class action against Nvidia, accusing it of scraping his content without consent to train AI models, weeks after also suing OpenAI &lpar;Justin Bachman/Legal Dive&rpar;](http://www.techmeme.com/240816/p22#a240816p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Anthony Tan, the solo developer of Way to the Woods, a game that received Epic Games funding and remains unreleased nine years after its conception &lpar;Jackson Ryan/New York Times&rpar;](http://www.techmeme.com/240817/p2#a240817p2)
  - [Back to School for Middle Schoolers &lpar;2024&rpar;: Backpacks, Laptops, Hygiene](https://www.wired.com/gallery/middle-school-gear/)
  - [Rocco Super Smart Fridge Review: A Cool Conversation Piece](https://www.wired.com/review/rocco-super-smart-fridge/)
  - [8 photo sites that let you showcase and discuss your work](https://www.theverge.com/24219372/photography-instagram-500px-flickr-showcase)
- - [Is Your Social Security Number Part of the National Public Data Breach? What You Can Do](https://www.cnet.com/personal-finance/is-your-social-security-number-part-of-the-national-public-data-breach-what-you-can-do/#ftag=CAD590a51e)
- - [Kingwell Melodia Hearing Aids Review: Unique and Affordable](https://www.wired.com/review/kingwell-melodia-hearing-aids/)<!-- TECH:END -->
+ - [Is Your Social Security Number Part of the National Public Data Breach? What You Can Do](https://www.cnet.com/personal-finance/is-your-social-security-number-part-of-the-national-public-data-breach-what-you-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

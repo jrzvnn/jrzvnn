@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fk around and find out :&rpar;](http://9gag.com/gag/azx8A2q)
+ - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
  - 😝 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
  - 💣 [Flame to flesh real quick](http://9gag.com/gag/aryb490)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Peak Writing](http://9gag.com/gag/aW4m8W4)<!-- MEMES:END -->
+ - 👉 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)<!-- MEMES:END -->
 
 ---
 

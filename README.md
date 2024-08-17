@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What the Electric Fiat 500e Is Like—From a Fiat 500 Owner](https://www.wired.com/story/what-the-electric-fiat-500e-is-like-from-a-fiat-500-owner/)
  - [The 51 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Urban Birds Are Harboring Antibiotic-Resistant Bacteria](https://www.wired.com/story/urban-birds-are-harboring-antibiotic-resistant-bacteria/)
  - [The 55 Best Shows on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Best Tested Portable Power Stations in 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
- - [Shanling M0s Digital Audio Player Review: Tiny Tunes Done Dirt Cheap](https://www.cnet.com/tech/mobile/shanling-m0s-digital-audio-player-review-tiny-tunes-done-dirt-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Tested Portable Power Stations in 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

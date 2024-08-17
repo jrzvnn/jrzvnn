@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
  - 😝 [Quadratic formula meme](http://9gag.com/gag/avyGPLq)
- - 😝 [Overqualified](http://9gag.com/gag/aZZmN9W)
- - 💣 [This machine gun is being molested](http://9gag.com/gag/ayNDnzy)
- - 😝 [The sign of a lasting marriage](http://9gag.com/gag/a87yjqO)
- - 👉 [Savage!!](http://9gag.com/gag/a87ypbd)<!-- MEMES:END -->
+ - 💣 [Peak Writing](http://9gag.com/gag/aW4m8W4)
+ - 😝 [Savage!!](http://9gag.com/gag/a87ypbd)
+ - 👉 [Too big!](http://9gag.com/gag/axyVZQp)<!-- MEMES:END -->
 
 ---
 

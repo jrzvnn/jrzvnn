@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
- - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
- - 💣 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
- - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
- - 👉 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)<!-- MEMES:END -->
+ - 😝 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
+ - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
+ - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
+ - 😝 [Savage!!](http://9gag.com/gag/a87ypbd)
+ - 👉 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)<!-- MEMES:END -->
 
 ---
 

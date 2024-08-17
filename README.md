@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers all-time high $300 welcome bonus for new Apple Card signups](https://appleinsider.com/articles/24/08/17/apple-offers-all-time-high-300-welcome-bonus-for-new-apple-card-signups?utm_medium=rss)
  - [13 Best Bluetooth Speakers Our Testers Jammed With in 2024](https://www.wired.com/gallery/best-bluetooth-speakers/)
  - [Nancy Pelosi issues a statement in opposition to California&#39;s AI safety bill, saying it&#39;s &quot;well-intentioned but ill-informed&quot; and &quot;more harmful than helpful&quot; &lpar;Representative Nancy Pelosi&rpar;](http://www.techmeme.com/240817/p3#a240817p3)
  - [Banshee Stealer malware haunts browser extensions on macOS](https://appleinsider.com/articles/24/08/16/banshee-stealer-malware-haunts-browser-extensions-on-macos?utm_medium=rss)
- - [The 10 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Got an Old iPhone or Android? Turn It Into a Free Home Security Camera in 3 Steps](https://www.cnet.com/home/security/how-to-turn-old-iphone-android-into-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 10 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

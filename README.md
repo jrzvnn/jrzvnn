@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 51 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Urban Birds Are Harboring Antibiotic-Resistant Bacteria](https://www.wired.com/story/urban-birds-are-harboring-antibiotic-resistant-bacteria/)
  - [The 55 Best Shows on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The Run of Record-Breaking Heat Has Ended, for Now](https://www.wired.com/story/13-month-heat-streak-ended-climate-change-global-warming-sea-surface-temperatures/)
- - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Tested Portable Power Stations in 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
+ - [Shanling M0s Digital Audio Player Review: Tiny Tunes Done Dirt Cheap](https://www.cnet.com/tech/mobile/shanling-m0s-digital-audio-player-review-tiny-tunes-done-dirt-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

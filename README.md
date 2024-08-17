@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
- - 😝 [How?](http://9gag.com/gag/a2vr43D)
+ - 😝 [Quadratic formula meme](http://9gag.com/gag/avyGPLq)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
  - 💣 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
- - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
- - 👉 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)<!-- MEMES:END -->
+ - 😝 [`Literally you`](http://9gag.com/gag/aMV8AY1)
+ - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
 
 ---
 

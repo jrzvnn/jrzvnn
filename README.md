@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
+ - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 💣 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
  - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
- - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 💣 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
- - 👉 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)<!-- MEMES:END -->
+ - 👉 [Do you remember when we bullied an animation studio? It was hilarious.](http://9gag.com/gag/aQz980e)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
- - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
- - 💣 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
- - 👉 [Looks like the real world](http://9gag.com/gag/a6ZbMML)<!-- MEMES:END -->
+ - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
+ - 😝 [Paralympic break dancing vs phd master](http://9gag.com/gag/a34qqNe)
+ - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 👉 [The sign of a lasting marriage](http://9gag.com/gag/a87yjqO)<!-- MEMES:END -->
 
 ---
 

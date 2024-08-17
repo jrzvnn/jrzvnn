@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ericsson to sell its network portability and data exchange services unit Iconectiv to Koch Equity Development for $1B; the deal is expected to close in H1 2025 &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240817/p1#a240817p1)
  - [A YouTuber files a proposed class action against Nvidia, accusing it of scraping his content without consent to train AI models, weeks after also suing OpenAI &lpar;Justin Bachman/Legal Dive&rpar;](http://www.techmeme.com/240816/p22#a240816p22)
- - [Amount, which provides digital lending services for credit unions and banks, raised $30M from Curql, Goldman Sachs, WestCap, Hanaco Ventures, QED, and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240816/p21#a240816p21)
- - [The Best Teeth-Whitening Toothpaste for Sensitive Teeth](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
- - [Filing: AT&amp;T and Verizon ask the FCC to deny SpaceX&#39;s request to waive rules, claiming Starlink&#39;s service with T-Mobile would interfere with existing networks &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240816/p20#a240816p20)
- - [Sectional Sofa w/ Storage](https://www.cnet.com/news/sectional-sofa-w-storage-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best RV Mattresses of 2024 -- How to Choose](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
+ - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Save on Apple Watch Series 9, SE and More](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

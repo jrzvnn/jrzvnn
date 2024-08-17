@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple released the iMac 26 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_medium=rss)
  - [X says it&#39;s closing its operations in Brazil, claiming a judge threatened arrest if X didn&#39;t comply with &quot;censorship orders&quot;; the service remains available &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240817/p4#a240817p4)
  - [Keep Your Home Cool While Cutting Your Summer Energy Bills: Here&#39;s How](https://www.cnet.com/how-to/keep-your-home-cool-while-cutting-your-summer-energy-bills-heres-how/#ftag=CAD590a51e)
  - [Best Internet Providers in San Marcos, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-marcos-tx/#ftag=CAD590a51e)
- - [Best Internet Providers in Washington](https://www.cnet.com/home/internet/best-internet-providers-in-washington/#ftag=CAD590a51e)
- - [Apple offers all-time high $300 welcome bonus for new Apple Card signups](https://appleinsider.com/articles/24/08/17/apple-offers-all-time-high-300-welcome-bonus-for-new-apple-card-signups?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Washington](https://www.cnet.com/home/internet/best-internet-providers-in-washington/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

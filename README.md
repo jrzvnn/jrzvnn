@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
- - 😝 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
- - 💣 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
+ - 😝 [Comedian makes a joke sexualizing a 3 month old baby, the dad of the baby shows up at his show. &lpar;Context in comments&rpar;](http://9gag.com/gag/aZZmmWn)
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)<!-- MEMES:END -->
+ - 👉 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)<!-- MEMES:END -->
 
 ---
 

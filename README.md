@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 😝 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
- - 💣 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
+ - 😝 [Insert Oil](http://9gag.com/gag/aRBmK1G)
+ - 😝 [Flame to flesh real quick](http://9gag.com/gag/aryb490)
+ - 💣 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Asylum seeking done right. Come to change your life, don&#39;t come to change ours!](http://9gag.com/gag/amoY944)<!-- MEMES:END -->
+ - 👉 [Looks like the real world](http://9gag.com/gag/a6ZbMML)<!-- MEMES:END -->
 
 ---
 

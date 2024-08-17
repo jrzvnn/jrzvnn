@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t even care about racism](http://9gag.com/gag/a87y873)
- - 😝 [Be grateful in the country you live or get out.](http://9gag.com/gag/avyGGyO)
- - 💣 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
- - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
- - 👉 [Physics](http://9gag.com/gag/aLnD8j5)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/a2vr43D)
+ - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
+ - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
+ - 👉 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)<!-- MEMES:END -->
 
 ---
 

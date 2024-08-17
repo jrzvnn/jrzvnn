@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)
  - [iPhone 16: all the leaks and rumors about Apple’s next smartphone](https://www.theverge.com/2024/8/17/24222355/iphone-16-rumors-leaks-cameras)
  - [The Asus ROG Ally is on sale for its lowest price to date this weekend](https://www.theverge.com/2024/8/17/24221765/asus-rog-ally-gaming-handheld-roborock-q-revo-robot-vacuum-deal-sale)
  - [The New Sonos App Is So Bad, the Company Might Bring Back the Old One](https://www.wired.com/story/new-sonos-app-is-bad-company-considers-bringing-back-the-old-one/)
- - [Geofence Warrants Ruled Unconstitutional—but That’s Not the End of It](https://www.wired.com/story/geofence-warrants-ruled-unconstitutional-tmobile-fine-deepfake-nudes-lawsuit/)
- - [A profile of Anthony Tan, the solo developer of Way to the Woods, a game that received Epic Games funding and remains unreleased nine years after its conception &lpar;Jackson Ryan/New York Times&rpar;](http://www.techmeme.com/240817/p2#a240817p2)<!-- TECH:END -->
+ - [Geofence Warrants Ruled Unconstitutional—but That’s Not the End of It](https://www.wired.com/story/geofence-warrants-ruled-unconstitutional-tmobile-fine-deepfake-nudes-lawsuit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

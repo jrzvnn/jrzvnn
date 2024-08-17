@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
- - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 💣 [Savage!!](http://9gag.com/gag/a87ypbd)
- - 😝 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
- - 👉 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)<!-- MEMES:END -->
+ - 😝 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
+ - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 💣 [Overqualified](http://9gag.com/gag/aZZmN9W)
+ - 😝 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 ---
 

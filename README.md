@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [Suddenly I am very interested in swimming and Greece.](http://9gag.com/gag/a87yyO3)
  - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 💣 [Suddenly I am very interested in swimming and Greece.](http://9gag.com/gag/a87yyO3)
- - 😝 [Funny animal photography contest &lpar;yes it&#39;s old but it still checks out and I had never seen it&rpar;. Some may be funny, some maybe aren&#39;t, but the reality is that it takes A LOT of effort to do this. Kudos to everyone involved in this who made me laugh](http://9gag.com/gag/azx88jK)
+ - 💣 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
+ - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
  - 👉 [`Literally you`](http://9gag.com/gag/aMV8AY1)<!-- MEMES:END -->
 
 ---

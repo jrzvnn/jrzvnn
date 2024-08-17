@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t even care about racism](http://9gag.com/gag/a87y873)
- - 😝 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
- - 💣 [Be grateful in the country you live or get out.](http://9gag.com/gag/avyGGyO)
- - 😝 [Physics](http://9gag.com/gag/aLnD8j5)
- - 👉 [Funny animal photography contest &lpar;yes it&#39;s old but it still checks out and I had never seen it&rpar;. Some may be funny, some maybe aren&#39;t, but the reality is that it takes A LOT of effort to do this. Kudos to everyone involved in this who made me laugh](http://9gag.com/gag/azx88jK)<!-- MEMES:END -->
+ - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
+ - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
+ - 💣 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
+ - 👉 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)<!-- MEMES:END -->
 
 ---
 

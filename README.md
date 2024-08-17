@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert Oil](http://9gag.com/gag/aRBmK1G)
- - 😝 [Flame to flesh real quick](http://9gag.com/gag/aryb490)
- - 💣 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
+ - 😝 [The sign of a lasting marriage](http://9gag.com/gag/a87yjqO)
+ - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Looks like the real world](http://9gag.com/gag/a6ZbMML)<!-- MEMES:END -->
+ - 👉 [Rey, Finn and Luke](http://9gag.com/gag/aYQxKbV)<!-- MEMES:END -->
 
 ---
 

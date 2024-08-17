@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
- - 😝 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
- - 💣 [Flame to flesh real quick](http://9gag.com/gag/aryb490)
+ - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 😝 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
+ - 💣 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)<!-- MEMES:END -->
+ - 👉 [Asylum seeking done right. Come to change your life, don&#39;t come to change ours!](http://9gag.com/gag/amoY944)<!-- MEMES:END -->
 
 ---
 

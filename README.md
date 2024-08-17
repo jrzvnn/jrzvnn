@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
- - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
- - 💣 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
+ - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)<!-- MEMES:END -->
+ - 👉 [That was a sad read.](http://9gag.com/gag/aO8zvNN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
- - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
- - 💣 [Lacking in inclusivity and diversity. Say no more, take my money.](http://9gag.com/gag/axyVDm1)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
+ - 💣 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Peak Writing](http://9gag.com/gag/aW4m8W4)<!-- MEMES:END -->
+ - 👉 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)<!-- MEMES:END -->
 
 ---
 

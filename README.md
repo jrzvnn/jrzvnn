@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kingwell Melodia Hearing Aids Review: Unique and Affordable](https://www.wired.com/review/kingwell-melodia-hearing-aids/)
  - [What the Electric Fiat 500e Is Like—From a Fiat 500 Owner](https://www.wired.com/story/what-the-electric-fiat-500e-is-like-from-a-fiat-500-owner/)
- - [The 51 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Urban Birds Are Harboring Antibiotic-Resistant Bacteria](https://www.wired.com/story/urban-birds-are-harboring-antibiotic-resistant-bacteria/)
- - [The 55 Best Shows on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Best Tested Portable Power Stations in 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Pixel 9 Pro Fold Might Be a Sequel That Actually Delivers](https://www.cnet.com/tech/mobile/googles-pixel-9-pro-fold-might-be-a-sequel-that-actually-delivers/#ftag=CAD590a51e)
+ - [Here&#39;s How to Score a Free NFL Sunday Ticket Subscription From Verizon](https://www.cnet.com/home/internet/heres-how-to-score-a-free-nfl-sunday-ticket-subscription-from-verizon/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

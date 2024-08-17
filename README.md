@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 51 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Urban Birds Are Harboring Antibiotic-Resistant Bacteria](https://www.wired.com/story/urban-birds-are-harboring-antibiotic-resistant-bacteria/)
+ - [The 55 Best Shows on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [The Run of Record-Breaking Heat Has Ended, for Now](https://www.wired.com/story/13-month-heat-streak-ended-climate-change-global-warming-sea-surface-temperatures/)
- - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Ipswich vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [EcoFlow’s battery-powered A/C and heater combo is too overblown](https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price)
- - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

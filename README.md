@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rimac’s Nevera R makes the world’s fastest production EV a little faster](https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar)
  - [Runway debuts Gen-3 Alpha Turbo, a faster and cheaper model than Gen-3 Alpha, capable of generating 5- or 10-second-long video clips, available for all plans &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240817/p5#a240817p5)
  - [Apple released the iMac 26 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_medium=rss)
  - [Don&#39;t Get Lost Without Internet: Download Google Maps Offline](https://www.cnet.com/tech/services-and-software/dont-get-lost-without-internet-download-google-maps-offline/#ftag=CAD590a51e)
- - [X says it&#39;s closing its operations in Brazil, claiming a judge threatened arrest if X didn&#39;t comply with &quot;censorship orders&quot;; the service remains available &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240817/p4#a240817p4)
- - [Keep Your Home Cool While Cutting Your Summer Energy Bills: Here&#39;s How](https://www.cnet.com/how-to/keep-your-home-cool-while-cutting-your-summer-energy-bills-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X says it&#39;s closing its operations in Brazil, claiming a judge threatened arrest if X didn&#39;t comply with &quot;censorship orders&quot;; the service remains available &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240817/p4#a240817p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

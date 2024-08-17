@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
- - 😝 [The sign of a lasting marriage](http://9gag.com/gag/a87yjqO)
- - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
+ - 💣 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Rey, Finn and Luke](http://9gag.com/gag/aYQxKbV)<!-- MEMES:END -->
+ - 👉 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)<!-- MEMES:END -->
 
 ---
 

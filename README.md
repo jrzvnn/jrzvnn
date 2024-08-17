@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly I am very interested in swimming and Greece.](http://9gag.com/gag/a87yyO3)
- - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 💣 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
- - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
- - 👉 [`Literally you`](http://9gag.com/gag/aMV8AY1)<!-- MEMES:END -->
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
+ - 💣 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 👉 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)<!-- MEMES:END -->
 
 ---
 

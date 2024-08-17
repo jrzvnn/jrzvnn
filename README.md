@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Rimac’s Nevera R makes the world’s fastest production EV a little faster](https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar)
- - [Runway debuts Gen-3 Alpha Turbo, a faster and cheaper model than Gen-3 Alpha, capable of generating 5- or 10-second-long video clips, available for all plans &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240817/p5#a240817p5)
- - [Apple released the iMac 26 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_medium=rss)
- - [Don&#39;t Get Lost Without Internet: Download Google Maps Offline](https://www.cnet.com/tech/services-and-software/dont-get-lost-without-internet-download-google-maps-offline/#ftag=CAD590a51e)
- - [X says it&#39;s closing its operations in Brazil, claiming a judge threatened arrest if X didn&#39;t comply with &quot;censorship orders&quot;; the service remains available &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240817/p4#a240817p4)<!-- TECH:END -->
+ - [Best Internet Providers in Port St. Lucie, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-port-st-lucie-fl/#ftag=CAD590a51e)
+ - [Best Luggage Deals: Save on Suitcases From Away, Samsonite, Delsey and More](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)
+ - [Weightlifting to Lose Weight: How to Do It Right](https://www.cnet.com/health/fitness/weightlifting-to-lose-weight-how-to-do-it-right/#ftag=CAD590a51e)
+ - [The 32 Best Kitchen and Cookware Gifts for a Home Cook in 2024](https://www.cnet.com/news/best-gifts-for-a-food-or-chef/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

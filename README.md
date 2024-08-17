@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amount, which provides digital lending services for credit unions and banks, raised $30M from Curql, Goldman Sachs, WestCap, Hanaco Ventures, QED, and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240816/p21#a240816p21)
+ - [The Best Teeth-Whitening Toothpaste for Sensitive Teeth](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
  - [Filing: AT&amp;T and Verizon ask the FCC to deny SpaceX&#39;s request to waive rules, claiming Starlink&#39;s service with T-Mobile would interfere with existing networks &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240816/p20#a240816p20)
  - [Sectional Sofa w/ Storage](https://www.cnet.com/news/sectional-sofa-w-storage-dpnl/#ftag=CAD590a51e)
- - [Adult Foldable Ebike](https://www.cnet.com/roadshow/news/adult-foldable-ebike-dpnl/#ftag=CAD590a51e)
- - [Apple Watch Series 9 &lpar;41mm&rpar;](https://www.cnet.com/tech/mobile/apple-watch-series1-9-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adult Foldable Ebike](https://www.cnet.com/roadshow/news/adult-foldable-ebike-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

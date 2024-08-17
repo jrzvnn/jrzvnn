@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
- - 😝 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
- - 💣 [Asylum seeking done right. Come to change your life, don&#39;t come to change ours!](http://9gag.com/gag/amoY944)
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 😝 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 💣 [Huh?](http://9gag.com/gag/axyVDrM)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Europeans what are we doing?](http://9gag.com/gag/a6ZbQbA)<!-- MEMES:END -->
+ - 👉 [First day on the job](http://9gag.com/gag/aXPq9gg)<!-- MEMES:END -->
 
 ---
 

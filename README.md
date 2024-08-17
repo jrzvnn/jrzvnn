@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rocco Super Smart Fridge Review: A Cool Conversation Piece](https://www.wired.com/review/rocco-super-smart-fridge/)
+ - [8 photo sites that let you showcase and discuss your work](https://www.theverge.com/24219372/photography-instagram-500px-flickr-showcase)
  - [Kingwell Melodia Hearing Aids Review: Unique and Affordable](https://www.wired.com/review/kingwell-melodia-hearing-aids/)
  - [What the Electric Fiat 500e Is Like—From a Fiat 500 Owner](https://www.wired.com/story/what-the-electric-fiat-500e-is-like-from-a-fiat-500-owner/)
- - [Google&#39;s Pixel 9 Pro Fold Might Be a Sequel That Actually Delivers](https://www.cnet.com/tech/mobile/googles-pixel-9-pro-fold-might-be-a-sequel-that-actually-delivers/#ftag=CAD590a51e)
- - [Here&#39;s How to Score a Free NFL Sunday Ticket Subscription From Verizon](https://www.cnet.com/home/internet/heres-how-to-score-a-free-nfl-sunday-ticket-subscription-from-verizon/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Pixel 9 Pro Fold Might Be a Sequel That Actually Delivers](https://www.cnet.com/tech/mobile/googles-pixel-9-pro-fold-might-be-a-sequel-that-actually-delivers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A YouTuber files a proposed class action against Nvidia, accusing it of scraping his content without consent to train AI models, weeks after also suing OpenAI &lpar;Justin Bachman/Legal Dive&rpar;](http://www.techmeme.com/240816/p22#a240816p22)
  - [Amount, which provides digital lending services for credit unions and banks, raised $30M from Curql, Goldman Sachs, WestCap, Hanaco Ventures, QED, and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240816/p21#a240816p21)
  - [The Best Teeth-Whitening Toothpaste for Sensitive Teeth](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
  - [Filing: AT&amp;T and Verizon ask the FCC to deny SpaceX&#39;s request to waive rules, claiming Starlink&#39;s service with T-Mobile would interfere with existing networks &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240816/p20#a240816p20)
- - [Sectional Sofa w/ Storage](https://www.cnet.com/news/sectional-sofa-w-storage-dpnl/#ftag=CAD590a51e)
- - [Adult Foldable Ebike](https://www.cnet.com/roadshow/news/adult-foldable-ebike-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sectional Sofa w/ Storage](https://www.cnet.com/news/sectional-sofa-w-storage-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

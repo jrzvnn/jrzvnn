@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
+ - 💣 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
  - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
- - 😝 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)
- - 💣 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
- - 😝 [When you go eat seafood hotpot and the squid ink sac ruptured....](http://9gag.com/gag/ayNDnyM)
- - 👉 [Savage!!](http://9gag.com/gag/a87ypbd)<!-- MEMES:END -->
+ - 👉 [Do you remember when we bullied an animation studio? It was hilarious.](http://9gag.com/gag/aQz980e)<!-- MEMES:END -->
 
 ---
 

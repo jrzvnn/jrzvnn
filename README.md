@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
- - 😝 [Lacking in inclusivity and diversity. Say no more, take my money.](http://9gag.com/gag/axyVDm1)
- - 💣 [Normal day in the third world country.](http://9gag.com/gag/axyV241)
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 😝 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
+ - 💣 [Easiest breakup ever.](http://9gag.com/gag/a1mbY0b)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Huh?](http://9gag.com/gag/axyVDrM)<!-- MEMES:END -->
+ - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
 
 ---
 

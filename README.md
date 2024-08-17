@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/a2vr43D)
- - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
  - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
- - 👉 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/a2vr43D)
+ - 💣 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
+ - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
+ - 👉 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)<!-- MEMES:END -->
 
 ---
 

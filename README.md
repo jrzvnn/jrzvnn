@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Palantir CEO Alex Karp on co-founding the company, autonomous weapons systems, AI, supporting Kamala Harris, Silicon Valley critics, and more &lpar;Maureen Dowd/New York Times&rpar;](http://www.techmeme.com/240817/p6#a240817p6)
  - [Foxconn chief dodges accusation of discrimination in India hiring practices](https://appleinsider.com/articles/24/08/17/foxconn-chief-dodges-accusation-of-discrimination-in-india-hiring-practices?utm_medium=rss)
  - [Rimac’s Nevera R makes the world’s fastest production EV a little faster](https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar)
  - [Best Internet Providers in Charles Town, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-charles-town-wv/#ftag=CAD590a51e)
- - [Save a Staggering 79% on This BBQGuys Complete Camping Stove for a Limited Time](https://www.cnet.com/deals/save-a-staggering-79-on-this-bbqguys-complete-camping-stove-for-a-limited-time/#ftag=CAD590a51e)
- - [Sweet or Sour? Latest Research on Artificial Sweeteners Highlights Heart Health Concerns](https://www.cnet.com/health/nutrition/latest-reasearch-on-artificial-sweetener-highlights-heart-risk-concerns-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save a Staggering 79% on This BBQGuys Complete Camping Stove for a Limited Time](https://www.cnet.com/deals/save-a-staggering-79-on-this-bbqguys-complete-camping-stove-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

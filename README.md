@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you remember when we bullied an animation studio? It was hilarious.](http://9gag.com/gag/aQz980e)
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - 💣 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 💣 [Savage!!](http://9gag.com/gag/a87ypbd)
  - 😝 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
- - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
+ - 👉 [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)<!-- MEMES:END -->
 
 ---
 

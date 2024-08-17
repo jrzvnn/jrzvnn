@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can we call this guy smart?](http://9gag.com/gag/arybejd)
- - 😝 [Huh?](http://9gag.com/gag/axyVDrM)
- - 💣 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
+ - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [Lacking in inclusivity and diversity. Say no more, take my money.](http://9gag.com/gag/axyVDm1)
+ - 💣 [Normal day in the third world country.](http://9gag.com/gag/axyV241)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [The sign of a lasting marriage](http://9gag.com/gag/a87yjqO)<!-- MEMES:END -->
+ - 👉 [Huh?](http://9gag.com/gag/axyVDrM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn chief dodges accusation of discrimination in India hiring practices](https://appleinsider.com/articles/24/08/17/foxconn-chief-dodges-accusation-of-discrimination-in-india-hiring-practices?utm_medium=rss)
  - [Rimac’s Nevera R makes the world’s fastest production EV a little faster](https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar)
- - [Best Internet Providers in Port St. Lucie, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-port-st-lucie-fl/#ftag=CAD590a51e)
- - [Best Luggage Deals: Save on Suitcases From Away, Samsonite, Delsey and More](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)
- - [Weightlifting to Lose Weight: How to Do It Right](https://www.cnet.com/health/fitness/weightlifting-to-lose-weight-how-to-do-it-right/#ftag=CAD590a51e)
- - [The 32 Best Kitchen and Cookware Gifts for a Home Cook in 2024](https://www.cnet.com/news/best-gifts-for-a-food-or-chef/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Charles Town, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-charles-town-wv/#ftag=CAD590a51e)
+ - [Save a Staggering 79% on This BBQGuys Complete Camping Stove for a Limited Time](https://www.cnet.com/deals/save-a-staggering-79-on-this-bbqguys-complete-camping-stove-for-a-limited-time/#ftag=CAD590a51e)
+ - [Sweet or Sour? Latest Research on Artificial Sweeteners Highlights Heart Health Concerns](https://www.cnet.com/health/nutrition/latest-reasearch-on-artificial-sweetener-highlights-heart-risk-concerns-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

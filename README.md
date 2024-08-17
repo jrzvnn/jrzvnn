@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple&#39;s Mac mini drops to as low as $499, grab discounts up to $250 off](https://appleinsider.com/articles/24/08/17/apples-mac-mini-drops-to-as-low-as-499-grab-discounts-up-to-250-off?utm_medium=rss)
  - [An interview with Palantir CEO Alex Karp on co-founding the company, autonomous weapons systems, AI, supporting Kamala Harris, Silicon Valley critics, and more &lpar;Maureen Dowd/New York Times&rpar;](http://www.techmeme.com/240817/p6#a240817p6)
+ - [The 30 Best Gift Baskets of 2024: Find the Perfect Edible Gift](https://www.cnet.com/news/best-gift-baskets/#ftag=CAD590a51e)
  - [Foxconn chief dodges accusation of discrimination in India hiring practices](https://appleinsider.com/articles/24/08/17/foxconn-chief-dodges-accusation-of-discrimination-in-india-hiring-practices?utm_medium=rss)
- - [Rimac’s Nevera R makes the world’s fastest production EV a little faster](https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar)
- - [Best Internet Providers in Charles Town, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-charles-town-wv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rimac’s Nevera R makes the world’s fastest production EV a little faster](https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

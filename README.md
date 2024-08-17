@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Run of Record-Breaking Heat Has Ended, for Now](https://www.wired.com/story/13-month-heat-streak-ended-climate-change-global-warming-sea-surface-temperatures/)
+ - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Ipswich vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
  - [EcoFlow’s battery-powered A/C and heater combo is too overblown](https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price)
- - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)
- - [Ericsson to sell its network portability and data exchange services unit Iconectiv to Koch Equity Development for $1B; the deal is expected to close in H1 2025 &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240817/p1#a240817p1)<!-- TECH:END -->
+ - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

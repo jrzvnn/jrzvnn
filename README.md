@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something he hadn&#39;t thought of....](http://9gag.com/gag/aAydrBE)
- - 😝 [Here the chicken tastes different](http://9gag.com/gag/aMV8wYV)
- - 💣 [Savage!!](http://9gag.com/gag/a87ypbd)
+ - 😝 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
+ - 😝 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
+ - 💣 [Asylum seeking done right. Come to change your life, don&#39;t come to change ours!](http://9gag.com/gag/amoY944)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [Normal day in the third world country.](http://9gag.com/gag/axyV241)<!-- MEMES:END -->
+ - 👉 [Europeans what are we doing?](http://9gag.com/gag/a6ZbQbA)<!-- MEMES:END -->
 
 ---
 

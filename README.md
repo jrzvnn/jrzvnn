@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
- - 😝 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
- - 💣 [Easiest breakup ever.](http://9gag.com/gag/a1mbY0b)
+ - 😝 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
+ - 😝 [It is Friday my dudes](http://9gag.com/gag/awyn5Vr)
+ - 💣 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
  - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
+ - 👉 [Asylum seeking done right. Come to change your life, don&#39;t come to change ours!](http://9gag.com/gag/amoY944)<!-- MEMES:END -->
 
 ---
 

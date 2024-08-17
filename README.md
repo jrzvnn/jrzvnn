@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
- - 😝 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
- - 💣 [Huh?](http://9gag.com/gag/axyVDrM)
- - 😝 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)
- - 👉 [First day on the job](http://9gag.com/gag/aXPq9gg)<!-- MEMES:END -->
+ - 😝 [Do you remember when we bullied an animation studio? It was hilarious.](http://9gag.com/gag/aQz980e)
+ - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 💣 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)
+ - 😝 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
+ - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
 
 ---
 

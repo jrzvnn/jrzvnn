@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
- - 💣 [Dress to impress](http://9gag.com/gag/azx81mp)
- - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 👉 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)<!-- MEMES:END -->
+ - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 💣 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
+ - 😝 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
+ - 👉 [QA at vape factory](http://9gag.com/gag/azx8XYZ)<!-- MEMES:END -->
 
 ---
 

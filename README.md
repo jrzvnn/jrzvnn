@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - 😝 [Glass repair](http://9gag.com/gag/azx8AKb)
- - 💣 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
- - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
- - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
+ - 😝 [Police dog goes after police woman](http://9gag.com/gag/a9yrpm1)
+ - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 💣 [Poor girls](http://9gag.com/gag/azx88pZ)
+ - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 👉 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)<!-- MEMES:END -->
 
 ---
 

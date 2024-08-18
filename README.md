@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Worldcoin is building its World ID identity system, trying to assuage government and privacy activists&#39; concerns about its iris scanning tech and data usage &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/240818/p7#a240818p7)
  - [Formula 1 is reportedly forcing some F1 creators to change their names](https://www.theverge.com/2024/8/18/24223039/formula-1-f1-cease-and-desist-letters-creators-name-change)
  - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
  - [Best Internet Providers in Charlottesville, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-charlottesville-va/#ftag=CAD590a51e)
- - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)
- - [6 Common Eye Conditions That Appear as We Age](https://www.cnet.com/health/personal-care/6-common-eye-conditions-that-appear-as-we-age/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

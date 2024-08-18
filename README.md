@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
  - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
  - 💣 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
- - 👉 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)<!-- MEMES:END -->
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
+ - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
 
 ---
 

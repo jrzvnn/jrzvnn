@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
- - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 💣 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
+ - 😝 [One of America&#39;s most popular snacks contents.](http://9gag.com/gag/aGy1Z0n)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 💣 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
  - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [It is diverse!](http://9gag.com/gag/an7bM6B)<!-- MEMES:END -->
+ - 👉 [QA at vape factory](http://9gag.com/gag/azx8XYZ)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [South Korean AI chip makers Rebellions and Sapeon agree to merge; Rebellions has raised $225M+ and Sapeon&#39;s shareholders include SK Telecom and SK Hynix &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240818/p1#a240818p1)
- - [Dating apps are struggling as users seek organic ways to meet; Match Group reported a decline in the total number of paying users for seven straight quarters &lpar;Edward Helmore/The Guardian&rpar;](http://www.techmeme.com/240817/p7#a240817p7)
- - [iPhone 16 Cameras: Big Zooms, Better Wide-Angle and Lots of Reasons to Be Excited](https://www.cnet.com/tech/mobile/iphone-16-cameras-big-zooms-better-wide-angle-and-lots-of-reasons-to-be-excited/#ftag=CAD590a51e)
- - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
- - [Our Favorite Back-to-School Picks for 2024](https://www.cnet.com/tech/our-favorite-back-to-school-picks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cordless Stick Vacuums of 2024](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 18 #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-18-434/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 18, #1156](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-18-1156/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 18, #168](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-18-168/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

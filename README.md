@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Large waves from Ernesto demolished the foundation of a North Carolina beach house, causing it to collapse into the ocean on Friday, 8/16/2024](http://9gag.com/gag/a34qKY3)
- - 😝 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
- - 💣 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
- - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
+ - 😝 [Don&#39;t worry, you&#39;ve dune a great job](http://9gag.com/gag/ayNDBeb)
+ - 😝 [You have a better solve?](http://9gag.com/gag/a7orwwx)
+ - 💣 [People claim they don&#39;t see color see more colore than racists](http://9gag.com/gag/aqybgZP)
+ - 😝 [A choice!](http://9gag.com/gag/azx815j)
+ - 👉 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)<!-- MEMES:END -->
 
 ---
 

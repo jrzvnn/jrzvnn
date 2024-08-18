@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Poor girls](http://9gag.com/gag/azx88pZ)
- - 😝 [I feel bad for the other passengers](http://9gag.com/gag/aLnDMMx)
- - 💣 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)
- - 😝 [How do they know where to shit...](http://9gag.com/gag/a7orMqm)
- - 👉 [Women](http://9gag.com/gag/aKGVqDg)<!-- MEMES:END -->
+ - 😝 [I prefer spiders now](http://9gag.com/gag/aO8zVQR)
+ - 💣 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)
+ - 😝 [Let&#39;s go camping](http://9gag.com/gag/aQz939W)
+ - 👉 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)<!-- MEMES:END -->
 
 ---
 

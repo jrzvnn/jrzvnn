@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police dog goes after police woman](http://9gag.com/gag/a9yrpm1)
- - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 💣 [Poor girls](http://9gag.com/gag/azx88pZ)
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 👉 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)<!-- MEMES:END -->
+ - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
+ - 💣 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
+ - 😝 [Tough kind](http://9gag.com/gag/axyVz92)
+ - 👉 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)<!-- MEMES:END -->
 
 ---
 

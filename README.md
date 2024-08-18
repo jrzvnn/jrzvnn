@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arize AI: 56% of Fortune 500 companies cited AI as a &quot;risk factor&quot; in their recent annual reports, up from 9% in 2022; 86% of software firms cited AI as a risk &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240818/p6#a240818p6)
+ - [Avoid Holiday Debt With These 6 Expert-Level Tips &lpar;Even If You Have $0 Saved&rpar;](https://www.cnet.com/personal-finance/avoid-holiday-debt-with-these-6-expert-level-tips-even-if-you-have-0-saved/#ftag=CAD590a51e)
  - [New leak suggests fourth iPhone 16 Pro lineup color is more &#39;dark gold&#39; than &#39;brown&#39;](https://appleinsider.com/articles/24/08/18/new-leak-suggests-fourth-iphone-16-pro-lineup-color-is-more-dark-gold-than-brown?utm_medium=rss)
- - [The 7 Best Projectors According to Our Reviewers &lpar;2024&rpar;](https://www.wired.com/gallery/best-projectors/)
- - [Catan: New Energies Review—Climate Crisis Across the Board](https://www.wired.com/review/catan-new-energies/)
- - [This Startup, Focused on AI Search, Now Has to Stare Down Google and OpenAI](https://www.cnet.com/tech/services-and-software/this-startup-focused-on-ai-search-now-has-to-stare-down-google-and-openai/#ftag=CAD590a51e)
- - [The Back of Your iPhone Has a Secret Button -- Here&#39;s Everything It Can Do](https://www.cnet.com/tech/the-back-of-your-iphone-has-a-secret-button-heres-everything-it-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Mallorca vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-mallorca-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [Best Vitamins for Energy in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

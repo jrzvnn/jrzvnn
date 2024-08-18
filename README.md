@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protein Intake Simplified: Learn Your Daily Needs With This Visual Guide](https://www.cnet.com/health/nutrition/protein-intake-simplified-learn-your-daily-needs-with-this-visual-guide/#ftag=CAD590a51e)
  - [Best Meta Quest 2 Accessories for 2024](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
  - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
  - [Arize AI: 56% of Fortune 500 companies cited AI as a &quot;risk factor&quot; in their recent annual reports, up from 9% in 2022; 86% of software firms cited AI as a risk &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240818/p6#a240818p6)
- - [Best Food Processors of 2024: KitchenAid, Cuisinart and More](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)
- - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

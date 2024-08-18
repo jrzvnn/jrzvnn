@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It seems i have nothing better to do today](http://9gag.com/gag/a34qQWQ)
- - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 💣 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 😝 [Got some complaints about posting pictures of my dog Nigel, so I think I&#39;ll post a picture of him every few minutes...](http://9gag.com/gag/ayNDXBq)
- - 👉 [Your grandkids going to hate you if you do nothing.](http://9gag.com/gag/ae9br4j)<!-- MEMES:END -->
+ - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
+ - 😝 [Mother and child with poliosis, a hereditary white streak in their hair](http://9gag.com/gag/a34qQM1)
+ - 💣 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
 
 ---
 

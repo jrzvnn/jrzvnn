@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 💣 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
+ - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - 😝 [People claim they don&#39;t see color see more colore than racists](http://9gag.com/gag/aqybgZP)
+ - 💣 [A choice!](http://9gag.com/gag/azx815j)
+ - 😝 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)
+ - 👉 [Bold Strategy, Cotton...](http://9gag.com/gag/axyV7YL)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [New AirPod models to be included in fall 2024 hardware lineup](https://appleinsider.com/articles/24/08/18/new-airpod-models-to-be-included-in-fall-2024-hardware-lineup?utm_medium=rss)
+ - [Cash App Customers Can Claim a $2,500 Payout. How to Submit a Settlement Claim](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-2500-payout-submit-a-online-settlement-claim/#ftag=CAD590a51e)
+ - [National Public Data Breach: How to Protect Your Social Security Number](https://www.cnet.com/personal-finance/national-public-data-breach-how-to-protect-your-social-security-number/#ftag=CAD590a51e)
  - [A look at Apple&#39;s work on its in-house modem chip, which may debut in some niche models next year, with the full rollout taking a few years to complete &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240818/p5#a240818p5)
- - [A Googler’s guide to getting things done](https://www.theverge.com/2024/8/18/24221860/laura-mae-martin-google-productivity-coach-uptime-vergecast)
- - [How much does it cost to crash a $3 million hypercar on a NASA landing strip?](https://www.theverge.com/2024/8/18/24222567/hennessey-venom-f5-hypercar-crash-kennedy-space-center-shuttle-landing-strip)
- - [Crime blotter: Two arrested after iPhone theft, tracked across New England](https://appleinsider.com/articles/24/08/18/crime-blotter-two-arrested-after-iphone-theft-tracked-across-new-england?utm_medium=rss)<!-- TECH:END -->
+ - [22 Great Gifts for $50 or Less](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

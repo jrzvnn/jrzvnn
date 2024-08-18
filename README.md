@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 2,012 people in Germany finds ~50% wouldn&#39;t use the digital euro over privacy fears; the European Central Bank will decide on a rollout by 2025 end &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/240818/p4#a240818p4)
+ - [The Vacuum of Space Will Decay Sooner Than Expected](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
  - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)
  - [Best Back-to-School Deals on Amazon: Shop Laptops, Notebooks, Backpacks and More](https://www.cnet.com/deals/best-back-to-school-amazon-deals/#ftag=CAD590a51e)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
- - [Best Gaming Gifts for 2024](https://www.cnet.com/tech/gaming/best-gaming-gifts/#ftag=CAD590a51e)
- - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)<!-- TECH:END -->
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

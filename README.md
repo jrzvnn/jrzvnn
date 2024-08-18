@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Outsmarted &#39;em, eh?](http://9gag.com/gag/avyGrME)
+ - 😝 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
+ - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 💣 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
  - 😝 [Chris Rock - yeah, pretty much\u2026](http://9gag.com/gag/aO8zdYN)
- - 💣 [Glass repair](http://9gag.com/gag/azx8AKb)
- - 😝 [`Literally you`](http://9gag.com/gag/aMV8AY1)
- - 👉 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)<!-- MEMES:END -->
+ - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
 
 ---
 

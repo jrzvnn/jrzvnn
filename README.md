@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
- - 😝 [Mother and child with poliosis, a hereditary white streak in their hair](http://9gag.com/gag/a34qQM1)
- - 💣 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
  - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
+ - 💣 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
+ - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
 
 ---
 

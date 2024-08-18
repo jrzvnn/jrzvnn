@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 😝 [My car is just making up lights now](http://9gag.com/gag/aRBmjB5)
- - 💣 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 👉 [Back at it again](http://9gag.com/gag/a9yrpxK)<!-- MEMES:END -->
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
+ - 💣 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
+ - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
 
 ---
 

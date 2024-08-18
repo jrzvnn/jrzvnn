@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn\u2018t take long.](http://9gag.com/gag/abApMWE)
- - 😝 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
- - 💣 [Poor girls](http://9gag.com/gag/azx88pZ)
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - 👉 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)<!-- MEMES:END -->
+ - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 😝 [`Literally you`](http://9gag.com/gag/aMV8AY1)
+ - 💣 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
+ - 😝 [This is always funny to me](http://9gag.com/gag/avyG7ZE)
+ - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
 
 ---
 

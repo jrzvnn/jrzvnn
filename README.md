@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
  - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 💣 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
+ - 💣 [Back at it again](http://9gag.com/gag/a9yrpxK)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
  - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
 
 ---

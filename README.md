@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
  - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 💣 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
- - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 👉 [I wonder why](http://9gag.com/gag/aGy1DeZ)<!-- MEMES:END -->
+ - 😝 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
+ - 💣 [Task failed successfully](http://9gag.com/gag/a5QbM1V)
+ - 😝 [If he can move like that, whats your excuse?](http://9gag.com/gag/azx89eB)
+ - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
 
 ---
 

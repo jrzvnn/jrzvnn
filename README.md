@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - 💣 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
- - 😝 [Chris Rock - yeah, pretty much\u2026](http://9gag.com/gag/aO8zdYN)
- - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
+ - 😝 [What a terrible way to go](http://9gag.com/gag/aD2WxO9)
+ - 😝 [I feel bad for the other passengers](http://9gag.com/gag/aLnDMMx)
+ - 💣 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
+ - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 👉 [Let&#39;s go camping](http://9gag.com/gag/aQz939W)<!-- MEMES:END -->
 
 ---
 

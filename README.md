@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
+ - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)
  - [A survey of 2,012 people in Germany finds ~50% wouldn&#39;t use the digital euro over privacy fears; the European Central Bank will decide on a rollout by 2025 end &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/240818/p4#a240818p4)
  - [The Vacuum of Space Will Decay Sooner Than Expected](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
- - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)
- - [Premier League Soccer: Livestream Brentford vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [Is Now the Right Time to Refinance Your Student Loans?](https://www.cnet.com/personal-finance/loans/is-now-the-right-time-to-refinance-your-student-loans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

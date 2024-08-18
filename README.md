@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quadratic formula meme](http://9gag.com/gag/avyGPLq)
- - 😝 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
- - 💣 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
- - 😝 [`Literally you`](http://9gag.com/gag/aMV8AY1)
- - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
+ - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
+ - 😝 [How?](http://9gag.com/gag/a2vr43D)
+ - 💣 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
+ - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
+ - 👉 [`Literally you`](http://9gag.com/gag/aMV8AY1)<!-- MEMES:END -->
 
 ---
 

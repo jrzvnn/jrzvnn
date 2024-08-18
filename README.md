@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Gaming Gifts for 2024](https://www.cnet.com/tech/gaming/best-gaming-gifts/#ftag=CAD590a51e)
  - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)
  - [8 Happiness-Boosting Foods to Brighten Your Day](https://www.cnet.com/health/mental/8-foods-for-a-happiness-boost/#ftag=CAD590a51e)
  - [Best Smart Home Gifts for 2024](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
+ - [22 Great Housewarming Gifts Starting as Low as $15](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

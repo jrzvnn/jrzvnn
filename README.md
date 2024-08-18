@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 💣 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
  - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
+ - 💣 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
+ - 👉 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)<!-- MEMES:END -->
 
 ---
 

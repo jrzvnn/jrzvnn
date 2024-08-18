@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 😝 [Typical Rammstein concert](http://9gag.com/gag/a9yr7wK)
+ - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 😝 [Glass repair](http://9gag.com/gag/azx8AKb)
  - 💣 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
- - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 👉 [Won but at what cost](http://9gag.com/gag/ae9bG8B)<!-- MEMES:END -->
+ - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
+ - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
 
 ---
 

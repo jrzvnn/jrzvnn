@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7 Best Projectors According to Our Reviewers &lpar;2024&rpar;](https://www.wired.com/gallery/best-projectors/)
+ - [Catan: New Energies Review—Climate Crisis Across the Board](https://www.wired.com/review/catan-new-energies/)
  - [New AirPod models to be included in fall 2024 hardware lineup](https://appleinsider.com/articles/24/08/18/new-airpod-models-to-be-included-in-fall-2024-hardware-lineup?utm_medium=rss)
- - [Cash App Customers Can Claim a $2,500 Payout. How to Submit a Settlement Claim](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-2500-payout-submit-a-online-settlement-claim/#ftag=CAD590a51e)
- - [National Public Data Breach: How to Protect Your Social Security Number](https://www.cnet.com/personal-finance/national-public-data-breach-how-to-protect-your-social-security-number/#ftag=CAD590a51e)
  - [A look at Apple&#39;s work on its in-house modem chip, which may debut in some niche models next year, with the full rollout taking a few years to complete &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240818/p5#a240818p5)
- - [22 Great Gifts for $50 or Less](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Googler’s guide to getting things done](https://www.theverge.com/2024/8/18/24221860/laura-mae-martin-google-productivity-coach-uptime-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

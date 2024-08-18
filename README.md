@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Formula 1 is reportedly forcing some F1 creators to change their names](https://www.theverge.com/2024/8/18/24223039/formula-1-f1-cease-and-desist-letters-creators-name-change)
- - [Protein Intake Simplified: Learn Your Daily Needs With This Visual Guide](https://www.cnet.com/health/nutrition/protein-intake-simplified-learn-your-daily-needs-with-this-visual-guide/#ftag=CAD590a51e)
- - [Best Meta Quest 2 Accessories for 2024](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Arize AI: 56% of Fortune 500 companies cited AI as a &quot;risk factor&quot; in their recent annual reports, up from 9% in 2022; 86% of software firms cited AI as a risk &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240818/p6#a240818p6)<!-- TECH:END -->
+ - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
+ - [Best Internet Providers in Charlottesville, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-charlottesville-va/#ftag=CAD590a51e)
+ - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)
+ - [6 Common Eye Conditions That Appear as We Age](https://www.cnet.com/health/personal-care/6-common-eye-conditions-that-appear-as-we-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
- - 😝 [How?](http://9gag.com/gag/a2vr43D)
+ - 😝 [Poor girls](http://9gag.com/gag/azx88pZ)
+ - 😝 [The curse of living forever](http://9gag.com/gag/aAyddqL)
  - 💣 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
- - 😝 [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
- - 👉 [`Literally you`](http://9gag.com/gag/aMV8AY1)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/a2vr43D)
+ - 👉 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)<!-- MEMES:END -->
 
 ---
 

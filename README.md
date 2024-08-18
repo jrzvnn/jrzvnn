@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
- - 😝 [People claim they don&#39;t see color see more colore than racists](http://9gag.com/gag/aqybgZP)
- - 💣 [A choice!](http://9gag.com/gag/azx815j)
- - 😝 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)
- - 👉 [Bold Strategy, Cotton...](http://9gag.com/gag/axyV7YL)<!-- MEMES:END -->
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
+ - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
+ - 💣 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 👉 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)<!-- MEMES:END -->
 
 ---
 

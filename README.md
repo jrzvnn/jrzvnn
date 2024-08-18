@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New leak suggests fourth iPhone 16 Pro lineup color is more &#39;dark gold&#39; than &#39;brown&#39;](https://appleinsider.com/articles/24/08/18/new-leak-suggests-fourth-iphone-16-pro-lineup-color-is-more-dark-gold-than-brown?utm_medium=rss)
  - [The 7 Best Projectors According to Our Reviewers &lpar;2024&rpar;](https://www.wired.com/gallery/best-projectors/)
  - [Catan: New Energies Review—Climate Crisis Across the Board](https://www.wired.com/review/catan-new-energies/)
- - [New AirPod models to be included in fall 2024 hardware lineup](https://appleinsider.com/articles/24/08/18/new-airpod-models-to-be-included-in-fall-2024-hardware-lineup?utm_medium=rss)
- - [Cash App Customers Can Claim a $2,500 Payout. How to Submit a Settlement Claim](https://www.cnet.com/personal-finance/cash-app-customers-are-eligible-for-a-2500-payout-submit-a-online-settlement-claim/#ftag=CAD590a51e)
- - [National Public Data Breach: How to Protect Your Social Security Number](https://www.cnet.com/personal-finance/national-public-data-breach-how-to-protect-your-social-security-number/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Startup, Focused on AI Search, Now Has to Stare Down Google and OpenAI](https://www.cnet.com/tech/services-and-software/this-startup-focused-on-ai-search-now-has-to-stare-down-google-and-openai/#ftag=CAD590a51e)
+ - [The Back of Your iPhone Has a Secret Button -- Here&#39;s Everything It Can Do](https://www.cnet.com/tech/the-back-of-your-iphone-has-a-secret-button-heres-everything-it-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
  - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
  - 💣 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 😝 [Egypt: A 15-year old wife &lpar;married at 13&rpar; was brutally murdered over a pasta dish she made without her husband&#39;s permission](http://9gag.com/gag/aAydw9p)
- - 👉 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)<!-- MEMES:END -->
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 👉 [It is diverse!](http://9gag.com/gag/an7bM6B)<!-- MEMES:END -->
 
 ---
 

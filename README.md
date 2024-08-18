@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
+ - 😝 [I wonder why](http://9gag.com/gag/aGy1DeZ)
+ - 💣 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
- - 💣 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
- - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
- - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
+ - 👉 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)<!-- MEMES:END -->
 
 ---
 

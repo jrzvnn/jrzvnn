@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How much does it cost to crash a $3 million hypercar on a NASA landing strip?](https://www.theverge.com/2024/8/18/24222567/hennessey-venom-f5-hypercar-crash-kennedy-space-center-shuttle-landing-strip)
  - [Crime blotter: Two arrested after iPhone theft, tracked across New England](https://appleinsider.com/articles/24/08/18/crime-blotter-two-arrested-after-iphone-theft-tracked-across-new-england?utm_medium=rss)
  - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
  - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
- - [Premier League Soccer: Livestream Chelsea vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [The US Power Grid Has a Problem. Your House Could Help Solve It](https://www.cnet.com/news/features/the-us-power-grid-has-a-problem-your-house-could-help-solve-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Chelsea vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

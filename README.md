@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 😝 [It is diverse!](http://9gag.com/gag/an7bM6B)
- - 💣 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)
+ - 😝 [My car is just making up lights now](http://9gag.com/gag/aRBmjB5)
+ - 💣 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
  - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
  - 👉 [Back at it again](http://9gag.com/gag/a9yrpxK)<!-- MEMES:END -->
 

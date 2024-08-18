@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A survey of 2,012 people in Germany finds ~50% wouldn&#39;t use the digital euro over privacy fears; the European Central Bank will decide on a rollout by 2025 end &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/240818/p4#a240818p4)
  - [The Vacuum of Space Will Decay Sooner Than Expected](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
  - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)
- - [Best Back-to-School Deals on Amazon: Shop Laptops, Notebooks, Backpacks and More](https://www.cnet.com/deals/best-back-to-school-amazon-deals/#ftag=CAD590a51e)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Brentford vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
+ - [Is Now the Right Time to Refinance Your Student Loans?](https://www.cnet.com/personal-finance/loans/is-now-the-right-time-to-refinance-your-student-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

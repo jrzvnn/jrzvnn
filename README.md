@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girls](http://9gag.com/gag/azx88pZ)
- - 😝 [I prefer spiders now](http://9gag.com/gag/aO8zVQR)
- - 💣 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)
- - 😝 [Let&#39;s go camping](http://9gag.com/gag/aQz939W)
- - 👉 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)<!-- MEMES:END -->
+ - 😝 [Chris Rock - yeah, pretty much\u2026](http://9gag.com/gag/aO8zdYN)
+ - 😝 [`Literally you`](http://9gag.com/gag/aMV8AY1)
+ - 💣 [The world Snow White exists in has 3 suns](http://9gag.com/gag/abAp67L)
+ - 😝 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)
+ - 👉 [Glass repair](http://9gag.com/gag/azx8AKb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go camping](http://9gag.com/gag/aQz939W)
- - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
- - 💣 [`Literally you`](http://9gag.com/gag/aMV8AY1)
- - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
- - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
+ - 😝 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
+ - 😝 [Physics](http://9gag.com/gag/aLnD8j5)
+ - 💣 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
+ - 😝 [Funny animal photography contest &lpar;yes it&#39;s old but it still checks out and I had never seen it&rpar;. Some may be funny, some maybe aren&#39;t, but the reality is that it takes A LOT of effort to do this. Kudos to everyone involved in this who made me laugh](http://9gag.com/gag/azx88jK)
+ - 👉 [Contact technical support](http://9gag.com/gag/aQz9eq2)<!-- MEMES:END -->
 
 ---
 

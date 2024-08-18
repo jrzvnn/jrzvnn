@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)
  - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
  - [Star Wars Outlaws gets a new trailer — and PC hardware requirements](https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer)
  - [How Worldcoin is building its World ID identity system, trying to assuage government and privacy activists&#39; concerns about its iris scanning tech and data usage &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/240818/p7#a240818p7)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)
- - [Best Leaf Blowers for 2024](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

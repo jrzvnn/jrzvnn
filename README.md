@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Meta Quest 2 Accessories for 2024](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
  - [Arize AI: 56% of Fortune 500 companies cited AI as a &quot;risk factor&quot; in their recent annual reports, up from 9% in 2022; 86% of software firms cited AI as a risk &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240818/p6#a240818p6)
- - [Avoid Holiday Debt With These 6 Expert-Level Tips &lpar;Even If You Have $0 Saved&rpar;](https://www.cnet.com/personal-finance/avoid-holiday-debt-with-these-6-expert-level-tips-even-if-you-have-0-saved/#ftag=CAD590a51e)
- - [New leak suggests fourth iPhone 16 Pro lineup color is more &#39;dark gold&#39; than &#39;brown&#39;](https://appleinsider.com/articles/24/08/18/new-leak-suggests-fourth-iphone-16-pro-lineup-color-is-more-dark-gold-than-brown?utm_medium=rss)
- - [La Liga Soccer Livestream: How to Watch Mallorca vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-mallorca-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
- - [Best Vitamins for Energy in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)
+ - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

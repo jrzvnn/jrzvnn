@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girls](http://9gag.com/gag/azx88pZ)
- - 😝 [The curse of living forever](http://9gag.com/gag/aAyddqL)
- - 💣 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
- - 😝 [How?](http://9gag.com/gag/a2vr43D)
- - 👉 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)<!-- MEMES:END -->
+ - 😝 [Let&#39;s go camping](http://9gag.com/gag/aQz939W)
+ - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
+ - 💣 [`Literally you`](http://9gag.com/gag/aMV8AY1)
+ - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
+ - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
 
 ---
 

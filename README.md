@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
  - 😝 [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
  - 💣 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
- - 😝 [Tough kind](http://9gag.com/gag/axyVz92)
- - 👉 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)<!-- MEMES:END -->
+ - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
+ - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
 
 ---
 

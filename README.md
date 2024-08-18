@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 😝 [`Literally you`](http://9gag.com/gag/aMV8AY1)
- - 💣 [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
- - 😝 [This is always funny to me](http://9gag.com/gag/avyG7ZE)
- - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
+ - 😝 [Typical Rammstein concert](http://9gag.com/gag/a9yr7wK)
+ - 💣 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
+ - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 👉 [Won but at what cost](http://9gag.com/gag/ae9bG8B)<!-- MEMES:END -->
 
 ---
 

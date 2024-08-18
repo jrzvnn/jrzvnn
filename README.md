@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
  - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
- - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)
- - [Think Twice: Now Is a Terrible Time to Upgrade Your iPhone](https://www.cnet.com/tech/mobile/think-twice-now-is-a-terrible-time-to-upgrade-your-iphone/#ftag=CAD590a51e)
- - [A survey of 2,012 people in Germany finds ~50% wouldn&#39;t use the digital euro over privacy fears; the European Central Bank will decide on a rollout by 2025 end &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/240818/p4#a240818p4)
- - [Will the iPhone 16 Come With a Higher Price Tag? Here&#39;s What We Expect](https://www.cnet.com/tech/mobile/will-the-iphone-16-come-with-a-higher-price-tag-heres-what-we-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Chelsea vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [The US Power Grid Has a Problem. Your House Could Help Solve It](https://www.cnet.com/news/features/the-us-power-grid-has-a-problem-your-house-could-help-solve-it/#ftag=CAD590a51e)
+ - [Here&#39;s Why Google&#39;s Pixel 9 Pro Fold Doesn&#39;t Come in Fun Colors](https://www.cnet.com/tech/mobile/heres-why-googles-pixel-9-pro-fold-doesnt-come-in-fun-colors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

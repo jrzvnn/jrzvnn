@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s plan to introduce tablets with AI features in schools faces backlash from parents and academics concerned about children&#39;s overexposure to devices &lpar;Financial Times&rpar;](http://www.techmeme.com/240818/p2#a240818p2)
  - [South Korean AI chip makers Rebellions and Sapeon agree to merge; Rebellions has raised $225M+ and Sapeon&#39;s shareholders include SK Telecom and SK Hynix &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240818/p1#a240818p1)
  - [Best Cordless Stick Vacuums of 2024](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 18 #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-18-434/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 18, #1156](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-18-1156/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 18, #168](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-18-168/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 18, #1156](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-18-1156/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

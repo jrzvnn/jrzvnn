@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 😝 [It is diverse!](http://9gag.com/gag/an7bM6B)
  - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 💣 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 😝 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)
+ - 💣 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
  - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
 
 ---

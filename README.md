@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [Large waves from Ernesto demolished the foundation of a North Carolina beach house, causing it to collapse into the ocean on Friday, 8/16/2024](http://9gag.com/gag/a34qKY3)
+ - 😝 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
  - 💣 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
+ - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
+ - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
 
 ---
 

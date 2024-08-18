@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of America&#39;s most popular snacks contents.](http://9gag.com/gag/aGy1Z0n)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 💣 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [QA at vape factory](http://9gag.com/gag/azx8XYZ)<!-- MEMES:END -->
+ - 😝 [It seems i have nothing better to do today](http://9gag.com/gag/a34qQWQ)
+ - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 💣 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
+ - 😝 [Got some complaints about posting pictures of my dog Nigel, so I think I&#39;ll post a picture of him every few minutes...](http://9gag.com/gag/ayNDXBq)
+ - 👉 [Your grandkids going to hate you if you do nothing.](http://9gag.com/gag/ae9br4j)<!-- MEMES:END -->
 
 ---
 

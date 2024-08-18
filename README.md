@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Back at it again](http://9gag.com/gag/a9yrpxK)
- - 😝 [I wonder why](http://9gag.com/gag/aGy1DeZ)
- - 💣 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 💣 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 👉 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)<!-- MEMES:END -->
+ - 👉 [I wonder why](http://9gag.com/gag/aGy1DeZ)<!-- MEMES:END -->
 
 ---
 

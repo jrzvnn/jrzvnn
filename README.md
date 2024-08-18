@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is diverse!](http://9gag.com/gag/an7bM6B)
- - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 💣 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
- - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 💣 [It is diverse!](http://9gag.com/gag/an7bM6B)
+ - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 👉 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)<!-- MEMES:END -->
 
 ---
 

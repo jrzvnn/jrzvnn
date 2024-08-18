@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
  - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 😝 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
- - 💣 [Task failed successfully](http://9gag.com/gag/a5QbM1V)
- - 😝 [If he can move like that, whats your excuse?](http://9gag.com/gag/azx89eB)
- - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
+ - 💣 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 😝 [I wonder why](http://9gag.com/gag/aGy1DeZ)
+ - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
 
 ---
 

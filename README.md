@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 💣 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
- - 😝 [I wonder why](http://9gag.com/gag/aGy1DeZ)
- - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
+ - 😝 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 😝 [Floodwater bursts through window in Orem, Utah. 16th August 2024.](http://9gag.com/gag/aVvqDZv)
+ - 💣 [Didn\u2018t take long.](http://9gag.com/gag/abApMWE)
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
+ - 👉 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)<!-- MEMES:END -->
 
 ---
 

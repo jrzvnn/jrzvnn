@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
  - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 😝 [John. Wat you doing](http://9gag.com/gag/aXPqYMz)
- - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
+ - 💣 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
 
 ---
 

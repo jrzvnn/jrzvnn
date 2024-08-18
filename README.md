@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
  - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)
+ - [Think Twice: Now Is a Terrible Time to Upgrade Your iPhone](https://www.cnet.com/tech/mobile/think-twice-now-is-a-terrible-time-to-upgrade-your-iphone/#ftag=CAD590a51e)
  - [A survey of 2,012 people in Germany finds ~50% wouldn&#39;t use the digital euro over privacy fears; the European Central Bank will decide on a rollout by 2025 end &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/240818/p4#a240818p4)
- - [The Vacuum of Space Will Decay Sooner Than Expected](https://www.wired.com/story/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon/)
- - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)<!-- TECH:END -->
+ - [Will the iPhone 16 Come With a Higher Price Tag? Here&#39;s What We Expect](https://www.cnet.com/tech/mobile/will-the-iphone-16-come-with-a-higher-price-tag-heres-what-we-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

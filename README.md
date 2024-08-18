@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
- - 😝 [Floodwater bursts through window in Orem, Utah. 16th August 2024.](http://9gag.com/gag/aVvqDZv)
- - 💣 [Didn\u2018t take long.](http://9gag.com/gag/abApMWE)
+ - 😝 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 😝 [It is diverse!](http://9gag.com/gag/an7bM6B)
+ - 💣 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)
  - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 👉 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)<!-- MEMES:END -->
+ - 👉 [Back at it again](http://9gag.com/gag/a9yrpxK)<!-- MEMES:END -->
 
 ---
 

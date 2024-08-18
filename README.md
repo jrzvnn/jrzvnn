@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)
+ - [Best Back-to-School Deals on Amazon: Shop Laptops, Notebooks, Backpacks and More](https://www.cnet.com/deals/best-back-to-school-amazon-deals/#ftag=CAD590a51e)
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
  - [Best Gaming Gifts for 2024](https://www.cnet.com/tech/gaming/best-gaming-gifts/#ftag=CAD590a51e)
- - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)
- - [8 Happiness-Boosting Foods to Brighten Your Day](https://www.cnet.com/health/mental/8-foods-for-a-happiness-boost/#ftag=CAD590a51e)
- - [Best Smart Home Gifts for 2024](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, you&#39;ve dune a great job](http://9gag.com/gag/ayNDBeb)
- - 😝 [You have a better solve?](http://9gag.com/gag/a7orwwx)
- - 💣 [People claim they don&#39;t see color see more colore than racists](http://9gag.com/gag/aqybgZP)
- - 😝 [A choice!](http://9gag.com/gag/azx815j)
- - 👉 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)<!-- MEMES:END -->
+ - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 😝 [John. Wat you doing](http://9gag.com/gag/aXPqYMz)
+ - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
 
 ---
 

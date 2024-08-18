@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Home Gifts for 2024](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)
  - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
  - [22 Great Housewarming Gifts Starting as Low as $15](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
  - [The Link Between Your Diet and Sleep Habits: Start Eating Foods That Help You Sleep Better](https://www.cnet.com/health/sleep/how-you-eat-influences-how-you-sleep-heres-how-to-eat-right-for-the-best-sleep-ever/#ftag=CAD590a51e)
- - [South Korea&#39;s plan to introduce tablets with AI features in schools faces backlash from parents and academics concerned about children&#39;s overexposure to devices &lpar;Financial Times&rpar;](http://www.techmeme.com/240818/p2#a240818p2)<!-- TECH:END -->
+ - [South Korea&#39;s plan to introduce tablets with AI features in schools faces backlash from parents and academics concerned about children&#39;s overexposure to devices &lpar;Financial Times&rpar;](http://www.techmeme.com/240818/p2#a240818p2)
+ - [South Korean AI chip makers Rebellions and Sapeon agree to merge; Rebellions has raised $225M+ and Sapeon&#39;s shareholders include SK Telecom and SK Hynix &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240818/p1#a240818p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK : Portsmouth - Mohammed Shahid Hussain, from Pakistan, attempted to rape a 14-year-old British girl, caught and arrested. Mohammed says, `I am new here, I don\u2019t know UK laws, I only follow Sharia law.`](http://9gag.com/gag/a34qEv3)
  - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 💣 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 👉 [Nuclear powered cat](http://9gag.com/gag/awynnP1)<!-- MEMES:END -->
+ - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 ---
 

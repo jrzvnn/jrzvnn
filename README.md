@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
- - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 💣 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)
- - 😝 [Britain be warned.](http://9gag.com/gag/adB75RN)
- - 👉 [Dedication](http://9gag.com/gag/abApG0r)<!-- MEMES:END -->
+ - 😝 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [You know](http://9gag.com/gag/azx89dq)
+ - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 ---
 

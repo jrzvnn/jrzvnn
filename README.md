@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [The Best Early Labor Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-labor-day-mattress-deals/)
  - [Anova will start charging a subscription fee for its sous vide companion app](https://www.theverge.com/2024/8/19/24223878/anova-sous-vide-kitchen-app-subscription)
  - [Turtle Beach’s new Stealth 700 gaming headset has two USB dongles](https://www.theverge.com/2024/8/19/24223821/turtle-beach-stealth-700-gen3-headset-playstation-xbox-pc-steam-price-specs)
- - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)
- - [Best Pixel 9 Deals: Preorder a Google Pixel 9 Series Phone Now and Save](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

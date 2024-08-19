@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
  - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 💣 [What a big horse](http://9gag.com/gag/aVvqwV2)
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)<!-- MEMES:END -->
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
+ - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
 
 ---
 

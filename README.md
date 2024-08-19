@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
+ - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 💣 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 😝 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
  - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
 
 ---

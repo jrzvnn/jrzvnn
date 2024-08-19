@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
  - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 💣 [Dedication](http://9gag.com/gag/abApG0r)
- - 😝 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)
- - 👉 [Britain be warned.](http://9gag.com/gag/adB75RN)<!-- MEMES:END -->
+ - 💣 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)
+ - 😝 [Britain be warned.](http://9gag.com/gag/adB75RN)
+ - 👉 [Dedication](http://9gag.com/gag/abApG0r)<!-- MEMES:END -->
 
 ---
 

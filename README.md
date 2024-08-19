@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
- - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 😝 [Guess the state](http://9gag.com/gag/aLnDwyW)
+ - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 💣 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)<!-- MEMES:END -->
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 

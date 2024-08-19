@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 💣 [No wrong choices please](http://9gag.com/gag/amoYB0o)
- - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
- - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
+ - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 💣 [Dedication](http://9gag.com/gag/abApG0r)
+ - 😝 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)
+ - 👉 [Britain be warned.](http://9gag.com/gag/adB75RN)<!-- MEMES:END -->
 
 ---
 

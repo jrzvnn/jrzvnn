@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Podcasts now has a web app](https://www.theverge.com/2024/8/19/24223811/apple-podcasts-web-app)
  - [Ticketmaster’s nontransferrable ‘SafeTix’ are anti-competitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)
  - [Apple Podcasts can now be heard on the web without a separate app](https://appleinsider.com/articles/24/08/19/apple-podcasts-can-now-be-heard-on-the-web-without-a-separate-app?utm_medium=rss)
  - [Waymo’s new robotaxi will feature fewer sensors to help lower costs](https://www.theverge.com/2024/8/19/24223655/waymos-new-robotaxi-will-feature-fewer-sensors-to-help-lower-costs)
- - [Apple re-releases iOS 17.6.1, releases watchOS 10.6.1 and tvOS 17.6.1](https://appleinsider.com/articles/24/08/19/apple-re-releases-ios-1761-releases-watchos-1061-and-tvos-1761?utm_medium=rss)
- - [A week after data broker NPD confirmed a breach, which reportedly impacted 272M+ people, a review of NPD property Records Check shows exposed admin credentials &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240819/p14#a240819p14)<!-- TECH:END -->
+ - [Apple re-releases iOS 17.6.1, releases watchOS 10.6.1 and tvOS 17.6.1](https://appleinsider.com/articles/24/08/19/apple-re-releases-ios-1761-releases-watchos-1061-and-tvos-1761?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

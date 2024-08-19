@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump ‘accepts’ AI-generated fake Taylor Swift endorsement](https://www.theverge.com/2024/8/19/24223589/trump-ai-generated-swift-harris-social-media)
+ - [Apple debuts a web app for Podcasts, letting users log in to listen to podcasts, view the Up Next queue and library, and browse new shows, at podcasts.apple.com &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240819/p13#a240819p13)
+ - [Apple honors 108 years of the National Park Service with Apple Pay donations](https://appleinsider.com/articles/24/08/19/apple-honors-108-years-of-the-national-park-service-with-apple-pay-donations?utm_medium=rss)
  - [Google will end the Google Play Security Reward Program, introduced in 2017 to incentivize researchers to find bugs in popular Android apps, on August 31 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240819/p12#a240819p12)
- - [Climate Change’s Latest Deadly Killer: Lightning Strikes](https://www.wired.com/story/thunder-lightning-strike-deaths-india/)
- - [You’ll need to teach this $16,000 humanoid robot how to make breakfast](https://www.theverge.com/2024/8/19/24223629/unitree-g1-robot-humanoid-price-release)
- - [Procreate tells users, &#39;AI is not our future&#39;](https://appleinsider.com/articles/24/08/19/procreate-tells-users-ai-is-not-our-future?utm_medium=rss)
- - [Final Fantasy XVI launches on PC in September](https://www.theverge.com/2024/8/19/24222173/final-fantasy-xvi-ff-16-pc-release-date)<!-- TECH:END -->
+ - [Climate Change’s Latest Deadly Killer: Lightning Strikes](https://www.wired.com/story/thunder-lightning-strike-deaths-india/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

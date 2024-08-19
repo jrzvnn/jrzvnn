@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple re-releases iOS 17.6.1, releases watchOS 10.6.1 and tvOS 17.6.1](https://appleinsider.com/articles/24/08/19/apple-re-releases-ios-1761-releases-watchos-1061-and-tvos-1761?utm_medium=rss)
+ - [A week after data broker NPD confirmed a breach, which reportedly impacted 272M+ people, a review of NPD property Records Check shows exposed admin credentials &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240819/p14#a240819p14)
+ - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2024&rpar;](https://www.wired.com/gallery/best-backyard-pizza-ovens/)
  - [Apple Podcasts can now be heard on the web without a separate app](https://appleinsider.com/articles/24/08/19/apple-podcasts-can-now-be-heard-on-the-web-without-a-separate-app?utm_medium=rss)
- - [The AI photo editing era is here, and it’s every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)
- - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
- - [Trump ‘accepts’ AI-generated fake Taylor Swift endorsement](https://www.theverge.com/2024/8/19/24223589/trump-ai-generated-swift-harris-social-media)
- - [Apple debuts a web app for Podcasts, letting users log in to listen to podcasts, view the Up Next queue and library, and browse new shows, at podcasts.apple.com &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240819/p13#a240819p13)<!-- TECH:END -->
+ - [The AI photo editing era is here, and it’s every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

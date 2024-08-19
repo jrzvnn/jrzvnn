@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla is hiring people to do the robot](https://www.theverge.com/2024/8/19/24223626/tesla-optimus-humanoid-robot-motion-capture-training)
  - [Nanoleaf Expo Display Box, SmartMi E1, &amp; Apple&#39;s Robotic iPad on HomeKit Insider](https://appleinsider.com/articles/24/08/19/nanoleaf-expo-display-box-smartmi-e1-apples-robotic-ipad-on-homekit-insider?utm_medium=rss)
  - [Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240819/p9#a240819p9)
  - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
- - [Source: GM is cutting over 1,000 software engineers, including 600+ in Michigan, as the automaker moves to lean up its software and services organization &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/240819/p8#a240819p8)
- - [Best Savings Rates Today – Now’s the Time to Earn Up to 5.35% APY Before It’s Too Late, Aug. 19, 2024](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-19-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: GM is cutting over 1,000 software engineers, including 600+ in Michigan, as the automaker moves to lean up its software and services organization &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/240819/p8#a240819p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

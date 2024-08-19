@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 💣 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
  - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 ---

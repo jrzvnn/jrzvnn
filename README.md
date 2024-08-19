@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do we know enough about the health risks of new semiconductor factories?](https://www.theverge.com/2024/8/19/24214415/labor-unions-environmental-review-semiconductor-manufacturing-biden-commerce)
  - [Apple Podcasts now has a web app](https://www.theverge.com/2024/8/19/24223811/apple-podcasts-web-app)
- - [Ticketmaster’s nontransferrable ‘SafeTix’ are anti-competitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)
+ - [Ticketmaster’s nontransferable ‘SafeTix’ are anticompetitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)
  - [Apple Podcasts can now be heard on the web without a separate app](https://appleinsider.com/articles/24/08/19/apple-podcasts-can-now-be-heard-on-the-web-without-a-separate-app?utm_medium=rss)
- - [Waymo’s new robotaxi will feature fewer sensors to help lower costs](https://www.theverge.com/2024/8/19/24223655/waymos-new-robotaxi-will-feature-fewer-sensors-to-help-lower-costs)
- - [Apple re-releases iOS 17.6.1, releases watchOS 10.6.1 and tvOS 17.6.1](https://appleinsider.com/articles/24/08/19/apple-re-releases-ios-1761-releases-watchos-1061-and-tvos-1761?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo’s new robotaxi will feature fewer sensors to help lower costs](https://www.theverge.com/2024/8/19/24223655/waymos-new-robotaxi-will-feature-fewer-sensors-to-help-lower-costs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

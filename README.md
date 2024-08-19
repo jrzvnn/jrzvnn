@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 💣 [What a big horse](http://9gag.com/gag/aVvqwV2)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
  - 👉 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)<!-- MEMES:END -->
 
 ---

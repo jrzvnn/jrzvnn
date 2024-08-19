@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The FBI, ODNI, and CISA say they are &quot;confident&quot; that Iran was responsible for recent attempted hacks into the Trump and Biden-Harris campaigns &lpar;Perry Stein/Washington Post&rpar;](http://www.techmeme.com/240819/p18#a240819p18)
  - [Palo Alto Networks reports Q4 revenue up 12% YoY to $2.2B, vs. $2.16B est., FY 2025 revenue guidance above est., and increases its share buyback by $500M to $1B &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240819/p17#a240819p17)
- - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)
- - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [Gemini Live is not too useful as a premium feature as it lacks many integrations that text-based Gemini supports and cannot yet interpret images or video &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240819/p16#a240819p16)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Men in 2024](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
+ - [Best Amazon Deals: Save on Tech, Essentials and More Items Under $100](https://www.cnet.com/deals/best-amazon-deals-stock-up-on-everyday-goods-or-snag-new-tech-for-less-than-100/#ftag=CAD590a51e)
+ - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

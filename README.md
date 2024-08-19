@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
  - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 💣 [You know](http://9gag.com/gag/azx89dq)
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
+ - 💣 [No wrong choices please](http://9gag.com/gag/amoYB0o)
+ - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
+ - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top quality rebar in China.](http://9gag.com/gag/a34qE3N)
- - 😝 [You know](http://9gag.com/gag/azx89dq)
- - 💣 [What in the world is this creature](http://9gag.com/gag/abApYpp)
+ - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
  - 😝 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
- - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
+ - 💣 [You know](http://9gag.com/gag/azx89dq)
+ - 😝 [No wrong choices please](http://9gag.com/gag/amoYB0o)
+ - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 ---
 

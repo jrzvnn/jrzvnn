@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
+ - [The FBI, ODNI, and CISA say they are &quot;confident&quot; that Iran was responsible for recent attempted hacks into the Trump and Biden-Harris campaigns &lpar;Perry Stein/Washington Post&rpar;](http://www.techmeme.com/240819/p18#a240819p18)
+ - [Palo Alto Networks reports Q4 revenue up 12% YoY to $2.2B, vs. $2.16B est., FY 2025 revenue guidance above est., and increases its share buyback by $500M to $1B &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240819/p17#a240819p17)
+ - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)
  - [Gemini Live is not too useful as a premium feature as it lacks many integrations that text-based Gemini supports and cannot yet interpret images or video &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240819/p16#a240819p16)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [The 9th-Gen iPad Is My Kid&#39;s Favorite Toy and It Just Hit Its Lowest Ever Price](https://www.cnet.com/deals/the-9th-gen-ipad-is-my-kids-favorite-toy-and-its-just-199/#ftag=CAD590a51e)
- - [Netgear Orbi AXE11000 review: A top-of-the-line mesh router that&#39;s overkill for most people](https://www.cnet.com/home/internet/netgear-orbi-axe11000-wi-fi-6e-mesh-router-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

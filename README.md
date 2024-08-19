@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
- - 😝 [UK : Mohammed Sina, 30, illegal immigrant from Iran, attempted to rape 12-year-old British girls. Caught and arrested. Mohammed was previously in jail for assault and robbery.](http://9gag.com/gag/aZZm0x0)
- - 💣 [What a big horse](http://9gag.com/gag/aVvqwV2)
+ - 😝 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
+ - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 💣 [Action day dream](http://9gag.com/gag/agmLB16)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Cleaning keyboard mode](http://9gag.com/gag/aNDApLv)<!-- MEMES:END -->
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 

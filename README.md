@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19 #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-435/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 19, #1157](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-19-1157/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 19, #169](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-19-169/#ftag=CAD590a51e)
  - [FOI docs: water consumption by data centers in Virginia, home to world&#39;s largest cluster of data centers, reached 1.85B+ gallons in 2023, up from 1.13B in 2019 &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240818/p8#a240818p8)
- - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
- - [Waymo’s robotaxi depot is still honking its San Francisco neighbors awake](https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working)
- - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)
- - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

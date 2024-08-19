@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
+ - [Source: GM is cutting over 1,000 software engineers, including 600+ in Michigan, as the automaker moves to lean up its software and services organization &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/240819/p8#a240819p8)
  - [Apple shares how college students use Mac &amp; iPad as they head back to campus](https://appleinsider.com/articles/24/08/19/apple-shares-how-college-students-use-mac-ipad-as-they-head-back-to-campus?utm_medium=rss)
  - [Procreate CEO James Cuda says the iPad illustration app is &quot;not going to be introducing any generative AI into our products&quot;, drawing praise from creatives &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240819/p7#a240819p7)
- - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
- - [Lamborghini’s first EV is nearly ready — but are we?](https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs)
- - [Girls In Tech, Women Who Code, and other groups that aimed to diversify Silicon Valley are closing or rebranding to stay afloat, as critics attack DEI efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/240819/p6#a240819p6)<!-- TECH:END -->
+ - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

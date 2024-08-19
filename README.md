@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the state](http://9gag.com/gag/aLnDwyW)
- - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - 💣 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
+ - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 💣 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 👉 [Guess the state](http://9gag.com/gag/aLnDwyW)<!-- MEMES:END -->
 
 ---
 

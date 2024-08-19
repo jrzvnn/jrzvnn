@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
  - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [No wrong choices please](http://9gag.com/gag/amoYB0o)
+ - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
  - 👉 [You know](http://9gag.com/gag/azx89dq)<!-- MEMES:END -->
 
 ---

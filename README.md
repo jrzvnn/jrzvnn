@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security flaws in Microsoft Mac apps could let attackers spy on users](https://appleinsider.com/articles/24/08/19/security-flaws-in-microsoft-mac-apps-could-let-attackers-spy-on-users?utm_medium=rss)
+ - [AMD agrees to buy New Jersey-based ZT Systems, founded in 1994 to design and make servers, server racks, and other infrastructure, for $4.9B, closing in H1 2025 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240819/p3#a240819p3)
+ - [The Pentagon Is Planning a Drone ‘Hellscape’ to Defend Taiwan](https://www.wired.com/story/china-taiwan-pentagon-drone-hellscape/)
  - [Carta: 254 of its VC-backed clients went bust in Q1 2024 and the startup bankruptcy rate is over 7x that of 2019, as funds raised in the 2021-2022 boom run out &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240819/p2#a240819p2)
- - [32 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)
- - [How to Watch the 2024 Summer Paralympics: Streaming Schedule, Free Options](https://www.wired.com/story/how-to-watch-the-2024-paris-summer-paralympics/)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 5G Phones of 2024](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

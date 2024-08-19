@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
  - [Waymo’s robotaxi depot is still honking its San Francisco neighbors awake](https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working)
+ - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)
  - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
- - [Star Wars Outlaws gets a new trailer — and PC hardware requirements](https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer)
- - [How Worldcoin is building its World ID identity system, trying to assuage government and privacy activists&#39; concerns about its iris scanning tech and data usage &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/240818/p7#a240818p7)<!-- TECH:END -->
+ - [Best Internet Providers in Greenwood, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-greenwood-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

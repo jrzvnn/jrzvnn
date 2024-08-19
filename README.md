@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
+ - [Lamborghini’s first EV is nearly ready — but are we?](https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs)
+ - [Girls In Tech, Women Who Code, and other groups that aimed to diversify Silicon Valley are closing or rebranding to stay afloat, as critics attack DEI efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/240819/p6#a240819p6)
  - [Apple&#39;s iPad 9th Generation plunges to record low $199 at Amazon &amp; Best Buy](https://appleinsider.com/articles/24/08/19/apples-ipad-9th-generation-plunges-to-record-low-199-at-amazon-best-buy?utm_medium=rss)
- - [10 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [What Are the Different Motherboard Sizes?](https://www.wired.com/story/motherboard-size-explainer/)
- - [Procreate’s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
- - [&#39;Homicide: Life on the Street&#39; Arrives on Streaming: How to Watch Every Season](https://www.cnet.com/tech/services-and-software/homicide-life-on-the-street-arrives-on-streaming-how-to-watch-every-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

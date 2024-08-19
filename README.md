@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 😝 [Mother and child with poliosis, a hereditary white streak in their hair](http://9gag.com/gag/a34qQM1)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 💣 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
  - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
- - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
+ - 👉 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)<!-- MEMES:END -->
 
 ---
 

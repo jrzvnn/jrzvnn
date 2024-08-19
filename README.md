@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
  - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
  - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 💣 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 😝 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
- - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
+ - 👉 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Q2, Walmart said its ad business grew 30% in the past year; eMarketer says Walmart will claim 6.8% of 2024 US retail media spending, for $3.7B in ad revenue &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/240819/p5#a240819p5)
+ - [Ricoh GR III and GR IIIx Digital Camera Review: Nearly the Perfect Cameras](https://www.wired.com/review/ricoh-gr-iii-and-gr-iiix-digital-cameras/)
  - [After Google&#39;s antitrust loss, what comes next is not clear, besides the court ordering Google to stop or reduce TAC payments; Apple may build its own search &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240819/p4#a240819p4)
- - [Security flaws in Microsoft Mac apps could let attackers spy on users](https://appleinsider.com/articles/24/08/19/security-flaws-in-microsoft-mac-apps-could-let-attackers-spy-on-users?utm_medium=rss)
- - [AMD agrees to buy New Jersey-based ZT Systems, founded in 1994 to design and make servers, server racks, and other infrastructure, for $4.9B, closing in H1 2025 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240819/p3#a240819p3)
- - [The Pentagon Is Planning a Drone ‘Hellscape’ to Defend Taiwan](https://www.wired.com/story/china-taiwan-pentagon-drone-hellscape/)
- - [Carta: 254 of its VC-backed clients went bust in Q1 2024 and the startup bankruptcy rate is over 7x that of 2019, as funds raised in the 2021-2022 boom run out &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240819/p2#a240819p2)<!-- TECH:END -->
+ - [Refinance Rates Tick Higher: Mortgage Refinance Rates for Aug. 19, 2024](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-for-aug-19-2024/#ftag=CAD590a51e)
+ - [Rates Move Up Over the Last Week: Current Mortgage Rates for Aug. 19, 2024](https://www.cnet.com/personal-finance/mortgages/rates-move-up-over-the-last-week-current-mortgage-rates-for-aug-19-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

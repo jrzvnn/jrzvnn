@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 😝 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
- - 💣 [Yeah, been there, done that...](http://9gag.com/gag/aLnDDb5)
  - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 👉 [QA at vape factory](http://9gag.com/gag/azx8XYZ)<!-- MEMES:END -->
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 💣 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
+ - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
+ - 👉 [Dress to impress](http://9gag.com/gag/azx81mp)<!-- MEMES:END -->
 
 ---
 

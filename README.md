@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
  - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
  - 💣 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
- - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
- - 👉 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)<!-- MEMES:END -->
+ - 😝 [9GAG feed right now... what the hell?](http://9gag.com/gag/a34qEK5)
+ - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 ---
 

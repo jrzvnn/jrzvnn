@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240819/p9#a240819p9)
  - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
  - [Source: GM is cutting over 1,000 software engineers, including 600+ in Michigan, as the automaker moves to lean up its software and services organization &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/240819/p8#a240819p8)
  - [Apple shares how college students use Mac &amp; iPad as they head back to campus](https://appleinsider.com/articles/24/08/19/apple-shares-how-college-students-use-mac-ipad-as-they-head-back-to-campus?utm_medium=rss)
- - [Procreate CEO James Cuda says the iPad illustration app is &quot;not going to be introducing any generative AI into our products&quot;, drawing praise from creatives &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240819/p7#a240819p7)
- - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)<!-- TECH:END -->
+ - [Procreate CEO James Cuda says the iPad illustration app is &quot;not going to be introducing any generative AI into our products&quot;, drawing praise from creatives &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240819/p7#a240819p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

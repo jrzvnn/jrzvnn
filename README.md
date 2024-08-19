@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
- - 💣 [No wrong choices please](http://9gag.com/gag/amoYB0o)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 😝 [No wrong choices please](http://9gag.com/gag/amoYB0o)
+ - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)<!-- MEMES:END -->
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 

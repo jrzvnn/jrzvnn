@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Podcasts can now be heard on the web without a separate app](https://appleinsider.com/articles/24/08/19/apple-podcasts-can-now-be-heard-on-the-web-without-a-separate-app?utm_medium=rss)
  - [The AI photo editing era is here, and it’s every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)
  - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
  - [Trump ‘accepts’ AI-generated fake Taylor Swift endorsement](https://www.theverge.com/2024/8/19/24223589/trump-ai-generated-swift-harris-social-media)
- - [Apple debuts a web app for Podcasts, letting users log in to listen to podcasts, view the Up Next queue and library, and browse new shows, at podcasts.apple.com &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240819/p13#a240819p13)
- - [Apple honors 108 years of the National Park Service with Apple Pay donations](https://appleinsider.com/articles/24/08/19/apple-honors-108-years-of-the-national-park-service-with-apple-pay-donations?utm_medium=rss)<!-- TECH:END -->
+ - [Apple debuts a web app for Podcasts, letting users log in to listen to podcasts, view the Up Next queue and library, and browse new shows, at podcasts.apple.com &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240819/p13#a240819p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

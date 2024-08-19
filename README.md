@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK : Portsmouth - Mohammed Shahid Hussain, from Pakistan, attempted to rape a 14-year-old British girl, caught and arrested. Mohammed says, `I am new here, I don\u2019t know UK laws, I only follow Sharia law.`](http://9gag.com/gag/a34qEv3)
+ - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
  - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 💣 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 👉 [Nuclear powered cat](http://9gag.com/gag/awynnP1)<!-- MEMES:END -->
+ - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 

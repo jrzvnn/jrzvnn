@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 💣 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
+ - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 💣 [No wrong choices please](http://9gag.com/gag/amoYB0o)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Guess the state](http://9gag.com/gag/aLnDwyW)<!-- MEMES:END -->
+ - 👉 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)<!-- MEMES:END -->
 
 ---
 

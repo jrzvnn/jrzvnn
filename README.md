@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can confirm](http://9gag.com/gag/a9yrEvL)
- - 😝 [What men want](http://9gag.com/gag/arybnbV)
- - 💣 [Nuclear power meme](http://9gag.com/gag/aQz9ove)
+ - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 😝 [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
+ - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [I&#39;d pay money to see it](http://9gag.com/gag/a4PbEmA)<!-- MEMES:END -->
+ - 👉 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)<!-- MEMES:END -->
 
 ---
 

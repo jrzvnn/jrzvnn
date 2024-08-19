@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You’ll need to teach this $16,000 humanoid robot how to make breakfast](https://www.theverge.com/2024/8/19/24223629/unitree-g1-robot-humanoid-price-release)
  - [Procreate tells users, &#39;AI is not our future&#39;](https://appleinsider.com/articles/24/08/19/procreate-tells-users-ai-is-not-our-future?utm_medium=rss)
  - [Final Fantasy XVI launches on PC in September](https://www.theverge.com/2024/8/19/24222173/final-fantasy-xvi-ff-16-pc-release-date)
  - [Fabric Cryptography, a startup working on a &quot;verifiable processing unit&quot; chip for cryptography, raised a $33M Series A co-led by Blockchain Capital and 1kx &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240819/p11#a240819p11)
- - [GM reportedly cuts 1,000 jobs in its software and services division](https://www.theverge.com/2024/8/19/24223600/gm-layoffs-1000-jobs-software-and-services-super-cruise)
- - [The ninth-gen iPad nears fire-sale territory with a drop to $199](https://www.theverge.com/good-deals/2024/8/19/24223595/apple-ipad-ninth-gen-a13-oneplus-watch-2-deal-sale)<!-- TECH:END -->
+ - [GM reportedly cuts 1,000 jobs in its software and services division](https://www.theverge.com/2024/8/19/24223600/gm-layoffs-1000-jobs-software-and-services-super-cruise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

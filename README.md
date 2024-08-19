@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19 #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-435/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 19, #1157](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-19-1157/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 19, #169](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-19-169/#ftag=CAD590a51e)
- - [FOI docs: water consumption by data centers in Virginia, home to world&#39;s largest cluster of data centers, reached 1.85B+ gallons in 2023, up from 1.13B in 2019 &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240818/p8#a240818p8)
- - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FOI docs: water consumption by data centers in Virginia, home to world&#39;s largest cluster of data centers, reached 1.85B+ gallons in 2023, up from 1.13B in 2019 &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240818/p8#a240818p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

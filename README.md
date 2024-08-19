@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [University professors still face the seemingly impossible task of detecting AI-fueled cheating, which continues unabated on both small and large assignments &lpar;Ian Bogost/The Atlantic&rpar;](http://www.techmeme.com/240819/p15#a240819p15)
  - [Do we know enough about the health risks of new semiconductor factories?](https://www.theverge.com/2024/8/19/24214415/labor-unions-environmental-review-semiconductor-manufacturing-biden-commerce)
- - [Save 20% on Eco-Friendly Rocketbook Planners, Notebooks and More With Sitewide Labor Day Deals](https://www.cnet.com/deals/save-20-on-eco-friendly-rocketbook-planners-notebooks-and-more-with-sitewide-labor-day-deals/#ftag=CAD590a51e)
- - [Fighting AI Scams With AI: That&#39;s This Startup&#39;s Mission](https://www.cnet.com/tech/services-and-software/fighting-ai-scams-with-ai-thats-this-startups-mission/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 20% on Eco-Friendly Rocketbook Planners, Notebooks and More With Sitewide Labor Day Deals](https://www.cnet.com/deals/save-20-on-eco-friendly-rocketbook-planners-notebooks-and-more-with-sitewide-labor-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

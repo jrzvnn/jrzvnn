@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Procreate’s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
  - [In Q2, Walmart said its ad business grew 30% in the past year; eMarketer says Walmart will claim 6.8% of 2024 US retail media spending, for $3.7B in ad revenue &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/240819/p5#a240819p5)
  - [Ricoh GR III and GR IIIx Digital Camera Review: Nearly the Perfect Cameras](https://www.wired.com/review/ricoh-gr-iii-and-gr-iiix-digital-cameras/)
  - [After Google&#39;s antitrust loss, what comes next is not clear, besides the court ordering Google to stop or reduce TAC payments; Apple may build its own search &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240819/p4#a240819p4)
- - [Refinance Rates Tick Higher: Mortgage Refinance Rates for Aug. 19, 2024](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-for-aug-19-2024/#ftag=CAD590a51e)
- - [Rates Move Up Over the Last Week: Current Mortgage Rates for Aug. 19, 2024](https://www.cnet.com/personal-finance/mortgages/rates-move-up-over-the-last-week-current-mortgage-rates-for-aug-19-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Refinance Rates Tick Higher: Mortgage Refinance Rates for Aug. 19, 2024](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-for-aug-19-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo unveils its cheaper &quot;generation 6&quot; self-driving tech that&#39;s integrated with Geely Zeekr vehicles, with 13 cameras and 4 lidar sensors, down from 29 and 5 &lpar;CNBC&rpar;](http://www.techmeme.com/240819/p10#a240819p10)
  - [Trump Shares AI-Generated Images Claiming Swifties Are Supporting Him](https://www.wired.com/story/trump-shares-ai-generated-taylor-swift/)
  - [GitHub CEO Thomas Dohmke says the AI industry needs competition to thrive](https://www.theverge.com/24221978/github-thomas-dohmke-ai-copilot-microsoft-openai-open-source)
  - [Zoom raises its simultaneous viewer cap to 1 million after massive fundraising calls](https://www.theverge.com/2024/8/19/24223607/zoom-viewer-cap-1-million-harris-campaign-fundraising-calls)
- - [Upgraders concerned about iPhone 16 pricing, Apple Intelligence features](https://appleinsider.com/articles/24/08/19/upgraders-concerned-about-iphone-16-pricing-apple-intelligence-features?utm_medium=rss)
- - [Apple Sports update brings NFL &amp; college football scores to iPhone](https://appleinsider.com/articles/24/08/19/apple-sports-update-brings-nfl-college-football-scores-to-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Upgraders concerned about iPhone 16 pricing, Apple Intelligence features](https://appleinsider.com/articles/24/08/19/upgraders-concerned-about-iphone-16-pricing-apple-intelligence-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

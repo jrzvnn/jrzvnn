@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can confirm](http://9gag.com/gag/a9yrEvL)
- - 😝 [Nuclear power meme](http://9gag.com/gag/aQz9ove)
- - 💣 [I&#39;d pay money to see it](http://9gag.com/gag/a4PbEmA)
+ - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Friendship is friendly](http://9gag.com/gag/aLnDpev)<!-- MEMES:END -->
+ - 👉 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)<!-- MEMES:END -->
 
 ---
 

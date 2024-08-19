@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
- - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
- - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 😝 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
+ - 💣 [No wrong choices please](http://9gag.com/gag/amoYB0o)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
+ - 👉 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
- - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
- - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 😝 [Can confirm](http://9gag.com/gag/a9yrEvL)
+ - 😝 [What men want](http://9gag.com/gag/arybnbV)
+ - 💣 [Nuclear power meme](http://9gag.com/gag/aQz9ove)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 👉 [I&#39;d pay money to see it](http://9gag.com/gag/a4PbEmA)<!-- MEMES:END -->
 
 ---
 

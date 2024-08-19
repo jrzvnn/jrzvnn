@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to Watch the 2024 Summer Paralympics: Streaming Schedule, Free Options](https://www.wired.com/story/how-to-watch-the-2024-paris-summer-paralympics/)
  - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
  - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)
- - [Roblox has grown rapidly and consistently since 2018 and now sees an estimated average of 80M+ daily and 380M+ monthly users, over 2x that of Steam or Minecraft &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240819/p1#a240819p1)
+ - [Since 2018, Roblox has grown rapidly and consistently and now has an estimated average of 80M+ daily and 380M+ monthly users, over 2x that of Steam or Minecraft &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240819/p1#a240819p1)
  - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

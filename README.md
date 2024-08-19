@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 💣 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
- - 😝 [Nuclear powered cat](http://9gag.com/gag/awynnP1)
- - 👉 [Dress to impress](http://9gag.com/gag/azx81mp)<!-- MEMES:END -->
+ - 😝 [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
+ - 💣 [You know](http://9gag.com/gag/azx89dq)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
 
 ---
 

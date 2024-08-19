@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top quality rebar in China.](http://9gag.com/gag/a34qE3N)
- - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
  - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [You know](http://9gag.com/gag/azx89dq)<!-- MEMES:END -->
+ - 💣 [Mohammed from Egypt wants to abuse a 13 year old British girl but is caught by British patriots. Mohammed does not want to go to jail and says: `Call the Home Office. Alhamdulillah, I am Muslim!\u201d](http://9gag.com/gag/aE0YPe9)
+ - 😝 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
+ - 👉 [Top quality rebar in China.](http://9gag.com/gag/a34qE3N)<!-- MEMES:END -->
 
 ---
 

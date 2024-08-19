@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mohammed from Egypt wants to abuse a 13 year old British girl but is caught by British patriots. Mohammed does not want to go to jail and says: `Call the Home Office. Alhamdulillah, I am Muslim!\u201d](http://9gag.com/gag/aE0YPe9)
- - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
- - 💣 [UK : Mohammed Sina, 30, illegal immigrant from Iran, attempted to rape 12-year-old British girls. Caught and arrested. Mohammed was previously in jail for assault and robbery.](http://9gag.com/gag/aZZm0x0)
+ - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
+ - 👉 [Dress to impress](http://9gag.com/gag/azx81mp)<!-- MEMES:END -->
 
 ---
 

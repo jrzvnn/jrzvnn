@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [QA at vape factory](http://9gag.com/gag/azx8XYZ)
  - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
+ - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
 
 ---
 

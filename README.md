@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini Live is not too useful as a premium feature as it lacks many integrations that text-based Gemini supports and cannot yet interpret images or video &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240819/p16#a240819p16)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [The Best Early Labor Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-labor-day-mattress-deals/)
- - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
  - [Anova will start charging a subscription fee for its sous vide companion app](https://www.theverge.com/2024/8/19/24223878/anova-sous-vide-kitchen-app-subscription)
  - [Turtle Beach’s new Stealth 700 gaming headset has two USB dongles](https://www.theverge.com/2024/8/19/24223821/turtle-beach-stealth-700-gen3-headset-playstation-xbox-pc-steam-price-specs)<!-- TECH:END -->
 

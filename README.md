@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This classic from Superman](http://9gag.com/gag/a9yr1P1)
- - 😝 [Cleaning keyboard mode](http://9gag.com/gag/aNDApLv)
- - 💣 [What&#39;s wrong with these people](http://9gag.com/gag/aQz9oB2)
+ - 😝 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
+ - 😝 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Can confirm](http://9gag.com/gag/a9yrEvL)<!-- MEMES:END -->
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 

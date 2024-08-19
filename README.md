@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 😝 [No wrong choices please](http://9gag.com/gag/amoYB0o)
- - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 😝 [This classic from Superman](http://9gag.com/gag/a9yr1P1)
+ - 😝 [Cleaning keyboard mode](http://9gag.com/gag/aNDApLv)
+ - 💣 [What&#39;s wrong with these people](http://9gag.com/gag/aQz9oB2)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 👉 [Can confirm](http://9gag.com/gag/a9yrEvL)<!-- MEMES:END -->
 
 ---
 

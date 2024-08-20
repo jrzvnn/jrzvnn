@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini in Gmail can now help polish up your drafts](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish)
  - [Source: at the end of March, Bolt&#39;s annualized run rate was $28M in revenue and $7M in gross profit, making a funding round at a $14B valuation hard to believe &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/240820/p27#a240820p27)
  - [A US district judge in Texas strikes down the FTC&#39;s ban on worker noncompete agreements, due to start September 4, after her temporary block of the rule in July &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240820/p26#a240820p26)
  - [An AWS Configuration Issue Could Expose Thousands of Web Apps](https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/)
- - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)
- - [Google Classroom comes back from summer break with a better approach to group projects](https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments)<!-- TECH:END -->
+ - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

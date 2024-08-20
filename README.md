@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
- - 😝 [Why not both?](http://9gag.com/gag/ajPX9bG)
- - 💣 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
+ - 💣 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
  - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
+ - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
 
 ---
 

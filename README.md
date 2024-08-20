@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Construction site for migrant hotel to house hundreds of migrants in Ballyboden, Dublin burns down.](http://9gag.com/gag/aGy1L6G)
- - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---
 

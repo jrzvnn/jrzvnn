@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Chrome is making it easier to access your saved passwords across devices](https://www.theverge.com/2024/8/20/24224603/google-chrome-access-saved-passwords-sync)
+ - [Starfield’s Shattered Space expansion launches in September](https://www.theverge.com/2024/8/20/24224568/starfield-shattered-space-expansion-trailer-release-date)
+ - [Civilization 7 launches in February](https://www.theverge.com/2024/8/20/24224532/civilization-7-release-date-february-2025)
  - [The 30 Best Shows on Apple TV+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Latest iOS 18 beta is &#39;final&#39; for all but the iPhone 16 models](https://appleinsider.com/articles/24/08/20/latest-ios-18-beta-is-final-for-all-but-the-iphone-16-models?utm_medium=rss)
- - [Cond&amp;eacute; Nast makes a multiyear deal with OpenAI, letting ChatGPT and SearchGPT surface stories from The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240820/p22#a240820p22)
- - [Borderlands 4 is launching in 2025](https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios)
- - [The Pixel Watch 3 is ‘replacement only’ if you break it](https://www.theverge.com/2024/8/20/24224491/google-pixel-watch-3-non-repairable-replacement-only)<!-- TECH:END -->
+ - [Latest iOS 18 beta is &#39;final&#39; for all but the iPhone 16 models](https://appleinsider.com/articles/24/08/20/latest-ios-18-beta-is-final-for-all-but-the-iphone-16-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

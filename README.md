@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
- - 😝 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
- - 💣 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
+ - 😝 [Facts](http://9gag.com/gag/axyVMQ2)
+ - 💣 [Dress to impress](http://9gag.com/gag/azx81mp)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
+ - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
 
 ---
 

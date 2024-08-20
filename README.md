@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
- - 😝 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
- - 💣 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)
+ - 😝 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
+ - 💣 [What in the world is this creature](http://9gag.com/gag/abApYpp)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [This Turbine Car will run on any liquid that burns. I hope the right venture capitalist sees this clip](http://9gag.com/gag/aoy1g7n)<!-- MEMES:END -->
+ - 👉 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)<!-- MEMES:END -->
 
 ---
 

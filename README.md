@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)
+ - [Customers can now extend AppleCare+ up to 45 days after it expires](https://appleinsider.com/articles/24/08/20/customers-can-now-extend-applecare-up-to-45-days-after-it-expires?utm_medium=rss)
+ - [Apple&#39;s M3 Pro 14-inch MacBook Pro drops to $1,499, the lowest price ever](https://appleinsider.com/articles/24/08/20/apples-m3-pro-14-inch-macbook-pro-drops-to-1499-the-lowest-price-ever?utm_medium=rss)
  - [23 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)
- - [A Tesla Semi crashed and caught fire on a California highway](https://www.theverge.com/2024/8/20/24224576/tesla-semi-crash-fire-highway-california-i-80)
- - [Civilization VII is coming to Mac in early 2025](https://appleinsider.com/articles/24/08/20/civilization-vii-is-coming-to-mac-in-early-2025?utm_medium=rss)
- - [A US appeals court revives a class action suit by Google Chrome users who say Google collected personal info even if Chrome was not synced with a Google account &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240820/p23#a240820p23)
- - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)<!-- TECH:END -->
+ - [A Tesla Semi crashed and caught fire on a California highway](https://www.theverge.com/2024/8/20/24224576/tesla-semi-crash-fire-highway-california-i-80)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

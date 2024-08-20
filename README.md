@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI, ODNI, and CISA say they are &quot;confident&quot; that Iran was responsible for recent attempted hacks into the Trump and Biden-Harris campaigns &lpar;Perry Stein/Washington Post&rpar;](http://www.techmeme.com/240819/p18#a240819p18)
- - [Palo Alto Networks reports Q4 revenue up 12% YoY to $2.2B, vs. $2.16B est., FY 2025 revenue guidance above est., and increases its share buyback by $500M to $1B &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240819/p17#a240819p17)
- - [The 5 Best Multivitamins for Men in 2024](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
- - [Best Amazon Deals: Save on Tech, Essentials and More Items Under $100](https://www.cnet.com/deals/best-amazon-deals-stock-up-on-everyday-goods-or-snag-new-tech-for-less-than-100/#ftag=CAD590a51e)
- - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)<!-- TECH:END -->
+ - [Ex-Autonomy CEO Mike Lynch, who was acquitted on US fraud charges in June, is among six missing after a yacht sank off Sicily, according to Italian authorities &lpar;Associated Press&rpar;](http://www.techmeme.com/240819/p20#a240819p20)
+ - [Donald Trump shared AI-generated images on Truth Social that show Taylor Swift and her fans vowing their support for his campaign; Swift hasn&#39;t endorsed Trump &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240819/p19#a240819p19)
+ - [You&#39;ve Got a Friend in... ChatGPT? I Tried Out the AI&#39;s New Voice Mode to Find Out](https://www.cnet.com/tech/services-and-software/youve-got-a-friend-in-chatgpt-i-tried-out-the-ais-new-voice-mode-to-find-out/#ftag=CAD590a51e)
+ - [The Acolyte has been canceled](https://www.theverge.com/2024/8/19/24224070/the-acolyte-cancelled-season-2)
+ - [Best Mattress Deals: Save Hundreds With Labor Day Savings on Top Brands Like Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

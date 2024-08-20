@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now read Kindle books on a Peloton](https://www.theverge.com/2024/8/20/24224501/kindle-peloton-ebooks-fitness)
- - [The DNC Is Officially the Influencer Convention](https://www.wired.com/story/dnc-influencer-convention/)
- - [iPhone 16, iPhone 16 Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
- - [Apple rolls out seventh developer beta for its fall OS updates](https://appleinsider.com/articles/24/08/20/apple-rolls-out-seventh-developer-beta-for-its-fall-os-updates?utm_medium=rss)
- - [Flash deal: get a lifetime Babbel language learning subscription for $139.97](https://appleinsider.com/articles/24/08/20/flash-deal-get-a-lifetime-babbel-language-learning-subscription-for-13997?utm_medium=rss)<!-- TECH:END -->
+ - [Cond&amp;eacute; Nast makes a multiyear deal with OpenAI, letting ChatGPT and SearchGPT surface stories from The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240820/p22#a240820p22)
+ - [Borderlands 4 is launching in 2025](https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios)
+ - [The Pixel Watch 3 is ‘replacement only’ if you break it](https://www.theverge.com/2024/8/20/24224491/google-pixel-watch-3-non-repairable-replacement-only)
+ - [Condé Nast Signs Deal With OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
+ - [Best GoPro Deals: Great Prices on the Hero 12 and More](https://www.cnet.com/deals/best-gopro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

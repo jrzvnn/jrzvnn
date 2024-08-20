@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Winners of the 2024 iPhone Photography Awards announced](https://appleinsider.com/articles/24/08/20/winners-of-the-2024-iphone-photography-awards-announced?utm_medium=rss)
  - [Shein sues Temu for copyright infringement, accusing the company of stealing trade secrets and masquerading &quot;as a legitimate e-commerce &#39;marketplace&#39;&quot; &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240820/p28#a240820p28)
  - [Gemini in Gmail can now help polish up your drafts](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish)
- - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)
- - [Source: at the end of March, Bolt&#39;s annualized run rate was $28M in revenue and $7M in gross profit, making a funding round at a $14B valuation hard to believe &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/240820/p27#a240820p27)
- - [Best Internet Providers in Naperville, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-naperville-il/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a letter to investors, Bolt says its finalizing a $450M Series F at a $14B valuation, but the deal terms are bewildering and hard to believe &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/240820/p27#a240820p27)
+ - [A US district judge in Texas strikes down the FTC&#39;s ban on worker noncompete agreements, due to start September 4, after her temporary block of the rule in July &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240820/p26#a240820p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

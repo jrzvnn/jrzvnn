@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bugs bunny](http://9gag.com/gag/an7bz2E)
- - 😝 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
- - 💣 [This classic from Superman](http://9gag.com/gag/a9yr1P1)
- - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [Lol](http://9gag.com/gag/aE0Y01x)<!-- MEMES:END -->
+ - 😝 [This man have no enemies.](http://9gag.com/gag/avyGAAq)
+ - 😝 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)
+ - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---
 

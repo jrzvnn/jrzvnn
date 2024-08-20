@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
- - 💣 [Not again](http://9gag.com/gag/azx81KB)
+ - 😝 [Behind the scenes of every landscape post](http://9gag.com/gag/an7bgNn)
+ - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
+ - 💣 [Friendship is friendly](http://9gag.com/gag/aLnDpev)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
+ - 👉 [What men want](http://9gag.com/gag/arybnbV)<!-- MEMES:END -->
 
 ---
 

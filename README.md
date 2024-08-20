@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)
- - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
- - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 💣 [When you mastered your job and it\u2019s time to move on](http://9gag.com/gag/aLnDvrW)
  - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)<!-- MEMES:END -->
+ - 👉 [This man have no enemies.](http://9gag.com/gag/avyGAAq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)
  - [A Tesla Semi crashed and caught fire on a California highway](https://www.theverge.com/2024/8/20/24224576/tesla-semi-crash-fire-highway-california-i-80)
  - [Civilization VII is coming to Mac in early 2025](https://appleinsider.com/articles/24/08/20/civilization-vii-is-coming-to-mac-in-early-2025?utm_medium=rss)
  - [A US appeals court revives a class action suit by Google Chrome users who say Google collected personal info even if Chrome was not synced with a Google account &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240820/p23#a240820p23)
- - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)
- - [Why We&#39;re Watching The Skies for a Once-in-a-Lifetime Cosmic Explosion](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

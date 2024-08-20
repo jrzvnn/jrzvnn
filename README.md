@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/aByWnDD)
- - 😝 [Not again](http://9gag.com/gag/azx81KB)
- - 💣 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)
+ - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
+ - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
+ - 💣 [Not again](http://9gag.com/gag/azx81KB)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [So proud of this community.](http://9gag.com/gag/a7orq7L)<!-- MEMES:END -->
+ - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
 
 ---
 

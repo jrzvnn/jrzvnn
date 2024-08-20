@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Paper Planners: Weekly, Daily, and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)
  - [The Quest to Uncover the Secrets of Gold Hydrogen](https://www.wired.com/story/researchers-head-to-greenland-to-uncover-the-secrets-of-gold-hydrogen/)
  - [The 2024 Olympics were a big win for TV of all kinds](https://www.theverge.com/2024/8/20/24224359/olympics-2024-paris-big-win-streaming-tv)
  - [HyperX has upgraded the recording quality of its USB gaming mics](https://www.theverge.com/2024/8/20/24224316/hyperx-microphones-gaming-quadcast-2-s-led)
- - [Amazon clears out Apple Watch inventory, grab the Series 9 for $299 &amp; Ultra 2 for $699](https://appleinsider.com/articles/24/08/20/amazon-clears-out-apple-watch-inventory-grab-the-series-9-for-299-ultra-2-for-699?utm_medium=rss)
- - [Modular and Non-Modular PC Power Supply: What&#39;s the Difference?](https://www.wired.com/story/pc-power-supply-explainer/)<!-- TECH:END -->
+ - [Amazon clears out Apple Watch inventory, grab the Series 9 for $299 &amp; Ultra 2 for $699](https://appleinsider.com/articles/24/08/20/amazon-clears-out-apple-watch-inventory-grab-the-series-9-for-299-ultra-2-for-699?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

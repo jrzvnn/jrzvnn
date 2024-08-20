@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
- - 😝 [Ostend Belgium, 1899 and present day Why?](http://9gag.com/gag/arybMeV)
- - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
- - 😝 [Not again](http://9gag.com/gag/azx81KB)
- - 👉 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)<!-- MEMES:END -->
+ - 😝 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
+ - 😝 [Why not both?](http://9gag.com/gag/ajPX9bG)
+ - 💣 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
+ - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
+ - 👉 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
 
 ---
 

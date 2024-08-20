@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Spotify star Alex Cooper signs multi-year deal with SiriusXM](https://www.theverge.com/2024/8/20/24224476/spotify-siriusxm-alex-cooper-call-her-daddy-deal)
- - [iPhone 16, iPhone 16 Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
- - [Ofcom says it has 460+ people working on enforcing the Online Safety Act and plans to grow that by 20% to 550+ by March 2025, or 33% of its 1,500 total staff &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/240820/p18#a240820p18)
- - [Microsoft’s new Xbox Game Pass Standard tier is now available to test for $1](https://www.theverge.com/2024/8/20/24224498/xbox-game-pass-standard-testing-xbox-insiders)
- - [The best hard drive enclosures you need for your Mac](https://appleinsider.com/articles/24/08/20/the-best-hard-drive-enclosures-you-need-for-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download)
+ - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event [u]](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
+ - [Authors sue Anthropic for training AI using pirated books](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai)
+ - [Spotify star Alex Cooper is jumping to a new podcast network](https://www.theverge.com/2024/8/20/24224476/spotify-siriusxm-alex-cooper-call-her-daddy-deal)
+ - [iPhone 16, iPhone 16 Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

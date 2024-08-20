@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
- - 😝 [Facts](http://9gag.com/gag/axyVMQ2)
- - 💣 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 😝 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
+ - 💣 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 👉 [This Turbine Car will run on any liquid that burns. I hope the right venture capitalist sees this clip](http://9gag.com/gag/aoy1g7n)<!-- MEMES:END -->
 
 ---
 

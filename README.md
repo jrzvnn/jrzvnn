@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter to investors: Bolt is finalizing a $450M Series F valuing the startup at $14B but with harsh terms for existing investors; Ryan Breslow to return as CEO &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/240820/p15#a240820p15)
+ - [iPhone 16, iPhone 16 Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
+ - [First-Ever Discount Spotted on the Impressive Sonos Ace Headphones](https://www.cnet.com/deals/first-ever-discount-spotted-on-the-impressive-sonos-ace-headphones/#ftag=CAD590a51e)
  - [Arm-mounted haptics could make future iPhone notifications more discreet](https://appleinsider.com/articles/24/08/20/arm-mounted-haptics-could-make-future-iphone-notifications-more-discreet?utm_medium=rss)
- - [16 Best Paper Planners: Weekly, Daily, and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)
- - [The Quest to Uncover the Secrets of Gold Hydrogen](https://www.wired.com/story/researchers-head-to-greenland-to-uncover-the-secrets-of-gold-hydrogen/)
- - [The 2024 Olympics were a big win for TV of all kinds](https://www.theverge.com/2024/8/20/24224359/olympics-2024-paris-big-win-streaming-tv)
- - [HyperX has upgraded the recording quality of its USB gaming mics](https://www.theverge.com/2024/8/20/24224316/hyperx-microphones-gaming-quadcast-2-s-led)<!-- TECH:END -->
+ - [Gamescom 2024: How to Watch Opening Night Live and Beyond](https://www.cnet.com/tech/gaming/gamescom-2024-how-to-watch-opening-night-live-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

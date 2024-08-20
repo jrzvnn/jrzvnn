@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out seventh developer beta for its fall OS updates](https://appleinsider.com/articles/24/08/20/apple-rolls-out-seventh-developer-beta-for-its-fall-os-updates?utm_medium=rss)
+ - [Flash deal: get a lifetime Babbel language learning subscription for $139.97](https://appleinsider.com/articles/24/08/20/flash-deal-get-a-lifetime-babbel-language-learning-subscription-for-13997?utm_medium=rss)
  - [OpenAI launches fine-tuning for GPT-4o, which lets developers customize a version of the model with their own datasets to improve domain-specific performance &lpar;OpenAI&rpar;](http://www.techmeme.com/240820/p21#a240820p21)
  - [Flight tracking site FlightAware, which claims 10M+ monthly users, reports a breach dating back to January 2021 that exposed names, SSNs, addresses, and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240820/p20#a240820p20)
- - [Microsoft launches a single unified Teams app that allows switching between work, personal, and education accounts on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240820/p19#a240820p19)
- - [Gamescom Opening Night Live 2024: all the news, trailers, and announcements](https://www.theverge.com/24222065/gamescom-opening-night-live-2024-trailers-news)
- - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download)<!-- TECH:END -->
+ - [Microsoft launches a single unified Teams app that allows switching between work, personal, and education accounts on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240820/p19#a240820p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

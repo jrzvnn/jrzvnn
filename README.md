@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - 😝 [Construction site for migrant hotel to house hundreds of migrants in Ballyboden, Dublin burns down.](http://9gag.com/gag/aGy1L6G)
  - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
- - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
+ - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
+ - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 

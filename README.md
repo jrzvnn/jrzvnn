@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
  - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
+ - 😝 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
+ - 💣 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
  - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
 
 ---
 

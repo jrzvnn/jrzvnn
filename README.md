@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to make iPhone 16 Pro and Pro Max in India for the first time as Foxconn rushes to produce the high-end models closer to the global debut &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)
+ - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-20/#ftag=CAD590a51e)
  - [PhonePe and Google Pay accounted for over 85% share of 14.4B UPI transactions in July; PhonePe led with 5.9B transactions, Google Pay 5.3B, and Paytm 1.1B &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240819/p22#a240819p22)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 20, #170](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-20-170/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 20 #436](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-20-436/#ftag=CAD590a51e)
- - [The Best Gifts for Wives in 2024](https://www.cnet.com/news/best-gifts-for-wives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 20 #436](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-20-436/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

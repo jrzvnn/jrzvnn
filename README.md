@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court revives a class action suit by Google Chrome users who say Google collected personal info even if Chrome was not synced with a Google account &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240820/p23#a240820p23)
+ - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Google Chrome is making it easier to access your saved passwords across devices](https://www.theverge.com/2024/8/20/24224603/google-chrome-access-saved-passwords-sync)
- - [Starfield’s Shattered Space expansion launches in September](https://www.theverge.com/2024/8/20/24224568/starfield-shattered-space-expansion-trailer-release-date)
- - [Civilization 7 launches in February](https://www.theverge.com/2024/8/20/24224532/civilization-7-release-date-february-2025)
- - [The 30 Best Shows on Apple TV+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Starfield’s Shattered Space expansion launches in September](https://www.theverge.com/2024/8/20/24224568/starfield-shattered-space-expansion-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

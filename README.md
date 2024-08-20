@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How new Apple Music subscribers can get three months for free](https://appleinsider.com/articles/24/08/20/how-new-apple-music-subscribers-can-get-three-months-for-free?utm_medium=rss)
- - [Virginia-based Defcon AI, which aims to use ML to improve US military logistics, raised a $44M seed led by Bessemer, and has earned $15M in government contracts &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240820/p13#a240820p13)
- - [How to Back Up Your Slack Archive Before Slack Deletes It](https://www.wired.com/story/how-to-move-slack-archive-to-discord/)
- - [Qualcomm details its mid-range Snapdragon 7s Gen 3 SoC, based on TSMC&#39;s N4P, with up to 40% better GPU performance than the 7s Gen 2, shipping via Xiaomi first &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240820/p12#a240820p12)
- - [A massive data leak that probably exposed all of your personal info is hugely worse than thought](https://appleinsider.com/articles/24/08/20/a-massive-data-leak-that-probably-exposed-all-of-your-personal-info-is-hugely-worse-than-thought?utm_medium=rss)<!-- TECH:END -->
+ - [HyperX has upgraded the recording quality of its USB gaming mics](https://www.theverge.com/2024/8/20/24224316/hyperx-microphones-gaming-quadcast-2-s-led)
+ - [Amazon clears out Apple Watch inventory, grab the Series 9 for $299 &amp; Ultra 2 for $699](https://appleinsider.com/articles/24/08/20/amazon-clears-out-apple-watch-inventory-grab-the-series-9-for-299-ultra-2-for-699?utm_medium=rss)
+ - [Modular and Non-Modular PC Power Supply: What&#39;s the Difference?](https://www.wired.com/story/pc-power-supply-explainer/)
+ - [How to troubleshoot a Windows PC that won’t boot](https://www.theverge.com/24223845/windows-pc-microsoft-fix-how-to)
+ - [Hydrogen cars flopped, but fuel cells are finding new life in trucks and boats](https://www.theverge.com/24221818/hydrogen-car-trucks-construction-boat-airplane-fuel-cells)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

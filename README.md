@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)
  - [Amazon’s Echo Hub is down to its best price yet](https://www.theverge.com/2024/8/20/24223841/amazon-echo-hub-sonos-ace-deal-sale)
  - [Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced)
  - [Breville Paradice 16 Review: Doesn&#39;t Make the Cut](https://www.wired.com/review/breville-paradice-16/)
- - [Apple researching how to make smart clothes, bags, and furniture](https://appleinsider.com/articles/23/09/28/apple-researching-how-to-make-smart-clothes-bags-and-furniture?utm_medium=rss)
- - [Letter to investors: Bolt is finalizing a $450M Series F valuing the startup at $14B but with harsh terms for existing investors; Ryan Breslow to return as CEO &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/240820/p15#a240820p15)<!-- TECH:END -->
+ - [Apple researching how to make smart clothes, bags, and furniture](https://appleinsider.com/articles/23/09/28/apple-researching-how-to-make-smart-clothes-bags-and-furniture?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A massive data leak that probably exposed all of your personal info is hugely worse than thought](https://appleinsider.com/articles/24/08/20/a-massive-data-leak-that-probably-exposed-all-of-your-personal-info-is-hugely-worse-than-thought?utm_medium=rss)
+ - [The UK CMA accepts Meta&#39;s changes to its ad rules to ensure Marketplace advertisers&#39; data is not used to improve Marketplace, without having to opt in or out &lpar;Radhika Anilkumar/Reuters&rpar;](http://www.techmeme.com/240820/p11#a240820p11)
  - [A24’s Y2K looks like an apocalyptic rager in first trailer](https://www.theverge.com/2024/8/20/24223963/a24-y2k-trailer)
  - [Photomator and Pixelmator Pro add custom auto-straightening](https://appleinsider.com/articles/24/08/20/photomator-and-pixelmator-pro-add-custom-auto-straightening?utm_medium=rss)
- - [Five years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_medium=rss)
- - [22 Best Wireless Chargers of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Atari’s new 7800 console remake can also play your old Atari 2600 cartridges](https://www.theverge.com/2024/8/20/24224292/atari-7800-plus-compatible-with-2600-cartridges-price-release-date)<!-- TECH:END -->
+ - [Five years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

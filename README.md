@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man have no enemies.](http://9gag.com/gag/avyGAAq)
- - 😝 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)
- - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - 😝 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
+ - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 😝 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)
  - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---

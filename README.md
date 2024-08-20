@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
- - 😝 [Monke Kang go brrrr](http://9gag.com/gag/a6ZbZy9)
- - 💣 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)
- - 😝 [The power of manyyyyy](http://9gag.com/gag/amoYA16)
- - 👉 [Lol](http://9gag.com/gag/aE0Y01x)<!-- MEMES:END -->
+ - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
 
 ---
 

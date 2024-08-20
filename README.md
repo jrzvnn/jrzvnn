@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US labor and environmental groups submit comments to the Commerce Department saying draft health and environmental assessments for new chip factories fall short &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240820/p5#a240820p5)
  - [Stephen Chamberlain, who faced the same charges as Mike Lynch over Autonomy&#39;s sale, died after a road accident, per his lawyer, days before Lynch went missing &lpar;Reuters&rpar;](http://www.techmeme.com/240820/p4#a240820p4)
  - [Best Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-toaster-oven/#ftag=CAD590a51e)
  - [Valve bans Razer and Wooting’s new keyboard features in Counter-Strike 2](https://www.theverge.com/2024/8/20/24224261/valve-counter-strike-2-razer-snap-tap-wooting-socd-ban-kick)
- - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)
- - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

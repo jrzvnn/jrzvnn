@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ofcom says it has 460+ people working on enforcing the Online Safety Act and plans to grow that by 20% to 550+ by March 2025, or 33% of its 1,500 total staff &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/240820/p18#a240820p18)
  - [Microsoft’s new Xbox Game Pass Standard tier is now available to test for $1](https://www.theverge.com/2024/8/20/24224498/xbox-game-pass-standard-testing-xbox-insiders)
  - [The best hard drive enclosures you need for your Mac](https://appleinsider.com/articles/24/08/20/the-best-hard-drive-enclosures-you-need-for-your-mac?utm_medium=rss)
  - [Writers and journalists Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sue Anthropic, saying it misused books of theirs and others to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240820/p17#a240820p17)
- - [Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240820/p16#a240820p16)
- - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)<!-- TECH:END -->
+ - [Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240820/p16#a240820p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

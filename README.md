@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
  - 😝 [Ostend Belgium, 1899 and present day Why?](http://9gag.com/gag/arybMeV)
  - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
- - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Not again](http://9gag.com/gag/azx81KB)<!-- MEMES:END -->
+ - 😝 [Not again](http://9gag.com/gag/azx81KB)
+ - 👉 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)<!-- MEMES:END -->
 
 ---
 

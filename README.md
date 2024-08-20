@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US district judge in Texas strikes down the FTC&#39;s ban on worker noncompete agreements, due to start September 4, after her temporary block of the rule in July &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240820/p26#a240820p26)
+ - [An AWS Configuration Issue Could Expose Thousands of Web Apps](https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/)
+ - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)
  - [Google Classroom comes back from summer break with a better approach to group projects](https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments)
- - [In a Reddit AMA, CEO Patrick Spence said Sonos won&#39;t rerelease its old app, after testing showed that doing so &quot;would make the problems worse, not better&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240820/p25#a240820p25)
- - [Shein is now copying Temu’s copyright lawsuit](https://www.theverge.com/2024/8/20/24224793/shein-temu-copyright-lawsuit-yes-again)
- - [iPhone 16, iPhone 16 Pro marketing image leak is bogus [u]](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
- - [Filing: chipmaker Microchip Technology says its servers were breached by an unauthorized party, causing its operations to run at &quot;less than normal levels&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240820/p24#a240820p24)<!-- TECH:END -->
+ - [In a Reddit AMA, CEO Patrick Spence said Sonos won&#39;t rerelease its old app, after testing showed that doing so &quot;would make the problems worse, not better&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240820/p25#a240820p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

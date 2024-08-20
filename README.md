@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
- - 😝 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 😝 [Wtf](http://9gag.com/gag/aByWnDD)
+ - 😝 [Not again](http://9gag.com/gag/azx81KB)
+ - 💣 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
+ - 👉 [So proud of this community.](http://9gag.com/gag/a7orq7L)<!-- MEMES:END -->
 
 ---
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
- - 😝 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
  - 💣 [What in the world is this creature](http://9gag.com/gag/abApYpp)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
  - 👉 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)<!-- MEMES:END -->

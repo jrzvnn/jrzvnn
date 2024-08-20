@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [iPhone 16, iPhone 16 Pro marketing image leak is bogus [u]](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
  - [Filing: chipmaker Microchip Technology says its servers were breached by an unauthorized party, causing its operations to run at &quot;less than normal levels&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240820/p24#a240820p24)
- - [Sonos CEO says the old app can’t be re-released](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
+ - [Sonos CEO says the old app can’t be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
  - [Nomad’s latest Base One Max 3-in-1 charger is more than $50 off](https://www.theverge.com/2024/8/20/24224722/nomad-base-one-max-3-in-1-magsafe-magnetic-charger-deal-sale)
  - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)<!-- TECH:END -->
 

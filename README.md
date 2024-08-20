@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
- - 😝 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
- - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
- - 😝 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)
- - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
+ - 😝 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
+ - 😝 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)
+ - 💣 [Monke Kang go brrrr](http://9gag.com/gag/a6ZbZy9)
+ - 😝 [The power of manyyyyy](http://9gag.com/gag/amoYA16)
+ - 👉 [Lol](http://9gag.com/gag/aE0Y01x)<!-- MEMES:END -->
 
 ---
 

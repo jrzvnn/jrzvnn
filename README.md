@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind the scenes of every landscape post](http://9gag.com/gag/an7bgNn)
- - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
- - 💣 [Friendship is friendly](http://9gag.com/gag/aLnDpev)
+ - 😝 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
+ - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 💣 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [What men want](http://9gag.com/gag/arybnbV)<!-- MEMES:END -->
+ - 👉 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)<!-- MEMES:END -->
 
 ---
 

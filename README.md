@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Xbox Game Pass Standard tier is now available to test for $1](https://www.theverge.com/2024/8/20/24224498/xbox-game-pass-standard-testing-xbox-insiders)
+ - [The best hard drive enclosures you need for your Mac](https://appleinsider.com/articles/24/08/20/the-best-hard-drive-enclosures-you-need-for-your-mac?utm_medium=rss)
+ - [Writers and journalists Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sue Anthropic, saying it misused books of theirs and others to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240820/p17#a240820p17)
  - [Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240820/p16#a240820p16)
- - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)
- - [Amazon’s Echo Hub is down to its best price yet](https://www.theverge.com/2024/8/20/24223841/amazon-echo-hub-sonos-ace-deal-sale)
- - [Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced)
- - [Breville Paradice 16 Review: Doesn&#39;t Make the Cut](https://www.wired.com/review/breville-paradice-16/)<!-- TECH:END -->
+ - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

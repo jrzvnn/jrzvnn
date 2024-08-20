@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
- - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
- - 💣 [Ooof](http://9gag.com/gag/azx82Ez)
- - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
+ - 😝 [12232](http://9gag.com/gag/aAydyE9)
+ - 😝 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
+ - 💣 [South african diversity](http://9gag.com/gag/aW4mj74)
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 👉 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)<!-- MEMES:END -->
 
 ---
 

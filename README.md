@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendship is friendly](http://9gag.com/gag/aLnDpev)
- - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 💣 [So proud of this community.](http://9gag.com/gag/a7orq7L)
+ - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
+ - 😝 [This man have no enemies.](http://9gag.com/gag/avyGAAq)
+ - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
  - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)<!-- MEMES:END -->
+ - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
 
 ---
 

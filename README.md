@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [12232](http://9gag.com/gag/aAydyE9)
- - 😝 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
- - 💣 [South african diversity](http://9gag.com/gag/aW4mj74)
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 👉 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)<!-- MEMES:END -->
+ - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---
 

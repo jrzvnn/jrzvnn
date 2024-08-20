@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: seven banks&#39; ~$13B loans to Elon Musk to buy X have been &quot;hung&quot; for two years, weighing on balance sheets, the worst buyout for banks since 2008-09 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240820/p9#a240820p9)
+ - [iPhone 16 &amp; iPhone 16 Pro -- What Apple&#39;s prototypes say is coming](https://appleinsider.com/articles/24/08/20/iphone-16-iphone-16-pro----what-apples-prototypes-say-is-coming?utm_medium=rss)
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
  - [How to turn on a VPN connection on your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-turn-on-a-vpn-connection-on-your-iphone?utm_medium=rss)
- - [Black Myth: Wukong, a Chinese-made, Tencent-backed game, became Steam&#39;s fourth most popular title ever within hours of its launch with 1.4M+ concurrent players &lpar;Bloomberg&rpar;](http://www.techmeme.com/240820/p8#a240820p8)
- - [Updated antitrust complaint: the DOJ says Ticketmaster&#39;s push for nontransferable SafeTix tickets, rolled out in 2019, aimed to make using rival services harder &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240820/p7#a240820p7)
- - [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://www.theverge.com/2024/8/20/24224277/disney-wrongful-death-lawsuit-waiving-arbitration)
- - [India will assemble iPhone 16 Pro, iPhone 16 Pro Max for the first time](https://appleinsider.com/articles/24/08/20/india-will-assemble-iphone-16-pro-iphone-16-pro-max-for-the-first-time?utm_medium=rss)<!-- TECH:END -->
+ - [Black Myth: Wukong, a Chinese-made, Tencent-backed game, became Steam&#39;s fourth most popular title ever within hours of its launch with 1.4M+ concurrent players &lpar;Bloomberg&rpar;](http://www.techmeme.com/240820/p8#a240820p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)
- - [Customers can now extend AppleCare+ up to 45 days after it expires](https://appleinsider.com/articles/24/08/20/customers-can-now-extend-applecare-up-to-45-days-after-it-expires?utm_medium=rss)
- - [Apple&#39;s M3 Pro 14-inch MacBook Pro drops to $1,499, the lowest price ever](https://appleinsider.com/articles/24/08/20/apples-m3-pro-14-inch-macbook-pro-drops-to-1499-the-lowest-price-ever?utm_medium=rss)
- - [23 Best Back-to-School Deals &lpar;2024&rpar;: Backpacks, Chargers, Laptops](https://www.wired.com/story/back-to-school-deals-2024/)
- - [A Tesla Semi crashed and caught fire on a California highway](https://www.theverge.com/2024/8/20/24224576/tesla-semi-crash-fire-highway-california-i-80)<!-- TECH:END -->
+ - [iPhone 16, iPhone 16 Pro marketing image leak is bogus [u]](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
+ - [Filing: chipmaker Microchip Technology says its servers were breached by an unauthorized party, causing its operations to run at &quot;less than normal levels&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240820/p24#a240820p24)
+ - [Sonos CEO says the old app can’t be re-released](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
+ - [Nomad’s latest Base One Max 3-in-1 charger is more than $50 off](https://www.theverge.com/2024/8/20/24224722/nomad-base-one-max-3-in-1-magsafe-magnetic-charger-deal-sale)
+ - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

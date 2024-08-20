@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants to put touch screens on every MacBook Pro metal surface](https://appleinsider.com/articles/24/08/20/apple-wants-to-put-touch-screens-on-every-macbook-pro-metal-surface?utm_medium=rss)
+ - [17 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)
  - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
  - [Back to School for High Schoolers &lpar;2024&rpar;: Backpacks, Laptops, Headphones](https://www.wired.com/gallery/back-to-school-high-school-gear/)
- - [How to watch Gamescom Opening Night Live 2024](https://www.theverge.com/2024/8/20/24222159/gamescom-opening-night-live-onl-2024-streaming-how-to-watch)
- - [The AGs of 10 states join the DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster; 39 states, plus DC, are now part of the lawsuit &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/240820/p10#a240820p10)
- - [PitchBook: seven banks&#39; ~$13B loans to Elon Musk to buy X have been &quot;hung&quot; for two years, weighing on balance sheets, the worst buyout for banks since 2008-09 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240820/p9#a240820p9)<!-- TECH:END -->
+ - [How to watch Gamescom Opening Night Live 2024](https://www.theverge.com/2024/8/20/24222159/gamescom-opening-night-live-onl-2024-streaming-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

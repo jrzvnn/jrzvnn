@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to put touch screens on every MacBook Pro metal surface](https://appleinsider.com/articles/24/08/20/apple-wants-to-put-touch-screens-on-every-macbook-pro-metal-surface?utm_medium=rss)
- - [17 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)
- - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
- - [Back to School for High Schoolers &lpar;2024&rpar;: Backpacks, Laptops, Headphones](https://www.wired.com/gallery/back-to-school-high-school-gear/)
- - [How to watch Gamescom Opening Night Live 2024](https://www.theverge.com/2024/8/20/24222159/gamescom-opening-night-live-onl-2024-streaming-how-to-watch)<!-- TECH:END -->
+ - [A24’s Y2K looks like an apocalyptic rager in first trailer](https://www.theverge.com/2024/8/20/24223963/a24-y2k-trailer)
+ - [Photomator and Pixelmator Pro add custom auto-straightening](https://appleinsider.com/articles/24/08/20/photomator-and-pixelmator-pro-add-custom-auto-straightening?utm_medium=rss)
+ - [Five years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_medium=rss)
+ - [22 Best Wireless Chargers of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [Atari’s new 7800 console remake can also play your old Atari 2600 cartridges](https://www.theverge.com/2024/8/20/24224292/atari-7800-plus-compatible-with-2600-cartridges-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

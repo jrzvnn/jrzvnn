@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 😝 [Not again](http://9gag.com/gag/azx81KB)
+ - 😝 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
+ - 😝 [Ostend Belgium, 1899 and present day Why?](http://9gag.com/gag/arybMeV)
  - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
+ - 👉 [Not again](http://9gag.com/gag/azx81KB)<!-- MEMES:END -->
 
 ---
 

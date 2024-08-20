@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Borderlands 4 is launching in 2025](https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios)
  - [The Pixel Watch 3 is ‘replacement only’ if you break it](https://www.theverge.com/2024/8/20/24224491/google-pixel-watch-3-non-repairable-replacement-only)
  - [Condé Nast Signs Deal With OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
- - [Best GoPro Deals: Great Prices on the Hero 12 and More](https://www.cnet.com/deals/best-gopro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now read Kindle books on a Peloton](https://www.theverge.com/2024/8/20/24224501/kindle-peloton-ebooks-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

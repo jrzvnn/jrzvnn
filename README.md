@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
  - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
- - 💣 [When you mastered your job and it\u2019s time to move on](http://9gag.com/gag/aLnDvrW)
+ - 😝 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
+ - 💣 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
  - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [This man have no enemies.](http://9gag.com/gag/avyGAAq)<!-- MEMES:END -->
+ - 👉 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)<!-- MEMES:END -->
 
 ---
 

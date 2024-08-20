@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco Talos: eight vulnerabilities in Microsoft&#39;s macOS apps could be abused by attackers to record video/sound from a user&#39;s device, log user input, and more &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240819/p21#a240819p21)
  - [Ex-Autonomy CEO Mike Lynch, who was acquitted on US fraud charges in June, is among six missing after a yacht sank off Sicily, according to Italian authorities &lpar;Associated Press&rpar;](http://www.techmeme.com/240819/p20#a240819p20)
  - [Donald Trump shared AI-generated images on Truth Social that show Taylor Swift and her fans vowing their support for his campaign; Swift hasn&#39;t endorsed Trump &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240819/p19#a240819p19)
  - [You&#39;ve Got a Friend in... ChatGPT? I Tried Out the AI&#39;s New Voice Mode to Find Out](https://www.cnet.com/tech/services-and-software/youve-got-a-friend-in-chatgpt-i-tried-out-the-ais-new-voice-mode-to-find-out/#ftag=CAD590a51e)
- - [The Acolyte has been canceled](https://www.theverge.com/2024/8/19/24224070/the-acolyte-cancelled-season-2)
- - [Best Mattress Deals: Save Hundreds With Labor Day Savings on Top Brands Like Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Acolyte has been canceled](https://www.theverge.com/2024/8/19/24224070/the-acolyte-cancelled-season-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Business groups including Asia Internet Coalition, which includes Amazon, Google, and Meta, criticize Hong Kong&#39;s new cyber rules, calling them &quot;unprecedented&quot; &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/240820/p2#a240820p2)
- - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-20/#ftag=CAD590a51e)
- - [PhonePe and Google Pay accounted for over 85% share of 14.4B UPI transactions in July; PhonePe led with 5.9B transactions, Google Pay 5.3B, and Paytm 1.1B &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240819/p22#a240819p22)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 20, #170](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-20-170/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)
+ - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)
+ - [Before Your Next Amazon Purchase, Make Sure You Look for These Secret Deals](https://www.cnet.com/personal-finance/before-your-next-amazon-purchase-make-sure-you-look-for-these-secret-deals/#ftag=CAD590a51e)
+ - [Business groups, including the Asia Internet Coalition, backed by Amazon, Google, and Meta, criticize Hong Kong&#39;s new cyber rules, calling them &quot;unprecedented&quot; &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/240820/p2#a240820p2)
+ - [Sources: Apple plans to make the most expensive iPhone models in India for the first time, as Foxconn rushes to produce iPhone 16 Pro and 16 Pro Max in India &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

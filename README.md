@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
- - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
- - 💣 [Not again](http://9gag.com/gag/azx81KB)
+ - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 😝 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
+ - 💣 [Relatable](http://9gag.com/gag/a5QbWrL)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 👉 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)<!-- MEMES:END -->
 
 ---
 

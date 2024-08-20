@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
- - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
- - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
+ - 😝 [South african diversity](http://9gag.com/gag/aW4mj74)
+ - 😝 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
+ - 💣 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 👉 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)<!-- MEMES:END -->
 
 ---
 

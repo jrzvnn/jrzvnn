@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
- - 😝 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)
- - 💣 [Monke Kang go brrrr](http://9gag.com/gag/a6ZbZy9)
+ - 😝 [Monke Kang go brrrr](http://9gag.com/gag/a6ZbZy9)
+ - 💣 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)
  - 😝 [The power of manyyyyy](http://9gag.com/gag/amoYA16)
  - 👉 [Lol](http://9gag.com/gag/aE0Y01x)<!-- MEMES:END -->
 

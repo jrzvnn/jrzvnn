@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Civilization VII is coming to Mac in early 2025](https://appleinsider.com/articles/24/08/20/civilization-vii-is-coming-to-mac-in-early-2025?utm_medium=rss)
  - [A US appeals court revives a class action suit by Google Chrome users who say Google collected personal info even if Chrome was not synced with a Google account &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240820/p23#a240820p23)
  - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)
- - [Why We&#39;re Watching The Skies for a Once-in-a-Lifetime Cosmic Explosion](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

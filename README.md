@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 😝 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
- - 💣 [Relatable](http://9gag.com/gag/a5QbWrL)
+ - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
+ - 😝 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
+ - 💣 [That&#39;s actually sweet](http://9gag.com/gag/adB78mV)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)<!-- MEMES:END -->
+ - 👉 [Behind the scenes of every landscape post](http://9gag.com/gag/an7bgNn)<!-- MEMES:END -->
 
 ---
 

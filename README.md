@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240820/p16#a240820p16)
  - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)
  - [Amazon’s Echo Hub is down to its best price yet](https://www.theverge.com/2024/8/20/24223841/amazon-echo-hub-sonos-ace-deal-sale)
  - [Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced)
- - [Breville Paradice 16 Review: Doesn&#39;t Make the Cut](https://www.wired.com/review/breville-paradice-16/)
- - [Apple researching how to make smart clothes, bags, and furniture](https://appleinsider.com/articles/23/09/28/apple-researching-how-to-make-smart-clothes-bags-and-furniture?utm_medium=rss)<!-- TECH:END -->
+ - [Breville Paradice 16 Review: Doesn&#39;t Make the Cut](https://www.wired.com/review/breville-paradice-16/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

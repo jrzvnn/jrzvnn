@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stephen Chamberlain, who faced the same charges as Mike Lynch over Autonomy&#39;s sale, died after a road accident, per his lawyer, days before Lynch went missing &lpar;Reuters&rpar;](http://www.techmeme.com/240820/p4#a240820p4)
  - [Valve bans Razer and Wooting’s new keyboard features in Counter-Strike 2](https://www.theverge.com/2024/8/20/24224261/valve-counter-strike-2-razer-snap-tap-wooting-socd-ban-kick)
  - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)
  - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)
- - [Before Your Next Amazon Purchase, Make Sure You Look for These Secret Deals](https://www.cnet.com/personal-finance/before-your-next-amazon-purchase-make-sure-you-look-for-these-secret-deals/#ftag=CAD590a51e)
- - [Business groups, including the Asia Internet Coalition, backed by Amazon, Google, and Meta, criticize Hong Kong&#39;s new cyber rules, calling them &quot;unprecedented&quot; &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/240820/p2#a240820p2)<!-- TECH:END -->
+ - [Before Your Next Amazon Purchase, Make Sure You Look for These Secret Deals](https://www.cnet.com/personal-finance/before-your-next-amazon-purchase-make-sure-you-look-for-these-secret-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

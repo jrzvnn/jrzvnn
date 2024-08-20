@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download)
- - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event [u]](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
- - [Authors sue Anthropic for training AI using pirated books](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai)
- - [Spotify star Alex Cooper is jumping to a new podcast network](https://www.theverge.com/2024/8/20/24224476/spotify-siriusxm-alex-cooper-call-her-daddy-deal)
- - [iPhone 16, iPhone 16 Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI launches fine-tuning for GPT-4o, which lets developers customize a version of the model with their own datasets to improve domain-specific performance &lpar;OpenAI&rpar;](http://www.techmeme.com/240820/p21#a240820p21)
+ - [Flight tracking site FlightAware, which claims 10M+ monthly users, reports a breach dating back to January 2021 that exposed names, SSNs, addresses, and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240820/p20#a240820p20)
+ - [Microsoft launches a single unified Teams app that allows switching between work, personal, and education accounts on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240820/p19#a240820p19)
+ - [Gamescom Opening Night Live 2024: all the news, trailers, and announcements](https://www.theverge.com/24222065/gamescom-opening-night-live-2024-trailers-news)
+ - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

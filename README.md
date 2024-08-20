@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
- - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 😝 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
  - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
- - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
+ - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
  - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---

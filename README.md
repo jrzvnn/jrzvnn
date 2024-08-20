@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Classroom comes back from summer break with a better approach to group projects](https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments)
+ - [In a Reddit AMA, CEO Patrick Spence said Sonos won&#39;t rerelease its old app, after testing showed that doing so &quot;would make the problems worse, not better&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240820/p25#a240820p25)
+ - [Shein is now copying Temu’s copyright lawsuit](https://www.theverge.com/2024/8/20/24224793/shein-temu-copyright-lawsuit-yes-again)
  - [iPhone 16, iPhone 16 Pro marketing image leak is bogus [u]](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
- - [Filing: chipmaker Microchip Technology says its servers were breached by an unauthorized party, causing its operations to run at &quot;less than normal levels&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240820/p24#a240820p24)
- - [Sonos CEO says the old app can’t be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
- - [Nomad’s latest Base One Max 3-in-1 charger is more than $50 off](https://www.theverge.com/2024/8/20/24224722/nomad-base-one-max-3-in-1-magsafe-magnetic-charger-deal-sale)
- - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)<!-- TECH:END -->
+ - [Filing: chipmaker Microchip Technology says its servers were breached by an unauthorized party, causing its operations to run at &quot;less than normal levels&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240820/p24#a240820p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

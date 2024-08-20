@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
- - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 😝 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
+ - 😝 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
+ - 💣 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
  - 😝 [Why bother doing all those while you can sit back and enjoy gamescom Opening Night Live hosted by Geoff Keighley?](http://9gag.com/gag/aNDd77w)
- - 👉 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)<!-- MEMES:END -->
+ - 👉 [Facts](http://9gag.com/gag/axyVMQ2)<!-- MEMES:END -->
 
 ---
 

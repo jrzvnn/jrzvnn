@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
- - 😝 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
- - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 😝 [Bugs bunny](http://9gag.com/gag/an7bz2E)
+ - 😝 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
+ - 💣 [This classic from Superman](http://9gag.com/gag/a9yr1P1)
  - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
+ - 👉 [Lol](http://9gag.com/gag/aE0Y01x)<!-- MEMES:END -->
 
 ---
 

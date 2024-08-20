@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
  - 😝 [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
+ - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 💣 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---
 

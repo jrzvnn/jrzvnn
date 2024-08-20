@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - 😝 [This man have no enemies.](http://9gag.com/gag/avyGAAq)
- - 💣 [Spell attic](http://9gag.com/gag/aD2W43O)
+ - 😝 [A guy defended his girlfriend after she was harassed by a streamer, which led to his retaliation.](http://9gag.com/gag/a1mbP3P)
+ - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 💣 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
  - 😝 [It\u2019s World of Tanks Blitz 10th Anniversary\ud83c\udf89! Time to have MAD FUN. Join the iPhone 15 Pro Giveaway on 9GAG Instagram.](http://9gag.com/gag/ayNLO0q)
- - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
+ - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---
 

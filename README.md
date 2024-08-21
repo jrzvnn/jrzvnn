@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - 😝 [Never swear](http://9gag.com/gag/amoYo3o)
- - 💣 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
+ - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
+ - 😝 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 💣 [And we all know why](http://9gag.com/gag/aLnDn9A)
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 👉 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)<!-- MEMES:END -->
 
 ---
 

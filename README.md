@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-21/#ftag=CAD590a51e)
  - [Bowers &amp; Wilkins Pi8 Earbuds Review: Soaring Sound, Clever Case](https://www.wired.com/review/review-bowers-and-wilkins-pi8-in-ear-headphones/)
  - [A look at Rockbridge, a Silicon Valley-backed right-wing donor group co-founded by JD Vance to influence US politics; docs and sources: its 2024 budget is ~$75M &lpar;Reuters&rpar;](http://www.techmeme.com/240821/p2#a240821p2)
- - [Following rivals&#39; criticism, CrowdStrike President says no vendor could &quot;technically&quot; guarantee their software won&#39;t cause an incident like the July outage &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240821/p1#a240821p1)
- - [McAfee Rolls Out Deepfake Detector in Lenovo&#39;s New Copilot-Plus PCs](https://www.cnet.com/tech/services-and-software/mcafee-rolls-out-deepfake-detector-in-lenovos-new-copilot-plus-pcs/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 21, #171](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-21-171/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After rivals&#39; criticism, CrowdStrike President Michael Sentonas says no vendor can &quot;technically&quot; guarantee their software won&#39;t cause a similar incident to July &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240821/p1#a240821p1)
+ - [McAfee Rolls Out Deepfake Detector in Lenovo&#39;s New Copilot-Plus PCs](https://www.cnet.com/tech/services-and-software/mcafee-rolls-out-deepfake-detector-in-lenovos-new-copilot-plus-pcs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

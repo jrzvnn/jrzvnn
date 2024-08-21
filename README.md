@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
  - 😝 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
- - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - 💣 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
  - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
- - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)<!-- MEMES:END -->
+ - 👉 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)<!-- MEMES:END -->
 
 ---
 

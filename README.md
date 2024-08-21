@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 21, #171](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-21-171/#ftag=CAD590a51e)
  - [Backbone One 2nd gen review: sleek upgrades to a classic iPhone controller](https://appleinsider.com/articles/24/08/21/backbone-one-2nd-gen-review-sleek-upgrades-to-a-classic-iphone-controller?utm_medium=rss)
- - [New York-based Trunk Tools, which provides automation tools to organize unstructured construction documentation, raised a $20M Series A led by Redpoint &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240820/p31#a240820p31)
- - [Best Rowing Machines for 2024](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Microsoft releases three Phi-3.5 models designed for basic/fast reasoning and more, available for developers to download, use, and fine-tune on Hugging Face &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240820/p30#a240820p30)
- - [10 Best Places to Buy Plants Online for 2024](https://www.cnet.com/news/best-places-to-buy-plants-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 21 #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-21-437/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 21, #1159](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-21-1159/#ftag=CAD590a51e)
+ - [New York-based Trunk Tools, which provides automation tools to organize unstructured construction documentation, raised a $20M Series A led by Redpoint &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240820/p31#a240820p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

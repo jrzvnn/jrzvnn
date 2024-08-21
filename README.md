@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is shaking up how it manages the App Store](https://www.theverge.com/2024/8/21/24225566/apple-app-store-matt-fischer-stepping-down)
  - [Microsoft says Recall will be available to Windows Insiders in October; it delayed the launch of the AI feature in June after security concerns were raised &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p25#a240821p25)
- - [Bayesian Yacht Sinking: Climate Change Created Perfect Storm for](https://www.wired.com/story/bayesian-yacht-sinking-climate-change-waterspout-extreme-weather-mike-lynch/)
+ - [Bayesian Yacht Sinking: Climate Change Created Perfect Storm for Waterspouts](https://www.wired.com/story/bayesian-yacht-sinking-climate-change-waterspout-extreme-weather-mike-lynch/)
  - [Chick-fil-A is reportedly launching a streaming service for some reason](https://www.theverge.com/2024/8/21/24225507/chick-fil-a-streaming-service)
- - [GMC is delivering its first Sierra EV electric pickup trucks to customers](https://www.theverge.com/2024/8/21/24225451/gmc-sierra-ev-denali-edition-1-launch-delivery)
- - [OWC launches iMac, MacBook Pro &amp; travel dock deals from just $34.99](https://appleinsider.com/articles/24/08/21/owc-launches-imac-macbook-pro-travel-dock-deals-from-just-3499?utm_medium=rss)<!-- TECH:END -->
+ - [GMC is delivering its first Sierra EV electric pickup trucks to customers](https://www.theverge.com/2024/8/21/24225451/gmc-sierra-ev-denali-edition-1-launch-delivery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

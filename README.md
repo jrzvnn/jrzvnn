@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta&#39;s Llama struggles to gain traction on AWS, where Claude is most popular; Microsoft pitches Llama to clients with data expertise, per a staffer &lpar;The Information&rpar;](http://www.techmeme.com/240821/p17#a240821p17)
+ - [Catching a Flight? Here Are 5 Tips to Make Travel Easier](https://www.wired.com/story/5-tips-air-travel-long-flights/)
+ - [iCloud storage leads the pack in Apple&#39;s services ecosystem](https://appleinsider.com/articles/24/08/21/icloud-storage-leads-the-pack-in-apples-services-ecosystem?utm_medium=rss)
  - [Ford Steps Back From EVs—and Says Hybrids Are the Future](https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/)
- - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)
- - [Best CD Rates Today -- Time&#39;s Running Out on High APYs, Aug. 21, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-21-2024/#ftag=CAD590a51e)
- - [Lego’s Super Mario: Mario Kart sets will cross the finish line early in 2025](https://www.theverge.com/2024/8/21/24225151/lego-super-mario-mario-kart-toys)
- - [How to check if your social security number has been stolen in a giant data theft](https://appleinsider.com/articles/24/08/21/how-to-check-if-your-social-security-number-has-been-stolen-in-a-giant-data-theft?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

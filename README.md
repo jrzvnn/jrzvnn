@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
+ - 💣 [Ooof](http://9gag.com/gag/azx82Ez)
  - 😝 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)
- - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 💣 [Title](http://9gag.com/gag/apRp1w9)
- - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - 👉 [What things are legal but you think should be illegal?](http://9gag.com/gag/a7orOGx)<!-- MEMES:END -->
+ - 👉 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)<!-- MEMES:END -->
 
 ---
 

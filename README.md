@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This system can sort real pictures from AI fakes — why aren’t platforms using it?](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials)
+ - [Ring’s budget battery doorbell can now see packages left on your porch](https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs)
  - [Sources and docs: sales reps say Google&#39;s targeting of teen minors goes beyond Meta; Google lets advertisers target an &quot;unknown&quot; group that skews toward teens &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240821/p14#a240821p14)
  - [Volkswagen’s electric ID Buzz van will start at $59,995 in the US](https://www.theverge.com/2024/8/21/24225132/vw-id-buzz-electric-van-us-price-details)
- - [PIP Labs, which is developing the blockchain Story Protocol to track IP usage, raised an $80M Series B led by a16z Crypto, sources say at a $2.25B valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240821/p13#a240821p13)
- - [Didi reports Q2 revenue up 4.1% YoY to ~$7.1B and ~196M net profit, after ride-hailing transactions hit a record, as Didi recovers from a $1.2B US fine in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240821/p12#a240821p12)
- - [Best Distraction-Free Writing Apps: iA Writer, Ulysses, FocusWriter, Google Docs, Obsidian](https://www.wired.com/story/best-apps-for-distraction-free-writing/)<!-- TECH:END -->
+ - [PIP Labs, which is developing the blockchain Story Protocol to track IP usage, raised an $80M Series B led by a16z Crypto, sources say at a $2.25B valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240821/p13#a240821p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

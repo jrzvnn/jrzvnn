@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 💣 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
- - 😝 [A man was discovered to be unknowingly missing 90% of his brain, yet he was living a normal life.](http://9gag.com/gag/a6Zb14L)
- - 👉 [Title](http://9gag.com/gag/apRp1w9)<!-- MEMES:END -->
+ - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
+ - 💣 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
+ - 😝 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
 
 ---
 

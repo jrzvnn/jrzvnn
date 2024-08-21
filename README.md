@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
  - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - 😝 [Typical Balkan grandma](http://9gag.com/gag/aAydbed)
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 💣 [New York, New York](http://9gag.com/gag/an7b7n0)
+ - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
  - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
 
 ---

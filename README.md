@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chick-fil-A is reportedly launching a streaming service for some reason](https://www.theverge.com/2024/8/21/24225507/chick-fil-a-streaming-service)
+ - [GMC is delivering its first Sierra EV electric pickup trucks to customers](https://www.theverge.com/2024/8/21/24225451/gmc-sierra-ev-denali-edition-1-launch-delivery)
  - [OWC launches iMac, MacBook Pro &amp; travel dock deals from just $34.99](https://appleinsider.com/articles/24/08/21/owc-launches-imac-macbook-pro-travel-dock-deals-from-just-3499?utm_medium=rss)
  - [With the DNC, Democrats finally understand that content is king](https://www.theverge.com/2024/8/21/24225330/democratic-national-convention-tiktok-content-creators-nielsen-ratings)
- - [Sources: Apple App Store VP Matt Fischer is leaving in October; App Store group will split into two teams, one for its own store, one for alt app distribution &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240821/p24#a240821p24)
- - [Apple App Store vice president of the App Store is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)
- - [Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should Stick to Sports](https://www.wired.com/story/face-recognition-stadiums-protest/)<!-- TECH:END -->
+ - [Sources: Apple App Store VP Matt Fischer is leaving in October; App Store group will split into two teams, one for its own store, one for alt app distribution &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240821/p24#a240821p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

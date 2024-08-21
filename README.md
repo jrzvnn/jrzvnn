@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
- - 💣 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
+ - 😝 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)
+ - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 💣 [Title](http://9gag.com/gag/apRp1w9)
+ - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
  - 👉 [What things are legal but you think should be illegal?](http://9gag.com/gag/a7orOGx)<!-- MEMES:END -->
 
 ---

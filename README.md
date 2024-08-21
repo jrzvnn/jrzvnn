@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL Review: All Grown Up](https://www.wired.com/review/google-pixel-9-pixel-9-pro-and-pixel-9-pro-xl/)
+ - [Google Pixel 9 Pro and 9 Pro XL review: AI all over the place](https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera)
+ - [Google’s AI ‘Reimagine’ tool helped us add wrecks, disasters, and corpses to our photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
  - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)
- - [Airbnb makes it easier to get into rentals by connecting with more smart locks](https://www.theverge.com/2024/8/21/24225305/airbnb-smart-lock-yale-august-integration)
- - [An ‘AI Scientist’ Is Inventing and Running Its Own Experiments](https://www.wired.com/story/ai-scientist-ubc-lab/)
- - [Nomad’s updated Stand One Max charger fixes an annoying design flaw](https://www.theverge.com/2024/8/21/24224358/nomad-stand-one-max-third-gen-magsafe-qi2-charger-price-specs)
- - [Public Citizen: crypto companies spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; election spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)<!-- TECH:END -->
+ - [Airbnb makes it easier to get into rentals by connecting with more smart locks](https://www.theverge.com/2024/8/21/24225305/airbnb-smart-lock-yale-august-integration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

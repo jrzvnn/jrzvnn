@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Serial mail thieves thwarted when victim sends herself an AirTag](https://appleinsider.com/articles/24/08/21/serial-mail-thieves-thwarted-when-victim-sends-herself-an-airtag?utm_medium=rss)
+ - [Chinese government data: China is unleashing billions in lending to tech startups using intellectual property as collateral, up 57% YoY to ~$58.8B in H1 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240821/p6#a240821p6)
  - [Xiaomi reports Q2 revenue up 32% YoY to ~$12.5B, above ~$12.2B est., and a ~$715M net income, above ~$533M est., as its core smartphone business recovers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240821/p5#a240821p5)
  - [The Covid-19 Summer Wave Is So Big, the FDA Might Release New Vaccines Early](https://www.wired.com/story/covid-summer-surge-fda-vaccine-approval/)
- - [The FTC’s noncompete agreements ban has been struck down](https://www.theverge.com/2024/8/21/24225112/ftc-noncompete-agreement-ban-blocked-judge)
- - [Google updates Gemini in Gmail to add a Polish feature to edit existing drafts, on top of Formalize and Elaborate, for Google One AI Premium and Workspace &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240821/p4#a240821p4)
- - [Microsoft’s latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)<!-- TECH:END -->
+ - [The FTC’s noncompete agreements ban has been struck down](https://www.theverge.com/2024/8/21/24225112/ftc-noncompete-agreement-ban-blocked-judge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

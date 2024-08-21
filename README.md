@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 😝 [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
- - 💣 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
- - 😝 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)
- - 👉 [Is it too late?](http://9gag.com/gag/a6ZbZ4e)<!-- MEMES:END -->
+ - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 😝 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)
+ - 💣 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 😝 [Chicago cops given the green light to chase down Antifa activists](http://9gag.com/gag/a87y6wd)
+ - 👉 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)<!-- MEMES:END -->
 
 ---
 

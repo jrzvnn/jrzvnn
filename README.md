@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)
+ - [Airbnb makes it easier to get into rentals by connecting with more smart locks](https://www.theverge.com/2024/8/21/24225305/airbnb-smart-lock-yale-august-integration)
  - [An ‘AI Scientist’ Is Inventing and Running Its Own Experiments](https://www.wired.com/story/ai-scientist-ubc-lab/)
  - [Nomad’s updated Stand One Max charger fixes an annoying design flaw](https://www.theverge.com/2024/8/21/24224358/nomad-stand-one-max-third-gen-magsafe-qi2-charger-price-specs)
- - [Public Citizen: crypto companies have spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)
- - [Best Printer Deals: Enjoy Massive Savings on Printers From Canon, HP and More](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)
- - [Score a Samsung ViewFinity 27-Inch 5K Monitor for a Massive 48% Off](https://www.cnet.com/deals/score-a-samsung-viewfinity-27-inch-5k-monitor-for-a-massive-48-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Public Citizen: crypto companies spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; election spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 😝 [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
+ - 💣 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)
+ - 😝 [Bro lost it before it even started](http://9gag.com/gag/ayNDNp8)
+ - 👉 [I wonder why but the reason is pretty obvious.](http://9gag.com/gag/adB71eD)<!-- MEMES:END -->
 
 ---
 

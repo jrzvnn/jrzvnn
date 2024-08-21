@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The bad movie reviews quoted in Lionsgate’s Megalopolis trailer were mostly made up](https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled)
- - [Snowflake reports Q2 revenue up 29% YoY to $868.8M and raises its FY 2025 product revenue forecast, but not its margin forecast; SNOW drops 7%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240821/p28#a240821p28)
- - [Google and the state of California strike a deal to jointly contribute $125M+ over five years to support local news; it also includes support for an AI project &lpar;Politico&rpar;](http://www.techmeme.com/240821/p27#a240821p27)
- - [Zoom reports Q2 revenue up 2.1% YoY to $1.16B, vs. $1.15B est., enterprise revenue up 3.5% YoY to $682.8M, and a Q3 revenue forecast beating estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240821/p26#a240821p26)
- - [Google Gemini AI Adds New Features for Polishing Emails](https://www.cnet.com/tech/services-and-software/google-gemini-ai-adds-new-features-for-polishing-emails/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Home Deals: Save on Futuristic and Convenient Smart Home Gadgets](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [The Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-stream-on-max-august-2024/#ftag=CAD590a51e)
+ - [Chase Ink Business Preferred Credit Card: Transfer Points or Redeem for Travel](https://www.cnet.com/personal-finance/chase-ink-business-preferred-credit-card/#ftag=CAD590a51e)
+ - [Snowflake reports Q2 revenue up 29% YoY to $868.8M and raises its FY 2025 product revenue forecast, but not its margin forecast; SNOW drops 7%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240821/p28#a240821p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and the state of California strike a deal to jointly contribute $125M+ over five years to support local news; it also includes support for an AI project &lpar;Politico&rpar;](http://www.techmeme.com/240821/p27#a240821p27)
  - [Zoom reports Q2 revenue up 2.1% YoY to $1.16B, vs. $1.15B est., enterprise revenue up 3.5% YoY to $682.8M, and a Q3 revenue forecast beating estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240821/p26#a240821p26)
- - [Apple leads global mobile market, outpacing competitors in advertising](https://appleinsider.com/articles/24/08/21/apple-leads-global-mobile-market-outpacing-competitors-in-advertising?utm_medium=rss)
- - [Apple is shaking up how it manages the App Store](https://www.theverge.com/2024/8/21/24225566/apple-app-store-matt-fischer-stepping-down)
- - [The Business Platinum Card from American Express: A Valuable Card for Business Travel](https://www.cnet.com/personal-finance/the-business-platinum-card-from-american-express/#ftag=CAD590a51e)
- - [Microsoft says Recall will be available to Windows Insiders in October; it delayed the launch of the AI feature in June after security concerns were raised &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p25#a240821p25)<!-- TECH:END -->
+ - [Google Gemini AI Adds New Features for Polishing Emails](https://www.cnet.com/tech/services-and-software/google-gemini-ai-adds-new-features-for-polishing-emails/#ftag=CAD590a51e)
+ - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)
+ - [Paramount Plus Slashes Annual Plan Prices Ahead of NFL Season](https://www.cnet.com/deals/paramount-plus-slashes-annual-plan-prices-ahead-of-nfl-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

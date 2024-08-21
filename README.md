@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google sales reps allegedly keep telling advertisers how to target teens](https://www.theverge.com/2024/8/21/24225326/google-target-teens-ads-unknown-users)
+ - [Microsoft’s Recall AI feature won’t be available for Windows testers until October](https://www.theverge.com/2024/8/21/24225439/microsoft-recall-windows-ai-feature-october-testing)
+ - [New Beats firmware brings audio sharing to Beats Studio Pro](https://appleinsider.com/articles/24/08/21/new-beats-firmware-brings-audio-sharing-to-beats-studio-pro?utm_medium=rss)
  - [Tesla’s latest Model X recall isn’t just a software update](https://www.theverge.com/2024/8/21/24225309/tesla-model-x-second-recall-roof-trim-adhesive)
- - [Microsoft announces the $30 Xbox Adaptive Joystick, a wired companion to other Xbox controllers, for players with limited mobility, launching in early 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p21#a240821p21)
- - [The Best Google Pixel Phones of 2024, Tested and Reviewed Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Google Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL Review: All Grown Up](https://www.wired.com/review/google-pixel-9-pixel-9-pro-and-pixel-9-pro-xl/)
- - [Google Pixel 9 Pro and 9 Pro XL review: AI all over the place](https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera)<!-- TECH:END -->
+ - [Microsoft announces the $30 Xbox Adaptive Joystick, a wired companion to other Xbox controllers, for players with limited mobility, launching in early 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p21#a240821p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

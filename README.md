@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
- - 😝 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
- - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
- - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 😝 [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 💣 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)
+ - 😝 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
+ - 👉 [Is it too late?](http://9gag.com/gag/a6ZbZ4e)<!-- MEMES:END -->
 
 ---
 

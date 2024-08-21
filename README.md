@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
  - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 💣 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)
- - 😝 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
+ - 😝 [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
+ - 💣 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
+ - 😝 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)
  - 👉 [Is it too late?](http://9gag.com/gag/a6ZbZ4e)<!-- MEMES:END -->
 
 ---

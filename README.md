@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F*ck you degenerates, see you in Cologne and have a nice day](http://9gag.com/gag/a9yrvbK)
- - 😝 [Wait... What?](http://9gag.com/gag/a34qAqr)
- - 💣 [The same people who call you backwards when they use Chinese phones and Japanese cars](http://9gag.com/gag/ae9bOpB)
- - 😝 [Mohamed, bring me the stones](http://9gag.com/gag/aD2WnA7)
- - 👉 [Law of life when someone leaves a place](http://9gag.com/gag/a87ymp3)<!-- MEMES:END -->
+ - 😝 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
+ - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 💣 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 💣 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
- - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
+ - 💣 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 👉 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should Stick to Sports](https://www.wired.com/story/face-recognition-stadiums-protest/)
- - [iPhone character entry glitch crashes search, but it&#39;s not a bad bug](https://appleinsider.com/articles/24/08/21/iphone-character-entry-glitch-crashes-search-but-its-not-a-bad-bug?utm_medium=rss)
- - [At Nintendo’s New Museum, Classic Games Get Reinvented for Today](https://www.wired.com/story/nintendo-museum-kyoto-reinvents-classic-games/)
- - [Users in Russia report outages affecting Telegram, WhatsApp, and other services; Roskomnadzor blames a DDoS attack, while activists suspect Kremlin interference &lpar;Meduza&rpar;](http://www.techmeme.com/240821/p23#a240821p23)
- - [Telecom will pay $1 million over deepfake Joe Biden robocall](https://www.theverge.com/2024/8/21/24225435/lingo-telecom-biden-deepfake-robocall-fcc-fine)<!-- TECH:END -->
+ - [OWC launches iMac, MacBook Pro &amp; travel dock deals from just $34.99](https://appleinsider.com/articles/24/08/21/owc-launches-imac-macbook-pro-travel-dock-deals-from-just-3499?utm_medium=rss)
+ - [With the DNC, Democrats finally understand that content is king](https://www.theverge.com/2024/8/21/24225330/democratic-national-convention-tiktok-content-creators-nielsen-ratings)
+ - [Sources: Apple App Store VP Matt Fischer is leaving in October; App Store group will split into two teams, one for its own store, one for alt app distribution &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240821/p24#a240821p24)
+ - [Apple App Store vice president of the App Store is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)
+ - [Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should Stick to Sports](https://www.wired.com/story/face-recognition-stadiums-protest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

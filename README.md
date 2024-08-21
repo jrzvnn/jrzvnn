@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
- - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - 💣 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
- - 😝 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)
- - 👉 [Woooosh! All of you have big sad now](http://9gag.com/gag/aVvqEnw)<!-- MEMES:END -->
+ - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 😝 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
+ - 💣 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
+ - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
 
 ---
 

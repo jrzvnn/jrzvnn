@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Google Pixel Phones of 2024, Tested and Reviewed Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
  - [Google Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL Review: All Grown Up](https://www.wired.com/review/google-pixel-9-pixel-9-pro-and-pixel-9-pro-xl/)
  - [Google Pixel 9 Pro and 9 Pro XL review: AI all over the place](https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera)
  - [Google’s AI ‘Reimagine’ tool helped us add wrecks, disasters, and corpses to our photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
- - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)
- - [Airbnb makes it easier to get into rentals by connecting with more smart locks](https://www.theverge.com/2024/8/21/24225305/airbnb-smart-lock-yale-august-integration)<!-- TECH:END -->
+ - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

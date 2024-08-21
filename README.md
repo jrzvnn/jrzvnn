@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fame shame](http://9gag.com/gag/a5QbQer)
- - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - 😝 [Never swear](http://9gag.com/gag/amoYo3o)
  - 💣 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
+ - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
  - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
 
 ---

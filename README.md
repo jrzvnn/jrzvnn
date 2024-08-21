@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
  - 💣 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)
- - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
 
 ---
 

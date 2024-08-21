@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - 😝 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
- - 💣 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
- - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
- - 👉 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)<!-- MEMES:END -->
+ - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
+ - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
+ - 💣 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
+ - 😝 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)
+ - 👉 [Woooosh! All of you have big sad now](http://9gag.com/gag/aVvqEnw)<!-- MEMES:END -->
 
 ---
 

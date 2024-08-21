@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases three Phi-3.5 models designed for basic/fast reasoning and more, available for developers to download, use, and fine-tune on Hugging Face &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240820/p30#a240820p30)
  - [Sources: Walmart, JD.com&#39;s largest shareholder, is seeking to raise up to $3.74B by selling its stake in the Chinese e-commerce firm; JD falls 9%+ after hours &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240820/p29#a240820p29)
+ - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
  - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [Winners of the 2024 iPhone Photography Awards announced](https://appleinsider.com/articles/24/08/20/winners-of-the-2024-iphone-photography-awards-announced?utm_medium=rss)
- - [Best Weight Loss Programs for 2024](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)
- - [Shein sues Temu for copyright infringement, accusing the company of stealing trade secrets and masquerading &quot;as a legitimate e-commerce &#39;marketplace&#39;&quot; &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240820/p28#a240820p28)<!-- TECH:END -->
+ - [Winners of the 2024 iPhone Photography Awards announced](https://appleinsider.com/articles/24/08/20/winners-of-the-2024-iphone-photography-awards-announced?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

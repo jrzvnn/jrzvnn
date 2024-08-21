@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
- - 💣 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
- - 👉 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)<!-- MEMES:END -->
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [Title](http://9gag.com/gag/apRp1w9)
+ - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
+ - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
 
 ---
 

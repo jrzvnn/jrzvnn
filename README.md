@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
- - 😝 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
- - 💣 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)
- - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 😝 [One clean wipe with a paper towel](http://9gag.com/gag/aPABxpQ)
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
 
 ---
 

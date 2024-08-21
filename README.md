@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 💣 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
  - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
- - 💣 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
- - 😝 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
- - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
+ - 👉 [What things are legal but you think should be illegal?](http://9gag.com/gag/a7orOGx)<!-- MEMES:END -->
 
 ---
 

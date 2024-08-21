@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [An ‘AI Scientist’ Is Inventing and Running Its Own Experiments](https://www.wired.com/story/ai-scientist-ubc-lab/)
  - [Nomad’s updated Stand One Max charger fixes an annoying design flaw](https://www.theverge.com/2024/8/21/24224358/nomad-stand-one-max-third-gen-magsafe-qi2-charger-price-specs)
  - [Public Citizen: crypto companies have spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)
- - [Interviews with US political campaigns and tech companies: despite 30+ companies offering their AI products, most campaigns are wary and largely not biting &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/240821/p19#a240821p19)
- - [Asus brings Wi-Fi 7 to its tri-band ROG gaming router](https://www.theverge.com/2024/8/21/24225171/asus-wi-fi-7-gaming-router-rog-rapture-gt-be19000-rt-be86u-usb-be92-adapter-windows-laptop)<!-- TECH:END -->
+ - [Best Printer Deals: Enjoy Massive Savings on Printers From Canon, HP and More](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)
+ - [Score a Samsung ViewFinity 27-Inch 5K Monitor for a Massive 48% Off](https://www.cnet.com/deals/score-a-samsung-viewfinity-27-inch-5k-monitor-for-a-massive-48-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

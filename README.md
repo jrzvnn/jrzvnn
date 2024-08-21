@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This system can sort real pictures from AI fakes — why aren’t platforms using it?](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials)
- - [Ring’s budget battery doorbell can now see packages left on your porch](https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs)
- - [Sources and docs: sales reps say Google&#39;s targeting of teen minors goes beyond Meta; Google lets advertisers target an &quot;unknown&quot; group that skews toward teens &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240821/p14#a240821p14)
- - [Volkswagen’s electric ID Buzz van will start at $59,995 in the US](https://www.theverge.com/2024/8/21/24225132/vw-id-buzz-electric-van-us-price-details)
- - [PIP Labs, which is developing the blockchain Story Protocol to track IP usage, raised an $80M Series B led by a16z Crypto, sources say at a $2.25B valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240821/p13#a240821p13)<!-- TECH:END -->
+ - [Ford cancels its electric three-row SUV and delays futuristic electric truck](https://www.theverge.com/2024/8/21/24225177/ford-electric-vehicle-cancellations-delays-suv-t3-pickup)
+ - [Grafana Labs, which makes the Grafana visualization tools, completes a primary and secondary transaction worth ~$270M at a $6B+ valuation, up from $3B in 2022 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240821/p15#a240821p15)
+ - [Microsoft’s white Xbox Series X and 2TB special edition model launching in October](https://www.theverge.com/2024/8/21/24225188/microsoft-white-xbox-series-x-digital-2tb-special-edition-release-dates)
+ - [Nothing is requiring employees to be in the office five days a week](https://www.theverge.com/2024/8/21/24225169/nothing-employees-office-work-mandate-five-days)
+ - [The Democratic platform is doubling down on tech antitrust and children’s online safety](https://www.theverge.com/2024/8/21/24224676/democratic-platform-2024-tech-antitrust-kids-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

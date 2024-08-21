@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new Odyssey monitor lets you play games in glasses-free 3D](https://www.theverge.com/2024/8/21/24225133/samsung-odyssey-3d-gaming-monitor-glasses-free-announcement)
  - [UK drops App Store investigation, says it has better things to do](https://appleinsider.com/articles/24/08/21/uk-drops-app-store-investigation-says-it-has-better-things-to-do?utm_medium=rss)
  - [The UK CMA closes its Google Play Store and Apple App Store investigation and expects to reconsider the case under a new digital rules regime, set for fall 2024 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240821/p9#a240821p9)
  - [Lifx Beam Review &lpar;2024&rpar;: The Lifx Beam Isn&#39;t New, but It&#39;s Super Fun](https://www.wired.com/review/lifx-beam/)
- - [Since 2023, Chinese investors, including Alibaba and Tencent, have valued 6+ China-based startups developing LLMs, dubbed &quot;Little AI Dragons&quot;, at $1B+ each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240821/p8#a240821p8)
- - [Keep Your Flower Bouquets Alive for Longer With These Expert-Backed Tips](https://www.cnet.com/how-to/keep-your-flower-bouquets-alive-for-longer-with-these-expert-backed-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Since 2023, Chinese investors, including Alibaba and Tencent, have valued 6+ China-based startups developing LLMs, dubbed &quot;Little AI Dragons&quot;, at $1B+ each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240821/p8#a240821p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

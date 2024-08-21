@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US court records: US agencies are increasingly accessing parts of the 500M encrypted message haul retrieved from the hack of encrypted phone company Sky in 2021 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240821/p18#a240821p18)
- - [iCloud storage leads the pack across Apple&#39;s entire services ecosystem](https://appleinsider.com/articles/24/08/21/icloud-storage-leads-the-pack-in-apples-services-ecosystem?utm_medium=rss)
- - [Microsoft’s new Xbox Adaptive Joystick puts accessibility at the center](https://www.theverge.com/2024/8/21/24225264/microsoft-xbox-adaptive-joystick-accessiblity-accessory-release-date-pricing)
- - [Grab Apple&#39;s M3 MacBook Air with 16GB RAM, 512GB SSD at all-time best $1,249 price](https://appleinsider.com/articles/24/08/21/grab-apples-m3-macbook-air-with-16gb-ram-512gb-ssd-at-all-time-best-1249-price?utm_medium=rss)
- - [Source: Meta&#39;s Llama struggles to gain traction on AWS, where Claude is most popular; Microsoft pitches Llama to clients with data expertise, per a staffer &lpar;The Information&rpar;](http://www.techmeme.com/240821/p17#a240821p17)<!-- TECH:END -->
+ - [Interviews with US political campaigns and tech companies: despite offers from 30+ companies for AI products, most campaigns are wary and largely not biting &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/240821/p19#a240821p19)
+ - [Asus brings Wi-Fi 7 to its tri-band ROG gaming router](https://www.theverge.com/2024/8/21/24225171/asus-wi-fi-7-gaming-router-rog-rapture-gt-be19000-rt-be86u-usb-be92-adapter-windows-laptop)
+ - [The US Government Wants You—Yes, You—to Hunt Down Generative AI Flaws](https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/)
+ - [Amazon cancels the Echo Show 8 Photos Edition’s main feature — focusing on photos](https://www.theverge.com/2024/8/21/24225149/amazon-end-photosplus-subscription-echo-show-8-photos-edition)
+ - [US court records: US agencies are increasingly accessing parts of the 500M encrypted message haul retrieved from the hack of encrypted phone company Sky in 2021 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240821/p18#a240821p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

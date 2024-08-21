@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Title](http://9gag.com/gag/apRp1w9)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
  - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 😝 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
+ - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
  - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
 
 ---

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 💣 [Title](http://9gag.com/gag/apRp1w9)
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 💣 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
+ - 👉 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)<!-- MEMES:END -->
 
 ---
 

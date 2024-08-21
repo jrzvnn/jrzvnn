@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
- - 💣 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
- - 👉 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)<!-- MEMES:END -->
+ - 😝 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
+ - 😝 [Saw this in quora ... what do you guys think of this?](http://9gag.com/gag/aKGVEWZ)
+ - 💣 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 😝 [That&#39;s it, i&#39;m getting a Gato!](http://9gag.com/gag/a6ZbDZN)
+ - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
 
 ---
 

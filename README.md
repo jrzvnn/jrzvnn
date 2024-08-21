@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to check if your social security number has been stolen in a giant data theft](https://appleinsider.com/articles/24/08/21/how-to-check-if-your-social-security-number-has-been-stolen-in-a-giant-data-theft?utm_medium=rss)
+ - [Apple spotlights how its technology is helping 4-H youth development](https://appleinsider.com/articles/24/08/21/apple-spotlights-how-its-technology-is-helping-4-h-youth-development?utm_medium=rss)
+ - [Paramount Plus plans are 50 percent off ahead of the 2024 NFL season](https://www.theverge.com/2024/8/21/24224474/paramount-plus-with-showtime-subscription-sonos-roam-2-speaker-deal-sale)
  - [Ford cancels its electric three-row SUV and delays futuristic electric truck](https://www.theverge.com/2024/8/21/24225177/ford-electric-vehicle-cancellations-delays-suv-t3-pickup)
- - [Grafana Labs, which makes the Grafana visualization tools, completes a primary and secondary transaction worth ~$270M at a $6B+ valuation, up from $3B in 2022 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240821/p15#a240821p15)
- - [Microsoft’s white Xbox Series X and 2TB special edition model launching in October](https://www.theverge.com/2024/8/21/24225188/microsoft-white-xbox-series-x-digital-2tb-special-edition-release-dates)
- - [Nothing is requiring employees to be in the office five days a week](https://www.theverge.com/2024/8/21/24225169/nothing-employees-office-work-mandate-five-days)
- - [The Democratic platform is doubling down on tech antitrust and children’s online safety](https://www.theverge.com/2024/8/21/24224676/democratic-platform-2024-tech-antitrust-kids-safety)<!-- TECH:END -->
+ - [Grafana Labs, which makes the Grafana visualization tools, completes a primary and secondary transaction worth ~$270M at a $6B+ valuation, up from $3B in 2022 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240821/p15#a240821p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 😝 [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
- - 💣 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)
- - 😝 [Bro lost it before it even started](http://9gag.com/gag/ayNDNp8)
- - 👉 [I wonder why but the reason is pretty obvious.](http://9gag.com/gag/adB71eD)<!-- MEMES:END -->
+ - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 👉 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)<!-- MEMES:END -->
 
 ---
 

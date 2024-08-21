@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi reports Q2 revenue up 32% YoY to ~$12.5B, above ~$12.2B est., and a ~$715M net income, above ~$533M est., as its core smartphone business recovers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240821/p5#a240821p5)
+ - [The Covid-19 Summer Wave Is So Big, the FDA Might Release New Vaccines Early](https://www.wired.com/story/covid-summer-surge-fda-vaccine-approval/)
  - [The FTC’s noncompete agreements ban has been struck down](https://www.theverge.com/2024/8/21/24225112/ftc-noncompete-agreement-ban-blocked-judge)
  - [Google updates Gemini in Gmail to add a Polish feature to edit existing drafts, on top of Formalize and Elaborate, for Google One AI Premium and Workspace &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240821/p4#a240821p4)
- - [Microsoft’s latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
- - [JBL made its charging case touchscreen more useful with a size boost](https://www.theverge.com/2024/8/21/24224540/jbl-touchscreen-tour-pro-3-charging-case-earbuds)
- - [The UK&#39;s new rules to curb online payment scams, rolling out in October 2024, face backlash from the finance industry, including over a lack of time to adjust &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240821/p3#a240821p3)<!-- TECH:END -->
+ - [Microsoft’s latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

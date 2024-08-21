@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
- - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
+ - 👉 [Please where Hans](http://9gag.com/gag/aRBmEXM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 😝 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)
+ - 😝 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
  - 💣 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 😝 [Chicago cops given the green light to chase down Antifa activists](http://9gag.com/gag/a87y6wd)
- - 👉 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)<!-- MEMES:END -->
+ - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 

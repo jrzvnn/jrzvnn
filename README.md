@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta&#39;s Llama struggles to gain traction on AWS, where Claude is most popular; Microsoft pitches Llama to clients with data expertise, per a staffer &lpar;The Information&rpar;](http://www.techmeme.com/240821/p17#a240821p17)
- - [Catching a Flight? Here Are 5 Tips to Make Travel Easier](https://www.wired.com/story/5-tips-air-travel-long-flights/)
- - [iCloud storage leads the pack in Apple&#39;s services ecosystem](https://appleinsider.com/articles/24/08/21/icloud-storage-leads-the-pack-in-apples-services-ecosystem?utm_medium=rss)
- - [Ford Steps Back From EVs—and Says Hybrids Are the Future](https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/)
- - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)<!-- TECH:END -->
+ - [US court records: US agencies are increasingly accessing parts of the 500M encrypted message haul retrieved from the hack of encrypted phone company Sky in 2021 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240821/p18#a240821p18)
+ - [iCloud storage leads the pack across Apple&#39;s entire services ecosystem](https://appleinsider.com/articles/24/08/21/icloud-storage-leads-the-pack-in-apples-services-ecosystem?utm_medium=rss)
+ - [Microsoft’s new Xbox Adaptive Joystick puts accessibility at the center](https://www.theverge.com/2024/8/21/24225264/microsoft-xbox-adaptive-joystick-accessiblity-accessory-release-date-pricing)
+ - [Grab Apple&#39;s M3 MacBook Air with 16GB RAM, 512GB SSD at all-time best $1,249 price](https://appleinsider.com/articles/24/08/21/grab-apples-m3-macbook-air-with-16gb-ram-512gb-ssd-at-all-time-best-1249-price?utm_medium=rss)
+ - [Source: Meta&#39;s Llama struggles to gain traction on AWS, where Claude is most popular; Microsoft pitches Llama to clients with data expertise, per a staffer &lpar;The Information&rpar;](http://www.techmeme.com/240821/p17#a240821p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

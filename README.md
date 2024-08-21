@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford Steps Back From EVs—and Says Hybrids Are the Future](https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/)
  - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)
+ - [Best CD Rates Today -- Time&#39;s Running Out on High APYs, Aug. 21, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-21-2024/#ftag=CAD590a51e)
  - [Lego’s Super Mario: Mario Kart sets will cross the finish line early in 2025](https://www.theverge.com/2024/8/21/24225151/lego-super-mario-mario-kart-toys)
- - [How to check if your social security number has been stolen in a giant data theft](https://appleinsider.com/articles/24/08/21/how-to-check-if-your-social-security-number-has-been-stolen-in-a-giant-data-theft?utm_medium=rss)
- - [Apple spotlights how its technology is helping 4-H youth development](https://appleinsider.com/articles/24/08/21/apple-spotlights-how-its-technology-is-helping-4-h-youth-development?utm_medium=rss)
- - [Paramount Plus plans are 50 percent off ahead of the 2024 NFL season](https://www.theverge.com/2024/8/21/24224474/paramount-plus-with-showtime-subscription-sonos-roam-2-speaker-deal-sale)<!-- TECH:END -->
+ - [How to check if your social security number has been stolen in a giant data theft](https://appleinsider.com/articles/24/08/21/how-to-check-if-your-social-security-number-has-been-stolen-in-a-giant-data-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

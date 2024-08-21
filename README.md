@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung unveils a new Odyssey gaming monitor lineup that uses eye-tracking tech to convert 2D visuals into glasses-free 3D, set for release &quot;within this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240821/p11#a240821p11)
+ - [Sonos CEO insists iOS app cannot be rolled back to the older, better one](https://appleinsider.com/articles/24/08/21/sonos-ceo-insists-ios-app-cannot-be-rolled-back-to-the-older-better-one?utm_medium=rss)
  - [WISPAP says Pakistan&#39;s internet speeds have dropped 30%-40% over the past few weeks; many in tech believe the government is testing an internet firewall &lpar;Zofeen T Ebrahim/The Guardian&rpar;](http://www.techmeme.com/240821/p10#a240821p10)
  - [Samsung’s new Odyssey monitor lets you play games in glasses-free 3D](https://www.theverge.com/2024/8/21/24225133/samsung-odyssey-3d-gaming-monitor-glasses-free-announcement)
- - [UK drops App Store investigation, says it has better things to do](https://appleinsider.com/articles/24/08/21/uk-drops-app-store-investigation-says-it-has-better-things-to-do?utm_medium=rss)
- - [The UK CMA closes its Google Play Store and Apple App Store investigation and expects to reconsider the case under a new digital rules regime, set for fall 2024 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240821/p9#a240821p9)
- - [Lifx Beam Review &lpar;2024&rpar;: The Lifx Beam Isn&#39;t New, but It&#39;s Super Fun](https://www.wired.com/review/lifx-beam/)<!-- TECH:END -->
+ - [UK drops App Store investigation, says it has better things to do](https://appleinsider.com/articles/24/08/21/uk-drops-app-store-investigation-says-it-has-better-things-to-do?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

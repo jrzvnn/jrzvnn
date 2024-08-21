@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - 💣 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
- - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 👉 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)<!-- MEMES:END -->
+ - 😝 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
+ - 😝 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
+ - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 

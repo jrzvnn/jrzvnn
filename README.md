@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils a new Odyssey gaming monitor lineup that uses eye-tracking tech to convert 2D visuals into glasses-free 3D, set for release &quot;within this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240821/p11#a240821p11)
- - [Sonos CEO insists iOS app cannot be rolled back to the older, better one](https://appleinsider.com/articles/24/08/21/sonos-ceo-insists-ios-app-cannot-be-rolled-back-to-the-older-better-one?utm_medium=rss)
- - [WISPAP says Pakistan&#39;s internet speeds have dropped 30%-40% over the past few weeks; many in tech believe the government is testing an internet firewall &lpar;Zofeen T Ebrahim/The Guardian&rpar;](http://www.techmeme.com/240821/p10#a240821p10)
- - [Samsung’s new Odyssey monitor lets you play games in glasses-free 3D](https://www.theverge.com/2024/8/21/24225133/samsung-odyssey-3d-gaming-monitor-glasses-free-announcement)
- - [UK drops App Store investigation, says it has better things to do](https://appleinsider.com/articles/24/08/21/uk-drops-app-store-investigation-says-it-has-better-things-to-do?utm_medium=rss)<!-- TECH:END -->
+ - [Volkswagen&#39;s electric ID Buzz van will start at $59,995 in the US](https://www.theverge.com/2024/8/21/24225132/vw-id-buzz-electric-van-us-price-details)
+ - [PIP Labs, which is developing the blockchain Story Protocol to track IP usage, raised an $80M Series B led by a16z Crypto, sources say at a $2.25B valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240821/p13#a240821p13)
+ - [Didi reports Q2 revenue up 4.1% YoY to ~$7.1B and ~196M net profit, after ride-hailing transactions hit a record, as Didi recovers from a $1.2B US fine in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240821/p12#a240821p12)
+ - [Best Distraction-Free Writing Apps: iA Writer, Ulysses, FocusWriter, Google Docs, Obsidian](https://www.wired.com/story/best-apps-for-distraction-free-writing/)
+ - [Lucid CEO calls EV market softness ‘a temporary blip’ and says hybrids are a dead end](https://www.theverge.com/2024/8/21/24223558/lucid-gravity-market-sales-recall-ceo-interivew)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

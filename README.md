@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
  - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
  - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 👉 [Look up `lamp story` for context.](http://9gag.com/gag/aXPqovv)<!-- MEMES:END -->
+ - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
 
 ---
 

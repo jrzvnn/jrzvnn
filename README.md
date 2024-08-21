@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Users in Russia report outages affecting Telegram, WhatsApp, and other services; Roskomnadzor blames a DDoS attack, while activists suspect Kremlin interference &lpar;Meduza&rpar;](http://www.techmeme.com/240821/p23#a240821p23)
+ - [Telecom will pay $1 million over deepfake Joe Biden robocall](https://www.theverge.com/2024/8/21/24225435/lingo-telecom-biden-deepfake-robocall-fcc-fine)
  - [Summer blackouts are increasing in the US](https://www.theverge.com/2024/8/21/24225417/weather-power-outages-summer-data-analysis)
  - [Twitch is upping subscription prices on mobile](https://www.theverge.com/2024/8/21/24225463/twitch-subscription-price-increase-mobile-web)
- - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)
- - [Senators want investigation of AI-enabled ammo vending machines](https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds)
- - [Pixel 9 Pro and 9 Pro XL review: great build quality, brighter screens, faster fingerprint sensors, but the AI features are inconsistent and all over the place &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240821/p22#a240821p22)<!-- TECH:END -->
+ - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

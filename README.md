@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lifx Beam Review &lpar;2024&rpar;: The Lifx Beam Isn&#39;t New, but It&#39;s Super Fun](https://www.wired.com/review/lifx-beam/)
  - [Since 2023, Chinese investors, including Alibaba and Tencent, have valued 6+ China-based startups developing LLMs, dubbed &quot;Little AI Dragons&quot;, at $1B+ each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240821/p8#a240821p8)
+ - [Keep Your Flower Bouquets Alive for Longer With These Expert-Backed Tips](https://www.cnet.com/how-to/keep-your-flower-bouquets-alive-for-longer-with-these-expert-backed-tips/#ftag=CAD590a51e)
  - [Linux users say Microsoft&#39;s recent Windows patch leaves dual-boot devices unable to boot into Linux when Secure Boot is enforced; Microsoft hasn&#39;t commented &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240821/p7#a240821p7)
- - [Serial mail thieves thwarted when victim sends herself an AirTag](https://appleinsider.com/articles/24/08/21/serial-mail-thieves-thwarted-when-victim-sends-herself-an-airtag?utm_medium=rss)
- - [Chinese government data: China is unleashing billions in lending to tech startups using intellectual property as collateral, up 57% YoY to ~$58.8B in H1 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240821/p6#a240821p6)
- - [Xiaomi reports Q2 revenue up 32% YoY to ~$12.5B, above ~$12.2B est., and a ~$715M net income, above ~$533M est., as its core smartphone business recovers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240821/p5#a240821p5)<!-- TECH:END -->
+ - [Apple&#39;s New iPhone 16 Is Only Weeks Away: Everything We Expect to See](https://www.cnet.com/tech/mobile/apples-new-iphone-16-is-only-weeks-away-everything-we-expect-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

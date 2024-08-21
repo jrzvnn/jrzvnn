@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s latest Model X recall isn’t just a software update](https://www.theverge.com/2024/8/21/24225309/tesla-model-x-second-recall-roof-trim-adhesive)
+ - [Microsoft announces the $30 Xbox Adaptive Joystick, a wired companion to other Xbox controllers, for players with limited mobility, launching in early 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p21#a240821p21)
  - [The Best Google Pixel Phones of 2024, Tested and Reviewed Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
  - [Google Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL Review: All Grown Up](https://www.wired.com/review/google-pixel-9-pixel-9-pro-and-pixel-9-pro-xl/)
- - [Google Pixel 9 Pro and 9 Pro XL review: AI all over the place](https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera)
- - [Google’s AI ‘Reimagine’ tool helped us add wrecks, disasters, and corpses to our photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
- - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)<!-- TECH:END -->
+ - [Google Pixel 9 Pro and 9 Pro XL review: AI all over the place](https://www.theverge.com/24225221/google-pixel-9-pro-xl-review-ai-gemini-screen-battery-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

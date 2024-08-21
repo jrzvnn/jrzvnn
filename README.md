@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One clean wipe with a paper towel](http://9gag.com/gag/aPABxpQ)
- - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
+ - 😝 [South african diversity](http://9gag.com/gag/aW4mj74)
+ - 😝 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
+ - 💣 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 👉 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)<!-- MEMES:END -->
 
 ---
 

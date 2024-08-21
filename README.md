@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake reports Q2 revenue up 29% YoY to $868.8M and raises its FY 2025 product revenue forecast, but not its margin forecast; SNOW drops 7%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240821/p28#a240821p28)
  - [Google and the state of California strike a deal to jointly contribute $125M+ over five years to support local news; it also includes support for an AI project &lpar;Politico&rpar;](http://www.techmeme.com/240821/p27#a240821p27)
  - [Zoom reports Q2 revenue up 2.1% YoY to $1.16B, vs. $1.15B est., enterprise revenue up 3.5% YoY to $682.8M, and a Q3 revenue forecast beating estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240821/p26#a240821p26)
  - [Google Gemini AI Adds New Features for Polishing Emails](https://www.cnet.com/tech/services-and-software/google-gemini-ai-adds-new-features-for-polishing-emails/#ftag=CAD590a51e)
- - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)
- - [Paramount Plus Slashes Annual Plan Prices Ahead of NFL Season](https://www.cnet.com/deals/paramount-plus-slashes-annual-plan-prices-ahead-of-nfl-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

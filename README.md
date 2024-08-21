@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
+ - 😝 [Please where Hans](http://9gag.com/gag/aRBmEXM)
+ - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 💣 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
  - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 💣 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 👉 [Look up `lamp story` for context.](http://9gag.com/gag/aXPqovv)<!-- MEMES:END -->
 
 ---
 

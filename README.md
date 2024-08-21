@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South african diversity](http://9gag.com/gag/aW4mj74)
- - 😝 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
- - 💣 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 👉 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)<!-- MEMES:END -->
+ - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
+ - 💣 [Please where Hans](http://9gag.com/gag/aRBmEXM)
+ - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
+ - 👉 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)<!-- MEMES:END -->
 
 ---
 

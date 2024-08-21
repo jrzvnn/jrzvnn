@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
+ - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 💣 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
  - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
- - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
+ - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
 
 ---
 

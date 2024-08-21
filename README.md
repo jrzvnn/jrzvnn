@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
- - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
- - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - 👉 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
+ - 😝 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
+ - 😝 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
+ - 💣 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
+ - 😝 [Phenomenon](http://9gag.com/gag/aAydQxo)
+ - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
 
 ---
 

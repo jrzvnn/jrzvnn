@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone character entry glitch crashes search, but it&#39;s not a bad bug](https://appleinsider.com/articles/24/08/21/iphone-character-entry-glitch-crashes-search-but-its-not-a-bad-bug?utm_medium=rss)
+ - [At Nintendo’s New Museum, Classic Games Get Reinvented for Today](https://www.wired.com/story/nintendo-museum-kyoto-reinvents-classic-games/)
  - [Users in Russia report outages affecting Telegram, WhatsApp, and other services; Roskomnadzor blames a DDoS attack, while activists suspect Kremlin interference &lpar;Meduza&rpar;](http://www.techmeme.com/240821/p23#a240821p23)
  - [Telecom will pay $1 million over deepfake Joe Biden robocall](https://www.theverge.com/2024/8/21/24225435/lingo-telecom-biden-deepfake-robocall-fcc-fine)
- - [Summer blackouts are increasing in the US](https://www.theverge.com/2024/8/21/24225417/weather-power-outages-summer-data-analysis)
- - [Twitch is upping subscription prices on mobile](https://www.theverge.com/2024/8/21/24225463/twitch-subscription-price-increase-mobile-web)
- - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)<!-- TECH:END -->
+ - [Summer blackouts are increasing in the US](https://www.theverge.com/2024/8/21/24225417/weather-power-outages-summer-data-analysis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

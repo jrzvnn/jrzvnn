@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch is upping subscription prices on mobile](https://www.theverge.com/2024/8/21/24225463/twitch-subscription-price-increase-mobile-web)
  - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)
  - [Senators want investigation of AI-enabled ammo vending machines](https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds)
  - [Pixel 9 Pro and 9 Pro XL review: great build quality, brighter screens, faster fingerprint sensors, but the AI features are inconsistent and all over the place &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240821/p22#a240821p22)
- - [Google sales reps allegedly keep telling advertisers how to target teens](https://www.theverge.com/2024/8/21/24225326/google-target-teens-ads-unknown-users)
- - [Microsoft’s Recall AI feature won’t be available for Windows testers until October](https://www.theverge.com/2024/8/21/24225439/microsoft-recall-windows-ai-feature-october-testing)<!-- TECH:END -->
+ - [Google sales reps allegedly keep telling advertisers how to target teens](https://www.theverge.com/2024/8/21/24225326/google-target-teens-ads-unknown-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

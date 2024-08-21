@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 💣 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)
- - 😝 [Title](http://9gag.com/gag/apRp1w9)
- - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
+ - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
+ - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 👉 [Look up `lamp story` for context.](http://9gag.com/gag/aXPqovv)<!-- MEMES:END -->
 
 ---
 

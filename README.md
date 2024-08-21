@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
+ - 😝 [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
  - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - 💣 [New York, New York](http://9gag.com/gag/an7b7n0)
- - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 👉 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)<!-- MEMES:END -->
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 

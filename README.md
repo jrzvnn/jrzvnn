@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates Gemini in Gmail to add a Polish feature to edit existing drafts, on top of Formalize and Elaborate, for Google One AI Premium and Workspace &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240821/p4#a240821p4)
  - [Microsoft’s latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
  - [JBL made its charging case touchscreen more useful with a size boost](https://www.theverge.com/2024/8/21/24224540/jbl-touchscreen-tour-pro-3-charging-case-earbuds)
  - [The UK&#39;s new rules to curb online payment scams, rolling out in October 2024, face backlash from the finance industry, including over a lack of time to adjust &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240821/p3#a240821p3)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-21/#ftag=CAD590a51e)
- - [Bowers &amp; Wilkins Pi8 Earbuds Review: Soaring Sound, Clever Case](https://www.wired.com/review/review-bowers-and-wilkins-pi8-in-ear-headphones/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-21/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

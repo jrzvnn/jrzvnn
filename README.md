@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 😝 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
- - 💣 [And we all know why](http://9gag.com/gag/aLnDn9A)
- - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 👉 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)<!-- MEMES:END -->
+ - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 💣 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
+ - 😝 [A man was discovered to be unknowingly missing 90% of his brain, yet he was living a normal life.](http://9gag.com/gag/a6Zb14L)
+ - 👉 [Title](http://9gag.com/gag/apRp1w9)<!-- MEMES:END -->
 
 ---
 

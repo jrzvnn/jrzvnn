@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
- - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
+ - 😝 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
  - 😝 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
- - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
+ - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 👉 [What things are legal but you think should be illegal?](http://9gag.com/gag/a7orOGx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 😝 [Literally killed the AI before the transaction completed](http://9gag.com/gag/avyGW3d)
- - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
+ - 😝 [Party in your 30s...](http://9gag.com/gag/a6ZbBLL)
+ - 😝 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
+ - 💣 [VR Gym motivation](http://9gag.com/gag/ayNDW1p)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)<!-- MEMES:END -->
+ - 👉 [\u201cOh sorry I bumped into you\u2026.\u201d](http://9gag.com/gag/aMV8nyW)<!-- MEMES:END -->
 
 ---
 

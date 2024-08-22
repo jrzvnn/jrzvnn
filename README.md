@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear pension fund](http://9gag.com/gag/a7orVpq)
- - 😝 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
- - 💣 [No experience. Unacceptable!!](http://9gag.com/gag/aW4moG2)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 😝 [Literally killed the AI before the transaction completed](http://9gag.com/gag/avyGW3d)
+ - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [VR Gym motivation](http://9gag.com/gag/ayNDW1p)<!-- MEMES:END -->
+ - 👉 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)<!-- MEMES:END -->
 
 ---
 

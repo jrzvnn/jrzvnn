@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 💣 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
- - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
+ - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 😝 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
+ - 💣 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
+ - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 

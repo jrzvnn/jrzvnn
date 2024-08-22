@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Classic &#39;Marathon Infinity&#39; lands on Steam as a free Mac title](https://appleinsider.com/articles/24/08/22/classic-marathon-infinity-lands-on-steam-as-a-free-mac-title?utm_medium=rss)
+ - [Sources: Stripe plans a tender offer to buy back shares held by current employees with its own cash; Stripe is offering $27.51/share, implying a $70B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240822/p28#a240822p28)
  - [Can You Install a Home Battery System by Yourself?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)
  - [Best Houseplants for Air Purification and Low Light Environments](https://www.cnet.com/how-to/best-houseplants-for-air-purification-and-low-light-environments/#ftag=CAD590a51e)
- - [The Next Frontier for mRNA Could Be Healing Damaged Organs](https://www.wired.com/story/mrna-organ-rejuvenation-pittsburgh-upmc-center-transcriptional-medicine/)
- - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [An appeals court revived Washington, DC&#39;s antitrust lawsuit against Amazon, saying it plausibly claimed Amazon&#39;s pricing policies illegally stifle competition &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240822/p27#a240822p27)<!-- TECH:END -->
+ - [The Next Frontier for mRNA Could Be Healing Damaged Organs](https://www.wired.com/story/mrna-organ-rejuvenation-pittsburgh-upmc-center-transcriptional-medicine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

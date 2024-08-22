@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
  - [Uber teams up with Cruise to deliver more autonomous rides next year](https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides)
  - [Fourth AirPods Pro 2 beta firmware now available for testers](https://appleinsider.com/articles/24/08/22/fourth-airpods-pro-2-beta-firmware-now-available-for-testers?utm_medium=rss)
  - [How Electric-Vehicle Battery Fires Happen—and How You Should React](https://www.wired.com/story/ev-battery-fires-explained/)
- - [DC’s antitrust suit against Amazon is back from the dead](https://www.theverge.com/2024/8/22/24226287/dc-amazon-antitrust-lawsuit-revived-appeals-court)
- - [Linksys Hydra Pro 6 Review: An Excellent Wi-Fi 6 Router With No Frills](https://www.cnet.com/home/internet/linksys-hydra-pro-6-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DC’s antitrust suit against Amazon is back from the dead](https://www.theverge.com/2024/8/22/24226287/dc-amazon-antitrust-lawsuit-revived-appeals-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

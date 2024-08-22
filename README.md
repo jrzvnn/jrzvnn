@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US charges Deniss Zolotarjovs, a member of the Russian Karakurt ransomware group that has ties to Conti, with money laundering, wire fraud, and extortion &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240822/p24#a240822p24)
+ - [Apple unveils iOS 18 changes to comply with the EU&#39;s DMA: browser choice screen updates, more default app settings, and letting users delete some system apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240822/p23#a240822p23)
+ - [Apple tweaking how default browsers are selected in EU](https://appleinsider.com/articles/24/08/22/apple-tweaking-how-default-browsers-are-selected-in-eu?utm_medium=rss)
  - [Letter and sources: nearly 200 Google DeepMind workers, or 5% of its overall headcount, signed a letter dated May 16 calling to drop its military contracts &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240822/p22#a240822p22)
- - [Chat, who thinks I should be president?](https://www.theverge.com/2024/8/22/24226050/kamala-harris-twitch-account-stream-speech)
- - [Cruise closes one robotaxi investigation with a recall](https://www.theverge.com/2024/8/22/24225962/nhtsa-cruise-gm-robotaxi-investigation-block-traffic-end)
- - [Feds charge alleged negotiator for Russian ransomware group](https://www.theverge.com/2024/8/22/24225960/feds-arrest-karakurt-russian-ransomware-group-member)
- - [Dublin, California-based Opkey, which provides AI-based ERP testing software, raised a $47M Series B led by PeakSpan Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240822/p21#a240822p21)<!-- TECH:END -->
+ - [Chat, who thinks I should be president?](https://www.theverge.com/2024/8/22/24226050/kamala-harris-twitch-account-stream-speech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

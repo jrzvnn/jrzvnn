@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
- - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 💣 [Take me home](http://9gag.com/gag/awynLbW)
- - 😝 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
- - 👉 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)<!-- MEMES:END -->
+ - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
+ - 👉 [This flower is called `Queen of the Night` It blossoms only at night and only one night at year](http://9gag.com/gag/aZZm8BV)<!-- MEMES:END -->
 
 ---
 

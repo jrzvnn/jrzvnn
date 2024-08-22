@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump is launching a cryptocurrency platform, and we have no idea what it does](https://www.theverge.com/2024/8/22/24226184/trump-defiant-ones-cryptocurrency-platform)
  - [NFT marketplace Magic Eden launches a mobile wallet app and will begin using a token to be issued by a foundation that supports the Magic Eden ecosystem &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240822/p29#a240822p29)
  - [FDA Approves New Covid Vaccines Amid Summer Surge](https://www.wired.com/story/new-updated-covid-vaccines-announcement-2024/)
  - [Classic &#39;Marathon Infinity&#39; lands on Steam as a free Mac title](https://appleinsider.com/articles/24/08/22/classic-marathon-infinity-lands-on-steam-as-a-free-mac-title?utm_medium=rss)
- - [Sources: Stripe plans a tender offer to buy back shares held by current employees with its own cash; Stripe is offering $27.51/share, implying a $70B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240822/p28#a240822p28)
- - [Can You Install a Home Battery System by Yourself?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Stripe plans a tender offer to buy back shares held by current employees with its own cash; Stripe is offering $27.51/share, implying a $70B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240822/p28#a240822p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
  - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 💣 [Take me home](http://9gag.com/gag/awynLbW)
- - 😝 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
- - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
+ - 💣 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
+ - 👉 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)<!-- MEMES:END -->
 
 ---
 

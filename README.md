@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ex-FTX exec Ryan Salame&#39;s romantic partner is charged with campaign finance violations, a day after he said the US reneged on his plea deal by investigating her &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p32#a240822p32)
  - [Influencers Take Over the DNC](https://www.wired.com/story/influencer-takeover-dnc/)
  - [Google is shoving its apps onto new Windows laptops](https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp)
  - [Uber and Cruise sign a &quot;multiyear strategic partnership&quot; to make Cruise&#39;s self-driving vehicles available to riders on Uber from 2025 in an undisclosed city &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p31#a240822p31)
- - [&#39;Black Myth: Wukong&#39; Devs Told Streamers to Avoid Politics in Their Playthroughs. It Backfired](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)
- - [Donald Trump promotes his family&#39;s forthcoming crypto platform, The DeFiant Ones, in a post on Truth Social, mentioning a Telegram channel but few other details &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240822/p30#a240822p30)<!-- TECH:END -->
+ - [&#39;Black Myth: Wukong&#39; Devs Told Streamers to Avoid Politics in Their Playthroughs. It Backfired](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

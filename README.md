@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
- - 😝 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
- - 💣 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
  - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 💣 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
+ - 👉 [OSHA time](http://9gag.com/gag/ae9bO9O)<!-- MEMES:END -->
 
 ---
 

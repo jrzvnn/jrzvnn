@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
- - 💣 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 😝 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
+ - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
+ - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
- - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
- - 💣 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 😝 [Dad Uses Alphabet Tattoo So That His Autistic Son Can Communicate](http://9gag.com/gag/axyVWYb)
+ - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
+ - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [OSHA time](http://9gag.com/gag/ae9bO9O)<!-- MEMES:END -->
+ - 👉 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)<!-- MEMES:END -->
 
 ---
 

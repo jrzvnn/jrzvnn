@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can You Install a Home Battery System by Yourself?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)
+ - [Best Houseplants for Air Purification and Low Light Environments](https://www.cnet.com/how-to/best-houseplants-for-air-purification-and-low-light-environments/#ftag=CAD590a51e)
+ - [The Next Frontier for mRNA Could Be Healing Damaged Organs](https://www.wired.com/story/mrna-organ-rejuvenation-pittsburgh-upmc-center-transcriptional-medicine/)
  - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [An appeals court revived Washington, DC&#39;s antitrust lawsuit against Amazon, saying it plausibly claimed Amazon&#39;s pricing policies illegally stifle competition &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240822/p27#a240822p27)
- - [Doctor decries Apple gift card discount &#39;scam&#39; after failing to understand the terms of the deal](https://appleinsider.com/articles/24/08/22/doctor-decries-apple-gift-card-discount-scam-after-failing-to-understand-the-terms-of-the-deal?utm_medium=rss)
- - [Instead of carrying multiple camera lenses, this one lets you swap optics](https://www.theverge.com/2024/8/22/24226064/samyang-prime-lens-camera-remaster-slim)
- - [In a pitch deck, AI search engine Perplexity told advertisers it plans to start running ads in Q4; a source says Perplexity&#39;s CPM prices will be $50+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240822/p26#a240822p26)<!-- TECH:END -->
+ - [An appeals court revived Washington, DC&#39;s antitrust lawsuit against Amazon, saying it plausibly claimed Amazon&#39;s pricing policies illegally stifle competition &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240822/p27#a240822p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

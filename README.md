@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft, Amazon, and others plan to use old power stations and industrial sites for data centers, as land and power in many markets are &quot;heavily constrained&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p11#a240822p11)
- - [YouTube has a new tool to help restore hacked channels: an AI chatbot](https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot)
- - [Apple&#39;s App Store vice president is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)
- - [Walmart&#39;s China business is booming, driven by its Sam&#39;s Club memberships; Walmart says e-commerce orders delivered within one hour rose 28% to 59M last quarter &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p10#a240822p10)
- - [This Political Startup Wants to Help Progressives Win … With AI-Generated Ads](https://www.wired.com/story/battelgroundai-ai-progressive-political-ads/)<!-- TECH:END -->
+ - [Interviews with dozens of Byju&#39;s staff and other sources show a growing sense of desperation, as its insolvency rumbles on; some staff weigh their legal options &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p12#a240822p12)
+ - [It’s a ‘Hotties for Harris’ World and We’re Just Living in It](https://www.wired.com/story/hotties-for-harris-influencers-dnc/)
+ - [How Much Will It Cost to Charge Your Electric Car? It’s Complicated](https://www.wired.com/story/how-much-will-it-cost-to-charge-my-electric-car-its-complicated/)
+ - [AMD says Microsoft’s next big Windows 11 update will improve Zen 5 CPU performance](https://www.theverge.com/2024/8/22/24225918/amd-zen-5-performance-issues-microsoft-windows-11-24h2-update)
+ - [Microsoft, Amazon, and others plan to use old power stations and industrial sites for data centers, as land and power in many markets are &quot;heavily constrained&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p11#a240822p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

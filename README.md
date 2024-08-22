@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
- - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 💣 [Lol](http://9gag.com/gag/a5QbXYE)
- - 😝 [Real cinema](http://9gag.com/gag/a87y0KV)
- - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
+ - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 💣 [Probably I&#39;m going to jail after this post!](http://9gag.com/gag/a6Zb598)
+ - 😝 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 

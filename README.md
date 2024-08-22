@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad Uses Alphabet Tattoo So That His Autistic Son Can Communicate](http://9gag.com/gag/axyVWYb)
- - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
- - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [Who did it better?](http://9gag.com/gag/a9yr8ZZ)
+ - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
+ - 💣 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)<!-- MEMES:END -->
+ - 👉 [Dear pension fund](http://9gag.com/gag/a7orVpq)<!-- MEMES:END -->
 
 ---
 

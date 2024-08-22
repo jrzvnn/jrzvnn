@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government data: Chinese companies imported $25.9B of chip machinery in January to July 2024, passing $23.8B in 2021, $21.6B in 2022, and $18B in 2023 &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240822/p13#a240822p13)
- - [It’s a ‘Hotties for Harris’ World and We’re Just Living in It](https://www.wired.com/story/hotties-for-harris-influencers-dnc/)
- - [Interviews with dozens of Byju&#39;s staff and other sources show a growing sense of desperation, as its insolvency rumbles on; some staff weigh their legal options &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p12#a240822p12)
- - [How Much Will It Cost to Charge Your Electric Car? It’s Complicated](https://www.wired.com/story/how-much-will-it-cost-to-charge-my-electric-car-its-complicated/)
- - [AMD says Microsoft’s next big Windows 11 update will improve Zen 5 CPU performance](https://www.theverge.com/2024/8/22/24225918/amd-zen-5-performance-issues-microsoft-windows-11-24h2-update)<!-- TECH:END -->
+ - [Apple Ring research points to dozens of uses far beyond health monitoring](https://appleinsider.com/articles/24/08/22/apple-ring-research-points-to-dozens-of-uses-far-beyond-health-monitoring?utm_medium=rss)
+ - [The NHTSA closes a preliminary probe into Cruise&#39;s hard-braking and immobilization issues in 1,194 autonomous ride-hailing vehicles, after Cruise made updates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240822/p15#a240822p15)
+ - [Navigating the ‘Wild West’ of EV Charging](https://www.wired.com/story/gadget-lab-podcast-656-ev-charging/)
+ - [The Verge’s favorite audio gear](https://www.theverge.com/24224339/audio-headphone-earbuds-mics-favorites)
+ - [Chinese self-driving startup WeRide delays its planned IPO in the US, citing its need for more time to complete documents, after filing for an IPO in July 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240822/p14#a240822p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

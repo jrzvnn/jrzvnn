@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Body of British tech billionaire Mike Lynch recovered off the coast of Sicily](https://www.theverge.com/2024/8/22/24226123/mike-lynch-body-found-superyacht-bayesian-italy)
+ - [EU iPhones will be able to change the default phone and messaging apps soon](https://www.theverge.com/2024/8/22/24226110/apple-iphone-ipad-default-apps-eu-competition)
+ - [India&#39;s Open Network for Digital Commerce expands into financial services, starting with APIs for digital lending, and adds nine lending service providers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240822/p25#a240822p25)
  - [Future Apple headsets may use liquid lenses to correct vision](https://appleinsider.com/articles/24/08/22/future-apple-headsets-may-use-liquid-lenses-to-correct-vision?utm_medium=rss)
- - [The US charges Deniss Zolotarjovs, a member of the Russian Karakurt ransomware group that has ties to Conti, with money laundering, wire fraud, and extortion &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240822/p24#a240822p24)
- - [Apple unveils iOS 18 changes to comply with the EU&#39;s DMA: browser choice screen updates, more default app settings, and letting users delete some system apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240822/p23#a240822p23)
- - [Apple tweaking how default browsers are selected in EU](https://appleinsider.com/articles/24/08/22/apple-tweaking-how-default-browsers-are-selected-in-eu?utm_medium=rss)
- - [Letter and sources: nearly 200 workers at Google DeepMind, or ~5% of its overall headcount, signed a letter dated May 16 calling to drop its military contracts &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240822/p22#a240822p22)<!-- TECH:END -->
+ - [The US charges Deniss Zolotarjovs, a member of the Russian Karakurt ransomware group that has ties to Conti, with money laundering, wire fraud, and extortion &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240822/p24#a240822p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

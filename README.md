@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a pitch deck, AI search engine Perplexity told advertisers it plans to start running ads in Q4; a source says Perplexity&#39;s CPM prices will be $50+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240822/p26#a240822p26)
+ - [Apple promotes AI, multicam features of Final Cut Pro for iPad, Mac](https://appleinsider.com/articles/24/08/22/apple-promotes-ai-multicam-features-of-final-cut-pro-for-ipad-mac?utm_medium=rss)
  - [Identity verification becomes mandatory for Apple Cash users in October](https://appleinsider.com/articles/24/08/22/identity-verification-becomes-mandatory-for-apple-cash-users-in-october?utm_medium=rss)
  - [No one’s ready for this](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
- - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Body of British tech billionaire Mike Lynch recovered off the coast of Sicily](https://www.theverge.com/2024/8/22/24226123/mike-lynch-body-found-superyacht-bayesian-italy)
- - [Best Galaxy Watch Deals: Discounts on the Galaxy Watch 7, Ultra and More With Trade-Ins and New Lines](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Body of British tech billionaire Mike Lynch recovered off the coast of Sicily](https://www.theverge.com/2024/8/22/24226123/mike-lynch-body-found-superyacht-bayesian-italy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

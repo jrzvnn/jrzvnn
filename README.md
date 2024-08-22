@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - 😝 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)
- - 💣 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
- - 😝 [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
- - 👉 [Eva about Britain](http://9gag.com/gag/aGy1800)<!-- MEMES:END -->
+ - 😝 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
+ - 😝 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)
+ - 💣 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
+ - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
 
 ---
 

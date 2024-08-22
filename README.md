@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
- - 😝 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)
- - 💣 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
+ - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
+ - 💣 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
+ - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
  - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
 
 ---

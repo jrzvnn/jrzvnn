@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)
  - [Meta’s Oversight Board is reviewing posts related to political violence in Venezuela](https://www.theverge.com/2024/8/22/24225579/meta-oversight-board-venezuela-elections-colectivos)
  - [Ticketing service TickPick raised $250M from Brighton Park, which now has a majority stake, and Symphony; the app has 2M MAUs and processes nearly $1B annually &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/240822/p17#a240822p17)
  - [Mac Studio storage upgraded by hardware hacker, but don&#39;t expect a retail kit soon](https://appleinsider.com/articles/24/08/22/mac-studio-storage-upgraded-by-hardware-hacker-but-dont-expect-a-retail-kit-soon?utm_medium=rss)
- - [6 Best Bidets, Tested and Reviewed &lpar;2024&rpar;: Toto, Kohler, Tushy](https://www.wired.com/gallery/best-bidets/)
- - [Periphery Synthetic is a chill, accessible audio dream](https://www.theverge.com/24225210/periphery-synthetic-accessible-audio-game-steam)<!-- TECH:END -->
+ - [6 Best Bidets, Tested and Reviewed &lpar;2024&rpar;: Toto, Kohler, Tushy](https://www.wired.com/gallery/best-bidets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

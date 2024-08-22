@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hint for Aug. 22 #438 Is to Know Your Newspapers](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-22-438/#ftag=CAD590a51e)
+ - [I Can Play This All Day: Early Hands-On with Cap and Bucky in Marvel Rivals](https://www.cnet.com/tech/gaming/i-can-play-this-all-day-early-hands-on-with-cap-and-bucky-in-marvel-rivals/#ftag=CAD590a51e)
+ - [Assassin&#39;s Creed: Shadows Is the Class of Ubisoft&#39;s Iconic Game Franchise video](https://www.cnet.com/videos/assassins-creed-shadows-is-the-class-of-ubisofts-iconic-game-franchise/#ftag=CAD590a51e)
  - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
- - [Uber teams up with Cruise to deliver more autonomous rides next year](https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides)
- - [Fourth AirPods Pro 2 beta firmware now available for testers](https://appleinsider.com/articles/24/08/22/fourth-airpods-pro-2-beta-firmware-now-available-for-testers?utm_medium=rss)
- - [How Electric-Vehicle Battery Fires Happen—and How You Should React](https://www.wired.com/story/ev-battery-fires-explained/)
- - [DC’s antitrust suit against Amazon is back from the dead](https://www.theverge.com/2024/8/22/24226287/dc-amazon-antitrust-lawsuit-revived-appeals-court)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hint for Aug. 22, #1160 Is to Use Force](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-22-1160/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
- - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
- - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 😝 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 💣 [Take me home](http://9gag.com/gag/awynLbW)
+ - 😝 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
  - 👉 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)<!-- MEMES:END -->
 
 ---

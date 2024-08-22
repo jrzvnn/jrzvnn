@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Kamala Harris campaign launches a Twitch channel, and plans to stream her DNC address there; the campaign has hired 175+ staff to work across digital &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/240822/p19#a240822p19)
+ - [Animal Crossing mobile shuts down in November, but will live on in new app](https://www.theverge.com/2024/8/22/24225944/nintendo-animal-crossing-pocket-camp-mobile-ending-date)
  - [Meta confirms users can now cross-post from Instagram and Facebook to Threads globally, after rolling out Instagram and Facebook cross-posting in 2021 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240822/p18#a240822p18)
  - [Kamala Harris&#39; Campaign Is Launching a Twitch Channel](https://www.wired.com/story/kamala-harris-campaign-launching-twitch-channel/)
- - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)
- - [Meta’s Oversight Board is reviewing posts related to political violence in Venezuela](https://www.theverge.com/2024/8/22/24225579/meta-oversight-board-venezuela-elections-colectivos)
- - [Ticketing service TickPick raised $250M from Brighton Park, which now has a majority stake, and Symphony; the app has 2M MAUs and processes nearly $1B annually &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/240822/p17#a240822p17)<!-- TECH:END -->
+ - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

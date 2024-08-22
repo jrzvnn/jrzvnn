@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hodl the door](http://9gag.com/gag/aAydKLE)
- - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 💣 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
+ - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 😝 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
+ - 💣 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)<!-- MEMES:END -->
+ - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
 
 ---
 

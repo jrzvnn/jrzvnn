@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The unsealed list of X Holdings shareholders names nearly 100 entities, including 8VC, Italy-based UnipolSai S.P.A., and a fund linked with Sean &quot;Diddy&quot; Combs &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240822/p1#a240822p1)
  - [LiteSpeed Cache, the top WordPress site acceleration plugin, had a critical flaw that left sites open to takeover attacks; 2M+ sites are likely still vulnerable &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240821/p32#a240821p32)
- - [How to add an email account to Apple Mail on Mac or iOS](https://appleinsider.com/inside/macos/tips/how-to-add-an-email-account-to-apple-mail-on-mac-or-ios?utm_medium=rss)
- - [Keychron Q15 Max review: High-quality and quirky mechanical keyboard](https://appleinsider.com/articles/24/08/22/keychron-q15-max-review-high-quality-and-quirky-mechanical-keyboard?utm_medium=rss)
- - [Best Internet Providers in Hillsboro, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-hillsboro-or/#ftag=CAD590a51e)
- - [OpenAI exec says California’s AI safety bill might slow progress](https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047)<!-- TECH:END -->
+ - [Planning to Install a Solar Panel System? Here&#39;s How Much It May Cost](https://www.cnet.com/home/energy-and-utilities/solar-panel-cost/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 22, #172](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-172/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 22 #438](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-22-438/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

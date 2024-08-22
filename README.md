@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
  - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
- - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 💣 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
+ - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
 
 ---
 

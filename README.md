@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No filming inside](http://9gag.com/gag/aMV8dBx)
+ - 😝 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
  - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 💣 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 💣 [Lol](http://9gag.com/gag/a5QbXYE)
  - 😝 [Real cinema](http://9gag.com/gag/a87y0KV)
- - 👉 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)<!-- MEMES:END -->
+ - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
 
 ---
 

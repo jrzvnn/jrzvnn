@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chat, who thinks I should be president?](https://www.theverge.com/2024/8/22/24226050/kamala-harris-twitch-account-stream-speech)
  - [Cruise closes one robotaxi investigation with a recall](https://www.theverge.com/2024/8/22/24225962/nhtsa-cruise-gm-robotaxi-investigation-block-traffic-end)
  - [Feds charge alleged negotiator for Russian ransomware group](https://www.theverge.com/2024/8/22/24225960/feds-arrest-karakurt-russian-ransomware-group-member)
  - [Dublin, California-based Opkey, which provides AI-based ERP testing software, raised a $47M Series B led by PeakSpan Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240822/p21#a240822p21)
- - [Peloton is adding a $95 activation fee for secondhand machines](https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness)
- - [Ultimate Ears Everboom: Good Speaker, Tough Sell](https://www.wired.com/review/ultimate-ears-everboom/)<!-- TECH:END -->
+ - [Peloton is adding a $95 activation fee for secondhand machines](https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

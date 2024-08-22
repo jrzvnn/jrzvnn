@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 😝 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
- - 💣 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
+ - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
+ - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
 
 ---
 

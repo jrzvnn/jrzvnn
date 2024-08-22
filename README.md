@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Naked man vs cops, who will win?](http://9gag.com/gag/a1mbVQb)
+ - 😝 [Hodl the door](http://9gag.com/gag/aAydKLE)
  - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 💣 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
+ - 💣 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
+ - 👉 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)<!-- MEMES:END -->
 
 ---
 

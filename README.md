@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doctor decries Apple gift card discount &#39;scam&#39; after failing to understand the terms of the deal](https://appleinsider.com/articles/24/08/22/doctor-decries-apple-gift-card-discount-scam-after-failing-to-understand-the-terms-of-the-deal?utm_medium=rss)
+ - [Instead of carrying multiple camera lenses, this one lets you swap optics](https://www.theverge.com/2024/8/22/24226064/samyang-prime-lens-camera-remaster-slim)
  - [In a pitch deck, AI search engine Perplexity told advertisers it plans to start running ads in Q4; a source says Perplexity&#39;s CPM prices will be $50+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240822/p26#a240822p26)
  - [Apple promotes AI, multicam features of Final Cut Pro for iPad, Mac](https://appleinsider.com/articles/24/08/22/apple-promotes-ai-multicam-features-of-final-cut-pro-for-ipad-mac?utm_medium=rss)
- - [Identity verification becomes mandatory for Apple Cash users in October](https://appleinsider.com/articles/24/08/22/identity-verification-becomes-mandatory-for-apple-cash-users-in-october?utm_medium=rss)
- - [No one’s ready for this](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
- - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Identity verification becomes mandatory for Apple Cash users in October](https://appleinsider.com/articles/24/08/22/identity-verification-becomes-mandatory-for-apple-cash-users-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hint for Aug. 22 #438 Is to Know Your Newspapers](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-22-438/#ftag=CAD590a51e)
- - [I Can Play This All Day: Early Hands-On with Cap and Bucky in Marvel Rivals](https://www.cnet.com/tech/gaming/i-can-play-this-all-day-early-hands-on-with-cap-and-bucky-in-marvel-rivals/#ftag=CAD590a51e)
- - [Assassin&#39;s Creed: Shadows Is the Class of Ubisoft&#39;s Iconic Game Franchise video](https://www.cnet.com/videos/assassins-creed-shadows-is-the-class-of-ubisofts-iconic-game-franchise/#ftag=CAD590a51e)
- - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
- - [Today&#39;s Wordle Hint for Aug. 22, #1160 Is to Use Force](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-22-1160/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
+ - [You Might Not Have to Enroll in Medicare When You Turn 65](https://www.cnet.com/personal-finance/insurance/you-might-not-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword for Aug. 22 Uses the Same Clue Twice](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-22/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hint for Aug. 22, #172 Is to Try and Blend In](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-172/#ftag=CAD590a51e)
+ - [Best Internet Providers in Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-indiana/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

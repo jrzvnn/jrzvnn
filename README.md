@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kamala Harris campaign launches a Twitch channel, and plans to stream her DNC address there; the campaign has hired 175+ staff to work across digital &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/240822/p19#a240822p19)
- - [Animal Crossing mobile shuts down in November but will live on in new app](https://www.theverge.com/2024/8/22/24225944/nintendo-animal-crossing-pocket-camp-mobile-ending-date)
- - [Meta confirms users can now cross-post from Instagram and Facebook to Threads globally, after rolling out Instagram and Facebook cross-posting in 2021 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240822/p18#a240822p18)
- - [Kamala Harris&#39; Campaign Is Launching a Twitch Channel](https://www.wired.com/story/kamala-harris-campaign-launching-twitch-channel/)
- - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)<!-- TECH:END -->
+ - [Google reaches a $250 million deal to skirt proposed journalism bill](https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism)
+ - [Paramount’s merger: all the news on the drawn-out takeover drama](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)
+ - [Apple is still standing in the way of Epic’s app store](https://www.theverge.com/2024/8/22/24225634/apple-epic-games-store-ios-developers)
+ - [How The Onion is saving itself from the digital media death spiral](https://www.theverge.com/24225592/the-onion-new-owners-print-newspaper-digital-media-gawker-ben-collins-decoder-interview)
+ - [Me, Myself, and iJustine](https://www.theverge.com/creators/24225269/ijustine-youtube-content-creator-justine-ezarik)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

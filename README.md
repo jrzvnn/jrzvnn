@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: a network of 200+ Russia-linked X accounts shows how Russian trolls are trying to go viral, including low-quality, high-volume replies to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240822/p8#a240822p8)
  - [Foldable MacBook Pro delayed to at least 2027](https://appleinsider.com/articles/24/08/22/foldable-macbook-pro-delayed-to-at-least-2027?utm_medium=rss)
  - [The FCC says Lingo Telecom agreed to pay a $1M fine after the agency said Lingo transmitted fake robocalls imitating President Joe Biden in New Hampshire &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240822/p7#a240822p7)
  - [Twitch plans to raise its new Tier 1 sub and gift sub prices on mobile in 40+ countries on October 1; in an email, Twitch says Tier 1 will rise by $2 to $7.99 &lpar;Michael Gwilliam/Dexerto&rpar;](http://www.techmeme.com/240822/p6#a240822p6)
- - [Mike Lynch, ‘Britain’s Bill Gates,’ Confirmed Dead in Superyacht Wreck](https://www.wired.com/story/mike-lynch-dies-superyacht-accident/)
- - [Italian officials: UK tech entrepreneur Mike Lynch&#39;s body has been recovered from the wreckage of the superyacht Bayesian, which sank three days ago off Sicily &lpar;Financial Times&rpar;](http://www.techmeme.com/240822/p5#a240822p5)<!-- TECH:END -->
+ - [Mike Lynch, ‘Britain’s Bill Gates,’ Confirmed Dead in Superyacht Wreck](https://www.wired.com/story/mike-lynch-dies-superyacht-accident/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

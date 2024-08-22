@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who did it better?](http://9gag.com/gag/a9yr8ZZ)
  - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - 💣 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
+ - 😝 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
+ - 💣 [Dear pension fund](http://9gag.com/gag/a7orVpq)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Dear pension fund](http://9gag.com/gag/a7orVpq)<!-- MEMES:END -->
+ - 👉 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)<!-- MEMES:END -->
 
 ---
 

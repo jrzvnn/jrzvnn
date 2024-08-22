@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - 😝 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
- - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
+ - 😝 [\u201cOh sorry I bumped into you\u2026.\u201d](http://9gag.com/gag/aMV8nyW)
+ - 😝 [I&#39;m in!](http://9gag.com/gag/aXPq449)
+ - 💣 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
+ - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
 
 ---
 

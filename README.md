@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
  - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - 😝 [VR Gym motivation](http://9gag.com/gag/ayNDW1p)
  - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
  - 😝 [Get your own sword](http://9gag.com/gag/avyGW5d)
  - 👉 [This flower is called `Queen of the Night` It blossoms only at night and only one night at year](http://9gag.com/gag/aZZm8BV)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Noam Shazeer, the ex-CEO of Character.AI who joined Google this month, will be Gemini co-technical lead and work with Jeff Dean and Oriol Vinyals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/240822/p33#a240822p33)
  - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
  - [You Might Not Have to Enroll in Medicare When You Turn 65](https://www.cnet.com/personal-finance/insurance/you-might-not-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword for Aug. 22 Uses the Same Clue Twice](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-22/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hint for Aug. 22, #172 Is to Try and Blend In](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-172/#ftag=CAD590a51e)
- - [Best Internet Providers in Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-indiana/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hint for Aug. 22, #172 Is to Try and Blend In](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-172/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
  - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 👉 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)<!-- MEMES:END -->
 
 ---
 

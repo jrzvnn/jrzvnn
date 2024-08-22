@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Ring research points to dozens of uses far beyond health monitoring](https://appleinsider.com/articles/24/08/22/apple-ring-research-points-to-dozens-of-uses-far-beyond-health-monitoring?utm_medium=rss)
- - [The NHTSA closes a preliminary probe into Cruise&#39;s hard-braking and immobilization issues in 1,194 autonomous ride-hailing vehicles, after Cruise made updates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240822/p15#a240822p15)
- - [Navigating the ‘Wild West’ of EV Charging](https://www.wired.com/story/gadget-lab-podcast-656-ev-charging/)
- - [The Verge’s favorite audio gear](https://www.theverge.com/24224339/audio-headphone-earbuds-mics-favorites)
- - [Chinese self-driving startup WeRide delays its planned IPO in the US, citing its need for more time to complete documents, after filing for an IPO in July 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240822/p14#a240822p14)<!-- TECH:END -->
+ - [Meta’s Oversight Board is reviewing posts related to political violence in Venezuela](https://www.theverge.com/2024/8/22/24225579/meta-oversight-board-venezuela-elections-colectivos)
+ - [Ticketing service TickPick raised $250M from Brighton Park, which now has a majority stake, and Symphony; the app has 2M MAUs and processes nearly $1B annually &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/240822/p17#a240822p17)
+ - [Mac Studio storage upgraded by hardware hacker, but don&#39;t expect a retail kit soon](https://appleinsider.com/articles/24/08/22/mac-studio-storage-upgraded-by-hardware-hacker-but-dont-expect-a-retail-kit-soon?utm_medium=rss)
+ - [6 Best Bidets, Tested and Reviewed &lpar;2024&rpar;: Toto, Kohler, Tushy](https://www.wired.com/gallery/best-bidets/)
+ - [Periphery Synthetic is a chill, accessible audio dream](https://www.theverge.com/24225210/periphery-synthetic-accessible-audio-game-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

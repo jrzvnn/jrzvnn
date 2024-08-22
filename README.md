@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump promotes his family&#39;s forthcoming crypto platform, The DeFiant Ones, in a post on Truth Social, mentioning a Telegram channel but few other details &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240822/p30#a240822p30)
- - [This Small Appliance Keeps the Kitchen Cool and Energy Bills Low](https://www.cnet.com/news/this-small-appliance-keeps-the-kitchen-cool-and-energy-bills-low/#ftag=CAD590a51e)
- - [The Lord of the Rings anime looks appropriately epic in first trailer](https://www.theverge.com/24226288/the-lord-of-the-rings-war-of-the-rohirrim-anime-trailer)
- - [Best JBL Speakers](https://www.cnet.com/tech/home-entertainment/best-jbl-speakers/#ftag=CAD590a51e)
- - [A Popular iOS Illustration App Is Saying No to Generative AI](https://www.wired.com/story/procreate-app-no-generative-ai/)<!-- TECH:END -->
+ - [Influencers Take Over the DNC](https://www.wired.com/story/influencer-takeover-dnc/)
+ - [Google is shoving its apps onto new Windows laptops](https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp)
+ - [Uber and Cruise sign a &quot;multiyear strategic partnership&quot; to make Cruise&#39;s self-driving vehicles available to riders on Uber from 2025 in an undisclosed city &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p31#a240822p31)
+ - [&#39;Black Myth: Wukong&#39; Devs Told Streamers to Avoid Politics in Their Playthroughs. It Backfired](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)
+ - [Donald Trump promotes his family&#39;s forthcoming crypto platform, The DeFiant Ones, in a post on Truth Social, mentioning a Telegram channel but few other details &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240822/p30#a240822p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

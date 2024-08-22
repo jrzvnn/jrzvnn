@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Twitch plans to raise its new Tier 1 sub and gift sub prices on mobile in 40+ countries on October 1; in an email, Twitch says Tier 1 will rise by $2 to $7.99 &lpar;Michael Gwilliam/Dexerto&rpar;](http://www.techmeme.com/240822/p6#a240822p6)
  - [Mike Lynch, ‘Britain’s Bill Gates,’ Confirmed Dead in Superyacht Wreck](https://www.wired.com/story/mike-lynch-dies-superyacht-accident/)
  - [Italian officials: UK tech entrepreneur Mike Lynch&#39;s body has been recovered from the wreckage of the superyacht Bayesian, which sank three days ago off Sicily &lpar;Financial Times&rpar;](http://www.techmeme.com/240822/p5#a240822p5)
- - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)
- - [Japan Launches a Development Project for Self-Driving EV Taxis](https://www.wired.com/story/japan-self-driving-ev-taxis-tier-iv/)<!-- TECH:END -->
+ - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
+ - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

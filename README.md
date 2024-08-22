@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Linksys Hydra Pro 6 Review: An Excellent Wi-Fi 6 Router With No Frills](https://www.cnet.com/home/internet/linksys-hydra-pro-6-review/#ftag=CAD590a51e)
+ - [Savings and CD Rates Have Peaked. Here&#39;s How This Affects Your Money](https://www.cnet.com/personal-finance/savings-and-cd-rates-wont-go-much-higher-experts-say-heres-what-that-means-for-your-money/#ftag=CAD590a51e)
  - [Ex-FTX exec Ryan Salame&#39;s romantic partner is charged with campaign finance violations, a day after he said the US reneged on his plea deal by investigating her &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p32#a240822p32)
  - [Influencers Take Over the DNC](https://www.wired.com/story/influencer-takeover-dnc/)
- - [Google is shoving its apps onto new Windows laptops](https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp)
- - [Uber and Cruise sign a &quot;multiyear strategic partnership&quot; to make Cruise&#39;s self-driving vehicles available to riders on Uber from 2025 in an undisclosed city &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p31#a240822p31)
- - [‘Black Myth: Wukong’ Devs Told Streamers to Avoid Politics in Their Playthroughs. It Backfired](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)<!-- TECH:END -->
+ - [Google is shoving its apps onto new Windows laptops](https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

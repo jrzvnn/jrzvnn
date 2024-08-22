@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
+ - 😝 [9gaggers](http://9gag.com/gag/aYQxOwV)
+ - 😝 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
+ - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)<!-- MEMES:END -->
+ - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
 
 ---
 

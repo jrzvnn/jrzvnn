@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italian officials: UK tech entrepreneur Mike Lynch&#39;s body has been recovered from the wreckage of the superyacht Bayesian, which sank three days ago off Sicily &lpar;Financial Times&rpar;](http://www.techmeme.com/240822/p5#a240822p5)
  - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)
  - [Japan Launches a Development Project for Self-Driving EV Taxis](https://www.wired.com/story/japan-self-driving-ev-taxis-tier-iv/)
  - [A look at interoperability challenges to the adoption of the C2PA&#39;s authentication standard, including the lack of support for C2PA metadata in cameras &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240822/p3#a240822p3)
- - [Best Mattress of 2024 -- Top Mattresses Tested by Sleep Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress of 2024 -- Top Mattresses Tested by Sleep Experts](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

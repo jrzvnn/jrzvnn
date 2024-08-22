@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to Sen. Scott Wiener, OpenAI says California&#39;s AI safety bill would hurt innovation and that AI safety regulation should come from the federal level &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240821/p29#a240821p29)
- - [Best OLED Laptop Deals: Save on Top Models From HP, Razer and More](https://www.cnet.com/deals/best-oled-laptop-deals/#ftag=CAD590a51e)
- - [Hall Effect Controllers Marry Magnetism and Gaming](https://www.cnet.com/tech/gaming/hall-effect-controllers-marry-magnetism-and-gaming/#ftag=CAD590a51e)
- - [The bad movie reviews quoted in Lionsgate’s Megalopolis trailer were mostly made up](https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled)
- - [Best Smart Home Deals: Save on Futuristic and Convenient Smart Home Gadgets](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI exec says California’s AI safety bill might slow progress](https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047)
+ - [Zomato acquires Paytm&#39;s entertainment ticketing business for $244.1M; the division contributed about 9% to Paytm&#39;s overall revenues in Q1 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240821/p31#a240821p31)
+ - [A US district judge rules X Holdings should unseal its corporate disclosure statement by September 4, revealing X and xAI shareholders fully for the first time &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240821/p30#a240821p30)
+ - [Reanimal Is Another Grotesquely Beautiful Platformer Demoed at Gamescom video](https://www.cnet.com/videos/reanimal-is-another-grotesquely-beautiful-platformer-demoed-at-gamescom/#ftag=CAD590a51e)
+ - [We Got Our Hands On Kingdom Come: Deliverance II at Gamescom video](https://www.cnet.com/videos/we-got-our-hands-on-kingdom-come-deliverance-ii-at-gamescom/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
- - 😝 [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
- - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
- - 👉 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)<!-- MEMES:END -->
+ - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 💣 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 👉 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)<!-- MEMES:END -->
 
 ---
 

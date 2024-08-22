@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take me home](http://9gag.com/gag/awynLbW)
- - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
- - 💣 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
- - 😝 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
- - 👉 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)<!-- MEMES:END -->
+ - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - 💣 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
+ - 😝 [Probably I&#39;m going to jail after this post!](http://9gag.com/gag/a6Zb598)
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LiteSpeed Cache, the top WordPress site acceleration plugin, had a critical flaw that left sites open to takeover attacks; 2M+ sites are likely still vulnerable &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240821/p32#a240821p32)
+ - [How to add an email account to Apple Mail on Mac or iOS](https://appleinsider.com/inside/macos/tips/how-to-add-an-email-account-to-apple-mail-on-mac-or-ios?utm_medium=rss)
  - [Keychron Q15 Max review: High-quality and quirky mechanical keyboard](https://appleinsider.com/articles/24/08/22/keychron-q15-max-review-high-quality-and-quirky-mechanical-keyboard?utm_medium=rss)
  - [OpenAI exec says California’s AI safety bill might slow progress](https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047)
- - [Zomato acquires Paytm&#39;s entertainment ticketing business for $244.1M; the division contributed about 9% to Paytm&#39;s overall revenues in Q1 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240821/p31#a240821p31)
- - [Best Internet Providers in Hickory, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)
- - [A US district judge rules X Holdings should unseal its corporate disclosure statement by September 4, revealing X and xAI shareholders fully for the first time &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240821/p30#a240821p30)<!-- TECH:END -->
+ - [Zomato acquires Paytm&#39;s entertainment ticketing business for $244.1M; the division contributed about 9% to Paytm&#39;s overall revenues in Q1 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240821/p31#a240821p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

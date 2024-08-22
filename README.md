@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [An appeals court revived Washington, DC&#39;s antitrust lawsuit against Amazon, saying it plausibly claimed Amazon&#39;s pricing policies illegally stifle competition &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240822/p27#a240822p27)
  - [Doctor decries Apple gift card discount &#39;scam&#39; after failing to understand the terms of the deal](https://appleinsider.com/articles/24/08/22/doctor-decries-apple-gift-card-discount-scam-after-failing-to-understand-the-terms-of-the-deal?utm_medium=rss)
  - [Instead of carrying multiple camera lenses, this one lets you swap optics](https://www.theverge.com/2024/8/22/24226064/samyang-prime-lens-camera-remaster-slim)
- - [In a pitch deck, AI search engine Perplexity told advertisers it plans to start running ads in Q4; a source says Perplexity&#39;s CPM prices will be $50+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240822/p26#a240822p26)
- - [Apple promotes AI, multicam features of Final Cut Pro for iPad, Mac](https://appleinsider.com/articles/24/08/22/apple-promotes-ai-multicam-features-of-final-cut-pro-for-ipad-mac?utm_medium=rss)
- - [Identity verification becomes mandatory for Apple Cash users in October](https://appleinsider.com/articles/24/08/22/identity-verification-becomes-mandatory-for-apple-cash-users-in-october?utm_medium=rss)<!-- TECH:END -->
+ - [In a pitch deck, AI search engine Perplexity told advertisers it plans to start running ads in Q4; a source says Perplexity&#39;s CPM prices will be $50+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240822/p26#a240822p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

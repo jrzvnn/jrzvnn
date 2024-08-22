@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
- - 💣 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
- - 😝 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
- - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
+ - 😝 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)
+ - 😝 [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
+ - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 😝 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
+ - 👉 [Eva about Britain](http://9gag.com/gag/aGy1800)<!-- MEMES:END -->
 
 ---
 

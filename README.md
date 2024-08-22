@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - 😝 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
- - 💣 [Dear pension fund](http://9gag.com/gag/a7orVpq)
+ - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 💣 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)<!-- MEMES:END -->
+ - 👉 [Take me home](http://9gag.com/gag/awynLbW)<!-- MEMES:END -->
 
 ---
 

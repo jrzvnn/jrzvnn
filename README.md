@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump promotes his family&#39;s forthcoming crypto platform, The DeFiant Ones, in a post on Truth Social, mentioning a Telegram channel but few other details &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240822/p30#a240822p30)
+ - [This Small Appliance Keeps the Kitchen Cool and Energy Bills Low](https://www.cnet.com/news/this-small-appliance-keeps-the-kitchen-cool-and-energy-bills-low/#ftag=CAD590a51e)
  - [The Lord of the Rings anime looks appropriately epic in first trailer](https://www.theverge.com/24226288/the-lord-of-the-rings-war-of-the-rohirrim-anime-trailer)
- - [A Popular iOS Illustration App Is Saying No to Generative AI](https://www.wired.com/story/procreate-app-no-generative-ai/)
- - [Google DeepMind staff call for end to military contracts](https://www.theverge.com/2024/8/22/24226161/google-deepmind-staff-call-for-end-to-military-contracts)
- - [The 21 Best Movies on Apple TV+ Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Trump is launching a cryptocurrency platform, and we have no idea what it does](https://www.theverge.com/2024/8/22/24226184/trump-defiant-ones-cryptocurrency-platform)<!-- TECH:END -->
+ - [Best JBL Speakers](https://www.cnet.com/tech/home-entertainment/best-jbl-speakers/#ftag=CAD590a51e)
+ - [A Popular iOS Illustration App Is Saying No to Generative AI](https://www.wired.com/story/procreate-app-no-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

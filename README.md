@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cOh sorry I bumped into you\u2026.\u201d](http://9gag.com/gag/aMV8nyW)
- - 😝 [I&#39;m in!](http://9gag.com/gag/aXPq449)
- - 💣 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
+ - 😝 [Naked man vs cops, who will win?](http://9gag.com/gag/a1mbVQb)
+ - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
+ - 💣 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
+ - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
 
 ---
 

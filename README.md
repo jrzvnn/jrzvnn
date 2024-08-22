@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 😝 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
- - 💣 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
- - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
- - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 💣 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
+ - 😝 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)
+ - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)<!-- MEMES:END -->
 
 ---
 

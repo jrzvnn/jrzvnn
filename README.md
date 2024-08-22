@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 😝 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
+ - 💣 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
  - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
 

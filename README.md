@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hurt feelings](http://9gag.com/gag/aZZm84V)
- - 😝 [Lol](http://9gag.com/gag/a5QbXYE)
- - 💣 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
- - 😝 [The legendary revenge](http://9gag.com/gag/axyVyNM)
- - 👉 [Real cinema](http://9gag.com/gag/a87y0KV)<!-- MEMES:END -->
+ - 😝 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
+ - 😝 [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
+ - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - 👉 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)<!-- MEMES:END -->
 
 ---
 

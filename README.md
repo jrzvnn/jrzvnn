@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to Sen. Scott Wiener, OpenAI says California&#39;s AI safety bill would hurt innovation and that AI safety regulation should come from the federal level &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240821/p29#a240821p29)
+ - [Best OLED Laptop Deals: Save on Top Models From HP, Razer and More](https://www.cnet.com/deals/best-oled-laptop-deals/#ftag=CAD590a51e)
+ - [Hall Effect Controllers Marry Magnetism and Gaming](https://www.cnet.com/tech/gaming/hall-effect-controllers-marry-magnetism-and-gaming/#ftag=CAD590a51e)
  - [The bad movie reviews quoted in Lionsgate’s Megalopolis trailer were mostly made up](https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled)
- - [Best Smart Home Deals: Save on Futuristic and Convenient Smart Home Gadgets](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [The Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-stream-on-max-august-2024/#ftag=CAD590a51e)
- - [Chase Ink Business Preferred Credit Card: Transfer Points or Redeem for Travel](https://www.cnet.com/personal-finance/chase-ink-business-preferred-credit-card/#ftag=CAD590a51e)
- - [Snowflake reports Q2 revenue up 29% YoY to $868.8M and raises its FY 2025 product revenue forecast, but not its margin forecast; SNOW drops 7%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240821/p28#a240821p28)<!-- TECH:END -->
+ - [Best Smart Home Deals: Save on Futuristic and Convenient Smart Home Gadgets](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

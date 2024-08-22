@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin, California-based Opkey, which provides AI-based ERP testing software, raised a $47M Series B led by PeakSpan Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240822/p21#a240822p21)
  - [Peloton is adding a $95 activation fee for secondhand machines](https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness)
  - [Ultimate Ears Everboom: Good Speaker, Tough Sell](https://www.wired.com/review/ultimate-ears-everboom/)
  - [Instagram announces a Myspace-like feature to let users add 30 seconds of a song to their profile from Instagram&#39;s library of music; the songs won&#39;t autoplay &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240822/p20#a240822p20)
- - [Google reaches a $250 million deal to skirt proposed journalism bill](https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism)
- - [Paramount’s merger: all the news on the drawn-out takeover drama](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)<!-- TECH:END -->
+ - [Google reaches a $250 million deal to skirt proposed journalism bill](https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

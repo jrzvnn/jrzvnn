@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - 😝 [Eva about Britain](http://9gag.com/gag/aGy1800)
- - 💣 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
- - 😝 [Probably I&#39;m going to jail after this post!](http://9gag.com/gag/a6Zb598)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 💣 [Take me home](http://9gag.com/gag/awynLbW)
+ - 😝 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
+ - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
 
 ---
 

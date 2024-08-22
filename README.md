@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart&#39;s China business is booming, driven by its Sam&#39;s Club memberships; Walmart says e-commerce orders delivered within one hour rose 28% to 59M last quarter &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p10#a240822p10)
  - [Baidu reports Q2 revenue flat YoY to ~$4.67B, vs. ~$4.7B est., net income down 8% YoY to ~$1B, vs. ~$900M est., online marketing revenue down 2% YoY to ~$2.7B &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p9#a240822p9)
  - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)
  - [Researchers: a network of 200+ Russia-linked X accounts shows how Russian trolls are trying to go viral, including low-quality, high-volume replies to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240822/p8#a240822p8)
- - [Foldable MacBook Pro delayed to at least 2027](https://appleinsider.com/articles/24/08/22/foldable-macbook-pro-delayed-to-at-least-2027?utm_medium=rss)
- - [The FCC says Lingo Telecom agreed to pay a $1M fine after the agency said Lingo transmitted fake robocalls imitating President Joe Biden in New Hampshire &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240822/p7#a240822p7)<!-- TECH:END -->
+ - [Foldable MacBook Pro delayed to at least 2027](https://appleinsider.com/articles/24/08/22/foldable-macbook-pro-delayed-to-at-least-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

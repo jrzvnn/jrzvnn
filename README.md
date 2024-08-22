@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft, Amazon, and others plan to use old power stations and industrial sites for data centers, as land and power in many markets are &quot;heavily constrained&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p11#a240822p11)
  - [YouTube has a new tool to help restore hacked channels: an AI chatbot](https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot)
  - [Apple&#39;s App Store vice president is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)
  - [Walmart&#39;s China business is booming, driven by its Sam&#39;s Club memberships; Walmart says e-commerce orders delivered within one hour rose 28% to 59M last quarter &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p10#a240822p10)
- - [This Political Startup Wants to Help Progressives Win … With AI-Generated Ads](https://www.wired.com/story/battelgroundai-ai-progressive-political-ads/)
- - [Baidu reports Q2 revenue flat YoY to ~$4.67B, vs. ~$4.7B est., net income down 8% YoY to ~$1B, vs. ~$900M est., online marketing revenue down 2% YoY to ~$2.7B &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p9#a240822p9)<!-- TECH:END -->
+ - [This Political Startup Wants to Help Progressives Win … With AI-Generated Ads](https://www.wired.com/story/battelgroundai-ai-progressive-political-ads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 💣 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
+ - 😝 [Dear pension fund](http://9gag.com/gag/a7orVpq)
+ - 😝 [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
+ - 💣 [No experience. Unacceptable!!](http://9gag.com/gag/aW4moG2)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Take me home](http://9gag.com/gag/awynLbW)<!-- MEMES:END -->
+ - 👉 [VR Gym motivation](http://9gag.com/gag/ayNDW1p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - 😝 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
+ - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
+ - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
  - 😝 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 💣 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
- - 👉 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)<!-- MEMES:END -->
+ - 👉 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)<!-- MEMES:END -->
 
 ---
 

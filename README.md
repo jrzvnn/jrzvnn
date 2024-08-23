@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
- - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 💣 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
+ - 😝 [\ud83c\udf81Genshin X 9GAG Meme Contest 2024 \ud83d\udcb0](http://9gag.com/gag/aO8z1jE)
+ - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)<!-- MEMES:END -->
 
 ---
 

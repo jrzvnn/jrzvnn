@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canon event](http://9gag.com/gag/aD2WVMB)
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
  - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 👉 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)<!-- MEMES:END -->
+ - 👉 [Hodl the door](http://9gag.com/gag/aAydKLE)<!-- MEMES:END -->
 
 ---
 

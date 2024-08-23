@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snag Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM for just $1,299 with coupon](https://appleinsider.com/articles/24/08/23/snag-apples-m3-macbook-air-15-inch-with-16gb-ram-for-just-1299-with-coupon?utm_medium=rss)
  - [This Woman Secretly Tries to Stop War](https://www.wired.com/story/gabrielle-rifkind-peace-oxford-process/)
  - [A look at the fading dominance of Apple Podcasts, as a study of 603 weekly podcast consumers finds 31% use YouTube, followed by Spotify at 21%, and Apple at 12% &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240823/p6#a240823p6)
  - [So You’re Underwater: Why Do You See That Circle of Light Above You?](https://www.wired.com/story/the-awesome-aquatics-of-snells-window/)
- - [Sony Block Solutions Labs, a joint venture between Sony and Web3 developer Startale, launches Soneium, a layer-2 blockchain to empower creators, devs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240823/p5#a240823p5)
- - [The Scientific Reasons Behind Why You Get So Many Mosquito Bites](https://www.cnet.com/health/the-scientific-reasons-behind-why-you-get-so-many-mosquito-bites/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Block Solutions Labs, a joint venture between Sony and Web3 developer Startale, launches Soneium, a layer-2 blockchain to empower creators, devs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240823/p5#a240823p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta pulls plug on plans for high-end Vision Pro competitor](https://www.theverge.com/2024/8/23/24226856/meta-vr-ar-la-jolla-rumor-quest-pro-2)
  - [Apple-1 owned by Apple&#39;s first applications engineer sells for over $300,000](https://appleinsider.com/articles/24/08/23/apple-1-owned-by-apples-first-applications-engineer-sells-for-over-300000?utm_medium=rss)
- - [In an email, Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)
+ - [Email: Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a one-page summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)
  - [Ring’s flexible Pan-Tilt Indoor Cam is on sale for the first time today](https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale)
  - [Black Myth: Wukong is too mediocre for all this drama](https://www.theverge.com/2024/8/23/24226834/black-myth-wukong-hands-on-impression-game-science)<!-- TECH:END -->
 

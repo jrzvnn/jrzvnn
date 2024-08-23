@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
- - 😝 [She failed to captcha his heart](http://9gag.com/gag/aZZm8b6)
- - 💣 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 😝 [Hodl the door](http://9gag.com/gag/aAydKLE)
- - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
+ - 😝 [Canon event](http://9gag.com/gag/aD2WVMB)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
+ - 👉 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)<!-- MEMES:END -->
 
 ---
 

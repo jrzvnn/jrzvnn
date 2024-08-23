@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rode Wireless Pro review: Impressive features, superb audio quality](https://appleinsider.com/articles/24/08/23/rode-wireless-pro-review-impressive-features-superb-audio-quality?utm_medium=rss)
+ - [The NLRB&#39;s general counsel office determines a group of Amazon drivers were employees of Amazon and of the &quot;delivery service partner&quot; company that hired them &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240822/p38#a240822p38)
  - [Samsung Galaxy Ultra Watch copies everything except Apple&#39;s durability and customer service](https://appleinsider.com/articles/24/08/23/samsung-galaxy-ultra-watch-copies-everything-except-apples-durability-and-customer-service?utm_medium=rss)
  - [The Pixel 9&#39;s AI features have made creating realistic and believable fake photos trivial, and Google&#39;s safeguards are astonishingly anemic &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/240822/p37#a240822p37)
- - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Shareholders approve upgrading Alibaba&#39;s Hong Kong listing, which expects to attract billions of dollars in Chinese investment, to primary status on August 28 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p36#a240822p36)
- - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)<!-- TECH:END -->
+ - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US sues RealPage over rent-setting software that allegedly drove up prices](https://www.theverge.com/2024/8/23/24226885/doj-realpage-antitrust-lawsuit-rent-fixing-software)
  - [Are Copilot Plus PCs really the Windows alternative to Chromebooks?](https://www.theverge.com/24226855/copilot-plus-pcs-alternative-chromebooks)
  - [Meta pulls plug on plans for high-end Vision Pro competitor](https://www.theverge.com/2024/8/23/24226856/meta-vr-ar-la-jolla-rumor-quest-pro-2)
  - [Apple-1 owned by Apple&#39;s first applications engineer sells for over $300,000](https://appleinsider.com/articles/24/08/23/apple-1-owned-by-apples-first-applications-engineer-sells-for-over-300000?utm_medium=rss)
- - [Email: Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a one-page summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)
- - [Ring’s flexible Pan-Tilt Indoor Cam is on sale for the first time today](https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale)<!-- TECH:END -->
+ - [Email: Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a one-page summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Valve officially announces Deadlock, a game ‘in early development’](https://www.theverge.com/2024/8/23/24219054/valve-deadlock-announcement)
  - [Andrew Ng steps down as CEO of LandingAI, the computer vision startup he founded in 2017, and transitions to executive chairman; ex-COO Dan Maloney is named CEO &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240823/p18#a240823p18)
+ - [A Giant Eyeball Exhibit Hints We Don&#39;t Fully Know What New Tech Will Do to Our Vision](https://www.cnet.com/health/personal-care/a-giant-eyeball-exhibit-hints-we-dont-fully-know-what-new-tech-will-do-to-our-vision/#ftag=CAD590a51e)
  - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
- - [Meta says a small cluster of WhatsApp accounts linked to the Iran-backed hacking group APT42 targeted people affiliated with the Biden and Trump administrations &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/240823/p17#a240823p17)<!-- TECH:END -->
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

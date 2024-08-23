@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
  - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 😝 [9gaggers](http://9gag.com/gag/aYQxOwV)
- - 💣 [Hodl the door](http://9gag.com/gag/aAydKLE)
+ - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
+ - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
 
 ---
 

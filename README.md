@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
  - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 💣 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)
+ - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 

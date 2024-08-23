@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Block Solutions Labs, a joint venture between Sony and Web3 developer Startale, launches Soneium, a layer-2 blockchain to empower creators, devs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240823/p5#a240823p5)
  - [We&#39;ve Been Testing Fans All Summer and These Are Our 9 Favorites &lpar;2024&rpar;](https://www.wired.com/gallery/best-fans/)
  - [Chinese AI startups, cut off from the most powerful AI chips, are focusing on monetization, writing more efficient code for LLMs, and building smaller models &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240823/p4#a240823p4)
  - [Japanese chipmaker Kioxia applies for a Tokyo Stock Exchange listing; source: Kioxia plans to list as soon as October and raise $500M+ at a $10B+ valuation &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/240823/p3#a240823p3)
- - [ElevenLabs’ AI Reader app can now narrate text in 32 languages](https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release)
- - [When War Came to Their Country, They Built a Map](https://www.wired.com/story/deep-state-ukraine-map/)<!-- TECH:END -->
+ - [ElevenLabs’ AI Reader app can now narrate text in 32 languages](https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

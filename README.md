@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
  - 😝 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
  - 💣 [I&#39;m in!](http://9gag.com/gag/aXPq449)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)

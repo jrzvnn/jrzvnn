@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto’s Shiny New Political Machine](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/)
+ - [How to troubleshoot a Mac that won’t boot](https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to)
  - [Evolved and more powerful macOS malware strain sold cheaply to criminals](https://appleinsider.com/articles/24/08/23/evolved-and-more-powerful-macos-malware-strain-sold-cheaply-to-criminals?utm_medium=rss)
  - [The Pixel 9 is great — and a problem](https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast)
- - [Apple Vision Pro exasperations and iPhone 16 anticipation on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/23/apple-vision-pro-exasperations-and-iphone-16-anticipation-on-the-appleinsider-podcast?utm_medium=rss)
- - [Reddit is winning over advertisers with interest-based targeting via subreddits, instead of personal data; analysis: Reddit&#39;s ad revenue to reach $1.1B+ in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240823/p7#a240823p7)
- - [The 31 Best Deals From REI’s 2024 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/)<!-- TECH:END -->
+ - [Apple Vision Pro exasperations and iPhone 16 anticipation on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/23/apple-vision-pro-exasperations-and-iphone-16-anticipation-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

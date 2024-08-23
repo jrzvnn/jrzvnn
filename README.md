@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)
  - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
  - [Meta says a small cluster of WhatsApp accounts linked to the Iran-backed hacking group APT42 targeted people affiliated with the Biden and Trump administrations &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/240823/p17#a240823p17)
  - [Best Chromebook Deals: Budget and Premium Models to Suit All Needs](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
- - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)
- - [Best Google Pixel Phone to Buy in 2024](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

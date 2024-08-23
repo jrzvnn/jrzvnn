@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 💣 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)
+ - 😝 [I can&#39;t think of a title](http://9gag.com/gag/a34qy3m)
+ - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 💣 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)
  - 😝 [\ud83c\udf81Genshin X 9GAG Meme Contest 2024 \ud83d\udcb0](http://9gag.com/gag/aO8z1jE)
- - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 

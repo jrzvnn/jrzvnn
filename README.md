@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RFK Jr. Suspends Presidential Campaign](https://www.wired.com/story/rfk-jr-drops-out-presidential-race/)
+ - [RFK Jr. Suspends Presidential Campaign, Endorses Trump](https://www.wired.com/story/rfk-jr-drops-out-presidential-race/)
  - [New report confirms iPhone 16 launch is on September 10](https://appleinsider.com/articles/24/08/23/new-report-confirms-iphone-16-launch-is-on-september-10?utm_medium=rss)
  - [New M4 Mac models being tested ahead of likely October release](https://appleinsider.com/articles/24/08/23/new-m4-mac-models-being-tested-ahead-of-likely-october-release?utm_medium=rss)
  - [The French AI startup called H, formerly Holistic, says three of its five co-founders are leaving over &quot;operational differences&quot;, after raising $220M in May &lpar;The Information&rpar;](http://www.techmeme.com/240823/p16#a240823p16)

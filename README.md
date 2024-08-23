@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
- - 😝 [Canon event](http://9gag.com/gag/aD2WVMB)
- - 💣 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
- - 😝 [By helicopter](http://9gag.com/gag/azx8RBb)
- - 👉 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)<!-- MEMES:END -->
+ - 😝 [Mother reunites with her son after she got the call he regained consciousness after spending 16 days in a coma](http://9gag.com/gag/aVvqmpv)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 💣 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
 
 ---
 

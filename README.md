@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - 😝 [Take me back](http://9gag.com/gag/arybBQ0)
- - 💣 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)
- - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 👉 [This crying lady, though](http://9gag.com/gag/avyGvEE)<!-- MEMES:END -->
+ - 😝 [Very interesting](http://9gag.com/gag/adB7oBD)
+ - 😝 [This crying lady, though](http://9gag.com/gag/avyGvEE)
+ - 💣 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
+ - 😝 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
+ - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
 
 ---
 

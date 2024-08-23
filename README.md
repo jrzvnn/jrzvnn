@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This crying lady, though](http://9gag.com/gag/avyGvEE)
- - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 😝 [Wake up companies. Yes they are the loudest crybabies, but they are a minority that don&#39;t even consume the product they cried for. Go woke, go broke](http://9gag.com/gag/agmL22g)
+ - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 💣 [Other oil rich Arab countries don&#39;t want them .soo](http://9gag.com/gag/a0eb6BL)
+ - 😝 [When all the trans players quite the game.](http://9gag.com/gag/aNDARZ6)
+ - 👉 [This crying lady, though](http://9gag.com/gag/avyGvEE)<!-- MEMES:END -->
 
 ---
 

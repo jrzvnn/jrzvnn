@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shifts iPhone 16 production mix to greatly favor Pro models](https://appleinsider.com/articles/24/08/23/apple-shifts-iphone-16-production-mix-to-greatly-favor-pro-models?utm_medium=rss)
+ - [Apple Podcasts no longer king as competitors gain ground](https://appleinsider.com/articles/24/08/23/apple-podcasts-no-longer-king-as-competitors-gain-ground?utm_medium=rss)
  - [SEC filing: Oilfield-services company Halliburton says it has taken some systems offline after it discovered that an unauthorized party had gained access &lpar;Colin Kellaher/Wall Street Journal&rpar;](http://www.techmeme.com/240823/p9#a240823p9)
  - [Starlink says satellite internet kits purchased in one of six regions and activated in another may be subjected to an &quot;outside region fee&quot; of up to $300 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240823/p8#a240823p8)
- - [Trump’s New Silicon Valley Supporters Really Want You to Forget He Called Nazis ‘Fine People’](https://www.wired.com/story/trump-silicon-valley-elon-musk-neo-nazis-fine-people/)
- - [Best CD Rates Today -- APYs Are Falling Fast, Aug. 23, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-23-2024/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man City vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-ipswich-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s New Silicon Valley Supporters Really Want You to Forget He Called Nazis ‘Fine People’](https://www.wired.com/story/trump-silicon-valley-elon-musk-neo-nazis-fine-people/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

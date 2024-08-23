@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
+ - 😝 [Canon event](http://9gag.com/gag/aD2WVMB)
  - 😝 [Mother reunites with her son after she got the call he regained consciousness after spending 16 days in a coma](http://9gag.com/gag/aVvqmpv)
  - 💣 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
+ - 👉 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)<!-- MEMES:END -->
 
 ---
 

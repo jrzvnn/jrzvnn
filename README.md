@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every man before &amp; after seeing their girlfriend/wife](http://9gag.com/gag/aByWEYA)
- - 😝 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
- - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 😝 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
+ - 😝 [Brits have talent](http://9gag.com/gag/a87y60Q)
+ - 💣 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Eleventyone](http://9gag.com/gag/aryb3dp)<!-- MEMES:END -->
+ - 👉 [Every man before &amp; after seeing their girlfriend/wife](http://9gag.com/gag/aByWEYA)<!-- MEMES:END -->
 
 ---
 

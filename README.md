@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)
- - [RFK Jr. Suspends Presidential Campaign, Endorses Trump](https://www.wired.com/story/rfk-jr-drops-out-presidential-race/)
- - [New report confirms iPhone 16 launch is on September 10](https://appleinsider.com/articles/24/08/23/new-report-confirms-iphone-16-launch-is-on-september-10?utm_medium=rss)
- - [New M4 Mac models being tested ahead of likely October release](https://appleinsider.com/articles/24/08/23/new-m4-mac-models-being-tested-ahead-of-likely-october-release?utm_medium=rss)
- - [The French AI startup called H, formerly Holistic, says three of its five co-founders are leaving over &quot;operational differences&quot;, after raising $220M in May &lpar;The Information&rpar;](http://www.techmeme.com/240823/p16#a240823p16)<!-- TECH:END -->
+ - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)
+ - [Best-Sounding Bluetooth Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-sounding-bluetooth-speakers/#ftag=CAD590a51e)
+ - [Starlink Adds New Outside Region Fee to Combat Unauthorized Users](https://www.cnet.com/home/internet/starlink-adds-new-outside-region-fee-to-combat-unauthorized-users/#ftag=CAD590a51e)
+ - [RFK Jr. Suspends Presidential Campaign, Endorses Trump](https://www.wired.com/story/rfk-jr-drops-out-presidential-race/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

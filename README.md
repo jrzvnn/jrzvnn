@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)
+ - [Silverbear, an investor named in Bolt&#39;s financial docs for a $450M raise, says it was &quot;never in this deal&quot;, as some investors consider legal action against Bolt &lpar;Forbes&rpar;](http://www.techmeme.com/240822/p34#a240822p34)
  - [Internal memo: Noam Shazeer, the ex-CEO of Character.AI who joined Google this month, will be Gemini co-technical lead and work with Jeff Dean and Oriol Vinyals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/240822/p33#a240822p33)
- - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)
- - [You Might Not Have to Enroll in Medicare When You Turn 65](https://www.cnet.com/personal-finance/insurance/you-might-not-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword for Aug. 22 Uses the Same Clue Twice](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-22/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hint for Aug. 22, #172 Is to Try and Blend In](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-172/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Georgia Solar Panel Incentives: Solar Loans, Efficiency Rebates](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panel-incentives-solar-loans-efficiency-rebates/#ftag=CAD590a51e)
+ - [The HP All-In Plan is a New Low-Cost Way to Print at Home Without the Headaches](https://www.cnet.com/paid-content/news/the-hp-all-in-plan-is-a-new-low-cost-way-to-print-at-home-without-the-headaches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

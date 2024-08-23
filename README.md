@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This chair catch by a Waffle House employee](http://9gag.com/gag/aE0YVAx)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 💣 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 😝 [Take me home](http://9gag.com/gag/awynLbW)
+ - 😝 [This crying lady, though](http://9gag.com/gag/avyGvEE)
+ - 💣 [Onsen trips with in-laws](http://9gag.com/gag/a6ZbpX8)
  - 😝 [\ud83c\udf81Genshin X 9GAG Meme Contest 2024 \ud83d\udcb0](http://9gag.com/gag/aO8z1jE)
- - 👉 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)<!-- MEMES:END -->
+ - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
 
 ---
 

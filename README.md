@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
- - 💣 [I&#39;m in!](http://9gag.com/gag/aXPq449)
+ - 😝 [Every man before &amp; after seeing their girlfriend/wife](http://9gag.com/gag/aByWEYA)
+ - 😝 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
+ - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
+ - 👉 [Eleventyone](http://9gag.com/gag/aryb3dp)<!-- MEMES:END -->
 
 ---
 

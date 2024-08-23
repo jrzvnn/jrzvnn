@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 💣 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
+ - 💣 [I&#39;m in!](http://9gag.com/gag/aXPq449)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Take me home](http://9gag.com/gag/awynLbW)<!-- MEMES:END -->
+ - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
 
 ---
 

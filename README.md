@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chanel’s New Celeb-Endorsed Audio Jewelry Is Powered by Master &amp; Dynamic](https://www.wired.com/story/chanel-premiere-sound-watch/)
  - [Families can sue app developer for breaking its anti-bullying pledge, says court](https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court)
  - [Online Action Movie Fandom Birthed a New Film Fest Era](https://www.wired.com/story/big-bad-film-fest/)
  - [Q&amp;A with AI pioneer Yoshua Bengio on advocating for AI regulation, his support for California&#39;s AI safety bill, AI achieving human-level intelligence, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240823/p14#a240823p14)
- - [Apple&#39;s future iPhone Flip - all the rumors about a possible foldable iPhone](https://appleinsider.com/articles/24/08/23/apples-future-iphone-flip---all-the-rumors-about-a-possible-foldable-iphone?utm_medium=rss)
- - [US sues RealPage over rent-setting software that allegedly drove up prices](https://www.theverge.com/2024/8/23/24226885/doj-realpage-antitrust-lawsuit-rent-fixing-software)<!-- TECH:END -->
+ - [Apple&#39;s future iPhone Flip - all the rumors about a possible foldable iPhone](https://appleinsider.com/articles/24/08/23/apples-future-iphone-flip---all-the-rumors-about-a-possible-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

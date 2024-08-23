@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM for just $1,299 with coupon](https://appleinsider.com/articles/24/08/23/snag-apples-m3-macbook-air-15-inch-with-16gb-ram-for-just-1299-with-coupon?utm_medium=rss)
- - [This Woman Secretly Tries to Stop War](https://www.wired.com/story/gabrielle-rifkind-peace-oxford-process/)
- - [A look at the fading dominance of Apple Podcasts, as a study of 603 weekly podcast consumers finds 31% use YouTube, followed by Spotify at 21%, and Apple at 12% &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240823/p6#a240823p6)
- - [So You’re Underwater: Why Do You See That Circle of Light Above You?](https://www.wired.com/story/the-awesome-aquatics-of-snells-window/)
- - [Sony Block Solutions Labs, a joint venture between Sony and Web3 developer Startale, launches Soneium, a layer-2 blockchain to empower creators, devs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240823/p5#a240823p5)<!-- TECH:END -->
+ - [The Pixel 9 is great — and a problem](https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast)
+ - [Apple Vision Pro exasperations and iPhone 16 anticipation on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/23/apple-vision-pro-exasperations-and-iphone-16-anticipation-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Reddit is winning over advertisers with interest-based targeting via subreddits, instead of personal data; analysis: Reddit&#39;s ad revenue to reach $1.1B+ in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240823/p7#a240823p7)
+ - [The 31 Best Deals From REI’s 2024 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/)
+ - [Preorders Are Live for Microsoft&#39;s New Xbox Series X and Series S, but Should You Buy? &lpar;2024&rpar;](https://www.wired.com/story/how-to-preorder-xbox-series-x-and-xbox-series-s/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

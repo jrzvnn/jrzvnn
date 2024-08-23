@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can&#39;t think of a title](http://9gag.com/gag/a34qy3m)
- - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
- - 💣 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)
+ - 😝 [This chair catch by a Waffle House employee](http://9gag.com/gag/aE0YVAx)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 💣 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
  - 😝 [\ud83c\udf81Genshin X 9GAG Meme Contest 2024 \ud83d\udcb0](http://9gag.com/gag/aO8z1jE)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 👉 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to hold an event on September 10 with CrowdStrike and other cybersecurity vendors to discuss how to prevent incidents similar to the July outage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240823/p11#a240823p11)
  - [The US DOJ sues RealPage, alleging the company&#39;s software helps property managers collude on setting rents in violation of antitrust law &lpar;Bloomberg&rpar;](http://www.techmeme.com/240823/p10#a240823p10)
  - [The Apartment Rental Market Is Rigged by Algorithms, a DOJ Lawsuit Alleges](https://www.wired.com/story/realpage-antitrust-lawsuit/)
  - [Microsoft to host CrowdStrike and others to discuss Windows security changes](https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners)
- - [Apple shifts iPhone 16 production mix to greatly favor Pro models](https://appleinsider.com/articles/24/08/23/apple-shifts-iphone-16-production-mix-to-greatly-favor-pro-models?utm_medium=rss)
- - [Apple Podcasts no longer king as competitors gain ground](https://appleinsider.com/articles/24/08/23/apple-podcasts-no-longer-king-as-competitors-gain-ground?utm_medium=rss)<!-- TECH:END -->
+ - [Apple shifts iPhone 16 production mix to greatly favor Pro models](https://appleinsider.com/articles/24/08/23/apple-shifts-iphone-16-production-mix-to-greatly-favor-pro-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

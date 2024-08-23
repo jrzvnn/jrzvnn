@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By helicopter](http://9gag.com/gag/azx8RBb)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
  - 😝 [Canon event](http://9gag.com/gag/aD2WVMB)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 💣 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
+ - 😝 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
  - 👉 [Hodl the door](http://9gag.com/gag/aAydKLE)<!-- MEMES:END -->
 
 ---

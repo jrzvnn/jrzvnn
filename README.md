@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)
- - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [I&#39;m in!](http://9gag.com/gag/aXPq449)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 💣 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 👉 [Invader Removes European Lives Matter Poster Of The Stabbed Children In Southport. Should She Be Deported?](http://9gag.com/gag/aqybx1M)<!-- MEMES:END -->
 
 ---
 

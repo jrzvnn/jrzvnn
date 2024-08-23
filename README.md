@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use a VPN to access geo-restricted content and social media](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-content-and-social-media?utm_medium=rss)
- - [Sources: Meta cancels plans for a premium headset, codenamed La Jolla and envisioned as a competitor to Apple&#39;s Vision Pro, after development began in November &lpar;The Information&rpar;](http://www.techmeme.com/240823/p12#a240823p12)
- - [Elon Musk says X staff can get their stock — if they prove they deserve it](https://www.theverge.com/2024/8/23/24226830/elon-musk-email-x-twitter-stock-grants)
- - [Microsoft to hold an event on September 10 with CrowdStrike and other cybersecurity vendors to discuss how to prevent incidents similar to the July outage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240823/p11#a240823p11)
- - [The US DOJ sues RealPage, alleging the company&#39;s software helps property managers collude on setting rents in violation of antitrust law &lpar;Bloomberg&rpar;](http://www.techmeme.com/240823/p10#a240823p10)<!-- TECH:END -->
+ - [In an email, Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)
+ - [Ring’s flexible Pan-Tilt Indoor Cam is on sale for the first time today](https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale)
+ - [Black Myth: Wukong is too mediocre for all this drama](https://www.theverge.com/2024/8/23/24226834/black-myth-wukong-hands-on-impression-game-science)
+ - [A bank exec stole $47 million for a crypto scam, and now he’s going to jail](https://www.theverge.com/2024/8/23/24226763/former-bank-ceo-sentenced-crypto-pig-butchering-scam)
+ - [7 Best MagSafe Power Banks for iPhones &lpar;2024&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

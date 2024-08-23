@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 😝 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 😝 [Wake up companies. Yes they are the loudest crybabies, but they are a minority that don&#39;t even consume the product they cried for. Go woke, go broke](http://9gag.com/gag/agmL22g)
+ - 💣 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)
+ - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
+ - 👉 [Shoutout](http://9gag.com/gag/a9yr2M0)<!-- MEMES:END -->
 
 ---
 

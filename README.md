@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta cancels plans for a premium headset, codenamed La Jolla and envisioned as a competitor to Apple&#39;s Vision Pro, after development began in November &lpar;The Information&rpar;](http://www.techmeme.com/240823/p12#a240823p12)
  - [Elon Musk says X staff can get their stock — if they prove they deserve it](https://www.theverge.com/2024/8/23/24226830/elon-musk-email-x-twitter-stock-grants)
  - [Microsoft to hold an event on September 10 with CrowdStrike and other cybersecurity vendors to discuss how to prevent incidents similar to the July outage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240823/p11#a240823p11)
  - [The US DOJ sues RealPage, alleging the company&#39;s software helps property managers collude on setting rents in violation of antitrust law &lpar;Bloomberg&rpar;](http://www.techmeme.com/240823/p10#a240823p10)
- - [The Apartment Rental Market Is Rigged by Algorithms, a DOJ Lawsuit Alleges](https://www.wired.com/story/realpage-antitrust-lawsuit/)
- - [Microsoft to host CrowdStrike and others to discuss Windows security changes](https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners)<!-- TECH:END -->
+ - [The Apartment Rental Market Is Rigged by Algorithms, a DOJ Lawsuit Alleges](https://www.wired.com/story/realpage-antitrust-lawsuit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

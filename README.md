@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shareholders approve upgrading Alibaba&#39;s Hong Kong listing, which expects to attract billions of dollars in Chinese investment, to primary status on August 28 &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240822/p36#a240822p36)
- - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)
- - [Silverbear, an investor named in Bolt&#39;s financial docs for a $450M raise, says it was &quot;never in this deal&quot;, as some investors consider legal action against Bolt &lpar;Forbes&rpar;](http://www.techmeme.com/240822/p34#a240822p34)
- - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
- - [Internal memo: Noam Shazeer, the ex-CEO of Character.AI who joined Google this month, will be Gemini co-technical lead and work with Jeff Dean and Oriol Vinyals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/240822/p33#a240822p33)<!-- TECH:END -->
+ - [Samsung Galaxy Ultra Watch copies everything except Apple&#39;s durability and customer service](https://appleinsider.com/articles/24/08/23/samsung-galaxy-ultra-watch-copies-everything-except-apples-durability-and-customer-service?utm_medium=rss)
+ - [The Pixel 9&#39;s AI features have made creating realistic and believable fake photos trivial, and Google&#39;s safeguards are astonishingly anemic &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/240822/p37#a240822p37)
+ - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
+ - [Shareholders approve upgrading Alibaba&#39;s Hong Kong listing, which expects to attract billions of dollars in Chinese investment, to primary status on August 28 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p36#a240822p36)
+ - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take me home](http://9gag.com/gag/awynLbW)
  - 😝 [This crying lady, though](http://9gag.com/gag/avyGvEE)
- - 💣 [Onsen trips with in-laws](http://9gag.com/gag/a6ZbpX8)
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
+ - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
+ - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
 
 ---
 

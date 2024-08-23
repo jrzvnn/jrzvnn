@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese chipmaker Kioxia applies to list on the Tokyo Stock Exchange, likely to be Japan&#39;s biggest IPO in 2024; source: Kioxia seeks to raise at least $500M &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/240823/p3#a240823p3)
  - [ElevenLabs’ AI Reader app can now narrate text in 32 languages](https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release)
  - [When War Came to Their Country, They Built a Map](https://www.wired.com/story/deep-state-ukraine-map/)
  - [Samsung Galaxy Ring teardown: disposable tech built not to last over two years due to lithium ion batteries that can&#39;t be replaced without destroying the device &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240823/p2#a240823p2)
- - [Best Solar-Powered Home Security Cameras for 2024](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
- - [Best Internet Providers in Newark, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-newark-nj/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar-Powered Home Security Cameras for 2024](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

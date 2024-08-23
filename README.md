@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - 😝 [Wake up companies. Yes they are the loudest crybabies, but they are a minority that don&#39;t even consume the product they cried for. Go woke, go broke](http://9gag.com/gag/agmL22g)
- - 💣 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)
- - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
- - 👉 [Shoutout](http://9gag.com/gag/a9yr2M0)<!-- MEMES:END -->
+ - 😝 [By helicopter](http://9gag.com/gag/azx8RBb)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 😝 [Canon event](http://9gag.com/gag/aD2WVMB)
+ - 👉 [Hodl the door](http://9gag.com/gag/aAydKLE)<!-- MEMES:END -->
 
 ---
 

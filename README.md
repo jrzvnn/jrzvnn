@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to unveil new iPhones, AirPods, and Apple Watches on September 10; developer logs: Apple has ramped up testing of four new M4 Mac models &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240823/p15#a240823p15)
  - [Chanel’s New Celeb-Endorsed Audio Jewelry Is Powered by Master &amp; Dynamic](https://www.wired.com/story/chanel-premiere-sound-watch/)
  - [Families can sue app developer for breaking its anti-bullying pledge, says court](https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court)
  - [Online Action Movie Fandom Birthed a New Film Fest Era](https://www.wired.com/story/big-bad-film-fest/)
- - [Q&amp;A with AI pioneer Yoshua Bengio on advocating for AI regulation, his support for California&#39;s AI safety bill, AI achieving human-level intelligence, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240823/p14#a240823p14)
- - [Apple&#39;s future iPhone Flip - all the rumors about a possible foldable iPhone](https://appleinsider.com/articles/24/08/23/apples-future-iphone-flip---all-the-rumors-about-a-possible-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with AI pioneer Yoshua Bengio on advocating for AI regulation, his support for California&#39;s AI safety bill, AI achieving human-level intelligence, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240823/p14#a240823p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

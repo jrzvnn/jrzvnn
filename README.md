@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Dealroom: AI coding assistant startups such as Anysphere and Augment have raised $433M so far in 2024 alone, bringing the total since January 2023 to $906M &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240823/p1#a240823p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-23/#ftag=CAD590a51e)
- - [Best Window AC Units of 2024](https://www.cnet.com/home/kitchen-and-household/best-window-ac-units/#ftag=CAD590a51e)
  - [Docs: state-linked Chinese entities are using cloud services from AWS or its rivals to access advanced US chips and AI models they cannot acquire otherwise &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p40#a240822p40)
- - [Dallas-based Siepe, which provides data management software and services to the private credit industry, raised a $30M Series B led by WestCap &lpar;Dallas Innovates&rpar;](http://www.techmeme.com/240822/p39#a240822p39)<!-- TECH:END -->
+ - [Dallas-based Siepe, which provides data management software and services to the private credit industry, raised a $30M Series B led by WestCap &lpar;Dallas Innovates&rpar;](http://www.techmeme.com/240822/p39#a240822p39)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 23 #439](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-23-439/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 23, #1161](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-23-1161/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

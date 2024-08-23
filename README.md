@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
- - 😝 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
- - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 😝 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)
- - 👉 [Mother reunites with her son after she got the call he regained consciousness after spending 16 days in a coma](http://9gag.com/gag/aVvqmpv)<!-- MEMES:END -->
+ - 😝 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
+ - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 💣 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 👉 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)<!-- MEMES:END -->
 
 ---
 

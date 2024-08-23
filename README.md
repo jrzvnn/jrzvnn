@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hydroflyer&#39;s $15K Electric Hydrofoil Is the Mountain Bike of the Sea](https://www.wired.com/story/hydroflyer-electric-hydrofoil-test-ride/)
  - [Crypto’s Shiny New Political Machine](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/)
  - [How to troubleshoot a Mac that won’t boot](https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to)
- - [Evolved and more powerful macOS malware strain sold cheaply to criminals](https://appleinsider.com/articles/24/08/23/evolved-and-more-powerful-macos-malware-strain-sold-cheaply-to-criminals?utm_medium=rss)
- - [The Pixel 9 is great — and a problem](https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast)
- - [Apple Vision Pro exasperations and iPhone 16 anticipation on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/23/apple-vision-pro-exasperations-and-iphone-16-anticipation-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Grab Yourself the Ember Smart Mug 2 With a Tasty $60 Off Right Now](https://www.cnet.com/deals/grab-yourself-the-ember-smart-mug-2-with-a-tasty-60-off-right-now/#ftag=CAD590a51e)
+ - [Evolved and more powerful macOS malware strain sold cheaply to criminals](https://appleinsider.com/articles/24/08/23/evolved-and-more-powerful-macos-malware-strain-sold-cheaply-to-criminals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

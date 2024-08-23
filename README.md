@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 😝 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)
+ - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
+ - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)<!-- MEMES:END -->
+ - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
 
 ---
 

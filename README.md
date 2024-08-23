@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
- - 😝 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 💣 [I can&#39;t think of a title](http://9gag.com/gag/a34qy3m)
+ - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
+ - 💣 [9gaggers](http://9gag.com/gag/aYQxOwV)
  - 😝 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
 
 ---
 

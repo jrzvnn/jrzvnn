@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
  - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - 💣 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 👉 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)<!-- MEMES:END -->
+ - 😝 [Take me back](http://9gag.com/gag/arybBQ0)
+ - 💣 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)
+ - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
+ - 👉 [This crying lady, though](http://9gag.com/gag/avyGvEE)<!-- MEMES:END -->
 
 ---
 

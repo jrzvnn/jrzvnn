@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ sues RealPage, alleging the company&#39;s software helps property managers collude on setting rents in violation of antitrust law &lpar;Bloomberg&rpar;](http://www.techmeme.com/240823/p10#a240823p10)
+ - [The Apartment Rental Market Is Rigged by Algorithms, a DOJ Lawsuit Alleges](https://www.wired.com/story/realpage-antitrust-lawsuit/)
+ - [Microsoft to host CrowdStrike and others to discuss Windows security changes](https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners)
  - [Apple shifts iPhone 16 production mix to greatly favor Pro models](https://appleinsider.com/articles/24/08/23/apple-shifts-iphone-16-production-mix-to-greatly-favor-pro-models?utm_medium=rss)
- - [Apple Podcasts no longer king as competitors gain ground](https://appleinsider.com/articles/24/08/23/apple-podcasts-no-longer-king-as-competitors-gain-ground?utm_medium=rss)
- - [SEC filing: Oilfield-services company Halliburton says it has taken some systems offline after it discovered that an unauthorized party had gained access &lpar;Colin Kellaher/Wall Street Journal&rpar;](http://www.techmeme.com/240823/p9#a240823p9)
- - [Starlink says satellite internet kits purchased in one of six regions and activated in another may be subjected to an &quot;outside region fee&quot; of up to $300 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240823/p8#a240823p8)
- - [Trump’s New Silicon Valley Supporters Really Want You to Forget He Called Nazis ‘Fine People’](https://www.wired.com/story/trump-silicon-valley-elon-musk-neo-nazis-fine-people/)<!-- TECH:END -->
+ - [Apple Podcasts no longer king as competitors gain ground](https://appleinsider.com/articles/24/08/23/apple-podcasts-no-longer-king-as-competitors-gain-ground?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

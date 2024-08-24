@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 😝 [Bro doubled it and gave it to the next person](http://9gag.com/gag/aD2WVxZ)
- - 💣 [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
- - 😝 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
- - 👉 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)<!-- MEMES:END -->
+ - 😝 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
+ - 😝 [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
+ - 💣 [Take me back](http://9gag.com/gag/arybBQ0)
+ - 😝 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)
+ - 👉 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)<!-- MEMES:END -->
 
 ---
 

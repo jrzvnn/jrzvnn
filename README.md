@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)
  - [NASA will bring the Starliner astronauts home next year on SpaceX’s Crew-9 mission](https://www.theverge.com/2024/8/24/24226860/boeing-starliner-nasa-barry-wilmore-sunita-williams)
- - [The Boeing Starliner Astronauts Will Come Home on SpaceX&#39;s Dragon](https://www.wired.com/story/starliner-return-nasa-spacex-boeing-iss/)
+ - [The Boeing Starliner Astronauts Will Come Home on SpaceX&#39;s Dragon Next Year](https://www.wired.com/story/starliner-return-nasa-spacex-boeing-iss/)
  - [Pokémon’s first 22 seasons are getting their own FAST channel](https://www.theverge.com/2024/8/24/24227429/pokemon-first-22-seasons-fast-channel)
- - [An interview with Nomad List and Photo AI founder Pieter Levels, aka @levelsio on X, on launching 12 startups in 12 months, the digital nomad life, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/240824/p5#a240824p5)
- - [The Hack I Used to Save Hundreds of Dollars Off My Internet Bill](https://www.cnet.com/home/internet/the-hack-i-used-to-save-hundreds-of-dollars-off-my-internet-bill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Nomad List and Photo AI founder Pieter Levels, aka @levelsio on X, on launching 12 startups in 12 months, the digital nomad life, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/240824/p5#a240824p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

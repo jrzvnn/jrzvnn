@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mother reunites with her son after she got the call he regained consciousness after spending 16 days in a coma](http://9gag.com/gag/aVvqmpv)
+ - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 💣 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
  - 😝 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)
- - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
- - 💣 [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
- - 😝 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 👉 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)<!-- MEMES:END -->
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)<!-- MEMES:END -->
 
 ---
 

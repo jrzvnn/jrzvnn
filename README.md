@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s humanoids market, after the city of Beijing launched a $1.4B robotics fund in January and Shanghai announced in July plans for a $1.4B fund &lpar;Reuters&rpar;](http://www.techmeme.com/240824/p2#a240824p2)
  - [Cheapest Meal Delivery Services of 2024](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
  - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
  - [Best Chest Strap Heart-Rate Monitors for 2024](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
- - [Best Internet Providers in McKinney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-mckinney-tx/#ftag=CAD590a51e)
- - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in McKinney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-mckinney-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

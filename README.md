@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
+ - [Best Chest Strap Heart-Rate Monitors for 2024](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
  - [Best Internet Providers in McKinney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-mckinney-tx/#ftag=CAD590a51e)
  - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
- - [WazirX plans to start allowing limited Indian rupee withdrawals in two phases from August 26, after freezing them in the wake of a $230M exploit in July &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240824/p1#a240824p1)
- - [Best Internet Providers in Minneapolis, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minneapolis-mn/#ftag=CAD590a51e)
- - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WazirX plans to start allowing limited Indian rupee withdrawals in two phases from August 26, after freezing them in the wake of a $230M exploit in July &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240824/p1#a240824p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Clean Your Home Naturally With Lemons: 7 Helpful Tips](https://www.cnet.com/how-to/how-to-clean-your-home-naturally-with-lemons-7-helpful-tips/#ftag=CAD590a51e)
  - [A look at Germany-based discount retailer Lidl&#39;s foray into offering cloud computing services, signing up clients like SAP and generating &amp;euro;1.9B in sales in 2023 &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240824/p6#a240824p6)
- - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)
- - [7 Best Handheld Gaming Consoles &lpar;2024&rpar;: Switch, Steam Deck, and More](https://www.wired.com/gallery/best-gaming-handhelds/)
- - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)<!-- TECH:END -->
+ - [Score This Travelhouse 3-Piece Hardside Luggage Set for a Massive Discount of $280 at Walmart](https://www.cnet.com/deals/score-this-travelhouse-3-piece-hardside-luggage-set-for-a-massive-discount-of-280-at-walmart/#ftag=CAD590a51e)
+ - [Skip Counting Sheep. This New Sleep Hack You&#39;ve Never Heard of Can Put You Right to Sleep](https://www.cnet.com/health/sleep/skip-counting-sheep-this-new-sleep-hack-youve-never-heard-of-can-put-you-right-to-sleep/#ftag=CAD590a51e)
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

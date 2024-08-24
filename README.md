@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve officially announces Deadlock, a game ‘in early development’](https://www.theverge.com/2024/8/23/24219054/valve-deadlock-announcement)
- - [Andrew Ng steps down as CEO of LandingAI, the computer vision startup he founded in 2017, and transitions to executive chairman; ex-COO Dan Maloney is named CEO &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240823/p18#a240823p18)
- - [A Giant Eyeball Exhibit Hints We Don&#39;t Fully Know What New Tech Will Do to Our Vision](https://www.cnet.com/health/personal-care/a-giant-eyeball-exhibit-hints-we-dont-fully-know-what-new-tech-will-do-to-our-vision/#ftag=CAD590a51e)
- - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Some streamers say the Chinese game studio behind Black Myth: Wukong told them to avoid topics like &quot;feminist propaganda&quot; as part of an early access agreement &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240823/p19#a240823p19)
+ - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)
+ - [USPS Will Start Shipping Free COVID Tests Again in September. What You Need to Know](https://www.cnet.com/health/usps-will-start-shipping-free-covid-tests-again-in-september-what-you-need-to-know/#ftag=CAD590a51e)
+ - [Flummoxed by AI at Work? This Startup Sees a Way to Change That](https://www.cnet.com/tech/services-and-software/flummoxed-by-ai-at-work-this-startup-sees-a-way-to-change-that/#ftag=CAD590a51e)
+ - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)
+ - 😝 [Bro doubled it and gave it to the next person](http://9gag.com/gag/aD2WVxZ)
+ - 💣 [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
  - 😝 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)
- - 💣 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 😝 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
- - 👉 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)<!-- MEMES:END -->
+ - 👉 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google’s Satellite eSOS Works During Emergencies on the Pixel 9](https://www.wired.com/story/google-pixel-9-satellite-esos-emergency-messaging/)
  - [Your Guide to Surviving Extreme Weather](https://www.wired.com/story/your-guide-to-surviving-extreme-weather-flooding-hurricanes-wildfires-heat/)
  - [The US Navy Has Run Out of Pants](https://www.wired.com/story/the-us-navy-has-run-out-of-pants/)
- - [Best Phones Under $300 in 2024](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Check if Your Social Security Number Is Included in the National Public Data Breach](https://www.cnet.com/personal-finance/check-if-your-social-security-number-is-included-in-the-national-public-data-breach/#ftag=CAD590a51e)
- - [Best AV Receiver for 2024](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Use the Back of Your iPhone as a Multipurpose Button. Here&#39;s How](https://www.cnet.com/tech/you-can-use-the-back-of-your-iphone-as-a-multipurpose-button-heres-how/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

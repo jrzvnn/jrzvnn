@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Switch From iPhone to Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)
  - [The Sonos Era 100 speaker is 20 percent off in the run-up to Labor Day](https://www.theverge.com/2024/8/24/24226829/sonos-era-100-move-2-smart-speaker-apple-pencil-deal-sale)
  - [The Shokz OpenFit Air would’ve been perfect if not for my glasses](https://www.theverge.com/24221155/shokz-openfit-air-open-earbuds-fitness-wearables)
  - [3 Anti-Aging Exercises That Will Keep You Fit as You Age](https://www.cnet.com/health/fitness/anti-aging-exercises/#ftag=CAD590a51e)
- - [A profile of TollBit, which has raised $7M and aims to create a marketplace where AI companies can pay publishers for their content on an ongoing basis &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240824/p3#a240824p3)
- - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [A profile of TollBit, which has raised $7M and aims to create a marketplace where AI companies can pay publishers for their content on an ongoing basis &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240824/p3#a240824p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

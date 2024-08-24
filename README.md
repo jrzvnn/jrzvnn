@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
  - 😝 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
- - 💣 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 💣 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 😝 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
  - 👉 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)<!-- MEMES:END -->
 
 ---

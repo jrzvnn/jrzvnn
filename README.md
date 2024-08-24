@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 😝 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)
+ - 💣 [Onsen trips with in-laws](http://9gag.com/gag/a6ZbpX8)
  - 😝 [Lol](http://9gag.com/gag/a9yr86L)
- - 💣 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)
- - 😝 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)
- - 👉 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)<!-- MEMES:END -->
+ - 👉 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)<!-- MEMES:END -->
 
 ---
 

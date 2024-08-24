@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [7 Best Handheld Gaming Consoles &lpar;2024&rpar;: Switch, Steam Deck, and More](https://www.wired.com/gallery/best-gaming-handhelds/)
  - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)
- - [NASA will bring the Starliner astronauts home next year on SpaceX’s Crew-9 mission](https://www.theverge.com/2024/8/24/24226860/boeing-starliner-nasa-barry-wilmore-sunita-williams)
- - [The Boeing Starliner Astronauts Will Come Home on SpaceX&#39;s Dragon Next Year](https://www.wired.com/story/starliner-return-nasa-spacex-boeing-iss/)
- - [Pokémon’s first 22 seasons are getting their own FAST channel](https://www.theverge.com/2024/8/24/24227429/pokemon-first-22-seasons-fast-channel)<!-- TECH:END -->
+ - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-missouri/#ftag=CAD590a51e)
+ - [NASA will bring the Starliner astronauts home next year on SpaceX’s Crew-9 mission](https://www.theverge.com/2024/8/24/24226860/boeing-starliner-nasa-barry-wilmore-sunita-williams)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

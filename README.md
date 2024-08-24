@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of TollBit, which has raised $7M and aims to create a marketplace where AI companies can pay publishers for their content on an ongoing basis &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240824/p3#a240824p3)
  - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)
  - [Will the ‘Car-Free’ Los Angeles Olympics Work?](https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/)
  - [Cash App Settlement: How to File a Claim Online for $2,500 Payout](https://www.cnet.com/personal-finance/cash-app-settlement-how-to-file-a-claim-online-for-2500-payout/#ftag=CAD590a51e)
- - [WatchOS 11: Don&#39;t Wait Until the Fall. Try Out These Apple Watch Features Now](https://www.cnet.com/tech/mobile/watchos-11-dont-wait-until-the-fall-try-out-these-apple-watch-features-now/#ftag=CAD590a51e)
- - [How Google’s Satellite eSOS Works During Emergencies on the Pixel 9](https://www.wired.com/story/google-pixel-9-satellite-esos-emergency-messaging/)<!-- TECH:END -->
+ - [WatchOS 11: Don&#39;t Wait Until the Fall. Try Out These Apple Watch Features Now](https://www.cnet.com/tech/mobile/watchos-11-dont-wait-until-the-fall-try-out-these-apple-watch-features-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

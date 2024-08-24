@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney CEO David Holz says anyone can now generate AI images on its website; previously, the site was limited to users who generated 10K+ images on Discord &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/240824/p4#a240824p4)
+ - [Google Wallet now works for California driver’s licenses](https://www.theverge.com/2024/8/24/24227385/california-google-wallet-digital-ids-mobile-drivers-license-pilot)
  - [Meta cancels its headset rival to Apple Vision Pro](https://appleinsider.com/articles/24/08/24/meta-cancels-its-headset-rival-to-apple-vision-pro?utm_medium=rss)
- - [How to Switch From iPhone to Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)
- - [Bundesliga Soccer Livestream: How to Watch Wolfsburg vs. Bayern Munich From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-wolfsburg-vs-bayern-munich-from-anywhere/#ftag=CAD590a51e)
- - [The Sonos Era 100 speaker is 20 percent off in the run-up to Labor Day](https://www.theverge.com/2024/8/24/24226829/sonos-era-100-move-2-smart-speaker-apple-pencil-deal-sale)<!-- TECH:END -->
+ - [Midjourney CEO David Holz says anyone can now generate AI images on its website; previously, the site was limited to users who generated 10K+ images on Discord &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/240824/p4#a240824p4)
+ - [Nectar Mattress Review: A Contouring Memory Foam Bed for Those on a Budget](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CAD590a51e)
+ - [How to Switch From iPhone to Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
- - 😝 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)
- - 💣 [Onsen trips with in-laws](http://9gag.com/gag/a6ZbpX8)
- - 😝 [Lol](http://9gag.com/gag/a9yr86L)
- - 👉 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)<!-- MEMES:END -->
+ - 😝 [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
+ - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 💣 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 👉 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)<!-- MEMES:END -->
 
 ---
 

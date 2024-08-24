@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google’s Satellite eSOS Works During Emergencies on the Pixel 9](https://www.wired.com/story/google-pixel-9-satellite-esos-emergency-messaging/)
- - [Your Guide to Surviving Extreme Weather](https://www.wired.com/story/your-guide-to-surviving-extreme-weather-flooding-hurricanes-wildfires-heat/)
- - [The US Navy Has Run Out of Pants](https://www.wired.com/story/the-us-navy-has-run-out-of-pants/)
- - [Best Phones Under $300 in 2024](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Check if Your Social Security Number Is Included in the National Public Data Breach](https://www.cnet.com/personal-finance/check-if-your-social-security-number-is-included-in-the-national-public-data-breach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)
+ - [Will the ‘Car-Free’ Los Angeles Olympics Work?](https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/)
+ - [Cash App Settlement: How to File a Claim Online for $2,500 Payout](https://www.cnet.com/personal-finance/cash-app-settlement-how-to-file-a-claim-online-for-2500-payout/#ftag=CAD590a51e)
+ - [WatchOS 11: Don&#39;t Wait Until the Fall. Try Out These Apple Watch Features Now](https://www.cnet.com/tech/mobile/watchos-11-dont-wait-until-the-fall-try-out-these-apple-watch-features-now/#ftag=CAD590a51e)
+ - [How Google’s Satellite eSOS Works During Emergencies on the Pixel 9](https://www.wired.com/story/google-pixel-9-satellite-esos-emergency-messaging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

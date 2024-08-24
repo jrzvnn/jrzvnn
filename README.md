@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Navy Has Run Out of Pants](https://www.wired.com/story/the-us-navy-has-run-out-of-pants/)
+ - [You Can Use the Back of Your iPhone as a Multipurpose Button. Here&#39;s How](https://www.cnet.com/tech/you-can-use-the-back-of-your-iphone-as-a-multipurpose-button-heres-how/#ftag=CAD590a51e)
  - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)
  - [A look at China&#39;s humanoids market, after the city of Beijing launched a $1.4B robotics fund in January and Shanghai announced in July plans for a $1.4B fund &lpar;Reuters&rpar;](http://www.techmeme.com/240824/p2#a240824p2)
- - [Best Google Pixel Deals: Pixel 9 Brings Price Drops on Older Pixel Phones](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Cheapest Meal Delivery Services of 2024](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Pixel 9 Brings Price Drops on Older Pixel Phones](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

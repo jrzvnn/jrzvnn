@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [WazirX plans to start allowing limited Indian rupee withdrawals in two phases from August 26, after freezing them in the wake of a $230M exploit in July &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240824/p1#a240824p1)
  - [The US DOJ sues Georgia Tech and an affiliate company, alleging failures since at least 2019 to meet the DOD&#39;s cybersecurity standards for contract awardees &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240823/p20#a240823p20)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 24 #440](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-24-440/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 24, #1162](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-24-1162/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 24, #174](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-24-174/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)
+ - [Some streamers say the Chinese game studio behind Black Myth: Wukong told them to avoid topics like &quot;feminist propaganda&quot; as part of an early access agreement &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240823/p19#a240823p19)
+ - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 💣 [`I Understand His Choices`](http://9gag.com/gag/aD2WXYZ)
- - 😝 [An unforgettable moment from Barcelona 1992 Opening Ceremony](http://9gag.com/gag/aAyd4WL)
- - 👉 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)<!-- MEMES:END -->
+ - 😝 [The whole thing](http://9gag.com/gag/aVvq2XP)
+ - 😝 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
+ - 💣 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 👉 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)<!-- MEMES:END -->
 
 ---
 

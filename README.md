@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Put the Saatva Classic Mattress &lpar;and Our Marriage&rpar; to the Test for 30 Nights](https://www.cnet.com/health/sleep/we-put-the-saatva-classic-mattress-and-our-marriage-to-the-test-for-30-nights/#ftag=CAD590a51e)
  - [How to Clean Your Home Naturally With Lemons: 7 Helpful Tips](https://www.cnet.com/how-to/how-to-clean-your-home-naturally-with-lemons-7-helpful-tips/#ftag=CAD590a51e)
  - [A look at Germany-based discount retailer Lidl&#39;s foray into offering cloud computing services, signing up clients like SAP and generating &amp;euro;1.9B in sales in 2023 &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240824/p6#a240824p6)
  - [Score This Travelhouse 3-Piece Hardside Luggage Set for a Massive Discount of $280 at Walmart](https://www.cnet.com/deals/score-this-travelhouse-3-piece-hardside-luggage-set-for-a-massive-discount-of-280-at-walmart/#ftag=CAD590a51e)
- - [Skip Counting Sheep. This New Sleep Hack You&#39;ve Never Heard of Can Put You Right to Sleep](https://www.cnet.com/health/sleep/skip-counting-sheep-this-new-sleep-hack-youve-never-heard-of-can-put-you-right-to-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Skip Counting Sheep. This New Sleep Hack You&#39;ve Never Heard of Can Put You Right to Sleep](https://www.cnet.com/health/sleep/skip-counting-sheep-this-new-sleep-hack-youve-never-heard-of-can-put-you-right-to-sleep/#ftag=CAD590a51e)
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

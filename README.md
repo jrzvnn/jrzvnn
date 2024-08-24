@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French authorities reportedly arrest Telegram’s CEO](https://www.theverge.com/2024/8/24/24227672/telegram-ceo-pavel-durov-arrested-ceo)
+ - [French authorities arrest Telegram’s CEO](https://www.theverge.com/2024/8/24/24227672/telegram-ceo-pavel-durov-arrested-ceo)
  - [Reports: Telegram CEO Pavel Durov was arrested at the Bourget airport outside Paris on Saturday evening, after being targeted by an arrest warrant in France &lpar;Reuters&rpar;](http://www.techmeme.com/240824/p7#a240824p7)
  - [Canoo is down to one co-founder as its CTO reportedly leaves](https://www.theverge.com/2024/8/24/24227609/canoo-ev-startup-cto-sohel-merchant-founder)
  - [&#39;Ted Lasso&#39; season 4 is showing signs of life](https://appleinsider.com/articles/24/08/24/ted-lasso-season-4-is-showing-signs-of-life?utm_medium=rss)

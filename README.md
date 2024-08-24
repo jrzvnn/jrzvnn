@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother reunites with her son after she got the call he regained consciousness after spending 16 days in a coma](http://9gag.com/gag/aVvqmpv)
- - 😝 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
- - 💣 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
+ - 😝 [Very interesting](http://9gag.com/gag/adB7oBD)
+ - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
+ - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
  - 😝 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)<!-- MEMES:END -->
+ - 👉 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)<!-- MEMES:END -->
 
 ---
 

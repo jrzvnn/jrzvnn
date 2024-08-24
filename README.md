@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Germany-based discount retailer Lidl&#39;s foray into offering cloud computing services, signing up clients like SAP and making &amp;euro;1.9B in 2023 annual sales &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240824/p6#a240824p6)
- - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)
+ - [A look at Germany-based discount retailer Lidl&#39;s foray into offering cloud computing services, signing up clients like SAP and generating &amp;euro;1.9B in sales in 2023 &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240824/p6#a240824p6)
  - [7 Best Handheld Gaming Consoles &lpar;2024&rpar;: Switch, Steam Deck, and More](https://www.wired.com/gallery/best-gaming-handhelds/)
- - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)<!-- TECH:END -->
+ - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)
+ - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-missouri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

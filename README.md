@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Sonos Era 100 speaker is 20 percent off in the run-up to Labor Day](https://www.theverge.com/2024/8/24/24226829/sonos-era-100-move-2-smart-speaker-apple-pencil-deal-sale)
  - [The Shokz OpenFit Air would’ve been perfect if not for my glasses](https://www.theverge.com/24221155/shokz-openfit-air-open-earbuds-fitness-wearables)
+ - [3 Anti-Aging Exercises That Will Keep You Fit as You Age](https://www.cnet.com/health/fitness/anti-aging-exercises/#ftag=CAD590a51e)
  - [A profile of TollBit, which has raised $7M and aims to create a marketplace where AI companies can pay publishers for their content on an ongoing basis &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240824/p3#a240824p3)
- - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)
- - [Will the ‘Car-Free’ Los Angeles Olympics Work?](https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/)<!-- TECH:END -->
+ - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

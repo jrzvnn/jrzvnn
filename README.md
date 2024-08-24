@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ sues Georgia Tech and an affiliate company, alleging failures since at least 2019 to meet the DOD&#39;s cybersecurity standards for contract awardees &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240823/p20#a240823p20)
  - [Some streamers say the Chinese game studio behind Black Myth: Wukong told them to avoid topics like &quot;feminist propaganda&quot; as part of an early access agreement &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240823/p19#a240823p19)
  - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)
  - [USPS Will Start Shipping Free COVID Tests Again in September. What You Need to Know](https://www.cnet.com/health/usps-will-start-shipping-free-covid-tests-again-in-september-what-you-need-to-know/#ftag=CAD590a51e)
- - [Flummoxed by AI at Work? This Startup Sees a Way to Change That](https://www.cnet.com/tech/services-and-software/flummoxed-by-ai-at-work-this-startup-sees-a-way-to-change-that/#ftag=CAD590a51e)
- - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flummoxed by AI at Work? This Startup Sees a Way to Change That](https://www.cnet.com/tech/services-and-software/flummoxed-by-ai-at-work-this-startup-sees-a-way-to-change-that/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

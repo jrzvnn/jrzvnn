@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 😝 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)
- - 💣 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
  - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 👉 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)<!-- MEMES:END -->
+ - 💣 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---
 

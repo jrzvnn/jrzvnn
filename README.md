@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - 😝 [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
- - 💣 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 👉 [Mens Kryptonite](http://9gag.com/gag/aYQx1m0)<!-- MEMES:END -->
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)
+ - 😝 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
+ - 💣 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
+ - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)<!-- MEMES:END -->
 
 ---
 

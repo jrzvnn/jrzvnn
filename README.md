@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)
- - 😝 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
- - 💣 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 😝 [Cavillerine](http://9gag.com/gag/amoYM6X)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)<!-- MEMES:END -->
+ - 😝 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
+ - 💣 [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
+ - 😝 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
+ - 👉 [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)<!-- MEMES:END -->
 
 ---
 

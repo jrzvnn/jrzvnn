@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pokémon’s first 22 seasons are getting their own FAST channel](https://www.theverge.com/2024/8/24/24227429/pokemon-first-22-seasons-fast-channel)
  - [An interview with Nomad List and Photo AI founder Pieter Levels, aka @levelsio on X, on launching 12 startups in 12 months, the digital nomad life, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/240824/p5#a240824p5)
  - [August&#39;s Last Social Security Check Is on the Way. Here&#39;s When You&#39;ll Get It](https://www.cnet.com/personal-finance/augusts-last-social-security-check-is-on-the-way-heres-when-youll-get-it/#ftag=CAD590a51e)
  - [Google Wallet now works for California driver’s licenses](https://www.theverge.com/2024/8/24/24227385/california-google-wallet-digital-ids-mobile-drivers-license-pilot)
- - [Meta cancels its headset rival to Apple Vision Pro](https://appleinsider.com/articles/24/08/24/meta-cancels-its-headset-rival-to-apple-vision-pro?utm_medium=rss)
- - [Midjourney CEO David Holz says anyone can now generate AI images on its website; previously, the site was limited to users who generated 10K+ images on Discord &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/240824/p4#a240824p4)<!-- TECH:END -->
+ - [Meta cancels its headset rival to Apple Vision Pro](https://appleinsider.com/articles/24/08/24/meta-cancels-its-headset-rival-to-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

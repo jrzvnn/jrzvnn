@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
- - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 😝 [A turk who threatened people with a knife on a train in Germany mocked the police and made the `Grey Wolf` sign before being detained](http://9gag.com/gag/ae9bWLO)
  - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
  - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
  - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->

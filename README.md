@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
  - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 💣 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 👉 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)<!-- MEMES:END -->
+ - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
+ - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
+ - 👉 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)<!-- MEMES:END -->
 
 ---
 

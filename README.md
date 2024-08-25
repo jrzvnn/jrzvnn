@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
- - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 👉 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)<!-- MEMES:END -->
+ - 😝 [Before the syrian terrorist turned himself in, the leading parties in germany collectively posted their usual bullshit on social media again.](http://9gag.com/gag/aqybpPL)
+ - 😝 [In case you don&#39;t know, sweet baby inc tried to extort Black Myth Wukong Devs to pay them $7 million to `fix` their `problematic` game.](http://9gag.com/gag/a34qW27)
+ - 💣 [Tinder picture vs real world](http://9gag.com/gag/azx8D8q)
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 👉 [Syrian, refugee, came to Germany in 2022. Living in a refugee home on welfare. At one point he got the signal from his ISIS superior and he went out and randomly killed and injured people. How many are still hiding?](http://9gag.com/gag/aNDA2G3)<!-- MEMES:END -->
 
 ---
 

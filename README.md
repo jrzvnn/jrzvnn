@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Hoodies for Style, Comfort, and Warmth](https://www.wired.com/gallery/best-hoodies/)
+ - [An excerpt from the book Character Limit details the chaotic revamp of Twitter Blue, including Elon Musk&#39;s haphazard planning and Esther Crawford&#39;s involvement &lpar;New York Times&rpar;](http://www.techmeme.com/240825/p2#a240825p2)
+ - [The Quantum Mechanics of the Greenhouse Effect](https://www.wired.com/story/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect/)
  - [14 Best Outdoor Security Cameras &lpar;2024&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
- - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)
- - [The problem with Xbox&#39;s new vision isn&#39;t that it&#39;s moving away from console-exclusive games, but that its release strategy is confusing and inconsistent &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240825/p1#a240825p1)<!-- TECH:END -->
+ - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

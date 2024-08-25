@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
  - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 💣 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
+ - 😝 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
  - 👉 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)<!-- MEMES:END -->
 
 ---

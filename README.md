@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartphone photos of the year](https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer)
  - [‘Unprecedented Times’ Is the New Normal](https://www.wired.com/story/unprecedented-times-is-our-new-normal/)
  - [14 Best Hoodies for Style, Comfort, and Warmth](https://www.wired.com/gallery/best-hoodies/)
  - [I&#39;ve Used iOS 18 Since June, and Here Are My Thoughts on the Public Beta](https://www.cnet.com/tech/services-and-software/ive-used-ios-18-since-june-and-here-are-my-thoughts-on-the-public-beta/#ftag=CAD590a51e)
- - [An excerpt from the book Character Limit details the chaotic revamp of Twitter Blue, including Elon Musk&#39;s haphazard planning and Esther Crawford&#39;s involvement &lpar;New York Times&rpar;](http://www.techmeme.com/240825/p2#a240825p2)
- - [Camera Clash: We Put the iPhone 15 Pro Max Against the Galaxy S24 Ultra](https://www.cnet.com/tech/mobile/camera-clash-we-put-the-iphone-15-pro-max-against-the-galaxy-s24-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An excerpt from the book Character Limit details the chaotic revamp of Twitter Blue, including Elon Musk&#39;s haphazard planning and Esther Crawford&#39;s involvement &lpar;New York Times&rpar;](http://www.techmeme.com/240825/p2#a240825p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

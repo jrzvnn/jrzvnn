@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 😝 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)
- - 💣 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
- - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
- - 👉 [If you sleep in the afternoon](http://9gag.com/gag/aMV8vRW)<!-- MEMES:END -->
+ - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
+ - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 💣 [Wtf](http://9gag.com/gag/a6ZbjVe)
+ - 😝 [Kojima be like, posts an image, refuses to elaborate, leaves](http://9gag.com/gag/aAydZ0Z)
+ - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
 
 ---
 

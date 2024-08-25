@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
- - 💣 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 😝 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
- - 👉 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)<!-- MEMES:END -->
+ - 😝 [Copper pipe insulation fitting.](http://9gag.com/gag/ae9bP4Q)
+ - 😝 [Isn&#39;t it interesting how politicians love this people so much?](http://9gag.com/gag/aKGVng1)
+ - 💣 [The good old days](http://9gag.com/gag/aYQxn9V)
+ - 😝 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - 👉 [Regulated osha screeching](http://9gag.com/gag/avyGXYn)<!-- MEMES:END -->
 
 ---
 

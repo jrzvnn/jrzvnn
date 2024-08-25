@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 💣 [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 😝 [Kojima be like, posts an image, refuses to elaborate, leaves](http://9gag.com/gag/aAydZ0Z)
- - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
+ - 👉 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)<!-- MEMES:END -->
 
 ---
 

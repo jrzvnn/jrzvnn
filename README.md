@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
- - 😝 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
- - 💣 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
  - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
+ - 💣 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 👉 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 😝 [Shits on fire](http://9gag.com/gag/aZZmvb9)
- - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 👉 [Afghan records himself pretending to be friends with a german kid and then bashes his head in with a glass bottle on camera and mocks him as he lays writhing on the ground. This is Germany](http://9gag.com/gag/ayNDmpW)<!-- MEMES:END -->
+ - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - 😝 [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - 💣 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 😝 [Afghan records himself pretending to be friends with a german kid and then bashes his head in with a glass bottle on camera and mocks him as he lays writhing on the ground. This is Germany](http://9gag.com/gag/ayNDmpW)
+ - 👉 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
 
 ---
 

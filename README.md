@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 😝 [Be glad he paid the fair](http://9gag.com/gag/a7orPVw)
- - 💣 [Hmmm I wonder why this is. Anyone a guess?](http://9gag.com/gag/aO8zA7D)
- - 😝 [Friday night!](http://9gag.com/gag/aO8zA2y)
- - 👉 [From the archives](http://9gag.com/gag/a34qeGv)<!-- MEMES:END -->
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 💣 [Wake up kids.. NASA just dropped the JWST images of the M51-Galaxy for the first time ever..](http://9gag.com/gag/aqybDgZ)
+ - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
+ - 👉 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 😝 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
- - 👉 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)<!-- MEMES:END -->
+ - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
+ - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---
 

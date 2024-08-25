@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
  - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
  - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
  - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
+ - 👉 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)<!-- MEMES:END -->
 
 ---
 

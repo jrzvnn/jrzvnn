@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 😝 [Play stupid games, win stupid prizes.](http://9gag.com/gag/aKGVLn6)
- - 💣 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
- - 👉 [Another obvious reason](http://9gag.com/gag/awynvjB)<!-- MEMES:END -->
+ - 😝 [Be glad he paid the fair](http://9gag.com/gag/a7orPVw)
+ - 😝 [Britain would like to announce no horn tooting allowed](http://9gag.com/gag/aZZm43W)
+ - 💣 [Friday night!](http://9gag.com/gag/aO8zA2y)
+ - 😝 [This man&lpar;Maker Y&rpar; created a device that requires 20 push ups to turn on the Computer.](http://9gag.com/gag/azx8v5N)
+ - 👉 [My life is miserable man. Every day is a struggle to make it to bed, just so I can do it again the next day. His mom left when he was less than a year old because she didn&#39;t want the responsibility. She has had no contact, and I&#39;ve had to do it alone since then. It&#39;s been hell...](http://9gag.com/gag/a2vrjDO)<!-- MEMES:END -->
 
 ---
 

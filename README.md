@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 💣 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
+ - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
  - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 👉 [Clean the germs out the circuitry](http://9gag.com/gag/a7orn7b)<!-- MEMES:END -->
+ - 👉 [Another obvious reason](http://9gag.com/gag/awynvjB)<!-- MEMES:END -->
 
 ---
 

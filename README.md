@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 😝 [The good old days](http://9gag.com/gag/aYQxn9V)
- - 💣 [Regulated osha screeching](http://9gag.com/gag/avyGXYn)
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 👉 [80s will never come back...](http://9gag.com/gag/aPABdNB)<!-- MEMES:END -->
+ - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
+ - 💣 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 👉 [Wtf](http://9gag.com/gag/a6ZbjVe)<!-- MEMES:END -->
 
 ---
 

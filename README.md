@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [Syrian, refugee, came to Germany in 2022. Living in a refugee home on welfare. At one point he got the signal from his ISIS superior and he went out and randomly killed and injured people. How many are still hiding?](http://9gag.com/gag/aNDA2G3)
  - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
  - 💣 [In case you don&#39;t know, sweet baby inc tried to extort Black Myth Wukong Devs to pay them $7 million to `fix` their `problematic` game.](http://9gag.com/gag/a34qW27)
  - 😝 [Tinder picture vs real world](http://9gag.com/gag/azx8D8q)

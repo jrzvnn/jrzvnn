@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 💣 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 😝 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)
+ - 💣 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
  - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
- - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
+ - 👉 [If you sleep in the afternoon](http://9gag.com/gag/aMV8vRW)<!-- MEMES:END -->
 
 ---
 

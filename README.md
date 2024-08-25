@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 25 #441](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-25-441/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 25, #1163](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-25-1163/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25, #175](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-175/#ftag=CAD590a51e)
- - [Astronauts Stranded in Space: What to Know, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-what-to-know-when-theyll-be-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Keurig Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

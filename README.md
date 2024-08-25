@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Formula 1’s new gyro camera adds a Dutch angle to the Dutch Grand Prix](https://www.theverge.com/2024/8/25/24228247/formula-1-f1-gyro-camera-dutch-grand-prix-zandvoort)
  - [A look at Telegram&#39;s claims that it&#39;s a &quot;secure messenger&quot; despite lacking default end-to-end encrypted messages and any E2E encrypted option for group chats &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/240825/p7#a240825p7)
- - [Telegram says its CEO Pavel Durov has &quot;nothing to hide&quot; and that the messaging app &quot;abides by EU laws&quot;, including the Digital Services Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240825/p6#a240825p6)
- - [Pavel Durov&#39;s Arrest Leaves Telegram Hanging in the Balance](https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/)
- - [Star Wars Outlaws Could Be The &quot;Matinee Action&quot; Adventure Fans Have Waited For](https://www.cnet.com/tech/gaming/star-wars-outlaws-could-be-the-matinee-action-adventure-fans-have-waited-for/#ftag=CAD590a51e)
- - [&amp;#9878;&amp;#65039; Telegram abides by EU laws, including the Digital Services Act - its moderation is within industry standards and constantly improving.  &amp;#9992;&amp;#65039; Telegram&#39;s CEO Pavel Durov has nothing to hide and travels frequently in Europe.  &amp;#128565;&amp;zwj;&amp;#128171; It is absurd to claim that a platform or its owner are responsible for abuse of that platform.  &amp;#127760; Almost a billion users globally use Telegram as means of communication and as a source of vital information.  &amp;#128153; We&#39;re awaiting a prompt resolution of this situation.  Telegram is with you all. &lpar;@telegram&rpar;](http://www.techmeme.com/240825/p5#a240825p5)<!-- TECH:END -->
+ - [Best Internet Providers in New Orleans, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-new-orleans-la/#ftag=CAD590a51e)
+ - [Best Internet Providers in Plymouth, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-plymouth-mn/#ftag=CAD590a51e)
+ - [Telegram says its CEO Pavel Durov has &quot;nothing to hide&quot; and that the messaging app &quot;abides by EU laws&quot;, including the Digital Services Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240825/p6#a240825p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

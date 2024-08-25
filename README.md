@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Unprecedented Times’ Is the New Normal](https://www.wired.com/story/unprecedented-times-is-our-new-normal/)
  - [14 Best Hoodies for Style, Comfort, and Warmth](https://www.wired.com/gallery/best-hoodies/)
  - [An excerpt from the book Character Limit details the chaotic revamp of Twitter Blue, including Elon Musk&#39;s haphazard planning and Esther Crawford&#39;s involvement &lpar;New York Times&rpar;](http://www.techmeme.com/240825/p2#a240825p2)
  - [The Quantum Mechanics of the Greenhouse Effect](https://www.wired.com/story/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect/)
- - [14 Best Outdoor Security Cameras &lpar;2024&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Outdoor Security Cameras &lpar;2024&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

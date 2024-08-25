@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snaxx Time](http://9gag.com/gag/ajPXy48)
- - 😝 [Another obvious reason](http://9gag.com/gag/awynvjB)
- - 💣 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
- - 😝 [Shits on fire](http://9gag.com/gag/aZZmvb9)
- - 👉 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)<!-- MEMES:END -->
+ - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
+ - 😝 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
+ - 💣 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
 
 ---
 

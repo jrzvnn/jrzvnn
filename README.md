@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 💣 [Wake up kids.. NASA just dropped the JWST images of the M51-Galaxy for the first time ever..](http://9gag.com/gag/aqybDgZ)
- - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 👉 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)<!-- MEMES:END -->
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Shits on fire](http://9gag.com/gag/aZZmvb9)
+ - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 👉 [Afghan records himself pretending to be friends with a german kid and then bashes his head in with a glass bottle on camera and mocks him as he lays writhing on the ground. This is Germany](http://9gag.com/gag/ayNDmpW)<!-- MEMES:END -->
 
 ---
 

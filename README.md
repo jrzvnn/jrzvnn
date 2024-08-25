@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Tennis Swing Needs Work. This AI Startup Wants to Help](https://www.cnet.com/tech/services-and-software/your-tennis-swing-needs-work-this-ai-startup-wants-to-help/#ftag=CAD590a51e)
  - [Best Internet Providers in Phoenix](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)
  - [How prominent games accessibility advocate Susan Banks, who worked with studios and raised awareness for accessibility in games, may never have existed at all &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/240825/p4#a240825p4)
  - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
- - [Best Coffee Grinders for 2024: Oxo, Baratza, Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)
- - [Best Smart Garage Door Opener of 2024](https://www.cnet.com/home/smart-home/best-smart-garage-door-opener-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Coffee Grinders for 2024: Oxo, Baratza, Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

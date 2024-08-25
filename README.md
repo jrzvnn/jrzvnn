@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
+ - 😝 [European lives matter!](http://9gag.com/gag/a0ebWdn)
+ - 😝 [80s will never come back...](http://9gag.com/gag/aPABdNB)
+ - 💣 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 😝 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - 👉 [Reliability](http://9gag.com/gag/a0ebW2O)<!-- MEMES:END -->
 
 ---
 

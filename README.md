@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yes, the Secret Weapon for Losing Weight Is Strength Training](https://www.cnet.com/health/fitness/yes-weightlifting-will-help-you-lose-weight/#ftag=CAD590a51e)
+ - [Best Stores for Buying Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
+ - [Best Internet Providers in Modesto, California](https://www.cnet.com/home/internet/best-internet-providers-in-modesto-ca/#ftag=CAD590a51e)
  - [Klaris Clear Ice Maker Review: A Worthy Investment to Up Your Home Bartending Game](https://www.wired.com/review/review-klaris-clear-ice-maker/)
- - [Best Internet Providers in Murray, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-murray-ut/#ftag=CAD590a51e)
- - [A look at Apple&#39;s robotics efforts; sources: Meta will unveil prototype &quot;Orion&quot; AR glasses, a cheaper Quest, and new AI features for Ray-Ban Meta at Connect &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240825/p3#a240825p3)
- - [Best VPN for Your Smart TV](https://www.cnet.com/tech/services-and-software/best-vpn-for-smart-tv/#ftag=CAD590a51e)
- - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for School Wi-Fi in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-school-wi-fi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

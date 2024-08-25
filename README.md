@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s in a productivity system?](https://www.theverge.com/24226646/productivity-tools-tips-tricks-vergecast)
  - [First-world problems drives Apple&#39;s robotics development](https://appleinsider.com/articles/24/08/25/first-world-problems-drives-apples-robotics-development?utm_medium=rss)
  - [Best Family Games for 2024](https://www.cnet.com/culture/entertainment/10-best-family-board-games/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Liverpool vs. Brentford From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-brentford-from-anywhere/#ftag=CAD590a51e)
- - [How to Use the Add Me Feature on Pixel 9 Phones](https://www.cnet.com/tech/mobile/how-to-use-the-add-me-feature-on-pixel-9-phones/#ftag=CAD590a51e)
- - [Perimenopause Starts Years Before Menopause: Here&#39;s What to know](https://www.cnet.com/health/medical/perimenopause-starts-years-before-menopause-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use the Add Me Feature on Pixel 9 Phones](https://www.cnet.com/tech/mobile/how-to-use-the-add-me-feature-on-pixel-9-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
- - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
+ - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 💣 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
  - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 👉 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)<!-- MEMES:END -->
+ - 👉 [Clean the germs out the circuitry](http://9gag.com/gag/a7orn7b)<!-- MEMES:END -->
 
 ---
 

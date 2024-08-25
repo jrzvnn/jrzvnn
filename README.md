@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip!](http://9gag.com/gag/aZZmd10)
- - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 💣 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
- - 👉 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)<!-- MEMES:END -->
+ - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 💣 [Clean the germs out the circuitry](http://9gag.com/gag/a7orn7b)
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---
 

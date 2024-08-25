@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
  - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 😝 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
- - 👉 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
+ - 😝 [Be glad he paid the fair](http://9gag.com/gag/a7orPVw)
+ - 💣 [Hmmm I wonder why this is. Anyone a guess?](http://9gag.com/gag/aO8zA7D)
+ - 😝 [Friday night!](http://9gag.com/gag/aO8zA2y)
+ - 👉 [From the archives](http://9gag.com/gag/a34qeGv)<!-- MEMES:END -->
 
 ---
 

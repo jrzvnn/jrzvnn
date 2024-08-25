@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
- - 💣 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
  - 😝 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)
- - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
+ - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
+ - 💣 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
+ - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 👉 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)<!-- MEMES:END -->
 
 ---
 

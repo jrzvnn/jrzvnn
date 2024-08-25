@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
  - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 😝 [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
- - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 💣 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
  - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 👉 [Another obvious reason](http://9gag.com/gag/awynvjB)<!-- MEMES:END -->
+ - 👉 [Reliability](http://9gag.com/gag/a0ebW2O)<!-- MEMES:END -->
 
 ---
 

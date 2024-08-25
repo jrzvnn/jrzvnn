@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Astronauts Stranded in Space: What to Know, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-what-to-know-when-theyll-be-home/#ftag=CAD590a51e)
+ - [Threads says it is testing ephemeral posts that disappear within 24 hours with a limited number of users, but doesn&#39;t say if the experiment is region-specific &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240824/p8#a240824p8)
  - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
- - [French authorities arrest Telegram’s CEO](https://www.theverge.com/2024/8/24/24227672/telegram-ceo-pavel-durov-arrested-ceo)
- - [Reports: Telegram CEO Pavel Durov was arrested at the Bourget airport outside Paris on Saturday evening, after being targeted by an arrest warrant in France &lpar;Reuters&rpar;](http://www.techmeme.com/240824/p7#a240824p7)
- - [Canoo is down to one co-founder as its CTO reportedly leaves](https://www.theverge.com/2024/8/24/24227609/canoo-ev-startup-cto-sohel-merchant-founder)
- - [&#39;Ted Lasso&#39; season 4 is showing signs of life](https://appleinsider.com/articles/24/08/24/ted-lasso-season-4-is-showing-signs-of-life?utm_medium=rss)<!-- TECH:END -->
+ - [Paramount Plus Review: Nostalgia-Rich Streaming Service That Can’t Beat Netflix](https://www.cnet.com/tech/services-and-software/paramount-plus-review/#ftag=CAD590a51e)
+ - [Polish Your Emails With Google&#39;s Exclusive New Gemini AI Features](https://www.cnet.com/tech/services-and-software/polish-your-emails-with-googles-new-exclusive-gemini-ai-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

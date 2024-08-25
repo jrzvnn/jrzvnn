@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
  - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
- - 💣 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
+ - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
  - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 👉 [Wtf](http://9gag.com/gag/a6ZbjVe)<!-- MEMES:END -->
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---
 

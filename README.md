@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
- - 😝 [Play stupid games, win stupid prizes.](http://9gag.com/gag/aKGVLn6)
- - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 😝 [Tinder picture vs real world](http://9gag.com/gag/azx8D8q)
- - 👉 [A call for `jihad` was made in front of the cathedral in Germany.](http://9gag.com/gag/aPABp3V)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
+ - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 💣 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 😝 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
+ - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
 
 ---
 

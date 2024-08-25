@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
- - 😝 [A turk who threatened people with a knife on a train in Germany mocked the police and made the `Grey Wolf` sign before being detained](http://9gag.com/gag/ae9bWLO)
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
  - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 😝 [Rip!](http://9gag.com/gag/aZZmd10)
  - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---

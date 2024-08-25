@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
  - 😝 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
- - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 💣 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 😝 [9GAG comment section?](http://9gag.com/gag/axyVn7D)
- - 👉 [Reliability](http://9gag.com/gag/a0ebW2O)<!-- MEMES:END -->
+ - 👉 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How prominent games accessibility advocate Susan Banks, who worked with studios and raised awareness for accessibility in games, may never have existed at all &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/240825/p4#a240825p4)
+ - [Best Coffee Grinders for 2024: Oxo, Baratza, Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)
+ - [Best Smart Garage Door Opener of 2024](https://www.cnet.com/home/smart-home/best-smart-garage-door-opener-controller/#ftag=CAD590a51e)
  - [Samsung Odyssey G6 OLED Review: More Frames Than Your Eye Can Handle](https://www.wired.com/review/samsung-odyssey-g6-oled-gaming-monitor/)
- - [AI was responsible for the fake quotes in the Megalopolis trailer](https://www.theverge.com/2024/8/25/24228003/megalopolis-trailer-fake-quotes-ai-generated-eddie-egan-dropped-lionsgate)
- - [Best VPS Hosting for 2024](https://www.cnet.com/tech/services-and-software/best-vps-hosting/#ftag=CAD590a51e)
- - [Yes, the Secret Weapon for Losing Weight Is Strength Training](https://www.cnet.com/health/fitness/yes-weightlifting-will-help-you-lose-weight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

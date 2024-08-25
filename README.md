@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
- - 😝 [World synchronized swimming champion Kristina Makushenko replicates the &lpar;in&rpar;famous RayGun tricks in France at the 2024 Summer Olympics games](http://9gag.com/gag/aLnDryV)
- - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
  - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
- - 👉 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)<!-- MEMES:END -->
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 💣 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---
 

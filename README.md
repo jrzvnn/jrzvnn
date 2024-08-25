@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [First-world problems drives Apple&#39;s robotics development](https://appleinsider.com/articles/24/08/25/first-world-problems-drives-apples-robotics-development?utm_medium=rss)
- - [The best smartphone photos of the year](https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer)
- - [‘Unprecedented Times’ Is the New Normal](https://www.wired.com/story/unprecedented-times-is-our-new-normal/)
- - [14 Best Hoodies for Style, Comfort, and Warmth](https://www.wired.com/gallery/best-hoodies/)
- - [I&#39;ve Used iOS 18 Since June, and Here Are My Thoughts on the Public Beta](https://www.cnet.com/tech/services-and-software/ive-used-ios-18-since-june-and-here-are-my-thoughts-on-the-public-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Family Games for 2024](https://www.cnet.com/culture/entertainment/10-best-family-board-games/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Liverpool vs. Brentford From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-brentford-from-anywhere/#ftag=CAD590a51e)
+ - [How to Use the Add Me Feature on Pixel 9 Phones](https://www.cnet.com/tech/mobile/how-to-use-the-add-me-feature-on-pixel-9-phones/#ftag=CAD590a51e)
+ - [Perimenopause Starts Years Before Menopause: Here&#39;s What to know](https://www.cnet.com/health/medical/perimenopause-starts-years-before-menopause-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

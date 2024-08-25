@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Copper pipe insulation fitting.](http://9gag.com/gag/ae9bP4Q)
- - 😝 [Isn&#39;t it interesting how politicians love this people so much?](http://9gag.com/gag/aKGVng1)
- - 💣 [The good old days](http://9gag.com/gag/aYQxn9V)
- - 😝 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
- - 👉 [Regulated osha screeching](http://9gag.com/gag/avyGXYn)<!-- MEMES:END -->
+ - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 😝 [The good old days](http://9gag.com/gag/aYQxn9V)
+ - 💣 [Regulated osha screeching](http://9gag.com/gag/avyGXYn)
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 👉 [80s will never come back...](http://9gag.com/gag/aPABdNB)<!-- MEMES:END -->
 
 ---
 

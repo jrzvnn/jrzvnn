@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some San Francisco city officials say they&#39;re not lamenting X&#39;s departure from the city, as X bears little resemblance to the company that SF welcomed in 2012 &lpar;New York Times&rpar;](http://www.techmeme.com/240824/p9#a240824p9)
  - [Astronauts Stranded in Space: What to Know, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-what-to-know-when-theyll-be-home/#ftag=CAD590a51e)
  - [Threads says it is testing ephemeral posts that disappear within 24 hours with a limited number of users, but doesn&#39;t say if the experiment is region-specific &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240824/p8#a240824p8)
  - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
- - [Paramount Plus Review: Nostalgia-Rich Streaming Service That Can’t Beat Netflix](https://www.cnet.com/tech/services-and-software/paramount-plus-review/#ftag=CAD590a51e)
- - [Polish Your Emails With Google&#39;s Exclusive New Gemini AI Features](https://www.cnet.com/tech/services-and-software/polish-your-emails-with-googles-new-exclusive-gemini-ai-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paramount Plus Review: Nostalgia-Rich Streaming Service That Can’t Beat Netflix](https://www.cnet.com/tech/services-and-software/paramount-plus-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

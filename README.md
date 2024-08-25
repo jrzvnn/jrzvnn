@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Syrian, refugee, came to Germany in 2022. Living in a refugee home on welfare. At one point he got the signal from his ISIS superior and he went out and randomly killed and injured people. How many are still hiding?](http://9gag.com/gag/aNDA2G3)
- - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
- - 💣 [In case you don&#39;t know, sweet baby inc tried to extort Black Myth Wukong Devs to pay them $7 million to `fix` their `problematic` game.](http://9gag.com/gag/a34qW27)
- - 😝 [Tinder picture vs real world](http://9gag.com/gag/azx8D8q)
- - 👉 [Copper pipe insulation fitting.](http://9gag.com/gag/ae9bP4Q)<!-- MEMES:END -->
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 😝 [Wtf](http://9gag.com/gag/a6ZbjVe)
+ - 💣 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
+ - 😝 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 ---
 

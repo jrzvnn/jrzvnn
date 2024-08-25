@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [14 Best Outdoor Security Cameras &lpar;2024&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
  - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
  - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)
- - [The problem with Xbox&#39;s new vision isn&#39;t that it&#39;s moving away from console-exclusive games, but that its release strategy is confusing and inconsistent &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240825/p1#a240825p1)
- - [Some San Francisco city officials say they&#39;re not lamenting X&#39;s departure from the city, as X bears little resemblance to the company that SF welcomed in 2012 &lpar;New York Times&rpar;](http://www.techmeme.com/240824/p9#a240824p9)<!-- TECH:END -->
+ - [The problem with Xbox&#39;s new vision isn&#39;t that it&#39;s moving away from console-exclusive games, but that its release strategy is confusing and inconsistent &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240825/p1#a240825p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

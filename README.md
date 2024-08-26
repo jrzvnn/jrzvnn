@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new budget wireless earbuds give you voice isolation and fast pairing](https://www.theverge.com/2024/8/26/24228905/sony-wireless-earbuds-wf-c510-budget-voice-isolation-transparency)
  - [Best Home Security Systems for Renters in 2024](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
  - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
  - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
- - [Best Early Labor Day Deals &lpar;2024&rpar;: Tablets, Streaming Sticks, and More](https://www.wired.com/story/labor-day-deals-2024/)
- - [Gannett is shuttering site accused of publishing AI product reviews](https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles)<!-- TECH:END -->
+ - [Best Early Labor Day Deals &lpar;2024&rpar;: Tablets, Streaming Sticks, and More](https://www.wired.com/story/labor-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

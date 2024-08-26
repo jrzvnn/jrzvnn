@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 😝 [Almost the same as a smartphone](http://9gag.com/gag/aW4md4q)
- - 💣 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
- - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 👉 [Never start divorce proceedings without leverage,my dudes. The video also gets shown to our teen kids if she makes things difficult.i know it&#39;s a shitty move,but I&#39;m not losing half of my estate.](http://9gag.com/gag/ae9bd6B)<!-- MEMES:END -->
+ - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
+ - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 😝 [Old man trying to switch kids, so his kid can be paired with the popular athlete.](http://9gag.com/gag/azx8v0x)
+ - 👉 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)<!-- MEMES:END -->
 
 ---
 

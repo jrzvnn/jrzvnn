@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
- - 😝 [The... what?](http://9gag.com/gag/aYQxBGv)
- - 💣 [TroIIing them](http://9gag.com/gag/a6Zb49N)
+ - 😝 [Hero dad](http://9gag.com/gag/aZZmV79)
+ - 😝 [Speedy Gonzales on the loose again.](http://9gag.com/gag/a87ynD1)
+ - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
  - 👉 [Has anyone been to Satan&#39;s Anus in Amsterdam?](http://9gag.com/gag/aQz9NM8)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those two are doing well. Fame did not do harm to them](http://9gag.com/gag/aRBmGp5)
- - 😝 [Nerds rejoice, we be happening!](http://9gag.com/gag/an7bZX5)
- - 💣 [100 years ago this would be on every newspaper on the planet and this dude would be in history books. Now it&#39;s just a YouTube short.](http://9gag.com/gag/a0ebGZX)
+ - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 💣 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Instead of b*tching about fans he defends them, Cavill is a gem and deserves much better than the shit studios are putting him thru.](http://9gag.com/gag/a87y9zp)<!-- MEMES:END -->
+ - 👉 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)<!-- MEMES:END -->
 
 ---
 

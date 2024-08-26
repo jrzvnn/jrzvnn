@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gannett is shuttering site accused of publishing AI product reviews](https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles)
+ - [French prosecutors: Pavel Durov&#39;s arrest is part of a probe &quot;against person unnamed&quot; into CSAM, drug sales, and more on the app and not working with authorities &lpar;New York Times&rpar;](http://www.techmeme.com/240826/p20#a240826p20)
  - [D&amp;D publisher walks back controversial changes to online tools](https://www.theverge.com/2024/8/26/24228779/d-and-d-beyond-magic-items-spells-update-d-and-d-2024)
  - [Best MacBook Air M2 Deals: Save With Direct Discounts and Trade-In Deals](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
- - [Best Deals on E-Bikes: Upgrade Your Cycle With These Top Models at Low Prices](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
- - [9 Hard-to-Kill Houseplants That Let You Live Your Life](https://www.cnet.com/news/9-hard-to-kill-houseplants-that-will-let-you-live-your-life/#ftag=CAD590a51e)
- - [Best CD Rates Today -- Lock in a High APY While You Still Can, Aug. 26, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on E-Bikes: Upgrade Your Cycle With These Top Models at Low Prices](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

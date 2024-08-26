@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO Pavel Durov&#39;s Arrest Linked to Sweeping Criminal Investigation](https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/)
+ - [Telegram CEO Pavel Durov’s Arrest Linked to Sweeping Criminal Investigation](https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/)
  - [Apple’s CFO will step down](https://www.theverge.com/2024/8/26/24229078/apple-cfo-luca-maestri-transition-kevan-parekh)
  - [The 32 Best Deals From REI’s 2024 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/)
  - [Best Ways to Keep Your Food Fresh During an Extended Power Outage](https://www.cnet.com/how-to/best-ways-to-keep-your-food-fresh-during-an-extended-power-outage/#ftag=CAD590a51e)

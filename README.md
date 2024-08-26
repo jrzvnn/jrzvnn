@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
- - [Samsung Launches Premiere 7 and Premiere 9 Ultra-Short Throw Projectors](https://www.cnet.com/tech/home-entertainment/samsung-launches-premiere-7-and-premiere-9-ultra-short-throw-projectors/#ftag=CAD590a51e)
- - [Dying Light: The Beast is a Gorgeous and Gory Zombie Parkour Sequel](https://www.cnet.com/tech/gaming/dying-light-the-beast-is-a-gorgeous-and-gory-zombie-parkour-sequel/#ftag=CAD590a51e)
- - [Ted Lasso could come back for a fourth season](https://www.theverge.com/2024/8/26/24228719/ted-lasso-season-4-apple-tv-warner-bros)
- - [The Freezer Will Ruin These 8 Foods](https://www.cnet.com/news/the-freezer-will-ruin-these-8-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple announces a September 9 event at Apple Park with the iPhone 16 lineup, new Apple Watch models, and AirPods 4 expected; the invitation says &quot;It&#39;s Glowtime&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240826/p16#a240826p16)
+ - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)
+ - [Apple’s iPhone 16 launch event is set for September](https://www.theverge.com/2024/8/26/24223957/apple-iphone-16-launch-event-date-glowtime)
+ - [HoverAir X1 Pro and Promax: folding, self-flying 4K and 8K drones with modular controllers](https://www.theverge.com/2024/8/26/24227115/hoverair-x1-pro-promax-announcement-price-release-date)
+ - [Best Solar Panel Installation Companies in Texas](https://www.cnet.com/home/energy-and-utilities/texas-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

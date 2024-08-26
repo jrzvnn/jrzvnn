@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Should Art Be Regulated by the SEC?’: NFT Artists’ New Lawsuit Seeks Answers](https://www.wired.com/story/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/)
  - [The Dutch Data Protection Authority fines Uber a record &amp;euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240826/p7#a240826p7)
- - [This over-the-counter gadget could help the war against diabetes](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables)
- - [Sources: IBM shuts its China R&amp;D department, affecting 1,000+ employees, and plans to move some R&amp;D functions overseas, the latest company to retreat from China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p6#a240826p6)
- - [Best Savings Rates Today -- Don&#39;t Let APYs as High as 5.25% Pass You By, August 26, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-26-2024/#ftag=CAD590a51e)
- - [A look at the aftermath of the FCC ending the Affordable Connectivity Program for ~23M US households in May 2024; Spectrum says it lost 154K customers in Q2 &lpar;Joe Supan/CNET&rpar;](http://www.techmeme.com/240826/p5#a240826p5)<!-- TECH:END -->
+ - [How to Leave Group Chats on Apple&#39;s iPhone or an Android Phone](https://www.cnet.com/tech/mobile/how-to-leave-any-group-chat-on-apples-iphone-or-an-android-phone/#ftag=CAD590a51e)
+ - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)
+ - [This over-the-counter gadget could help the war against diabetes](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

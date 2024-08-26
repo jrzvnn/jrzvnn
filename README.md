@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 😝 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - 😝 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
+ - 😝 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)
  - 💣 [The... what?](http://9gag.com/gag/aYQxBGv)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
  - 👉 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)<!-- MEMES:END -->

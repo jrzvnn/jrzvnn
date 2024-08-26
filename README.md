@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good old days](http://9gag.com/gag/aYQxn9V)
- - 😝 [Didn&#39;t knew it could be used like that](http://9gag.com/gag/a2vrxxE)
- - 💣 [Dog eats cicada](http://9gag.com/gag/a5Qbxng)
+ - 😝 [Upvote if you have opened your eyes.](http://9gag.com/gag/aVvq9Bn)
+ - 😝 [Sometimes you don&#39;t think you need something unless you see it.](http://9gag.com/gag/aMV86r6)
+ - 💣 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
+ - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
 
 ---
 

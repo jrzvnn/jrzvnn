@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this road a name.](http://9gag.com/gag/aYQxn0w)
  - 😝 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
- - 💣 [Bro found a hack](http://9gag.com/gag/aPABVNq)
- - 😝 [Zooming into iphone cpu die &lpar;5nm&rpar;](http://9gag.com/gag/aAydLWZ)
- - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 💣 [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - 😝 [I recognize the effort and good intentions, but I prefer it broken.](http://9gag.com/gag/aLnDOY6)
+ - 👉 [Your wife is a model pov](http://9gag.com/gag/ae9bW9q)<!-- MEMES:END -->
 
 ---
 

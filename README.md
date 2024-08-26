@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nerds rejoice, we be happening!](http://9gag.com/gag/an7bZX5)
- - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
- - 💣 [Upvote if you have opened your eyes.](http://9gag.com/gag/ajPXvNp)
+ - 😝 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 💣 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)<!-- MEMES:END -->
+ - 👉 [Has anyone been to Satan&#39;s Anus in Amsterdam?](http://9gag.com/gag/aQz9NM8)<!-- MEMES:END -->
 
 ---
 

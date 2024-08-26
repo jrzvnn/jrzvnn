@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)
+ - [Nest Smart Learning Thermostat, Sonos app issues, &amp; Wi-Fi issues on HomeKit Insider](https://appleinsider.com/articles/24/08/26/nest-smart-learning-thermostat-sonos-app-issues-wi-fi-issues-on-homekit-insider?utm_medium=rss)
+ - [French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240826/p14#a240826p14)
  - [Ikea launches Ikea Preowned, an online marketplace for customers to sell secondhand furniture to each other, testing in Madrid and Oslo until the end of 2024 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/240826/p13#a240826p13)
- - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [Chinese-made, Tencent-backed game Black Myth: Wukong sold 10M copies in just 83 hours, one of the fastest game debuts in history, earning an estimated $450M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p12#a240826p12)
- - [Current and former Nvidia staff say that, despite a 3,776% stock jump since 2019, minting many millionaires, the work hours are still grueling and high-stress &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p11#a240826p11)
- - [Calculating Your Solar Payback Period: When Will You Break Even?](https://www.cnet.com/home/energy-and-utilities/how-to-calculate-your-solar-payback-period/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

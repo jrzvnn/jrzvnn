@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowe&#39;s Labor Day Sale Brings Big Savings on Outdoor Living, Tools, Home Security and More](https://www.cnet.com/deals/lowes-labor-day-sale/#ftag=CAD590a51e)
  - [Low iPad mini stock could hint at impending upgrade with Apple Intelligence](https://appleinsider.com/articles/24/08/26/low-ipad-mini-stock-could-hint-at-impending-upgrade-with-apple-intelligence?utm_medium=rss)
  - [Sources: Amazon aggregators Branded and Heyday plan to merge; Branded would acquire Heyday in exchange for $521M in equity in a new company to be named Essor &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240826/p26#a240826p26)
  - [Home Depot Labor Day Sale: Tons of Early Discounts Ahead of This Holiday Weekend](https://www.cnet.com/deals/home-depot-labor-day-sale/#ftag=CAD590a51e)
- - [Docs: Amazon plans to launch its delayed overhaul of Alexa in October for as much as $10/month, with AI-generated news summaries, a chatbot for kids, and more &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240826/p25#a240826p25)
- - [Best Labor Day TV Sales 2024: Upgrade Your Entertainment Space and Save Big](https://www.cnet.com/deals/best-labor-day-tv-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Docs: Amazon plans to launch its delayed overhaul of Alexa in October for as much as $10/month, with AI-generated news summaries, a chatbot for kids, and more &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240826/p25#a240826p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

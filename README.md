@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at voice bots from Indian startups Sarvam AI, CoRover, and Gnani.ai; Samsung-backed Gnani now handles millions of voice conversations daily for companies &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240826/p1#a240826p1)
  - [Telegram says CEO has ‘nothing to hide’ after being arrested in France](https://www.theverge.com/2024/8/25/24228444/telegram-ceo-pavel-durov-arrest-france-company-response)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26, #176](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-176/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 26 #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-26-442/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 26, #1164](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-26-1164/#ftag=CAD590a51e)
- - [A deeper look at Google&#39;s shockingly good Reimagine feature for Pixel 9, which lets users add things to photos via prompts and lacks strong guardrails &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240825/p8#a240825p8)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 26, #1164](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-26-1164/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

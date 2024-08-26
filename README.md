@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 💣 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 😝 [Old man trying to switch kids, so his kid can be paired with the popular athlete.](http://9gag.com/gag/azx8v0x)
- - 👉 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)<!-- MEMES:END -->
+ - 😝 [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
+ - 💣 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 👉 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)<!-- MEMES:END -->
 
 ---
 

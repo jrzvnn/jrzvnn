@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says that &quot;all things considered&quot;, California &quot;should probably&quot; pass the AI safety bill &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/240826/p27#a240826p27)
+ - [Garmin’s terrific Forerunner 265 running watch is down to its lowest price to date](https://www.theverge.com/2024/8/26/24228868/garmin-forerunner-265-running-watch-apple-airpods-max-headphones-deal-sale)
  - [Lowe&#39;s Labor Day Sale Brings Big Savings on Outdoor Living, Tools, Home Security and More](https://www.cnet.com/deals/lowes-labor-day-sale/#ftag=CAD590a51e)
  - [Low iPad mini stock could hint at impending upgrade with Apple Intelligence](https://appleinsider.com/articles/24/08/26/low-ipad-mini-stock-could-hint-at-impending-upgrade-with-apple-intelligence?utm_medium=rss)
- - [Sources: Amazon aggregators Branded and Heyday plan to merge; Branded would acquire Heyday in exchange for $521M in equity in a new company to be named Essor &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240826/p26#a240826p26)
- - [Home Depot Labor Day Sale: Tons of Early Discounts Ahead of This Holiday Weekend](https://www.cnet.com/deals/home-depot-labor-day-sale/#ftag=CAD590a51e)
- - [Docs: Amazon plans to launch its delayed overhaul of Alexa in October for as much as $10/month, with AI-generated news summaries, a chatbot for kids, and more &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240826/p25#a240826p25)<!-- TECH:END -->
+ - [Sources: Amazon aggregators Branded and Heyday plan to merge; Branded would acquire Heyday in exchange for $521M in equity in a new company to be named Essor &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240826/p26#a240826p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

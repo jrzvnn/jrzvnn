@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)
  - [Uber hit with $324 million EU fine for improper data transfer](https://www.theverge.com/2024/8/26/24228589/uber-eu-fine-gdpr-driver-data-transfer)
  - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)
- - [Nest Smart Learning Thermostat, Sonos app issues, &amp; Wi-Fi issues on HomeKit Insider](https://appleinsider.com/articles/24/08/26/nest-smart-learning-thermostat-sonos-app-issues-wi-fi-issues-on-homekit-insider?utm_medium=rss)
- - [French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240826/p14#a240826p14)<!-- TECH:END -->
+ - [Put the Excellent Apple Watch Series 9 on Your Wrist for Just $300](https://www.cnet.com/deals/put-the-excellent-apple-watch-series-9-on-your-wrist-for-just-300/#ftag=CAD590a51e)
+ - [Why You Lose Your Breath Going Up the Stairs -- and It’s Not Because You’re Out of Shape](https://www.cnet.com/health/fitness/should-you-be-winded-after-walking-up-stairs-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

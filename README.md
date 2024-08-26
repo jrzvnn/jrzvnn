@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
+ - [Chinese-made, Tencent-backed game Black Myth: Wukong sold 10M copies in just 83 hours, one of the fastest game debuts in history, earning an estimated $450M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p12#a240826p12)
  - [Current and former Nvidia staff say that, despite a 3,776% stock jump since 2019, minting many millionaires, the work hours are still grueling and high-stress &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p11#a240826p11)
  - [Astrologers Say 2024’s Political Future May Be Written in the Stars](https://www.wired.com/story/political-astrology-predictions-online/)
- - [US-listed PDD, which runs Temu and Pinduoduo, reports Q2 revenue up 86% YoY to ~$13.6B, below ~$14B est., and net income up 144% YoY to ~$4.5B, vs. $3.8B est. &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p10#a240826p10)
- - [Apple taps LG Innotek for all iPhone 16 Pro and iPhone 16 Pro Max tetraprism lenses](https://appleinsider.com/articles/24/08/26/apple-taps-lg-innotek-for-all-iphone-16-pro-and-iphone-16-pro-max-tetraprism-lenses?utm_medium=rss)
- - [Chicago-based G Squared raised $1.1B for a fund to buy secondary startup shares; G Squared bought ~$135M in Anthropic shares from FTX during its bankruptcy &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/240826/p9#a240826p9)<!-- TECH:END -->
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q2 revenue up 86% YoY to ~$13.6B, below ~$14B est., and net income up 144% YoY to ~$4.5B, vs. $3.8B est. &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p10#a240826p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

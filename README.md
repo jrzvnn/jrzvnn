@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upvote if you have opened your eyes.](http://9gag.com/gag/aVvq9Bn)
- - 😝 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
- - 💣 [Sometimes you don&#39;t think you need something unless you see it.](http://9gag.com/gag/aMV86r6)
+ - 😝 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - 😝 [Upcoming Concord DLC](http://9gag.com/gag/adB7Wg9)
+ - 💣 [Orange Man BAD!](http://9gag.com/gag/axyVAX1)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
+ - 👉 [No skating](http://9gag.com/gag/an7bdqo)<!-- MEMES:END -->
 
 ---
 

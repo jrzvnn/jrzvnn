@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
+ - [Ted Lasso could come back for a fourth season](https://www.theverge.com/2024/8/26/24228719/ted-lasso-season-4-apple-tv-warner-bros)
  - [Nintendo is closing out the summer with a 40-minute showcase](https://www.theverge.com/24228697/nintendo-direct-indie-showcase-partner-direct-august)
  - [French President Emmanuel Macron says the government was not involved in the arrest of Telegram CEO Pavel Durov and &quot;this is in no way a political decision&quot; &lpar;Victor Goury-Laffont/Politico&rpar;](http://www.techmeme.com/240826/p15#a240826p15)
- - [Struggling to Unlock Your Phone? You Might Have Lost Your Fingerprints](https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/)
- - [Yamaha R-N1000A Review: Retro Style, Modern Convenience](https://www.wired.com/review/yamaha-r-n1000a/)
- - [Zoma Boost Mattress Review: Surprisingly Luxurious Pillow Top Comfort](https://www.cnet.com/health/sleep/zoma-boost-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Struggling to Unlock Your Phone? You Might Have Lost Your Fingerprints](https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

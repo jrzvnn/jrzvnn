@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)
  - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 💣 [TroIIing them](http://9gag.com/gag/a6Zb49N)
+ - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 💣 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
+ - 👉 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches Labor Day sale on Apple, save up to $500](https://appleinsider.com/articles/24/08/26/amazon-launches-labor-day-sale-on-apple-save-up-to-500?utm_medium=rss)
+ - [Fire at Rivian’s factory damages multiple electric vehicles](https://www.theverge.com/2024/8/26/24228982/rivian-factory-ev-fire-damage-battery)
  - [Sony’s new budget wireless earbuds give you voice isolation and fast pairing](https://www.theverge.com/2024/8/26/24228905/sony-wireless-earbuds-wf-c510-budget-voice-isolation-transparency)
  - [Best Home Security Systems for Renters in 2024](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
- - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
- - [Best Early Labor Day Deals &lpar;2024&rpar;: Tablets, Streaming Sticks, and More](https://www.wired.com/story/labor-day-deals-2024/)<!-- TECH:END -->
+ - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

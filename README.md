@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Meet will stay onscreen when you switch tabs](https://www.theverge.com/2024/8/26/24229009/google-meet-automatic-picture-in-picture-switch-tabs)
+ - [Crypto platform Abra agrees to settle with the SEC over claims of unregistered securities; the SEC said the Abra Earn product had almost $500M from US investors &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240826/p21#a240826p21)
  - [Amazon launches Labor Day sale on Apple, save up to $500](https://appleinsider.com/articles/24/08/26/amazon-launches-labor-day-sale-on-apple-save-up-to-500?utm_medium=rss)
  - [Fire at Rivian’s factory damages multiple electric vehicles](https://www.theverge.com/2024/8/26/24228982/rivian-factory-ev-fire-damage-battery)
- - [Sony’s new budget wireless earbuds give you voice isolation and fast pairing](https://www.theverge.com/2024/8/26/24228905/sony-wireless-earbuds-wf-c510-budget-voice-isolation-transparency)
- - [Best Home Security Systems for Renters in 2024](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
- - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s new budget wireless earbuds give you voice isolation and fast pairing](https://www.theverge.com/2024/8/26/24228905/sony-wireless-earbuds-wf-c510-budget-voice-isolation-transparency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

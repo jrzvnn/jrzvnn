@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
  - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
- - 💣 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
+ - 💣 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
+ - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
  - 👉 [Never start divorce proceedings without leverage,my dudes. The video also gets shown to our teen kids if she makes things difficult.i know it&#39;s a shitty move,but I&#39;m not losing half of my estate.](http://9gag.com/gag/ae9bd6B)<!-- MEMES:END -->
 
 ---

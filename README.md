@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
- - 😝 [TroIIing them](http://9gag.com/gag/a6Zb49N)
- - 💣 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 😝 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 💣 [TroIIing them](http://9gag.com/gag/a6Zb49N)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)<!-- MEMES:END -->
+ - 👉 [Has anyone been to Satan&#39;s Anus in Amsterdam?](http://9gag.com/gag/aQz9NM8)<!-- MEMES:END -->
 
 ---
 

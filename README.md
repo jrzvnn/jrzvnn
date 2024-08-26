@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple announces CFO Luca Maestri will transition from his role on January 1, 2025; Kevan Parekh, Apple&#39;s VP of Financial Planning and Analysis, will become CFO &lpar;Apple&rpar;](http://www.techmeme.com/240826/p24#a240826p24)
  - [Anthropic publishes a changelog for the system prompts of its Sonnet, Opus, and Haiku models, the first major AI vendor to do so &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240826/p23#a240826p23)
  - [SpaceX’s historic Polaris Dawn mission: how to watch the launch](https://www.theverge.com/2024/8/26/24228803/spacex-polaris-dawn-mission-launch-date-time-watch-live)
  - [Viggle, developer of 3D-video foundation model JST-1, raised a $19M Series A led by a16z; Viggle says the model is trained on public sources, including YouTube &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240826/p22#a240826p22)
- - [Google Meet will stay onscreen when you switch tabs](https://www.theverge.com/2024/8/26/24229009/google-meet-automatic-picture-in-picture-switch-tabs)
- - [Crypto platform Abra agrees to settle with the SEC over claims of unregistered securities; the SEC said the Abra Earn product had almost $500M from US investors &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240826/p21#a240826p21)<!-- TECH:END -->
+ - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

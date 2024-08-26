@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
  - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
- - 💣 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
- - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 👉 [Never start divorce proceedings without leverage,my dudes. The video also gets shown to our teen kids if she makes things difficult.i know it&#39;s a shitty move,but I&#39;m not losing half of my estate.](http://9gag.com/gag/ae9bd6B)<!-- MEMES:END -->
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 💣 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
+ - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
+ - 👉 [My life is miserable man. Every day is a struggle to make it to bed, just so I can do it again the next day. His mom left when he was less than a year old because she didn&#39;t want the responsibility. She has had no contact, and I&#39;ve had to do it alone since then. It&#39;s been hell...](http://9gag.com/gag/a2vrjDO)<!-- MEMES:END -->
 
 ---
 

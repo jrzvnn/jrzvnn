@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today only: get a 14-inch MacBook Pro with 1TB SSD, 19-core GPU for just $1,699](https://appleinsider.com/articles/24/08/26/today-only-get-a-14-inch-macbook-pro-with-1tb-ssd-19-core-gpu-for-just-1699?utm_medium=rss)
  - [Chinese tech giants splurge on AI infrastructure, doubling their 2024 capex; Alibaba, Tencent, and Baidu had a combined capex of ~$7B in H1 2024, up 50%+ YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/240826/p3#a240826p3)
  - [How Ukraine is working with private firms to test AI and other tech in drones to find land mines, save lives, and allow military forces to advance more quickly &lpar;Lara Jakes/New York Times&rpar;](http://www.techmeme.com/240826/p2#a240826p2)
  - [Best Hybrid Mattress for Side Sleepers for 2024](https://www.cnet.com/health/sleep/best-hybrid-mattress-for-side-sleepers/#ftag=CAD590a51e)
- - [Best Produce Delivery Services in 2024](https://www.cnet.com/health/nutrition/best-produce-delivery-service/#ftag=CAD590a51e)
- - [Best Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-toaster-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Produce Delivery Services in 2024](https://www.cnet.com/health/nutrition/best-produce-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

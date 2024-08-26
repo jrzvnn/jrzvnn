@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese tech giants splurge on AI infrastructure, doubling their 2024 capex; Alibaba, Tencent, and Baidu had a combined capex of ~$7B in H1 2024, up 50%+ YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/240826/p3#a240826p3)
  - [How Ukraine is working with private firms to test AI and other tech in drones to find land mines, save lives, and allow military forces to advance more quickly &lpar;Lara Jakes/New York Times&rpar;](http://www.techmeme.com/240826/p2#a240826p2)
  - [A look at voice bots from Indian startups Sarvam AI, CoRover, and Gnani.ai; Samsung-backed Gnani now handles millions of voice conversations daily for companies &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240826/p1#a240826p1)
  - [Telegram says CEO has ‘nothing to hide’ after being arrested in France](https://www.theverge.com/2024/8/25/24228444/telegram-ceo-pavel-durov-arrest-france-company-response)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26, #176](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-176/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 26 #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-26-442/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26, #176](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-176/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

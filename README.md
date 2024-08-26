@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
- - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 💣 [Another obvious reason](http://9gag.com/gag/awynvjB)
- - 😝 [I recognize the effort and good intentions, but I prefer it broken.](http://9gag.com/gag/aLnDOY6)
- - 👉 [Your wife is a model pov](http://9gag.com/gag/ae9bW9q)<!-- MEMES:END -->
+ - 😝 [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
+ - 💣 [The best cosplay in history](http://9gag.com/gag/an7b8Az)
+ - 😝 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
+ - 👉 [Give this road a name.](http://9gag.com/gag/aYQxn0w)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another obvious reason](http://9gag.com/gag/awynvjB)
- - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
- - 💣 [The best cosplay in history](http://9gag.com/gag/an7b8Az)
- - 😝 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
- - 👉 [Give this road a name.](http://9gag.com/gag/aYQxn0w)<!-- MEMES:END -->
+ - 😝 [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Almost the same as a smartphone](http://9gag.com/gag/aW4md4q)
+ - 💣 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 👉 [Never start divorce proceedings without leverage,my dudes. The video also gets shown to our teen kids if she makes things difficult.i know it&#39;s a shitty move,but I&#39;m not losing half of my estate.](http://9gag.com/gag/ae9bd6B)<!-- MEMES:END -->
 
 ---
 

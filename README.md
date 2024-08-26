@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zooming into iphone cpu die &lpar;5nm&rpar;](http://9gag.com/gag/aAydLWZ)
- - 😝 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
- - 💣 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 😝 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)
- - 👉 [Sometimes you don&#39;t think you need something unless you see it.](http://9gag.com/gag/aMV86r6)<!-- MEMES:END -->
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 😝 [My life is miserable man. Every day is a struggle to make it to bed, just so I can do it again the next day. His mom left when he was less than a year old because she didn&#39;t want the responsibility. She has had no contact, and I&#39;ve had to do it alone since then. It&#39;s been hell...](http://9gag.com/gag/a2vrjDO)
+ - 💣 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
+ - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
 
 ---
 

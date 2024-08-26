@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Struggling to Unlock Your Phone? You Might Have Lost Your Fingerprints](https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/)
  - [Yamaha R-N1000A Review: Retro Style, Modern Convenience](https://www.wired.com/review/yamaha-r-n1000a/)
  - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)
  - [Uber hit with $324 million EU fine for improper data transfer](https://www.theverge.com/2024/8/26/24228589/uber-eu-fine-gdpr-driver-data-transfer)
- - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)
- - [Put the Excellent Apple Watch Series 9 on Your Wrist for Just $300](https://www.cnet.com/deals/put-the-excellent-apple-watch-series-9-on-your-wrist-for-just-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

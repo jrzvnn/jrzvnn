@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sylvester Stallone was made for this role](http://9gag.com/gag/a34qzON)
  - 😝 [Another obvious reason](http://9gag.com/gag/awynvjB)
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 😝 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
- - 👉 [Your wife is a model pov](http://9gag.com/gag/ae9bW9q)<!-- MEMES:END -->
+ - 💣 [Shits on fire](http://9gag.com/gag/aZZmvb9)
+ - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
+ - 👉 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)<!-- MEMES:END -->
 
 ---
 

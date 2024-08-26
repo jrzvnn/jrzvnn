@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [D&amp;D publisher walks back controversial changes to online tools](https://www.theverge.com/2024/8/26/24228779/d-and-d-beyond-magic-items-spells-update-d-and-d-2024)
  - [Best MacBook Air M2 Deals: Save With Direct Discounts and Trade-In Deals](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
  - [Best Deals on E-Bikes: Upgrade Your Cycle With These Top Models at Low Prices](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
  - [9 Hard-to-Kill Houseplants That Let You Live Your Life](https://www.cnet.com/news/9-hard-to-kill-houseplants-that-will-let-you-live-your-life/#ftag=CAD590a51e)
- - [Best CD Rates Today -- Lock in a High APY While You Still Can, Aug. 26, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-26-2024/#ftag=CAD590a51e)
- - [OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240826/p19#a240826p19)<!-- TECH:END -->
+ - [Best CD Rates Today -- Lock in a High APY While You Still Can, Aug. 26, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

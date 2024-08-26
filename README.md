@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240826/p19#a240826p19)
- - [Hope and disparity: a colorful new way to visualize air quality around the world](https://www.theverge.com/2024/8/26/24228658/air-quality-pollution-art-data-visualization-stripes)
- - [Ikea is testing a secondhand marketplace, but only in two countries](https://www.theverge.com/2024/8/26/24228840/ikea-preowned-secondhand-marketplace-test)
- - [Musicians to lose Finale notation app after 35 years](https://appleinsider.com/articles/24/08/26/musicians-to-lose-finale-notation-app-after-35-years?utm_medium=rss)
- - [An overview of AI startups largely founded by former AI researchers from Google, including Reka, Ideogram, H, Inflection, and Character AI &lpar;The Information&rpar;](http://www.techmeme.com/240826/p18#a240826p18)<!-- TECH:END -->
+ - [Best MacBook Air M2 Deals: Save With Direct Discounts and Trade-In Deals](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Best Deals on E-Bikes: Upgrade Your Cycle With These Top Models at Low Prices](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
+ - [9 Hard-to-Kill Houseplants That Let You Live Your Life](https://www.cnet.com/news/9-hard-to-kill-houseplants-that-will-let-you-live-your-life/#ftag=CAD590a51e)
+ - [Best CD Rates Today -- Lock in a High APY While You Still Can, Aug. 26, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-26-2024/#ftag=CAD590a51e)
+ - [OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240826/p19#a240826p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

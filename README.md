@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 😝 [The... what?](http://9gag.com/gag/aYQxBGv)
- - 💣 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 😝 [Just barbaric](http://9gag.com/gag/an7b89E)
+ - 😝 [TroIIing them](http://9gag.com/gag/a6Zb49N)
+ - 💣 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
+ - 👉 [Concord new sony game cost them $214,285.7 per player!](http://9gag.com/gag/aByWvOD)<!-- MEMES:END -->
 
 ---
 

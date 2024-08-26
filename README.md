@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Elon Musk posted ~13,000 times on X in 2024 to July, or 61 posts per day, almost as much as in all of 2023, as he shifts to posting about politics &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240826/p8#a240826p8)
  - [‘Should Art Be Regulated by the SEC?’: NFT Artists’ New Lawsuit Seeks Answers](https://www.wired.com/story/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/)
  - [The Dutch Data Protection Authority fines Uber a record &amp;euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240826/p7#a240826p7)
  - [How to Leave Group Chats on Apple&#39;s iPhone or an Android Phone](https://www.cnet.com/tech/mobile/how-to-leave-any-group-chat-on-apples-iphone-or-an-android-phone/#ftag=CAD590a51e)
- - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)
- - [This over-the-counter gadget could help the war against diabetes](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables)<!-- TECH:END -->
+ - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musicians to lose Finale notation app after 35 years](https://appleinsider.com/articles/24/08/26/musicians-to-lose-finale-notation-app-after-35-years?utm_medium=rss)
  - [An overview of AI startups largely founded by former AI researchers from Google, including Reka, Ideogram, H, Inflection, and Character AI &lpar;The Information&rpar;](http://www.techmeme.com/240826/p18#a240826p18)
  - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)
  - [Hello, you’re here because you said AI image editing was just like Photoshop](https://www.theverge.com/2024/8/26/24228808/ai-image-editing-photoshop-comparison-argument)
- - [Samsung will soon let you create AI wallpapers on its touchscreen refrigerators](https://www.theverge.com/2024/8/26/24228788/samsung-ai-wallpapers-refrigerators-bixby-upgrade-bespoke-appliances)
- - [Inflection will cap free access to its AI chatbot Pi in the coming months and let users export their conversations as the startup focuses on enterprise products &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240826/p17#a240826p17)<!-- TECH:END -->
+ - [Best Beats Headphone Deals: Get Your Hands on the Latest Beats Models for Less](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
- - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 💣 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 👉 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
+ - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
+ - 😝 [Concord new sony game cost them $214,285.7 per player!](http://9gag.com/gag/aByWvOD)
+ - 💣 [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 😝 [Never start divorce proceedings without leverage,my dudes. The video also gets shown to our teen kids if she makes things difficult.i know it&#39;s a shitty move,but I&#39;m not losing half of my estate.](http://9gag.com/gag/ae9bd6B)
+ - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
 
 ---
 

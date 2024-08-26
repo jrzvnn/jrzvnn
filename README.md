@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo is closing out the summer with a 40 minute showcase](https://www.theverge.com/24228697/nintendo-direct-indie-showcase-partner-direct-august)
+ - [French President Emmanuel Macron says the government was not involved in the arrest of Telegram CEO Pavel Durov and &quot;this is in no way a political decision&quot; &lpar;Victor Goury-Laffont/Politico&rpar;](http://www.techmeme.com/240826/p15#a240826p15)
  - [Struggling to Unlock Your Phone? You Might Have Lost Your Fingerprints](https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/)
  - [Yamaha R-N1000A Review: Retro Style, Modern Convenience](https://www.wired.com/review/yamaha-r-n1000a/)
- - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)
- - [Uber hit with $324 million EU fine for improper data transfer](https://www.theverge.com/2024/8/26/24228589/uber-eu-fine-gdpr-driver-data-transfer)
- - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)<!-- TECH:END -->
+ - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

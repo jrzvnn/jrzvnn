@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
+ - [Samsung Launches Premiere 7 and Premiere 9 Ultra-Short Throw Projectors](https://www.cnet.com/tech/home-entertainment/samsung-launches-premiere-7-and-premiere-9-ultra-short-throw-projectors/#ftag=CAD590a51e)
+ - [Dying Light: The Beast is a Gorgeous and Gory Zombie Parkour Sequel](https://www.cnet.com/tech/gaming/dying-light-the-beast-is-a-gorgeous-and-gory-zombie-parkour-sequel/#ftag=CAD590a51e)
  - [Ted Lasso could come back for a fourth season](https://www.theverge.com/2024/8/26/24228719/ted-lasso-season-4-apple-tv-warner-bros)
- - [Nintendo is closing out the summer with a 40-minute showcase](https://www.theverge.com/24228697/nintendo-direct-indie-showcase-partner-direct-august)
- - [French President Emmanuel Macron says the government was not involved in the arrest of Telegram CEO Pavel Durov and &quot;this is in no way a political decision&quot; &lpar;Victor Goury-Laffont/Politico&rpar;](http://www.techmeme.com/240826/p15#a240826p15)
- - [Struggling to Unlock Your Phone? You Might Have Lost Your Fingerprints](https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/)<!-- TECH:END -->
+ - [The Freezer Will Ruin These 8 Foods](https://www.cnet.com/news/the-freezer-will-ruin-these-8-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

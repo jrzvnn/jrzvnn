@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Savings Rates Today -- Don&#39;t Let APYs as High as 5.25% Pass You By, August 26, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-26-2024/#ftag=CAD590a51e)
  - [A look at the aftermath of the FCC ending the Affordable Connectivity Program for ~23M US households in May 2024; Spectrum says it lost 154K customers in Q2 &lpar;Joe Supan/CNET&rpar;](http://www.techmeme.com/240826/p5#a240826p5)
  - [How some Chinese AI companies use brokers to access GPUs despite US sanctions, sometimes using cryptocurrency smart contracts to anonymously process orders &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p4#a240826p4)
  - [Drizly Is Shutting Down. These Are the Best Alcohol Delivery Services to Try Instead](https://www.cnet.com/how-to/best-alcohol-delivery-services/#ftag=CAD590a51e)
- - [Today only: get a 14-inch MacBook Pro with 1TB SSD, 19-core GPU for just $1,699](https://appleinsider.com/articles/24/08/26/today-only-get-a-14-inch-macbook-pro-with-1tb-ssd-19-core-gpu-for-just-1699?utm_medium=rss)
- - [Chinese tech giants splurge on AI infrastructure, doubling their 2024 capex; Alibaba, Tencent, and Baidu had a combined capex of ~$7B in H1 2024, up 50%+ YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/240826/p3#a240826p3)<!-- TECH:END -->
+ - [Today only: get a 14-inch MacBook Pro with 1TB SSD, 19-core GPU for just $1,699](https://appleinsider.com/articles/24/08/26/today-only-get-a-14-inch-macbook-pro-with-1tb-ssd-19-core-gpu-for-just-1699?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

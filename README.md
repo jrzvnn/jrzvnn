@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TroIIing them](http://9gag.com/gag/a6Zb49N)
  - 😝 [In horro movie](http://9gag.com/gag/ajPXvn0)
- - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 😝 [Upvote if you have opened your eyes.](http://9gag.com/gag/ajPXvNp)
+ - 💣 [Bok](http://9gag.com/gag/a6ZbezL)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)<!-- MEMES:END -->
+ - 👉 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)<!-- MEMES:END -->
 
 ---
 

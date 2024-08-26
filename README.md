@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
  - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
  - 💣 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [My life is miserable man. Every day is a struggle to make it to bed, just so I can do it again the next day. His mom left when he was less than a year old because she didn&#39;t want the responsibility. She has had no contact, and I&#39;ve had to do it alone since then. It&#39;s been hell...](http://9gag.com/gag/a2vrjDO)<!-- MEMES:END -->
+ - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
 
 ---
 

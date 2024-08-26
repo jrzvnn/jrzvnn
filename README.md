@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26, #176](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-176/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 26 #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-26-442/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 26, #1164](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-26-1164/#ftag=CAD590a51e)
  - [A deeper look at Google&#39;s shockingly good Reimagine feature for Pixel 9, which lets users add things to photos via prompts and lacks strong guardrails &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240825/p8#a240825p8)
- - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
- - [Formula 1’s new gyro camera adds a Dutch angle to the Dutch Grand Prix](https://www.theverge.com/2024/8/25/24228247/formula-1-f1-gyro-camera-dutch-grand-prix-zandvoort)
- - [Best Internet Providers in Portland, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-portland-me/#ftag=CAD590a51e)
- - [A look at Telegram&#39;s claims that it&#39;s a &quot;secure messenger&quot; despite lacking default end-to-end encrypted messages and any E2E encrypted option for group chats &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/240825/p7#a240825p7)<!-- TECH:END -->
+ - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

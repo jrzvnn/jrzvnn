@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)
  - [Uber hit with $324 million EU fine for improper data transfer](https://www.theverge.com/2024/8/26/24228589/uber-eu-fine-gdpr-driver-data-transfer)
  - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)
  - [Nest Smart Learning Thermostat, Sonos app issues, &amp; Wi-Fi issues on HomeKit Insider](https://appleinsider.com/articles/24/08/26/nest-smart-learning-thermostat-sonos-app-issues-wi-fi-issues-on-homekit-insider?utm_medium=rss)
- - [French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240826/p14#a240826p14)
- - [Ikea launches Ikea Preowned, an online marketplace for customers to sell secondhand furniture to each other, testing in Madrid and Oslo until the end of 2024 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/240826/p13#a240826p13)<!-- TECH:END -->
+ - [French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240826/p14#a240826p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

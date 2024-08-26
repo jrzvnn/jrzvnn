@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Home Security Systems for Renters in 2024](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
+ - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
+ - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
  - [Best Early Labor Day Deals &lpar;2024&rpar;: Tablets, Streaming Sticks, and More](https://www.wired.com/story/labor-day-deals-2024/)
- - [Gannett is shuttering site accused of publishing AI product reviews](https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles)
- - [French prosecutors: Pavel Durov&#39;s arrest is part of a probe &quot;against person unnamed&quot; into CSAM, drug sales, and more on the app and not working with authorities &lpar;New York Times&rpar;](http://www.techmeme.com/240826/p20#a240826p20)
- - [D&amp;D publisher walks back controversial changes to online tools](https://www.theverge.com/2024/8/26/24228779/d-and-d-beyond-magic-items-spells-update-d-and-d-2024)
- - [Best MacBook Air M2 Deals: Save With Direct Discounts and Trade-In Deals](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gannett is shuttering site accused of publishing AI product reviews](https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

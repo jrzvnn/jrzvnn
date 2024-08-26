@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q2 revenue up 86% YoY to ~$13.6B, below ~$14B est., and net income up 144% YoY to ~$4.5B, vs. $3.8B est. &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p10#a240826p10)
+ - [Apple taps LG Innotek for all iPhone 16 Pro and iPhone 16 Pro Max tetraprism lenses](https://appleinsider.com/articles/24/08/26/apple-taps-lg-innotek-for-all-iphone-16-pro-and-iphone-16-pro-max-tetraprism-lenses?utm_medium=rss)
  - [Chicago-based G Squared raised $1.1B for a fund to buy secondary startup shares; G Squared bought ~$135M in Anthropic shares from FTX during its bankruptcy &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/240826/p9#a240826p9)
- - [How Israel Is Exploiting Google Ads to Discredit a UN Aid Agency](https://www.wired.com/story/israel-unrwa-usa-hamas-google-search-ads/)
- - [Analysis: Elon Musk posted ~13,000 times on X in 2024 to July, or 61 posts per day, almost as much as in all of 2023, as he shifts to posting about politics &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240826/p8#a240826p8)
- - [‘Should Art Be Regulated by the SEC?’: NFT Artists’ New Lawsuit Seeks Answers](https://www.wired.com/story/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/)
- - [The Dutch Data Protection Authority fines Uber a record &amp;euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240826/p7#a240826p7)<!-- TECH:END -->
+ - [US Open 2024: Tennis Schedule, Bracket and How to Watch](https://www.cnet.com/tech/services-and-software/us-open-2024-tennis-schedule-bracket-and-how-to-watch/#ftag=CAD590a51e)
+ - [17 Epic Sci-Fi TV Shows You Need to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/17-epic-sci-fi-tv-shows-to-watch-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

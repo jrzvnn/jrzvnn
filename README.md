@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro rumored to get better Digital ANC in next update](https://appleinsider.com/articles/24/08/27/airpods-pro-rumored-to-get-better-digital-anc-in-next-update?utm_medium=rss)
- - [Sources: China-linked hackers recently penetrated deep into two big US ISPs and several smaller ones, using a zero-day flaw in Versa Networks software &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240827/p14#a240827p14)
- - [Arturia KeyLab Mk3 Review: A Premium Midi Controller at a Great Price](https://www.wired.com/review/arturia-keylab-mk3/)
- - [Best Monitor Deals: Score Huge Discounts on Just About Every Size Class](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
- - [Best M3 Mac Deals: Apple&#39;s Latest M3 Models Now Cost Less Than You Might Think](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram now lets users add text to photos right from its post editor, rather than needing a separate app, and add more photos as stickers on top of a photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240827/p17#a240827p17)
+ - [How to watch Apple&#39;s iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/inside/iphone-16/tips/how-to-watch-apples-iphone-16-glowtime-event?utm_medium=rss)
+ - [Meta says it will shut down Meta Spark, its third-party AR tools and content platform that launched in 2017, effective January 14, 2025, angering some creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240827/p16#a240827p16)
+ - [Snapchat finally launched an iPad app](https://www.theverge.com/2024/8/27/24229641/snapchat-launches-ipad-app)
+ - [Sony Drops New Over-the-Counter Hearing Aid](https://www.cnet.com/health/medical/sony-drops-new-over-the-counter-hearing-aid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

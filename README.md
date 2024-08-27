@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M loss in H1 2023, and says AI does the job of 700 employees &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240827/p10#a240827p10)
- - [Microsoft’s next big Windows 11 update significantly improves Ryzen gaming performance](https://www.theverge.com/2024/8/27/24229443/microsoft-windows-11-update-24h2-ryzen-cpu-performance-improvement)
- - [Garmin&#39;s Fenix 8 Takes on Apple Watch Ultra 2 With Monthlong Battery](https://www.cnet.com/tech/mobile/garmins-fenix-8-takes-on-apple-watch-ultra-2-with-monthlong-battery/#ftag=CAD590a51e)
- - [iPhone 16 Design Rumors: The Physical Changes We Expect](https://www.cnet.com/tech/mobile/how-the-iphone-16s-design-may-change/#ftag=CAD590a51e)
- - [Play Call of Duty: Black Ops 6 and More on Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/play-call-of-duty-black-ops-6-and-more-on-xbox-game-pass-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
+ - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)
+ - [Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240827/p11#a240827p11)
+ - [Life is Strange: Double Exposure Returns Fan-Favorite Max For Another Mystery](https://www.cnet.com/tech/gaming/life-is-strange-double-exposure-returns-fan-favorite-max-for-another-mystery/#ftag=CAD590a51e)
+ - [6 Common Habits That Could Be Damaging Your Vision Right Now](https://www.cnet.com/health/personal-care/common-habits-damaging-vision-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

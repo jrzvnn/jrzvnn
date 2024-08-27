@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: China-linked hackers recently penetrated deep into two big US ISPs and several smaller ones, using a zero-day flaw in Versa Networks software &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240827/p14#a240827p14)
  - [Arturia KeyLab Mk3 Review: A Premium Midi Controller at a Great Price](https://www.wired.com/review/arturia-keylab-mk3/)
- - [Best Monitor Deals: Score Huge Discounts on Just About Every Size Class](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
- - [Best M3 Mac Deals: Apple&#39;s Latest M3 Models Now Cost Less Than You Might Think](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)
- - [Verizon Announces Partnership With First Smart Ring, Ultrahuman Ring AIR](https://www.cnet.com/health/verizon-announces-partnership-with-first-smart-ring-ultrahuman-ring-air/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Castlevania’s classic DS trilogy is coming to the Switch](https://www.theverge.com/2024/8/27/24229521/castlevania-dominus-collection-nintendo-switch-ds-trilogy)
+ - [MySims is making a comeback on the Switch](https://www.theverge.com/2024/8/27/24229056/mysims-nintendo-switch-remastered-launch)
+ - [Nest Learning Thermostat 4th-Gen review: Finally, Apple Home compatibility](https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

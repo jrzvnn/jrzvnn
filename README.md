@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
  - 😝 [Eeeee](http://9gag.com/gag/aByWzOZ)
- - 💣 [The year is 3955...](http://9gag.com/gag/abApDnb)
+ - 😝 [The year is 3955...](http://9gag.com/gag/abApDnb)
+ - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
  - 👉 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)<!-- MEMES:END -->
 

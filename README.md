@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch Ultra 2 is $100 off ahead of Apple’s next hardware event](https://www.theverge.com/2024/8/27/24229199/apple-watch-ultra-2-super-mario-rpg-remake-deal-sale)
  - [Google Meet’s automatic AI note-taking is here](https://www.theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch)
  - [Self-driving truck company TuSimple, which delisted from Nasdaq in January, reaches a $189M settlement of a suit alleging fraud by overstating safety and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240827/p24#a240827p24)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Solar Battery Buying Guide: Everything You Need to Know](https://www.cnet.com/home/energy-and-utilities/battery-backup-buying-guide-heres-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China Conquers Mexico’s Automotive Market, and the US Is Worried](https://www.wired.com/story/china-conquers-mexican-automotive-market-and-the-us-is-worried/)
+ - [Darkest Dungeon II brings its turn-based roadtrip to macOS](https://appleinsider.com/articles/24/08/27/darkest-dungeon-ii-brings-its-turn-based-roadtrip-to-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
- - 😝 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)
- - 💣 [Britain 2024](http://9gag.com/gag/a5QbAXq)
- - 😝 [Eeeee](http://9gag.com/gag/aByWzOZ)
- - 👉 [The year is 3955...](http://9gag.com/gag/abApDnb)<!-- MEMES:END -->
+ - 😝 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
+ - 😝 [Britain 2024](http://9gag.com/gag/a5QbAXq)
+ - 💣 [Eeeee](http://9gag.com/gag/aByWzOZ)
+ - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
+ - 👉 [Peace&#39;nt](http://9gag.com/gag/ayNDKLp)<!-- MEMES:END -->
 
 ---
 

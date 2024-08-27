@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerebras launches the &quot;world&#39;s fastest&quot; AI inference service with &quot;GPU-impossible performance&quot;, costing 10+ cents per million tokens, to rival Nvidia &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240827/p18#a240827p18)
+ - [Heat-related deaths are on the rise, but they don’t have to be](https://www.theverge.com/2024/8/27/24229551/heat-deaths-rise-research-climate-change)
+ - [After 13 long years, Snapchat finally has a native iPad version](https://appleinsider.com/articles/24/08/27/after-13-long-years-snapchat-finally-has-a-native-ipad-version?utm_medium=rss)
  - [Instagram now lets users add text to photos right from its post editor, rather than needing a separate app, and add more photos as stickers on top of a photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240827/p17#a240827p17)
- - [How to watch Apple&#39;s iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/inside/iphone-16/tips/how-to-watch-apples-iphone-16-glowtime-event?utm_medium=rss)
- - [Meta says it will shut down Meta Spark, its third-party AR tools and content platform that launched in 2017, effective January 14, 2025, angering some creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240827/p16#a240827p16)
- - [Snapchat finally launched an iPad app](https://www.theverge.com/2024/8/27/24229641/snapchat-launches-ipad-app)
- - [Sony Drops New Over-the-Counter Hearing Aid](https://www.cnet.com/health/medical/sony-drops-new-over-the-counter-hearing-aid/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch Apple&#39;s iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/inside/iphone-16/tips/how-to-watch-apples-iphone-16-glowtime-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

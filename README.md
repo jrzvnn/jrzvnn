@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
- - 💣 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)
- - 😝 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
- - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
+ - 😝 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
+ - 😝 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)
+ - 💣 [Britain 2024](http://9gag.com/gag/a5QbAXq)
+ - 😝 [Eeeee](http://9gag.com/gag/aByWzOZ)
+ - 👉 [The year is 3955...](http://9gag.com/gag/abApDnb)<!-- MEMES:END -->
 
 ---
 

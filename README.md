@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)
- - 😝 [Yesrs ago a friend told me does not watch the news, I thought he was wrong...](http://9gag.com/gag/avyGw1M)
- - 💣 [Peace&#39;nt](http://9gag.com/gag/ayNDKLp)
+ - 😝 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
+ - 💣 [Challenge accepted!](http://9gag.com/gag/ajPXw68)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Travel warning!](http://9gag.com/gag/amoYQA9)<!-- MEMES:END -->
+ - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
 
 ---
 

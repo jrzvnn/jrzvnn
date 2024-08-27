@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That would be something i`d pay to watch any time of the day](http://9gag.com/gag/aO8zWL6)
- - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [Challenge accepted!](http://9gag.com/gag/ajPXw68)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 💣 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)<!-- MEMES:END -->
+ - 👉 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)<!-- MEMES:END -->
 
 ---
 

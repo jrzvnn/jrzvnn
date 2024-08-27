@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MySims is making a comeback on the Switch](https://www.theverge.com/2024/8/27/24229056/mysims-nintendo-switch-remastered-launch)
  - [Nest Learning Thermostat 4th-Gen review: Finally, Apple Home compatibility](https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users?utm_medium=rss)
+ - [Taylor Swift’s podcaster boyfriend has a new deal with Amazon](https://www.theverge.com/2024/8/27/24229515/travis-kelce-new-heights-podcast-ad-free-wondery-plus-amazon)
  - [Source: OpenAI showed a breakthrough called Strawberry to US natsec officials this summer; one of its top uses is to make training data for a new frontier model &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240827/p13#a240827p13)
- - [nOps, which helps companies optimize AWS spend, raised a $30M Series A led by Headlight Partners and says its customer base grew 450% over the past 18 months &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240827/p12#a240827p12)
- - [EV charging gets another massive funding push from Biden administration](https://www.theverge.com/2024/8/27/24229494/ev-charging-biden-funding-grants-infrastructure)
- - [New Apple research hints at how a Home Hub might be remotely controlled](https://appleinsider.com/articles/24/08/27/new-apple-research-hints-at-how-a-home-hub-might-be-remotely-controlled?utm_medium=rss)<!-- TECH:END -->
+ - [nOps, which helps companies optimize AWS spend, raised a $30M Series A led by Headlight Partners and says its customer base grew 450% over the past 18 months &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240827/p12#a240827p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

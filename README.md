@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Grid Is Adding Batteries at a Much Faster Rate Than Natural Gas](https://www.wired.com/story/us-grid-battery-solar-wind-natural-gas-rate/)
+ - [Limited outages are affecting Apple Books and Mac App Store](https://appleinsider.com/articles/24/08/27/limited-outages-are-affecting-apple-books-and-mac-app-store?utm_medium=rss)
  - [Best Solar Panel Installation Companies in Albuquerque, New Mexico](https://www.cnet.com/home/energy-and-utilities/best-albuquerque-solar-panel-installation-companies/#ftag=CAD590a51e)
  - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
- - [Best Vitamin Subscription for 2024](https://www.cnet.com/health/nutrition/best-vitamin-subscription/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Fold 6 Deals: Save Big With Trade-Ins](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
- - [Meta is ending support for custom face filters in its apps](https://www.theverge.com/2024/8/27/24229643/meta-spark-ar-effects-face-filters-shutdown-tiktok-snapchat)<!-- TECH:END -->
+ - [Best Vitamin Subscription for 2024](https://www.cnet.com/health/nutrition/best-vitamin-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

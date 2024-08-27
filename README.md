@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M loss in H1 2023, and says AI does the job of 700 employees &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240827/p10#a240827p10)
  - [Microsoft’s next big Windows 11 update significantly improves Ryzen gaming performance](https://www.theverge.com/2024/8/27/24229443/microsoft-windows-11-update-24h2-ryzen-cpu-performance-improvement)
- - [Tim Ballard’s Claims to Fight Sex Trafficking Made Him a MAGA Star. These Women Told Police He Abused Them](https://www.wired.com/story/tim-ballard-sex-trafficking-maga-star-women-police-abuse/)
- - [Garmin adds a bunch of features to make the Fenix 8 smarter](https://www.theverge.com/2024/8/27/24228712/garmin-fenix-8-enduro-3-smartwatch-wearables)
- - [South Dublin County Council rejects Google&#39;s plan to build a 72,400 square meter data center just outside Dublin for failing to meet sustainability requirements &lpar;Olivia Fletcher/Bloomberg&rpar;](http://www.techmeme.com/240827/p9#a240827p9)<!-- TECH:END -->
+ - [Garmin&#39;s Fenix 8 Takes on Apple Watch Ultra 2 With Monthlong Battery](https://www.cnet.com/tech/mobile/garmins-fenix-8-takes-on-apple-watch-ultra-2-with-monthlong-battery/#ftag=CAD590a51e)
+ - [iPhone 16 Design Rumors: The Physical Changes We Expect](https://www.cnet.com/tech/mobile/how-the-iphone-16s-design-may-change/#ftag=CAD590a51e)
+ - [Play Call of Duty: Black Ops 6 and More on Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/play-call-of-duty-black-ops-6-and-more-on-xbox-game-pass-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

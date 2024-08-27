@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The year is 3955...](http://9gag.com/gag/abApDnb)
- - 😝 [Two legends meet!](http://9gag.com/gag/aByWe2Z)
- - 💣 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)
+ - 😝 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
+ - 😝 [Only facts](http://9gag.com/gag/aAyd7np)
+ - 💣 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Yesrs ago a friend told me does not watch the news, I thought he was wrong...](http://9gag.com/gag/avyGw1M)<!-- MEMES:END -->
+ - 👉 [One of the best](http://9gag.com/gag/amoYZno)<!-- MEMES:END -->
 
 ---
 

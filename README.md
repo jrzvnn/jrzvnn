@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ex-Intel board member Lip-Bu Tan, an industry veteran, left over what he considered a bloated workforce, risk-averse culture, and lagging AI strategy &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240827/p19#a240827p19)
+ - [Dyson’s back with a smarter hair curler](https://www.theverge.com/2024/8/27/24229624/dyson-airwrap-id-beauty-tech)
  - [Cerebras launches the &quot;world&#39;s fastest&quot; AI inference service with &quot;GPU-impossible performance&quot;, costing 10+ cents per million tokens, to rival Nvidia &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240827/p18#a240827p18)
  - [Heat-related deaths are on the rise, but they don’t have to be](https://www.theverge.com/2024/8/27/24229551/heat-deaths-rise-research-climate-change)
- - [After 13 long years, Snapchat finally has a native iPad version](https://appleinsider.com/articles/24/08/27/after-13-long-years-snapchat-finally-has-a-native-ipad-version?utm_medium=rss)
- - [Instagram now lets users add text to photos right from its post editor, rather than needing a separate app, and add more photos as stickers on top of a photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240827/p17#a240827p17)
- - [How to watch Apple&#39;s iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/inside/iphone-16/tips/how-to-watch-apples-iphone-16-glowtime-event?utm_medium=rss)<!-- TECH:END -->
+ - [After 13 long years, Snapchat finally has a native iPad version](https://appleinsider.com/articles/24/08/27/after-13-long-years-snapchat-finally-has-a-native-ipad-version?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

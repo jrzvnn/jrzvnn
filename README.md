@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 💣 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
+ - 😝 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
+ - 😝 [Eeeee](http://9gag.com/gag/aByWzOZ)
+ - 💣 [The year is 3955...](http://9gag.com/gag/abApDnb)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
+ - 👉 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)<!-- MEMES:END -->
 
 ---
 

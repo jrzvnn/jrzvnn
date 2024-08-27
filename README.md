@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conversation with harley](http://9gag.com/gag/aW4mP2K)
- - 😝 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
- - 💣 [This deserves a debate](http://9gag.com/gag/a4PbBmm)
+ - 😝 [Watch your steps missy !](http://9gag.com/gag/a7orPrA)
+ - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
+ - 💣 [Equal payment](http://9gag.com/gag/ayNDZMV)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
+ - 👉 [I recognize the effort and good intentions, but I prefer it broken.](http://9gag.com/gag/aLnDOY6)<!-- MEMES:END -->
 
 ---
 

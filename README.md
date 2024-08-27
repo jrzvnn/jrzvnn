@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can a YouTube video really fix your wet phone?](https://www.theverge.com/2024/8/27/24228925/remove-water-phone-youtube-vergecast)
+ - [Nintendo Indie and Partner Direct: all the news and trailers](https://www.theverge.com/2024/8/27/24228945/nintendo-indie-partner-direct-news-trailers)
  - [Sonic The Hedgehog 3 trailer triples the action and the bad guys](https://www.theverge.com/24228966/sonic-the-hedgehog-3-trailer-keanu-reeves)
  - [Get a new MacBook every two years with this subscription service](https://appleinsider.com/articles/24/08/27/get-a-new-macbook-every-two-years-with-this-subscription-service?utm_medium=rss)
- - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
- - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)
- - [Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240827/p11#a240827p11)<!-- TECH:END -->
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

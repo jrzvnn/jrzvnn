@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
  - 😝 [Deep](http://9gag.com/gag/aVvq4M2)
- - 💣 [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)
+ - 😝 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
+ - 💣 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)<!-- MEMES:END -->
+ - 👉 [Meme in its natural habitat](http://9gag.com/gag/aqybVAR)<!-- MEMES:END -->
 
 ---
 

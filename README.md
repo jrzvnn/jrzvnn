@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google rolls out a Google Meet AI feature that automatically takes notes during meetings conducted in spoken English, available to select Workspace customers &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240827/p25#a240827p25)
- - [Tips for Choosing Your Home Generator](https://www.cnet.com/home/energy-and-utilities/how-to-choose-the-best-whole-home-generator/#ftag=CAD590a51e)
- - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
- - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
- - [The Apple Watch Ultra 2 is $100 off ahead of Apple’s next hardware event](https://www.theverge.com/2024/8/27/24229199/apple-watch-ultra-2-super-mario-rpg-remake-deal-sale)<!-- TECH:END -->
+ - [The Apple Watch Ultra 2 is $100 off ahead of Apple’s next hardware event](https://www.theverge.com/2024/8/27/24229199/apple-watch-ultra-2-super-mario-rpg-remake-deal-sale)
+ - [Google Meet’s automatic AI note-taking is here](https://www.theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch)
+ - [Self-driving truck company TuSimple, which delisted from Nasdaq in January, reaches a $189M settlement of a suit alleging fraud by overstating safety and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240827/p24#a240827p24)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

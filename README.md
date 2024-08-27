@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not Sure If Troll or Serious.](http://9gag.com/gag/a1mbBww)
- - 😝 [Big things going in at BIC](http://9gag.com/gag/axyVe6L)
- - 💣 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - 😝 [Equal payment](http://9gag.com/gag/ayNDZMV)
+ - 😝 [In horro movie](http://9gag.com/gag/ajPXvn0)
+ - 💣 [Smooth criminal](http://9gag.com/gag/a7orPom)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/aqybwXL)<!-- MEMES:END -->
+ - 👉 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)<!-- MEMES:END -->
 
 ---
 

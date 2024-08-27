@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg&#39;s letter to Jim Jordan gave Republicans just enough to claim a political win, without getting Meta in more trouble amid its FTC antitrust suit &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240827/p26#a240827p26)
+ - [The maker of the Palma has a new cheaper e-reader](https://www.theverge.com/2024/8/27/24229994/boox-go-6-palma-cheaper-e-reader)
  - [A Look Inside the Airbus Factory Revolutionizing the World of Airplanes](https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/)
- - [Google rolls out a Google Meet AI feature that automatically takes notes during meetings conducted in spoken English, available to select Workspace customers &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240827/p25#a240827p25)
- - [Tips for Choosing Your Home Generator](https://www.cnet.com/home/energy-and-utilities/how-to-choose-the-best-whole-home-generator/#ftag=CAD590a51e)
- - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
- - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Peak and Off-Peak Energy To Lower Your Utility Bill](https://www.cnet.com/how-to/peak-and-off-peak-energy-explainer-heres-the-cheapest-time-to-use-electricity/#ftag=CAD590a51e)
+ - [Google rolls out a Google Meet AI feature that automatically takes notes during meetings conducted in spoken English, available to select Workspace customers &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240827/p25#a240827p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

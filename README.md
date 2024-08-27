@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Equal payment](http://9gag.com/gag/ayNDZMV)
- - 😝 [In horro movie](http://9gag.com/gag/ajPXvn0)
- - 💣 [Smooth criminal](http://9gag.com/gag/a7orPom)
+ - 😝 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - 😝 [Deep](http://9gag.com/gag/aVvq4M2)
+ - 💣 [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)<!-- MEMES:END -->
+ - 👉 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 😝 [The Notting Hill Carnival in London, this weekend](http://9gag.com/gag/a7orgZe)
- - 💣 [A few seconds later and...](http://9gag.com/gag/aO8zn52)
+ - 😝 [Not Sure If Troll or Serious.](http://9gag.com/gag/a1mbBww)
+ - 😝 [Big things going in at BIC](http://9gag.com/gag/axyVe6L)
+ - 💣 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
+ - 👉 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/aqybwXL)<!-- MEMES:END -->
 
 ---
 

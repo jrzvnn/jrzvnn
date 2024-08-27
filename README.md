@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 😝 [Only facts](http://9gag.com/gag/aAyd7np)
+ - 😝 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 💣 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)<!-- MEMES:END -->
+ - 👉 [Bro learned something that day](http://9gag.com/gag/agmLeQK)<!-- MEMES:END -->
 
 ---
 

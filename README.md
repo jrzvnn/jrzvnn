@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deep](http://9gag.com/gag/aVvq4M2)
  - 😝 [Smooth criminal](http://9gag.com/gag/a7orPom)
- - 💣 [Conversation with harley](http://9gag.com/gag/aW4mP2K)
+ - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 💣 [TroIIing them](http://9gag.com/gag/a6Zb49N)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)<!-- MEMES:END -->
+ - 👉 [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)<!-- MEMES:END -->
 
 ---
 

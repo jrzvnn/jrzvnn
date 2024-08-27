@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
- - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
+ - 😝 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
+ - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - 💣 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Britain 2024](http://9gag.com/gag/a5QbAXq)<!-- MEMES:END -->
+ - 👉 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)<!-- MEMES:END -->
 
 ---
 

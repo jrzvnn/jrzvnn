@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concord. Spent $100+million. Dead on arrival](http://9gag.com/gag/amoYyW2)
- - 😝 [To the rescue](http://9gag.com/gag/aByWbqN)
- - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
- - 😝 [Liberals, why aren&#39;t you playing your game?](http://9gag.com/gag/aO8zOzR)
- - 👉 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)<!-- MEMES:END -->
+ - 😝 [Coming soon to Europe](http://9gag.com/gag/aPABz7G)
+ - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - 😝 [What you&#39;d say... And yes, its on the room with us right now](http://9gag.com/gag/aE0YyO9)
+ - 👉 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)<!-- MEMES:END -->
 
 ---
 

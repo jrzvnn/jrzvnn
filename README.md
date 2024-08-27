@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at &quot;Terrorgram&quot;, a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240827/p2#a240827p2)
- - [Release notes for the Android 14 downgrade OTA confirm Google delays Android 15 roll out to Pixel devices from September to October, possibly around 15th &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240827/p1#a240827p1)
+ - [Android 14 downgrade OTA release notes confirm Google has delayed the Android 15 roll out to Pixel devices from September to October, possibly around October 15 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240827/p1#a240827p1)
  - [Satechi 4-in-1 USB-C Hub review: Data transfer galore](https://appleinsider.com/articles/24/08/27/satechi-4-in-1-usb-c-hub-review-data-transfer-galore?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 27 #443](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-27-443/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 27, #177](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-27-177/#ftag=CAD590a51e)<!-- TECH:END -->

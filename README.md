@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
+ - 😝 [Payload deployed](http://9gag.com/gag/amoYwEv)
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)<!-- MEMES:END -->
+ - 👉 [Bro learned something that day](http://9gag.com/gag/agmLeQK)<!-- MEMES:END -->
 
 ---
 

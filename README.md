@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Equal payment](http://9gag.com/gag/ayNDZMV)
- - 😝 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
- - 💣 [I recognize the effort and good intentions, but I prefer it broken.](http://9gag.com/gag/aLnDOY6)
- - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
- - 👉 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)<!-- MEMES:END -->
+ - 😝 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
+ - 😝 [That f**king boulder!](http://9gag.com/gag/aPABLmV)
+ - 💣 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
+ - 😝 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 👉 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)<!-- MEMES:END -->
 
 ---
 

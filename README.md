@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conversation with harley](http://9gag.com/gag/aW4mP2K)
- - 😝 [The Notting Hill Carnival in London, this weekend](http://9gag.com/gag/a7orgZe)
- - 💣 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/aqybwXL)
+ - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
+ - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
+ - 👉 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)<!-- MEMES:END -->
 
 ---
 

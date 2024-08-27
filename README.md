@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Dublin County Council rejects Google&#39;s plan to build a 72,400 square meter data center just outside Dublin for failing to meet sustainability requirements &lpar;Olivia Fletcher/Bloomberg&rpar;](http://www.techmeme.com/240827/p9#a240827p9)
  - [Samsung plans to offer seven years of free Tizen OS updates for its AI-powered TVs, available to TVs from March 2024 and some 2023 models &lpar;Kim Eun-jin/Businesskorea&rpar;](http://www.techmeme.com/240827/p8#a240827p8)
  - [Microsoft isn’t removing the Control Panel from Windows anytime soon](https://www.theverge.com/2024/8/27/24229436/microsoft-windows-control-panel-removal)
  - [Steam hit 37M+ concurrent users on August 25 for the first time, up from the previous record of nearly 33.7M in January 2024, after Black Myth: Wukong&#39;s release &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240827/p7#a240827p7)
- - [In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade &lpar;Politico&rpar;](http://www.techmeme.com/240827/p6#a240827p6)
- - [The Last Round of SSDI Payments Is Coming: Here&#39;s When to Expect It](https://www.cnet.com/personal-finance/the-last-round-of-ssdi-payments-is-coming-heres-when-to-expect-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade &lpar;Politico&rpar;](http://www.techmeme.com/240827/p6#a240827p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

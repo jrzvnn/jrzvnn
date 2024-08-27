@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That f**king boulder!](http://9gag.com/gag/aPABLmV)
- - 😝 [We are cool once you get to know us homie!](http://9gag.com/gag/a0ebDOO)
- - 💣 [Meme in its natural habitat](http://9gag.com/gag/aqybVAR)
+ - 😝 [Conversation with harley](http://9gag.com/gag/aW4mP2K)
+ - 😝 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - 💣 [This deserves a debate](http://9gag.com/gag/a4PbBmm)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Men will be men](http://9gag.com/gag/abApL1r)<!-- MEMES:END -->
+ - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
 
 ---
 

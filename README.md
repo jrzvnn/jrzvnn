@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This deserves a debate](http://9gag.com/gag/a4PbBmm)
- - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
+ - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
  - 👉 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)<!-- MEMES:END -->
 

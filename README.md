@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
- - 😝 [Only facts](http://9gag.com/gag/aAyd7np)
- - 💣 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 😝 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [One of the best](http://9gag.com/gag/amoYZno)<!-- MEMES:END -->
+ - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
 
 ---
 

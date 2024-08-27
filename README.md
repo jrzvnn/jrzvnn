@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
- - 😝 [Britain 2024](http://9gag.com/gag/a5QbAXq)
- - 💣 [Eeeee](http://9gag.com/gag/aByWzOZ)
+ - 😝 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 💣 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Peace&#39;nt](http://9gag.com/gag/ayNDKLp)<!-- MEMES:END -->
+ - 👉 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)<!-- MEMES:END -->
 
 ---
 

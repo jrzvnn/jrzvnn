@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China Conquers Mexico&#39;s Automotive Market, and the US Is Worried](https://www.wired.com/story/china-conquers-mexican-automotive-market-and-the-us-is-worried/)
  - [Darkest Dungeon II brings its turn-based roadtrip to macOS](https://appleinsider.com/articles/24/08/27/darkest-dungeon-ii-brings-its-turn-based-roadtrip-to-macos?utm_medium=rss)
  - [Shein says it found two cases of child labor in its supply chain last year](https://www.theverge.com/2024/8/27/24229755/shein-child-labor-fast-fasahion-transparency-report)
- - [Only Days Remain to Blast Your Favorite Tunes With This JBL Portable Speaker for Just $70](https://www.cnet.com/deals/only-days-remain-to-blast-your-favorite-tunes-with-this-jbl-portable-speaker-for-just-70/#ftag=CAD590a51e)
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
  - [Promising Mpox Drug Fails in Trials as Virus Spreads](https://www.wired.com/story/a-promising-drug-for-mpox-just-failed-in-trials/)<!-- TECH:END -->
 

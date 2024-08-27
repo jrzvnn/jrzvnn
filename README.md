@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
- - 😝 [That f**king boulder!](http://9gag.com/gag/aPABLmV)
- - 💣 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
- - 😝 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
- - 👉 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)<!-- MEMES:END -->
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 💣 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)
+ - 😝 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
+ - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
 
 ---
 

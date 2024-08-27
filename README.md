@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonic The Hedgehog 3 trailer triples the action and the bad guys](https://www.theverge.com/24228966/sonic-the-hedgehog-3-trailer-keanu-reeves)
+ - [Get a new MacBook every two years with this subscription service](https://appleinsider.com/articles/24/08/27/get-a-new-macbook-every-two-years-with-this-subscription-service?utm_medium=rss)
  - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
  - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)
- - [Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240827/p11#a240827p11)
- - [Life is Strange: Double Exposure Returns Fan-Favorite Max For Another Mystery](https://www.cnet.com/tech/gaming/life-is-strange-double-exposure-returns-fan-favorite-max-for-another-mystery/#ftag=CAD590a51e)
- - [6 Common Habits That Could Be Damaging Your Vision Right Now](https://www.cnet.com/health/personal-care/common-habits-damaging-vision-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240827/p11#a240827p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

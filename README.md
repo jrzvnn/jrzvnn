@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 💣 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)<!-- MEMES:END -->
+ - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
 
 ---
 

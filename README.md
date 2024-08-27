@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam hit 37M+ concurrent users on August 25 for the first time, up from the previous record of nearly 33.7M in January 2024, after Black Myth: Wukong&#39;s release &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240827/p7#a240827p7)
  - [In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade &lpar;Politico&rpar;](http://www.techmeme.com/240827/p6#a240827p6)
  - [Samsung’s new AI smart TVs are getting seven years of OS updates](https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates)
  - [China&#39;s curbs on shipments of germanium and gallium, which are used to make chips, have led to an almost 2x increase in prices in Europe over the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/240827/p5#a240827p5)
- - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)
- - [Sony raises the PlayStation 5&#39;s price in Japan by 19% to ~$550, citing &quot;the severe external environment, including recent global economic fluctuations&quot; &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240827/p3#a240827p3)<!-- TECH:END -->
+ - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
  - 😝 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
- - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - 😝 [Refund didn\u2019t go as planned](http://9gag.com/gag/apRp7AM)
+ - 💣 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Promising Mpox Drug Fails in Trials as Virus Spreads](https://www.wired.com/story/a-promising-drug-for-mpox-just-failed-in-trials/)
  - [Web3 esports startup Gameplay Galaxy, focused on developing upcoming game Trial Xtreme Freedom, raised a $24M seed co-led by Blockchain Capital and Merit Circle &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240827/p23#a240827p23)
  - [The US Grid Is Adding Batteries at a Much Faster Rate Than Natural Gas](https://www.wired.com/story/us-grid-battery-solar-wind-natural-gas-rate/)
- - [Limited outages are affecting Apple Books and Mac App Store](https://appleinsider.com/articles/24/08/27/limited-outages-are-affecting-apple-books-and-mac-app-store?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Albuquerque, New Mexico](https://www.cnet.com/home/energy-and-utilities/best-albuquerque-solar-panel-installation-companies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Limited outages are affecting Apple Books and Mac App Store](https://appleinsider.com/articles/24/08/27/limited-outages-are-affecting-apple-books-and-mac-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

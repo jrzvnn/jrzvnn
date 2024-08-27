@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
- - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
+ - 😝 [That f**king boulder!](http://9gag.com/gag/aPABLmV)
+ - 😝 [We are cool once you get to know us homie!](http://9gag.com/gag/a0ebDOO)
+ - 💣 [Meme in its natural habitat](http://9gag.com/gag/aqybVAR)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)<!-- MEMES:END -->
+ - 👉 [Men will be men](http://9gag.com/gag/abApL1r)<!-- MEMES:END -->
 
 ---
 

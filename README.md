@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at &quot;Terrorgram&quot;, a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240827/p2#a240827p2)
- - [Best Internet Providers in Ontario, California](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-ohio/#ftag=CAD590a51e)
- - [Android 14 downgrade OTA release notes confirm Google has delayed the Android 15 roll out to Pixel devices from September to October, possibly around October 15 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240827/p1#a240827p1)
- - [Satechi 4-in-1 USB-C Hub review: Data transfer galore](https://appleinsider.com/articles/24/08/27/satechi-4-in-1-usb-c-hub-review-data-transfer-galore?utm_medium=rss)<!-- TECH:END -->
+ - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)
+ - [Sony raises the PlayStation 5&#39;s price in Japan by 19% to ~$550, citing &quot;the severe external environment, including recent global economic fluctuations&quot; &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240827/p3#a240827p3)
+ - [How I Saved Money Repairing My iPhone Without AppleCare](https://www.cnet.com/tech/mobile/how-i-saved-money-repairing-my-iphone-without-applecare/#ftag=CAD590a51e)
+ - [How Much Cheaper Is EV Charging vs Gasoline? We Crunched the Numbers and Found a Winner](https://www.cnet.com/roadshow/news/how-much-cheaper-is-ev-charging-vs-gasoline-we-crunched-the-numbers-and-found-a-winner/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Aug. 27, 2024: Where You Can Actually Earn Up to 5.25% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-27-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

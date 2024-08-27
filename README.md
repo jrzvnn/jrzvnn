@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Challenge accepted!](http://9gag.com/gag/ajPXw68)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 💣 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 😝 [This deserves a debate](http://9gag.com/gag/a4PbBmm)
+ - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)<!-- MEMES:END -->
+ - 👉 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)<!-- MEMES:END -->
 
 ---
 

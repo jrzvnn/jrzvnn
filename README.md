@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft isn’t removing the Control Panel from Windows anytime soon](https://www.theverge.com/2024/8/27/24229436/microsoft-windows-control-panel-removal)
  - [Steam hit 37M+ concurrent users on August 25 for the first time, up from the previous record of nearly 33.7M in January 2024, after Black Myth: Wukong&#39;s release &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240827/p7#a240827p7)
  - [In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade &lpar;Politico&rpar;](http://www.techmeme.com/240827/p6#a240827p6)
- - [Samsung’s new AI smart TVs are getting seven years of OS updates](https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates)
- - [China&#39;s curbs on shipments of germanium and gallium, which are used to make chips, have led to an almost 2x increase in prices in Europe over the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/240827/p5#a240827p5)
- - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)<!-- TECH:END -->
+ - [The Last Round of SSDI Payments Is Coming: Here&#39;s When to Expect It](https://www.cnet.com/personal-finance/the-last-round-of-ssdi-payments-is-coming-heres-when-to-expect-it/#ftag=CAD590a51e)
+ - [If You Get This Text Message, It’s Probably a Scam](https://www.cnet.com/how-to/if-you-get-this-text-message-its-probably-a-scam/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

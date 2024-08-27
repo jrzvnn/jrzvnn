@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ex-Intel board member Lip-Bu Tan, an industry veteran, left over what he considered a bloated workforce, risk-averse culture, and lagging AI strategy &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240827/p19#a240827p19)
- - [Dyson’s back with a smarter hair curler](https://www.theverge.com/2024/8/27/24229624/dyson-airwrap-id-beauty-tech)
- - [Cerebras launches the &quot;world&#39;s fastest&quot; AI inference service with &quot;GPU-impossible performance&quot;, costing 10+ cents per million tokens, to rival Nvidia &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240827/p18#a240827p18)
- - [Heat-related deaths are on the rise, but they don’t have to be](https://www.theverge.com/2024/8/27/24229551/heat-deaths-rise-research-climate-change)
- - [After 13 long years, Snapchat finally has a native iPad version](https://appleinsider.com/articles/24/08/27/after-13-long-years-snapchat-finally-has-a-native-ipad-version?utm_medium=rss)<!-- TECH:END -->
+ - [The crypto industry, heavily reliant on Telegram, has been Pavel Durov&#39;s loudest defender after his arrest; the Telegram-linked TON coin has a $13.7B market cap &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240827/p20#a240827p20)
+ - [Netflix Games Unveils Squid Game and More Coming to the Service Soon](https://www.cnet.com/tech/gaming/netflix-games-unveils-squid-game-and-more-coming-to-the-service-soon/#ftag=CAD590a51e)
+ - [Best Kitchen Faucets for 2024](https://www.cnet.com/news/best-kitchen-faucet/#ftag=CAD590a51e)
+ - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)
+ - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

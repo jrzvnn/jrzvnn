@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are still many more](https://www.reddit.com/r/memes/comments/1f2cny6/there_are_still_many_more/)
- - 😝 [Bro thought he over slept](https://www.reddit.com/r/funny/comments/1f2cbhy/bro_thought_he_over_slept/)
- - 💣 [In for a hard time](https://www.reddit.com/r/memes/comments/1f2bjro/in_for_a_hard_time/)
- - 😝 [Red Bull gives you car](https://www.reddit.com/r/memes/comments/1f2atcb/red_bull_gives_you_car/)
- - 👉 [Ubuntu Touch is pretty chill](https://www.reddit.com/r/memes/comments/1f2aqis/ubuntu_touch_is_pretty_chill/)<!-- MEMES:END -->
+ - 😝 [Concord. Spent $100+million. Dead on arrival](http://9gag.com/gag/amoYyW2)
+ - 😝 [To the rescue](http://9gag.com/gag/aByWbqN)
+ - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 😝 [Liberals, why aren&#39;t you playing your game?](http://9gag.com/gag/aO8zOzR)
+ - 👉 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)<!-- MEMES:END -->
 
 ---
 

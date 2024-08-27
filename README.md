@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few seconds later and...](http://9gag.com/gag/aO8zn52)
- - 😝 [In horro movie](http://9gag.com/gag/ajPXvn0)
- - 💣 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 😝 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - 😝 [The Notting Hill Carnival in London, this weekend](http://9gag.com/gag/a7orgZe)
+ - 💣 [A few seconds later and...](http://9gag.com/gag/aO8zn52)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)<!-- MEMES:END -->
+ - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coming soon to Europe](http://9gag.com/gag/aPABz7G)
- - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
- - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
- - 😝 [What you&#39;d say... And yes, its on the room with us right now](http://9gag.com/gag/aE0YyO9)
- - 👉 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)<!-- MEMES:END -->
+ - 😝 [Equal payment](http://9gag.com/gag/ayNDZMV)
+ - 😝 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 💣 [I recognize the effort and good intentions, but I prefer it broken.](http://9gag.com/gag/aLnDOY6)
+ - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
+ - 👉 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)<!-- MEMES:END -->
 
 ---
 

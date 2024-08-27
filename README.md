@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch your steps missy !](http://9gag.com/gag/a7orPrA)
- - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
- - 💣 [Equal payment](http://9gag.com/gag/ayNDZMV)
+ - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
+ - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [I recognize the effort and good intentions, but I prefer it broken.](http://9gag.com/gag/aLnDOY6)<!-- MEMES:END -->
+ - 👉 [Britain 2024](http://9gag.com/gag/a5QbAXq)<!-- MEMES:END -->
 
 ---
 

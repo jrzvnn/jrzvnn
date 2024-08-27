@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
- - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
- - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Britain 2024](http://9gag.com/gag/a5QbAXq)<!-- MEMES:END -->
+ - 😝 [There are still many more](https://www.reddit.com/r/memes/comments/1f2cny6/there_are_still_many_more/)
+ - 😝 [Bro thought he over slept](https://www.reddit.com/r/funny/comments/1f2cbhy/bro_thought_he_over_slept/)
+ - 💣 [In for a hard time](https://www.reddit.com/r/memes/comments/1f2bjro/in_for_a_hard_time/)
+ - 😝 [Red Bull gives you car](https://www.reddit.com/r/memes/comments/1f2atcb/red_bull_gives_you_car/)
+ - 👉 [Ubuntu Touch is pretty chill](https://www.reddit.com/r/memes/comments/1f2aqis/ubuntu_touch_is_pretty_chill/)<!-- MEMES:END -->
 
 ---
 

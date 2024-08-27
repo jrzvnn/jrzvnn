@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s curbs on shipments of germanium and gallium, which are used to make chips, have led to an almost 2x increase in prices in Europe over the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/240827/p5#a240827p5)
  - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)
  - [Sony raises the PlayStation 5&#39;s price in Japan by 19% to ~$550, citing &quot;the severe external environment, including recent global economic fluctuations&quot; &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240827/p3#a240827p3)
  - [How I Saved Money Repairing My iPhone Without AppleCare](https://www.cnet.com/tech/mobile/how-i-saved-money-repairing-my-iphone-without-applecare/#ftag=CAD590a51e)
- - [How Much Cheaper Is EV Charging vs Gasoline? We Crunched the Numbers and Found a Winner](https://www.cnet.com/roadshow/news/how-much-cheaper-is-ev-charging-vs-gasoline-we-crunched-the-numbers-and-found-a-winner/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Aug. 27, 2024: Where You Can Actually Earn Up to 5.25% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-27-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Cheaper Is EV Charging vs Gasoline? We Crunched the Numbers and Found a Winner](https://www.cnet.com/roadshow/news/how-much-cheaper-is-ev-charging-vs-gasoline-we-crunched-the-numbers-and-found-a-winner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

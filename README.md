@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US district judge orders Missouri&#39;s AG to halt his probe into Media Matters&#39; Nov. 2023 report about ads on X, after a similar order against Texas&#39; AG in April &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240826/p31#a240826p31)
  - [Low iPad mini stock could hint at impending upgrade with Apple Intelligence](https://appleinsider.com/articles/24/08/26/low-ipad-mini-stock-could-hint-at-impending-upgrade-with-apple-intelligence?utm_medium=rss)
  - [India&#39;s central bank says its CBDC pilot has 5M+ users and as many as 16 banks participating, but it&#39;s not rushing to roll out a full-scale implementation &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240826/p30#a240826p30)
  - [In a letter to US Rep. Jim Jordan, Mark Zuckerberg says he regrets Meta wasn&#39;t more outspoken about the Biden admin&#39;s pressure to restrict some COVID-19 content &lpar;Siobhan Hughes/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p29#a240826p29)
- - [&#39;Only Murders in the Building&#39;: Season 4 Release Date and Where to Stream](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-season-4-release-date-and-where-to-stream/#ftag=CAD590a51e)
- - [Sources: Google aims to slash what it spends on deals with some Australian outlets under the News Media Bargaining Code, after Meta said it wouldn&#39;t renew deals &lpar;Sam Buckingham-Jones/Australian ...&rpar;](http://www.techmeme.com/240826/p28#a240826p28)<!-- TECH:END -->
+ - [&#39;Only Murders in the Building&#39;: Season 4 Release Date and Where to Stream](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-season-4-release-date-and-where-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

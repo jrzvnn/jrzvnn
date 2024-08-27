@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A few seconds later and...](http://9gag.com/gag/aO8zn52)
  - 😝 [In horro movie](http://9gag.com/gag/ajPXvn0)
- - 😝 [Upvote if you have opened your eyes.](http://9gag.com/gag/ajPXvNp)
- - 💣 [Bok](http://9gag.com/gag/a6ZbezL)
+ - 💣 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)<!-- MEMES:END -->
+ - 👉 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)<!-- MEMES:END -->
 
 ---
 

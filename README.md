@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
- - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
- - 💣 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)
+ - 😝 [That would be something i`d pay to watch any time of the day](http://9gag.com/gag/aO8zWL6)
+ - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - 👉 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)<!-- MEMES:END -->
 
 ---
 

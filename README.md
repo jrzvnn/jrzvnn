@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based startup Supio, which uses AI to help lawyers analyze documents, raised a $25M Series A led by Sapphire Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240827/p22#a240827p22)
- - [Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Mark Zuckerberg responds to GOP pressure, says Biden pushed to ‘censor’ covid posts](https://www.theverge.com/2024/8/27/24229668/mark-zuckerberg-gop-pressure-biden-censor-covid-posts)
- - [Former staff of video games payments company Xsolla say in lawsuits that CEO Aleksandr Agapitov leans heavily on company revenue for his new, flashier lifestyle &lpar;Bloomberg&rpar;](http://www.techmeme.com/240827/p21#a240827p21)
- - [The crypto industry, heavily reliant on Telegram, has been Pavel Durov&#39;s loudest defender after his arrest; the Telegram-linked TON coin has a $13.7B market cap &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240827/p20#a240827p20)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Albuquerque, New Mexico](https://www.cnet.com/home/energy-and-utilities/best-albuquerque-solar-panel-installation-companies/#ftag=CAD590a51e)
+ - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [Best Vitamin Subscription for 2024](https://www.cnet.com/health/nutrition/best-vitamin-subscription/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Z Fold 6 Deals: Save Big With Trade-Ins](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
+ - [Meta is ending support for custom face filters in its apps](https://www.theverge.com/2024/8/27/24229643/meta-spark-ar-effects-face-filters-shutdown-tiktok-snapchat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

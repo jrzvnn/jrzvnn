@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple research hints at how a Home Hub might be remotely controlled](https://appleinsider.com/articles/24/08/27/new-apple-research-hints-at-how-a-home-hub-might-be-remotely-controlled?utm_medium=rss)
+ - [Sony’s PlayStation PC push now includes a controller customization app](https://www.theverge.com/2024/8/27/24229509/sony-playstation-dualsense-edge-controller-app-pc)
  - [Nest Learning Thermostat 4th-Gen review: Finally works for Apple Home users](https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users?utm_medium=rss)
  - [Can a YouTube video really fix your wet phone?](https://www.theverge.com/2024/8/27/24228925/remove-water-phone-youtube-vergecast)
- - [Nintendo Indie and Partner Direct: all the news and trailers](https://www.theverge.com/2024/8/27/24228945/nintendo-indie-partner-direct-news-trailers)
- - [Sonic the Hedgehog 3 trailer triples the action and the bad guys](https://www.theverge.com/24228966/sonic-the-hedgehog-3-trailer-keanu-reeves)
- - [Get a new MacBook every two years with this subscription service](https://appleinsider.com/articles/24/08/27/get-a-new-macbook-every-two-years-with-this-subscription-service?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo Indie and Partner Direct: all the news and trailers](https://www.theverge.com/2024/8/27/24228945/nintendo-indie-partner-direct-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

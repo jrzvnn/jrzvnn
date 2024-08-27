@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
- - 😝 [Refund didn\u2019t go as planned](http://9gag.com/gag/apRp7AM)
- - 💣 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 😝 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)
+ - 😝 [Yesrs ago a friend told me does not watch the news, I thought he was wrong...](http://9gag.com/gag/avyGw1M)
+ - 💣 [Peace&#39;nt](http://9gag.com/gag/ayNDKLp)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - 👉 [Travel warning!](http://9gag.com/gag/amoYQA9)<!-- MEMES:END -->
 
 ---
 

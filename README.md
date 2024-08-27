@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Release notes for the Android 14 downgrade OTA confirm Google delays Android 15 roll out to Pixel devices from September to October, possibly around 15th &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240827/p1#a240827p1)
  - [Satechi 4-in-1 USB-C Hub review: Data transfer galore](https://appleinsider.com/articles/24/08/27/satechi-4-in-1-usb-c-hub-review-data-transfer-galore?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 27 #443](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-27-443/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 27, #177](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-27-177/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 27, #1165](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-27-1165/#ftag=CAD590a51e)
- - [A US district judge orders Missouri&#39;s AG to halt his probe into Media Matters&#39; Nov. 2023 report about ads on X, after a similar order against Texas&#39; AG in April &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240826/p31#a240826p31)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 27, #1165](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-27-1165/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

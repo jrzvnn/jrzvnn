@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former staff of video games payments company Xsolla say in lawsuits that CEO Aleksandr Agapitov leans heavily on company revenue for his new, flashier lifestyle &lpar;Bloomberg&rpar;](http://www.techmeme.com/240827/p21#a240827p21)
  - [The crypto industry, heavily reliant on Telegram, has been Pavel Durov&#39;s loudest defender after his arrest; the Telegram-linked TON coin has a $13.7B market cap &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240827/p20#a240827p20)
  - [Netflix Games Unveils Squid Game and More Coming to the Service Soon](https://www.cnet.com/tech/gaming/netflix-games-unveils-squid-game-and-more-coming-to-the-service-soon/#ftag=CAD590a51e)
  - [Best Kitchen Faucets for 2024](https://www.cnet.com/news/best-kitchen-faucet/#ftag=CAD590a51e)
- - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)
- - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

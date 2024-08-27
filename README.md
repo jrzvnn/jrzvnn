@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Barbie Phone by HMD: An All-Pink Glittery Dumb Phone That Flips](https://www.wired.com/story/hmd-barbie-phone/)
+ - [HMD’s Barbie flip phone goes extremely hard](https://www.theverge.com/2024/8/27/24229775/hmd-barbie-flip-phone-price)
+ - [MakerDAO rebrands as Sky and debuts a new USDS stablecoin, but the token draws backlash after users noticed it allows the issuer to remotely freeze the asset &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240827/p28#a240827p28)
  - [Telegram’s CEO has taken a hands-off approach for years — now his luck might have run out](https://www.theverge.com/2024/8/27/24229935/telegram-pavel-durov-france-arrest-moderation-crime)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Source: last year, Meta abandoned plans to build its own custom chips for its AR glasses, instead opting to rely on third-party chipmakers like Qualcomm &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240827/p27#a240827p27)
- - [Mark Zuckerberg&#39;s letter to Jim Jordan gave Republicans just enough to claim a political win, without getting Meta in more trouble amid its FTC antitrust suit &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240827/p26#a240827p26)
- - [The maker of the Palma has a new cheaper e-reader](https://www.theverge.com/2024/8/27/24229994/boox-go-6-palma-cheaper-e-reader)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Deep](http://9gag.com/gag/aVvq4M2)
- - 😝 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
- - 💣 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 😝 [Smooth criminal](http://9gag.com/gag/a7orPom)
+ - 💣 [Conversation with harley](http://9gag.com/gag/aW4mP2K)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Meme in its natural habitat](http://9gag.com/gag/aqybVAR)<!-- MEMES:END -->
+ - 👉 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)<!-- MEMES:END -->
 
 ---
 

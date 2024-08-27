@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth criminal](http://9gag.com/gag/a7orPom)
+ - 😝 [Bok](http://9gag.com/gag/a6ZbezL)
  - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 💣 [TroIIing them](http://9gag.com/gag/a6Zb49N)
+ - 💣 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)
  - 😝 [The best part of life is all about surprises! Let&#39;s unwrap your gifts from Genshin and Xbox!](http://9gag.com/gag/a87y9Vp)
- - 👉 [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)<!-- MEMES:END -->
+ - 👉 [Freedom and democracy](http://9gag.com/gag/agmLb3K)<!-- MEMES:END -->
 
 ---
 

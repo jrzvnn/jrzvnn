@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
- - 😝 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)
- - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 💣 [Why is this so accurate](http://9gag.com/gag/a9yre40)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
  - 👉 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)<!-- MEMES:END -->
 

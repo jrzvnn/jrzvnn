@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sonos’ latest app update fixes just a fraction of its problems](https://www.theverge.com/2024/8/28/24230830/sonos-app-update-accessibility-stability-queue)
  - [CrowdStrike reports Q2 revenue up 32% YoY to $963.9M, vs. $958.6M est., and cuts its FY 2025 revenue and profit forecasts, after last month&#39;s Windows outage &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240828/p29#a240828p29)
  - [Martin Shkreli Made Copies of His $2 Million Wu-Tang Album—and Hid Them in ‘Safes All Around the World’](https://www.wired.com/story/martin-shkreli-wu-tang-album-copies/)
- - [HP reports Q3 revenue up 2.4% YoY to $13.5B, vs. $13.4B est., Printing revenue down 3% to $4.14B, and increases its share repurchase authorization to $10B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p28#a240828p28)
- - [Apple Music now lets you easily transfer playlists to YouTube Music](https://www.theverge.com/2024/8/28/24230713/apple-youtube-music-transfer-playlist-feature)<!-- TECH:END -->
+ - [Do You Hate Your Budget? Try This Instead](https://www.cnet.com/personal-finance/do-you-hate-your-budget-try-this-instead/#ftag=CAD590a51e)
+ - [Best Labor Day Appliance Deals: Discounts on Refrigerators, Washers, Air Fryers and More](https://www.cnet.com/deals/best-labor-day-appliance-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

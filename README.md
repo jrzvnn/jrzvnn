@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts: Pavel Durov&#39;s arrest may be an outlier as the legal bar is high in the US and Europe to prosecute executives for content posted on their tech platforms &lpar;New York Times&rpar;](http://www.techmeme.com/240828/p3#a240828p3)
+ - [Ryzen CPU owners can now download better gaming performance thanks to a Windows 11 update](https://www.theverge.com/2024/8/28/24230321/microsoft-windows-11-update-ryzen-cpu-performance-improvement)
  - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, as President Nicol&amp;aacute;s Maduro cracks down on the media &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)
  - [How Curtains, Blinds and Drapes Can Save You Money](https://www.cnet.com/how-to/save-energy-curtains-blinds-drapes/#ftag=CAD590a51e)
- - [Apple lays off about 100 services jobs across Apple Books, News](https://appleinsider.com/articles/24/08/28/apple-lays-off-about-100-services-jobs-across-apple-books-news?utm_medium=rss)
- - [Sources: Emmanuel Macron invited Pavel Durov to move Telegram to Paris in 2018; in 2017, a joint operation between French and UAE spies hacked Durov&#39;s iPhone &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p1#a240828p1)
- - [Starlink Can Get a Piece of the BEAD Pie, Says New NTIA Guidance](https://www.cnet.com/home/internet/starlink-can-get-a-piece-of-the-bead-pie-says-new-ntia-guidance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple lays off about 100 services jobs across Apple Books, News](https://appleinsider.com/articles/24/08/28/apple-lays-off-about-100-services-jobs-across-apple-books-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

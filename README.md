@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
+ - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
  - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
+ - 💣 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
+ - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
+ - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
 
 ---
 

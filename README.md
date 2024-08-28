@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
+ - [Sources: Zurich-based Swiss-Mile, which makes the autonomous Robotic Mule and Robotic Watchdog robots, is close to raising a $20M seed at a $100M+ valuation &lpar;Eyk Henning/Bloomberg&rpar;](http://www.techmeme.com/240828/p13#a240828p13)
  - [SpaceX Falcon 9 booster ‘tipped over’ into the ocean during landing](https://www.theverge.com/2024/8/28/24230383/spacex-falcon-9-booster-first-stage-crash-starlink-launch)
  - [Plaud unveils the $169 NotePin, an AI wearable to transcribe, summarize, and get action items from everyday interactions; some AI features cost $79 per year &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240828/p12#a240828p12)
- - [Investigation: a hacking group linked to Iran&#39;s Islamic Revolutionary Guard Corps has targeted former members of the Trump and Biden administrations since 2022 &lpar;CNN&rpar;](http://www.techmeme.com/240828/p11#a240828p11)
- - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
- - [The Plaud NotePin Is an AI Notetaker That Will Transcribe Your Meetings—and Your Entire Life](https://www.wired.com/story/plaud-note-pin-ai-wearable/)<!-- TECH:END -->
+ - [Investigation: a hacking group linked to Iran&#39;s Islamic Revolutionary Guard Corps has targeted former members of the Trump and Biden administrations since 2022 &lpar;CNN&rpar;](http://www.techmeme.com/240828/p11#a240828p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

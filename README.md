@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM and Samsung finalize deal for a $3.5 billion EV battery plant in Indiana](https://www.theverge.com/2024/8/28/24230407/gm-samsung-ev-battery-factory-deal-indiana)
  - [Environmental and health advocates accuse xAI of adding to pollution in Memphis, TN, by using unauthorized gas burning turbines at its new data center &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240828/p17#a240828p17)
  - [Notorious Iranian Hackers Have Been Targeting the Space Industry With a New Backdoor](https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/)
  - [iPhone 16 will lead Apple to record high $400 billion revenues in 2024](https://appleinsider.com/articles/24/08/28/iphone-16-will-lead-apple-to-record-high-400-billion-revenues-in-2024?utm_medium=rss)
- - [OpenSea says it has received a Wells notice from the US SEC calling NFTs sold on the platform securities &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)
- - [Super Micro delays filing its annual financial disclosures, a day after short-seller Hindenburg Research alleged &quot;glaring accounting red flags&quot;; SMCI drops 20%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p15#a240828p15)<!-- TECH:END -->
+ - [OpenSea says the US SEC sent it a Wells notice calling NFTs sold on the platform securities; CEO Devin Finzer says the company is &quot;ready to stand up and fight&quot; &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

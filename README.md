@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Signal President Meredith Whittaker on the app&#39;s 10th anniversary, growing in the EU, Pavel Durov&#39;s arrest, nonprofit status, X, US election, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240828/p8#a240828p8)
  - [Web browser startup Brave lays off 27 employees, after cutting 9% of its workforce in October 2023; PitchBook estimates that Brave has ~191 employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240828/p7#a240828p7)
  - [The Best Pixel 9 Cases and Accessories, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [Signal Is More Than Encrypted Messaging. Under Meredith Whittaker, It’s Out to Prove Surveillance Capitalism Wrong](https://www.wired.com/story/meredith-whittaker-signal/)
- - [Apple is cutting jobs across its Books and News apps](https://www.theverge.com/2024/8/28/24230344/apple-job-layoffs-books-news-apps-digital-services)
- - [iPhone 17 range may increase RAM to 12GB](https://appleinsider.com/articles/24/08/28/iphone-17-range-may-increase-ram-to-12gb?utm_medium=rss)<!-- TECH:END -->
+ - [A Food Safety Expert Explains Why &lpar;and How&rpar; You Should Defrost Your Freezer](https://www.cnet.com/how-to/a-food-safety-expert-explains-why-and-how-you-should-defrost-your-freezer/#ftag=CAD590a51e)
+ - [Use This Easy Trick to Test Egg Freshness](https://www.cnet.com/how-to/use-this-easy-trick-to-test-egg-freshness/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

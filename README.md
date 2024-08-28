@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
+ - [The Plaud NotePin Is an AI Notetaker That Will Transcribe Your Meetings—and Your Entire Life](https://www.wired.com/story/plaud-note-pin-ai-wearable/)
+ - [Plaud’s NotePin is another AI wearable for remembering everything](https://www.theverge.com/2024/8/28/24229510/plaud-notepin-ai-wearable-transcription)
  - [Apple Books, Mac App Store outages have been resolved](https://appleinsider.com/articles/24/08/28/apple-books-mac-app-store-outages-have-been-resolved?utm_medium=rss)
- - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)
- - [I Tried SideChef&#39;s RecipeGen AI to Re-Create a Restaurant Meal at Home. It Made Me Hangry](https://www.cnet.com/tech/services-and-software/i-tried-sidechefs-recipegen-ai-to-re-create-a-restaurant-meal-at-home-it-made-me-hangry/#ftag=CAD590a51e)
- - [Pixel 9 Pro XL vs. Galaxy S24 Ultra Camera Comparison: A High-End Head to Head](https://www.cnet.com/tech/mobile/pixel-9-pro-xl-vs-galaxy-s24-ultra-camera-comparison-a-high-end-head-to-head/#ftag=CAD590a51e)
- - [Should You Get a Bigger Solar Panel System if You Plan to Get an EV?](https://www.cnet.com/home/energy-and-utilities/should-you-get-bigger-solar-panel-system-for-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

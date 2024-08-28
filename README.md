@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is going to let preteens use Horizon Worlds](https://www.theverge.com/2024/8/28/24230531/meta-preteens-horizon-worlds)
+ - [Reddit is down with a ‘try again later’ error message](https://www.theverge.com/2024/8/28/24230832/reddit-down-outage-server-error-try-again-later-message)
+ - [Telegram Founder Pavel Durov Charged Over Alleged Criminal Activity on the App](https://www.wired.com/story/telegram-pavel-durov-indictment/)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Pavel Durov is charged in France for alleged complicity in the spread of CSAM and other crimes on Telegram, and allegations he refused to help authorities &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240828/p25#a240828p25)
- - [Meta is working on mixed-reality glasses, but they’re probably years away](https://www.theverge.com/2024/8/28/24230746/meta-mixed-reality-glasses-years-away)
- - [The Rings of Power season 2 is an even stronger expansion of Tolkien’s mythos](https://www.theverge.com/2024/8/28/24228958/amazon-rings-of-power-season-2-review)
- - [Best Internet Providers in Sandy Springs, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-sandy-springs-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pavel Durov is charged in France for complicity in the spread of CSAM and other crimes on Telegram; prosecutors set a &amp;euro;5M bail and ban him from leaving France &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240828/p25#a240828p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

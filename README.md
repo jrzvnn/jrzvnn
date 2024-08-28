@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
- - 😝 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
- - 👉 [See you in hell](http://9gag.com/gag/arybQeK)<!-- MEMES:END -->
+ - 😝 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
+ - 😝 [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)
+ - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
 
 ---
 

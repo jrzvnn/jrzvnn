@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Addigy introduces MDM solutions for controlling Apple Intelligence](https://appleinsider.com/articles/24/08/28/addigy-introduces-mdm-solutions-for-controlling-apple-intelligence?utm_medium=rss)
- - [ESPN’s new ‘Where to Watch’ service is a TV Guide for sports streaming](https://www.theverge.com/2024/8/28/24230579/espn-where-to-watch-sports-streaming-guide)
- - [Amazon and Bandai shutter anime MMO Blue Protocol](https://www.theverge.com/2024/8/28/24230555/amazon-games-blue-protocol-western-release-cancelled)
- - [Google plans to roll out image generation of people to Gemini paid users soon, after suspending the feature in February amid criticism about racial depictions &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240828/p18#a240828p18)
- - [The Mac mini doesn&#39;t sell in huge volumes, but is a crucial part of Apple&#39;s ecosystem](https://appleinsider.com/articles/24/08/28/the-mac-mini-doesnt-sell-in-huge-volumes-but-is-a-crucial-part-of-apples-ecosystem?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues third developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/28/apple-issues-third-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
+ - [Brilliant is back from the brink](https://www.theverge.com/2024/8/28/24230404/brilliant-nextgen-smart-home-company-buyers)
+ - [Nottingham Forest vs. Newcastle Livestream: How to Watch Carabao Cup Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-newcastle-livestream-how-to-watch-carabao-cup-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Google rolls out Imagen 3 to all Gemini users and Gems, which allows the creation of custom Gemini chatbots, to Gemini Advanced, Business, and Enterprise users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240828/p19#a240828p19)
+ - [Best Sonos Deals: Save on Premium Speakers, Soundbars and More](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

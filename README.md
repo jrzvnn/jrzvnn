@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Labor Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals/)
- - [French administrative document: alongside Pavel Durov, French authorities issued an arrest warrant for his Telegram co-founder brother Nikolai in March 2024 &lpar;Politico&rpar;](http://www.techmeme.com/240828/p9#a240828p9)
- - [The Paris Olympics Promised Flying Taxis—Here’s Why They Failed to Launch](https://www.wired.com/story/the-dream-of-flying-taxis-in-paris-failed-to-take-off/)
- - [Q&amp;A with Signal President Meredith Whittaker on the app&#39;s 10th anniversary, growing in the EU, Pavel Durov&#39;s arrest, nonprofit status, X, US election, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240828/p8#a240828p8)
- - [Web browser startup Brave lays off 27 employees, after cutting 9% of its workforce in October 2023; PitchBook estimates that Brave has ~191 employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240828/p7#a240828p7)<!-- TECH:END -->
+ - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)
+ - [Shokz’s new bone conduction headphones have a clever solution for bass](https://www.theverge.com/2024/8/28/24229891/shokz-openrun-pro-2-review-bone-conduction-headphones)
+ - [Uber tweaks its teen accounts to allow parents to book rides](https://www.theverge.com/2024/8/28/24229851/uber-teen-account-update-ride-booking-parent)
+ - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
+ - [Snap launches new safety tools and resources for US educators, and says Snapchat has 20M+ US teen users; Pew says 51% of US teens used Snapchat daily in 2023 &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/240828/p10#a240828p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

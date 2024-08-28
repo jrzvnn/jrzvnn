@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence Photo Clean Up shows up in iOS 18.1 beta](https://appleinsider.com/articles/24/08/28/apple-intelligence-photo-clean-up-shows-up-in-ios-181-beta?utm_medium=rss)
+ - [Waymo Is Picking Up at the Airport. That&#39;s a Big Deal](https://www.wired.com/story/waymo-is-picking-up-at-phoenix-airport/)
  - [Sources: Meta plans to release a new MR device codenamed Puffin in 2027, resembling a bulky pair of glasses with a second unit for battery and computing power &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240828/p22#a240828p22)
  - [The best Labor Day deals you can already get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [ESPN launches a Where to Watch feature on its website and app, which aims to be a universal guide for streaming sports with data from 250+ streaming services &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240828/p21#a240828p21)
- - [Best iPad Pro Deals: These Are the Best Prices on Apple&#39;s Latest Tablet](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)
- - [Outdoor Propane Pizza Oven](https://www.cnet.com/home/yard-and-outdoors/outdoor-propane-pizza-oven-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ESPN launches a Where to Watch feature on its website and app, which aims to be a universal guide for streaming sports with data from 250+ streaming services &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240828/p21#a240828p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

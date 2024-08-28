@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)
- - 😝 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)
- - 💣 [By digging such pits, people in Arusha, Tanzania, have managed to transform a desert area into a grassland](http://9gag.com/gag/arybQq7)
- - 😝 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
- - 👉 [Dear World..... This is Reality](http://9gag.com/gag/aVvqpV2)<!-- MEMES:END -->
+ - 😝 [I knew about this through 9gag now I&#39;m returning the favour to innocent curious minds, those assholes definitely should have gotten death sentences Japan law system is a f**king joke](http://9gag.com/gag/agmLwoq)
+ - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 😝 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 👉 [German Police taks out the trash](http://9gag.com/gag/ae9bEvv)<!-- MEMES:END -->
 
 ---
 

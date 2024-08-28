@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
- - 😝 [A perfect balance](http://9gag.com/gag/an7b6Y0)
- - 💣 [System is Failing](http://9gag.com/gag/aO8zw23)
- - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 👉 [Workers In Bern Switzerland Float Down The River To Commute](http://9gag.com/gag/azx8nBj)<!-- MEMES:END -->
+ - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 😝 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
+ - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 👉 [OddlySpecific](http://9gag.com/gag/aYQx2Nm)<!-- MEMES:END -->
 
 ---
 

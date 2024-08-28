@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
- - 😝 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
+ - 😝 [Payload deployed](http://9gag.com/gag/amoYwEv)
+ - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
  - 💣 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
+ - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
 
 ---
 

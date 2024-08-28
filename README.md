@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 will lead Apple to record high $400 billion revenues in 2024](https://appleinsider.com/articles/24/08/28/iphone-16-will-lead-apple-to-record-high-400-billion-revenues-in-2024?utm_medium=rss)
  - [OpenSea says it has received a Wells notice from the US SEC calling NFTs sold on the platform securities &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)
  - [Super Micro delays filing its annual financial disclosures, a day after short-seller Hindenburg Research alleged &quot;glaring accounting red flags&quot;; SMCI drops 20%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p15#a240828p15)
  - [The Best All-in-One Computers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-all-in-one-computers/)
- - [Shopify hires Mikhail Parakhin as its CTO; Parakhin had been Microsoft&#39;s CEO for advertising and web services until late March 2024 &lpar;Shopify&rpar;](http://www.techmeme.com/240828/p14#a240828p14)
- - [M4 MacBook Pro update looms as supply chain continues to ramp up](https://appleinsider.com/articles/24/08/28/m4-macbook-pro-update-looms-as-supply-chain-continues-to-ramp-up?utm_medium=rss)<!-- TECH:END -->
+ - [Shopify hires Mikhail Parakhin as its CTO; Parakhin had been Microsoft&#39;s CEO for advertising and web services until late March 2024 &lpar;Shopify&rpar;](http://www.techmeme.com/240828/p14#a240828p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

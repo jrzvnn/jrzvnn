@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: a hacking group linked to Iran&#39;s Islamic Revolutionary Guard Corps has targeted former members of the Trump and Biden administrations since 2022 &lpar;CNN&rpar;](http://www.techmeme.com/240828/p11#a240828p11)
  - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
+ - [This Secret Loophole Makes Leasing an EV Better Than Buying Right Now](https://www.cnet.com/roadshow/news/this-secret-loophole-makes-leasing-an-ev-better-than-buying-right-now/#ftag=CAD590a51e)
  - [The Plaud NotePin Is an AI Notetaker That Will Transcribe Your Meetings—and Your Entire Life](https://www.wired.com/story/plaud-note-pin-ai-wearable/)
- - [Plaud’s NotePin is another AI wearable for remembering everything](https://www.theverge.com/2024/8/28/24229510/plaud-notepin-ai-wearable-transcription)
- - [Apple Books, Mac App Store outages have been resolved](https://appleinsider.com/articles/24/08/28/apple-books-mac-app-store-outages-have-been-resolved?utm_medium=rss)
- - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)<!-- TECH:END -->
+ - [How Much Energy Does an Air Conditioner Use?](https://www.cnet.com/home/energy-and-utilities/how-much-energy-does-an-air-conditioner-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

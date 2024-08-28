@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 💣 [Why is this so accurate](http://9gag.com/gag/a9yre40)
- - 😝 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
- - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
+ - 😝 [Unreal](http://9gag.com/gag/a2vrgYw)
+ - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - 💣 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 😝 [One of the best](http://9gag.com/gag/amoYZno)
+ - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
 
 ---
 

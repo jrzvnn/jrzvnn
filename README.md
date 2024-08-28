@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switching to YouTube Music gets easier with new Apple Music playlist export tool](https://appleinsider.com/articles/24/08/27/switching-to-youtube-music-gets-easier-with-new-apple-music-playlist-export-tool?utm_medium=rss)
- - [Barbie Phone Reveal: A Vision in Pink, Complete With Mirror and Malibu Snake](https://www.cnet.com/tech/mobile/barbie-phone-reveal-a-vision-in-pink-complete-with-mirror-and-malibu-snake/#ftag=CAD590a51e)
- - [Barbie Phone by HMD: An All-Pink Glittery Dumb Phone That Flips](https://www.wired.com/story/hmd-barbie-phone/)
- - [HMD’s Barbie flip phone goes extremely hard](https://www.theverge.com/2024/8/27/24229775/hmd-barbie-flip-phone-price)
- - [MakerDAO rebrands as Sky and debuts a new USDS stablecoin, but the token draws backlash after users noticed it allows the issuer to remotely freeze the asset &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240827/p28#a240827p28)<!-- TECH:END -->
+ - [Kenya-based Wasoko and Egypt-based MaxAB, two of Africa&#39;s largest B2B e-commerce platforms, merge in an all-stock deal; the companies raised over $240M combined &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240827/p30#a240827p30)
+ - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
+ - [How call centers in the Philippines&#39; vast outsourcing industry are adopting AI tools to assist human operators, in an effort to stay competitive &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240827/p29#a240827p29)
+ - [AT&amp;T customers report wireless service has been down for hours](https://www.theverge.com/2024/8/27/24230144/att-outage-wireless-cellphone-service-down-sos-mode)
+ - [Best iPhone Fast Chargers at the Lowest Prices We Can Find](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

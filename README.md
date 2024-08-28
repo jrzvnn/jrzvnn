@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240828/p30#a240828p30)
  - [Sonos’ latest app update fixes just a fraction of its problems](https://www.theverge.com/2024/8/28/24230830/sonos-app-update-accessibility-stability-queue)
  - [CrowdStrike reports Q2 revenue up 32% YoY to $963.9M, vs. $958.6M est., and cuts its FY 2025 revenue and profit forecasts, after last month&#39;s Windows outage &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240828/p29#a240828p29)
  - [Martin Shkreli Made Copies of His $2 Million Wu-Tang Album—and Hid Them in ‘Safes All Around the World’](https://www.wired.com/story/martin-shkreli-wu-tang-album-copies/)
- - [Do You Hate Your Budget? Try This Instead](https://www.cnet.com/personal-finance/do-you-hate-your-budget-try-this-instead/#ftag=CAD590a51e)
- - [Best Labor Day Appliance Deals: Discounts on Refrigerators, Washers, Air Fryers and More](https://www.cnet.com/deals/best-labor-day-appliance-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Do You Hate Your Budget? Try This Instead](https://www.cnet.com/personal-finance/do-you-hate-your-budget-try-this-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

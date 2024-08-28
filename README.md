@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shopify hires Mikhail Parakhin as its CTO; Parakhin had been Microsoft&#39;s CEO for advertising and web services until late March 2024 &lpar;Shopify&rpar;](http://www.techmeme.com/240828/p14#a240828p14)
+ - [M4 MacBook Pro update looms as supply chain continues to ramp up](https://appleinsider.com/articles/24/08/28/m4-macbook-pro-update-looms-as-supply-chain-continues-to-ramp-up?utm_medium=rss)
+ - [Polestar CEO Thomas Ingenlath is stepping down amid flagging sales](https://www.theverge.com/2024/8/28/24230413/polestar-ceo-thomas-ingenlath-stepping-down)
  - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
- - [Sources: Zurich-based Swiss-Mile, which makes the autonomous Robotic Mule and Robotic Watchdog robots, is close to raising a $20M seed at a $100M+ valuation &lpar;Eyk Henning/Bloomberg&rpar;](http://www.techmeme.com/240828/p13#a240828p13)
- - [SpaceX Falcon 9 booster ‘tipped over’ into the ocean during landing](https://www.theverge.com/2024/8/28/24230383/spacex-falcon-9-booster-first-stage-crash-starlink-launch)
- - [Plaud unveils the $169 NotePin, an AI wearable to transcribe, summarize, and get action items from everyday interactions; some AI features cost $79 per year &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240828/p12#a240828p12)
- - [Investigation: a hacking group linked to Iran&#39;s Islamic Revolutionary Guard Corps has targeted former members of the Trump and Biden administrations since 2022 &lpar;CNN&rpar;](http://www.techmeme.com/240828/p11#a240828p11)<!-- TECH:END -->
+ - [Sources: Zurich-based Swiss-Mile, which makes the autonomous Robotic Mule and Robotic Watchdog robots, is close to raising a $20M seed at a $100M+ valuation &lpar;Eyk Henning/Bloomberg&rpar;](http://www.techmeme.com/240828/p13#a240828p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

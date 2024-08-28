@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok must face a lawsuit for recommending the viral ‘blackout challenge’](https://www.theverge.com/2024/8/28/24230523/tiktok-blackout-challenge-lawsuit-appeals-court)
- - [Tumblr will move all of its blogs to WordPress — and you won’t even notice a difference](https://www.theverge.com/2024/8/28/24230587/tumblr-move-blogs-wordpress-automattic)
- - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
- - [The rise and fall of OpenSea](https://www.theverge.com/24161573/opensea-crypto-nfts-workplace-rise-fall)
- - [Apple Wallet now supports Hawaii driver&#39;s licenses and state IDs](https://appleinsider.com/articles/24/08/28/apple-wallet-now-supports-hawaii-drivers-licenses-and-state-ids?utm_medium=rss)<!-- TECH:END -->
+ - [The best Labor Day deals you can already get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
+ - [ESPN launches a Where to Watch feature on its website and app, which aims to be a universal guide for streaming sports with data from 250+ streaming services &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240828/p21#a240828p21)
+ - [Best iPad Pro Deals: These Are the Best Prices on Apple&#39;s Latest Tablet](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)
+ - [Outdoor Propane Pizza Oven](https://www.cnet.com/home/yard-and-outdoors/outdoor-propane-pizza-oven-dpnl/#ftag=CAD590a51e)
+ - [Tempur-Pedic Pro Breeze 10-Month Review: How I Learned to Love Memory Foam](https://www.cnet.com/health/sleep/tempur-pedic-pro-breeze-long-term-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

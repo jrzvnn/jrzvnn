@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is in talks for a new funding round that would value it above $100B, with Thrive Capital and Microsoft among the investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p24#a240828p24)
  - [A US court rules TikTok must face a lawsuit over a 10-year-old&#39;s death and the &quot;blackout challenge&quot;, saying algorithmic curation isn&#39;t protected by Section 230 &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240828/p23#a240828p23)
  - [Hyundai’s next EV will be the three-row Ioniq 9 — and it’s headed for the US](https://www.theverge.com/2024/8/28/24230636/hyundai-ioniq-9-three-row-suv-us-extended-range)
  - [Best Solar Panel Installation Companies in Hawaii](https://www.cnet.com/home/energy-and-utilities/hawaii-solar-panels/#ftag=CAD590a51e)
- - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
- - [Keep Your Home Cool While Cutting Your Energy Bills](https://www.cnet.com/how-to/keep-your-home-cool-while-cutting-your-summer-energy-bills-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

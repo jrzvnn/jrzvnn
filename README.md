@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, amid President Nicol&amp;aacute;s Maduro&#39;s media crackdown &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)
  - [Apple lays off about 100 services jobs across Apple Books, News](https://appleinsider.com/articles/24/08/28/apple-lays-off-about-100-services-jobs-across-apple-books-news?utm_medium=rss)
  - [Sources: Emmanuel Macron invited Pavel Durov to move Telegram to Paris in 2018; in 2017, a joint operation between French and UAE spies hacked Durov&#39;s iPhone &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p1#a240828p1)
  - [Starlink Can Get a Piece of the BEAD Pie, Says New NTIA Guidance](https://www.cnet.com/home/internet/starlink-can-get-a-piece-of-the-bead-pie-says-new-ntia-guidance/#ftag=CAD590a51e)
- - [Hohem iSteady V3 review: Robust gimbal with a learning curve](https://appleinsider.com/articles/24/08/28/hohem-isteady-v3-review-robust-gimbal-with-a-learning-curve?utm_medium=rss)
- - [The Average Electric Bill in Illinois &lpar;and How to Lower It&rpar;](https://www.cnet.com/how-to/the-average-electric-bill-in-illinois-and-how-to-lower-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hohem iSteady V3 review: Robust gimbal with a learning curve](https://appleinsider.com/articles/24/08/28/hohem-isteady-v3-review-robust-gimbal-with-a-learning-curve?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

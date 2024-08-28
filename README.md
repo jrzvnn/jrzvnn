@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 😝 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)
+ - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
  - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
- - 💣 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)
- - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
+ - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
 
 ---
 

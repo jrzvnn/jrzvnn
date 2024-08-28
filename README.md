@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to roll out image generation of people to Gemini paid users soon, after suspending the feature in February amid criticism about racial depictions &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240828/p18#a240828p18)
  - [The Mac mini doesn&#39;t sell in huge volumes, but is a crucial part of Apple&#39;s ecosystem](https://appleinsider.com/articles/24/08/28/the-mac-mini-doesnt-sell-in-huge-volumes-but-is-a-crucial-part-of-apples-ecosystem?utm_medium=rss)
  - [The Trump Campaign’s Rhetoric About Women Sounds a Lot Like Andrew Tate’s](https://www.wired.com/story/trump-vance-campaign-rhetoric-women-andrew-tate/)
  - [Amazon slashes Apple&#39;s M3 iMac to $1,099, matching record low price](https://appleinsider.com/articles/24/08/28/amazon-slashes-apples-m3-imac-to-1099-matching-record-low-price?utm_medium=rss)
- - [Astronauts Stranded in Space: How They&#39;ll Be Rescued, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-how-theyll-be-rescued-when-theyll-be-home/#ftag=CAD590a51e)
  - [Generative AI Transformed English Homework. Math Is Next](https://www.wired.com/story/gauth-ai-math-homework-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

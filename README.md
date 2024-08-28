@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [Payload deployed](http://9gag.com/gag/amoYwEv)
  - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
  - 💣 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
- - 😝 [OddlySpecific](http://9gag.com/gag/aYQx2Nm)
- - 👉 [Rapture on order](http://9gag.com/gag/aLnDyQW)<!-- MEMES:END -->
+ - 😝 [Only in Thailand](http://9gag.com/gag/a34qmv3)
+ - 👉 [In Chile](http://9gag.com/gag/aXPq5rv)<!-- MEMES:END -->
 
 ---
 

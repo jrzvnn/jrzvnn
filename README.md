@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hugh Jackman used to be a teacher](http://9gag.com/gag/agmLzL6)
- - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
- - 😝 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)
- - 👉 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)<!-- MEMES:END -->
+ - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 😝 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - 💣 [Concord. Spent $100+million. Dead on arrival](http://9gag.com/gag/amoYyW2)
+ - 😝 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
 
 ---
 

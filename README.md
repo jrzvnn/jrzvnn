@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is in talks for a new funding round that would value it above $100B, with Thrive Capital and Microsoft among the investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p24#a240828p24)
+ - [Sources: OpenAI is in talks for a funding round valuing it above $100B; Thrive Capital is leading the round and will invest ~$1B, and Microsoft will also invest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p24#a240828p24)
  - [A US court rules TikTok must face a lawsuit over a 10-year-old&#39;s death and the &quot;blackout challenge&quot;, saying algorithmic curation isn&#39;t protected by Section 230 &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240828/p23#a240828p23)
  - [Hyundai’s next EV will be the three-row Ioniq 9 — and it’s headed for the US](https://www.theverge.com/2024/8/28/24230636/hyundai-ioniq-9-three-row-suv-us-extended-range)
  - [Best Solar Panel Installation Companies in Hawaii](https://www.cnet.com/home/energy-and-utilities/hawaii-solar-panels/#ftag=CAD590a51e)

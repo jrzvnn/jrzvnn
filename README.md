@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamists are the far right extremists](http://9gag.com/gag/aZZm6XV)
- - 😝 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/a34qO3r)
- - 💣 [Simple creatures](http://9gag.com/gag/amoY45d)
- - 😝 [Ex-f**king-cuse me? This shit WASNT cgi?](http://9gag.com/gag/avyGKv5)
- - 👉 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)<!-- MEMES:END -->
+ - 😝 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 💣 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
+ - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 👉 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)<!-- MEMES:END -->
 
 ---
 

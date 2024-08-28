@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 💣 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
+ - 😝 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
+ - 😝 [I knew about this through 9gag now I&#39;m returning the favour to innocent curious minds, those assholes definitely should have gotten death sentences Japan law system is a f**king joke](http://9gag.com/gag/agmLwoq)
+ - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
 
 ---
 

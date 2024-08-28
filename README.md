@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr will move all of its blogs to WordPress — and you won’t even notice a difference](https://www.theverge.com/2024/8/28/24230587/tumblr-move-blogs-wordpress-automattic)
+ - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
  - [The rise and fall of OpenSea](https://www.theverge.com/24161573/opensea-crypto-nfts-workplace-rise-fall)
  - [Apple Wallet now supports Hawaii driver&#39;s licenses and state IDs](https://appleinsider.com/articles/24/08/28/apple-wallet-now-supports-hawaii-drivers-licenses-and-state-ids?utm_medium=rss)
- - [16 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)
- - [Apple&#39;s eighth developer beta for its fall releases drops for testing](https://appleinsider.com/articles/24/08/28/apples-eighth-developer-beta-for-its-fall-releases-drops-for-testing?utm_medium=rss)
- - [French prosecutors say Telegram CEO Pavel Durov will be brought to court for a first appearance and a possible indictment and that his police custody has ended &lpar;Associated Press&rpar;](http://www.techmeme.com/240828/p20#a240828p20)<!-- TECH:END -->
+ - [16 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

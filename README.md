@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese meal delivery giant Meituan reports Q2 revenue up 21% YoY to ~$11.6B, above $11.3B est., as its core business expanded; its stock is up ~25% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p5#a240828p5)
- - [X updates Grok to direct users to Vote.gov for election queries, after a letter from five US secretaries of state warned of spreading election misinformation &lpar;Christine Fernando/Associated Press&rpar;](http://www.techmeme.com/240828/p4#a240828p4)
- - [X’s Grok bot now points to government website after election misinformation warnings](https://www.theverge.com/2024/8/28/24230325/x-grok-chatbot-election-misinformation-warnings-vote)
- - [Experts: Pavel Durov&#39;s arrest may be an outlier as the legal bar is high in the US and Europe to prosecute tech executives for content posted on their platforms &lpar;New York Times&rpar;](http://www.techmeme.com/240828/p3#a240828p3)
- - [Ryzen CPU owners can now download better gaming performance thanks to a Windows 11 update](https://www.theverge.com/2024/8/28/24230321/microsoft-windows-11-update-ryzen-cpu-performance-improvement)<!-- TECH:END -->
+ - [iPhone 17 range may increase RAM to 12GB](https://appleinsider.com/articles/24/08/28/iphone-17-range-may-increase-ram-to-12gb?utm_medium=rss)
+ - [How Telegram CEO Pavel Durov miscalculated on moderation, saying earlier in 2024 that he did not expect &quot;significant challenges&quot; despite new laws targeting tech &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p6#a240828p6)
+ - [The Big Interview Gets Even Bigger](https://www.wired.com/story/the-big-interview-gets-even-bigger/)
+ - [Signal Is More Than Encrypted Messaging. Under Meredith Whittaker, It’s Out to Prove Surveillance Capitalism Wrong](https://www.wired.com/story/meredith-whittaker-signal/)
+ - [Chinese meal delivery giant Meituan reports Q2 revenue up 21% YoY to ~$11.6B, above $11.3B est., as its core business expanded; its stock is up ~25% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p5#a240828p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

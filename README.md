@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
  - 😝 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
- - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
  - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
- - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
+ - 👉 [See you in hell](http://9gag.com/gag/arybQeK)<!-- MEMES:END -->
 
 ---
 

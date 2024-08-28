@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
  - 😝 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 😝 [Feminism is cancer](http://9gag.com/gag/aByWenN)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 ---
 

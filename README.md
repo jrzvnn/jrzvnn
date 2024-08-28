@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yelp sues Google, alleging Google used its dominance in general search to gain an unfair advantage in local search services and local search advertising markets &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240828/p32#a240828p32)
  - [Are Meta’s carbon emissions shrinking? Depends on how you look at it](https://www.theverge.com/2024/8/28/24230481/meta-sustainability-report-carbon-footprint-renewable-energy-climate-change)
  - [Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240828/p31#a240828p31)
- - [Yelp sues Google for antitrust violations](https://www.theverge.com/2024/8/28/24230905/yelp-google-antitrust-lawsuit)
- - [Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240828/p30#a240828p30)
- - [Sonos’ latest app update fixes just a fraction of its problems](https://www.theverge.com/2024/8/28/24230830/sonos-app-update-accessibility-stability-queue)<!-- TECH:END -->
+ - [How Many Solar Panels Do You Need to Charge Your EV?](https://www.cnet.com/home/energy-and-utilities/heres-how-many-solar-panels-youll-need-to-charge-your-ev/#ftag=CAD590a51e)
+ - [Yelp sues Google for antitrust violations](https://www.theverge.com/2024/8/28/24230905/yelp-google-antitrust-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 😝 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
- - 💣 [Concord. Spent $100+million. Dead on arrival](http://9gag.com/gag/amoYyW2)
  - 😝 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
- - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
+ - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
+ - 💣 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - 😝 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 👉 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)<!-- MEMES:END -->
 
 ---
 

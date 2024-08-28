@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Are Meta’s carbon emissions shrinking? Depends on how you look at it](https://www.theverge.com/2024/8/28/24230481/meta-sustainability-report-carbon-footprint-renewable-energy-climate-change)
+ - [Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240828/p31#a240828p31)
  - [Yelp sues Google for antitrust violations](https://www.theverge.com/2024/8/28/24230905/yelp-google-antitrust-lawsuit)
  - [Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240828/p30#a240828p30)
- - [Sonos’ latest app update fixes just a fraction of its problems](https://www.theverge.com/2024/8/28/24230830/sonos-app-update-accessibility-stability-queue)
- - [CrowdStrike reports Q2 revenue up 32% YoY to $963.9M, vs. $958.6M est., and cuts its FY 2025 revenue and profit forecasts, after last month&#39;s Windows outage &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240828/p29#a240828p29)
- - [Martin Shkreli Made Copies of His $2 Million Wu-Tang Album—and Hid Them in ‘Safes All Around the World’](https://www.wired.com/story/martin-shkreli-wu-tang-album-copies/)<!-- TECH:END -->
+ - [Sonos’ latest app update fixes just a fraction of its problems](https://www.theverge.com/2024/8/28/24230830/sonos-app-update-accessibility-stability-queue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

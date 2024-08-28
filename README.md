@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
  - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
  - 💣 [Why is this so accurate](http://9gag.com/gag/a9yre40)
- - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)<!-- MEMES:END -->
+ - 😝 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
+ - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - 💣 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
- - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
- - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
+ - 😝 [Islamists are the far right extremists](http://9gag.com/gag/aZZm6XV)
+ - 😝 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/a34qO3r)
+ - 💣 [Simple creatures](http://9gag.com/gag/amoY45d)
+ - 😝 [Ex-f**king-cuse me? This shit WASNT cgi?](http://9gag.com/gag/avyGKv5)
+ - 👉 [Dear World..... This is Reality](http://9gag.com/gag/aVvqpV2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - 😝 [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)
- - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
+ - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
+ - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
 
 ---
 

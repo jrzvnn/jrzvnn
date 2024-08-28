@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [GM and Samsung finalize deal for a $3.5 billion EV battery plant in Indiana](https://www.theverge.com/2024/8/28/24230407/gm-samsung-ev-battery-factory-deal-indiana)
  - [Environmental and health advocates accuse xAI of adding to pollution in Memphis, TN, by using unauthorized gas burning turbines at its new data center &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240828/p17#a240828p17)
  - [Notorious Iranian Hackers Have Been Targeting the Space Industry With a New Backdoor](https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/)
- - [iPhone 16 will lead Apple to record high $400 billion revenues in 2024](https://appleinsider.com/articles/24/08/28/iphone-16-will-lead-apple-to-record-high-400-billion-revenues-in-2024?utm_medium=rss)
- - [OpenSea says the US SEC sent it a Wells notice calling NFTs sold on the platform securities; CEO Devin Finzer says the company is &quot;ready to stand up and fight&quot; &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)<!-- TECH:END -->
+ - [Save Money While Staying Connected. Here are 8 Ways to Lower Your Internet Bill](https://www.cnet.com/home/internet/how-to-save-money-on-your-monthly-internet-bill/#ftag=CAD590a51e)
+ - [Best 3D Printers for 2024](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

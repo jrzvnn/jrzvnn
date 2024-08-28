@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenSea says it has received a Wells notice from the US SEC calling NFTs sold on the platform securities &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)
+ - [Super Micro delays filing its annual financial disclosures, a day after short-seller Hindenburg Research alleged &quot;glaring accounting red flags&quot;; SMCI drops 20%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p15#a240828p15)
  - [The Best All-in-One Computers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-all-in-one-computers/)
  - [Shopify hires Mikhail Parakhin as its CTO; Parakhin had been Microsoft&#39;s CEO for advertising and web services until late March 2024 &lpar;Shopify&rpar;](http://www.techmeme.com/240828/p14#a240828p14)
- - [M4 MacBook Pro update looms as supply chain continues to ramp up](https://appleinsider.com/articles/24/08/28/m4-macbook-pro-update-looms-as-supply-chain-continues-to-ramp-up?utm_medium=rss)
- - [Polestar CEO Thomas Ingenlath is stepping down amid flagging sales](https://www.theverge.com/2024/8/28/24230413/polestar-ceo-thomas-ingenlath-stepping-down)
- - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)<!-- TECH:END -->
+ - [M4 MacBook Pro update looms as supply chain continues to ramp up](https://appleinsider.com/articles/24/08/28/m4-macbook-pro-update-looms-as-supply-chain-continues-to-ramp-up?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

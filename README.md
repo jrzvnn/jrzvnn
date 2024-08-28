@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Books, Mac App Store outages have been resolved](https://appleinsider.com/articles/24/08/28/apple-books-mac-app-store-outages-have-been-resolved?utm_medium=rss)
  - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)
- - [Shokz’s new bone conduction headphones have a clever solution for bass](https://www.theverge.com/2024/8/28/24229891/shokz-openrun-pro-2-review-bone-conduction-headphones)
- - [Uber tweaks its teen accounts to allow parents to book rides](https://www.theverge.com/2024/8/28/24229851/uber-teen-account-update-ride-booking-parent)
- - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
- - [Snap launches new safety tools and resources for US educators, and says Snapchat has 20M+ US teen users; Pew says 51% of US teens used Snapchat daily in 2023 &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/240828/p10#a240828p10)<!-- TECH:END -->
+ - [I Tried SideChef&#39;s RecipeGen AI to Re-Create a Restaurant Meal at Home. It Made Me Hangry](https://www.cnet.com/tech/services-and-software/i-tried-sidechefs-recipegen-ai-to-re-create-a-restaurant-meal-at-home-it-made-me-hangry/#ftag=CAD590a51e)
+ - [Pixel 9 Pro XL vs. Galaxy S24 Ultra Camera Comparison: A High-End Head to Head](https://www.cnet.com/tech/mobile/pixel-9-pro-xl-vs-galaxy-s24-ultra-camera-comparison-a-high-end-head-to-head/#ftag=CAD590a51e)
+ - [Should You Get a Bigger Solar Panel System if You Plan to Get an EV?](https://www.cnet.com/home/energy-and-utilities/should-you-get-bigger-solar-panel-system-for-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

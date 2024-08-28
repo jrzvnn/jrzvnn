@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 👉 [Hide yo kids, hide yo wife, cause bad boys are in town.](http://9gag.com/gag/aAydAQg)<!-- MEMES:END -->
+ - 😝 [Massive win](http://9gag.com/gag/amoYeYV)
+ - 😝 [Spot on!](http://9gag.com/gag/a7orR4q)
+ - 💣 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)
+ - 😝 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)
+ - 👉 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)<!-- MEMES:END -->
 
 ---
 

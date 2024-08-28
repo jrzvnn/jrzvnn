@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is in talks for a funding round valuing it above $100B; Thrive Capital is leading the round and will invest ~$1B, and Microsoft will also invest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p24#a240828p24)
- - [A US court rules TikTok must face a lawsuit over a 10-year-old&#39;s death and the &quot;blackout challenge&quot;, saying algorithmic curation isn&#39;t protected by Section 230 &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240828/p23#a240828p23)
- - [Hyundai’s next EV will be the three-row Ioniq 9 — and it’s headed for the US](https://www.theverge.com/2024/8/28/24230636/hyundai-ioniq-9-three-row-suv-us-extended-range)
- - [Best Solar Panel Installation Companies in Hawaii](https://www.cnet.com/home/energy-and-utilities/hawaii-solar-panels/#ftag=CAD590a51e)
- - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [Pavel Durov is charged in France for alleged complicity in the spread of CSAM and other crimes on Telegram, and allegations he refused to help authorities &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240828/p25#a240828p25)
+ - [Meta is working on mixed-reality glasses, but they’re probably years away](https://www.theverge.com/2024/8/28/24230746/meta-mixed-reality-glasses-years-away)
+ - [The Rings of Power season 2 is an even stronger expansion of Tolkien’s mythos](https://www.theverge.com/2024/8/28/24228958/amazon-rings-of-power-season-2-review)
+ - [Best Internet Providers in Sandy Springs, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-sandy-springs-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

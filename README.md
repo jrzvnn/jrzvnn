@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
  - 😝 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
- - 😝 [I knew about this through 9gag now I&#39;m returning the favour to innocent curious minds, those assholes definitely should have gotten death sentences Japan law system is a f**king joke](http://9gag.com/gag/agmLwoq)
- - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
  - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
 
 ---

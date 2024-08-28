@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Labor Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals/)
+ - [French administrative document: alongside Pavel Durov, French authorities issued an arrest warrant for his Telegram co-founder brother Nikolai in March 2024 &lpar;Politico&rpar;](http://www.techmeme.com/240828/p9#a240828p9)
+ - [The Paris Olympics Promised Flying Taxis—Here’s Why They Failed to Launch](https://www.wired.com/story/the-dream-of-flying-taxis-in-paris-failed-to-take-off/)
  - [Q&amp;A with Signal President Meredith Whittaker on the app&#39;s 10th anniversary, growing in the EU, Pavel Durov&#39;s arrest, nonprofit status, X, US election, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240828/p8#a240828p8)
- - [Web browser startup Brave lays off 27 employees, after cutting 9% of its workforce in October 2023; PitchBook estimates that Brave has ~191 employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240828/p7#a240828p7)
- - [The Best Pixel 9 Cases and Accessories, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [A Food Safety Expert Explains Why &lpar;and How&rpar; You Should Defrost Your Freezer](https://www.cnet.com/how-to/a-food-safety-expert-explains-why-and-how-you-should-defrost-your-freezer/#ftag=CAD590a51e)
- - [Use This Easy Trick to Test Egg Freshness](https://www.cnet.com/how-to/use-this-easy-trick-to-test-egg-freshness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Web browser startup Brave lays off 27 employees, after cutting 9% of its workforce in October 2023; PitchBook estimates that Brave has ~191 employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240828/p7#a240828p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

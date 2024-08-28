@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)
  - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 💣 [One of the best](http://9gag.com/gag/amoYZno)
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
+ - 😝 [One of the best](http://9gag.com/gag/amoYZno)
+ - 💣 [You&#39;re my sister! Only by blood..](http://9gag.com/gag/an7bPVz)
+ - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 👉 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [One of the best](http://9gag.com/gag/amoYZno)
+ - 😝 [Afghanistan to Pakistan hashish and opium smuggling... Now this is a green company! No fossil fuel, just pure kinetic power....](http://9gag.com/gag/aVvq8BP)
+ - 💣 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)<!-- MEMES:END -->
+ - 👉 [You&#39;re my sister! Only by blood..](http://9gag.com/gag/an7bPVz)<!-- MEMES:END -->
 
 ---
 

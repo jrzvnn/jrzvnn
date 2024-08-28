@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues third developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/28/apple-issues-third-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
- - [Brilliant is back from the brink](https://www.theverge.com/2024/8/28/24230404/brilliant-nextgen-smart-home-company-buyers)
- - [Nottingham Forest vs. Newcastle Livestream: How to Watch Carabao Cup Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-newcastle-livestream-how-to-watch-carabao-cup-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Google rolls out Imagen 3 to all Gemini users and Gems, which allows the creation of custom Gemini chatbots, to Gemini Advanced, Business, and Enterprise users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240828/p19#a240828p19)
- - [Best Sonos Deals: Save on Premium Speakers, Soundbars and More](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The rise and fall of OpenSea](https://www.theverge.com/24161573/opensea-crypto-nfts-workplace-rise-fall)
+ - [Apple Wallet now supports Hawaii driver&#39;s licenses and state IDs](https://appleinsider.com/articles/24/08/28/apple-wallet-now-supports-hawaii-drivers-licenses-and-state-ids?utm_medium=rss)
+ - [16 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)
+ - [Apple&#39;s eighth developer beta for its fall releases drops for testing](https://appleinsider.com/articles/24/08/28/apples-eighth-developer-beta-for-its-fall-releases-drops-for-testing?utm_medium=rss)
+ - [French prosecutors say Telegram CEO Pavel Durov will be brought to court for a first appearance and a possible indictment and that his police custody has ended &lpar;Associated Press&rpar;](http://www.techmeme.com/240828/p20#a240828p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

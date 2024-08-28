@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is laying off ~100 people in its services group in a rare move, impacting Apple Books, News, and other teams, as part of a shift in priorities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240827/p32#a240827p32)
  - [iPhone Users on AT&amp;T Report Being Stuck in SOS Mode](https://www.cnet.com/tech/mobile/iphone-users-on-at-t-report-being-stuck-in-sos-mode/#ftag=CAD590a51e)
  - [Three child safety advocacy groups from the US, UK, and Canada say their outreach to Telegram to flag CSAM on the platform has largely been ignored &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240827/p31#a240827p31)
  - [Kenya-based Wasoko and Egypt-based MaxAB, two of Africa&#39;s largest B2B e-commerce platforms, merge in an all-stock deal; the companies raised over $240M combined &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240827/p30#a240827p30)
- - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
- - [How call centers in the Philippines&#39; vast outsourcing industry are adopting AI tools to assist human operators, in an effort to stay competitive &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240827/p29#a240827p29)<!-- TECH:END -->
+ - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

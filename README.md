@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP reports Q3 revenue up 2.4% YoY to $13.5B, vs. $13.4B est., Printing revenue down 3% to $4.14B, and increases its share repurchase authorization to $10B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p28#a240828p28)
+ - [Apple Music now lets you easily transfer playlists to YouTube Music](https://www.theverge.com/2024/8/28/24230713/apple-youtube-music-transfer-playlist-feature)
  - [Telegram CEO charged in French criminal investigation](https://www.theverge.com/2024/8/28/24230448/telegram-ceo-pavel-durov-charges-france)
  - [Nvidia reports Q2 revenue up 122% YoY to $30B, vs. $28.7B est., forecasts Q3 revenue above est., and says it approved an additional $50B in share buybacks &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240828/p27#a240828p27)
- - [Salesforce reports Q2 revenue up 8% YoY to $9.33B, vs. $9.23B est., net income of $1.43B, compared to $1.27B a year ago, and says CFO Amy Weaver will step down &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240828/p26#a240828p26)
- - [Meta is going to let preteens use Horizon Worlds](https://www.theverge.com/2024/8/28/24230531/meta-preteens-horizon-worlds)
- - [Reddit is down with a ‘try again later’ error message](https://www.theverge.com/2024/8/28/24230832/reddit-down-outage-server-error-try-again-later-message)<!-- TECH:END -->
+ - [Salesforce reports Q2 revenue up 8% YoY to $9.33B, vs. $9.23B est., net income of $1.43B, compared to $1.27B a year ago, and says CFO Amy Weaver will step down &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240828/p26#a240828p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

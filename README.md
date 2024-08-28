@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/a34qO3r)
  - 💣 [Simple creatures](http://9gag.com/gag/amoY45d)
  - 😝 [Ex-f**king-cuse me? This shit WASNT cgi?](http://9gag.com/gag/avyGKv5)
- - 👉 [Dear World..... This is Reality](http://9gag.com/gag/aVvqpV2)<!-- MEMES:END -->
+ - 👉 [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)<!-- MEMES:END -->
 
 ---
 

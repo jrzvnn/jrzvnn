@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM and Samsung finalize deal for a $3.5 billion EV battery plant in Indiana](https://www.theverge.com/2024/8/28/24230407/gm-samsung-ev-battery-factory-deal-indiana)
- - [Environmental and health advocates accuse xAI of adding to pollution in Memphis, TN, by using unauthorized gas burning turbines at its new data center &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240828/p17#a240828p17)
- - [Notorious Iranian Hackers Have Been Targeting the Space Industry With a New Backdoor](https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/)
- - [iPhone 16 will lead Apple to record high $400 billion revenues in 2024](https://appleinsider.com/articles/24/08/28/iphone-16-will-lead-apple-to-record-high-400-billion-revenues-in-2024?utm_medium=rss)
- - [OpenSea says the US SEC sent it a Wells notice calling NFTs sold on the platform securities; CEO Devin Finzer says the company is &quot;ready to stand up and fight&quot; &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)<!-- TECH:END -->
+ - [The Mac mini doesn&#39;t sell in huge volumes, but is a crucial part of Apple&#39;s ecosystem](https://appleinsider.com/articles/24/08/28/the-mac-mini-doesnt-sell-in-huge-volumes-but-is-a-crucial-part-of-apples-ecosystem?utm_medium=rss)
+ - [The Trump Campaign’s Rhetoric About Women Sounds a Lot Like Andrew Tate’s](https://www.wired.com/story/trump-vance-campaign-rhetoric-women-andrew-tate/)
+ - [Amazon slashes Apple&#39;s M3 iMac to $1,099, matching record low price](https://appleinsider.com/articles/24/08/28/amazon-slashes-apples-m3-imac-to-1099-matching-record-low-price?utm_medium=rss)
+ - [Astronauts Stranded in Space: How They&#39;ll Be Rescued, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-how-theyll-be-rescued-when-theyll-be-home/#ftag=CAD590a51e)
+ - [Generative AI Transformed English Homework. Math Is Next](https://www.wired.com/story/gauth-ai-math-homework-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

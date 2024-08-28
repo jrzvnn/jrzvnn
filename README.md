@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
  - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 💣 [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)
+ - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
  - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 👉 [Hide yo kids, hide yo wife, cause bad boys are in town.](http://9gag.com/gag/aAydAQg)<!-- MEMES:END -->
 
 ---
 

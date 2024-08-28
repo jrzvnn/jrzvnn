@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 😝 [Feminism is cancer](http://9gag.com/gag/aByWenN)
- - 💣 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)
  - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 👉 [See you in hell](http://9gag.com/gag/arybQeK)<!-- MEMES:END -->
+ - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 💣 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)
+ - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
 
 ---
 

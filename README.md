@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese meal delivery giant Meituan reports Q2 revenue up 21% YoY to ~$11.6B, above $11.3B est., as its core business expanded; its stock is up ~25% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p5#a240828p5)
  - [X updates Grok to direct users to Vote.gov for election queries, after a letter from five US secretaries of state warned of spreading election misinformation &lpar;Christine Fernando/Associated Press&rpar;](http://www.techmeme.com/240828/p4#a240828p4)
  - [X’s Grok bot now points to government website after election misinformation warnings](https://www.theverge.com/2024/8/28/24230325/x-grok-chatbot-election-misinformation-warnings-vote)
  - [Experts: Pavel Durov&#39;s arrest may be an outlier as the legal bar is high in the US and Europe to prosecute tech executives for content posted on their platforms &lpar;New York Times&rpar;](http://www.techmeme.com/240828/p3#a240828p3)
- - [Ryzen CPU owners can now download better gaming performance thanks to a Windows 11 update](https://www.theverge.com/2024/8/28/24230321/microsoft-windows-11-update-ryzen-cpu-performance-improvement)
- - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, as President Nicol&amp;aacute;s Maduro cracks down on the media &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)<!-- TECH:END -->
+ - [Ryzen CPU owners can now download better gaming performance thanks to a Windows 11 update](https://www.theverge.com/2024/8/28/24230321/microsoft-windows-11-update-ryzen-cpu-performance-improvement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

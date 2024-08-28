@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok must face a lawsuit for recommending the viral ‘blackout challenge’](https://www.theverge.com/2024/8/28/24230523/tiktok-blackout-challenge-lawsuit-appeals-court)
  - [Tumblr will move all of its blogs to WordPress — and you won’t even notice a difference](https://www.theverge.com/2024/8/28/24230587/tumblr-move-blogs-wordpress-automattic)
  - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
  - [The rise and fall of OpenSea](https://www.theverge.com/24161573/opensea-crypto-nfts-workplace-rise-fall)
- - [Apple Wallet now supports Hawaii driver&#39;s licenses and state IDs](https://appleinsider.com/articles/24/08/28/apple-wallet-now-supports-hawaii-drivers-licenses-and-state-ids?utm_medium=rss)
- - [16 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [Apple Wallet now supports Hawaii driver&#39;s licenses and state IDs](https://appleinsider.com/articles/24/08/28/apple-wallet-now-supports-hawaii-drivers-licenses-and-state-ids?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

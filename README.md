@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 💣 [Payload deployed](http://9gag.com/gag/amoYwEv)
+ - 😝 [Payload deployed](http://9gag.com/gag/amoYwEv)
+ - 😝 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
+ - 💣 [Gamestop return.](http://9gag.com/gag/abAp8OB)
  - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
  - 👉 [Rapture on order](http://9gag.com/gag/aLnDyQW)<!-- MEMES:END -->
 

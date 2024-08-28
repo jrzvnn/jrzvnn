@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - 😝 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)
+ - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
  - 😝 [Who needs sleep when you can have a tank marathon?](http://9gag.com/gag/a87ygX3)
- - 👉 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)<!-- MEMES:END -->
+ - 👉 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)<!-- MEMES:END -->
 
 ---
 

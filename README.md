@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pay it forward guys](http://9gag.com/gag/agmLwyn)
- - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 💣 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)
- - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 👉 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)<!-- MEMES:END -->
+ - 😝 [Simple creatures](http://9gag.com/gag/amoY45d)
+ - 😝 [Who let the...](http://9gag.com/gag/avyGN55)
+ - 💣 [Ex-f**king-cuse me? This shit WASNT cgi?](http://9gag.com/gag/avyGKv5)
+ - 😝 [System is Failing](http://9gag.com/gag/aO8zw23)
+ - 👉 [Dear World..... This is Reality](http://9gag.com/gag/aVvqpV2)<!-- MEMES:END -->
 
 ---
 

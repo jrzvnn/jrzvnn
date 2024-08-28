@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 😝 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
- - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 💣 [Payload deployed](http://9gag.com/gag/amoYwEv)
  - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - 👉 [OddlySpecific](http://9gag.com/gag/aYQx2Nm)<!-- MEMES:END -->
+ - 👉 [Rapture on order](http://9gag.com/gag/aLnDyQW)<!-- MEMES:END -->
 
 ---
 

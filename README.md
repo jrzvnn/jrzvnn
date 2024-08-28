@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unreal](http://9gag.com/gag/a2vrgYw)
- - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
- - 💣 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
- - 😝 [One of the best](http://9gag.com/gag/amoYZno)
- - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
+ - 😝 [Hugh Jackman used to be a teacher](http://9gag.com/gag/agmLzL6)
+ - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 💣 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 😝 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)
+ - 👉 [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)<!-- MEMES:END -->
 
 ---
 

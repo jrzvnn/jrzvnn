@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember to empty your arms if you sit a lot](http://9gag.com/gag/ayNDg8W)
- - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
- - 💣 [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
+ - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
+ - 👉 [Extreme](http://9gag.com/gag/abAp88O)<!-- MEMES:END -->
 
 ---
 

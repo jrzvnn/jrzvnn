@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says its Llama models were downloaded ~350M times, are used by AT&amp;T and other companies, and usage via cloud providers more than doubled from May to July &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240829/p20#a240829p20)
- - [Powerful Spyware Exploits Enable a New String of ‘Watering Hole’ Attacks](https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/)
- - [Why Wait for Labor Day When You Can Save Up to $700 on Roborock Robot Vacuums Right Now?](https://www.cnet.com/deals/why-wait-for-labor-day-when-you-can-save-up-to-700-on-roborock-robot-vacuums-right-now/#ftag=CAD590a51e)
- - [Here&#39;s Why You Should Defrost Your Freezer, According to an Exprert](https://www.cnet.com/how-to/heres-why-you-should-defrost-your-freezer-according-to-an-exprert/#ftag=CAD590a51e)
- - [Don&#39;t Put Your Thermostat in These Places. It Could Cost You](https://www.cnet.com/home/energy-and-utilities/dont-put-your-thermostat-in-these-places-it-could-cost-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon launches Labor Day sale on Apple, save up to $500](https://appleinsider.com/articles/24/08/26/amazon-launches-labor-day-sale-on-apple-save-up-to-500?utm_medium=rss)
+ - [Apple Sports Adds NFL, College Football Support, Preps for Live Activities With iOS 18](https://www.cnet.com/tech/mobile/apple-sports-adds-nfl-college-football-support-preps-for-live-activities-with-ios-18/#ftag=CAD590a51e)
+ - [The Best Compact Cameras, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-compact-cameras-for-photo-and-video/)
+ - [Best Innerspring Mattress in 2024](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)
+ - [Best Vacuums for Pet Hair for 2024](https://www.cnet.com/home/kitchen-and-household/best-vacuum-for-pet-hair/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

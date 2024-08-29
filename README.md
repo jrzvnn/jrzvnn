@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at the AI-safety community&#39;s loss of prominence and lessons learned, such as not to trust AI companies&#39; promises to cooperate with regulators &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/240829/p3#a240829p3)
  - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)
  - [Kuo: in the 2025 iPhone lineup, only the iPhone 17 Pro Max will have 12GB DRAM and an upgraded cooling system combining vapor chamber tech and graphite sheets &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/240829/p1#a240829p1)
- - [Want to Get The Right Heat Pump Installation? Here&#39;s How](https://www.cnet.com/home/energy-and-utilities/heres-how-to-pick-the-right-size-heat-pump-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

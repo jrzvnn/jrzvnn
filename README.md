@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Huawei reports Q2 revenue up 33.7% YoY to ~$33.6B, rising for the sixth straight quarter, and net profit down 18.6% YoY to ~$5B, ahead of the Mate 70&#39;s launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p6#a240829p6)
  - [As Chinese EV manufacturers consolidate and close, EV owners say they&#39;re losing access to smartphone app updates and features that rely on cloud services &lpar;Tianyu Fang/Rest of World&rpar;](http://www.techmeme.com/240829/p5#a240829p5)
- - [Nab 10 Free Meals and More Perks From HelloFresh for a Limited Time](https://www.cnet.com/deals/nab-10-free-meals-and-more-perks-from-hellofresh-for-a-limited-time/#ftag=CAD590a51e)
- - [Colorado Solar Incentives: Tax Breaks, Rebates, Net Metering and More](https://www.cnet.com/home/energy-and-utilities/colorado-solar-incentives-tax-breaks-net-metering-rebates-and-more/#ftag=CAD590a51e)
- - [A look at Coin Master, a coin looter game that passed $6B in gross revenue, scaling from $0 in global monthly customer spend in 2015 to $113M in May 2020 &lpar;Samuel Aune/Sensor Tower&rpar;](http://www.techmeme.com/240829/p4#a240829p4)<!-- TECH:END -->
+ - [A look at Coin Master, a coin looter game that passed $6B in gross revenue, scaling from $0 in global monthly customer spend in 2015 to $113M in May 2020 &lpar;Samuel Aune/Sensor Tower&rpar;](http://www.techmeme.com/240829/p4#a240829p4)
+ - [A look at the AI-safety community&#39;s loss of prominence and lessons learned, such as not to trust AI companies&#39; promises to cooperate with regulators &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/240829/p3#a240829p3)
+ - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

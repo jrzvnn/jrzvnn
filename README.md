@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
- - 👉 [Sad](http://9gag.com/gag/aGy1Qw0)<!-- MEMES:END -->
+ - 😝 [Extreme](http://9gag.com/gag/abAp88O)
+ - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
 
 ---
 

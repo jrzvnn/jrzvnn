@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
- - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 😝 [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
+ - 😝 [And she dares to complain](http://9gag.com/gag/a1mbz3P)
+ - 💣 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
+ - 👉 [Based Latvia?](http://9gag.com/gag/avyGbxE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Save With Discounts on Ultra 2, Series 9, and SE](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
+ - [Best iPad Deals: Treat Yourself to a New Apple Tablet With These Huge Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [Sources: Apple is in talks to invest in OpenAI as part of a new fundraising round that would value the ChatGPT maker above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240829/p25#a240829p25)
- - [Magic, which makes AI tools for coding and to automate software development tasks, raised $320M from Eric Schmidt and others, bringing its total raised to $465M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p24#a240829p24)
- - [Jurassic World Rebirth comes out next year](https://www.theverge.com/2024/8/29/24231524/jurassic-world-rebirth-2025-scarlett-johansson)
- - [OpenAI says ChatGPT weekly active users doubled since last year to 200M+, 92% of Fortune 500 companies use its tools, and automated API usage doubled since July &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240829/p23#a240829p23)
- - [How to Fold &lpar;and Store!&rpar; Your Sheets](https://www.wired.com/story/how-to-fold-a-fitted-sheet/)<!-- TECH:END -->
+ - [Magic, which makes AI tools for coding and to automate software development tasks, raised $320M from Eric Schmidt and others, bringing its total raised to $465M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p24#a240829p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

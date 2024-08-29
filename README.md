@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Affirm closed up ~32% on Thursday, its best day in almost three years and its third-biggest rally since Affirm&#39;s January 2021 IPO, after beating estimates in Q4 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240829/p28#a240829p28)
+ - [Studios are cracking down on some of the internet’s most popular pirating sites](https://www.theverge.com/2024/8/29/24231552/fmovies-aniwave-alliance-for-creativity-and-entertainment-piracy)
  - [Sources: Nvidia, Apple, and Microsoft, the three most valuable tech companies, are in talks to join the funding round that would value OpenAI at over $100B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p27#a240829p27)
  - [Keep Your Summer Memories Alive for 50% Off With This Labor Day Deal at Shutterfly](https://www.cnet.com/deals/keep-your-summer-memories-alive-for-50-off-with-this-labor-day-deal-at-shutterfly/#ftag=CAD590a51e)
- - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
- - [Casper Original Mattress Review 2024](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
- - [Michael Lacey, co-founder of the classified ad site Backpage, gets five years in prison and a $3M fine for money laundering; two other executives get 10 years &lpar;New York Times&rpar;](http://www.techmeme.com/240829/p26#a240829p26)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

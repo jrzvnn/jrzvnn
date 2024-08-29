@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)
  - [Kuo: in the 2025 iPhone lineup, only iPhone 17 Pro Max will feature 12GB DRAM and an upgraded cooling system combining vapor chamber tech and graphite sheets &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/240829/p1#a240829p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 29 #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-29-445/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 29, #1167](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-29-1167/#ftag=CAD590a51e)
- - [Documents and sources detail OpenSea&#39;s chaotic work environment, ever-shifting priorities, and regulatory issues, as the SEC and FTC make inquiries &lpar;Ben Weiss/The Verge&rpar;](http://www.techmeme.com/240828/p37#a240828p37)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 29, #1167](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-29-1167/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

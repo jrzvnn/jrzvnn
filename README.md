@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Fold &lpar;and Store!&rpar; Your Sheets](https://www.wired.com/story/how-to-fold-a-fitted-sheet/)
  - [Like just about every other Ridley Scott movie, &#39;Napoleon&#39; is getting a director&#39;s cut](https://appleinsider.com/articles/24/08/29/like-just-about-every-other-ridley-scott-movie-napoleon-is-getting-a-directors-cut?utm_medium=rss)
  - [Sources: truck sharing platform Fluid Truck, which raised $80M+, has ousted its sibling co-founders, including CEO James Eberhard, after losing tens of millions &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240829/p22#a240829p22)
  - [Bluesky adds ‘anti-toxicity’ options to limit dogpiling and hostile quote posts](https://www.theverge.com/2024/8/29/24231414/bluesky-anti-toxicity-features-detach-posts-from-quotes)
- - [Remedy partners with Annapurna for Control 2 and potential film and TV adaptations](https://www.theverge.com/2024/8/29/24231469/control-sequel-movie-tv-remedy-annapurna)
- - [Future Apple iPhone cases may incorporate extra Action Buttons](https://appleinsider.com/articles/24/08/29/future-apple-iphone-cases-may-incorporate-extra-action-buttons?utm_medium=rss)<!-- TECH:END -->
+ - [Remedy partners with Annapurna for Control 2 and potential film and TV adaptations](https://www.theverge.com/2024/8/29/24231469/control-sequel-movie-tv-remedy-annapurna)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

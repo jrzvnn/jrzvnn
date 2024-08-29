@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 16-inch MacBook Pro is $500 off at Amazon](https://appleinsider.com/articles/24/08/29/apples-16-inch-macbook-pro-is-500-off-at-amazon?utm_medium=rss)
- - [A demure and mindful trademark investigation](https://www.theverge.com/24230813/demure-mindful-trademark-uspto-explainer-jools-lebron)
- - [OpenAI and Anthropic will share their models with the US government](https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute)
- - [Wyze’s AI can now search your camera footage so you don’t have to](https://www.theverge.com/2024/8/29/24231371/wyze-ai-search-camera-footage)
- - [Amazon launches Labor Day sale on Apple, save up to $500](https://appleinsider.com/articles/24/08/26/amazon-launches-labor-day-sale-on-apple-save-up-to-500?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro grows US sales as Apple&#39;s market share slumps](https://appleinsider.com/articles/24/08/29/iphone-15-pro-grows-us-sales-as-apples-market-share-slumps?utm_medium=rss)
+ - [Verizon is going to launch satellite messaging this fall](https://www.theverge.com/2024/8/29/24230867/verizon-satellite-messaging-service-skylo)
+ - [Codeium, which offers enterprise AI coding tools, raised a $150M Series C at a $1.25B post-money valuation, and reports 700K+ users and 1K+ enterprise clients &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p21#a240829p21)
+ - [Gantri Now Lets You Customize Your Lamp’s Colors—and Everything Else](https://www.wired.com/story/gantri-you-customize-lamp-colors-manufacturing/)
+ - [Apple Sports is ready for all kinds of football](https://www.theverge.com/2024/8/29/24231422/apple-sports-football-update-live-activities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

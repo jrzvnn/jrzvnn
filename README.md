@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
- - 💣 [Extreme](http://9gag.com/gag/abAp88O)
+ - 😝 [Good](http://9gag.com/gag/arybjL7)
+ - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 💣 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
+ - 👉 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)<!-- MEMES:END -->
 
 ---
 

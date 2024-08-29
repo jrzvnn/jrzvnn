@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Fold &lpar;and Store!&rpar; Your Sheets](https://www.wired.com/story/how-to-fold-a-fitted-sheet/)
- - [Like just about every other Ridley Scott movie, &#39;Napoleon&#39; is getting a director&#39;s cut](https://appleinsider.com/articles/24/08/29/like-just-about-every-other-ridley-scott-movie-napoleon-is-getting-a-directors-cut?utm_medium=rss)
- - [Sources: truck sharing platform Fluid Truck, which raised $80M+, has ousted its sibling co-founders, including CEO James Eberhard, after losing tens of millions &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240829/p22#a240829p22)
- - [SAVE Student Loan Forgiveness Plan Isn’t Dead Yet. What Experts Say Is Next](https://www.cnet.com/personal-finance/save-student-loan-forgiveness-plan-isnt-dead-yet-what-experts-say-is-next/#ftag=CAD590a51e)
- - [Star Wars Outlaws: Change These Settings as Soon as You Start](https://www.cnet.com/tech/gaming/star-wars-outlaws-change-these-settings-as-soon-as-you-start/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is in talks to invest in OpenAI as part of a new fundraising round that would value the ChatGPT maker above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240829/p25#a240829p25)
+ - [Magic, which makes AI tools for coding and to automate software development tasks, raised $320M from Eric Schmidt and others, bringing its total raised to $465M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p24#a240829p24)
+ - [Jurassic World Rebirth comes out next year](https://www.theverge.com/2024/8/29/24231524/jurassic-world-rebirth-2025-scarlett-johansson)
+ - [OpenAI says ChatGPT weekly active users doubled since last year to 200M+, 92% of Fortune 500 companies use its tools, and automated API usage doubled since July &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240829/p23#a240829p23)
+ - [How to Fold &lpar;and Store!&rpar; Your Sheets](https://www.wired.com/story/how-to-fold-a-fitted-sheet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

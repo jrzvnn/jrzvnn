@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
- - 😝 [How in the world?](http://9gag.com/gag/an7b6Dn)
- - 💣 [Just your turn...](http://9gag.com/gag/aqyb3wv)
+ - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 😝 [Even Ubisoft c*cksucker can&#39;t catch a break](http://9gag.com/gag/apRpyME)
+ - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Even Ubisoft c*cksucker can&#39;t catch a break](http://9gag.com/gag/apRpyME)<!-- MEMES:END -->
+ - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
 
 ---
 

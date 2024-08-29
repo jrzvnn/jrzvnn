@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even Ubisoft c*cksucker can&#39;t catch a break](http://9gag.com/gag/apRpyME)
- - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
- - 💣 [\u0e3f\u0246 \u20a6\u00d8\u20ae \u20b3\u20a3\u2c64\u20b3\u0142\u0110](http://9gag.com/gag/axyVxXK)
+ - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 💣 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
+ - 👉 [Only in Thailand](http://9gag.com/gag/a34qmv3)<!-- MEMES:END -->
 
 ---
 

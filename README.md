@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says Nvidia&#39;s new Blackwell chips will have &quot;lots and lots of supply&quot;, and the company expects billions of dollars in revenue from the chips in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p35#a240828p35)
- - [Nvidia shares fall ~7% after hours, after the company failed to top the highest expectations and reported gross margin of 75.1%, vs. 75.5% est. &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p34#a240828p34)
- - [California State Assembly passes sweeping AI safety bill](https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature)
- - [California&#39;s State Assembly passes the AI safety bill SB 1047, which now goes back to the Senate for a process vote before requiring Governor Newsom&#39;s signature &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240828/p33#a240828p33)
- - [Everything new in Apple&#39;s third round of developer betas](https://appleinsider.com/articles/24/08/28/everything-new-in-apples-third-round-of-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [Switching to YouTube Music gets easier with new Apple Music playlist export tool](https://appleinsider.com/articles/24/08/27/switching-to-youtube-music-gets-easier-with-new-apple-music-playlist-export-tool?utm_medium=rss)
+ - [Sources: Chris Barrett, a former top executive at Bungie, was fired in March 2024 after being accused by several female employees of inappropriate behavior &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240828/p36#a240828p36)
+ - [iPhone 17 Pro Max to get exclusive 12GB RAM, vapor chamber cooling](https://appleinsider.com/articles/24/08/29/iphone-17-pro-max-to-get-exclusive-12gb-ram-vapor-chamber-cooling?utm_medium=rss)
+ - [LG’s new smart home hub has a built-in voice assistant](https://www.theverge.com/2024/8/28/24230692/lg-thinq-on-smart-home-hub-ai-voice-assistant)
+ - [Jensen Huang says Nvidia&#39;s new Blackwell chips will have &quot;lots and lots of supply&quot;, and the company expects billions of dollars in revenue from the chips in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p35#a240828p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

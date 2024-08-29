@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember to empty your arms if you sit a lot](http://9gag.com/gag/ayNDg8W)
- - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)
+ - 😝 [A sega classic](http://9gag.com/gag/a7orYz2)
+ - 💣 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Extreme](http://9gag.com/gag/abAp88O)<!-- MEMES:END -->
+ - 👉 [Come on, she&#39;s just big boned.](http://9gag.com/gag/aqybqmR)<!-- MEMES:END -->
 
 ---
 

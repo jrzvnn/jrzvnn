@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 😝 [Not funny](http://9gag.com/gag/aRBmpWM)
- - 💣 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 👉 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)<!-- MEMES:END -->
+ - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 👉 [Sad](http://9gag.com/gag/aGy1Qw0)<!-- MEMES:END -->
 
 ---
 

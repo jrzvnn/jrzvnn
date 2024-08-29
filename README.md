@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In his upcoming book, Trump says Mark Zuckerberg plotted against him during the 2020 election and he&#39;d &quot;spend the rest of his life in prison&quot; if he did it again &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240829/p17#a240829p17)
+ - [SpaceX’s Falcon 9 rocket is grounded after fiery landing failure](https://www.theverge.com/2024/8/29/24231253/spacex-falcon-9-rocket-grounded-faa-landing-failure)
+ - [Deepfake-generating AI websites blocked from using Sign in with Apple](https://appleinsider.com/articles/24/08/29/deepfake-generating-ai-websites-blocked-from-using-sign-in-with-apple?utm_medium=rss)
  - [Analysis: 16 of the biggest so-called undress and &quot;nudify&quot; websites use sign-in infrastructure from Google, Apple, Discord, X, Patreon, and Line &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240829/p16#a240829p16)
- - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
- - [Inside Ford’s private off-road track where it tests its wildest electric machines](https://www.theverge.com/2024/8/29/24230661/ford-ev-rallycross-supertruck-mustang-mach-e-track)
- - [French media: Pavel Durov&#39;s lawyer says it is &quot;absurd to think that the head of a social network could be involved in criminal acts that do not concern him&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p15#a240829p15)
- - [Mac App Store apps can now be installed on external drives](https://appleinsider.com/articles/24/08/29/mac-app-store-apps-can-now-be-installed-on-external-drives?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

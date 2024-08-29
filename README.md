@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Thailand](http://9gag.com/gag/a34qmv3)
- - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 😝 [Savage](http://9gag.com/gag/aMV8pEM)
+ - 💣 [I get it](http://9gag.com/gag/azx86rK)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [\u0e3f\u0246 \u20a6\u00d8\u20ae \u20b3\u20a3\u2c64\u20b3\u0142\u0110](http://9gag.com/gag/axyVxXK)<!-- MEMES:END -->
+ - 👉 [Ahooo](http://9gag.com/gag/aYQx862)<!-- MEMES:END -->
 
 ---
 

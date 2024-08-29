@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the EU is investigating if Telegram gave inaccurate user numbers to stay under the DSA&#39;s 45M threshold; Telegram reported 41M EU users in February 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240829/p8#a240829p8)
+ - [Google, Apple, and Discord Let Harmful AI &#39;Undress&#39; Websites Use Their Sign-On Systems](https://www.wired.com/story/undress-app-ai-harm-google-apple-login/)
  - [Automattic plans to shift Tumblr&#39;s backend over to WordPress, in a bid to make sharing work across the platforms easier, after buying Tumblr for $3M in 2019 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240829/p7#a240829p7)
  - [Huawei reports Q2 revenue up 33.7% YoY to ~$33.6B, rising for the sixth straight quarter, and net profit down 18.6% YoY to ~$5B, ahead of the Mate 70&#39;s launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p6#a240829p6)
- - [As Chinese EV manufacturers consolidate and close, EV owners say they&#39;re losing access to smartphone app updates and features that rely on cloud services &lpar;Tianyu Fang/Rest of World&rpar;](http://www.techmeme.com/240829/p5#a240829p5)
- - [Nab 10 Free Meals and More Perks From HelloFresh for a Limited Time](https://www.cnet.com/deals/nab-10-free-meals-and-more-perks-from-hellofresh-for-a-limited-time/#ftag=CAD590a51e)
- - [Colorado Solar Incentives: Tax Breaks, Rebates, Net Metering and More](https://www.cnet.com/home/energy-and-utilities/colorado-solar-incentives-tax-breaks-net-metering-rebates-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Chinese EV manufacturers consolidate and close, EV owners say they&#39;re losing access to smartphone app updates and features that rely on cloud services &lpar;Tianyu Fang/Rest of World&rpar;](http://www.techmeme.com/240829/p5#a240829p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

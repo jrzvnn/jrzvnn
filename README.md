@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang says Nvidia&#39;s new Blackwell chips will have &quot;lots and lots of supply&quot;, and the company expects billions of dollars in revenue from the chips in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p35#a240828p35)
+ - [Nvidia shares fall ~7% after hours, after the company failed to top the highest expectations and reported gross margin of 75.1%, vs. 75.5% est. &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p34#a240828p34)
+ - [California State Assembly passes sweeping AI safety bill](https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature)
  - [California&#39;s State Assembly passes the AI safety bill SB 1047, which now goes back to the Senate for a process vote before requiring Governor Newsom&#39;s signature &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240828/p33#a240828p33)
- - [Everything new in Apple&#39;s third round of developer betas](https://appleinsider.com/articles/24/08/28/everything-new-in-apples-third-round-of-developer-betas?utm_medium=rss)
- - [Yelp sues Google, alleging Google used its dominance in general search to gain an unfair advantage in local search services and local search advertising markets &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240828/p32#a240828p32)
- - [Are Meta’s carbon emissions shrinking? Depends on how you look at it](https://www.theverge.com/2024/8/28/24230481/meta-sustainability-report-carbon-footprint-renewable-energy-climate-change)
- - [Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240828/p31#a240828p31)<!-- TECH:END -->
+ - [Everything new in Apple&#39;s third round of developer betas](https://appleinsider.com/articles/24/08/28/everything-new-in-apples-third-round-of-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

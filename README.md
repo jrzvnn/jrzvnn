@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT’s weekly users have doubled in less than a year](https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users)
  - [Source: a Brazilian Supreme Court justice blocks Starlink bank accounts in Brazil, to force Elon Musk to pay X&#39;s fines; the court has also threatened to block X &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240829/p30#a240829p30)
  - [Remember Steam Machines? EmuDeck founder revisits Valve’s TV console idea](https://www.theverge.com/2024/8/29/24231635/emudeck-machine-steam-machines-crowdfunding)
  - [Apple stuck between a rock and a hard place tackling nonconsensual porn generators](https://appleinsider.com/articles/24/08/29/apple-stuck-between-a-rock-and-a-hard-place-tackling-nonconsensual-porn-generators?utm_medium=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

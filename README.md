@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
  - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [HR Math](http://9gag.com/gag/aW4mwL3)<!-- MEMES:END -->
+ - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
 
 ---
 

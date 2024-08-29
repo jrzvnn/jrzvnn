@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 😝 [They will refuse to acknowledge it until its too late](http://9gag.com/gag/aPABqmg)
- - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
+ - 😝 [A perfect balance](http://9gag.com/gag/an7b6Y0)
+ - 😝 [By digging such pits, people in Arusha, Tanzania, have managed to transform a desert area into a grassland](http://9gag.com/gag/arybQq7)
+ - 💣 [A sega classic](http://9gag.com/gag/a7orYz2)
+ - 😝 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
+ - 👉 [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)<!-- MEMES:END -->
 
 ---
 

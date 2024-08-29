@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
- - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
  - 💣 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Only in Thailand](http://9gag.com/gag/a34qmv3)<!-- MEMES:END -->
+ - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
 
 ---
 

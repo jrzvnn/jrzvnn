@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MongoDB reports Q2 revenue up 13% YoY to $478.1M, vs. $464.1M est., and forecasts Q3 and FY 2025 revenue above estimates; MDB jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240829/p32#a240829p32)
  - [Google’s AI chatbot for your Gmail inbox is rolling out on Android](https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android)
  - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)
- - [Best Filtered Water Bottles of 2024](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [You Have One Month Left to Grab the Starlink Kit for $200 Off](https://www.cnet.com/home/internet/you-have-one-month-left-to-grab-the-starlink-kit-for-200-off/#ftag=CAD590a51e)
- - [Sonos opens a Trello board so we can see how it’s fixing the busted app](https://www.theverge.com/2024/8/29/24231766/sonos-trello-board-fix-busted-app)<!-- TECH:END -->
+ - [Sonos opens a Trello board so we can see how it’s fixing the busted app](https://www.theverge.com/2024/8/29/24231766/sonos-trello-board-fix-busted-app)
+ - [Amazon&#39;s popular $199 iPad deal ends soon](https://appleinsider.com/articles/24/08/29/amazons-popular-199-ipad-deal-ends-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

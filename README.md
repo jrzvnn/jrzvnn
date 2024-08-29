@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - 😝 [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)
- - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
+ - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Rapture on order](http://9gag.com/gag/aLnDyQW)<!-- MEMES:END -->
+ - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
- - 💣 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
+ - 😝 [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)
+ - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
+ - 👉 [Rapture on order](http://9gag.com/gag/aLnDyQW)<!-- MEMES:END -->
 
 ---
 

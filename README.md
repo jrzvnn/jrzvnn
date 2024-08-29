@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 💣 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
+ - 😝 [Good](http://9gag.com/gag/arybjL7)
+ - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
+ - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Coin Master, a coin looter game that passed $6B in gross revenue, scaling from $0 in global monthly customer spend in 2015 to $113M in May 2020 &lpar;Samuel Aune/Sensor Tower&rpar;](http://www.techmeme.com/240829/p4#a240829p4)
  - [A look at the AI-safety community&#39;s loss of prominence and lessons learned, such as not to trust AI companies&#39; promises to cooperate with regulators &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/240829/p3#a240829p3)
  - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)
- - [Kuo: in the 2025 iPhone lineup, only iPhone 17 Pro Max will feature 12GB DRAM and an upgraded cooling system combining vapor chamber tech and graphite sheets &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/240829/p1#a240829p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 29 #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-29-445/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: in the 2025 iPhone lineup, only the iPhone 17 Pro Max will have 12GB DRAM and an upgraded cooling system combining vapor chamber tech and graphite sheets &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/240829/p1#a240829p1)
+ - [Want to Get The Right Heat Pump Installation? Here&#39;s How](https://www.cnet.com/home/energy-and-utilities/heres-how-to-pick-the-right-size-heat-pump-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

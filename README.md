@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the best](http://9gag.com/gag/amoYZno)
- - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 💣 [Not funny](http://9gag.com/gag/aRBmpWM)
- - 😝 [Sad](http://9gag.com/gag/aGy1Qw0)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 😝 [Workers In Bern Switzerland Float Down The River To Commute](http://9gag.com/gag/azx8nBj)
+ - 😝 [By digging such pits, people in Arusha, Tanzania, have managed to transform a desert area into a grassland](http://9gag.com/gag/arybQq7)
+ - 💣 [A sega classic](http://9gag.com/gag/a7orYz2)
+ - 😝 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
+ - 👉 [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)<!-- MEMES:END -->
 
 ---
 

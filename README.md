@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese state media: a Chinese official says the government has invested $6.12B+ in a nationwide project to build computing data centers over the past years &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p11#a240829p11)
+ - [Everything new in the third round of Apple Intelligence developer betas](https://appleinsider.com/articles/24/08/28/everything-new-in-apples-third-round-of-developer-betas?utm_medium=rss)
  - [Meta&#39;s 2024 Sustainability Report shows its market-based emissions are nearly half of its location-based emissions, highlighting the issue of tracking emissions &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240829/p10#a240829p10)
  - [The Best Yoga Mats &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/the-best-yoga-mats/)
- - [On the Bus With the RFK Jr. Bros](https://www.wired.com/story/on-the-bus-with-the-rfk-jr-bros/)
- - [The US says OpenAI and Anthropic agreed to let the US AI Safety Institute have early access to major new AI models to evaluate their capabilities and risks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240829/p9#a240829p9)
- - [Sources: the EU is investigating if Telegram gave inaccurate user numbers to stay under the DSA&#39;s 45M threshold; Telegram reported 41M EU users in February 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240829/p8#a240829p8)<!-- TECH:END -->
+ - [On the Bus With the RFK Jr. Bros](https://www.wired.com/story/on-the-bus-with-the-rfk-jr-bros/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

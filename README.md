@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nintendo Switch is receiving a rare $30 discount](https://www.theverge.com/2024/8/29/24230878/nintendo-switch-samsung-music-frame-speaker-deal-sale)
+ - [John McFall, the Astronaut Flag Bearer at the Paris Paralympics, Is Ready to Fly](https://www.wired.com/story/john-mcfall-astronaut-flag-bearer-paris-paralympics/)
  - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
  - [Best Apple Watch Deals: Save With Discounts on Ultra 2, Series 9, and SE](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Best iPad Deals: Treat Yourself to a New Apple Tablet With These Huge Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Sources: Apple is in talks to invest in OpenAI as part of a new fundraising round that would value the ChatGPT maker above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240829/p25#a240829p25)
- - [Magic, which makes AI tools for coding and to automate software development tasks, raised $320M from Eric Schmidt and others, bringing its total raised to $465M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p24#a240829p24)<!-- TECH:END -->
+ - [Best iPad Deals: Treat Yourself to a New Apple Tablet With These Huge Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

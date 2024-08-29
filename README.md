@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs and sources reveal how OpenSea morphed into a &quot;lite&quot; version of Meta lost between the cultures of Big Tech and crypto, as the SEC and FTC make inquiries &lpar;Ben Weiss/The Verge&rpar;](http://www.techmeme.com/240828/p37#a240828p37)
  - [Switching to YouTube Music gets easier with new Apple Music playlist export tool](https://appleinsider.com/articles/24/08/27/switching-to-youtube-music-gets-easier-with-new-apple-music-playlist-export-tool?utm_medium=rss)
  - [Sources: Chris Barrett, a former top executive at Bungie, was fired in March 2024 after being accused by several female employees of inappropriate behavior &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240828/p36#a240828p36)
  - [iPhone 17 Pro Max to get exclusive 12GB RAM, vapor chamber cooling](https://appleinsider.com/articles/24/08/29/iphone-17-pro-max-to-get-exclusive-12gb-ram-vapor-chamber-cooling?utm_medium=rss)
- - [LG’s new smart home hub has a built-in voice assistant](https://www.theverge.com/2024/8/28/24230692/lg-thinq-on-smart-home-hub-ai-voice-assistant)
- - [Jensen Huang says Nvidia&#39;s new Blackwell chips will have &quot;lots and lots of supply&quot;, and the company expects billions of dollars in revenue from the chips in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p35#a240828p35)<!-- TECH:END -->
+ - [LG’s new smart home hub has a built-in voice assistant](https://www.theverge.com/2024/8/28/24230692/lg-thinq-on-smart-home-hub-ai-voice-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

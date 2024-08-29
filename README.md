@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A demure and mindful trademark investigation](https://www.theverge.com/24230813/demure-mindful-trademark-uspto-explainer-jools-lebron)
  - [OpenAI and Anthropic will share their models with the US government](https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute)
  - [Wyze’s AI can now search your camera footage so you don’t have to](https://www.theverge.com/2024/8/29/24231371/wyze-ai-search-camera-footage)
  - [Amazon launches Labor Day sale on Apple, save up to $500](https://appleinsider.com/articles/24/08/26/amazon-launches-labor-day-sale-on-apple-save-up-to-500?utm_medium=rss)
- - [Apple Sports Adds NFL, College Football Support, Preps for Live Activities With iOS 18](https://www.cnet.com/tech/mobile/apple-sports-adds-nfl-college-football-support-preps-for-live-activities-with-ios-18/#ftag=CAD590a51e)
- - [The Best Compact Cameras, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-compact-cameras-for-photo-and-video/)<!-- TECH:END -->
+ - [Apple Sports Adds NFL, College Football Support, Preps for Live Activities With iOS 18](https://www.cnet.com/tech/mobile/apple-sports-adds-nfl-college-football-support-preps-for-live-activities-with-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

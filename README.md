@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [Only in Thailand](http://9gag.com/gag/a34qmv3)
- - 💣 [Good](http://9gag.com/gag/arybjL7)
+ - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 💣 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)<!-- MEMES:END -->
+ - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
 
 ---
 

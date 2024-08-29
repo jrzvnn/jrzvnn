@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [System is Failing](http://9gag.com/gag/aO8zw23)
- - 😝 [Workers In Bern Switzerland Float Down The River To Commute](http://9gag.com/gag/azx8nBj)
- - 💣 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
- - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 👉 [A sega classic](http://9gag.com/gag/a7orYz2)<!-- MEMES:END -->
+ - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 😝 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
+ - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 👉 [Sad](http://9gag.com/gag/aGy1Qw0)<!-- MEMES:END -->
 
 ---
 

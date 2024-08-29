@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damian Gath, 52, British man with Parkinson&#39;s disease, first diagnosed 12 years ago, has been taking a new drug called Produodopa, which has recently been approved](http://9gag.com/gag/a0eb2GX)
- - 😝 [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)
- - 💣 [A sega classic](http://9gag.com/gag/a7orYz2)
- - 😝 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
- - 👉 [We don&#39;t need your doctors... We don&#39;t need your engineers! Learn something , rest of Europe!!!](http://9gag.com/gag/axyVxDn)<!-- MEMES:END -->
+ - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 💣 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)
+ - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
 
 ---
 

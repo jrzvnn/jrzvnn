@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky adds ‘anti-toxicity’ options to limit dogpiling and hostile quote-posts](https://www.theverge.com/2024/8/29/24231414/bluesky-anti-toxicity-features-detach-posts-from-quotes)
+ - [Remedy partners with Annapurna for Control 2 and potential film and TV adaptations](https://www.theverge.com/2024/8/29/24231469/control-sequel-movie-tv-remedy-annapurna)
  - [Future Apple iPhone cases may incorporate extra Action Buttons](https://appleinsider.com/articles/24/08/29/future-apple-iphone-cases-may-incorporate-extra-action-buttons?utm_medium=rss)
  - [iPhone 15 Pro grows US sales as Apple&#39;s market share slumps](https://appleinsider.com/articles/24/08/29/iphone-15-pro-grows-us-sales-as-apples-market-share-slumps?utm_medium=rss)
- - [Verizon is going to launch satellite messaging this fall](https://www.theverge.com/2024/8/29/24230867/verizon-satellite-messaging-service-skylo)
- - [Codeium, which offers enterprise AI coding tools, raised a $150M Series C at a $1.25B post-money valuation, and reports 700K+ users and 1K+ enterprise clients &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p21#a240829p21)
- - [Gantri Now Lets You Customize Your Lamp’s Colors—and Everything Else](https://www.wired.com/story/gantri-you-customize-lamp-colors-manufacturing/)<!-- TECH:END -->
+ - [Verizon is going to launch satellite messaging this fall](https://www.theverge.com/2024/8/29/24230867/verizon-satellite-messaging-service-skylo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

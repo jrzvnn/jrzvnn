@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automattic plans to shift Tumblr&#39;s backend over to WordPress, in a bid to make sharing work across the platforms easier, after buying Tumblr for $3M in 2019 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240829/p7#a240829p7)
  - [Huawei reports Q2 revenue up 33.7% YoY to ~$33.6B, rising for the sixth straight quarter, and net profit down 18.6% YoY to ~$5B, ahead of the Mate 70&#39;s launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p6#a240829p6)
  - [As Chinese EV manufacturers consolidate and close, EV owners say they&#39;re losing access to smartphone app updates and features that rely on cloud services &lpar;Tianyu Fang/Rest of World&rpar;](http://www.techmeme.com/240829/p5#a240829p5)
  - [A look at Coin Master, a coin looter game that passed $6B in gross revenue, scaling from $0 in global monthly customer spend in 2015 to $113M in May 2020 &lpar;Samuel Aune/Sensor Tower&rpar;](http://www.techmeme.com/240829/p4#a240829p4)
- - [A look at the AI-safety community&#39;s loss of prominence and lessons learned, such as not to trust AI companies&#39; promises to cooperate with regulators &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/240829/p3#a240829p3)
- - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)<!-- TECH:END -->
+ - [A look at the AI-safety community&#39;s loss of prominence and lessons learned, such as not to trust AI companies&#39; promises to cooperate with regulators &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/240829/p3#a240829p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

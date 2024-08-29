@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not funny](http://9gag.com/gag/aRBmpWM)
  - 😝 [One of the best](http://9gag.com/gag/amoYZno)
- - 💣 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
+ - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 💣 [Not funny](http://9gag.com/gag/aRBmpWM)
  - 😝 [Sad](http://9gag.com/gag/aGy1Qw0)
- - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
+ - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
 
 ---
 

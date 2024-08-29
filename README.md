@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
- - 💣 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
- - 👉 [Gamestop return.](http://9gag.com/gag/abAp8OB)<!-- MEMES:END -->
+ - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 💣 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 😝 [Not funny](http://9gag.com/gag/aRBmpWM)
+ - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [The iPhone’s volume buttons will no longer work with Spotify Connect](https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls)
  - [Dell Q2: revenue up 9% YoY to $25.06B, vs. $24.53B est., servers and networking revenue up 80% to $7.76B, net income up 85% to $841M; DELL jumps 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240829/p29#a240829p29)
  - [Apple and Nvidia may invest in OpenAI](https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft)
- - [Affirm closed up ~32% on Thursday, its best day in almost three years and its third-biggest rally since Affirm&#39;s January 2021 IPO, after beating estimates in Q4 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240829/p28#a240829p28)
- - [Top 25 Mattress Sales Happening This Labor Day](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Affirm closed up ~32% on Thursday, its best day in almost three years and its third-biggest rally since Affirm&#39;s January 2021 IPO, after beating estimates in Q4 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240829/p28#a240829p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

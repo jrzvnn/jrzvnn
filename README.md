@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a Brazilian Supreme Court justice blocks Starlink bank accounts in Brazil, to force Elon Musk to pay X&#39;s fines; the court has also threatened to block X &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240829/p30#a240829p30)
+ - [Remember Steam Machines? EmuDeck founder revisits Valve’s TV console idea](https://www.theverge.com/2024/8/29/24231635/emudeck-machine-steam-machines-crowdfunding)
+ - [Apple stuck between a rock and a hard place tackling nonconsensual porn generators](https://appleinsider.com/articles/24/08/29/apple-stuck-between-a-rock-and-a-hard-place-tackling-nonconsensual-porn-generators?utm_medium=rss)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The iPhone’s volume buttons will no longer work with Spotify Connect](https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls)
- - [Dell Q2: revenue up 9% YoY to $25.06B, vs. $24.53B est., servers and networking revenue up 80% to $7.76B, net income up 85% to $841M; DELL jumps 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240829/p29#a240829p29)
- - [Apple and Nvidia may invest in OpenAI](https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft)
- - [Affirm closed up ~32% on Thursday, its best day in almost three years and its third-biggest rally since Affirm&#39;s January 2021 IPO, after beating estimates in Q4 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240829/p28#a240829p28)<!-- TECH:END -->
+ - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

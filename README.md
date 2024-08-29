@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In his upcoming book, Trump says Mark Zuckerberg plotted against him during the 2020 election and he&#39;d &quot;spend the rest of his life in prison&quot; if he did it again &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240829/p17#a240829p17)
- - [SpaceX’s Falcon 9 rocket is grounded after fiery landing failure](https://www.theverge.com/2024/8/29/24231253/spacex-falcon-9-rocket-grounded-faa-landing-failure)
- - [Deepfake-generating AI websites blocked from using Sign in with Apple](https://appleinsider.com/articles/24/08/29/deepfake-generating-ai-websites-blocked-from-using-sign-in-with-apple?utm_medium=rss)
- - [Analysis: 16 of the biggest so-called undress and &quot;nudify&quot; websites use sign-in infrastructure from Google, Apple, Discord, X, Patreon, and Line &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240829/p16#a240829p16)
- - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
+ - [Google says Russia-linked APT29 is using exploits that are &quot;identical or strikingly similar&quot; to those previously made by spyware makers Intellexa and NSO Group &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240829/p18#a240829p18)
+ - [Celebrate 10 years of Roborock robot vacuum and mop combos with deals your family will love](https://appleinsider.com/articles/24/08/29/celebrate-10-years-of-roborock-robot-vacuum-and-mop-combos-with-deals-your-family-will-love?utm_medium=rss)
+ - [Big-name publishers are refusing to let Apple Intelligence train on data](https://appleinsider.com/articles/24/08/29/big-name-publishers-are-refusing-to-let-apple-intelligence-train-on-data?utm_medium=rss)
+ - [Best Wireless Headphones &lpar;2024&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [In his upcoming book, Trump says Mark Zuckerberg plotted against him during the 2020 election and he&#39;d &quot;spend the rest of his life in prison&quot; if he did it again &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240829/p17#a240829p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

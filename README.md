@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
- - 😝 [Even Ubisoft c*cksucker can&#39;t catch a break](http://9gag.com/gag/apRpyME)
- - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
+ - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
+ - 👉 [Only in Thailand](http://9gag.com/gag/a34qmv3)<!-- MEMES:END -->
 
 ---
 

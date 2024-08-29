@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Remember to empty your arms if you sit a lot](http://9gag.com/gag/ayNDg8W)
  - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
- - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 💣 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)
- - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
+ - 💣 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
 
 ---
 

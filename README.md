@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)
- - 😝 [A sega classic](http://9gag.com/gag/a7orYz2)
- - 💣 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)
+ - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 😝 [Not funny](http://9gag.com/gag/aRBmpWM)
+ - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Come on, she&#39;s just big boned.](http://9gag.com/gag/aqybqmR)<!-- MEMES:END -->
+ - 👉 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)<!-- MEMES:END -->
 
 ---
 

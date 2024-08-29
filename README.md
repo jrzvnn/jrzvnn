@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
- - 😝 [One of the best](http://9gag.com/gag/amoYZno)
- - 💣 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 😝 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)<!-- MEMES:END -->
+ - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
 
 ---
 

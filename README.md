@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/arybjL7)
- - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
- - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 😝 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
+ - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 💣 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
+ - 👉 [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)<!-- MEMES:END -->
 
 ---
 

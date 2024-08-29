@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
  - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
- - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 💣 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 ---
 

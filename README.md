@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
- - 😝 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
- - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 💣 [Extreme](http://9gag.com/gag/abAp88O)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
  - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
 

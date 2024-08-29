@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac App Store apps can now be installed on external drives](https://appleinsider.com/articles/24/08/29/mac-app-store-apps-can-now-be-installed-on-external-drives?utm_medium=rss)
  - [Sources: the Netherlands PM Dick Schoof will likely not renew some ASML licenses to service and provide spare parts in China when they expire at the end of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p14#a240829p14)
  - [Telegram Faces a Reckoning in Europe. Other Founders Should Beware](https://www.wired.com/story/telegram-faces-a-reckoning-in-europe-other-founders-should-beware/)
  - [Facebook, Instagram, Craigslist, Tumblr, the NYT, the FT, The Atlantic, Vox Media, the USA Today network, and more block Apple&#39;s Applebot-Extended AI crawler &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240829/p13#a240829p13)
- - [Interviews with 14 Chinese VCs and entrepreneurs show many are setting up Silicon Valley firms only to find that any investment with Chinese ties is a hard sell &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240829/p12#a240829p12)
- - [Major Sites Are Saying No to Apple’s AI Scraping](https://www.wired.com/story/applebot-extended-apple-ai-scraping/)<!-- TECH:END -->
+ - [Interviews with 14 Chinese VCs and entrepreneurs show many are setting up Silicon Valley firms only to find that any investment with Chinese ties is a hard sell &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240829/p12#a240829p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

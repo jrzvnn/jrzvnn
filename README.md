@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Apple Intelligence set to boost AI smartphone market in 2025](https://appleinsider.com/articles/24/08/29/iphone-16-apple-intelligence-set-to-boost-ai-smartphone-market-in-2025?utm_medium=rss)
  - [Google says Russia-linked APT29 is using exploits that are &quot;identical or strikingly similar&quot; to those previously made by spyware makers Intellexa and NSO Group &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240829/p18#a240829p18)
  - [Celebrate 10 years of Roborock robot vacuum and mop combos with deals your family will love](https://appleinsider.com/articles/24/08/29/celebrate-10-years-of-roborock-robot-vacuum-and-mop-combos-with-deals-your-family-will-love?utm_medium=rss)
  - [Big-name publishers are refusing to let Apple Intelligence train on data](https://appleinsider.com/articles/24/08/29/big-name-publishers-are-refusing-to-let-apple-intelligence-train-on-data?utm_medium=rss)
- - [Best Wireless Headphones &lpar;2024&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [In his upcoming book, Trump says Mark Zuckerberg plotted against him during the 2020 election and he&#39;d &quot;spend the rest of his life in prison&quot; if he did it again &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240829/p17#a240829p17)<!-- TECH:END -->
+ - [Best Wireless Headphones &lpar;2024&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

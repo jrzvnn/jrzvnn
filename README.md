@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not funny](http://9gag.com/gag/aRBmpWM)
- - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
- - 💣 [One of the best](http://9gag.com/gag/amoYZno)
+ - 😝 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 😝 [One of the best](http://9gag.com/gag/amoYZno)
+ - 💣 [See you in hell](http://9gag.com/gag/arybQeK)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Extreme](http://9gag.com/gag/abAp88O)<!-- MEMES:END -->
+ - 👉 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)<!-- MEMES:END -->
 
 ---
 

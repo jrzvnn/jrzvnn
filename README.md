@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Powerful Spyware Exploits Enable a New String of ‘Watering Hole’ Attacks](https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/)
  - [This 100W GaN charger is thin and foldable](https://www.theverge.com/2024/8/29/24231208/genki-turbocharger-100w-gan-charger-thin-foldable-price)
  - [Anti-piracy group ACE says it worked with Hanoi police to shutter Hanoi-based Fmovies and its affiliates, &quot;the largest pirate streaming operation in the world&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240829/p19#a240829p19)
  - [Razer BlackShark V2 Pro Review: 70-Hour Battery and ’90s-Era Nostalgia](https://www.wired.com/review/razer-blackshark-v2-pro-wireless-gaming-headset/)
- - [iPhone 16 Apple Intelligence set to boost AI smartphone market in 2025](https://appleinsider.com/articles/24/08/29/iphone-16-apple-intelligence-set-to-boost-ai-smartphone-market-in-2025?utm_medium=rss)
- - [Google says Russia-linked APT29 is using exploits that are &quot;identical or strikingly similar&quot; to those previously made by spyware makers Intellexa and NSO Group &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240829/p18#a240829p18)<!-- TECH:END -->
+ - [iPhone 16 Apple Intelligence set to boost AI smartphone market in 2025](https://appleinsider.com/articles/24/08/29/iphone-16-apple-intelligence-set-to-boost-ai-smartphone-market-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

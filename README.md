@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 29 #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-29-445/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 29, #1167](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-29-1167/#ftag=CAD590a51e)
- - [Docs and sources reveal how OpenSea morphed into a &quot;lite&quot; version of Meta lost between the cultures of Big Tech and crypto, as the SEC and FTC make inquiries &lpar;Ben Weiss/The Verge&rpar;](http://www.techmeme.com/240828/p37#a240828p37)
+ - [Documents and sources detail OpenSea&#39;s chaotic work environment, ever-shifting priorities, and regulatory issues, as the SEC and FTC make inquiries &lpar;Ben Weiss/The Verge&rpar;](http://www.techmeme.com/240828/p37#a240828p37)
  - [Switching to YouTube Music gets easier with new Apple Music playlist export tool](https://appleinsider.com/articles/24/08/27/switching-to-youtube-music-gets-easier-with-new-apple-music-playlist-export-tool?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

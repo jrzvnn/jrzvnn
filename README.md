@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)
  - [Sonos opens a Trello board so we can see how it’s fixing the busted app](https://www.theverge.com/2024/8/29/24231766/sonos-trello-board-fix-busted-app)
  - [Amazon&#39;s popular $199 iPad deal ends soon](https://appleinsider.com/articles/24/08/29/amazons-popular-199-ipad-deal-ends-soon?utm_medium=rss)
  - [Sony’s limited edition Astro Bot controller is up for preorder again](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
- - [ChatGPT’s weekly users have doubled in less than a year](https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users)
- - [A Brazilian Supreme Court justice blocks Starlink bank accounts in Brazil in a bid to force Elon Musk to pay X&#39;s fines; the court has also threatened to block X &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240829/p30#a240829p30)<!-- TECH:END -->
+ - [ChatGPT’s weekly users have doubled in less than a year](https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

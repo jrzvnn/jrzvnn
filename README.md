@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple again said to be considering investing in ChatGPT maker OpenAI](https://appleinsider.com/articles/24/08/29/apple-again-said-to-be-considering-investing-in-chatgpt-maker-openai?utm_medium=rss)
  - [The Nintendo Switch is receiving a rare $30 discount](https://www.theverge.com/2024/8/29/24230878/nintendo-switch-samsung-music-frame-speaker-deal-sale)
  - [John McFall, the Astronaut Flag Bearer at the Paris Paralympics, Is Ready to Fly](https://www.wired.com/story/john-mcfall-astronaut-flag-bearer-paris-paralympics/)
  - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save With Discounts on Ultra 2, Series 9, and SE](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Best iPad Deals: Treat Yourself to a New Apple Tablet With These Huge Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Save With Discounts on Ultra 2, Series 9, and SE](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

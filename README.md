@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
  - 😝 [Not funny](http://9gag.com/gag/aRBmpWM)
- - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 💣 [One of the best](http://9gag.com/gag/amoYZno)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)<!-- MEMES:END -->
+ - 👉 [Extreme](http://9gag.com/gag/abAp88O)<!-- MEMES:END -->
 
 ---
 

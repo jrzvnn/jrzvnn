@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/arybjL7)
- - 😝 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 💣 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)
+ - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 😝 [Only in Thailand](http://9gag.com/gag/a34qmv3)
+ - 💣 [Good](http://9gag.com/gag/arybjL7)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
  - 👉 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)<!-- MEMES:END -->
 

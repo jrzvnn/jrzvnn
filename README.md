@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Lacey, co-founder of the classified ad site Backpage, gets five years in prison and a $3M fine for money laundering; two other executives get 10 years &lpar;New York Times&rpar;](http://www.techmeme.com/240829/p26#a240829p26)
  - [Apple again said to be considering investing in ChatGPT maker OpenAI](https://appleinsider.com/articles/24/08/29/apple-again-said-to-be-considering-investing-in-chatgpt-maker-openai?utm_medium=rss)
  - [The Nintendo Switch is receiving a rare $30 discount](https://www.theverge.com/2024/8/29/24230878/nintendo-switch-samsung-music-frame-speaker-deal-sale)
  - [John McFall, the Astronaut Flag Bearer at the Paris Paralympics, Is Ready to Fly](https://www.wired.com/story/john-mcfall-astronaut-flag-bearer-paris-paralympics/)
- - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save With Discounts on Ultra 2, Series 9, and SE](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

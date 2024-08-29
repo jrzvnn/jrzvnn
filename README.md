@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
- - 💣 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 👉 [Sad](http://9gag.com/gag/aGy1Qw0)<!-- MEMES:END -->
+ - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
+ - 💣 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 👉 [Gamestop return.](http://9gag.com/gag/abAp8OB)<!-- MEMES:END -->
 
 ---
 

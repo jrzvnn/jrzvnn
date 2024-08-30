@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike exec will testify to Congress about July’s global IT meltdown](https://www.theverge.com/2024/8/30/24232301/crowdstrike-vp-adam-meyers-congress-testimony-it-outage)
  - [Amazon crushes it with this $1,499 M3 Pro MacBook Pro 14-inch deal](https://appleinsider.com/articles/24/08/30/amazon-crushes-it-with-this-1499-m3-pro-macbook-pro-14-inch-deal?utm_medium=rss)
  - [Greenworks 60V Lawn Mower Review: It Just Cuts, Baby](https://www.wired.com/review/review-greenworks-60v-21-inch-self-propelled-lawn-mower/)
  - [Top Best Buy Labor Day Sales: Upgrade Your Appliances, TV, Home Security and More for Less](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
- - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
- - [How Much Protein You Actually Need: A Very Demure, Very Mindful Visual Guide](https://www.cnet.com/health/nutrition/how-much-protein-you-actually-need-a-visual-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

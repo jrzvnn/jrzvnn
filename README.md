@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases Qwen2-VL, a new AI model that it says can analyze videos longer than 20 minutes to summarize and answer questions about the videos&#39; content &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240829/p36#a240829p36)
- - [Controversial AI Bill Passes Legislative Vote](https://www.cnet.com/tech/services-and-software/controversial-ai-bill-passes-legislative-vote/#ftag=CAD590a51e)
- - [Hyundai’s electrified N Vision 74 is headed for production someday soon](https://www.theverge.com/2024/8/29/24231878/hyundai-n-vision-74-concept-electrified-car-launch-2030)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Google rolls out Gmail Q&amp;A, a feature that allows users who pay for Gemini to chat with and use the AI assistant for their emails, on Android and soon on iOS &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240829/p35#a240829p35)<!-- TECH:END -->
+ - [Indian quick grocery delivery startup Zepto raises $340M at a $5B valuation, up from $3.6B in June 2024, in a round led by General Catalyst &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p37#a240829p37)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 30 #446](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-30-446/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 30, #180](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-30-180/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 30, #1168](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-30-1168/#ftag=CAD590a51e)
+ - [Goldenmate 800W UPS review: Minimal, but effective power supply](https://appleinsider.com/articles/24/08/30/goldenmate-800w-ups-review-minimal-but-effective-power-supply?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Femcels incoming](http://9gag.com/gag/azx8Njz)
- - 😝 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
- - 💣 [Cupids Arrow you say?](http://9gag.com/gag/a4PbXyv)
+ - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 😝 [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)
+ - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
+ - 👉 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)<!-- MEMES:END -->
 
 ---
 

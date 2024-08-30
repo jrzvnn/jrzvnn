@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting Painting](http://9gag.com/gag/abAz3nB)
- - 😝 [Neighbour](http://9gag.com/gag/ajPNrBg)
- - 💣 [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
- - 😝 [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 👉 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)<!-- MEMES:END -->
+ - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
+ - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
+ - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
+ - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
 
 ---
 

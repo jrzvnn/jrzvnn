@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240830/p17#a240830p17)
  - [The Creators of &#39;Industry&#39; Know Banking Is a Rigged Game](https://www.wired.com/story/dial-up-industry-creators-mickey-down-konrad-kay/)
  - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
  - [Top Best Buy Labor Day Sales: Enjoy up to 50% Off on Appliances, TVs, Headphones and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
- - [Score a One-Year BJ&#39;s Membership for Just $40 With This Labor Day Discount](https://www.cnet.com/deals/score-a-one-year-bjs-membership-for-just-40-with-this-labor-day-discount/#ftag=CAD590a51e)
- - [Telegram&#39;s 2023 financials: $342.5M revenue, 40% of which came from crypto-related line items, and $108M operating loss; it had holdings of ~$400M in Toncoin &lpar;Financial Times&rpar;](http://www.techmeme.com/240830/p16#a240830p16)<!-- TECH:END -->
+ - [Score a One-Year BJ&#39;s Membership for Just $40 With This Labor Day Discount](https://www.cnet.com/deals/score-a-one-year-bjs-membership-for-just-40-with-this-labor-day-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

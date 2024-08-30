@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazilian judge orders Apple and Google to prevent downloads of X&#39;s app in Brazil and says those using a VPN to access X would face a fine of ~$9,000 a day &lpar;New York Times&rpar;](http://www.techmeme.com/240830/p20#a240830p20)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it&#39;s &quot;growing quickly&quot; even without a rollout &quot;in UK, Brazil, or EU yet&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240830/p19#a240830p19)
  - [Judge orders X ban in Brazil](https://www.theverge.com/2024/8/30/24231286/x-brazil-ban-elon-musk-legal-representative)
- - [Brazilian Supreme Court justice Alexandre de Moraes orders X&#39;s suspension in Brazil after Elon Musk refused to name a legal representative in the country &lpar;Associated Press&rpar;](http://www.techmeme.com/240830/p18#a240830p18)
- - [Replacing an EV Battery Is Expensive, But Would You Ever Need To?](https://www.cnet.com/roadshow/news/replacing-an-ev-battery-is-expensive-but-would-you-ever-need-to/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazilian Supreme Court justice Alexandre de Moraes orders X&#39;s suspension in Brazil after Elon Musk refused to name a legal representative in the country &lpar;Associated Press&rpar;](http://www.techmeme.com/240830/p18#a240830p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

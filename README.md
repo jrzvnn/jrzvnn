@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
+ - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
+ - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
  - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 💣 [Interesting Painting](http://9gag.com/gag/abAz3nB)
- - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
+ - 👉 [Just your turn...](http://9gag.com/gag/aqyb3wv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
- - 😝 [Neighbour](http://9gag.com/gag/ajPNrBg)
- - 💣 [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 😝 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)
- - 👉 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)<!-- MEMES:END -->
+ - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
+ - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
+ - 💣 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
+ - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
+ - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
 
 ---
 

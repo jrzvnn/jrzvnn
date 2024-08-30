@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Google&#39;s HeAR, a bioacoustics healthcare AI model trained 300M sounds, including 100M cough sounds, to analyze users&#39; coughs and detect tuberculosis &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240830/p2#a240830p2)
- - [Don&#39;t Miss Your Chance to Snag a Year Long Costco Membership for Just $60, Plus $20 in Free Credit](https://www.cnet.com/deals/dont-miss-your-chance-to-snag-a-year-long-costco-membership-for-just-60-plus-20-in-free-credit/#ftag=CAD590a51e)
  - [Best Pixel 9 Deals: Save on Google&#39;s New Pixel 9 Series With These Current Offers](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)
  - [The 17 Best Labor Day Sleep Deals of 2024: Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)
- - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)<!-- TECH:END -->
+ - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)
+ - [7 Star Wars Outlaws Gaming Secrets I Wished I Knew Sooner](https://www.cnet.com/tech/gaming/things-to-know-before-you-begin-star-wars-outlaws/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

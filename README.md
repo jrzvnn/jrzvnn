@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on: Everything new with Photos in iOS 18](https://appleinsider.com/articles/24/08/30/hands-on-everything-new-with-photos-in-ios-18?utm_medium=rss)
+ - [Google says Search AI Overviews, Gemini image generation, and other AI products will not respond to election-related topics ahead of the US elections &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240830/p12#a240830p12)
  - [The best Labor Day deals you can already get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
  - [CrowdStrike exec will testify to Congress about July’s global IT meltdown](https://www.theverge.com/2024/8/30/24232301/crowdstrike-vp-adam-meyers-congress-testimony-it-outage)
- - [Amazon crushes it with this $1,499 M3 Pro MacBook Pro 14-inch deal](https://appleinsider.com/articles/24/08/30/amazon-crushes-it-with-this-1499-m3-pro-macbook-pro-14-inch-deal?utm_medium=rss)
- - [Greenworks 60V Lawn Mower Review: It Just Cuts, Baby](https://www.wired.com/review/review-greenworks-60v-21-inch-self-propelled-lawn-mower/)
- - [Top Best Buy Labor Day Sales: Upgrade Your Appliances, TV, Home Security and More for Less](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon crushes it with this $1,499 M3 Pro MacBook Pro 14-inch deal](https://appleinsider.com/articles/24/08/30/amazon-crushes-it-with-this-1499-m3-pro-macbook-pro-14-inch-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

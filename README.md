@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
  - 😝 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
- - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
+ - 💣 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
  - 😝 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)
- - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
+ - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
 
 ---
 

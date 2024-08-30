@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 😝 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
- - 💣 [Interesting Painting](http://9gag.com/gag/abAz3nB)
+ - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 💣 [What in tarnation.](http://9gag.com/gag/ae9bvvq)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
+ - 👉 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)<!-- MEMES:END -->
 
 ---
 

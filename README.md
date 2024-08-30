@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Meat Subscription Boxes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-meat-subscription-boxes-for-carnivores/)
+ - [OpenAI searches for an answer to its copyright problems](https://www.theverge.com/2024/8/30/24230975/openai-publisher-deals-web-search)
  - [Huione Guarantee, a Cambodia-based online marketplace that facilitates pig butchering and other scams, has processed $49B+ in crypto transactions since 2021 &lpar;Chainalysis&rpar;](http://www.techmeme.com/240830/p7#a240830p7)
  - [Spotify says Apple is blocking volume controls for connected devices](https://appleinsider.com/articles/24/08/30/spotify-says-apple-is-blocking-volume-controls-for-connected-devices?utm_medium=rss)
- - [How to Clean Your Grill &lpar;Right in Time for Labor Day Weekend&rpar;](https://www.cnet.com/home/yard-and-outdoors/how-to-clean-your-grill-right-in-time-for-labor-day-weekend/#ftag=CAD590a51e)
- - [Best Labor Day Laptop Deals: Grab Huge Savings on Laptops from Apple, Acer, HP and More](https://www.cnet.com/deals/best-labor-day-laptop-deals-2024-08-30/#ftag=CAD590a51e)
- - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)<!-- TECH:END -->
+ - [How to Clean Your Grill &lpar;Right in Time for Labor Day Weekend&rpar;](https://www.cnet.com/home/yard-and-outdoors/how-to-clean-your-grill-right-in-time-for-labor-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

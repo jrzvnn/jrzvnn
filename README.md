@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tips for Cargo Biking With Your Kids &lpar;2024&rpar;: Gear and Tips to Ride Safely](https://www.wired.com/story/how-to-family-ebike-with-kids/)
  - [Hands on: Everything new with Photos in iOS 18](https://appleinsider.com/articles/24/08/30/hands-on-everything-new-with-photos-in-ios-18?utm_medium=rss)
  - [Google says Search AI Overviews, Gemini image generation, and other AI products will not respond to election-related topics ahead of the US elections &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240830/p12#a240830p12)
- - [The best Labor Day deals you can already get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [CrowdStrike exec will testify to Congress about July’s global IT meltdown](https://www.theverge.com/2024/8/30/24232301/crowdstrike-vp-adam-meyers-congress-testimony-it-outage)
- - [Amazon crushes it with this $1,499 M3 Pro MacBook Pro 14-inch deal](https://appleinsider.com/articles/24/08/30/amazon-crushes-it-with-this-1499-m3-pro-macbook-pro-14-inch-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Snatch Up Bose QuietComfort Earbuds 2 for Just $179 Thanks to Amazon&#39;s Labor Day Deal](https://www.cnet.com/deals/snatch-up-bose-quietcomfort-earbuds-2-for-just-179-thanks-to-amazons-labor-day-deal/#ftag=CAD590a51e)
+ - [Best DJI Drone Deals: Capture Your Best Moments With Top Drones at Low Prices](https://www.cnet.com/deals/best-dji-drone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

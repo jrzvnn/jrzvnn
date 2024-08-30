@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Paralympic Games have started again.](http://9gag.com/gag/avyGbB5)
- - 😝 [Germany police statement](http://9gag.com/gag/aGyeK15)
- - 💣 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)
+ - 😝 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)
  - 😝 [The game is amazing](http://9gag.com/gag/adB9yP2)
- - 👉 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)<!-- MEMES:END -->
+ - 💣 [Let me rest here](http://9gag.com/gag/an7jqM5)
+ - 😝 [Post](http://9gag.com/gag/ary51m5)
+ - 👉 [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)<!-- MEMES:END -->
 
 ---
 

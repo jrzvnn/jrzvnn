@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
- - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 💣 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
- - 😝 [Interesting Painting](http://9gag.com/gag/abAz3nB)
- - 👉 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)<!-- MEMES:END -->
+ - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 😝 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
+ - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 😝 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
+ - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
 
 ---
 

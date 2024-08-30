@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Brazil bans X: all the latest news](https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk)
  - [An analysis of 6,599 keywords shows Google is offering AI Overviews for 17% of queries in the UK and US, but rarely for searches about current events &lpar;Dominic Ponsford/Press Gazette&rpar;](http://www.techmeme.com/240830/p21#a240830p21)
- - [Brazil’s X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
- - [Brazilian judge orders Apple and Google to prevent downloads of X&#39;s app in Brazil and says those using a VPN to access X would face a fine of ~$9,000 a day &lpar;New York Times&rpar;](http://www.techmeme.com/240830/p20#a240830p20)
- - [Best Target Labor Day Sales: Score Discounts on Apple Devices, Vacuums, Kitchen Appliances and More](https://www.cnet.com/deals/target-labor-day-sale-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
+ - [Save Up to 20% on Sonos Speakers and Soundbars for Labor Day](https://www.cnet.com/deals/save-up-to-20-on-sonos-speakers-and-soundbars-for-labor-day/#ftag=CAD590a51e)
+ - [‘We Are Really at the Tail End’ of Inflation, White House Official Says](https://www.cnet.com/personal-finance/we-are-really-at-the-tail-end-of-inflation-white-house-official-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

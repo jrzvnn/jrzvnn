@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
  - 😝 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
- - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
- - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
+ - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 😝 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)
+ - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
 
 ---
 

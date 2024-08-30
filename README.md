@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is in discussions about changing its corporate structure to become more investor-friendly, including removing a cap on profits for investors &lpar;Financial Times&rpar;](http://www.techmeme.com/240830/p15#a240830p15)
+ - [The Borderlands movie hides its best ideas under painful jokes](https://www.theverge.com/2024/8/30/24232389/borderlands-movie-review-interview-video-on-demand)
  - [LAION, a research org whose dataset was used to train Stable Diffusion and other models, releases a new dataset it claims has been &quot;thoroughly cleaned&quot; of CSAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240830/p14#a240830p14)
  - [The City of Columbus, OH, sues security researcher David Leroy Ross, aka Connor Goodwolf, accusing him of sharing data stolen by a ransomware gang with media &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240830/p13#a240830p13)
- - [NASA shuffles Crew-9 team that will bring Starliner crew home](https://www.theverge.com/2024/8/30/24232286/nasa-launch-crew-9-mission-starliner-september-return)
- - [Judge who owns Tesla stock greenlights X lawsuit against critics](https://www.theverge.com/2024/8/30/24232263/elon-media-matters-lawsuit-proceeds-judge-ruling)
- - [Tips for Cargo Biking With Your Kids &lpar;2024&rpar;: Gear and Tips to Ride Safely](https://www.wired.com/story/how-to-family-ebike-with-kids/)<!-- TECH:END -->
+ - [NASA shuffles Crew-9 team that will bring Starliner crew home](https://www.theverge.com/2024/8/30/24232286/nasa-launch-crew-9-mission-starliner-september-return)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

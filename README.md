@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai’s electrified N Vision 74 is headed for production someday soon](https://www.theverge.com/2024/8/29/24231878/hyundai-n-vision-74-concept-electrified-car-launch-2030)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Google rolls out Gmail Q&amp;A, a feature that allows users who pay for Gemini to chat with and use the AI assistant for their emails, on Android and soon on iOS &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240829/p35#a240829p35)
  - [A US district judge dismisses, with prejudice, a lawsuit accusing Elon Musk and Tesla of defrauding investors by hyping Dogecoin and conducting insider trading &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240829/p34#a240829p34)
- - [Bridge, which aims to build a global payment network around stablecoins, raised $40M led by Sequoia and Ribbit, taking its total funding to $58M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240829/p33#a240829p33)
- - [MongoDB reports Q2 revenue up 13% YoY to $478.1M, vs. $464.1M est., and forecasts Q3 and FY 2025 revenue above estimates; MDB jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240829/p32#a240829p32)
- - [Google’s AI chatbot for your Gmail inbox is rolling out on Android](https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android)
- - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)<!-- TECH:END -->
+ - [Bridge, which aims to build a global payment network around stablecoins, raised $40M led by Sequoia and Ribbit, taking its total funding to $58M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240829/p33#a240829p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Game of the Year](http://9gag.com/gag/aLnDq2A)
- - 😝 [Women](http://9gag.com/gag/adB73Od)
- - 💣 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)
+ - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - 😝 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
+ - 💣 [Interesting Painting](http://9gag.com/gag/abAz3nB)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [We don&#39;t need your doctors... We don&#39;t need your engineers! Learn something , rest of Europe!!!](http://9gag.com/gag/axyVxDn)<!-- MEMES:END -->
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - 💣 [What in tarnation.](http://9gag.com/gag/ae9bvvq)
+ - 😝 [`Outlaw`](http://9gag.com/gag/a34Mvxm)
+ - 😝 [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
+ - 💣 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)<!-- MEMES:END -->
+ - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
 
 ---
 

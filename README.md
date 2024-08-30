@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new iPad mini 7 may be close -- what the rumor mill says is coming](https://appleinsider.com/articles/24/08/30/a-new-ipad-mini-7-may-be-close----what-the-rumor-mill-says-is-coming?utm_medium=rss)
+ - [Investor note: 360 One values Indian startup VerSe, which operates popular news aggregator Dailyhunt, at $2.9B, down from $5B in April 2022 when it raised $805M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240830/p10#a240830p10)
+ - [AnandTech shuts down after 27 years](https://www.theverge.com/2024/8/30/24232171/anandtech-tech-journalism-hardware)
  - [Turn Your Old iPhone or iPad Into a Retro Game Machine](https://www.wired.com/story/turn-your-iphone-into-a-retro-game-machine/)
- - [EU antitrust chief &amp; Apple foe Margrethe Vestager out after 10 years](https://appleinsider.com/articles/24/08/30/eu-antitrust-chief-apple-foe-margrethe-vestager-out-after-10-years?utm_medium=rss)
- - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
- - [Google’s Play Store can finally install or update multiple Android apps at once](https://www.theverge.com/2024/8/30/24232181/google-play-store-three-app-simultaneous-download-install)
- - [TikTok is adding new ways to fine tune your For You page algorithm](https://www.theverge.com/2024/8/30/24232154/tiktok-for-you-page-algorithm-content-preferencers-sliders)<!-- TECH:END -->
+ - [EU antitrust chief &amp; Apple foe Margrethe Vestager out after 10 years](https://appleinsider.com/articles/24/08/30/eu-antitrust-chief-apple-foe-margrethe-vestager-out-after-10-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

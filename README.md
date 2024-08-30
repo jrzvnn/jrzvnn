@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Spotify says Apple is blocking volume controls for connected devices](https://appleinsider.com/articles/24/08/30/spotify-says-apple-is-blocking-volume-controls-for-connected-devices?utm_medium=rss)
+ - [How to Clean Your Grill &lpar;Right in Time for Labor Day Weekend&rpar;](https://www.cnet.com/home/yard-and-outdoors/how-to-clean-your-grill-right-in-time-for-labor-day-weekend/#ftag=CAD590a51e)
+ - [Best Labor Day Laptop Deals: Grab Huge Savings on Laptops from Apple, Acer, HP and More](https://www.cnet.com/deals/best-labor-day-laptop-deals-2024-08-30/#ftag=CAD590a51e)
  - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [The Trademark Tug-of-War Over ‘Demure’ Shows a Massive Meme Power Shift](https://www.wired.com/story/jools-lebron-demure-trend-trademark/)
- - [A federal judge dismisses a lawsuit claiming Elon Musk and Tesla pumped up Dogecoin into a &quot;pyramid scheme&quot;, finding that Musk&#39;s statements were &quot;aspirational&quot; &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240830/p6#a240830p6)
- - [As Russia plans a trial of cross-border payments using crypto, some senior Russian leaders suggest it can help counter sanctions; experts doubt it will work &lpar;CoinDesk&rpar;](http://www.techmeme.com/240830/p5#a240830p5)<!-- TECH:END -->
+ - [&#39;The Watchers&#39;: Streaming Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-watchers-streaming-release-date-and-how-to-stream-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

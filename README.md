@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BBQ in balcony](http://9gag.com/gag/a7orjBm)
- - 😝 [A short and witty title](http://9gag.com/gag/aqyb0gY)
- - 💣 [Little extra cheese on the taco](http://9gag.com/gag/a34qV2Q)
- - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
- - 👉 [Mexican Border](http://9gag.com/gag/aByWDqO)<!-- MEMES:END -->
+ - 😝 [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
+ - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - 💣 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
+ - 😝 [Interesting Painting](http://9gag.com/gag/abAz3nB)
+ - 👉 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)<!-- MEMES:END -->
 
 ---
 

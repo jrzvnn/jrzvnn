@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 😝 [The game is amazing](http://9gag.com/gag/adB9yP2)
- - 💣 [Post](http://9gag.com/gag/ary51m5)
- - 😝 [Let me rest here](http://9gag.com/gag/an7jqM5)
- - 👉 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)<!-- MEMES:END -->
+ - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 💣 [Wobble](http://9gag.com/gag/a0e5vmZ)
+ - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
+ - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
 
 ---
 

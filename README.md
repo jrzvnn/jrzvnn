@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The City of Columbus, OH, sues security researcher David Leroy Ross, aka Connor Goodwolf, accusing him of sharing data stolen by a ransomware gang with media &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240830/p13#a240830p13)
+ - [NASA shuffles Crew-9 astronauts that will bring Starliner crew home](https://www.theverge.com/2024/8/30/24232286/nasa-launch-crew-9-mission-starliner-september-return)
  - [Judge who owns Tesla stock greenlights X lawsuit against critics](https://www.theverge.com/2024/8/30/24232263/elon-media-matters-lawsuit-proceeds-judge-ruling)
  - [Tips for Cargo Biking With Your Kids &lpar;2024&rpar;: Gear and Tips to Ride Safely](https://www.wired.com/story/how-to-family-ebike-with-kids/)
- - [Hands on: Everything new with Photos in iOS 18](https://appleinsider.com/articles/24/08/30/hands-on-everything-new-with-photos-in-ios-18?utm_medium=rss)
- - [Google says Search AI Overviews, Gemini image generation, and other AI products will not respond to election-related topics ahead of the US elections &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240830/p12#a240830p12)<!-- TECH:END -->
+ - [Hands on: Everything new with Photos in iOS 18](https://appleinsider.com/articles/24/08/30/hands-on-everything-new-with-photos-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil bans X: all the latest news](https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk)
- - [An analysis of 6,599 keywords shows Google is offering AI Overviews for 17% of queries in the UK and US, but rarely for searches about current events &lpar;Dominic Ponsford/Press Gazette&rpar;](http://www.techmeme.com/240830/p21#a240830p21)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Snag the Tovala Smart Oven for Just $49 With This Labor Day Deal](https://www.cnet.com/deals/snag-the-tovala-smart-oven-for-just-49-with-this-labor-day-deal/#ftag=CAD590a51e)
  - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
- - [Save Up to 20% on Sonos Speakers and Soundbars for Labor Day](https://www.cnet.com/deals/save-up-to-20-on-sonos-speakers-and-soundbars-for-labor-day/#ftag=CAD590a51e)
- - [‘We Are Really at the Tail End’ of Inflation, White House Official Says](https://www.cnet.com/personal-finance/we-are-really-at-the-tail-end-of-inflation-white-house-official-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to 30% Off Everything at Brooklinen for Labor Day](https://www.cnet.com/deals/save-up-to-30-off-everything-at-brooklinen-for-labor-day/#ftag=CAD590a51e)
+ - [Labor Day Fitness Deal: Save $70 on This Under Desk Elliptical Machine at Amazon](https://www.cnet.com/deals/labor-day-fitness-deal-save-70-on-this-under-desk-elliptical-machine-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

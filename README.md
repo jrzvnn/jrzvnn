@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
- - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
+ - 😝 [Interesting Painting](http://9gag.com/gag/abAz3nB)
+ - 😝 [Neighbour](http://9gag.com/gag/ajPNrBg)
+ - 💣 [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
+ - 😝 [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 👉 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)<!-- MEMES:END -->
 
 ---
 

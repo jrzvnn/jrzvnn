@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Once hesitant to openly comment about politics, German tech leaders publicly voice their opposition to the far-right AfD ahead of Sunday&#39;s state elections &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/240830/p9#a240830p9)
  - [How to use iOS’s Live Text feature](https://www.theverge.com/22559167/ios-15-live-text-feature-how-to)
  - [Amazon’s new Alexa voice assistant will use Claude AI](https://www.theverge.com/2024/8/30/24232123/amazon-new-alexa-voice-assistant-claude-ai-model)
  - [Princess Zelda draws a sword in Echoes of Wisdom’s new trailer](https://www.theverge.com/2024/8/30/24231404/echoes-of-wisdom-zelda-sword)
- - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
- - [Best Labor Day Sales: The Biggest Discounts from Amazon, Walmart, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

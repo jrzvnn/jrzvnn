@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
- - 😝 [STAR WARS OUTLAWS. A Ubisoft game that cost $70-$120.00. Where Ubisoft executives say to shareholders is the `Next generation` of `Generation defining AI`... Also the game where `Games Journalists` from IGN, GamesRadar, Screenrant and etc claim is `Better` than Black Myth:Wukong](http://9gag.com/gag/aD2zReG)
- - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
- - 😝 [Is this legal?](http://9gag.com/gag/aLn8RQW)
- - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
+ - 😝 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 💣 [How in the world?](http://9gag.com/gag/an7b6Dn)
+ - 😝 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 👉 [Interesting Painting](http://9gag.com/gag/abAz3nB)<!-- MEMES:END -->
 
 ---
 

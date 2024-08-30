@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify says Apple is blocking volume controls for connected devices](https://appleinsider.com/articles/24/08/30/spotify-says-apple-is-blocking-volume-controls-for-connected-devices?utm_medium=rss)
  - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
  - [The Trademark Tug-of-War Over ‘Demure’ Shows a Massive Meme Power Shift](https://www.wired.com/story/jools-lebron-demure-trend-trademark/)
  - [A federal judge dismisses a lawsuit claiming Elon Musk and Tesla pumped up Dogecoin into a &quot;pyramid scheme&quot;, finding that Musk&#39;s statements were &quot;aspirational&quot; &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240830/p6#a240830p6)
- - [As Russia plans a trial of cross-border payments using crypto, some senior Russian leaders suggest it can help counter sanctions; experts doubt it will work &lpar;CoinDesk&rpar;](http://www.techmeme.com/240830/p5#a240830p5)
- - [Sources: Amazon&#39;s revamped &quot;Remarkable&quot; Alexa, due for release in October, will be powered by Anthropic&#39;s Claude, with plans to charge users $5 to $10/month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240830/p4#a240830p4)<!-- TECH:END -->
+ - [As Russia plans a trial of cross-border payments using crypto, some senior Russian leaders suggest it can help counter sanctions; experts doubt it will work &lpar;CoinDesk&rpar;](http://www.techmeme.com/240830/p5#a240830p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

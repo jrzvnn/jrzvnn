@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Brazil’s X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
  - [Brazilian judge orders Apple and Google to prevent downloads of X&#39;s app in Brazil and says those using a VPN to access X would face a fine of ~$9,000 a day &lpar;New York Times&rpar;](http://www.techmeme.com/240830/p20#a240830p20)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it&#39;s &quot;growing quickly&quot; even without a rollout &quot;in UK, Brazil, or EU yet&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240830/p19#a240830p19)
- - [Judge orders X ban in Brazil](https://www.theverge.com/2024/8/30/24231286/x-brazil-ban-elon-musk-legal-representative)<!-- TECH:END -->
+ - [Best Target Labor Day Sales: Score Discounts on Apple Devices, Vacuums, Kitchen Appliances and More](https://www.cnet.com/deals/target-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
+ - [Score the JBL Tune Flex Earbuds for 50% Off With This Labor Day Deal](https://www.cnet.com/deals/score-the-jbl-tune-flex-earbuds-for-50-off-with-this-labor-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

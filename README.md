@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The final scene of \u2018Men in Black\u2019 always leaves me pondering the nature of our reality.](http://9gag.com/gag/aRBmbD7)
- - 😝 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 💣 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
+ - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Just your turn...](http://9gag.com/gag/aqyb3wv)<!-- MEMES:END -->
+ - 👉 [Please carry on.](http://9gag.com/gag/aVvqnE2)<!-- MEMES:END -->
 
 ---
 

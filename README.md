@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
+ - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)
+ - [Mark Zuckerberg Vows to Be Neutral–While Tossing Gifts to Trump and the GOP](https://www.wired.com/story/plaintext-mark-zuckerberg-vows-to-be-neutral-while-tossing-gifts-to-trump-and-the-gop/)
  - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
- - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
- - [AnandTech shuts down after covering PC and mobile hardware for over 27 years; publisher Future plans to keep its website and articles live indefinitely &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240830/p8#a240830p8)
- - [The Best Meat Subscription Boxes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-meat-subscription-boxes-for-carnivores/)
- - [OpenAI searches for an answer to its copyright problems](https://www.theverge.com/2024/8/30/24230975/openai-publisher-deals-web-search)<!-- TECH:END -->
+ - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

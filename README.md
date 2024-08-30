@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
+ - [AnandTech shuts down after covering PC and mobile hardware for over 27 years; publisher Future plans to keep its website and articles live indefinitely &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240830/p8#a240830p8)
  - [The Best Meat Subscription Boxes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-meat-subscription-boxes-for-carnivores/)
- - [OpenAI searches for an answer to its copyright problems](https://www.theverge.com/2024/8/30/24230975/openai-publisher-deals-web-search)
- - [Huione Guarantee, a Cambodia-based online marketplace that facilitates pig butchering and other scams, has processed $49B+ in crypto transactions since 2021 &lpar;Chainalysis&rpar;](http://www.techmeme.com/240830/p7#a240830p7)
- - [Spotify says Apple is blocking volume controls for connected devices](https://appleinsider.com/articles/24/08/30/spotify-says-apple-is-blocking-volume-controls-for-connected-devices?utm_medium=rss)
- - [How to Clean Your Grill &lpar;Right in Time for Labor Day Weekend&rpar;](https://www.cnet.com/home/yard-and-outdoors/how-to-clean-your-grill-right-in-time-for-labor-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI searches for an answer to its copyright problems](https://www.theverge.com/2024/8/30/24230975/openai-publisher-deals-web-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

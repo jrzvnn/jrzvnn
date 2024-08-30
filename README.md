@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one cares about light boy](http://9gag.com/gag/aAyDBed)
+ - 😝 [Police didn&#39;t take it seriously.1point](http://9gag.com/gag/aD2WyX9)
  - 😝 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
  - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)<!-- MEMES:END -->
+ - 👉 [Appareantly in brasil you can&#39;t get arrested under 18 year. So some very nice and friendly uniformed fellas gave him a very nice present and sing happy birthday on his birthday!](http://9gag.com/gag/abAp97X)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [EU antitrust chief &amp; Apple foe Margrethe Vestager out after 10 years](https://appleinsider.com/articles/24/08/30/eu-antitrust-chief-apple-foe-margrethe-vestager-out-after-10-years?utm_medium=rss)
  - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
  - [Google’s Play Store can finally install or update multiple Android apps at once](https://www.theverge.com/2024/8/30/24232181/google-play-store-three-app-simultaneous-download-install)
- - [Best Labor Day Sales: The Biggest Discounts From Amazon, Walmart, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok is adding new ways to fine tune your For You page algorithm](https://www.theverge.com/2024/8/30/24232154/tiktok-for-you-page-algorithm-content-preferencers-sliders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All natural](http://9gag.com/gag/aXPqBpd)
- - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 💣 [Interesting Painting](http://9gag.com/gag/abAz3nB)
- - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
- - 👉 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)<!-- MEMES:END -->
+ - 😝 [BBQ in balcony](http://9gag.com/gag/a7orjBm)
+ - 😝 [A short and witty title](http://9gag.com/gag/aqyb0gY)
+ - 💣 [Little extra cheese on the taco](http://9gag.com/gag/a34qV2Q)
+ - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
+ - 👉 [Mexican Border](http://9gag.com/gag/aByWDqO)<!-- MEMES:END -->
 
 ---
 

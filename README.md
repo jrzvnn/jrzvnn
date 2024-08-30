@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)
- - 😝 [The game is amazing](http://9gag.com/gag/adB9yP2)
- - 💣 [Post](http://9gag.com/gag/ary51m5)
- - 😝 [Let me rest here](http://9gag.com/gag/an7jqM5)
- - 👉 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)<!-- MEMES:END -->
+ - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
+ - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 💣 [Interesting Painting](http://9gag.com/gag/abAz3nB)
+ - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
 
 ---
 

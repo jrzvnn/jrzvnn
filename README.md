@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
- - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 😝 [Femcels incoming](http://9gag.com/gag/azx8Njz)
+ - 😝 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 💣 [Cupids Arrow you say?](http://9gag.com/gag/a4PbXyv)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Please carry on.](http://9gag.com/gag/aVvqnE2)<!-- MEMES:END -->
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 ---
 

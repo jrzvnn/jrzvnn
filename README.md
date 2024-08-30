@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US district judge dismisses, with prejudice, a lawsuit accusing Elon Musk and Tesla of defrauding investors by hyping Dogecoin and conducting insider trading &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240829/p34#a240829p34)
+ - [Bridge, which aims to build a global payment network around stablecoins, raised $40M led by Sequoia and Ribbit, taking its total funding to $58M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240829/p33#a240829p33)
  - [MongoDB reports Q2 revenue up 13% YoY to $478.1M, vs. $464.1M est., and forecasts Q3 and FY 2025 revenue above estimates; MDB jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240829/p32#a240829p32)
  - [Google’s AI chatbot for your Gmail inbox is rolling out on Android](https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android)
- - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)
- - [Sonos opens a Trello board so we can see how it’s fixing the busted app](https://www.theverge.com/2024/8/29/24231766/sonos-trello-board-fix-busted-app)
- - [Amazon&#39;s popular $199 iPad deal ends soon](https://appleinsider.com/articles/24/08/29/amazons-popular-199-ipad-deal-ends-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

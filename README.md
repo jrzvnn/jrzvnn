@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - 😝 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 😝 [And she dares to complain](http://9gag.com/gag/a1mbz3P)
+ - 😝 [Based Latvia?](http://9gag.com/gag/avyGbxE)
+ - 💣 [Savage](http://9gag.com/gag/aMV8pEM)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)<!-- MEMES:END -->
+ - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based Latvia?](http://9gag.com/gag/avyGbxE)
- - 😝 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)
- - 💣 [The game is amazing](http://9gag.com/gag/adB9yP2)
+ - 😝 [The final scene of \u2018Men in Black\u2019 always leaves me pondering the nature of our reality.](http://9gag.com/gag/aRBmbD7)
+ - 😝 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
+ - 💣 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
+ - 👉 [Just your turn...](http://9gag.com/gag/aqyb3wv)<!-- MEMES:END -->
 
 ---
 

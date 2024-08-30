@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Amazon’s new Alexa voice assistant will use Claude AI](https://www.theverge.com/2024/8/30/24232123/amazon-new-alexa-voice-assistant-claude-ai-model)
  - [Princess Zelda draws a sword in Echoes of Wisdom’s new trailer](https://www.theverge.com/2024/8/30/24231404/echoes-of-wisdom-zelda-sword)
  - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
- - [Best Labor Day Sales: The Biggest Discounts from Amazon, Walmart, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

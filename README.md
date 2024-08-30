@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Outlaw`](http://9gag.com/gag/a34Mvxm)
- - 😝 [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
- - 💣 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)
- - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
+ - 😝 [All natural](http://9gag.com/gag/aXPqBpd)
+ - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 💣 [Interesting Painting](http://9gag.com/gag/abAz3nB)
+ - 😝 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 👉 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)<!-- MEMES:END -->
 
 ---
 

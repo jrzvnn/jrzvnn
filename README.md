@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
- - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
- - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 😝 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)
- - 👉 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)<!-- MEMES:END -->
+ - 😝 [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
+ - 😝 [Neighbour](http://9gag.com/gag/ajPNrBg)
+ - 💣 [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 😝 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)
+ - 👉 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)<!-- MEMES:END -->
 
 ---
 

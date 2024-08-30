@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
- - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - 💣 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
- - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
- - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
+ - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 💣 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
+ - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
+ - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
 
 ---
 

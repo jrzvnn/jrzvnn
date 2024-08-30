@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Backpage co-founder sentenced to five years in prison](https://www.theverge.com/2024/8/30/24232069/backpage-founder-michael-lacey-sentenced-five-years-in-prison)
  - [China&#39;s top antitrust regulator says it has seen &quot;effective results&quot; that Alibaba has ceased the monopolistic practices that prompted an investigation in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240830/p3#a240830p3)
  - [Best Labor Day Sales: The Biggest Discounts from Amazon, Walmart, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
  - [Best Savings Rates Today, Aug. 30, 2024: Time&#39;s Running Out on APYs up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-august-30-2024/#ftag=CAD590a51e)
- - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Best Labor Day Deals Under $25: Enjoy Huge Savings on Everything From Tech to Outdoor Goods](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPod Deals: Save on Apple&#39;s Personal Audio Accessories Today](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

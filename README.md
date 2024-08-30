@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 😝 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 💣 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
- - 😝 [Witty title](http://9gag.com/gag/ae9bo1O)
- - 👉 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)<!-- MEMES:END -->
+ - 😝 [Never late to the airport](http://9gag.com/gag/aAyDR7p)
+ - 😝 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
+ - 💣 [Keep sending them money EU..](http://9gag.com/gag/abAzXGX)
+ - 😝 [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 👉 [Let me rest here](http://9gag.com/gag/an7jqM5)<!-- MEMES:END -->
 
 ---
 

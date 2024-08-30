@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Labor Day Apple deals see AirPods, MacBooks, iPads drop to season&#39;s lowest prices](https://appleinsider.com/articles/24/08/30/labor-day-apple-deals-see-airpods-macbooks-ipads-drop-to-seasons-lowest-prices?utm_medium=rss)
  - [A new iPad mini 7 may be close -- what the rumor mill says is coming](https://appleinsider.com/articles/24/08/30/a-new-ipad-mini-7-may-be-close----what-the-rumor-mill-says-is-coming?utm_medium=rss)
  - [Investor note: 360 One values Indian startup VerSe, which operates popular news aggregator Dailyhunt, at $2.9B, down from $5B in 2022 when VerSe raised $805M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240830/p10#a240830p10)
  - [AnandTech shuts down after 27 years](https://www.theverge.com/2024/8/30/24232171/anandtech-tech-journalism-hardware)
- - [Turn Your Old iPhone or iPad Into a Retro Game Machine](https://www.wired.com/story/turn-your-iphone-into-a-retro-game-machine/)
- - [EU antitrust chief &amp; Apple foe Margrethe Vestager out after 10 years](https://appleinsider.com/articles/24/08/30/eu-antitrust-chief-apple-foe-margrethe-vestager-out-after-10-years?utm_medium=rss)<!-- TECH:END -->
+ - [Turn Your Old iPhone or iPad Into a Retro Game Machine](https://www.wired.com/story/turn-your-iphone-into-a-retro-game-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

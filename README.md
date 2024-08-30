@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram&#39;s 2023 financials: $342.5M revenue, 40% of which came from crypto-related line items, and $108M operating loss; it had holdings of ~$400M in Toncoin &lpar;Financial Times&rpar;](http://www.techmeme.com/240830/p16#a240830p16)
  - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)
  - [Elon Musk’s Standoff With Brazil Reaches a Tipping Point](https://www.wired.com/story/elon-musks-standoff-with-brazil-reaches-a-tipping-point/)
  - [Sources: OpenAI is in discussions about changing its corporate structure to become more investor-friendly, including removing a cap on profits for investors &lpar;Financial Times&rpar;](http://www.techmeme.com/240830/p15#a240830p15)
- - [The Borderlands movie hides its best ideas under painful jokes](https://www.theverge.com/2024/8/30/24232389/borderlands-movie-review-interview-video-on-demand)
- - [LAION, a research org whose dataset was used to train Stable Diffusion and other models, releases a new dataset it claims has been &quot;thoroughly cleaned&quot; of CSAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240830/p14#a240830p14)<!-- TECH:END -->
+ - [The Borderlands movie hides its best ideas under painful jokes](https://www.theverge.com/2024/8/30/24232389/borderlands-movie-review-interview-video-on-demand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

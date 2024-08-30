@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never late to the airport](http://9gag.com/gag/aAyDR7p)
- - 😝 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
- - 💣 [Keep sending them money EU..](http://9gag.com/gag/abAzXGX)
- - 😝 [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 👉 [Let me rest here](http://9gag.com/gag/an7jqM5)<!-- MEMES:END -->
+ - 😝 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
+ - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 💣 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)
+ - 😝 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 👉 [God is great](http://9gag.com/gag/aKGVbMO)<!-- MEMES:END -->
 
 ---
 

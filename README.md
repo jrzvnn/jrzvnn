@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - 😝 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 💣 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 😝 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
- - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
+ - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
+ - 😝 [STAR WARS OUTLAWS. A Ubisoft game that cost $70-$120.00. Where Ubisoft executives say to shareholders is the `Next generation` of `Generation defining AI`... Also the game where `Games Journalists` from IGN, GamesRadar, Screenrant and etc claim is `Better` than Black Myth:Wukong](http://9gag.com/gag/aD2zReG)
+ - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 😝 [Is this legal?](http://9gag.com/gag/aLn8RQW)
+ - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
 
 ---
 

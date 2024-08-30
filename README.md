@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it&#39;s &quot;growing quickly&quot; even without a rollout &quot;in UK, Brazil, or EU yet&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240830/p19#a240830p19)
  - [Judge orders X ban in Brazil](https://www.theverge.com/2024/8/30/24231286/x-brazil-ban-elon-musk-legal-representative)
  - [Brazilian Supreme Court justice Alexandre de Moraes orders X&#39;s suspension in Brazil after Elon Musk refused to name a legal representative in the country &lpar;Associated Press&rpar;](http://www.techmeme.com/240830/p18#a240830p18)
- - [Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240830/p17#a240830p17)<!-- TECH:END -->
+ - [Replacing an EV Battery Is Expensive, But Would You Ever Need To?](https://www.cnet.com/roadshow/news/replacing-an-ev-battery-is-expensive-but-would-you-ever-need-to/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

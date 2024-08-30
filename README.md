@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
- - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
+ - 😝 [Look at those moves](http://9gag.com/gag/a9yr9GW)
+ - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
+ - 💣 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 😝 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)
+ - 👉 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)<!-- MEMES:END -->
 
 ---
 

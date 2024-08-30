@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one cares about light boy](http://9gag.com/gag/aAyDBed)
- - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 😝 [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
+ - 😝 [Based Latvia?](http://9gag.com/gag/avyGbxE)
+ - 💣 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
+ - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
 
 ---
 

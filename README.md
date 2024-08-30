@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it&#39;s &quot;growing quickly&quot; even without a rollout &quot;in UK, Brazil, or EU yet&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240830/p19#a240830p19)
+ - [Judge orders X ban in Brazil](https://www.theverge.com/2024/8/30/24231286/x-brazil-ban-elon-musk-legal-representative)
+ - [Brazilian Supreme Court justice Alexandre de Moraes orders X&#39;s suspension in Brazil after Elon Musk refused to name a legal representative in the country &lpar;Associated Press&rpar;](http://www.techmeme.com/240830/p18#a240830p18)
  - [Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240830/p17#a240830p17)
- - [The Creators of &#39;Industry&#39; Know Banking Is a Rigged Game](https://www.wired.com/story/dial-up-industry-creators-mickey-down-konrad-kay/)
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
- - [Top Best Buy Labor Day Sales: Enjoy up to 50% Off on Appliances, TVs, Headphones and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
- - [Score a One-Year BJ&#39;s Membership for Just $40 With This Labor Day Discount](https://www.cnet.com/deals/score-a-one-year-bjs-membership-for-just-40-with-this-labor-day-discount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Creators of &#39;Industry&#39; Know Banking Is a Rigged Game](https://www.wired.com/story/dial-up-industry-creators-mickey-down-konrad-kay/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

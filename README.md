@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - 😝 [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)
- - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 💣 [Relationship goal](http://9gag.com/gag/aVvqNxy)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)<!-- MEMES:END -->
+ - 👉 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)<!-- MEMES:END -->
 
 ---
 

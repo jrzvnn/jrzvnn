@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 💣 [Relationship goal](http://9gag.com/gag/aVvqNxy)
+ - 😝 [Game of the Year](http://9gag.com/gag/aLnDq2A)
+ - 😝 [Women](http://9gag.com/gag/adB73Od)
+ - 💣 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)<!-- MEMES:END -->
+ - 👉 [We don&#39;t need your doctors... We don&#39;t need your engineers! Learn something , rest of Europe!!!](http://9gag.com/gag/axyVxDn)<!-- MEMES:END -->
 
 ---
 

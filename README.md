@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use iOS’s Live Text feature](https://www.theverge.com/22559167/ios-15-live-text-feature-how-to)
+ - [Amazon’s new Alexa voice assistant will use Claude AI](https://www.theverge.com/2024/8/30/24232123/amazon-new-alexa-voice-assistant-claude-ai-model)
+ - [Princess Zelda draws a sword in Echoes of Wisdom’s new trailer](https://www.theverge.com/2024/8/30/24231404/echoes-of-wisdom-zelda-sword)
  - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
- - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)
- - [Mark Zuckerberg Vows to Be Neutral–While Tossing Gifts to Trump and the GOP](https://www.wired.com/story/plaintext-mark-zuckerberg-vows-to-be-neutral-while-tossing-gifts-to-trump-and-the-gop/)
- - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
- - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)<!-- TECH:END -->
+ - [Best Labor Day Sales: The Biggest Discounts from Amazon, Walmart, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

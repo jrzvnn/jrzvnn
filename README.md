@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
+ - [Top Best Buy Labor Day Sales: Enjoy up to 50% Off on Appliances, TVs, Headphones and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
+ - [Score a One-Year BJ&#39;s Membership for Just $40 With This Labor Day Discount](https://www.cnet.com/deals/score-a-one-year-bjs-membership-for-just-40-with-this-labor-day-discount/#ftag=CAD590a51e)
  - [Telegram&#39;s 2023 financials: $342.5M revenue, 40% of which came from crypto-related line items, and $108M operating loss; it had holdings of ~$400M in Toncoin &lpar;Financial Times&rpar;](http://www.techmeme.com/240830/p16#a240830p16)
- - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)
- - [Elon Musk’s Standoff With Brazil Reaches a Tipping Point](https://www.wired.com/story/elon-musks-standoff-with-brazil-reaches-a-tipping-point/)
- - [Sources: OpenAI is in discussions about changing its corporate structure to become more investor-friendly, including removing a cap on profits for investors &lpar;Financial Times&rpar;](http://www.techmeme.com/240830/p15#a240830p15)
- - [The Borderlands movie hides its best ideas under painful jokes](https://www.theverge.com/2024/8/30/24232389/borderlands-movie-review-interview-video-on-demand)<!-- TECH:END -->
+ - [Aging Eyes? 6 Common Eye Conditions and How to Protect Your Vision as You Age](https://www.cnet.com/health/personal-care/6-common-eye-conditions-and-how-to-protect-your-vision-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

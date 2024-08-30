@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And she dares to complain](http://9gag.com/gag/a1mbz3P)
- - 😝 [Based Latvia?](http://9gag.com/gag/avyGbxE)
- - 💣 [Savage](http://9gag.com/gag/aMV8pEM)
+ - 😝 [This should be illegal](http://9gag.com/gag/amoYD59)
+ - 😝 [Make Memes Great Again](http://9gag.com/gag/amoYeKv)
+ - 💣 [Game of the Year](http://9gag.com/gag/aLnDq2A)
  - 😝 [Look\uff01What package is Kirara carrying for you?](http://9gag.com/gag/azx8WGj)
- - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
+ - 👉 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)<!-- MEMES:END -->
 
 ---
 

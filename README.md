@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 39 Best Deals From REI’s 2024 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/)
+ - [The problem with Telegram](https://www.theverge.com/2024/8/30/24232158/telegram-pavel-durov-arrest-yelp-google-vergecast)
  - [Labor Day Apple deals see AirPods, MacBooks, iPads drop to season&#39;s lowest prices](https://appleinsider.com/articles/24/08/30/labor-day-apple-deals-see-airpods-macbooks-ipads-drop-to-seasons-lowest-prices?utm_medium=rss)
- - [A new iPad mini 7 may be close -- what the rumor mill says is coming](https://appleinsider.com/articles/24/08/30/a-new-ipad-mini-7-may-be-close----what-the-rumor-mill-says-is-coming?utm_medium=rss)
- - [Investor note: 360 One values Indian startup VerSe, which operates popular news aggregator Dailyhunt, at $2.9B, down from $5B in 2022 when VerSe raised $805M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240830/p10#a240830p10)
- - [AnandTech shuts down after 27 years](https://www.theverge.com/2024/8/30/24232171/anandtech-tech-journalism-hardware)
- - [Turn Your Old iPhone or iPad Into a Retro Game Machine](https://www.wired.com/story/turn-your-iphone-into-a-retro-game-machine/)<!-- TECH:END -->
+ - [My Favorite RC Car Is On Sale for Labor Day](https://www.cnet.com/roadshow/news/my-favorite-rc-car-bargain-is-on-sale-for-labor-day/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Aug. 30, 2024: Time&#39;s Running Out on APYs up to 5.25%](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 17 Best Labor Day Sleep Deals of 2024: Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)
  - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)
  - [7 Star Wars Outlaws Gaming Secrets I Wished I Knew Sooner](https://www.cnet.com/tech/gaming/things-to-know-before-you-begin-star-wars-outlaws/#ftag=CAD590a51e)
  - [Sources: Intel explores options to cope with historic slump, including a split of its product and foundry units and potentially scrapping some factory projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p39#a240829p39)
- - [Analysts and industry execs say Nvidia&#39;s Blackwell engineering challenges stem from combining two new processors and several memory components in a single chip &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240829/p38#a240829p38)<!-- TECH:END -->
+ - [Analysts and industry execs say Nvidia&#39;s Blackwell engineering challenges stem from combining two new processors and several memory components in a single chip &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240829/p38#a240829p38)
+ - [Indian quick grocery delivery startup Zepto raises $340M at a $5B valuation, up from $3.6B in June 2024, in a round led by General Catalyst &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p37#a240829p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 👉 [Just your turn...](http://9gag.com/gag/aqyb3wv)<!-- MEMES:END -->
+ - 😝 [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 😝 [The game is amazing](http://9gag.com/gag/adB9yP2)
+ - 💣 [Post](http://9gag.com/gag/ary51m5)
+ - 😝 [Let me rest here](http://9gag.com/gag/an7jqM5)
+ - 👉 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)<!-- MEMES:END -->
 
 ---
 

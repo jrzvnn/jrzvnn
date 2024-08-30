@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is adding new ways to fine tune your For You page algorithm](https://www.theverge.com/2024/8/30/24232154/tiktok-for-you-page-algorithm-content-preferencers-sliders)
- - [Once hesitant to openly comment about politics, German tech leaders publicly voice their opposition to the far-right AfD ahead of Sunday&#39;s state elections &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/240830/p9#a240830p9)
- - [How to use iOS’s Live Text feature](https://www.theverge.com/22559167/ios-15-live-text-feature-how-to)
- - [Amazon’s new Alexa voice assistant will use Claude AI](https://www.theverge.com/2024/8/30/24232123/amazon-new-alexa-voice-assistant-claude-ai-model)
- - [Princess Zelda draws a sword in Echoes of Wisdom’s new trailer](https://www.theverge.com/2024/8/30/24231404/echoes-of-wisdom-zelda-sword)<!-- TECH:END -->
+ - [Turn Your Old iPhone or iPad Into a Retro Game Machine](https://www.wired.com/story/turn-your-iphone-into-a-retro-game-machine/)
+ - [EU antitrust chief &amp; Apple foe Margrethe Vestager out after 10 years](https://appleinsider.com/articles/24/08/30/eu-antitrust-chief-apple-foe-margrethe-vestager-out-after-10-years?utm_medium=rss)
+ - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Google’s Play Store can finally install or update multiple Android apps at once](https://www.theverge.com/2024/8/30/24232181/google-play-store-three-app-simultaneous-download-install)
+ - [Best Labor Day Sales: The Biggest Discounts From Amazon, Walmart, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

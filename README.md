@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel definitively claims its laptop chips aren’t crashing because of that voltage thing](https://www.theverge.com/2024/8/30/24232279/intel-13th-14th-gen-laptop-crashing-vmin-shift-instability)
+ - [Sources: the cryptology part of France&#39;s charges against Pavel Durov raises concerns at providers of messaging apps with E2EE, like Signal, Apple, and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/240830/p11#a240830p11)
  - [The 39 Best Deals From REI’s 2024 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/)
  - [The problem with Telegram](https://www.theverge.com/2024/8/30/24232158/telegram-pavel-durov-arrest-yelp-google-vergecast)
- - [Labor Day Apple deals see AirPods, MacBooks, iPads drop to season&#39;s lowest prices](https://appleinsider.com/articles/24/08/30/labor-day-apple-deals-see-airpods-macbooks-ipads-drop-to-seasons-lowest-prices?utm_medium=rss)
- - [My Favorite RC Car Is On Sale for Labor Day](https://www.cnet.com/roadshow/news/my-favorite-rc-car-bargain-is-on-sale-for-labor-day/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Aug. 30, 2024: Time&#39;s Running Out on APYs up to 5.25%](https://www.cnet.com/personal-finance/todays-best-savings-rates-august-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Labor Day Apple deals see AirPods, MacBooks, iPads drop to season&#39;s lowest prices](https://appleinsider.com/articles/24/08/30/labor-day-apple-deals-see-airpods-macbooks-ipads-drop-to-seasons-lowest-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Rare Coincidence of La Niña Events Will Weaken Hurricane Season](https://www.wired.com/story/a-rare-coincidence-of-la-nina-events-will-weaken-hurricane-season/)
- - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
- - [Scientists Plan ‘Doomsday’ Vault on Moon](https://www.wired.com/story/scientists-want-to-build-a-doomsday-vault-on-the-moon/)
- - [Social media companies&#39; reliance on Section 230 protections is in jeopardy after a US court ruled TikTok&#39;s algorithmic curation is not protected by Section 230 &lpar;Matt Stoller/BIG&rpar;](http://www.techmeme.com/240831/p1#a240831p1)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Labor Day Sales: Find Incredible Deals on iPads, AirPods, Apple Watches and MacBooks](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-8-31/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Best Labor Day Mattress Deals: Shop the Top 24 Deals From Nectar, Casper, Purple and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-08-31/#ftag=CAD590a51e)
+ - [Best Amazon Labor Day Deals: Over 30 of the Best Deals on Tech, Home Goods and More](https://www.cnet.com/deals/amazon-labor-day-deals-2024-08-31/#ftag=CAD590a51e)
+ - [Best Labor Day Tablet Deals 2024: 13 Discounts on Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

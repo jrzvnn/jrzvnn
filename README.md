@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pump Up the Party With This Labor Day Deal on the Sonos Move 2 Speaker](https://www.cnet.com/deals/pump-up-the-party-with-this-labor-day-deal-on-the-sonos-move-2-speaker/#ftag=CAD590a51e)
+ - [Coatue founder Philippe Laffont has left the board of ByteDance following a report that Coatue was considering selling a portion of its ByteDance stake &lpar;The Information&rpar;](http://www.techmeme.com/240831/p7#a240831p7)
+ - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
  - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [Best Labor Day Mattress Deals: Grab the Top 24 Deals From the Best Brands Like Nectar, Casper, Purple and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-08-31/#ftag=CAD590a51e)
- - [Why the Roku Streaming Stick 4K Is My Labor Day Sale Must-Have](https://www.cnet.com/deals/why-the-roku-streaming-stick-4k-is-my-labor-day-sale-must-have/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)
+ - [How keep your laptop’s battery in good health](https://www.theverge.com/24232455/mac-windows-pc-battery-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

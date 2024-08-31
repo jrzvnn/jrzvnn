@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
  - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)
  - [How keep your laptop’s battery in good health](https://www.theverge.com/24232455/mac-windows-pc-battery-how-to)
  - [The Samsung Galaxy Watch 4 Is Everything I Need in a Smartwatch. It&#39;s on Sale for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-everything-i-need-in-a-smartwatch-its-on-sale-for-labor-day/#ftag=CAD590a51e)
- - [US fights Canada over new tech tax that could cost Apple billions](https://appleinsider.com/articles/24/08/31/us-fights-canada-over-new-tech-tax-that-could-cost-apple-billions?utm_medium=rss)
- - [X is right to stand up to Brazil&#39;s unjust &quot;hostage laws,&quot; but Musk&#39;s fight highlights his cynical free speech stance after he caved to Modi&#39;s censorship demands &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240831/p5#a240831p5)<!-- TECH:END -->
+ - [US fights Canada over new tech tax that could cost Apple billions](https://appleinsider.com/articles/24/08/31/us-fights-canada-over-new-tech-tax-that-could-cost-apple-billions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

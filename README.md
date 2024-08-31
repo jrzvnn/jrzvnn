@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
+ - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
  - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)
  - [How keep your laptop’s battery in good health](https://www.theverge.com/24232455/mac-windows-pc-battery-how-to)
- - [The Samsung Galaxy Watch 4 Is Everything I Need in a Smartwatch. It&#39;s on Sale for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-everything-i-need-in-a-smartwatch-its-on-sale-for-labor-day/#ftag=CAD590a51e)
- - [US fights Canada over new tech tax that could cost Apple billions](https://appleinsider.com/articles/24/08/31/us-fights-canada-over-new-tech-tax-that-could-cost-apple-billions?utm_medium=rss)<!-- TECH:END -->
+ - [Use These 3 Care Tips Before You Ruin Your Enameled Cast Iron Cookware](https://www.cnet.com/how-to/use-these-3-care-tips-before-you-ruin-your-enameled-cast-iron-cookware/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the farcical situation at Bolt as it insists in a letter that Silverbear is on the hook to invest $200M; Source: Bolt lost $310M on $27M 2023 revenue &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/240831/p10#a240831p10)
  - [In a lawsuit, OSOM&#39;s ex-chief privacy officer alleges that the CEO of the smartphone startup misused funds to pay for his racing hobby and lavish lifestyle &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240831/p9#a240831p9)
  - [Bluesky reports a record spike in usage as many X users in Brazil move to Bluesky and Threads; Brazil is X&#39;s fifth-largest international market, with 20M+ users &lpar;New York Times&rpar;](http://www.techmeme.com/240831/p8#a240831p8)
- - [A former Essential Phone exec used company funds for Lamborghinis, claims lawsuit](https://www.theverge.com/2024/8/31/24233005/essential-phone-osom-products-ceo-lawsuit-personal-spending-lamborghinis-racing-mortgage)
- - [Pump Up the Party With This Labor Day Deal on the Sonos Move 2 Speaker](https://www.cnet.com/deals/pump-up-the-party-with-this-labor-day-deal-on-the-sonos-move-2-speaker/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Take Charge of Your Eye Health With These Vitamins and Supplements](https://www.cnet.com/health/personal-care/take-charge-of-your-eye-health-with-these-vitamins-and-supplements/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 130+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

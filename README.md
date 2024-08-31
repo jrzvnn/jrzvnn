@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
- - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 👉 [Wtf](http://9gag.com/gag/aVvMOrK)<!-- MEMES:END -->
+ - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
+ - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
+ - 👉 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)<!-- MEMES:END -->
 
 ---
 

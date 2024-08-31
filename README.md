@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
- - 😝 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
- - 💣 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
- - 😝 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)
- - 👉 [Exactly](http://9gag.com/gag/amo2LKV)<!-- MEMES:END -->
+ - 😝 [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
+ - 😝 [BBQ in balcony](http://9gag.com/gag/a7orjBm)
+ - 💣 [That must have burned](http://9gag.com/gag/aD2z3md)
+ - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
+ - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 ---
 

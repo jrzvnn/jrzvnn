@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A reporter tries fixing his reputation with AI chatbots, including by adding a &quot;strategic text sequence&quot; to data sources, and via an AI optimization startup &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240831/p4#a240831p4)
+ - [SpaceX resumes Falcon 9 launches after the FAA clears it for flight](https://www.theverge.com/2024/8/31/24232928/spacex-falcon-9-cleared-to-launch-faa-two-starlink-flights)
  - [Amazon adds $299 iPad 10th Gen, $899 M4 iPad Pro deals to its Labor Day sale](https://appleinsider.com/articles/24/08/31/amazon-adds-299-ipad-10th-gen-899-m4-ipad-pro-deals-to-its-labor-day-sale?utm_medium=rss)
  - [Shokz OpenRun Pro 2 Review: Air and Bone Conduction Technology](https://www.wired.com/review/review-shokz-openrun-pro-2/)
- - [21 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Roborock’s pet-ready Q5 Pro robot vacuum is on sale for under $200](https://www.theverge.com/2024/8/31/24232408/roborock-q5-pro-robot-vacuum-mop-fellow-stagg-electric-kettle-deal-sale)
- - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)<!-- TECH:END -->
+ - [21 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
- - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
+ - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 💣 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
+ - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 👉 [Is this legal?](http://9gag.com/gag/aLn8RQW)<!-- MEMES:END -->
 
 ---
 

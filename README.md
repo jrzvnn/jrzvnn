@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A teacher being arrested for not endorsing trans ideology. The Lost Island sure went full retard](http://9gag.com/gag/aLn8QxW)
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 💣 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 👉 [Reflection](http://9gag.com/gag/aAydWn0)<!-- MEMES:END -->
+ - 😝 [You what??!!](http://9gag.com/gag/aZZgWO3)
+ - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
+ - 💣 [A teacher being arrested for not endorsing trans ideology. The Lost Island sure went full retard](http://9gag.com/gag/aLn8QxW)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
 
 ---
 

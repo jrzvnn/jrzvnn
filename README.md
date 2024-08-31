@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 💣 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
- - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
+ - 😝 [That must have burned](http://9gag.com/gag/aD2z3md)
+ - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
+ - 💣 [The Best Kissing Scenes From Movies Ever](http://9gag.com/gag/a9yAMKL)
+ - 😝 [The Cancer of Asia](http://9gag.com/gag/a5QnPby)
+ - 👉 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 😝 [A teacher being arrested for not endorsing trans ideology. The Lost Island sure went full retard](http://9gag.com/gag/aLn8QxW)
+ - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 💣 [Full kit wanker](http://9gag.com/gag/a878WRO)
  - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 💣 [Game of the Year](http://9gag.com/gag/aLnDq2A)
- - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - 👉 [Red or black?](http://9gag.com/gag/aRBm5NB)<!-- MEMES:END -->
+ - 👉 [Reflection](http://9gag.com/gag/aAydWn0)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
  - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 💣 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
- - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 💣 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
  - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
 
 ---

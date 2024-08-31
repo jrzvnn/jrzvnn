@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
+ - [Amazon&#39;s popular $199 iPad deal ends soon](https://appleinsider.com/articles/24/08/29/amazons-popular-199-ipad-deal-ends-soon?utm_medium=rss)
+ - [Star Wars Outlaws is the solution to Ubisoft’s open-world woes](https://www.theverge.com/2024/8/31/24232314/star-wars-outlaws-ubisoft-open-world-games)
  - [The Best Invisible Hearing Aids to Keep Your Hearing Loss Private &lpar;2024&rpar;](https://www.wired.com/gallery/best-invisible-hearing-aids/)
- - [Ditch the Keys and Save $80 Off This Aqara Smart Door Lock This Labor Day](https://www.cnet.com/deals/ditch-the-keys-and-save-80-off-this-aqara-smart-door-lock-this-labor-day/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 110+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Google Sued by Yelp for Dominating Local Search Results](https://www.cnet.com/tech/services-and-software/google-sued-by-yelp-for-dominating-local-search-results/#ftag=CAD590a51e)
- - [Give In to Temperature-Controlling Tech and Unlock a New Kitchen Zen](https://www.wired.com/story/induction-by-the-degree-cooking-kitchen-zen/)<!-- TECH:END -->
+ - [Ditch the Keys and Save $80 Off This Aqara Smart Door Lock This Labor Day](https://www.cnet.com/deals/ditch-the-keys-and-save-80-off-this-aqara-smart-door-lock-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

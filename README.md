@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
- - 😝 [BBQ in balcony](http://9gag.com/gag/a7orjBm)
- - 💣 [That must have burned](http://9gag.com/gag/aD2z3md)
- - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
- - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
+ - 😝 [Turk job moment](http://9gag.com/gag/a0e5vQq)
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 💣 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
+ - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 👉 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon adds $299 iPad 10th Gen, $899 M4 iPad Pro deals to its Labor Day sale](https://appleinsider.com/articles/24/08/31/amazon-adds-299-ipad-10th-gen-899-m4-ipad-pro-deals-to-its-labor-day-sale?utm_medium=rss)
+ - [Shokz OpenRun Pro 2 Review: Air and Bone Conduction Technology](https://www.wired.com/review/review-shokz-openrun-pro-2/)
+ - [21 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
  - [Roborock’s pet-ready Q5 Pro robot vacuum is on sale for under $200](https://www.theverge.com/2024/8/31/24232408/roborock-q5-pro-robot-vacuum-mop-fellow-stagg-electric-kettle-deal-sale)
- - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
- - [The 9th-Gen iPad Is My Kid&#39;s Favorite Toy and It&#39;s At Its Lowest Ever Price](https://www.cnet.com/deals/the-9th-gen-ipad-is-my-kids-favorite-toy-and-its-at-its-lowest-ever-price/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 110+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Amazon&#39;s popular $199 iPad deal ends soon](https://appleinsider.com/articles/24/08/29/amazons-popular-199-ipad-deal-ends-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Ride-or-Die Water Bottle Is Now Up to 50% Off for Labor Day](https://www.cnet.com/deals/ride-or-die-water-bottle-now-up-to-50-off-labor-day/#ftag=CAD590a51e)
+ - [How Star Wars walked away from the world’s first self-retracting lightsaber toy](https://www.theverge.com/2024/8/31/24226439/goliath-power-saber-star-wars-lightsaber-hasbro-disney)
+ - [My Best Hatch Alarm Clock Is Still on Sale This Labor Day](https://www.cnet.com/deals/hatch-restore-labor-day-2024/#ftag=CAD590a51e)
  - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Real Valladolid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-real-valladolid-from-anywhere/#ftag=CAD590a51e)
- - [Mercury Is Right Next to the Moon Tonight: How to See It](https://www.cnet.com/science/space/mercury-is-right-next-to-the-moon-tonight-how-to-see-it/#ftag=CAD590a51e)
- - [Pixel 9 Pro XL Review: Google&#39;s Best Phone Is All About AI](https://www.cnet.com/tech/mobile/pixel-9-pro-xl-review-google-goes-all-in-on-ai-for-better-or-worse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day TV Sales 2024: Save Big on TVs From LG, Samsung, Sony and More](https://www.cnet.com/deals/best-labor-day-tv-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-wolves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

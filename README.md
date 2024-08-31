@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You what??!!](http://9gag.com/gag/aZZgWO3)
- - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
- - 💣 [A teacher being arrested for not endorsing trans ideology. The Lost Island sure went full retard](http://9gag.com/gag/aLn8QxW)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
+ - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 💣 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
+ - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
+ - 👉 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)<!-- MEMES:END -->
 
 ---
 

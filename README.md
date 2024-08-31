@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A former Essential Phone exec used company funds for Lamborghinis, claims lawsuit](https://www.theverge.com/2024/8/31/24233005/essential-phone-osom-products-ceo-lawsuit-personal-spending-lamborghinis-racing-mortgage)
  - [Coatue founder Philippe Laffont has left the board of ByteDance following a report that Coatue was considering selling a portion of its ByteDance stake &lpar;The Information&rpar;](http://www.techmeme.com/240831/p7#a240831p7)
  - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
  - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)
- - [How keep your laptop’s battery in good health](https://www.theverge.com/24232455/mac-windows-pc-battery-how-to)<!-- TECH:END -->
+ - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

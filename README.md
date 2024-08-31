@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
- - 😝 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)
+ - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
+ - 😝 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
  - 💣 [Nice](http://9gag.com/gag/aW4qWw6)
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 👉 [Linkin drunk](http://9gag.com/gag/aQzepnz)<!-- MEMES:END -->
+ - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
+ - 👉 [Sterile environment](http://9gag.com/gag/a1mKZbR)<!-- MEMES:END -->
 
 ---
 

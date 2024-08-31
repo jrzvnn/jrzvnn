@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - 💣 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
+ - 💣 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
  - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 👉 [BBQ in balcony](http://9gag.com/gag/a7orjBm)<!-- MEMES:END -->
+ - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
 
 ---
 

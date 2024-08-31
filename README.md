@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 💣 [Is this legal?](http://9gag.com/gag/aLn8RQW)
- - 😝 [Ls that your real hair ?](http://9gag.com/gag/azx860m)
- - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
+ - 😝 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
+ - 😝 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)
+ - 💣 [Nice](http://9gag.com/gag/aW4qWw6)
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 👉 [Linkin drunk](http://9gag.com/gag/aQzepnz)<!-- MEMES:END -->
 
 ---
 

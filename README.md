@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)
- - 😝 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
- - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
  - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
+ - 💣 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
+ - 😝 [Palestinians trying to \u201cfree Palestine\u201d by vandalizing the lawn at McGill University.](http://9gag.com/gag/aVvMXgP)
  - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 ---

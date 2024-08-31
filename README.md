@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
- - 💣 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
+ - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
+ - 😝 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
+ - 💣 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
+ - 😝 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)
+ - 👉 [Exactly](http://9gag.com/gag/amo2LKV)<!-- MEMES:END -->
 
 ---
 

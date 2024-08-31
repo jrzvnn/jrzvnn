@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s been a great summer for indie games — here are some of the best](https://www.theverge.com/2024/8/31/24232540/summer-2024-best-indie-games)
- - [My Ride-or-Die Water Bottle Is Now Up to 50% Off for Labor Day](https://www.cnet.com/deals/ride-or-die-water-bottle-now-up-to-50-off-labor-day/#ftag=CAD590a51e)
- - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Real Valladolid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-real-valladolid-from-anywhere/#ftag=CAD590a51e)
- - [Mercury Is Right Next to the Moon Tonight: How to See It](https://www.cnet.com/science/space/mercury-is-right-next-to-the-moon-tonight-how-to-see-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: 110+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Keanu Reeves Is Shadow in First &#39;Sonic the Hedgehog 3&#39; Movie Trailer](https://www.cnet.com/culture/entertainment/keanu-reeves-is-shadow-in-first-sonic-the-hedgehog-3-movie-trailer/#ftag=CAD590a51e)
+ - [Can You DIY a Home Battery Installation?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)
+ - [Only Microsoft Can Save Windows-Powered Handheld Game Consoles &lpar;2024&rpar;](https://www.wired.com/story/only-microsoft-can-save-windows-gaming-handhelds/)
+ - [Pellet Grill Maintenance: Tips and Trick to Keep Your Pellet Grill Running Smoothly](https://www.cnet.com/home/yard-and-outdoors/how-to-maintain-a-pellet-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
  - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
- - 👉 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)<!-- MEMES:END -->
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 💣 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 👉 [STAR WARS OUTLAWS. A Ubisoft game that cost $70-$120.00. Where Ubisoft executives say to shareholders is the `Next generation` of `Generation defining AI`... Also the game where `Games Journalists` from IGN, GamesRadar, Screenrant and etc claim is `Better` than Black Myth:Wukong](http://9gag.com/gag/aD2zReG)<!-- MEMES:END -->
 
 ---
 

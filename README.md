@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon hires the founders of industrial robot maker Covariant and ~25% of its staff, and signs a non-exclusive license to Covariant&#39;s robotic foundation models &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240830/p23#a240830p23)
  - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
+ - [Amazon hires the founders of industrial robot maker Covariant and ~25% of its staff, and signs a non-exclusive license to Covariant&#39;s robotic foundation models &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240830/p23#a240830p23)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 31, #181](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-31-181/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 31 #447](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-31-447/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 31, #1169](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-31-1169/#ftag=CAD590a51e)<!-- TECH:END -->

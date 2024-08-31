@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
- - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
- - 💣 [Exactly](http://9gag.com/gag/amo2LKV)
- - 😝 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)
- - 👉 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)<!-- MEMES:END -->
+ - 😝 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
+ - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
+ - 💣 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 👉 [The Best Kissing Scenes From Movies Ever](http://9gag.com/gag/a9yAMKL)<!-- MEMES:END -->
 
 ---
 

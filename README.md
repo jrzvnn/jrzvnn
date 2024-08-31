@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
- - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
- - 💣 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 👉 [The Best Kissing Scenes From Movies Ever](http://9gag.com/gag/a9yAMKL)<!-- MEMES:END -->
+ - 😝 [What does it really feel when fighting mosquitoes...](http://9gag.com/gag/aPA9ybB)
+ - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
+ - 💣 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 👉 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)<!-- MEMES:END -->
 
 ---
 

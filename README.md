@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
- - [A Texas federal judge who held Tesla stock denies a motion to dismiss X&#39;s lawsuit accusing Media Matters of misrepresenting the amount of extremist content on X &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240830/p22#a240830p22)
- - [Sit Pretty This Labor Day With $50 Off This Sunny Yellow Outdoor Chair](https://www.cnet.com/deals/sit-pretty-this-labor-day-with-50-off-this-sunny-yellow-outdoor-chair/#ftag=CAD590a51e)
- - [Save Up to 25% on Made In Cookware During Its Labor Day Sale](https://www.cnet.com/deals/save-up-to-25-on-made-in-cookware-during-its-labor-day-sale/#ftag=CAD590a51e)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 31, #181](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-31-181/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 31 #447](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-31-447/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 31, #1169](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-31-1169/#ftag=CAD590a51e)
+ - [A Texas federal judge who held Tesla stock denies a motion to dismiss X&#39;s lawsuit accusing Media Matters of misrepresenting the amount of extremist content on X &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240830/p22#a240830p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

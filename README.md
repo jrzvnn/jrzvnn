@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Taylor Swift Concert Terror Plot Was Thwarted by Key CIA Tip](https://www.wired.com/story/taylor-swift-terrorist-attack-cia-tip/)
- - [It&#39;s time for audio services like Spotify to deal with AI by using labels and banning or downweighting music made with AI tools that don&#39;t license training data &lpar;Ed Newton-Rex/Music Business Worldwide&rpar;](http://www.techmeme.com/240831/p2#a240831p2)
- - [Best Apple Labor Day Sales: Find Incredible Deals on iPads, AirPods, Apple Watches and MacBooks](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-8-31/#ftag=CAD590a51e)
  - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Best Labor Day Mattress Deals: Shop the Top 24 Deals From Nectar, Casper, Purple and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s time for audio services like Spotify to deal with AI by using labels and banning or downweighting music made with AI tools that don&#39;t license training data &lpar;Ed Newton-Rex/Music Business Worldwide&rpar;](http://www.techmeme.com/240831/p2#a240831p2)
+ - [Best Labor Day Laptop Deals: Shop Discounts on Apple, Lenovo, HP and More](https://www.cnet.com/deals/best-labor-day-laptop-deals-2024-08-31/#ftag=CAD590a51e)
+ - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

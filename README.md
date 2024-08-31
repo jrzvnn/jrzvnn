@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 💣 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
  - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
- - 👉 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)<!-- MEMES:END -->
+ - 💣 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 😝 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)
+ - 👉 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)<!-- MEMES:END -->
 
 ---
 

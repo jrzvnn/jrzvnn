@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 💣 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
  - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
+ - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
+ - 💣 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
+ - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
  - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
 
 ---

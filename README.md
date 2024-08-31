@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does it really feel when fighting mosquitoes...](http://9gag.com/gag/aPA9ybB)
- - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
- - 💣 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 👉 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)<!-- MEMES:END -->
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 💣 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 👉 [BBQ in balcony](http://9gag.com/gag/a7orjBm)<!-- MEMES:END -->
 
 ---
 

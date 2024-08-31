@@ -17,9 +17,9 @@
 &nbsp; 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- 🚀 Top 4 Github User in the Philipppines. [![committers.top badge](https://user-badge.committers.top/philippines/jrzvnn.svg)](https://user-badge.committers.top/philippines/USERNAME)
-- 💻 I’m an SRE, DevOps Engineer.
-- 🤖 Currently learning AWS & K8s.
+- 🚀 Top 5 Github User in the Philipppines. [![committers.top badge](https://user-badge.committers.top/philippines/jrzvnn.svg)](https://user-badge.committers.top/philippines/USERNAME)
+- 💻 I’m an SRE, DevOps Engineer @ Samsung Electronics.
+- 🤖 Currently learning K8s & Ansible.
 - 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors.
 - 👉 `npx jrzvnn` Hit in your console or terminal to connect with me.
 - 📫 How to reach me: jrzvnn@gmail.com

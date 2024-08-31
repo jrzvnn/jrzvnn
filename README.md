@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift Concert Terror Plot Was Thwarted by Key CIA Tip](https://www.wired.com/story/taylor-swift-terrorist-attack-cia-tip/)
- - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [It&#39;s time for audio services like Spotify to deal with AI by using labels and banning or downweighting music made with AI tools that don&#39;t license training data &lpar;Ed Newton-Rex/Music Business Worldwide&rpar;](http://www.techmeme.com/240831/p2#a240831p2)
- - [Best Labor Day Laptop Deals: Shop Discounts on Apple, Lenovo, HP and More](https://www.cnet.com/deals/best-labor-day-laptop-deals-2024-08-31/#ftag=CAD590a51e)
- - [Best Phone Under $200: Our Top Pick Checks All the Boxes](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 21 Best Movies on Amazon Prime Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 39 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 40 Best Shows on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [Taylor Swift Concert Terror Plot Was Thwarted by Key CIA Tip](https://www.wired.com/story/taylor-swift-terrorist-attack-cia-tip/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

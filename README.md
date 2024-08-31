@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
- - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
+ - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
+ - 💣 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
+ - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
 
 ---
 

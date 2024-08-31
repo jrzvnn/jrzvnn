@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That must have burned](http://9gag.com/gag/aD2z3md)
- - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
- - 💣 [The Best Kissing Scenes From Movies Ever](http://9gag.com/gag/a9yAMKL)
- - 😝 [The Cancer of Asia](http://9gag.com/gag/a5QnPby)
- - 👉 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)<!-- MEMES:END -->
+ - 😝 [3000 horsepower Dodge Ram truck explodes](http://9gag.com/gag/aD2WBqG)
+ - 😝 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
+ - 💣 [God is great](http://9gag.com/gag/aKGVbMO)
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
 
 ---
 

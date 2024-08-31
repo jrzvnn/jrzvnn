@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A former Essential Phone exec used company funds for Lamborghinis, claims lawsuit](https://www.theverge.com/2024/8/31/24233005/essential-phone-osom-products-ceo-lawsuit-personal-spending-lamborghinis-racing-mortgage)
- - [Coatue founder Philippe Laffont has left the board of ByteDance following a report that Coatue was considering selling a portion of its ByteDance stake &lpar;The Information&rpar;](http://www.techmeme.com/240831/p7#a240831p7)
- - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
+ - [Pump Up the Party With This Labor Day Deal on the Sonos Move 2 Speaker](https://www.cnet.com/deals/pump-up-the-party-with-this-labor-day-deal-on-the-sonos-move-2-speaker/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)<!-- TECH:END -->
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
+ - [Best Labor Day Mattress Deals: Grab the Top 24 Deals From the Best Brands Like Nectar, Casper, Purple and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A reporter tries fixing his reputation with AI chatbots, including by adding a &quot;strategic text sequence&quot; to data sources, and via an AI optimization startup &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240831/p4#a240831p4)
- - [SpaceX resumes Falcon 9 launches after the FAA clears it for flight](https://www.theverge.com/2024/8/31/24232928/spacex-falcon-9-cleared-to-launch-faa-two-starlink-flights)
- - [Amazon adds $299 iPad 10th Gen, $899 M4 iPad Pro deals to its Labor Day sale](https://appleinsider.com/articles/24/08/31/amazon-adds-299-ipad-10th-gen-899-m4-ipad-pro-deals-to-its-labor-day-sale?utm_medium=rss)
- - [Shokz OpenRun Pro 2 Review: Air and Bone Conduction Technology](https://www.wired.com/review/review-shokz-openrun-pro-2/)
- - [21 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [Call of Duty: Black Ops 6 Open Beta Is Here: How to Get In](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-open-beta-is-here-how-to-get-in/#ftag=CAD590a51e)
+ - [Looking for the Secret Weapon to Weight Loss? Try Strength Training](https://www.cnet.com/health/fitness/looking-for-the-secret-weapon-to-lose-weight-try-strength-training-today/#ftag=CAD590a51e)
+ - [Best Live TV Streaming Service for Cord Cutters in 2024](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [6 Ways to Sleep Better While Living With Depression](https://www.cnet.com/health/sleep/6-ways-to-sleep-better-while-living-with-depression/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

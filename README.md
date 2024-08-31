@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
- - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
- - 💣 [Nice](http://9gag.com/gag/aW4qWw6)
- - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
- - 👉 [It got deleted, here again](http://9gag.com/gag/avy7pRn)<!-- MEMES:END -->
+ - 😝 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
+ - 💣 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 😝 [Is this legal?](http://9gag.com/gag/aLn8RQW)
+ - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 ---
 

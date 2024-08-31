@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
  - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 💣 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 👉 [Red or black?](http://9gag.com/gag/aRBm5NB)<!-- MEMES:END -->
+ - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
+ - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 ---
 

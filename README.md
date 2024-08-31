@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 💣 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 👉 [Is this legal?](http://9gag.com/gag/aLn8RQW)<!-- MEMES:END -->
+ - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
+ - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
+ - 💣 [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 😝 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
+ - 👉 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)<!-- MEMES:END -->
 
 ---
 

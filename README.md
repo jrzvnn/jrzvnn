@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - 😝 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
- - 💣 [Nice](http://9gag.com/gag/aW4qWw6)
  - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
- - 👉 [Sterile environment](http://9gag.com/gag/a1mKZbR)<!-- MEMES:END -->
+ - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
+ - 💣 [Nice](http://9gag.com/gag/aW4qWw6)
+ - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
+ - 👉 [It got deleted, here again](http://9gag.com/gag/avy7pRn)<!-- MEMES:END -->
 
 ---
 

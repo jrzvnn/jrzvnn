@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
  - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [Leave life join the homeless](http://9gag.com/gag/avyGYob)
  - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
+ - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 👉 [Wtf](http://9gag.com/gag/aVvMOrK)<!-- MEMES:END -->
 
 ---
 

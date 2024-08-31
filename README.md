@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
- - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
- - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
+ - 😝 [So AI is redpilled and one of us](http://9gag.com/gag/aVvMO5K)
+ - 😝 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)
+ - 💣 [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 😝 [Germans were busy working perhaps](http://9gag.com/gag/apRQqvD)
+ - 👉 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turk job moment](http://9gag.com/gag/a0e5vQq)
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 💣 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
- - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 👉 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)<!-- MEMES:END -->
+ - 😝 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
+ - 😝 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
+ - 💣 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 👉 [Linkin drunk](http://9gag.com/gag/aQzepnz)<!-- MEMES:END -->
 
 ---
 

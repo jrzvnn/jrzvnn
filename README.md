@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
- - 😝 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
- - 💣 [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 😝 [Is this legal?](http://9gag.com/gag/aLn8RQW)
- - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
+ - 😝 [Bruce Lee&#39;s moves were so fast to the point that sometimes even the filmmakers had to shoot at 32 frames per second to captute his moves!](http://9gag.com/gag/aW4qB1x)
+ - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
+ - 💣 [Is this legal?](http://9gag.com/gag/aLn8RQW)
+ - 😝 [Nice](http://9gag.com/gag/aW4qWw6)
+ - 👉 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)<!-- MEMES:END -->
 
 ---
 

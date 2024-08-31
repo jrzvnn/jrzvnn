@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
- - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
- - 💣 [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 💣 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
+ - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 👉 [Red or black?](http://9gag.com/gag/aRBm5NB)<!-- MEMES:END -->
 
 ---
 

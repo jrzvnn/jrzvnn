@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So AI is redpilled and one of us](http://9gag.com/gag/aVvMO5K)
- - 😝 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)
- - 💣 [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 😝 [Germans were busy working perhaps](http://9gag.com/gag/apRQqvD)
- - 👉 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)<!-- MEMES:END -->
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 😝 [Leave life join the homeless](http://9gag.com/gag/avyGYob)
+ - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
 
 ---
 

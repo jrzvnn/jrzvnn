@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky reports a record spike in usage as many X users in Brazil move to Bluesky and Threads; Brazil is X&#39;s fifth-largest international market, with 20M+ users &lpar;New York Times&rpar;](http://www.techmeme.com/240831/p8#a240831p8)
  - [A former Essential Phone exec used company funds for Lamborghinis, claims lawsuit](https://www.theverge.com/2024/8/31/24233005/essential-phone-osom-products-ceo-lawsuit-personal-spending-lamborghinis-racing-mortgage)
  - [Pump Up the Party With This Labor Day Deal on the Sonos Move 2 Speaker](https://www.cnet.com/deals/pump-up-the-party-with-this-labor-day-deal-on-the-sonos-move-2-speaker/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [Best Labor Day Mattress Deals: Grab the Top 24 Deals From the Best Brands Like Nectar, Casper, Purple and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

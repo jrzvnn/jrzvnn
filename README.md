@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
- - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
- - 💣 [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 😝 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
- - 👉 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)<!-- MEMES:END -->
+ - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 💣 [Game of the Year](http://9gag.com/gag/aLnDq2A)
+ - 😝 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 👉 [Red or black?](http://9gag.com/gag/aRBm5NB)<!-- MEMES:END -->
 
 ---
 

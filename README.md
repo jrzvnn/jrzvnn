@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US fights Canada over new tech tax that could cost Apple billions](https://appleinsider.com/articles/24/08/31/us-fights-canada-over-new-tech-tax-that-could-cost-apple-billions?utm_medium=rss)
- - [X is right to stand up to Brazil&#39;s unjust &quot;hostage laws,&quot; but Elon Musk&#39;s fight highlights his cynical free speech stance after he caved to Modi&#39;s demands &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240831/p5#a240831p5)
+ - [X is right to stand up to Brazil&#39;s unjust &quot;hostage laws,&quot; but Musk&#39;s fight highlights his cynical free speech stance after he caved to Modi&#39;s censorship demands &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240831/p5#a240831p5)
  - [Call of Duty: Black Ops 6 Open Beta Is Here: How to Get In](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-open-beta-is-here-how-to-get-in/#ftag=CAD590a51e)
  - [Looking for the Secret Weapon to Weight Loss? Try Strength Training](https://www.cnet.com/health/fitness/looking-for-the-secret-weapon-to-lose-weight-try-strength-training-today/#ftag=CAD590a51e)
  - [Best Live TV Streaming Service for Cord Cutters in 2024](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->

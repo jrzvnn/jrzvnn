@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 💣 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
+ - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
+ - 💣 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
+ - 😝 [Date business](http://9gag.com/gag/aMVA20G)
+ - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
 
 ---
 

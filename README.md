@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trailers of the week: Sonic 3, Napoleon, and Agatha All Along](https://www.theverge.com/2024/8/31/24233095/trailers-of-the-week-sonic-the-hedgehog-3-napoleon-agatha-all-along-wallace-gromit)
  - [A look at the farcical situation at Bolt as it insists in a letter that Silverbear is on the hook to invest $200M; Source: Bolt lost $310M on $27M 2023 revenue &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/240831/p10#a240831p10)
- - [In a lawsuit, OSOM&#39;s ex-chief privacy officer alleges that the CEO of the smartphone startup misused funds to pay for his racing hobby and lavish lifestyle &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240831/p9#a240831p9)
- - [Bluesky reports a record spike in usage as many X users in Brazil move to Bluesky and Threads; Brazil is X&#39;s fifth-largest international market, with 20M+ users &lpar;New York Times&rpar;](http://www.techmeme.com/240831/p8#a240831p8)
- - [Take Charge of Your Eye Health With These Vitamins and Supplements](https://www.cnet.com/health/personal-care/take-charge-of-your-eye-health-with-these-vitamins-and-supplements/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 130+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Labor Day Sale: 35 Top Deals on Tech, TVs, Home Goods and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-08-31/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Feeling Groggy After Taking Melatonin? Consider Switching to This Natural Sleep Supplement Instead](https://www.cnet.com/health/sleep/melatonin-making-you-groggy-try-this-natural-sleep-supplement-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

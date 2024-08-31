@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3000 horsepower Dodge Ram truck explodes](http://9gag.com/gag/aD2WBqG)
- - 😝 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
- - 💣 [God is great](http://9gag.com/gag/aKGVbMO)
- - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
+ - 😝 [Full kit wanker](http://9gag.com/gag/a878WRO)
+ - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
+ - 💣 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
+ - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 ---
 

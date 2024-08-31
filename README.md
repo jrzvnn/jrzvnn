@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
- - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 💣 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - 😝 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
  - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
+ - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
 
 ---
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only the penitent crackhead may pass](http://9gag.com/gag/apRQBBE)
- - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 😝 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)
+ - 😝 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
  - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
  - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
  - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->

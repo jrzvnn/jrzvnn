@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Israeli army&#39;s Unit 8200 became an incubator for cybersecurity startups, with its alumni starting Wiz, Palo Alto Networks, and other companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p3#a240831p3)
  - [With AI food recognition Samsung Food could be the ultimate meal-planning app](https://www.theverge.com/2024/8/31/24231740/samsung-food-plus-vision-ai-food-list-management-ifa-2024)
  - [Best Labor Day Sales: 110+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
  - [Keanu Reeves Is Shadow in First &#39;Sonic the Hedgehog 3&#39; Movie Trailer](https://www.cnet.com/culture/entertainment/keanu-reeves-is-shadow-in-first-sonic-the-hedgehog-3-movie-trailer/#ftag=CAD590a51e)
- - [Can You DIY a Home Battery Installation?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)
- - [Only Microsoft Can Save Windows-Powered Handheld Game Consoles &lpar;2024&rpar;](https://www.wired.com/story/only-microsoft-can-save-windows-gaming-handhelds/)<!-- TECH:END -->
+ - [Can You DIY a Home Battery Installation?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

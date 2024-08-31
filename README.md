@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
  - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
  - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
+ - 😝 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
  - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 ---

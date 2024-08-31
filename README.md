@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
- - 😝 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
- - 💣 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 👉 [Linkin drunk](http://9gag.com/gag/aQzepnz)<!-- MEMES:END -->
+ - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 💣 [Is this legal?](http://9gag.com/gag/aLn8RQW)
+ - 😝 [Ls that your real hair ?](http://9gag.com/gag/azx860m)
+ - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
 
 ---
 

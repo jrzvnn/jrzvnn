@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Best Invisible Hearing Aids to Keep Your Hearing Loss Private &lpar;2024&rpar;](https://www.wired.com/gallery/best-invisible-hearing-aids/)
- - [Ditch the Keys and Save $80 Off This Aqara Smart Door Lock This Labor Day](https://www.cnet.com/deals/ditch-the-keys-and-save-80-off-this-aqara-smart-door-lock-this-labor-day/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 110+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Google Sued by Yelp for Dominating Local Search Results](https://www.cnet.com/tech/services-and-software/google-sued-by-yelp-for-dominating-local-search-results/#ftag=CAD590a51e)
- - [Give In to Temperature-Controlling Tech and Unlock a New Kitchen Zen](https://www.wired.com/story/induction-by-the-degree-cooking-kitchen-zen/)<!-- TECH:END -->
+ - [Give In to Temperature-Controlling Tech and Unlock a New Kitchen Zen](https://www.wired.com/story/induction-by-the-degree-cooking-kitchen-zen/)
+ - [How the Israeli army&#39;s Unit 8200 became an incubator for cybersecurity startups, with its alumni starting Wiz, Palo Alto Networks, and other companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p3#a240831p3)
+ - [With AI food recognition Samsung Food could be the ultimate meal-planning app](https://www.theverge.com/2024/8/31/24231740/samsung-food-plus-vision-ai-food-list-management-ifa-2024)
+ - [Best Labor Day Sales: 110+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

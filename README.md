@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce Lee&#39;s moves were so fast to the point that sometimes even the filmmakers had to shoot at 32 frames per second to captute his moves!](http://9gag.com/gag/aW4qB1x)
- - 😝 [Half an hour was enought](http://9gag.com/gag/aBy8KLD)
- - 💣 [Is this legal?](http://9gag.com/gag/aLn8RQW)
- - 😝 [Nice](http://9gag.com/gag/aW4qWw6)
- - 👉 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)<!-- MEMES:END -->
+ - 😝 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
+ - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
+ - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
+ - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 ---
 

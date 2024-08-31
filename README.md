@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Rare Coincidence of La Niña Events Will Weaken Hurricane Season](https://www.wired.com/story/a-rare-coincidence-of-la-nina-events-will-weaken-hurricane-season/)
  - [Scientists Plan ‘Doomsday’ Vault on Moon](https://www.wired.com/story/scientists-want-to-build-a-doomsday-vault-on-the-moon/)
  - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
  - [Social media companies&#39; reliance on Section 230 protections is in jeopardy after a US court ruled TikTok&#39;s algorithmic curation is not protected by Section 230 &lpar;Matt Stoller/BIG&rpar;](http://www.techmeme.com/240831/p1#a240831p1)
- - [Amazon hires the founders of industrial robot maker Covariant and ~25% of its staff, and signs a non-exclusive license to Covariant&#39;s robotic foundation models &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240830/p23#a240830p23)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 31, #181](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-31-181/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon hires the founders of industrial robot maker Covariant and ~25% of its staff, and signs a non-exclusive license to Covariant&#39;s robotic foundation models &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240830/p23#a240830p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

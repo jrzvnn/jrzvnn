@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Only the penitent crackhead may pass](http://9gag.com/gag/apRQBBE)
- - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
- - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
- - 👉 [Wtf](http://9gag.com/gag/aVvMOrK)<!-- MEMES:END -->
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
+ - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 ---
 

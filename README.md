@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Brazil&#39;s experiment to fight fake news during the 2022 elections, giving a justice broad power to order social media content removal, led to the ban on X &lpar;New York Times&rpar;](http://www.techmeme.com/240831/p11#a240831p11)
+ - [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception?utm_medium=rss)
  - [Trailers of the week: Sonic 3, Napoleon, and Agatha All Along](https://www.theverge.com/2024/8/31/24233095/trailers-of-the-week-sonic-the-hedgehog-3-napoleon-agatha-all-along-wallace-gromit)
  - [A look at the farcical situation at Bolt as it insists in a letter that Silverbear is on the hook to invest $200M; Source: Bolt lost $310M on $27M 2023 revenue &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/240831/p10#a240831p10)
- - [Walmart Labor Day Sale: 35 Top Deals on Tech, TVs, Home Goods and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-08-31/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Feeling Groggy After Taking Melatonin? Consider Switching to This Natural Sleep Supplement Instead](https://www.cnet.com/health/sleep/melatonin-making-you-groggy-try-this-natural-sleep-supplement-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Labor Day Sale: 35 Top Deals on Tech, TVs, Home Goods and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

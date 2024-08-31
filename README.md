@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
- - 💣 [Sponsored by Pixar](http://9gag.com/gag/a4PGKn1)
- - 😝 [Date business](http://9gag.com/gag/aMVA20G)
- - 👉 [Full kit wanker](http://9gag.com/gag/a878WRO)<!-- MEMES:END -->
+ - 😝 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)
+ - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
+ - 💣 [What does it really feel when fighting mosquitoes...](http://9gag.com/gag/aPA9ybB)
+ - 😝 [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
+ - 👉 [Exactly](http://9gag.com/gag/amo2LKV)<!-- MEMES:END -->
 
 ---
 

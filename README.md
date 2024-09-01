@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 💣 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 😝 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
+ - 💣 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
  - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
  - 👉 [Literally me](http://9gag.com/gag/axy0Zpn)<!-- MEMES:END -->
 

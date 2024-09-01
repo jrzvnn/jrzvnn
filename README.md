@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo gets dark with detective game Emio](https://www.theverge.com/24232337/emio-the-smiling-man-famicom-detective-club-nintendo-switch-review)
  - [The best Labor Day sales happening now](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
  - [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception?utm_medium=rss)
  - [Upcoming M4-based Mac mini to replace USB-A with more USB-C ports](https://appleinsider.com/articles/24/09/01/upcoming-m4-based-mac-mini-to-replace-usb-a-with-more-usb-c-ports?utm_medium=rss)
- - [Apple plans Magic Keyboard for entry-level iPad](https://appleinsider.com/articles/24/09/01/apple-plans-magic-keyboard-for-entry-level-ipad?utm_medium=rss)
- - [The Best Reading Lights &lpar;2024&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)<!-- TECH:END -->
+ - [Apple plans Magic Keyboard for entry-level iPad](https://appleinsider.com/articles/24/09/01/apple-plans-magic-keyboard-for-entry-level-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

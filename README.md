@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget About Sheep. This New Sleep Hack Will Solve Your Sleep Troubles](https://www.cnet.com/health/sleep/forget-about-sheep-this-new-sleep-hack-youve-never-heard-of-will-solve-your-sleep-troubles/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 130+ Top Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Walmart Labor Day Sale: 30+ Hot Deals on TVs, Gaming Essentials, Tech Gadgets and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
  - [Best Meal Delivery Services of 2024](https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/#ftag=CAD590a51e)
- - [A look at NightCafe, a bootstrapped generative art marketplace with 25M users who created ~1B images; source: it has $4M annualized revenue with a ~50% margin &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240901/p4#a240901p4)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Real Betis From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-real-betis-from-anywhere/#ftag=CAD590a51e)
- - [Don&#39;t Miss Out! Apple&#39;s AirPods Max Are Just $399 This Labor Day](https://www.cnet.com/deals/apples-airpods-max-are-just-399-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at NightCafe, a bootstrapped generative art marketplace with 25M users who created ~1B images; source: it has $4M annualized revenue with a ~50% margin &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240901/p4#a240901p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

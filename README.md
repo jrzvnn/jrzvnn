@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
- - 😝 [We never know](http://9gag.com/gag/aQzePp7)
- - 💣 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)
- - 😝 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
- - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
+ - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
+ - 😝 [Gold meme to trigger people. Be careful with that power](http://9gag.com/gag/a4PG4eA)
+ - 💣 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
+ - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 👉 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bad cop.](http://9gag.com/gag/aRBjwb7)
- - 😝 [Gold meme to trigger people. Be careful with that power](http://9gag.com/gag/a4PG4eA)
- - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
- - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 👉 [It got deleted, here again](http://9gag.com/gag/avy7pRn)<!-- MEMES:END -->
+ - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
+ - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 👉 [Where else is she from?](http://9gag.com/gag/ayNx0KV)<!-- MEMES:END -->
 
 ---
 

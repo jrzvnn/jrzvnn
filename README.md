@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, an actual Apple Watch Ultra does not have a hidden camera](https://appleinsider.com/articles/24/09/01/no-an-actual-apple-watch-ultra-does-not-have-a-hidden-camera?utm_medium=rss)
  - [A US court ordered Nigerian businessman Dozy Mmobuosi, founder of NJ-based Tingo, to pay $250M+ in fines after SEC alleged he inflated Tingo&#39;s financial records &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240901/p5#a240901p5)
  - [Best Labor Day Sales: 120+ Top Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
  - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
- - [Mattress Firm Labor Day Sale: Score Huge Discounts on the Best Mattresses From Top Brands Like Serta, Nectar and Purple](https://www.cnet.com/deals/mattress-firm-labor-day-sale/#ftag=CAD590a51e)
- - [Never Worry About a Dead Car Battery Again With This Portable Jump Starter, On Sale for Labor Day](https://www.cnet.com/deals/never-worry-about-a-dead-car-battery-again-with-this-portable-jump-starter-on-sale-for-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mattress Firm Labor Day Sale: Score Huge Discounts on the Best Mattresses From Top Brands Like Serta, Nectar and Purple](https://www.cnet.com/deals/mattress-firm-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

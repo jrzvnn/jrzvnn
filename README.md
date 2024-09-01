@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dune Analytics: Pump.fun has generated over $100M in cumulative revenue from more than 1M memecoins created on the platform since its launch in January 2024 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240901/p7#a240901p7)
  - [Sources: Pat Gelsinger aims to present Intel&#39;s board ideas to cut capex spending and more, like halting the $32B chip plant project in Germany or selling Altera &lpar;Reuters&rpar;](http://www.techmeme.com/240901/p6#a240901p6)
  - [Grab This AmazonBasics Power Strip for Just $7 During Woot&#39;s Labor Day Sale](https://www.cnet.com/deals/grab-this-amazonbasics-power-strip-for-just-7-during-woots-labor-day-sale/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 120 Enticing Deals From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Labor Day Deals Under $25: Attention Bargain Hunters, Mega Savings Across the Board](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)
- - [Amazon Labor Day Sale: The 45+ Best Discounts Available This Weekend](https://www.cnet.com/deals/amazon-labor-day-deals-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Deals Under $25: Attention Bargain Hunters, Mega Savings Across the Board](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

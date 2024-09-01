@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
- - 😝 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)
+ - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
  - 💣 [That must have burned](http://9gag.com/gag/aD2z3md)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
 
 ---
 

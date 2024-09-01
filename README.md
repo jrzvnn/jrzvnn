@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Best Buy Labor Day Sales: Incredible Savings on TVs, Laptops, Video Games and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-31/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 125+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Best Labor Day Tablet Deals 2024: 15+ Discounts on Tablets From Apple, Samsung, Google and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-08-31/#ftag=CAD590a51e)
- - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
- - [30+ Best Deals Not to Miss During the Big Amazon Labor Day Sale](https://www.cnet.com/deals/amazon-labor-day-deals-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: 125+ Stellar Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Best Apple Labor Day Deals: Incredible Discounts on iPads, Macs, AirPods and More](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Big YouTube shows including Hot Ones and Good Mythical Morning attract large audiences but aren&#39;t yet getting Primetime Emmy nominations and ensuing ad revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p12#a240831p12)
+ - [Best Labor Day TV Sales 2024: Over 50 Hot Bargains on TVs From LG, Samsung, Sony and More](https://www.cnet.com/deals/best-labor-day-tv-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Worst &lpar;and Best&rpar; Airlines for Flight Delays and Cancellations](https://www.cnet.com/personal-finance/worst-and-best-airlines-for-flight-delays-and-cancellations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

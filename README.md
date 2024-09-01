@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at Sub.club, which aims to let users on ActivityPub-based platforms monetize content via subscriptions while taking a 6% cut, available in dev preview &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240901/p8#a240901p8)
  - [Dune Analytics: Pump.fun has generated over $100M in cumulative revenue from more than 1M memecoins created on the platform since its launch in January 2024 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240901/p7#a240901p7)
- - [Best Labor Day Sales: 125+ Fantastic Deals Happening Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Apple Labor Day Deals: Take Advantage of Discounts on iPads, AirPods, Accessories and More](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Target Labor Day Sales: Enjoy Deep Discounts on the Best Products From Samsung, Dyson, Apple and Much More](https://www.cnet.com/deals/best-target-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Pat Gelsinger aims to present Intel&#39;s board ideas to cut capex spending and more, like halting the $32B chip plant project in Germany or selling Altera &lpar;Reuters&rpar;](http://www.techmeme.com/240901/p6#a240901p6)
+ - [Grab This AmazonBasics Power Strip for Just $7 During Woot&#39;s Labor Day Sale](https://www.cnet.com/deals/grab-this-amazonbasics-power-strip-for-just-7-during-woots-labor-day-sale/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 120 Enticing Deals From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

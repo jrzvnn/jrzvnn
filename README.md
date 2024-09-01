@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 💣 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 💣 [2nd time](http://9gag.com/gag/axy0Gjb)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
  - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
 

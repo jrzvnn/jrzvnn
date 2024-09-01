@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 😝 [3-Body-Problem](http://9gag.com/gag/apRQLvW)
+ - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 💣 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
+ - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
 
 ---
 

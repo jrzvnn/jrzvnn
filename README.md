@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best 360 Cameras, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [Amazon Labor Day Sale: 45 Best Deals to Shop Right Now](https://www.cnet.com/deals/amazon-labor-day-deals-2024-09-01/#ftag=CAD590a51e)
- - [Ravens vs. Chiefs Livestream: How to Watch Thursday&#39;s Opening Game](https://www.cnet.com/tech/services-and-software/ravens-vs-chiefs-livestream-how-to-watch-thursdays-opening-game/#ftag=CAD590a51e)
- - [Could the iPhone 16 Cost More? Here&#39;s What We Expect](https://www.cnet.com/tech/mobile/could-the-iphone-16-cost-more-heres-what-we-expect/#ftag=CAD590a51e)
- - [Apple Watch Tips: Try Changing These Settings for a Smoother Experience](https://www.cnet.com/tech/mobile/apple-watch-tips-try-changing-these-settings-for-a-smoother-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Kids’ Bikes &lpar;2024&rpar;: Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)
+ - [6 Best Snack Subscription Boxes We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-snack-subscription-boxes/)
+ - [The headphones that replaced my AirPods](https://www.theverge.com/2024/9/1/24232267/shokz-openrun-airpods-star-wars-outlaws-airwrap-installer)
+ - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
+ - [The Best 360 Cameras, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

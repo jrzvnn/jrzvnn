@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
- - 😝 [Gold meme to trigger people. Be careful with that power](http://9gag.com/gag/a4PG4eA)
- - 💣 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
- - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
- - 👉 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)<!-- MEMES:END -->
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/aKGDgej)
+ - 😝 [Chika dance for no reason](http://9gag.com/gag/a4PG9QZ)
+ - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [100th Birthday\ud83c\udf82](http://9gag.com/gag/ae9e32q)
+ - 👉 [Meep meep](http://9gag.com/gag/aBy8KDZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Pat Gelsinger aims to present Intel&#39;s board ideas to cut capex spending and more, like halting the $32B chip plant project in Germany or selling Altera &lpar;Reuters&rpar;](http://www.techmeme.com/240901/p6#a240901p6)
  - [Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
  - [Best Labor Day Sales: 120+ Top Discounts to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
  - [Get 25% Off a 1Password Family Plan Subscription for Labor Day](https://www.cnet.com/deals/get-25-off-a-1password-family-plan-subscription-for-labor-day/#ftag=CAD590a51e)
- - [Tempur-Pedic Labor Day Sale: Get a New Mattress With an Adjustable Base and Save Up to $1,000](https://www.cnet.com/deals/save-up-to-700-on-tempur-pedics-labor-day-sale/#ftag=CAD590a51e)
- - [Walmart Labor Day Sale: 30+ Top Discounts on TVs, Gaming Essentials, Tech Gadgets and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tempur-Pedic Labor Day Sale: Get a New Mattress With an Adjustable Base and Save Up to $1,000](https://www.cnet.com/deals/save-up-to-700-on-tempur-pedics-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

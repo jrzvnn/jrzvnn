@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 😝 [But what about Silicone ones?](http://9gag.com/gag/aMVA27V)
- - 👉 [Bad cop.](http://9gag.com/gag/aRBjwb7)<!-- MEMES:END -->
+ - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
+ - 😝 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)
+ - 💣 [That must have burned](http://9gag.com/gag/aD2z3md)
+ - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
+ - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 ---
 

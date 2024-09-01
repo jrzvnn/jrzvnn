@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
- - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
- - 💣 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
- - 😝 [Palestinians trying to \u201cfree Palestine\u201d by vandalizing the lawn at McGill University.](http://9gag.com/gag/aVvMXgP)
- - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
+ - 😝 [Linkin drunk](http://9gag.com/gag/aQzepnz)
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 💣 [`Cancers mask`](http://9gag.com/gag/aAyDp19)
+ - 😝 [Deputy PM of Sweden, Ebba Busch, calls for the deportation of muslims that want to establish sharia law in the nation and do not integrate. Also says, islam needs to adapt to Swedish values. All politicians worldwide need to take notes.](http://9gag.com/gag/aD2z3V9)
+ - 👉 [This assume you are ambidexterous](http://9gag.com/gag/a6ZVLqe)<!-- MEMES:END -->
 
 ---
 

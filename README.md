@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 😝 [We never know](http://9gag.com/gag/aQzePp7)
- - 💣 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
- - 😝 [100th Birthday\ud83c\udf82](http://9gag.com/gag/ae9e32q)
- - 👉 [Gold meme to trigger people. Be careful with that power](http://9gag.com/gag/a4PG4eA)<!-- MEMES:END -->
+ - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
+ - 😝 [Behold! You are looking at the First Direct Image of another \u201cSolar System\u201d](http://9gag.com/gag/an7jBeL)
+ - 💣 [Black Humor](http://9gag.com/gag/aRBjwqQ)
+ - 😝 [What happens when you install a bird house with a solar powered camera inside](http://9gag.com/gag/adB96oQ)
+ - 👉 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)<!-- MEMES:END -->
 
 ---
 

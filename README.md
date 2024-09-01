@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 💣 [Never forget...](http://9gag.com/gag/a4PGdLA)
+ - 😝 [This is something barney would do](http://9gag.com/gag/aMVAGnP)
+ - 😝 [Meow-del \ud83d\udc08\u2b1b\ufe0f\ud83d\udc3e](http://9gag.com/gag/an7j19L)
+ - 💣 [UK in a nutshell](http://9gag.com/gag/axy0D3K)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
+ - 👉 [Witness the extraordinary! Sheetal Devi - a 17 year old archer wields her bow with her feet. Hear the crowd\u2019s response to her arrow](http://9gag.com/gag/ae9eGDb)<!-- MEMES:END -->
 
 ---
 

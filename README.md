@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 💣 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)<!-- MEMES:END -->
+ - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
 
 ---
 

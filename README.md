@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
- - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
- - 💣 [That must have burned](http://9gag.com/gag/aD2z3md)
+ - 😝 [Can\u2019t blame him.](http://9gag.com/gag/a9yA7AD)
+ - 😝 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
+ - 💣 [We don&#39;t do that here but..](http://9gag.com/gag/aoyOjK3)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
+ - 👉 [`Cancers mask`](http://9gag.com/gag/aAyDp19)<!-- MEMES:END -->
 
 ---
 

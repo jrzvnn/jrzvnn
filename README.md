@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
- - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 💣 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
+ - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
+ - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
+ - 👉 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)<!-- MEMES:END -->
 
 ---
 

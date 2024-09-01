@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Students Find New Evidence of the Impossibility of Complete Disorder](https://www.wired.com/story/students-find-new-evidence-of-the-impossibility-of-complete-disorder/)
  - [A look at France&#39;s J3 cybercrime unit behind Sky ECC and Encrochat prosecutions, which now leads the case against Telegram&#39;s Pavel Durov &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240901/p1#a240901p1)
- - [Best Labor Day Sales: 129 Can&#39;t-Miss Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 125+ Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
  - [Best Sleep Items on Sale for Labor Day 2024 — Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)
  - [Tinder, Hinge, Bumble, and Grindr are building or testing AI tools and chatbots to generate icebreakers, coach users, and more, in a bid to bring back users &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240831/p13#a240831p13)<!-- TECH:END -->
 

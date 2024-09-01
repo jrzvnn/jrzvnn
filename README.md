@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But what about Silicone ones?](http://9gag.com/gag/aMVA27V)
- - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
+ - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
  - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - 👉 [Meep meep](http://9gag.com/gag/aBy8KDZ)<!-- MEMES:END -->
+ - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
 
 ---
 

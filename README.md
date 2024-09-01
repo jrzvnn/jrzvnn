@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3-Body-Problem](http://9gag.com/gag/apRQLvW)
  - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 💣 [Never forget...](http://9gag.com/gag/a4PGdLA)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)
  - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
- - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - 💣 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Where else is she from?](http://9gag.com/gag/ayNx0KV)<!-- MEMES:END -->
+ - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
 
 ---
 

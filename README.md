@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is something barney would do](http://9gag.com/gag/aMVAGnP)
- - 😝 [Meow-del \ud83d\udc08\u2b1b\ufe0f\ud83d\udc3e](http://9gag.com/gag/an7j19L)
- - 💣 [UK in a nutshell](http://9gag.com/gag/axy0D3K)
+ - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
+ - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 💣 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Witness the extraordinary! Sheetal Devi - a 17 year old archer wields her bow with her feet. Hear the crowd\u2019s response to her arrow](http://9gag.com/gag/ae9eGDb)<!-- MEMES:END -->
+ - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
 
 ---
 

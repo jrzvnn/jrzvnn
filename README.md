@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky bastard](http://9gag.com/gag/apRQ0Vb)
- - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
- - 😝 [Old 9gag folde4](http://9gag.com/gag/avy7ZwM)
- - 👉 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)<!-- MEMES:END -->
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
+ - 💣 [Perhaps one of the best 2 minute lesson on how to fix inflation.](http://9gag.com/gag/aD2zo3N)
+ - 😝 [The `Palestinian cause` is 90% dumb teenagers who went to Tiktok University.](http://9gag.com/gag/aD2z3qK)
+ - 👉 [EUROPE 2024](http://9gag.com/gag/azxqjbz)<!-- MEMES:END -->
 
 ---
 

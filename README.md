@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
  - [Compared: iPhone 15 Pro Max in an iPhone 16 Pro Max case](https://appleinsider.com/articles/24/09/01/compared-iphone-15-pro-max-in-an-iphone-16-pro-max-case?utm_medium=rss)
  - [No, an actual Apple Watch Ultra does not have a hidden camera](https://appleinsider.com/articles/24/09/01/no-an-actual-apple-watch-ultra-does-not-have-a-hidden-camera?utm_medium=rss)
  - [Best Labor Day Sales: 120+ Top Discounts to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [A US court ordered Nigerian businessman Dozy Mmobuosi, founder of NJ-based Tingo, to pay $250M+ in fines after SEC alleged he inflated Tingo&#39;s financial records &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240901/p5#a240901p5)
- - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
+ - [A US court ordered Nigerian businessman Dozy Mmobuosi, founder of NJ-based Tingo, to pay $250M+ in fines after SEC alleged he inflated Tingo&#39;s financial records &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240901/p5#a240901p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

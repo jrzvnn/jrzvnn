@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
- - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
- - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 😝 [We don&#39;t do that here but..](http://9gag.com/gag/aoyOjK3)
+ - 😝 [`Cancers mask`](http://9gag.com/gag/aAyDp19)
+ - 💣 [Officially, we have a winner! Belgium currently has leading position in Europe. Thanks everyone for coming!](http://9gag.com/gag/aVvMPy8)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 ---
 

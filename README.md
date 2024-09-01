@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best 360 Cameras, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
  - [A look at the surge of interest-based sites as users grow weary of big platforms; MAUs for Letterboxd, Strava, and AllTrails grew 55%, 20%, and 10% YoY in H1 &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240901/p2#a240901p2)
  - [Best Labor Day Sales: 125+ Deals From Top Retailers You Don&#39;t Want to Miss](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
  - [Best Labor Day Tablet Deals: Save Big on iPads, Galaxy Tabs, Fire Tablets and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-01/#ftag=CAD590a51e)
- - [Best Pregnancy Pillows of 2024](https://www.cnet.com/health/sleep/best-pregnancy-pillow/#ftag=CAD590a51e)
- - [Best Labor Day Phone Deals: Hundreds of Dollars in Savings From Apple, Google, Samsung and More](https://www.cnet.com/deals/best-labor-day-phone-deals-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pregnancy Pillows of 2024](https://www.cnet.com/health/sleep/best-pregnancy-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

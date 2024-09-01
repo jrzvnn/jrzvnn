@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Linkin drunk](http://9gag.com/gag/aQzepnz)
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 💣 [`Cancers mask`](http://9gag.com/gag/aAyDp19)
- - 😝 [Deputy PM of Sweden, Ebba Busch, calls for the deportation of muslims that want to establish sharia law in the nation and do not integrate. Also says, islam needs to adapt to Swedish values. All politicians worldwide need to take notes.](http://9gag.com/gag/aD2z3V9)
- - 👉 [This assume you are ambidexterous](http://9gag.com/gag/a6ZVLqe)<!-- MEMES:END -->
+ - 😝 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)
+ - 😝 [Nice](http://9gag.com/gag/aW4qWw6)
+ - 💣 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 😝 [Behold! You are looking at the First Direct Image of another \u201cSolar System\u201d](http://9gag.com/gag/an7jBeL)
+ - 👉 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Best 360 Cameras, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [A look at the surge of interest-based sites as users grow weary of big platforms; MAUs for Letterboxd, Strava, and AllTrails grew 55%, 20%, and 10% YoY in H1 &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240901/p2#a240901p2)
- - [Best Labor Day Sales: 125+ Deals From Top Retailers You Don&#39;t Want to Miss](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Labor Day Tablet Deals: Save Big on iPads, Galaxy Tabs, Fire Tablets and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-01/#ftag=CAD590a51e)
- - [Best Pregnancy Pillows of 2024](https://www.cnet.com/health/sleep/best-pregnancy-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Labor Day Sale: 45 Best Deals to Shop Right Now](https://www.cnet.com/deals/amazon-labor-day-deals-2024-09-01/#ftag=CAD590a51e)
+ - [Ravens vs. Chiefs Livestream: How to Watch Thursday&#39;s Opening Game](https://www.cnet.com/tech/services-and-software/ravens-vs-chiefs-livestream-how-to-watch-thursdays-opening-game/#ftag=CAD590a51e)
+ - [Could the iPhone 16 Cost More? Here&#39;s What We Expect](https://www.cnet.com/tech/mobile/could-the-iphone-16-cost-more-heres-what-we-expect/#ftag=CAD590a51e)
+ - [Apple Watch Tips: Try Changing These Settings for a Smoother Experience](https://www.cnet.com/tech/mobile/apple-watch-tips-try-changing-these-settings-for-a-smoother-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

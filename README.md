@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upcoming M4-based Mac mini to replace USB-A with more USB-C ports](https://appleinsider.com/articles/24/09/01/upcoming-m4-based-mac-mini-to-replace-usb-a-with-more-usb-c-ports?utm_medium=rss)
+ - [Apple plans Magic Keyboard for entry-level iPad](https://appleinsider.com/articles/24/09/01/apple-plans-magic-keyboard-for-entry-level-ipad?utm_medium=rss)
+ - [The Best Reading Lights &lpar;2024&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)
  - [Sub.club is here to help the fediverse make money](https://www.theverge.com/2024/9/1/24232298/sub-club-fediverse-make-money)
- - [8 Best Kids’ Bikes &lpar;2024&rpar;: Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)
- - [6 Best Snack Subscription Boxes We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-snack-subscription-boxes/)
- - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man United vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Kids’ Bikes &lpar;2024&rpar;: Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

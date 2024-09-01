@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s rumored Mac Mini redesign may ditch the USB-A port](https://www.theverge.com/2024/9/1/24233471/apple-m4-mac-mini-redesign-no-usb-a-ports)
- - [Upcoming M4-based Mac mini rumored to replace USB-A with more USB-C ports](https://appleinsider.com/articles/24/09/01/upcoming-m4-based-mac-mini-to-replace-usb-a-with-more-usb-c-ports?utm_medium=rss)
- - [A look at Apple&#39;s strategy to keep retiring execs involved in a reduced role; sources: M4 Mac mini will have 5 USB-C ports, internal power supply, and no USB-A &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240901/p3#a240901p3)
- - [These Logitech PC Accessories Are up to 60% off Just Before Labor Day](https://www.cnet.com/deals/these-logitech-pc-accessories-are-up-to-60-off-just-before-labor-day/#ftag=CAD590a51e)
- - [Home Depot Labor Day Sale: Price Slashes on Appliances, Lawn Care, Furniture, Grills and More](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $200 on Samsung’s Freestyle Projector With This Limited Labor Day Deal](https://www.cnet.com/deals/save-200-on-samsung-freestyle-projector-labor-day-deal/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 130+ Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Best Labor Day Deals Under $25: Calling All Bargain Hunters, Score Savings in Every Category](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)
+ - [Act Fast to Get a Matt&#39;s Flight Premium Plan for 95% Off and Enjoy More Holidays for Less](https://www.cnet.com/deals/act-fast-to-get-a-matts-flight-premium-plan-for-95-off-and-enjoy-more-holidays-for-less/#ftag=CAD590a51e)
+ - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-for-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

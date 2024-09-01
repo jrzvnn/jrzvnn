@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 😝 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)
- - 💣 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
- - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 👉 [Meep meep](http://9gag.com/gag/aBy8KDZ)<!-- MEMES:END -->
+ - 😝 [Bad cop.](http://9gag.com/gag/aRBjwb7)
+ - 😝 [Gold meme to trigger people. Be careful with that power](http://9gag.com/gag/a4PG4eA)
+ - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 😝 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 👉 [It got deleted, here again](http://9gag.com/gag/avy7pRn)<!-- MEMES:END -->
 
 ---
 

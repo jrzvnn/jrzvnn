@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 😝 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
- - 💣 [Fan thanks singer for saving her life](http://9gag.com/gag/aVvMW7v)
+ - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
+ - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
+ - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
+ - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
 
 ---
 

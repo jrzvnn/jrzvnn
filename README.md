@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [3-Body-Problem](http://9gag.com/gag/apRQLvW)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 💣 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
+ - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 ---
 

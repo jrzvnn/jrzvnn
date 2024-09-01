@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top Best Buy Labor Day Sales: Incredible Savings on TVs, Laptops, Video Games and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-31/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 125+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
  - [Best Labor Day Tablet Deals 2024: 15+ Discounts on Tablets From Apple, Samsung, Google and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-08-31/#ftag=CAD590a51e)
  - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
- - [30+ Best Deals Not to Miss During the Big Amazon Labor Day Sale](https://www.cnet.com/deals/amazon-labor-day-deals-2024-08-31/#ftag=CAD590a51e)
- - [Save up to 60% off Furniture During Burrow&#39;s Massive Labor Day Sale](https://www.cnet.com/deals/save-up-to-60-off-furniture-during-burrows-massive-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [30+ Best Deals Not to Miss During the Big Amazon Labor Day Sale](https://www.cnet.com/deals/amazon-labor-day-deals-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

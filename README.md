@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
  - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 💣 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
- - 😝 [That must have burned](http://9gag.com/gag/aD2z3md)
- - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
+ - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 😝 [But what about Silicone ones?](http://9gag.com/gag/aMVA27V)
+ - 👉 [Bad cop.](http://9gag.com/gag/aRBjwb7)<!-- MEMES:END -->
 
 ---
 

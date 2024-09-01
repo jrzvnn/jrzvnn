@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
- - 😝 [Behold! You are looking at the First Direct Image of another \u201cSolar System\u201d](http://9gag.com/gag/an7jBeL)
- - 💣 [Black Humor](http://9gag.com/gag/aRBjwqQ)
- - 😝 [What happens when you install a bird house with a solar powered camera inside](http://9gag.com/gag/adB96oQ)
- - 👉 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)<!-- MEMES:END -->
+ - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 😝 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)
+ - 💣 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
+ - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
+ - 👉 [Meep meep](http://9gag.com/gag/aBy8KDZ)<!-- MEMES:END -->
 
 ---
 

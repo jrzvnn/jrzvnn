@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t blame him.](http://9gag.com/gag/a9yA7AD)
- - 😝 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
- - 💣 [We don&#39;t do that here but..](http://9gag.com/gag/aoyOjK3)
+ - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 😝 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
+ - 💣 [Fan thanks singer for saving her life](http://9gag.com/gag/aVvMW7v)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [`Cancers mask`](http://9gag.com/gag/aAyDp19)<!-- MEMES:END -->
+ - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
 
 ---
 

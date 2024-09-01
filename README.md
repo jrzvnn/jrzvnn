@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
+ - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
  - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 💣 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)
+ - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
+ - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
 
 ---
 

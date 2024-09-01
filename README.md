@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo gets dark with detective game Emio](https://www.theverge.com/24232337/emio-the-smiling-man-famicom-detective-club-nintendo-switch-review)
- - [The best Labor Day sales happening now](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception?utm_medium=rss)
- - [Upcoming M4-based Mac mini to replace USB-A with more USB-C ports](https://appleinsider.com/articles/24/09/01/upcoming-m4-based-mac-mini-to-replace-usb-a-with-more-usb-c-ports?utm_medium=rss)
- - [Apple plans Magic Keyboard for entry-level iPad](https://appleinsider.com/articles/24/09/01/apple-plans-magic-keyboard-for-entry-level-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Apple&#39;s strategy to keep retiring execs involved in a reduced role; sources: M4 Mac mini will have 5 USB-C ports, internal power supply, and no USB-A &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240901/p3#a240901p3)
+ - [These Logitech PC Accessories Are up to 60% off Just Before Labor Day](https://www.cnet.com/deals/these-logitech-pc-accessories-are-up-to-60-off-just-before-labor-day/#ftag=CAD590a51e)
+ - [Home Depot Labor Day Sale: Price Slashes on Appliances, Lawn Care, Furniture, Grills and More](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [My Favorite Do-It-All Multitool Is 20% Off This Labor Day Weekend](https://www.cnet.com/deals/my-favorite-do-it-all-multitool-is-20-off-this-labor-day-weekend/#ftag=CAD590a51e)
+ - [SpaceX Breaks Its Booster Recovery Streak With First-Stage Falcon 9 Rocket Crash](https://www.cnet.com/science/space/first-stage-crash-breaks-spacex-booster-recovery-streak/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

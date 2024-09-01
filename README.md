@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tinder, Hinge, Bumble, and Grindr are building or testing AI tools and chatbots to generate icebreakers, coach users, and more, in a bid to bring back users &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240831/p13#a240831p13)
  - [Best Labor Day Sales: 126 Irresistible Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 1, #182](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-1-182/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 1 #448](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-1-448/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 1, #1170](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-1-1170/#ftag=CAD590a51e)
- - [Best Apple Labor Day Deals: Incredible Discounts on iPads, Macs, AirPods and More](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 1, #1170](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-1-1170/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
- - 💣 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
+ - 😝 [Can\u2019t blame him.](http://9gag.com/gag/a9yA7AD)
+ - 😝 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
+ - 💣 [We don&#39;t do that here but..](http://9gag.com/gag/aoyOjK3)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
+ - 👉 [`Cancers mask`](http://9gag.com/gag/aAyDp19)<!-- MEMES:END -->
 
 ---
 

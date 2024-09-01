@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So guys its over... you never seen this good ol&#39; 2006-2010s Indonesian highschool outfit, its all burqa now..](http://9gag.com/gag/a878YVY)
- - 😝 [Nice](http://9gag.com/gag/aW4qWw6)
- - 💣 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
- - 😝 [Behold! You are looking at the First Direct Image of another \u201cSolar System\u201d](http://9gag.com/gag/an7jBeL)
- - 👉 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)<!-- MEMES:END -->
+ - 😝 [Literally me](http://9gag.com/gag/axy0Zpn)
+ - 😝 [We never know](http://9gag.com/gag/aQzePp7)
+ - 💣 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)
+ - 😝 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
+ - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 ---
 

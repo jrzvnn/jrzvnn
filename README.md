@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 😝 [It is what it is.](http://9gag.com/gag/aZZgbQ9)
- - 💣 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
- - 😝 [Never forget...](http://9gag.com/gag/a4PGdLA)
- - 👉 [Literally me](http://9gag.com/gag/axy0Zpn)<!-- MEMES:END -->
+ - 😝 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
+ - 💣 [That must have burned](http://9gag.com/gag/aD2z3md)
+ - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
+ - 👉 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)<!-- MEMES:END -->
 
 ---
 

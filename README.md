@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
- - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 💣 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
  - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
- - 💣 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
+ - 😝 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)
  - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
- - 👉 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)<!-- MEMES:END -->
+ - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
+ - 👉 [Where else is she from?](http://9gag.com/gag/ayNx0KV)<!-- MEMES:END -->
 
 ---
 

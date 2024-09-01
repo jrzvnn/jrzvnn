@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Mattress Deals: Snag Sweet Discounts From Nectar, Casper, Purple and Other Top Brands](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-01/#ftag=CAD590a51e)
- - [Home Depot Labor Day Sale: Deep Discounts on Appliances, Lawn Care and Vacuums](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [A look at the surge of interest-based sites as users grow weary of big platforms; MAUs for Letterboxd, Strava, and AllTrails grew 55%, 20%, and 10% YoY in H1 &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240901/p2#a240901p2)
  - [Best Labor Day Sales: 125+ Deals From Top Retailers You Don&#39;t Want to Miss](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Give Your iPhone a Boost: Turn Off These 2 iOS Settings for Longer Battery Life](https://www.cnet.com/tech/mobile/give-your-iphone-a-boost-turn-off-these-2-ios-settings-for-longer-battery-life/#ftag=CAD590a51e)
- - [Best Labor Day Deals Under $25: Big Savings Across All Categories for Bargain Hunters](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Tablet Deals: Save Big on iPads, Galaxy Tabs, Fire Tablets and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-01/#ftag=CAD590a51e)
+ - [Best Pregnancy Pillows of 2024](https://www.cnet.com/health/sleep/best-pregnancy-pillow/#ftag=CAD590a51e)
+ - [Best Labor Day Phone Deals: Hundreds of Dollars in Savings From Apple, Google, Samsung and More](https://www.cnet.com/deals/best-labor-day-phone-deals-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

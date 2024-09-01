@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sub.club is here to help the fediverse make money](https://www.theverge.com/2024/9/1/24232298/sub-club-fediverse-make-money)
  - [8 Best Kids’ Bikes &lpar;2024&rpar;: Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)
  - [6 Best Snack Subscription Boxes We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-snack-subscription-boxes/)
- - [The headphones that replaced my AirPods](https://www.theverge.com/2024/9/1/24232267/shokz-openrun-airpods-star-wars-outlaws-airwrap-installer)
- - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
- - [The Best 360 Cameras, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)<!-- TECH:END -->
+ - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man United vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

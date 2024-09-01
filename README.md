@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Labor Day Mattress Deals: Snag Sweet Discounts From Nectar, Casper, Purple and Other Top Brands](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-01/#ftag=CAD590a51e)
+ - [Home Depot Labor Day Sale: Deep Discounts on Appliances, Lawn Care and Vacuums](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 125+ Deals From Top Retailers You Don&#39;t Want to Miss](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Students Find New Evidence of the Impossibility of Complete Disorder](https://www.wired.com/story/students-find-new-evidence-of-the-impossibility-of-complete-disorder/)
- - [A look at France&#39;s J3 cybercrime unit behind Sky ECC and Encrochat prosecutions, which now leads the case against Telegram&#39;s Pavel Durov &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240901/p1#a240901p1)
- - [Best Sleep Items on Sale for Labor Day 2024 — Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)
- - [Tinder, Hinge, Bumble, and Grindr are building or testing AI tools and chatbots to generate icebreakers, coach users, and more, in a bid to bring back users &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240831/p13#a240831p13)<!-- TECH:END -->
+ - [Give Your iPhone a Boost: Turn Off These 2 iOS Settings for Longer Battery Life](https://www.cnet.com/tech/mobile/give-your-iphone-a-boost-turn-off-these-2-ios-settings-for-longer-battery-life/#ftag=CAD590a51e)
+ - [Best Labor Day Deals Under $25: Big Savings Across All Categories for Bargain Hunters](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

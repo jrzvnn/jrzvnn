@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bad cop.](http://9gag.com/gag/aRBjwb7)
- - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
- - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
- - 👉 [Where else is she from?](http://9gag.com/gag/ayNx0KV)<!-- MEMES:END -->
+ - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 💣 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
+ - 👉 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)<!-- MEMES:END -->
 
 ---
 

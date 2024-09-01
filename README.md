@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on Samsung’s Freestyle Projector With This Limited Labor Day Deal](https://www.cnet.com/deals/save-200-on-samsung-freestyle-projector-labor-day-deal/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 130+ Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Labor Day Deals Under $25: Calling All Bargain Hunters, Score Savings in Every Category](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)
- - [Act Fast to Get a Matt&#39;s Flight Premium Plan for 95% Off and Enjoy More Holidays for Less](https://www.cnet.com/deals/act-fast-to-get-a-matts-flight-premium-plan-for-95-off-and-enjoy-more-holidays-for-less/#ftag=CAD590a51e)
- - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-for-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Target Labor Day Sales: Enjoy Discounts on the Top Products From Samsung, Dyson, Apple and Much More](https://www.cnet.com/deals/best-target-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 130+ Top Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [&#39;Chestnut vs. Kobayashi: Unfinished Beef&#39;: How to Stream the Live Netflix Event](https://www.cnet.com/tech/services-and-software/chestnut-vs-kobayashi-unfinished-beef-how-to-stream-the-live-netflix-event/#ftag=CAD590a51e)
+ - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
+ - [Get the Super Durable Jabra Elite 8 Active Earbuds for $150 This Labor Day Weekend](https://www.cnet.com/deals/jabra-elite-8-active-earbuds-labor-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

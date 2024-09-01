@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/aKGDgej)
- - 😝 [Chika dance for no reason](http://9gag.com/gag/a4PG9QZ)
- - 💣 [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
+ - 😝 [We never know](http://9gag.com/gag/aQzePp7)
+ - 💣 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)
  - 😝 [100th Birthday\ud83c\udf82](http://9gag.com/gag/ae9e32q)
- - 👉 [Meep meep](http://9gag.com/gag/aBy8KDZ)<!-- MEMES:END -->
+ - 👉 [Gold meme to trigger people. Be careful with that power](http://9gag.com/gag/a4PG4eA)<!-- MEMES:END -->
 
 ---
 

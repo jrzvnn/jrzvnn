@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/aVvMOrK)
- - 😝 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
- - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
  - 😝 [Meep meep](http://9gag.com/gag/aBy8KDZ)
- - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
+ - 💣 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
+ - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 👉 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)<!-- MEMES:END -->
 
 ---
 

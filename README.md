@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 😝 [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
- - 💣 [Perhaps one of the best 2 minute lesson on how to fix inflation.](http://9gag.com/gag/aD2zo3N)
- - 😝 [The `Palestinian cause` is 90% dumb teenagers who went to Tiktok University.](http://9gag.com/gag/aD2z3qK)
- - 👉 [EUROPE 2024](http://9gag.com/gag/azxqjbz)<!-- MEMES:END -->
+ - 😝 [But what about Silicone ones?](http://9gag.com/gag/aMVA27V)
+ - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 💣 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 👉 [Meep meep](http://9gag.com/gag/aBy8KDZ)<!-- MEMES:END -->
 
 ---
 

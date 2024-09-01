@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad cop.](http://9gag.com/gag/aRBjwb7)
- - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - 💣 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 😝 [Lucky bastard](http://9gag.com/gag/apRQ0Vb)
  - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 👉 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)<!-- MEMES:END -->
+ - 💣 [Meep meep](http://9gag.com/gag/aBy8KDZ)
+ - 😝 [Old 9gag folde4](http://9gag.com/gag/avy7ZwM)
+ - 👉 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)<!-- MEMES:END -->
 
 ---
 

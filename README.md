@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moaning Lisa](http://9gag.com/gag/aGye0DG)
  - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - 💣 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)
+ - 😝 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)
+ - 💣 [Moaning Lisa](http://9gag.com/gag/aGye0DG)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
  - 👉 [A new core memory](http://9gag.com/gag/aD2zGo7)<!-- MEMES:END -->
 

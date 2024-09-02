@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
  - 😝 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
- - 😝 [Walmart clearance find](http://9gag.com/gag/aGyew6G)
- - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
+ - 👉 [Footage of a 12 year old kid in Michigan robbing a gas station at gun point.](http://9gag.com/gag/a9yAW0K)<!-- MEMES:END -->
 
 ---
 

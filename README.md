@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 💣 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 😝 [Moaning Lisa](http://9gag.com/gag/aGye0DG)
+ - 😝 [Car thief shows how they steal a car](http://9gag.com/gag/ae9eeAO)
+ - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
  - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 

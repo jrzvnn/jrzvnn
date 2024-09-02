@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance is tapping banks, including Citigroup and JPMorgan, for a $9.5B loan, the biggest dollar-denominated corporate loan in Asia excluding Japan &lpar;Chien Mi Wong/Bloomberg&rpar;](http://www.techmeme.com/240902/p6#a240902p6)
  - [OKX says OKX SG received a Major Payment Institution license from the Monetary Authority of Singapore, and appoints former Grab exec Gracie Lin as OKX SG CEO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p5#a240902p5)
- - [Best Labor Day Mattress Deals: Don&#39;t Sleep on Savings From Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)
  - [Apple is gearing up for a battle with app makers and legislators over whether regulation of teen&#39;s social media use should happen in apps or at the device level &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p4#a240902p4)
- - [Best Samsung Labor Day Deals: Holiday Savings on TVs, Appliances, Laptops, Phones and More](https://www.cnet.com/deals/best-samsung-labor-day-deals-2024-09-02/#ftag=CAD590a51e)
- - [Medicare Prices Are Going Up in 2025: Here&#39;s How Much](https://www.cnet.com/personal-finance/medicare-prices-are-going-up-in-2025-heres-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the SEC seeks changes in the FTX&#39;s bankruptcy plan and says it reserves its rights to challenge distribution transactions involving crypto assets &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240902/p3#a240902p3)
+ - [Disney blocks ESPN, ABC, and other channels for millions of DirecTV subscribers](https://www.theverge.com/2024/9/2/24233997/disney-directv-blackout-espn-abc-carriage-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

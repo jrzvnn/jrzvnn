@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - 💣 [Good old times](http://9gag.com/gag/adB978M)
+ - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 😝 [Scary](http://9gag.com/gag/aqy12qj)
+ - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [. . .](http://9gag.com/gag/aYQ4xyq)<!-- MEMES:END -->
+ - 👉 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary](http://9gag.com/gag/aqy12qj)
- - 😝 [Oh no!](http://9gag.com/gag/aYQ4eYO)
- - 💣 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
+ - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 💣 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)<!-- MEMES:END -->
+ - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 
 ---
 

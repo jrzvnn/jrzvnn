@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
  - 😝 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
- - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 😝 [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
  - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
 

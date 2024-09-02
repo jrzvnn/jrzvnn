@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hair color said it all](http://9gag.com/gag/axy0DLp)
- - 😝 [3-Body-Problem](http://9gag.com/gag/apRQLvW)
- - 💣 [Better than AI](http://9gag.com/gag/aZZgMe0)
+ - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 💣 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Don&#39;t believe everything you see](http://9gag.com/gag/an7jyPz)<!-- MEMES:END -->
+ - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 ---
 

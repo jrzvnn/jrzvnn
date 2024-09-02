@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lobbyists helped kill child online safety bill](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)
- - [iPhone 16 rumors vs iPhone 13 - a comparison for upgraders](https://appleinsider.com/inside/iphone-16/vs/iphone-16-rumors-vs-iphone-13---a-comparison-for-upgraders?utm_medium=rss)
- - [DirecTV Subscribers Lose ESPN, Disney, ABC. What&#39;s Next?](https://www.cnet.com/tech/home-entertainment/directv-subscribers-lose-espn-disney-abc-whats-next/#ftag=CAD590a51e)
- - [Snag This Anker Nano Charging Station for an All-Time Low Price of $46 This Labor Day](https://www.cnet.com/deals/snag-this-anker-nano-charging-station-for-an-all-time-low-price-of-46-this-labor-day/#ftag=CAD590a51e)
- - [My Favorite Bluetooth Speaker Is Discounted During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-discounted-during-amazons-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $50 on These Anker Headphones at Amazon This Labor Day](https://www.cnet.com/deals/save-50-on-these-anker-headphones-at-amazon-this-labor-day/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: We Found 130 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Appliance Deals: Massive Discounts at Best Buy, Home Depot and More](https://www.cnet.com/deals/best-labor-day-appliance-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Deals Under $25: The Absolute Best Discounts on Headphones, Kitchen, Smart Home Tech and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)
+ - [Apple lobbyists helped kill child online safety bill](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

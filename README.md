@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
  - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
- - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 💣 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
+ - 💣 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
 
 ---
 

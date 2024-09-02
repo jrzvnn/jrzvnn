@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 💣 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 💣 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
+ - 👉 [Moaning Lisa](http://9gag.com/gag/aGye0DG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
- - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 💣 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
+ - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - 😝 [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)<!-- MEMES:END -->
+ - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
 
 ---
 

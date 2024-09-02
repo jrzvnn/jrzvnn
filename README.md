@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy reference...](http://9gag.com/gag/a878pbY)
+ - 😝 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
  - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
- - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 💣 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)<!-- MEMES:END -->
+ - 👉 [Good old times](http://9gag.com/gag/adB978M)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oasis ticketing chaos prompts probe into dynamic pricing](https://www.theverge.com/2024/9/2/24234149/oasis-reunion-tour-tickets-dynamic-pricing-probe-uk)
- - [A majority of Brazilian judges on a Supreme Court panel vote to confirm an order to ban X in Brazil and fine those who don&#39;t comply with it by using a VPN &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240902/p9#a240902p9)
- - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)
- - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
- - [Save $250 on a Samsung Galaxy S24 Ultra in This Amazon Labor Day Deal](https://www.cnet.com/deals/save-250-on-a-samsung-galaxy-s24-ultra-in-this-amazon-labor-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starlink, which has 250K customers in Brazil, told Brazil&#39;s telecom agency that it would not comply with orders to block X until its frozen assets were released &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240902/p10#a240902p10)
+ - [Best Buy&#39;s $749 MacBook Air deal ends today](https://appleinsider.com/articles/24/09/02/best-buys-749-macbook-air-deal-ends-today?utm_medium=rss)
+ - [Best Labor Day TV Sales 2024: Over 50 Amazing Discounts on TVs From Sony, TCL and More](https://www.cnet.com/deals/best-labor-day-tv-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: We Found 137 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Buy Labor Day Sales: Celebrate Labor Day With Deals on Headphone, Laptop, Appliance and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

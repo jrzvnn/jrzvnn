@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wildfires Are Contaminating Water Supplies](https://www.wired.com/story/wildfires-are-contaminating-water-supplies/)
- - [29 Nintendo Switch Games for Every Kind of Player &lpar;September 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [Sources: ByteDance is tapping banks, including Citigroup and JPMorgan, for a $9.5B loan, the biggest dollar-denominated corporate loan in Asia excluding Japan &lpar;Chien Mi Wong/Bloomberg&rpar;](http://www.techmeme.com/240902/p6#a240902p6)
- - [OKX says OKX SG received a Major Payment Institution license from the Monetary Authority of Singapore, and appoints former Grab exec Gracie Lin as OKX SG CEO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p5#a240902p5)
- - [Best Labor Day Mattress Deals: Don&#39;t Sleep on Savings From Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple a big child smartphone safety proponent, while spending millions to lobby against mandates](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)
+ - [Top Best Buy Labor Day Sales: Time&#39;s Running Out on Headphone, Laptop, Appliance Deals and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-02/#ftag=CAD590a51e)
+ - [Why All Your Cups Have Lingering Coffee Stains &lpar;and How to Get Rid of Them&rpar;](https://www.cnet.com/how-to/why-all-your-cups-have-lingering-coffee-stains-and-how-to-get-rid-of-them/#ftag=CAD590a51e)
+ - [Amazon Labor Day Sale: The 50 Best Deals to Shop Today](https://www.cnet.com/deals/amazon-labor-day-deals-2024-09-02/#ftag=CAD590a51e)
+ - [You Probably Need to Clear Your iPhone Cache](https://www.cnet.com/tech/services-and-software/you-probably-need-to-clear-your-iphone-cache/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 😝 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
- - 💣 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
+ - 😝 [Meow-del \ud83d\udc08\u2b1b\ufe0f\ud83d\udc3e](http://9gag.com/gag/an7j19L)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
+ - 💣 [A new core memory](http://9gag.com/gag/aD2zGo7)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)<!-- MEMES:END -->
+ - 👉 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 😝 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
+ - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
+ - 👉 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)
+ - [Game developers are waiting for Godot on iPad](https://appleinsider.com/articles/24/09/02/game-developers-are-waiting-for-godot-on-ipad?utm_medium=rss)
+ - [Laptop Buying Guide &lpar;2024&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
  - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Tim Cook hangs out with George Clooney as &#39;Wolfs&#39; gets standing ovation](https://appleinsider.com/articles/24/09/02/tim-cook-hangs-out-with-george-clooney-as-wolfs-gets-standing-ovation?utm_medium=rss)
- - [What a 160-year-old theory about coal predicts about our self-driving future](https://www.theverge.com/2024/9/2/24232386/self-driving-car-jevons-paradox-robotaxi-waymo-cruise)
- - [Sources: LobbyMatic, which offers AI tools for lobbying, is covertly run by far-right conspiracy theorists and convicted felons, including Jacob Wohl &lpar;Daniel Lippman/Politico&rpar;](http://www.techmeme.com/240902/p7#a240902p7)
- - [Lenovo leak reveals cheaper Copilot Plus PCs are coming this month](https://www.theverge.com/2024/9/2/24234003/lenovo-leak-copilot-plus-pcs-ifa-2024)<!-- TECH:END -->
+ - [Tim Cook hangs out with George Clooney as &#39;Wolfs&#39; gets standing ovation](https://appleinsider.com/articles/24/09/02/tim-cook-hangs-out-with-george-clooney-as-wolfs-gets-standing-ovation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

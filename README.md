@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk boosts a post disparaging the abilities of &quot;women and low T men&quot;, advocating for a &quot;Republic of high status males&quot;, and mentioning a &quot;Reich effect&quot; &lpar;Ellsworth Toohey/Boing Boing&rpar;](http://www.techmeme.com/240902/p12#a240902p12)
+ - [Jacob Wohl is running an AI lobbying company under a pseudonym, Politico reports](https://www.theverge.com/2024/9/2/24234231/jacob-wohl-jack-burkman-ai-lobbying-lobbymatic-politico)
+ - [Elon Musk boosts a post that disparages the abilities of &quot;women and low T men&quot;, advocates a &quot;Republic of high status males&quot;, and mentions a &quot;Reich effect&quot; &lpar;Ellsworth Toohey/Boing Boing&rpar;](http://www.techmeme.com/240902/p12#a240902p12)
  - [Best Labor Day Sales: We Found 132 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
  - [Amazon Is Offering Huge Labor Day Discounts on Anker Solix Power Stations](https://www.cnet.com/deals/amazon-is-offering-huge-labor-day-discounts-on-anker-solix-power-stations/#ftag=CAD590a51e)
- - [My Favorite Coffee Mug Warmer Is an Absolute Steal At 35% Off During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/my-favorite-coffee-mug-warmer-is-an-absolute-steal-at-35-off-during-amazons-labor-day-sale/#ftag=CAD590a51e)
- - [The 9th-Gen iPad Is My Kid&#39;s Favorite Toy and It&#39;s Never Been Cheaper During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/the-9th-gen-ipad-is-my-kids-favorite-toy-and-its-never-been-cheaper-during-amazons-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Favorite Coffee Mug Warmer Is an Absolute Steal At 35% Off During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/my-favorite-coffee-mug-warmer-is-an-absolute-steal-at-35-off-during-amazons-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

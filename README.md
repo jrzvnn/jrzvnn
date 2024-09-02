@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/a1mKb02)
- - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
- - 💣 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 😝 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
+ - 😝 [Steve Chadman is tired of Ellen&#39;s BS already.](http://9gag.com/gag/aE0BYop)
+ - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
+ - 👉 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)<!-- MEMES:END -->
 
 ---
 

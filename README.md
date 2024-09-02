@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fidelity&#39;s latest valuation of X, 72% lower than when Musk took over, would mean top investor Prince Alwaleed bin Talal al Saud is down $1.4B and Ellison $720M &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/240901/p9#a240901p9)
- - [Best Labor Day Sales: 127 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Internet Providers in Waco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-waco-tx/#ftag=CAD590a51e)
- - [Score a Belkin WeMo HomeKit Video Doorbell for 84% Off During Woot&#39;s Labor Day Sale](https://www.cnet.com/deals/score-a-belkin-wemo-homekit-video-doorbell-for-84-off-during-woots-labor-day-sale/#ftag=CAD590a51e)
- - [A look at Sub.club, which aims to let users on ActivityPub-based platforms monetize content via subscriptions while taking a 6% cut, available in dev preview &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240901/p8#a240901p8)<!-- TECH:END -->
+ - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Brighten up Your Home This Labor Day With a Brilliant Discount on Enbrighten Smart Lights](https://www.cnet.com/deals/brighten-up-your-home-this-labor-day-with-a-brilliant-discount-on-enbrighten-smart-lights/#ftag=CAD590a51e)
+ - [Segway Has Slashed Prices on Scooters by as Much as 60% This Labor Day](https://www.cnet.com/roadshow/news/segway-has-slashed-prices-on-scooters-by-as-much-as-60-this-labor-day/#ftag=CAD590a51e)
+ - [Fidelity&#39;s latest valuation of X, 72% lower than when Musk took over, would mean top investor Prince Alwaleed bin Talal al Saud is down $1.4B and Ellison $720M &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/240901/p9#a240901p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

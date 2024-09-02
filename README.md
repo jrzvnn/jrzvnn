@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moaning Lisa](http://9gag.com/gag/aGye0DG)
- - 😝 [Car thief shows how they steal a car](http://9gag.com/gag/ae9eeAO)
- - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
+ - 😝 [Good old times](http://9gag.com/gag/adB978M)
+ - 😝 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
+ - 💣 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
  - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 

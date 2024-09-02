@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
  - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
+ - 😝 [Seems like nobody did this yet.](http://9gag.com/gag/an7jBnV)
+ - 💣 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
+ - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
 
 ---
 

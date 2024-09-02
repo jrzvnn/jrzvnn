@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 😝 [Moaning Lisa](http://9gag.com/gag/aGye0DG)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
+ - 💣 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 👉 [A new core memory](http://9gag.com/gag/aD2zGo7)<!-- MEMES:END -->
 
 ---
 

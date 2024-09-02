@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
  - 😝 [Walmart clearance find](http://9gag.com/gag/aGyew6G)
  - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
+ - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
  - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 ---

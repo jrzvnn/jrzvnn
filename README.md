@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - 😝 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)
- - 💣 [Moaning Lisa](http://9gag.com/gag/aGye0DG)
+ - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
+ - 😝 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 💣 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [A new core memory](http://9gag.com/gag/aD2zGo7)<!-- MEMES:END -->
+ - 👉 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)<!-- MEMES:END -->
 
 ---
 

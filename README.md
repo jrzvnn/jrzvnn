@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
  - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Brighten up Your Home This Labor Day With a Brilliant Discount on Enbrighten Smart Lights](https://www.cnet.com/deals/brighten-up-your-home-this-labor-day-with-a-brilliant-discount-on-enbrighten-smart-lights/#ftag=CAD590a51e)
- - [Segway Has Slashed Prices on Scooters by as Much as 60% This Labor Day](https://www.cnet.com/roadshow/news/segway-has-slashed-prices-on-scooters-by-as-much-as-60-this-labor-day/#ftag=CAD590a51e)
+ - [M2 MacBook Air Is Back to $200 Off This Labor Day &lpar;$250 Off for My Best Buy Members&rpar;](https://www.cnet.com/deals/m2-macbook-air-is-back-200-off-this-labor-day-250-off-for-my-best-buy-members/#ftag=CAD590a51e)
+ - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [Brighten Up Your Home This Labor Day With a Brilliant Discount on Enbrighten Smart Lights](https://www.cnet.com/deals/brighten-up-your-home-this-labor-day-with-a-brilliant-discount-on-enbrighten-smart-lights/#ftag=CAD590a51e)
  - [Fidelity&#39;s latest valuation of X, 72% lower than when Musk took over, would mean top investor Prince Alwaleed bin Talal al Saud is down $1.4B and Ellison $720M &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/240901/p9#a240901p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

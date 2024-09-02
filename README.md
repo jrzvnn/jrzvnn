@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orcs GOOD. Orange man BAD. &lpar;It would appear that The Tolkien Estate approved this new perspective&rpar;.](http://9gag.com/gag/an7jXLb)
- - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 💣 [Never forget...](http://9gag.com/gag/a4PGdLA)
+ - 😝 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
+ - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 💣 [2nd time](http://9gag.com/gag/axy0Gjb)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 👉 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)<!-- MEMES:END -->
 
 ---
 

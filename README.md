@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 💣 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
+ - 😝 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/a1mKb02)
+ - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 💣 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)<!-- MEMES:END -->
+ - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 
 ---
 

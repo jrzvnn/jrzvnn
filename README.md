@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oasis ticketing chaos prompts probe into dynamic pricing](https://www.theverge.com/2024/9/2/24234149/oasis-reunion-tour-tickets-dynamic-pricing-probe-uk)
  - [A majority of Brazilian judges on a Supreme Court panel vote to confirm an order to ban X in Brazil and fine those who don&#39;t comply with it by using a VPN &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240902/p9#a240902p9)
  - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)
  - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
- - [The best Labor Day sales happening now](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [Windows 11 is now the most popular OS for PC gaming](https://www.theverge.com/2024/9/2/24234091/microsoft-windows-11-popular-steam-pc-gaming-survey)<!-- TECH:END -->
+ - [Save $250 on a Samsung Galaxy S24 Ultra in This Amazon Labor Day Deal](https://www.cnet.com/deals/save-250-on-a-samsung-galaxy-s24-ultra-in-this-amazon-labor-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

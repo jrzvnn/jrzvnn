@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)
- - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 💣 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 😝 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Footage of a 12 year old kid in Michigan robbing a gas station at gun point.](http://9gag.com/gag/a9yAW0K)<!-- MEMES:END -->
+ - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 ---
 

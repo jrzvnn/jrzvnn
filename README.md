@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [FineWoven won&#39;t be missed, but it should be remembered](https://appleinsider.com/articles/24/09/02/finewoven-wont-be-missed-but-it-should-be-remembered?utm_medium=rss)
+ - [Apple&#39;s embrace of Matter and new automation accessories on HomeKit Insider](https://appleinsider.com/articles/24/09/02/apples-embrace-of-matter-and-new-automation-accessories-on-homekit-insider?utm_medium=rss)
  - [Strange Noises Are Coming from Inside Boeing’s Starliner Spacecraft](https://www.wired.com/story/starliner-boeing-strange-noises-iss-butch-wilmore/)
  - [Netflix is trying to improve dubbing and translations of non-English content, particularly South Korean reality TV shows, to drive international viewership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p8#a240902p8)
- - [Best Labor Day Deals Under $25: 48 Big Bargains You Can Nab Right Now](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)
- - [Mars Rover Is Finally Leaving the Crater It&#39;s Inhabited for Years](https://www.cnet.com/science/space/mars-rover-is-finally-leaving-the-crater-its-inhabited-for-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Deals Under $25: 48 Big Bargains You Can Nab Right Now](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

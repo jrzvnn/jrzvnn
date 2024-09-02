@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Brazilian Supreme Court panel upholds X ban, while Starlink refuses to comply](https://www.theverge.com/2024/9/2/24234349/x-twitter-ban-brazil-supreme-court-elon-musk-moraes)
- - [Bissell&#39;s Little Green Cleaner Is Only $88 for Labor Day](https://www.cnet.com/deals/bissells-little-green-cleaner-is-only-88-for-labor-day/#ftag=CAD590a51e)
- - [Best Buy Labor Day Sales: Celebrate With Major Discounts on TVs, Tablets, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-02/#ftag=CAD590a51e)
- - [The HP Chromebook 14 Just Hit a New Low Price for Labor Day](https://www.cnet.com/deals/the-hp-chromebook-14-just-hit-a-new-low-price-for-labor-day/#ftag=CAD590a51e)
- - [The Best-Selling 6-Quart Instant Pot Duo Pressure Cooker Is on Sale for Labor Day](https://www.cnet.com/deals/the-best-selling-6-quart-instant-pot-duo-pressure-cooker-is-on-sale-for-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Act Fast to Save Up to 50% on Eve Smart Home Tech at Amazon This Labor Day](https://www.cnet.com/deals/act-fast-to-save-up-to-50-on-eve-smart-home-tech-at-amazon-this-labor-day/#ftag=CAD590a51e)
+ - [Best Labor Day TV Sales 2024: Bring Home a 65-Inch 4K TV For Under $600](https://www.cnet.com/deals/best-labor-day-tv-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Lowe&#39;s Labor Day Sale: Save Top Dollar on Tools, Furniture, Appliances and More](https://www.cnet.com/deals/lowes-labor-day-sale-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple lobbyists helped kill child online safety bill](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)
  - [iPhone 16 rumors vs iPhone 13 - a comparison for upgraders](https://appleinsider.com/inside/iphone-16/vs/iphone-16-rumors-vs-iphone-13---a-comparison-for-upgraders?utm_medium=rss)
- - [A US judge issued a last-minute partial block on Texas law HB 18, that would require some large web services to identify minors and filter what they see online &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240902/p11#a240902p11)
- - [Starlink, which has 250K customers in Brazil, told Brazil&#39;s telecom agency that it would not comply with orders to block X until its frozen assets were released &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240902/p10#a240902p10)
- - [Best Buy&#39;s $749 MacBook Air deal ends today](https://appleinsider.com/articles/24/09/02/best-buys-749-macbook-air-deal-ends-today?utm_medium=rss)<!-- TECH:END -->
+ - [DirecTV Subscribers Lose ESPN, Disney, ABC. What&#39;s Next?](https://www.cnet.com/tech/home-entertainment/directv-subscribers-lose-espn-disney-abc-whats-next/#ftag=CAD590a51e)
+ - [Snag This Anker Nano Charging Station for an All-Time Low Price of $46 This Labor Day](https://www.cnet.com/deals/snag-this-anker-nano-charging-station-for-an-all-time-low-price-of-46-this-labor-day/#ftag=CAD590a51e)
+ - [My Favorite Bluetooth Speaker Is Discounted During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-discounted-during-amazons-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

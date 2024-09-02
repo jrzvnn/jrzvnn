@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
- - 😝 [Title](http://9gag.com/gag/a8788WQ)
- - 💣 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
+ - 😝 [Crazy reference...](http://9gag.com/gag/a878pbY)
+ - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
+ - 👉 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)<!-- MEMES:END -->
 
 ---
 

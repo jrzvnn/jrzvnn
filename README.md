@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meow-del \ud83d\udc08\u2b1b\ufe0f\ud83d\udc3e](http://9gag.com/gag/an7j19L)
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - 💣 [A new core memory](http://9gag.com/gag/aD2zGo7)
+ - 😝 [Orcs GOOD. Orange man BAD. &lpar;It would appear that The Tolkien Estate approved this new perspective&rpar;.](http://9gag.com/gag/an7jXLb)
+ - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 💣 [Never forget...](http://9gag.com/gag/a4PGdLA)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)<!-- MEMES:END -->
+ - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 ---
 

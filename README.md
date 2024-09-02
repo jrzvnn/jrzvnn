@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 😝 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)
- - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 💣 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)<!-- MEMES:END -->
+ - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
 
 ---
 

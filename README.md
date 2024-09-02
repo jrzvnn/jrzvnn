@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo leak reveals cheaper Copilot Plus PCs are coming this month](https://www.theverge.com/2024/9/2/24234003/lenovo-leak-copilot-plus-pcs-ifa-2024)
  - [AI-Fakes Detection Is Failing Voters in the Global South](https://www.wired.com/story/generative-ai-detection-gap/)
  - [Apple a big child smartphone safety proponent, while spending millions to lobby against mandates](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)
  - [Wildfires Are Contaminating Water Supplies](https://www.wired.com/story/wildfires-are-contaminating-water-supplies/)
- - [29 Nintendo Switch Games for Every Kind of Player &lpar;September 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [Sources: ByteDance is tapping banks, including Citigroup and JPMorgan, for a $9.5B loan, the biggest dollar-denominated corporate loan in Asia excluding Japan &lpar;Chien Mi Wong/Bloomberg&rpar;](http://www.techmeme.com/240902/p6#a240902p6)<!-- TECH:END -->
+ - [29 Nintendo Switch Games for Every Kind of Player &lpar;September 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

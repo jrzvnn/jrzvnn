@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
  - 😝 [Scary](http://9gag.com/gag/aqy12qj)
- - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 😝 [Oh no!](http://9gag.com/gag/aYQ4eYO)
+ - 💣 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)<!-- MEMES:END -->
+ - 👉 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)<!-- MEMES:END -->
 
 ---
 

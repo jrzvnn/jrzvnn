@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FineWoven won&#39;t be missed, but it should be remembered](https://appleinsider.com/articles/24/09/02/finewoven-wont-be-missed-but-it-should-be-remembered?utm_medium=rss)
+ - [Strange Noises Are Coming from Inside Boeing’s Starliner Spacecraft](https://www.wired.com/story/starliner-boeing-strange-noises-iss-butch-wilmore/)
  - [Netflix is trying to improve dubbing and translations of non-English content, particularly South Korean reality TV shows, to drive international viewership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p8#a240902p8)
  - [Google Pixel 9 review: the phone that Android needs](https://www.theverge.com/24232480/google-pixel-9-review-screen-camera-battery)
- - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)
- - [Game developers are waiting for Godot on iPad](https://appleinsider.com/articles/24/09/02/game-developers-are-waiting-for-godot-on-ipad?utm_medium=rss)
- - [Laptop Buying Guide &lpar;2024&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
+ - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

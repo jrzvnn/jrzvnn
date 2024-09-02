@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elon Musk boosts a post disparaging the abilities of &quot;women and low T men&quot;, advocating for a &quot;Republic of high status males&quot;, and mentioning a &quot;Reich effect&quot; &lpar;Ellsworth Toohey/Boing Boing&rpar;](http://www.techmeme.com/240902/p12#a240902p12)
- - [Save $50 on These Anker Headphones at Amazon This Labor Day](https://www.cnet.com/deals/save-50-on-these-anker-headphones-at-amazon-this-labor-day/#ftag=CAD590a51e)
- - [Best Labor Day Sales: We Found 130 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
- - [Best Labor Day Appliance Deals: Massive Discounts at Best Buy, Home Depot and More](https://www.cnet.com/deals/best-labor-day-appliance-sales-2024-09-02/#ftag=CAD590a51e)
- - [Best Labor Day Deals Under $25: The Absolute Best Discounts on Headphones, Kitchen, Smart Home Tech and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: We Found 132 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Amazon Is Offering Huge Labor Day Discounts on Anker Solix Power Stations](https://www.cnet.com/deals/amazon-is-offering-huge-labor-day-discounts-on-anker-solix-power-stations/#ftag=CAD590a51e)
+ - [My Favorite Coffee Mug Warmer Is an Absolute Steal At 35% Off During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/my-favorite-coffee-mug-warmer-is-an-absolute-steal-at-35-off-during-amazons-labor-day-sale/#ftag=CAD590a51e)
+ - [The 9th-Gen iPad Is My Kid&#39;s Favorite Toy and It&#39;s Never Been Cheaper During Amazon&#39;s Labor Day Sale](https://www.cnet.com/deals/the-9th-gen-ipad-is-my-kids-favorite-toy-and-its-never-been-cheaper-during-amazons-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

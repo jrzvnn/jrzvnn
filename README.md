@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
- - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 😝 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 💣 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
  - 😝 [Very demure, very mindful.](http://9gag.com/gag/a7oD7Bx)
- - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
+ - 👉 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)<!-- MEMES:END -->
 
 ---
 

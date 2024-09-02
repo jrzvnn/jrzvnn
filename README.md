@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
  - [The best Labor Day sales happening now](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
  - [Windows 11 is now the most popular OS for PC gaming](https://www.theverge.com/2024/9/2/24234091/microsoft-windows-11-popular-steam-pc-gaming-survey)
  - [16 Best Crossplay Games for Consoles and PC &lpar;2024&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)
- - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale Today for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-today-for-labor-day/#ftag=CAD590a51e)
- - [These Quality Bose QuietComfort Headphones Are Now Cheaper Than Ever, Thanks to Labor Day](https://www.cnet.com/deals/these-quality-bose-quietcomfort-headphones-are-now-cheaper-than-ever-thanks-to-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale Today for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-today-for-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

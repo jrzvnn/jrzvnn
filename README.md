@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [According to a court filing on August 30, SEC seeks a change in the FTX&#39;s bankruptcy plan and says it may challenge any distributions involving crypto assets &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240902/p3#a240902p3)
  - [Disney blocks ESPN, ABC, and other channels for millions of DirecTV subscribers](https://www.theverge.com/2024/9/2/24233997/disney-directv-blackout-espn-abc-carriage-dispute)
  - [Top Labor Day Tablet Deals: Score Major Savings on iPads, Galaxy Tabs, Fire Tablets, and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-02/#ftag=CAD590a51e)
  - [Best Labor Day Sales: 120 Can&#39;t-Miss Deals Happening Right Now From Amazon, Best Buy, Home Depot and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
- - [Best VPN Service for 2024: VPNs Tested by Our Experts](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
- - [Amazon Labor Day Sale: The 42 Best Discounts Available Today](https://www.cnet.com/deals/amazon-labor-day-deals-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Service for 2024: VPNs Tested by Our Experts](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [M2 MacBook Air Is Back to $200 Off This Labor Day &lpar;$250 Off for My Best Buy Members&rpar;](https://www.cnet.com/deals/m2-macbook-air-is-back-200-off-this-labor-day-250-off-for-my-best-buy-members/#ftag=CAD590a51e)
- - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
- - [Brighten Up Your Home This Labor Day With a Brilliant Discount on Enbrighten Smart Lights](https://www.cnet.com/deals/brighten-up-your-home-this-labor-day-with-a-brilliant-discount-on-enbrighten-smart-lights/#ftag=CAD590a51e)
- - [Fidelity&#39;s latest valuation of X, 72% lower than when Musk took over, would mean top investor Prince Alwaleed bin Talal al Saud is down $1.4B and Ellison $720M &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/240901/p9#a240901p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 2, #183](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-2-183/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 2 #449](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-2-449/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 2, #1171](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-2-1171/#ftag=CAD590a51e)
+ - [Best Labor Day Deals Under $25: 46 Big Bargains You Can Nab Right Now](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

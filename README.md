@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
  - 😝 [Walmart clearance find](http://9gag.com/gag/aGyew6G)
  - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
 
 ---
 

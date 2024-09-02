@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wildfires Are Contaminating Water Supplies](https://www.wired.com/story/wildfires-are-contaminating-water-supplies/)
+ - [29 Nintendo Switch Games for Every Kind of Player &lpar;September 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
  - [Sources: ByteDance is tapping banks, including Citigroup and JPMorgan, for a $9.5B loan, the biggest dollar-denominated corporate loan in Asia excluding Japan &lpar;Chien Mi Wong/Bloomberg&rpar;](http://www.techmeme.com/240902/p6#a240902p6)
  - [OKX says OKX SG received a Major Payment Institution license from the Monetary Authority of Singapore, and appoints former Grab exec Gracie Lin as OKX SG CEO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p5#a240902p5)
- - [Best Labor Day Mattress Deals: Don&#39;t Sleep on Savings From Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)
- - [Apple is gearing up for a battle with app makers and legislators over whether regulation of teen&#39;s social media use should happen in apps or at the device level &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p4#a240902p4)
- - [Best Samsung Labor Day Deals: Holiday Savings on TVs, Appliances, Laptops, Phones and More](https://www.cnet.com/deals/best-samsung-labor-day-deals-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Mattress Deals: Don&#39;t Sleep on Savings From Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

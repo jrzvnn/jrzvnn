@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale Today for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-today-for-labor-day/#ftag=CAD590a51e)
+ - [These Quality Bose QuietComfort Headphones Are Now Cheaper Than Ever, Thanks to Labor Day](https://www.cnet.com/deals/these-quality-bose-quietcomfort-headphones-are-now-cheaper-than-ever-thanks-to-labor-day/#ftag=CAD590a51e)
  - [Is tennis the sport of the future?](https://www.theverge.com/c/24225103/tennis-ai-electronic-line-calling-hawk-eye-sports-betting-gambling)
- - [FineWoven won&#39;t be missed, but it should be remembered](https://appleinsider.com/articles/24/09/02/finewoven-wont-be-missed-but-it-should-be-remembered?utm_medium=rss)
- - [Apple&#39;s embrace of Matter and new automation accessories on HomeKit Insider](https://appleinsider.com/articles/24/09/02/apples-embrace-of-matter-and-new-automation-accessories-on-homekit-insider?utm_medium=rss)
- - [Strange Noises Are Coming from Inside Boeing’s Starliner Spacecraft](https://www.wired.com/story/starliner-boeing-strange-noises-iss-butch-wilmore/)
- - [Netflix is trying to improve dubbing and translations of non-English content, particularly South Korean reality TV shows, to drive international viewership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p8#a240902p8)<!-- TECH:END -->
+ - [Best Labor Day Sales: 137 Deals to Grab Right Now From Amazon, Best Buy, Home Depot and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [FineWoven won&#39;t be missed, but it should be remembered](https://appleinsider.com/articles/24/09/02/finewoven-wont-be-missed-but-it-should-be-remembered?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

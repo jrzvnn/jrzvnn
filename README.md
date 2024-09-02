@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t believe everything you see](http://9gag.com/gag/an7jyPz)
- - 😝 [Cops: do you recognize the robber?](http://9gag.com/gag/aqy1rjL)
- - 💣 [Perhaps one of the best 2 minute lesson on how to fix inflation.](http://9gag.com/gag/aD2zo3N)
+ - 😝 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
+ - 😝 [Title](http://9gag.com/gag/a8788WQ)
+ - 💣 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [We did it boys, we won! \u2018Gayest Star Wars ever\u2019 actress blames conservatives for cancelation of show. Go ahead and take a moment to celebrate. We deserve it!](http://9gag.com/gag/a2v4rzY)<!-- MEMES:END -->
+ - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
 
 ---
 

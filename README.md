@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good old times](http://9gag.com/gag/adB978M)
- - 😝 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
- - 💣 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)
+ - 😝 [Scary](http://9gag.com/gag/aqy12qj)
+ - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
  - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 

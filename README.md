@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest Castlevania collection is truly excellent](https://www.theverge.com/2024/9/3/24234889/castlevania-dominus-collection-review-switch-xbox-playstation-pc)
  - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
  - [SEMI data: China spent a record $25B on chip tools in H1 2024, more than South Korea, Taiwan, and the US combined, and total spending could hit $50B in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240903/p21#a240903p21)
  - [New VWs will answer some of your questions with ChatGPT](https://www.theverge.com/2024/9/3/24234979/volkswagen-vw-ai-chatgpt-plus-speech-id-4-gti-golf-r-tiguan)
- - [The Search for the Face Behind Mavis Beacon Teaches Typing](https://www.wired.com/story/seeking-mavis-beacon/)
- - [Home Depot&#39;s Labor Day Sale Extended: Final Opportunity to Grab Deals on Grills, Tools, Outdoor Furniture and More](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Search for the Face Behind Mavis Beacon Teaches Typing](https://www.wired.com/story/seeking-mavis-beacon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

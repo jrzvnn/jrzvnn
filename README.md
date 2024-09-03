@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - 😝 [Some Rayguns \ud83e\udd98](http://9gag.com/gag/azxqA5p)
- - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
+ - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
+ - 👉 [German greens after losing badly, not even making it into the parliament](http://9gag.com/gag/avy7OOn)<!-- MEMES:END -->
 
 ---
 

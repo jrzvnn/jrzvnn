@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buying first beer](http://9gag.com/gag/ajPNDdR)
- - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
- - 😝 [So peacefull nature](http://9gag.com/gag/aO8BvyD)
- - 👉 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)<!-- MEMES:END -->
+ - 😝 [Date](http://9gag.com/gag/a5QnbOy)
+ - 😝 [Title](http://9gag.com/gag/a8788WQ)
+ - 💣 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
+ - 😝 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 👉 [Here we go](http://9gag.com/gag/azxq8oj)<!-- MEMES:END -->
 
 ---
 

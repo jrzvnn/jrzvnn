@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deepfake porn crisis has hit 500+ Korean schools, as police investigate crime rings targeting two major universities and say a probe into Telegram may follow &lpar;Jean Mackenzie/BBC&rpar;](http://www.techmeme.com/240903/p15#a240903p15)
- - [Microsoft and Apple are arguing over cloud gaming apps again](https://www.theverge.com/2024/9/3/24234777/microsoft-apple-cloud-gaming-app-store-changes-xbox-cma)
- - [Facebook ad partner may have tried to listen into your conversations](https://appleinsider.com/articles/24/09/03/facebook-ad-partner-may-have-tried-to-listen-into-your-conversations?utm_medium=rss)
- - [Elon Musk says xAI brought its &quot;Colossus 100k H100 training cluster online&quot; over the weekend, which will &quot;double in size to 200k &lpar;50k H200s&rpar; in a few months&quot; &lpar;Christiaan Hetzner/Fortune&rpar;](http://www.techmeme.com/240903/p14#a240903p14)
- - [NaNoWriMo is in disarray after organizers defend AI writing tools](https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism)<!-- TECH:END -->
+ - [All the news about SB 1047, California’s bid to govern AI](https://www.theverge.com/2024/9/3/24233767/california-ai-regulation-news-stories)
+ - [Intel debuts its Core Ultra 200V lineup, touting AI performance, to ship in laptops Sept. 24 and rival Qualcomm&#39;s Snapdragon X Elite and AMD&#39;s Strix Point chips &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240903/p16#a240903p16)
+ - [The best Labor Day deals you can still get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
+ - [Capcom’s two upcoming fighting game collections are heading to Xbox too](https://www.theverge.com/2024/9/3/24234863/marvel-vs-capcom-fighting-collection-xbox-release-2025)
+ - [Sony is taking Concord offline on September 6th after disastrous launch](https://www.theverge.com/2024/9/3/24234909/sony-concord-ps5-shutdown-poor-sales-launch-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

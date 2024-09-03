@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/a8788WQ)
- - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
- - 💣 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 😝 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 💣 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
  - 😝 [Here we go](http://9gag.com/gag/azxq8oj)
  - 👉 [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)<!-- MEMES:END -->
 

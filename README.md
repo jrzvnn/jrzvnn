@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The end is the best](http://9gag.com/gag/aBy88WO)
- - 😝 [I Am Vengeance](http://9gag.com/gag/awyQ50W)
- - 💣 [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)
+ - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 😝 [Some Rayguns \ud83e\udd98](http://9gag.com/gag/azxqA5p)
+ - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
  - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - 👉 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)<!-- MEMES:END -->
+ - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
 
 ---
 

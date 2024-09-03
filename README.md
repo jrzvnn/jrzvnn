@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch regulator slaps Clearview AI with $33 million fine and threatens executive liability](https://www.theverge.com/2024/9/3/24234879/dutch-regulator-gdpr-clearview-ai-fine)
+ - [Neon’s 2073 paints a bleak picture of the future in new trailer](https://www.theverge.com/2024/9/3/24234865/neon-2073-trailer-asif-kapadia)
  - [All the news about SB 1047, California’s bid to govern AI](https://www.theverge.com/2024/9/3/24233767/california-ai-regulation-news-stories)
- - [Intel debuts its Core Ultra 200V lineup, touting AI performance, to ship in laptops Sept. 24 and rival Qualcomm&#39;s Snapdragon X Elite and AMD&#39;s Strix Point chips &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240903/p16#a240903p16)
- - [The best Labor Day deals you can still get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [Capcom’s two upcoming fighting game collections are heading to Xbox too](https://www.theverge.com/2024/9/3/24234863/marvel-vs-capcom-fighting-collection-xbox-release-2025)
- - [Sony is taking Concord offline on September 6th after disastrous launch](https://www.theverge.com/2024/9/3/24234909/sony-concord-ps5-shutdown-poor-sales-launch-pc)<!-- TECH:END -->
+ - [Intel debuts Core Ultra 200V chips, touting AI performance, to ship in laptops from September 24 and rival Qualcomm&#39;s Snapdragon X Elite and AMD&#39;s Strix Point &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240903/p16#a240903p16)
+ - [The best Labor Day deals you can still get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

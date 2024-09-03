@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an internal letter, Snap CEO tries to rally staff amid a 48% stock price drop this year, says Snap will test new ad formats in the chat inbox and on Snap Map &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240903/p29#a240903p29)
+ - [Windows 11’s new gamepad keyboard lets you type with an Xbox controller](https://www.theverge.com/2024/9/3/24235291/microsoft-windows-11-gamepad-keyboard-xbox-controller)
  - [Starlink says it will block X in Brazil](https://www.theverge.com/2024/9/3/24235204/starlink-block-x-brazil-comply-elon-musk)
  - [Volkswagen rolls out its ChatGPT-integrated Plus Speech voice assistant in the US, starting with the 2025 Jetta and Jetta GLI; a subscription is required &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240903/p28#a240903p28)
- - [Sony Shuts Down Shooter Game Concord After Just Two Weeks](https://www.cnet.com/tech/gaming/sony-shuts-down-shooter-game-concord-after-just-two-weeks/#ftag=CAD590a51e)
- - [DOJ says it won&#39;t pressure social media companies to remove content about foreign threats to national security or elections, after claims platforms were coerced &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/240903/p27#a240903p27)
- - [The Nvidia AI antitrust investigation is ‘escalating,’ reports Bloomberg](https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation)<!-- TECH:END -->
+ - [Sony Shuts Down Shooter Game Concord After Just Two Weeks](https://www.cnet.com/tech/gaming/sony-shuts-down-shooter-game-concord-after-just-two-weeks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

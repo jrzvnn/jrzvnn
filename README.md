@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
- - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - 💣 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)
- - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - 👉 [How to start world war 3](http://9gag.com/gag/aE0BnDe)<!-- MEMES:END -->
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 💣 [Rare? A drone could easily take this pic today](http://9gag.com/gag/agmYGvW)
+ - 😝 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
+ - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
 
 ---
 

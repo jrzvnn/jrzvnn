@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - 😝 [Buying first beer](http://9gag.com/gag/ajPNDdR)
- - 💣 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)
- - 😝 [First Time I&#39;ve Ever Seen a Company Roast Themselves on Their Official Twitter Account.](http://9gag.com/gag/a9yAYQD)
- - 👉 [Good old times](http://9gag.com/gag/adB978M)<!-- MEMES:END -->
+ - 😝 [Date](http://9gag.com/gag/a5QnbOy)
+ - 😝 [Title](http://9gag.com/gag/a8788WQ)
+ - 💣 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
+ - 👉 [Here we go](http://9gag.com/gag/azxq8oj)<!-- MEMES:END -->
 
 ---
 

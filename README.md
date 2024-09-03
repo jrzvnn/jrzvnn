@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 💣 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
- - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - 👉 [German greens after losing badly, not even making it into the parliament](http://9gag.com/gag/avy7OOn)<!-- MEMES:END -->
+ - 😝 [More memes and less propaganda please](http://9gag.com/gag/aE0BBY9)
+ - 😝 [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)
+ - 💣 [Skank free](http://9gag.com/gag/aBy889P)
+ - 😝 [Yesterday&#39;s solar activity. Banan\u2014 Earth for scale. Video credit: Andrew James McCarthy](http://9gag.com/gag/apRQQNM)
+ - 👉 [That smile... That damned smile...](http://9gag.com/gag/aGyeZ9Z)<!-- MEMES:END -->
 
 ---
 

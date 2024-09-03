@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am a single mother.... pffff hahahaha .... buuurnnn](http://9gag.com/gag/aE0Bx5p)
- - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
- - 💣 [How to load a .50 calibre flintlock](http://9gag.com/gag/a0e5bDz)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - 💣 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
  - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
  - 👉 [German greens after losing badly, not even making it into the parliament](http://9gag.com/gag/avy7OOn)<!-- MEMES:END -->
 

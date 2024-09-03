@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Date](http://9gag.com/gag/a5QnbOy)
- - 😝 [Title](http://9gag.com/gag/a8788WQ)
- - 💣 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
- - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
- - 👉 [Here we go](http://9gag.com/gag/azxq8oj)<!-- MEMES:END -->
+ - 😝 [Parenting is tough](https://www.reddit.com/r/funny/comments/1f7s65d/parenting_is_tough/)
+ - 😝 [You ladies alright?](https://www.reddit.com/r/funny/comments/1f7s3yp/you_ladies_alright/)
+ - 💣 [I wanted to complain to him about his parking, but eventually I let it go…](https://www.reddit.com/r/memes/comments/1f7s1hy/i_wanted_to_complain_to_him_about_his_parking_but/)
+ - 😝 [This coffee won&#39;t spill](https://www.reddit.com/r/funny/comments/1f7ri6f/this_coffee_wont_spill/)
+ - 👉 [When will the cycle end…](https://www.reddit.com/r/memes/comments/1f7reu3/when_will_the_cycle_end/)<!-- MEMES:END -->
 
 ---
 

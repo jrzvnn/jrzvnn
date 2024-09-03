@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
- - 💣 [Rare? A drone could easily take this pic today](http://9gag.com/gag/agmYGvW)
  - 😝 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
+ - 💣 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
+ - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 👉 [The end is the best](http://9gag.com/gag/aBy88WO)<!-- MEMES:END -->
 
 ---
 

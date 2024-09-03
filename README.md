@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic : I just wanted to have a better view](http://9gag.com/gag/ary5bLK)
- - 😝 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
- - 💣 [This shit is getting near jeez](http://9gag.com/gag/aD2zo5Z)
- - 😝 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
+ - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
+ - 😝 [A Bowl of Water Vs. Grease Fire: Now Picture the Entire Ocean](http://9gag.com/gag/aMVAwAP)
  - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
 
 ---

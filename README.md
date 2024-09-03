@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
- - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
- - 😝 [A Bowl of Water Vs. Grease Fire: Now Picture the Entire Ocean](http://9gag.com/gag/aMVAwAP)
- - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/a8788WQ)
+ - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
+ - 💣 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 😝 [Here we go](http://9gag.com/gag/azxq8oj)
+ - 👉 [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)<!-- MEMES:END -->
 
 ---
 

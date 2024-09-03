@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Labor Day Sales: Over 100 Deals Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
  - [Understanding secure contactless transactions in iOS 18](https://appleinsider.com/inside/ios-18/tips/understanding-secure-contactless-transactions-in-ios-18?utm_medium=rss)
  - [HP says it intends to pursue its $4B damages claim in London against the estate of the recently deceased Mike Lynch; HP won the false accounting case in 2022 &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/240902/p14#a240902p14)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 3 #450](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-3-450/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 3, #1172](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-3-1172/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 3, #184](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-3-184/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 3, #1172](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-3-1172/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

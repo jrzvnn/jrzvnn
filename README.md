@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
  - [Volvo EX90 first drive: not fully baked](https://www.theverge.com/2024/9/3/24233412/volvo-ex90-hands-on-specs-range-tech-lidar)
  - [Seven leading SEO experts and publisher audience strategists on changing their approach due to Google Search AI Overviews, how it may alter traffic, and more &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/240903/p3#a240903p3)
- - [Best Labor Day Sales: Over 100 Deals Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
- - [Sources: Huawei&#39;s Ascend chips still lag far behind Nvidia&#39;s for model training and have stability issues, slower inter-chip connectivity, and inferior software &lpar;Financial Times&rpar;](http://www.techmeme.com/240903/p2#a240903p2)
- - [Doccla, whose &quot;virtual bed&quot; tech helps doctors monitor patients remotely, raised a $46M Series B led by Lakestar after raising a $17M Series A in September 2022 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240903/p1#a240903p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-3/#ftag=CAD590a51e)
+ - [Sources: Huawei&#39;s Ascend chips still lag far behind Nvidia&#39;s for model training and have stability issues, slower inter-chip connectivity, and inferior software &lpar;Financial Times&rpar;](http://www.techmeme.com/240903/p2#a240903p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva announces price raises, including hikes of 300% for some users, citing its new generative AI features, as it prepares for a US IPO &lpar;Denham Sadler/Information Age&rpar;](http://www.techmeme.com/240903/p10#a240903p10)
+ - [The 13 Best Messenger Bags, Crossbody Bags, Slings, and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
+ - [EcoFlow launches four new batteries for phones, homes, and RVs](https://www.theverge.com/2024/9/3/24234116/ecoflow-power-kit-river-3-delta-3-rapid-specs-date)
  - [Canva says its AI features are worth the 300 percent price increase](https://www.theverge.com/2024/9/3/24234698/canva-price-increase-300-percent-ai-features)
- - [iPhone SE 4 rumored to finally ditch LCD for OLED in early 2025](https://appleinsider.com/articles/24/09/03/iphone-se-4-rumored-to-finally-ditch-lcd-for-oled-in-early-2025?utm_medium=rss)
- - [Best Noise-Canceling Headphones &lpar;2024&rpar;: Over-Ears, Wireless Earbuds, Workout](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [SAP CTO Juergen Mueller says he will leave the company by the end of September because of inappropriate conduct at a past company event &lpar;Sonja Wind/Bloomberg&rpar;](http://www.techmeme.com/240903/p9#a240903p9)
- - [One of Our Favorite Logitech Mice Is Achingly Close to Its Lowest-Ever Price at Amazon](https://www.cnet.com/deals/one-of-our-favorite-logitech-mice-is-achingly-close-to-its-lowest-ever-price-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone SE 4 rumored to finally ditch LCD for OLED in early 2025](https://appleinsider.com/articles/24/09/03/iphone-se-4-rumored-to-finally-ditch-lcd-for-oled-in-early-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

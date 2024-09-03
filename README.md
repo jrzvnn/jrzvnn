@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
  - 😝 [Again](http://9gag.com/gag/ary5K85)
- - 😝 [So peacefull nature](http://9gag.com/gag/aO8BvyD)
- - 💣 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
+ - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
+ - 👉 [A Bowl of Water Vs. Grease Fire: Now Picture the Entire Ocean](http://9gag.com/gag/aMVAwAP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Heybike Hauler review: Hefty yet comfortable e-bike for errands](https://appleinsider.com/articles/24/09/03/heybike-hauler-review-hefty-yet-comfortable-e-bike-for-errands?utm_medium=rss)
  - [Best Labor Day Appliance Deals: Don&#39;t Miss Out on Massive Discounts at Best Buy, Home Depot and More](https://www.cnet.com/deals/best-labor-day-appliance-sales-2024-09-02/#ftag=CAD590a51e)
  - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
  - [Best Labor Day Deals Under $25: Last-Minute Deals on Headphones, Kitchen, Smart Home Tech and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones Under $100 for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
- - [A look at the growing use of tablets in US prisons, letting inmates make calls, send messages, and more, as the FCC imposes price caps on voice and video calls &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/240902/p13#a240902p13)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones Under $100 for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

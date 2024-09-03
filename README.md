@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 9 Pro Fold Review: Twice as Nice, High Price](https://www.wired.com/review/google-pixel-9-pro-fold/)
  - [Pixel 9 Pro Fold impressions: a great upgrade from the Pixel Fold, better hinge and display crease, but it&#39;s heavy and apps struggle to fit new aspect ratio &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240903/p19#a240903p19)
  - [Instagram adds a comment feature for Stories; by default, only followers you follow back can leave comments &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p18#a240903p18)
  - [Dutch regulator fines Clearview AI &amp;euro;30.5M, following fines from the UK, France, Australia, and Italy, but Clearview says it is not subject to GDPR &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240903/p17#a240903p17)
- - [The Pixel 9 Pro Fold is the foldable we’ve been waiting for](https://www.theverge.com/24231795/pixel-9-pro-fold-hands-on-screen-size-foldable)
- - [Get a 4-pack of Apple AirTags for only $74.99 at Amazon](https://appleinsider.com/articles/24/09/03/get-a-4-pack-of-apple-airtags-for-only-7499-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [The Pixel 9 Pro Fold is the foldable we’ve been waiting for](https://www.theverge.com/24231795/pixel-9-pro-fold-hands-on-screen-size-foldable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

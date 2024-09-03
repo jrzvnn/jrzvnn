@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
+ - 😝 [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
  - 😝 [A nice, relaxing boat ride.](http://9gag.com/gag/a1mKQov)
- - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
- - 😝 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
- - 👉 [Gary Oldman](http://9gag.com/gag/aZZgLN6)<!-- MEMES:END -->
+ - 💣 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
+ - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 ---
 

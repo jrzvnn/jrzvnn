@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More memes and less propaganda please](http://9gag.com/gag/aE0BBY9)
- - 😝 [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)
- - 💣 [Skank free](http://9gag.com/gag/aBy889P)
- - 😝 [Yesterday&#39;s solar activity. Banan\u2014 Earth for scale. Video credit: Andrew James McCarthy](http://9gag.com/gag/apRQQNM)
+ - 😝 [The most fox looking fox](http://9gag.com/gag/ayNxBn8)
+ - 😝 [I came too fast...](http://9gag.com/gag/a2v4ZoE)
+ - 💣 [Yesterday&#39;s solar activity. Banan\u2014 Earth for scale. Video credit: Andrew James McCarthy](http://9gag.com/gag/apRQQNM)
+ - 😝 [A nice, relaxing boat ride.](http://9gag.com/gag/a1mKQov)
  - 👉 [That smile... That damned smile...](http://9gag.com/gag/aGyeZ9Z)<!-- MEMES:END -->
 
 ---

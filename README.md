@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Huawei&#39;s Ascend chips still lag far behind Nvidia&#39;s for model training and have stability issues, slower inter-chip connectivity, and inferior software &lpar;Financial Times&rpar;](http://www.techmeme.com/240903/p2#a240903p2)
  - [Doccla, whose &quot;virtual bed&quot; tech helps doctors monitor patients remotely, raised a $46M Series B led by Lakestar after raising a $17M Series A in September 2022 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240903/p1#a240903p1)
  - [Best Labor Day Sales: Over 100 Deals Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
  - [Understanding secure contactless transactions in iOS 18](https://appleinsider.com/inside/ios-18/tips/understanding-secure-contactless-transactions-in-ios-18?utm_medium=rss)
- - [HP says it intends to pursue its $4B damages claim in London against the estate of the recently deceased Mike Lynch; HP won the false accounting case in 2022 &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/240902/p14#a240902p14)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 3 #450](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-3-450/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HP says it intends to pursue its $4B damages claim in London against the estate of the recently deceased Mike Lynch; HP won the false accounting case in 2022 &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/240902/p14#a240902p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

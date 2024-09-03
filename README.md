@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flexible glass displays could replace MacBook Pro keyboards](https://appleinsider.com/articles/19/01/31/macbook-keyboard-failures-could-end-with-introduction-of-glass-panel-keyboards?utm_medium=rss)
  - [Zilch says it made an operating profit in July 2024, hitting profitability within four years of its founding date, and crossed &amp;pound;100M in annual revenue run rate &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240903/p8#a240903p8)
  - [Dubai-based Ziina, a P2P payments app with 50,000 retail and business customers, raised a $22M Series A led by Altos, bringing its total funding to $30M+ &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240903/p7#a240903p7)
  - [Sources: Apple will use OLED displays in all iPhone models sold from next year, switching its lower-priced iPhone SE models to OLED screens from LCDs &lpar;Yuka Konishi/Nikkei Asia&rpar;](http://www.techmeme.com/240903/p6#a240903p6)
- - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
  - [How to Watch Apple&#39;s iPhone 16 Launch Event, and What to Expect](https://www.wired.com/story/apple-iphone-16-launch-event-how-to-watch-what-to-expect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

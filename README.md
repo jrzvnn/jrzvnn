@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky says that, as of September 2, it had added over 2M new users in the past week, in the wake of Brazil&#39;s ban on X &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240903/p20#a240903p20)
+ - [21 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)
+ - [Android 15 is out — but it’s not ready for your phone yet](https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts)
  - [Apple outs ninth developer beta for vision OS 2](https://appleinsider.com/articles/24/09/03/apple-outs-ninth-developer-beta-for-vision-os-2?utm_medium=rss)
- - [Snag This 13-Piece Carote Cookware Set for Just $70 With This Labor Day Sale](https://www.cnet.com/deals/snag-this-13-piece-carote-cookware-set-for-just-70-this-labor-day/#ftag=CAD590a51e)
- - [Extended Walmart Labor Day Sale: Score Last-Minute Deals on TVs, Kitchen Essentials, Video Games and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-09-03/#ftag=CAD590a51e)
- - [Google Pixel 9 Pro Fold Review: Twice as Nice, High Price](https://www.wired.com/review/google-pixel-9-pro-fold/)
- - [Pixel 9 Pro Fold impressions: a great upgrade from the Pixel Fold, better hinge and display crease, but it&#39;s heavy and apps struggle to fit new aspect ratio &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240903/p19#a240903p19)<!-- TECH:END -->
+ - [Snag This 13-Piece Carote Cookware Set for Just $70 With This Labor Day Sale](https://www.cnet.com/deals/snag-this-13-piece-carote-cookware-set-for-just-70-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

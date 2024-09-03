@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch regulator slaps Clearview AI with $33 million fine and threatens executive liability](https://www.theverge.com/2024/9/3/24234879/dutch-regulator-gdpr-clearview-ai-fine)
- - [Neon’s 2073 paints a bleak picture of the future in new trailer](https://www.theverge.com/2024/9/3/24234865/neon-2073-trailer-asif-kapadia)
- - [All the news about SB 1047, California’s bid to govern AI](https://www.theverge.com/2024/9/3/24233767/california-ai-regulation-news-stories)
- - [Intel debuts Core Ultra 200V chips, touting AI performance, to ship in laptops from September 24 and rival Qualcomm&#39;s Snapdragon X Elite and AMD&#39;s Strix Point &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240903/p16#a240903p16)
- - [The best Labor Day deals you can still get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)<!-- TECH:END -->
+ - [Instagram adds a comment feature for Stories; by default, only followers you follow back can leave comments &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p18#a240903p18)
+ - [Dutch regulator fines Clearview AI &amp;euro;30.5M, following fines from the UK, France, Australia, and Italy, but Clearview says it is not subject to GDPR &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240903/p17#a240903p17)
+ - [The Pixel 9 Pro Fold is the foldable we’ve been waiting for](https://www.theverge.com/24231795/pixel-9-pro-fold-hands-on-screen-size-foldable)
+ - [Get a 4-pack of Apple AirTags for only $74.99 at Amazon](https://appleinsider.com/articles/24/09/03/get-a-4-pack-of-apple-airtags-for-only-7499-at-amazon?utm_medium=rss)
+ - [Dutch regulator slaps Clearview AI with $33 million fine and threatens executive liability](https://www.theverge.com/2024/9/3/24234879/dutch-regulator-gdpr-clearview-ai-fine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
+ - 😝 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)
  - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
+ - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
  - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
 
 ---

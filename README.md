@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase, Brian Armstrong, and their PACs haven&#39;t donated to Trump or Harris, instead pursuing a strategy of targeted donations to congressional campaigns &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p12#a240903p12)
  - [Apple’s next iPhone SE might get an OLED upgrade](https://www.theverge.com/2024/9/3/24234749/apple-iphone-se-4th-generation-oled-display-rumor-leak)
  - [How to use Clean Up in iOS 18.1 Photos to remove distractions](https://appleinsider.com/inside/ios-18/tips/how-to-use-clean-up-in-ios-181-photos-to-remove-distractions?utm_medium=rss)
  - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
- - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)
- - [Best Labor Day Sales: All the Top Deals You Can Still Score From Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

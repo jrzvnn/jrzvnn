@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/aYQ4xyq)
- - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 💣 [So peacefull nature](http://9gag.com/gag/aO8BvyD)
- - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
- - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
+ - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
+ - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 💣 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)
+ - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
+ - 👉 [How to start world war 3](http://9gag.com/gag/aE0BnDe)<!-- MEMES:END -->
 
 ---
 

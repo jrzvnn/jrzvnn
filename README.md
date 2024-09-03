@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ says it won&#39;t pressure social media companies to remove content about foreign threats to national security or elections, after claims platforms were coerced &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/240903/p27#a240903p27)
+ - [The Nvidia AI antitrust investigation is ‘escalating,’ reports Bloomberg](https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation)
  - [South Korea&#39;s media regulator says Telegram has complied with its request to remove 25 pieces of sexual exploitation material &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/240903/p26#a240903p26)
  - [Sources: the DOJ sent subpoenas to Nvidia and others, as it seeks evidence that Nvidia violated antitrust laws by making it harder to switch suppliers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p25#a240903p25)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Starlink says it&#39;s now complying with an order from a Brazilian Supreme Court justice to block access to X in Brazil, after the country froze some of its assets &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240903/p24#a240903p24)
- - [Semiconductor stocks fell on Tuesday, led by Nvidia, which dropped 9.53%; Intel fell 8.8%, Marvell 8.16%, AMD 7.82%, Qualcomm 6.88%, and Broadcom 6.16% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240903/p23#a240903p23)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

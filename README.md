@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 💣 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
- - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 👉 [So peacefull nature](http://9gag.com/gag/aO8BvyD)<!-- MEMES:END -->
+ - 😝 [Classic : I just wanted to have a better view](http://9gag.com/gag/ary5bLK)
+ - 😝 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
+ - 💣 [This shit is getting near jeez](http://9gag.com/gag/aD2zo5Z)
+ - 😝 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
+ - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
 
 ---
 

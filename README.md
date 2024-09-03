@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo’s next electric semi-truck goes 373 miles on a single charge](https://www.theverge.com/2024/9/3/24234736/volvo-long-range-fh-electric-semi-truck-2025)
+ - [Spotter launches Spotter Studio, a set of AI tools that analyze 2B+ top performing YouTube videos to help creators brainstorm video ideas, and more, for $49/mo. &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)
+ - [I’m heading to Berlin to seek the solution to the smart kitchen](https://www.theverge.com/2024/9/3/24233534/ifa-tech-show-smart-kitchen-smart-appliances)
+ - [Volvo’s next electric semitruck goes 373 miles on a single charge](https://www.theverge.com/2024/9/3/24234736/volvo-long-range-fh-electric-semi-truck-2025)
  - [IFA 2024: all the news from the big Berlin tech show](https://www.theverge.com/2024/9/3/24231736/ifa-2024-news-products-updates-highlights-berlin)
- - [Apple won&#39;t let go of the idea of a touchscreen MacBook Pro](https://appleinsider.com/articles/24/09/03/apple-wont-let-go-of-the-idea-of-a-touchscreen-macbook-pro?utm_medium=rss)
- - [Cybex e-Gazelle S Review: Powers Up Hills and Gently Rocks](https://www.wired.com/review/cybex-e-gazelle-s/)
- - [Bang &amp; Olufsen’s $1,549 headphones bring improved noise-cancellation and repairability](https://www.theverge.com/2024/9/3/24234719/bang-olufsen-wireless-headphones-beoplay-h100-anc)<!-- TECH:END -->
+ - [Apple won&#39;t let go of the idea of a touchscreen MacBook Pro](https://appleinsider.com/articles/24/09/03/apple-wont-let-go-of-the-idea-of-a-touchscreen-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

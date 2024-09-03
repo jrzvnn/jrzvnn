@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Date](http://9gag.com/gag/a5QnbOy)
- - 😝 [Title](http://9gag.com/gag/a8788WQ)
- - 💣 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
- - 😝 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
- - 👉 [Here we go](http://9gag.com/gag/azxq8oj)<!-- MEMES:END -->
+ - 😝 [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)
+ - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
+ - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
 
 ---
 

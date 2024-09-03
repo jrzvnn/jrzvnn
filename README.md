@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House publishes a roadmap to shore up the weak security of the Border Gateway Protocol, which has long been vulnerable to route hijacking &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240903/p33#a240903p33)
  - [Docs: Trump&#39;s crypto project, World Liberty Financial, is a DeFi lending service with four members who worked on Dough Finance, a similar app hacked in July &lpar;CoinDesk&rpar;](http://www.techmeme.com/240903/p32#a240903p32)
  - [Hyundai’s first EV with native Tesla Supercharging is the new Ioniq 5](https://www.theverge.com/2024/9/3/24235272/hyundai-2025-ioniq-5-tesla-nacs-ev-charging-supercharger)
  - [Sources: Sam Altman and other OpenAI execs have been meeting with investors to advance a deal to spend tens of billions to build infrastructure for AI in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p31#a240903p31)
- - [Best Labor Day Tablet Deals: Last-Minute Discounts on iPads, Galaxy Tabs and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-03/#ftag=CAD590a51e)
- - [Pico 4 Ultra review: with imprecise hand tracking and few good MR apps, ByteDance&#39;s $600 headset is far behind the Quest 3 and works well only as a PC VR device &lpar;Josef Erl/MIXED Reality News&rpar;](http://www.techmeme.com/240903/p30#a240903p30)<!-- TECH:END -->
+ - [Best Labor Day Tablet Deals: Last-Minute Discounts on iPads, Galaxy Tabs and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

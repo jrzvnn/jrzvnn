@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)
+ - [Best Labor Day Deals Under $25 Still Live: Last Chance Deals on Smart Home, Kitchen, Outdoor and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-03/#ftag=CAD590a51e)
  - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
- - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
- - [Volvo EX90 first drive: not fully baked](https://www.theverge.com/2024/9/3/24233412/volvo-ex90-hands-on-specs-range-tech-lidar)
- - [Seven leading SEO experts and publisher audience strategists on changing their approach due to Google Search AI Overviews, how it may alter traffic, and more &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/240903/p3#a240903p3)<!-- TECH:END -->
+ - [Best Savings Rates Today, Sept. 3, 2024: The Clock Is Ticking on APYs Up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-3-2024/#ftag=CAD590a51e)
+ - [Best Apple Labor Day Deals Still Available: Savings on iPads, AirPods, Apple Watch and More](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
+ - [Extended Amazon Labor Day Sale: Super Savings You Can Still Snag Now](https://www.cnet.com/deals/amazon-labor-day-deals-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

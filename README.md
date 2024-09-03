@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
  - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 😝 [100rpm human spin](http://9gag.com/gag/aMVA9pG)
- - 💣 [Crazy reference...](http://9gag.com/gag/a878pbY)
- - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 💣 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
  - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
 
 ---

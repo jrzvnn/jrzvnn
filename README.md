@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)
- - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
- - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
+ - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 💣 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 👉 [So peacefull nature](http://9gag.com/gag/aO8BvyD)<!-- MEMES:END -->
 
 ---
 

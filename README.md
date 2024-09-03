@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a8788WQ)
- - 😝 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
- - 💣 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
- - 😝 [Here we go](http://9gag.com/gag/azxq8oj)
- - 👉 [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)<!-- MEMES:END -->
+ - 😝 [. . .](http://9gag.com/gag/aYQ4xyq)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 💣 [So peacefull nature](http://9gag.com/gag/aO8BvyD)
+ - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
 
 ---
 

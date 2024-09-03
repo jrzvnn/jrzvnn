@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Clean Up in iOS 18.1 Photos to remove distractions](https://appleinsider.com/inside/ios-18/tips/how-to-use-clean-up-in-ios-181-photos-to-remove-distractions?utm_medium=rss)
  - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
  - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)
- - [Canva announces price raises, including hikes of 300% for some users, citing its new generative AI features, as it prepares for a US IPO &lpar;Denham Sadler/Information Age&rpar;](http://www.techmeme.com/240903/p10#a240903p10)
- - [The 13 Best Messenger Bags, Crossbody Bags, Slings, and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
- - [EcoFlow launches four new batteries for phones, homes, and RVs](https://www.theverge.com/2024/9/3/24234116/ecoflow-power-kit-river-3-delta-3-rapid-specs-date)<!-- TECH:END -->
+ - [Best Labor Day Sales: All the Top Deals You Can Still Score From Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
+ - [Best Labor Day Laptop Deals Still Available: Deals on Top Laptop Brands While They Last](https://www.cnet.com/deals/best-labor-day-laptop-deals-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

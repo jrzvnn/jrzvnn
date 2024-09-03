@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most fox looking fox](http://9gag.com/gag/ayNxBn8)
- - 😝 [I came too fast...](http://9gag.com/gag/a2v4ZoE)
- - 💣 [Yesterday&#39;s solar activity. Banan\u2014 Earth for scale. Video credit: Andrew James McCarthy](http://9gag.com/gag/apRQQNM)
- - 😝 [A nice, relaxing boat ride.](http://9gag.com/gag/a1mKQov)
- - 👉 [That smile... That damned smile...](http://9gag.com/gag/aGyeZ9Z)<!-- MEMES:END -->
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - 💣 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
+ - 👉 [German greens after losing badly, not even making it into the parliament](http://9gag.com/gag/avy7OOn)<!-- MEMES:END -->
 
 ---
 

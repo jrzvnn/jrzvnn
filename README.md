@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)
  - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
+ - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)
  - [Volvo EX90 first drive: not fully baked](https://www.theverge.com/2024/9/3/24233412/volvo-ex90-hands-on-specs-range-tech-lidar)
- - [Seven leading SEO experts and publisher audience strategists on changing their approach due to Google Search AI Overviews, how it may alter traffic, and more &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/240903/p3#a240903p3)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seven leading SEO experts and publisher audience strategists on changing their approach due to Google Search AI Overviews, how it may alter traffic, and more &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/240903/p3#a240903p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

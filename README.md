@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The coach didn&#39;t turn on for one](http://9gag.com/gag/amo2zNy)
- - 😝 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 💣 [He stood there like `f**k you im not playing anymore`](http://9gag.com/gag/aNDznXr)
- - 😝 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
- - 👉 [It&#39;s the Machine Spirit talking.](http://9gag.com/gag/ayNxL6p)<!-- MEMES:END -->
+ - 😝 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 😝 [Date](http://9gag.com/gag/a5QnbOy)
+ - 💣 [Title](http://9gag.com/gag/a8788WQ)
+ - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
+ - 👉 [Here we go](http://9gag.com/gag/azxq8oj)<!-- MEMES:END -->
 
 ---
 

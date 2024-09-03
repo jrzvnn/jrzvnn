@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotter launches Spotter Studio, a set of AI tools that analyze 2B+ top performing YouTube videos to help creators brainstorm video ideas, and more, for $49/mo. &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)
+ - [Top Labor Day Grill Sales Still Available: Grab Yourself a Traeger, Ooni, Kamado Joe and More for Less](https://www.cnet.com/deals/best-labor-day-grill-sales-2024-09-03/#ftag=CAD590a51e)
+ - [Spotter debuts a set of AI tools called Spotter Studio, to help creators brainstorm video ideas by analyzing 2B+ top YouTube videos and more, for $49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)
+ - [Best Labor Day Sales: You Can Still Score Tons of Savings on Tech Gear, Home Goods, and Much More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
  - [I’m heading to Berlin to seek the solution to the smart kitchen](https://www.theverge.com/2024/9/3/24233534/ifa-tech-show-smart-kitchen-smart-appliances)
- - [Volvo’s next electric semitruck goes 373 miles on a single charge](https://www.theverge.com/2024/9/3/24234736/volvo-long-range-fh-electric-semi-truck-2025)
- - [IFA 2024: all the news from the big Berlin tech show](https://www.theverge.com/2024/9/3/24231736/ifa-2024-news-products-updates-highlights-berlin)
- - [Apple won&#39;t let go of the idea of a touchscreen MacBook Pro](https://appleinsider.com/articles/24/09/03/apple-wont-let-go-of-the-idea-of-a-touchscreen-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Find the Best Fiber Internet Providers Near You](https://www.cnet.com/home/internet/fiber-internet-providers-in-your-area/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

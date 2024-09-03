@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the DOJ sent subpoenas to Nvidia and others, as it seeks evidence that Nvidia violated antitrust laws by making it harder to switch suppliers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p25#a240903p25)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Starlink says it&#39;s now complying with an order from a Brazilian Supreme Court justice to block access to X in Brazil, after the country froze some of its assets &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240903/p24#a240903p24)
  - [Semiconductor stocks fell on Tuesday, led by Nvidia, which dropped 9.53%; Intel fell 8.8%, Marvell 8.16%, AMD 7.82%, Qualcomm 6.88%, and Broadcom 6.16% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240903/p23#a240903p23)
- - [The US FTC says that the money lost to Bitcoin ATM scams increased from $12M in 2020 to $114M in 2023, and $65M has already been lost in the first half of 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240903/p22#a240903p22)
- - [Google releases Pixel update to get rid of surveillance vulnerability](https://www.theverge.com/2024/9/3/24235127/google-pixel-showcase-vulnerability-patch)<!-- TECH:END -->
+ - [Extended Lowe’s Labor Day Sale: Last Chance to Score Deals on Tools, Furniture, Appliances and More](https://www.cnet.com/deals/lowes-labor-day-sale-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

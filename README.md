@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
- - 😝 [Again](http://9gag.com/gag/ary5K85)
- - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 😝 [Splinter Cell Conviction &lpar;2010 and Blacklist &lpar;2013&rpar; vs star wars outlaws.](http://9gag.com/gag/azxqrYj)
+ - 😝 [First Time I&#39;ve Ever Seen a Company Roast Themselves on Their Official Twitter Account.](http://9gag.com/gag/a9yAYQD)
+ - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [A Bowl of Water Vs. Grease Fire: Now Picture the Entire Ocean](http://9gag.com/gag/aMVAwAP)<!-- MEMES:END -->
+ - 👉 [But tomorrow never came](http://9gag.com/gag/a2v4mWe)<!-- MEMES:END -->
 
 ---
 

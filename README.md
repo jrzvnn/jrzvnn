@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jay](http://9gag.com/gag/aBy81dO)
- - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 😝 [But tomorrow never came](http://9gag.com/gag/a2v4mWe)
+ - 😝 [So peacefull nature](http://9gag.com/gag/aO8BvyD)
+ - 💣 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [First Time I&#39;ve Ever Seen a Company Roast Themselves on Their Official Twitter Account.](http://9gag.com/gag/a9yAYQD)<!-- MEMES:END -->
+ - 👉 [The church of Immaculate Conception of Saint Omer in Calais, France \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awyQX08)<!-- MEMES:END -->
 
 ---
 

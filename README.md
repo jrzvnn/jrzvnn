@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink says it will block X in Brazil](https://www.theverge.com/2024/9/3/24235204/starlink-block-x-brazil-comply-elon-musk)
+ - [Volkswagen rolls out its ChatGPT-integrated Plus Speech voice assistant in the US, starting with the 2025 Jetta and Jetta GLI; a subscription is required &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240903/p28#a240903p28)
+ - [Sony Shuts Down Shooter Game Concord After Just Two Weeks](https://www.cnet.com/tech/gaming/sony-shuts-down-shooter-game-concord-after-just-two-weeks/#ftag=CAD590a51e)
  - [DOJ says it won&#39;t pressure social media companies to remove content about foreign threats to national security or elections, after claims platforms were coerced &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/240903/p27#a240903p27)
- - [The Nvidia AI antitrust investigation is ‘escalating,’ reports Bloomberg](https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation)
- - [South Korea&#39;s media regulator says Telegram has complied with its request to remove 25 pieces of sexual exploitation material &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/240903/p26#a240903p26)
- - [Sources: the DOJ sent subpoenas to Nvidia and others, as it seeks evidence that Nvidia violated antitrust laws by making it harder to switch suppliers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p25#a240903p25)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The Nvidia AI antitrust investigation is ‘escalating,’ reports Bloomberg](https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

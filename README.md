@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
  - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 💣 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 💣 [I Am Vengeance](http://9gag.com/gag/awyQ50W)
  - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - 👉 [German greens after losing badly, not even making it into the parliament](http://9gag.com/gag/avy7OOn)<!-- MEMES:END -->
+ - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
 
 ---
 

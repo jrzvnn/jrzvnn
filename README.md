@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [New VWs will answer some of your questions with ChatGPT](https://www.theverge.com/2024/9/3/24234979/volkswagen-vw-ai-chatgpt-plus-speech-id-4-gti-golf-r-tiguan)
+ - [The Search for the Face Behind Mavis Beacon Teaches Typing](https://www.wired.com/story/seeking-mavis-beacon/)
+ - [Home Depot&#39;s Labor Day Sale Extended: Final Opportunity to Grab Deals on Grills, Tools, Outdoor Furniture and More](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-03/#ftag=CAD590a51e)
  - [Bitcoin ATM scammers stole $65 million in first half of 2024](https://www.theverge.com/2024/9/3/24234886/bitcoin-atm-scammers-65-million-stolen-ftc)
- - [Bluesky says that, as of September 2, it had added over 2M new users in the past week, in the wake of Brazil&#39;s ban on X &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240903/p20#a240903p20)
- - [21 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)
- - [Android 15 is out — but it’s not ready for your phone yet](https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts)<!-- TECH:END -->
+ - [Bluesky says that, as of September 2, it had added over 2M new users in the past week, in the wake of Brazil&#39;s ban on X &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240903/p20#a240903p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
- - 😝 [A nice, relaxing boat ride.](http://9gag.com/gag/a1mKQov)
- - 💣 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
- - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
+ - 💣 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 😝 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
 
 ---
 

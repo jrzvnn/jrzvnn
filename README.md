@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
  - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
- - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
+ - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
  - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
- - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
+ - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
 
 ---
 

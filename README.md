@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Castlevania collection is truly excellent](https://www.theverge.com/2024/9/3/24234889/castlevania-dominus-collection-review-switch-xbox-playstation-pc)
- - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
- - [SEMI data: China spent a record $25B on chip tools in H1 2024, more than South Korea, Taiwan, and the US combined, and total spending could hit $50B in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240903/p21#a240903p21)
- - [New VWs will answer some of your questions with ChatGPT](https://www.theverge.com/2024/9/3/24234979/volkswagen-vw-ai-chatgpt-plus-speech-id-4-gti-golf-r-tiguan)
- - [The Search for the Face Behind Mavis Beacon Teaches Typing](https://www.wired.com/story/seeking-mavis-beacon/)<!-- TECH:END -->
+ - [The US FTC says that the money lost to Bitcoin ATM scams increased from $12M in 2020 to $114M in 2023, and $65M has already been lost in the first half of 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240903/p22#a240903p22)
+ - [Google releases Pixel update to get rid of surveillance vulnerability](https://www.theverge.com/2024/9/3/24235127/google-pixel-showcase-vulnerability-patch)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-3/#ftag=CAD590a51e)
+ - [These Versatile, TikTok-Viral Magnetic Lights Are Just $19 Right Now at Amazon](https://www.cnet.com/deals/these-versatile-tiktok-viral-magnetic-lights-are-just-19-right-now-at-amazon/#ftag=CAD590a51e)
+ - [Best Labor Day Tablet Deals Still Available: Big Savings on iPads, Galaxy Tabs and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

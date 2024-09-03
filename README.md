@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook ad partner may have tried to listen into your conversations](https://appleinsider.com/articles/24/09/03/facebook-ad-partner-may-have-tried-to-listen-into-your-conversations?utm_medium=rss)
+ - [Elon Musk said xAI brought its &quot;Colossus 100k H100 training cluster online&quot; over the weekend, which will &quot;double in size to 200k &lpar;50k H200s&rpar; in a few months&quot; &lpar;Christiaan Hetzner/Fortune&rpar;](http://www.techmeme.com/240903/p14#a240903p14)
+ - [NaNoWriMo is in disarray after organizers defend AI writing tools](https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism)
  - [Top Labor Day Grill Sales Still Available: Grab Yourself a Traeger, Ooni, Kamado Joe and More for Less](https://www.cnet.com/deals/best-labor-day-grill-sales-2024-09-03/#ftag=CAD590a51e)
- - [Spotter debuts a set of AI tools called Spotter Studio, to help creators brainstorm video ideas by analyzing 2B+ top YouTube videos and more, for $49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)
- - [Best Labor Day Sales: You Can Still Score Tons of Savings on Tech Gear, Home Goods, and Much More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
- - [I’m heading to Berlin to seek the solution to the smart kitchen](https://www.theverge.com/2024/9/3/24233534/ifa-tech-show-smart-kitchen-smart-appliances)
- - [Find the Best Fiber Internet Providers Near You](https://www.cnet.com/home/internet/fiber-internet-providers-in-your-area/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotter debuts a set of AI tools called Spotter Studio, to help creators brainstorm video ideas by analyzing 2B+ top YouTube videos and more, for $49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

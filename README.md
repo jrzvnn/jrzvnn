@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 😝 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - 💣 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
- - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 👉 [The end is the best](http://9gag.com/gag/aBy88WO)<!-- MEMES:END -->
+ - 😝 [The end is the best](http://9gag.com/gag/aBy88WO)
+ - 😝 [I Am Vengeance](http://9gag.com/gag/awyQ50W)
+ - 💣 [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)
+ - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
+ - 👉 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)<!-- MEMES:END -->
 
 ---
 

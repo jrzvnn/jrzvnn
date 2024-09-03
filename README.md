@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The church of Immaculate Conception of Saint Omer in Calais, France \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awyQX08)
- - 😝 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
- - 💣 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
+ - 😝 [Again](http://9gag.com/gag/ary5K85)
+ - 😝 [So peacefull nature](http://9gag.com/gag/aO8BvyD)
+ - 💣 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [It&#39;s the Machine Spirit talking.](http://9gag.com/gag/ayNxL6p)<!-- MEMES:END -->
+ - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
 
 ---
 

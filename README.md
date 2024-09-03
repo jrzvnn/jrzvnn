@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100rpm human spin](http://9gag.com/gag/aMVA9pG)
- - 😝 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
- - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
+ - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
+ - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
  - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
+ - 👉 [100rpm human spin](http://9gag.com/gag/aMVA9pG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple will use OLED displays in all iPhone models sold from next year, switching its lower-priced iPhone SE models to OLED screens from LCDs &lpar;Yuka Konishi/Nikkei Asia&rpar;](http://www.techmeme.com/240903/p6#a240903p6)
+ - [How to Watch Apple&#39;s iPhone 16 Launch Event, and What to Expect](https://www.wired.com/story/apple-iphone-16-launch-event-how-to-watch-what-to-expect/)
  - [Sources detail OpenAI&#39;s struggles to transform into a no-nonsense, profit-driven company; 80% of its 1,700+ staff started after ChatGPT&#39;s November 2022 release &lpar;New York Times&rpar;](http://www.techmeme.com/240903/p5#a240903p5)
  - [Best Labor Day Deals Under $25 Still Live: Last Chance Deals on Smart Home, Kitchen, Outdoor and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-03/#ftag=CAD590a51e)
- - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Sept. 3, 2024: The Clock Is Ticking on APYs Up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-3-2024/#ftag=CAD590a51e)
- - [Best Apple Labor Day Deals Still Available: Savings on iPads, AirPods, Apple Watch and More](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)
- - 😝 [Scary](http://9gag.com/gag/aqy12qj)
- - 💣 [Crazy reference...](http://9gag.com/gag/a878pbY)
+ - 😝 [Jay](http://9gag.com/gag/aBy81dO)
+ - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
  - 😝 [Identity crisis is not a joke, but the ZZZ blud squad will always be there and keeping it real ;&rpar;](http://9gag.com/gag/a1mKM6w)
- - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
+ - 👉 [First Time I&#39;ve Ever Seen a Company Roast Themselves on Their Official Twitter Account.](http://9gag.com/gag/a9yAYQD)<!-- MEMES:END -->
 
 ---
 

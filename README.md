@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
+ - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)
  - [Canva announces price raises, including hikes of 300% for some users, citing its new generative AI features, as it prepares for a US IPO &lpar;Denham Sadler/Information Age&rpar;](http://www.techmeme.com/240903/p10#a240903p10)
  - [The 13 Best Messenger Bags, Crossbody Bags, Slings, and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
- - [EcoFlow launches four new batteries for phones, homes, and RVs](https://www.theverge.com/2024/9/3/24234116/ecoflow-power-kit-river-3-delta-3-rapid-specs-date)
- - [Canva says its AI features are worth the 300 percent price increase](https://www.theverge.com/2024/9/3/24234698/canva-price-increase-300-percent-ai-features)
- - [iPhone SE 4 rumored to finally ditch LCD for OLED in early 2025](https://appleinsider.com/articles/24/09/03/iphone-se-4-rumored-to-finally-ditch-lcd-for-oled-in-early-2025?utm_medium=rss)<!-- TECH:END -->
+ - [EcoFlow launches four new batteries for phones, homes, and RVs](https://www.theverge.com/2024/9/3/24234116/ecoflow-power-kit-river-3-delta-3-rapid-specs-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

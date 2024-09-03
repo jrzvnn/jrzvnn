@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [100rpm human spin](http://9gag.com/gag/aMVA9pG)
+ - 😝 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
+ - 💣 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)
  - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 💣 [I Am Vengeance](http://9gag.com/gag/awyQ50W)
- - 😝 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
+ - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
 
 ---
 

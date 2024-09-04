@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 💣 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
  - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)<!-- MEMES:END -->
+ - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
 
 ---
 

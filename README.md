@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
+ - [Panasonic TVs return to the US with a huge 85 inch Mini LED screen](https://www.theverge.com/2024/9/4/24235680/panasonic-tv-oled-mini-led-amazon-fire-tv)
+ - [X launches a new TV app &quot;on several app stores&quot; in beta, as part of an effort to court advertisers, creators, and partners around a &quot;video-first platform&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240904/p34#a240904p34)
  - [Apple&#39;s iPhone 16 cases may not need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
- - [Apple Watch users are getting asked about features, battery life, and use of smart rings](https://appleinsider.com/articles/24/09/04/apple-watch-users-are-getting-asked-about-features-battery-life-and-use-of-smart-rings?utm_medium=rss)
- - [Impersonators Take Advantage as the Trumps Dawdle Over Crypto Reveal](https://www.wired.com/story/impersonators-take-advantage-as-the-trumps-dawdle-over-crypto-reveal/)
- - [Elon Musk&#39;s attacks on Kamala Harris, including AI-generated images that lack scrutiny from Community Notes, show how he has turned X into a pro-Trump machine &lpar;Donie O&#39;Sullivan/CNN&rpar;](http://www.techmeme.com/240904/p33#a240904p33)
- - [Amazon extends its popular $199 iPad deal into September, but supply may be limited](https://appleinsider.com/articles/24/09/04/amazon-extends-its-popular-199-ipad-deal-into-september-but-supply-may-be-limited?utm_medium=rss)<!-- TECH:END -->
+ - [AeroPress Coffee Makers Are Discounted as Low as $30 for a Limited Time Only](https://www.cnet.com/deals/aeropress-coffee-makers-are-discounted-as-low-as-30-for-a-limited-time-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

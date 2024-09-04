@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
- - 😝 [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
- - 💣 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
- - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 😝 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)
+ - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - 💣 [This young lad was so proud of the shirt he made for his dad...](http://9gag.com/gag/an7jjPq)
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [The end is the best](http://9gag.com/gag/aBy88WO)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
  - 😝 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
- - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
+ - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 👉 [Poor guy](http://9gag.com/gag/aE0B2ze)<!-- MEMES:END -->
 
 ---
 

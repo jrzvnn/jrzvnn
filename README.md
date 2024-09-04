@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 💣 [Poor guy](http://9gag.com/gag/aE0B2ze)
  - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 👉 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)<!-- MEMES:END -->
+ - 👉 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)<!-- MEMES:END -->
 
 ---
 

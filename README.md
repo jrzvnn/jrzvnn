@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a Copilot: Wave 2 event on September 16 at 8:00 AM PT, where it is expected to announce a Copilot rebrand and new features &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p19#a240904p19)
- - [The UK&#39;s CMA says Microsoft&#39;s acquihire of the Inflection team doesn&#39;t cause competition concerns, but designates the deal as a merger &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240904/p18#a240904p18)
- - [iPhone 16 price increases could subdue an Apple Intelligence super-cycle](https://appleinsider.com/articles/24/09/04/iphone-16-price-increases-could-subdue-an-apple-intelligence-super-cycle?utm_medium=rss)
- - [ReMarkable’s Paper Pro Brings a Color Screen to Its Focus-Friendly Tablet Lineup](https://www.wired.com/story/remarkable-paper-pro-digital-tablet/)
- - [How to Win Radio Contests](https://www.wired.com/story/how-to-win-radio-contests/)<!-- TECH:END -->
+ - [How Surfshark VPN unlocks global streaming, shopping &amp; browsing without leaving the couch](https://appleinsider.com/articles/24/09/04/how-surfshark-vpn-unlocks-global-streaming-shopping-browsing-without-leaving-the-couch?utm_medium=rss)
+ - [7 Best Baby Monitors We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Palo Alto Networks says it closed a $500M deal to buy IBM&#39;s QRadar cloud security software assets, and plans to migrate customers to Palo Alto&#39;s Cortex XSIAM &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240904/p22#a240904p22)
+ - [Robinhood launches a new feature in the UK to let retail investors lend stocks they own to interested borrowers, in a bid to grow its international footprint &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240904/p21#a240904p21)
+ - [Best VPN for Streaming in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Surfshark VPN unlocks global streaming, shopping &amp; browsing without leaving the couch](https://appleinsider.com/articles/24/09/04/how-surfshark-vpn-unlocks-global-streaming-shopping-browsing-without-leaving-the-couch?utm_medium=rss)
- - [7 Best Baby Monitors We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-baby-monitors/)
- - [Palo Alto Networks says it closed a $500M deal to buy IBM&#39;s QRadar cloud security software assets, and plans to migrate customers to Palo Alto&#39;s Cortex XSIAM &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240904/p22#a240904p22)
- - [Robinhood launches a new feature in the UK to let retail investors lend stocks they own to interested borrowers, in a bid to grow its international footprint &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240904/p21#a240904p21)
- - [Best VPN for Streaming in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acer’s 14-inch laptops claim 24 hours of battery life from Intel, Qualcomm, or AMD](https://www.theverge.com/2024/9/4/24235329/acer-ifa-2024-new-swift-ai-laptops-specs)
+ - [‘The Legend of Zelda: Echoes of Wisdom’ Gives the Princess Powers That Link Never Got](https://www.wired.com/story/the-legend-of-zelda-echoes-of-wisdom-early-review/)
+ - [Acer’s first handheld gaming PC is the Nitro Blaze](https://www.theverge.com/2024/9/4/24235413/acer-nitro-blaze-7-handheld-gaming-pc-specs)
+ - [GoPro’s new flagship Hero 13 Black gets key upgrades and a wide range of lenses](https://www.theverge.com/2024/9/4/24235177/gopro-hero-13-black-10-bit-g-log-upgraded-battery-new-lenses)
+ - [Zillow’s upgraded AI search will show you more homes you can’t afford](https://www.theverge.com/2024/9/4/24235154/zillow-chatbot-home-search-commute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

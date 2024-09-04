@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Watch Series 10 rumors disagree over screen redesign](https://appleinsider.com/articles/24/09/04/new-apple-watch-series-10-rumors-disagree-over-screen-redesign?utm_medium=rss)
- - [The Biden administration&#39;s big bet on Intel to lead a US chipmaking revival is in trouble as Intel struggles to meet milestones for receiving CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240904/p16#a240904p16)
- - [Sources: Intel&#39;s contract manufacturing business has suffered a setback after tests with chipmaker Broadcom using Intel&#39;s advanced 18A chipmaking process failed &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240904/p15#a240904p15)
- - [Meta&#39;s Oversight Board rules that the phrase &quot;from the river to the sea&quot; is not necessarily hate speech when addressing the Israeli-Palestinian conflict &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240904/p14#a240904p14)
- - [Moon GPS Is Coming](https://www.wired.com/story/moon-gps-is-coming-nasa-jaxa-esa-glonass-galileo/)<!-- TECH:END -->
+ - [Apple rolls out ninth developer beta for vision OS 2](https://appleinsider.com/articles/24/09/03/apple-outs-ninth-developer-beta-for-vision-os-2?utm_medium=rss)
+ - [Qualcomm’s new 8-core Snapdragon X Plus makes these Windows laptops cheaper](https://www.theverge.com/2024/9/4/24235065/qualcomm-8-core-snapdragon-x-plus-windows-laptops)
+ - [A New Group Is Trying to Make AI Data Licensing Ethical](https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/)
+ - [Microsoft’s new Qualcomm-powered Surface devices are heading into the workplace](https://www.theverge.com/2024/9/4/24235594/microsoft-surface-pro-11-surface-laptop-7-businesses-launch)
+ - [New Apple Watch Series 10 rumors disagree over screen redesign](https://appleinsider.com/articles/24/09/04/new-apple-watch-series-10-rumors-disagree-over-screen-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

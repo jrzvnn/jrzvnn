@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia is trying to meddle with the US election again, Biden administration says](https://www.theverge.com/2024/9/4/24235864/russia-influence-disinformation-us-presidential-election)
  - [Verizon could bring former Fios neighborhoods home by buying Frontier](https://www.theverge.com/2024/9/4/24236069/verizon-frontier-acquisition-fiber-fios-report)
  - [Google releases Android 15, making its source code available on the Android Open Source Project; supported Pixel devices will get the new OS in the coming weeks &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240904/p40#a240904p40)
  - [Roku’s new Backdrops feature is blatantly inspired by Samsung’s Frame TV](https://www.theverge.com/2024/9/4/24235866/roku-backdrop-feature-artwork-screensavers)
- - [Best Apple Watch Deals: Up to $100 Off a New Apple Watch SE or Series 9 Model](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Best Pixel 9 Deals: Score a Google Pixel 9 for Less With These Discounts](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Up to $100 Off a New Apple Watch SE or Series 9 Model](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

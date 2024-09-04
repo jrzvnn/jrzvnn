@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail a side channel attack, requiring ~$11K worth of equipment, which can be used to clone all YubiKeys running firmware prior to version 5.7 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240904/p2#a240904p2)
  - [Microsoft says Intel&#39;s Core Ultra 200V and AMD&#39;s Ryzen AI 300 chips will add Copilot+ AI features starting in November 2024, expanding beyond Qualcomm chips &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240904/p1#a240904p1)
  - [The Japanese Robot Controversy Lurking in Israel’s Military Supply Chain](https://www.wired.com/story/japan-fanuc-robots-israel-gaza-war/)
  - [A test of ~1,300 top games on Microsoft&#39;s new Copilot+ PCs finds only about half ran smoothly; Microsoft says some titles with demanding graphics may not play &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/240903/p36#a240903p36)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 4 #451](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-4-451/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 4, #185](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-4-185/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 4 #451](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-4-451/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NaNoWriMo Organizers Said It Was Classist and Ableist to Condemn AI. All Hell Broke Loose](https://www.wired.com/story/nanowrimo-organizers-classist-and-ableist-to-condemn-ai/)
  - [Apple rolls out ninth developer beta for vision OS 2](https://appleinsider.com/articles/24/09/03/apple-outs-ninth-developer-beta-for-vision-os-2?utm_medium=rss)
  - [Qualcomm’s new 8-core Snapdragon X Plus makes these Windows laptops cheaper](https://www.theverge.com/2024/9/4/24235065/qualcomm-8-core-snapdragon-x-plus-windows-laptops)
  - [A New Group Is Trying to Make AI Data Licensing Ethical](https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/)
- - [Microsoft’s new Qualcomm-powered Surface devices are heading into the workplace](https://www.theverge.com/2024/9/4/24235594/microsoft-surface-pro-11-surface-laptop-7-businesses-launch)
- - [New Apple Watch Series 10 rumors disagree over screen redesign](https://appleinsider.com/articles/24/09/04/new-apple-watch-series-10-rumors-disagree-over-screen-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s new Qualcomm-powered Surface devices are heading into the workplace](https://www.theverge.com/2024/9/4/24235594/microsoft-surface-pro-11-surface-laptop-7-businesses-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

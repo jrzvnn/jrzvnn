@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 💣 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
+ - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
  - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 💣 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
  - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
 
 ---

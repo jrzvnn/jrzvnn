@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mazda](http://9gag.com/gag/avy755b)
- - 😝 [This train in Japan is on a whole new level!](http://9gag.com/gag/a7oDWzz)
- - 💣 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)
- - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
- - 👉 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)<!-- MEMES:END -->
+ - 😝 [Time to go home](http://9gag.com/gag/aMVAKPR)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
+ - 💣 [Killer Smile](http://9gag.com/gag/a6ZVEKL)
+ - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
 
 ---
 

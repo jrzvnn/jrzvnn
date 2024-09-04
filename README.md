@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Watch Series 10 rumors disagree over screen redesign](https://appleinsider.com/articles/24/09/04/new-apple-watch-series-10-rumors-disagree-over-screen-redesign?utm_medium=rss)
+ - [The Biden administration&#39;s big bet on Intel to lead a US chipmaking revival is in trouble as Intel struggles to meet milestones for receiving CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240904/p16#a240904p16)
  - [Sources: Intel&#39;s contract manufacturing business has suffered a setback after tests with chipmaker Broadcom using Intel&#39;s advanced 18A chipmaking process failed &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240904/p15#a240904p15)
  - [Meta&#39;s Oversight Board rules that the phrase &quot;from the river to the sea&quot; is not necessarily hate speech when addressing the Israeli-Palestinian conflict &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240904/p14#a240904p14)
- - [Moon GPS Is Coming](https://www.wired.com/story/moon-gps-is-coming-nasa-jaxa-esa-glonass-galileo/)
- - [Spotify expands daylist, a personalized playlist that evolves through the day depending on listening habits, globally for free and adds support for 14 languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240904/p13#a240904p13)
- - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)<!-- TECH:END -->
+ - [Moon GPS Is Coming](https://www.wired.com/story/moon-gps-is-coming-nasa-jaxa-esa-glonass-galileo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

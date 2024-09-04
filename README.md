@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel&#39;s contract manufacturing business has suffered a setback after tests with chipmaker Broadcom using Intel&#39;s advanced 18A chipmaking process failed &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240904/p15#a240904p15)
  - [Meta&#39;s Oversight Board rules that the phrase &quot;from the river to the sea&quot; is not necessarily hate speech when addressing the Israeli-Palestinian conflict &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240904/p14#a240904p14)
+ - [Moon GPS Is Coming](https://www.wired.com/story/moon-gps-is-coming-nasa-jaxa-esa-glonass-galileo/)
  - [Spotify expands daylist, a personalized playlist that evolves through the day depending on listening habits, globally for free and adds support for 14 languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240904/p13#a240904p13)
- - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)
- - [Antony Blinken Dragged US Diplomacy Into the 21st Century. Even He’s Surprised by the Results](https://www.wired.com/story/big-interview-antony-blinken/)
- - [Apple&#39;s iPhone 16 cases won&#39;t need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)<!-- TECH:END -->
+ - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

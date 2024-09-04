@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [C3.ai reports Q1 revenue up 21% YoY to $87.2M, vs. $86.9M est., and subscription revenue up 20% YoY to $73.5M, vs. $79.1M est.; its stock falls 16%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240904/p47#a240904p47)
  - [X wins block on part of California’s content moderation law](https://www.theverge.com/2024/9/4/24236180/x-wins-block-california-content-moderation-law-ab-587)
  - [The NSA’s podcast will have you listening in on them this time](https://www.theverge.com/2024/9/4/24236109/nsa-no-such-podcast-surveillance)
  - [Paylocity, which provides HR and payroll software, agrees to acquire corporate spending software company Airbase for $325M; Airbase was valued at $600M in 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240904/p46#a240904p46)
- - [HPE reports Q3 revenue up 10% YoY to $7.71B, vs. $7.66B est., Server revenue up 35% YoY to $4.3B, and adjusted gross margins of 31.8%, vs. 33.4% est. &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240904/p45#a240904p45)
- - [Delaware Customs seized over $100k in Apple products destined for China](https://appleinsider.com/articles/24/09/04/delaware-customs-seized-over-100k-in-apple-products-destined-for-china?utm_medium=rss)<!-- TECH:END -->
+ - [HPE reports Q3 revenue up 10% YoY to $7.71B, vs. $7.66B est., Server revenue up 35% YoY to $4.3B, and adjusted gross margins of 31.8%, vs. 33.4% est. &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240904/p45#a240904p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

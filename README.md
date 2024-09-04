@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku’s new Backdrops feature is blatantly inspired by Samsung’s Frame TV](https://www.theverge.com/2024/9/4/24235866/roku-backdrop-feature-artwork-screensavers)
  - [Bolt&#39;s Ryan Breslow thanked 13 investors in an email for supporting a $450M Series F, but some say they hadn&#39;t given support; BlackRock moves to block the round &lpar;Forbes&rpar;](http://www.techmeme.com/240904/p39#a240904p39)
  - [Best Home Equity Loan Rates for September 2024](https://www.cnet.com/personal-finance/home-equity-loan-rates/#ftag=CAD590a51e)
  - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
- - [The Internet Archive loses its appeal of a district court ruling that favored publishers in a copyright dispute over the nonprofit&#39;s ebook lending program &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240904/p38#a240904p38)
- - [&#39;A Minecraft Movie&#39; Trailer: Jason Momoa and Jack Black Go on a Magical Mystery Tour](https://www.cnet.com/tech/services-and-software/a-minecraft-movie-trailer-jason-momoa-and-jack-black-go-on-a-magical-mystery-tour/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Internet Archive loses its appeal of a district court ruling that favored publishers in a copyright dispute over the nonprofit&#39;s ebook lending program &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240904/p38#a240904p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

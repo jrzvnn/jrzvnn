@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ride-hailing company GoTo plans to close its Gojek brand in Vietnam, to focus on reaching profitability in its main operations in Indonesia and Singapore &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240904/p29#a240904p29)
+ - [Intel’s advanced chipmaking process reportedly runs into trouble](https://www.theverge.com/2024/9/4/24235682/intel-18a-chipmaking-process-broadcom-test)
  - [Ireland&#39;s DPC ends court proceedings against X after it agreed to limit its use of personal data collected from EU users to train its AI on a permanent basis &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p28#a240904p28)
  - [Safe Superintelligence, co-founded by ex-OpenAI chief scientist Ilya Sutskever, raised $1B from a16z, Sequoia, and others, sources say at a $5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p27#a240904p27)
- - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)
- - [Germany’s Far Right Is in a Panic Over Telegram](https://www.wired.com/story/germanys-far-right-is-in-a-panic-over-telegram/)
- - [Filing: Lyft plans to sell some of its bike and scooter business and cut 1% of its employees as it struggles to turn profitable &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240904/p26#a240904p26)<!-- TECH:END -->
+ - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

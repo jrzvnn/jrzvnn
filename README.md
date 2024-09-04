@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A test of ~1,300 top games on Microsoft&#39;s new Copilot+ PCs finds only about half ran smoothly; Microsoft says some titles with demanding graphics may not play &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/240903/p36#a240903p36)
- - [How to use Apple&#39;s Dictionary app on its own, and in Look Up](https://appleinsider.com/inside/macos/tips/how-to-use-apples-dictionary-app-on-its-own-and-in-look-up?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-4/#ftag=CAD590a51e)
- - [Neko Health, which offers AI-based full-body scans and was co-founded by Daniel Ek and Hjalmar Nilsonne, launches in London, its first city outside Sweden &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240903/p35#a240903p35)
- - [Mattress Firm Labor Day Sale: You Can Still Save on Beds From Serta, Nectar and Purple](https://www.cnet.com/deals/mattress-firm-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 4 #451](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-4-451/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 4, #185](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-4-185/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 4, #1173](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-4-1173/#ftag=CAD590a51e)
+ - [How to use Apple&#39;s Dictionary app on its own, and in Look Up](https://appleinsider.com/inside/macos/tips/how-to-use-apples-dictionary-app-on-its-own-and-in-look-up?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

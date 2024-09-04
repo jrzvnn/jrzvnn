@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YubiKeys have an unfixable security flaw](https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot)
- - [Microsoft to announce ‘next phase of Copilot’ on September 16th](https://www.theverge.com/2024/9/4/24235634/microsoft-copilot-event-satya-nadella)
- - [Qualcomm announces its first 8-core Snapdragon X Plus chips, which will ship in new Asus Zenbook S 15 and Dell Inspiron 14, available for $899 each &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240904/p17#a240904p17)
- - [Acer Aspire Go 14 Review: Phenomenal Battery Life](https://www.wired.com/review/acer-aspire-go-14/)
- - [NaNoWriMo Organizers Said It Was Classist and Ableist to Condemn AI. All Hell Broke Loose](https://www.wired.com/story/nanowrimo-organizers-classist-and-ableist-to-condemn-ai/)<!-- TECH:END -->
+ - [Microsoft announces a Copilot: Wave 2 event on September 16 at 8:00 AM PT, where it is expected to announce a Copilot rebrand and new features &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p19#a240904p19)
+ - [The UK&#39;s CMA says Microsoft&#39;s acquihire of the Inflection team doesn&#39;t cause competition concerns, but designates the deal as a merger &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240904/p18#a240904p18)
+ - [iPhone 16 price increases could subdue an Apple Intelligence super-cycle](https://appleinsider.com/articles/24/09/04/iphone-16-price-increases-could-subdue-an-apple-intelligence-super-cycle?utm_medium=rss)
+ - [ReMarkable’s Paper Pro Brings a Color Screen to Its Focus-Friendly Tablet Lineup](https://www.wired.com/story/remarkable-paper-pro-digital-tablet/)
+ - [How to Win Radio Contests](https://www.wired.com/story/how-to-win-radio-contests/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

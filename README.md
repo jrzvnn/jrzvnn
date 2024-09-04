@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most accurate hacking scene ever](http://9gag.com/gag/axy00mW)
- - 😝 [Some people are never happy](http://9gag.com/gag/aAyDdgZ)
- - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
- - 👉 [This young lad was so proud of the shirt he made for his dad...](http://9gag.com/gag/an7jjPq)<!-- MEMES:END -->
+ - 😝 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
+ - 😝 [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
+ - 💣 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
+ - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 ---
 

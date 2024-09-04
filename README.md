@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In comments to UK&#39;s CMA from July 29, Microsoft says Apple&#39;s changes to App Review Guidelines aren&#39;t enough for it to operate a native iOS Xbox Cloud Gaming app &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p9#a240904p9)
  - [Tokyo-based Sakana AI, which unveiled several AI models for Japanese speakers, raised a $100M Series A led by NEA, Khosla, and Lux, with Nvidia participating &lpar;Min Jeong Lee/BNN Bloomberg&rpar;](http://www.techmeme.com/240904/p8#a240904p8)
  - [Nvidia stock fell 9.5% on Tuesday, losing $279B in market value, the biggest single-day drop for a US company, as investors soften their optimism about AI &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p7#a240904p7)
  - [Intel should spin off its foundry business, and the US government should subsidize cutting-edge chipmaking in the US via purchase guarantees for US-made chips &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240904/p6#a240904p6)
- - [A look at X&#39;s shrinking clout in Brazil even before the ban; Twitter, the platform now known as X, once dominated Brazilian social media with 40M+ users &lpar;Terrence McCoy/Washington Post&rpar;](http://www.techmeme.com/240904/p5#a240904p5)
- - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)<!-- TECH:END -->
+ - [A look at X&#39;s shrinking clout in Brazil even before the ban; Twitter, the platform now known as X, once dominated Brazilian social media with 40M+ users &lpar;Terrence McCoy/Washington Post&rpar;](http://www.techmeme.com/240904/p5#a240904p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine it\u2019s 1999 again and your mom is making breakfast\u2026. You retain the last 25 years of memories but you get to do it all over again\u2026. Magnificent\u2026](http://9gag.com/gag/azxqMON)
- - 😝 [Mazda](http://9gag.com/gag/avy755b)
- - 💣 [This train in Japan is on a whole new level!](http://9gag.com/gag/a7oDWzz)
- - 😝 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)
- - 👉 [Best dad ever](http://9gag.com/gag/aZZgyq9)<!-- MEMES:END -->
+ - 😝 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 💣 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
 
 ---
 

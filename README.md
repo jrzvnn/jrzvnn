@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Lyft plans to sell some of its bike and scooter business and cut 1% of its employees as it struggles to turn profitable &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240904/p26#a240904p26)
+ - [Meta shouldn’t remove ‘from the river to the sea’ as hate speech, says Oversight Board](https://www.theverge.com/2024/9/4/24235675/meta-oversight-board-river-to-the-sea-hate-speech-decision)
+ - [People who got access to OpenAI&#39;s SearchGPT say it struggled with some shopping and local queries, and sometimes presented untrue or hallucinated information &lpar;Washington Post&rpar;](http://www.techmeme.com/240904/p25#a240904p25)
  - [Cortex, which sells an internal developer portal for teams making software, raised $60M from Sequoia, Stripe co-founders, and others, at a $470M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240904/p24#a240904p24)
- - [You.com, an AI-powered search engine, raised a $50M Series B, bringing its total funding to $99M, and launches &quot;multiplayer AI&quot; features for team collaboration &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240904/p23#a240904p23)
- - [A Minecraft Movie’s first trailer is equal parts goofy and creepy](https://www.theverge.com/24235698/minecraft-movie-trailer)
- - [&#39;Civilization VI&#39; finally has native Apple Silicon support](https://appleinsider.com/articles/24/09/04/civilization-vi-finally-has-native-apple-silicon-support?utm_medium=rss)
- - [Acer’s 14-inch laptops claim 24 hours of battery life from Intel, Qualcomm, or AMD](https://www.theverge.com/2024/9/4/24235329/acer-ifa-2024-new-swift-ai-laptops-specs)<!-- TECH:END -->
+ - [You.com, an AI-powered search engine, raised a $50M Series B, bringing its total funding to $99M, and launches &quot;multiplayer AI&quot; features for team collaboration &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240904/p23#a240904p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

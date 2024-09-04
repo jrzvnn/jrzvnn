@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 💣 [Poor guy](http://9gag.com/gag/aE0B2ze)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
  - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 👉 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)<!-- MEMES:END -->
+ - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 💣 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 😝 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
  - 😝 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
+ - 💣 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
  - 👉 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)<!-- MEMES:END -->
 
 ---

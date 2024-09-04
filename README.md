@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)
- - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 💣 [This young lad was so proud of the shirt he made for his dad...](http://9gag.com/gag/an7jjPq)
+ - 😝 [The end is the best](http://9gag.com/gag/aBy88WO)
  - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [The end is the best](http://9gag.com/gag/aBy88WO)<!-- MEMES:END -->
+ - 💣 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)
+ - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
+ - 👉 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)<!-- MEMES:END -->
 
 ---
 

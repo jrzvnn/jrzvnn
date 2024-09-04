@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Internet Archive loses its appeal of a district court ruling that favored publishers in a copyright dispute over the nonprofit&#39;s ebook lending program &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240904/p38#a240904p38)
  - [Sources: SpaceX has moved to evacuate employees from Brazil and warned others against traveling to the country, as Elon Musk battles Brazil&#39;s top court over X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240904/p37#a240904p37)
  - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
  - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
- - [A US court grants X a preliminary injunction against California&#39;s AB 587, which requires disclosure of moderation policies, reversing a lower court decision &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240904/p36#a240904p36)
- - [Lock in the best trade-in value for your used iPhone, Apple Watch ahead of the iPhone 16](https://appleinsider.com/articles/24/09/04/lock-in-the-best-trade-in-value-for-your-used-iphone-apple-watch-ahead-of-the-iphone-16?utm_medium=rss)<!-- TECH:END -->
+ - [Best PlayStation Plus Deals: Get a 3-Month Membership With 10% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

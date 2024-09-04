@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [Dental and root canal treatment](http://9gag.com/gag/a8788w6)
- - 💣 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
- - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
+ - 😝 [Mazda](http://9gag.com/gag/avy755b)
+ - 😝 [This train in Japan is on a whole new level!](http://9gag.com/gag/a7oDWzz)
+ - 💣 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)
+ - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
+ - 👉 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)<!-- MEMES:END -->
 
 ---
 

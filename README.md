@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Lyft plans to sell some of its bike and scooter business and cut 1% of its employees as it struggles to turn profitable &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240904/p26#a240904p26)
- - [Meta shouldn’t remove ‘from the river to the sea’ as hate speech, says Oversight Board](https://www.theverge.com/2024/9/4/24235675/meta-oversight-board-river-to-the-sea-hate-speech-decision)
- - [People who got access to OpenAI&#39;s SearchGPT say it struggled with some shopping and local queries, and sometimes presented untrue or hallucinated information &lpar;Washington Post&rpar;](http://www.techmeme.com/240904/p25#a240904p25)
- - [Cortex, which sells an internal developer portal for teams making software, raised $60M from Sequoia, Stripe co-founders, and others, at a $470M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240904/p24#a240904p24)
- - [You.com, an AI-powered search engine, raised a $50M Series B, bringing its total funding to $99M, and launches &quot;multiplayer AI&quot; features for team collaboration &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240904/p23#a240904p23)<!-- TECH:END -->
+ - [Ireland&#39;s DPC ends court proceedings against X after it agreed to limit its use of personal data collected from EU users to train its AI on a permanent basis &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p28#a240904p28)
+ - [Safe Superintelligence, co-founded by ex-OpenAI chief scientist Ilya Sutskever, raised $1B from a16z, Sequoia, and others, sources say at a $5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p27#a240904p27)
+ - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)
+ - [Germany’s Far Right Is in a Panic Over Telegram](https://www.wired.com/story/germanys-far-right-is-in-a-panic-over-telegram/)
+ - [Filing: Lyft plans to sell some of its bike and scooter business and cut 1% of its employees as it struggles to turn profitable &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240904/p26#a240904p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

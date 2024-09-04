@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)
+ - [Antony Blinken Dragged US Diplomacy Into the 21st Century. Even He’s Surprised by the Results](https://www.wired.com/story/big-interview-antony-blinken/)
+ - [Apple&#39;s iPhone 16 cases won&#39;t need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
  - [Ubisoft stock fell by 10%+ to a ten year low in the past two days, giving it a market cap of &amp;euro;1.99B, following the lukewarm reception to Star Wars Outlaws &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240904/p11#a240904p11)
- - [Blackstone agrees to acquire Australian data center operator AirTrunk in a deal valuing the company at around $16.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p10#a240904p10)
- - [In comments to UK&#39;s CMA from July 29, Microsoft says Apple&#39;s changes to App Review Guidelines aren&#39;t enough for it to operate a native iOS Xbox Cloud Gaming app &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p9#a240904p9)
- - [Tokyo-based Sakana AI, which unveiled several AI models for Japanese speakers, raised a $100M Series A led by NEA, Khosla, and Lux, with Nvidia participating &lpar;Min Jeong Lee/BNN Bloomberg&rpar;](http://www.techmeme.com/240904/p8#a240904p8)
- - [Nvidia stock fell 9.5% on Tuesday, losing $279B in market value, the biggest single-day drop for a US company, as investors soften their optimism about AI &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p7#a240904p7)<!-- TECH:END -->
+ - [Blackstone agrees to acquire Australian data center operator AirTrunk in a deal valuing the company at around $16.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p10#a240904p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

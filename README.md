@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This train in Japan is on a whole new level!](http://9gag.com/gag/a7oDWzz)
- - 😝 [Mazda](http://9gag.com/gag/avy755b)
- - 💣 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)
- - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
- - 👉 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)<!-- MEMES:END -->
+ - 😝 [A masterclass on how to waste millions.](http://9gag.com/gag/amo2Bj9)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
+ - 💣 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Oversight Board rules that the phrase &quot;from the river to the sea&quot; is not necessarily hate speech when addressing the Israeli-Palestinian conflict &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240904/p14#a240904p14)
+ - [Spotify expands daylist, a personalized playlist that evolves through the day depending on listening habits, globally for free and adds support for 14 languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240904/p13#a240904p13)
  - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)
  - [Antony Blinken Dragged US Diplomacy Into the 21st Century. Even He’s Surprised by the Results](https://www.wired.com/story/big-interview-antony-blinken/)
- - [Apple&#39;s iPhone 16 cases won&#39;t need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
- - [Ubisoft stock fell by 10%+ to a ten year low in the past two days, giving it a market cap of &amp;euro;1.99B, following the lukewarm reception to Star Wars Outlaws &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240904/p11#a240904p11)
- - [Blackstone agrees to acquire Australian data center operator AirTrunk in a deal valuing the company at around $16.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p10#a240904p10)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16 cases won&#39;t need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

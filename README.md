@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Beats Studio Buds+ have received their first firmware update](https://appleinsider.com/articles/24/09/04/apples-beats-studio-buds-have-received-their-first-firmware-update?utm_medium=rss)
  - [Right-Wing Influencer Network Tenet Media Allegedly Spread Russian Disinformation](https://www.wired.com/story/right-wing-influencer-network-tenet-media-allegedly-spread-russian-disinformation/)
  - [C3.ai reports Q1 revenue up 21% YoY to $87.2M, vs. $86.9M est., and subscription revenue up 20% YoY to $73.5M, vs. $79.1M est.; its stock falls 16%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240904/p47#a240904p47)
  - [X wins block on part of California’s content moderation law](https://www.theverge.com/2024/9/4/24236180/x-wins-block-california-content-moderation-law-ab-587)
- - [The NSA’s podcast will have you listening in on them this time](https://www.theverge.com/2024/9/4/24236109/nsa-no-such-podcast-surveillance)
- - [Paylocity, which provides HR and payroll software, agrees to acquire corporate spending software company Airbase for $325M; Airbase was valued at $600M in 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240904/p46#a240904p46)<!-- TECH:END -->
+ - [The NSA’s podcast will have you listening in on them this time](https://www.theverge.com/2024/9/4/24236109/nsa-no-such-podcast-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

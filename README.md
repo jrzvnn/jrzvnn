@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
  - 😝 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
- - 💣 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
- - 😝 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
  - 👉 [Hygiene is priority ?](http://9gag.com/gag/aAyD3Xp)<!-- MEMES:END -->
 
 ---

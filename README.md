@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China-based MiniMax launches video-01, its text-to-video AI model that generates six-second clips with 1280x720 resolution at 25 fps &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240903/p34#a240903p34)
+ - [Snapchat is going to put ads next to messages from your friends](https://www.theverge.com/2024/9/3/24235341/snapchat-sponsored-ads-messages-chat-tab-with-friends)
+ - [You’ll soon be able to leave comments on Instagram Stories posts](https://www.theverge.com/2024/9/3/24235292/instagram-stories-disappearing-comments-from-friends)
  - [The White House publishes a roadmap to shore up the weak security of the Border Gateway Protocol, which has long been vulnerable to route hijacking &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240903/p33#a240903p33)
- - [Docs: Trump&#39;s crypto project, World Liberty Financial, is a DeFi lending service with four members who worked on Dough Finance, a similar app hacked in July &lpar;CoinDesk&rpar;](http://www.techmeme.com/240903/p32#a240903p32)
- - [Hyundai’s first EV with native Tesla Supercharging is the new Ioniq 5](https://www.theverge.com/2024/9/3/24235272/hyundai-2025-ioniq-5-tesla-nacs-ev-charging-supercharger)
- - [Sources: Sam Altman and other OpenAI execs have been meeting with investors to advance a deal to spend tens of billions to build infrastructure for AI in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p31#a240903p31)
- - [Best Labor Day Tablet Deals: Last-Minute Discounts on iPads, Galaxy Tabs and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Vacuums for 2024](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

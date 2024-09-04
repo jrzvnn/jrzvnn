@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
  - [The Internet Archive loses its appeal of a district court ruling that favored publishers in a copyright dispute over the nonprofit&#39;s ebook lending program &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240904/p38#a240904p38)
  - [Sources: SpaceX has moved to evacuate employees from Brazil and warned others against traveling to the country, as Elon Musk battles Brazil&#39;s top court over X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240904/p37#a240904p37)
  - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
- - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
- - [Best PlayStation Plus Deals: Get a 3-Month Membership With 10% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

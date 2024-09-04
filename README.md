@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
- - 😝 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
- - 💣 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
- - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 👉 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)<!-- MEMES:END -->
+ - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 😝 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
+ - 💣 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
+ - 😝 [.. meanwhile](http://9gag.com/gag/aGyeZRG)
+ - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Ride-hailing company GoTo plans to close its Gojek brand in Vietnam, to focus on reaching profitability in its main operations in Indonesia and Singapore &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240904/p29#a240904p29)
  - [Intel’s advanced chipmaking process reportedly runs into trouble](https://www.theverge.com/2024/9/4/24235682/intel-18a-chipmaking-process-broadcom-test)
+ - [Score 20TB of Cloud Storage for Over 90% Off on StackSocial](https://www.cnet.com/deals/score-20tb-of-cloud-storage-for-over-90-off-on-stacksocial/#ftag=CAD590a51e)
  - [Ireland&#39;s DPC ends court proceedings against X after it agreed to limit its use of personal data collected from EU users to train its AI on a permanent basis &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p28#a240904p28)
- - [Safe Superintelligence, co-founded by ex-OpenAI chief scientist Ilya Sutskever, raised $1B from a16z, Sequoia, and others, sources say at a $5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p27#a240904p27)
- - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)<!-- TECH:END -->
+ - [Home Loan Rates on Steady Decline Before Key Jobs Data. Today&#39;s Mortgage Rates, Sept. 4, 2024](https://www.cnet.com/personal-finance/home-loan-rates-decline-mortgage-interest-rates-for-sept-4-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

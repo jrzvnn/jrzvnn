@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 😝 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
- - 💣 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
- - 😝 [.. meanwhile](http://9gag.com/gag/aGyeZRG)
- - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
+ - 😝 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)
+ - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 💣 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 👉 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)<!-- MEMES:END -->
 
 ---
 

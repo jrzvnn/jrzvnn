@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
- - 💣 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)
- - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
- - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
+ - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - 😝 [France has started operating its 57th nuclear reactor today. The first new one in 25 years. Couldn&#39;t be happier !](http://9gag.com/gag/ary5oep)
+ - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 😝 [Hygiene is priority ?](http://9gag.com/gag/aAyD3Xp)
+ - 👉 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)<!-- MEMES:END -->
 
 ---
 

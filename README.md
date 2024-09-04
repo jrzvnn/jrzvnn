@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
- - 😝 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
- - 💣 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
+ - 😝 [The end is the best](http://9gag.com/gag/aBy88WO)
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
 
 ---
 

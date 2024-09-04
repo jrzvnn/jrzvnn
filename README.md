@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Volvo is giving itself another decade before it commits to selling only EVs](https://www.theverge.com/2024/9/4/24235793/volvo-ev-only-sales-deadline-2040-hybrids)
  - [Most iPhone buyers prioritize need over new features in latest upgrades](https://appleinsider.com/articles/24/09/04/most-iphone-buyers-prioritize-need-over-new-features-in-latest-upgrades?utm_medium=rss)
  - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
  - [Samsung’s Galaxy Buds FE are more affordable than ever at nearly $40 off](https://www.theverge.com/2024/9/4/24234954/samsung-galaxy-buds-fe-kindle-unlimited-deal-sale)
- - [Could This Be the Start of Amazon’s Next Robot Revolution?](https://www.wired.com/amazon-covariant-robotics-deal/)
- - [YouTube now lets parents keep tabs on their teen’s channel](https://www.theverge.com/2024/9/4/24235595/youtube-parent-teen-account-linking-supervision-feature-availability)<!-- TECH:END -->
+ - [Could This Be the Start of Amazon’s Next Robot Revolution?](https://www.wired.com/amazon-covariant-robotics-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

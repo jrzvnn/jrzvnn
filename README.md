@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YubiKeys have an unfixable security flaw](https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot)
+ - [Microsoft to announce ‘next phase of Copilot’ on September 16th](https://www.theverge.com/2024/9/4/24235634/microsoft-copilot-event-satya-nadella)
+ - [Qualcomm announces its first 8-core Snapdragon X Plus chips, which will ship in new Asus Zenbook S 15 and Dell Inspiron 14, available for $899 each &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240904/p17#a240904p17)
  - [Acer Aspire Go 14 Review: Phenomenal Battery Life](https://www.wired.com/review/acer-aspire-go-14/)
- - [NaNoWriMo Organizers Said It Was Classist and Ableist to Condemn AI. All Hell Broke Loose](https://www.wired.com/story/nanowrimo-organizers-classist-and-ableist-to-condemn-ai/)
- - [Apple rolls out ninth developer beta for vision OS 2](https://appleinsider.com/articles/24/09/03/apple-outs-ninth-developer-beta-for-vision-os-2?utm_medium=rss)
- - [Qualcomm’s new 8-core Snapdragon X Plus makes these Windows laptops cheaper](https://www.theverge.com/2024/9/4/24235065/qualcomm-8-core-snapdragon-x-plus-windows-laptops)
- - [A New Group Is Trying to Make AI Data Licensing Ethical](https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/)<!-- TECH:END -->
+ - [NaNoWriMo Organizers Said It Was Classist and Ableist to Condemn AI. All Hell Broke Loose](https://www.wired.com/story/nanowrimo-organizers-classist-and-ableist-to-condemn-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says it has inquired with the US DOJ and hasn&#39;t been subpoenaed, following a report that it had received a subpoena from the DOJ over antitrust concerns &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240904/p41#a240904p41)
+ - [Nvidia says it has inquired with the US DOJ and hasn&#39;t been subpoenaed, following a report that it had received a subpoena from the DOJ over antitrust concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p42#a240904p42)
+ - [Nvidia says it didn&#39;t receive antitrust subpoena from DOJ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240904/p41#a240904p41)
  - [Russia is trying to meddle with the US election again, Biden administration says](https://www.theverge.com/2024/9/4/24235864/russia-influence-disinformation-us-presidential-election)
- - [Verizon could bring former Fios neighborhoods home by buying Frontier](https://www.theverge.com/2024/9/4/24236069/verizon-frontier-acquisition-fiber-fios-report)
- - [Google releases Android 15, making its source code available on the Android Open Source Project; supported Pixel devices will get the new OS in the coming weeks &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240904/p40#a240904p40)
- - [Roku’s new Backdrops feature is blatantly inspired by Samsung’s Frame TV](https://www.theverge.com/2024/9/4/24235866/roku-backdrop-feature-artwork-screensavers)<!-- TECH:END -->
+ - [Best Music Streaming Service of 2024](https://www.cnet.com/tech/services-and-software/best-music-streaming-service/#ftag=CAD590a51e)
+ - [Verizon could bring former Fios neighborhoods home by buying Frontier](https://www.theverge.com/2024/9/4/24236069/verizon-frontier-acquisition-fiber-fios-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

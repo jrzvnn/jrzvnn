@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X wins block on part of California’s content moderation law](https://www.theverge.com/2024/9/4/24236180/x-wins-block-california-content-moderation-law-ab-587)
+ - [The NSA’s podcast will have you listening in on them this time](https://www.theverge.com/2024/9/4/24236109/nsa-no-such-podcast-surveillance)
+ - [Paylocity, which provides HR and payroll software, agrees to acquire corporate spending software company Airbase for $325M; Airbase was valued at $600M in 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240904/p46#a240904p46)
  - [HPE reports Q3 revenue up 10% YoY to $7.71B, vs. $7.66B est., Server revenue up 35% YoY to $4.3B, and adjusted gross margins of 31.8%, vs. 33.4% est. &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240904/p45#a240904p45)
- - [Delaware Customs seized over $100k in Apple products destined for China](https://appleinsider.com/articles/24/09/04/delaware-customs-seized-over-100k-in-apple-products-destined-for-china?utm_medium=rss)
- - [Elon Musk is absolutely not a ‘free speech absolutist’](https://www.theverge.com/2024/9/4/24235213/x-brazil-suppression-speech-elon-musk-india-turkey)
- - [Sources: OSOM, the smartphone company founded by former Essential employees, is shutting down later this week, after a lawsuit alleged its CEO misused funds &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240904/p44#a240904p44)
- - [Shares of Truth Social&#39;s parent TMTG continue to slide, as the expiration date nears for a lockup agreement preventing Trump and others from selling their stock &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/240904/p43#a240904p43)<!-- TECH:END -->
+ - [Delaware Customs seized over $100k in Apple products destined for China](https://appleinsider.com/articles/24/09/04/delaware-customs-seized-over-100k-in-apple-products-destined-for-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

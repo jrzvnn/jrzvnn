@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Most iPhone buyers prioritize need over new features in latest upgrades](https://appleinsider.com/articles/24/09/04/most-iphone-buyers-prioritize-need-over-new-features-in-latest-upgrades?utm_medium=rss)
  - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
- - [Panasonic TVs return to the US with a huge 85 inch Mini LED screen](https://www.theverge.com/2024/9/4/24235680/panasonic-tv-oled-mini-led-amazon-fire-tv)
- - [X launches a new TV app &quot;on several app stores&quot; in beta, as part of an effort to court advertisers, creators, and partners around a &quot;video-first platform&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240904/p34#a240904p34)
- - [Apple&#39;s iPhone 16 cases may not need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
- - [AeroPress Coffee Makers Are Discounted as Low as $30 for a Limited Time Only](https://www.cnet.com/deals/aeropress-coffee-makers-are-discounted-as-low-as-30-for-a-limited-time-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s Galaxy Buds FE are more affordable than ever at nearly $40 off](https://www.theverge.com/2024/9/4/24234954/samsung-galaxy-buds-fe-kindle-unlimited-deal-sale)
+ - [Could This Be the Start of Amazon’s Next Robot Revolution?](https://www.wired.com/amazon-covariant-robotics-deal/)
+ - [YouTube now lets parents keep tabs on their teen’s channel](https://www.theverge.com/2024/9/4/24235595/youtube-parent-teen-account-linking-supervision-feature-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

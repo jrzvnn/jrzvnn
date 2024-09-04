@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone 16 cases may not need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
  - [Apple Watch users are getting asked about features, battery life, and use of smart rings](https://appleinsider.com/articles/24/09/04/apple-watch-users-are-getting-asked-about-features-battery-life-and-use-of-smart-rings?utm_medium=rss)
+ - [Impersonators Take Advantage as the Trumps Dawdle Over Crypto Reveal](https://www.wired.com/story/impersonators-take-advantage-as-the-trumps-dawdle-over-crypto-reveal/)
  - [Elon Musk&#39;s attacks on Kamala Harris, including AI-generated images that lack scrutiny from Community Notes, show how he has turned X into a pro-Trump machine &lpar;Donie O&#39;Sullivan/CNN&rpar;](http://www.techmeme.com/240904/p33#a240904p33)
- - [Amazon extends its popular $199 iPad deal into September, but supply may be limited](https://appleinsider.com/articles/24/09/04/amazon-extends-its-popular-199-ipad-deal-into-september-but-supply-may-be-limited?utm_medium=rss)
- - [Acer’s Project DualPlay concept laptop has a pop-out controller](https://www.theverge.com/2024/9/4/24235365/acer-ifa-2024-project-dualplay)
- - [Elon Musk, in an eventually deleted X post, promoted a Tucker Carlson interview with a Hitler apologist who downplayed the Holocaust and said Nazis were humane &lpar;Rhian Lubin/The Independent&rpar;](http://www.techmeme.com/240904/p32#a240904p32)<!-- TECH:END -->
+ - [Amazon extends its popular $199 iPad deal into September, but supply may be limited](https://appleinsider.com/articles/24/09/04/amazon-extends-its-popular-199-ipad-deal-into-september-but-supply-may-be-limited?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

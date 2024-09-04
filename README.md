@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer’s 14-inch laptops claim 24 hours of battery life from Intel, Qualcomm, or AMD](https://www.theverge.com/2024/9/4/24235329/acer-ifa-2024-new-swift-ai-laptops-specs)
- - [‘The Legend of Zelda: Echoes of Wisdom’ Gives the Princess Powers That Link Never Got](https://www.wired.com/story/the-legend-of-zelda-echoes-of-wisdom-early-review/)
- - [Acer’s first handheld gaming PC is the Nitro Blaze](https://www.theverge.com/2024/9/4/24235413/acer-nitro-blaze-7-handheld-gaming-pc-specs)
- - [GoPro’s new flagship Hero 13 Black gets key upgrades and a wide range of lenses](https://www.theverge.com/2024/9/4/24235177/gopro-hero-13-black-10-bit-g-log-upgraded-battery-new-lenses)
- - [Zillow’s upgraded AI search will show you more homes you can’t afford](https://www.theverge.com/2024/9/4/24235154/zillow-chatbot-home-search-commute)<!-- TECH:END -->
+ - [Cortex, which sells an internal developer portal for teams making software, raised $60M from Sequoia, Stripe co-founders, and others, at a $470M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240904/p24#a240904p24)
+ - [You.com, an AI-powered search engine, raised a $50M Series B, bringing its total funding to $99M, and launches &quot;multiplayer AI&quot; features for team collaboration &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240904/p23#a240904p23)
+ - [A Minecraft Movie’s first trailer is equal parts goofy and creepy](https://www.theverge.com/24235698/minecraft-movie-trailer)
+ - [&#39;Civilization VI&#39; finally has native Apple Silicon support](https://appleinsider.com/articles/24/09/04/civilization-vi-finally-has-native-apple-silicon-support?utm_medium=rss)
+ - [Acer’s 14-inch laptops claim 24 hours of battery life from Intel, Qualcomm, or AMD](https://www.theverge.com/2024/9/4/24235329/acer-ifa-2024-new-swift-ai-laptops-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

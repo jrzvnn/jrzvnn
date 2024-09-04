@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
  - [A US court grants X a preliminary injunction against California&#39;s AB 587, which requires disclosure of moderation policies, reversing a lower court decision &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240904/p36#a240904p36)
  - [Lock in the best trade-in value for your used iPhone, Apple Watch ahead of the iPhone 16](https://appleinsider.com/articles/24/09/04/lock-in-the-best-trade-in-value-for-your-used-iphone-apple-watch-ahead-of-the-iphone-16?utm_medium=rss)
  - [Netflix struggles to reduce its productions&#39; carbon footprint, with more emissions in 2022 vs. 2019, partly because it doesn&#39;t own any equipment or studio space &lpar;Michelle Ma/Bloomberg&rpar;](http://www.techmeme.com/240904/p35#a240904p35)
- - [US safety regulators say it’s time to investigate Shein and Temu](https://www.theverge.com/2024/9/4/24235882/shein-temu-safety-commission-investigation-cpsc)
- - [I Found the Best Way to Reheat Pizza and It&#39;s Not the Air Fryer](https://www.cnet.com/how-to/i-tested-5-ways-to-reheat-pizza-and-this-was-the-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US safety regulators say it’s time to investigate Shein and Temu](https://www.theverge.com/2024/9/4/24235882/shein-temu-safety-commission-investigation-cpsc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

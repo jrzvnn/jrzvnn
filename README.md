@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We don&#39;t need a `Jamie bond `?](http://9gag.com/gag/an7j4AE)
  - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 😝 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
- - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 💣 [Grandpa chill](http://9gag.com/gag/aVvM7dv)
  - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 👉 [52 years old and still one of the most disturbing movies ever](http://9gag.com/gag/aE0Bpbp)<!-- MEMES:END -->
+ - 👉 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)<!-- MEMES:END -->
 
 ---
 

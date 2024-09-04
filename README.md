@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro choose the worst possible project to show off](http://9gag.com/gag/aXPvqR9)
- - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [Dedicated to her fans](http://9gag.com/gag/apRQpxD)
- - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
+ - 😝 [France has started operating its 57th nuclear reactor today. The first new one in 25 years. Couldn&#39;t be happier !](http://9gag.com/gag/ary5oep)
+ - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 😝 [Hygiene is priority ?](http://9gag.com/gag/aAyD3Xp)
+ - 👉 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)<!-- MEMES:END -->
 
 ---
 

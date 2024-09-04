@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
- - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 💣 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
  - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
+ - 💣 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 😝 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
+ - 👉 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)<!-- MEMES:END -->
 
 ---
 

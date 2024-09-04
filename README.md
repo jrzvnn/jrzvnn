@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at X&#39;s shrinking clout in Brazil even before the ban; Twitter, the platform now known as X, once dominated Brazilian social media with 40M+ users &lpar;Terrence McCoy/Washington Post&rpar;](http://www.techmeme.com/240904/p5#a240904p5)
  - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)
  - [Financial analysis: Reed O&#39;Connor, a Texas federal judge overseeing X v. Media Matters, has at least three potential connections with Elon Musk-related entities &lpar;Chris Geidner/Law Dork&rpar;](http://www.techmeme.com/240904/p3#a240904p3)
  - [Researchers detail a side channel attack, requiring ~$11K worth of equipment, which can be used to clone all YubiKeys running firmware prior to version 5.7 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240904/p2#a240904p2)
- - [Microsoft says Intel&#39;s Core Ultra 200V and AMD&#39;s Ryzen AI 300 chips will add Copilot+ AI features starting in November 2024, expanding beyond Qualcomm chips &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240904/p1#a240904p1)
- - [The Japanese Robot Controversy Lurking in Israel’s Military Supply Chain](https://www.wired.com/story/japan-fanuc-robots-israel-gaza-war/)<!-- TECH:END -->
+ - [Microsoft says Intel&#39;s Core Ultra 200V and AMD&#39;s Ryzen AI 300 chips will add Copilot+ AI features starting in November 2024, expanding beyond Qualcomm chips &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240904/p1#a240904p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

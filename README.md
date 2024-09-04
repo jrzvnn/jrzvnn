@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The end is the best](http://9gag.com/gag/aBy88WO)
+ - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
+ - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
  - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 💣 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
- - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
+ - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
 
 ---
 

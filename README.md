@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)
+ - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
  - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
- - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 💣 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)
  - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
- - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
+ - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
 
 ---
 

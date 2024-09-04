@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A test of ~1,300 top games on Microsoft&#39;s new Copilot+ PCs finds only about half ran smoothly; Microsoft says some titles with demanding graphics may not play &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/240903/p36#a240903p36)
  - [How to use Apple&#39;s Dictionary app on its own, and in Look Up](https://appleinsider.com/inside/macos/tips/how-to-use-apples-dictionary-app-on-its-own-and-in-look-up?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-4/#ftag=CAD590a51e)
  - [Neko Health, which offers AI-based full-body scans and was co-founded by Daniel Ek and Hjalmar Nilsonne, launches in London, its first city outside Sweden &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240903/p35#a240903p35)
- - [Shure MV7+ microphone review: an excellent midrange workhorse](https://appleinsider.com/articles/24/09/04/shure-mv7-microphone-review-an-excellent-midrange-workhorse?utm_medium=rss)
- - [China-based MiniMax launches video-01, its text-to-video AI model that generates six-second clips with 1280x720 resolution at 25 fps &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240903/p34#a240903p34)
- - [Snapchat is going to put ads next to messages from your friends](https://www.theverge.com/2024/9/3/24235341/snapchat-sponsored-ads-messages-chat-tab-with-friends)<!-- TECH:END -->
+ - [Mattress Firm Labor Day Sale: You Can Still Save on Beds From Serta, Nectar and Purple](https://www.cnet.com/deals/mattress-firm-labor-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

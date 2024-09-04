@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The end is the best](http://9gag.com/gag/aBy88WO)
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
- - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
+ - 😝 [The most accurate hacking scene ever](http://9gag.com/gag/axy00mW)
+ - 😝 [Some people are never happy](http://9gag.com/gag/aAyDdgZ)
+ - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 😝 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
+ - 👉 [This young lad was so proud of the shirt he made for his dad...](http://9gag.com/gag/an7jjPq)<!-- MEMES:END -->
 
 ---
 

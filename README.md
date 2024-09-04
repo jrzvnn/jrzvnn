@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares of Truth Social&#39;s parent TMTG continue to slide, as the expiration date nears for a lockup agreement preventing Trump and others from selling their stock &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/240904/p43#a240904p43)
  - [Nvidia says it has inquired with the US DOJ and hasn&#39;t been subpoenaed, following a report that it had received a subpoena from the DOJ over antitrust concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p42#a240904p42)
  - [Nvidia says it didn&#39;t receive antitrust subpoena from DOJ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240904/p41#a240904p41)
  - [Russia is trying to meddle with the US election again, Biden administration says](https://www.theverge.com/2024/9/4/24235864/russia-influence-disinformation-us-presidential-election)
- - [Best Music Streaming Service of 2024](https://www.cnet.com/tech/services-and-software/best-music-streaming-service/#ftag=CAD590a51e)
- - [Verizon could bring former Fios neighborhoods home by buying Frontier](https://www.theverge.com/2024/9/4/24236069/verizon-frontier-acquisition-fiber-fios-report)<!-- TECH:END -->
+ - [Best Music Streaming Service of 2024](https://www.cnet.com/tech/services-and-software/best-music-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

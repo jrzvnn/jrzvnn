@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 😝 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
+ - 😝 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)
+ - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
  - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
  - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
- - 👉 [Poor guy](http://9gag.com/gag/aE0B2ze)<!-- MEMES:END -->
+ - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
 
 ---
 

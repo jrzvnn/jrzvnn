@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [Grandpa chill](http://9gag.com/gag/aVvM7dv)
- - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 😝 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
+ - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
  - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
+ - 👉 [52 years old and still one of the most disturbing movies ever](http://9gag.com/gag/aE0Bpbp)<!-- MEMES:END -->
 
 ---
 

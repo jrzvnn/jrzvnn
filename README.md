@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix struggles to reduce its productions&#39; carbon footprint, with more emissions in 2022 vs. 2019, partly because it doesn&#39;t own any equipment or studio space &lpar;Michelle Ma/Bloomberg&rpar;](http://www.techmeme.com/240904/p35#a240904p35)
+ - [US safety regulators say it’s time to investigate Shein and Temu](https://www.theverge.com/2024/9/4/24235882/shein-temu-safety-commission-investigation-cpsc)
+ - [I Found the Best Way to Reheat Pizza and It&#39;s Not the Air Fryer](https://www.cnet.com/how-to/i-tested-5-ways-to-reheat-pizza-and-this-was-the-best/#ftag=CAD590a51e)
  - [Microsoft&#39;s Copilot+ gaming fail could be a big Apple Silicon win](https://appleinsider.com/articles/24/09/04/microsofts-copilot-gaming-fail-could-be-a-big-apple-silicon-win?utm_medium=rss)
- - [Asus’ new mini PC has a Copilot AI button on the front for some reason](https://www.theverge.com/2024/9/4/24235910/asus-nuc-14-pro-ai-copilot-button-mini-pc)
- - [Volvo is giving itself another decade before it commits to selling only EVs](https://www.theverge.com/2024/9/4/24235793/volvo-ev-only-sales-deadline-2040-hybrids)
- - [Most iPhone buyers prioritize need over new features in latest upgrades](https://appleinsider.com/articles/24/09/04/most-iphone-buyers-prioritize-need-over-new-features-in-latest-upgrades?utm_medium=rss)
- - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Asus’ new mini PC has a Copilot AI button on the front for some reason](https://www.theverge.com/2024/9/4/24235910/asus-nuc-14-pro-ai-copilot-button-mini-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

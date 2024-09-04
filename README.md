@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
- - 😝 [France has started operating its 57th nuclear reactor today. The first new one in 25 years. Couldn&#39;t be happier !](http://9gag.com/gag/ary5oep)
- - 💣 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
- - 😝 [Hygiene is priority ?](http://9gag.com/gag/aAyD3Xp)
- - 👉 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)<!-- MEMES:END -->
+ - 😝 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
+ - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
 
 ---
 

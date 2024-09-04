@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)
+ - 😝 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
+ - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
  - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 💣 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
  - 👉 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
+ - 😝 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
+ - 💣 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 😝 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
+ - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
 
 ---
 

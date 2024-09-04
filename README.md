@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 😝 [Bro choose the worst possible project to show off](http://9gag.com/gag/aXPvqR9)
  - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
  - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
- - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
+ - 😝 [Dedicated to her fans](http://9gag.com/gag/apRQpxD)
+ - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
+ - 😝 [Best dad ever](http://9gag.com/gag/aZZgyq9)
  - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 💣 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 😝 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
- - 👉 [Poor guy](http://9gag.com/gag/aE0B2ze)<!-- MEMES:END -->
+ - 💣 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
+ - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
+ - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
 
 ---
 

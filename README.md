@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Disney files include personal data of some staff and customers, and show that Disney+ had $2.4B+ revenue in March quarter, or 43% of Disney&#39;s DTC revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240905/p10#a240905p10)
- - [This Slick Dreame Robot Vac Price Plummets by $700 With Our Exclusive Code](https://www.cnet.com/deals/this-slick-dreame-robot-vac-price-plummets-by-700-with-our-exclusive-code/#ftag=CAD590a51e)
- - [YouTube is limiting videos about weight and appearance for teens](https://www.theverge.com/2024/9/5/24236516/youtube-limiting-weight-appearance-video-recommendations-teens)
- - [An adviser to CJEU sides with Italy&#39;s antitrust authority that Google&#39;s refusal to provide third-party access to Android Auto may breach EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240905/p9#a240905p9)
- - [Ravens vs. Chiefs: How to Watch Tonight&#39;s NFL Kickoff Game](https://www.cnet.com/tech/services-and-software/ravens-vs-chiefs-how-to-watch-tonights-nfl-kickoff-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Needs Deepfake Porn Laws. These States Are Leading the Way](https://www.wired.com/story/deepfake-ai-porn-laws/)
+ - [SharkNinja’s latest robot vacuum and mop combo gives itself a big lift to save your rugs](https://www.theverge.com/2024/9/5/24236248/sharkninja-nevertouch-pro-robot-vacuum-mop-stick)
+ - [Meta Oversight Board okays calls for violence against Venezuelan ‘colectivos’](https://www.theverge.com/2024/9/5/24236134/meta-oversight-board-venezuela-elections-colectivos)
+ - [Toyota and BMW are joining forces to push through the hydrogen fuel cell headwinds](https://www.theverge.com/2024/9/5/24235792/toyota-bmw-hydrogen-fuel-cell-vehicle-2028)
+ - [Segway’s first off-road scooter rolls over rough terrain on 11-inch wheels](https://www.theverge.com/2024/9/5/24234848/segway-ninebot-off-road-scooter-zt3-pro-range-speed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

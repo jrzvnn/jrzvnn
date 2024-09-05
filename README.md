@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)
  - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)
  - [The UK&#39;s CMA launches an investigation into whether the sale of Oasis tickets on Ticketmaster breached consumer protection law, including via &quot;dynamic pricing&quot; &lpar;Helen Bushby/BBC&rpar;](http://www.techmeme.com/240905/p25#a240905p25)
- - [Bluetooth SIG releases Bluetooth 6 spec with a Channel Sounding feature to let Find My apps from Apple and others locate items with centimeter-level accuracy &lpar;Ezza Ijaz/Wccftech&rpar;](http://www.techmeme.com/240905/p24#a240905p24)
- - [Asus Zenbook S 16 &lpar;2024&rpar; Review: A Well-Balanced Windows Laptop](https://www.wired.com/review/asus-zenbook-s-16-2024/)<!-- TECH:END -->
+ - [There Are 3 New COVID Vaccines, but the Way You Pay for Them Has Changed. What to Know](https://www.cnet.com/health/medical/there-are-3-new-covid-vaccines-but-the-way-you-pay-for-them-has-changed-what-to-know/#ftag=CAD590a51e)
+ - [Bluetooth SIG releases Bluetooth 6 spec with a Channel Sounding feature to let Find My apps from Apple and others locate items with centimeter-level accuracy &lpar;Ezza Ijaz/Wccftech&rpar;](http://www.techmeme.com/240905/p24#a240905p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

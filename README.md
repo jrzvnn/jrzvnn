@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Great tip!](http://9gag.com/gag/aE0B29G)
  - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 💣 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
- - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
+ - 💣 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
 
 ---
 

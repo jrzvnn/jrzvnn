@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ant Group launches Zhixiaobao, a standalone AI app to let users facilitate daily tasks such as ordering meals and hailing taxis, and access third-party services &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240905/p14#a240905p14)
+ - [Verizon looks to expand Fios with $20 billion purchase of Frontier](https://www.theverge.com/2024/9/5/24236519/verizon-frontier-fiber-network-acquisition-20-billion)
  - [A San Francisco federal judge rules that X must face a class action age bias suit by around 150 older workers who were laid off by the company in 2022 &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240905/p13#a240905p13)
- - [Verizon agrees to buy rival telecom operator Frontier Communications for an enterprise value of $20B; Frontier had a revenue of $5.8B in 2023 &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/240905/p12#a240905p12)
- - [Meta&#39;s Oversight Board rules that users should be allowed to post &quot;aspirational&quot; statements for Venezuelan state-supported paramilitary groups to be killed &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240905/p11#a240905p11)
- - [The US Needs Deepfake Porn Laws. These States Are Leading the Way](https://www.wired.com/story/deepfake-ai-porn-laws/)
- - [SharkNinja’s latest robot vacuum and mop combo gives itself a big lift to save your rugs](https://www.theverge.com/2024/9/5/24236248/sharkninja-nevertouch-pro-robot-vacuum-mop-stick)<!-- TECH:END -->
+ - [We Hunted Hidden Police Signals at the DNC](https://www.wired.com/story/dnc-hidden-signal-hunt/)
+ - [Verizon agrees to buy rival telecom operator Frontier Communications for an enterprise value of $20B; Frontier had a revenue of $5.8B in 2023 &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/240905/p12#a240905p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

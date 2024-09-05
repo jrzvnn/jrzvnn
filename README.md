@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Mythic Quest&#39; star Rob McElhenney brings hope for season 4](https://appleinsider.com/articles/24/09/05/mythic-quest-star-rob-mcelhenney-brings-hope-for-season-4?utm_medium=rss)
  - [As national legislation on deepfake porn crawls through Congress, 39 US states have introduced laws to deter the creation and sharing of nonconsensual deepfakes &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240905/p27#a240905p27)
  - [Snapchat’s ‘disappearing’ messages make it easy for predators to target kids, state lawsuit alleges](https://www.theverge.com/2024/9/5/24236722/snapchat-new-mexico-attorney-general-kids-online-safety-csam)
  - [The Best Paper Notebooks and Journals, Tested and Reviewed &lpar;2024&rpar;: Leuchttherm, Moleskine, Midori](https://www.wired.com/gallery/the-best-paper-notebook-and-journals/)
- - [Flic is ready to control all your Matter devices](https://www.theverge.com/2024/9/5/24236183/flic-matter-controller-hub-lr-mini-twist-smart-buttons)
- - [Google Photos Is Getting a Gemini Infusion to Power Its Search](https://www.wired.com/story/google-photos-ask-photos-gemini/)<!-- TECH:END -->
+ - [Flic is ready to control all your Matter devices](https://www.theverge.com/2024/9/5/24236183/flic-matter-controller-hub-lr-mini-twist-smart-buttons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

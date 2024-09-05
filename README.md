@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkansas-based Laravel, known for its open-source PHP web framework released in June 2011 and which now has 35 employees, raised a $57M Series A from Accel &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240905/p26#a240905p26)
  - [Baldur’s Gate 3 patch adds official in-game mod support](https://www.theverge.com/2024/9/5/24236649/baldurs-gate-3-patch-7-now-live-evil-endings-mod-support)
  - [Lenovo’s concept laptop can unfold itself and turn to face you](https://www.theverge.com/2024/9/5/24235794/lenovo-auto-twist-ai-pc-concept-ifa-2024)
  - [Microsoft to detail OneDrive Copilot, mobile app updates, and more during October event](https://www.theverge.com/2024/9/5/24236680/microsoft-onedrive-october-event-copilot-mobile-photos-updates)
- - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)
- - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

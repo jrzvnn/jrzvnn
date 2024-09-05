@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh hell naw](http://9gag.com/gag/azxqMMp)
- - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
+ - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 😝 [Why are you gaeh??](http://9gag.com/gag/apRQ92B)
+ - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
 
 ---
 

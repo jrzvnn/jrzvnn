@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
  - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 💣 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 💣 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
+ - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---
 

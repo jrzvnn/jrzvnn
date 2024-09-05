@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
  - 😝 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
- - 💣 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
- - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 😝 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
+ - 💣 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 😝 [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
  - 👉 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)<!-- MEMES:END -->
 
 ---

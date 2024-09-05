@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)<!-- MEMES:END -->
+ - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 😝 [The sad truth.](http://9gag.com/gag/an7j7nB)
+ - 💣 [Are you happy?](http://9gag.com/gag/aO8Bxrr)
+ - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
+ - 👉 [Professional at work](http://9gag.com/gag/ajPNVE0)<!-- MEMES:END -->
 
 ---
 

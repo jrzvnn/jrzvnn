@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel announces cancellation of 20A process node for Arrow Lake, goes with external nodes instead, likely TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)
+ - [Intel cancels plans for using its 20A process node for its Arrow Lake processors for the consumer market and will use external nodes instead, likely from TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)
  - [Cybersecurity company Pango Group is acquiring all of Kaspersky&#39;s US customers, or ~1M users, after Commerce Department banned Kaspersky&#39;s software in the US &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240905/p2#a240905p2)
  - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)
  - [YouTube expands its existing parental controls to let parents link their account to their teens&#39; account and gain insight into the teens&#39; activity &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240904/p54#a240904p54)

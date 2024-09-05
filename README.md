@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
+ - [Inside the iPhone&#39;s Dynamic Island: Apple&#39;s Notch Replacement Has Many Uses](https://www.cnet.com/tech/mobile/inside-the-iphones-dynamic-island-apples-notch-replacement-has-many-uses/#ftag=CAD590a51e)
+ - [Anker&#39;s New MagGo Power Banks and Stands Come With Fast Qi2 Charging](https://www.cnet.com/tech/mobile/anker-new-maggo-power-banks-stand-qi2-charging/#ftag=CAD590a51e)
  - [Belkin’s new noise-canceling headphones are just $60](https://www.theverge.com/2024/9/5/24236098/belkin-soundform-wireless-bluetooth-headphones-noise-canceling-anc-over-ear-earbuds)
- - [Anker’s new triple-pad portable wireless charger folds into a cute little puck](https://www.theverge.com/2024/9/5/24236006/anker-3-in-1-maggo-folding-qi2-charger-power-bank-stand-magsafe)
- - [These new smart lights change color based on who is at your front door](https://www.theverge.com/2024/9/5/24235671/anker-eufy-smart-home-ifa-permanent-outdoor-lights-e22-e10)
- - [Belkin’s new foldable Qi2 chargers fill a MagSafe Duo-sized hole](https://www.theverge.com/2024/9/5/24235669/belkin-boostcharge-magnetic-qi2-foldable-chargers-apple-magsafe-duo)<!-- TECH:END -->
+ - [Anker’s new triple-pad portable wireless charger folds into a cute little puck](https://www.theverge.com/2024/9/5/24236006/anker-3-in-1-maggo-folding-qi2-charger-power-bank-stand-magsafe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

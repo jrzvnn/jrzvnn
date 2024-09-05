@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Applied Digital, which leases out data-center space and has started an AI cloud-computing service with Nvidia chips, raised $160M from Nvidia and others &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240905/p17#a240905p17)
- - [Learn Multiple Languages for Just $140 With a Lifetime Babbel Subscription for the Next 4 Days](https://www.cnet.com/deals/learn-multiple-languages-for-just-140-with-a-lifetime-babbel-subscription-for-the-next-four-days/#ftag=CAD590a51e)
- - [New Bluetooth 6 with Find My improvements could arrive on the iPhone 17](https://appleinsider.com/articles/24/09/05/new-bluetooth-6-with-find-my-improvements-could-arrive-on-the-iphone-17?utm_medium=rss)
- - [SpaceX Falcon 9 Rocket Launch Is Imminent: Here&#39;s What to Know About Polaris Dawn](https://www.cnet.com/science/space/spacex-falcon-9-rocket-launch-is-imminent-heres-what-to-know-about-polaris-dawn/#ftag=CAD590a51e)
- - [Smart Home Cheat Sheet: Tips for Amazon Alexa, Google Home and Apple HomeKit](https://www.cnet.com/home/smart-home/smart-home-cheat-sheet-tips-for-amazon-alexa-google-home-and-apple-homekit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We’re getting closer to a robot vacuum that can climb stairs](https://www.theverge.com/2024/9/5/24236509/roborock-qrevo-curv-can-lift-itself-up)
+ - [Honor Magic V3 Review: World&#39;s Thinnest Folding Phone](https://www.wired.com/review/honor-magic-v3/)
+ - [DJI’s $199 Neo selfie-drone is going to be everywhere](https://www.theverge.com/24236503/dji-neo-vs-hoverair-selfie-drone-specs-price-hands-on)
+ - [Twelve South’s new wall plugs have Apple’s Find My functionality built in](https://www.theverge.com/2024/9/5/24225454/twelve-south-plugbug-50-120-charger-apple-airtag-findmy-price-specs)
+ - [Applied Digital, which leases out data-center space and has started an AI cloud-computing service with Nvidia chips, raised $160M from Nvidia and others &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240905/p17#a240905p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

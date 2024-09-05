@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 💣 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 😝 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
+ - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
+ - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
  - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
  - 👉 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)<!-- MEMES:END -->
 

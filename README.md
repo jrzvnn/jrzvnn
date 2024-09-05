@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Philips Hue 8K sync box arrives — for $350](https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date)
- - [Philips Hue launches a new smart lighting solution for the kitchen](https://www.theverge.com/2024/9/5/24236276/philips-hue-nobilia-smart-kitchen-lighting)
- - [Bill Gates has a good feeling about AI](https://www.theverge.com/24235730/bill-gates-ai-climate-change-energy-tech-microsoft-netflix)
- - [The FTC should stop tech companies from bricking their products, consumer groups say](https://www.theverge.com/2024/9/5/24236237/ftc-software-tethering-letter-consumer-reports-ifixit)
- - [Aqara’s smart home voice control system isn’t always listening](https://www.theverge.com/2024/9/5/24235776/aqara-voice-mate-h1-voice-control-device)<!-- TECH:END -->
+ - [Belkin’s new noise-canceling headphones are just $60](https://www.theverge.com/2024/9/5/24236098/belkin-soundform-wireless-bluetooth-headphones-noise-canceling-anc-over-ear-earbuds)
+ - [Anker’s new triple-pad portable wireless charger folds into a cute little puck](https://www.theverge.com/2024/9/5/24236006/anker-3-in-1-maggo-folding-qi2-charger-power-bank-stand-magsafe)
+ - [These new smart lights change color based on who is at your front door](https://www.theverge.com/2024/9/5/24235671/anker-eufy-smart-home-ifa-permanent-outdoor-lights-e22-e10)
+ - [Belkin’s new foldable Qi2 chargers fill a MagSafe Duo-sized hole](https://www.theverge.com/2024/9/5/24235669/belkin-boostcharge-magnetic-qi2-foldable-chargers-apple-magsafe-duo)
+ - [The Philips Hue 8K sync box arrives — for $350](https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pregnant cardiologist says Apple Watch saved her and her baby](https://appleinsider.com/articles/24/09/05/pregnant-cardiologist-says-apple-watch-saved-her-and-her-baby?utm_medium=rss)
- - [New York Cracked Down on Airbnb One Year Ago. NYC Housing Is Still a Mess](https://www.wired.com/story/new-york-city-airbnb-law-one-year-results/)
- - [Das Keyboard MacTigr Review: Sturdy and simple mechanical keyboard](https://appleinsider.com/articles/24/09/05/das-keyboard-mactigr-review-sturdy-and-simple-mechanical-keyboard?utm_medium=rss)
- - [New Mexico&#39;s AG sues Snapchat, alleging it is a &quot;breeding ground&quot; for predators seeking to collect sexually explicit images of children and extort them &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240905/p15#a240905p15)
- - [At Last, Election Deniers Have an App of Their Own](https://www.wired.com/story/election-deniers-vote-alert-app/)<!-- TECH:END -->
+ - [Seriously, Use Encrypted Messaging](https://www.wired.com/story/gadget-lab-podcast-657/)
+ - [TCL’s new Nxtpaper phones have a dedicated button for maximum monochrome](https://www.theverge.com/2024/9/5/24235920/tcl-nxtpaper-50-pro-maximum-ink-mode)
+ - [Honor’s ridiculously thin foldable is another cool phone the US won’t get](https://www.theverge.com/2024/9/5/24235231/honor-magic-v3-thin-foldable-europe-launch)
+ - [xBloom Studio Coffee Machine Review: The Future May Be Closer Than You Think](https://www.wired.com/review/xbloom-studio-coffee-machine/)
+ - [Federal prosecutors charge a man for allegedly using AI to create hundreds of thousands of songs by fake bands to get $10M in royalties from streaming services &lpar;Maia Coleman/New York Times&rpar;](http://www.techmeme.com/240905/p16#a240905p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

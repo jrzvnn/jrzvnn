@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)
  - [YouTube expands its existing parental controls to let parents link their account to their teens&#39; account and gain insight into the teens&#39; activity &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240904/p54#a240904p54)
  - [An analysis of OpenAI&#39;s GPT Store finds 100+ custom GPTs that appear to violate OpenAI&#39;s policies regarding sexual content, legal and medical advice, and more &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240904/p53#a240904p53)
  - [The nonprofit Cosmos Institute launches to cultivate AI technologists &quot;equipped with deep philosophical thinking&quot;, with plans for an AI lab, a VC arm, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p52#a240904p52)
- - [Das Keyboard MacTigr Review: Sturdy and simple mechanical keyboard](https://appleinsider.com/articles/24/09/05/das-keyboard-mactigr-review-sturdy-and-simple-mechanical-keyboard?utm_medium=rss)
- - [Indian bike taxi startup Rapido raised $200M at a $1.1B valuation led by WestBridge and plans to expand its newly launched cab-hailing service &lpar;The Economic Times&rpar;](http://www.techmeme.com/240904/p51#a240904p51)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 5 #452](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-5-452/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

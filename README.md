@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 😝 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
- - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
+ - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 💣 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
+ - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
 
 ---
 

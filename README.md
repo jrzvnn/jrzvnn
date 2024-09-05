@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 😝 [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
+ - 😝 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
+ - 💣 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
  - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
+ - 👉 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)<!-- MEMES:END -->
 
 ---
 

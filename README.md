@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Salesforce agrees to acquire Own Company, which provides data management and protection services, for ~$1.9B in cash; Own was valued at $3.35B as of August 2021 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240905/p37#a240905p37)
  - [Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p36#a240905p36)
+ - [&#39;The Boy and the Heron&#39;: How to Watch the Oscar Winner on Max](https://www.cnet.com/tech/services-and-software/the-boy-and-the-heron-how-to-watch-the-oscar-winner-on-max/#ftag=CAD590a51e)
  - [US and UK sign legally enforceable AI treaty](https://www.theverge.com/2024/9/5/24236980/us-signs-legally-enforceable-ai-treaty)
- - [Why Super Typhoons Like Yagi Are More Common Than You’d Think](https://www.wired.com/story/why-super-typhoons-like-yagi-are-more-common-than-youd-think/)
- - [Broadcom reports Q3 revenue up 47% YoY to $13.07B, vs. $12.96B est., and forecasts Q4 revenue of $14B, vs. $14.13B est.; AVGO drops 7%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240905/p35#a240905p35)<!-- TECH:END -->
+ - [Why Super Typhoons Like Yagi Are More Common Than You’d Think](https://www.wired.com/story/why-super-typhoons-like-yagi-are-more-common-than-youd-think/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

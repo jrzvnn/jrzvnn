@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HitPaw Video Converter for Mac: How good is it?](https://appleinsider.com/articles/24/09/05/hitpaw-video-converter-for-mac-how-good-is-it?utm_medium=rss)
  - [YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p23#a240905p23)
  - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)
  - [OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240905/p22#a240905p22)
- - [The US, UK, EU, and others sign a Council of Europe treaty to ensure that the use of AI is &quot;fully consistent with human rights, democracy and the rule of law&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240905/p21#a240905p21)
- - [Bluetooth 6.0 has more security and precision for tracking and finding](https://www.theverge.com/2024/9/5/24236565/bluetooth-6-security-precision-tracking-finding)<!-- TECH:END -->
+ - [The US, UK, EU, and others sign a Council of Europe treaty to ensure that the use of AI is &quot;fully consistent with human rights, democracy and the rule of law&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240905/p21#a240905p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

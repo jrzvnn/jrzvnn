@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Das Keyboard MacTigr Review: Sturdy and simple mechanical keyboard](https://appleinsider.com/articles/24/09/05/das-keyboard-mactigr-review-sturdy-and-simple-mechanical-keyboard?utm_medium=rss)
  - [Indian bike taxi startup Rapido raised $200M at a $1.1B valuation led by WestBridge and plans to expand its newly launched cab-hailing service &lpar;The Economic Times&rpar;](http://www.techmeme.com/240904/p51#a240904p51)
  - [Seattle-based Revefi, which seeks to automatically detect and troubleshoot companies&#39; data-related issues, raised a $20M Series A led by Icon Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p50#a240904p50)
- - [iPhone 16 Cameras: I&#39;m a Professional Photographer, Here&#39;s What I&#39;m Excited About](https://www.cnet.com/tech/mobile/iphone-16-cameras-im-a-professional-photographer-heres-what-im-excited-about/#ftag=CAD590a51e)
- - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)
- - [How to sideload iOS apps to the iPhone with AltStore](https://appleinsider.com/inside/ios/tips/how-to-sideload-ios-apps-to-the-iphone-with-altstore?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Cameras: I&#39;m a Professional Photographer -- Here&#39;s What I&#39;m Excited About](https://www.cnet.com/tech/mobile/iphone-16-cameras-im-a-professional-photographer-heres-what-im-excited-about/#ftag=CAD590a51e)
+ - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

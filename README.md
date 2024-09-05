@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Amazon Zoox&#39;s command center in Foster City, California, which holds about 36 human technicians who oversee and provide remote assistance to robot taxis &lpar;New York Times&rpar;](http://www.techmeme.com/240905/p5#a240905p5)
+ - [Some tech and crypto firms, and Wyoming rush to launch their own stablecoins to profit from a recovering crypto market, as experts say tokens are of little use &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240905/p4#a240905p4)
  - [Ki is bringing wireless power to kitchen appliances](https://www.theverge.com/2024/9/5/24234822/wireless-charging-ki-kitchen-power-appliance)
  - [Intel cancels plans for using its 20A process node for its Arrow Lake processors for the consumer market and will use external nodes instead, likely from TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)
- - [Cybersecurity company Pango Group is acquiring all of Kaspersky&#39;s US customers, or ~1M users, after Commerce Department banned Kaspersky&#39;s software in the US &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240905/p2#a240905p2)
- - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)
- - [YouTube expands its existing parental controls to let parents link their account to their teens&#39; account and gain insight into the teens&#39; activity &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240904/p54#a240904p54)<!-- TECH:END -->
+ - [Cybersecurity company Pango Group is acquiring all of Kaspersky&#39;s US customers, or ~1M users, after Commerce Department banned Kaspersky&#39;s software in the US &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240905/p2#a240905p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

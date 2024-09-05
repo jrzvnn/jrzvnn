@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
  - [Belkin’s new noise-canceling headphones are just $60](https://www.theverge.com/2024/9/5/24236098/belkin-soundform-wireless-bluetooth-headphones-noise-canceling-anc-over-ear-earbuds)
  - [Anker’s new triple-pad portable wireless charger folds into a cute little puck](https://www.theverge.com/2024/9/5/24236006/anker-3-in-1-maggo-folding-qi2-charger-power-bank-stand-magsafe)
  - [These new smart lights change color based on who is at your front door](https://www.theverge.com/2024/9/5/24235671/anker-eufy-smart-home-ifa-permanent-outdoor-lights-e22-e10)
- - [Belkin’s new foldable Qi2 chargers fill a MagSafe Duo-sized hole](https://www.theverge.com/2024/9/5/24235669/belkin-boostcharge-magnetic-qi2-foldable-chargers-apple-magsafe-duo)
- - [The Philips Hue 8K sync box arrives — for $350](https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date)<!-- TECH:END -->
+ - [Belkin’s new foldable Qi2 chargers fill a MagSafe Duo-sized hole](https://www.theverge.com/2024/9/5/24235669/belkin-boostcharge-magnetic-qi2-foldable-chargers-apple-magsafe-duo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
  - 💣 [Killer Smile](http://9gag.com/gag/a6ZVEKL)
  - 😝 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
- - 👉 [&#39;Snow White&#39; Trailer Hits 1 Million Dislikes On YouTube](http://9gag.com/gag/agmYBnr)<!-- MEMES:END -->
+ - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---
 

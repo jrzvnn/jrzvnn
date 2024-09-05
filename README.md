@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Public demand gets Apple to finally announce Find My for South Korea](https://appleinsider.com/articles/24/09/05/public-demand-gets-apple-to-finally-announce-find-my-for-south-korea?utm_medium=rss)
  - [Ant Group launches Zhixiaobao, a standalone AI app to let users facilitate daily tasks such as ordering meals and hailing taxis, and access third-party services &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240905/p14#a240905p14)
  - [Verizon looks to expand Fios with $20 billion purchase of Frontier](https://www.theverge.com/2024/9/5/24236519/verizon-frontier-fiber-network-acquisition-20-billion)
- - [A San Francisco federal judge rules that X must face a class action age bias suit by around 150 older workers who were laid off by the company in 2022 &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240905/p13#a240905p13)
- - [We Hunted Hidden Police Signals at the DNC](https://www.wired.com/story/dnc-hidden-signal-hunt/)
- - [Verizon agrees to buy rival telecom operator Frontier Communications for an enterprise value of $20B; Frontier had a revenue of $5.8B in 2023 &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/240905/p12#a240905p12)<!-- TECH:END -->
+ - [This Medicare Hack Could Save You Thousand of Dollars a Year](https://www.cnet.com/personal-finance/this-medicare-hack-could-save-you-thousand-of-dollars-a-year/#ftag=CAD590a51e)
+ - [Key Refi Rates Moves Higher: Mortgage Refinance Rates on Sept. 5, 2024](https://www.cnet.com/personal-finance/mortgages/key-refi-rates-moves-higher-mortgage-refinance-rates-on-sept-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
  - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 👉 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)<!-- MEMES:END -->
+ - 💣 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
+ - 😝 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)
+ - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
 
 ---
 

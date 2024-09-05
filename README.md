@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm’s big augmented reality project with Samsung and Google is... glasses](https://www.theverge.com/2024/9/5/24236545/qualcomm-mixed-reality-smart-glasses-google-samsung)
  - [Sources: Huawei and SMIC are struggling with making chips for Huawei&#39;s next flagship Mate 70, due to US restrictions; Huawei was aiming for a September release &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/240905/p20#a240905p20)
  - [DJI unveils Neo, a $200 drone aimed at content creators and casual users with features like palm takeoff, voice control, ActiveTrack, smartphone control, more &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240905/p19#a240905p19)
  - [Lockly&#39;s Zeno smart lock range supports Apple&#39;s Home Key](https://appleinsider.com/articles/24/09/05/locklys-zeno-smart-lock-range-supports-apples-home-key?utm_medium=rss)
- - [PayPal expands into point-of-sale payments in the US by integrating its debit card with Apple Wallet and offering 5% cash back for some products up to $1K/month &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240905/p18#a240905p18)
- - [Swatch x Omega MoonSwatch Now Available Online](https://www.wired.com/story/you-can-finally-buy-a-moonswatch-online/)<!-- TECH:END -->
+ - [PayPal expands into point-of-sale payments in the US by integrating its debit card with Apple Wallet and offering 5% cash back for some products up to $1K/month &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240905/p18#a240905p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

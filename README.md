@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 💣 [Your welcome](http://9gag.com/gag/aNDzpm3)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
+ - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 💣 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 👉 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)<!-- MEMES:END -->
 
 ---
 

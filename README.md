@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Full Self-Driving coming to Cybertruck, and maybe Europe and China](https://www.theverge.com/2024/9/5/24236628/tesla-fsd-full-self-driving-cybertruck-europe-eu-china-launch-regulators)
+ - [The US and allies reveal that the hacker group known as Cadet Blizzard is part of the GRU&#39;s Unit 29155, which is responsible for assassinations in Europe &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240905/p31#a240905p31)
  - [YouTube is making new tools to protect creators from AI copycats](https://www.theverge.com/2024/9/5/24236841/youtube-ai-detection-tools-creators-singing-deepfakes)
  - [FCC filing: Larry Ellison will own 77.5% of Paramount Global parent company National Amusements after his son David completes the purchase of Paramount &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/240905/p30#a240905p30)
- - [Google tests its ‘Ask Photos’ AI assistant that understands what’s in your pictures](https://www.theverge.com/2024/9/5/24236817/google-ask-photos-ai-assistant-test)
- - [DOJ: Russia Aimed Propaganda at Gamers, Minorities to Swing 2024 Election](https://www.wired.com/story/project-good-old-usa-russia-2024-election/)
- - [How to get on Google&#39;s &#39;Ask Photos&#39; waitlist for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-get-on-googles-ask-photos-waitlist-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Google tests its ‘Ask Photos’ AI assistant that understands what’s in your pictures](https://www.theverge.com/2024/9/5/24236817/google-ask-photos-ai-assistant-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

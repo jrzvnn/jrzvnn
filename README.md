@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Philips Hue 8K sync box arrives — for $350](https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date)
+ - [Philips Hue launches a new smart lighting solution for the kitchen](https://www.theverge.com/2024/9/5/24236276/philips-hue-nobilia-smart-kitchen-lighting)
  - [Bill Gates has a good feeling about AI](https://www.theverge.com/24235730/bill-gates-ai-climate-change-energy-tech-microsoft-netflix)
  - [The FTC should stop tech companies from bricking their products, consumer groups say](https://www.theverge.com/2024/9/5/24236237/ftc-software-tethering-letter-consumer-reports-ifixit)
- - [Aqara’s smart home voice control system isn’t always listening](https://www.theverge.com/2024/9/5/24235776/aqara-voice-mate-h1-voice-control-device)
- - [India and Singapore sign a series of deals to ramp up collaboration in semiconductors and digital technologies, including cybersecurity, 5G, AI, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p7#a240905p7)
- - [YouTube begins restricting repeated video recommendations to teens about fitness levels, body weights, or physical features globally, expanding beyond the US &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240905/p6#a240905p6)<!-- TECH:END -->
+ - [Aqara’s smart home voice control system isn’t always listening](https://www.theverge.com/2024/9/5/24235776/aqara-voice-mate-h1-voice-control-device)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

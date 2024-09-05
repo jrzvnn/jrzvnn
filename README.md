@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seriously, Use Encrypted Messaging](https://www.wired.com/story/gadget-lab-podcast-657/)
- - [TCL’s new Nxtpaper phones have a dedicated button for maximum monochrome](https://www.theverge.com/2024/9/5/24235920/tcl-nxtpaper-50-pro-maximum-ink-mode)
- - [Honor’s ridiculously thin foldable is another cool phone the US won’t get](https://www.theverge.com/2024/9/5/24235231/honor-magic-v3-thin-foldable-europe-launch)
- - [xBloom Studio Coffee Machine Review: The Future May Be Closer Than You Think](https://www.wired.com/review/xbloom-studio-coffee-machine/)
- - [Federal prosecutors charge a man for allegedly using AI to create hundreds of thousands of songs by fake bands to get $10M in royalties from streaming services &lpar;Maia Coleman/New York Times&rpar;](http://www.techmeme.com/240905/p16#a240905p16)<!-- TECH:END -->
+ - [Applied Digital, which leases out data-center space and has started an AI cloud-computing service with Nvidia chips, raised $160M from Nvidia and others &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240905/p17#a240905p17)
+ - [Learn Multiple Languages for Just $140 With a Lifetime Babbel Subscription for the Next 4 Days](https://www.cnet.com/deals/learn-multiple-languages-for-just-140-with-a-lifetime-babbel-subscription-for-the-next-four-days/#ftag=CAD590a51e)
+ - [New Bluetooth 6 with Find My improvements could arrive on the iPhone 17](https://appleinsider.com/articles/24/09/05/new-bluetooth-6-with-find-my-improvements-could-arrive-on-the-iphone-17?utm_medium=rss)
+ - [SpaceX Falcon 9 Rocket Launch Is Imminent: Here&#39;s What to Know About Polaris Dawn](https://www.cnet.com/science/space/spacex-falcon-9-rocket-launch-is-imminent-heres-what-to-know-about-polaris-dawn/#ftag=CAD590a51e)
+ - [Smart Home Cheat Sheet: Tips for Amazon Alexa, Google Home and Apple HomeKit](https://www.cnet.com/home/smart-home/smart-home-cheat-sheet-tips-for-amazon-alexa-google-home-and-apple-homekit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

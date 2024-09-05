@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A long-time Minecraft fan&#39;s reaction to the Minecraft movie:](http://9gag.com/gag/aAyDGpZ)
+ - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
+ - 😝 [Good job!](http://9gag.com/gag/a34Mwg1)
+ - 💣 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
  - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 💣 [Killer Smile](http://9gag.com/gag/a6ZVEKL)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
+ - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
 
 ---
 

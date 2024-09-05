@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
- - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
  - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 😝 [Why are you gaeh??](http://9gag.com/gag/apRQ92B)
+ - 😝 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
  - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
 
 ---

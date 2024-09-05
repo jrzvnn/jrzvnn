@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)
- - 😝 [Smart Deer Gets Help from Strangers](http://9gag.com/gag/aZZg0vV)
- - 💣 [Best dad ever](http://9gag.com/gag/aZZgyq9)
- - 😝 [We don&#39;t need a `Jamie bond `?](http://9gag.com/gag/an7j4AE)
- - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/ary5Mz6)<!-- MEMES:END -->
+ - 😝 [Oh hell naw](http://9gag.com/gag/azxqMMp)
+ - 😝 [.. meanwhile](http://9gag.com/gag/aGyeZRG)
+ - 💣 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 😝 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
+ - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---
 

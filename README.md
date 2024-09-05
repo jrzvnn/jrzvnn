@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Osom Products, the phone company founded by ex-Essential employees, is shutting down](https://www.theverge.com/2024/9/5/24236852/essential-phone-osom-company-shutting-down)
- - [Sony might have confirmed the PS5 Pro while it was busy celebrating](https://www.theverge.com/2024/9/5/24236967/sony-ps5-pro-design-leak-image)
- - [Interviews with Marc Benioff and others about Salesforce&#39;s &quot;hard pivot&quot; to Agentforce, a platform for users to build and deploy AI agents in Salesforce apps &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240905/p34#a240905p34)
- - [Spotify wins a long-running, complicated music rights case in US district court, where Eminem publisher Eight Mile Style claimed Spotify lacked proper licenses &lpar;Mark Savage/BBC&rpar;](http://www.techmeme.com/240905/p33#a240905p33)
- - [Apple&#39;s iPhone 16 case covers the new Capture Button, Spigen follows suit](https://appleinsider.com/articles/24/09/05/apples-iphone-16-case-covers-the-new-capture-button-spigen-follows-suit?utm_medium=rss)<!-- TECH:END -->
+ - [YubiKeys Are a Security Gold Standard—but They Can Be Cloned](https://www.wired.com/story/yubikey-vulnerability-cloning/)
+ - [Ugreen’s new Uno chargers have cute emoji faces that change when you charge](https://www.theverge.com/2024/9/5/24225379/ugreen-uno-usb-charger-power-bank-hub-gan-emoji-robots-price-specs)
+ - [Saatva Classic Mattress 2024: An Expert Review of Saatva&#39;s Responsive and Supportive Bed](https://www.cnet.com/health/sleep/saatva-classic-mattress-review/#ftag=CAD590a51e)
+ - [Best Pixel 7 and Pixel 7 Pro Deals: Save Big With Trade-Ins](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
+ - [This $30 Device Waters Your Plants For You. So Is It Worth It?](https://www.cnet.com/home/smart-home/these-30-devices-water-your-plants-for-you-are-they-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

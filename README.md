@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
- - 💣 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 👉 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)<!-- MEMES:END -->
 
 ---
 

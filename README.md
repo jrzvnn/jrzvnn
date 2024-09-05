@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 😝 [Smart Deer Gets Help from Strangers](http://9gag.com/gag/aZZg0vV)
+ - 😝 [Zero](http://9gag.com/gag/apRQgz9)
+ - 💣 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
  - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 💣 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
- - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
- - 👉 [Let them know](http://9gag.com/gag/aW4qgDA)<!-- MEMES:END -->
+ - 👉 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)<!-- MEMES:END -->
 
 ---
 

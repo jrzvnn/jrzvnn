@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 💣 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
+ - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 💣 [Killer Smile](http://9gag.com/gag/a6ZVEKL)
+ - 😝 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
  - 👉 [&#39;Snow White&#39; Trailer Hits 1 Million Dislikes On YouTube](http://9gag.com/gag/agmYBnr)<!-- MEMES:END -->
 
 ---

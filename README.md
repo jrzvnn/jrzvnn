@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 💣 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
  - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 👉 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)<!-- MEMES:END -->
+ - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom reports Q3 revenue up 47% YoY to $13.07B, vs. $12.96B est., and forecasts Q4 revenue of $14B, vs. $14.13B est.; AVGO drops 7%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240905/p35#a240905p35)
  - [YubiKeys Are a Security Gold Standard—but They Can Be Cloned](https://www.wired.com/story/yubikey-vulnerability-cloning/)
  - [Ugreen’s new Uno chargers have cute emoji faces that change when you charge](https://www.theverge.com/2024/9/5/24225379/ugreen-uno-usb-charger-power-bank-hub-gan-emoji-robots-price-specs)
  - [Saatva Classic Mattress 2024: An Expert Review of Saatva&#39;s Responsive and Supportive Bed](https://www.cnet.com/health/sleep/saatva-classic-mattress-review/#ftag=CAD590a51e)
- - [Best Pixel 7 and Pixel 7 Pro Deals: Save Big With Trade-Ins](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
- - [This $30 Device Waters Your Plants For You. So Is It Worth It?](https://www.cnet.com/home/smart-home/these-30-devices-water-your-plants-for-you-are-they-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pixel 7 and Pixel 7 Pro Deals: Save Big With Trade-Ins](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

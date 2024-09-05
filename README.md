@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 😝 [Good job!](http://9gag.com/gag/a34Mwg1)
+ - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
  - 💣 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
  - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
+ - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
 
 ---
 

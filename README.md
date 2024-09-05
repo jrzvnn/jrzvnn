@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 💣 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 💣 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
  - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
  - 👉 [&#39;Snow White&#39; Trailer Hits 1 Million Dislikes On YouTube](http://9gag.com/gag/agmYBnr)<!-- MEMES:END -->
 

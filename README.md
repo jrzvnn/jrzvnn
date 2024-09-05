@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signify upgrades Philips Hue Play HDMI sync box with HDMI 2.1](https://appleinsider.com/articles/24/09/05/signify-upgrades-philips-hue-play-hdmi-sync-box-with-hdmi-21?utm_medium=rss)
- - [Qualcomm’s big augmented reality project with Samsung and Google is... glasses](https://www.theverge.com/2024/9/5/24236545/qualcomm-mixed-reality-smart-glasses-google-samsung)
- - [Sources: Huawei and SMIC are struggling with making chips for Huawei&#39;s next flagship Mate 70, due to US restrictions; Huawei was aiming for a September release &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/240905/p20#a240905p20)
- - [DJI unveils Neo, a $200 drone aimed at content creators and casual users with features like palm takeoff, voice control, ActiveTrack, smartphone control, more &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240905/p19#a240905p19)
- - [Lockly&#39;s Zeno smart lock range supports Apple&#39;s Home Key](https://appleinsider.com/articles/24/09/05/locklys-zeno-smart-lock-range-supports-apples-home-key?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p23#a240905p23)
+ - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)
+ - [OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240905/p22#a240905p22)
+ - [The US, UK, EU, and others sign a Council of Europe treaty to ensure that the use of AI is &quot;fully consistent with human rights, democracy and the rule of law&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240905/p21#a240905p21)
+ - [Bluetooth 6.0 has more security and precision for tracking and finding](https://www.theverge.com/2024/9/5/24236565/bluetooth-6-security-precision-tracking-finding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

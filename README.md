@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US imposes new export controls on critical tech, including quantum computing and semiconductor goods, aligning the US with Japan, Netherlands, other allies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240905/p29#a240905p29)
  - [Apple&#39;s Beats Studio Buds+ gets its first firmware update](https://appleinsider.com/articles/24/09/04/apples-beats-studio-buds-have-received-their-first-firmware-update?utm_medium=rss)
  - [Google rolls out Ask Photos, the Gemini-powered search feature in Google Photos announced at I/O in May 2024, in &quot;early access&quot; to select customers in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p28#a240905p28)
  - [Russia’s Most Notorious Special Forces Unit Now Has Its Own Cyber Warfare Team](https://www.wired.com/story/russia-gru-unit-29155-hacker-team/)
- - [10 years later, Apple Pay is amazing — and about to change](https://www.theverge.com/2024/9/5/24235874/apple-pay-10-years-open-nfc-ios)
- - [&#39;Mythic Quest&#39; star Rob McElhenney brings hope for season 4](https://appleinsider.com/articles/24/09/05/mythic-quest-star-rob-mcelhenney-brings-hope-for-season-4?utm_medium=rss)<!-- TECH:END -->
+ - [10 years later, Apple Pay is amazing — and about to change](https://www.theverge.com/2024/9/5/24235874/apple-pay-10-years-open-nfc-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluetooth SIG releases Bluetooth 6 spec with a Channel Sounding feature to let Find My apps from Apple and others locate items with centimeter-level accuracy &lpar;Ezza Ijaz/Wccftech&rpar;](http://www.techmeme.com/240905/p24#a240905p24)
+ - [Asus Zenbook S 16 &lpar;2024&rpar; Review: A Well-Balanced Windows Laptop](https://www.wired.com/review/asus-zenbook-s-16-2024/)
  - [HitPaw Video Converter for Mac: How good is it?](https://appleinsider.com/articles/24/09/05/hitpaw-video-converter-for-mac-how-good-is-it?utm_medium=rss)
  - [YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p23#a240905p23)
- - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)
- - [OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240905/p22#a240905p22)
- - [The US, UK, EU, and others sign a Council of Europe treaty to ensure that the use of AI is &quot;fully consistent with human rights, democracy and the rule of law&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240905/p21#a240905p21)<!-- TECH:END -->
+ - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

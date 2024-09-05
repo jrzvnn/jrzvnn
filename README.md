@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Microsoft plans to use StopNCII&#39;s hash database to block revenge porn in Bing, joining Facebook, Instagram, TikTok, Snapchat, Reddit, Pornhub, and OnlyFans &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240905/p32#a240905p32)
  - [Incredibly popular &#39;Balatro+&#39; coming to Apple Arcade on September 26](https://appleinsider.com/articles/24/09/05/incredibly-popular-balatro-coming-to-apple-arcade-on-september-26?utm_medium=rss)
  - [Startup accuses Nvidia and Microsoft of infringing on patents and forming a cartel](https://www.theverge.com/2024/9/5/24232414/xockets-accuses-nvidia-microsoft-patent-infringement-antitrust)
- - [Tesla Full Self-Driving coming to Cybertruck and maybe Europe and China](https://www.theverge.com/2024/9/5/24236628/tesla-fsd-full-self-driving-cybertruck-europe-eu-china-launch-regulators)
- - [The US and allies reveal that the hacker group known as Cadet Blizzard is part of the GRU&#39;s Unit 29155, which is responsible for assassinations in Europe &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240905/p31#a240905p31)
- - [YouTube is making new tools to protect creators from AI copycats](https://www.theverge.com/2024/9/5/24236841/youtube-ai-detection-tools-creators-singing-deepfakes)<!-- TECH:END -->
+ - [Tesla Full Self-Driving coming to Cybertruck and maybe Europe and China](https://www.theverge.com/2024/9/5/24236628/tesla-fsd-full-self-driving-cybertruck-europe-eu-china-launch-regulators)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

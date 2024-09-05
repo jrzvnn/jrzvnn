@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart Deer Gets Help from Strangers](http://9gag.com/gag/aZZg0vV)
- - 😝 [Zero](http://9gag.com/gag/apRQgz9)
- - 💣 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
  - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 👉 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)<!-- MEMES:END -->
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 💣 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
 
 ---
 

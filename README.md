@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baldur’s Gate 3 patch adds official in-game mod support](https://www.theverge.com/2024/9/5/24236649/baldurs-gate-3-patch-7-now-live-evil-endings-mod-support)
+ - [Lenovo’s concept laptop can unfold itself and turn to face you](https://www.theverge.com/2024/9/5/24235794/lenovo-auto-twist-ai-pc-concept-ifa-2024)
+ - [Microsoft to detail OneDrive Copilot, mobile app updates, and more during October event](https://www.theverge.com/2024/9/5/24236680/microsoft-onedrive-october-event-copilot-mobile-photos-updates)
  - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)
- - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)
- - [The UK&#39;s CMA launches an investigation into whether the sale of Oasis tickets on Ticketmaster breached consumer protection law, including via &quot;dynamic pricing&quot; &lpar;Helen Bushby/BBC&rpar;](http://www.techmeme.com/240905/p25#a240905p25)
- - [There Are 3 New COVID Vaccines, but the Way You Pay for Them Has Changed. What to Know](https://www.cnet.com/health/medical/there-are-3-new-covid-vaccines-but-the-way-you-pay-for-them-has-changed-what-to-know/#ftag=CAD590a51e)
- - [Bluetooth SIG releases Bluetooth 6 spec with a Channel Sounding feature to let Find My apps from Apple and others locate items with centimeter-level accuracy &lpar;Ezza Ijaz/Wccftech&rpar;](http://www.techmeme.com/240905/p24#a240905p24)<!-- TECH:END -->
+ - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

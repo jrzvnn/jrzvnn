@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Disney files include personal data of some staff and customers, and show that Disney+ had $2.4B+ revenue in March quarter, or 43% of Disney&#39;s DTC revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240905/p10#a240905p10)
+ - [This Slick Dreame Robot Vac Price Plummets by $700 With Our Exclusive Code](https://www.cnet.com/deals/this-slick-dreame-robot-vac-price-plummets-by-700-with-our-exclusive-code/#ftag=CAD590a51e)
  - [YouTube is limiting videos about weight and appearance for teens](https://www.theverge.com/2024/9/5/24236516/youtube-limiting-weight-appearance-video-recommendations-teens)
  - [An adviser to CJEU sides with Italy&#39;s antitrust authority that Google&#39;s refusal to provide third-party access to Android Auto may breach EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240905/p9#a240905p9)
- - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
- - [Inside the iPhone&#39;s Dynamic Island: Apple&#39;s Notch Replacement Has Many Uses](https://www.cnet.com/tech/mobile/inside-the-iphones-dynamic-island-apples-notch-replacement-has-many-uses/#ftag=CAD590a51e)
- - [Anker&#39;s New MagGo Power Banks and Stands Come With Fast Qi2 Charging](https://www.cnet.com/tech/mobile/anker-new-maggo-power-banks-stand-qi2-charging/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ravens vs. Chiefs: How to Watch Tonight&#39;s NFL Kickoff Game](https://www.cnet.com/tech/services-and-software/ravens-vs-chiefs-how-to-watch-tonights-nfl-kickoff-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

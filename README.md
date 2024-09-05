@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seattle-based Revefi, which seeks to automatically detect and troubleshoot companies&#39; data-related issues, raised a $20M Series A led by Icon Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p50#a240904p50)
  - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)
  - [How to sideload iOS apps to the iPhone with AltStore](https://appleinsider.com/inside/ios/tips/how-to-sideload-ios-apps-to-the-iphone-with-altstore?utm_medium=rss)
- - [National Novel Writing Month Faces Controversy Over AI Issues](https://www.cnet.com/tech/services-and-software/national-novel-writing-month-faces-controversy-over-ai-issues/#ftag=CAD590a51e)
- - [The US DOJ seizes 32 internet domains used in Russian influence campaigns, as part of efforts to tackle Russian interference in the 2024 US elections &lpar;CNN&rpar;](http://www.techmeme.com/240904/p48#a240904p48)
- - [Apple&#39;s Beats Studio Buds+ have received their first firmware update](https://appleinsider.com/articles/24/09/04/apples-beats-studio-buds-have-received-their-first-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Phone to Buy in 2024](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)
+ - [National Novel Writing Month Faces Controversy Over AI Issues](https://www.cnet.com/tech/services-and-software/national-novel-writing-month-faces-controversy-over-ai-issues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

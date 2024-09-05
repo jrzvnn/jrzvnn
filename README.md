@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh hell naw](http://9gag.com/gag/azxqMMp)
+ - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
  - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 💣 [Killer Smile](http://9gag.com/gag/a6ZVEKL)
- - 😝 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
- - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
+ - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
 
 ---
 

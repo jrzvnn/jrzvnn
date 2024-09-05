@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this?](http://9gag.com/gag/a7oD3vq)
- - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
- - 💣 [Your welcome](http://9gag.com/gag/aNDzpm3)
- - 😝 [Demonstrating the Heimlich maneuver](http://9gag.com/gag/ary5GV5)
- - 👉 [This Cod map looks fire to be honest](http://9gag.com/gag/aMVAKQ6)<!-- MEMES:END -->
+ - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 💣 [I wouldn&#39;t come too close to a legendary gator like this. Give him a name.](http://9gag.com/gag/azxq9QB)
+ - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---
 

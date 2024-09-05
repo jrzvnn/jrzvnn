@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - 😝 [`How dare all these men with all their fantaisies of *check notes* saving lives` damn toxic masculinity!!!](http://9gag.com/gag/ayNxoK8)
  - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 💣 [Lol :D...](http://9gag.com/gag/a7oDEAm)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
- - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
+ - 💣 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
+ - 😝 [Killer Smile](http://9gag.com/gag/a6ZVEKL)
+ - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
 
 ---
 

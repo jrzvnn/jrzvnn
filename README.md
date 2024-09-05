@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Public demand gets Apple to finally announce Find My for South Korea](https://appleinsider.com/articles/24/09/05/public-demand-gets-apple-to-finally-announce-find-my-for-south-korea?utm_medium=rss)
- - [Ant Group launches Zhixiaobao, a standalone AI app to let users facilitate daily tasks such as ordering meals and hailing taxis, and access third-party services &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240905/p14#a240905p14)
- - [Verizon looks to expand Fios with $20 billion purchase of Frontier](https://www.theverge.com/2024/9/5/24236519/verizon-frontier-fiber-network-acquisition-20-billion)
- - [This Medicare Hack Could Save You Thousand of Dollars a Year](https://www.cnet.com/personal-finance/this-medicare-hack-could-save-you-thousand-of-dollars-a-year/#ftag=CAD590a51e)
- - [Key Refi Rates Moves Higher: Mortgage Refinance Rates on Sept. 5, 2024](https://www.cnet.com/personal-finance/mortgages/key-refi-rates-moves-higher-mortgage-refinance-rates-on-sept-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Das Keyboard MacTigr Review: Sturdy and simple mechanical keyboard](https://appleinsider.com/articles/24/09/05/das-keyboard-mactigr-review-sturdy-and-simple-mechanical-keyboard?utm_medium=rss)
+ - [New Mexico&#39;s AG sues Snapchat, alleging it is a &quot;breeding ground&quot; for predators seeking to collect sexually explicit images of children and extort them &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240905/p15#a240905p15)
+ - [How the Cyber-Thriller ‘Red Rooms’ Became a Cult Classic Before It Was Ever Released](https://www.wired.com/story/red-rooms-cult-classic-piracy/)
+ - [At Last, Election Deniers Have an App of Their Own](https://www.wired.com/story/election-deniers-vote-alert-app/)
+ - [Public demand gets Apple to finally announce Find My for South Korea](https://appleinsider.com/articles/24/09/05/public-demand-gets-apple-to-finally-announce-find-my-for-south-korea?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

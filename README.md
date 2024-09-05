@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
- - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 💣 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 👉 [`How dare all these men with all their fantaisies of *check notes* saving lives` damn toxic masculinity!!!](http://9gag.com/gag/ayNxoK8)<!-- MEMES:END -->
+ - 😝 [What is this?](http://9gag.com/gag/a7oD3vq)
+ - 😝 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 💣 [Your welcome](http://9gag.com/gag/aNDzpm3)
+ - 😝 [Demonstrating the Heimlich maneuver](http://9gag.com/gag/ary5GV5)
+ - 👉 [This Cod map looks fire to be honest](http://9gag.com/gag/aMVAKQ6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
- - 😝 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
- - 💣 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
- - 👉 [Are you happy?](http://9gag.com/gag/aO8Bxrr)<!-- MEMES:END -->
+ - 😝 [Picnic time](http://9gag.com/gag/a2v479D)
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 💣 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 👉 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)<!-- MEMES:END -->
 
 ---
 

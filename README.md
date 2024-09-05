@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
  - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
  - 😝 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
- - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
+ - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
 
 ---
 

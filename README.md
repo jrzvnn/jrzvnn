@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 💣 [Lol :D...](http://9gag.com/gag/a7oDEAm)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
+ - 😝 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
+ - 😝 [Lol :D...](http://9gag.com/gag/a7oDEAm)
+ - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 😝 [Shooting in Munich. Suspect was shot. He wanted to break into the Israeli consulate](http://9gag.com/gag/aXPvnK9)
  - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---

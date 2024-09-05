@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)
+ - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)
+ - [The UK&#39;s CMA launches an investigation into whether the sale of Oasis tickets on Ticketmaster breached consumer protection law, including via &quot;dynamic pricing&quot; &lpar;Helen Bushby/BBC&rpar;](http://www.techmeme.com/240905/p25#a240905p25)
  - [Bluetooth SIG releases Bluetooth 6 spec with a Channel Sounding feature to let Find My apps from Apple and others locate items with centimeter-level accuracy &lpar;Ezza Ijaz/Wccftech&rpar;](http://www.techmeme.com/240905/p24#a240905p24)
- - [Asus Zenbook S 16 &lpar;2024&rpar; Review: A Well-Balanced Windows Laptop](https://www.wired.com/review/asus-zenbook-s-16-2024/)
- - [HitPaw Video Converter for Mac: How good is it?](https://appleinsider.com/articles/24/09/05/hitpaw-video-converter-for-mac-how-good-is-it?utm_medium=rss)
- - [YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p23#a240905p23)
- - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)<!-- TECH:END -->
+ - [Asus Zenbook S 16 &lpar;2024&rpar; Review: A Well-Balanced Windows Laptop](https://www.wired.com/review/asus-zenbook-s-16-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

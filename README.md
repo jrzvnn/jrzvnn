@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel announces cancellation of 20A process node for Arrow Lake, goes with external nodes instead, likely TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)
  - [Cybersecurity company Pango Group is acquiring all of Kaspersky&#39;s US customers, or ~1M users, after Commerce Department banned Kaspersky&#39;s software in the US &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240905/p2#a240905p2)
  - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)
  - [YouTube expands its existing parental controls to let parents link their account to their teens&#39; account and gain insight into the teens&#39; activity &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240904/p54#a240904p54)
- - [An analysis of OpenAI&#39;s GPT Store finds 100+ custom GPTs that appear to violate OpenAI&#39;s policies regarding sexual content, legal and medical advice, and more &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240904/p53#a240904p53)
- - [The nonprofit Cosmos Institute launches to cultivate AI technologists &quot;equipped with deep philosophical thinking&quot;, with plans for an AI lab, a VC arm, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p52#a240904p52)<!-- TECH:END -->
+ - [An analysis of OpenAI&#39;s GPT Store finds 100+ custom GPTs that appear to violate OpenAI&#39;s policies regarding sexual content, legal and medical advice, and more &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240904/p53#a240904p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

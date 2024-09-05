@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pregnant cardiologist says Apple Watch saved her and her baby](https://appleinsider.com/articles/24/09/05/pregnant-cardiologist-says-apple-watch-saved-her-and-her-baby?utm_medium=rss)
+ - [New York Cracked Down on Airbnb One Year Ago. NYC Housing Is Still a Mess](https://www.wired.com/story/new-york-city-airbnb-law-one-year-results/)
  - [Das Keyboard MacTigr Review: Sturdy and simple mechanical keyboard](https://appleinsider.com/articles/24/09/05/das-keyboard-mactigr-review-sturdy-and-simple-mechanical-keyboard?utm_medium=rss)
  - [New Mexico&#39;s AG sues Snapchat, alleging it is a &quot;breeding ground&quot; for predators seeking to collect sexually explicit images of children and extort them &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240905/p15#a240905p15)
- - [How the Cyber-Thriller ‘Red Rooms’ Became a Cult Classic Before It Was Ever Released](https://www.wired.com/story/red-rooms-cult-classic-piracy/)
- - [At Last, Election Deniers Have an App of Their Own](https://www.wired.com/story/election-deniers-vote-alert-app/)
- - [Public demand gets Apple to finally announce Find My for South Korea](https://appleinsider.com/articles/24/09/05/public-demand-gets-apple-to-finally-announce-find-my-for-south-korea?utm_medium=rss)<!-- TECH:END -->
+ - [At Last, Election Deniers Have an App of Their Own](https://www.wired.com/story/election-deniers-vote-alert-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

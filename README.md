@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
- - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 💣 [I wouldn&#39;t come too close to a legendary gator like this. Give him a name.](http://9gag.com/gag/azxq9QB)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
+ - 😝 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)
+ - 😝 [Smart Deer Gets Help from Strangers](http://9gag.com/gag/aZZg0vV)
+ - 💣 [Best dad ever](http://9gag.com/gag/aZZgyq9)
+ - 😝 [We don&#39;t need a `Jamie bond `?](http://9gag.com/gag/an7j4AE)
+ - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/ary5Mz6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube begins restricting repeated video recommendations to teens about fitness levels, body weights, or physical features globally, expanding beyond the US &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240905/p6#a240905p6)
- - [Inside Amazon Zoox&#39;s command center in Foster City, California, which holds about 36 human technicians who oversee and provide remote assistance to robot taxis &lpar;New York Times&rpar;](http://www.techmeme.com/240905/p5#a240905p5)
- - [Some tech and crypto firms, and Wyoming rush to launch their own stablecoins to profit from a recovering crypto market, as experts say tokens are of little use &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240905/p4#a240905p4)
- - [Ki is bringing wireless power to kitchen appliances](https://www.theverge.com/2024/9/5/24234822/wireless-charging-ki-kitchen-power-appliance)
- - [Intel cancels plans for using its 20A process node for its Arrow Lake processors for the consumer market and will use external nodes instead, likely from TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)<!-- TECH:END -->
+ - [Bill Gates has a good feeling about AI](https://www.theverge.com/24235730/bill-gates-ai-climate-change-energy-tech-microsoft-netflix)
+ - [The FTC should stop tech companies from bricking their products, consumer groups say](https://www.theverge.com/2024/9/5/24236237/ftc-software-tethering-letter-consumer-reports-ifixit)
+ - [Aqara’s smart home voice control system isn’t always listening](https://www.theverge.com/2024/9/5/24235776/aqara-voice-mate-h1-voice-control-device)
+ - [India and Singapore sign a series of deals to ramp up collaboration in semiconductors and digital technologies, including cybersecurity, 5G, AI, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p7#a240905p7)
+ - [YouTube begins restricting repeated video recommendations to teens about fitness levels, body weights, or physical features globally, expanding beyond the US &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240905/p6#a240905p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

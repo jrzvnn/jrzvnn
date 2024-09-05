@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)
  - [Qualcomm CEO Cristiano Amon says the company is working with Samsung and Google on a mixed-reality set of smart glasses linked to a smartphone &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240905/p38#a240905p38)
- - [Salesforce agrees to acquire Own Company, which provides data management and protection services, for ~$1.9B in cash; Own was valued at $3.35B as of August 2021 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240905/p37#a240905p37)
- - [Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p36#a240905p36)
- - [&#39;The Boy and the Heron&#39;: How to Watch the Oscar Winner on Max](https://www.cnet.com/tech/services-and-software/the-boy-and-the-heron-how-to-watch-the-oscar-winner-on-max/#ftag=CAD590a51e)
- - [US and UK sign legally enforceable AI treaty](https://www.theverge.com/2024/9/5/24236980/us-signs-legally-enforceable-ai-treaty)<!-- TECH:END -->
+ - [Best USB-C Monitor Deals: Score Discounts on Samsung, LG, Dell and More](https://www.cnet.com/deals/best-usb-c-monitor-deals-score-discounts-on-samsung-asus-dell-and-more/#ftag=CAD590a51e)
+ - [Ravens vs. Chiefs: How to Watch Tonight&#39;s NFL Kickoff Game](https://www.cnet.com/tech/services-and-software/ravens-vs-chiefs-how-to-watch-tonights-nfl-kickoff-game/#ftag=CAD590a51e)
+ - [Abbott&#39;s Blood Sugar Sensor for People Without Diabetes Now Available for Sale](https://www.cnet.com/health/medical/abbotts-blood-sugar-sensor-for-people-without-diabetes-now-available-for-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

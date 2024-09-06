@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adani Group and Tower Semiconductor plan to invest around $10B for a chip plant in Maharashtra, India; the plant will initially have a capacity of 40K wafers &lpar;Reuters&rpar;](http://www.techmeme.com/240906/p6#a240906p6)
  - [Airbnb says New York City&#39;s law on short-term rentals has had &quot;predictable&quot; outcomes one year later, as rent prices remain high and housing availability low &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/240906/p5#a240906p5)
  - [Election 2024: How to Find Out What&#39;s on Your Ballot This Year](https://www.cnet.com/news/politics/election-2024-how-to-find-out-whats-on-your-ballot-this-year/#ftag=CAD590a51e)
  - [Reolink&#39;s New Wireless Atlas Camera Won&#39;t Quit With 4K Continuous Recording](https://www.cnet.com/home/security/reolinks-new-wireless-atlas-camera-wont-quit-with-4k-continuous-recording/#ftag=CAD590a51e)
- - [Reolink’s battery-powered security camera can record for days without subscription fees](https://www.theverge.com/2024/9/6/24235858/reolink-atlas-pt-ultra-security-camera-battery-smart-home-doorbell)
- - [Hisense TVs can now sync with these smart lights — no additional hardware required](https://www.theverge.com/2024/9/6/24236752/hisense-tvs-now-sync-yeelight-smart-lights)<!-- TECH:END -->
+ - [Reolink’s battery-powered security camera can record for days without subscription fees](https://www.theverge.com/2024/9/6/24235858/reolink-atlas-pt-ultra-security-camera-battery-smart-home-doorbell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

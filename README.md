@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 💣 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
- - 😝 [A guy in Prague harasses and slaps a pregnant woman but justice soon follows](http://9gag.com/gag/abAzeE8)
- - 👉 [I never knew this was the origin.](http://9gag.com/gag/aRBj4QQ)<!-- MEMES:END -->
+ - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
+ - 😝 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
+ - 💣 [I never knew this was the origin.](http://9gag.com/gag/aRBj4QQ)
+ - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
+ - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
 
 ---
 

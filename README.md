@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Coinbase’s no-good, very bad summer](https://www.theverge.com/2024/9/6/24237697/coinbases-lawsuits-regulation-stock)
  - [Google Pixel 9 Pro Fold review: in great shape](https://www.theverge.com/24237586/google-pixel-9-pro-fold-review-screen-camera-battery)
- - [New AI Model Can Simulate &#39;Super Mario Bros.&#39; After Watching Gameplay Footage](https://www.wired.com/story/new-ai-model-can-simulate-super-mario-bros-after-watching-gameplay-footage/)
+ - [New AI Model Can Simulate ‘Super Mario Bros.’ After Watching Gameplay Footage](https://www.wired.com/story/new-ai-model-can-simulate-super-mario-bros-after-watching-gameplay-footage/)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [What Cancún’s Tourists Don’t See Is a Sprawling Concrete Jungle](https://www.wired.com/story/the-inequality-of-cancun-that-tourists-dont-see/)<!-- TECH:END -->
 

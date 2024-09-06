@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
- - 😝 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 😝 [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)
  - 💣 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
  - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
+ - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
  - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)
  - [Mangomint, which makes software for salon and spa operations, raised a $35M Series B led by Altos Ventures and says it has processed $1B+ in transactions &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240906/p23#a240906p23)
  - [The judge in the Google monopoly ruling says he&#39;ll take until August 2025 to determine remedies in the case and asks the DOJ to propose fixes by the end of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240906/p22#a240906p22)
- - [Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240906/p21#a240906p21)
- - [WhatsApp will send messages to other apps soon — here’s how it will look](https://www.theverge.com/2024/9/6/24237753/whatsapp-messenger-third-party-chat-eu-dma)<!-- TECH:END -->
+ - [Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240906/p21#a240906p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

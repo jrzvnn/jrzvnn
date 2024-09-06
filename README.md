@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta plans to enable group chats between WhatsApp/Messenger and third-party apps in 2025 and voice and video calling with such apps in 2027, to comply with DMA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240906/p19#a240906p19)
  - [Here’s What Right-Wing Influencers Actually Talked About in Tenet Media Videos Allegedly Financed by Russia](https://www.wired.com/story/influencers-tenet-benny-johnson-tim-pool-russia-propaganda-videos/)
  - [Replit launches Replit Agent, an AI agent that can build entire apps from scratch based on prompts, available in beta to Replit Core and Teams subscribers &lpar;Chris McKay/Maginative&rpar;](http://www.techmeme.com/240906/p18#a240906p18)
  - [Roblox plans to let creators keep 50% to 70% of revenue when their titles are purchased in real currency on desktop computers vs. 30% for purchases with Robux &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240906/p17#a240906p17)
- - [GoPro Hero 13 Black review: Big changes come for the popular action cam](https://appleinsider.com/articles/24/09/06/gopro-hero-13-black-review-big-changes-come-for-the-popular-action-cam?utm_medium=rss)
- - [Sources: US private equity group TPG is in talks to buy a stake in Europe&#39;s largest secondhand fashion site Vinted at a &amp;euro;5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240906/p16#a240906p16)<!-- TECH:END -->
+ - [GoPro Hero 13 Black review: Big changes come for the popular action cam](https://appleinsider.com/articles/24/09/06/gopro-hero-13-black-review-big-changes-come-for-the-popular-action-cam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

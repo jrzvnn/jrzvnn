@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram radically alters its stance on &quot;illegal&quot; use of its platform by letting users in private chats &quot;flag illegal content&quot; for review by its moderators &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240905/p41#a240905p41)
+ - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)
+ - [Pavel Durov calls his arrest by French authorities &quot;misguided&quot; and denies Telegram is an &quot;anarchic paradise&quot;, in his first public comments since the detention &lpar;The Guardian&rpar;](http://www.techmeme.com/240905/p40#a240905p40)
  - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)
- - [Qualcomm CEO Cristiano Amon says the company is working with Samsung and Google on a mixed-reality set of smart glasses linked to a smartphone &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240905/p38#a240905p38)
- - [Best USB-C Monitor Deals: Score Discounts on Samsung, LG, Dell and More](https://www.cnet.com/deals/best-usb-c-monitor-deals-score-discounts-on-samsung-asus-dell-and-more/#ftag=CAD590a51e)
- - [Ravens vs. Chiefs: How to Watch Tonight&#39;s NFL Kickoff Game](https://www.cnet.com/tech/services-and-software/ravens-vs-chiefs-how-to-watch-tonights-nfl-kickoff-game/#ftag=CAD590a51e)
- - [Abbott&#39;s Blood Sugar Sensor for People Without Diabetes Now Available for Sale](https://www.cnet.com/health/medical/abbotts-blood-sugar-sensor-for-people-without-diabetes-now-available-for-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best TV Sales: Super Savings to Maximize Your Home Cinema Experience](https://www.cnet.com/deals/best-tv-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

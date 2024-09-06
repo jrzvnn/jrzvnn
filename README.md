@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240906/p21#a240906p21)
+ - [WhatsApp will send messages to other apps soon — here’s how it will look](https://www.theverge.com/2024/9/6/24237753/whatsapp-messenger-third-party-chat-eu-dma)
  - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)
  - [HyperWrite CEO unveils Reflection 70B, based on Llama 3.1 70B Instruct and trained using reflection-tuning, and says it beats GPT-4o in all benchmarks tested &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240906/p20#a240906p20)
- - [AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors](https://www.theverge.com/2024/9/6/24237735/amd-z2-extreme-gaming-handheld-pc-chip)
- - [Anker’s new 100W charger is almost as small as your AirPods](https://www.theverge.com/2024/9/6/24237701/anker-nano-charger-usb-c)
- - [Coinbase’s no-good, very bad summer](https://www.theverge.com/2024/9/6/24237697/coinbases-lawsuits-regulation-stock)<!-- TECH:END -->
+ - [Chase Ink Business Unlimited Credit Card: Earn an Unlimited 1.5% Cash Back on All Spending](https://www.cnet.com/personal-finance/chase-ink-business-unlimited-credit-card-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

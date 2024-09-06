@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 😝 [`Do you like the stars?`](http://9gag.com/gag/azxqmjm)
+ - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
  - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 👉 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)<!-- MEMES:END -->
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
 
 ---
 

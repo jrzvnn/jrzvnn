@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Do you like the stars?`](http://9gag.com/gag/azxqmjm)
  - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
- - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 💣 [Good job!](http://9gag.com/gag/a34Mwg1)
+ - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
+ - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
 
 ---
 

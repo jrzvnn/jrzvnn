@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
- - 💣 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
- - 😝 [Scary spider\u2026where ?](http://9gag.com/gag/avy7WMb)
- - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
+ - 😝 [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)
+ - 😝 [The resemblance is uncanny](http://9gag.com/gag/aGyeL67)
+ - 💣 [90.](http://9gag.com/gag/awyQyD4)
+ - 😝 [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
+ - 👉 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)<!-- MEMES:END -->
 
 ---
 

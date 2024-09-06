@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 💣 [Good job!](http://9gag.com/gag/a34Mwg1)
- - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
+ - 😝 [Are you happy?](http://9gag.com/gag/aO8Bxrr)
+ - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 💣 [The sad truth.](http://9gag.com/gag/an7j7nB)
+ - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
+ - 👉 [Professional at work](http://9gag.com/gag/ajPNVE0)<!-- MEMES:END -->
 
 ---
 

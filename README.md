@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase’s no-good, very bad summer](https://www.theverge.com/2024/9/6/24237697/coinbases-lawsuits-regulation-stock)
+ - [Google Pixel 9 Pro Fold review: in great shape](https://www.theverge.com/24237586/google-pixel-9-pro-fold-review-screen-camera-battery)
+ - [New AI Model Can Simulate &#39;Super Mario Bros.&#39; After Watching Gameplay Footage](https://www.wired.com/story/new-ai-model-can-simulate-super-mario-bros-after-watching-gameplay-footage/)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [What Cancún’s Tourists Don’t See Is a Sprawling Concrete Jungle](https://www.wired.com/story/the-inequality-of-cancun-that-tourists-dont-see/)
- - [Meta plans to enable group chats between WhatsApp/Messenger and third-party apps in 2025 and voice and video calling with such apps in 2027, to comply with DMA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240906/p19#a240906p19)
- - [What Ring-Wing Influencers Actually Said in Those Tenet Media Videos](https://www.wired.com/story/influencers-tenet-benny-johnson-tim-pool-russia-propaganda-videos/)
- - [Replit launches Replit Agent, an AI agent that can build entire apps from scratch based on prompts, available in beta to Replit Core and Teams subscribers &lpar;Chris McKay/Maginative&rpar;](http://www.techmeme.com/240906/p18#a240906p18)<!-- TECH:END -->
+ - [What Cancún’s Tourists Don’t See Is a Sprawling Concrete Jungle](https://www.wired.com/story/the-inequality-of-cancun-that-tourists-dont-see/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

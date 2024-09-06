@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)
- - 😝 [You don&#39;t hate Concord enough, so glad it flopped](http://9gag.com/gag/abAz1Op)
- - 💣 [90.](http://9gag.com/gag/awyQyD4)
- - 😝 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
- - 👉 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/ary5WYV)
+ - 😝 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 💣 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
+ - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
+ - 👉 [Bet she&#39;s great fun at parties!](http://9gag.com/gag/aNDzLvK)<!-- MEMES:END -->
 
 ---
 

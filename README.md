@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)
- - [Adani Group and Tower Semiconductor plan to invest ~$10B for a chip plant in Maharashtra, India; the plant will have an initial capacity of 40K wafers per month &lpar;Reuters&rpar;](http://www.techmeme.com/240906/p6#a240906p6)
- - [Airbnb says New York City&#39;s law on short-term rentals has had &quot;predictable&quot; outcomes one year later, as rent prices remain high and housing availability low &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/240906/p5#a240906p5)
- - [Election 2024: How to Find Out What&#39;s on Your Ballot This Year](https://www.cnet.com/news/politics/election-2024-how-to-find-out-whats-on-your-ballot-this-year/#ftag=CAD590a51e)
- - [Reolink&#39;s New Wireless Atlas Camera Won&#39;t Quit With 4K Continuous Recording](https://www.cnet.com/home/security/reolinks-new-wireless-atlas-camera-wont-quit-with-4k-continuous-recording/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Could AI and Deepfakes Sway the US Election?](https://www.wired.com/story/deepfake-porn-election/)
+ - [Elon Musk Has Backed Himself Into a Corner in Brazil](https://www.wired.com/story/x-starlink-brazil-suspension-musk/)
+ - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)
+ - [The UK CMA objects to Google&#39;s ad tech practices, says Google harms competition by using its online display ad dominance &quot;to favour its own ad tech services&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240906/p7#a240906p7)
+ - [DirecTV Viewers Without Disney and ESPN Might Not Get Them Back Anytime Soon](https://www.cnet.com/tech/services-and-software/directv-viewers-without-disney-and-espn-might-not-get-them-back-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

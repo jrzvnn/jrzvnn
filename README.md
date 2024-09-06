@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
- - 😝 [Thinking outside the box](http://9gag.com/gag/avy7eGq)
- - 💣 [Let them know](http://9gag.com/gag/aW4qgDA)
- - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
+ - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
+ - 😝 [I am developing my own game](http://9gag.com/gag/a4PGP61)
+ - 💣 [W.C.](http://9gag.com/gag/a34MAGQ)
+ - 😝 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)
+ - 👉 [Even the Instrument didn&#39;t know what happened](http://9gag.com/gag/axy0ywK)<!-- MEMES:END -->
 
 ---
 

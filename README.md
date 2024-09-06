@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The resemblance is uncanny](http://9gag.com/gag/aGyeL67)
- - 😝 [I really want this](http://9gag.com/gag/a6ZVXom)
- - 💣 [90.](http://9gag.com/gag/awyQyD4)
- - 😝 [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
- - 👉 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)<!-- MEMES:END -->
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 💣 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 👉 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)<!-- MEMES:END -->
 
 ---
 

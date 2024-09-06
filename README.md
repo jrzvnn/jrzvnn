@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Boeing Starliner’s strange test flight is finally returning to Earth, but it’s empty](https://www.theverge.com/24237936/boeing-starliner-crewed-flight-test-return-astronauts-stuck-on-iss)
+ - [How to Watch Eagles vs. Packers Game Tonight in Brazil](https://www.cnet.com/tech/services-and-software/how-to-watch-eagles-vs-packers-game-tonight-in-brazil/#ftag=CAD590a51e)
  - [Boeing Starliner Returns Home to an Uncertain Future](https://www.wired.com/story/boeing-starliner-return-nasa-contract/)
  - [S&amp;P Global announces that Dell and Palantir will join the S&amp;P 500, effective on September 23, 2024; DELL jumps 5%+ and PLTR jumps 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240906/p25#a240906p25)
- - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
- - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)<!-- TECH:END -->
+ - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

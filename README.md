@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final Destination](http://9gag.com/gag/a34M4e3)
- - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 😝 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
  - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 😝 [90.](http://9gag.com/gag/awyQyD4)
+ - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
  - 👉 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)<!-- MEMES:END -->
 
 ---

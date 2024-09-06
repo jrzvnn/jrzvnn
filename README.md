@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new Scandinavian store opens September 20](https://appleinsider.com/articles/24/09/06/apples-new-scandinavian-store-opens-september-20?utm_medium=rss)
  - [Could AI and Deepfakes Sway the US Election?](https://www.wired.com/story/deepfake-porn-election/)
  - [Elon Musk Has Backed Himself Into a Corner in Brazil](https://www.wired.com/story/x-starlink-brazil-suspension-musk/)
  - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)
- - [The UK CMA objects to Google&#39;s ad tech practices, says Google harms competition by using its online display ad dominance &quot;to favour its own ad tech services&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240906/p7#a240906p7)
- - [DirecTV Viewers Without Disney and ESPN Might Not Get Them Back Anytime Soon](https://www.cnet.com/tech/services-and-software/directv-viewers-without-disney-and-espn-might-not-get-them-back-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA objects to Google&#39;s ad tech practices, says Google harms competition by using its online display ad dominance &quot;to favour its own ad tech services&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240906/p7#a240906p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

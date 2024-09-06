@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could completely ditch Qualcomm&#39;s 5G modems by 2027](https://appleinsider.com/articles/24/09/06/apple-could-completely-ditch-qualcomms-5g-modems-by-2027?utm_medium=rss)
- - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)
- - [Summer 2024 is already the hottest on record](https://www.theverge.com/2024/9/6/24237451/summer-2024-is-already-the-hottest-on-record)
- - [What’s in store for the iPhone 16](https://www.theverge.com/2024/9/6/24237448/apple-iphone-16-launch-vergecast)
- - [Apple&#39;s latest MacBook Pro is on sale from $1,299, plus save on AppleCare](https://appleinsider.com/articles/24/09/06/apples-latest-macbook-pro-is-on-sale-from-1299-plus-save-on-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Telegram disables ‘misused’ features as CEO faces criminal charges](https://www.theverge.com/2024/9/6/24237526/telegram-pavel-durov-telegraph-location-features-moderation)
+ - [Filing: OnlyFans revenue rose 20% YoY to ~$1.31B for the FY ending November 2023; creator accounts grew 29% to ~4.1M, while fan accounts rose 28% to 305M &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240906/p15#a240906p15)
+ - [Best Overlanding Gear &lpar;2024&rpar;: Tried and Tested Storage, Shovels, and Coolers](https://www.wired.com/gallery/overlanding-guide/)
+ - [Changpeng Zhao may be banned for life from managing or operating Binance, but as a majority shareholder he will still be able to exert significant influence &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/240906/p14#a240906p14)
+ - [Apple could completely ditch Qualcomm&#39;s 5G modems by 2027](https://appleinsider.com/articles/24/09/06/apple-could-completely-ditch-qualcomms-5g-modems-by-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

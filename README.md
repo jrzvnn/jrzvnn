@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
  - 😝 [I am developing my own game](http://9gag.com/gag/a4PGP61)
- - 💣 [W.C.](http://9gag.com/gag/a34MAGQ)
- - 😝 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)
- - 👉 [Even the Instrument didn&#39;t know what happened](http://9gag.com/gag/axy0ywK)<!-- MEMES:END -->
+ - 💣 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)
+ - 😝 [W.C.](http://9gag.com/gag/a34MAGQ)
+ - 👉 [151 DNA samples were taken from mummies. A grand total of 0 came back as...](http://9gag.com/gag/aPA9PBq)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 😝 [Cosplay of the year](http://9gag.com/gag/axy0WQW)
  - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
  - 💣 [The sad truth.](http://9gag.com/gag/an7j7nB)
  - 😝 [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)

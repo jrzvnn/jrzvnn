@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fibre Copptic cable](http://9gag.com/gag/aoyO3nX)
+ - 😝 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)
  - 😝 [90.](http://9gag.com/gag/awyQyD4)
- - 💣 [Believe it or not this was an hell of a view at the time](http://9gag.com/gag/aPA9m0n)
- - 😝 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
- - 👉 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)<!-- MEMES:END -->
+ - 💣 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
+ - 😝 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)
+ - 👉 [Believe it or not this was an hell of a view at the time](http://9gag.com/gag/aPA9m0n)<!-- MEMES:END -->
 
 ---
 

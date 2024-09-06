@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 😝 [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
  - 😝 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
- - 💣 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
+ - 💣 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
  - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 👉 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)<!-- MEMES:END -->
+ - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
 
 ---
 

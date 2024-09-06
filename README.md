@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
- - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
  - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 👉 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)<!-- MEMES:END -->
+ - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
 
 ---
 

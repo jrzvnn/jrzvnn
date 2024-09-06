@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 💣 [This guy has no fear of bullets coming inches from him](http://9gag.com/gag/avy75Eq)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)<!-- MEMES:END -->
+ - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
+ - 💣 [The sad truth.](http://9gag.com/gag/an7j7nB)
+ - 😝 [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)
+ - 👉 [90.](http://9gag.com/gag/awyQyD4)<!-- MEMES:END -->
 
 ---
 

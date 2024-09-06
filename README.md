@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Death of ‘Concord’ Offers a Bleak Look at Gaming’s Future](https://www.wired.com/story/concord-death-future-of-video-games-bleak/)
+ - [The More This Rolex Costs, the More You Want It. Here&#39;s Why](https://www.wired.com/story/the-more-this-rolex-costs-the-more-you-want-it-this-is-why/)
  - [What to expect from Apple&#39;s September 9 event: four iPhone 16 models, two new AirPods, Apple Watch Series 10 with an updated look, Apple Intelligence, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240906/p8#a240906p8)
  - [Apple&#39;s new Scandinavian store opens September 20](https://appleinsider.com/articles/24/09/06/apples-new-scandinavian-store-opens-september-20?utm_medium=rss)
- - [Apple&#39;s iPhone water resistance has a big catch, claims new lawsuit](https://appleinsider.com/articles/24/09/06/apples-iphone-water-resistance-has-a-big-catch-claims-new-lawsuit?utm_medium=rss)
- - [How to Use Apple’s Distraction Control Feature in Safari](https://www.wired.com/story/how-to-use-safari-distraction-control-feature/)
- - [The End of ‘Brat Summer’ Doesn’t Mean What You Think](https://www.wired.com/story/the-end-of-brat-summer-does-not-mean-what-you-think/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone water resistance has a big catch, claims new lawsuit](https://appleinsider.com/articles/24/09/06/apples-iphone-water-resistance-has-a-big-catch-claims-new-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

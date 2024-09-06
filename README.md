@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US private equity group TPG is in talks to buy a stake in Europe&#39;s largest secondhand fashion site Vinted at a &amp;euro;5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240906/p16#a240906p16)
  - [Roblox will start sharing more revenue with creators](https://www.theverge.com/2024/9/6/24237039/roblox-share-revenue-creators-paid-experiences-rdc-2024)
  - [Amazon slashes Apple&#39;s M3 iMac to $1,099, matching record low price](https://appleinsider.com/articles/24/08/28/amazon-slashes-apples-m3-imac-to-1099-matching-record-low-price?utm_medium=rss)
  - [What&#39;s coming in iOS 18 -- and what will wait until iOS 18.1](https://appleinsider.com/articles/24/09/06/whats-coming-in-ios-18----and-what-will-wait-until-ios-181?utm_medium=rss)
- - [Best Phone Deals: Upgrade Your Cell and Save More Than $500 in the Process](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
- - [Save $100 on This Action Camera and Grab Previously Unobtainable Shots With Ease](https://www.cnet.com/deals/save-100-on-this-action-camera-and-grab-previously-unobtainable-shots-with-ease/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Deals: Upgrade Your Cell and Save More Than $500 in the Process](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

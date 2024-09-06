@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at this dogs reaction seeing his pal for the first time in six months.](http://9gag.com/gag/a8787vO)
+ - 😝 [Final Destination](http://9gag.com/gag/a34M4e3)
  - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 💣 [This guy has no fear of bullets coming inches from him](http://9gag.com/gag/avy75Eq)
- - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 👉 [THIS IS MY LAST POST! SEE YOU IN THE NEXT LIFE](http://9gag.com/gag/awyQBMx)<!-- MEMES:END -->
+ - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 😝 [90.](http://9gag.com/gag/awyQyD4)
+ - 👉 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)<!-- MEMES:END -->
 
 ---
 

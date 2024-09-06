@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database](https://www.wired.com/story/confidant-health-therapy-records-database-exposure/)
  - [ChromeOS just copied one of Windows 11’s best features](https://www.theverge.com/2024/9/6/24237360/chromeos-128-update-snap-groups-split-screen-text-extraction)
  - [Apple&#39;s new Scandinavian store opens September 20](https://appleinsider.com/articles/24/09/06/apples-new-scandinavian-store-opens-september-20?utm_medium=rss)
  - [Could AI and Deepfakes Sway the US Election?](https://www.wired.com/story/deepfake-porn-election/)
- - [Elon Musk Has Backed Himself Into a Corner in Brazil](https://www.wired.com/story/x-starlink-brazil-suspension-musk/)
- - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)<!-- TECH:END -->
+ - [Elon Musk Has Backed Himself Into a Corner in Brazil](https://www.wired.com/story/x-starlink-brazil-suspension-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

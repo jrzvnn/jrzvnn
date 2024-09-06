@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
- - 😝 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
- - 💣 [I never knew this was the origin.](http://9gag.com/gag/aRBj4QQ)
- - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
+ - 😝 [Let them know](http://9gag.com/gag/aW4qgDA)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 💣 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
+ - 😝 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
+ - 👉 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)<!-- MEMES:END -->
 
 ---
 

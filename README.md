@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let them know](http://9gag.com/gag/aW4qgDA)
- - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 💣 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 😝 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
- - 👉 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)<!-- MEMES:END -->
+ - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 💣 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 😝 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
+ - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
 
 ---
 

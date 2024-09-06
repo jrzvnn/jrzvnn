@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and DOJ return for round two of their antitrust fight — this time about ads](https://www.theverge.com/24236989/google-doj-ad-tech-antitrust-trial-preview)
  - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)
  - [Trump says Elon Musk has agreed to lead a government efficiency commission, which would give Musk influence over federal agencies that regulate his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240906/p10#a240906p10)
  - [Elektron Digitakt II Review: The Most Versatile Sampler and Sequencer](https://www.wired.com/review/elektron-digitakt-ii/)
- - [The NSA Has a Podcast—Here&#39;s How to Decode It](https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/)
- - [Just about every iPhone 16 Pro camera detail has been leaked](https://appleinsider.com/articles/24/09/06/just-about-every-iphone-16-pro-camera-detail-has-been-leaked?utm_medium=rss)<!-- TECH:END -->
+ - [The NSA Has a Podcast—Here&#39;s How to Decode It](https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

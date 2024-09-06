@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
- - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 💣 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
+ - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 💣 [This guy has no fear of bullets coming inches from him](http://9gag.com/gag/avy75Eq)
  - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [Made in](http://9gag.com/gag/aPA9AyB)<!-- MEMES:END -->
+ - 👉 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)<!-- MEMES:END -->
 
 ---
 

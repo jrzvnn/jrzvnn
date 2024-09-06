@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Honor&#39;s AI defocus tech, which aims to solve myopia and is available on the new Honor MagicPad 2 tablet and Honor Magic V3 foldable phone &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240906/p2#a240906p2)
  - [Potentially devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)
  - [Flexispot E7 Plus Standing Desk review: A worthy ergonomic investment](https://appleinsider.com/articles/24/09/06/flexispot-e7-plus-standing-desk-review-a-worthy-ergonomic-investment?utm_medium=rss)
  - [X&#39;s VP of Global Affairs Nick Pickles is leaving the company after a decade in which he fought multiple political battles and engaged with regulators worldwide &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240906/p1#a240906p1)
- - [Sources: Apple approves a WeChat update for iOS, as talks continue with Tencent to offer IAP and block links to external payment services in mini games &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240905/p44#a240905p44)
- - [Telegram will start moderating private chats after CEO’s arrest](https://www.theverge.com/2024/9/5/24237254/telegram-pavel-durov-arrest-private-chats-moderation-policy-change)<!-- TECH:END -->
+ - [Sources: Apple approves a WeChat update for iOS, as talks continue with Tencent to offer IAP and block links to external payment services in mini games &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240905/p44#a240905p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could completely ditch Qualcomm&#39;s 5G modems by 2027](https://appleinsider.com/articles/24/09/06/apple-could-completely-ditch-qualcomms-5g-modems-by-2027?utm_medium=rss)
+ - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)
  - [Summer 2024 is already the hottest on record](https://www.theverge.com/2024/9/6/24237451/summer-2024-is-already-the-hottest-on-record)
  - [What’s in store for the iPhone 16](https://www.theverge.com/2024/9/6/24237448/apple-iphone-16-launch-vergecast)
- - [Apple&#39;s latest MacBook Pro is on sale from $1,299, plus save on AppleCare](https://appleinsider.com/articles/24/09/06/apples-latest-macbook-pro-is-on-sale-from-1299-plus-save-on-applecare?utm_medium=rss)
- - [Instagram is adding new features for DMs](https://www.theverge.com/2024/9/6/24237107/instagram-dms-chat-features-cutouts-photos-drawing)
- - [YouTube takes down Tenet Media and four other channels after the DOJ alleged that Russia was paying right-wing influencers in the US to produce content &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240906/p13#a240906p13)<!-- TECH:END -->
+ - [Apple&#39;s latest MacBook Pro is on sale from $1,299, plus save on AppleCare](https://appleinsider.com/articles/24/09/06/apples-latest-macbook-pro-is-on-sale-from-1299-plus-save-on-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

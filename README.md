@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/ary5WYV)
- - 😝 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
- - 💣 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
- - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
- - 👉 [Bet she&#39;s great fun at parties!](http://9gag.com/gag/aNDzLvK)<!-- MEMES:END -->
+ - 😝 [Fibre Copptic cable](http://9gag.com/gag/aoyO3nX)
+ - 😝 [90.](http://9gag.com/gag/awyQyD4)
+ - 💣 [Believe it or not this was an hell of a view at the time](http://9gag.com/gag/aPA9m0n)
+ - 😝 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
+ - 👉 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)<!-- MEMES:END -->
 
 ---
 

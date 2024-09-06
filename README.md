@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you happy?](http://9gag.com/gag/aO8Bxrr)
- - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 💣 [The sad truth.](http://9gag.com/gag/an7j7nB)
- - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
- - 👉 [Professional at work](http://9gag.com/gag/ajPNVE0)<!-- MEMES:END -->
+ - 😝 [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
+ - 😝 [Give it the sonic treatment](http://9gag.com/gag/axy0BzD)
+ - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
+ - 👉 [Asking the real questions](http://9gag.com/gag/a2v4vbD)<!-- MEMES:END -->
 
 ---
 

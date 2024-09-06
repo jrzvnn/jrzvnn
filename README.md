@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 😝 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
- - 💣 [Probably not the best plan](http://9gag.com/gag/aYQ4oxm)
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/ary5WYV)
+ - 😝 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
+ - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
 
 ---
 

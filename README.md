@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here we go](http://9gag.com/gag/aPA9ZgP)
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 💣 [This Cod map looks fire to be honest](http://9gag.com/gag/aMVAKQ6)
+ - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
  - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
+ - 💣 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
+ - 😝 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
+ - 👉 [Magician at the table](http://9gag.com/gag/aD2z2OB)<!-- MEMES:END -->
 
 ---
 

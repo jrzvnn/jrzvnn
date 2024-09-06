@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
- - 😝 [Give it the sonic treatment](http://9gag.com/gag/axy0BzD)
- - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 👉 [Asking the real questions](http://9gag.com/gag/a2v4vbD)<!-- MEMES:END -->
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 😝 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
+ - 💣 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
 
 ---
 

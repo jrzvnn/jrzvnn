@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 😝 [The sad truth.](http://9gag.com/gag/an7j7nB)
- - 💣 [Are you happy?](http://9gag.com/gag/aO8Bxrr)
- - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
- - 👉 [Professional at work](http://9gag.com/gag/ajPNVE0)<!-- MEMES:END -->
+ - 😝 [Look at this dogs reaction seeing his pal for the first time in six months.](http://9gag.com/gag/a8787vO)
+ - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 💣 [This guy has no fear of bullets coming inches from him](http://9gag.com/gag/avy75Eq)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 👉 [THIS IS MY LAST POST! SEE YOU IN THE NEXT LIFE](http://9gag.com/gag/awyQBMx)<!-- MEMES:END -->
 
 ---
 

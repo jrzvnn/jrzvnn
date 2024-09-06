@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Summer 2024 is already the hottest on record](https://www.theverge.com/2024/9/6/24237451/summer-2024-is-already-the-hottest-on-record)
+ - [What’s in store for the iPhone 16](https://www.theverge.com/2024/9/6/24237448/apple-iphone-16-launch-vergecast)
  - [Apple&#39;s latest MacBook Pro is on sale from $1,299, plus save on AppleCare](https://appleinsider.com/articles/24/09/06/apples-latest-macbook-pro-is-on-sale-from-1299-plus-save-on-applecare?utm_medium=rss)
  - [Instagram is adding new features for DMs](https://www.theverge.com/2024/9/6/24237107/instagram-dms-chat-features-cutouts-photos-drawing)
- - [YouTube takes down Tenet Media and four other channels after the DOJ alleged that Russia was paying right-wing influencers in the US to produce content &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240906/p13#a240906p13)
- - [You Can Stream &#39;The Boy and the Heron&#39; Today. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-stream-the-boy-and-the-heron-today-heres-how/#ftag=CAD590a51e)
- - [Telegram passes 10M paid subscribers and removes People Nearby, saying the feature was used by less than 0.1% of users and had &quot;issues with bots and scammers&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240906/p12#a240906p12)<!-- TECH:END -->
+ - [YouTube takes down Tenet Media and four other channels after the DOJ alleged that Russia was paying right-wing influencers in the US to produce content &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240906/p13#a240906p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

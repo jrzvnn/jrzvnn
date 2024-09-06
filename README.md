@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: TSMC achieved production yields at its Arizona facility on par with established plants in Taiwan and plans to start mass production in Arizona in 2025 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240906/p11#a240906p11)
+ - [Midea’s new kitchen appliances are the first to use Ki wireless power](https://www.theverge.com/2024/9/6/24237424/midea-wireless-power-kitchen-induction)
  - [Dreame’s L20 Ultra hybrid robot vacuum and mop is at a new low of $699](https://www.theverge.com/2024/9/6/24237420/dreame-l20-ultra-hybrid-robot-vacuum-apple-watch-ultra-2-deal-sale)
  - [Google and DOJ return for round two of their antitrust fight — this time about ads](https://www.theverge.com/24236989/google-doj-ad-tech-antitrust-trial-preview)
- - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)
- - [Trump says Elon Musk has agreed to lead a government efficiency commission, which would give Musk influence over federal agencies that regulate his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240906/p10#a240906p10)
- - [Elektron Digitakt II Review: The Most Versatile Sampler and Sequencer](https://www.wired.com/review/elektron-digitakt-ii/)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

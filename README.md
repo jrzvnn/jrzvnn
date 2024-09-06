@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary spider\u2026where ?](http://9gag.com/gag/avy7WMb)
- - 😝 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 💣 [Women](http://9gag.com/gag/ary5WYV)
- - 😝 [Let them know](http://9gag.com/gag/aW4qgDA)
- - 👉 [Magician at the table](http://9gag.com/gag/aD2z2OB)<!-- MEMES:END -->
+ - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
+ - 😝 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
+ - 💣 [Probably not the best plan](http://9gag.com/gag/aYQ4oxm)
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
 
 ---
 

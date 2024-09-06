@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Potentially devastating typhoon approaching Hong Kong, disrupting life and business](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)
+ - [Sources: Apple approves a WeChat update for iOS, as talks continue with Tencent to offer IAP and block links to external payment services in mini games &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240905/p44#a240905p44)
+ - [Telegram will start moderating private chats after CEO’s arrest](https://www.theverge.com/2024/9/5/24237254/telegram-pavel-durov-arrest-private-chats-moderation-policy-change)
  - [Leaked documents show an AI upgrade led to an incident where Alexa seemed to favor Kamala Harris over Donald Trump; Amazon says the error was fixed &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240905/p43#a240905p43)
- - [A review of Honor&#39;s Magic V3, a foldable phone that is thinner than the Galaxy Z Fold6 at 9.2mm when folded, launching for &amp;pound;1,699 in the UK and &amp;euro;1,999 in the EU &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/240905/p42#a240905p42)
- - [Telegram radically alters its stance on &quot;illegal&quot; use of its platform by letting users in private chats &quot;flag illegal content&quot; for review by its moderators &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240905/p41#a240905p41)
- - [Best Mattress Deals: Extended Discounts Still Available on Purple, Casper, Saatva and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)<!-- TECH:END -->
+ - [A review of Honor&#39;s Magic V3, a foldable phone that is thinner than the Galaxy Z Fold6 at 9.2mm when folded, launching for &amp;pound;1,699 in the UK and &amp;euro;1,999 in the EU &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/240905/p42#a240905p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

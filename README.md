@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Boeing Starliner’s strange test flight is finally returning to Earth, but it’s empty](https://www.theverge.com/24237936/boeing-starliner-crewed-flight-test-return-astronauts-stuck-on-iss)
  - [Boeing Starliner Returns Home to an Uncertain Future](https://www.wired.com/story/boeing-starliner-return-nasa-contract/)
  - [S&amp;P Global announces that Dell and Palantir will join the S&amp;P 500, effective on September 23, 2024; DELL jumps 5%+ and PLTR jumps 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240906/p25#a240906p25)
  - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
- - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)
- - [Mangomint, which makes software for salon and spa operations, raised a $35M Series B led by Altos Ventures and says it has processed $1B+ in transactions &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240906/p23#a240906p23)<!-- TECH:END -->
+ - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

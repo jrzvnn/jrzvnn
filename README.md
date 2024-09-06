@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
- - 😝 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)
- - 💣 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)
- - 😝 [Believe it or not this was an hell of a view at the time](http://9gag.com/gag/aPA9m0n)
- - 👉 [I am developing my own game](http://9gag.com/gag/a4PGP61)<!-- MEMES:END -->
+ - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 💣 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
+ - 😝 [A guy in Prague harasses and slaps a pregnant woman but justice soon follows](http://9gag.com/gag/abAzeE8)
+ - 👉 [I never knew this was the origin.](http://9gag.com/gag/aRBj4QQ)<!-- MEMES:END -->
 
 ---
 

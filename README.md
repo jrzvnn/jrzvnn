@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 💣 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 👉 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)<!-- MEMES:END -->
+ - 😝 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
+ - 😝 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 💣 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 👉 [Made in](http://9gag.com/gag/aPA9AyB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just about every iPhone 16 Pro camera detail has been leaked](https://appleinsider.com/articles/24/09/06/just-about-every-iphone-16-pro-camera-detail-has-been-leaked?utm_medium=rss)
  - [iPhone 16 and Apple Watch Series 10 rumors, plus hysterical phishing emails on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/06/iphone-16-and-apple-watch-series-10-rumors-plus-hysterical-phishing-emails-on-the-appleinsider-podcast?utm_medium=rss)
  - [An interview with Bill Gates about What&#39;s Next? The Future with Bill Gates, an upcoming five-part Netflix docuseries examining issues like AI, misinfo, and more &lpar;Kourtnee Jackson/CNET&rpar;](http://www.techmeme.com/240906/p9#a240906p9)
  - [Sleep apnea in, hypertension out for Apple Watch Series 10](https://appleinsider.com/articles/24/09/06/sleep-apnea-in-hypertension-out-for-apple-watch-series-10?utm_medium=rss)
- - [Google Nest Learning Thermostat &lpar;4th Gen&rpar; Review: Blending Beauty and Brains](https://www.wired.com/review/google-nest-learning-thermostat-4th-gen/)
- - [iPhone 16 event expected to debut AirPods 4 with speaker, improved audio](https://appleinsider.com/articles/24/09/06/iphone-16-event-expected-to-debut-airpods-4-with-speaker-improved-audio?utm_medium=rss)<!-- TECH:END -->
+ - [Google Nest Learning Thermostat &lpar;4th Gen&rpar; Review: Blending Beauty and Brains](https://www.wired.com/review/google-nest-learning-thermostat-4th-gen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

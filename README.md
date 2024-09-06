@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The judge in the Google monopoly ruling says he&#39;ll take until August 2025 to determine remedies in the case and asks the DOJ to propose fixes by the end of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240906/p22#a240906p22)
  - [Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240906/p21#a240906p21)
  - [WhatsApp will send messages to other apps soon — here’s how it will look](https://www.theverge.com/2024/9/6/24237753/whatsapp-messenger-third-party-chat-eu-dma)
- - [Combat Night Sweats With These 12 Cooling Tips](https://www.cnet.com/health/sleep/combat-night-sweats-with-these-12-cooling-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro reportedly gets ultrasmooth 4K 120fps video recording](https://www.theverge.com/2024/9/6/24237493/apple-iphone-16-pro-max-4k-120fps-video-third-party-camera-button-rumor-leak)
+ - [X Is Working With a GOP Consulting Firm](https://www.wired.com/story/x-elon-musk-public-relations-targeted-victory/)
  - [Telegram disables ‘misused’ features as CEO faces criminal charges](https://www.theverge.com/2024/9/6/24237526/telegram-pavel-durov-telegraph-location-features-moderation)
  - [Filing: OnlyFans revenue rose 20% YoY to ~$1.31B for the FY ending November 2023; creator accounts grew 29% to ~4.1M, while fan accounts rose 28% to 305M &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240906/p15#a240906p15)
- - [Best Overlanding Gear &lpar;2024&rpar;: Tried and Tested Storage, Shovels, and Coolers](https://www.wired.com/gallery/overlanding-guide/)
- - [Changpeng Zhao may be banned for life from managing or operating Binance, but as a majority shareholder he will still be able to exert significant influence &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/240906/p14#a240906p14)
- - [Apple could completely ditch Qualcomm&#39;s 5G modems by 2027](https://appleinsider.com/articles/24/09/06/apple-could-completely-ditch-qualcomms-5g-modems-by-2027?utm_medium=rss)<!-- TECH:END -->
+ - [Best Overlanding Gear &lpar;2024&rpar;: Tried and Tested Storage, Shovels, and Coolers](https://www.wired.com/gallery/overlanding-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

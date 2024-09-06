@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The End of ‘Brat Summer’ Doesn’t Mean What You Think](https://www.wired.com/story/the-end-of-brat-summer-does-not-mean-what-you-think/)
- - [Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database](https://www.wired.com/story/confidant-health-therapy-records-database-exposure/)
- - [ChromeOS just copied one of Windows 11’s best features](https://www.theverge.com/2024/9/6/24237360/chromeos-128-update-snap-groups-split-screen-text-extraction)
+ - [What to expect from Apple&#39;s September 9 event: four iPhone 16 models, two new AirPods, Apple Watch Series 10 with an updated look, Apple Intelligence, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240906/p8#a240906p8)
  - [Apple&#39;s new Scandinavian store opens September 20](https://appleinsider.com/articles/24/09/06/apples-new-scandinavian-store-opens-september-20?utm_medium=rss)
- - [iPhone SE 4 Rumors: Apple&#39;s Next Budget iPhone Won&#39;t Be at Monday&#39;s &#39;Glowtime&#39; Event](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-apples-next-budget-iphone-wont-be-at-mondays-glowtime-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPhone water resistance has a big catch, claims new lawsuit](https://appleinsider.com/articles/24/09/06/apples-iphone-water-resistance-has-a-big-catch-claims-new-lawsuit?utm_medium=rss)
+ - [How to Use Apple’s Distraction Control Feature in Safari](https://www.wired.com/story/how-to-use-safari-distraction-control-feature/)
+ - [The End of ‘Brat Summer’ Doesn’t Mean What You Think](https://www.wired.com/story/the-end-of-brat-summer-does-not-mean-what-you-think/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

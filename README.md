@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
- - 😝 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 💣 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
  - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
+ - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
 
 ---
 

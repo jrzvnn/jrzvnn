@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 event expected to debut AirPods 4 with speaker, improved audio](https://appleinsider.com/articles/24/09/06/iphone-16-event-expected-to-debut-airpods-4-with-speaker-improved-audio?utm_medium=rss)
+ - [iPhone 16 and Apple Watch Series 10 rumors, plus hysterical phishing emails on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/06/iphone-16-and-apple-watch-series-10-rumors-plus-hysterical-phishing-emails-on-the-appleinsider-podcast?utm_medium=rss)
+ - [An interview with Bill Gates about What&#39;s Next? The Future with Bill Gates, an upcoming five-part Netflix docuseries examining issues like AI, misinfo, and more &lpar;Kourtnee Jackson/CNET&rpar;](http://www.techmeme.com/240906/p9#a240906p9)
  - [Sleep apnea in, hypertension out for Apple Watch Series 10](https://appleinsider.com/articles/24/09/06/sleep-apnea-in-hypertension-out-for-apple-watch-series-10?utm_medium=rss)
- - [Devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)
- - [The Death of ‘Concord’ Offers a Bleak Look at Gaming’s Future](https://www.wired.com/story/concord-death-future-of-video-games-bleak/)
- - [The More This Rolex Costs, the More You Want It. Here&#39;s Why](https://www.wired.com/story/the-more-this-rolex-costs-the-more-you-want-it-this-is-why/)<!-- TECH:END -->
+ - [Google Nest Learning Thermostat &lpar;4th Gen&rpar; Review: Blending Beauty and Brains](https://www.wired.com/review/google-nest-learning-thermostat-4th-gen/)
+ - [iPhone 16 event expected to debut AirPods 4 with speaker, improved audio](https://appleinsider.com/articles/24/09/06/iphone-16-event-expected-to-debut-airpods-4-with-speaker-improved-audio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

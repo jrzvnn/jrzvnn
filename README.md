@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s latest MacBook Pro is on sale from $1,299, plus save on AppleCare](https://appleinsider.com/articles/24/09/06/apples-latest-macbook-pro-is-on-sale-from-1299-plus-save-on-applecare?utm_medium=rss)
+ - [Instagram is adding new features for DMs](https://www.theverge.com/2024/9/6/24237107/instagram-dms-chat-features-cutouts-photos-drawing)
  - [YouTube takes down Tenet Media and four other channels after the DOJ alleged that Russia was paying right-wing influencers in the US to produce content &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240906/p13#a240906p13)
- - [Pavel Durov says Telegram now has 10M paid subscribers and removes the People Nearby feature, saying it had &quot;issues with bots and scammers.&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240906/p12#a240906p12)
- - [Donald Trump says he’ll task Elon Musk with auditing the entire federal government](https://www.theverge.com/2024/9/6/24237429/donald-trump-elon-musk-government-efficiency-commission)
- - [Source: TSMC achieved production yields at its Arizona facility on par with established plants in Taiwan and plans to start mass production in Arizona in 2025 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240906/p11#a240906p11)
- - [Midea’s new kitchen appliances are the first to use Ki wireless power](https://www.theverge.com/2024/9/6/24237424/midea-wireless-power-kitchen-induction)<!-- TECH:END -->
+ - [Telegram passes 10M paid subscribers and removes People Nearby, saying the feature was used by less than 0.1% of users and had &quot;issues with bots and scammers&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240906/p12#a240906p12)
+ - [Donald Trump says he’ll task Elon Musk with auditing the entire federal government](https://www.theverge.com/2024/9/6/24237429/donald-trump-elon-musk-government-efficiency-commission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Childhood friends who don&#39;t grow as much as you](http://9gag.com/gag/axy03jY)
- - 😝 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
- - 💣 [Made in](http://9gag.com/gag/aPA9AyB)
- - 😝 [Women](http://9gag.com/gag/ary5WYV)
- - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
+ - 💣 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
+ - 😝 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
+ - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)
- - 😝 [90.](http://9gag.com/gag/awyQyD4)
- - 💣 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
+ - 😝 [It&#39;s over](http://9gag.com/gag/aPA9mxV)
  - 😝 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)
- - 👉 [Believe it or not this was an hell of a view at the time](http://9gag.com/gag/aPA9m0n)<!-- MEMES:END -->
+ - 💣 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)
+ - 😝 [Believe it or not this was an hell of a view at the time](http://9gag.com/gag/aPA9m0n)
+ - 👉 [I am developing my own game](http://9gag.com/gag/a4PGP61)<!-- MEMES:END -->
 
 ---
 

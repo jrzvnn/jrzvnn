@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)
+ - [HyperWrite CEO unveils Reflection 70B, based on Llama 3.1 70B Instruct and trained using reflection-tuning, and says it beats GPT-4o in all benchmarks tested &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240906/p20#a240906p20)
  - [AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors](https://www.theverge.com/2024/9/6/24237735/amd-z2-extreme-gaming-handheld-pc-chip)
  - [Anker’s new 100W charger is almost as small as your AirPods](https://www.theverge.com/2024/9/6/24237701/anker-nano-charger-usb-c)
- - [Coinbase’s no-good, very bad summer](https://www.theverge.com/2024/9/6/24237697/coinbases-lawsuits-regulation-stock)
- - [Google Pixel 9 Pro Fold review: in great shape](https://www.theverge.com/24237586/google-pixel-9-pro-fold-review-screen-camera-battery)
- - [New AI Model Can Simulate ‘Super Mario Bros.’ After Watching Gameplay Footage](https://www.wired.com/story/new-ai-model-can-simulate-super-mario-bros-after-watching-gameplay-footage/)<!-- TECH:END -->
+ - [Coinbase’s no-good, very bad summer](https://www.theverge.com/2024/9/6/24237697/coinbases-lawsuits-regulation-stock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

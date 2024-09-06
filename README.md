@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 💣 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 👉 [Probably not the best plan](http://9gag.com/gag/aYQ4oxm)<!-- MEMES:END -->
+ - 😝 [Probably not the best plan](http://9gag.com/gag/aYQ4oxm)
+ - 😝 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 💣 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 👉 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)<!-- MEMES:END -->
 
 ---
 

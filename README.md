@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in](http://9gag.com/gag/aPA9AyB)
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 💣 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 😝 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
+ - 😝 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
+ - 😝 [Thinking outside the box](http://9gag.com/gag/avy7eGq)
+ - 💣 [Let them know](http://9gag.com/gag/aW4qgDA)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
  - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
 
 ---

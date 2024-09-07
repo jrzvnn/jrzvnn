@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
- - 😝 [Dude must have went through a lot](http://9gag.com/gag/aXPvLVv)
- - 💣 [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/aNDzLe6)
  - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
+ - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
+ - 💣 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 ---
 

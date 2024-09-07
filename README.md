@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 💣 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
- - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
+ - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
+ - 💣 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 😝 [Huehuehue](http://9gag.com/gag/aLn8e86)
+ - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 😝 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
- - 💣 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
- - 👉 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)<!-- MEMES:END -->
+ - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 💣 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
+ - 😝 [You don&#39;t always get what you want](http://9gag.com/gag/avy7WZd)
+ - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
 
 ---
 

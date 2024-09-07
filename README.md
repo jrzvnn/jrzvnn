@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hans Landa eating a Strudel](http://9gag.com/gag/aD2zYrd)
- - 😝 [Something strange](http://9gag.com/gag/adB9O1D)
- - 💣 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
- - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 😝 [Maybe repost](http://9gag.com/gag/a6ZVZKA)
+ - 💣 [Gravity](http://9gag.com/gag/a5QnX6G)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
+ - 👉 [Their people gave up?](http://9gag.com/gag/aBy8yRz)<!-- MEMES:END -->
 
 ---
 

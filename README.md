@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
  - 😝 [Airless tires on a bike \ud83d\udeb2](http://9gag.com/gag/aAyDyML)
- - 💣 [Women](http://9gag.com/gag/aW4qpN6)
- - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
+ - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
 
 ---
 

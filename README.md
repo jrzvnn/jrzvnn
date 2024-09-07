@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get $30 Off a Hulu + Live TV Subscription For a Limited Time](https://www.cnet.com/tech/services-and-software/get-30-off-a-hulu-live-tv-subscription-for-a-limited-time/#ftag=CAD590a51e)
- - [Election 2024: Here&#39;s When Early Voting Starts in Your State](https://www.cnet.com/news/politics/election-2024-heres-when-early-voting-starts-in-your-state/#ftag=CAD590a51e)
- - [The Boeing Starliner’s strange test flight is finally returning to Earth, but it’s empty](https://www.theverge.com/24237936/boeing-starliner-crewed-flight-test-return-astronauts-stuck-on-iss)
- - [How to Watch Eagles vs. Packers Game Tonight in Brazil](https://www.cnet.com/tech/services-and-software/how-to-watch-eagles-vs-packers-game-tonight-in-brazil/#ftag=CAD590a51e)
- - [Boeing Starliner Returns Home to an Uncertain Future](https://www.wired.com/story/boeing-starliner-return-nasa-contract/)<!-- TECH:END -->
+ - [In a letter, Kamala Harris is endorsed for president by 88 corporate leaders, including Yelp CEO Jeremy Stoppelman and Ripple co-founder Chris Larsen &lpar;Megan Cassella/CNBC&rpar;](http://www.techmeme.com/240906/p27#a240906p27)
+ - [A look at LMSYS&#39; Chatbot Arena and the issues surrounding the crowdsourced LLM benchmark platform, including biases, lack of transparency, and commercial ties &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240906/p26#a240906p26)
+ - [The man who put Doom in a Lego brick is now playing it on a volumetric voxel display](https://www.theverge.com/2024/9/6/24238004/doom-volumetric-voxel-display-ancient-james-brown)
+ - [Instacart Is Doing Away With Delivery Fees on Certain Orders](https://www.cnet.com/news/instacart-just-got-a-whole-lot-cheaper/#ftag=CAD590a51e)
+ - [Get $30 Off a Hulu Plus Live TV Subscription for a Limited Time](https://www.cnet.com/tech/services-and-software/get-30-off-a-hulu-live-tv-subscription-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

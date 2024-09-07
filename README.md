@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
  - [Why Polio Has Reemerged in Gaza](https://www.wired.com/story/how-did-polio-reemerge-in-gaza-after-a-quarter-of-a-century-virologist/)
  - [It’s time for the regular iPhone to shine](https://www.theverge.com/2024/9/7/24237732/apple-glowtime-event-2024-iphone-16-launch)
  - [Hackers Threaten to Leak Planned Parenthood Data](https://www.wired.com/story/hackers-threaten-to-leak-planned-parenthood-data/)
- - [Verizon Fios Home Internet Review: Plans, Pricing, Speeds and Availability](https://www.cnet.com/home/internet/verizon-internet-review/#ftag=CAD590a51e)
- - [It Would Be Wild If Apple Added This Feature to the iPhone 16](https://www.cnet.com/tech/mobile/it-would-be-wild-if-apple-added-this-feature-to-the-iphone-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Verizon Fios Home Internet Review: Plans, Pricing, Speeds and Availability](https://www.cnet.com/home/internet/verizon-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

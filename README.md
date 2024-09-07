@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
  - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 😝 [Bet she&#39;s great fun at parties!](http://9gag.com/gag/aNDzLvK)
- - 💣 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
- - 👉 [Magician at the table](http://9gag.com/gag/aD2z2OB)<!-- MEMES:END -->
+ - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
+ - 👉 [Look twice](http://9gag.com/gag/a0e5XZB)<!-- MEMES:END -->
 
 ---
 

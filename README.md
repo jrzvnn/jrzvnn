@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [A self-heating bento box](http://9gag.com/gag/amo2A5X)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
  - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
  - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
+ - 👉 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 💣 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 😝 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
+ - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
  - 👉 [New challenge](http://9gag.com/gag/aVvMENv)<!-- MEMES:END -->
 
 ---

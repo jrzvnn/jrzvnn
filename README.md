@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
  - [Hero Games&#39; Daniel Wu reflects on his studio&#39;s 20% stake in Game Science, the creator of China&#39;s biggest PC game Black Myth: Wukong, which has sold 18M+ copies &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240907/p7#a240907p7)
- - [Disney and DirecTV head into a big sports weekend with no carriage deal](https://www.theverge.com/2024/9/7/24238351/disney-directv-carriage-dispute-nfl-monday-night-football-us-open-tennis-alternatives-hulu-spectrum)
- - [How to Claim Your Share of Cash App&#39;s $15 Million Legal Settlement](https://www.cnet.com/personal-finance/how-to-claim-your-share-of-cash-apps-15-million-legal-settlement/#ftag=CAD590a51e)
- - [Use Your Old Smartphone as a Free Home Security Camera: How to Do It](https://www.cnet.com/home/security/use-your-old-smartphone-as-a-free-home-security-camera-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mattress Firm&#39;s Labor Day Sales Continue: Save Up to 60% on DreamCloud, Serta, Beautyrest and More](https://www.cnet.com/deals/mattress-firm-labor-day-sale/#ftag=CAD590a51e)
+ - [Starliner Heads Home Without Astronauts. How They&#39;ll Be Rescued](https://www.cnet.com/science/starliner-heads-home-without-astronauts-how-theyll-be-rescued/#ftag=CAD590a51e)
+ - [Declutter Your Gmail Inbox: How to Score 15GB of Free Storage](https://www.cnet.com/tech/services-and-software/declutter-your-gmail-inbox-how-to-score-15gb-of-free-storage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

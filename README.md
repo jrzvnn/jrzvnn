@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 💣 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
  - 😝 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
- - 💣 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
- - 👉 [Magician at the table](http://9gag.com/gag/aD2z2OB)<!-- MEMES:END -->
+ - 👉 [New challenge](http://9gag.com/gag/aVvMENv)<!-- MEMES:END -->
 
 ---
 

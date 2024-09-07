@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
- - 😝 [Dutch politician Geert Wilder showing a drawing of Mohammed. Guess how many death threats he got so far?](http://9gag.com/gag/a0e5VYz)
- - 💣 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
  - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 👉 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)<!-- MEMES:END -->
+ - 😝 [It just feels right.... One more time.](http://9gag.com/gag/aGyeLMG)
+ - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
+ - 😝 [Are they dumb? If only they realize how people down bad for OW Pharah](http://9gag.com/gag/aGye8rG)
+ - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
- - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
- - 💣 [A self-heating bento box](http://9gag.com/gag/amo2A5X)
- - 😝 [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)
- - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 😝 [A self-heating bento box](http://9gag.com/gag/amo2A5X)
+ - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
+ - 💣 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
+ - 👉 [Something strange](http://9gag.com/gag/adB9O1D)<!-- MEMES:END -->
 
 ---
 

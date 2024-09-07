@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 😝 [It just feels right.... One more time.](http://9gag.com/gag/aGyeLMG)
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 😝 [Are they dumb? If only they realize how people down bad for OW Pharah](http://9gag.com/gag/aGye8rG)
- - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
+ - 😝 [90.](http://9gag.com/gag/awyQyD4)
+ - 😝 [151 DNA samples were taken from mummies. A grand total of 0 came back as...](http://9gag.com/gag/aPA9PBq)
+ - 💣 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)
+ - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
+ - 👉 [I am developing my own game](http://9gag.com/gag/a4PGP61)<!-- MEMES:END -->
 
 ---
 

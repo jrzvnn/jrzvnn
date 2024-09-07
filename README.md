@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Pavel Durov&#39;s older brother Nikolai, who is reportedly still in Russia and is responsible for Telegram&#39;s encryption standard MTProto protocol &lpar;Eva Hartog/Politico&rpar;](http://www.techmeme.com/240907/p5#a240907p5)
+ - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
  - [Boeing Starliner has completed its lonely return to Earth](https://www.theverge.com/2024/9/7/24238245/boeing-starliner-landing-nasa-astronauts-stranded-iss)
  - [HHKB Studio Review: The Programmer&#39;s Mechanical Keyboard](https://www.wired.com/review/hhkb-studio/)
- - [Grid’s framed old-school gadgets are over 40 percent off](https://www.theverge.com/2024/9/7/24237525/grid-studio-framed-tech-paramount-plus-deal-sale)
- - [5 Ways Amazon Alexa Can Help on Laundry Day](https://www.cnet.com/home/smart-home/5-ways-amazon-alexa-can-help-on-laundry-day/#ftag=CAD590a51e)
- - [An investigation details the lack of enforcement of CA&#39;s Prop 22 about four years after the ballot initiative, backed by gig economy companies, became state law &lpar;Levi Sumagaysay/CalMatters&rpar;](http://www.techmeme.com/240907/p4#a240907p4)<!-- TECH:END -->
+ - [Stream Privately: Expert Tips for Setting Up a VPN on Your Smart TV](https://www.cnet.com/tech/services-and-software/stream-privately-expert-tips-for-setting-up-a-vpn-on-your-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

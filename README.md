@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
- - 💣 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 👉 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)<!-- MEMES:END -->
+ - 😝 [We have fast and furious at home](http://9gag.com/gag/azxq2wN)
+ - 😝 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
+ - 💣 [New challenge](http://9gag.com/gag/aVvMENv)
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
 
 ---
 

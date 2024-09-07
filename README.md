@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [How Velcro works in macro](http://9gag.com/gag/aGyeyDn)
- - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
- - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
+ - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
+ - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
+ - 💣 [A self-heating bento box](http://9gag.com/gag/amo2A5X)
+ - 😝 [Finding out](http://9gag.com/gag/aPA9o9R)
+ - 👉 [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)<!-- MEMES:END -->
 
 ---
 

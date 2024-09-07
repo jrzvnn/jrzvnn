@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [90.](http://9gag.com/gag/awyQyD4)
- - 😝 [151 DNA samples were taken from mummies. A grand total of 0 came back as...](http://9gag.com/gag/aPA9PBq)
- - 💣 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)
- - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
- - 👉 [I am developing my own game](http://9gag.com/gag/a4PGP61)<!-- MEMES:END -->
+ - 😝 [Are they dumb? If only they realize how people down bad for OW Pharah](http://9gag.com/gag/aGye8rG)
+ - 😝 [At 12AM. Weekday bylaw said I was the 8th caller. Nothing done.. Ooh Canada \ud83c\udde8\ud83c\udde6](http://9gag.com/gag/aVvMggw)
+ - 💣 [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)
+ - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 👉 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)<!-- MEMES:END -->
 
 ---
 

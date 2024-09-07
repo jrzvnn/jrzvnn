@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
  - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 😝 [Airless tires on a bike \ud83d\udeb2](http://9gag.com/gag/aAyDyML)
+ - 💣 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
  - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
 
 ---

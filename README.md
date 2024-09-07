@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
+ - [Hero Games&#39; Daniel Wu reflects on his studio&#39;s 20% stake in Game Science, the creator of China&#39;s biggest PC game Black Myth: Wukong, which has sold 18M+ copies &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240907/p7#a240907p7)
  - [Disney and DirecTV head into a big sports weekend with no carriage deal](https://www.theverge.com/2024/9/7/24238351/disney-directv-carriage-dispute-nfl-monday-night-football-us-open-tennis-alternatives-hulu-spectrum)
  - [How to Claim Your Share of Cash App&#39;s $15 Million Legal Settlement](https://www.cnet.com/personal-finance/how-to-claim-your-share-of-cash-apps-15-million-legal-settlement/#ftag=CAD590a51e)
- - [Use Your Old Smartphone as a Free Home Security Camera: How to Do It](https://www.cnet.com/home/security/use-your-old-smartphone-as-a-free-home-security-camera-how-to-do-it/#ftag=CAD590a51e)
- - [Analysis of 3.2M+ Telegram messages from 16K+ channels shows how the app is inundated with criminal activity, CSAM, drug dealers, white nationalists, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240907/p6#a240907p6)
- - [Metronet Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/metronet-home-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Your Old Smartphone as a Free Home Security Camera: How to Do It](https://www.cnet.com/home/security/use-your-old-smartphone-as-a-free-home-security-camera-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
- - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
- - 💣 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)
- - 😝 [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
- - 👉 [Laws of life!](http://9gag.com/gag/aLn8Gvz)<!-- MEMES:END -->
+ - 😝 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)
+ - 😝 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)
+ - 💣 [Solo Leveling alt. Version.](http://9gag.com/gag/ayNx6Kb)
+ - 😝 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
+ - 👉 [1st place marathon runner takes wrong turn, but his competitor shows him respect](http://9gag.com/gag/an7jvDB)<!-- MEMES:END -->
 
 ---
 

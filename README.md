@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Analysis of 3.2M+ Telegram messages from 16K+ channels shows how the app is inundated with criminal activity, CSAM, drug dealers, white nationalists, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240907/p6#a240907p6)
  - [Amazon&#39;s $199 iPad special ends in 2 hours](https://appleinsider.com/articles/24/09/04/amazon-extends-its-popular-199-ipad-deal-into-september-but-supply-may-be-limited?utm_medium=rss)
+ - [Best 3D Printers for 2024](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
  - [Astro Bot is the game you buy a PS5 for](https://www.theverge.com/24237778/astro-bot-review-ps5-game-of-the-year)
- - [New Mac malware strain uses remote access tools to steal data](https://appleinsider.com/articles/24/09/07/new-mac-malware-strain-uses-remote-access-tools-to-steal-data?utm_medium=rss)
- - [A profile of Pavel Durov&#39;s older brother Nikolai, who is reportedly still in Russia and is responsible for Telegram&#39;s encryption standard MTProto protocol &lpar;Eva Hartog/Politico&rpar;](http://www.techmeme.com/240907/p5#a240907p5)<!-- TECH:END -->
+ - [5 Home Security Systems Made to Easily Pack and Move With You](https://www.cnet.com/home/security/top-home-security-systems-that-move-with-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

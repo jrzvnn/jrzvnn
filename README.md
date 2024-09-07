@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christopher Lee and Peter Cushing&#39;s last photo together 1994](http://9gag.com/gag/amo21jo)
+ - 😝 [Huehuehue](http://9gag.com/gag/aLn8e86)
  - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 💣 [Dashcam video of an earthquake while driving on a bridge.](http://9gag.com/gag/a5QnV2y)
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 👉 [How crazy are you? Yes](http://9gag.com/gag/abAz1RX)<!-- MEMES:END -->
+ - 💣 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 😝 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 ---
 

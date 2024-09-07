@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
- - 😝 [Hans Landa eating a Strudel](http://9gag.com/gag/aD2zYrd)
- - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 😝 [I never knew this was the origin.](http://9gag.com/gag/aRBj4QQ)
- - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 💣 [Hans Landa eating a Strudel](http://9gag.com/gag/aD2zYrd)
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
 
 ---
 

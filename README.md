@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
- - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 😝 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 👉 [New challenge](http://9gag.com/gag/aVvMENv)<!-- MEMES:END -->
+ - 😝 [Cosplay of the year](http://9gag.com/gag/axy0WQW)
+ - 😝 [Waiiiit a minute..](http://9gag.com/gag/aRBjMD5)
+ - 💣 [Can I mail order a geisha](http://9gag.com/gag/aBy8VOQ)
+ - 😝 [A full police patrol goes to the home of a young man in Ireland to arrest him for criticising the \u2018trans\u2019 ideology and his father explodes: \u201cIt is a disgrace that you have come for this. My son has an impeccable record, go chase down drug traffickers and crime.\u201d](http://9gag.com/gag/ajPNO4g)
+ - 👉 [We were kings and such](http://9gag.com/gag/ayNx4Qp)<!-- MEMES:END -->
 
 ---
 

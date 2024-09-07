@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they dumb? If only they realize how people down bad for OW Pharah](http://9gag.com/gag/aGye8rG)
- - 😝 [At 12AM. Weekday bylaw said I was the 8th caller. Nothing done.. Ooh Canada \ud83c\udde8\ud83c\udde6](http://9gag.com/gag/aVvMggw)
- - 💣 [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)
- - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 👉 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)<!-- MEMES:END -->
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [How Velcro works in macro](http://9gag.com/gag/aGyeyDn)
+ - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
+ - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
 
 ---
 

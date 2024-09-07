@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
- - 😝 [I am developing my own game](http://9gag.com/gag/a4PGP61)
- - 💣 [And he is wearing a flannel shirt](http://9gag.com/gag/aBy8LE2)
- - 😝 [Even the Instrument didn&#39;t know what happened](http://9gag.com/gag/axy0ywK)
- - 👉 [W.C.](http://9gag.com/gag/a34MAGQ)<!-- MEMES:END -->
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 💣 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
 
 ---
 

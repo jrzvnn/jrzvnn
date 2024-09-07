@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Apple’s ‘Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai)
  - [Payroll startup Warp, part of YC&#39;s W23 batch, disavows a racist post from an affiliate X account, amid claims its affiliates on X are posting &quot;engagement bait&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240907/p8#a240907p8)
  - [Nanoleaf finally launches a smart switch after eight years of trying](https://www.theverge.com/2024/9/7/24235620/nanoleaf-sense-plus-smart-switch-thread-matter-litewave)
  - [Large WHO-Backed Study Revives Cell Phone and Cancer Risk Conversation](https://www.cnet.com/health/medical/large-who-backed-study-revives-cell-phone-and-cancer-risk-conversation/#ftag=CAD590a51e)
- - [Keep an Eye on the Sky: Don&#39;t Miss the Imminent &#39;Blaze Star&#39; Explosion This Month](https://www.cnet.com/science/keep-an-eye-on-the-sky-dont-miss-the-imminent-blaze-star-explosion-this-month/#ftag=CAD590a51e)
- - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)<!-- TECH:END -->
+ - [Keep an Eye on the Sky: Don&#39;t Miss the Imminent &#39;Blaze Star&#39; Explosion This Month](https://www.cnet.com/science/keep-an-eye-on-the-sky-dont-miss-the-imminent-blaze-star-explosion-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

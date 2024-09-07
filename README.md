@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Mosquito-Borne Disease ‘Triple E’ Is Spreading in the US as Temperatures Rise](https://www.wired.com/story/the-mosquito-borne-disease-triple-e-is-spreading-in-the-us-as-temperatures-rise/)
  - [The 42 Best Shows on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [DirecTV Loses Disney, ESPN and ABC: Find Other Ways to Watch US Open Tennis and Football](https://www.cnet.com/tech/services-and-software/directv-loses-disney-espn-and-abc-find-other-ways-to-watch-us-open-tennis-and-football/#ftag=CAD590a51e)
  - [Character.AI, Aleph Alpha, and other AI startups that raised hundreds of millions are struggling to compete against better-funded rivals and Big Tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240907/p3#a240907p3)
- - [The 41 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [The 41 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [How Do You Solve a Problem Like Polestar?](https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

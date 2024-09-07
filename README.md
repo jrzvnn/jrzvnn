@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
  - [The 7 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
- - [Why Polio Has Reemerged in Gaza](https://www.wired.com/story/how-did-polio-reemerge-in-gaza-after-a-quarter-of-a-century-virologist/)
- - [It’s time for the regular iPhone to shine](https://www.theverge.com/2024/9/7/24237732/apple-glowtime-event-2024-iphone-16-launch)
- - [Hackers Threaten to Leak Planned Parenthood Data](https://www.wired.com/story/hackers-threaten-to-leak-planned-parenthood-data/)
- - [Verizon Fios Home Internet Review: Plans, Pricing, Speeds and Availability](https://www.cnet.com/home/internet/verizon-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starliner Spacecraft Leaves Astronauts Stranded in Space. Here&#39;s How They&#39;ll Be Rescued](https://www.cnet.com/science/starliner-spacecraft-leaves-astronauts-stranded-in-space-heres-how-theyll-be-rescued/#ftag=CAD590a51e)
+ - [How to Find the Job of Your Dreams Using ChatGPT](https://www.cnet.com/tech/services-and-software/how-to-find-the-job-of-your-dreams-using-chatgpt/#ftag=CAD590a51e)
+ - [iPhone 16: All the New Features We&#39;ll Likely See From Monday&#39;s Reveal](https://www.cnet.com/tech/mobile/iphone-16-all-the-new-features-well-likely-see-from-mondays-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

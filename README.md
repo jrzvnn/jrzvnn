@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least the building didn&#39;t collapse.](http://9gag.com/gag/azxqGjz)
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 👉 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)<!-- MEMES:END -->
+ - 😝 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
+ - 😝 [Dude must have went through a lot](http://9gag.com/gag/aXPvLVv)
+ - 💣 [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/aNDzLe6)
+ - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
 
 ---
 

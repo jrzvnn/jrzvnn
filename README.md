@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details the lack of enforcement of CA&#39;s Prop 22 about four years after the ballot initiative, backed by gig economy companies, became state law &lpar;Levi Sumagaysay/CalMatters&rpar;](http://www.techmeme.com/240907/p4#a240907p4)
  - [The Easiest Ways to Swap Contact Info Using Your Phone](https://www.wired.com/story/how-to-swap-contact-info-with-someone-using-your-phones/)
  - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
  - [The 7 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
- - [Starliner Spacecraft Leaves Astronauts Stranded in Space. Here&#39;s How They&#39;ll Be Rescued](https://www.cnet.com/science/starliner-spacecraft-leaves-astronauts-stranded-in-space-heres-how-theyll-be-rescued/#ftag=CAD590a51e)
- - [How to Find the Job of Your Dreams Using ChatGPT](https://www.cnet.com/tech/services-and-software/how-to-find-the-job-of-your-dreams-using-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starliner Spacecraft Leaves Astronauts Stranded in Space. Here&#39;s How They&#39;ll Be Rescued](https://www.cnet.com/science/starliner-spacecraft-leaves-astronauts-stranded-in-space-heres-how-theyll-be-rescued/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

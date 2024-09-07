@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Greatest flex](http://9gag.com/gag/a9yA8eL)
- - 😝 [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
- - 💣 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)
- - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
- - 👉 [Storytellers alert](http://9gag.com/gag/axy0bLb)<!-- MEMES:END -->
+ - 😝 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)
+ - 😝 [It just feels right.... One more time.](http://9gag.com/gag/aGyeLMG)
+ - 💣 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
+ - 😝 [1st place marathon runner takes wrong turn, but his competitor shows him respect](http://9gag.com/gag/an7jvDB)
+ - 👉 [Huehuehue](http://9gag.com/gag/aLn8e86)<!-- MEMES:END -->
 
 ---
 

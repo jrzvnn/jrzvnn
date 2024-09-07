@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iranian man tells Islamists calling for Sharia in the UK to go back to their countries](http://9gag.com/gag/a2v48b1)
- - 😝 [Even the Instrument didn&#39;t know what happened](http://9gag.com/gag/axy0ywK)
- - 💣 [Childhood friends who don&#39;t grow as much as you](http://9gag.com/gag/axy03jY)
- - 😝 [Cosplay of the year](http://9gag.com/gag/axy0WQW)
- - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 😝 [Bet she&#39;s great fun at parties!](http://9gag.com/gag/aNDzLvK)
+ - 💣 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)
+ - 👉 [Magician at the table](http://9gag.com/gag/aD2z2OB)<!-- MEMES:END -->
 
 ---
 

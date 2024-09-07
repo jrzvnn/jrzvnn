@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 💣 [Hans Landa eating a Strudel](http://9gag.com/gag/aD2zYrd)
  - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
+ - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
+ - 💣 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
+ - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 👉 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Character.AI, Aleph Alpha, and other AI startups that raised hundreds of millions are struggling to compete against better-funded rivals and Big Tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240907/p3#a240907p3)
+ - [The 41 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [How Do You Solve a Problem Like Polestar?](https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/)
  - [Best iPhone in 2024: Which Apple Phone Should You Buy?](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Our Bonkers Camera Clash: We Put the iPhone 15 Pro Max Against the Galaxy S24 Ultra](https://www.cnet.com/tech/mobile/our-bonkers-camera-clash-we-put-the-iphone-15-pro-max-against-the-galaxy-s24-ultra/#ftag=CAD590a51e)
- - [Don&#39;t Expect a Radical Design Change on the iPhone 16](https://www.cnet.com/tech/mobile/dont-expect-a-radical-design-change-on-the-iphone-16/#ftag=CAD590a51e)
- - [A look at the DOJ&#39;s and multiple states&#39; antitrust lawsuit against Google&#39;s ad business, as its trial is set to begin on September 9 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240907/p2#a240907p2)<!-- TECH:END -->
+ - [Our Bonkers Camera Clash: We Put the iPhone 15 Pro Max Against the Galaxy S24 Ultra](https://www.cnet.com/tech/mobile/our-bonkers-camera-clash-we-put-the-iphone-15-pro-max-against-the-galaxy-s24-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

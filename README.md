@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have fast and furious at home](http://9gag.com/gag/azxq2wN)
- - 😝 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
- - 💣 [New challenge](http://9gag.com/gag/aVvMENv)
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
+ - 😝 [Iranian man tells Islamists calling for Sharia in the UK to go back to their countries](http://9gag.com/gag/a2v48b1)
+ - 😝 [Even the Instrument didn&#39;t know what happened](http://9gag.com/gag/axy0ywK)
+ - 💣 [Childhood friends who don&#39;t grow as much as you](http://9gag.com/gag/axy03jY)
+ - 😝 [Cosplay of the year](http://9gag.com/gag/axy0WQW)
+ - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
 
 ---
 

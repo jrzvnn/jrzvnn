@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 💣 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
+ - 😝 [An Australian gardener after 30 years of trying has created a new variety of Avocado. The new `Jala` variety has massive fruit, a firm buttery flesh and is resistant to oxidation after being cut. The first release has already sold out in nurseries.](http://9gag.com/gag/aVvMKdM)
+ - 😝 [A full police patrol goes to the home of a young man in Ireland to arrest him for criticising the \u2018trans\u2019 ideology and his father explodes: \u201cIt is a disgrace that you have come for this. My son has an impeccable record, go chase down drug traffickers and crime.\u201d](http://9gag.com/gag/ajPNO4g)
+ - 💣 [Waiiiit a minute..](http://9gag.com/gag/aRBjMD5)
+ - 😝 [We were kings and such](http://9gag.com/gag/ayNx4Qp)
+ - 👉 [Can I mail order a geisha](http://9gag.com/gag/aBy8VOQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
- - 😝 [I am developing my own game](http://9gag.com/gag/a4PGP61)
- - 💣 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)
- - 😝 [W.C.](http://9gag.com/gag/a34MAGQ)
- - 👉 [151 DNA samples were taken from mummies. A grand total of 0 came back as...](http://9gag.com/gag/aPA9PBq)<!-- MEMES:END -->
+ - 😝 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
+ - 😝 [Dutch politician Geert Wilder showing a drawing of Mohammed. Guess how many death threats he got so far?](http://9gag.com/gag/a0e5VYz)
+ - 💣 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
+ - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 👉 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)<!-- MEMES:END -->
 
 ---
 

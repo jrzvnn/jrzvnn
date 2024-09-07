@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Payroll startup Warp, part of YC&#39;s winter 2023 batch, disavows a racist post from an affiliate on X, amid criticism its affiliates are posting &quot;engagement bait&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240907/p8#a240907p8)
  - [Nanoleaf finally launches a smart switch after eight years of trying](https://www.theverge.com/2024/9/7/24235620/nanoleaf-sense-plus-smart-switch-thread-matter-litewave)
  - [Large WHO-Backed Study Revives Cell Phone and Cancer Risk Conversation](https://www.cnet.com/health/medical/large-who-backed-study-revives-cell-phone-and-cancer-risk-conversation/#ftag=CAD590a51e)
  - [Keep an Eye on the Sky: Don&#39;t Miss the Imminent &#39;Blaze Star&#39; Explosion This Month](https://www.cnet.com/science/keep-an-eye-on-the-sky-dont-miss-the-imminent-blaze-star-explosion-this-month/#ftag=CAD590a51e)
- - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
- - [Hero Games&#39; Daniel Wu reflects on his studio&#39;s 20% stake in Game Science, the creator of China&#39;s biggest PC game Black Myth: Wukong, which has sold 18M+ copies &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240907/p7#a240907p7)<!-- TECH:END -->
+ - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

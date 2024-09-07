@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
- - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
- - 💣 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [Huehuehue](http://9gag.com/gag/aLn8e86)
- - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
+ - 😝 [Christopher Lee and Peter Cushing&#39;s last photo together 1994](http://9gag.com/gag/amo21jo)
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 💣 [Dashcam video of an earthquake while driving on a bridge.](http://9gag.com/gag/a5QnV2y)
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 👉 [How crazy are you? Yes](http://9gag.com/gag/abAz1RX)<!-- MEMES:END -->
 
 ---
 

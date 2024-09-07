@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
- - 😝 [You don&#39;t always get what you want](http://9gag.com/gag/avy7WZd)
- - 💣 [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/aNDzLe6)
+ - 😝 [At least the building didn&#39;t collapse.](http://9gag.com/gag/azxqGjz)
  - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
+ - 💣 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
+ - 👉 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Grid’s framed old-school gadgets are over 40 percent off](https://www.theverge.com/2024/9/7/24237525/grid-studio-framed-tech-paramount-plus-deal-sale)
+ - [5 Ways Amazon Alexa Can Help on Laundry Day](https://www.cnet.com/home/smart-home/5-ways-amazon-alexa-can-help-on-laundry-day/#ftag=CAD590a51e)
  - [An investigation details the lack of enforcement of CA&#39;s Prop 22 about four years after the ballot initiative, backed by gig economy companies, became state law &lpar;Levi Sumagaysay/CalMatters&rpar;](http://www.techmeme.com/240907/p4#a240907p4)
  - [The Easiest Ways to Swap Contact Info Using Your Phone](https://www.wired.com/story/how-to-swap-contact-info-with-someone-using-your-phones/)
- - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [The 7 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
+ - [National Novel Writing Month Faces Backlash Over AI Issues](https://www.cnet.com/tech/services-and-software/national-novel-writing-month-faces-backlash-over-ai-issues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

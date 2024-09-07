@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 😝 [Maybe repost](http://9gag.com/gag/a6ZVZKA)
- - 💣 [Gravity](http://9gag.com/gag/a5QnX6G)
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 👉 [Their people gave up?](http://9gag.com/gag/aBy8yRz)<!-- MEMES:END -->
+ - 😝 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
+ - 😝 [I am developing my own game](http://9gag.com/gag/a4PGP61)
+ - 💣 [And he is wearing a flannel shirt](http://9gag.com/gag/aBy8LE2)
+ - 😝 [Even the Instrument didn&#39;t know what happened](http://9gag.com/gag/axy0ywK)
+ - 👉 [W.C.](http://9gag.com/gag/a34MAGQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An Australian gardener after 30 years of trying has created a new variety of Avocado. The new `Jala` variety has massive fruit, a firm buttery flesh and is resistant to oxidation after being cut. The first release has already sold out in nurseries.](http://9gag.com/gag/aVvMKdM)
- - 😝 [A full police patrol goes to the home of a young man in Ireland to arrest him for criticising the \u2018trans\u2019 ideology and his father explodes: \u201cIt is a disgrace that you have come for this. My son has an impeccable record, go chase down drug traffickers and crime.\u201d](http://9gag.com/gag/ajPNO4g)
- - 💣 [Waiiiit a minute..](http://9gag.com/gag/aRBjMD5)
- - 😝 [We were kings and such](http://9gag.com/gag/ayNx4Qp)
- - 👉 [Can I mail order a geisha](http://9gag.com/gag/aBy8VOQ)<!-- MEMES:END -->
+ - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 😝 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
+ - 💣 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
+ - 👉 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)<!-- MEMES:END -->
 
 ---
 

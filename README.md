@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huehuehue](http://9gag.com/gag/aLn8e86)
- - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 💣 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)
- - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 😝 [Greatest flex](http://9gag.com/gag/a9yA8eL)
+ - 😝 [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
+ - 💣 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)
+ - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
+ - 👉 [Storytellers alert](http://9gag.com/gag/axy0bLb)<!-- MEMES:END -->
 
 ---
 

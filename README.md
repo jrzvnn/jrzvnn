@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Expect a Radical Design Change on the iPhone 16](https://www.cnet.com/tech/mobile/dont-expect-a-radical-design-change-on-the-iphone-16/#ftag=CAD590a51e)
  - [A look at the DOJ&#39;s and multiple states&#39; antitrust lawsuit against Google&#39;s ad business, as its trial is set to begin on September 9 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240907/p2#a240907p2)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-7/#ftag=CAD590a51e)
  - [Companies and customers say the cost of renting cloud services using Nvidia&#39;s A100 and H100 chips is lower in China than in the US despite the export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/240907/p1#a240907p1)
- - [Human Bird Flu Case Reported in US Without Known Animal Contact](https://www.cnet.com/health/medical/human-bird-flu-case-reported-in-us-without-known-animal-contact/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Human Bird Flu Case Reported in US Without Known Animal Contact](https://www.cnet.com/health/medical/human-bird-flu-case-reported-in-us-without-known-animal-contact/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 7, #188](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-7-188/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

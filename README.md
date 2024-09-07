@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hackers Threaten to Leak Planned Parenthood Data](https://www.wired.com/story/hackers-threaten-to-leak-planned-parenthood-data/)
- - [The 42 Best Shows on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The Mosquito-Borne Disease ‘Triple E’ Is Spreading in the US as Temperatures Rise](https://www.wired.com/story/the-mosquito-borne-disease-triple-e-is-spreading-in-the-us-as-temperatures-rise/)
- - [DirecTV Loses Disney, ESPN and ABC: Find Other Ways to Watch US Open Tennis and Football](https://www.cnet.com/tech/services-and-software/directv-loses-disney-espn-and-abc-find-other-ways-to-watch-us-open-tennis-and-football/#ftag=CAD590a51e)
- - [Character.AI, Aleph Alpha, and other AI startups that raised hundreds of millions are struggling to compete against better-funded rivals and Big Tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240907/p3#a240907p3)<!-- TECH:END -->
+ - [Verizon Fios Home Internet Review: Plans, Pricing, Speeds and Availability](https://www.cnet.com/home/internet/verizon-internet-review/#ftag=CAD590a51e)
+ - [It Would Be Wild If Apple Added This Feature to the iPhone 16](https://www.cnet.com/tech/mobile/it-would-be-wild-if-apple-added-this-feature-to-the-iphone-16/#ftag=CAD590a51e)
+ - [Get a Head Start on iOS 18 by Backing Up Your iPhone Correctly First](https://www.cnet.com/tech/mobile/get-a-head-start-on-ios-18-by-backing-up-your-iphone-correctly-first/#ftag=CAD590a51e)
+ - [This Jupiter-Sized Planet Rains Molten Glass. Where It Was Found and What to Know](https://www.cnet.com/science/this-jupiter-sized-planet-rains-molten-glass-where-it-was-found-and-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

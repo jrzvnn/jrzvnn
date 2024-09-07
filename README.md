@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An Australian gardener after 30 years of trying has created a new variety of Avocado. The new `Jala` variety has massive fruit, a firm buttery flesh and is resistant to oxidation after being cut. The first release has already sold out in nurseries.](http://9gag.com/gag/aVvMKdM)
- - 😝 [Waiiiit a minute..](http://9gag.com/gag/aRBjMD5)
- - 💣 [A full police patrol goes to the home of a young man in Ireland to arrest him for criticising the \u2018trans\u2019 ideology and his father explodes: \u201cIt is a disgrace that you have come for this. My son has an impeccable record, go chase down drug traffickers and crime.\u201d](http://9gag.com/gag/ajPNO4g)
- - 😝 [Can I mail order a geisha](http://9gag.com/gag/aBy8VOQ)
- - 👉 [We were kings and such](http://9gag.com/gag/ayNx4Qp)<!-- MEMES:END -->
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [Airless tires on a bike \ud83d\udeb2](http://9gag.com/gag/aAyDyML)
+ - 💣 [Women](http://9gag.com/gag/aW4qpN6)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
 
 ---
 

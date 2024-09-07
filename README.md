@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Mac malware strain uses remote access tools to steal data](https://appleinsider.com/articles/24/09/07/new-mac-malware-strain-uses-remote-access-tools-to-steal-data?utm_medium=rss)
  - [A profile of Pavel Durov&#39;s older brother Nikolai, who is reportedly still in Russia and is responsible for Telegram&#39;s encryption standard MTProto protocol &lpar;Eva Hartog/Politico&rpar;](http://www.techmeme.com/240907/p5#a240907p5)
  - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
  - [Boeing Starliner has completed its lonely return to Earth](https://www.theverge.com/2024/9/7/24238245/boeing-starliner-landing-nasa-astronauts-stranded-iss)
- - [HHKB Studio Review: The Programmer&#39;s Mechanical Keyboard](https://www.wired.com/review/hhkb-studio/)
- - [Stream Privately: Expert Tips for Setting Up a VPN on Your Smart TV](https://www.cnet.com/tech/services-and-software/stream-privately-expert-tips-for-setting-up-a-vpn-on-your-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HHKB Studio Review: The Programmer&#39;s Mechanical Keyboard](https://www.wired.com/review/hhkb-studio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

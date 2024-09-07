@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gravity](http://9gag.com/gag/a5QnX6G)
- - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 💣 [Something strange](http://9gag.com/gag/adB9O1D)
- - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 👉 [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)<!-- MEMES:END -->
+ - 😝 [Hans Landa eating a Strudel](http://9gag.com/gag/aD2zYrd)
+ - 😝 [Something strange](http://9gag.com/gag/adB9O1D)
+ - 💣 [Their people gave up?](http://9gag.com/gag/aBy8yRz)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
 
 ---
 

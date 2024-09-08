@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
- - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
- - 💣 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 😝 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 😝 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
+ - 💣 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)
+ - 😝 [One last sniff before I go](http://9gag.com/gag/a2v4wVE)
  - 👉 [Jump rope](http://9gag.com/gag/a1mKVpb)<!-- MEMES:END -->
 
 ---

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [London&#39;s e-bike boom is frustrating local councils over parking issues, as Lime and Forest expand; Lime trips during peak hours have grown 91% YoY in 2024 &lpar;Joshua Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/240908/p6#a240908p6)
  - [Researchers say a bug let them add fake pilots to rosters used for TSA checks](https://www.theverge.com/2024/9/8/24239026/airline-security-bug-tsa-security-database-sql-injection-hack)
- - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
- - [Casper Snow Max Hybrid Mattress Review 2024: A Premium Bed Tested by Experts](https://www.cnet.com/health/sleep/casper-snow-max-hybrid-mattress-review/#ftag=CAD590a51e)
- - [How to Buy an Electric Bike &lpar;2024&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)<!-- TECH:END -->
+ - [Cowboys vs. Browns Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/cowboys-vs-browns-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Commanders vs. Buccaneers Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/commanders-vs-buccaneers-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [DirecTV-Disney Outage Heats Up as Monday Night Football and Presidential Debate Approach](https://www.cnet.com/tech/services-and-software/directv-disney-outage-heats-up-as-monday-night-football-and-presidential-debate-approach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

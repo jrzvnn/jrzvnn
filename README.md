@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 😝 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
- - 💣 [Speak &#39;Friend&#39; and enter.](http://9gag.com/gag/aD2z6WG)
- - 😝 [At least the building didn&#39;t collapse.](http://9gag.com/gag/azxqGjz)
- - 👉 [Degeneracy](http://9gag.com/gag/a0e5Xzq)<!-- MEMES:END -->
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
+ - 💣 [Please do not the cat](http://9gag.com/gag/aLn8z35)
+ - 😝 [Speak &#39;Friend&#39; and enter.](http://9gag.com/gag/aD2z6WG)
+ - 👉 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)<!-- MEMES:END -->
 
 ---
 

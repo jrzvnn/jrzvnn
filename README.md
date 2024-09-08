@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 💣 [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 😝 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
  - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
- - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 💣 [Trying to save her mortal soul from attention whoring](http://9gag.com/gag/a9yAv81)
+ - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
+ - 👉 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)<!-- MEMES:END -->
 
 ---
 

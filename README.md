@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Texas-based Tyler Tech, which has become a dominant US local government software provider, despite a history of software flaws and release delays &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240908/p3#a240908p3)
  - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
  - [A look at the 2nd Circuit&#39;s incredibly damaging ruling favoring publishers in a copyright dispute over The Internet Archive&#39;s ebook lending program &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240908/p2#a240908p2)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-8/#ftag=CAD590a51e)
- - [CelesTrak: SpaceX controls 62%+ of all active satellites in orbit, ~10x more than closest rival OneWeb, after launching its 7,000th Starlink satellite on Sep. 5 &lpar;Anthony Cuthbertson/The Independent&rpar;](http://www.techmeme.com/240908/p1#a240908p1)
- - [Sources: xAI discussed a deal that would give Tesla access to its AI models to help power Full Self-Driving in exchange for a share of Tesla&#39;s software revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240907/p10#a240907p10)<!-- TECH:END -->
+ - [CelesTrak: SpaceX controls 62%+ of all active satellites in orbit, ~10x more than closest rival OneWeb, after launching its 7,000th Starlink satellite on Sep. 5 &lpar;Anthony Cuthbertson/The Independent&rpar;](http://www.techmeme.com/240908/p1#a240908p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

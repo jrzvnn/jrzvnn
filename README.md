@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
- - 💣 [`I wish we can back to middle age` Middle age:](http://9gag.com/gag/axy0R5D)
- - 😝 [Weird religion](http://9gag.com/gag/a5Qn2QG)
- - 👉 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)<!-- MEMES:END -->
+ - 😝 [Making a Lego domino ring](http://9gag.com/gag/a4PGAD6)
+ - 😝 [The 80&#39;s were truly a golden age](http://9gag.com/gag/a7oD2Zz)
+ - 💣 [Road fun](http://9gag.com/gag/a34MWYr)
+ - 😝 [Bryan Cranston is so good at everything](http://9gag.com/gag/a4PG2Gd)
+ - 👉 [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)<!-- MEMES:END -->
 
 ---
 

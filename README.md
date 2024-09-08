@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
  - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 💣 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
  - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 👉 [Look twice](http://9gag.com/gag/a0e5XZB)<!-- MEMES:END -->
+ - 💣 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
+ - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 👉 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)<!-- MEMES:END -->
 
 ---
 

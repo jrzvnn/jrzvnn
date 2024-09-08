@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
- - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
- - 💣 [Deep thoughts with The Deep](http://9gag.com/gag/azxqPnq)
  - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
- - 👉 [Best date ever...?](http://9gag.com/gag/a1mK5QP)<!-- MEMES:END -->
+ - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - 😝 [Me seeing everybody here with cancer. Don\u2019t worry we don\u2019t need organs, we are all organ donors.](http://9gag.com/gag/apRQDY5)
+ - 👉 [The real Michael Jackson](http://9gag.com/gag/an7j24E)<!-- MEMES:END -->
 
 ---
 

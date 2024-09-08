@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
  - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 💣 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
- - 😝 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
- - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
+ - 💣 [New challenge](http://9gag.com/gag/aVvMENv)
+ - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 👉 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)<!-- MEMES:END -->
 
 ---
 

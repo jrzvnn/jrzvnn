@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)
- - 😝 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)
- - 💣 [Solo Leveling alt. Version.](http://9gag.com/gag/ayNx6Kb)
- - 😝 [Several cracks, some of them of considerable size, have appeared in the metropolitan area of Los Angeles, California.](http://9gag.com/gag/a4PGn6A)
- - 👉 [1st place marathon runner takes wrong turn, but his competitor shows him respect](http://9gag.com/gag/an7jvDB)<!-- MEMES:END -->
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [Forget Guns! GET A SHOVEL!!!!](http://9gag.com/gag/apRQ6vE)
+ - 💣 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
+ - 👉 [At least the building didn&#39;t collapse.](http://9gag.com/gag/azxqGjz)<!-- MEMES:END -->
 
 ---
 

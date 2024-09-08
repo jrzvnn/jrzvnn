@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some creators move from unpredictable algorithm-driven platforms to subscription services; YouTube group The Try Guys launched 2nd Try, a $5/month streamer &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/240908/p4#a240908p4)
- - [The Best Mechanical Keyboards &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
- - [Check if Your Social Security Number Is in of the National Public Data Hack](https://www.cnet.com/personal-finance/check-if-your-social-security-number-is-in-of-the-national-public-data-hack/#ftag=CAD590a51e)
- - [Apple Intelligence&#39;s Image Playground, Genmoji to wait until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
- - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Apple to introduce FineWoven replacement cases with iPhone 16 debut](https://appleinsider.com/articles/24/09/08/apple-to-introduce-finewoven-replacement-cases-with-iphone-16-debut?utm_medium=rss)
+ - [Apple could hold an October event to refresh its smallest iPads and Macs](https://www.theverge.com/2024/9/8/24238955/apple-october-event-m4-mac-mini-imac-macbook-ipad)
+ - [The Best 2-in-1 Laptops to Flip Between Work and Play &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)
+ - [Sources: Apple will launch Image Playground and Genmoji in iOS 18.2; Sonos cuts its plans to build ~1M units of Ace headphones per year, to ~100K per year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240908/p5#a240908p5)
+ - [Call of Duty: Black Ops 6 Open Beta— Last Chance to Play in Week 2](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-open-beta-last-chance-to-play-in-week-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

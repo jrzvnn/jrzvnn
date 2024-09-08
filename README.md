@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stunning and brave](http://9gag.com/gag/an7jvpq)
- - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
- - 💣 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
- - 😝 [`I wish we can back to middle age` Middle age:](http://9gag.com/gag/axy0R5D)
- - 👉 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)<!-- MEMES:END -->
+ - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
+ - 💣 [`I wish we can back to middle age` Middle age:](http://9gag.com/gag/axy0R5D)
+ - 😝 [Weird religion](http://9gag.com/gag/a5Qn2QG)
+ - 👉 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)<!-- MEMES:END -->
 
 ---
 

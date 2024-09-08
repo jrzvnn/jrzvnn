@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man stole $122M from Facebook &amp; Google by simply sending them random bills which they paid.](http://9gag.com/gag/aBy8Gyz)
- - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
- - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
+ - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
+ - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
+ - 😝 [Synchronicity](http://9gag.com/gag/aKGDe7g)
+ - 👉 [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)<!-- MEMES:END -->
 
 ---
 

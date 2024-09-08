@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
- - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
- - 💣 [Trying to save her mortal soul from attention whoring](http://9gag.com/gag/a9yAv81)
- - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
- - 👉 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)<!-- MEMES:END -->
+ - 😝 [\u201cDammit Jeffrey! That\u2019s the 3rd time this week!\u201d](http://9gag.com/gag/a878mB6)
+ - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
+ - 💣 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 ---
 

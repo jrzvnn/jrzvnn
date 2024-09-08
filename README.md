@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [Forget Guns! GET A SHOVEL!!!!](http://9gag.com/gag/apRQ6vE)
- - 💣 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 😝 [American P51 Mustang strafes resupply train](http://9gag.com/gag/aGyen6w)
  - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
- - 👉 [At least the building didn&#39;t collapse.](http://9gag.com/gag/azxqGjz)<!-- MEMES:END -->
+ - 💣 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
+ - 😝 [Huehuehue](http://9gag.com/gag/aLn8e86)
+ - 👉 [Look twice](http://9gag.com/gag/a0e5XZB)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [CelesTrak: SpaceX controls 62%+ of all active satellites in orbit, ~10x more than closest rival OneWeb, after launching its 7,000th Starlink satellite on Sep. 5 &lpar;Anthony Cuthbertson/The Independent&rpar;](http://www.techmeme.com/240908/p1#a240908p1)
  - [Sources: xAI discussed a deal that would give Tesla access to its AI models to help power Full Self-Driving in exchange for a share of Tesla&#39;s software revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240907/p10#a240907p10)
- - [Social Security September 2024: The Second Round of Payments Are Headed Out Soon](https://www.cnet.com/personal-finance/social-security-september-2024-the-second-round-of-payments-are-headed-out-soon/#ftag=CAD590a51e)
- - [Bluesky says it had over 9M users as of September 6, after adding 3M new users in the week or so since Brazil blocked X, and that video support is &quot;coming soon&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240907/p9#a240907p9)
- - [How to watch Apple’s ‘Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 8, #1177](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-8-1177/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 8 #455](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-8-455/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 8, #189](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-8-189/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

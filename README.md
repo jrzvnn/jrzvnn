@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
- - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 😝 [Synchronicity](http://9gag.com/gag/aKGDe7g)
- - 👉 [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)<!-- MEMES:END -->
+ - 😝 [Accurate](http://9gag.com/gag/aKGDYeQ)
+ - 😝 [Do you agree?](http://9gag.com/gag/aW4q2YA)
+ - 💣 [Meanwhile in Nederland](http://9gag.com/gag/avy7RVq)
+ - 😝 [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
+ - 👉 [God bless the polish border patrol](http://9gag.com/gag/aYQ4q6q)<!-- MEMES:END -->
 
 ---
 

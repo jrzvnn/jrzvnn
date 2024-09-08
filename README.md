@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
+ - 😝 [Unique lock designs](http://9gag.com/gag/awyQOQQ)
  - 😝 [This video will make your day better. Watch the dog&#39;s reaction when he feels the baby kick](http://9gag.com/gag/aNDzBK3)
  - 💣 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)
  - 😝 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)

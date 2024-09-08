@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 💣 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
- - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 👉 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)<!-- MEMES:END -->
+ - 😝 [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
+ - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
+ - 💣 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)
+ - 😝 [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
+ - 👉 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)<!-- MEMES:END -->
 
 ---
 

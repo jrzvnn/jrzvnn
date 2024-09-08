@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
- - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
- - 💣 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)
+ - 😝 [Jump rope](http://9gag.com/gag/a1mKVpb)
+ - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
  - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
- - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 👉 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
- - 💣 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)
- - 😝 [One last sniff before I go](http://9gag.com/gag/a2v4wVE)
- - 👉 [Jump rope](http://9gag.com/gag/a1mKVpb)<!-- MEMES:END -->
+ - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
+ - 💣 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)
+ - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 ---
 

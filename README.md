@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Biggest Controversy in Cosmology Just Got Bigger](https://www.wired.com/story/the-biggest-controversy-in-cosmology-just-got-deeper/)
+ - [This Trick Will Keep the Gap Between Your Stove and Countertop Clean](https://www.cnet.com/home/kitchen-and-household/this-trick-will-keep-the-gap-between-your-stove-and-countertop-clean/#ftag=CAD590a51e)
+ - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
  - [A profile of Texas-based Tyler Tech, which has become a dominant US local government software provider, despite a history of software flaws and release delays &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240908/p3#a240908p3)
- - [IdentityIQ Review: Best Identity Theft Protection Service for Customized Plans](https://www.cnet.com/how-to/identityiq-review/#ftag=CAD590a51e)
- - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [Best Phones Under $300 in 2024](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16: Every Feature We Expect Apple To Announce Tomorrow](https://www.cnet.com/tech/mobile/iphone-16-every-feature-we-expect-apple-to-announce-tomorrow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

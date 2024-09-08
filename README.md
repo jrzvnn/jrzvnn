@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to introduce FineWoven replacement cases with iPhone 16 debut](https://appleinsider.com/articles/24/09/08/apple-to-introduce-finewoven-replacement-cases-with-iphone-16-debut?utm_medium=rss)
- - [Apple could hold an October event to refresh its smallest iPads and Macs](https://www.theverge.com/2024/9/8/24238955/apple-october-event-m4-mac-mini-imac-macbook-ipad)
- - [The Best 2-in-1 Laptops to Flip Between Work and Play &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)
- - [Sources: Apple will launch Image Playground and Genmoji in iOS 18.2; Sonos cuts its plans to build ~1M units of Ace headphones per year, to ~100K per year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240908/p5#a240908p5)
- - [Call of Duty: Black Ops 6 Open Beta— Last Chance to Play in Week 2](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-open-beta-last-chance-to-play-in-week-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Buy an Electric Bike &lpar;2024&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
+ - [Watch UEFA Nations League Soccer: Livestream Portugal vs. Scotland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-portugal-vs-scotland-from-anywhere/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
+ - [ChatGPT Glossary: 45 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-45-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
+ - [Apple to introduce FineWoven replacement cases with iPhone 16 debut](https://appleinsider.com/articles/24/09/08/apple-to-introduce-finewoven-replacement-cases-with-iphone-16-debut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

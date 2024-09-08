@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1st place marathon runner takes wrong turn, but his competitor shows him respect](http://9gag.com/gag/an7jvDB)
+ - 😝 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
+ - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 💣 [New challenge](http://9gag.com/gag/aVvMENv)
  - 😝 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
- - 💣 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
- - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
+ - 👉 [The King under the mountain](http://9gag.com/gag/aMVAB76)<!-- MEMES:END -->
 
 ---
 

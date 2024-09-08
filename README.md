@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch Rams vs. Lions Tonight on Sunday Night Football](https://www.cnet.com/tech/services-and-software/how-to-watch-rams-vs-lions-tonight-on-sunday-night-football/#ftag=CAD590a51e)
  - [Kendrick Lamar to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/24/09/08/kendrick-lamar-to-headline-apples-2025-super-bowl-half-time-show?utm_medium=rss)
  - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)
  - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Apple may have to give up $14B escrow account to satisfy EU court on Tuesday](https://appleinsider.com/articles/24/09/08/apple-may-have-to-give-up-14b-plus-escrow-account-to-satisfy-eu-court?utm_medium=rss)
- - [Bending Spoons plans to lay off 75% of WeTransfer staff after acquiring the file-sharing service in July 2024; WeTransfer reportedly has 350+ employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240908/p7#a240908p7)<!-- TECH:END -->
+ - [Apple may have to give up $14B escrow account to satisfy EU court on Tuesday](https://appleinsider.com/articles/24/09/08/apple-may-have-to-give-up-14b-plus-escrow-account-to-satisfy-eu-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

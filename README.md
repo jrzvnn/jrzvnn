@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Synchronicity](http://9gag.com/gag/aKGDe7g)
+ - 😝 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
+ - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
  - 😝 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
- - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 💣 [Man made horrors beyond my comprehension](http://9gag.com/gag/aD2znE7)
- - 😝 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)
- - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
+ - 👉 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)<!-- MEMES:END -->
 
 ---
 

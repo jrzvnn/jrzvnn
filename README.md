@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American P51 Mustang strafes resupply train](http://9gag.com/gag/aGyen6w)
- - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
- - 💣 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
- - 😝 [Huehuehue](http://9gag.com/gag/aLn8e86)
- - 👉 [Look twice](http://9gag.com/gag/a0e5XZB)<!-- MEMES:END -->
+ - 😝 [It&#39;s not like in the movies!](http://9gag.com/gag/azxqO2m)
+ - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 💣 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)
+ - 😝 [How crazy are you? Yes](http://9gag.com/gag/abAz1RX)
+ - 👉 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)<!-- MEMES:END -->
 
 ---
 

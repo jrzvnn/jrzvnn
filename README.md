@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unique lock designs](http://9gag.com/gag/awyQOQQ)
- - 😝 [This video will make your day better. Watch the dog&#39;s reaction when he feels the baby kick](http://9gag.com/gag/aNDzBK3)
- - 💣 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)
- - 😝 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)
- - 👉 [Welcome aboard solider](http://9gag.com/gag/aAyDMmo)<!-- MEMES:END -->
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 💣 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
+ - 😝 [Thinking outside the box](http://9gag.com/gag/avy7eGq)
+ - 👉 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)<!-- MEMES:END -->
 
 ---
 

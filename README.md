@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence&#39;s Image Playground, Genmoji to wait until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
+ - [Electric Grilling Is Still a Little Raw in the Middle](https://www.wired.com/story/electric-grilling-not-there-yet/)
  - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Alien Spaceships Could Be Detected Using Gravitational Waves](https://www.wired.com/story/alien-spaceships-could-be-detected-using-gravitational-waves/)
- - [The Apple Watch made smartwatches the wearable of choice](https://www.theverge.com/2024/9/8/24237890/apple-watch-10-years-smartwatch-wearables)
- - [An all-in-one app for the internet](https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer)
- - [Why You Need to Know Your Blood Type and 3 Methods to Identify Yours](https://www.cnet.com/health/medical/why-you-need-to-know-your-blood-type-and-3-methods-to-identify-yours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dinosaur-Killing Asteroid Origins: Scientists Believe They Now Know Where It Came From](https://www.cnet.com/tech/dinosaur-killing-asteroid-origins-scientists-believe-they-now-know-where-it-came-from/#ftag=CAD590a51e)
+ - [How to Read Laundry Symbols: What Those Icons on Clothing Tags Mean](https://www.cnet.com/home/kitchen-and-household/how-to-read-laundry-symbols-what-those-icons-on-clothing-tags-mean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)
  - [Apple may have to give up $14B escrow account to satisfy EU court on Tuesday](https://appleinsider.com/articles/24/09/08/apple-may-have-to-give-up-14b-plus-escrow-account-to-satisfy-eu-court?utm_medium=rss)
  - [Bending Spoons plans to lay off 75% of WeTransfer staff after acquiring the file-sharing service in July 2024; WeTransfer reportedly has 350+ employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240908/p7#a240908p7)
  - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)
- - [Need Internet for Your Apartment? Here&#39;s How to Get the Best Service](https://www.cnet.com/home/internet/need-internet-for-your-apartment-heres-how-to-get-the-best-service/#ftag=CAD590a51e)
- - [London&#39;s e-bike boom is frustrating local councils over parking issues, as Lime and Forest expand; Lime trips during peak hours have grown 91% YoY in 2024 &lpar;Joshua Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/240908/p6#a240908p6)<!-- TECH:END -->
+ - [Need Internet for Your Apartment? Here&#39;s How to Get the Best Service](https://www.cnet.com/home/internet/need-internet-for-your-apartment-heres-how-to-get-the-best-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

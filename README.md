@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
+ - 😝 [Stunning and brave](http://9gag.com/gag/an7jvpq)
  - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
- - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - 😝 [Me seeing everybody here with cancer. Don\u2019t worry we don\u2019t need organs, we are all organ donors.](http://9gag.com/gag/apRQDY5)
- - 👉 [The real Michael Jackson](http://9gag.com/gag/an7j24E)<!-- MEMES:END -->
+ - 💣 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
+ - 😝 [`I wish we can back to middle age` Middle age:](http://9gag.com/gag/axy0R5D)
+ - 👉 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)<!-- MEMES:END -->
 
 ---
 

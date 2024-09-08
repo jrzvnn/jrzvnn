@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biggest Controversy in Cosmology Just Got Bigger](https://www.wired.com/story/the-biggest-controversy-in-cosmology-just-got-deeper/)
- - [This Trick Will Keep the Gap Between Your Stove and Countertop Clean](https://www.cnet.com/home/kitchen-and-household/this-trick-will-keep-the-gap-between-your-stove-and-countertop-clean/#ftag=CAD590a51e)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [A profile of Texas-based Tyler Tech, which has become a dominant US local government software provider, despite a history of software flaws and release delays &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240908/p3#a240908p3)
- - [iPhone 16: Every Feature We Expect Apple To Announce Tomorrow](https://www.cnet.com/tech/mobile/iphone-16-every-feature-we-expect-apple-to-announce-tomorrow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Alien Spaceships Could Be Detected Using Gravitational Waves](https://www.wired.com/story/alien-spaceships-could-be-detected-using-gravitational-waves/)
+ - [The Apple Watch made smartwatches the wearable of choice](https://www.theverge.com/2024/9/8/24237890/apple-watch-10-years-smartwatch-wearables)
+ - [An all-in-one app for the internet](https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer)
+ - [The Biggest Controversy in Cosmology Just Got Bigger](https://www.wired.com/story/the-biggest-controversy-in-cosmology-just-got-deeper/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Killers of Utsab Mondal in bangladesh raising victory slogans outside the police station where the murder happened. Can see the blood on his clothes and police watching on. Bangladesh is on its way to be next Pakistan](http://9gag.com/gag/aKGDejZ)
- - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
- - 💣 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
- - 👉 [Quishing](http://9gag.com/gag/agmY4m1)<!-- MEMES:END -->
+ - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
+ - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
+ - 💣 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)
+ - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
+ - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 
 ---
 

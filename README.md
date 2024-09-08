@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Texas-based Tyler Tech, which has become a dominant US local government software provider, despite a history of software flaws and release delays &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240908/p3#a240908p3)
+ - [IdentityIQ Review: Best Identity Theft Protection Service for Customized Plans](https://www.cnet.com/how-to/identityiq-review/#ftag=CAD590a51e)
  - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [A look at the 2nd Circuit&#39;s incredibly damaging ruling favoring publishers in a copyright dispute over The Internet Archive&#39;s ebook lending program &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240908/p2#a240908p2)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-8/#ftag=CAD590a51e)
- - [CelesTrak: SpaceX controls 62%+ of all active satellites in orbit, ~10x more than closest rival OneWeb, after launching its 7,000th Starlink satellite on Sep. 5 &lpar;Anthony Cuthbertson/The Independent&rpar;](http://www.techmeme.com/240908/p1#a240908p1)<!-- TECH:END -->
+ - [Best Phones Under $300 in 2024](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
+ - [A look at the 2nd Circuit&#39;s incredibly damaging ruling favoring publishers in a copyright dispute over The Internet Archive&#39;s ebook lending program &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240908/p2#a240908p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

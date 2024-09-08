@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
+ - [Casper Snow Max Hybrid Mattress Review 2024: A Premium Bed Tested by Experts](https://www.cnet.com/health/sleep/casper-snow-max-hybrid-mattress-review/#ftag=CAD590a51e)
  - [How to Buy an Electric Bike &lpar;2024&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
  - [Watch UEFA Nations League Soccer: Livestream Portugal vs. Scotland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-portugal-vs-scotland-from-anywhere/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [ChatGPT Glossary: 45 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-45-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
- - [Apple to introduce FineWoven replacement cases with iPhone 16 debut](https://appleinsider.com/articles/24/09/08/apple-to-introduce-finewoven-replacement-cases-with-iphone-16-debut?utm_medium=rss)<!-- TECH:END -->
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

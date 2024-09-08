@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 💣 [Please do not the cat](http://9gag.com/gag/aLn8z35)
- - 😝 [Speak &#39;Friend&#39; and enter.](http://9gag.com/gag/aD2z6WG)
- - 👉 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)<!-- MEMES:END -->
+ - 😝 [Laws of life!](http://9gag.com/gag/aLn8Gvz)
+ - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
+ - 💣 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)
+ - 😝 [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
+ - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
 
 ---
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meanwhile in Nederland](http://9gag.com/gag/avy7RVq)
- - 😝 [Accurate](http://9gag.com/gag/aKGDYeQ)
- - 💣 [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
+ - 😝 [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
+ - 💣 [Accurate](http://9gag.com/gag/aKGDYeQ)
  - 😝 [God bless the polish border patrol](http://9gag.com/gag/aYQ4q6q)
  - 👉 [Le the sense of superiority!!](http://9gag.com/gag/a878wLd)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kendrick Lamar to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/24/09/08/kendrick-lamar-to-headline-apples-2025-super-bowl-half-time-show?utm_medium=rss)
  - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)
  - [Apple may have to give up $14B escrow account to satisfy EU court on Tuesday](https://appleinsider.com/articles/24/09/08/apple-may-have-to-give-up-14b-plus-escrow-account-to-satisfy-eu-court?utm_medium=rss)
  - [Bending Spoons plans to lay off 75% of WeTransfer staff after acquiring the file-sharing service in July 2024; WeTransfer reportedly has 350+ employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240908/p7#a240908p7)
- - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)
- - [Max: The 24 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-max-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

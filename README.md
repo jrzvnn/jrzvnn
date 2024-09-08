@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not like in the movies!](http://9gag.com/gag/azxqO2m)
- - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
- - 💣 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)
- - 😝 [How crazy are you? Yes](http://9gag.com/gag/abAz1RX)
- - 👉 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)<!-- MEMES:END -->
+ - 😝 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
+ - 😝 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)
+ - 💣 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
+ - 😝 [Typhoon Yagi rages in Southeast Asia.](http://9gag.com/gag/aqy1QEv)
+ - 👉 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)<!-- MEMES:END -->
 
 ---
 

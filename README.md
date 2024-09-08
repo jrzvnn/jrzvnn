@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
  - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
- - 💣 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
+ - 😝 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
+ - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
  - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - 👉 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)<!-- MEMES:END -->
+ - 👉 [Deep thoughts with The Deep](http://9gag.com/gag/azxqPnq)<!-- MEMES:END -->
 
 ---
 

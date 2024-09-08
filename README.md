@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
- - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
- - 💣 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)
- - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
- - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
+ - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 💣 [Memecoin in a nutshell](http://9gag.com/gag/ayNx6XY)
+ - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 👉 [The real Michael Jackson](http://9gag.com/gag/an7j24E)<!-- MEMES:END -->
 
 ---
 

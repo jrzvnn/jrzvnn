@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
- - 😝 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
- - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - 👉 [Deep thoughts with The Deep](http://9gag.com/gag/azxqPnq)<!-- MEMES:END -->
+ - 😝 [This man stole $122M from Facebook &amp; Google by simply sending them random bills which they paid.](http://9gag.com/gag/aBy8Gyz)
+ - 😝 [Kratos having no chill in real life as well](http://9gag.com/gag/aZZgwOn)
+ - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
+ - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
 
 ---
 

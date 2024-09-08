@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)
- - 😝 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)
- - 💣 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
- - 😝 [Typhoon Yagi rages in Southeast Asia.](http://9gag.com/gag/aqy1QEv)
- - 👉 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)<!-- MEMES:END -->
+ - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 😝 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
+ - 💣 [Speak &#39;Friend&#39; and enter.](http://9gag.com/gag/aD2z6WG)
+ - 😝 [At least the building didn&#39;t collapse.](http://9gag.com/gag/azxqGjz)
+ - 👉 [Degeneracy](http://9gag.com/gag/a0e5Xzq)<!-- MEMES:END -->
 
 ---
 

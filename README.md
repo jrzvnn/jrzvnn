@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 💣 [New challenge](http://9gag.com/gag/aVvMENv)
- - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 👉 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)<!-- MEMES:END -->
+ - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
+ - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
+ - 💣 [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Synchronicity](http://9gag.com/gag/aKGDe7g)
  - 😝 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 😝 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
- - 👉 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)<!-- MEMES:END -->
+ - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
+ - 💣 [Comedian Ken Jeong&#39;s heartfelt message for his wife, Tran Ho, on their 20th wedding anniversary.](http://9gag.com/gag/aRBjMAj)
+ - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - 👉 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)<!-- MEMES:END -->
 
 ---
 

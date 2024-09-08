@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple may have to give up $14B escrow account to satisfy EU court on Tuesday](https://appleinsider.com/articles/24/09/08/apple-may-have-to-give-up-14b-plus-escrow-account-to-satisfy-eu-court?utm_medium=rss)
  - [Bending Spoons plans to lay off 75% of WeTransfer staff after acquiring the file-sharing service in July 2024; WeTransfer reportedly has 350+ employees &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240908/p7#a240908p7)
  - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)
- - [Need Internet for Your Apartment? Here&#39;s How to Get the Best Service](https://www.cnet.com/home/internet/need-internet-for-your-apartment-heres-how-to-get-the-best-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max: The 24 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-max-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

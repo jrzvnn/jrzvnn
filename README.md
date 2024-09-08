@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real Michael Jackson](http://9gag.com/gag/an7j24E)
- - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
+ - 💣 [Deep thoughts with The Deep](http://9gag.com/gag/azxqPnq)
  - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
- - 👉 [\u201cDammit Jeffrey! That\u2019s the 3rd time this week!\u201d](http://9gag.com/gag/a878mB6)<!-- MEMES:END -->
+ - 👉 [Best date ever...?](http://9gag.com/gag/a1mK5QP)<!-- MEMES:END -->
 
 ---
 

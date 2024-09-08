@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London&#39;s e-bike boom is frustrating local councils over parking issues, as Lime and Forest expand; Lime trips during peak hours have grown 91% YoY in 2024 &lpar;Joshua Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/240908/p6#a240908p6)
+ - [Researchers say a bug let them add fake pilots to rosters used for TSA checks](https://www.theverge.com/2024/9/8/24239026/airline-security-bug-tsa-security-database-sql-injection-hack)
  - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
  - [Casper Snow Max Hybrid Mattress Review 2024: A Premium Bed Tested by Experts](https://www.cnet.com/health/sleep/casper-snow-max-hybrid-mattress-review/#ftag=CAD590a51e)
- - [How to Buy an Electric Bike &lpar;2024&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
- - [Watch UEFA Nations League Soccer: Livestream Portugal vs. Scotland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-portugal-vs-scotland-from-anywhere/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Buy an Electric Bike &lpar;2024&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

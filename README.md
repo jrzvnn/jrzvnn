@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jump rope](http://9gag.com/gag/a1mKVpb)
- - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 😝 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
- - 👉 [That&#39;s just annoying](http://9gag.com/gag/aqy1Q9Y)<!-- MEMES:END -->
+ - 😝 [Killers of Utsab Mondal in bangladesh raising victory slogans outside the police station where the murder happened. Can see the blood on his clothes and police watching on. Bangladesh is on its way to be next Pakistan](http://9gag.com/gag/aKGDejZ)
+ - 😝 [New challenge](http://9gag.com/gag/aVvMENv)
+ - 💣 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
+ - 👉 [Quishing](http://9gag.com/gag/agmY4m1)<!-- MEMES:END -->
 
 ---
 

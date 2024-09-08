@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some creators move from unpredictable algorithm-driven platforms to subscription services; YouTube group The Try Guys launched 2nd Try, a $5/month streamer &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/240908/p4#a240908p4)
+ - [The Best Mechanical Keyboards &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
+ - [Check if Your Social Security Number Is in of the National Public Data Hack](https://www.cnet.com/personal-finance/check-if-your-social-security-number-is-in-of-the-national-public-data-hack/#ftag=CAD590a51e)
  - [Apple Intelligence&#39;s Image Playground, Genmoji to wait until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
- - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Electric Grilling Is Still a Little Raw in the Middle](https://www.wired.com/story/electric-grilling-not-there-yet/)
- - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Dinosaur-Killing Asteroid Origins: Scientists Believe They Now Know Where It Came From](https://www.cnet.com/tech/dinosaur-killing-asteroid-origins-scientists-believe-they-now-know-where-it-came-from/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Google Pixel Phones of 2024, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

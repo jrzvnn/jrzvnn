@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Alien Spaceships Could Be Detected Using Gravitational Waves](https://www.wired.com/story/alien-spaceships-could-be-detected-using-gravitational-waves/)
  - [The Apple Watch made smartwatches the wearable of choice](https://www.theverge.com/2024/9/8/24237890/apple-watch-10-years-smartwatch-wearables)
  - [An all-in-one app for the internet](https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer)
- - [The Biggest Controversy in Cosmology Just Got Bigger](https://www.wired.com/story/the-biggest-controversy-in-cosmology-just-got-deeper/)<!-- TECH:END -->
+ - [Why You Need to Know Your Blood Type and 3 Methods to Identify Yours](https://www.cnet.com/health/medical/why-you-need-to-know-your-blood-type-and-3-methods-to-identify-yours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

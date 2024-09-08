@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may have to give up $14B-plus escrow account to satisfy EU court](https://appleinsider.com/articles/24/09/08/apple-may-have-to-give-up-14b-plus-escrow-account-to-satisfy-eu-court?utm_medium=rss)
  - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)
+ - [Need Internet for Your Apartment? Here&#39;s How to Get the Best Service](https://www.cnet.com/home/internet/need-internet-for-your-apartment-heres-how-to-get-the-best-service/#ftag=CAD590a51e)
  - [London&#39;s e-bike boom is frustrating local councils over parking issues, as Lime and Forest expand; Lime trips during peak hours have grown 91% YoY in 2024 &lpar;Joshua Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/240908/p6#a240908p6)
- - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)
- - [Join CNET&#39;s Apple Event Watch Party: Awaiting the iPhone 16](https://www.cnet.com/tech/mobile/join-cnets-apple-event-watch-party-awaiting-the-iphone-16/#ftag=CAD590a51e)
- - [6 Common Eye Conditions to Watch for as You Age](https://www.cnet.com/health/personal-care/6-common-eye-conditions-to-watch-for-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

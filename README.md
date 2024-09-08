@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
- - 😝 [This video will make your day better. Watch the dog&#39;s reaction when he feels the baby kick](http://9gag.com/gag/aNDzBK3)
- - 💣 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)
- - 😝 [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
- - 👉 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)<!-- MEMES:END -->
+ - 😝 [1st place marathon runner takes wrong turn, but his competitor shows him respect](http://9gag.com/gag/an7jvDB)
+ - 😝 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
+ - 💣 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 😝 [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
 
 ---
 

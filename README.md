@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laws of life!](http://9gag.com/gag/aLn8Gvz)
- - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
- - 💣 [Absolutely HEARTBREAKING moment Springfield, Ohio, resident tells mayor that she `can&#39;t take it anymore` as Haitian migrants squat on her lawn, litter in her yard and harass her and elderly husband daily. The mayor of Springfield does NOT want people to see this:](http://9gag.com/gag/aVvMm1d)
- - 😝 [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
- - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
+ - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
+ - 💣 [The Zoom button in Excel is longer on the right side by 1 pixel](http://9gag.com/gag/a34M5G3)
+ - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
+ - 👉 [Look twice](http://9gag.com/gag/a0e5XZB)<!-- MEMES:END -->
 
 ---
 

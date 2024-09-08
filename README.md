@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)
  - [London&#39;s e-bike boom is frustrating local councils over parking issues, as Lime and Forest expand; Lime trips during peak hours have grown 91% YoY in 2024 &lpar;Joshua Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/240908/p6#a240908p6)
  - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)
  - [Join CNET&#39;s Apple Event Watch Party: Awaiting the iPhone 16](https://www.cnet.com/tech/mobile/join-cnets-apple-event-watch-party-awaiting-the-iphone-16/#ftag=CAD590a51e)
- - [6 Common Eye Conditions to Watch for as You Age](https://www.cnet.com/health/personal-care/6-common-eye-conditions-to-watch-for-as-you-age/#ftag=CAD590a51e)
- - [DirecTV-Disney Outage Heats Up as Monday Night Football and Presidential Debate Approach](https://www.cnet.com/tech/services-and-software/directv-disney-outage-heats-up-as-monday-night-football-and-presidential-debate-approach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Common Eye Conditions to Watch for as You Age](https://www.cnet.com/health/personal-care/6-common-eye-conditions-to-watch-for-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

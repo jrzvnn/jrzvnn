@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How fast do neutron stars rotate](http://9gag.com/gag/a5QnGzy)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 💣 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
- - 😝 [Stunning and brave](http://9gag.com/gag/an7jvpq)
- - 👉 [The Starline spacecraft returned to Earth without Sunita Williams and Butch Wilmore, landing in the desert of New Mexico](http://9gag.com/gag/ae9eV3m)<!-- MEMES:END -->
+ - 😝 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)
+ - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 💣 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 😝 [The Starline spacecraft returned to Earth without Sunita Williams and Butch Wilmore, landing in the desert of New Mexico](http://9gag.com/gag/ae9eV3m)
+ - 👉 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)<!-- MEMES:END -->
 
 ---
 

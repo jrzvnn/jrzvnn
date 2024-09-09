@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
  - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 💣 [What do you use?](http://9gag.com/gag/a34Myom)
- - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 👉 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)<!-- MEMES:END -->
+ - 💣 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)
+ - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
+ - 👉 [What do you use?](http://9gag.com/gag/a34Myom)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 😝 [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
- - 💣 [Men are simple](http://9gag.com/gag/aGye2bn)
- - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 👉 [So many possibilities](http://9gag.com/gag/azxq4Bq)<!-- MEMES:END -->
+ - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 😝 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
+ - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to Expect in the Trump-Harris Presidential Debate and How to Watch It](https://www.wired.com/story/what-to-expect-trump-harris-presidential-debate-how-to-watch/)
+ - [Automation and IT monitoring company Progress agrees to acquire Raleigh-based file management platform ShareFile for $875M in cash and credit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240909/p11#a240909p11)
  - [Amazon is allowing Audible narrators to clone themselves with AI](https://www.theverge.com/2024/9/9/24239903/amazon-audible-audiobook-narrators-ai-generated-voice-clones)
  - [The Meta Quest 3S leaks in Meta’s own PC app](https://www.theverge.com/2024/9/9/24239819/meta-quest-3s-leak-budget-vr-headset)
- - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)
- - [Sony announces PlayStation ‘Technical Presentation’ after teasing a PS5 Pro](https://www.theverge.com/2024/9/9/24237361/ps5-pro-playstation-technical-presentation-stream-mark-cerny)
- - [Apple Store Goes Offline Ahead of iPhone 16 &#39;It&#39;s Glowtime&#39; Event](https://www.cnet.com/tech/mobile/apple-store-goes-offline-ahead-of-iphone-16-its-glowtime-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

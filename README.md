@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
  - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 😝 [Do you see what I see, my fellow degenerates?](http://9gag.com/gag/ary5Bny)
- - 👉 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)<!-- MEMES:END -->
+ - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - 💣 [In 1719, John Law decided to offer prisoners in Paris something they could not refuse. He offered them their freedom as long as they were willing to marry a prostitute and head off to Louisiana.](http://9gag.com/gag/azxqK3j)
+ - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 👉 [Nice hair bro](http://9gag.com/gag/aQzeZDW)<!-- MEMES:END -->
 
 ---
 

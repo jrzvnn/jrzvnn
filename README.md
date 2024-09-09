@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)
+ - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
  - 😝 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
- - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 💣 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 ---
 

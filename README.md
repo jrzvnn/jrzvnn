@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
- - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
+ - 😝 [`Tax the rich` explained](http://9gag.com/gag/agmYEgw)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 💣 [We should follow Nigeria](http://9gag.com/gag/a9yA2q0)
+ - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - 👉 [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)<!-- MEMES:END -->
 
 ---
 

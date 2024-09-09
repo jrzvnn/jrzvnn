@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces two new AirPods 4 models with an H2 chip and USB-C; AirPods 4 for $129 and AirPods 4 with Active Noise Cancellation for $179, coming Sept. 20 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240909/p16#a240909p16)
- - [Apple will bring sleep apnea detection to the Watch Series 10, Series 9, and Ultra 2 &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/240909/p17#a240909p17)
- - [Apple announces the iPhone 16](https://www.theverge.com/24237017/iphone-16-specs-features-price-release-date-apple)
- - [The titanium Apple Watch Series 10 is carbon neutral](https://www.theverge.com/2024/9/9/24239978/apple-event-watch-carbon-neutral-environmental-impact)
- - [AirPods 4 debuts with Active Noise Cancellation &amp; USB-C charging](https://appleinsider.com/articles/24/09/09/airpods-4-debuts-with-active-noise-cancellation-usb-c-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Apple announces hearing health related features for AirPods Pro 2, including a &quot;clinical grade&quot; hearing aid mode and a clinically-validated hearing test &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p19#a240909p19)
+ - [AirPods Pro 2 to be clinical grade hearing aid with update](https://appleinsider.com/articles/24/09/09/airpods-pro-2-to-be-clinical-grade-hearing-aid-with-update?utm_medium=rss)
+ - [Apple debuts iPhone 16 and 16 Plus with Action button, the A18 3nm chip for 30% faster CPU performance vs iPhone 15, a new Camera Control along the side, more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p18#a240909p18)
+ - [Apple finally updates AirPods Max with USB-C](https://appleinsider.com/articles/24/09/09/apple-finally-updates-the-airpods-max-with-usb-c?utm_medium=rss)
+ - [Apple announces two new AirPods 4 models with an H2 chip and USB-C; AirPods 4 for $129 and AirPods 4 with Active Noise Cancellation for $179, coming Sept. 20 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240909/p16#a240909p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

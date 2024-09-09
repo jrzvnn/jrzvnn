@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
- - 😝 [Exstreamly Large Alligator](http://9gag.com/gag/a6ZV2BL)
- - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [What do you use?](http://9gag.com/gag/a34Myom)<!-- MEMES:END -->
+ - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 💣 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 👉 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)<!-- MEMES:END -->
 
 ---
 

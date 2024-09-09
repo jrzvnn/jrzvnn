@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia-based SafetyCulture, which offers a suite of risk management tools, raised $165M led by Airtree at a $2.5B valuation, down from $2.7B in August 2023 &lpar;David Adams/SmartCompany&rpar;](http://www.techmeme.com/240909/p2#a240909p2)
+ - [Australia-based SafetyCulture, which offers a suite of risk management tools, raised AU$165M led by Airtree at a AU$2.5B valuation, down from AU$2.7B in 2023 &lpar;David Adams/SmartCompany&rpar;](http://www.techmeme.com/240909/p2#a240909p2)
  - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)
  - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)
  - [Today&#39;s Wordle Hints, Answer and Help for Sept. 9, #1178](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-9-1178/#ftag=CAD590a51e)

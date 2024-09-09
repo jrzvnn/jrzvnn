@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 💣 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
  - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
  - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 

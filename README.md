@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Meta Quest 3S leaks in Meta’s own PC app](https://www.theverge.com/2024/9/9/24239819/meta-quest-3s-leak-budget-vr-headset)
  - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)
  - [Sony announces PlayStation ‘Technical Presentation’ after teasing a PS5 Pro](https://www.theverge.com/2024/9/9/24237361/ps5-pro-playstation-technical-presentation-stream-mark-cerny)
- - [Source: Sequoia Capital completed its $861M purchase of Stripe shares from Sequoia limited partners last week; Stripe didn&#39;t receive any proceeds &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240909/p10#a240909p10)<!-- TECH:END -->
+ - [Apple Store Goes Offline Ahead of iPhone 16 &#39;It&#39;s Glowtime&#39; Event](https://www.cnet.com/tech/mobile/apple-store-goes-offline-ahead-of-iphone-16-its-glowtime-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

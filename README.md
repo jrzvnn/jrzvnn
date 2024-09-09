@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audible plans to invite some US-based audiobook narrators to train AI on their voices, to clone the voices for recordings through a royalty-sharing model &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240909/p9#a240909p9)
  - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
  - [The DOJ&#39;s case against Google&#39;s ad business may benefit major news organizations that pay Google to broker their website ads and have faced financial struggles &lpar;Washington Post&rpar;](http://www.techmeme.com/240909/p8#a240909p8)
  - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)
- - [Here Are 5 Jobs AI Will Create — and 5 Roles AI Will Change](https://www.cnet.com/tech/services-and-software/here-are-5-jobs-ai-will-create-and-5-roles-ai-will-change/#ftag=CAD590a51e)
- - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)<!-- TECH:END -->
+ - [Here Are 5 Jobs AI Will Create — and 5 Roles AI Will Change](https://www.cnet.com/tech/services-and-software/here-are-5-jobs-ai-will-create-and-5-roles-ai-will-change/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

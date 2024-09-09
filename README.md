@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [-Help me, gymbro!](http://9gag.com/gag/a7oDpB2)
- - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
  - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
- - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
+ - 😝 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 ---
 

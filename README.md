@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)
  - [How to Watch Rams vs. Lions Tonight on Sunday Night Football](https://www.cnet.com/tech/services-and-software/how-to-watch-rams-vs-lions-tonight-on-sunday-night-football/#ftag=CAD590a51e)
  - [Kendrick Lamar to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/24/09/08/kendrick-lamar-to-headline-apples-2025-super-bowl-half-time-show?utm_medium=rss)
  - [Best Fire Pit for 2024](https://www.cnet.com/home/yard-and-outdoors/best-fire-pit/#ftag=CAD590a51e)
- - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)
- - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

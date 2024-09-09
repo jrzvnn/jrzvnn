@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Month without alcohol](http://9gag.com/gag/aBy8XbA)
- - 😝 [Accurate](http://9gag.com/gag/aKGDYeQ)
- - 💣 [God bless the polish border patrol](http://9gag.com/gag/aYQ4q6q)
- - 😝 [Le the sense of superiority!!](http://9gag.com/gag/a878wLd)
- - 👉 [Imma watch it them](http://9gag.com/gag/a1mKEe2)<!-- MEMES:END -->
+ - 😝 [A new emotion.](http://9gag.com/gag/abAzxwb)
+ - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 😝 [Do you see what I see, my fellow degenerates?](http://9gag.com/gag/ary5Bny)
+ - 👉 [Was it so difficult?](http://9gag.com/gag/aXPvVVb)<!-- MEMES:END -->
 
 ---
 

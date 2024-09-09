@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods 4 debuts with Active Noise Cancellation &amp; USB-C charging](https://appleinsider.com/articles/24/09/09/airpods-4-debuts-with-active-noise-cancellation-usb-c-charging?utm_medium=rss)
- - [Apple finally updates the AirPods Max with USB-C](https://appleinsider.com/articles/24/09/09/apple-finally-updates-the-airpods-max-with-usb-c?utm_medium=rss)
- - [The AirPods Max use USB-C now](https://www.theverge.com/2024/9/9/24236804/airpods-max-second-gen-price-specs-features-release-date)
- - [Apple Watch Ultra 2 goes dark with a new black satin finish](https://appleinsider.com/articles/24/09/09/apple-watch-ultra-2-goes-dark-with-a-new-black-satin-finish?utm_medium=rss)
- - [Sleep apnea detection is coming to the Apple Watch](https://www.theverge.com/2024/9/9/24240045/apple-watch-sleep-apnea-detection-feature-series-9-10-ultra-2)<!-- TECH:END -->
+ - [Apple announces two new AirPods 4 models with an H2 chip and USB-C; AirPods 4 for $129 and AirPods 4 with Active Noise Cancellation for $179, coming Sept. 20 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240909/p16#a240909p16)
+ - [Apple will bring sleep apnea detection to the Watch Series 10, Series 9, and Ultra 2 &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/240909/p17#a240909p17)
+ - [Apple announces the iPhone 16](https://www.theverge.com/24237017/iphone-16-specs-features-price-release-date-apple)
+ - [The titanium Apple Watch Series 10 is carbon neutral](https://www.theverge.com/2024/9/9/24239978/apple-event-watch-carbon-neutral-environmental-impact)
+ - [AirPods 4 debuts with Active Noise Cancellation &amp; USB-C charging](https://appleinsider.com/articles/24/09/09/airpods-4-debuts-with-active-noise-cancellation-usb-c-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

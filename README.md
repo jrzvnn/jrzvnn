@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forests, ice, deserts, lava\u2026](http://9gag.com/gag/agmYxNK)
- - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 👉 [Nice hair bro](http://9gag.com/gag/aQzeZDW)<!-- MEMES:END -->
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
+ - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
 
 ---
 

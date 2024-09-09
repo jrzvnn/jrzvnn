@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD Vance’s latest cat flub is bizarre misinformation about migrants eating them](https://www.theverge.com/2024/9/9/24240338/haitian-migrants-cats-springfield-disinformation-jd-vance-elon-musk)
  - [This iPhone ‘Supercycle’ May Not Be So Super](https://www.wired.com/story/iphone-16-supercycle/)
  - [FineWoven is alive, but just barely hanging on](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)
  - [Compared: AirPods 4 vs AirPods Pro 2 -- ANC without ear tips could tip the scales](https://appleinsider.com/articles/24/09/09/compared-airpods-4-vs-airpods-pro-2----anc-without-ear-tips-could-tip-the-scales?utm_medium=rss)
- - [AirPods as Hearing Aids? Everything to Know About Apple&#39;s Major Health Update](https://www.cnet.com/tech/mobile/airpods-as-hearing-aids-everything-to-know-about-apples-major-health-update/#ftag=CAD590a51e)
- - [Get a Free Peacock Premium Subscription if You Have Xfinity Internet or Instacart Plus](https://www.cnet.com/tech/services-and-software/get-free-peacock-premium-if-you-have-xfinity-internet-instacart-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods as Hearing Aids? Everything to Know About Apple&#39;s Major Health Update](https://www.cnet.com/tech/mobile/airpods-as-hearing-aids-everything-to-know-about-apples-major-health-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

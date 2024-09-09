@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the first day of the antitrust trial focused on ads, US prosecutors allege Google abused its size to dominate the sector through acquisitions and more &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240909/p32#a240909p32)
+ - [iOS 18 beta code suggests wireless earbuds with a heart-rate sensor are in the works](https://appleinsider.com/articles/24/09/09/ios-18-beta-code-suggests-wireless-earbuds-with-a-heart-rate-sensor-are-in-the-works?utm_medium=rss)
  - [Spigen is ready to go with sleek &amp; stylish iPhone 16 Pro cases, plus save 10% with coupon](https://appleinsider.com/articles/24/09/09/spigen-is-ready-to-go-with-sleek-stylish-iphone-16-pro-cases-plus-save-10-with-coupon?utm_medium=rss)
  - [Where to preorder the Apple Watch Series 10 and black Apple Watch Ultra 2](https://www.theverge.com/24236673/apple-watch-series-10-black-ultra-2-preorder-buy-price-release-date)
- - [iOS 18 will launch next week with new ways to customize your homescreen](https://www.theverge.com/2024/9/9/24240230/ios-18-release-date-iphone-16)
- - [Apple has a bunch of new iPhone 16 &amp; iPhone 16 Pro cases](https://appleinsider.com/articles/24/09/09/apple-has-a-bunch-of-new-iphone-16-iphone-16-pro-cases?utm_medium=rss)
- - [AMD is turning its back on flagship gaming GPUs — to chase AI first](https://www.theverge.com/2024/9/9/24240173/amd-udna-gpu-ai-gaming-rdna-cdna-jack-huynh)<!-- TECH:END -->
+ - [iOS 18 will launch next week with new ways to customize your homescreen](https://www.theverge.com/2024/9/9/24240230/ios-18-release-date-iphone-16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

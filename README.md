@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 😝 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
- - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
+ - 😝 [So many possibilities](http://9gag.com/gag/azxq4Bq)
+ - 😝 [The silence after the letter N tho](http://9gag.com/gag/aD2zXOx)
+ - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 😝 [Welcome to Canada. Where our seniors are kicked out of their housing and forced to live in tents to make room for immigrants who live for free off the taxpayer.](http://9gag.com/gag/aKGDO4g)
+ - 👉 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)<!-- MEMES:END -->
 
 ---
 

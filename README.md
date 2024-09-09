@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)
- - [How to Watch Rams vs. Lions Tonight on Sunday Night Football](https://www.cnet.com/tech/services-and-software/how-to-watch-rams-vs-lions-tonight-on-sunday-night-football/#ftag=CAD590a51e)
- - [Kendrick Lamar to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/24/09/08/kendrick-lamar-to-headline-apples-2025-super-bowl-half-time-show?utm_medium=rss)
- - [Best Fire Pit for 2024](https://www.cnet.com/home/yard-and-outdoors/best-fire-pit/#ftag=CAD590a51e)
- - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 9, #1178](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-9-1178/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 9, #456](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-9-456/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 9, #190](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-9-190/#ftag=CAD590a51e)
+ - [How to Watch Rams vs. Lions Tonight on Sunday Night Football](https://www.cnet.com/tech/services-and-software/how-to-watch-rams-vs-lions-tonight-on-sunday-night-football/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

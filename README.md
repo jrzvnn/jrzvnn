@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Sequoia Capital completed its $861M purchase of Stripe shares from Sequoia limited partners last week; Stripe didn&#39;t receive any proceeds &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240909/p10#a240909p10)
  - [The Observatory is Apple Park&#39;s picturesque new event space](https://appleinsider.com/articles/24/09/09/the-observatory-is-apple-parks-picturesque-new-event-space?utm_medium=rss)
  - [IFA 2024: The best smart home, Find My, and Qi2 devices to debut](https://appleinsider.com/articles/24/09/09/ifa-2024-the-best-smart-home-find-my-and-qi2-devices-to-debut?utm_medium=rss)
  - [Anthropic’s Mike Krieger wants to build AI products that are worth the hype](https://www.theverge.com/24237562/anthropic-mike-krieger-claude-ai-chatbot-artifact-web-decoder-podcast-interview)
- - [IFA smart home news, Thread &amp; Bluetooth updates &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/09/09/ifa-smart-home-news-thread-bluetooth-updates-more-on-homekit-insider?utm_medium=rss)
- - [Apple September 2024 Event Live Blog: iPhone 16, New Apple Watch Expected](https://www.cnet.com/tech/mobile/apple-sept-9-2024-event-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IFA smart home news, Thread &amp; Bluetooth updates &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/09/09/ifa-smart-home-news-thread-bluetooth-updates-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

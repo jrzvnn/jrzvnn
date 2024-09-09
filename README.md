@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spigen is ready to go with sleek &amp; stylish iPhone 16 Pro cases, plus save 10% with coupon](https://appleinsider.com/articles/24/09/09/spigen-is-ready-to-go-with-sleek-stylish-iphone-16-pro-cases-plus-save-10-with-coupon?utm_medium=rss)
+ - [Where to preorder the Apple Watch Series 10 and black Apple Watch Ultra 2](https://www.theverge.com/24236673/apple-watch-series-10-black-ultra-2-preorder-buy-price-release-date)
+ - [iOS 18 will launch next week with new ways to customize your homescreen](https://www.theverge.com/2024/9/9/24240230/ios-18-release-date-iphone-16)
  - [Apple has a bunch of new iPhone 16 &amp; iPhone 16 Pro cases](https://appleinsider.com/articles/24/09/09/apple-has-a-bunch-of-new-iphone-16-iphone-16-pro-cases?utm_medium=rss)
- - [AMD is turning its back on flagship gaming GPUs — to chase AI first](https://www.theverge.com/2024/9/9/24240173/amd-udna-gpu-ai-gaming-rdna-cdna-jack-huynh)
- - [Oracle and AWS debut Oracle Database@AWS, to let customers access select Oracle products within AWS, following Oracle&#39;s partnerships with Azure and Google Cloud &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240909/p31#a240909p31)
- - [iPhone 16 gets hugely faster wireless charging, if you have the right MagSafe cord](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
- - [Testing the Apple Intelligence beta shows the pre-release software still has a long way to go, with hallucinations, marking spam emails as priority, and more &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/240909/p30#a240909p30)<!-- TECH:END -->
+ - [AMD is turning its back on flagship gaming GPUs — to chase AI first](https://www.theverge.com/2024/9/9/24240173/amd-udna-gpu-ai-gaming-rdna-cdna-jack-huynh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

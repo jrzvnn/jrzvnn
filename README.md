@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
- - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 💣 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 💣 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)
  - [Sony announces PlayStation ‘Technical Presentation’ after teasing a PS5 Pro](https://www.theverge.com/2024/9/9/24237361/ps5-pro-playstation-technical-presentation-stream-mark-cerny)
  - [Apple Store Goes Offline Ahead of iPhone 16 &#39;It&#39;s Glowtime&#39; Event](https://www.cnet.com/tech/mobile/apple-store-goes-offline-ahead-of-iphone-16-its-glowtime-event/#ftag=CAD590a51e)
  - [Source: Sequoia Capital completed its $861M purchase of Stripe shares from Sequoia limited partners last week; Stripe didn&#39;t receive any proceeds &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240909/p10#a240909p10)
- - [Is Student Loan Forgiveness Slipping Away? Unpacking the Latest Debt Relief Ban](https://www.cnet.com/personal-finance/student-loan-forgiveness-bans-has-borrowers-losing-hope-will-student-debt-relief-survive/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Sept. 9, 2024: Rates Top 5% APY -- But the Clock Is Ticking](https://www.cnet.com/personal-finance/todays-best-savings-rates-sept-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Student Loan Forgiveness Slipping Away? Unpacking the Latest Debt Relief Ban](https://www.cnet.com/personal-finance/student-loan-forgiveness-bans-has-borrowers-losing-hope-will-student-debt-relief-survive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

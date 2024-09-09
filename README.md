@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestream of Apple&#39;s &quot;It&#39;s Glow Time&quot; event from Apple Park &lpar;Apple&rpar;](http://www.techmeme.com/240909/p14#a240909p14)
- - [Google Pixel Watch 3 Review: Go Big or Go Home](https://www.wired.com/review/google-pixel-watch-3/)
- - [I Screwed Up My 5K Time by Training With the Pixel Watch 3’s AI Running Coach](https://www.wired.com/story/google-pixel-watch-3-running-coach-features/)
- - [A live blog of Apple&#39;s event, where four new iPhones are expected and rumors suggest a new Apple Watch and AirPods models could be announced &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p13#a240909p13)
- - [Save $250 on this M3 MacBook Air with 16GB RAM, 512GB SSD during the Apple Event](https://appleinsider.com/articles/24/09/09/save-250-on-this-m3-macbook-air-with-16gb-ram-512gb-ssd-during-the-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [Thinner &amp; lighter Apple Watch Series 10 arrives with new design, sleep apnea detection](https://appleinsider.com/articles/24/09/09/thinner-lighter-apple-watch-series-10-arrives-with-new-design-sleep-apnea-detection?utm_medium=rss)
+ - [The Apple Watch Ultra 2 now comes in black](https://www.theverge.com/2024/9/9/24239740/apple-watch-ultra-specs-price-features-release-date)
+ - [Apple debuts Apple Watch Series 10, with a thinner design, a bigger screen, smaller bezels, a Jet Black finish, faster charging, more, coming Sept. 20 for $399+ &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240909/p15#a240909p15)
+ - [Apple Watch Series 10 announced with bigger screen and thinner design](https://www.theverge.com/2024/9/9/24236801/apple-watch-series-10-price-specs-features-release-date)
+ - [Livestream of Apple&#39;s &quot;It&#39;s Glow Time&quot; event from Apple Park &lpar;Apple&rpar;](http://www.techmeme.com/240909/p14#a240909p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

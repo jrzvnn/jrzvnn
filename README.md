@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
  - 😝 [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
- - 😝 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)
- - 💣 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
- - 😝 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)
- - 👉 [Rubix Cubes are dangerous folks](http://9gag.com/gag/aZZgzEn)<!-- MEMES:END -->
+ - 💣 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)
+ - 😝 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
+ - 👉 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)<!-- MEMES:END -->
 
 ---
 

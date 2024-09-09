@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
- - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
  - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
+ - 💣 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
  - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
 
 ---

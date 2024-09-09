@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI says that losses from crypto-related frauds increased 45% YoY to $5.6B in 2023, with losses from investment scams accounting for 71% of the total &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240909/p34#a240909p34)
+ - [A complete guide to all of Apple&#39;s new bands for the Apple Watches](https://appleinsider.com/articles/24/09/09/a-complete-guide-to-all-of-apples-new-bands-for-the-apple-watches?utm_medium=rss)
  - [iPhone 16 gets immensely faster wireless charging, if you have the right MagSafe cord](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
  - [Where Is CarPlay 2?](https://www.wired.com/story/where-is-carplay-2/)
- - [Google Pixel Watch 3 review: solid battery life, improved display, and comprehensive health-tracking features, but slightly bulky with some software quirks &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240909/p33#a240909p33)
- - [James Earl Jones, voice of Darth Vader, has died at 93](https://www.theverge.com/2024/9/9/24240301/james-earl-jones-darth-vader-voice-died)
- - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Watch 3 review: solid battery life, improved display, and comprehensive health-tracking features, but slightly bulky with some software quirks &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240909/p33#a240909p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

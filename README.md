@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Canada. Where our seniors are kicked out of their housing and forced to live in tents to make room for immigrants who live for free off the taxpayer.](http://9gag.com/gag/aKGDO4g)
- - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
- - 💣 [Forests, ice, deserts, lava\u2026](http://9gag.com/gag/agmYxNK)
- - 😝 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)
- - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
+ - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 💣 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 ---
 

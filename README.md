@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Miniroll Bluetooth speaker is a return to form for Ultimate Ears](https://www.theverge.com/2024/9/9/24239682/ultimate-ears-miniroll-bluetooth-speaker-price-availability)
  - [Best 4K Home Security Cameras for 2024](https://www.cnet.com/home/security/best-4k-home-security-cameras/#ftag=CAD590a51e)
  - [An interview with Iconiq Capital&#39;s Matthew Jacobson on the firm&#39;s focus on M&amp;A and secondary markets, investing in startups creating AI &quot;applications&quot;, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240909/p3#a240909p3)
  - [Apple&#39;s iPhone 16 Reveal Is Here: What to Expect From Today&#39;s &#39;Glowtime&#39; Event](https://www.cnet.com/tech/mobile/apple-september-iphone-16-glowtime-event-how-to-watch-what-to-expect/#ftag=CAD590a51e)
- - [7 AI Tricks for Work Productivity That You Should Try and 1 You Shouldn&#39;t](https://www.cnet.com/tech/services-and-software/7-ai-tricks-for-work-productivity-that-you-should-try-and-1-you-shouldnt/#ftag=CAD590a51e)
- - [What to expect from Apple’s ‘It’s Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/4/24232248/apple-event-september-iphone-16-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [7 AI Tricks for Work Productivity That You Should Try and 1 You Shouldn&#39;t](https://www.cnet.com/tech/services-and-software/7-ai-tricks-for-work-productivity-that-you-should-try-and-1-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

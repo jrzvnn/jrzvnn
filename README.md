@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 gets hugely faster wireless charging, if you have the right MagSafe cord](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
+ - [Testing the Apple Intelligence beta shows the pre-release software still has a long way to go, with hallucinations, marking spam emails as priority, and more &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/240909/p30#a240909p30)
+ - [Beats’ new iPhone 16 cases work with the Camera Control button](https://www.theverge.com/2024/9/9/24240190/beats-apple-iphone-16-pro-max-cases-camera-control)
  - [HyperWrite&#39;s 70B parameter AI model, Reflection, has its performance questioned, after CEO Matt Shumer said something about its upload to Hugging Face was off &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240909/p29#a240909p29)
- - [The Franchise makes building cinematic universes look like hell in first trailer](https://www.theverge.com/2024/9/9/24240191/hbo-the-franchise-trailer-premiere-date)
- - [Oracle reports Q1 revenue of $13.31B, up 7% YoY, vs. $13.23B est., with revenue from cloud infrastructure of $2.2B, up 45% YoY; ORCL jumps 8%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240909/p28#a240909p28)
- - [Apple has a faster MagSafe charger to go with the new iPhone 16 phones](https://www.theverge.com/2024/9/9/24240184/apple-iphone-16-pro-25-watt-magsafe-charging)
- - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)<!-- TECH:END -->
+ - [The Franchise makes building cinematic universes look like hell in first trailer](https://www.theverge.com/2024/9/9/24240191/hbo-the-franchise-trailer-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

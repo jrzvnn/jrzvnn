@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+ - [The DOJ&#39;s case against Google&#39;s ad business may benefit major news organizations that pay Google to broker their website ads and have faced financial struggles &lpar;Washington Post&rpar;](http://www.techmeme.com/240909/p8#a240909p8)
  - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)
  - [Here Are 5 Jobs AI Will Create — and 5 Roles AI Will Change](https://www.cnet.com/tech/services-and-software/here-are-5-jobs-ai-will-create-and-5-roles-ai-will-change/#ftag=CAD590a51e)
- - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)
- - [SpaceX Falcon 9 Rocket to Launch Polaris Dawn: What to Know About the Mission](https://www.cnet.com/science/space/spacex-falcon-9-rocket-to-launch-polaris-dawn-what-to-know-about-the-mission/#ftag=CAD590a51e)
- - [Get Charged Up With 11% Off This LuminAid Max Solar-Powered Lantern](https://www.cnet.com/deals/enjoy-light-and-power-with-11-off-this-luminaid-max-solar-powered-lantern/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

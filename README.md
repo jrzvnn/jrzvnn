@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 😝 [In 1719, John Law decided to offer prisoners in Paris something they could not refuse. He offered them their freedom as long as they were willing to marry a prostitute and head off to Louisiana.](http://9gag.com/gag/azxqK3j)
  - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 💣 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)
+ - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
  - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
  - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
 

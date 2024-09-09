@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 1719, John Law decided to offer prisoners in Paris something they could not refuse. He offered them their freedom as long as they were willing to marry a prostitute and head off to Louisiana.](http://9gag.com/gag/azxqK3j)
+ - 😝 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
  - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 💣 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
  - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
- - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
+ - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 
 ---
 

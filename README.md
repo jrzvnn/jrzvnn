@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 10 hands-on: bigger, brighter, and thinner](https://www.theverge.com/24236958/apple-watch-series-10-hands-on-bigger-brighter-and-thinner)
+ - [FineWoven is barely hanging on, but Apple has cut way back on it](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)
+ - [AirPods 4 hands-on: noise cancellation for people who hate ear tips](https://www.theverge.com/2024/9/9/24239947/apple-airpods-4-hands-on-preview-features-anc)
  - [It sure looks like FineWoven is dead](https://www.theverge.com/2024/9/9/24240167/apple-finewoven-cases-dead)
- - [macOS Sequoia announced for September 16](https://appleinsider.com/articles/24/09/09/macos-sequoia-announced-for-september-16?utm_medium=rss)
- - [US charges leaders of white supremacist gang The Terrorgram Collective, which uses Telegram to celebrate attacks on minorities, with trying to incite a race war &lpar;Reuters&rpar;](http://www.techmeme.com/240909/p25#a240909p25)
- - [iOS 18, iPadOS 18 will be available on September 16](https://appleinsider.com/articles/24/09/09/ios-18-ipados-18-will-be-available-on-september-16?utm_medium=rss)
- - [iPhone 16 Pro and 16 Pro Max hands-on: don’t call it a shutter button](https://www.theverge.com/24239802/iphone-16-pro-max-hands-on-apple-photos-features-price)<!-- TECH:END -->
+ - [macOS Sequoia announced for September 16](https://appleinsider.com/articles/24/09/09/macos-sequoia-announced-for-september-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

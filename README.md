@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Next Antitrust Trial Could Make Online Ads Less Annoying](https://www.wired.com/story/google-ad-tech-antitrust-trial-doubleclick/)
  - [Skype co-founder Niklas Zennstr&amp;ouml;m&#39;s Atomico raised $1.24B, including a $754M growth-stage fund and a $485M early stage fund &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240909/p5#a240909p5)
  - [What You Need to Know About Grok AI and Your Privacy](https://www.wired.com/story/grok-ai-privacy-opt-out/)
  - [Apple is not expecting an iPhone 16 upgrade super cycle, says analyst](https://appleinsider.com/articles/24/09/09/apple-is-not-expecting-an-iphone-16-upgrade-super-cycle-says-analyst?utm_medium=rss)
- - [A writer on working for a tech company, writing pretend responses to hypothetical chatbot questions, to help train AI models and teach chatbots how to write &lpar;Jack Apollo George/The Guardian&rpar;](http://www.techmeme.com/240909/p4#a240909p4)
- - [Black Apple Watch Ultra could be launched at Apple&#39;s Glowtime event](https://appleinsider.com/articles/24/09/09/black-apple-watch-ultra-could-be-launched-at-apples-glowtime-event?utm_medium=rss)<!-- TECH:END -->
+ - [A writer on working for a tech company, writing pretend responses to hypothetical chatbot questions, to help train AI models and teach chatbots how to write &lpar;Jack Apollo George/The Guardian&rpar;](http://www.techmeme.com/240909/p4#a240909p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)
+ - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
  - 😝 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 💣 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 👉 [What do you use?](http://9gag.com/gag/a34Myom)<!-- MEMES:END -->
+ - 💣 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
 
 ---
 

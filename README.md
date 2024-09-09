@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘It’s Glowtime’: all the news from Apple’s iPhone 16 event](https://www.theverge.com/2024/9/9/24237601/apple-iphone-16-event-announcements-products)
+ - [iPhone 16 event live blog: all the news from Apple’s keynote](https://www.theverge.com/2024/9/9/24236176/apple-iphone-16-liveblog-apple-watch-x-airpods-keynote)
+ - [AMD announces it will eventually move to a unified UDNA GPU architecture, bringing RDNA and CDNA together, as it hopes to rival Nvidia&#39;s CUDA ecosystem &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240909/p12#a240909p12)
  - [What to Expect in the Trump-Harris Presidential Debate and How to Watch It](https://www.wired.com/story/what-to-expect-trump-harris-presidential-debate-how-to-watch/)
- - [Automation and IT monitoring company Progress agrees to acquire Raleigh-based file management platform ShareFile for $875M in cash and credit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240909/p11#a240909p11)
- - [Amazon is allowing Audible narrators to clone themselves with AI](https://www.theverge.com/2024/9/9/24239903/amazon-audible-audiobook-narrators-ai-generated-voice-clones)
- - [The Meta Quest 3S leaks in Meta’s own PC app](https://www.theverge.com/2024/9/9/24239819/meta-quest-3s-leak-budget-vr-headset)
- - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)<!-- TECH:END -->
+ - [Automation and IT monitoring company Progress agrees to acquire Raleigh-based file management platform ShareFile for $875M in cash and credit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240909/p11#a240909p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

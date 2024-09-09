@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything Apple Announced Today: iPhone 16, Apple Watch Series 10, New AirPods](https://www.wired.com/story/everything-apple-announced-iphone-16-apple-watch-series-10-new-airpods/)
  - [macOS Sequoia announced for September 16](https://appleinsider.com/articles/24/09/09/macos-sequoia-announced-for-september-16?utm_medium=rss)
  - [How Apple&#39;s new iPhone &amp; Apple Watch amp up user health monitoring](https://appleinsider.com/articles/24/09/09/how-apples-new-iphone-apple-watch-amp-up-user-health-monitoring?utm_medium=rss)
  - [Apple Watch Series 10 hands-on: bigger, brighter, and thinner](https://www.theverge.com/24236958/apple-watch-series-10-hands-on-bigger-brighter-and-thinner)
- - [FineWoven is barely hanging on, but Apple has cut way back on it](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)
- - [AirPods 4 hands-on: noise cancellation for people who hate ear tips](https://www.theverge.com/2024/9/9/24239947/apple-airpods-4-hands-on-preview-features-anc)<!-- TECH:END -->
+ - [FineWoven is barely hanging on, but Apple has cut way back on it](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

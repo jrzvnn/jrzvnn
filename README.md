@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
  - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 👉 [What do you use?](http://9gag.com/gag/a34Myom)<!-- MEMES:END -->
+ - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 AI Tricks for Work Productivity That You Should Try and 1 You Shouldn&#39;t](https://www.cnet.com/tech/services-and-software/7-ai-tricks-for-work-productivity-that-you-should-try-and-1-you-shouldnt/#ftag=CAD590a51e)
  - [What to expect from Apple’s ‘It’s Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/4/24232248/apple-event-september-iphone-16-date-time-live-stream-watch-how-to-rumors)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-9/#ftag=CAD590a51e)
  - [Australia-based SafetyCulture, which offers a suite of risk management tools, raised AU$165M led by Airtree at a AU$2.5B valuation, down from AU$2.7B in 2023 &lpar;David Adams/SmartCompany&rpar;](http://www.techmeme.com/240909/p2#a240909p2)
- - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)
- - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)<!-- TECH:END -->
+ - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

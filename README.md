@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone 16 event: the 8 biggest announcements](https://www.theverge.com/24239739/apple-iphone-16-event-announcements-watch-series-10-airpods)
+ - [Apple will release iOS 18, macOS 15, iPadOS 18, and watchOS 11 on September 16 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240909/p24#a240909p24)
+ - [iOS 18, iPadOS 18, macOS Sequoia, and more release candidates are now available to beta testers](https://appleinsider.com/articles/24/09/09/ios-18-ipados-18-macos-sequoia-and-more-release-candidates-are-now-available-to-beta-testers?utm_medium=rss)
+ - [Apple Store shuts down ahead of iPhone 16 launch event](https://appleinsider.com/articles/24/09/09/apple-store-shuts-down-ahead-of-iphone-16-launch-event?utm_medium=rss)
  - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)
- - [The touch-sensitive Camera Control button on the iPhone 16 models can launch an AI-powered Visual Intelligence feature and be used to control the camera app &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240909/p22#a240909p22)
- - [The only thing better than Astro Bot is more Astro Bot... for free](https://www.theverge.com/2024/9/9/24239922/astro-bot-free-dlc-challenge-levels-leaderboards)
- - [Apple’s Visual Intelligence is a built-in take on Google Lens](https://www.theverge.com/2024/9/9/24240094/apple-visual-intelligence-camera-control-iphone-16-ai-camera-control-google-lens)<!-- TECH:END -->
+ - [The iPhone 16 will start at $799 and the 16 Plus $899, and the iPhone 16 Pro starts at $999 and the Pro Max starts at $1,199; all base models have 128GB &lpar;Valentina Palladino/Engadget&rpar;](http://www.techmeme.com/240909/p23#a240909p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

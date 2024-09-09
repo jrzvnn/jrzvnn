@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 😝 [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
- - 💣 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)
- - 😝 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
- - 👉 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)<!-- MEMES:END -->
+ - 😝 [-Help me, gymbro!](http://9gag.com/gag/a7oDpB2)
+ - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $250 on this M3 MacBook Air with 16GB RAM, 512GB SSD during the Apple Event](https://appleinsider.com/articles/24/09/09/save-250-on-this-m3-macbook-air-with-16gb-ram-512gb-ssd-during-the-apple-event?utm_medium=rss)
  - [‘It’s Glowtime’: all the news from Apple’s iPhone 16 event](https://www.theverge.com/2024/9/9/24237601/apple-iphone-16-event-announcements-products)
  - [iPhone 16 event live blog: all the news from Apple’s keynote](https://www.theverge.com/2024/9/9/24236176/apple-iphone-16-liveblog-apple-watch-x-airpods-keynote)
  - [AMD announces it will eventually move to a unified UDNA GPU architecture, bringing RDNA and CDNA together, as it hopes to rival Nvidia&#39;s CUDA ecosystem &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240909/p12#a240909p12)
- - [What to Expect in the Trump-Harris Presidential Debate and How to Watch It](https://www.wired.com/story/what-to-expect-trump-harris-presidential-debate-how-to-watch/)
- - [Automation and IT monitoring company Progress agrees to acquire Raleigh-based file management platform ShareFile for $875M in cash and credit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240909/p11#a240909p11)<!-- TECH:END -->
+ - [What to Expect in the Trump-Harris Presidential Debate and How to Watch It](https://www.wired.com/story/what-to-expect-trump-harris-presidential-debate-how-to-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

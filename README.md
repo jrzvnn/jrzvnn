@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)
+ - [Here Are 5 Jobs AI Will Create — and 5 Roles AI Will Change](https://www.cnet.com/tech/services-and-software/here-are-5-jobs-ai-will-create-and-5-roles-ai-will-change/#ftag=CAD590a51e)
  - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)
- - [Sources: Japanese chip startup Rapidus seeks to raise ~$696M from existing and new investors by issuing new shares to finance its chip development efforts &lpar;Taro Fuse/Bloomberg&rpar;](http://www.techmeme.com/240909/p6#a240909p6)
- - [Apple Intelligence&#39;s Image Playground, Genmoji delayed until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
- - [New AirPods Max predicted for Apple&#39;s iPhone 16 launch](https://appleinsider.com/articles/24/09/09/new-airpods-max-predicted-for-apples-iphone-16-launch?utm_medium=rss)
- - [Apple Store shuts down ahead of iPhone 16 launch event](https://appleinsider.com/articles/24/09/09/apple-store-shuts-down-ahead-of-iphone-16-launch-event?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX Falcon 9 Rocket to Launch Polaris Dawn: What to Know About the Mission](https://www.cnet.com/science/space/spacex-falcon-9-rocket-to-launch-polaris-dawn-what-to-know-about-the-mission/#ftag=CAD590a51e)
+ - [Get Charged Up With 11% Off This LuminAid Max Solar-Powered Lantern](https://www.cnet.com/deals/enjoy-light-and-power-with-11-off-this-luminaid-max-solar-powered-lantern/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

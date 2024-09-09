@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
- - 😝 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
- - 💣 [Flying 332 Feet in a hot wheels truck for world record jump](http://9gag.com/gag/apRQ699)
- - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
+ - 😝 [How fast do neutron stars rotate](http://9gag.com/gag/a5QnGzy)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 💣 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 😝 [Stunning and brave](http://9gag.com/gag/an7jvpq)
+ - 👉 [The Starline spacecraft returned to Earth without Sunita Williams and Butch Wilmore, landing in the desert of New Mexico](http://9gag.com/gag/ae9eV3m)<!-- MEMES:END -->
 
 ---
 

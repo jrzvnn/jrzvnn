@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thinner &amp; lighter Apple Watch Series 10 arrives with new design, sleep apnea detection](https://appleinsider.com/articles/24/09/09/thinner-lighter-apple-watch-series-10-arrives-with-new-design-sleep-apnea-detection?utm_medium=rss)
- - [The Apple Watch Ultra 2 now comes in black](https://www.theverge.com/2024/9/9/24239740/apple-watch-ultra-specs-price-features-release-date)
- - [Apple debuts Apple Watch Series 10, with a thinner design, a bigger screen, smaller bezels, a Jet Black finish, faster charging, more, coming Sept. 20 for $399+ &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240909/p15#a240909p15)
- - [Apple Watch Series 10 announced with bigger screen and thinner design](https://www.theverge.com/2024/9/9/24236801/apple-watch-series-10-price-specs-features-release-date)
- - [Livestream of Apple&#39;s &quot;It&#39;s Glow Time&quot; event from Apple Park &lpar;Apple&rpar;](http://www.techmeme.com/240909/p14#a240909p14)<!-- TECH:END -->
+ - [AirPods 4 debuts with Active Noise Cancellation &amp; USB-C charging](https://appleinsider.com/articles/24/09/09/airpods-4-debuts-with-active-noise-cancellation-usb-c-charging?utm_medium=rss)
+ - [Apple finally updates the AirPods Max with USB-C](https://appleinsider.com/articles/24/09/09/apple-finally-updates-the-airpods-max-with-usb-c?utm_medium=rss)
+ - [The AirPods Max use USB-C now](https://www.theverge.com/2024/9/9/24236804/airpods-max-second-gen-price-specs-features-release-date)
+ - [Apple Watch Ultra 2 goes dark with a new black satin finish](https://appleinsider.com/articles/24/09/09/apple-watch-ultra-2-goes-dark-with-a-new-black-satin-finish?utm_medium=rss)
+ - [Sleep apnea detection is coming to the Apple Watch](https://www.theverge.com/2024/9/9/24240045/apple-watch-sleep-apnea-detection-feature-series-9-10-ultra-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

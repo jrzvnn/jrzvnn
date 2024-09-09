@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It sure looks like FineWoven is dead](https://www.theverge.com/2024/9/9/24240167/apple-finewoven-cases-dead)
  - [macOS Sequoia announced for September 16](https://appleinsider.com/articles/24/09/09/macos-sequoia-announced-for-september-16?utm_medium=rss)
  - [US charges leaders of white supremacist gang The Terrorgram Collective, which uses Telegram to celebrate attacks on minorities, with trying to incite a race war &lpar;Reuters&rpar;](http://www.techmeme.com/240909/p25#a240909p25)
  - [iOS 18, iPadOS 18 will be available on September 16](https://appleinsider.com/articles/24/09/09/ios-18-ipados-18-will-be-available-on-september-16?utm_medium=rss)
- - [iPhone 16 Pro and 16 Pro Max hands-on: don’t call it a shutter button](https://www.theverge.com/24239802/iphone-16-pro-max-hands-on-apple-photos-features-price)
- - [Apple will release iOS 18, macOS 15, iPadOS 18, and watchOS 11 on September 16 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240909/p24#a240909p24)<!-- TECH:END -->
+ - [iPhone 16 Pro and 16 Pro Max hands-on: don’t call it a shutter button](https://www.theverge.com/24239802/iphone-16-pro-max-hands-on-apple-photos-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

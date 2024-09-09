@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
  - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 😝 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
+ - 💣 [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
  - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 ---

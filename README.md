@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple announces the iPhone 16 Pro](https://www.theverge.com/2024/9/9/24230103/iphone-16-pro-specs-features-price-release-date-apple)
+ - [iPhone 16, iPhone 16 Plus arrive with Camera Control button and more speed](https://appleinsider.com/articles/24/09/09/camera-control-action-button-and-apple-intelligence-come-to-iphone-16-and-iphone-16-plus?utm_medium=rss)
+ - [Apple Intelligence will launch in beta in October for US English language users, coming to more countries in December; support for other languages coming 2025 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p20#a240909p20)
  - [Apple announces hearing health related features for AirPods Pro 2, including a &quot;clinical grade&quot; hearing aid mode and a clinically-validated hearing test &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p19#a240909p19)
- - [AirPods Pro 2 to be clinical grade hearing aid with update](https://appleinsider.com/articles/24/09/09/airpods-pro-2-to-be-clinical-grade-hearing-aid-with-update?utm_medium=rss)
- - [Apple debuts iPhone 16 and 16 Plus with Action button, the A18 3nm chip for 30% faster CPU performance vs iPhone 15, a new Camera Control along the side, more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p18#a240909p18)
- - [Apple finally updates AirPods Max with USB-C](https://appleinsider.com/articles/24/09/09/apple-finally-updates-the-airpods-max-with-usb-c?utm_medium=rss)
- - [Apple announces two new AirPods 4 models with an H2 chip and USB-C; AirPods 4 for $129 and AirPods 4 with Active Noise Cancellation for $179, coming Sept. 20 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240909/p16#a240909p16)<!-- TECH:END -->
+ - [AirPods Pro 2 will gain clinical-grade hearing aid features with update](https://appleinsider.com/articles/24/09/09/airpods-pro-2-to-be-clinical-grade-hearing-aid-with-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

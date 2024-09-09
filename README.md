@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - 😝 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
+ - 😝 [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
+ - 😝 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)
+ - 💣 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
+ - 😝 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)
+ - 👉 [Rubix Cubes are dangerous folks](http://9gag.com/gag/aZZgzEn)<!-- MEMES:END -->
 
 ---
 

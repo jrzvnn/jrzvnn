@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Observatory is Apple Park&#39;s picturesque new event space](https://appleinsider.com/articles/24/09/09/the-observatory-is-apple-parks-picturesque-new-event-space?utm_medium=rss)
+ - [IFA 2024: The best smart home, Find My, and Qi2 devices to debut](https://appleinsider.com/articles/24/09/09/ifa-2024-the-best-smart-home-find-my-and-qi2-devices-to-debut?utm_medium=rss)
+ - [Anthropic’s Mike Krieger wants to build AI products that are worth the hype](https://www.theverge.com/24237562/anthropic-mike-krieger-claude-ai-chatbot-artifact-web-decoder-podcast-interview)
  - [IFA smart home news, Thread &amp; Bluetooth updates &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/09/09/ifa-smart-home-news-thread-bluetooth-updates-more-on-homekit-insider?utm_medium=rss)
- - [Audible plans to invite some US-based audiobook narrators to train AI on their voices, to clone the voices for recordings through a royalty-sharing model &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240909/p9#a240909p9)
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
- - [The DOJ&#39;s case against Google&#39;s ad business may benefit major news organizations that pay Google to broker their website ads and have faced financial struggles &lpar;Washington Post&rpar;](http://www.techmeme.com/240909/p8#a240909p8)
- - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple September 2024 Event Live Blog: iPhone 16, New Apple Watch Expected](https://www.cnet.com/tech/mobile/apple-sept-9-2024-event-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

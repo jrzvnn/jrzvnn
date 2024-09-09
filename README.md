@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)
+ - [Sources: Japanese chip startup Rapidus seeks to raise ~$696M from existing and new investors by issuing new shares to finance its chip development efforts &lpar;Taro Fuse/Bloomberg&rpar;](http://www.techmeme.com/240909/p6#a240909p6)
  - [Apple Intelligence&#39;s Image Playground, Genmoji delayed until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
  - [New AirPods Max predicted for Apple&#39;s iPhone 16 launch](https://appleinsider.com/articles/24/09/09/new-airpods-max-predicted-for-apples-iphone-16-launch?utm_medium=rss)
- - [Apple Store shuts down ahead of iPhone 16 launch event](https://appleinsider.com/articles/24/09/09/apple-store-shuts-down-ahead-of-iphone-16-launch-event?utm_medium=rss)
- - [&#39;Lessons in Chemistry&#39; and &#39;The Morning Show&#39; honored at Creative Arts Emmys](https://appleinsider.com/articles/24/09/09/lessons-in-chemistry-and-the-morning-show-honored-at-creative-arts-emmys?utm_medium=rss)
- - [Google’s Next Antitrust Trial Could Make Online Ads Less Annoying](https://www.wired.com/story/google-ad-tech-antitrust-trial-doubleclick/)<!-- TECH:END -->
+ - [Apple Store shuts down ahead of iPhone 16 launch event](https://appleinsider.com/articles/24/09/09/apple-store-shuts-down-ahead-of-iphone-16-launch-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

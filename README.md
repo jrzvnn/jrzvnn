@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
  - [Here’s where you can preorder the AirPods 4 and updated AirPods Max](https://www.theverge.com/24240101/apple-airpods-4-max-headphones-preorder-buy-price-release-date)
  - [In the first day of the antitrust trial focused on ads, US prosecutors allege Google abused its size to dominate the sector through acquisitions and more &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240909/p32#a240909p32)
  - [iOS 18 beta code suggests wireless earbuds with a heart-rate sensor are in the works](https://appleinsider.com/articles/24/09/09/ios-18-beta-code-suggests-wireless-earbuds-with-a-heart-rate-sensor-are-in-the-works?utm_medium=rss)
- - [Spigen is ready to go with sleek &amp; stylish iPhone 16 Pro cases, plus save 10% with coupon](https://appleinsider.com/articles/24/09/09/spigen-is-ready-to-go-with-sleek-stylish-iphone-16-pro-cases-plus-save-10-with-coupon?utm_medium=rss)
- - [Where to preorder the Apple Watch Series 10 and black Apple Watch Ultra 2](https://www.theverge.com/24236673/apple-watch-series-10-black-ultra-2-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Spigen is ready to go with sleek &amp; stylish iPhone 16 Pro cases, plus save 10% with coupon](https://appleinsider.com/articles/24/09/09/spigen-is-ready-to-go-with-sleek-stylish-iphone-16-pro-cases-plus-save-10-with-coupon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

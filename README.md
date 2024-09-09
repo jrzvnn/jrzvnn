@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces the iPhone 16 Pro](https://www.theverge.com/2024/9/9/24230103/iphone-16-pro-specs-features-price-release-date-apple)
- - [iPhone 16, iPhone 16 Plus arrive with Camera Control button and more speed](https://appleinsider.com/articles/24/09/09/camera-control-action-button-and-apple-intelligence-come-to-iphone-16-and-iphone-16-plus?utm_medium=rss)
- - [Apple Intelligence will launch in beta in October for US English language users, coming to more countries in December; support for other languages coming 2025 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p20#a240909p20)
- - [Apple announces hearing health related features for AirPods Pro 2, including a &quot;clinical grade&quot; hearing aid mode and a clinically-validated hearing test &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p19#a240909p19)
- - [AirPods Pro 2 will gain clinical-grade hearing aid features with update](https://appleinsider.com/articles/24/09/09/airpods-pro-2-to-be-clinical-grade-hearing-aid-with-update?utm_medium=rss)<!-- TECH:END -->
+ - [The touch-sensitive Camera Control button on the iPhone 16 models can launch an AI-powered Visual Intelligence feature and be used to control the camera app &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240909/p22#a240909p22)
+ - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)
+ - [The only thing better than Astro Bot is more Astro Bot... for free](https://www.theverge.com/2024/9/9/24239922/astro-bot-free-dlc-challenge-levels-leaderboards)
+ - [Apple’s Visual Intelligence is a built-in take on Google Lens](https://www.theverge.com/2024/9/9/24240094/apple-visual-intelligence-camera-control-iphone-16-ai-camera-control-google-lens)
+ - [11 Best Discover Samsung Fall Sale Deals](https://www.wired.com/story/discover-samsung-fall-sale-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

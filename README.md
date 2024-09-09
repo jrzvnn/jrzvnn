@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
- - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 💣 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)
- - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 👉 [Men are simple](http://9gag.com/gag/aGye2bn)<!-- MEMES:END -->
+ - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 ---
 

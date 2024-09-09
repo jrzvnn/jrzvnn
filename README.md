@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)
  - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)
  - [Today&#39;s Wordle Hints, Answer and Help for Sept. 9, #1178](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-9-1178/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 9, #456](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-9-456/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 9, #190](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-9-190/#ftag=CAD590a51e)
- - [How to Watch Rams vs. Lions Tonight on Sunday Night Football](https://www.cnet.com/tech/services-and-software/how-to-watch-rams-vs-lions-tonight-on-sunday-night-football/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 9, #190](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-9-190/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can preorder the AirPods 4 and updated AirPods Max](https://www.theverge.com/24240101/apple-airpods-4-max-headphones-preorder-buy-price-release-date)
  - [In the first day of the antitrust trial focused on ads, US prosecutors allege Google abused its size to dominate the sector through acquisitions and more &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240909/p32#a240909p32)
  - [iOS 18 beta code suggests wireless earbuds with a heart-rate sensor are in the works](https://appleinsider.com/articles/24/09/09/ios-18-beta-code-suggests-wireless-earbuds-with-a-heart-rate-sensor-are-in-the-works?utm_medium=rss)
  - [Spigen is ready to go with sleek &amp; stylish iPhone 16 Pro cases, plus save 10% with coupon](https://appleinsider.com/articles/24/09/09/spigen-is-ready-to-go-with-sleek-stylish-iphone-16-pro-cases-plus-save-10-with-coupon?utm_medium=rss)
- - [Where to preorder the Apple Watch Series 10 and black Apple Watch Ultra 2](https://www.theverge.com/24236673/apple-watch-series-10-black-ultra-2-preorder-buy-price-release-date)
- - [iOS 18 will launch next week with new ways to customize your homescreen](https://www.theverge.com/2024/9/9/24240230/ios-18-release-date-iphone-16)<!-- TECH:END -->
+ - [Where to preorder the Apple Watch Series 10 and black Apple Watch Ultra 2](https://www.theverge.com/24236673/apple-watch-series-10-black-ultra-2-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

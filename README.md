@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The touch-sensitive Camera Control button on the iPhone 16 models can launch an AI-powered Visual Intelligence feature and be used to control the camera app &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240909/p22#a240909p22)
+ - [Apple’s iPhone 16 event: the 8 biggest announcements](https://www.theverge.com/24239739/apple-iphone-16-event-announcements-watch-series-10-airpods)
  - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)
+ - [The touch-sensitive Camera Control button on the iPhone 16 models can launch an AI-powered Visual Intelligence feature and be used to control the camera app &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240909/p22#a240909p22)
  - [The only thing better than Astro Bot is more Astro Bot... for free](https://www.theverge.com/2024/9/9/24239922/astro-bot-free-dlc-challenge-levels-leaderboards)
- - [Apple’s Visual Intelligence is a built-in take on Google Lens](https://www.theverge.com/2024/9/9/24240094/apple-visual-intelligence-camera-control-iphone-16-ai-camera-control-google-lens)
- - [11 Best Discover Samsung Fall Sale Deals](https://www.wired.com/story/discover-samsung-fall-sale-2024/)<!-- TECH:END -->
+ - [Apple’s Visual Intelligence is a built-in take on Google Lens](https://www.theverge.com/2024/9/9/24240094/apple-visual-intelligence-camera-control-iphone-16-ai-camera-control-google-lens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

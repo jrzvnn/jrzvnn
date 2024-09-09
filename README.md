@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)
- - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 😝 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
- - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
+ - 😝 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
+ - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 💣 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 👉 [Men are simple](http://9gag.com/gag/aGye2bn)<!-- MEMES:END -->
 
 ---
 

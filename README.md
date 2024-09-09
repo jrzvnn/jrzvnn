@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)
- - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 😝 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
- - 👉 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)<!-- MEMES:END -->
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 😝 [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
+ - 💣 [Men are simple](http://9gag.com/gag/aGye2bn)
+ - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 👉 [So many possibilities](http://9gag.com/gag/azxq4Bq)<!-- MEMES:END -->
 
 ---
 

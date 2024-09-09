@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Watch Ultra and Ultra 2 Deals: Get Money Off With Discounts and Trade-Ins](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
- - [Save $250 on this M3 MacBook Air with 16GB RAM, 512GB SSD during the Apple Event](https://appleinsider.com/articles/24/09/09/save-250-on-this-m3-macbook-air-with-16gb-ram-512gb-ssd-during-the-apple-event?utm_medium=rss)
- - [How to Watch the Harris vs. Trump 2024 Presidential Debate for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-the-harris-vs-trump-2024-presidential-debate-for-free/#ftag=CAD590a51e)
- - [Best Gaming PC Deals: Enjoy Big Discounts on Gaming PCs at All Price Ranges](https://www.cnet.com/deals/best-gaming-pc-deals/#ftag=CAD590a51e)
- - [Join CNET&#39;s Apple Event Watch Party Live Now: Awaiting the iPhone 16](https://www.cnet.com/tech/mobile/join-cnets-apple-event-watch-party-live-now-awaiting-the-iphone-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Livestream of Apple&#39;s &quot;It&#39;s Glow Time&quot; event from Apple Park &lpar;Apple&rpar;](http://www.techmeme.com/240909/p14#a240909p14)
+ - [Google Pixel Watch 3 Review: Go Big or Go Home](https://www.wired.com/review/google-pixel-watch-3/)
+ - [I Screwed Up My 5K Time by Training With the Pixel Watch 3’s AI Running Coach](https://www.wired.com/story/google-pixel-watch-3-running-coach-features/)
+ - [A live blog of Apple&#39;s event, where four new iPhones are expected and rumors suggest a new Apple Watch and AirPods models could be announced &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p13#a240909p13)
+ - [Save $250 on this M3 MacBook Air with 16GB RAM, 512GB SSD during the Apple Event](https://appleinsider.com/articles/24/09/09/save-250-on-this-m3-macbook-air-with-16gb-ram-512gb-ssd-during-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

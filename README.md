@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Tax the rich` explained](http://9gag.com/gag/agmYEgw)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 💣 [We should follow Nigeria](http://9gag.com/gag/a9yA2q0)
- - 😝 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 👉 [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)<!-- MEMES:END -->
+ - 😝 [Welcome to Canada. Where our seniors are kicked out of their housing and forced to live in tents to make room for immigrants who live for free off the taxpayer.](http://9gag.com/gag/aKGDO4g)
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 💣 [Forests, ice, deserts, lava\u2026](http://9gag.com/gag/agmYxNK)
+ - 😝 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)
+ - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 
 ---
 

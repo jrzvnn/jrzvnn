@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has a faster MagSafe charger to go with the new iPhone 16 phones](https://www.theverge.com/2024/9/9/24240184/apple-iphone-16-pro-25-watt-magsafe-charging)
+ - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)
+ - [Apple discontinues FineWoven iPhone cases, introduced last year to replace leather cases, and emphasizes its Clear and Silicone cases for the iPhone 16 lineup &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240909/p27#a240909p27)
  - [Here’s our first look at the iPhone 16 and 16 Plus](https://www.theverge.com/24237940/iphone-16-hands-on-pictures-price-features-apple)
- - [Sleep apnea detection is the most impactful upgrade to the Apple Watch](https://appleinsider.com/articles/24/09/09/sleep-apnea-detection-is-the-most-impactful-upgrade-to-the-apple-watch?utm_medium=rss)
- - [Compared: AirPods Max vs AirPods Max with USB-C](https://appleinsider.com/articles/24/09/09/compared-airpods-max-vs-airpods-max-with-usb-c?utm_medium=rss)
- - [iPhone 16 Pro, Pro Max hands-on: despite larger displays, they don&#39;t feel that much bigger, helped by thin bezels; the Camera Control button is ultra sensitive &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p26#a240909p26)
- - [Everything Apple Announced Today: iPhone 16, Apple Watch Series 10, New AirPods](https://www.wired.com/story/everything-apple-announced-iphone-16-apple-watch-series-10-new-airpods/)<!-- TECH:END -->
+ - [Sleep apnea detection is the most impactful upgrade to the Apple Watch](https://appleinsider.com/articles/24/09/09/sleep-apnea-detection-is-the-most-impactful-upgrade-to-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

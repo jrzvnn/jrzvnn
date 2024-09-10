@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new PS5 heralds the end of disc drives](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
+ - [ASSA ABLOY acquires Level Lock, creates new Ambient Property Technologies subsidiary](https://appleinsider.com/articles/24/09/10/assa-abloy-acquires-level-lock-creates-new-ambient-property-technologies-subsidiary?utm_medium=rss)
  - [Lifx’s new tube bulb turns your boring light fixtures into RGB glow sticks](https://www.theverge.com/2024/9/10/24241183/lifx-polychrome-t10-tube-smart-rgb-light-b10-candle)
  - [The new Galaxy Buds 3 are already on sale as part of Samsung’s fall sales event](https://www.theverge.com/2024/9/10/24240025/samsung-galaxy-buds-3-apple-magic-mouse-deal-sale)
- - [Here’s what your iPhone 16 will do with Apple Intelligence — eventually](https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule)
- - [Sources describe how Stripe was forced to scramble after its payments partnership with Wells Fargo ended and Goldman Sachs decided against taking up the role &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240910/p22#a240910p22)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
+ - [Here’s what your iPhone 16 will do with Apple Intelligence — eventually](https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifx’s new tube bulb turns your boring light fixtures into RGB glowsticks](https://www.theverge.com/2024/9/10/24241183/lifx-polychrome-t10-tube-smart-rgb-light-b10-candle)
+ - [Lifx’s new tube bulb turns your boring light fixtures into RGB glow sticks](https://www.theverge.com/2024/9/10/24241183/lifx-polychrome-t10-tube-smart-rgb-light-b10-candle)
  - [The new Galaxy Buds 3 are already on sale as part of Samsung’s fall sales event](https://www.theverge.com/2024/9/10/24240025/samsung-galaxy-buds-3-apple-magic-mouse-deal-sale)
  - [Here’s what your iPhone 16 will do with Apple Intelligence — eventually](https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule)
  - [Sources describe how Stripe was forced to scramble after its payments partnership with Wells Fargo ended and Goldman Sachs decided against taking up the role &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240910/p22#a240910p22)

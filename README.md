@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Why Is AI So Bad at Generating Images of Kamala Harris?](https://www.wired.com/story/bad-kamala-harris-ai-generated-images/)
  - [Alibaba&#39;s stock rises 5%+ after being made directly accessible to mainland China investors for the first time, following an upgrade to Hong Kong primary listing &lpar;Financial Times&rpar;](http://www.techmeme.com/240910/p7#a240910p7)
  - [Inside Google’s 7-Year Mission to Give AI a Robot Body](https://www.wired.com/story/inside-google-mission-to-give-ai-robot-body/)
- - [iPhone 16 Plus vs. iPhone 16 Pro Max: Battle of the Big iPhones](https://www.cnet.com/tech/mobile/iphone-16-plus-vs-iphone-16-pro-max-battle-of-the-big-iphones/#ftag=CAD590a51e)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple must pay EU $14 billion over Ireland tax arrangement](https://appleinsider.com/articles/24/09/10/apple-must-pay-eu-14-billion-over-ireland-tax-arrangement?utm_medium=rss)
+ - [Billionaire Finally Launches on First Private Space-Walk Mission](https://www.wired.com/story/polaris-dawn-private-spacewalk-crew-dragon-spacex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

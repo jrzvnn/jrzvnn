@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the book Character Limit on Musk&#39;s acquisition of Twitter and how his inner circle employed hardball tactics in a touch-and-go transaction &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240910/p2#a240910p2)
- - [Crispr-Enhanced Viruses Are Being Deployed Against UTIs](https://www.wired.com/story/crispr-enhanced-viruses-are-being-deployed-against-utis/)
- - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Get an iPhone 16 for free or iPhone 16 Pro Max at $1,000 off with AT&amp;T&#39;s preorder deals](https://appleinsider.com/articles/24/09/10/get-an-iphone-16-for-free-or-iphone-16-pro-max-at-1000-off-with-atts-preorder-deals?utm_medium=rss)
- - [Best Outdoor String Lights for 2024](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google loses its bid to reverse a &amp;euro;2.4B EU fine for abusing its monopoly power to crush rival shopping services, as EU&#39;s Court of Justice backs a 2017 decision &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240910/p4#a240910p4)
+ - [The European Court of Justice rules against Apple over a record &amp;euro;13B Irish tax bill, backing a landmark decision from 2016 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240910/p3#a240910p3)
+ - [SpaceX’s historic Polaris Dawn mission: how to watch the launch](https://www.theverge.com/2024/8/26/24228803/spacex-polaris-dawn-mission-launch-date-time-watch-live)
+ - [Both of Apple&#39;s New AirPods 4 Are Available to Preorder Now](https://www.cnet.com/deals/both-of-apples-new-airpods-4-are-available-to-preorder-now/#ftag=CAD590a51e)
+ - [Thinnest Ever Apple Watch Series 10 Is Open for Preorders Now](https://www.cnet.com/deals/thinnest-ever-apple-watch-series-10-is-open-for-preorders-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
- - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 💣 [Men are simple](http://9gag.com/gag/aGye2bn)
- - 😝 [So many possibilities](http://9gag.com/gag/azxq4Bq)
- - 👉 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)<!-- MEMES:END -->
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)
+ - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 💣 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)
+ - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 👉 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)<!-- MEMES:END -->
 
 ---
 

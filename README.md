@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men are simple](http://9gag.com/gag/aGye2bn)
- - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 💣 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
- - 😝 [Goodbye to another childhood legend](http://9gag.com/gag/aYQ4mPx)
- - 👉 [Good bye Darth Vader R.I.P](http://9gag.com/gag/aAyDZnR)<!-- MEMES:END -->
+ - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 😝 [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
+ - 💣 [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 👉 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)<!-- MEMES:END -->
 
 ---
 

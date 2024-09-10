@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
- - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
  - 😝 [When robots arrive in every house](http://9gag.com/gag/a4PGxNv)
- - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 😝 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
+ - 👉 [Every night.](http://9gag.com/gag/amo2RRX)<!-- MEMES:END -->
 
 ---
 

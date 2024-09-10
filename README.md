@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 💣 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - 😝 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
- - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
+ - 😝 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
+ - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 💣 [Hold the door.](http://9gag.com/gag/a6ZVGR2)
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)
+ - 👉 [NSFW as well](http://9gag.com/gag/a7oDnXL)<!-- MEMES:END -->
 
 ---
 

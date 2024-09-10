@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flipper Zero 1.0 firmware update supercharges the hacking handheld](https://www.theverge.com/2024/9/10/24241081/flipper-zero-1-0-major-firmware-update-2024)
+ - [Google plans to buy carbon removal credits from direct air capture provider Holocene for $100 per ton, far below current prices, for delivery by the early 2030s &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240910/p23#a240910p23)
  - [DirecTV rejects Disney’s offer to bring one channel back for tonight only](https://www.theverge.com/2024/9/10/24241123/disney-directv-debate-dispute-abc-news)
- - [Google announces a market-shifting deal to capture CO2](https://www.theverge.com/2024/9/10/24240882/google-holocene-carbon-removal-direct-air-capture-deal)
- - [Sony’s new PS5 heralds the end of disc drives](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
- - [ASSA ABLOY acquires Level Lock, creates new Ambient Property Technologies subsidiary](https://appleinsider.com/articles/24/09/10/assa-abloy-acquires-level-lock-creates-new-ambient-property-technologies-subsidiary?utm_medium=rss)
- - [iPhone 16 Preorder Countdown: Where and When to Buy Apple&#39;s Newest Phones](https://www.cnet.com/deals/iphone-16-preorder-countdown-where-and-when-to-buy-apples-newest-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Meta Quest 3S Photo Leak Shows &#39;Spider-Eyes&#39; Design](https://www.cnet.com/tech/computing/new-meta-quest-3s-photo-leak-shows-spider-eyes-design/#ftag=CAD590a51e)
+ - [Google announces a market-shifting deal to capture CO2](https://www.theverge.com/2024/9/10/24240882/google-holocene-carbon-removal-direct-air-capture-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

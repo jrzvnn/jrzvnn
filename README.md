@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Life of Chuck dances through the end of the world](https://www.theverge.com/24241044/the-life-of-chuck-review-tiff-stephen-king-mike-flanagan)
+ - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)
  - [Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240910/p19#a240910p19)
  - [Paris-based Neat, which helps other companies sell insurance products to their own customers, raised a &amp;euro;50M Series A, with ~60% in equity and the rest in debt &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240910/p18#a240910p18)
- - [Sony’s $700 PlayStation 5 Pro Is Finally Coming in November](https://www.wired.com/story/playstation-5-pro-coming-november/)
- - [The Substance is a grotesque takedown of our obsession with youth](https://www.theverge.com/2024/9/10/24240464/the-substance-review)
- - [Microsoft says it has demonstrated, with Quantinuum, logical operations with the largest number of error-corrected qubits yet, and partners with Atom Computing &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240910/p17#a240910p17)<!-- TECH:END -->
+ - [Sony’s $700 PlayStation 5 Pro Is Finally Coming in November](https://www.wired.com/story/playstation-5-pro-coming-november/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 😝 [All the U.N.C.L.E&#39;s from family tree](http://9gag.com/gag/aW4q2OK)
- - 💣 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 👉 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)<!-- MEMES:END -->
+ - 😝 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
+ - 💣 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
+ - 😝 [When robots arrive in every house](http://9gag.com/gag/a4PGxNv)
+ - 👉 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)<!-- MEMES:END -->
 
 ---
 

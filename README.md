@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [&#39;The Elder Scrolls: Castles&#39; now available on iPhone, Mac](https://appleinsider.com/articles/24/09/10/the-elder-scrolls-castles-now-available-on-iphone-mac?utm_medium=rss)
+ - [Don&#39;t Buy an iPhone 16 Case Yet. Here&#39;s What to Look for First](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16-case-yet-heres-what-to-look-for-first/#ftag=CAD590a51e)
  - [Startups say Pakistan&#39;s new China-like firewall is making it harder for them to raise funds, amid complaints about censorship and internet speeds falling by 40% &lpar;Kunwar Khuldune Shahid/Rest of World&rpar;](http://www.techmeme.com/240909/p36#a240909p36)
  - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
- - [Hands-On with AirPods 4 and New AirPods Max video](https://www.cnet.com/videos/hands-on-with-airpods-4-and-new-airpods-max/#ftag=CAD590a51e)
- - [Google and DOJ’s ad tech fight is all about control](https://www.theverge.com/2024/9/9/24240386/google-doj-ad-tech-antitrust-trial-court-day-one)<!-- TECH:END -->
+ - [Hands-On with iPhone 16 Pro and iPhone 16 Pro Max video](https://www.cnet.com/videos/hands-on-with-iphone-16-pro-and-iphone-16-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

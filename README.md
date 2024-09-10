@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DirecTV rejects Disney’s offer to bring one channel back for tonight only](https://www.theverge.com/2024/9/10/24241123/disney-directv-debate-dispute-abc-news)
+ - [Google announces a market-shifting deal to capture CO2](https://www.theverge.com/2024/9/10/24240882/google-holocene-carbon-removal-direct-air-capture-deal)
  - [Sony’s new PS5 heralds the end of disc drives](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
  - [ASSA ABLOY acquires Level Lock, creates new Ambient Property Technologies subsidiary](https://appleinsider.com/articles/24/09/10/assa-abloy-acquires-level-lock-creates-new-ambient-property-technologies-subsidiary?utm_medium=rss)
- - [iPhone 16 Preorder Countdown: Where and When to Buy Apple&#39;s Newest Phones](https://www.cnet.com/deals/iphone-16-preorder-countdown-where-and-when-to-buy-apples-newest-phones/#ftag=CAD590a51e)
- - [Microsoft&#39;s New Xbox Game Pass Standard Tier Is Available Now](https://www.cnet.com/tech/gaming/microsofts-new-xbox-game-pass-standard-tier-is-available-now/#ftag=CAD590a51e)
- - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lifx’s new tube bulb turns your boring light fixtures into RGB glow sticks](https://www.theverge.com/2024/9/10/24241183/lifx-polychrome-t10-tube-smart-rgb-light-b10-candle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

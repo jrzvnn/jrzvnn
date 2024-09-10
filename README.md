@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These bookmarking apps can organize all of that content you’ve been saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
+ - [These bookmarking apps can organize all of that content you’re saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
  - [Here are all the games enhanced by PS5 Pro](https://www.theverge.com/2024/9/10/24240027/sony-ps5-pro-enhanced-games-list-game-boost)
  - [Sony announces the PS5 Pro with more advanced internals for 45% faster game rendering but doesn&#39;t come with a disc drive, available November 7 for $700 &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240910/p15#a240910p15)
  - [The $700 PS5 Pro doesn’t come with a disc drive](https://www.theverge.com/2024/9/10/24240906/sony-ps5-pro-disc-drive-separate-price)

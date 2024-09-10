@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 💣 [Hold the door.](http://9gag.com/gag/a6ZVGR2)
- - 😝 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)
- - 👉 [NSFW as well](http://9gag.com/gag/a7oDnXL)<!-- MEMES:END -->
+ - 😝 [Preselection Rule](http://9gag.com/gag/abAzdpO)
+ - 😝 [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)
+ - 💣 [This is amazing!](http://9gag.com/gag/avy7X0d)
+ - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
 
 ---
 

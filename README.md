@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s what your iPhone 16 will do with Apple Intelligence — eventually](https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule)
  - [Sources describe how Stripe was forced to scramble after its payments partnership with Wells Fargo ended and Goldman Sachs decided against taking up the role &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240910/p22#a240910p22)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [New firmware available for AirPods Pro 2 and Apple Pencil Pro](https://appleinsider.com/articles/24/09/10/new-firmware-available-for-airpods-pro-2-and-apple-pencil-pro?utm_medium=rss)
- - [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)
- - [The NYT tech guild of 600+ staff, the largest US union of tech workers with bargaining rights, authorizes a strike after two years of talks without a contract &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240910/p21#a240910p21)<!-- TECH:END -->
+ - [SolarEdge&#39;s Newest Residential Solar Battery Is a Big Step Up From Its Previous Model](https://www.cnet.com/home/energy-and-utilities/solaredges-newest-residential-solar-battery-is-a-big-step-up-from-its-previous-model/#ftag=CAD590a51e)
+ - [New firmware available for AirPods Pro 2 and Apple Pencil Pro](https://appleinsider.com/articles/24/09/10/new-firmware-available-for-airpods-pro-2-and-apple-pencil-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)
- - 😝 [This aged poorly](http://9gag.com/gag/aD2zVYN)
- - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
- - 👉 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)<!-- MEMES:END -->
+ - 😝 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
+ - 😝 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 💣 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
+ - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 👉 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)<!-- MEMES:END -->
 
 ---
 

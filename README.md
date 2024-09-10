@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [He Worked for a Law Firm Consulting on an Anti-Trans Supreme Court Case. Then We Asked About These Racist Posts](https://www.wired.com/story/lawfair-anti-trans-supreme-court-racist-posts/)
  - [Why Is AI So Bad at Generating Images of Kamala Harris?](https://www.wired.com/story/bad-kamala-harris-ai-generated-images/)
  - [Alibaba&#39;s stock rises 5%+ after being made directly accessible to mainland China investors for the first time, following an upgrade to Hong Kong primary listing &lpar;Financial Times&rpar;](http://www.techmeme.com/240910/p7#a240910p7)
  - [Inside Google’s 7-Year Mission to Give AI a Robot Body](https://www.wired.com/story/inside-google-mission-to-give-ai-robot-body/)
- - [iPhone 16 Plus vs. iPhone 16 Pro Max: Battle of the Big iPhones](https://www.cnet.com/tech/mobile/iphone-16-plus-vs-iphone-16-pro-max-battle-of-the-big-iphones/#ftag=CAD590a51e)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Plus vs. iPhone 16 Pro Max: Battle of the Big iPhones](https://www.cnet.com/tech/mobile/iphone-16-plus-vs-iphone-16-pro-max-battle-of-the-big-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

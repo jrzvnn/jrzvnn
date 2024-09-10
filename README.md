@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
- - 😝 [Do you see what I see, my fellow degenerates?](http://9gag.com/gag/ary5Bny)
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 😝 [Gotta keep going!](http://9gag.com/gag/aD2zVBN)
+ - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - 💣 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
  - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 👉 [All the U.N.C.L.E&#39;s from family tree](http://9gag.com/gag/aW4q2OK)<!-- MEMES:END -->
+ - 👉 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)<!-- MEMES:END -->
 
 ---
 

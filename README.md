@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
  - [Replace a pile of battery-hungry remotes with this solar-powered universal](https://www.theverge.com/2024/9/10/24240761/solar-power-exeger-powerfoyle-hama-tv-universal-remote)
  - [Watch Sony’s PS5 ‘technical presentation’ at 11AM ET](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
  - [Sources: OpenAI aims to release its reasoning-focused Strawberry AI within two weeks as a model users can pick in ChatGPT; it will lack multimodal capabilities &lpar;The Information&rpar;](http://www.techmeme.com/240910/p13#a240910p13)
- - [How to watch the first presidential debate between Harris and Trump](https://www.theverge.com/2024/9/10/24237704/presidential-debate-harris-trump-how-to-watch-streaming)
- - [Glean, which uses AI to offer unified search across apps used at a company, raised $260M+ at a $4.6B valuation, after raising $200M at a $2.2B valuation in Feb. &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240910/p12#a240910p12)<!-- TECH:END -->
+ - [How to watch the first presidential debate between Harris and Trump](https://www.theverge.com/2024/9/10/24237704/presidential-debate-harris-trump-how-to-watch-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

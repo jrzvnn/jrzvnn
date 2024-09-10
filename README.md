@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
- - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
- - 💣 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - 😝 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
- - 👉 [Every night.](http://9gag.com/gag/amo2RRX)<!-- MEMES:END -->
+ - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 😝 [When robots arrive in every house](http://9gag.com/gag/a4PGxNv)
+ - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
 
 ---
 

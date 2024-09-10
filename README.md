@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it has demonstrated, with Quantinuum, logical operations with the largest number of error-corrected qubits yet, and partners with Atom Computing &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240910/p17#a240910p17)
  - [A total of 42 state and territory AGs call on Congress to pass legislation requiring warning labels on social networks that warn of social media&#39;s risks to kids &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240910/p16#a240910p16)
  - [Iodyne&#39;s Pro Mini Smart Drive could be an iPhone filmmaker&#39;s dream storage solution](https://appleinsider.com/articles/24/09/10/iodynes-pro-mini-smart-drive-could-be-an-iphone-filmmakers-dream-storage-solution?utm_medium=rss)
  - [This Iodyne is the most gadgety portable SSD ever devised](https://www.theverge.com/2024/9/10/24240378/iodyne-pro-mini-ssd-e-paper-find-my-apple-google-thunderbolt)
- - [Confessions of a Hinge Power User](https://www.wired.com/story/confessions-of-a-hinge-power-user/)
- - [Goldman Sachs is certain to lose millions when it sells off Apple Card](https://appleinsider.com/articles/24/09/10/goldman-sachs-is-certain-to-lose-millions-when-it-sells-off-its-apple-card-stake?utm_medium=rss)<!-- TECH:END -->
+ - [Confessions of a Hinge Power User](https://www.wired.com/story/confessions-of-a-hinge-power-user/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

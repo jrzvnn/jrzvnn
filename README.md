@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
- - 😝 [Flawlessly executed prank](http://9gag.com/gag/axy0RWn)
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 😝 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)
- - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
+ - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 😝 [Hodor](http://9gag.com/gag/aQzeO2r)
+ - 💣 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
+ - 😝 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)
+ - 👉 [Honesty is a quality of good people. No matter where you come from, what you believe in or how much money you have](http://9gag.com/gag/aAyD2mp)<!-- MEMES:END -->
 
 ---
 

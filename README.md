@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based Neat, which helps other companies sell insurance products to their own customers, raised a &amp;euro;50M Series A, with ~60% in equity and the rest in debt &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240910/p18#a240910p18)
+ - [Sony’s $700 PlayStation 5 Pro Is Finally Coming in November](https://www.wired.com/story/playstation-5-pro-coming-november/)
  - [The Substance is a grotesque takedown of our obsession with youth](https://www.theverge.com/2024/9/10/24240464/the-substance-review)
  - [Microsoft says it has demonstrated, with Quantinuum, logical operations with the largest number of error-corrected qubits yet, and partners with Atom Computing &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240910/p17#a240910p17)
- - [A total of 42 state and territory AGs call on Congress to pass legislation requiring warning labels on social networks that warn of social media&#39;s risks to kids &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240910/p16#a240910p16)
- - [Iodyne&#39;s Pro Mini Smart Drive could be an iPhone filmmaker&#39;s dream storage solution](https://appleinsider.com/articles/24/09/10/iodynes-pro-mini-smart-drive-could-be-an-iphone-filmmakers-dream-storage-solution?utm_medium=rss)
- - [This Iodyne is the most gadgety portable SSD ever devised](https://www.theverge.com/2024/9/10/24240378/iodyne-pro-mini-ssd-e-paper-find-my-apple-google-thunderbolt)<!-- TECH:END -->
+ - [A total of 42 state and territory AGs call on Congress to pass legislation requiring warning labels on social networks that warn of social media&#39;s risks to kids &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240910/p16#a240910p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI aims to release its reasoning-focused Strawberry AI within two weeks as a model users can pick in ChatGPT; it will lack multimodal capabilities &lpar;The Information&rpar;](http://www.techmeme.com/240910/p13#a240910p13)
  - [How to watch the first presidential debate between Harris and Trump](https://www.theverge.com/2024/9/10/24237704/presidential-debate-harris-trump-how-to-watch-streaming)
  - [Glean, which uses AI to offer unified search across apps used at a company, raised $260M+ at a $4.6B valuation, after raising $200M at a $2.2B valuation in Feb. &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240910/p12#a240910p12)
  - [You Need to Claim Your Share of Cash App&#39;s $15 Million Settlement This Fall. Here&#39;s How](https://www.cnet.com/personal-finance/you-need-to-claim-your-share-of-cash-apps-15-million-settlement-this-fall-heres-how/#ftag=CAD590a51e)
- - [Mortgage Rates Fall Ahead of Fed Week. Today&#39;s Mortgage Rates, Sept. 10, 2024](https://www.cnet.com/personal-finance/mortgages-cool-off-for-homeseekers-current-mortgage-rates-for-sept-10-2024/#ftag=CAD590a51e)
- - [Best Portable Air Conditioners for 2024: New Winner](https://www.cnet.com/home/kitchen-and-household/best-portable-ac-units/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Rates Fall Ahead of Fed Week. Today&#39;s Mortgage Rates, Sept. 10, 2024](https://www.cnet.com/personal-finance/mortgages-cool-off-for-homeseekers-current-mortgage-rates-for-sept-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

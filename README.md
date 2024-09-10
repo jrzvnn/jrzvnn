@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei unveils Mate XT trifold smartphone with a 10.2-inch screen when unfolded, available in China on September 20 for $2,800+ &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240910/p5#a240910p5)
- - [Google loses its bid to reverse a &amp;euro;2.4B EU fine for abusing its monopoly power to crush rival shopping services, as EU&#39;s Court of Justice backs a 2017 decision &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240910/p4#a240910p4)
- - [The European Court of Justice rules against Apple over a record &amp;euro;13B Irish tax bill, backing a landmark decision from 2016 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240910/p3#a240910p3)
- - [SpaceX’s historic Polaris Dawn mission: how to watch the launch](https://www.theverge.com/2024/8/26/24228803/spacex-polaris-dawn-mission-launch-date-time-watch-live)
- - [Both of Apple&#39;s New AirPods 4 Are Available to Preorder Now](https://www.cnet.com/deals/both-of-apples-new-airpods-4-are-available-to-preorder-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Billionaire Finally Launches on First Private Space-Walk Mission](https://www.wired.com/story/polaris-dawn-private-spacewalk-crew-dragon-spacex/)
+ - [How VC John Hering bet his career, time, and money on Elon Musk&#39;s businesses, including investing $4B+, more than half of his firm Vy Capital&#39;s reported assets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240910/p6#a240910p6)
+ - [Huawei’s new tri-fold phone costs more than a 16-inch MacBook Pro](https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch)
+ - [DirectTV Subscribers Shut Out of Presidential Debate Due to Disney Dispute](https://www.cnet.com/tech/services-and-software/directtv-subscribers-shut-out-of-presidential-debate-due-to-disney-dispute/#ftag=CAD590a51e)
+ - [Huawei unveils Mate XT trifold smartphone with a 10.2-inch screen when unfolded, available in China on September 20 for $2,800+ &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240910/p5#a240910p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

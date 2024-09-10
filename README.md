@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
- - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 💣 [We need more like this again in TV](http://9gag.com/gag/an7jDrb)
- - 😝 [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
- - 👉 [Well well well](http://9gag.com/gag/aD2zO19)<!-- MEMES:END -->
+ - 😝 [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
+ - 😝 [This aged poorly](http://9gag.com/gag/aD2zVYN)
+ - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
+ - 😝 [Agreed](http://9gag.com/gag/azxqYLK)
+ - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
 
 ---
 

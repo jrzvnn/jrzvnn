@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 😝 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 😝 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
- - 👉 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)<!-- MEMES:END -->
+ - 😝 [Men are simple](http://9gag.com/gag/aGye2bn)
+ - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 💣 [Good bye Darth Vader R.I.P](http://9gag.com/gag/aAyDZnR)
+ - 😝 [Goodbye to another childhood legend](http://9gag.com/gag/aYQ4mPx)
+ - 👉 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)<!-- MEMES:END -->
 
 ---
 

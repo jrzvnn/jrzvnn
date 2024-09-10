@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - 😝 [When robots arrive in every house](http://9gag.com/gag/a4PGxNv)
- - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
- - 😝 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
- - 👉 [Every night.](http://9gag.com/gag/amo2RRX)<!-- MEMES:END -->
+ - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 💣 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
+ - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
 
 ---
 

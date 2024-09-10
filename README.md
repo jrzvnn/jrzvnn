@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Elder Scrolls: Castles&#39; now available on iPhone, Mac](https://appleinsider.com/articles/24/09/10/the-elder-scrolls-castles-now-available-on-iphone-mac?utm_medium=rss)
+ - [Startups say Pakistan&#39;s new China-like firewall is making it harder for them to raise funds, amid complaints about censorship and internet speeds falling by 40% &lpar;Kunwar Khuldune Shahid/Rest of World&rpar;](http://www.techmeme.com/240909/p36#a240909p36)
+ - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
  - [Hands-On with AirPods 4 and New AirPods Max video](https://www.cnet.com/videos/hands-on-with-airpods-4-and-new-airpods-max/#ftag=CAD590a51e)
- - [Google and DOJ’s ad tech fight is all about control](https://www.theverge.com/2024/9/9/24240386/google-doj-ad-tech-antitrust-trial-court-day-one)
- - [iPhone 16 vs. iPhone 14: How These Phones Stack Up](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-14-how-these-phones-stack-up/#ftag=CAD590a51e)
- - [The iPhone 16&#39;s New AI Camera Button Owes a Lot to Sony&#39;s Xperia Phones](https://www.cnet.com/tech/mobile/the-iphone-16s-new-ai-camera-button-owes-a-lot-to-sonys-xperia-phones/#ftag=CAD590a51e)
- - [iPhone 16 and iPhone 16 Plus: First Look video](https://www.cnet.com/videos/iphone-16-and-iphone-16-plus-first-look/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google and DOJ’s ad tech fight is all about control](https://www.theverge.com/2024/9/9/24240386/google-doj-ad-tech-antitrust-trial-court-day-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

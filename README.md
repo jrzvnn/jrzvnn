@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartcat, which provides AI-powered translation tools for businesses, raised a $43M Series C led by Left Lane Capital, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240910/p10#a240910p10)
+ - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
  - [South Korean police arrest two former Samsung officials on suspicion of stealing tech worth $3.2B+ to build a chipmaking plant in China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240910/p9#a240910p9)
  - [Google Pixel Watch 3 review: third time’s the charm](https://www.theverge.com/24239115/google-pixel-watch-3-review-smartwatch-wear-os-wearable)
- - [Special iPhone 16 &amp; Apple Watch Series 10 &#39;Glowtime&#39; event round up, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/10/special-iphone-16-apple-watch-series-10-glowtime-event-round-up-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple Must Pay $14.4 Billion to Ireland in Crackdown On ‘Sweetheart Deals’](https://www.wired.com/story/apples-tax-bust-up-in-ireland-is-a-warning-to-big-tech/)
- - [iOS 18 allows iPhone users to pause video recordings](https://www.theverge.com/2024/9/10/24240729/apple-ios-18-iphone-pause-video-recordings-camera)<!-- TECH:END -->
+ - [Special iPhone 16 &amp; Apple Watch Series 10 &#39;Glowtime&#39; event round up, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/10/special-iphone-16-apple-watch-series-10-glowtime-event-round-up-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

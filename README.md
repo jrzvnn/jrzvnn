@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
- - 😝 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
- - 💣 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
+ - 😝 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
+ - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 💣 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
+ - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 👉 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)<!-- MEMES:END -->
 
 ---
 

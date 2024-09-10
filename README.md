@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Special iPhone 16 &amp; Apple Watch Series 10 &#39;Glowtime&#39; event round up, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/10/special-iphone-16-apple-watch-series-10-glowtime-event-round-up-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple Must Pay $14.4 Billion to Ireland in Crackdown Over ‘Sweetheart Deals’](https://www.wired.com/story/apples-tax-bust-up-in-ireland-is-a-warning-to-big-tech/)
+ - [Apple Must Pay $14.4 Billion to Ireland in Crackdown On ‘Sweetheart Deals’](https://www.wired.com/story/apples-tax-bust-up-in-ireland-is-a-warning-to-big-tech/)
  - [iOS 18 allows iPhone users to pause video recordings](https://www.theverge.com/2024/9/10/24240729/apple-ios-18-iphone-pause-video-recordings-camera)
  - [An Underwater Data Center in San Francisco Bay? Regulators Say Not So Fast](https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/)
  - [Oracle shares are up 34% since January, well outpacing the Nasdaq&#39;s 14% rise, as it becomes an attractive cloud-computing provider for AI developers &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240910/p8#a240910p8)<!-- TECH:END -->

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 😝 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - 💣 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
- - 😝 [When robots arrive in every house](http://9gag.com/gag/a4PGxNv)
- - 👉 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)<!-- MEMES:END -->
+ - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 😝 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
+ - 💣 [Goodbye to another childhood legend](http://9gag.com/gag/aYQ4mPx)
+ - 😝 [No title](http://9gag.com/gag/aPA91ZR)
+ - 👉 [German visits Poland and is amazed by not having police or ambulance and the trainstation and only seeing polish people](http://9gag.com/gag/aLn8rBV)<!-- MEMES:END -->
 
 ---
 

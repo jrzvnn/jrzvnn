@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does King Arthur use to see in the dark? Knight lights.](http://9gag.com/gag/aO8BjZ3)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
- - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
+ - 😝 [Old](http://9gag.com/gag/aGyeoN6)
+ - 😝 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
+ - 💣 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
+ - 😝 [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
+ - 👉 [This is amazing!](http://9gag.com/gag/avy7X0d)<!-- MEMES:END -->
 
 ---
 

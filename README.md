@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google starts rolling out a Google One &quot;Lite&quot; plan in India that offers 30GB storage for Rs. 59, or ~$0.70, per month &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240910/p20#a240910p20)
  - [Microsoft’s new Xbox Game Pass Standard tier is now available for $14.99 per month](https://www.theverge.com/2024/9/10/24241171/xbox-game-pass-standard-launch-pricing)
- - [ESPN is now using AI to recap women’s soccer and people have feelings](https://www.theverge.com/2024/9/10/24240955/espn-generative-ai-reports-womens-soccer-lacrosse-premier-league)
+ - [ESPN’s AI-generated sports recaps are already missing the point](https://www.theverge.com/2024/9/10/24240955/espn-generative-ai-reports-womens-soccer-lacrosse-premier-league)
  - [The 40 Best Shows on Hulu Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [You don’t need to replace your AirPods Max to get a splash of the new colors](https://www.theverge.com/2024/9/10/24241034/apple-airpods-max-wireless-headphones-ear-cushions-colors)
- - [The iPhone 16 will ship as a work in progress](https://www.theverge.com/2024/9/10/24241043/apple-iphone-16-pro-intelligence-ai-missing)<!-- TECH:END -->
+ - [You don’t need to replace your AirPods Max to get a splash of the new colors](https://www.theverge.com/2024/9/10/24241034/apple-airpods-max-wireless-headphones-ear-cushions-colors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

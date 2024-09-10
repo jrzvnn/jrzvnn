@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD Vance’s latest cat flub is bizarre misinformation about migrants eating them](https://www.theverge.com/2024/9/9/24240338/haitian-migrants-cats-springfield-disinformation-jd-vance-elon-musk)
- - [This iPhone ‘Supercycle’ May Not Be So Super](https://www.wired.com/story/iphone-16-supercycle/)
- - [FineWoven is alive, but just barely hanging on](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)
- - [Compared: AirPods 4 vs AirPods Pro 2 -- ANC without ear tips could tip the scales](https://appleinsider.com/articles/24/09/09/compared-airpods-4-vs-airpods-pro-2----anc-without-ear-tips-could-tip-the-scales?utm_medium=rss)
- - [AirPods as Hearing Aids? Everything to Know About Apple&#39;s Major Health Update](https://www.cnet.com/tech/mobile/airpods-as-hearing-aids-everything-to-know-about-apples-major-health-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 and iPhone 16 Plus: First Look video](https://www.cnet.com/videos/iphone-16-and-iphone-16-plus-first-look/#ftag=CAD590a51e)
+ - [James Earl Jones&#39; Darth Vader Has Already Been Immortalized With AI](https://www.wired.com/story/james-earl-jones-darth-vader-death-artificial-intelligence/)
+ - [iPhone 16 has a new Camera Control button -- Here&#39;s everything it can do](https://appleinsider.com/articles/24/09/10/iphone-16-has-a-new-camera-control-button----heres-everything-it-can-do?utm_medium=rss)
+ - [Apple Watch Series 10: Hands-On video](https://www.cnet.com/videos/apple-watch-series-10-hands-on/#ftag=CAD590a51e)
+ - [iPhone 16 vs. iPhone 16 Pro: All the Key Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-16-pro-all-the-key-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

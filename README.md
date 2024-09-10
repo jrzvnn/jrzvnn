@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Elder Scrolls: Castles&#39; now available on iPhone, Mac](https://appleinsider.com/articles/24/09/10/the-elder-scrolls-castles-now-available-on-iphone-mac?utm_medium=rss)
- - [Don&#39;t Buy an iPhone 16 Case Yet. Here&#39;s What to Look for First](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16-case-yet-heres-what-to-look-for-first/#ftag=CAD590a51e)
- - [Startups say Pakistan&#39;s new China-like firewall is making it harder for them to raise funds, amid complaints about censorship and internet speeds falling by 40% &lpar;Kunwar Khuldune Shahid/Rest of World&rpar;](http://www.techmeme.com/240909/p36#a240909p36)
- - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
- - [Hands-On with iPhone 16 Pro and iPhone 16 Pro Max video](https://www.cnet.com/videos/hands-on-with-iphone-16-pro-and-iphone-16-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240910/p1#a240910p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-10/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 10, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-10-457/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 10, #191](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-10-191/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 10, #1179](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-10-1179/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

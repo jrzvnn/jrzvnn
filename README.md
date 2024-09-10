@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 40 Best Shows on Hulu Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [You don’t need to replace your AirPods Max to get a splash of the new colors](https://www.theverge.com/2024/9/10/24241034/apple-airpods-max-wireless-headphones-ear-cushions-colors)
  - [The iPhone 16 will ship as a work in progress](https://www.theverge.com/2024/9/10/24241043/apple-iphone-16-pro-intelligence-ai-missing)
  - [The Life of Chuck dances through the end of the world](https://www.theverge.com/24241044/the-life-of-chuck-review-tiff-stephen-king-mike-flanagan)
- - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)
- - [Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240910/p19#a240910p19)<!-- TECH:END -->
+ - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

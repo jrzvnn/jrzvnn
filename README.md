@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old](http://9gag.com/gag/aGyeoN6)
- - 😝 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
- - 💣 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
- - 😝 [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
- - 👉 [This is amazing!](http://9gag.com/gag/avy7X0d)<!-- MEMES:END -->
+ - 😝 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
+ - 😝 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
+ - 💣 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
 
 ---
 

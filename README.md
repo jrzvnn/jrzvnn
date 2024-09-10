@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Election officials across the US say false election rumors spread by Elon Musk to his 197M+ followers often coincide with calls by locals to purge voter rolls &lpar;Washington Post&rpar;](http://www.techmeme.com/240910/p14#a240910p14)
- - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [Replace a pile of battery-hungry remotes with this solar-powered universal](https://www.theverge.com/2024/9/10/24240761/solar-power-exeger-powerfoyle-hama-tv-universal-remote)
- - [Watch Sony’s PS5 ‘technical presentation’ at 11AM ET](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
- - [Sources: OpenAI aims to release its reasoning-focused Strawberry AI within two weeks as a model users can pick in ChatGPT; it will lack multimodal capabilities &lpar;The Information&rpar;](http://www.techmeme.com/240910/p13#a240910p13)<!-- TECH:END -->
+ - [AirPods Max just got the laziest and most disappointing update possible](https://appleinsider.com/articles/24/09/10/airpods-max-just-got-the-laziest-and-most-disappointing-update-possible?utm_medium=rss)
+ - [Sony announces the PS5 Pro with a larger GPU, advanced ray tracing, and AI upscaling](https://www.theverge.com/2024/9/10/24167932/ps5-pro-sony-specs-announcement)
+ - [iPhone 16 gets super fast wireless charging, with the right MagSafe cable](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
+ - [The Analogue Pocket now comes in six Game Boy Color-inspired hues](https://www.theverge.com/2024/9/10/24236829/analogue-pocket-handheld-gaming-game-boy-color)
+ - [Apple Watch Ultra 3 &amp; new Apple Watch SE expected to ship in 2025](https://appleinsider.com/articles/24/09/10/apple-watch-ultra-3-new-apple-watch-se-expected-to-ship-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

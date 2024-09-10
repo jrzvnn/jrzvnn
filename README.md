@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple must pay EU $14 billion over Ireland tax arrangement](https://appleinsider.com/articles/24/09/10/apple-must-pay-eu-14-billion-over-ireland-tax-arrangement?utm_medium=rss)
  - [Billionaire Finally Launches on First Private Space-Walk Mission](https://www.wired.com/story/polaris-dawn-private-spacewalk-crew-dragon-spacex/)
  - [How VC John Hering bet his career, time, and money on Elon Musk&#39;s businesses, including investing $4B+, more than half of his firm Vy Capital&#39;s reported assets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240910/p6#a240910p6)
  - [Huawei’s new tri-fold phone costs more than a 16-inch MacBook Pro](https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch)
- - [DirectTV Subscribers Shut Out of Presidential Debate Due to Disney Dispute](https://www.cnet.com/tech/services-and-software/directtv-subscribers-shut-out-of-presidential-debate-due-to-disney-dispute/#ftag=CAD590a51e)
- - [Huawei unveils Mate XT trifold smartphone with a 10.2-inch screen when unfolded, available in China on September 20 for $2,800+ &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240910/p5#a240910p5)<!-- TECH:END -->
+ - [DirectTV Subscribers Shut Out of Presidential Debate Due to Disney Dispute](https://www.cnet.com/tech/services-and-software/directtv-subscribers-shut-out-of-presidential-debate-due-to-disney-dispute/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

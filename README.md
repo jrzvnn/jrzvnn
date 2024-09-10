@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
  - 😝 [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
- - 💣 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 👉 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)<!-- MEMES:END -->
+ - 😝 [Do you see what I see, my fellow degenerates?](http://9gag.com/gag/ary5Bny)
+ - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 👉 [All the U.N.C.L.E&#39;s from family tree](http://9gag.com/gag/aW4q2OK)<!-- MEMES:END -->
 
 ---
 

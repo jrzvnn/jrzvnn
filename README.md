@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle shares are up 34% since January, well outpacing the Nasdaq&#39;s 14% rise, as it becomes an attractive cloud-computing provider for AI developers &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240910/p8#a240910p8)
- - [He Worked for a Law Firm Consulting on an Anti-Trans Supreme Court Case. Then We Asked About These Racist Posts](https://www.wired.com/story/lawfair-anti-trans-supreme-court-racist-posts/)
- - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)
- - [Why Is AI So Bad at Generating Images of Kamala Harris?](https://www.wired.com/story/bad-kamala-harris-ai-generated-images/)
- - [Credit Card &#39;Forgiveness&#39; Programs Are Usually Scams. 10 Red Flags to Look For](https://www.cnet.com/personal-finance/credit-cards/credit-card-forgiveness-programs-are-usually-scams-10-red-flags-to-spot-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Special iPhone 16 &amp; Apple Watch Series 10 &#39;Glowtime&#39; event round up, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/10/special-iphone-16-apple-watch-series-10-glowtime-event-round-up-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple Must Pay $14.4 Billion to Ireland in Crackdown Over ‘Sweetheart Deals’](https://www.wired.com/story/apples-tax-bust-up-in-ireland-is-a-warning-to-big-tech/)
+ - [iOS 18 allows iPhone users to pause video recordings](https://www.theverge.com/2024/9/10/24240729/apple-ios-18-iphone-pause-video-recordings-camera)
+ - [An Underwater Data Center in San Francisco Bay? Regulators Say Not So Fast](https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/)
+ - [Oracle shares are up 34% since January, well outpacing the Nasdaq&#39;s 14% rise, as it becomes an attractive cloud-computing provider for AI developers &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240910/p8#a240910p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

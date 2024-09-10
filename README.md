@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
- - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 💣 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 😝 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - 👉 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)<!-- MEMES:END -->
+ - 😝 [What does King Arthur use to see in the dark? Knight lights.](http://9gag.com/gag/aO8BjZ3)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
 
 ---
 

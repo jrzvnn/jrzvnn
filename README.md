@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Quantum Source, which is developing photonic quantum computers, raised a $50M Series A led by Eclipse, bringing its total funding to $77M &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/240910/p11#a240910p11)
  - [The iPhone 16 is here, but it’s not finished](https://www.theverge.com/2024/9/10/24240787/apple-iphone-16-intelligence-camera-control)
  - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)
  - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
- - [Smartcat, which provides AI-powered translation tools for businesses, raised a $43M Series C led by Left Lane Capital, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240910/p10#a240910p10)
- - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
+ - [Smartcat, which provides AI-powered translation tools for businesses, raised a $43M Series C led by Left Lane Capital, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240910/p10#a240910p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

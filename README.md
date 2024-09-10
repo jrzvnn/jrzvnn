@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SolarEdge&#39;s Newest Residential Solar Battery Is a Big Step Up From Its Previous Model](https://www.cnet.com/home/energy-and-utilities/solaredges-newest-residential-solar-battery-is-a-big-step-up-from-its-previous-model/#ftag=CAD590a51e)
  - [New firmware available for AirPods Pro 2 and Apple Pencil Pro](https://appleinsider.com/articles/24/09/10/new-firmware-available-for-airpods-pro-2-and-apple-pencil-pro?utm_medium=rss)
  - [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)
- - [The NYT tech guild of 600+ staff, the largest US union of tech workers with bargaining rights, authorizes a strike after two years of talks without a contract &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240910/p21#a240910p21)
- - [Google starts rolling out a Google One &quot;Lite&quot; plan in India that offers 30GB storage for Rs. 59, or ~$0.70, per month &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240910/p20#a240910p20)
- - [Microsoft’s new Xbox Game Pass Standard tier is now available for $14.99 per month](https://www.theverge.com/2024/9/10/24241171/xbox-game-pass-standard-launch-pricing)<!-- TECH:END -->
+ - [The Best Credit Cards With Virtual Card Numbers -- Keep Your Online Information Secure](https://www.cnet.com/personal-finance/credit-cards/the-best-credit-cards-with-virtual-card-numbers-keep-your-online-information-secure/#ftag=CAD590a51e)
+ - [Why AirPods May Be the Hearing Aid People Finally Use](https://www.cnet.com/health/medical/why-airpods-may-be-the-hearing-aid-people-finally-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

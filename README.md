@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump vs. Harris: How to watch the September 10 Presidential debate online](https://appleinsider.com/inside/iphone/tips/trump-vs-harris-how-to-watch-the-september-10-presidential-debate-online?utm_medium=rss)
  - [AirPods Max just got the laziest and most disappointing update possible](https://appleinsider.com/articles/24/09/10/airpods-max-just-got-the-laziest-and-most-disappointing-update-possible?utm_medium=rss)
  - [Sony announces the PS5 Pro with a larger GPU, advanced ray tracing, and AI upscaling](https://www.theverge.com/2024/9/10/24167932/ps5-pro-sony-specs-announcement)
  - [iPhone 16 gets super fast wireless charging, with the right MagSafe cable](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
- - [The Analogue Pocket now comes in six Game Boy Color-inspired hues](https://www.theverge.com/2024/9/10/24236829/analogue-pocket-handheld-gaming-game-boy-color)
- - [Apple Watch Ultra 3 &amp; new Apple Watch SE expected to ship in 2025](https://appleinsider.com/articles/24/09/10/apple-watch-ultra-3-new-apple-watch-se-expected-to-ship-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [The Analogue Pocket now comes in six Game Boy Color-inspired hues](https://www.theverge.com/2024/9/10/24236829/analogue-pocket-handheld-gaming-game-boy-color)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sony’s new PS5 heralds the end of disc drives](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)
  - [ASSA ABLOY acquires Level Lock, creates new Ambient Property Technologies subsidiary](https://appleinsider.com/articles/24/09/10/assa-abloy-acquires-level-lock-creates-new-ambient-property-technologies-subsidiary?utm_medium=rss)
- - [Lifx’s new tube bulb turns your boring light fixtures into RGB glow sticks](https://www.theverge.com/2024/9/10/24241183/lifx-polychrome-t10-tube-smart-rgb-light-b10-candle)
- - [The new Galaxy Buds 3 are already on sale as part of Samsung’s fall sales event](https://www.theverge.com/2024/9/10/24240025/samsung-galaxy-buds-3-apple-magic-mouse-deal-sale)
- - [Here’s what your iPhone 16 will do with Apple Intelligence — eventually](https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule)<!-- TECH:END -->
+ - [iPhone 16 Preorder Countdown: Where and When to Buy Apple&#39;s Newest Phones](https://www.cnet.com/deals/iphone-16-preorder-countdown-where-and-when-to-buy-apples-newest-phones/#ftag=CAD590a51e)
+ - [Microsoft&#39;s New Xbox Game Pass Standard Tier Is Available Now](https://www.cnet.com/tech/gaming/microsofts-new-xbox-game-pass-standard-tier-is-available-now/#ftag=CAD590a51e)
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

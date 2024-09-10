@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Life of Chuck dances through the end of the world](https://www.theverge.com/24241044/the-life-of-chuck-review-tiff-stephen-king-mike-flanagan)
  - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)
  - [Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240910/p19#a240910p19)
- - [Paris-based Neat, which helps other companies sell insurance products to their own customers, raised a &amp;euro;50M Series A, with ~60% in equity and the rest in debt &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240910/p18#a240910p18)
- - [Sony’s $700 PlayStation 5 Pro Is Finally Coming in November](https://www.wired.com/story/playstation-5-pro-coming-november/)<!-- TECH:END -->
+ - [Glider Recliner](https://www.cnet.com/news/glider-recliner-dpnl/#ftag=CAD590a51e)
+ - [Paris-based Neat, which helps other companies sell insurance products to their own customers, raised a &amp;euro;50M Series A, with ~60% in equity and the rest in debt &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240910/p18#a240910p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

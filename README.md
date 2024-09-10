@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump vs. Harris: How to watch the September 10 Presidential debate online](https://appleinsider.com/inside/iphone/tips/trump-vs-harris-how-to-watch-the-september-10-presidential-debate-online?utm_medium=rss)
- - [AirPods Max just got the laziest and most disappointing update possible](https://appleinsider.com/articles/24/09/10/airpods-max-just-got-the-laziest-and-most-disappointing-update-possible?utm_medium=rss)
- - [Sony announces the PS5 Pro with a larger GPU, advanced ray tracing, and AI upscaling](https://www.theverge.com/2024/9/10/24167932/ps5-pro-sony-specs-announcement)
- - [iPhone 16 gets super fast wireless charging, with the right MagSafe cable](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
- - [The Analogue Pocket now comes in six Game Boy Color-inspired hues](https://www.theverge.com/2024/9/10/24236829/analogue-pocket-handheld-gaming-game-boy-color)<!-- TECH:END -->
+ - [These bookmarking apps can organize all of that content you’ve been saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
+ - [Here are all the games enhanced by PS5 Pro](https://www.theverge.com/2024/9/10/24240027/sony-ps5-pro-enhanced-games-list-game-boost)
+ - [Sony announces the PS5 Pro with more advanced internals for 45% faster game rendering but doesn&#39;t come with a disc drive, available November 7 for $700 &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240910/p15#a240910p15)
+ - [The $700 PS5 Pro doesn’t come with a disc drive](https://www.theverge.com/2024/9/10/24240906/sony-ps5-pro-disc-drive-separate-price)
+ - [Glorious’ new gaming keyboards give the curious a taste of the hardcore](https://www.theverge.com/24240747/glorious-gmmk3-pro-modular-mechanical-keyboard-custom-impressions-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

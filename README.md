@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get an iPhone 16 for free or iPhone 16 Pro Max at $1,000 off with AT&amp;T&#39;s preorder deals](https://appleinsider.com/articles/24/09/10/get-an-iphone-16-for-free-or-iphone-16-pro-max-at-1000-off-with-atts-preorder-deals?utm_medium=rss)
  - [Q&amp;A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240910/p1#a240910p1)
- - [Best Internet Providers in Birmingham, Alabama](https://www.cnet.com/home/internet/best-internet-providers-in-birmingham-al/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-10/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 10, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-10-457/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 10, #191](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-10-191/#ftag=CAD590a51e)<!-- TECH:END -->

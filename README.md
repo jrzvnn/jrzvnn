@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Flipper Zero 1.0 firmware update supercharges the hacking handheld](https://www.theverge.com/2024/9/10/24241081/flipper-zero-1-0-major-firmware-update-2024)
  - [Google plans to buy carbon removal credits from direct air capture provider Holocene for $100 per ton, far below current prices, for delivery by the early 2030s &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240910/p23#a240910p23)
  - [DirecTV rejects Disney’s offer to bring one channel back for tonight only](https://www.theverge.com/2024/9/10/24241123/disney-directv-debate-dispute-abc-news)
- - [New Meta Quest 3S Photo Leak Shows &#39;Spider-Eyes&#39; Design](https://www.cnet.com/tech/computing/new-meta-quest-3s-photo-leak-shows-spider-eyes-design/#ftag=CAD590a51e)
- - [Google announces a market-shifting deal to capture CO2](https://www.theverge.com/2024/9/10/24240882/google-holocene-carbon-removal-direct-air-capture-deal)<!-- TECH:END -->
+ - [Google announces a market-shifting deal to capture CO2](https://www.theverge.com/2024/9/10/24240882/google-holocene-carbon-removal-direct-air-capture-deal)
+ - [Sony’s new PS5 heralds the end of disc drives](https://www.theverge.com/2024/9/10/24241265/sony-ps5-pro-game-console-disc-drive-end)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

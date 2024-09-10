@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flawlessly executed prank](http://9gag.com/gag/axy0RWn)
- - 😝 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)
- - 💣 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
+ - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 😝 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
+ - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
  - 😝 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)
- - 👉 [Honesty is a quality of good people. No matter where you come from, what you believe in or how much money you have](http://9gag.com/gag/aAyD2mp)<!-- MEMES:END -->
+ - 👉 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)<!-- MEMES:END -->
 
 ---
 

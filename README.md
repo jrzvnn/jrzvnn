@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is amazing!](http://9gag.com/gag/avy7X0d)
- - 😝 [The century of the left taking L&#39;s like a mf](http://9gag.com/gag/a34Mn21)
- - 💣 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
- - 👉 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)<!-- MEMES:END -->
+ - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
+ - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 💣 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 👉 [Anti theft measures](http://9gag.com/gag/aXPvK8D)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a closer look at the Huawei Mate XT triple-screen foldable](https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos)
- - [An analysis finds 40+ examples of Facebook removing emergency-related posts during 20+ US wildfires since June 2024; Facebook says it is investigating the issue &lpar;Brianna Sacks/Washington Post&rpar;](http://www.techmeme.com/240911/p7#a240911p7)
- - [Lumio Solar Review: What You Get From This Solar Installer](https://www.cnet.com/home/energy-and-utilities/lumio-solar-review/#ftag=CAD590a51e)
- - [The former CEO of Everyday Robotics, Alphabet&#39;s AI robotics moonshot that was shut down in January 2023, reflects on its start and efforts to give AI a body &lpar;Hans Peter Brondmo/Wired&rpar;](http://www.techmeme.com/240911/p6#a240911p6)
- - [The Link Between Your Diet and Sleep Habits: Start Eating Foods That Help You Sleep Better](https://www.cnet.com/health/sleep/how-you-eat-influences-how-you-sleep-heres-how-to-eat-right-for-the-best-sleep-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A surge in scams poses a serious image problem for Revolut, which faces more complaints than its large UK rivals about authorized push payment scams &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240911/p8#a240911p8)
+ - [The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town](https://www.wired.com/story/the-worlds-biggest-bitcoin-mine-is-rattling-this-texas-oil-town/)
+ - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Best CD Rates Today, Sept. 11, 2024: Rate Cuts Are Coming. Don&#39;t Sleep on These High APYs](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-11-2024/#ftag=CAD590a51e)
+ - [Here’s a closer look at the Huawei Mate XT triple-screen foldable](https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

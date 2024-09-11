@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
+ - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
  - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 👉 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)<!-- MEMES:END -->
+ - 💣 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
+ - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
 
 ---
 

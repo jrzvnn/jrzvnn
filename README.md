@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - 😝 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
  - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
- - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
- - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
- - 👉 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)<!-- MEMES:END -->
+ - 💣 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)
+ - 😝 [Preselection Rule](http://9gag.com/gag/abAzdpO)
+ - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will California flip the AI industry on its head?](https://www.theverge.com/2024/9/11/24226251/california-sb-1047-ai-industry-regulation-backlash)
- - [Mistral releases its first multimodal model, Pixtral 12B, available on GitHub and Hugging Face, and via API &quot;soon&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p10#a240911p10)
- - [RIP XOXO](https://www.theverge.com/2024/9/11/24240012/xoxo-festival-portland-kickstarter-creative)
- - [Trump Fans Spread Debate Conspiracy About Microphone Earrings](https://www.wired.com/story/trump-harris-debate-conspiracy-microphone-earrings/)
- - [Wearable weigh-in -- Apple Watch Series 10 vs Apple Watch Series 9 compared](https://appleinsider.com/inside/apple-watch-series-10/vs/wearable-weigh-in----apple-watch-series-10-vs-apple-watch-series-9-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Chainalysis: payments in Singapore using stablecoins reached a record high of almost $1B in Q2, led by transactions at merchant outlets &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240911/p11#a240911p11)
+ - [Nuro is branching out into robotaxis and personally owned autonomous vehicles](https://www.theverge.com/2024/9/11/24241353/nuro-robotaxi-personal-owned-autonomous-vehicle-license)
+ - [Get Ready for Interest Rate Cuts Amid Inflation&#39;s Continued Chill](https://www.cnet.com/personal-finance/banking/get-ready-for-interest-rate-cuts-amid-inflations-continued-chill/#ftag=CAD590a51e)
+ - [How to Treat Rosacea: Skin Care Tips](https://www.cnet.com/health/personal-care/how-to-treat-rosacea-skin-care-tips/#ftag=CAD590a51e)
+ - [Will California flip the AI industry on its head?](https://www.theverge.com/2024/9/11/24226251/california-sb-1047-ai-industry-regulation-backlash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On second day of the US DOJ&#39;s antitrust trial focused on ads, a former News Corp exec testified as a government witness, saying Google held publishers &quot;hostage&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240911/p12#a240911p12)
+ - [Apple calling everything that it released &#39;intelligent&#39; won&#39;t help it catch up](https://appleinsider.com/articles/24/09/11/apple-calling-everything-that-it-released-intelligent-wont-help-it-catch-up?utm_medium=rss)
+ - [Lucid shows off Gravity SUV with Tesla port and teases a cheaper midsize EV](https://www.theverge.com/2024/9/11/24241686/lucid-gravity-tesla-nacs-port-midsized-suv-teaser-cheaper)
  - [Utah social media law requiring age verification blocked by judge](https://www.theverge.com/2024/9/11/24241685/utah-netchoice-social-media-child-safety-law-blocked)
- - [How to Watch the 2024 MTV VMAs Tonight Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-mtv-vmas-tonight-without-cable/#ftag=CAD590a51e)
- - [Best CD Rates Today, Sept. 11, 2024: Rate Cuts Are Coming. Don&#39;t Sleep on These High APYs](https://www.cnet.com/personal-finance/cd-rates-today-sept-11-2024/#ftag=CAD590a51e)
- - [Google dominates online ads, says antitrust trial witness, but publishers are feeling ‘stuck’](https://www.theverge.com/2024/9/11/24241386/former-news-corp-executive-google-doj-ad-tech-trial)
- - [I Tried a Recipe-Generating AI Tool to Create a Restaurant Meal at Home. It Made Me Hangry](https://www.cnet.com/tech/services-and-software/i-tried-a-recipe-generating-ai-tool-to-create-a-restaurant-meal-at-home-it-made-me-hangry/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch the 2024 MTV VMAs Tonight Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-mtv-vmas-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

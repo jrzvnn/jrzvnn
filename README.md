@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
+ - 💣 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
  - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 💣 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 👉 [You get what you deserve](http://9gag.com/gag/a6ZVGG9)<!-- MEMES:END -->
 
 ---
 

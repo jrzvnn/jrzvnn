@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every night.](http://9gag.com/gag/amo2RRX)
- - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - 💣 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 😝 [Two Chinese girls meet a black man for the first time](http://9gag.com/gag/apRQdj5)
- - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
+ - 😝 [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
+ - 😝 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
+ - 💣 [A funny comedian?](http://9gag.com/gag/a4PGrOp)
+ - 😝 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
+ - 👉 [All of my memories keep you near. In silent moments imagine you here.](http://9gag.com/gag/apRQdz5)<!-- MEMES:END -->
 
 ---
 

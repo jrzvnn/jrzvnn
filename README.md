@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orange County Police considering Apple Vision Pro for Real-Time Operations Center](https://appleinsider.com/articles/24/09/11/orange-county-police-considering-apple-vision-pro-for-real-time-operations-center?utm_medium=rss)
  - [Vancouver-based Spare, whose software helps transit agencies offer transport services based on riders&#39; own needs, raised a CA$42M Series B led by Inovia Capital &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/240911/p22#a240911p22)
- - [Google is using AI to make fake podcasts from your research](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)
+ - [Google is using AI to make fake podcasts from your notes](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)
  - [Here’s how the new Apple Watch Series 10 stacks up to other models](https://www.theverge.com/24240412/apple-watch-series-10-vs-ultra-2-se-comparison-specs-price)
- - [You can customize the sound of Klipsch’s new soundbar for exactly where you sit](https://www.theverge.com/2024/9/11/24241980/klipsch-soundbar-home-theater-flexus-core-300-dirac-live-room)
- - [Actors union and women’s groups push Gavin Newsom to sign AI safety bill](https://www.theverge.com/2024/9/11/24242142/sag-aftra-ai-now-gavin-newsom-safety-sb-1047-letters)<!-- TECH:END -->
+ - [You can customize the sound of Klipsch’s new soundbar for exactly where you sit](https://www.theverge.com/2024/9/11/24241980/klipsch-soundbar-home-theater-flexus-core-300-dirac-live-room)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

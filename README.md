@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
- - 😝 [Never forget.](http://9gag.com/gag/adB9d6j)
- - 💣 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 😝 [Preselection Rule](http://9gag.com/gag/abAzdpO)
+ - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
+ - 💣 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
  - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matt Shumer, who was accused of fraud over HyperWrite&#39;s 70B-parameter AI model, says he &quot;got ahead&quot; of himself but doesn&#39;t explain why the model underperformed &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240910/p28#a240910p28)
- - [The 4 Best Waterproof Mattress Protectors of 2024, As Tested By Our Experts](https://www.cnet.com/health/sleep/best-waterproof-mattress-protectors/#ftag=CAD590a51e)
- - [Best Blenders 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)
- - [Best Coolers of 2024](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Donald Trump goes all in on viral anti-immigrant lie](https://www.theverge.com/2024/9/10/24241487/trump-debate-haitian-migrants-cats-dogs-ohio)
+ - [How to use a VPN to access geo-restricted library and research materials](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-library-and-research-materials?utm_medium=rss)
+ - [You&#39;ll Save Big on Your Next Helix Mattress With This CNET-Exclusive Sale](https://www.cnet.com/deals/youll-save-big-on-your-next-helix-mattress-with-this-cnet-exclusive-sale/#ftag=CAD590a51e)
+ - [iPhone 16 vs. iPhone 15: Key Upgrades and Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-15-key-upgrades-and-specs-compared/#ftag=CAD590a51e)
+ - [Best Chemical Drain Cleaners for 2024](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

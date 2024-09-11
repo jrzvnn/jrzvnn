@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
- - 😝 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
- - 💣 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)
- - 😝 [A funny comedian?](http://9gag.com/gag/a4PGrOp)
- - 👉 [All of my memories keep you near. In silent moments imagine you here.](http://9gag.com/gag/apRQdz5)<!-- MEMES:END -->
+ - 😝 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
+ - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 💣 [Never forget.](http://9gag.com/gag/adB9d6j)
+ - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
 
 ---
 

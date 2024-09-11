@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
+ - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - 💣 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
  - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
+ - 👉 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)<!-- MEMES:END -->
 
 ---
 

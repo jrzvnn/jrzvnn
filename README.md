@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 💣 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 😝 [Hero without cape](http://9gag.com/gag/a9yA4yL)
+ - 😝 [BEST. WIFE. EVER](http://9gag.com/gag/aGyerz7)
+ - 💣 [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)
  - 😝 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
- - 👉 [A normal dev team](http://9gag.com/gag/axy04LD)<!-- MEMES:END -->
+ - 👉 [Not the same vibe](http://9gag.com/gag/aKGDNxN)<!-- MEMES:END -->
 
 ---
 

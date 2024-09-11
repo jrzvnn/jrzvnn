@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
  - 😝 [This is amazing!](http://9gag.com/gag/avy7X0d)
- - 💣 [Every night.](http://9gag.com/gag/amo2RRX)
- - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 👉 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)<!-- MEMES:END -->
+ - 😝 [The century of the left taking L&#39;s like a mf](http://9gag.com/gag/a34Mn21)
+ - 💣 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - 👉 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
- - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
- - 💣 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)
- - 😝 [Preselection Rule](http://9gag.com/gag/abAzdpO)
- - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
+ - 😝 [Hold the door.](http://9gag.com/gag/a6ZVGR2)
+ - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
+ - 💣 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
+ - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 👉 [Preselection Rule](http://9gag.com/gag/abAzdpO)<!-- MEMES:END -->
 
 ---
 

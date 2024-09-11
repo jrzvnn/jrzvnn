@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is in talks to raise $6.5B in equity financing at a $150B valuation and raise $5B in debt from banks in the form of a revolving credit facility &lpar;Bloomberg&rpar;](http://www.techmeme.com/240911/p19#a240911p19)
+ - [AMD’s new Variable Graphics Memory lets laptop users reassign their RAM to gaming](https://www.theverge.com/2024/9/11/24242123/amd-variable-graphics-memory-afmf-2-strix-point-ai-300)
  - [Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240911/p18#a240911p18)
  - [An AI Bot Named James Has My Old Local News Job](https://www.wired.com/story/an-ai-bot-named-james-has-my-old-local-news-job/)
- - [No Dogs or Cats Were Harmed In the Making of This Post-Debate Podcast](https://www.wired.com/story/kamala-harris-donald-trump-debate/)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
- - [What’s the real difference between the PlayStation 5 and PS5 Pro anyway?](https://www.theverge.com/2024/9/11/24241002/playstation-5-ps5-pro-comparison-differences-specs-software-ray-tracing)<!-- TECH:END -->
+ - [No Dogs or Cats Were Harmed In the Making of This Post-Debate Podcast](https://www.wired.com/story/kamala-harris-donald-trump-debate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

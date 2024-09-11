@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hero without cape](http://9gag.com/gag/a9yA4yL)
- - 😝 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)
- - 💣 [BEST. WIFE. EVER](http://9gag.com/gag/aGyerz7)
- - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
- - 👉 [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)<!-- MEMES:END -->
+ - 😝 [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
+ - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 👉 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers can nag lapsed app subscribers with win-back offers](https://appleinsider.com/articles/24/09/11/developers-can-nag-lapsed-app-subscribers-with-win-back-offers?utm_medium=rss)
  - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
  - [Adobe says generative AI features powered by its Firefly Video model will be available before the end of 2024 on the Premiere Pro beta app and on a free website &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240911/p16#a240911p16)
  - [Solar panel manufacturing shines in the US — but installations are falling](https://www.theverge.com/2024/9/11/24239917/solar-panel-manufacturing-shines-in-the-us-but-installations-are-falling)
- - [Bluesky lets you post videos now](https://www.theverge.com/2024/9/11/24241994/bluesky-share-videos-update)
- - [Seoul-based Spoon Labs, which operates an audio streamer called Spoon and a short video app called Vigloo, raised ~$89.3M from PUBG publisher Krafton &lpar;Marie Dealessandri/GamesIndustry.biz&rpar;](http://www.techmeme.com/240911/p15#a240911p15)<!-- TECH:END -->
+ - [Bluesky lets you post videos now](https://www.theverge.com/2024/9/11/24241994/bluesky-share-videos-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

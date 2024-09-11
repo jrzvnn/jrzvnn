@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Lessons in Chemistry&#39; and &#39;The Morning Show&#39; honored at Creative Arts Emmys](https://appleinsider.com/articles/24/09/09/lessons-in-chemistry-and-the-morning-show-honored-at-creative-arts-emmys?utm_medium=rss)
+ - [Facebook admits to scraping every Australian adult user&#39;s public data to train AI, with no opt-out option because it is not required to do so under privacy law &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240911/p2#a240911p2)
  - [A federal judge blocks Utah from enforcing the Minor Protection in Social Media Act, set to take effect on October 1, saying the law likely violates the 1A &lpar;Wendy Davis/MediaPost&rpar;](http://www.techmeme.com/240911/p1#a240911p1)
- - [Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake)
- - [Best Gas Grills of 2024](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
- - [Taylor Swift says she&#39;s voting for Kamala Harris, noting that Donald Trump sharing an AI-generated image of her &quot;endorsing&quot; him prompted her to reveal her plans &lpar;Taylor Swift/Taylor Swift on Instagram&rpar;](http://www.techmeme.com/240910/p29#a240910p29)
- - [Donald Trump goes all in on viral anti-immigrant lie](https://www.theverge.com/2024/9/10/24241487/trump-debate-haitian-migrants-cats-dogs-ohio)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-11/#ftag=CAD590a51e)
+ - [Kamala Harris&#39; Child Tax Credit Plan Would Give $6,000 to Newborn Parents. What to Know](https://www.cnet.com/personal-finance/taxes/kamala-harris-child-tax-credit-plan-would-give-6000-to-newborn-parents-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

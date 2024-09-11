@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s a closer look at the Huawei Mate XT triple-screen foldable](https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos)
+ - [An analysis finds 40+ examples of Facebook removing emergency-related posts during 20+ US wildfires since June 2024; Facebook says it is investigating the issue &lpar;Brianna Sacks/Washington Post&rpar;](http://www.techmeme.com/240911/p7#a240911p7)
+ - [Lumio Solar Review: What You Get From This Solar Installer](https://www.cnet.com/home/energy-and-utilities/lumio-solar-review/#ftag=CAD590a51e)
  - [The former CEO of Everyday Robotics, Alphabet&#39;s AI robotics moonshot that was shut down in January 2023, reflects on its start and efforts to give AI a body &lpar;Hans Peter Brondmo/Wired&rpar;](http://www.techmeme.com/240911/p6#a240911p6)
- - [All the Best Preorder Deals on the 2 New Apple AirPods 4](https://www.cnet.com/deals/all-the-best-preorder-deals-on-the-2-new-apple-airpods-4/#ftag=CAD590a51e)
- - [Find the Best Preorder Deals for the New Apple Watch Series 10](https://www.cnet.com/deals/find-the-best-preorder-deals-for-the-new-apple-watch-series-10/#ftag=CAD590a51e)
- - [iPhone 16 Preorders Are Starting Soon. Find All the Best Deals Available So Far](https://www.cnet.com/deals/iphone-16-preorders-are-starting-soon-find-all-the-best-deals-available-so-far/#ftag=CAD590a51e)
- - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Link Between Your Diet and Sleep Habits: Start Eating Foods That Help You Sleep Better](https://www.cnet.com/health/sleep/how-you-eat-influences-how-you-sleep-heres-how-to-eat-right-for-the-best-sleep-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

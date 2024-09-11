@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original video of the apple on the lamppost](http://9gag.com/gag/aVvM862)
- - 😝 [Do it again](http://9gag.com/gag/aE0Bjxo)
- - 💣 [Congrats!](http://9gag.com/gag/a2v4AA9)
- - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
+ - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 💣 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
+ - 😝 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
+ - 👉 [A normal dev team](http://9gag.com/gag/axy04LD)<!-- MEMES:END -->
 
 ---
 

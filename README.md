@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
- - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 💣 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 👉 [Anti theft measures](http://9gag.com/gag/aXPvK8D)<!-- MEMES:END -->
+ - 😝 [Every night.](http://9gag.com/gag/amo2RRX)
+ - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
+ - 💣 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 😝 [Two Chinese girls meet a black man for the first time](http://9gag.com/gag/apRQdj5)
+ - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 😝 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
+ - 💣 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
  - 😝 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
- - 💣 [Expensive tooth fairy](http://9gag.com/gag/azxq4bB)
- - 😝 [Lol](http://9gag.com/gag/aPA9n5K)
- - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
+ - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
 
 ---
 

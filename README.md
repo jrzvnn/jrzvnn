@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240911/p18#a240911p18)
  - [An AI Bot Named James Has My Old Local News Job](https://www.wired.com/story/an-ai-bot-named-james-has-my-old-local-news-job/)
  - [No Dogs or Cats Were Harmed In the Making of This Post-Debate Podcast](https://www.wired.com/story/kamala-harris-donald-trump-debate/)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
- - [Save Up to $1,200 on Samsung Monitors and Get Free Perks During the Discover Samsung Sale](https://www.cnet.com/deals/save-up-to-1200-on-samsung-monitors-and-get-free-perks-during-the-discover-samsung-sale/#ftag=CAD590a51e)
- - [Connecticut Solar Panel Incentives: Tax Breaks, Net Metering and More](https://www.cnet.com/home/energy-and-utilities/connecticut-solar-panel-incentives-tax-breaks-net-metering-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What’s the real difference between the PlayStation 5 and PS5 Pro anyway?](https://www.theverge.com/2024/9/11/24241002/playstation-5-ps5-pro-comparison-differences-specs-software-ray-tracing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

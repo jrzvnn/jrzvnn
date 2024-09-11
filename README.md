@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is using AI to make fake podcasts from your research](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)
+ - [Here’s how the new Apple Watch Series 10 stacks up to other models](https://www.theverge.com/24240412/apple-watch-series-10-vs-ultra-2-se-comparison-specs-price)
  - [You can customize the sound of Klipsch’s new soundbar for exactly where you sit](https://www.theverge.com/2024/9/11/24241980/klipsch-soundbar-home-theater-flexus-core-300-dirac-live-room)
  - [Actors union and women’s groups push Gavin Newsom to sign AI safety bill](https://www.theverge.com/2024/9/11/24242142/sag-aftra-ai-now-gavin-newsom-safety-sb-1047-letters)
- - [Compared: A18 vs A18 Pro -- breaking down what&#39;s powering iPhone 16](https://appleinsider.com/articles/24/09/11/compared-a18-vs-a18-pro----breaking-down-whats-powering-iphone-16?utm_medium=rss)
- - [Best Laser Cutters and Engravers of 2024](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
- - [Altera CEO denies a report that Intel plans to outright sell Altera, saying the plan is to sell a stake in the business and push for an IPO of the unit by 2026 &lpar;CRN&rpar;](http://www.techmeme.com/240911/p21#a240911p21)<!-- TECH:END -->
+ - [Compared: A18 vs A18 Pro -- breaking down what&#39;s powering iPhone 16](https://appleinsider.com/articles/24/09/11/compared-a18-vs-a18-pro----breaking-down-whats-powering-iphone-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A rundown of what’s new and improved in Android 15](https://www.theverge.com/24160704/google-android-15-beta-new-features)
  - [Google starts linking to The Internet Archive&#39;s Wayback Machine in Search, letting users view archived versions of pages as part of &quot;About this page&quot; feature &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240911/p14#a240911p14)
  - [Apple’s AirPods Pro Could Soon Disrupt the Hearing Aid Industry](https://www.wired.com/story/apple-airpods-pro-over-the-counter-hearing-aids/)
  - [Only Three Lonely Products Still Use Apple&#39;s Lightning Connector](https://www.wired.com/story/only-three-products-still-use-lightning-apples-lightning-connector/)
- - [Sony’s PS5 Pro is a pricey test of next-gen consoles](https://www.theverge.com/2024/9/11/24241706/sony-ps5-pro-price-next-gen-consoles)
- - [How to Hide or Lock Apps With iOS 18 &lpar;2024&rpar;](https://www.wired.com/story/how-to-hide-and-lock-apps-ios-18/)<!-- TECH:END -->
+ - [Sony’s PS5 Pro is a pricey test of next-gen consoles](https://www.theverge.com/2024/9/11/24241706/sony-ps5-pro-price-next-gen-consoles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

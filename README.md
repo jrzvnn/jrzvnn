@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [Do it again](http://9gag.com/gag/aE0Bjxo)
+ - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
  - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
+ - 👉 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)<!-- MEMES:END -->
 
 ---
 

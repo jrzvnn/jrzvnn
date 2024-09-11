@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 💣 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)
- - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
- - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
+ - 😝 [All of my memories keep you near. In silent moments imagine you here.](http://9gag.com/gag/apRQdz5)
+ - 😝 [A funny comedian?](http://9gag.com/gag/a4PGrOp)
+ - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - 😝 [Come on, just tolerate the intolerant you bigot!](http://9gag.com/gag/aBy8N3z)
+ - 👉 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)<!-- MEMES:END -->
 
 ---
 

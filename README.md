@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Cost of Lightning](https://www.wired.com/story/lightning-protection-damage-climate-change-extreme-weather/)
+ - [Apple may cut future Apple Vision Pro cost with far cheaper displays](https://appleinsider.com/articles/24/09/11/apple-may-cut-future-apple-vision-pro-cost-with-far-cheaper-displays?utm_medium=rss)
  - [Breadfruit Is Here to Save the World](https://www.wired.com/story/breadfruit-caribbean-pacific-climate-change-super-food/)
  - [Ikea’s smart home hub now supports Matter](https://www.theverge.com/2024/9/11/24240697/ikea-dirigera-matter-update-available)
- - [A surge in scams poses a serious image problem for Revolut, which faces more complaints than its large UK rivals about authorized push payment scams &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240911/p8#a240911p8)
- - [The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town](https://www.wired.com/story/the-worlds-biggest-bitcoin-mine-is-rattling-this-texas-oil-town/)
- - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A surge in scams poses a serious image problem for Revolut, which faces more complaints than its large UK rivals about authorized push payment scams &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240911/p8#a240911p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

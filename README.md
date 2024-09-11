@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Utah social media law requiring age verification blocked by judge](https://www.theverge.com/2024/9/11/24241685/utah-netchoice-social-media-child-safety-law-blocked)
+ - [How to Watch the 2024 MTV VMAs Tonight Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-mtv-vmas-tonight-without-cable/#ftag=CAD590a51e)
+ - [Best CD Rates Today, Sept. 11, 2024: Rate Cuts Are Coming. Don&#39;t Sleep on These High APYs](https://www.cnet.com/personal-finance/cd-rates-today-sept-11-2024/#ftag=CAD590a51e)
  - [Google dominates online ads, says antitrust trial witness, but publishers are feeling ‘stuck’](https://www.theverge.com/2024/9/11/24241386/former-news-corp-executive-google-doj-ad-tech-trial)
- - [Save up to 40% on Samsung monitors &amp; portable SSDs to pair with your Mac, iPad](https://appleinsider.com/articles/24/09/11/save-up-to-40-on-samsung-monitors-portable-ssds-to-pair-with-your-mac-ipad?utm_medium=rss)
- - [Adobe previews its upcoming text-to-video generative AI tools](https://www.theverge.com/2024/9/11/24241649/adobe-firefly-text-to-video-generative-ai-features-preview)
- - [Chainalysis: payments in Singapore using stablecoins reached a record high of almost $1B in Q2, led by transactions at merchant outlets &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240911/p11#a240911p11)
- - [Nuro is branching out into robotaxis and personally owned autonomous vehicles](https://www.theverge.com/2024/9/11/24241353/nuro-robotaxi-personal-owned-autonomous-vehicle-license)<!-- TECH:END -->
+ - [I Tried a Recipe-Generating AI Tool to Create a Restaurant Meal at Home. It Made Me Hangry](https://www.cnet.com/tech/services-and-software/i-tried-a-recipe-generating-ai-tool-to-create-a-restaurant-meal-at-home-it-made-me-hangry/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

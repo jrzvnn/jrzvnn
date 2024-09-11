@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 💣 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
+ - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - 😝 [Do it again](http://9gag.com/gag/aE0Bjxo)
+ - 💣 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
 
 ---
 

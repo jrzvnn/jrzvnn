@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
- - 😝 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
- - 💣 [Every night.](http://9gag.com/gag/amo2RRX)
- - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
- - 👉 [NSFW as well](http://9gag.com/gag/a7oDnXL)<!-- MEMES:END -->
+ - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
+ - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 👉 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)<!-- MEMES:END -->
 
 ---
 

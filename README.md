@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 👉 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)<!-- MEMES:END -->
+ - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 💣 [Winner](http://9gag.com/gag/aLn8N1V)
+ - 😝 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
+ - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
 
 ---
 

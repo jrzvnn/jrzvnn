@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 😝 [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
  - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
- - 😝 [Lol](http://9gag.com/gag/aPA9n5K)
- - 👉 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)<!-- MEMES:END -->
+ - 💣 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)
+ - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
 
 ---
 

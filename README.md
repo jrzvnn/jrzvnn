@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
  - [What’s the real difference between the PlayStation 5 and PS5 Pro anyway?](https://www.theverge.com/2024/9/11/24241002/playstation-5-ps5-pro-comparison-differences-specs-software-ray-tracing)
- - [Bluesky rolls out the ability to post videos of up to 60 seconds with optional attached subtitles; each post can contain one video, and adult content is allowed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240911/p17#a240911p17)
- - [Developers can nag lapsed app subscribers with win-back offers](https://appleinsider.com/articles/24/09/11/developers-can-nag-lapsed-app-subscribers-with-win-back-offers?utm_medium=rss)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)<!-- TECH:END -->
+ - [Save Up to $1,200 on Samsung Monitors and Get Free Perks During the Discover Samsung Sale](https://www.cnet.com/deals/save-up-to-1200-on-samsung-monitors-and-get-free-perks-during-the-discover-samsung-sale/#ftag=CAD590a51e)
+ - [Connecticut Solar Panel Incentives: Tax Breaks, Net Metering and More](https://www.cnet.com/home/energy-and-utilities/connecticut-solar-panel-incentives-tax-breaks-net-metering-and-more/#ftag=CAD590a51e)
+ - [Best Home Equity Loan Rates for September 2024](https://www.cnet.com/personal-finance/home-equity-loan-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam’s improved family sharing is out now for everyone](https://www.theverge.com/2024/9/11/24242377/valve-steam-improved-family-sharing-out-now)
+ - [Phone 16 receives Apple Intelligence features via iOS 18.1 beta 3](https://appleinsider.com/articles/24/09/11/phone-16-receives-apple-intelligence-features-via-ios-181-beta-3?utm_medium=rss)
  - [Orange County Police considering Apple Vision Pro for Real-Time Operations Center](https://appleinsider.com/articles/24/09/11/orange-county-police-considering-apple-vision-pro-for-real-time-operations-center?utm_medium=rss)
  - [Vancouver-based Spare, whose software helps transit agencies offer transport services based on riders&#39; own needs, raised a CA$42M Series B led by Inovia Capital &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/240911/p22#a240911p22)
- - [Google is using AI to make fake podcasts from your notes](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)
- - [Here’s how the new Apple Watch Series 10 stacks up to other models](https://www.theverge.com/24240412/apple-watch-series-10-vs-ultra-2-se-comparison-specs-price)
- - [You can customize the sound of Klipsch’s new soundbar for exactly where you sit](https://www.theverge.com/2024/9/11/24241980/klipsch-soundbar-home-theater-flexus-core-300-dirac-live-room)<!-- TECH:END -->
+ - [Google is using AI to make fake podcasts from your notes](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

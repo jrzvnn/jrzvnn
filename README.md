@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Altera CEO denies a report that Intel plans to outright sell Altera, saying the plan is to sell a stake in the business and push for an IPO of the unit by 2026 &lpar;CRN&rpar;](http://www.techmeme.com/240911/p21#a240911p21)
+ - [Apple Intelligence Promises Better AI Privacy. Here&#39;s How It Actually Works](https://www.wired.com/story/apple-private-cloud-compute-ai/)
  - [Shares of Truth Social owner Trump Media closed down over 10% after Trump&#39;s debate with Harris, ending at their lowest level since they began publicly trading &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/240911/p20#a240911p20)
  - [Sources: OpenAI is in talks to raise $6.5B in equity financing at a $150B valuation and raise $5B in debt from banks in the form of a revolving credit facility &lpar;Bloomberg&rpar;](http://www.techmeme.com/240911/p19#a240911p19)
- - [AMD’s new Variable Graphics Memory lets laptop users reassign their RAM to gaming](https://www.theverge.com/2024/9/11/24242123/amd-variable-graphics-memory-afmf-2-strix-point-ai-300)
- - [Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240911/p18#a240911p18)
- - [What to Know About IVF, or In Vitro Fertilization](https://www.cnet.com/health/medical/what-to-know-about-ivf-or-in-vitro-fertilization/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240911/p18#a240911p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

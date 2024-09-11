@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seoul-based Spoon Labs, which operates an audio streamer called Spoon and a short video app called Vigloo, raised ~$89.3M from PUBG publisher Krafton &lpar;Marie Dealessandri/GamesIndustry.biz&rpar;](http://www.techmeme.com/240911/p15#a240911p15)
+ - [You can peel this temporary paint off your walls when you’re ready for a new color](https://www.theverge.com/2024/9/11/24241719/glasst-paint-temporary-unpaint-peel-off)
+ - [You can grab an Xbox Game Pass Ultimate subscription for half off right now](https://www.theverge.com/2024/9/11/24241275/xbox-game-pass-ultimate-subscription-apple-watch-ultra-2-deal-sale)
  - [T-Mobile tests using Starlink to send emergency alerts you can get off the grid](https://www.theverge.com/2024/9/11/24241847/t-mobile-starlink-satellite-emergency-alert)
- - [Google Search will take you ‘Wayback’ with links to the Internet Archive](https://www.theverge.com/2024/9/11/24241841/google-search-results-internet-archive-wayback-machine-cached-results)
- - [No, Kamala Harris wasn’t wearing these audio earrings](https://www.theverge.com/2024/9/11/24241792/kamala-harris-debate-h1-nova-audio-earrings-debunked)
- - [Stellantis is spending $400 million to revamp US factories for EVs](https://www.theverge.com/2024/9/11/24241789/stellantis-invests-ev-michigan-plants-sterling-heights-ram-rev-ramcharger)
- - [Sony will sell you a refurbished PS5 if you don’t want to drop $700 on a Pro](https://www.theverge.com/2024/9/11/24241914/sony-refurbished-playstation-5-ps5-dualsense)<!-- TECH:END -->
+ - [Google Search will take you ‘Wayback’ with links to the Internet Archive](https://www.theverge.com/2024/9/11/24241841/google-search-results-internet-archive-wayback-machine-cached-results)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

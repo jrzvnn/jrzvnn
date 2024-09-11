@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [Do it again](http://9gag.com/gag/aE0Bjxo)
- - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - 👉 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)<!-- MEMES:END -->
+ - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - 👉 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)<!-- MEMES:END -->
 
 ---
 

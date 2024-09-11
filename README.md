@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
- - 😝 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
- - 💣 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
- - 😝 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
- - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
+ - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
+ - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
+ - 😝 [Lol](http://9gag.com/gag/aPA9n5K)
+ - 👉 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
- - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - 💣 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
+ - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
  - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - 👉 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)<!-- MEMES:END -->
+ - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
 
 ---
 

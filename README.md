@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake)
+ - [Taylor Swift says she&#39;s voting for Kamala Harris, noting that Donald Trump sharing an AI-generated image of her &quot;endorsing&quot; him prompted her to reveal her plans &lpar;Taylor Swift/Taylor Swift on Instagram&rpar;](http://www.techmeme.com/240910/p29#a240910p29)
  - [Donald Trump goes all in on viral anti-immigrant lie](https://www.theverge.com/2024/9/10/24241487/trump-debate-haitian-migrants-cats-dogs-ohio)
  - [How to use a VPN to access geo-restricted library and research materials](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-library-and-research-materials?utm_medium=rss)
- - [You&#39;ll Save Big on Your Next Helix Mattress With This CNET-Exclusive Sale](https://www.cnet.com/deals/youll-save-big-on-your-next-helix-mattress-with-this-cnet-exclusive-sale/#ftag=CAD590a51e)
- - [iPhone 16 vs. iPhone 15: Key Upgrades and Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-15-key-upgrades-and-specs-compared/#ftag=CAD590a51e)
- - [Best Chemical Drain Cleaners for 2024](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;ll Save Big on Your Next Helix Mattress With This CNET-Exclusive Sale](https://www.cnet.com/deals/youll-save-big-on-your-next-helix-mattress-with-this-cnet-exclusive-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

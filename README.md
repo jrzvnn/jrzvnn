@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile tests using Starlink to send emergency alerts you can get off the grid](https://www.theverge.com/2024/9/11/24241847/t-mobile-starlink-satellite-emergency-alert)
+ - [Google Search will take you ‘Wayback’ with links to the Internet Archive](https://www.theverge.com/2024/9/11/24241841/google-search-results-internet-archive-wayback-machine-cached-results)
  - [No, Kamala Harris wasn’t wearing these audio earrings](https://www.theverge.com/2024/9/11/24241792/kamala-harris-debate-h1-nova-audio-earrings-debunked)
  - [Stellantis is spending $400 million to revamp US factories for EVs](https://www.theverge.com/2024/9/11/24241789/stellantis-invests-ev-michigan-plants-sterling-heights-ram-rev-ramcharger)
- - [Sony will sell you a refurbished PS5 if you don’t want to drop $700 on a Pro](https://www.theverge.com/2024/9/11/24241914/sony-refurbished-playstation-5-ps5-dualsense)
- - [Donald Trump&#39;s Debate Performance Pushed the Limits of Being Too Online](https://www.wired.com/harris-trump-debate-too-online/)
- - [iPhone users still aren&#39;t rushing to buy the latest models](https://appleinsider.com/articles/24/09/11/iphone-users-still-arent-rushing-to-buy-the-latest-models?utm_medium=rss)<!-- TECH:END -->
+ - [Sony will sell you a refurbished PS5 if you don’t want to drop $700 on a Pro](https://www.theverge.com/2024/9/11/24241914/sony-refurbished-playstation-5-ps5-dualsense)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

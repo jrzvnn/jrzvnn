@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wearable weigh-in -- Apple Watch Series 10 vs Apple Watch Series 9 compared](https://appleinsider.com/inside/apple-watch-series-10/vs/wearable-weigh-in----apple-watch-series-10-vs-apple-watch-series-9-compared?utm_medium=rss)
- - [Riot Platforms plans the world&#39;s largest bitcoin mine in Corsicana, a former Texas oil boom town, using a liquid immersion system, despite residents&#39; protests &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240911/p9#a240911p9)
- - [The Cost of Lightning](https://www.wired.com/story/lightning-protection-damage-climate-change-extreme-weather/)
- - [Apple may cut future Apple Vision Pro cost with far cheaper displays](https://appleinsider.com/articles/24/09/11/apple-may-cut-future-apple-vision-pro-cost-with-far-cheaper-displays?utm_medium=rss)
- - [Breadfruit Is Here to Save the World](https://www.wired.com/story/breadfruit-caribbean-pacific-climate-change-super-food/)<!-- TECH:END -->
+ - [Will California flip the AI industry on its head?](https://www.theverge.com/2024/9/11/24226251/california-sb-1047-ai-industry-regulation-backlash)
+ - [Mistral releases its first multimodal model, Pixtral 12B, available on GitHub and Hugging Face, and via API &quot;soon&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p10#a240911p10)
+ - [RIP XOXO](https://www.theverge.com/2024/9/11/24240012/xoxo-festival-portland-kickstarter-creative)
+ - [Trump Fans Spread Debate Conspiracy About Microphone Earrings](https://www.wired.com/story/trump-harris-debate-conspiracy-microphone-earrings/)
+ - [Wearable weigh-in -- Apple Watch Series 10 vs Apple Watch Series 9 compared](https://appleinsider.com/inside/apple-watch-series-10/vs/wearable-weigh-in----apple-watch-series-10-vs-apple-watch-series-9-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

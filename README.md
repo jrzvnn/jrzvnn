@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Preselection Rule](http://9gag.com/gag/abAzdpO)
- - 😝 [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)
+ - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
+ - 😝 [These are really awesome way of teaching physics](http://9gag.com/gag/a7oDn0q)
  - 💣 [This is amazing!](http://9gag.com/gag/avy7X0d)
- - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
- - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
+ - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
+ - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
 
 ---
 

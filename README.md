@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
- - 😝 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
- - 💣 [A funny comedian?](http://9gag.com/gag/a4PGrOp)
- - 😝 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
- - 👉 [All of my memories keep you near. In silent moments imagine you here.](http://9gag.com/gag/apRQdz5)<!-- MEMES:END -->
+ - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
+ - 😝 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
+ - 💣 [Every night.](http://9gag.com/gag/amo2RRX)
+ - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - 👉 [NSFW as well](http://9gag.com/gag/a7oDnXL)<!-- MEMES:END -->
 
 ---
 

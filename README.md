@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - 😝 [Do it again](http://9gag.com/gag/aE0Bjxo)
- - 💣 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 😝 [What does King Arthur use to see in the dark? Knight lights.](http://9gag.com/gag/aO8BjZ3)
  - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 💣 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
 
 ---
 

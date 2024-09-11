@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - 💣 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 👉 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)<!-- MEMES:END -->
+ - 😝 [Come on, just tolerate the intolerant you bigot!](http://9gag.com/gag/aBy8N3z)
+ - 😝 [This is amazing!](http://9gag.com/gag/avy7X0d)
+ - 💣 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)
+ - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - 👉 [Not sure if this has been posted before but it&#39;s interesting](http://9gag.com/gag/axy0eBW)<!-- MEMES:END -->
 
 ---
 

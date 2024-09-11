@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, Kamala Harris wasn’t wearing these audio earrings](https://www.theverge.com/2024/9/11/24241792/kamala-harris-debate-h1-nova-audio-earrings-debunked)
+ - [Stellantis is spending $400 million to revamp US factories for EVs](https://www.theverge.com/2024/9/11/24241789/stellantis-invests-ev-michigan-plants-sterling-heights-ram-rev-ramcharger)
+ - [Sony will sell you a refurbished PS5 if you don’t want to drop $700 on a Pro](https://www.theverge.com/2024/9/11/24241914/sony-refurbished-playstation-5-ps5-dualsense)
  - [Donald Trump&#39;s Debate Performance Pushed the Limits of Being Too Online](https://www.wired.com/harris-trump-debate-too-online/)
- - [iPhone users still aren&#39;t rushing to buy the latest models](https://appleinsider.com/articles/24/09/11/iphone-users-still-arent-rushing-to-buy-the-latest-models?utm_medium=rss)
- - [This New Tech Puts AI In Touch with Its Emotions—and Yours](https://www.wired.com/story/hume-ai-emotional-intelligence/)
- - [Compared: AirPods 4 vs AirPods Pro 2 -- ANC without ear tips could tip the scales](https://appleinsider.com/articles/24/09/09/compared-airpods-4-vs-airpods-pro-2----anc-without-ear-tips-could-tip-the-scales?utm_medium=rss)
- - [Wearable weigh-in -- Apple Watch Series 10 vs Apple Watch Series 9 compared](https://appleinsider.com/inside/apple-watch-series-10/vs/wearable-weigh-in----apple-watch-series-10-vs-apple-watch-series-9-compared?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone users still aren&#39;t rushing to buy the latest models](https://appleinsider.com/articles/24/09/11/iphone-users-still-arent-rushing-to-buy-the-latest-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

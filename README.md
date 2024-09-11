@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
- - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
- - 💣 [Never forget.](http://9gag.com/gag/adB9d6j)
- - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
+ - 😝 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - 😝 [Never forget.](http://9gag.com/gag/adB9d6j)
+ - 💣 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
 
 ---
 

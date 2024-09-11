@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS plans to spend &amp;pound;8B in the UK to grow its cloud business, expecting to support up to 14,000 jobs and contribute &amp;pound;14B to the UK GDP between 2024 and 2028 &lpar;Joe Mayes/Bloomberg&rpar;](http://www.techmeme.com/240910/p27#a240910p27)
+ - [Maryland-based Forterra, which develops autonomous driving tech for military and commercial vehicles, raised a $75M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240910/p26#a240910p26)
+ - [The Best iPhone 15 Cases &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
  - [MariaDB, which went public via SPAC in late 2022, says it&#39;s been acquired by PE firm K1 and names a new CEO, after filing to delist its shares from the NYSE &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240910/p25#a240910p25)
- - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
- - [NYC-based Versana, a two-year-old platform that allows lenders to access data about $2.7T worth of loans, raised $26M from Barclays, Bank of America, and others &lpar;Jan-Henrik Foerster/Bloomberg&rpar;](http://www.techmeme.com/240910/p24#a240910p24)
- - [Apple Watch Series 10 vs. Galaxy Watch 7: How the 2024 Watches Compare](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-galaxy-watch-7-how-the-2024-watches-compare/#ftag=CAD590a51e)
- - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

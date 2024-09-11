@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On second day of the US DOJ&#39;s antitrust trial focused on ads, a former News Corp exec testified as a government witness, saying Google held publishers &quot;hostage&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240911/p12#a240911p12)
- - [Apple calling everything that it released &#39;intelligent&#39; won&#39;t help it catch up](https://appleinsider.com/articles/24/09/11/apple-calling-everything-that-it-released-intelligent-wont-help-it-catch-up?utm_medium=rss)
- - [Lucid shows off Gravity SUV with Tesla port and teases a cheaper midsize EV](https://www.theverge.com/2024/9/11/24241686/lucid-gravity-tesla-nacs-port-midsized-suv-teaser-cheaper)
- - [Utah social media law requiring age verification blocked by judge](https://www.theverge.com/2024/9/11/24241685/utah-netchoice-social-media-child-safety-law-blocked)
- - [How to Watch the 2024 MTV VMAs Tonight Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-mtv-vmas-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Only Three Lonely Products Still Use Apple&#39;s Lightning Connector](https://www.wired.com/story/only-three-products-still-use-lightning-apples-lightning-connector/)
+ - [Sony’s PS5 Pro is a pricey test of next-gen consoles](https://www.theverge.com/2024/9/11/24241706/sony-ps5-pro-price-next-gen-consoles)
+ - [How to Hide or Lock Apps With iOS 18 &lpar;2024&rpar;](https://www.wired.com/story/how-to-hide-and-lock-apps-ios-18/)
+ - [Qualifyze, which makes audit management and compliance software for pharmaceutical companies, raised a $54M Series B, bringing its total funding to $84M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240911/p13#a240911p13)
+ - [Hugh Grant is absolutely terrifying in A24’s horror flick Heretic](https://www.theverge.com/24241767/heretic-review-a24-hugh-grant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

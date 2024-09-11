@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Matt Shumer, who was accused of fraud over HyperWrite&#39;s 70B-parameter AI model, says he &quot;got ahead&quot; of himself but doesn&#39;t explain why the model underperformed &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240910/p28#a240910p28)
- - [AWS plans to spend &amp;pound;8B in the UK to grow its cloud business, expecting to support up to 14,000 jobs and contribute &amp;pound;14B to the UK GDP between 2024 and 2028 &lpar;Joe Mayes/Bloomberg&rpar;](http://www.techmeme.com/240910/p27#a240910p27)
- - [California Solar Panel Incentives: Tax Credits, Rebates, Financing and More](https://www.cnet.com/home/energy-and-utilities/california-solar-panel-incentives-tax-credits-rebates-financing-and-more/#ftag=CAD590a51e)
- - [Maryland-based Forterra, which develops autonomous driving tech for military and commercial vehicles, raised a $75M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240910/p26#a240910p26)
- - [The Best iPhone 15 Cases &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)<!-- TECH:END -->
+ - [The 4 Best Waterproof Mattress Protectors of 2024, As Tested By Our Experts](https://www.cnet.com/health/sleep/best-waterproof-mattress-protectors/#ftag=CAD590a51e)
+ - [Best Blenders 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)
+ - [Best Coolers of 2024](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

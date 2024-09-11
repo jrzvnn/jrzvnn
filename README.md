@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 👉 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)<!-- MEMES:END -->
+ - 😝 [The original video of the apple on the lamppost](http://9gag.com/gag/aVvM862)
+ - 😝 [Do it again](http://9gag.com/gag/aE0Bjxo)
+ - 💣 [Congrats!](http://9gag.com/gag/a2v4AA9)
+ - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
 
 ---
 

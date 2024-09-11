@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matt Shumer, who was accused of fraud over HyperWrite&#39;s 70B-parameter AI model, says he &quot;got ahead&quot; of himself but doesn&#39;t explain why the model underperformed &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240910/p28#a240910p28)
  - [AWS plans to spend &amp;pound;8B in the UK to grow its cloud business, expecting to support up to 14,000 jobs and contribute &amp;pound;14B to the UK GDP between 2024 and 2028 &lpar;Joe Mayes/Bloomberg&rpar;](http://www.techmeme.com/240910/p27#a240910p27)
+ - [California Solar Panel Incentives: Tax Credits, Rebates, Financing and More](https://www.cnet.com/home/energy-and-utilities/california-solar-panel-incentives-tax-credits-rebates-financing-and-more/#ftag=CAD590a51e)
  - [Maryland-based Forterra, which develops autonomous driving tech for military and commercial vehicles, raised a $75M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240910/p26#a240910p26)
- - [The Best iPhone 15 Cases &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
- - [MariaDB, which went public via SPAC in late 2022, says it&#39;s been acquired by PE firm K1 and names a new CEO, after filing to delist its shares from the NYSE &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240910/p25#a240910p25)
- - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
+ - [The Best iPhone 15 Cases &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

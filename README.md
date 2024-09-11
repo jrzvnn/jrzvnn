@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold the door.](http://9gag.com/gag/a6ZVGR2)
- - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - 💣 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)
- - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
- - 👉 [Preselection Rule](http://9gag.com/gag/abAzdpO)<!-- MEMES:END -->
+ - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - 😝 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
+ - 💣 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)
+ - 😝 [A funny comedian?](http://9gag.com/gag/a4PGrOp)
+ - 👉 [All of my memories keep you near. In silent moments imagine you here.](http://9gag.com/gag/apRQdz5)<!-- MEMES:END -->
 
 ---
 

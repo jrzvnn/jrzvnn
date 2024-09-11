@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s AirPods Pro Could Soon Disrupt the Hearing Aid Industry](https://www.wired.com/story/apple-airpods-pro-over-the-counter-hearing-aids/)
  - [Only Three Lonely Products Still Use Apple&#39;s Lightning Connector](https://www.wired.com/story/only-three-products-still-use-lightning-apples-lightning-connector/)
  - [Sony’s PS5 Pro is a pricey test of next-gen consoles](https://www.theverge.com/2024/9/11/24241706/sony-ps5-pro-price-next-gen-consoles)
  - [How to Hide or Lock Apps With iOS 18 &lpar;2024&rpar;](https://www.wired.com/story/how-to-hide-and-lock-apps-ios-18/)
- - [Qualifyze, which makes audit management and compliance software for pharmaceutical companies, raised a $54M Series B, bringing its total funding to $84M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240911/p13#a240911p13)
- - [Hugh Grant is absolutely terrifying in A24’s horror flick Heretic](https://www.theverge.com/24241767/heretic-review-a24-hugh-grant)<!-- TECH:END -->
+ - [Qualifyze, which makes audit management and compliance software for pharmaceutical companies, raised a $54M Series B, bringing its total funding to $84M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240911/p13#a240911p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

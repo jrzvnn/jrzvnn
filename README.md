@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does King Arthur use to see in the dark? Knight lights.](http://9gag.com/gag/aO8BjZ3)
+ - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
+ - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
  - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 💣 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
- - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
+ - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
 
 ---
 

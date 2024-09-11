@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Preselection Rule](http://9gag.com/gag/abAzdpO)
- - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 💣 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
- - 😝 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - 😝 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 😝 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
+ - 💣 [Expensive tooth fairy](http://9gag.com/gag/azxq4bB)
+ - 😝 [Lol](http://9gag.com/gag/aPA9n5K)
  - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
 
 ---

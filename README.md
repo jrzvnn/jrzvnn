@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - 😝 [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
- - 💣 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 😝 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)
- - 👉 [A normal dev team](http://9gag.com/gag/axy04LD)<!-- MEMES:END -->
+ - 😝 [The DEADLY self-cleaning Litter boxes..](http://9gag.com/gag/avy7mxb)
+ - 😝 [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
 
 ---
 

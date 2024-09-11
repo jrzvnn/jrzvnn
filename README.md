@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sergey Brin says he works at Google &quot;pretty much every day&quot; and that recent AI algorithmic improvements are &quot;outpacing the increased compute&quot; put into models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p5#a240911p5)
- - [CTIA: Americans used over 100T MB of wireless data in 2023, up 36% YoY, the largest single-year increase; the number of wireless connections rose 6% YoY to 558M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240911/p4#a240911p4)
- - [In a memo to commemorate Alibaba&#39;s 25th anniversary, Jack Ma said the competition will make the company stronger, urging trust &quot;in the power of market forces&quot; &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240911/p3#a240911p3)
- - [Best Headsets for Working From Home in 2024](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [&#39;Lessons in Chemistry&#39; and &#39;The Morning Show&#39; honored at Creative Arts Emmys](https://appleinsider.com/articles/24/09/09/lessons-in-chemistry-and-the-morning-show-honored-at-creative-arts-emmys?utm_medium=rss)<!-- TECH:END -->
+ - [The former CEO of Everyday Robotics, Alphabet&#39;s AI robotics moonshot that was shut down in January 2023, reflects on its start and efforts to give AI a body &lpar;Hans Peter Brondmo/Wired&rpar;](http://www.techmeme.com/240911/p6#a240911p6)
+ - [All the Best Preorder Deals on the 2 New Apple AirPods 4](https://www.cnet.com/deals/all-the-best-preorder-deals-on-the-2-new-apple-airpods-4/#ftag=CAD590a51e)
+ - [Find the Best Preorder Deals for the New Apple Watch Series 10](https://www.cnet.com/deals/find-the-best-preorder-deals-for-the-new-apple-watch-series-10/#ftag=CAD590a51e)
+ - [iPhone 16 Preorders Are Starting Soon. Find All the Best Deals Available So Far](https://www.cnet.com/deals/iphone-16-preorders-are-starting-soon-find-all-the-best-deals-available-so-far/#ftag=CAD590a51e)
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

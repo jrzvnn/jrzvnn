@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Spotify is trying to entice video-oriented creators to distribute shows on the platform in addition to YouTube, sometimes offering them seven figures &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240912/p29#a240912p29)
  - [Apple is updating its iCloud terms and conditions on September 16](https://appleinsider.com/articles/24/09/12/apple-is-updating-its-icloud-terms-and-conditions-on-september-16?utm_medium=rss)
  - [Microsoft is building new Windows security features to prevent another CrowdStrike incident](https://www.theverge.com/2024/9/12/24242947/microsoft-windows-security-kernel-access-features-crowdstrike)
  - [o1 System Card: &quot;medium&quot; rating for chemical, biological, radiological, nuclear weapon risk, and it &quot;sometimes instrumentally faked alignment during testing&quot; &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/240912/p28#a240912p28)
- - [Facebook and Instagram are making AI labels less prominent on edited content](https://www.theverge.com/2024/9/12/24242998/facebook-instagram-ai-label-update-edited-content)
- - [Inside Out 2 is coming to Disney Plus later this month](https://www.theverge.com/2024/9/12/24242928/inside-out-2-disney-plus-premiere-date)<!-- TECH:END -->
+ - [Facebook and Instagram are making AI labels less prominent on edited content](https://www.theverge.com/2024/9/12/24242998/facebook-instagram-ai-label-update-edited-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

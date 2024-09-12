@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
- - 😝 [Tables are turned](http://9gag.com/gag/aKGDXeN)
- - 💣 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
- - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
- - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
+ - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
+ - 😝 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
+ - 👉 [Tables are turned](http://9gag.com/gag/aKGDXeN)<!-- MEMES:END -->
 
 ---
 

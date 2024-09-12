@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Adam Neumann&#39;s Flowcarbon, which raised $70M in 2022 from a16z and others, is refunding investors after failing to launch its Goddess Nature Token &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240911/p25#a240911p25)
+ - [iPhone 16 models see faster 5G downloads with new Snapdragon X75 modem](https://appleinsider.com/articles/24/09/12/iphone-16-models-see-faster-5g-downloads-with-new-snapdragon-x75-modem?utm_medium=rss)
+ - [iPhone 16 receives Apple Intelligence features via iOS 18.1 beta 3](https://appleinsider.com/articles/24/09/11/phone-16-receives-apple-intelligence-features-via-ios-181-beta-3?utm_medium=rss)
  - [AST SpaceMobile&#39;s stock is up ~1,300% since a record low in April 2024 and following deals with AT&amp;T and Verizon in May to provide wireless service from space &lpar;Bloomberg&rpar;](http://www.techmeme.com/240911/p24#a240911p24)
- - [Apple Shared Its First Public AI-Generated Image. It’s Craig Federighi’s Dog](https://www.wired.com/story/apple-image-playground-craig-federighi-dog/)
- - [A look at Apple&#39;s Private Cloud Compute for Apple Intelligence, which Craig Federighi says allows personal data to be &quot;sealed inside of a privacy bubble&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240911/p23#a240911p23)
- - [When to Stream &#39;Tulsa King&#39; Season 2 on Paramount Plus](https://www.cnet.com/tech/services-and-software/when-to-stream-tulsa-king-season-2-on-paramount-plus/#ftag=CAD590a51e)
- - [The Worst Disinformation From the Presidential Debate](https://www.cnet.com/tech/the-worst-disinformation-from-the-presidential-debate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-alaska/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)
  - [Adobe reports Q3 revenue up 11% YoY to $5.41B, vs. $5.37B est., Digital Media revenue up 11% to $4B, Q4 revenue guidance below est.; ADBE drops 9%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240912/p35#a240912p35)
  - [Meta, Snap, and TikTok partner to stop the spread of suicide and self-harm content](https://www.theverge.com/2024/9/12/24243078/meta-snap-tiktok-thrive-suicide-mental-health-program)
  - [Salesforce rolls out Agentforce, a suite of AI agents that handle tasks in sales, marketing, commerce, and customer service, starting at $2 per conversation &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240912/p34#a240912p34)
- - [It will cost you over $1,100 to replace the screen on Huawei’s trifold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [It will cost you over $1,100 to replace the screen on Huawei’s trifold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

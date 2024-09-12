@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 😝 [Riyal RIP high school DXD](http://9gag.com/gag/azxqBBZ)
- - 💣 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
- - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
- - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [I have the high ground now](http://9gag.com/gag/aVvM4Md)
+ - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 😝 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
+ - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
 
 ---
 

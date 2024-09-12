@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The entire staff of beloved game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
  - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)
  - [Here’s everything you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
  - [Source: OpenAI&#39;s ChatGPT has 11M+ paying subscribers, including 1M for its higher-priced business plans, implying it&#39;s generating $225M+ in revenue per month &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/240912/p37#a240912p37)
- - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)
- - [The Top 6 Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

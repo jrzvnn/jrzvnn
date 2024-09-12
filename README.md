@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK gives data centers Critical National Infrastructure designation, enabling the government to coordinate better against hackers and unexpected cyber events &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240912/p6#a240912p6)
+ - [Apple’s latest iPhones charge faster over a wire](https://www.theverge.com/2024/9/12/24242683/apple-iphone-16-faster-usbc-wired-charging-45w)
  - [WhatsApp brings Meta Verified badges to small businesses in India, starting at ~$8/month, and gives them the ability to send customized messages to customers &lpar;TechCrunch&rpar;](http://www.techmeme.com/240912/p5#a240912p5)
  - [Both New Apple AirPods 4 Models Are Available for Preorder. Find the Best Deals](https://www.cnet.com/deals/both-new-apple-airpods-4-models-are-available-for-preorder-find-the-best-deals/#ftag=CAD590a51e)
- - [You Can Already Preorder the Apple Watch Series 10. Find All the Best Deals So Far](https://www.cnet.com/deals/you-can-already-preorder-the-apple-watch-series-10-find-all-the-best-deals-so-far/#ftag=CAD590a51e)
- - [Get a Sam&#39;s Club membership for just $15 &amp; snag deals on AirTags, iPads &amp; HomePods](https://appleinsider.com/articles/24/09/12/get-a-sams-club-membership-for-just-15?utm_medium=rss)
- - [iPhone 16 Preorders Start Tomorrow. Best Deals and What to Know to Get First Crack](https://www.cnet.com/deals/iphone-16-preorders-start-tomorrow-best-deals-and-what-to-know-to-get-first-crack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Already Preorder the Apple Watch Series 10. Find All the Best Deals So Far](https://www.cnet.com/deals/you-can-already-preorder-the-apple-watch-series-10-find-all-the-best-deals-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft hires Carolina Dybeck Happe as its executive vice president and COO; Dybeck Happe was the CFO and SVP at GE from 2020 until September 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/240912/p20#a240912p20)
+ - [Transport for London confirms ~5,000 customers&#39; bank data may have been exposed in an ongoing cyber incident and pulls large chunks of IT infrastructure offline &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/240912/p19#a240912p19)
+ - [How to Set Up Your New TV](https://www.wired.com/story/how-to-set-up-your-new-tv/)
  - [Unity cancels its controversial Runtime Fee and reverts back to its existing seat-based subscription model but raises Unity Pro and Unity Enterprise prices &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240912/p18#a240912p18)
- - [eToro USA agrees to pay $1.5M and limit US user trading to Bitcoin, Bitcoin Cash, and Ether to settle SEC allegations that it operated as an unregistered broker &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240912/p17#a240912p17)
- - [&#39;Flappy Bird&#39; to soar onto App Store after decade-long hiatus](https://appleinsider.com/articles/24/09/12/flappy-bird-to-soar-onto-app-store-after-decade-long-hiatus?utm_medium=rss)
- - [Meta fed its AI on almost everything you’ve posted publicly since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
- - [Lockly Visage Zeno Series Smart Lock Review: Infrared Sensors for Face Detection](https://www.wired.com/review/lockly-visage/)<!-- TECH:END -->
+ - [eToro USA agrees to pay $1.5M and limit US user trading to Bitcoin, Bitcoin Cash, and Ether to settle SEC allegations that it operated as an unregistered broker &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240912/p17#a240912p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

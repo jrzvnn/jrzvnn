@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 💣 [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
- - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
- - 👉 [Monkey](http://9gag.com/gag/a9yA01o)<!-- MEMES:END -->
+ - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
+ - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
+ - 👉 [A childhood horror classic](http://9gag.com/gag/aQze5zq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [27 Gifts Teens May Actually Like &lpar;2024&rpar;](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
  - [Gemini’s chatty voice mode is out now for free on Android](https://www.theverge.com/2024/9/12/24243018/gemini-live-voice-mode-free-android)
  - [FDA approves AirPods Pro 2 hearing aid features](https://appleinsider.com/articles/24/09/12/fda-approves-airpods-pro-2-hearing-aid-features?utm_medium=rss)
  - [Gocycle turns to crowdfunding after surviving ’Bikeaggedon’](https://www.theverge.com/2024/9/12/24242678/gocycle-crowdfunding-reboot-richard-thorpe)
- - [Unity has eliminated its controversial runtime fee](https://www.theverge.com/2024/9/12/24242937/unity-runtime-fee-cancelled-subscription-pricing)
- - [OpenAI claims that in a qualifying exam for the International Mathematics Olympiad, o1 correctly solved 83% of the problems, while GPT-4o solved only 13% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p27#a240912p27)<!-- TECH:END -->
+ - [Unity has eliminated its controversial runtime fee](https://www.theverge.com/2024/9/12/24242937/unity-runtime-fee-cancelled-subscription-pricing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

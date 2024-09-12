@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe reports Q3 revenue up 11% YoY to $5.41B, vs. $5.37B est., Digital Media revenue up 11% to $4B, Q4 revenue guidance below est.; ADBE drops 9%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240912/p35#a240912p35)
+ - [Meta, Snap, and TikTok partner to stop the spread of suicide and self-harm content](https://www.theverge.com/2024/9/12/24243078/meta-snap-tiktok-thrive-suicide-mental-health-program)
  - [Salesforce rolls out Agentforce, a suite of AI agents that handle tasks in sales, marketing, commerce, and customer service, starting at $2 per conversation &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240912/p34#a240912p34)
- - [It will cost you over $1,100 to replace the screen on Huawei’s tri-fold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [At an Acquired podcast event, Zuckerberg said he&#39;s done with apologizing and his biggest mistake was taking too much ownership for issues out of Meta&#39;s control &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240912/p33#a240912p33)
- - [Right-wingers can’t get enough of anti-Haitian AI disinformation](https://www.theverge.com/2024/9/12/24243021/springfield-ohio-haitians-ai-generated-misinformation-trump)<!-- TECH:END -->
+ - [It will cost you over $1,100 to replace the screen on Huawei’s trifold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)
+ - [Taylor Swift&#39;s Endorsement Post Sends Rush of Fans to Voter-Registration Site](https://www.cnet.com/tech/services-and-software/taylor-swift-endorses-kamala-harris-calls-out-donald-trumps-fake-ai-post-sends-fans-rushing-to-voter-registration-site/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Again, because of 9gag, it&#39;s taking down. Polish ppl patrolling streets because of brutal attack on Polish citizens](http://9gag.com/gag/a9yAe4W)
- - 😝 [X-23](http://9gag.com/gag/aE0BbyM)
- - 💣 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)<!-- MEMES:END -->
+ - 😝 [55lbs down and have kept it off for a year!](http://9gag.com/gag/aBy8MW1)
+ - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 💣 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)
+ - 😝 [Just saying!!](http://9gag.com/gag/a6ZVeYm)
+ - 👉 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)<!-- MEMES:END -->
 
 ---
 

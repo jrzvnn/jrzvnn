@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-23](http://9gag.com/gag/aE0BbyM)
- - 😝 [I am not polish but i understand him](http://9gag.com/gag/aZZgXpQ)
- - 💣 [Again, because of 9gag, it&#39;s taking down. Polish ppl patrolling streets because of brutal attack on Polish citizens](http://9gag.com/gag/a9yAe4W)
- - 😝 [Smooth](http://9gag.com/gag/a34Mger)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 😝 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
+ - 😝 [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
+ - 💣 [X-23](http://9gag.com/gag/aE0BbyM)
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
 
 ---
 

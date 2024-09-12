@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
  - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
  - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 😝 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
+ - 😝 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
  - 👉 [Tables are turned](http://9gag.com/gag/aKGDXeN)<!-- MEMES:END -->
 
 ---

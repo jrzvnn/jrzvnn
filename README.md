@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX’s Polaris Dawn completed the first private spacewalk](https://www.theverge.com/2024/9/12/24242730/spacex-polaris-dawn-first-private-spacewalk-jared-isaacman)
+ - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)
+ - [Google Wallet will let you make a digital ID from a US passport](https://www.theverge.com/2024/9/12/24242033/google-wallet-us-passport-drivers-license-digital-id)
  - [Coinbase launches its wrapped bitcoin, cbBTC, on the Ethereum and Base networks, supported by various DeFi services for trading, lending, and as collateral &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240912/p12#a240912p12)
- - [Craig Federighi talks about the challenges behind keeping Apple Intelligence private](https://appleinsider.com/articles/24/09/12/craig-federighi-talks-about-the-challenges-behind-keeping-apple-intelligence-private?utm_medium=rss)
- - [Novatus, which helps financial companies like Revolut manage their data to comply with regulations, raised $40M at a ~$150M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240912/p11#a240912p11)
- - [After ditching August, Assa Abloy snaps up another smart lock startup](https://www.theverge.com/2024/9/12/24241750/level-home-assa-abloy-purchase-smart-lock-aliro)
- - [Apple Watch Series 10 vs Apple Watch Ultra 2 - comparing the biggest wearables](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2---comparing-the-biggest-wearables?utm_medium=rss)<!-- TECH:END -->
+ - [Craig Federighi talks about the challenges behind keeping Apple Intelligence private](https://appleinsider.com/articles/24/09/12/craig-federighi-talks-about-the-challenges-behind-keeping-apple-intelligence-private?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

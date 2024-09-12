@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)
- - 😝 [There is hope gentlemen](http://9gag.com/gag/a7oDX6m)
- - 💣 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)
- - 😝 [Rate my setup](http://9gag.com/gag/ayNxwpV)
- - 👉 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)<!-- MEMES:END -->
+ - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
+ - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)<!-- MEMES:END -->
 
 ---
 

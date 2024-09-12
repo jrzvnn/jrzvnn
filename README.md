@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)
  - [Best Buy issues first material discount on the new black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/12/best-buy-issues-first-material-discount-on-the-new-black-apple-watch-ultra-2?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 12, #459](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-12-459/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 12, #193](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-12-193/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 12, #1181](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-12-1181/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nevada is working with Google to launch a generative AI tool that will issue recommendations to human referees on whether unemployed workers should get benefits &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240911/p26#a240911p26)
+ - [Sources: Adam Neumann&#39;s Flowcarbon, which raised $70M in 2022 from a16z and others, is refunding investors after failing to launch its Goddess Nature Token &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240911/p25#a240911p25)
+ - [iPhone 16 models see faster 5G downloads with new Snapdragon X75 modem](https://appleinsider.com/articles/24/09/12/iphone-16-models-see-faster-5g-downloads-with-new-snapdragon-x75-modem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

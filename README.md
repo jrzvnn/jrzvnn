@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity cancels its controversial Runtime Fee and reverts back to its existing seat-based subscription model but raises Unity Pro and Unity Enterprise prices &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240912/p18#a240912p18)
  - [eToro USA agrees to pay $1.5M and limit US user trading to Bitcoin, Bitcoin Cash, and Ether to settle SEC allegations that it operated as an unregistered broker &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240912/p17#a240912p17)
  - [&#39;Flappy Bird&#39; to soar onto App Store after decade-long hiatus](https://appleinsider.com/articles/24/09/12/flappy-bird-to-soar-onto-app-store-after-decade-long-hiatus?utm_medium=rss)
  - [Meta fed its AI on almost everything you’ve posted publicly since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
- - [Lockly Visage Zeno Series Smart Lock Review: Infrared Sensors for Face Detection](https://www.wired.com/review/lockly-visage/)
- - [You can sign up for three months of Disney Plus for just $6 right now](https://www.theverge.com/2024/9/12/24085709/disney-plus-subscription-samsung-galaxy-tab-s9-tablet-deal-sale)<!-- TECH:END -->
+ - [Lockly Visage Zeno Series Smart Lock Review: Infrared Sensors for Face Detection](https://www.wired.com/review/lockly-visage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

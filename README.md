@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to her](http://9gag.com/gag/adB9wyQ)
- - 😝 [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)
- - 💣 [Kobie Turner, advocate of `sitting like an old man`](http://9gag.com/gag/adB9wKD)
- - 😝 [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)
- - 👉 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)<!-- MEMES:END -->
+ - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
+ - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
+ - 💣 [Cancer subtitles, cancer music and cancer cop](http://9gag.com/gag/axy08gK)
+ - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
+ - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
 
 ---
 

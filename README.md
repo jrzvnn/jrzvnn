@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congrats!](http://9gag.com/gag/a2v4AA9)
- - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 💣 [Not the same vibe](http://9gag.com/gag/aKGDNxN)
- - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
+ - 😝 [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
+ - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 💣 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
 
 ---
 

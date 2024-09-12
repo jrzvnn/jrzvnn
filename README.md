@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp brings Meta Verified badges to small businesses in India, starting at ~$8/month, and gives them the ability to send customized messages to customers &lpar;TechCrunch&rpar;](http://www.techmeme.com/240912/p5#a240912p5)
+ - [Both New Apple AirPods 4 Models Are Available for Preorder. Find the Best Deals](https://www.cnet.com/deals/both-new-apple-airpods-4-models-are-available-for-preorder-find-the-best-deals/#ftag=CAD590a51e)
+ - [You Can Already Preorder the Apple Watch Series 10. Find All the Best Deals So Far](https://www.cnet.com/deals/you-can-already-preorder-the-apple-watch-series-10-find-all-the-best-deals-so-far/#ftag=CAD590a51e)
  - [Get a Sam&#39;s Club membership for just $15 &amp; snag deals on AirTags, iPads &amp; HomePods](https://appleinsider.com/articles/24/09/12/get-a-sams-club-membership-for-just-15?utm_medium=rss)
- - [Researchers detail gaining the ability to generate counterfeit HTTPS certificates and more after buying an expired WHOIS server domain for the .mobi TLD for $20 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240912/p4#a240912p4)
- - [A 397-page EC report, released shortly before CJEU&#39;s verdicts against Apple and Google, says the EU&#39;s competition enforcement can be &quot;harmful to innovation&quot; &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/240912/p3#a240912p3)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)<!-- TECH:END -->
+ - [iPhone 16 Preorders Start Tomorrow. Best Deals and What to Know to Get First Crack](https://www.cnet.com/deals/iphone-16-preorders-start-tomorrow-best-deals-and-what-to-know-to-get-first-crack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

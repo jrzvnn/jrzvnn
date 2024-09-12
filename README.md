@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [I have the high ground now](http://9gag.com/gag/aVvM4Md)
- - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 😝 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
- - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
+ - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 💣 [Winner](http://9gag.com/gag/aLn8N1V)
+ - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
+ - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
 
 ---
 

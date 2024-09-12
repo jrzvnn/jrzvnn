@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [J.D. Vance shouldn&#39;t open his mouth about Apple if he doesn&#39;t have a clue](https://appleinsider.com/articles/24/09/12/jd-vance-shouldnt-open-his-mouth-about-apple-if-he-doesnt-have-a-clue?utm_medium=rss)
- - [Microsoft hires Carolina Dybeck Happe as its executive vice president and COO; Dybeck Happe was the CFO and SVP at GE from March 2020 to September 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240912/p20#a240912p20)
- - [Transport for London confirms ~5,000 customers&#39; bank data may have been exposed in an ongoing cyber incident and pulls a lot of its IT infrastructure offline &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/240912/p19#a240912p19)
- - [How to Set Up Your New TV](https://www.wired.com/story/how-to-set-up-your-new-tv/)
- - [Unity cancels its controversial Runtime Fee and reverts to its existing seat-based subscription model, but raises Unity Pro&#39;s and Unity Enterprise&#39;s prices &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240912/p18#a240912p18)<!-- TECH:END -->
+ - [This life-size Lego McLaren P1 can hit almost 40MPH](https://www.theverge.com/2024/9/12/24242802/lego-mclaren-p1-hypercar-full-size)
+ - [A hacker says he tricked ChatGPT into giving detailed instructions to make a fertilizer bomb, by getting it to &quot;play a game&quot; and create a sci-fi fantasy world &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240912/p24#a240912p24)
+ - [How the hearing aid feature in AirPods Pro 2 could change the hearing aid industry, where most devices range from $799 into the thousands of dollars &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240912/p23#a240912p23)
+ - [Google rolls out Gemini Live to free users with Android devices set to English, following its release to Gemini Advanced subscribers last month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240912/p22#a240912p22)
+ - [The FDA approves the Hearing Aid Feature in Apple&#39;s AirPods Pro 2, calling it the &quot;first over-the-counter hearing aid software device&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240912/p21#a240912p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

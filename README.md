@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This life-size Lego McLaren P1 can hit almost 40MPH](https://www.theverge.com/2024/9/12/24242802/lego-mclaren-p1-hypercar-full-size)
- - [A hacker says he tricked ChatGPT into giving detailed instructions to make a fertilizer bomb, by getting it to &quot;play a game&quot; and create a sci-fi fantasy world &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240912/p24#a240912p24)
- - [How the hearing aid feature in AirPods Pro 2 could change the hearing aid industry, where most devices range from $799 into the thousands of dollars &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240912/p23#a240912p23)
- - [Google rolls out Gemini Live to free users with Android devices set to English, following its release to Gemini Advanced subscribers last month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240912/p22#a240912p22)
- - [The FDA approves the Hearing Aid Feature in Apple&#39;s AirPods Pro 2, calling it the &quot;first over-the-counter hearing aid software device&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240912/p21#a240912p21)<!-- TECH:END -->
+ - [Yes, You Can Now Bet on Elections in the US](https://www.wired.com/story/yes-you-can-now-bet-on-elections-in-the-us/)
+ - [Google unlists misleading Gemini video](https://www.theverge.com/2024/9/12/24242897/google-gemini-unlists-misleading-video-ai)
+ - [Apple gets FDA authorization to turn the AirPods Pro into hearing aids](https://www.theverge.com/2024/9/12/24242929/apple-airpods-pro-hearing-aids-fda-authorization)
+ - [This life-size Lego McLaren P1 can hit almost 40mph](https://www.theverge.com/2024/9/12/24242802/lego-mclaren-p1-hypercar-full-size)
+ - [A hacker says he tricked ChatGPT into giving detailed instructions to make a fertilizer bomb, by getting it to &quot;play a game&quot; and create a sci-fi fantasy world &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240912/p24#a240912p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

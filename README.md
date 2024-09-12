@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
- - 👉 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)<!-- MEMES:END -->
+ - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 💣 [X-23](http://9gag.com/gag/aE0BbyM)
+ - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 👉 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)<!-- MEMES:END -->
 
 ---
 

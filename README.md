@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is updating its iCloud terms and conditions on September 16](https://appleinsider.com/articles/24/09/12/apple-is-updating-its-icloud-terms-and-conditions-on-september-16?utm_medium=rss)
+ - [Microsoft is building new Windows security features to prevent another CrowdStrike](https://www.theverge.com/2024/9/12/24242947/microsoft-windows-security-kernel-access-features-crowdstrike)
+ - [o1 System Card: &quot;medium&quot; rating for chemical, biological, radiological, nuclear weapon risk, and it &quot;sometimes instrumentally faked alignment during testing&quot; &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/240912/p28#a240912p28)
  - [Facebook and Instagram are making AI labels less prominent on edited content](https://www.theverge.com/2024/9/12/24242998/facebook-instagram-ai-label-update-edited-content)
- - [Inside Out 2 is coming to Disney Plus later this month](https://www.theverge.com/2024/9/12/24242928/inside-out-2-disney-plus-premiere-date)
- - [27 Gifts Teens May Actually Like &lpar;2024&rpar;](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [Gemini’s chatty voice mode is out now for free on Android](https://www.theverge.com/2024/9/12/24243018/gemini-live-voice-mode-free-android)
- - [FDA approves AirPods Pro 2 hearing aid features](https://appleinsider.com/articles/24/09/12/fda-approves-airpods-pro-2-hearing-aid-features?utm_medium=rss)<!-- TECH:END -->
+ - [Inside Out 2 is coming to Disney Plus later this month](https://www.theverge.com/2024/9/12/24242928/inside-out-2-disney-plus-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

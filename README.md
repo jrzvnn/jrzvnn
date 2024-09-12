@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elgato has super-sized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)
  - [Microsoft plans to make changes to Windows that will help CrowdStrike, Broadcom, and other security vendors operate outside of the Windows kernel &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240912/p32#a240912p32)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Nick Clegg says Elon Musk turned X into &quot;a sort of one man, sort of hyper-partisan and ideological hobby horse&quot;, contrasting Meta&#39;s content moderation with X&#39;s &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/240912/p31#a240912p31)
- - [Facebook and Instagram make AI labels less prominent on content edited with AI, moving them to a menu; the labels will still appear on AI-generated content &lpar;The Verge&rpar;](http://www.techmeme.com/240912/p30#a240912p30)
- - [Valve celebrates Steam’s birthday with a $112 discount on the 512GB Steam Deck LCD](https://www.theverge.com/good-deals/2024/9/12/24243085/valve-steam-deck-lcd-256gb-512gb-handheld-pc-gaming-console-deal-sale)<!-- TECH:END -->
+ - [Facebook and Instagram make AI labels less prominent on content edited with AI, moving them to a menu; the labels will still appear on AI-generated content &lpar;The Verge&rpar;](http://www.techmeme.com/240912/p30#a240912p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 has over 250 new features and updates, says Apple](https://appleinsider.com/articles/24/09/12/ios-18-has-over-250-new-features-and-updates-says-apple?utm_medium=rss)
+ - [Microsoft lays off 650 more Xbox employees](https://www.theverge.com/2024/9/12/24242695/microsoft-xbox-layoffs-650-employees)
  - [How to Trade In or Sell Your iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
  - [A look at the tough options before Intel&#39;s board, including scaling back factory projects, selling off subsidiaries, or splitting Intel&#39;s core operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240912/p8#a240912p8)
- - [After Shark Tank, Mark Cuban Just Wants to Break Shit—Especially the Prescription Drug Industry](https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/)
- - [Apple Vision Pro’s Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
- - [Apple’s AirPods Pro 2 could forever change how people access hearing aids](https://www.theverge.com/2024/9/12/24241960/apple-airpods-pro-2-otc-hearing-aid-health-industry)<!-- TECH:END -->
+ - [After Shark Tank, Mark Cuban Just Wants to Break Shit—Especially the Prescription Drug Industry](https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

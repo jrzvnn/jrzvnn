@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Shark Tank, Mark Cuban Just Wants to Break Shit—Especially the Prescription Drug Industry](https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/)
+ - [Apple Vision Pro’s Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
+ - [Apple’s AirPods Pro 2 could forever change how people access hearing aids](https://www.theverge.com/2024/9/12/24241960/apple-airpods-pro-2-otc-hearing-aid-health-industry)
  - [Ireland&#39;s DPC opens an investigation into Google&#39;s GDPR compliance over using the personal information of EU users for training foundational AI models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240912/p7#a240912p7)
- - [The EU Has New Carry-On Luggage Rules. Here’s What to Know Before You Fly](https://www.wired.com/story/new-eu-carry-on-luggage-rules-liquids-100-ml/)
- - [The UK gives data centers Critical National Infrastructure designation, enabling the government to coordinate better against hackers and unexpected cyber events &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240912/p6#a240912p6)
- - [Apple’s latest iPhones charge faster over a wire](https://www.theverge.com/2024/9/12/24242683/apple-iphone-16-faster-usbc-wired-charging-45w)
- - [WhatsApp brings Meta Verified badges to small businesses in India, starting at ~$8/month, and gives them the ability to send customized messages to customers &lpar;TechCrunch&rpar;](http://www.techmeme.com/240912/p5#a240912p5)<!-- TECH:END -->
+ - [The EU Has New Carry-On Luggage Rules. Here’s What to Know Before You Fly](https://www.wired.com/story/new-eu-carry-on-luggage-rules-liquids-100-ml/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook and Instagram are making AI labels less prominent on edited content](https://www.theverge.com/2024/9/12/24242998/facebook-instagram-ai-label-update-edited-content)
+ - [Inside Out 2 is coming to Disney Plus later this month](https://www.theverge.com/2024/9/12/24242928/inside-out-2-disney-plus-premiere-date)
  - [27 Gifts Teens May Actually Like &lpar;2024&rpar;](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
  - [Gemini’s chatty voice mode is out now for free on Android](https://www.theverge.com/2024/9/12/24243018/gemini-live-voice-mode-free-android)
- - [FDA approves AirPods Pro 2 hearing aid features](https://appleinsider.com/articles/24/09/12/fda-approves-airpods-pro-2-hearing-aid-features?utm_medium=rss)
- - [Gocycle turns to crowdfunding after surviving ‘Bikeaggedon’](https://www.theverge.com/2024/9/12/24242678/gocycle-crowdfunding-reboot-richard-thorpe)
- - [Unity has eliminated its controversial runtime fee](https://www.theverge.com/2024/9/12/24242937/unity-runtime-fee-cancelled-subscription-pricing)<!-- TECH:END -->
+ - [FDA approves AirPods Pro 2 hearing aid features](https://appleinsider.com/articles/24/09/12/fda-approves-airpods-pro-2-hearing-aid-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

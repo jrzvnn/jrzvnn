@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 😝 [Never forget.](http://9gag.com/gag/adB9d6j)
+ - 😝 [Congrats!](http://9gag.com/gag/a2v4AA9)
+ - 😝 [Representation of what&#39;s usually going on inside my brain](http://9gag.com/gag/awyQDKB)
  - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 😝 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 👉 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)<!-- MEMES:END -->
+ - 😝 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)
+ - 👉 [The original video of the apple on the lamppost](http://9gag.com/gag/aVvM862)<!-- MEMES:END -->
 
 ---
 

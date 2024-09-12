@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congrats!](http://9gag.com/gag/a2v4AA9)
- - 😝 [Representation of what&#39;s usually going on inside my brain](http://9gag.com/gag/awyQDKB)
- - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 😝 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)
- - 👉 [The original video of the apple on the lamppost](http://9gag.com/gag/aVvM862)<!-- MEMES:END -->
+ - 😝 [All hole already used](http://9gag.com/gag/avy741O)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
+ - 👉 [I have the high ground now](http://9gag.com/gag/aVvM4Md)<!-- MEMES:END -->
 
 ---
 

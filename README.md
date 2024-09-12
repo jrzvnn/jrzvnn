@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [At an Acquired podcast event, Zuckerberg said he&#39;s done with apologizing and his biggest mistake was taking too much ownership for issues out of Meta&#39;s control &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240912/p33#a240912p33)
  - [Right-wingers can’t get enough of anti-Haitian AI disinformation](https://www.theverge.com/2024/9/12/24243021/springfield-ohio-haitians-ai-generated-misinformation-trump)
  - [Mint Is Long Gone. Try This Awesome Budgeting App Instead](https://www.cnet.com/personal-finance/rip-mint-i-found-my-new-favorite-budgeting-app/#ftag=CAD590a51e)
- - [We Tested the TikTok-Viral Sleepy Girl Mocktail](https://www.cnet.com/health/sleep/dont-snooze-on-the-sleepy-girl-mocktail/#ftag=CAD590a51e)
- - [Elgato has supersized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)<!-- TECH:END -->
+ - [We Tested the TikTok-Viral Sleepy Girl Mocktail](https://www.cnet.com/health/sleep/dont-snooze-on-the-sleepy-girl-mocktail/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

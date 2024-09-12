@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
- - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - 💣 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
+ - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
+ - 💣 [Welcome to London, where you can be arrested for criticizing active crime in front of police](http://9gag.com/gag/aPA9zYB)
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
 
 ---
 

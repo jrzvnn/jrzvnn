@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
- - 💣 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
  - 😝 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
- - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
+ - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 💣 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 👉 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)<!-- MEMES:END -->
 
 ---
 

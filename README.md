@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Cozy Games &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cozy-games/)
+ - [Best portable power stations for winter camping from Bluetti](https://appleinsider.com/articles/24/09/12/best-portable-power-stations-for-winter-camping-from-bluetti?utm_medium=rss)
  - [Mastercard agrees to buy Recorded Future, which uses AI-powered analytics to identify potential threats, from PE firm Insight Partners for $2.65B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240912/p13#a240912p13)
  - [SpaceX’s Polaris Dawn completed the first private spacewalk](https://www.theverge.com/2024/9/12/24242730/spacex-polaris-dawn-first-private-spacewalk-jared-isaacman)
- - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)
- - [Google Wallet will let you make a digital ID from a US passport](https://www.theverge.com/2024/9/12/24242033/google-wallet-us-passport-drivers-license-digital-id)
- - [Coinbase launches its wrapped bitcoin, cbBTC, on the Ethereum and Base networks, supported by various DeFi services for trading, lending, and as collateral &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240912/p12#a240912p12)<!-- TECH:END -->
+ - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

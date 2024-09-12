@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple speeds up iPhone 16 USB-C charging with 45W upgrade](https://appleinsider.com/articles/24/09/12/apple-speeds-up-iphone-16-usb-c-charging-with-45w-upgrade?utm_medium=rss)
- - [Sony’s latest PS5 update can help protect controller batteries](https://www.theverge.com/2024/9/12/24242704/sony-playstation-ps5-update-adaptive-charging-controller-batteries)
- - [A Diamond-Making Machine Will Cost You $200,000 on Alibaba](https://www.wired.com/story/diamond-making-machine-alibaba/)
- - [Memo: Microsoft is laying off 650 staff from its gaming business, bringing the cuts in its gaming business to 2,550 jobs since acquiring Activision Blizzard &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240912/p9#a240912p9)
- - [18 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Apple Watch Series 10 vs Apple Watch Ultra 2 - comparing the biggest wearables](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2---comparing-the-biggest-wearables?utm_medium=rss)
+ - [Analysis: VC investments in AI startups have reached $64.1B, ~30% of total VC dollars invested, so far in 2024 amid questions about whether it will pay off &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240912/p10#a240912p10)
+ - [How Useful Will Apple Intelligence Be? The Next iPhone Will Tell Us](https://www.wired.com/story/gadget-lab-podcast-658/)
+ - [GM and EVgo plan more ‘flagship’ EV charging locations that look like gas stations](https://www.theverge.com/2024/9/12/24242068/gm-energy-evgo-ev-dc-fast-charging-network-flagship-locations)
+ - [Act Fast to Get a Lifetime Microsoft Office License for Just $25](https://www.cnet.com/deals/act-fast-to-get-a-lifetime-microsoft-office-license-for-just-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

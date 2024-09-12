@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a Sam&#39;s Club membership for just $15 &amp; snag deals on AirTags, iPads &amp; HomePods](https://appleinsider.com/articles/24/09/12/get-a-sams-club-membership-for-just-15?utm_medium=rss)
  - [Researchers detail gaining the ability to generate counterfeit HTTPS certificates and more after acquiring an expired WHOIS server domain for the .mobi TLD &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240912/p4#a240912p4)
  - [A 397-page EC report, released shortly before CJEU&#39;s verdicts against Apple and Google, says the EU&#39;s competition enforcement can be &quot;harmful to innovation&quot; &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/240912/p3#a240912p3)
  - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)
- - [Keep It Consistent. This Is the Best Method and Time to Weigh Yourself](https://www.cnet.com/health/fitness/keep-it-consistent-this-is-the-best-method-and-time-to-weigh-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

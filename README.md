@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [Tables are turned](http://9gag.com/gag/aKGDXeN)
- - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)<!-- MEMES:END -->
+ - 😝 [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)
+ - 😝 [There is hope gentlemen](http://9gag.com/gag/a7oDX6m)
+ - 💣 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)
+ - 😝 [Rate my setup](http://9gag.com/gag/ayNxwpV)
+ - 👉 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)<!-- MEMES:END -->
 
 ---
 

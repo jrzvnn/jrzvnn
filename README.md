@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
- - 😝 [I am not polish but i understand him](http://9gag.com/gag/aZZgXpQ)
- - 💣 [Florida is just different](http://9gag.com/gag/ajPNMQp)
- - 😝 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
- - 👉 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)<!-- MEMES:END -->
+ - 😝 [Not the same vibe](http://9gag.com/gag/aKGDNxN)
+ - 😝 [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)
+ - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
+ - 👉 [55lbs down and have kept it off for a year!](http://9gag.com/gag/aBy8MW1)<!-- MEMES:END -->
 
 ---
 

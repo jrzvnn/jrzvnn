@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 😝 [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
- - 💣 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
- - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 💣 [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
+ - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
  - 👉 [Monkey](http://9gag.com/gag/a9yA01o)<!-- MEMES:END -->
 
 ---

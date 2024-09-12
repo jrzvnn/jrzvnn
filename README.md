@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flappy Bird is coming back](https://www.theverge.com/2024/9/12/24242791/flappy-bird-relaunch-2025-new-game-modes)
- - [Sources: Sam Altman and execs from Google, Anthropic, Microsoft, and power and utility companies met at the White House regarding US AI energy infrastructure &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240912/p16#a240912p16)
- - [A unique attack could steal your passwords from Apple Vision Pro](https://appleinsider.com/articles/24/09/12/a-unique-attack-could-steal-your-passwords-from-apple-vision-pro?utm_medium=rss)
- - [The Mental Health Coalition announces Thrive, a data-sharing program to reduce content on suicide and self-harm, with Meta, Snap, and TikTok as founding members &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/240912/p15#a240912p15)
- - [Why comparing AI image editing to Photoshop downplays the risks](https://www.theverge.com/24242800/ai-image-editing-photoshop-misinformation-deepfakes-elon-musk-grok-decoder-interview)<!-- TECH:END -->
+ - [eToro USA agrees to pay $1.5M and limit US user trading to Bitcoin, Bitcoin Cash, and Ether to settle SEC allegations that it operated as an unregistered broker &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/240912/p17#a240912p17)
+ - [&#39;Flappy Bird&#39; to soar onto App Store after decade-long hiatus](https://appleinsider.com/articles/24/09/12/flappy-bird-to-soar-onto-app-store-after-decade-long-hiatus?utm_medium=rss)
+ - [Meta fed its AI on almost everything you’ve posted publicly since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
+ - [Lockly Visage Zeno Series Smart Lock Review: Infrared Sensors for Face Detection](https://www.wired.com/review/lockly-visage/)
+ - [You can sign up for three months of Disney Plus for just $6 right now](https://www.theverge.com/2024/9/12/24085709/disney-plus-subscription-samsung-galaxy-tab-s9-tablet-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

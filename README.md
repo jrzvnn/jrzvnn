@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [YC plans to expand to four cohorts per year, adding spring and fall sessions in 2025; each batch will be half the size of the most recent cohort of 256 startups &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240912/p38#a240912p38)
  - [The entire staff of beloved game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
- - [Want Free Grocery Delivery? You Can Bypass Instacart&#39;s Fee If You Do This](https://www.cnet.com/news/want-free-grocery-delivery-you-can-bypass-instacarts-8-fee-when-you-do-this/#ftag=CAD590a51e)
- - [Best Sleep Masks for 2024](https://www.cnet.com/health/sleep/best-sleep-mask/#ftag=CAD590a51e)
- - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)<!-- TECH:END -->
+ - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)
+ - [Here’s everything you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

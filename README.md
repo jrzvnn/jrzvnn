@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flappy Bird is coming back](https://www.theverge.com/2024/9/12/24242791/flappy-bird-relaunch-2025-new-game-modes)
+ - [Sources: Sam Altman and execs from Google, Anthropic, Microsoft, and power and utility companies met at the White House regarding US AI energy infrastructure &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240912/p16#a240912p16)
  - [A unique attack could steal your passwords from Apple Vision Pro](https://appleinsider.com/articles/24/09/12/a-unique-attack-could-steal-your-passwords-from-apple-vision-pro?utm_medium=rss)
  - [The Mental Health Coalition announces Thrive, a data-sharing program to reduce content on suicide and self-harm, with Meta, Snap, and TikTok as founding members &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/240912/p15#a240912p15)
- - [Why comparing AI image editing to Photoshop downplays the risks](https://www.theverge.com/24242800/ai-image-editing-photoshop-misinformation-deepfakes-elon-musk-grok-decoder-interview)
- - [The EPA opens the door to suing warehouse owners over air pollution](https://www.theverge.com/2024/9/12/24242735/epa-warehouses-ecommerce-air-pollution-indirect-source-rule)
- - [How to cancel digital subscriptions on your Apple and Google accounts](https://www.theverge.com/24242332/subscriptions-ios-macos-android-chrome-how-to)<!-- TECH:END -->
+ - [Why comparing AI image editing to Photoshop downplays the risks](https://www.theverge.com/24242800/ai-image-editing-photoshop-misinformation-deepfakes-elon-musk-grok-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

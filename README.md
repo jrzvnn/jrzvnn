@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Again, because of 9gag, it&#39;s taking down. Polish ppl patrolling streets because of brutal attack on Polish citizens](http://9gag.com/gag/a9yAe4W)
  - 😝 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
- - 😝 [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
- - 💣 [X-23](http://9gag.com/gag/aE0BbyM)
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
+ - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - 😝 [X-23](http://9gag.com/gag/aE0BbyM)
+ - 👉 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)<!-- MEMES:END -->
 
 ---
 

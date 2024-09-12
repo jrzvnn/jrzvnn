@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
  - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
- - 💣 [Welcome to London, where you can be arrested for criticizing active crime in front of police](http://9gag.com/gag/aPA9zYB)
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
+ - 😝 [I am not polish but i understand him](http://9gag.com/gag/aZZgXpQ)
+ - 💣 [Florida is just different](http://9gag.com/gag/ajPNMQp)
+ - 😝 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
+ - 👉 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)<!-- MEMES:END -->
 
 ---
 

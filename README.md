@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 💣 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
  - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 😝 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
- - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
  - 👉 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)<!-- MEMES:END -->
 
 ---

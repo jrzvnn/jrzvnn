@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)
- - [Adobe reports Q3 revenue up 11% YoY to $5.41B, vs. $5.37B est., Digital Media revenue up 11% to $4B, Q4 revenue guidance below est.; ADBE drops 9%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240912/p35#a240912p35)
- - [Meta, Snap, and TikTok partner to stop the spread of suicide and self-harm content](https://www.theverge.com/2024/9/12/24243078/meta-snap-tiktok-thrive-suicide-mental-health-program)
- - [Salesforce rolls out Agentforce, a suite of AI agents that handle tasks in sales, marketing, commerce, and customer service, starting at $2 per conversation &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240912/p34#a240912p34)
- - [It will cost you over $1,100 to replace the screen on Huawei’s trifold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)<!-- TECH:END -->
+ - [The Top 6 Alarm Clocks of 2024](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)
+ - [Taylor Swift Endorses Kamala Harris, Calling Out Donald Trump&#39;s AI Deepfake Post](https://www.cnet.com/tech/services-and-software/taylor-swift-endorses-kamala-harris-calling-out-donald-trumps-ai-deepfake-post/#ftag=CAD590a51e)
+ - [Quantum Fiber Review: Plans, Pricing, Speeds and Availability Compared](https://www.cnet.com/home/internet/quantum-fiber-review/#ftag=CAD590a51e)
+ - [Are High Schoolers Really Clueless About Finances? I Gave Them a Money Quiz to Find Out](https://www.cnet.com/personal-finance/are-high-schoolers-really-clueless-about-finances-i-gave-them-a-money-quiz-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

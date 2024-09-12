@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YC plans to expand to four cohorts per year, adding spring and fall sessions in 2025; each batch will be half the size of the most recent cohort of 256 startups &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240912/p38#a240912p38)
  - [The entire staff of beloved game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
- - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)
- - [Here’s everything you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
- - [Source: OpenAI&#39;s ChatGPT has 11M+ paying subscribers, including 1M for its higher-priced business plans, implying it&#39;s generating $225M+ in revenue per month &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/240912/p37#a240912p37)
- - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)<!-- TECH:END -->
+ - [Want Free Grocery Delivery? You Can Bypass Instacart&#39;s Fee If You Do This](https://www.cnet.com/news/want-free-grocery-delivery-you-can-bypass-instacarts-8-fee-when-you-do-this/#ftag=CAD590a51e)
+ - [Best Sleep Masks for 2024](https://www.cnet.com/health/sleep/best-sleep-mask/#ftag=CAD590a51e)
+ - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

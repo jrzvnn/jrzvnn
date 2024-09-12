@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 💣 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
+ - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
+ - 😝 [Never forget.](http://9gag.com/gag/adB9d6j)
+ - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
  - 😝 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 👉 [A normal dev team](http://9gag.com/gag/axy04LD)<!-- MEMES:END -->
+ - 👉 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)<!-- MEMES:END -->
 
 ---
 

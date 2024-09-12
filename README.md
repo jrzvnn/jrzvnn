@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Microsoft is laying off 650 staff from its gaming business, bringing the cuts in its gaming business to 2,550 jobs since acquiring Activision Blizzard &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240912/p9#a240912p9)
+ - [People Are Setting Themselves on Fire and Getting Punched in the Face to Pump Their Crypto Coins](https://www.wired.com/story/people-on-fire-punched-pump-crypto-coins/)
+ - [Why NASA is sticking with Boeing](https://www.theverge.com/2024/9/12/24241904/boeing-starliner-nasa-iss-spacex-crew-dragon)
  - [iOS 18 has over 250 new features and updates, says Apple](https://appleinsider.com/articles/24/09/12/ios-18-has-over-250-new-features-and-updates-says-apple?utm_medium=rss)
- - [Microsoft lays off 650 more Xbox employees](https://www.theverge.com/2024/9/12/24242695/microsoft-xbox-layoffs-650-employees)
- - [How to Trade In or Sell Your iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
- - [A look at the tough options before Intel&#39;s board, including scaling back factory projects, selling off subsidiaries, or splitting Intel&#39;s core operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240912/p8#a240912p8)
- - [After Shark Tank, Mark Cuban Just Wants to Break Shit—Especially the Prescription Drug Industry](https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/)<!-- TECH:END -->
+ - [Microsoft lays off 650 more Xbox employees](https://www.theverge.com/2024/9/12/24242695/microsoft-xbox-layoffs-650-employees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

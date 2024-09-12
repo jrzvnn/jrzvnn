@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
- - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
- - 💣 [Cancer subtitles, cancer music and cancer cop](http://9gag.com/gag/axy08gK)
- - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [Tables are turned](http://9gag.com/gag/aKGDXeN)
+ - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)<!-- MEMES:END -->
 
 ---
 

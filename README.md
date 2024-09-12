@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 💣 [Winner](http://9gag.com/gag/aLn8N1V)
- - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 😝 [Congrats!](http://9gag.com/gag/a2v4AA9)
+ - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - 💣 [Not the same vibe](http://9gag.com/gag/aKGDNxN)
+ - 😝 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta, Snap, and TikTok partner to stop the spread of suicide and self-harm content](https://www.theverge.com/2024/9/12/24243078/meta-snap-tiktok-thrive-suicide-mental-health-program)
  - [Salesforce rolls out Agentforce, a suite of AI agents that handle tasks in sales, marketing, commerce, and customer service, starting at $2 per conversation &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240912/p34#a240912p34)
  - [It will cost you over $1,100 to replace the screen on Huawei’s trifold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)
- - [Taylor Swift&#39;s Endorsement Post Sends Rush of Fans to Voter-Registration Site](https://www.cnet.com/tech/services-and-software/taylor-swift-endorses-kamala-harris-calls-out-donald-trumps-fake-ai-post-sends-fans-rushing-to-voter-registration-site/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

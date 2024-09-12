@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why comparing AI image editing to Photoshop downplays the risks](https://www.theverge.com/24242800/ai-image-editing-photoshop-misinformation-deepfakes-elon-musk-grok-decoder-interview)
+ - [The EPA opens the door to suing warehouse owners over air pollution](https://www.theverge.com/2024/9/12/24242735/epa-warehouses-ecommerce-air-pollution-indirect-source-rule)
+ - [How to cancel digital subscriptions on your Apple and Google accounts](https://www.theverge.com/24242332/subscriptions-ios-macos-android-chrome-how-to)
  - [The Mental Health Coalition announces Thrive, a data-sharing program to reduce content on suicide, with Meta, Snap, and TikTok as founding members &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p14#a240912p14)
- - [Car coupling fever continues with GM and Hyundai teaming up on EVs and hydrogen](https://www.theverge.com/2024/9/12/24242797/gm-hyundai-partnership-ev-hydrogen-battery-materials)
- - [Ikea adds Matter support to Dirigera hub, for real this time](https://appleinsider.com/articles/24/09/12/ikea-adds-matter-support-to-dirigera-hub-for-real-this-time?utm_medium=rss)
- - [There’s more to this year’s smartphones than AI](https://www.theverge.com/2024/9/12/24219823/apple-intelligence-gemini-copilot-ai-iphone-16-pro-pixel-9-ram)
- - [Best VPN Deals: Extra Online Security for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Car coupling fever continues with GM and Hyundai teaming up on EVs and hydrogen](https://www.theverge.com/2024/9/12/24242797/gm-hyundai-partnership-ev-hydrogen-battery-materials)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

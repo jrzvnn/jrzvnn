@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [J.D. Vance shouldn&#39;t open his mouth about Apple if he doesn&#39;t have a clue](https://appleinsider.com/articles/24/09/12/jd-vance-shouldnt-open-his-mouth-about-apple-if-he-doesnt-have-a-clue?utm_medium=rss)
- - [Microsoft hires Carolina Dybeck Happe as its executive vice president and COO; Dybeck Happe was the CFO and SVP at GE from 2020 until September 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/240912/p20#a240912p20)
+ - [Microsoft hires Carolina Dybeck Happe as its executive vice president and COO; Dybeck Happe was the CFO and SVP at GE from March 2020 to September 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240912/p20#a240912p20)
  - [Transport for London confirms ~5,000 customers&#39; bank data may have been exposed in an ongoing cyber incident and pulls a lot of its IT infrastructure offline &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/240912/p19#a240912p19)
  - [How to Set Up Your New TV](https://www.wired.com/story/how-to-set-up-your-new-tv/)
  - [Unity cancels its controversial Runtime Fee and reverts to its existing seat-based subscription model, but raises Unity Pro&#39;s and Unity Enterprise&#39;s prices &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240912/p18#a240912p18)<!-- TECH:END -->

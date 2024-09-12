@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail gaining the ability to generate counterfeit HTTPS certificates and more after acquiring an expired WHOIS server domain for the .mobi TLD &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240912/p4#a240912p4)
+ - [A 397-page EC report, released shortly before CJEU&#39;s verdicts against Apple and Google, says the EU&#39;s competition enforcement can be &quot;harmful to innovation&quot; &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/240912/p3#a240912p3)
+ - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
  - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)
- - [Tune.fm, a music streaming service with an integrated NFT marketplace that offers blockchain micropayments to artists, raised $50M from Global Emerging Markets &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240912/p1#a240912p1)
- - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)
- - [Best Buy issues first material discount on the new black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/12/best-buy-issues-first-material-discount-on-the-new-black-apple-watch-ultra-2?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 12, #459](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-12-459/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep It Consistent. This Is the Best Method and Time to Weigh Yourself](https://www.cnet.com/health/fitness/keep-it-consistent-this-is-the-best-method-and-time-to-weigh-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

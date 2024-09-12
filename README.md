@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 😝 [Riyal RIP high school DXD](http://9gag.com/gag/azxqBBZ)
+ - 💣 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
  - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
- - 💣 [Someone asked what&#39;s luck](http://9gag.com/gag/avy7DqE)
- - 😝 [I have the high ground now](http://9gag.com/gag/aVvM4Md)
- - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
+ - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
 
 ---
 

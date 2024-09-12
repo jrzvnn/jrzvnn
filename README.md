@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All hole already used](http://9gag.com/gag/avy741O)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - 😝 [Winner](http://9gag.com/gag/aLn8N1V)
- - 👉 [I have the high ground now](http://9gag.com/gag/aVvM4Md)<!-- MEMES:END -->
+ - 😝 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
+ - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - 💣 [All hole already used](http://9gag.com/gag/avy741O)
+ - 😝 [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
+ - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
 
 ---
 

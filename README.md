@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 😝 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)
- - 👉 [Tables are turned](http://9gag.com/gag/aKGDXeN)<!-- MEMES:END -->
+ - 😝 [Listen to her](http://9gag.com/gag/adB9wyQ)
+ - 😝 [The original video of the apple on the lamppost](http://9gag.com/gag/aVvM862)
+ - 💣 [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)
+ - 😝 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)
+ - 👉 [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - 😝 [X-23](http://9gag.com/gag/aE0BbyM)
+ - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
  - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)<!-- MEMES:END -->
+ - 😝 [I know what I saw](http://9gag.com/gag/aNDzGqK)
+ - 👉 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)<!-- MEMES:END -->
 
 ---
 

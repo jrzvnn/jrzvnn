@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Memo: Microsoft is laying off 650 staff from its gaming business, bringing the cuts in its gaming business to 2,550 jobs since acquiring Activision Blizzard &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240912/p9#a240912p9)
+ - [18 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
  - [People Are Setting Themselves on Fire and Getting Punched in the Face to Pump Their Crypto Coins](https://www.wired.com/story/people-on-fire-punched-pump-crypto-coins/)
  - [Why NASA is sticking with Boeing](https://www.theverge.com/2024/9/12/24241904/boeing-starliner-nasa-iss-spacex-crew-dragon)
- - [iOS 18 has over 250 new features and updates, says Apple](https://appleinsider.com/articles/24/09/12/ios-18-has-over-250-new-features-and-updates-says-apple?utm_medium=rss)
- - [Microsoft lays off 650 more Xbox employees](https://www.theverge.com/2024/9/12/24242695/microsoft-xbox-layoffs-650-employees)<!-- TECH:END -->
+ - [iOS 18 has over 250 new features and updates, says Apple](https://appleinsider.com/articles/24/09/12/ios-18-has-over-250-new-features-and-updates-says-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to her](http://9gag.com/gag/adB9wyQ)
- - 😝 [The original video of the apple on the lamppost](http://9gag.com/gag/aVvM862)
- - 💣 [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)
- - 😝 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)
- - 👉 [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)<!-- MEMES:END -->
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 💣 [Tables are turned](http://9gag.com/gag/aKGDXeN)
+ - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
+ - 👉 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Cozy Games &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cozy-games/)
- - [Best portable power stations for winter camping from Bluetti](https://appleinsider.com/articles/24/09/12/best-portable-power-stations-for-winter-camping-from-bluetti?utm_medium=rss)
- - [Mastercard agrees to buy Recorded Future, which uses AI-powered analytics to identify potential threats, from PE firm Insight Partners for $2.65B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240912/p13#a240912p13)
- - [SpaceX’s Polaris Dawn completed the first private spacewalk](https://www.theverge.com/2024/9/12/24242730/spacex-polaris-dawn-first-private-spacewalk-jared-isaacman)
- - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)<!-- TECH:END -->
+ - [The Mental Health Coalition announces Thrive, a data-sharing program to reduce content on suicide, with Meta, Snap, and TikTok as founding members &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p14#a240912p14)
+ - [Car coupling fever continues with GM and Hyundai teaming up on EVs and hydrogen](https://www.theverge.com/2024/9/12/24242797/gm-hyundai-partnership-ev-hydrogen-battery-materials)
+ - [Ikea adds Matter support to Dirigera hub, for real this time](https://appleinsider.com/articles/24/09/12/ikea-adds-matter-support-to-dirigera-hub-for-real-this-time?utm_medium=rss)
+ - [There’s more to this year’s smartphones than AI](https://www.theverge.com/2024/9/12/24219823/apple-intelligence-gemini-copilot-ai-iphone-16-pro-pixel-9-ram)
+ - [Best VPN Deals: Extra Online Security for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

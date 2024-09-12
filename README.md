@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
- - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [Tables are turned](http://9gag.com/gag/aKGDXeN)
+ - 😝 [X-23](http://9gag.com/gag/aE0BbyM)
+ - 💣 [Monkey](http://9gag.com/gag/a9yA01o)
  - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)<!-- MEMES:END -->
+ - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
 
 ---
 

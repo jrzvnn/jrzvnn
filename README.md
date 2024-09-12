@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah-based Strider, which analyzes OSINT to help protect organizations against nation-state attacks, raised a $55M Series C, bringing its total funding to $110M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240912/p25#a240912p25)
- - [Yes, You Can Now Bet on Elections in the US](https://www.wired.com/story/yes-you-can-now-bet-on-elections-in-the-us/)
- - [Google unlists misleading Gemini video](https://www.theverge.com/2024/9/12/24242897/google-gemini-unlists-misleading-video-ai)
- - [Apple gets FDA authorization to turn the AirPods Pro into hearing aids](https://www.theverge.com/2024/9/12/24242929/apple-airpods-pro-hearing-aids-fda-authorization)
- - [This life-size Lego McLaren P1 can hit almost 40mph](https://www.theverge.com/2024/9/12/24242802/lego-mclaren-p1-hypercar-full-size)<!-- TECH:END -->
+ - [Gemini’s chatty voice mode is out now for free on Android](https://www.theverge.com/2024/9/12/24243018/gemini-live-voice-mode-free-android)
+ - [FDA approves AirPods Pro 2 hearing aid features](https://appleinsider.com/articles/24/09/12/fda-approves-airpods-pro-2-hearing-aid-features?utm_medium=rss)
+ - [Gocycle turns to crowdfunding after surviving ’Bikeaggedon’](https://www.theverge.com/2024/9/12/24242678/gocycle-crowdfunding-reboot-richard-thorpe)
+ - [Unity has eliminated its controversial runtime fee](https://www.theverge.com/2024/9/12/24242937/unity-runtime-fee-cancelled-subscription-pricing)
+ - [OpenAI claims that in a qualifying exam for the International Mathematics Olympiad, o1 correctly solved 83% of the problems, while GPT-4o solved only 13% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p27#a240912p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

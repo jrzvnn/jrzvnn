@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
- - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
- - 💣 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 😝 [Owned](http://9gag.com/gag/aZZg6G6)
- - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
+ - 😝 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
+ - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 😝 [All over...](http://9gag.com/gag/aD2zeyG)
+ - 👉 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)<!-- MEMES:END -->
 
 ---
 

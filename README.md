@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta restarts efforts to train its AI systems using public Facebook and Instagram posts from its UK users, having &quot;incorporated regulatory feedback&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p13#a240913p13)
+ - [iPhone 16 Pro Max sees shipping date slip just minutes after preorders start](https://appleinsider.com/articles/24/09/13/iphone-16-pro-max-see-shipping-date-slip-just-minutes-after-preorders-start?utm_medium=rss)
+ - [US takes aim at Shein and Temu with new import rule proposal](https://www.theverge.com/2024/9/13/24243653/us-biden-shein-import-rules-de-minimis-loop-hole)
  - [Nightbitch doesn’t have enough of that dog in it](https://www.theverge.com/24241246/nightbitch-review)
- - [How Google altered a deal with publishers who couldn’t say no](https://www.theverge.com/2024/9/13/24243342/google-doj-ad-tech-antitrust-unified-pricing-rules)
- - [Sources detail a bleak picture for startup founders in China; report: only 1,202 startups were founded in 2023 in the country compared to 51,302 in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/240913/p12#a240913p12)
- - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
- - [Are Meal Kits Cheaper Than Groceries in 2024? I Priced Out 6 to See](https://www.cnet.com/health/nutrition/are-meal-kits-cheaper-than-groceries-in-2024-i-priced-out-6-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Google altered a deal with publishers who couldn’t say no](https://www.theverge.com/2024/9/13/24243342/google-doj-ad-tech-antitrust-unified-pricing-rules)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

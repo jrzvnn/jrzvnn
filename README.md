@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
  - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - 💣 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 👉 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)<!-- MEMES:END -->
+ - 😝 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
+ - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 👉 [My mom bought this for me.](http://9gag.com/gag/agmYDXx)<!-- MEMES:END -->
 
 ---
 

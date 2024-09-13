@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [United Airlines plans to start testing Starlink internet service early next year, with the first passenger flights likely equipped with free Wi-Fi later in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240913/p14#a240913p14)
  - [The OnePlus Watch 2, one of our top Android smartwatch picks, hits its best price](https://www.theverge.com/2024/9/13/24242856/oneplus-watch-2-ember-mug-2-deal-sale)
  - [Astro Bot sounds as great as it plays](https://www.theverge.com/2024/9/13/24243763/astro-bot-sound-design-dualsense-controller)
  - [How all the new iPhone 16 models compare to one another on paper](https://www.theverge.com/24242170/iphone-16-vs-pro-plus-max-comparison-specs-price-apple)
- - [Meta restarts efforts to train its AI systems using public Facebook and Instagram posts from its UK users, having &quot;incorporated regulatory feedback&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p13#a240913p13)
- - [iPhone 16 Pro Max sees shipping date slip just minutes after preorders start](https://appleinsider.com/articles/24/09/13/iphone-16-pro-max-see-shipping-date-slip-just-minutes-after-preorders-start?utm_medium=rss)<!-- TECH:END -->
+ - [Meta restarts efforts to train its AI systems using public Facebook and Instagram posts from its UK users, having &quot;incorporated regulatory feedback&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p13#a240913p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

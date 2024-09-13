@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
  - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 😝 [All over...](http://9gag.com/gag/aD2zeyG)
+ - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
+ - 💣 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
  - 👉 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)<!-- MEMES:END -->
 
 ---

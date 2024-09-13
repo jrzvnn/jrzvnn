@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple still has a lot of new hardware to release before the end of 2024](https://appleinsider.com/articles/24/09/13/apple-still-has-a-lot-of-new-hardware-to-release-before-the-end-of-2024?utm_medium=rss)
+ - [Best Buy drops M3 MacBook Pro to record low $1,199 with Plus](https://appleinsider.com/articles/24/09/13/best-buy-drops-m3-macbook-pro-to-record-low-1199-with-plus?utm_medium=rss)
+ - [German prosecutors open a sexual harassment probe into SAP CTO J&amp;uuml;rgen M&amp;uuml;ller, after SAP said he&#39;d resign at the end of September due to &quot;inappropriate&quot; behavior &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p21#a240913p21)
  - [Here&#39;s How to Spot Great Wine at a Grocery Store](https://www.cnet.com/how-to/this-is-the-best-wine-to-buy-at-a-grocery-store/#ftag=CAD590a51e)
- - [Apple files to stop NSO Group lawsuit over fears of data leaks](https://appleinsider.com/articles/24/09/13/apple-files-to-stop-nso-group-lawsuit-over-fears-of-data-leaks?utm_medium=rss)
- - [Snappy could improve smartphone photography with a stabilized grip](https://www.theverge.com/2024/9/13/24243735/snappy-smartphone-photography-grip-kickstarter)
- - [This Digital Archivist Believes Hollywood&#39;s &#39;Competition Era&#39; Is Over](https://www.wired.com/story/dial-up-maya-cade-black-film-archive/)
- - [Fall Equinox 2024 Is Coming Up Fast: Everything You Need to Know](https://www.cnet.com/science/fall-equinox-2024-is-coming-up-fast-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple files to stop NSO Group lawsuit over fears of data leaks](https://appleinsider.com/articles/24/09/13/apple-files-to-stop-nso-group-lawsuit-over-fears-of-data-leaks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

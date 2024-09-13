@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic rocks logic](http://9gag.com/gag/a4PGXVZ)
- - 😝 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
- - 💣 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
+ - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - 💣 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
  - 😝 [Owned](http://9gag.com/gag/aZZg6G6)
- - 👉 [Double face](http://9gag.com/gag/a0e5rbd)<!-- MEMES:END -->
+ - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nightbitch doesn’t have enough of that dog in it](https://www.theverge.com/24241246/nightbitch-review)
+ - [How Google altered a deal with publishers who couldn’t say no](https://www.theverge.com/2024/9/13/24243342/google-doj-ad-tech-antitrust-unified-pricing-rules)
  - [Sources detail a bleak picture for startup founders in China; report: only 1,202 startups were founded in 2023 in the country compared to 51,302 in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/240913/p12#a240913p12)
  - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
- - [FanDuel and Betfair&#39;s parent company, Flutter, agrees to acquire a 56% stake in Brazilian online gaming operator NSX for a cash consideration of about $350M &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240913/p10#a240913p10)
- - [Second Front, which helps companies deploy software in sensitive government networks, raised a $75M Series C led by Salesforce, sources say at a $750M valuation &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240913/p9#a240913p9)
- - [The 7 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [Are Meal Kits Cheaper Than Groceries in 2024? I Priced Out 6 to See](https://www.cnet.com/health/nutrition/are-meal-kits-cheaper-than-groceries-in-2024-i-priced-out-6-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

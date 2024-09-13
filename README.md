@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - 😝 [I agree](http://9gag.com/gag/aZZg5Pp)
- - 💣 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)
- - 😝 [There is hope gentlemen](http://9gag.com/gag/a7oDX6m)
- - 👉 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)<!-- MEMES:END -->
+ - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
+ - 💣 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
+ - 😝 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
+ - 👉 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)<!-- MEMES:END -->
 
 ---
 

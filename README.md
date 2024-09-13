@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toretto\u00b4s crew has upped their game](http://9gag.com/gag/ary5710)
- - 😝 [Men, has anyone given you a flower?](http://9gag.com/gag/aZZgKDn)
- - 💣 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
- - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
- - 👉 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)<!-- MEMES:END -->
+ - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - 😝 [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
+ - 💣 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
+ - 😝 [Yoink](http://9gag.com/gag/aMVA7oV)
+ - 👉 [This is toxic](http://9gag.com/gag/aAyD5Zd)<!-- MEMES:END -->
 
 ---
 

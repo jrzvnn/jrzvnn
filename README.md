@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
- - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
- - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
- - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
- - 👉 [Owned](http://9gag.com/gag/aZZg6G6)<!-- MEMES:END -->
+ - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 💣 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
+ - 👉 [Happy Halloween](http://9gag.com/gag/aO8BMnv)<!-- MEMES:END -->
 
 ---
 

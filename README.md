@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: 23andMe will pay $30M to settle a lawsuit for failing to protect the privacy of 6.9M customers whose personal info was exposed in a 2023 data breach &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240913/p20#a240913p20)
  - [This is the first smart lock to support ultra wideband](https://www.theverge.com/2024/9/13/24243694/ultraloq-bolt-mission-uwb-matter-smart-lock-apple-home)
  - [Bungie will compensate an artist after its Destiny 2 Nerf blaster ripped off their work](https://www.theverge.com/2024/9/13/24243893/destiny-2-nerf-ace-of-spades-stole-artists-work)
  - [Apple files to drop its NSO suit, citing Israeli government&#39;s alleged seizure of NSO files, and saying Apple&#39;s court disclosures may aid NSO and other hackers &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240913/p19#a240913p19)
- - [Keurig caught making ‘inaccurate’ recycling claims about its coffee pods](https://www.theverge.com/2024/9/13/24243806/keurig-recycling-coffee-pods-sec-charges-settlement)
- - [The $129 AirPods 4 Have Features the $549 AirPods Max Don&#39;t](https://www.wired.com/story/the-airpods-4-have-features-the-airpods-max-dont/)<!-- TECH:END -->
+ - [Keurig caught making ‘inaccurate’ recycling claims about its coffee pods](https://www.theverge.com/2024/9/13/24243806/keurig-recycling-coffee-pods-sec-charges-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

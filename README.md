@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 💣 [Patient](http://9gag.com/gag/aKGD5VO)
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 👉 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)<!-- MEMES:END -->
+ - 😝 [Yoink](http://9gag.com/gag/aMVA7oV)
+ - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
+ - 💣 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
+ - 👉 [What are some unexpected celebrity look alikes?](http://9gag.com/gag/avy7KA5)<!-- MEMES:END -->
 
 ---
 

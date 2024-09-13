@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Bankman-Fried asks for a new trial in an appeal to the 2nd Circuit US Court of Appeals and directly attacks US District Judge Lewis Kaplan for alleged bias &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p25#a240913p25)
  - [23andMe agrees to pay $30 million to settle lawsuit over massive data breach](https://www.theverge.com/2024/9/13/24243986/23andme-settlement-dna-data-breach-lawsuit)
  - [Anker’s new $35 MagSafe gadget sticks SD cards to your iPhone](https://www.theverge.com/2024/9/13/24244018/anker-magnetic-card-reader-usb-c-iphone-prores-4k)
  - [Trump says he has &quot;absolutely no intention&quot; of selling his Trump Media stock when the lockup period expires; DJT initially popped 25%+, then closed up about 12% &lpar;CNBC&rpar;](http://www.techmeme.com/240913/p24#a240913p24)
- - [Alternative iPad app stores are coming on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)
- - [&#39;Flappy Bird&#39; resurrection is likely a ploy to push crypto](https://appleinsider.com/articles/24/09/13/flappy-bird-resurrection-is-likely-a-ploy-to-push-crypto?utm_medium=rss)<!-- TECH:END -->
+ - [Alternative iPad app stores are coming on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

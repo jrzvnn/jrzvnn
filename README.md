@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These boys remember it ... do you?](http://9gag.com/gag/aW4qX4d)
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 💣 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
  - 😝 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
- - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
+ - 💣 [All over...](http://9gag.com/gag/aD2zeyG)
+ - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 👉 [Happy Halloween](http://9gag.com/gag/aO8BMnv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FanDuel and Betfair&#39;s parent company, Flutter, agrees to acquire a 56% stake in Brazilian online gaming operator NSX for a cash consideration of about $350M &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240913/p10#a240913p10)
  - [Second Front, which helps companies deploy software in sensitive government networks, raised a $75M Series C led by Salesforce, sources say at a $750M valuation &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240913/p9#a240913p9)
  - [The 7 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
  - [The White House plans to curb the &quot;overuse and abuse&quot; of the de minimis loophole used by Shein and Temu, which exempts packages worth $800 or less from tariffs &lpar;CNBC&rpar;](http://www.techmeme.com/240913/p8#a240913p8)
- - [Here’s what you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
- - [Camera Control, iPhone 16 Pro, Apple Watch, and AirPods, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/13/camera-control-iphone-16-pro-apple-watch-and-airpods-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s what you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

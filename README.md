@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 😝 [How is this the same person?](http://9gag.com/gag/aD2zLLw)
- - 💣 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
- - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
- - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
+ - 😝 [Toretto\u00b4s crew has upped their game](http://9gag.com/gag/ary5710)
+ - 😝 [Men, has anyone given you a flower?](http://9gag.com/gag/aZZgKDn)
+ - 💣 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
+ - 👉 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
- - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
  - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
- - 👉 [A childhood horror classic](http://9gag.com/gag/aQze5zq)<!-- MEMES:END -->
+ - 💣 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
+ - 😝 [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
+ - 👉 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)<!-- MEMES:END -->
 
 ---
 

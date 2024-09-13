@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
- - 💣 [911](http://9gag.com/gag/aRBj9xM)
- - 😝 [\u201cNot much different than Tatsumaki power\u201d](http://9gag.com/gag/aGye640)
- - 👉 [Jon Bon Jovi talks a woman off the ledge of the John Seigenthaler Pedestrian Bridge downtown in Tennessee](http://9gag.com/gag/agmY9Qg)<!-- MEMES:END -->
+ - 😝 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
+ - 💣 [I know what I saw](http://9gag.com/gag/aNDzGqK)
+ - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
+ - 👉 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)<!-- MEMES:END -->
 
 ---
 

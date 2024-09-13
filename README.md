@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - 😝 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
+ - 😝 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
+ - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
  - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
- - 👉 [My mom bought this for me.](http://9gag.com/gag/agmYDXx)<!-- MEMES:END -->
+ - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
 
 ---
 

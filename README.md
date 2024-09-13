@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple to allow iPad users in the EU to install alternative app stores, starting with iPadOS 18 launch on September 16 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240913/p5#a240913p5)
  - [Beautiful 1.7-Liter Electric Kettle Review: When Form and Function Make Sense](https://www.wired.com/review/beautiful-by-drew-barrymore-electric-kettle-one-touch/)
+ - [Best CD Rates Today, Sept. 13, 2024: Don&#39;t Sleep on These High APYs. A Fed Rate Cut Is Looming](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-13-2024/#ftag=CAD590a51e)
  - [Online Apple Store is down ahead of the iPhone 16 preorders](https://appleinsider.com/articles/24/09/13/online-apple-store-is-down-ahead-of-the-iphone-16-preorders?utm_medium=rss)
- - [Netflix is ending support for some older iPhones and iPads](https://www.theverge.com/2024/9/13/24243597/netflix-app-support-ending-ios16-iphones-ipads)
- - [Elon Musk calls Australian government &quot;fascists&quot; after it unveiled a bill to fine online platforms up to 5% of their global revenue for enabling misinformation &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/240913/p4#a240913p4)<!-- TECH:END -->
+ - [Netflix is ending support for some older iPhones and iPads](https://www.theverge.com/2024/9/13/24243597/netflix-app-support-ending-ios16-iphones-ipads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

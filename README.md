@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro Max sees shipping date slip just minutes after preorders start](https://appleinsider.com/articles/24/09/13/iphone-16-pro-max-see-shipping-date-slip-just-minutes-after-preorders-start?utm_medium=rss)
- - [Save up to $1,000 when you preorder Apple&#39;s iPhone 16, iPhone 16 Pro or iPhone 16 Pro Max](https://appleinsider.com/articles/24/09/13/save-up-to-1000-when-you-preorder-apples-iphone-16-iphone-16-pro-or-iphone-16-pro-max?utm_medium=rss)
- - [Election Deniers Want AI Cameras to Stream Footage of Ballot Dropboxes](https://www.wired.com/story/election-deniers-livestream-voting-dropbox-wisconsin/)
- - [European iPad users can download from third-party app stores starting next week](https://www.theverge.com/2024/9/13/24243634/apple-ipad-eu-ipados-sideloading-alternative-app-store-date)
- - [A profile of Fei-Fei Li&#39;s World Labs, which aims to create &quot;spatial intelligence&quot; in AI and raised $230M from a16z and others, reportedly at a $1B valuation &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240913/p7#a240913p7)<!-- TECH:END -->
+ - [Here’s what you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
+ - [Camera Control, iPhone 16 Pro, Apple Watch, and AirPods, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/13/camera-control-iphone-16-pro-apple-watch-and-airpods-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The real cost of the PS5 Pro](https://www.theverge.com/2024/9/13/24243439/ps5-pro-iphone-16-google-ads-vergecast)
+ - [Alternative iPad app stores are coming to iPad on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

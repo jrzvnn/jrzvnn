@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail a bleak picture for startup founders in China; report: only 1,202 startups were founded in 2023 in the country compared to 51,302 in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/240913/p12#a240913p12)
  - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
  - [FanDuel and Betfair&#39;s parent company, Flutter, agrees to acquire a 56% stake in Brazilian online gaming operator NSX for a cash consideration of about $350M &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240913/p10#a240913p10)
  - [Second Front, which helps companies deploy software in sensitive government networks, raised a $75M Series C led by Salesforce, sources say at a $750M valuation &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240913/p9#a240913p9)
- - [The 7 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [The White House plans to curb the &quot;overuse and abuse&quot; of the de minimis loophole used by Shein and Temu, which exempts packages worth $800 or less from tariffs &lpar;CNBC&rpar;](http://www.techmeme.com/240913/p8#a240913p8)<!-- TECH:END -->
+ - [The 7 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

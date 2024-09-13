@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Come pixel-peep what the PS5 Pro can maybe actually do](https://www.theverge.com/2024/9/12/24243216/playstation-5-pro-ps5-big-4k-screenshots)
+ - [Best Wordle Tips and Tricks: Everything I Learned Playing for Almost Three Years](https://www.cnet.com/culture/best-wordle-tips-and-tricks-everything-i-learned-playing-for-almost-three-years/#ftag=CAD590a51e)
+ - [All 25 staffers of Annapurna&#39;s gaming division resigned this month after CEO Megan Ellison pulled out of talks to spin off the unit as an independent entity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240912/p40#a240912p40)
  - [Vox Media says its annual Code Conference has been put on hold, calling it a &quot;strong franchise&quot; but declining to share further information about its future &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/240912/p39#a240912p39)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [YC plans to expand to four cohorts per year, adding spring and fall sessions in 2025; each batch will be half the size of the most recent cohort of 256 startups &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240912/p38#a240912p38)
- - [The entire staff of beloved game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
- - [Want Free Grocery Delivery? You Can Bypass Instacart&#39;s Fee If You Do This](https://www.cnet.com/news/want-free-grocery-delivery-you-can-bypass-instacarts-8-fee-when-you-do-this/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

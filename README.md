@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Online Apple Store is down ahead of the iPhone 16 preorders](https://appleinsider.com/articles/24/09/13/online-apple-store-is-down-ahead-of-the-iphone-16-preorders?utm_medium=rss)
+ - [Netflix is ending support for some older iPhones and iPads](https://www.theverge.com/2024/9/13/24243597/netflix-app-support-ending-ios16-iphones-ipads)
  - [Elon Musk calls Australian government &quot;fascists&quot; after it unveiled a bill to fine online platforms up to 5% of their global revenue for enabling misinformation &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/240913/p4#a240913p4)
  - [In a provisional ruling, the CMA says Vodafone and Three&#39;s planned $19B merger could lead to higher prices, diminished service, and reduced investment in the UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p3#a240913p3)
- - [Phantom V Fold 2 Has Giant Battery but Also a Two-Year Old Processor](https://www.cnet.com/tech/mobile/phantom-v-fold-2-has-giant-battery-but-also-a-two-year-old-processor/#ftag=CAD590a51e)
- - [Best Self-Employment Tax Software: You Have 3 Days Left to Pay Your Quarterly Taxes](https://www.cnet.com/personal-finance/best-tax-software-for-self-employed/#ftag=CAD590a51e)
  - [This Is How Johnnie Walker Made the World’s Lightest Whisky Bottle](https://www.wired.com/story/this-is-how-johnnie-walker-made-the-worlds-lightest-whisky-bottle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

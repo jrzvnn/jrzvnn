@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
- - 😝 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
- - 💣 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 👉 [What are some unexpected celebrity look alikes?](http://9gag.com/gag/avy7KA5)<!-- MEMES:END -->
+ - 😝 [Why do all teenagers look like this?](http://9gag.com/gag/aZZgY9Q)
+ - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
+ - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
 
 ---
 

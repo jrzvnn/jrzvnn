@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
  - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
- - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
+ - 💣 [Patient](http://9gag.com/gag/aKGD5VO)
+ - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 👉 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)<!-- MEMES:END -->
 
 ---
 

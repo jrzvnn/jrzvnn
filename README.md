@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [MicroStrategy stock jumped 8%+ on Friday after founder Michael Saylor said it purchased another $1.1B worth of bitcoin, taking its bitcoin holdings to $14.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240913/p26#a240913p26)
  - [Sam Bankman-Fried asks for a new trial in an appeal to the 2nd Circuit US Court of Appeals and directly attacks US District Judge Lewis Kaplan for alleged bias &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p25#a240913p25)
  - [23andMe agrees to pay $30 million to settle lawsuit over massive data breach](https://www.theverge.com/2024/9/13/24243986/23andme-settlement-dna-data-breach-lawsuit)
- - [Anker’s new $35 MagSafe gadget sticks SD cards to your iPhone](https://www.theverge.com/2024/9/13/24244018/anker-magnetic-card-reader-usb-c-iphone-prores-4k)
- - [Trump says he has &quot;absolutely no intention&quot; of selling his Trump Media stock when the lockup period expires; DJT initially popped 25%+, then closed up about 12% &lpar;CNBC&rpar;](http://www.techmeme.com/240913/p24#a240913p24)<!-- TECH:END -->
+ - [Who Deserves to Win This Year&#39;s Emmy Awards? We&#39;ve Got the Answers](https://www.cnet.com/tech/services-and-software/who-deserves-to-win-this-years-emmy-awards-weve-got-the-answers/#ftag=CAD590a51e)
+ - [Don&#39;t Miss a Chance to Get Mint Mobile&#39;s Unlimited Wireless Plan for Just $15 a Month](https://www.cnet.com/deals/dont-miss-a-chance-to-get-mint-mobiles-unlimited-wireless-plan-for-just-15-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

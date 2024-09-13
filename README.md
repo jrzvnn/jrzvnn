@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yoink](http://9gag.com/gag/aMVA7oV)
- - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 💣 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
- - 👉 [What are some unexpected celebrity look alikes?](http://9gag.com/gag/avy7KA5)<!-- MEMES:END -->
+ - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 😝 [Mortified](http://9gag.com/gag/aAyD9O0)
+ - 💣 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
+ - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
 
 ---
 

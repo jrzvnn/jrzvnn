@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tables are turned](http://9gag.com/gag/aKGDXeN)
  - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - 😝 [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
- - 💣 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 😝 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
- - 👉 [Yoink](http://9gag.com/gag/aMVA7oV)<!-- MEMES:END -->
+ - 💣 [Smooth](http://9gag.com/gag/a34Mger)
+ - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
+ - 👉 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)<!-- MEMES:END -->
 
 ---
 

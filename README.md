@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
  - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 💣 [I&#39;m completely new to the lore of Warhammer 40k and hoped someone could recommend me a good book to start on. I love the heresy memes and want to find out where they come from.](http://9gag.com/gag/aMVA7ZG)
- - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
- - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
+ - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 😝 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
+ - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
 
 ---
 

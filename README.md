@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
  - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 😝 [Why do all teenagers look like this?](http://9gag.com/gag/aZZgY9Q)
- - 💣 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
- - 😝 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
- - 👉 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)<!-- MEMES:END -->
+ - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
+ - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
+ - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
  - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
- - 💣 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 👉 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)<!-- MEMES:END -->
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 💣 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
+ - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
 
 ---
 

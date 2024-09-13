@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix wants to stream live episodes of Hot Ones](https://www.theverge.com/2024/9/13/24243999/netflix-live-episodes-hot-ones)
- - [A TuSimple shareholder letter alleges &quot;potentially fraudulent activities&quot; as it tries to move ~$450M to China to pivot from self-driving trucks to AI animation &lpar;TechCrunch&rpar;](http://www.techmeme.com/240913/p22#a240913p22)
- - [The Music Industry’s ’90s Hard Drives Are Dying](https://www.wired.com/story/music-industry-hard-drive-storage-archives/)
- - [Now patched macOS Calendar exploit let hackers steal data from iCloud](https://appleinsider.com/articles/24/09/13/now-patched-macos-calendar-exploit-let-hackers-steal-data-from-icloud?utm_medium=rss)
- - [How Much Can You Earn by Depositing $500 a Month Into an HYSA?](https://www.cnet.com/personal-finance/if-you-deposit-500-into-an-hysa-each-month-heres-how-much-youll-have-in-1-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alternative iPad app stores are coming on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)
+ - [&#39;Flappy Bird&#39; resurrection is likely a ploy to push crypto](https://appleinsider.com/articles/24/09/13/flappy-bird-resurrection-is-likely-a-ploy-to-push-crypto?utm_medium=rss)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Brazil lifts the block on the bank accounts of X and Starlink after withdrawing ~$3.3M from the accounts to pay for fines imposed by the Supreme Court &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240913/p23#a240913p23)
+ - [iOS 18: How to Lock and Hide iPhone Apps for Additional Security](https://www.cnet.com/tech/services-and-software/ios-18-how-to-lock-and-hide-iphone-apps-for-additional-security/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

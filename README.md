@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
- - 😝 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
- - 💣 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
- - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
- - 👉 [Tables are turned](http://9gag.com/gag/aKGDXeN)<!-- MEMES:END -->
+ - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - 😝 [I agree](http://9gag.com/gag/aZZg5Pp)
+ - 💣 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)
+ - 😝 [There is hope gentlemen](http://9gag.com/gag/a7oDX6m)
+ - 👉 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)<!-- MEMES:END -->
 
 ---
 

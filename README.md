@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
- - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
  - 💣 [I&#39;m completely new to the lore of Warhammer 40k and hoped someone could recommend me a good book to start on. I love the heresy memes and want to find out where they come from.](http://9gag.com/gag/aMVA7ZG)
- - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
+ - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 ---
 

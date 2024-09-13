@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hands on with Apple&#39;s silicone cases for iPhone 16](https://appleinsider.com/articles/24/09/13/hands-on-with-apples-silicone-cases-for-iphone-16?utm_medium=rss)
+ - [iPhone 16: You Can Preorder Apple&#39;s New Phone Now. Trade-In Details and Today&#39;s Best Deals](https://www.cnet.com/deals/iphone-16-you-can-preorder-apples-new-phone-now-trade-in-details-and-todays-best-deals/#ftag=CAD590a51e)
  - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
- - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
- - [What the hell did I just watch?](https://www.theverge.com/24243766/megalopolis-review)
- - [Spotify begins piloting parent-managed accounts for kids under 13 on family plans in select markets, including Denmark, New Zealand, and Sweden &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240913/p17#a240913p17)<!-- TECH:END -->
+ - [Clear Your iPhone Cache Before You Upgrade to iOS 18](https://www.cnet.com/tech/services-and-software/clear-your-iphone-cache-before-you-upgrade-to-ios-18/#ftag=CAD590a51e)
+ - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

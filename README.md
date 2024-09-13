@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk calls Australian government &quot;fascists&quot; after it unveiled a bill to fine online platforms up to 5% of their global revenue for enabling misinformation &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/240913/p4#a240913p4)
  - [In a provisional ruling, the CMA says Vodafone and Three&#39;s planned $19B merger could lead to higher prices, diminished service, and reduced investment in the UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p3#a240913p3)
- - [This Is How Johnnie Walker Made the World’s Lightest Whisky Bottle](https://www.wired.com/story/this-is-how-johnnie-walker-made-the-worlds-lightest-whisky-bottle/)
- - [Q&amp;A with Alibaba.com president Kuo Zhang on the enduring importance of the US market, navigating geopolitical tensions, competing with Shein and Temu, and more &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240913/p2#a240913p2)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-13/#ftag=CAD590a51e)
- - [16 Cooking Tools Every College Student Needs](https://www.cnet.com/news/best-cooking-appliances-to-bring-to-a-college-dorm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Phantom V Fold 2 Has Giant Battery but Also a Two-Year Old Processor](https://www.cnet.com/tech/mobile/phantom-v-fold-2-has-giant-battery-but-also-a-two-year-old-processor/#ftag=CAD590a51e)
+ - [Best Self-Employment Tax Software: You Have 3 Days Left to Pay Your Quarterly Taxes](https://www.cnet.com/personal-finance/best-tax-software-for-self-employed/#ftag=CAD590a51e)
+ - [This Is How Johnnie Walker Made the World’s Lightest Whisky Bottle](https://www.wired.com/story/this-is-how-johnnie-walker-made-the-worlds-lightest-whisky-bottle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

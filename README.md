@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
+ - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
+ - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 💣 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
+ - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 👉 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)<!-- MEMES:END -->
 
 ---
 

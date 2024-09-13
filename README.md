@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
  - 😝 [Mortified](http://9gag.com/gag/aAyD9O0)
- - 💣 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
+ - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
 
 ---
 

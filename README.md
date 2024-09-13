@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines is adding free Starlink Wi-Fi to all of its planes](https://www.theverge.com/2024/9/13/24243594/united-airlines-free-starlink-wi-fi-connectivity)
- - [Preorders for iPhone 16 and iPhone 16 Pro have begun](https://appleinsider.com/articles/24/09/13/preorders-for-iphone-16-and-iphone-16-pro-have-begun?utm_medium=rss)
- - [The Godmother of AI Wants Everyone to Be a World Builder](https://www.wired.com/story/plaintext-the-godmother-of-ai-wants-everyone-to-be-a-world-builder/)
- - [ReMarkable Paper Pro Review: A Colorful Delight](https://www.wired.com/review/remarkable-paper-pro/)
- - [These are the best iPhone 16 Pro and iPhone 16 Pro Max cases you can snag right now](https://appleinsider.com/inside/iphone-16/best/these-are-the-best-iphone-16-pro-and-iphone-16-pro-max-cases-you-can-snag-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro Max sees shipping date slip just minutes after preorders start](https://appleinsider.com/articles/24/09/13/iphone-16-pro-max-see-shipping-date-slip-just-minutes-after-preorders-start?utm_medium=rss)
+ - [Save up to $1,000 when you preorder Apple&#39;s iPhone 16, iPhone 16 Pro or iPhone 16 Pro Max](https://appleinsider.com/articles/24/09/13/save-up-to-1000-when-you-preorder-apples-iphone-16-iphone-16-pro-or-iphone-16-pro-max?utm_medium=rss)
+ - [Election Deniers Want AI Cameras to Stream Footage of Ballot Dropboxes](https://www.wired.com/story/election-deniers-livestream-voting-dropbox-wisconsin/)
+ - [European iPad users can download from third-party app stores starting next week](https://www.theverge.com/2024/9/13/24243634/apple-ipad-eu-ipados-sideloading-alternative-app-store-date)
+ - [A profile of Fei-Fei Li&#39;s World Labs, which aims to create &quot;spatial intelligence&quot; in AI and raised $230M from a16z and others, reportedly at a $1B valuation &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240913/p7#a240913p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

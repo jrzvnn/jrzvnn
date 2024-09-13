@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - 😝 [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
- - 💣 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
- - 😝 [Yoink](http://9gag.com/gag/aMVA7oV)
- - 👉 [This is toxic](http://9gag.com/gag/aAyD5Zd)<!-- MEMES:END -->
+ - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
+ - 😝 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
+ - 💣 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify begins piloting parent-managed accounts for kids under 13 on family plans in select markets, including Denmark, New Zealand, and Sweden &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240913/p17#a240913p17)
  - [Sources: the European Commission is poised to conclude X does not fall under its Digital Markets Act, after a probe found X&#39;s impact on EU markets is too small &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240913/p16#a240913p16)
  - [Spotify is testing a new way to keep kids songs out of your listening history](https://www.theverge.com/2024/9/13/24243778/spotify-managed-account-parent-child-account-controls)
  - [Sources: CoreWeave is in talks to arrange a sale of existing shares, valuing it at $23B, up from $19.1B in May; shareholders may sell up to $500M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p15#a240913p15)
- - [United Airlines plans to start testing Starlink internet service early next year, with the first passenger flights likely equipped with free Wi-Fi later in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240913/p14#a240913p14)
- - [The OnePlus Watch 2, one of our top Android smartwatch picks, hits its best price](https://www.theverge.com/2024/9/13/24242856/oneplus-watch-2-ember-mug-2-deal-sale)<!-- TECH:END -->
+ - [United Airlines plans to start testing Starlink internet service early next year, with the first passenger flights likely equipped with free Wi-Fi later in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240913/p14#a240913p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

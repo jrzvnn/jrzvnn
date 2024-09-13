@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 😝 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
- - 💣 [I know what I saw](http://9gag.com/gag/aNDzGqK)
- - 😝 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)
- - 👉 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)<!-- MEMES:END -->
+ - 😝 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
+ - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - 💣 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
+ - 😝 [I know what I saw](http://9gag.com/gag/aNDzGqK)
+ - 👉 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)<!-- MEMES:END -->
 
 ---
 

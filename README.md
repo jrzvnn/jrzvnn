@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Alibaba.com president Kuo Zhang on the enduring importance of the US market, navigating geopolitical tensions, competing with Shein and Temu, and more &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240913/p2#a240913p2)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-13/#ftag=CAD590a51e)
  - [16 Cooking Tools Every College Student Needs](https://www.cnet.com/news/best-cooking-appliances-to-bring-to-a-college-dorm/#ftag=CAD590a51e)
  - [OpenAI&#39;s o1 models aren&#39;t as simple as the next step up from GPT-4o as they introduce major cost and performance trade-offs in exchange for improved &quot;reasoning&quot; &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240913/p1#a240913p1)
- - [Researchers detail GAZEploit, a now-fixed Vision Pro vulnerability allowing hackers to determine which key a user is typing based on the user&#39;s eye movement &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240912/p43#a240912p43)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 13, #194](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-194/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail GAZEploit, a now-fixed Vision Pro vulnerability allowing hackers to determine which key a user is typing based on the user&#39;s eye movement &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240912/p43#a240912p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

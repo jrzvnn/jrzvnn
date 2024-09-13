@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Apple&#39;s silicone cases for iPhone 16](https://appleinsider.com/articles/24/09/13/hands-on-with-apples-silicone-cases-for-iphone-16?utm_medium=rss)
- - [iPhone 16: You Can Preorder Apple&#39;s New Phone Now. Trade-In Details and Today&#39;s Best Deals](https://www.cnet.com/deals/iphone-16-you-can-preorder-apples-new-phone-now-trade-in-details-and-todays-best-deals/#ftag=CAD590a51e)
- - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
- - [Clear Your iPhone Cache Before You Upgrade to iOS 18](https://www.cnet.com/tech/services-and-software/clear-your-iphone-cache-before-you-upgrade-to-ios-18/#ftag=CAD590a51e)
- - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)<!-- TECH:END -->
+ - [Keurig caught making ‘inaccurate’ recycling claims about its coffee pods](https://www.theverge.com/2024/9/13/24243806/keurig-recycling-coffee-pods-sec-charges-settlement)
+ - [The $129 AirPods 4 Have Features the $549 AirPods Max Don&#39;t](https://www.wired.com/story/the-airpods-4-have-features-the-airpods-max-dont/)
+ - [The Bird Flu Outbreak Takes a Mysterious Turn](https://www.wired.com/story/the-bird-flu-outbreak-takes-a-mysterious-turn-missouri-avian-influenza/)
+ - [Is this weirdly shaped, canary yellow thing Tesla’s robotaxi?](https://www.theverge.com/2024/9/13/24243807/tesla-robotaxi-spy-shot-reddit-yellow-camo-shape)
+ - [Google debuts DataGemma models that use real world data from Google-created Data Commons to reduce hallucinations in queries revolving around statistical data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240913/p18#a240913p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

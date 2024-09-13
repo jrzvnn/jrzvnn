@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is the first smart lock to support ultra wideband](https://www.theverge.com/2024/9/13/24243694/ultraloq-bolt-mission-uwb-matter-smart-lock-apple-home)
+ - [Bungie will compensate an artist after its Destiny 2 Nerf blaster ripped off their work](https://www.theverge.com/2024/9/13/24243893/destiny-2-nerf-ace-of-spades-stole-artists-work)
+ - [Apple files to drop its NSO suit, citing Israeli government&#39;s alleged seizure of NSO files, and saying Apple&#39;s court disclosures may aid NSO and other hackers &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240913/p19#a240913p19)
  - [Keurig caught making ‘inaccurate’ recycling claims about its coffee pods](https://www.theverge.com/2024/9/13/24243806/keurig-recycling-coffee-pods-sec-charges-settlement)
- - [The $129 AirPods 4 Have Features the $549 AirPods Max Don&#39;t](https://www.wired.com/story/the-airpods-4-have-features-the-airpods-max-dont/)
- - [The Bird Flu Outbreak Takes a Mysterious Turn](https://www.wired.com/story/the-bird-flu-outbreak-takes-a-mysterious-turn-missouri-avian-influenza/)
- - [Is this weirdly shaped, canary yellow thing Tesla’s robotaxi?](https://www.theverge.com/2024/9/13/24243807/tesla-robotaxi-spy-shot-reddit-yellow-camo-shape)
- - [Google debuts DataGemma models that use real world data from Google-created Data Commons to reduce hallucinations in queries revolving around statistical data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240913/p18#a240913p18)<!-- TECH:END -->
+ - [The $129 AirPods 4 Have Features the $549 AirPods Max Don&#39;t](https://www.wired.com/story/the-airpods-4-have-features-the-airpods-max-dont/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

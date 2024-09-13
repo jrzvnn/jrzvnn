@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
- - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
- - 💣 [Yoink](http://9gag.com/gag/aMVA7oV)
- - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 👉 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)<!-- MEMES:END -->
+ - 😝 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
+ - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 💣 [I&#39;m completely new to the lore of Warhammer 40k and hoped someone could recommend me a good book to start on. I love the heresy memes and want to find out where they come from.](http://9gag.com/gag/aMVA7ZG)
+ - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
 
 ---
 

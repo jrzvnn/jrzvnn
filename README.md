@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
- - 💣 [All over...](http://9gag.com/gag/aD2zeyG)
- - 😝 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - 👉 [Happy Halloween](http://9gag.com/gag/aO8BMnv)<!-- MEMES:END -->
+ - 😝 [Testing the durability of a Toyota Hilux](http://9gag.com/gag/aRBjpDQ)
+ - 💣 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
+ - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
+ - 👉 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)<!-- MEMES:END -->
 
 ---
 

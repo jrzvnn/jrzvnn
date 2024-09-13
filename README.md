@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the best iPhone 16 Pro and iPhone 16 Pro Max cases you can snag right now](https://appleinsider.com/inside/iphone-16/best/these-are-the-best-iphone-16-pro-and-iphone-16-pro-max-cases-you-can-snag-right-now?utm_medium=rss)
+ - [The best cases you can get for your iPhone 16 and iPhone 16 Plus](https://appleinsider.com/inside/iphone-16/best/the-best-cases-you-can-get-for-your-iphone-16-and-iphone-16-plus?utm_medium=rss)
  - [iPhone 16 vs iPhone 15 compared - the iPhone for the rest of us](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-15-compared---the-iphone-for-the-rest-of-us?utm_medium=rss)
  - [Reddit’s ‘Celebrity Number Six’ Win Was Almost a Catastrophe—Thanks to AI](https://www.wired.com/story/reddit-celebrity-number-six-ai/)
- - [The Coast Guard’s OceanGate Hearings Start Next Week—but Key Witnesses Won’t Appear](https://www.wired.com/story/the-coast-guards-oceangate-hearings-start-next-week-but-key-witnesses-wont-appear/)
- - [Apple to allow alternative app stores and browser engines on iPads in the EU with iPadOS 18 on September 16, after the EU applied DMA rules on iPadOS in April &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240913/p5#a240913p5)
- - [Key Mortgage Refinance Rate Moves Up: Refinance Rates for Sept. 13, 2024](https://www.cnet.com/personal-finance/mortgages/key-mortgage-refinance-rate-moves-up-refinance-rates-for-sept-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Coast Guard’s OceanGate Hearings Start Next Week—but Key Witnesses Won’t Appear](https://www.wired.com/story/the-coast-guards-oceangate-hearings-start-next-week-but-key-witnesses-wont-appear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

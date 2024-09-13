@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 💣 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
  - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
- - 👉 [Happy Halloween](http://9gag.com/gag/aO8BMnv)<!-- MEMES:END -->
+ - 💣 [College kid slowly realizes he&#39;s in the wrong house.](http://9gag.com/gag/ae9eB8B)
+ - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
+ - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
 
 ---
 

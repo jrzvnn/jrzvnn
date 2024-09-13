@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
- - 💣 [I&#39;m completely new to the lore of Warhammer 40k and hoped someone could recommend me a good book to start on. I love the heresy memes and want to find out where they come from.](http://9gag.com/gag/aMVA7ZG)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)<!-- MEMES:END -->
+ - 😝 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
+ - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
+ - 💣 [Yoink](http://9gag.com/gag/aMVA7oV)
+ - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
+ - 👉 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)<!-- MEMES:END -->
 
 ---
 

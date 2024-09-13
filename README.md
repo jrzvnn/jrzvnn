@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do all teenagers look like this?](http://9gag.com/gag/aZZgY9Q)
  - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
+ - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
 
 ---
 

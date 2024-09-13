@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [Testing the durability of a Toyota Hilux](http://9gag.com/gag/aRBjpDQ)
- - 💣 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
- - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
- - 👉 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)<!-- MEMES:END -->
+ - 😝 [Magic rocks logic](http://9gag.com/gag/a4PGXVZ)
+ - 😝 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
+ - 💣 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 😝 [Owned](http://9gag.com/gag/aZZg6G6)
+ - 👉 [Double face](http://9gag.com/gag/a0e5rbd)<!-- MEMES:END -->
 
 ---
 

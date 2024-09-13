@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Apple&#39;s silicone cases for iPhone 16](https://appleinsider.com/articles/24/09/13/hands-on-with-apples-silicone-cases-for-iphone-16?utm_medium=rss)
  - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
  - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
  - [What the hell did I just watch?](https://www.theverge.com/24243766/megalopolis-review)
- - [Spotify begins piloting parent-managed accounts for kids under 13 on family plans in select markets, including Denmark, New Zealand, and Sweden &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240913/p17#a240913p17)
- - [Sources: the European Commission is poised to conclude X does not fall under its Digital Markets Act, after a probe found X&#39;s impact on EU markets is too small &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240913/p16#a240913p16)<!-- TECH:END -->
+ - [Spotify begins piloting parent-managed accounts for kids under 13 on family plans in select markets, including Denmark, New Zealand, and Sweden &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240913/p17#a240913p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beautiful 1.7-Liter Electric Kettle Review: When Form and Function Make Sense](https://www.wired.com/review/beautiful-by-drew-barrymore-electric-kettle-one-touch/)
+ - [Best CD Rates Today, Sept. 13, 2024: Don&#39;t Sleep on These High APYs. A Fed Rate Cut Is Looming](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-13-2024/#ftag=CAD590a51e)
  - [Online Apple Store is down ahead of the iPhone 16 preorders](https://appleinsider.com/articles/24/09/13/online-apple-store-is-down-ahead-of-the-iphone-16-preorders?utm_medium=rss)
  - [Netflix is ending support for some older iPhones and iPads](https://www.theverge.com/2024/9/13/24243597/netflix-app-support-ending-ios16-iphones-ipads)
- - [Elon Musk calls Australian government &quot;fascists&quot; after it unveiled a bill to fine online platforms up to 5% of their global revenue for enabling misinformation &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/240913/p4#a240913p4)
- - [In a provisional ruling, the CMA says Vodafone and Three&#39;s planned $19B merger could lead to higher prices, diminished service, and reduced investment in the UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p3#a240913p3)
- - [Phantom V Fold 2 Has Giant Battery but Also a Two-Year Old Processor](https://www.cnet.com/tech/mobile/phantom-v-fold-2-has-giant-battery-but-also-a-two-year-old-processor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk calls Australian government &quot;fascists&quot; after it unveiled a bill to fine online platforms up to 5% of their global revenue for enabling misinformation &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/240913/p4#a240913p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

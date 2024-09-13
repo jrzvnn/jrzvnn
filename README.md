@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [An EEOC analysis finds women made up 22.6% of US workers in high-tech roles in 2022, similar to the 22% in 2005, even as the number of lucrative jobs has soared &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240913/p27#a240913p27)
- - [56 Best Advent Calendars You Can Get in 2024](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
  - [Is That Text Message From Your Bank Legit? How to Detect and Avoid SMS Phishing Scams](https://www.cnet.com/personal-finance/banking/is-that-text-message-from-your-bank-legit-how-to-detect-and-avoid-sms-phishing-scams/#ftag=CAD590a51e)
+ - [56 Best Advent Calendars You Can Get in 2024](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
  - [MicroStrategy stock jumped 8%+ on Friday after founder Michael Saylor said it purchased another $1.1B worth of bitcoin, taking its bitcoin holdings to $14.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240913/p26#a240913p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

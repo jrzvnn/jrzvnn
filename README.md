@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know what I saw](http://9gag.com/gag/aNDzGqK)
- - 😝 [Jon Bon Jovi talks a woman off the ledge of the John Seigenthaler Pedestrian Bridge downtown in Tennessee](http://9gag.com/gag/agmY9Qg)
- - 💣 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
- - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
- - 👉 [A childhood horror classic](http://9gag.com/gag/aQze5zq)<!-- MEMES:END -->
+ - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
+ - 💣 [911](http://9gag.com/gag/aRBj9xM)
+ - 😝 [\u201cNot much different than Tatsumaki power\u201d](http://9gag.com/gag/aGye640)
+ - 👉 [Jon Bon Jovi talks a woman off the ledge of the John Seigenthaler Pedestrian Bridge downtown in Tennessee](http://9gag.com/gag/agmY9Qg)<!-- MEMES:END -->
 
 ---
 

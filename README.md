@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s How to Spot Great Wine at a Grocery Store](https://www.cnet.com/how-to/this-is-the-best-wine-to-buy-at-a-grocery-store/#ftag=CAD590a51e)
  - [Apple files to stop NSO Group lawsuit over fears of data leaks](https://appleinsider.com/articles/24/09/13/apple-files-to-stop-nso-group-lawsuit-over-fears-of-data-leaks?utm_medium=rss)
  - [Snappy could improve smartphone photography with a stabilized grip](https://www.theverge.com/2024/9/13/24243735/snappy-smartphone-photography-grip-kickstarter)
  - [This Digital Archivist Believes Hollywood&#39;s &#39;Competition Era&#39; Is Over](https://www.wired.com/story/dial-up-maya-cade-black-film-archive/)
- - [Filing: 23andMe will pay $30M to settle a lawsuit for failing to protect the privacy of 6.9M customers whose personal info was exposed in a 2023 data breach &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240913/p20#a240913p20)
- - [This is the first smart lock to support ultra wideband](https://www.theverge.com/2024/9/13/24243694/ultraloq-bolt-mission-uwb-matter-smart-lock-apple-home)<!-- TECH:END -->
+ - [Fall Equinox 2024 Is Coming Up Fast: Everything You Need to Know](https://www.cnet.com/science/fall-equinox-2024-is-coming-up-fast-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

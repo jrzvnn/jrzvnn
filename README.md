@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House plans to curb the &quot;overuse and abuse&quot; of the de minimis loophole used by Shein and Temu, which exempts packages worth $800 or less from tariffs &lpar;CNBC&rpar;](http://www.techmeme.com/240913/p8#a240913p8)
  - [Here’s what you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
  - [Camera Control, iPhone 16 Pro, Apple Watch, and AirPods, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/13/camera-control-iphone-16-pro-apple-watch-and-airpods-on-the-appleinsider-podcast?utm_medium=rss)
  - [The real cost of the PS5 Pro](https://www.theverge.com/2024/9/13/24243439/ps5-pro-iphone-16-google-ads-vergecast)
- - [Alternative iPad app stores are coming to iPad on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)
- - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
+ - [Alternative iPad app stores are coming to iPad on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

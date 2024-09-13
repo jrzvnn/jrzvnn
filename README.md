@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit’s ‘Celebrity Number Six’ Win Was Almost a Catastrophe—Thanks to AI](https://www.wired.com/story/reddit-celebrity-number-six-ai/)
+ - [The Coast Guard’s OceanGate Hearings Start Next Week—but Key Witnesses Won’t Appear](https://www.wired.com/story/the-coast-guards-oceangate-hearings-start-next-week-but-key-witnesses-wont-appear/)
  - [Apple to allow alternative app stores and browser engines on iPads in the EU with iPadOS 18 on September 16, after the EU applied DMA rules on iPadOS in April &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240913/p5#a240913p5)
  - [Key Mortgage Refinance Rate Moves Up: Refinance Rates for Sept. 13, 2024](https://www.cnet.com/personal-finance/mortgages/key-mortgage-refinance-rate-moves-up-refinance-rates-for-sept-13-2024/#ftag=CAD590a51e)
- - [Small Improvements in Mortgage Rates: Mortgage Interest Rates Today for Sept. 13, 2024](https://www.cnet.com/personal-finance/mortgages/small-improvements-in-mortgage-rates-mortgage-interest-rates-today-for-sept-13-2024/#ftag=CAD590a51e)
- - [Beautiful 1.7-Liter Electric Kettle Review: When Form and Function Make Sense](https://www.wired.com/review/beautiful-by-drew-barrymore-electric-kettle-one-touch/)
- - [Best Tax Software: Freelancers, Pay Your Quarterly Taxes by September 16](https://www.cnet.com/personal-finance/best-tax-software/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Small Improvements in Mortgage Rates: Mortgage Interest Rates Today for Sept. 13, 2024](https://www.cnet.com/personal-finance/mortgages/small-improvements-in-mortgage-rates-mortgage-interest-rates-today-for-sept-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
- - 😝 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
- - 💣 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
- - 😝 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
- - 👉 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)<!-- MEMES:END -->
+ - 😝 [I know what I saw](http://9gag.com/gag/aNDzGqK)
+ - 😝 [Jon Bon Jovi talks a woman off the ledge of the John Seigenthaler Pedestrian Bridge downtown in Tennessee](http://9gag.com/gag/agmY9Qg)
+ - 💣 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)
+ - 😝 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 👉 [A childhood horror classic](http://9gag.com/gag/aQze5zq)<!-- MEMES:END -->
 
 ---
 

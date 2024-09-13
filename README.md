@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 😝 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 💣 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)
- - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 👉 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)<!-- MEMES:END -->
+ - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
+ - 😝 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
+ - 💣 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 👉 [What are some unexpected celebrity look alikes?](http://9gag.com/gag/avy7KA5)<!-- MEMES:END -->
 
 ---
 

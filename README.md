@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - 😝 [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
- - 💣 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
- - 😝 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 👉 [Yoink](http://9gag.com/gag/aMVA7oV)<!-- MEMES:END -->
+ - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 😝 [How is this the same person?](http://9gag.com/gag/aD2zLLw)
+ - 💣 [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
+ - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 ---
 

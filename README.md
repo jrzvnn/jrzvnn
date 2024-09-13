@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix wants to stream live episodes of Hot Ones](https://www.theverge.com/2024/9/13/24243999/netflix-live-episodes-hot-ones)
+ - [A TuSimple shareholder letter alleges &quot;potentially fraudulent activities&quot; as it tries to move ~$450M to China to pivot from self-driving trucks to AI animation &lpar;TechCrunch&rpar;](http://www.techmeme.com/240913/p22#a240913p22)
  - [The Music Industry’s ’90s Hard Drives Are Dying](https://www.wired.com/story/music-industry-hard-drive-storage-archives/)
  - [Now patched macOS Calendar exploit let hackers steal data from iCloud](https://appleinsider.com/articles/24/09/13/now-patched-macos-calendar-exploit-let-hackers-steal-data-from-icloud?utm_medium=rss)
- - [How to cross-post your Threads posts to the fediverse](https://www.theverge.com/24107998/threads-fediverse-mastodon-how-to)
- - [Apple still has a lot of new hardware to release before the end of 2024](https://appleinsider.com/articles/24/09/13/apple-still-has-a-lot-of-new-hardware-to-release-before-the-end-of-2024?utm_medium=rss)
- - [Best Buy drops M3 MacBook Pro to record low $1,199 with Plus](https://appleinsider.com/articles/24/09/13/best-buy-drops-m3-macbook-pro-to-record-low-1199-with-plus?utm_medium=rss)<!-- TECH:END -->
+ - [How Much Can You Earn by Depositing $500 a Month Into an HYSA?](https://www.cnet.com/personal-finance/if-you-deposit-500-into-an-hysa-each-month-heres-how-much-youll-have-in-1-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

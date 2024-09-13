@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [These boys remember it ... do you?](http://9gag.com/gag/aW4qX4d)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 💣 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
  - 😝 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
- - 😝 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
  - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
 
 ---

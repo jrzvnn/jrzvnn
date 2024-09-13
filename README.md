@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every, which offers startups an all-in-one finance and human resources suite that combines banking, cards, tax, payroll, and more, raised a $22.5M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240912/p41#a240912p41)
  - [Come pixel-peep what the PS5 Pro can maybe actually do](https://www.theverge.com/2024/9/12/24243216/playstation-5-pro-ps5-big-4k-screenshots)
  - [Best Wordle Tips and Tricks: Everything I Learned Playing for Almost Three Years](https://www.cnet.com/culture/best-wordle-tips-and-tricks-everything-i-learned-playing-for-almost-three-years/#ftag=CAD590a51e)
  - [All 25 staffers of Annapurna&#39;s gaming division resigned this month after CEO Megan Ellison pulled out of talks to spin off the unit as an independent entity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240912/p40#a240912p40)
- - [Vox Media says its annual Code Conference has been put on hold, calling it a &quot;strong franchise&quot; but declining to share further information about its future &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/240912/p39#a240912p39)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Vox Media says its annual Code Conference has been put on hold, calling it a &quot;strong franchise&quot; but declining to share further information about its future &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/240912/p39#a240912p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

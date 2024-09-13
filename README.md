@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
- - 💣 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 👉 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)<!-- MEMES:END -->
+ - 😝 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
+ - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
+ - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 👉 [Owned](http://9gag.com/gag/aZZg6G6)<!-- MEMES:END -->
 
 ---
 

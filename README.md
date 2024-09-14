@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ditch the Melatonin for These 7 All-Natural Sleep Aids](https://www.cnet.com/health/sleep/ditch-the-melatonin-for-these-7-all-natural-sleep-aids/#ftag=CAD590a51e)
  - [NASA’s Starliner astronauts don’t feel ‘let down’ by Boeing’s spacecraft](https://www.theverge.com/2024/9/14/24244790/nasa-starliner-astronauts-suni-williams-butch-wilmore-press-conference-boeing)
- - [Best Internet Providers in Jacksonville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-nc/#ftag=CAD590a51e)
- - [Apple&#39;s Activation Lock for iPhone components will make a huge dent in the market for stolen iPhones, though it introduces another barrier to DIY repairs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240914/p9#a240914p9)
- - [UFC 306 Sean O&#39;Malley vs. Merab Dvalishvili: Watch Livestream, Start Time, Full Card](https://www.cnet.com/tech/services-and-software/ufc-306-sean-omalley-vs-merab-dvalishvili-watch-livestream-start-time-full-card/#ftag=CAD590a51e)
- - [8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick)<!-- TECH:END -->
+ - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
+ - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
+ - [Best Vacuum Cleaners of 2024](https://www.cnet.com/home/kitchen-and-household/best-vacuum-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

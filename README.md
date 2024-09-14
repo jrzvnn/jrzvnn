@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 💣 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 😝 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
- - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
+ - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 💣 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)
+ - 😝 [These boys remember it ... do you?](http://9gag.com/gag/aW4qX4d)
+ - 👉 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)<!-- MEMES:END -->
 
 ---
 

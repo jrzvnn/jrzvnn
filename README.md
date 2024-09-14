@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple confirms the iPhone 16 has 8GB of RAM](https://www.theverge.com/2024/9/14/24244540/apple-confirms-iphone-16-pro-max-8gb-ram-apple-intelligence)
  - [Amazon’s Audiobook Narrators Can Now Make Their Own AI Voice Clones](https://www.wired.com/story/audible-audiobook-narrators-ai-voice-clones/)
  - [The Best Sex Toys &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [Apple’s Visual Intelligence could be a step toward Apple glasses](https://www.theverge.com/2024/9/14/24243814/apple-iphone-16-visual-intelligence-glasses)
- - [Disney has struck a deal to bring Monday Night Football back to DirecTV](https://www.theverge.com/2024/9/14/24244513/disney-directv-carriage-dispute-over-espn-football-disney-plus)
- - [A profile of Chase Herro, who calls himself the &quot;dirtbag of the internet&quot; and sources say is the dealmaker behind Trump&#39;s crypto project World Liberty Financial &lpar;Bloomberg&rpar;](http://www.techmeme.com/240914/p6#a240914p6)<!-- TECH:END -->
+ - [Disney has struck a deal to bring Monday Night Football back to DirecTV](https://www.theverge.com/2024/9/14/24244513/disney-directv-carriage-dispute-over-espn-football-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

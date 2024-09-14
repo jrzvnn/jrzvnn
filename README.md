@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they doing?](http://9gag.com/gag/aqy13xp)
+ - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
  - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 💣 [Nani](http://9gag.com/gag/aKGDReZ)
- - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 👉 [Lolololol](http://9gag.com/gag/a5Qn8oo)<!-- MEMES:END -->
+ - 💣 [Lolololol](http://9gag.com/gag/a5Qn8oo)
+ - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
+ - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
 
 ---
 

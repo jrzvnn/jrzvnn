@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 👉 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)<!-- MEMES:END -->
+ - 😝 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
+ - 😝 [A family](http://9gag.com/gag/aYQ43Xv)
+ - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
+ - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 👉 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)<!-- MEMES:END -->
 
 ---
 

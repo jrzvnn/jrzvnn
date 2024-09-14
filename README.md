@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
+ - 😝 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
+ - 💣 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
  - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
 
 ---

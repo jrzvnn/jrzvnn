@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 Pro teardown: impressive repairability for a foldable, with a highly modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)
+ - [Google Pixel 9 Pro Fold teardown: impressive repairability for a foldable, with a modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)
  - [DirecTV-Disney Reach Deal That Ends ESPN, ABC Blackout](https://www.cnet.com/tech/services-and-software/directv-disney-reach-deal-that-ends-espn-abc-blackout/#ftag=CAD590a51e)
  - [Getting Morning Sunlight Can Improve Your Sleep Health](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)
  - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)

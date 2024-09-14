@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [All over...](http://9gag.com/gag/aD2zeyG)
  - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
  - 💣 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [Got hit today staying up against a molester in germany](http://9gag.com/gag/awyQ6wD)
- - 👉 [They told him not to jump](http://9gag.com/gag/aXPvBdb)<!-- MEMES:END -->
+ - 😝 [They told him not to jump](http://9gag.com/gag/aXPvBdb)
+ - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
 
 ---
 

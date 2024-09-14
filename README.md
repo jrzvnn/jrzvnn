@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Owned](http://9gag.com/gag/aZZg6G6)
+ - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
  - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 💣 [All over...](http://9gag.com/gag/aD2zeyG)
- - 😝 [They told him not to jump](http://9gag.com/gag/aXPvBdb)
- - 👉 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)<!-- MEMES:END -->
+ - 💣 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 👉 [Patient](http://9gag.com/gag/aKGD5VO)<!-- MEMES:END -->
 
 ---
 

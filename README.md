@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
- - 💣 [Owned](http://9gag.com/gag/aZZg6G6)
- - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
- - 👉 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)<!-- MEMES:END -->
+ - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 😝 [Toretto\u00b4s crew has upped their game](http://9gag.com/gag/ary5710)
+ - 💣 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 👉 [Lolololol](http://9gag.com/gag/a5Qn8oo)<!-- MEMES:END -->
 
 ---
 

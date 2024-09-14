@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
  - [An overview of California&#39;s AI safety bill SB 1047, which easily passed the state&#39;s legislature, as it awaits Governor Newsom&#39;s signature or veto before Sep. 30 &lpar;Financial Times&rpar;](http://www.techmeme.com/240914/p5#a240914p5)
  - [An ER Doctor’s Cure for America’s Gun Epidemic](https://www.wired.com/story/an-er-doctors-cure-for-americas-gun-epidemic/)
  - [Security News This Week: A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions](https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/)
- - [What Is Wi-Fi 7? Everything to Know About the Next Standard](https://www.wired.com/story/what-is-wi-fi-7/)
- - [iPhone 16 Enhances Vision Pro Experience with Spatial Photos](https://www.cnet.com/tech/mobile/iphone-16-enhances-vision-pro-experience-with-spatial-photos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is Wi-Fi 7? Everything to Know About the Next Standard](https://www.wired.com/story/what-is-wi-fi-7/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

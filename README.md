@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 😝 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
- - 💣 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
- - 😝 [Rare Animal Discovered in Amazon Rainforest!](http://9gag.com/gag/a2v43mY)
- - 👉 [These boys remember it ... do you?](http://9gag.com/gag/aW4qX4d)<!-- MEMES:END -->
+ - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 💣 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
+ - 😝 [College kid slowly realizes he&#39;s in the wrong house.](http://9gag.com/gag/ae9eB8B)
+ - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
 
 ---
 

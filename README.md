@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 💣 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 😝 [College kid slowly realizes he&#39;s in the wrong house.](http://9gag.com/gag/ae9eB8B)
- - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
+ - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 💣 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
+ - 👉 [To all 9 gagers](http://9gag.com/gag/apRQw2D)<!-- MEMES:END -->
 
 ---
 

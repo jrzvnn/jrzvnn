@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)
- - 😝 [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
- - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
- - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
+ - 😝 [Pulling yourself over](http://9gag.com/gag/abAz7N9)
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 💣 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
+ - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
 
 ---
 

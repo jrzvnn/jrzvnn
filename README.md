@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do You Actually Have Cortisol Face? An Expert Weighs In](https://www.cnet.com/health/medical/do-you-have-cortisol-face-expert/#ftag=CAD590a51e)
+ - [You Can Summarize a Google Doc With AI. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/you-can-summarize-a-google-doc-with-ai-heres-how-to-do-it/#ftag=CAD590a51e)
+ - [T-Mobile Home Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/t-mobile-5g-home-internet-review/#ftag=CAD590a51e)
  - [JD Vance sells himself to Silicon Valley](https://www.theverge.com/2024/9/14/24244137/jd-vance-all-in-david-sacks-trump)
- - [South Sudan May See the First Permanent Mass Displacement Due to Climate Change](https://www.wired.com/story/south-sudan-floods-the-first-example-of-a-mass-population-permanently-displaced-by-climate-change/)
- - [TikTok is about to get its day in court](https://www.theverge.com/2024/9/14/24243794/tiktok-ban-bytedance-court-oral-arguments-lawsuit-explainer)
- - [The 26 Best Shows on Amazon Prime Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [You Really Need to Clean Your Wireless Earbuds and AirPods](https://www.cnet.com/tech/mobile/you-really-need-to-clean-your-wireless-earbuds-and-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

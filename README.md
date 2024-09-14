@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [Toretto\u00b4s crew has upped their game](http://9gag.com/gag/ary5710)
- - 💣 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
  - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 💣 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
  - 👉 [Lolololol](http://9gag.com/gag/a5Qn8oo)<!-- MEMES:END -->
 
 ---

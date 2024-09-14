@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pulling yourself over](http://9gag.com/gag/abAz7N9)
  - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
  - 💣 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
- - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
+ - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
+ - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
 
 ---
 

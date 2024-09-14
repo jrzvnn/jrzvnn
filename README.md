@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tribit Stormbox 2: Great Sound, Better Price](https://www.wired.com/review/tribit-stormbox-2/)
  - [This is a great AI voice recorder, and it’s totally doomed](https://www.theverge.com/2024/9/14/24243781/plaud-notepin-review-ai-voice-recorder)
  - [Do You Actually Have Cortisol Face? An Expert Weighs In](https://www.cnet.com/health/medical/do-you-have-cortisol-face-expert/#ftag=CAD590a51e)
  - [You Can Summarize a Google Doc With AI. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/you-can-summarize-a-google-doc-with-ai-heres-how-to-do-it/#ftag=CAD590a51e)
- - [T-Mobile Home Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/t-mobile-5g-home-internet-review/#ftag=CAD590a51e)
- - [JD Vance sells himself to Silicon Valley](https://www.theverge.com/2024/9/14/24244137/jd-vance-all-in-david-sacks-trump)<!-- TECH:END -->
+ - [T-Mobile Home Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/t-mobile-5g-home-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

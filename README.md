@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A family](http://9gag.com/gag/aYQ43Xv)
- - 😝 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
- - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
- - 😝 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)
- - 👉 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)<!-- MEMES:END -->
+ - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
+ - 💣 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
+ - 😝 [When the combine iq of two people is lower than the temperature outside](http://9gag.com/gag/aAyD9yR)
+ - 👉 [Lolololol](http://9gag.com/gag/a5Qn8oo)<!-- MEMES:END -->
 
 ---
 

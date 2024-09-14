@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 💣 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)
- - 😝 [These boys remember it ... do you?](http://9gag.com/gag/aW4qX4d)
- - 👉 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)<!-- MEMES:END -->
+ - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
+ - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 👉 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)<!-- MEMES:END -->
 
 ---
 

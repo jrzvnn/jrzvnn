@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
- - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
- - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
- - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
- - 👉 [Owned](http://9gag.com/gag/aZZg6G6)<!-- MEMES:END -->
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
+ - 💣 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 😝 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
+ - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
 
 ---
 

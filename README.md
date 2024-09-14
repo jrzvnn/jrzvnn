@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Megalopolis could have let audiences ask Adam Driver questions during showings](https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions)
+ - [How to Get a Better Signal on Your iPhone or Android Smartphone](https://www.cnet.com/tech/mobile/how-to-get-a-better-signal-on-your-iphone-or-android-smartphone/#ftag=CAD590a51e)
  - [Ditch the Melatonin for These 7 All-Natural Sleep Aids](https://www.cnet.com/health/sleep/ditch-the-melatonin-for-these-7-all-natural-sleep-aids/#ftag=CAD590a51e)
  - [NASA’s Starliner astronauts don’t feel ‘let down’ by Boeing’s spacecraft](https://www.theverge.com/2024/9/14/24244790/nasa-starliner-astronauts-suni-williams-butch-wilmore-press-conference-boeing)
- - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
- - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

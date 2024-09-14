@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - 😝 [Owned](http://9gag.com/gag/aZZg6G6)
  - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
  - 💣 [All over...](http://9gag.com/gag/aD2zeyG)
- - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 👉 [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)<!-- MEMES:END -->
+ - 😝 [They told him not to jump](http://9gag.com/gag/aXPvBdb)
+ - 👉 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)<!-- MEMES:END -->
 
 ---
 

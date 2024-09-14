@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Streaming on Max: The 23 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-2024/#ftag=CAD590a51e)
  - [Google Pixel 9 Pro Fold teardown: impressive repairability for a foldable, with a modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)
- - [DirecTV-Disney Reach Deal That Ends ESPN, ABC Blackout](https://www.cnet.com/tech/services-and-software/directv-disney-reach-deal-that-ends-espn-abc-blackout/#ftag=CAD590a51e)
- - [Getting Morning Sunlight Can Improve Your Sleep Health](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [OpenAI should&#39;ve stuck with the name Strawberry for o1, avoiding user confusion between models named 4o and o1, and helping humanize the tech &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240914/p7#a240914p7)<!-- TECH:END -->
+ - [&#39;Tulsa King&#39; Season 2 Streaming on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/tulsa-king-season-2-streaming-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)
+ - [Best Reusable Water Bottles in 2024](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)
+ - [iPhone 16 Preorders Have Begun. Best Deals on Apple&#39;s Newest Smartphones](https://www.cnet.com/deals/iphone-16-preorders-have-begun-best-deals-on-apples-newest-smartphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

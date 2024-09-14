@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
- - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 👉 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)<!-- MEMES:END -->
+ - 😝 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
+ - 😝 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)
+ - 💣 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 😝 [Owned](http://9gag.com/gag/aZZg6G6)
+ - 👉 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)<!-- MEMES:END -->
 
 ---
 

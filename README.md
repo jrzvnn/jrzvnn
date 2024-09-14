@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Wi-Fi 7? Everything to Know About the Next Standard](https://www.wired.com/story/what-is-wi-fi-7/)
  - [Premier League Soccer: Livestream Southampton vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-southampton-vs-man-united-from-anywhere/#ftag=CAD590a51e)
  - [Before You Install iOS 18, Back Up Your iPhone the Right Way](https://www.cnet.com/tech/mobile/before-you-install-ios-18-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)
  - [Best Teeth Whitening Strips of 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
- - [Recent announcements from Apple and Google show that AI is most useful as a feature in devices and software we already use, rather than a standalone product &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240914/p4#a240914p4)<!-- TECH:END -->
+ - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [In reports dated August 9, Indian antitrust regulator CCI found that Amazon and Flipkart violated local competition laws by giving preference to select sellers &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p2#a240914p2)
  - [India&#39;s new M&amp;A rule for deals exceeding ~$240M could create hurdles for startups that hope to be acquired in their early years to access funding and scale &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240914/p1#a240914p1)
- - [Sources: OpenAI&#39;s $150B valuation in a $6.5B funding round hinges on whether the company can upend its corporate structure and remove a profit cap for investors &lpar;Reuters&rpar;](http://www.techmeme.com/240913/p31#a240913p31)
- - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
- - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 14, #461](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-14-461/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 14, #195](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-14-195/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 14, #1183](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-14-1183/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

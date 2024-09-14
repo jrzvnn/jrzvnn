@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In reports dated August 9, Indian antitrust regulator CCI found that Amazon and Flipkart violated local competition laws by giving preference to select sellers &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p2#a240914p2)
+ - [India&#39;s new M&amp;A rule for deals exceeding ~$240M could create hurdles for startups that hope to be acquired in their early years to access funding and scale &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240914/p1#a240914p1)
  - [Sources: OpenAI&#39;s $150B valuation in a $6.5B funding round hinges on whether the company can upend its corporate structure and remove a profit cap for investors &lpar;Reuters&rpar;](http://www.techmeme.com/240913/p31#a240913p31)
  - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
- - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Some former CrowdStrike employees say they raised concerns about executives rushing deadlines and quality checks, more than a year before the July 2024 outage &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/240913/p30#a240913p30)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

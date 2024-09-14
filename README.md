@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
  - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 💣 [Got hit today staying up against a molester in germany](http://9gag.com/gag/awyQ6wD)
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
+ - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 💣 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
 
 ---
 

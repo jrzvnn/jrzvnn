@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick)
+ - [Top 7 Foods to Avoid Putting in Your Air Fryer](https://www.cnet.com/how-to/top-7-foods-to-avoid-putting-in-your-air-fryer/#ftag=CAD590a51e)
+ - [Best Internet Providers in Kansas City, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-kansas-city-mo/#ftag=CAD590a51e)
  - [Streaming on Max: The 23 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-2024/#ftag=CAD590a51e)
- - [Google Pixel 9 Pro Fold teardown: impressive repairability for a foldable, with a modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)
- - [&#39;Tulsa King&#39; Season 2 Streaming on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/tulsa-king-season-2-streaming-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)
- - [Best Reusable Water Bottles in 2024](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 9 Pro Fold teardown: impressive repairability for a foldable, with a modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

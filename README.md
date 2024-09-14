@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI should&#39;ve stuck with the name Strawberry for o1, avoiding user confusion between models named 4o and o1, and helping humanize the tech &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240914/p7#a240914p7)
+ - [Adobe Firefly&#39;s Newest Feature Will Be AI Video Generation](https://www.cnet.com/tech/services-and-software/adobe-fireflys-newest-feature-will-be-ai-video-generation/#ftag=CAD590a51e)
  - [Check out the Pixel 9 Pro Fold’s guts in iFixit’s latest teardown](https://www.theverge.com/2024/9/14/24244590/google-pixel-9-pro-fold-teardown-x-ray-ct-scan-repairability)
- - [A new auction has a classic Apple II cassette tape signed by Steve Jobs](https://appleinsider.com/articles/24/09/14/a-new-auction-has-a-classic-apple-ii-cassette-tape-signed-by-steve-jobs?utm_medium=rss)
- - [Samsung’s massive OLED monitor is on sale with a free 24-inch display thrown in](https://www.theverge.com/2024/9/14/24243769/samsung-g9-odyssey-oled-gaming-monitor-god-of-war-ragnarok-deal-sale)
- - [Bote Lowrider Aero Paddleboard Review: This SUP Knows What’s Up](https://www.wired.com/review/bote-lowrider-aero-paddleboard/)<!-- TECH:END -->
+ - [Metaphor ReFantazio Brings Persona Trappings Into A Fantasy World](https://www.cnet.com/tech/gaming/metaphor-refantazio-brings-persona-trappings-into-a-fantasy-world/#ftag=CAD590a51e)
+ - [Get Ready for Election Day 2024 by Finding Your Ballot Online](https://www.cnet.com/news/politics/get-ready-for-election-day-2024-by-finding-your-ballot-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

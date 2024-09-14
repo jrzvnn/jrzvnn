@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
- - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 💣 [Owned](http://9gag.com/gag/aZZg6G6)
+ - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 👉 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)<!-- MEMES:END -->
 
 ---
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
  - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 😝 [Use it wisely](http://9gag.com/gag/aGye3yz)
  - 💣 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)
  - 😝 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
  - 👉 [Upvote if you agree](http://9gag.com/gag/an7jLwz)<!-- MEMES:END -->

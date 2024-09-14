@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All over...](http://9gag.com/gag/aD2zeyG)
  - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 💣 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [They told him not to jump](http://9gag.com/gag/aXPvBdb)
- - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
+ - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
+ - 💣 [Got hit today staying up against a molester in germany](http://9gag.com/gag/awyQ6wD)
+ - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
 
 ---
 

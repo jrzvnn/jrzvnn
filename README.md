@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 💣 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
- - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
- - 👉 [To all 9 gagers](http://9gag.com/gag/apRQw2D)<!-- MEMES:END -->
+ - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 😝 [Double face](http://9gag.com/gag/a0e5rbd)
+ - 💣 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 😝 [A family](http://9gag.com/gag/aYQ43Xv)
+ - 👉 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)<!-- MEMES:END -->
 
 ---
 

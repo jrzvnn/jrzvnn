@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new auction has a classic Apple II cassette tape signed by Steve Jobs](https://appleinsider.com/articles/24/09/14/a-new-auction-has-a-classic-apple-ii-cassette-tape-signed-by-steve-jobs?utm_medium=rss)
  - [Samsung’s massive OLED monitor is on sale with a free 24-inch display thrown in](https://www.theverge.com/2024/9/14/24243769/samsung-g9-odyssey-oled-gaming-monitor-god-of-war-ragnarok-deal-sale)
  - [Bote Lowrider Aero Paddleboard Review: This SUP Knows What’s Up](https://www.wired.com/review/bote-lowrider-aero-paddleboard/)
  - [Ace Attorney’s spinoffs are great mysteries, if you can deal with their minigames](https://www.theverge.com/2024/9/14/24244073/ace-attorney-investigations-collection-review-capcom)
- - [Apple confirms the iPhone 16 has 8GB of RAM](https://www.theverge.com/2024/9/14/24244540/apple-confirms-iphone-16-pro-max-8gb-ram-apple-intelligence)
- - [Amazon’s Audiobook Narrators Can Now Make Their Own AI Voice Clones](https://www.wired.com/story/audible-audiobook-narrators-ai-voice-clones/)<!-- TECH:END -->
+ - [Apple confirms the iPhone 16 has 8GB of RAM](https://www.theverge.com/2024/9/14/24244540/apple-confirms-iphone-16-pro-max-8gb-ram-apple-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

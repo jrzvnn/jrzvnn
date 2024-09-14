@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 😝 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
- - 💣 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 😝 [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
+ - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
  - 👉 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)<!-- MEMES:END -->
 
 ---

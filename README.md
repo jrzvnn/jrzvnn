@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Sex Toys &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [Apple’s Visual Intelligence could be a step toward Apple glasses](https://www.theverge.com/2024/9/14/24243814/apple-iphone-16-visual-intelligence-glasses)
  - [Disney has struck a deal to bring Monday Night Football back to DirecTV](https://www.theverge.com/2024/9/14/24244513/disney-directv-carriage-dispute-over-espn-football-disney-plus)
  - [A profile of Chase Herro, who calls himself the &quot;dirtbag of the internet&quot; and sources say is the dealmaker behind Trump&#39;s crypto project World Liberty Financial &lpar;Bloomberg&rpar;](http://www.techmeme.com/240914/p6#a240914p6)
- - [Tribit Stormbox 2: Great Sound, Better Price](https://www.wired.com/review/tribit-stormbox-2/)
- - [This is a great AI voice recorder, and it’s totally doomed](https://www.theverge.com/2024/9/14/24243781/plaud-notepin-review-ai-voice-recorder)
- - [Do You Actually Have Cortisol Face? An Expert Weighs In](https://www.cnet.com/health/medical/do-you-have-cortisol-face-expert/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tribit Stormbox 2: Great Sound, Better Price](https://www.wired.com/review/tribit-stormbox-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

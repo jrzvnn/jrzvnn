@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google ad trial: an ex-Facebook ad exec testifies the company signed the 2018 Jedi Blue deal with Google because it couldn&#39;t compete against Google&#39;s &quot;monopoly&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240913/p29#a240913p29)
  - [Sources: Sam Altman told OpenAI&#39;s staff that the company plans to move away from being controlled by a nonprofit sometime in 2025 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240913/p28#a240913p28)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [An EEOC analysis finds women made up 22.6% of US workers in high-tech roles in 2022, similar to the 22% in 2005, even as the number of lucrative jobs has soared &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240913/p27#a240913p27)
- - [Is That Text Message From Your Bank Legit? How to Detect and Avoid SMS Phishing Scams](https://www.cnet.com/personal-finance/banking/is-that-text-message-from-your-bank-legit-how-to-detect-and-avoid-sms-phishing-scams/#ftag=CAD590a51e)
- - [56 Best Advent Calendars You Can Get in 2024](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is That Text Message From Your Bank Legit? How to Detect and Avoid SMS Phishing Scams](https://www.cnet.com/personal-finance/banking/is-that-text-message-from-your-bank-legit-how-to-detect-and-avoid-sms-phishing-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

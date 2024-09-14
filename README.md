@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 💣 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
- - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
+ - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 😝 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)
+ - 💣 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
+ - 😝 [Upvote if you agree](http://9gag.com/gag/an7jLwz)
+ - 👉 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)<!-- MEMES:END -->
 
 ---
 

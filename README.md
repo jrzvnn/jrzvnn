@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick)
  - [Streaming on Max: The 23 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-2024/#ftag=CAD590a51e)
  - [Google Pixel 9 Pro Fold teardown: impressive repairability for a foldable, with a modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)
  - [&#39;Tulsa King&#39; Season 2 Streaming on Paramount Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/tulsa-king-season-2-streaming-on-paramount-plus-release-date-and-time/#ftag=CAD590a51e)
- - [Best Reusable Water Bottles in 2024](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)
- - [iPhone 16 Preorders Have Begun. Best Deals on Apple&#39;s Newest Smartphones](https://www.cnet.com/deals/iphone-16-preorders-have-begun-best-deals-on-apples-newest-smartphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Reusable Water Bottles in 2024](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

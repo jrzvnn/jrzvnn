@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 💣 [Nani](http://9gag.com/gag/aKGDReZ)
- - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 👉 [Lolololol](http://9gag.com/gag/a5Qn8oo)<!-- MEMES:END -->
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
+ - 💣 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
+ - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
 
 ---
 

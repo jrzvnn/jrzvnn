@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 💣 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
+ - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
+ - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
 
 ---
 

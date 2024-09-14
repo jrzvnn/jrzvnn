@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI should&#39;ve stuck with the name Strawberry for o1, avoiding user confusion between models named 4o and o1, and helping humanize the tech &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240914/p7#a240914p7)
- - [Adobe Firefly&#39;s Newest Feature Will Be AI Video Generation](https://www.cnet.com/tech/services-and-software/adobe-fireflys-newest-feature-will-be-ai-video-generation/#ftag=CAD590a51e)
- - [Check out the Pixel 9 Pro Fold’s guts in iFixit’s latest teardown](https://www.theverge.com/2024/9/14/24244590/google-pixel-9-pro-fold-teardown-x-ray-ct-scan-repairability)
- - [Metaphor ReFantazio Brings Persona Trappings Into A Fantasy World](https://www.cnet.com/tech/gaming/metaphor-refantazio-brings-persona-trappings-into-a-fantasy-world/#ftag=CAD590a51e)
- - [Get Ready for Election Day 2024 by Finding Your Ballot Online](https://www.cnet.com/news/politics/get-ready-for-election-day-2024-by-finding-your-ballot-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 9 Pro teardown: impressive repairability for a foldable, with a highly modular design that separates high mechanical wear parts like the USB-C port &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240914/p8#a240914p8)
+ - [DirecTV-Disney Reach Deal That Ends ESPN, ABC Blackout](https://www.cnet.com/tech/services-and-software/directv-disney-reach-deal-that-ends-espn-abc-blackout/#ftag=CAD590a51e)
+ - [Getting Morning Sunlight Can Improve Your Sleep Health](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [OpenAI should&#39;ve stuck with the name Strawberry for o1, avoiding user confusion between models named 4o and o1, and helping humanize the tech &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240914/p7#a240914p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

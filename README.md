@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
- - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
- - 💣 [College kid slowly realizes he&#39;s in the wrong house.](http://9gag.com/gag/ae9eB8B)
- - 😝 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
+ - 😝 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 💣 [Double face](http://9gag.com/gag/a0e5rbd)
+ - 😝 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)
+ - 👉 [Owned](http://9gag.com/gag/aZZg6G6)<!-- MEMES:END -->
 
 ---
 

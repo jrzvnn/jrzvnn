@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
- - 💣 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
  - 😝 [When the combine iq of two people is lower than the temperature outside](http://9gag.com/gag/aAyD9yR)
- - 👉 [Lolololol](http://9gag.com/gag/a5Qn8oo)<!-- MEMES:END -->
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 💣 [Monkey](http://9gag.com/gag/a9yA01o)
+ - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
+ - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
  - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 💣 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)
- - 😝 [Bro he showed his ip](http://9gag.com/gag/amo7q7o)
+ - 💣 [Crocodiles do not age biologically due to the phenomenon of `minor aging`, that is, they do not lose strength or reproductive capacity. They grow all their lives and do not die of old age, but die of diseases, injuries or starvation.](http://9gag.com/gag/aKGDRwZ)
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
  - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
 
 ---

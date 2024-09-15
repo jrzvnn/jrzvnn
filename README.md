@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
- - 💣 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [Vanessa Kirby holding Pedro Pascals hand to ease his social anxiety.](http://9gag.com/gag/agmYWrK)
- - 👉 [Feeling Old Yet?](http://9gag.com/gag/an7jpEb)<!-- MEMES:END -->
+ - 😝 [Jennifer Connelly](http://9gag.com/gag/amo2DAy)
+ - 😝 [A Swedish politician is being investigated by police for reposting a drawing on X.](http://9gag.com/gag/a5QopMN)
+ - 💣 [It is never too late](http://9gag.com/gag/awyXNAr)
+ - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 👉 [Totally changed](http://9gag.com/gag/a0eKvpZ)<!-- MEMES:END -->
 
 ---
 

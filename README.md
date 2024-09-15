@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
- - 😝 [Flood in southern Poland. Photos from today. You can lose all your life achievements in a few hours](http://9gag.com/gag/avyO2wW)
- - 💣 [Title](http://9gag.com/gag/aAyxBqL)
- - 😝 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
- - 👉 [Totally changed](http://9gag.com/gag/a0eKvpZ)<!-- MEMES:END -->
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
+ - 💣 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)
+ - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
+ - 👉 [What are they doing?](http://9gag.com/gag/aqy13xp)<!-- MEMES:END -->
 
 ---
 

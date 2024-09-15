@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She got overkarened](http://9gag.com/gag/a6ZVWR8)
- - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
+ - 😝 [Computer knows](http://9gag.com/gag/a34M6r1)
+ - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
+ - 💣 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 👉 [Totally changed](http://9gag.com/gag/a0eKvpZ)<!-- MEMES:END -->
 
 ---
 

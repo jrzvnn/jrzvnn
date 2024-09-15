@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
  - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
- - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
- - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
+ - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 💣 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
+ - 😝 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
+ - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
 
 ---
 

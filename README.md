@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aAyxBqL)
- - 😝 [My future](http://9gag.com/gag/aoyObnX)
- - 💣 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
+ - 😝 [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
  - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
- - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
+ - 💣 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
+ - 👉 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)<!-- MEMES:END -->
 
 ---
 

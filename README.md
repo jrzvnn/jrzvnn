@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Regulatory reports: India&#39;s CCI accuses Samsung, Xiaomi, and other smartphone makers of collusion for exclusively launching products on Amazon and Flipkart &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p13#a240914p13)
  - [Jeremy Allaire, the CEO of USDC issuer Circle, says the company is moving its global HQ to One World Trade Center in New York City, ahead of a planned IPO &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/240914/p12#a240914p12)
  - [Boston-based AceUp, which offers AI-powered business coaching and performance analytics services, raised a $22.5M Series A led by PJC &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240914/p11#a240914p11)
  - [Maryland-based Aembit, a non-human identity and access management provider, raised a $25M Series A led by Acrew Capital, bringing its total raised to ~$45M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240914/p10#a240914p10)
- - [Best Nonstick Frying Pan for 2024](https://www.cnet.com/news/best-nonstick-frying-pans/#ftag=CAD590a51e)
- - [Megalopolis could have let audiences ask Adam Driver questions during showings](https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions)<!-- TECH:END -->
+ - [Best Nonstick Frying Pan for 2024](https://www.cnet.com/news/best-nonstick-frying-pans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

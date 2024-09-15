@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple jacking up prices on post-AppleCare iPhone battery replacements](https://appleinsider.com/articles/24/09/15/apple-jacking-up-prices-on-post-applecare-iphone-battery-replacements?utm_medium=rss)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
- - [Running Gear Guide: What You Need for the Never-Ending Summer](https://www.cnet.com/health/fitness/running-gear-guide/#ftag=CAD590a51e)
- - [Starlink Free In-Flight Wi-Fi Is Coming to More Than 1,000 United Planes](https://www.cnet.com/tech/services-and-software/starlink-free-in-flight-wi-fi-is-coming-to-more-than-1000-united-planes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
+ - [Bengals vs. Chiefs: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/bengals-vs-chiefs-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Steelers vs. Broncos: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/steelers-vs-broncos-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Best DIY Home Security Systems of 2024](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
+ - [Rams vs. Cardinals Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/rams-vs-cardinals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
- - 😝 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)
- - 💣 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 😝 [My future](http://9gag.com/gag/aoyObnX)
  - 😝 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
- - 👉 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)<!-- MEMES:END -->
+ - 💣 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
+ - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 👉 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)<!-- MEMES:END -->
 
 ---
 

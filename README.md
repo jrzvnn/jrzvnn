@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iOS 18 Repair Assistant forces parts pairing for users](https://appleinsider.com/articles/24/09/15/ios-18-repair-assistant-forces-parts-pairing-for-users?utm_medium=rss)
+ - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
+ - [Cook a Perfectly Crispy Baked Potato in Just 15 Minutes](https://www.cnet.com/how-to/cook-a-perfectly-crispy-baked-potato-in-just-15-minutes/#ftag=CAD590a51e)
  - [You might start seeing Instagram comments on Threads soon](https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor)
- - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [iPhone 16 Reportedly Delivers 30% More Power for Gamers](https://www.cnet.com/tech/mobile/iphone-16-reportedly-delivers-30-more-power-for-gamers/#ftag=CAD590a51e)
- - [Best Internet Providers in Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minnesota/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

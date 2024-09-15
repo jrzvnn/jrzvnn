@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
- - 😝 [Mission impossible will always be possible](http://9gag.com/gag/a0e5rVq)
+ - 😝 [She got overkarened](http://9gag.com/gag/a6ZVWR8)
+ - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
  - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 👉 [My future](http://9gag.com/gag/aoyObnX)<!-- MEMES:END -->
+ - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Tools That Make It Easier to Write While Traveling—Wherever You Go](https://www.wired.com/story/4-tools-tips-easy-write-work-remotely/)
- - [Flappy Bird’s original creator says he has nothing to do with the new game](https://www.theverge.com/2024/9/15/24245216/flappy-bird-creator-dong-nguyen-not-involved-new-game)
- - [Shark PowerDetect 2-in-1 Robot Vacuum and Mop Review &lpar;2024&rpar;](https://www.wired.com/review/review-shark-powerdetect-2-in-1-robot-vacuum/)
- - [10 Renter-Friendly Decor Hacks That Won&#39;t Jeopardize Your Security Deposit](https://www.cnet.com/how-to/10-renter-friendly-decor-hacks-that-wont-jeopardize-your-security-deposit/#ftag=CAD590a51e)
- - [Clean Energy and Electrification Gets $7.3 Billion Boost From Biden](https://www.cnet.com/news/clean-energy-and-electrification-gets-7-3-billion-boost-from-biden/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple jacking up prices on post-AppleCare iPhone battery replacements](https://appleinsider.com/articles/24/09/15/apple-jacking-up-prices-on-post-applecare-iphone-battery-replacements?utm_medium=rss)
+ - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
+ - [Running Gear Guide: What You Need for the Never-Ending Summer](https://www.cnet.com/health/fitness/running-gear-guide/#ftag=CAD590a51e)
+ - [Starlink Free In-Flight Wi-Fi Is Coming to More Than 1,000 United Planes](https://www.cnet.com/tech/services-and-software/starlink-free-in-flight-wi-fi-is-coming-to-more-than-1000-united-planes/#ftag=CAD590a51e)
+ - [Best Gifts for Readers in 2024: Kindle, Kobo and Accessories](https://www.cnet.com/tech/computing/best-gifts-for-readers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

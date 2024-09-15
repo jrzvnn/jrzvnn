@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 💣 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
- - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
- - 👉 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aAyxBqL)
+ - 😝 [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
+ - 💣 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
+ - 😝 [Truck&#39;s emergency brakes and his reaction is f**king insane](http://9gag.com/gag/ae9MjrB)
+ - 👉 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)<!-- MEMES:END -->
 
 ---
 

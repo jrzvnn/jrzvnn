@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time flies my dudes...](http://9gag.com/gag/axy0p1K)
- - 😝 [XAVEIR STRIKES AGAIN.. MIC DROP BOOM](http://9gag.com/gag/aKGDbeO)
- - 💣 [Scotland forever](http://9gag.com/gag/aXPv8d6)
- - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 👉 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)<!-- MEMES:END -->
+ - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 💣 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 😝 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
+ - 👉 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
 
 ---
 

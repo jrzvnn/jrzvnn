@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My future](http://9gag.com/gag/aoyObnX)
- - 😝 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
- - 💣 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
- - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
- - 👉 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)<!-- MEMES:END -->
+ - 😝 [Inside out](http://9gag.com/gag/a4PGvLw)
+ - 😝 [Feeling Old Yet?](http://9gag.com/gag/an7jpEb)
+ - 💣 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 😝 [Wet protected fun.](http://9gag.com/gag/aNDz7L3)
+ - 👉 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)<!-- MEMES:END -->
 
 ---
 

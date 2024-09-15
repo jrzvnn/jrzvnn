@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: iPhone thefts from children, and AirTags to the rescue](https://appleinsider.com/articles/24/09/15/crime-blotter-iphone-thefts-from-children-and-airtags-to-the-rescue?utm_medium=rss)
  - [The Best Audiophile Gear &lpar;2024&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
  - [Shogun Showdown makes you feel like a genius by showing you the future](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)
- - [Some of the largest custodial banks are interested in crypto custody but are hindered by the SEC rule SAB 121, which establishes accounting standards &lpar;Bloomberg&rpar;](http://www.techmeme.com/240915/p3#a240915p3)
- - [Stephen Hawking Was Wrong—Extremal Black Holes Are Possible](https://www.wired.com/story/mathematicians-prove-stephen-hawking-wrong-about-the-most-extreme-black-holes-space-physics-astrophysics/)
- - [Try This Hack to Clean Your Kitchen&#39;s Toughest Spot](https://www.cnet.com/home/kitchen-and-household/try-this-hack-to-clean-your-kitchens-toughest-spot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Next Vacuum Cleaner Should Be Cordless. Here&#39;s Why](https://www.cnet.com/home/kitchen-and-household/your-next-vacuum-cleaner-should-be-cordless-heres-why/#ftag=CAD590a51e)
+ - [Some of the largest custodial banks are interested in crypto custody but are hindered by the SEC rule SAB 121, which establishes accounting standards &lpar;Bloomberg&rpar;](http://www.techmeme.com/240915/p3#a240915p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

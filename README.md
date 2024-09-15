@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 💣 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 👉 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)<!-- MEMES:END -->
+ - 😝 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)
+ - 😝 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
+ - 💣 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
+ - 👉 [Nani](http://9gag.com/gag/aKGDReZ)<!-- MEMES:END -->
 
 ---
 

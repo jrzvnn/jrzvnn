@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 💣 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
  - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
+ - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 😝 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
  - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
 
 ---

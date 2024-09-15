@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All over...](http://9gag.com/gag/aD2zeyG)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 😝 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)
  - 💣 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
- - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
  - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
 
 ---

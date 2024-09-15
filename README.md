@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)
+ - 😝 [Hank the Tank](http://9gag.com/gag/abAzPKL)
  - 😝 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
  - 💣 [Upvote if you agree](http://9gag.com/gag/an7jLwz)
- - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
- - 👉 [Use it wisely](http://9gag.com/gag/aGye3yz)<!-- MEMES:END -->
+ - 😝 [Use it wisely](http://9gag.com/gag/aGye3yz)
+ - 👉 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)<!-- MEMES:END -->
 
 ---
 

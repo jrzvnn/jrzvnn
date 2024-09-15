@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hank the Tank](http://9gag.com/gag/abAzPKL)
- - 😝 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
- - 💣 [Upvote if you agree](http://9gag.com/gag/an7jLwz)
- - 😝 [Use it wisely](http://9gag.com/gag/aGye3yz)
- - 👉 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)<!-- MEMES:END -->
+ - 😝 [All over...](http://9gag.com/gag/aD2zeyG)
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 💣 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
+ - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
 
 ---
 

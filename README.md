@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Auto Industry Finally Has a Plan to Stop Electric Vehicle Fires](https://www.wired.com/story/the-auto-industry-finally-has-a-plan-to-stop-electric-vehicle-fires/)
+ - [Dyson WashG1 Floor Cleaner Review: Won’t Replace Your Vacuum](https://www.wired.com/review/review-dyson-washg1-floor-cleaner/)
  - [The fanciest game console you can buy](https://www.theverge.com/24243490/ps5-pro-airpods-4-huawei-mate-xt-installer)
  - [Crime blotter: iPhone thefts from children, and AirTags to the rescue](https://appleinsider.com/articles/24/09/15/crime-blotter-iphone-thefts-from-children-and-airtags-to-the-rescue?utm_medium=rss)
- - [The Best Audiophile Gear &lpar;2024&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
- - [Shogun Showdown makes you feel like a genius by showing you the future](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)
- - [Your Next Vacuum Cleaner Should Be Cordless. Here&#39;s Why](https://www.cnet.com/home/kitchen-and-household/your-next-vacuum-cleaner-should-be-cordless-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Audiophile Gear &lpar;2024&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

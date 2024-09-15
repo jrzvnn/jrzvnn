@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Shark PowerDetect 2-in-1 Robot Vacuum and Mop Review &lpar;2024&rpar;](https://www.wired.com/review/review-shark-powerdetect-2-in-1-robot-vacuum/)
  - [40 Acres is a gruesome parable about finding hope in the apocalypse](https://www.theverge.com/2024/9/15/24243913/40-acres-review)
  - [The great Evernote reboot](https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast)
- - [How Google, Amazon, Microsoft, and Meta are fighting an Ohio power company&#39;s proposal to increase the upfront energy costs they&#39;ll pay for their data centers &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240915/p4#a240915p4)
- - [The Auto Industry Finally Has a Plan to Stop Electric Vehicle Fires](https://www.wired.com/story/the-auto-industry-finally-has-a-plan-to-stop-electric-vehicle-fires/)<!-- TECH:END -->
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
+ - [How Google, Amazon, Microsoft, and Meta are fighting an Ohio power company&#39;s proposal to increase the upfront energy costs they&#39;ll pay for their data centers &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240915/p4#a240915p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

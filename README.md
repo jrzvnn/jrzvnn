@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 💣 [Nani](http://9gag.com/gag/aKGDReZ)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 👉 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)<!-- MEMES:END -->
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 💣 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
+ - 👉 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)<!-- MEMES:END -->
 
 ---
 

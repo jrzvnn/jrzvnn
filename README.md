@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 💣 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
- - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
- - 👉 [Marathon Girl](http://9gag.com/gag/avy7bRM)<!-- MEMES:END -->
+ - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 😝 [Flood in southern Poland. Photos from today. You can lose all your life achievements in a few hours](http://9gag.com/gag/avyO2wW)
+ - 💣 [Title](http://9gag.com/gag/aAyxBqL)
+ - 😝 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
+ - 👉 [Totally changed](http://9gag.com/gag/a0eKvpZ)<!-- MEMES:END -->
 
 ---
 

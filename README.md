@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Computer knows](http://9gag.com/gag/a34M6r1)
- - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 💣 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 👉 [Totally changed](http://9gag.com/gag/a0eKvpZ)<!-- MEMES:END -->
+ - 😝 [Bro he showed his ip](http://9gag.com/gag/amo7q7o)
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 💣 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
+ - 😝 [My future](http://9gag.com/gag/aoyObnX)
+ - 👉 [Understandable](http://9gag.com/gag/aZZgGZQ)<!-- MEMES:END -->
 
 ---
 

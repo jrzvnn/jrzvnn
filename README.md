@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 💣 [Crocodiles do not age biologically due to the phenomenon of `minor aging`, that is, they do not lose strength or reproductive capacity. They grow all their lives and do not die of old age, but die of diseases, injuries or starvation.](http://9gag.com/gag/aKGDRwZ)
- - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
- - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
+ - 😝 [A Swedish politician is being investigated by police for reposting a drawing on X.](http://9gag.com/gag/a5QopMN)
+ - 😝 [Scotland forever](http://9gag.com/gag/aXPv8d6)
+ - 💣 [Jennifer Connelly](http://9gag.com/gag/amo2DAy)
+ - 😝 [It is never too late](http://9gag.com/gag/awyXNAr)
+ - 👉 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)<!-- MEMES:END -->
 
 ---
 

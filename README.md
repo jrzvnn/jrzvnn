@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aAyxBqL)
- - 😝 [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
- - 💣 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 😝 [Truck&#39;s emergency brakes and his reaction is f**king insane](http://9gag.com/gag/ae9MjrB)
- - 👉 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)<!-- MEMES:END -->
+ - 😝 [Flood in southern Poland. Photos from today. You can lose all your life achievements in a few hours](http://9gag.com/gag/avyO2wW)
+ - 😝 [Smoothly Performed Stunt](http://9gag.com/gag/avyO2jX)
+ - 💣 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 👉 [Title](http://9gag.com/gag/avyO2Zd)<!-- MEMES:END -->
 
 ---
 

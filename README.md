@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple jacking up prices on post-AppleCare iPhone battery replacements](https://appleinsider.com/articles/24/09/15/apple-jacking-up-prices-on-post-applecare-iphone-battery-replacements?utm_medium=rss)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
  - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
  - [Running Gear Guide: What You Need for the Never-Ending Summer](https://www.cnet.com/health/fitness/running-gear-guide/#ftag=CAD590a51e)
- - [Starlink Free In-Flight Wi-Fi Is Coming to More Than 1,000 United Planes](https://www.cnet.com/tech/services-and-software/starlink-free-in-flight-wi-fi-is-coming-to-more-than-1000-united-planes/#ftag=CAD590a51e)
- - [Best Gifts for Readers in 2024: Kindle, Kobo and Accessories](https://www.cnet.com/tech/computing/best-gifts-for-readers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starlink Free In-Flight Wi-Fi Is Coming to More Than 1,000 United Planes](https://www.cnet.com/tech/services-and-software/starlink-free-in-flight-wi-fi-is-coming-to-more-than-1000-united-planes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

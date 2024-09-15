@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
  - 💣 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [Crocodiles do not age biologically due to the phenomenon of `minor aging`, that is, they do not lose strength or reproductive capacity. They grow all their lives and do not die of old age, but die of diseases, injuries or starvation.](http://9gag.com/gag/aKGDRwZ)
- - 👉 [The moment of realization](http://9gag.com/gag/aGyjKo7)<!-- MEMES:END -->
+ - 😝 [Vanessa Kirby holding Pedro Pascals hand to ease his social anxiety.](http://9gag.com/gag/agmYWrK)
+ - 👉 [Feeling Old Yet?](http://9gag.com/gag/an7jpEb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro he showed his ip](http://9gag.com/gag/amo7q7o)
+ - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
  - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 💣 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
- - 😝 [My future](http://9gag.com/gag/aoyObnX)
- - 👉 [Understandable](http://9gag.com/gag/aZZgGZQ)<!-- MEMES:END -->
+ - 💣 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)
+ - 😝 [Bro he showed his ip](http://9gag.com/gag/amo7q7o)
+ - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
 
 ---
 

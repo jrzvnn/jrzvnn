@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 💣 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
+ - 😝 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)
+ - 😝 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
+ - 💣 [Upvote if you agree](http://9gag.com/gag/an7jLwz)
+ - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 👉 [Use it wisely](http://9gag.com/gag/aGye3yz)<!-- MEMES:END -->
 
 ---
 

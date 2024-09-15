@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Vibrators &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-15/#ftag=CAD590a51e)
  - [A look at the US DOJ&#39;s divestment case against TikTok, which relies on classified material that TikTok can&#39;t review, as oral arguments begin on September 16 &lpar;The Verge&rpar;](http://www.techmeme.com/240915/p2#a240915p2)
  - [Nirvana, which provides insurance verification and cost estimates to healthcare providers and their patients, raised a $24.2M Series A led by Northzone &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240915/p1#a240915p1)
- - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
- - [Regulatory reports: India&#39;s CCI accuses Samsung, Xiaomi, and other smartphone makers of collusion for exclusively launching products on Amazon and Flipkart &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p13#a240914p13)<!-- TECH:END -->
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

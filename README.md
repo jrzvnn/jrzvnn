@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Natural Sleep Aids &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-natural-sleep-aids/)
  - [The Best Vibrators &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
  - [iPhone Buttons Are Back, Baby! Apple&#39;s About-Face Is All for the Sake of AI](https://www.cnet.com/tech/mobile/iphone-buttons-are-back-baby-apples-about-face-is-all-for-the-sake-of-ai/#ftag=CAD590a51e)
  - [Get Back 15GB of Free Gmail Storage Without Deleting Any Messages](https://www.cnet.com/tech/services-and-software/declutter-your-gmail-inbox-how-to-score-15gb-of-free-storage/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-15/#ftag=CAD590a51e)
- - [A look at the US DOJ&#39;s divestment case against TikTok, which relies on classified material that TikTok can&#39;t review, as oral arguments begin on September 16 &lpar;The Verge&rpar;](http://www.techmeme.com/240915/p2#a240915p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

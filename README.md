@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the US DOJ&#39;s divestment case against TikTok, which relies on classified material that TikTok can&#39;t review, as oral arguments begin on September 16 &lpar;The Verge&rpar;](http://www.techmeme.com/240915/p2#a240915p2)
  - [Nirvana, which provides insurance verification and cost estimates to healthcare providers and their patients, raised a $24.2M Series A led by Northzone &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240915/p1#a240915p1)
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
  - [Regulatory reports: India&#39;s CCI accuses Samsung, Xiaomi, and other smartphone makers of collusion for exclusively launching products on Amazon and Flipkart &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p13#a240914p13)
- - [Jeremy Allaire, the CEO of USDC issuer Circle, says the company is moving its global HQ to One World Trade Center in New York City, ahead of a planned IPO &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/240914/p12#a240914p12)
- - [Boston-based AceUp, which offers AI-powered business coaching and performance analytics services, raised a $22.5M Series A led by PJC &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240914/p11#a240914p11)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 15, #462](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-15-462/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jeremy Allaire, the CEO of USDC issuer Circle, says the company is moving its global HQ to One World Trade Center in New York City, ahead of a planned IPO &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/240914/p12#a240914p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

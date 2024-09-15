@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pulling yourself over](http://9gag.com/gag/abAz7N9)
- - 😝 [Computer knows](http://9gag.com/gag/a34M6r1)
- - 💣 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 👉 [Rare Animal Discovered in Amazon Rainforest!](http://9gag.com/gag/a2v43mY)<!-- MEMES:END -->
+ - 😝 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
+ - 😝 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)
+ - 💣 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 😝 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
+ - 👉 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)<!-- MEMES:END -->
 
 ---
 

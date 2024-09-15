@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)
- - 😝 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)
- - 💣 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
- - 😝 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)
- - 👉 [Nani](http://9gag.com/gag/aKGDReZ)<!-- MEMES:END -->
+ - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 😝 [Mission impossible will always be possible](http://9gag.com/gag/a0e5rVq)
+ - 💣 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 👉 [My future](http://9gag.com/gag/aoyObnX)<!-- MEMES:END -->
 
 ---
 

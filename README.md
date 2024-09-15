@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston-based AceUp, which offers AI-powered business coaching and performance analytics services, raised a $22.5M Series A led by PJC &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240914/p11#a240914p11)
  - [Maryland-based Aembit, a non-human identity and access management provider, raised a $25M Series A led by Acrew Capital, bringing its total raised to ~$45M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240914/p10#a240914p10)
  - [Best Nonstick Frying Pan for 2024](https://www.cnet.com/news/best-nonstick-frying-pans/#ftag=CAD590a51e)
  - [Megalopolis could have let audiences ask Adam Driver questions during showings](https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions)
- - [How to Get a Better Signal on Your iPhone or Android Smartphone](https://www.cnet.com/tech/mobile/how-to-get-a-better-signal-on-your-iphone-or-android-smartphone/#ftag=CAD590a51e)
- - [Ditch the Melatonin for These 7 All-Natural Sleep Aids](https://www.cnet.com/health/sleep/ditch-the-melatonin-for-these-7-all-natural-sleep-aids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get a Better Signal on Your iPhone or Android Smartphone](https://www.cnet.com/tech/mobile/how-to-get-a-better-signal-on-your-iphone-or-android-smartphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

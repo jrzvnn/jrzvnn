@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
- - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
- - 💣 [Oh that&#39;s why, it&#39;s not their fault right](http://9gag.com/gag/aAyDWKR)
- - 😝 [Upvote if you agree](http://9gag.com/gag/an7jLwz)
- - 👉 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)<!-- MEMES:END -->
+ - 😝 [Pulling yourself over](http://9gag.com/gag/abAz7N9)
+ - 😝 [Computer knows](http://9gag.com/gag/a34M6r1)
+ - 💣 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
+ - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
+ - 👉 [Rare Animal Discovered in Amazon Rainforest!](http://9gag.com/gag/a2v43mY)<!-- MEMES:END -->
 
 ---
 

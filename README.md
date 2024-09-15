@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Regulatory reports: India&#39;s CCI accuses Samsung, Xiaomi, and other smartphone makers of collusion for exclusively launching products on Amazon and Flipkart &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p13#a240914p13)
  - [Jeremy Allaire, the CEO of USDC issuer Circle, says the company is moving its global HQ to One World Trade Center in New York City, ahead of a planned IPO &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/240914/p12#a240914p12)
  - [Boston-based AceUp, which offers AI-powered business coaching and performance analytics services, raised a $22.5M Series A led by PJC &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240914/p11#a240914p11)
- - [Maryland-based Aembit, a non-human identity and access management provider, raised a $25M Series A led by Acrew Capital, bringing its total raised to ~$45M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240914/p10#a240914p10)
- - [Best Nonstick Frying Pan for 2024](https://www.cnet.com/news/best-nonstick-frying-pans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 15, #462](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-15-462/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 15, #1184](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-15-1184/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

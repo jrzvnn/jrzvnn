@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 😝 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)
- - 💣 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
- - 😝 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 👉 [Opening a brand new $30 ink cartridge. Ink cartridges are such a scam. &lpar;@FStoppers&rpar;](http://9gag.com/gag/ary5Y5X)<!-- MEMES:END -->
+ - 😝 [Happy Halloween](http://9gag.com/gag/aO8BMnv)
+ - 😝 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)
+ - 💣 [Oh that&#39;s why, it&#39;s not their fault right](http://9gag.com/gag/aAyDWKR)
+ - 😝 [Upvote if you agree](http://9gag.com/gag/an7jLwz)
+ - 👉 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)<!-- MEMES:END -->
 
 ---
 

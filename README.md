@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [You might start seeing Instagram comments on Threads soon](https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor)
- - [Puffy Lux Mattress Review: A Marshmallowy Mattress for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)
- - [Best Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-toaster-oven/#ftag=CAD590a51e)
- - [The Port of Seattle says the Rhysida ransomware operation was behind an August 24 cyberattack and that it appears &quot;some Port data was obtained by the actor&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240915/p5#a240915p5)
- - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)<!-- TECH:END -->
+ - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
+ - [iPhone 16 Reportedly Delivers 30% More Power for Gamers](https://www.cnet.com/tech/mobile/iphone-16-reportedly-delivers-30-more-power-for-gamers/#ftag=CAD590a51e)
+ - [Best Internet Providers in Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minnesota/#ftag=CAD590a51e)
+ - [Puffy Lux Mattress Review: A Marshmallowy Mattress for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 💣 [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 👉 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)<!-- MEMES:END -->
+ - 😝 [Time flies my dudes...](http://9gag.com/gag/axy0p1K)
+ - 😝 [XAVEIR STRIKES AGAIN.. MIC DROP BOOM](http://9gag.com/gag/aKGDbeO)
+ - 💣 [Scotland forever](http://9gag.com/gag/aXPv8d6)
+ - 😝 [Lolololol](http://9gag.com/gag/a5Qn8oo)
+ - 👉 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)<!-- MEMES:END -->
 
 ---
 

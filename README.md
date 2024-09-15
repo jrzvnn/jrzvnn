@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
- - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
- - 💣 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 💣 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
  - 👉 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)<!-- MEMES:END -->
 
 ---

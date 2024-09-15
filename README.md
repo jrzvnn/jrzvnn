@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
+ - 😝 [Title](http://9gag.com/gag/aAyxBqL)
+ - 😝 [My future](http://9gag.com/gag/aoyObnX)
  - 💣 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 👉 [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)<!-- MEMES:END -->
+ - 😝 [I&#39;ve already chosen](http://9gag.com/gag/aRB36yA)
+ - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
 
 ---
 

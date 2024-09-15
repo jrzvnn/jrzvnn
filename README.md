@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple now charges more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)
  - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
  - [Bengals vs. Chiefs: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/bengals-vs-chiefs-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
  - [Steelers vs. Broncos: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/steelers-vs-broncos-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
- - [Best DIY Home Security Systems of 2024](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
- - [Rams vs. Cardinals Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/rams-vs-cardinals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best DIY Home Security Systems of 2024](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

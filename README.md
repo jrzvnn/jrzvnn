@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Tools That Make It Easier to Write While Traveling—Wherever You Go](https://www.wired.com/story/4-tools-tips-easy-write-work-remotely/)
+ - [Flappy Bird’s original creator says he has nothing to do with the new game](https://www.theverge.com/2024/9/15/24245216/flappy-bird-creator-dong-nguyen-not-involved-new-game)
  - [Shark PowerDetect 2-in-1 Robot Vacuum and Mop Review &lpar;2024&rpar;](https://www.wired.com/review/review-shark-powerdetect-2-in-1-robot-vacuum/)
  - [40 Acres is a gruesome parable about finding hope in the apocalypse](https://www.theverge.com/2024/9/15/24243913/40-acres-review)
- - [The great Evernote reboot](https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
- - [How Google, Amazon, Microsoft, and Meta are fighting an Ohio power company&#39;s proposal to increase the upfront energy costs they&#39;ll pay for their data centers &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240915/p4#a240915p4)<!-- TECH:END -->
+ - [The great Evernote reboot](https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

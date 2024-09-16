@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok’s big day in court is here: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [What the Polaris Dawn mission could reveal about human health in space](https://www.theverge.com/2024/9/16/24246149/polaris-dawn-spacewalk-spacex-human-health-astronauts)
  - [Apple Watch sleep apnea detection gets FDA clearance](https://www.theverge.com/2024/9/16/24246150/apple-watch-sleep-apnea-detection-fda-approval)
  - [Brain implant startup Synchron says its interface now lets people with paralysis use Alexa without voice or physical interaction, on top of iPhones and more &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/240916/p13#a240916p13)
- - [How Philips CEO Roy Jakobs is turning the company around after a major recall](https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview)
- - [FDA approves Apple Watch sleep apnea detection &amp; notification](https://appleinsider.com/articles/24/09/16/fda-approves-apple-watch-sleep-apnea-detection-notification?utm_medium=rss)
- - [Scientists Crack a 50-Year Mystery to Discover a New Set of Blood Groups](https://www.wired.com/story/scientists-keep-discovering-new-blood-groups-type-anwj-nhs-abo-rhesus/)<!-- TECH:END -->
+ - [How Philips CEO Roy Jakobs is turning the company around after a major recall](https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

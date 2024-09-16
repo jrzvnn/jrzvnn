@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s New Passwords App May Solve Your Login Nightmares](https://www.wired.com/story/apple-password-app-ios-18/)
  - [Microsoft debuts new AI coding tools in Excel, adds email prioritization Outlook features, and says Copilot&#39;s customer base grew 60%+ in the most recent quarter &lpar;Bloomberg&rpar;](http://www.techmeme.com/240916/p15#a240916p15)
  - [Grab Apple AirPods for as low as $89, with deals of up to $250 off](https://appleinsider.com/articles/24/09/16/grab-apple-airpods-for-as-low-as-89-with-deals-of-up-to-250-off?utm_medium=rss)
  - [Microsoft launches Copilot Pages, which brings Copilot responses to a new page where they can be edited collaboratively, coming to Microsoft 365 Copilot today &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240916/p14#a240916p14)
- - [Nanoleaf CEO joins HomeKit Insider to talk latest products &amp; smart home news](https://appleinsider.com/articles/24/09/16/nanoleaf-ceo-joins-homekit-insider-to-talk-latest-products-smart-home-news?utm_medium=rss)
- - [Castlevania: Nocturne season 2 is coming in January](https://www.theverge.com/2024/9/16/24246189/castlevania-nocturne-season-2-teaser-january-premiere)<!-- TECH:END -->
+ - [Nanoleaf CEO joins HomeKit Insider to talk latest products &amp; smart home news](https://appleinsider.com/articles/24/09/16/nanoleaf-ceo-joins-homekit-insider-to-talk-latest-products-smart-home-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

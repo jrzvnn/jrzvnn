@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 💣 [What kind of sport is this](http://9gag.com/gag/arygp97)
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
+ - 😝 [Tobacco company CEOs swearing under oath that nicotine is not addictive &lpar;1994&rpar;](http://9gag.com/gag/aZZgAX6)
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
+ - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
 
 ---
 

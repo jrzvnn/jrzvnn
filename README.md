@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Messed With the Wrong Mega-Popular Parenting Forum](https://www.wired.com/story/mumsnet-openai-copyright-allegations/)
  - [Elon Musk deleted an X post that said &quot;no one is even trying to assassinate Biden/Kamala&quot; after an apparent Trump assassination attempt, calling the post a joke &lpar;Business Insider&rpar;](http://www.techmeme.com/240916/p7#a240916p7)
  - [This Brain Implant Lets People Control Amazon Alexa With Their Minds](https://www.wired.com/story/synchron-amazon-alexa-brain-computer-interface-bci/)
  - [iOS 18 Is Almost Here but It Won&#39;t Run on Every iPhone. Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/ios-18-is-almost-here-but-it-wont-run-on-every-iphone-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [Sources: in 2022, Intel lost out to AMD and TSMC on a contract to design and fabricate Sony&#39;s PS6 chip, a significant blow to its contract manufacturing unit &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240916/p6#a240916p6)
- - [&#39;Slow Horses&#39; wins outstanding writing Emmy for Apple TV+](https://appleinsider.com/articles/24/09/16/slow-horses-wins-outstanding-writing-emmy-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: in 2022, Intel lost out to AMD and TSMC on a contract to design and fabricate Sony&#39;s PS6 chip, a significant blow to its contract manufacturing unit &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240916/p6#a240916p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

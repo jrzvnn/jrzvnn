@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
+ - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
  - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 😝 [The look](http://9gag.com/gag/abAzjwO)
  - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
 
 ---

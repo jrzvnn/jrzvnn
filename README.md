@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tile’s new AirTag competitors now double as a panic button](https://www.theverge.com/2024/9/16/24246495/tile-2024-life360-sos-alerts-button)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Chipotle’s testing an avocado-peeling robot and an automated bowl assembly line](https://www.theverge.com/2024/9/16/24246401/chipotle-robotics-autocado-avocado-peeling-bowl-assembly-line)
- - [Google&#39;s 20% ad transaction cut was a primary subject of its antitrust trial at the end of week one; the DOJ says it&#39;s a key sign of Google&#39;s online ad monopoly &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240916/p22#a240916p22)
- - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI says Sam Altman will no longer serve on its board&#39;s safety and security committee, which will now be fully composed of independent board members &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240916/p23#a240916p23)
+ - [Download iOS 18 for Your iPhone. How to Get It Right Now](https://www.cnet.com/tech/services-and-software/download-ios-18-for-your-iphone-how-to-get-it-right-now/#ftag=CAD590a51e)
+ - [Tile’s new AirTag competitors now double as panic buttons](https://www.theverge.com/2024/9/16/24246495/tile-2024-life360-sos-alerts-button)
+ - [Using AirTags to Track Pets Can Be Dangerous. Try These Expert-Approved Alternatives Instead](https://www.cnet.com/home/kitchen-and-household/using-airtags-track-pets-can-be-dangerous-try-these-expert-approved-alternatives-instead/#ftag=CAD590a51e)
+ - [Score a Pair of Free OnePlus Earbuds When You Purchase the OnePlus 12R](https://www.cnet.com/deals/score-a-pair-of-free-oneplus-earbuds-when-you-purchase-the-oneplus-12r/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 💣 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 👉 [Creating a logo with fiber laser on a tumbler](http://9gag.com/gag/a34MV7e)<!-- MEMES:END -->
+ - 😝 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
+ - 😝 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
+ - 💣 [Men are so simple](http://9gag.com/gag/aKGDrdO)
+ - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---
 

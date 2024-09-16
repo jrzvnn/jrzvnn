@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reportedly picked AMD over Intel for the PS6](https://www.theverge.com/2024/9/16/24246234/playstation-6-rumor-sony-intel-amd)
  - [Android notifications might finally sync across devices soon](https://www.theverge.com/2024/9/16/24246293/google-android-15-beta-notification-sync-across-devices-code)
  - [Sports app now uses Live Activities to report the latest scores](https://appleinsider.com/articles/24/09/16/sports-app-now-uses-live-activities-to-report-the-latest-scores?utm_medium=rss)
  - [LG finally gets serious about the smart home](https://www.theverge.com/2024/9/16/24243056/lg-thinq-smart-home-platform-thinq-on-hub)
- - [11xAI, which builds AI bots that help automate end-to-end workflows, raised a $24M Series A led by Benchmark and says it is nearing ARR of $10M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240916/p17#a240916p17)
- - [Grab Apple AirPods for as low as $89, with deals of up to $250 off](https://appleinsider.com/articles/24/09/16/grab-apple-airpods-for-as-low-as-89-with-deals-of-up-to-250-off?utm_medium=rss)<!-- TECH:END -->
+ - [11xAI, which builds AI bots that help automate end-to-end workflows, raised a $24M Series A led by Benchmark and says it is nearing ARR of $10M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240916/p17#a240916p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

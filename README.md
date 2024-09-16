@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Groq partners with Aramco to build a data center in Saudi Arabia by 2024, says it will be the world&#39;s largest AI inferencing center with 19K Groq&#39;s custom GPUs &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240916/p1#a240916p1)
+ - [Best Internet Providers in Missoula, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-missoula-mt/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-16/#ftag=CAD590a51e)
  - [Mortgage Rates Are Falling, But Won’t Get Low Enough for Most Americans, CNET Survey Finds](https://www.cnet.com/personal-finance/mortgage-rates-are-falling-but-wont-get-low-enough-for-most-americans-cnet-survey-finds/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16, #197](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-197/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 16, #1185](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-16-1185/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16, #197](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-197/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

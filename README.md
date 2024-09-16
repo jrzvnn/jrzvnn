@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s 1TB 16-inch MacBook Pro M3 for $2,299 &lpar;all-time best price&rpar;](https://appleinsider.com/articles/24/09/16/get-apples-1tb-16-inch-macbook-pro-m3-for-2299-all-time-best-price?utm_medium=rss)
- - [Sony reportedly picked AMD over Intel for the PS6](https://www.theverge.com/2024/9/16/24246234/playstation-6-rumor-sony-intel-amd)
- - [Android notifications might finally sync across devices soon](https://www.theverge.com/2024/9/16/24246293/google-android-15-beta-notification-sync-across-devices-code)
- - [Sports app now uses Live Activities to report the latest scores](https://appleinsider.com/articles/24/09/16/sports-app-now-uses-live-activities-to-report-the-latest-scores?utm_medium=rss)
- - [LG finally gets serious about the smart home](https://www.theverge.com/2024/9/16/24243056/lg-thinq-smart-home-platform-thinq-on-hub)<!-- TECH:END -->
+ - [Apple ships tvOS 18 with new screen savers, improved subtitles, and more](https://appleinsider.com/articles/24/09/16/apple-ships-tvos-18-with-apple-intelligence-enhancement-new-screen-savers-and-more?utm_medium=rss)
+ - [macOS Sequoia review: the first macOS with more potential than new features](https://appleinsider.com/articles/24/09/16/macos-sequoia-review-the-first-macos-with-more-potential-than-new-features?utm_medium=rss)
+ - [iOS 18 is a smart upgrade, even without the AI](https://www.theverge.com/2024/9/16/24245582/ios-18-review-customization-apple-intelligence-siri)
+ - [macOS Sequoia arrives with the promise of Apple Intelligence](https://appleinsider.com/articles/24/09/16/macos-sequoia-arrives-with-the-promise-of-apple-intelligence?utm_medium=rss)
+ - [iPadOS 18 review: making iPad better for everyone but the pros](https://appleinsider.com/articles/24/09/16/ipados-18-review-making-ipad-better-for-everyone-but-the-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

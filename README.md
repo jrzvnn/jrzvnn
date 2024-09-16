@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google got away with charging publishers more than anyone else](https://www.theverge.com/2024/9/16/24244357/google-adx-take-rate-commission-antitrust-trial)
  - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)
  - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)
  - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)
- - [Apple releases visionOS 2 with new gestures and Persona changes](https://appleinsider.com/articles/24/09/16/apple-releases-visionos-2-with-new-gestures-and-persona-changes?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Apple releases visionOS 2 with new gestures and Persona changes](https://appleinsider.com/articles/24/09/16/apple-releases-visionos-2-with-new-gestures-and-persona-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

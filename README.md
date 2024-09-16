@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Chipotle’s testing an avocado-peeling robot and an automated bowl assembly line](https://www.theverge.com/2024/9/16/24246401/chipotle-robotics-autocado-avocado-peeling-bowl-assembly-line)
  - [Google&#39;s 20% ad transaction cut was a primary subject of its antitrust trial at the end of week one; the DOJ says it&#39;s a key sign of Google&#39;s online ad monopoly &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240916/p22#a240916p22)
  - [How Google got away with charging publishers more than anyone else](https://www.theverge.com/2024/9/16/24244357/google-adx-take-rate-commission-antitrust-trial)
- - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)
- - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)
- - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)<!-- TECH:END -->
+ - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

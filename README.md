@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance aims to mass produce two AI chips designed alongside TSMC in 2026; a source says ByteDance plans to order several hundred thousand &lpar;The Information&rpar;](http://www.techmeme.com/240916/p9#a240916p9)
+ - [How to Choose the Right Soundbar &lpar;2024&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
  - [Can satellites spot wildfires before they grow out of control?](https://www.theverge.com/2024/9/16/24243996/fire-satellite-google-firesat-constellation)
  - [AirPods 4 review roundup: noise cancellation is a game changer](https://appleinsider.com/articles/24/09/16/airpods-4-review-roundup-noise-cancellation-is-a-game-changer?utm_medium=rss)
- - [Apple AirPods 4 review: ANC is impressive for an open design, upgraded sound, and wireless charging, but no proper multipoint and inconvenient volume controls &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240916/p8#a240916p8)
- - [Apple AirPods 4 review: defying expectations](https://www.theverge.com/24245570/apple-airpods-4-review)
- - [Score Anker Chargers, Power Banks and More With 15% Off at Amazon](https://www.cnet.com/deals/score-anker-chargers-power-banks-and-more-with-15-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple AirPods 4 review: ANC is impressive for an open design, upgraded sound, and wireless charging, but no proper multipoint and inconvenient volume controls &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240916/p8#a240916p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

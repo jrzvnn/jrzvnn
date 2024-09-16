@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 💣 [Marie](http://9gag.com/gag/a6ZVWYA)
  - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
+ - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
 
 ---
 

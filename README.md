@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zildjian’s wireless headphones have a special ANC mode for drums](https://www.theverge.com/2024/9/16/24246091/zildjian-alchem-e-perfect-tune-wireless-headphones-anc)
  - [TikTok’s big day in court is here: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [What the Polaris Dawn mission could reveal about human health in space](https://www.theverge.com/2024/9/16/24246149/polaris-dawn-spacewalk-spacex-human-health-astronauts)
  - [Apple Watch sleep apnea detection gets FDA clearance](https://www.theverge.com/2024/9/16/24246150/apple-watch-sleep-apnea-detection-fda-approval)
- - [Brain implant startup Synchron says its interface now lets people with paralysis use Alexa without voice or physical interaction, on top of iPhones and more &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/240916/p13#a240916p13)
- - [How Philips CEO Roy Jakobs is turning the company around after a major recall](https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview)<!-- TECH:END -->
+ - [Brain implant startup Synchron says its interface now lets people with paralysis use Alexa without voice or physical interaction, on top of iPhones and more &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/240916/p13#a240916p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

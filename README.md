@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
- - 💣 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - 😝 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)
+ - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
+ - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 😝 [Fake tales about the future!](http://9gag.com/gag/aVv3jyK)
+ - 👉 [Women](http://9gag.com/gag/aGyj9rZ)<!-- MEMES:END -->
 
 ---
 

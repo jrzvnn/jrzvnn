@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
+ - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
  - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
  - 💣 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
  - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)

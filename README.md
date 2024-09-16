@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU Commissioner Thierry Breton, who oversees Big Tech regulation, says he is stepping down over a rift with Commission President Ursula von der Leyen &lpar;Reuters&rpar;](http://www.techmeme.com/240916/p2#a240916p2)
  - [Best Preorder Deals for the Apple Watch Series 10 Before It Launches This Week](https://www.cnet.com/deals/best-preorder-deals-for-the-apple-watch-series-10-before-it-launches-this-week/#ftag=CAD590a51e)
  - [iPhone 16 Launches This Week. Find the Best Preorder Deals Available Now](https://www.cnet.com/deals/iphone-16-launches-this-week-find-the-best-preorder-deals-available-now/#ftag=CAD590a51e)
- - [Groq partners with Aramco to build a data center in Saudi Arabia by 2024, says it will be the world&#39;s largest AI inferencing center with 19K Groq&#39;s custom GPUs &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240916/p1#a240916p1)
- - [Best Internet Providers in Missoula, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-missoula-mt/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Groq and Aramco plan to build a Saudi Arabia data center by the end of 2024; Groq says it will be the world&#39;s largest AI inferencing center with 19K Groq GPUs &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240916/p1#a240916p1)
+ - [Best Internet Providers in Missoula, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-missoula-mt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

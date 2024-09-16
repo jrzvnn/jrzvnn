@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
  - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 😝 [So many books](http://9gag.com/gag/azxXbYp)
  - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
- - 👉 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)<!-- MEMES:END -->
+ - 😝 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)
+ - 👉 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)<!-- MEMES:END -->
 
 ---
 

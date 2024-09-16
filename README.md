@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 😝 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - 😝 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
  - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - 😝 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - 👉 [Marathon Girl](http://9gag.com/gag/avy7bRM)<!-- MEMES:END -->
 
 ---
 

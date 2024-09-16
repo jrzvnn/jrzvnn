@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 😝 [The current situation in Sinaloa Mexico \ud83c\uddf2\ud83c\uddfd](http://9gag.com/gag/amo2j2y)
  - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 💣 [Justice](http://9gag.com/gag/aD2x0qd)
- - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
+ - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---
 

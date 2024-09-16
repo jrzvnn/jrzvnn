@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 😝 [My future](http://9gag.com/gag/aoyObnX)
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 👉 [Apparently a guy tries to show how safe \u2018certain\u2019 neighbourhoods are in order to prove that they\u2019re actually safe places to be.](http://9gag.com/gag/aO8rKBy)<!-- MEMES:END -->
+ - 😝 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - 💣 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 😝 [Apparently a guy tries to show how safe \u2018certain\u2019 neighbourhoods are in order to prove that they\u2019re actually safe places to be.](http://9gag.com/gag/aO8rKBy)
+ - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
 
 ---
 

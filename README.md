@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
- - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
- - 💣 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
- - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
- - 👉 [Title](http://9gag.com/gag/avyO2Zd)<!-- MEMES:END -->
+ - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
+ - 😝 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
+ - 💣 [What are they doing?](http://9gag.com/gag/aqy13xp)
+ - 😝 [Devil in the Red Dress](http://9gag.com/gag/amo7Nyv)
+ - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
 
 ---
 

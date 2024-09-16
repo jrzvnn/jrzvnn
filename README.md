@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)
- - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
- - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [Fake tales about the future!](http://9gag.com/gag/aVv3jyK)
- - 👉 [Women](http://9gag.com/gag/aGyj9rZ)<!-- MEMES:END -->
+ - 😝 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
+ - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
 
 ---
 

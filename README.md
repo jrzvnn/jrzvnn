@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)
+ - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)
+ - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)
  - [Apple releases visionOS 2 with new gestures and Persona changes](https://appleinsider.com/articles/24/09/16/apple-releases-visionos-2-with-new-gestures-and-persona-changes?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Amazon is making its employees come back to the office five days a week](https://www.theverge.com/2024/9/16/24246428/amazon-return-to-office-five-days-a-week)
- - [Apple Pay includes an option to pay with BNPL service Affirm on iOS 18, following the discontinuation of Apple Pay Later &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240916/p19#a240916p19)
- - [Apple releases updates for iOS 17.7, iPadOS 17.7, macOS Ventura, and Sonoma](https://appleinsider.com/articles/24/09/16/apple-releases-updates-for-ios-177-ipados-177-macos-ventura-and-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

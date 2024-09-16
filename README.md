@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wordle is now available in virtual reality](https://www.theverge.com/2024/9/16/24246399/wordle-meta-quest-vr)
+ - [Review of macOS 15 Sequoia: features like window tiling, the Passwords app, and iPhone mirroring make it a solid update even without upcoming AI features &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240916/p18#a240916p18)
+ - [The Polaris Dawn Spaceflight Was More Than Just a Billionaire Joyride](https://www.wired.com/story/polaris-dawn-spacewalk-success/)
  - [Apple ships tvOS 18 with new screen savers, improved subtitles, and more](https://appleinsider.com/articles/24/09/16/apple-ships-tvos-18-with-apple-intelligence-enhancement-new-screen-savers-and-more?utm_medium=rss)
- - [macOS Sequoia review: the first macOS with more potential than new features](https://appleinsider.com/articles/24/09/16/macos-sequoia-review-the-first-macos-with-more-potential-than-new-features?utm_medium=rss)
- - [iOS 18 is a smart upgrade, even without the AI](https://www.theverge.com/2024/9/16/24245582/ios-18-review-customization-apple-intelligence-siri)
- - [macOS Sequoia arrives with the promise of Apple Intelligence](https://appleinsider.com/articles/24/09/16/macos-sequoia-arrives-with-the-promise-of-apple-intelligence?utm_medium=rss)
- - [iPadOS 18 review: making iPad better for everyone but the pros](https://appleinsider.com/articles/24/09/16/ipados-18-review-making-ipad-better-for-everyone-but-the-pros?utm_medium=rss)<!-- TECH:END -->
+ - [macOS Sequoia review: the first macOS with more potential than new features](https://appleinsider.com/articles/24/09/16/macos-sequoia-review-the-first-macos-with-more-potential-than-new-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

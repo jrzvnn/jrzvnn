@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many books](http://9gag.com/gag/azxXbYp)
- - 😝 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)
- - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
- - 👉 [Short](http://9gag.com/gag/aXPxZVv)<!-- MEMES:END -->
+ - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 💣 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
 
 ---
 

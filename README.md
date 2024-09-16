@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel announces it is creating a separate entity for its foundry business, a structure that could allow it to raise outside funding; INTC jumps 8% after hours &lpar;CNBC&rpar;](http://www.techmeme.com/240916/p25#a240916p25)
+ - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+ - [Intel announces it will coinvest with AWS in a custom AI chip in a &quot;multiyear, multibillion-dollar framework&quot; and is delaying plants in Germany and Poland &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240916/p24#a240916p24)
  - [OpenAI says Sam Altman will no longer serve on its board&#39;s safety and security committee, which will now be fully composed of independent board members &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240916/p23#a240916p23)
- - [Download iOS 18 for Your iPhone. How to Get It Right Now](https://www.cnet.com/tech/services-and-software/download-ios-18-for-your-iphone-how-to-get-it-right-now/#ftag=CAD590a51e)
- - [Tile’s new AirTag competitors now double as panic buttons](https://www.theverge.com/2024/9/16/24246495/tile-2024-life360-sos-alerts-button)
- - [Using AirTags to Track Pets Can Be Dangerous. Try These Expert-Approved Alternatives Instead](https://www.cnet.com/home/kitchen-and-household/using-airtags-track-pets-can-be-dangerous-try-these-expert-approved-alternatives-instead/#ftag=CAD590a51e)
- - [Score a Pair of Free OnePlus Earbuds When You Purchase the OnePlus 12R](https://www.cnet.com/deals/score-a-pair-of-free-oneplus-earbuds-when-you-purchase-the-oneplus-12r/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Download iOS 18 for Your iPhone. How to Get It Right Now](https://www.cnet.com/tech/services-and-software/download-ios-18-for-your-iphone-how-to-get-it-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Runway announces an API for its video-generating AI model Gen-3 Alpha Turbo, with two plans available via a waitlist, starting at $0.01 per credit &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240916/p29#a240916p29)
+ - [OpenAI is launching an ‘independent’ safety board that can stop its model releases](https://www.theverge.com/2024/9/16/24246617/openai-independent-safety-board-stop-model-releases)
  - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)
- - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)
- - [The US awards Intel up to an additional $3B under the CHIPS and Science Act for the Secure Enclave program to expand the supply of microelectronics for the DOD &lpar;Kristian Burt/CNBC&rpar;](http://www.techmeme.com/240916/p28#a240916p28)
- - [Review of iOS 18: despite missing upcoming AI features, there&#39;s plenty to like including bold personalization options and solid updates to Notes, Calendar, Maps &lpar;Philip Michaels/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240916/p27#a240916p27)
- - [A US appeals court signals skepticism with TikTok&#39;s arguments against the law that could force it to sever ties with China to keep operating in the US &lpar;Jacob Gershman/Wall Street Journal&rpar;](http://www.techmeme.com/240916/p26#a240916p26)<!-- TECH:END -->
+ - [Wordle Hints, Strategies, Starter Words, Tips and Tricks To Help You Win](https://www.cnet.com/culture/wordle-hints-best-starter-words-strategies-tips-and-tricks-to-help-you-win/#ftag=CAD590a51e)
+ - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

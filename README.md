@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The look](http://9gag.com/gag/abAzjwO)
  - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 😝 [Tobacco company CEOs swearing under oath that nicotine is not addictive &lpar;1994&rpar;](http://9gag.com/gag/aZZgAX6)
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
- - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
+ - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - 😝 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
 
 ---
 

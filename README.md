@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok faces a skeptical panel of judges in its existential fight against the US government](https://www.theverge.com/2024/9/16/24246568/tiktok-v-garland-oral-arguments-dc-circuit)
  - [At an Oracle investor Q&amp;A, Larry Ellison pitched a future where AI systems would constantly monitor citizens through an extensive network of cameras and drones &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240916/p31#a240916p31)
+ - [Best Internet Providers in New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-new-mexico/#ftag=CAD590a51e)
  - [Don&#39;t wait to update: iOS 18 introduces key security fixes](https://appleinsider.com/articles/24/09/16/dont-wait-to-update-ios-18-introduces-key-security-fixes?utm_medium=rss)
- - [Microsoft unveils a $60B stock buyback program, matching its largest-ever repurchase authorization, and raises its quarterly dividend by 10% to $0.83 per share &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/240916/p30#a240916p30)
- - [Apple gets ready for AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
- - [Runway announces an API for its video-generating AI model Gen-3 Alpha Turbo, with two plans available via a waitlist, starting at $0.01 per credit &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240916/p29#a240916p29)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Falcons vs. Eagles Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-falcons-vs-eagles-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-16/#ftag=CAD590a51e)
+ - [Mortgage Rates Are Falling, But Won’t Get Low Enough for Most Americans, CNET Survey Finds](https://www.cnet.com/personal-finance/mortgage-rates-are-falling-but-wont-get-low-enough-for-most-americans-cnet-survey-finds/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16, #197](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-197/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Sept. 16, #1185](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-16-1185/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 16, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-16-463/#ftag=CAD590a51e)
- - [ChatGPT Glossary: 46 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-46-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
- - [Suspected Trump Gunman Was Once Charged With Possession of a Weapon of Mass Destruction](https://www.wired.com/story/ryan-routh-donald-trump-gunman-weapon-of-mass-destruction-criminal-record/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 16, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-16-463/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

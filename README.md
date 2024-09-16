@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Chipotle’s testing an avocado-peeling robot and an automated bowl assembly line](https://www.theverge.com/2024/9/16/24246401/chipotle-robotics-autocado-avocado-peeling-bowl-assembly-line)
  - [Google&#39;s 20% ad transaction cut was a primary subject of its antitrust trial at the end of week one; the DOJ says it&#39;s a key sign of Google&#39;s online ad monopoly &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240916/p22#a240916p22)
- - [How Google got away with charging publishers more than anyone else](https://www.theverge.com/2024/9/16/24244357/google-adx-take-rate-commission-antitrust-trial)
- - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)<!-- TECH:END -->
+ - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
+ - [If You Pay Insurance to Cover Medicare, the Birthday Rule Could Save You Big Money](https://www.cnet.com/personal-finance/if-you-pay-insurance-to-cover-medicare-the-birthday-rule-could-save-you-big-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

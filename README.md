@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US awards Intel up to an additional $3B under the CHIPS and Science Act for the Secure Enclave program to expand the supply of microelectronics for the DOD &lpar;Kristian Burt/CNBC&rpar;](http://www.techmeme.com/240916/p28#a240916p28)
+ - [Review of iOS 18: despite missing upcoming AI features, there&#39;s plenty to like including bold personalization options and solid updates to Notes, Calendar, Maps &lpar;Philip Michaels/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240916/p27#a240916p27)
+ - [A US appeals court signals skepticism with TikTok&#39;s arguments against the law that could force it to sever ties with China to keep operating in the US &lpar;Jacob Gershman/Wall Street Journal&rpar;](http://www.techmeme.com/240916/p26#a240916p26)
  - [Elon Musk Is a National Security Risk](https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/)
- - [Intel announces it is creating a separate entity for its foundry business, a structure that could allow it to raise outside funding; INTC jumps 8% after hours &lpar;CNBC&rpar;](http://www.techmeme.com/240916/p25#a240916p25)
- - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [Intel announces it will coinvest with AWS in a custom AI chip in a &quot;multiyear, multibillion-dollar framework&quot; and is delaying plants in Germany and Poland &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240916/p24#a240916p24)
- - [OpenAI says Sam Altman will no longer serve on its board&#39;s safety and security committee, which will now be fully composed of independent board members &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240916/p23#a240916p23)<!-- TECH:END -->
+ - [Halide’s advanced camera app is now as easy to launch as Apple’s](https://www.theverge.com/2024/9/16/24246547/iphone-ios-18-halide-camera-app-lock-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

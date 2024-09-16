@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases visionOS 2 with new gestures and Persona changes](https://appleinsider.com/articles/24/09/16/apple-releases-visionos-2-with-new-gestures-and-persona-changes?utm_medium=rss)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Amazon is making its employees come back to the office five days a week](https://www.theverge.com/2024/9/16/24246428/amazon-return-to-office-five-days-a-week)
  - [Apple Pay includes an option to pay with BNPL service Affirm on iOS 18, following the discontinuation of Apple Pay Later &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240916/p19#a240916p19)
- - [Apple releases updates for iOS 17.7, iPadOS 17.7, macOS Ventura, and Sonoma](https://appleinsider.com/articles/24/09/16/apple-releases-updates-for-ios-177-ipados-177-macos-ventura-and-sonoma?utm_medium=rss)
- - [Wordle is now available in virtual reality](https://www.theverge.com/2024/9/16/24246399/wordle-meta-quest-vr)
- - [Review of macOS 15 Sequoia: features like window tiling, the Passwords app, and iPhone mirroring make it a solid update even without upcoming AI features &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240916/p18#a240916p18)
- - [The Polaris Dawn Spaceflight Was More Than Just a Billionaire Joyride](https://www.wired.com/story/polaris-dawn-spacewalk-success/)<!-- TECH:END -->
+ - [Apple releases updates for iOS 17.7, iPadOS 17.7, macOS Ventura, and Sonoma](https://appleinsider.com/articles/24/09/16/apple-releases-updates-for-ios-177-ipados-177-macos-ventura-and-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

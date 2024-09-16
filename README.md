@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can satellites spot wildfires before they grow out of control?](https://www.theverge.com/2024/9/16/24243996/fire-satellite-google-firesat-constellation)
+ - [AirPods 4 review roundup: noise cancellation is a game changer](https://appleinsider.com/articles/24/09/16/airpods-4-review-roundup-noise-cancellation-is-a-game-changer?utm_medium=rss)
  - [Apple AirPods 4 review: ANC is impressive for an open design, upgraded sound, and wireless charging, but no proper multipoint and inconvenient volume controls &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240916/p8#a240916p8)
  - [Apple AirPods 4 review: defying expectations](https://www.theverge.com/24245570/apple-airpods-4-review)
- - [Score Anker Chargers, Power Banks and More With 15% Off at Amazon](https://www.cnet.com/deals/score-anker-chargers-power-banks-and-more-with-15-off-at-amazon/#ftag=CAD590a51e)
- - [Logitech G Fits Wireless Earbuds Price Drops by 57%, Hitting New All-Time Low](https://www.cnet.com/deals/logitech-g-fits-wireless-earbuds-price-drops-by-57-hitting-new-all-time-low/#ftag=CAD590a51e)
- - [OpenAI Messed With the Wrong Mega-Popular Parenting Forum](https://www.wired.com/story/mumsnet-openai-copyright-allegations/)<!-- TECH:END -->
+ - [Score Anker Chargers, Power Banks and More With 15% Off at Amazon](https://www.cnet.com/deals/score-anker-chargers-power-banks-and-more-with-15-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

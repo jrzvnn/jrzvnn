@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 💣 [Peak Old Days](http://9gag.com/gag/awyXbN1)
  - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
- - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
+ - 😝 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
+ - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
 
 ---
 

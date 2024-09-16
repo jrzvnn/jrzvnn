@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of sport is this](http://9gag.com/gag/arygp97)
- - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 😝 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
- - 👉 [Marathon Girl](http://9gag.com/gag/avy7bRM)<!-- MEMES:END -->
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
+ - 👉 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)<!-- MEMES:END -->
 
 ---
 

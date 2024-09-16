@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Messed With the Wrong Mega-Popular Parenting Forum](https://www.wired.com/story/mumsnet-openai-copyright-allegations/)
- - [Elon Musk deleted an X post that said &quot;no one is even trying to assassinate Biden/Kamala&quot; after an apparent Trump assassination attempt, calling the post a joke &lpar;Business Insider&rpar;](http://www.techmeme.com/240916/p7#a240916p7)
- - [This Brain Implant Lets People Control Amazon Alexa With Their Minds](https://www.wired.com/story/synchron-amazon-alexa-brain-computer-interface-bci/)
- - [iOS 18 Is Almost Here but It Won&#39;t Run on Every iPhone. Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/ios-18-is-almost-here-but-it-wont-run-on-every-iphone-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [Sources: in 2022, Intel lost out to AMD and TSMC on a contract to design and fabricate Sony&#39;s PS6 chip, a significant blow to its contract manufacturing unit &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240916/p6#a240916p6)<!-- TECH:END -->
+ - [Apple AirPods 4 review: ANC is impressive for an open design, upgraded sound, and wireless charging, but no proper multipoint and inconvenient volume controls &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240916/p8#a240916p8)
+ - [Apple AirPods 4 review: defying expectations](https://www.theverge.com/24245570/apple-airpods-4-review)
+ - [Score Anker Chargers, Power Banks and More With 15% Off at Amazon](https://www.cnet.com/deals/score-anker-chargers-power-banks-and-more-with-15-off-at-amazon/#ftag=CAD590a51e)
+ - [Logitech G Fits Wireless Earbuds Price Drops by 57%, Hitting New All-Time Low](https://www.cnet.com/deals/logitech-g-fits-wireless-earbuds-price-drops-by-57-hitting-new-all-time-low/#ftag=CAD590a51e)
+ - [OpenAI Messed With the Wrong Mega-Popular Parenting Forum](https://www.wired.com/story/mumsnet-openai-copyright-allegations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

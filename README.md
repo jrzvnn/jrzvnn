@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16, #197](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-197/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 16, #1185](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-16-1185/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 16, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-16-463/#ftag=CAD590a51e)
  - [ChatGPT Glossary: 46 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-46-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
- - [Suspected Trump Gunman Was Once Charged With Possession of a Weapon of Mass Destruction](https://www.wired.com/story/ryan-routh-donald-trump-gunman-weapon-of-mass-destruction-criminal-record/)
- - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)
- - [Best Internet Providers in Redding, California](https://www.cnet.com/home/internet/best-internet-providers-in-redding-ca/#ftag=CAD590a51e)
- - [Stop Vacuuming Back and Forth and Try This Method for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/stop-vacuuming-back-and-forth-and-try-this-method-for-a-cleaner-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Suspected Trump Gunman Was Once Charged With Possession of a Weapon of Mass Destruction](https://www.wired.com/story/ryan-routh-donald-trump-gunman-weapon-of-mass-destruction-criminal-record/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils a $60B stock buyback program, matching its largest-ever repurchase authorization, and raises its quarterly dividend by 10% to $0.83 per share &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/240916/p30#a240916p30)
+ - [Apple gets ready for AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
  - [Runway announces an API for its video-generating AI model Gen-3 Alpha Turbo, with two plans available via a waitlist, starting at $0.01 per credit &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240916/p29#a240916p29)
  - [OpenAI is launching an ‘independent’ safety board that can stop its model releases](https://www.theverge.com/2024/9/16/24246617/openai-independent-safety-board-stop-model-releases)
- - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)
- - [Wordle Hints, Strategies, Starter Words, Tips and Tricks To Help You Win](https://www.cnet.com/culture/wordle-hints-best-starter-words-strategies-tips-and-tricks-to-help-you-win/#ftag=CAD590a51e)
- - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)<!-- TECH:END -->
+ - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

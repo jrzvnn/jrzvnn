@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s 2024 Switch holiday bundle now includes OLED](https://www.theverge.com/2024/9/16/24246126/nintendo-switch-mario-kart-8-oled-bundle-nintendo-online)
- - [Microsoft confirms scrapping plans to overhaul its Edge browser UI, including moving away from a rounded tab design, first announced at a February 2023 event &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240916/p11#a240916p11)
- - [Slack unveils Agents for Slack, letting paid users access Salesforce AI agents, third-party agents from Asana, Cohere, Adobe, and others, and users&#39; own agents &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240916/p10#a240916p10)
- - [Sources: ByteDance aims to mass produce two AI chips designed alongside TSMC in 2026; a source says ByteDance plans to order several hundred thousand &lpar;The Information&rpar;](http://www.techmeme.com/240916/p9#a240916p9)
- - [How to Choose the Right Soundbar &lpar;2024&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)<!-- TECH:END -->
+ - [Apple Watch sleep apnea detection gets FDA clearance](https://www.theverge.com/2024/9/16/24246150/apple-watch-sleep-apnea-detection-fda-approval)
+ - [Brain implant startup Synchron says its interface now lets people with paralysis use Alexa without voice or physical interaction, on top of iPhones and more &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/240916/p13#a240916p13)
+ - [How Philips CEO Roy Jakobs is turning the company around after a major recall](https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview)
+ - [FDA approves Apple Watch sleep apnea detection &amp; notification](https://appleinsider.com/articles/24/09/16/fda-approves-apple-watch-sleep-apnea-detection-notification?utm_medium=rss)
+ - [Scientists Crack a 50-Year Mystery to Discover a New Set of Blood Groups](https://www.wired.com/story/scientists-keep-discovering-new-blood-groups-type-anwj-nhs-abo-rhesus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

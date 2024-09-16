@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 💣 [Marie](http://9gag.com/gag/a6ZVWYA)
  - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 👉 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)<!-- MEMES:END -->
+ - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
+ - 💣 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
+ - 👉 [Creating a logo with fiber laser on a tumbler](http://9gag.com/gag/a34MV7e)<!-- MEMES:END -->
 
 ---
 

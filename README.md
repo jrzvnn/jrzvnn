@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay includes an option to pay with BNPL service Affirm on iOS 18, following the discontinuation of Apple Pay Later &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240916/p19#a240916p19)
+ - [Apple releases updates for iOS 17.7, iPadOS 17.7, macOS Ventura, and Sonoma](https://appleinsider.com/articles/24/09/16/apple-releases-updates-for-ios-177-ipados-177-macos-ventura-and-sonoma?utm_medium=rss)
  - [Wordle is now available in virtual reality](https://www.theverge.com/2024/9/16/24246399/wordle-meta-quest-vr)
  - [Review of macOS 15 Sequoia: features like window tiling, the Passwords app, and iPhone mirroring make it a solid update even without upcoming AI features &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240916/p18#a240916p18)
- - [The Polaris Dawn Spaceflight Was More Than Just a Billionaire Joyride](https://www.wired.com/story/polaris-dawn-spacewalk-success/)
- - [Apple ships tvOS 18 with new screen savers, improved subtitles, and more](https://appleinsider.com/articles/24/09/16/apple-ships-tvos-18-with-apple-intelligence-enhancement-new-screen-savers-and-more?utm_medium=rss)
- - [macOS Sequoia review: the first macOS with more potential than new features](https://appleinsider.com/articles/24/09/16/macos-sequoia-review-the-first-macos-with-more-potential-than-new-features?utm_medium=rss)<!-- TECH:END -->
+ - [The Polaris Dawn Spaceflight Was More Than Just a Billionaire Joyride](https://www.wired.com/story/polaris-dawn-spacewalk-success/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

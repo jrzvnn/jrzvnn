@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China advises state-linked orgs to use a new lithography machine with a resolution of 65nm or better, signaling an improvement in its home-developed DUV tech &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/240916/p3#a240916p3)
- - [The Best Clitoral Suction Toys &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
- - [9 Hidden iOS 18 Features and Settings You Definitely Want to Know About](https://www.cnet.com/tech/services-and-software/9-hidden-ios-18-features-and-settings-you-definitely-want-to-know-about/#ftag=CAD590a51e)
- - [EU Commissioner Thierry Breton, who oversees Big Tech regulation, says he is stepping down over a rift with Commission President Ursula von der Leyen &lpar;Reuters&rpar;](http://www.techmeme.com/240916/p2#a240916p2)
- - [Best Preorder Deals for the Apple Watch Series 10 Before It Launches This Week](https://www.cnet.com/deals/best-preorder-deals-for-the-apple-watch-series-10-before-it-launches-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Somehow, the Dog Situation on Airplanes Has Gotten Even Wilder](https://www.wired.com/story/dogs-on-planes-new-rabies-rules-august-2024/)
+ - [Analysis: new iPhone first weekend pre-orders were down 12.7% to ~37M units; the iPhone 16 Pro declined 27% and iPhone 16 Pro Max 16% compared to the iPhone 15 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240916/p4#a240916p4)
+ - [iOS 18 Is Releasing Today. Here&#39;s How To Download the Latest iPhone OS](https://www.cnet.com/tech/services-and-software/ios-18-is-releasing-today-heres-how-to-download-the-latest-iphone-os/#ftag=CAD590a51e)
+ - [Best CD Rates Today, Sept. 16, 2024: Don&#39;t Let High APYs Pass You By. A Fed Rate Cut Is Coming](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-16-2024/#ftag=CAD590a51e)
+ - [Transfer Your Old iPhone Data to Your New iPhone 16 Without the Trauma](https://www.cnet.com/tech/mobile/transfer-your-old-iphone-data-to-your-new-iphone-16-without-the-trauma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

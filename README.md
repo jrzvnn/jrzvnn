@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The current situation in Sinaloa Mexico \ud83c\uddf2\ud83c\uddfd](http://9gag.com/gag/amo2j2y)
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
  - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
+ - 💣 [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
  - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---

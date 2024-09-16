@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Slow Horses&#39; wins outstanding writing Emmy for Apple TV+](https://appleinsider.com/articles/24/09/16/slow-horses-wins-outstanding-writing-emmy-for-apple-tv?utm_medium=rss)
+ - [Apple increases the cost of out-of-warranty battery replacement for iPhone 16 Pro models by 20% to $119; the fee remains $99 for the iPhone 16 and 16 Plus &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240916/p5#a240916p5)
  - [Somehow, the Dog Situation on Airplanes Has Gotten Even Wilder](https://www.wired.com/story/dogs-on-planes-new-rabies-rules-august-2024/)
  - [Analysis: new iPhone first weekend pre-orders were down 12.7% to ~37M units; the iPhone 16 Pro declined 27% and iPhone 16 Pro Max 16% compared to the iPhone 15 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240916/p4#a240916p4)
- - [iOS 18 Is Releasing Today. Here&#39;s How To Download the Latest iPhone OS](https://www.cnet.com/tech/services-and-software/ios-18-is-releasing-today-heres-how-to-download-the-latest-iphone-os/#ftag=CAD590a51e)
- - [Best CD Rates Today, Sept. 16, 2024: Don&#39;t Let High APYs Pass You By. A Fed Rate Cut Is Coming](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-16-2024/#ftag=CAD590a51e)
- - [Transfer Your Old iPhone Data to Your New iPhone 16 Without the Trauma](https://www.cnet.com/tech/mobile/transfer-your-old-iphone-data-to-your-new-iphone-16-without-the-trauma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 Is Releasing Today. Here&#39;s How To Download the Latest iPhone OS](https://www.cnet.com/tech/services-and-software/ios-18-is-releasing-today-heres-how-to-download-the-latest-iphone-os/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

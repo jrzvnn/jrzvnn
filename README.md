@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
- - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 💣 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
- - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
- - 👉 [Title](http://9gag.com/gag/avyO2Zd)<!-- MEMES:END -->
+ - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 😝 [My future](http://9gag.com/gag/aoyObnX)
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 👉 [Apparently a guy tries to show how safe \u2018certain\u2019 neighbourhoods are in order to prove that they\u2019re actually safe places to be.](http://9gag.com/gag/aO8rKBy)<!-- MEMES:END -->
 
 ---
 

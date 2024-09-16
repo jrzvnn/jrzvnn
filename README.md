@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [This Brain Implant Lets People Control Amazon Alexa With Their Minds](https://www.wired.com/story/synchron-amazon-alexa-brain-computer-interface-bci/)
+ - [iOS 18 Is Almost Here but It Won&#39;t Run on Every iPhone. Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/ios-18-is-almost-here-but-it-wont-run-on-every-iphone-heres-what-you-need-to-know/#ftag=CAD590a51e)
  - [Sources: in 2022, Intel lost out to AMD and TSMC on a contract to design and fabricate Sony&#39;s PS6 chip, a significant blow to its contract manufacturing unit &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240916/p6#a240916p6)
  - [&#39;Slow Horses&#39; wins outstanding writing Emmy for Apple TV+](https://appleinsider.com/articles/24/09/16/slow-horses-wins-outstanding-writing-emmy-for-apple-tv?utm_medium=rss)
- - [Apple increases the cost of out-of-warranty battery replacement for iPhone 16 Pro models by 20% to $119; the fee remains $99 for the iPhone 16 and 16 Plus &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240916/p5#a240916p5)
- - [Somehow, the Dog Situation on Airplanes Has Gotten Even Wilder](https://www.wired.com/story/dogs-on-planes-new-rabies-rules-august-2024/)<!-- TECH:END -->
+ - [Mortgage Rate Predictions for Week of Sept. 16-22, 2024](https://www.cnet.com/personal-finance/mortgages/mortgage-rate-predictions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

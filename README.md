@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The look](http://9gag.com/gag/abAzjwO)
- - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 👉 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)<!-- MEMES:END -->
+ - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 💣 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 👉 [Title](http://9gag.com/gag/avyO2Zd)<!-- MEMES:END -->
 
 ---
 

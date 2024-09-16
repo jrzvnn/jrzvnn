@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
  - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
- - 👉 [Marathon Girl](http://9gag.com/gag/avy7bRM)<!-- MEMES:END -->
+ - 💣 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---
 

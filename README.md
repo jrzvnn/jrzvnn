@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
- - 😝 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
- - 💣 [Men are so simple](http://9gag.com/gag/aKGDrdO)
+ - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
+ - 😝 [A man with rare antigens that cure Rhesus disease donate plasma every week for 60 years saving 2.4 million babies.](http://9gag.com/gag/aZZgG79)
+ - 💣 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
  - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - 👉 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)<!-- MEMES:END -->
 
 ---
 

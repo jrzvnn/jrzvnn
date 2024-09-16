@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)
  - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)
  - [The US awards Intel up to an additional $3B under the CHIPS and Science Act for the Secure Enclave program to expand the supply of microelectronics for the DOD &lpar;Kristian Burt/CNBC&rpar;](http://www.techmeme.com/240916/p28#a240916p28)
  - [Review of iOS 18: despite missing upcoming AI features, there&#39;s plenty to like including bold personalization options and solid updates to Notes, Calendar, Maps &lpar;Philip Michaels/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240916/p27#a240916p27)
- - [A US appeals court signals skepticism with TikTok&#39;s arguments against the law that could force it to sever ties with China to keep operating in the US &lpar;Jacob Gershman/Wall Street Journal&rpar;](http://www.techmeme.com/240916/p26#a240916p26)
- - [Elon Musk Is a National Security Risk](https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/)<!-- TECH:END -->
+ - [A US appeals court signals skepticism with TikTok&#39;s arguments against the law that could force it to sever ties with China to keep operating in the US &lpar;Jacob Gershman/Wall Street Journal&rpar;](http://www.techmeme.com/240916/p26#a240916p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

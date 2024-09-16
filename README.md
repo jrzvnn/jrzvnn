@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
- - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 💣 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 😝 [Apparently a guy tries to show how safe \u2018certain\u2019 neighbourhoods are in order to prove that they\u2019re actually safe places to be.](http://9gag.com/gag/aO8rKBy)
- - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
+ - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 😝 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
+ - 💣 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 😝 [Title](http://9gag.com/gag/avyO2Zd)
+ - 👉 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
 
 ---
 

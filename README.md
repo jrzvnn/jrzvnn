@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
- - 😝 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
- - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
  - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
  - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
 
 ---

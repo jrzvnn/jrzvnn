@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t wait to update: iOS 18 introduces key security fixes](https://appleinsider.com/articles/24/09/16/dont-wait-to-update-ios-18-introduces-key-security-fixes?utm_medium=rss)
  - [Microsoft unveils a $60B stock buyback program, matching its largest-ever repurchase authorization, and raises its quarterly dividend by 10% to $0.83 per share &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/240916/p30#a240916p30)
  - [Apple gets ready for AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
  - [Runway announces an API for its video-generating AI model Gen-3 Alpha Turbo, with two plans available via a waitlist, starting at $0.01 per credit &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240916/p29#a240916p29)
- - [OpenAI is launching an ‘independent’ safety board that can stop its model releases](https://www.theverge.com/2024/9/16/24246617/openai-independent-safety-board-stop-model-releases)
- - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)<!-- TECH:END -->
+ - [OpenAI is launching an ‘independent’ safety board that can stop its model releases](https://www.theverge.com/2024/9/16/24246617/openai-independent-safety-board-stop-model-releases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

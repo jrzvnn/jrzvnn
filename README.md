@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
- - 😝 [A man with rare antigens that cure Rhesus disease donate plasma every week for 60 years saving 2.4 million babies.](http://9gag.com/gag/aZZgG79)
- - 💣 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
- - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 👉 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)<!-- MEMES:END -->
+ - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
+ - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 💣 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)
+ - 😝 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - 👉 [Title](http://9gag.com/gag/avyO2Zd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
+ - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
  - 😝 [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
- - 💣 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
  - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 👉 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 😝 [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
- - 💣 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 😝 [Title](http://9gag.com/gag/aAyxBqL)
- - 👉 [Marathon Girl](http://9gag.com/gag/avy7bRM)<!-- MEMES:END -->
+ - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 💣 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)
+ - 😝 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
+ - 👉 [BBC journalists requested an interview with Facebook because they weren&#39;t removing child abuse photos. Facebook asked to be sent the photos as proof. When journalists sent the photos, Facebook reported the them to the police because distributing child abuse imagery is illegal.](http://9gag.com/gag/abAz9EX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 😝 [So many books](http://9gag.com/gag/azxXbYp)
- - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [How to make non vegan bacon](http://9gag.com/gag/a9ypb1L)
- - 👉 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)<!-- MEMES:END -->
+ - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 💣 [Justice](http://9gag.com/gag/aD2x0qd)
+ - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
 
 ---
 

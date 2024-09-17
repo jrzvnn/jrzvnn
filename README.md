@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
- - 😝 [Yep](http://9gag.com/gag/a5QopBr)
- - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
  - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
+ - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 👉 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)<!-- MEMES:END -->
 
 ---
 

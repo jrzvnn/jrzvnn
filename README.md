@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
  - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
  - 💣 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)
- - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
- - 👉 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)<!-- MEMES:END -->
+ - 😝 [Future Darwin Award winner](http://9gag.com/gag/aW410o6)
+ - 👉 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)<!-- MEMES:END -->
 
 ---
 

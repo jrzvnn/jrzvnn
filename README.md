@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [California governor signs rules limiting AI actor clones](https://www.theverge.com/2024/9/17/24247583/california-governor-newsom-signs-ai-digital-replica-bills)
  - [Sources: Apple&#39;s A16 SoC is currently being manufactured at Phase 1 of TSMC&#39;s Fab 21 in Arizona in small, but significant, numbers &lpar;Tim Culpan/Tim Culpan&#39;s Position&rpar;](http://www.techmeme.com/240917/p34#a240917p34)
  - [The Pixel Buds Pro no longer let you ‘touch and hold’ to hear notifications](https://www.theverge.com/2024/9/17/24247500/google-pixel-buds-pro-touch-and-hold-hear-notifications)
- - [The Pentagon will award $269M to 33 chip research projects across the US via Chips Act funding to bolster semiconductor efforts for the military &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240917/p33#a240917p33)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [The Pentagon will award $269M to 33 chip research projects across the US via Chips Act funding to bolster semiconductor efforts for the military &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240917/p33#a240917p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

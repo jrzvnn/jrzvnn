@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
- - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
- - 💣 [So many books](http://9gag.com/gag/azxXbYp)
- - 😝 [C U Next Time](http://9gag.com/gag/aYQgbD2)
- - 👉 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
+ - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 👉 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)<!-- MEMES:END -->
 
 ---
 

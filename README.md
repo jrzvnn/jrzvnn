@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 💣 [What kind of sport is this](http://9gag.com/gag/arygp97)
- - 😝 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)
- - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
+ - 😝 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
+ - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 💣 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 😝 [Title](http://9gag.com/gag/aAyxBqL)
+ - 👉 [Women](http://9gag.com/gag/aGyj9rZ)<!-- MEMES:END -->
 
 ---
 

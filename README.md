@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says it plans to start checking US passengers&#39; account info against third-party ID verification databases; drivers will be able to see a user&#39;s blue badge &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240917/p16#a240917p16)
- - [How to use macOS Terminal and what it’s useful for](https://www.theverge.com/24246585/macos-apple-terminal-how-to)
- - [Amazon is producing The Sims movie](https://www.theverge.com/2024/9/17/24247232/the-sims-movie-amazon-luckychap-kate-heron-briony-redman)
- - [New image of Titan submersible wreck released by US Coast Guard](https://www.theverge.com/2024/9/17/24247067/titan-submersible-wreck-image-investigation-hearing-coast-guard)
- - [Epomaker’s TH80 Pro, our top mechanical keyboard budget pick, is cheaper than ever](https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale)<!-- TECH:END -->
+ - [The EU picks veteran Finnish lawmaker Henna Virkkunen to take over from Thierry Breton, pending her confirmation; Virkkunen was central in creating the DSA &lpar;Bloomberg&rpar;](http://www.techmeme.com/240917/p18#a240917p18)
+ - [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
+ - [The US FDIC proposes rules for banks holding customer funds for money management apps, to track customers&#39; balances, citing harms done when Synapse cratered &lpar;Emily Flitter/New York Times&rpar;](http://www.techmeme.com/240917/p17#a240917p17)
+ - [Here’s how green bubbles are getting upgraded in iOS](https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded)
+ - [Uber says it plans to start checking US passengers&#39; account info against third-party ID verification databases; drivers will be able to see a user&#39;s blue badge &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240917/p16#a240917p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

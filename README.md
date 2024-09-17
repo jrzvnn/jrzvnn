@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA is launching a social app for its sports games](https://www.theverge.com/2024/9/17/24247276/ea-sports-social-mobile-app)
+ - [The Sonos Arc Ultra and Sub 4 have leaked, and they’re likely coming soon](https://www.theverge.com/2024/9/17/24247380/sonos-arc-ultra-sub-4-leaked-photos)
  - [Netflix’s next animated Witcher movie streams in February](https://www.theverge.com/24247192/the-witcher-sirens-of-the-deep-netflix-date-trailer)
  - [The 31 Best Shows on Apple TV+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Late-Night Snack? Make It One of These 7 Expert-Approved Foods for Better Sleep](https://www.cnet.com/health/sleep/late-night-snack-make-it-one-of-these-7-expert-approved-foods-for-better-sleep/#ftag=CAD590a51e)
- - [Apple stops iPadOS 18 updates for M4 iPad Pro](https://appleinsider.com/articles/24/09/17/apple-stops-ipados-18-updates-for-m4-ipad-pro?utm_medium=rss)
- - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple stops iPadOS 18 updates for M4 iPad Pro](https://appleinsider.com/articles/24/09/17/apple-stops-ipados-18-updates-for-m4-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

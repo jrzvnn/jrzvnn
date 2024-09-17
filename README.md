@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok faces a skeptical panel of judges in its existential fight against the US government](https://www.theverge.com/2024/9/16/24246568/tiktok-v-garland-oral-arguments-dc-circuit)
- - [At an Oracle investor Q&amp;A, Larry Ellison pitched a future where AI systems would constantly monitor citizens through an extensive network of cameras and drones &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240916/p31#a240916p31)
- - [Best Desktop Computer Deals: Save on Apple, HP, Dell and More](https://www.cnet.com/deals/best-desktop-computer-deals/#ftag=CAD590a51e)
- - [Interest Rate Cuts Are Days Away. How Low Will the Fed Go?](https://www.cnet.com/personal-finance/interest-rate-cuts-are-days-away-how-low-will-the-fed-go/#ftag=CAD590a51e)
- - [Best Internet Providers in New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-new-mexico/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US federal jury finds Zynga infringed on two IBM patents related to web-based communications and orders the game maker to pay $44.9M; Zynga plans to appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240916/p33#a240916p33)
+ - [‘I Told Him I’m Not Getting in It’: Former Titan Submersible Engineer Testifies](https://www.wired.com/story/oceangate-hearings-day-one-witness-tony-nissen-coast-guard/)
+ - [Meta says it&#39;s banning Russian media outlet RT from its apps globally, days after the Biden admin accused RT of acting as an arm of Moscow&#39;s spy agencies &lpar;NBC News&rpar;](http://www.techmeme.com/240916/p32#a240916p32)
+ - [Netflix Reveals Action-Packed New Sneak Peek at Gundam: Requiem for Vengeance](https://www.cnet.com/tech/services-and-software/netflix-reveals-action-packed-new-sneak-peek-at-gundam-requiem-for-vengeance/#ftag=CAD590a51e)
+ - [How to Turn Your Old Smartphone Into a Free Security Camera](https://www.cnet.com/home/security/how-to-turn-your-old-smartphone-into-a-free-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

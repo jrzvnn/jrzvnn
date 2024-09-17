@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to flag AI-generated images that have C2PA metadata on Search, Google Lens, and Circle to Search in the &quot;about this image&quot; box, within a few months &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p19#a240917p19)
  - [Apple updates iWork productivity app suite with iOS 18 &amp; macOS Sequoia features](https://appleinsider.com/articles/24/09/17/apple-updates-iwork-productivity-app-suite-with-ios-18-macos-sequoia-features?utm_medium=rss)
  - [In defense of the iPhone Action Button](https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples)
  - [The EU picks veteran Finnish lawmaker Henna Virkkunen to take over from Thierry Breton, pending her confirmation; Virkkunen was central in creating the DSA &lpar;Bloomberg&rpar;](http://www.techmeme.com/240917/p18#a240917p18)
- - [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
- - [The US FDIC proposes rules for banks holding customer funds for money management apps, to track customers&#39; balances, citing harms done when Synapse cratered &lpar;Emily Flitter/New York Times&rpar;](http://www.techmeme.com/240917/p17#a240917p17)<!-- TECH:END -->
+ - [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

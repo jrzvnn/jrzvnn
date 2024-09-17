@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sequoia backs five USB-C port Mac mini rumors](https://appleinsider.com/articles/24/09/17/macos-sequoia-backs-five-usb-c-port-mac-mini-rumors?utm_medium=rss)
  - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
  - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/review-apple-watch-series-10-nl/)
  - [Why is Apple sleeping on the AirPods Max?](https://www.theverge.com/2024/9/17/24242378/airpods-max-usb-c-unchanged-missing-features)
- - [How Netflix staged a remarkable recovery since its 2022 stock crash, adding 45M+ subscribers via a password crackdown and gaining an edge over Hollywood rivals &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/240917/p8#a240917p8)
- - [How Apple Watch sleep apnea detection works in watchOS 11](https://appleinsider.com/articles/24/09/17/how-apple-watch-sleep-apnea-detection-works-in-watchos-11?utm_medium=rss)<!-- TECH:END -->
+ - [How Netflix staged a remarkable recovery since its 2022 stock crash, adding 45M+ subscribers via a password crackdown and gaining an edge over Hollywood rivals &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/240917/p8#a240917p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

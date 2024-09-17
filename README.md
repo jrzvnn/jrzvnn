@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 💣 [Chin](http://9gag.com/gag/aByx3Nz)
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 👉 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)<!-- MEMES:END -->
+ - 😝 [Aim](http://9gag.com/gag/amo70ej)
+ - 😝 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)
+ - 👉 [If they installed one of these, would you return to the office](http://9gag.com/gag/aO8rVPv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trumps Have Gone Full Crypto With World Liberty Financial](https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/)
  - [How to compress folders on iPad to save on storage space](https://appleinsider.com/inside/ipad/tips/how-to-compress-folders-on-ipad-to-save-on-storage-space?utm_medium=rss)
  - [Trump launches World Liberty Financial, a DeFi lending project on Ethereum underpinned by the WLFI governance token; up to 63% of WLFI to be sold to the public &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/240916/p35#a240916p35)
  - [Trump is hawking tokens for a crypto project he still hasn’t explained](https://www.theverge.com/2024/9/16/24246805/trump-world-liberty-financial-crypto-platform-announcement)
- - [Best Coolers of 2024](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the activity of some members of The Com, an online community linked to the Scattered Spider hacking group, and their involvement in extortion groups &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240916/p34#a240916p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

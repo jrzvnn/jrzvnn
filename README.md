@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
- - 😝 [C U Next Time](http://9gag.com/gag/aYQgbD2)
- - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [Title](http://9gag.com/gag/aAyxBqL)
- - 👉 [East vs West. which side are you gamers?](http://9gag.com/gag/a2voE5D)<!-- MEMES:END -->
+ - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 💣 [Who not?](http://9gag.com/gag/aByxRyO)
+ - 😝 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
+ - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
 
 ---
 

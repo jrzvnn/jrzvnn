@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is producing The Sims movie](https://www.theverge.com/2024/9/17/24247232/the-sims-movie-amazon-luckychap-kate-heron-briony-redman)
  - [New image of Titan submersible wreck released by US Coast Guard](https://www.theverge.com/2024/9/17/24247067/titan-submersible-wreck-image-investigation-hearing-coast-guard)
  - [Epomaker’s TH80 Pro, our top mechanical keyboard budget pick, is cheaper than ever](https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale)
  - [Former MoviePass CEO admits the $9.95 ‘unlimited’ ticket scheme was fraud](https://www.theverge.com/2024/9/17/24247051/moviepass-ceo-mitch-lowe-guilty-plea-fraud)
- - [Best iPad Pro Deals: Get Apple&#39;s Best Tablet for Less](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)
- - [Feeling Down? 6 Ways Your Sleep Habits Can Sabotage Your Happiness](https://www.cnet.com/health/mental/feeling-down-6-ways-your-sleep-habits-can-sabotage-your-happiness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Pro Deals: Get Apple&#39;s Best Tablet for Less](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

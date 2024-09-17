@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the activity of some members of The Com, an online community linked to the Scattered Spider hacking group, and their involvement in extortion groups &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240916/p34#a240916p34)
  - [A US federal jury finds Zynga infringed on two IBM patents related to web-based communications and orders the game maker to pay $44.9M; Zynga plans to appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240916/p33#a240916p33)
  - [‘I Told Him I’m Not Getting in It’: Former Titan Submersible Engineer Testifies](https://www.wired.com/story/oceangate-hearings-day-one-witness-tony-nissen-coast-guard/)
  - [Meta says it&#39;s banning Russian media outlet RT from its apps globally, days after the Biden admin accused RT of acting as an arm of Moscow&#39;s spy agencies &lpar;NBC News&rpar;](http://www.techmeme.com/240916/p32#a240916p32)
- - [Netflix Reveals Action-Packed New Sneak Peek at Gundam: Requiem for Vengeance](https://www.cnet.com/tech/services-and-software/netflix-reveals-action-packed-new-sneak-peek-at-gundam-requiem-for-vengeance/#ftag=CAD590a51e)
- - [How to Turn Your Old Smartphone Into a Free Security Camera](https://www.cnet.com/home/security/how-to-turn-your-old-smartphone-into-a-free-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix Reveals Action-Packed New Sneak Peek at Gundam: Requiem for Vengeance](https://www.cnet.com/tech/services-and-software/netflix-reveals-action-packed-new-sneak-peek-at-gundam-requiem-for-vengeance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
  - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - 💣 [Chin](http://9gag.com/gag/aByx3Nz)
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 👉 [What kind of sport is this](http://9gag.com/gag/arygp97)<!-- MEMES:END -->
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 💣 [9gagger checking to see if the company in their house left yet.](http://9gag.com/gag/axy1dzW)
+ - 😝 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---
 

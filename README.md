@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 💣 [Peak Old Days](http://9gag.com/gag/awyXbN1)
  - 😝 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 👉 [What kind of sport is this](http://9gag.com/gag/arygp97)<!-- MEMES:END -->
+ - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 💣 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 😝 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)
+ - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
 
 ---
 

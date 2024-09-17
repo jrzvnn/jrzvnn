@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla says it will shut down its Mastodon server, Mozilla.social, giving users until December 17 to export their data and migrate to another instance &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240917/p26#a240917p26)
+ - [How to Shop Like a Pro During Amazon Prime Day October 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
+ - [Pew survey: 17% of US adults say they regularly get news on TikTok in 2024, up from 14% in 2023 and 3% in 2020; 39% aged 18 to 29 do so, up from 32% a year ago &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240917/p25#a240917p25)
  - [EA is launching a social app for its sports games](https://www.theverge.com/2024/9/17/24247276/ea-sports-social-mobile-app)
- - [The Sonos Arc Ultra and Sub 4 have leaked, and they’re likely coming soon](https://www.theverge.com/2024/9/17/24247380/sonos-arc-ultra-sub-4-leaked-photos)
- - [Netflix’s next animated Witcher movie streams in February](https://www.theverge.com/24247192/the-witcher-sirens-of-the-deep-netflix-date-trailer)
- - [The 31 Best Shows on Apple TV+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Apple stops iPadOS 18 updates for M4 iPad Pro](https://appleinsider.com/articles/24/09/17/apple-stops-ipados-18-updates-for-m4-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [The Sonos Arc Ultra and Sub 4 have leaked, and they’re likely coming soon](https://www.theverge.com/2024/9/17/24247380/sonos-arc-ultra-sub-4-leaked-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

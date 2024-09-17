@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 💣 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
- - 😝 [Another mistake by the Jedi High Council](http://9gag.com/gag/aPAjyon)
- - 👉 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)<!-- MEMES:END -->
+ - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
+ - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 💣 [So many books](http://9gag.com/gag/azxXbYp)
+ - 😝 [C U Next Time](http://9gag.com/gag/aYQgbD2)
+ - 👉 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
 
 ---
 

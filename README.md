@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Setapp Mobile’s open beta adds more apps for European iPhone users](https://www.theverge.com/2024/9/17/24243950/setapp-mobile-alternative-ios-app-store-eu-open-beta)
  - [A look at Shenzhen-based Transsion, whose Infinix and Tecno command about 50% of Africa&#39;s smartphone market and are finding success in Asia and the Middle East &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240917/p3#a240917p3)
+ - [iPhone 16 Arrives in 3 Days: Best Preorder Deals Available Right Now](https://www.cnet.com/deals/iphone-16-arrives-in-3-days-best-preorder-deals-available-right-now/#ftag=CAD590a51e)
  - [Burning Man Is Over, but Regional Burns Keep the Party Going Year-Round](https://www.wired.com/story/burning-man-regional-burns-around-the-world/)
- - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)
- - [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://www.theverge.com/2024/9/17/24244180/amazon-october-prime-day-big-deal-days-fall-dates-2024)<!-- TECH:END -->
+ - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

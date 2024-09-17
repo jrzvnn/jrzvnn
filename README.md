@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neuralink says Blindsight, its experimental implant aimed at restoring vision, has received the US FDA&#39;s &quot;breakthrough device&quot; designation &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/240917/p32#a240917p32)
  - [Microsoft: starting in late August, Russian cyber operatives focused on Harris&#39; campaign, with disinfo including videos spread by a site posing as a news outlet &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240917/p31#a240917p31)
- - [Snapchat&#39;s My Selfie Feature May Use Your Face in Ads: Here&#39;s How to Stop It](https://www.cnet.com/tech/services-and-software/snapchats-my-selfie-feature-may-use-your-face-in-ads-heres-how-to-stop-it/#ftag=CAD590a51e)
  - [California Governor Gavin Newsom signs two bills restricting the use of AI replicas of performers, building on protections SAG-AFTRA sought in its 2023 strike &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240917/p30#a240917p30)
- - [Netflix Games Unveils Squid Game and More Coming to the Service Soon](https://www.cnet.com/tech/gaming/netflix-games-unveils-squid-game-and-more-coming-to-the-service-soon/#ftag=CAD590a51e)
- - [EA Begins Dropping Details on Next Battlefield Game](https://www.cnet.com/tech/gaming/ea-begins-dropping-details-on-next-battlefield-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spatial photos now available on iPhone 15 Pro with iOS 18.1 developer beta 4](https://appleinsider.com/articles/24/09/17/spatial-photos-now-available-on-iphone-15-pro-with-ios-181-developer-beta-4?utm_medium=rss)
+ - [SocialAI: We tried the Twitter clone where no other humans are allowed](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

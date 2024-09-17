@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Netflix’s next animated Witcher movie streams in February](https://www.theverge.com/24247192/the-witcher-sirens-of-the-deep-netflix-date-trailer)
  - [The 31 Best Shows on Apple TV+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Late-Night Snack? Make It One of These 7 Expert-Approved Foods for Better Sleep](https://www.cnet.com/health/sleep/late-night-snack-make-it-one-of-these-7-expert-approved-foods-for-better-sleep/#ftag=CAD590a51e)
  - [Apple stops iPadOS 18 updates for M4 iPad Pro](https://appleinsider.com/articles/24/09/17/apple-stops-ipados-18-updates-for-m4-ipad-pro?utm_medium=rss)
- - [The Mystery of Hezbollah’s Deadly Exploding Pagers](https://www.wired.com/story/pager-explosion-hezbollah/)
- - [Apple A16 chip is now being produced in the USA](https://appleinsider.com/articles/24/09/17/apple-a16-chip-is-now-being-produced-in-the-usa?utm_medium=rss)<!-- TECH:END -->
+ - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 😝 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - 💣 [This Screwdriver that looks like a Revolver](http://9gag.com/gag/avyOP1n)
- - 😝 [Aim](http://9gag.com/gag/amo70ej)
- - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
+ - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 💣 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 👉 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
- - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 💣 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 😝 [Title](http://9gag.com/gag/aAyxBqL)
- - 👉 [Women](http://9gag.com/gag/aGyj9rZ)<!-- MEMES:END -->
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
+ - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 😝 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)
+ - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
 
 ---
 

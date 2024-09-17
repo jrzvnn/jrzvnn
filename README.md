@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EssilorLuxottica and Meta agree a 10-year deal to continue developing smart eyewear, after creating two generations of Ray-Ban glasses since 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p7#a240917p7)
+ - [Lo-Fi Weather Channel Videos Are Soothing Climate Fears on YouTube](https://www.wired.com/story/vaporwave-weatherwave-youtube-climate-change/)
  - [OpenAI confirms fixing an issue &quot;where it appeared as though ChatGPT was starting new conversations&quot;, after users reported ChatGPT reaching out proactively &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/240917/p6#a240917p6)
  - [Time Bandits cancelled by Apple TV+](https://appleinsider.com/articles/24/09/17/time-bandits-cancelled-by-apple-tv?utm_medium=rss)
- - [A look at France&#39;s LOPMI law, enacted in January 2023 to criminalize tech executives whose platforms allow illegal activities, as Pavel Durov remains on bail &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240917/p5#a240917p5)
- - [German grocery delivery app Flink raised $115M in equity and $35M in debt, sources say at a valuation just under $1B; Flink has raised $1.5B+, per PitchBook &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240917/p4#a240917p4)
- - [Brompton Electric G Line Review: Stupid Amounts of Fun](https://www.wired.com/review/review-brompton-electric-g-line/)<!-- TECH:END -->
+ - [A look at France&#39;s LOPMI law, enacted in January 2023 to criminalize tech executives whose platforms allow illegal activities, as Pavel Durov remains on bail &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240917/p5#a240917p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

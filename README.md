@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
  - 😝 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
- - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 👉 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)<!-- MEMES:END -->
+ - 💣 [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wintermute partners with Chaos Labs to launch a crypto-based betting site focused on the US presidential election; Polymarket has ~$1B in wagers on that contest &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240917/p15#a240917p15)
  - [Uber is now asking riders to get verified as a safety measure for drivers](https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety)
  - [Third-party Epic Games Store now available on iPad for EU users](https://appleinsider.com/articles/24/09/17/third-party-epic-games-store-now-available-on-ipad-for-eu-users?utm_medium=rss)
  - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
- - [What Is a Copilot+ PC? Explaining Microsoft’s AI Term for Windows Laptops](https://www.wired.com/story/what-is-copilot-plus-pc/)
- - [Microsoft Copilot Gets Faster, Smarter and More Collaborative](https://www.cnet.com/tech/services-and-software/microsoft-copilot-gets-faster-smarter-and-more-collaborative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is a Copilot+ PC? Explaining Microsoft’s AI Term for Windows Laptops](https://www.wired.com/story/what-is-copilot-plus-pc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

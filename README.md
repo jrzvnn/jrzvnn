@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
  - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 💣 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)
- - 😝 [Future Darwin Award winner](http://9gag.com/gag/aW410o6)
- - 👉 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)<!-- MEMES:END -->
+ - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---
 

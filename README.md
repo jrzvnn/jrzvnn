@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://www.theverge.com/2024/9/17/24244180/amazon-october-prime-day-big-deal-days-fall-dates-2024)
  - [Revolut is preparing to launch its services in India in 2025, in an effort to expand outside Europe, which accounted for more than 90% of its sales in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p1#a240917p1)
  - [The Trumps Have Gone Full Crypto With World Liberty Financial](https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/)
  - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
- - [How to compress folders on iPad to save on storage space](https://appleinsider.com/inside/ipad/tips/how-to-compress-folders-on-ipad-to-save-on-storage-space?utm_medium=rss)
- - [Trump launches World Liberty Financial, a DeFi lending project on Ethereum underpinned by the WLFI governance token; up to 63% of WLFI to be sold to the public &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/240916/p35#a240916p35)<!-- TECH:END -->
+ - [How to compress folders on iPad to save on storage space](https://appleinsider.com/inside/ipad/tips/how-to-compress-folders-on-ipad-to-save-on-storage-space?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

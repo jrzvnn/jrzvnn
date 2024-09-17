@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat gets a redesign, simplifying from five to three tabs including a new unified For You feed of full-screen videos from publishers and creators &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240917/p22#a240917p22)
+ - [JPMorgan could take over duties as Apple Card issuer if it gets a good enough deal](https://appleinsider.com/articles/24/09/17/jpmorgan-could-take-over-duties-as-apple-card-issuer-if-it-gets-a-good-enough-deal?utm_medium=rss)
+ - [Apple beats Samsung to top ACSI personal computer satisfaction survey](https://appleinsider.com/articles/24/09/17/apple-beats-samsung-to-top-acsi-personal-computer-satisfaction-survey?utm_medium=rss)
  - [Snap debuts a tool to let creators generate AI videos from text prompts and, soon, from image prompts, powered by Snap&#39;s own foundational video models &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240917/p21#a240917p21)
- - [Apple rolls out new developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/09/17/apple-rolls-out-fourth-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
- - [The first Thunderbolt 5 dock appears to have arrived](https://www.theverge.com/2024/9/17/24247303/kensington-thunderbolt-5-dock-sd5000t5-eq-price-release-date)
- - [Snapchat’s AI selfie feature puts your face in personalized ads — here’s how to turn it off](https://www.theverge.com/2024/9/17/24247238/snapchat-ai-my-selfie-feature-face-personalized-ads)
- - [Hands on: All the new features AirPods Pro get in iOS 18](https://appleinsider.com/articles/24/09/17/hands-on-all-the-new-features-airpods-pro-get-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rolls out new developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/09/17/apple-rolls-out-fourth-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

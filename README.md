@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 😝 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
- - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - 😝 [What kind of sport is this](http://9gag.com/gag/arygp97)
- - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 💣 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---
 

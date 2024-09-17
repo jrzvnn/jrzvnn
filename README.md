@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
  - 😝 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - 💣 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)
+ - 💣 [This Screwdriver that looks like a Revolver](http://9gag.com/gag/avyOP1n)
  - 😝 [Aim](http://9gag.com/gag/amo70ej)
- - 👉 [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)<!-- MEMES:END -->
+ - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 💣 [9gagger checking to see if the company in their house left yet.](http://9gag.com/gag/axy1dzW)
- - 😝 [What kind of sport is this](http://9gag.com/gag/arygp97)
- - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 😝 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
+ - 💣 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)
+ - 😝 [Aim](http://9gag.com/gag/amo70ej)
+ - 👉 [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Governor Gavin Newsom signs two bills restricting the use of AI replicas of performers, building on protections SAG-AFTRA sought in its 2023 strike &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240917/p30#a240917p30)
  - [Spatial photos now available on iPhone 15 Pro with iOS 18.1 developer beta 4](https://appleinsider.com/articles/24/09/17/spatial-photos-now-available-on-iphone-15-pro-with-ios-181-developer-beta-4?utm_medium=rss)
  - [SocialAI answers the question: what if Twitter bots were the point?](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots)
  - [Sources: BlackRock is aiming to launch a $30B+ AI investment fund with Microsoft, to build data centers and energy projects that meet the growing demands of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p29#a240917p29)
- - [OpenAI’s new model is better at reasoning and, occasionally, deceiving](https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment)
- - [Discord says it is beginning to roll out end-to-end encryption to voice and video chats in DMs, Group DMs, voice channels, and Go Live streams &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240917/p28#a240917p28)<!-- TECH:END -->
+ - [OpenAI’s new model is better at reasoning and, occasionally, deceiving](https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

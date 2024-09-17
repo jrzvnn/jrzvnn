@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pentagon will award $269M to 33 chip research projects across the US via Chips Act funding to bolster semiconductor efforts for the military &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240917/p33#a240917p33)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [The lone US manufacturer of boutique keycaps may have just been saved](https://www.theverge.com/2024/9/17/24247221/signature-plastics-mechanical-keyboard-keycap-manufacturer-bob-guenser-acquisition-community)
  - [Neuralink says Blindsight, its experimental implant aimed at restoring vision, has received the US FDA&#39;s &quot;breakthrough device&quot; designation &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/240917/p32#a240917p32)
- - [Microsoft: starting in late August, Russian cyber operatives focused on Harris&#39; campaign, with disinfo including videos spread by a site posing as a news outlet &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240917/p31#a240917p31)
- - [California Governor Gavin Newsom signs two bills restricting the use of AI replicas of performers, building on protections SAG-AFTRA sought in its 2023 strike &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240917/p30#a240917p30)
- - [Spatial photos now available on iPhone 15 Pro with iOS 18.1 developer beta 4](https://appleinsider.com/articles/24/09/17/spatial-photos-now-available-on-iphone-15-pro-with-ios-181-developer-beta-4?utm_medium=rss)
- - [SocialAI: We tried the Twitter clone where no other humans are allowed](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots)<!-- TECH:END -->
+ - [Microsoft: starting in late August, Russian cyber operatives focused on Harris&#39; campaign, with disinfo including videos spread by a site posing as a news outlet &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240917/p31#a240917p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

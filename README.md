@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 😝 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
+ - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 😝 [C U Next Time](http://9gag.com/gag/aYQgbD2)
+ - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 😝 [Title](http://9gag.com/gag/aAyxBqL)
+ - 👉 [East vs West. which side are you gamers?](http://9gag.com/gag/a2voE5D)<!-- MEMES:END -->
 
 ---
 

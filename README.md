@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out fourth developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/09/17/apple-rolls-out-fourth-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
- - [Snapchat is getting its biggest redesign in years](https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight)
- - [Final Fantasy XVI producer wants y’all to be chill about mods](https://www.theverge.com/2024/9/17/24247242/final-fantasy-16-naoki-yoshida-pc-mods)
- - [IBM acquires Kubecost, a FinOps startup launched in 2019 that helps companies monitor and optimize Kubernetes clusters; Kubecost had raised $30M+ in funding &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240917/p20#a240917p20)
- - [Meta extends its Ray-Ban smart glasses deal beyond 2030](https://www.theverge.com/2024/9/17/24247236/meta-ray-ban-smart-glasses-essilorluxottica)<!-- TECH:END -->
+ - [Snap debuts a tool to let creators generate AI videos from text prompts and, soon, from image prompts, powered by Snap&#39;s own foundational video models &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240917/p21#a240917p21)
+ - [Apple rolls out new developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/09/17/apple-rolls-out-fourth-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
+ - [The first Thunderbolt 5 dock appears to have arrived](https://www.theverge.com/2024/9/17/24247303/kensington-thunderbolt-5-dock-sd5000t5-eq-price-release-date)
+ - [Snapchat’s AI selfie feature puts your face in personalized ads — here’s how to turn it off](https://www.theverge.com/2024/9/17/24247238/snapchat-ai-my-selfie-feature-face-personalized-ads)
+ - [Hands on: All the new features AirPods Pro get in iOS 18](https://appleinsider.com/articles/24/09/17/hands-on-all-the-new-features-airpods-pro-get-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

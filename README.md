@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
  - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - 💣 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
- - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---
 

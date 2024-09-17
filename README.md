@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia backs five USB-C port Mac mini rumors](https://appleinsider.com/articles/24/09/17/macos-sequoia-backs-five-usb-c-port-mac-mini-rumors?utm_medium=rss)
- - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/review-apple-watch-series-10-nl/)
- - [Why is Apple sleeping on the AirPods Max?](https://www.theverge.com/2024/9/17/24242378/airpods-max-usb-c-unchanged-missing-features)
- - [How Netflix staged a remarkable recovery since its 2022 stock crash, adding 45M+ subscribers via a password crackdown and gaining an edge over Hollywood rivals &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/240917/p8#a240917p8)<!-- TECH:END -->
+ - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
+ - [Microsoft calls for &quot;clarity and consistency&quot; over US export controls that have held up shipping AI chips to UAE-based G42, in which Microsoft invested $1.5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p11#a240917p11)
+ - [Apple Watch Series 10 review: bigger display, wide-angle OLED, faster charging, and sleep apnea detection, but no blood oxygen and another year of minor updates &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240917/p10#a240917p10)
+ - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/apple-watch-series-10/)
+ - [Instagram is putting every teen into a more private and restrictive new account](https://www.theverge.com/2024/9/17/24246423/instagram-teen-account-private-restrictive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

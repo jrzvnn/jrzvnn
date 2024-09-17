@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Mystery of Hezbollah&#39;s Deadly Exploding Pagers](https://www.wired.com/story/pager-explosion-hezbollah/)
+ - [Apple A16 chip is now being produced in the USA](https://appleinsider.com/articles/24/09/17/apple-a16-chip-is-now-being-produced-in-the-usa?utm_medium=rss)
  - [Workday acquires Evisort, an AI-powered contract management service that had raised $155.6M in capital and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p24#a240917p24)
  - [Snap unveils new Spectacles it will lease to devs creating Snapchat AR lenses, with a more immersive display, longer battery life, and a more lightweight design &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240917/p23#a240917p23)
- - [Eufy’s new smart lock may Matter to Apple Home users](https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home)
- - [I Wore Snap&#39;s New Self Contained AR Spectacles and Snap OS video](https://www.cnet.com/videos/i-wore-snaps-new-self-contained-ar-spectacles-and-snap-os/#ftag=CAD590a51e)
- - [Snap’s new Spectacles inch closer to compelling AR](https://www.theverge.com/2024/9/17/24245572/snap-spectacles-ar-developers-evan-spiegel)<!-- TECH:END -->
+ - [Eufy’s new smart lock may Matter to Apple Home users](https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

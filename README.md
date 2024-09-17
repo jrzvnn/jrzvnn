@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C U Next Time](http://9gag.com/gag/aYQgbD2)
- - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 💣 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
- - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 👉 [Women](http://9gag.com/gag/aGyj9rZ)<!-- MEMES:END -->
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 😝 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
+ - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 😝 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 👉 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)<!-- MEMES:END -->
 
 ---
 

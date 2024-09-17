@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Setapp Mobile launches its EU app storefront in open beta](https://appleinsider.com/articles/24/09/17/setapp-mobile-launches-its-eu-app-storefront-in-open-beta?utm_medium=rss)
  - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
  - [Microsoft calls for &quot;clarity and consistency&quot; over US export controls that have held up shipping AI chips to UAE-based G42, in which Microsoft invested $1.5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p11#a240917p11)
  - [Apple Watch Series 10 review: bigger display, wide-angle OLED, faster charging, and sleep apnea detection, but no blood oxygen and another year of minor updates &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240917/p10#a240917p10)
- - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/apple-watch-series-10/)
- - [Instagram is putting every teen into a more private and restrictive new account](https://www.theverge.com/2024/9/17/24246423/instagram-teen-account-private-restrictive)<!-- TECH:END -->
+ - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/apple-watch-series-10/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

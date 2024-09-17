@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Netflix staged a remarkable recovery since its 2022 stock crash, adding 45M+ subscribers via a password crackdown and gaining an edge over Hollywood rivals &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/240917/p8#a240917p8)
+ - [How Apple Watch sleep apnea detection works in watchOS 11](https://appleinsider.com/articles/24/09/17/how-apple-watch-sleep-apnea-detection-works-in-watchos-11?utm_medium=rss)
  - [EssilorLuxottica and Meta agree a 10-year deal to continue developing smart eyewear, after creating two generations of Ray-Ban glasses since 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p7#a240917p7)
  - [Lo-Fi Weather Channel Videos Are Soothing Climate Fears on YouTube](https://www.wired.com/story/vaporwave-weatherwave-youtube-climate-change/)
- - [OpenAI confirms fixing an issue &quot;where it appeared as though ChatGPT was starting new conversations&quot;, after users reported ChatGPT reaching out proactively &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/240917/p6#a240917p6)
- - [Time Bandits cancelled by Apple TV+](https://appleinsider.com/articles/24/09/17/time-bandits-cancelled-by-apple-tv?utm_medium=rss)
- - [A look at France&#39;s LOPMI law, enacted in January 2023 to criminalize tech executives whose platforms allow illegal activities, as Pavel Durov remains on bail &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240917/p5#a240917p5)<!-- TECH:END -->
+ - [OpenAI confirms fixing an issue &quot;where it appeared as though ChatGPT was starting new conversations&quot;, after users reported ChatGPT reaching out proactively &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/240917/p6#a240917p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

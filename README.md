@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-missouri/#ftag=CAD590a51e)
+ - [&#39;The Golden Bachelorette&#39;: How to Watch the New Reality Dating Spinoff](https://www.cnet.com/tech/services-and-software/the-golden-bachelorette-how-to-watch-the-new-reality-dating-spinoff/#ftag=CAD590a51e)
+ - [Groceries or Meal Kits: Which Is More Expensive In 2024? I Did the Math](https://www.cnet.com/health/nutrition/groceries-or-meal-kits-which-is-more-expensive-in-2024-we-did-the-math/#ftag=CAD590a51e)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [California governor signs rules limiting AI actor clones](https://www.theverge.com/2024/9/17/24247583/california-governor-newsom-signs-ai-digital-replica-bills)
- - [Sources: Apple&#39;s A16 SoC is currently being manufactured at Phase 1 of TSMC&#39;s Fab 21 in Arizona in small, but significant, numbers &lpar;Tim Culpan/Tim Culpan&#39;s Position&rpar;](http://www.techmeme.com/240917/p34#a240917p34)
- - [The Pixel Buds Pro no longer let you ‘touch and hold’ to hear notifications](https://www.theverge.com/2024/9/17/24247500/google-pixel-buds-pro-touch-and-hold-hear-notifications)
- - [The Pentagon will award $269M to 33 chip research projects across the US via Chips Act funding to bolster semiconductor efforts for the military &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240917/p33#a240917p33)<!-- TECH:END -->
+ - [California governor signs rules limiting AI actor clones](https://www.theverge.com/2024/9/17/24247583/california-governor-newsom-signs-ai-digital-replica-bills)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

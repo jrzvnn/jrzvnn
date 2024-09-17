@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epomaker’s TH80 Pro, our top mechanical keyboard budget pick, is cheaper than ever](https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale)
+ - [Former MoviePass CEO admits the $9.95 ‘unlimited’ ticket scheme was fraud](https://www.theverge.com/2024/9/17/24247051/moviepass-ceo-mitch-lowe-guilty-plea-fraud)
  - [Wintermute partners with Chaos Labs to launch a crypto-based betting site focused on the US presidential election; Polymarket has ~$1B in wagers on that contest &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240917/p15#a240917p15)
- - [Uber is now asking riders to get verified as a safety measure for drivers](https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety)
- - [Third-party Epic Games Store now available on iPad for EU users](https://appleinsider.com/articles/24/09/17/third-party-epic-games-store-now-available-on-ipad-for-eu-users?utm_medium=rss)
- - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
- - [What Is a Copilot+ PC? Explaining Microsoft’s AI Term for Windows Laptops](https://www.wired.com/story/what-is-copilot-plus-pc/)<!-- TECH:END -->
+ - [Uber will now verify riders as a safety measure for drivers](https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety)
+ - [Third-party Epic Games Store now available on iPad for EU users](https://appleinsider.com/articles/24/09/17/third-party-epic-games-store-now-available-on-ipad-for-eu-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

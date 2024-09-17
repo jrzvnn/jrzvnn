@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mystery of Hezbollah&#39;s Deadly Exploding Pagers](https://www.wired.com/story/pager-explosion-hezbollah/)
+ - [The Mystery of Hezbollah’s Deadly Exploding Pagers](https://www.wired.com/story/pager-explosion-hezbollah/)
  - [Apple A16 chip is now being produced in the USA](https://appleinsider.com/articles/24/09/17/apple-a16-chip-is-now-being-produced-in-the-usa?utm_medium=rss)
  - [Workday acquires Evisort, an AI-powered contract management service that had raised $155.6M in capital and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p24#a240917p24)
  - [Snap unveils new Spectacles it will lease to devs creating Snapchat AR lenses, with a more immersive display, longer battery life, and a more lightweight design &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240917/p23#a240917p23)

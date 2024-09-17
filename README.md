@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla says it will shut down its Mastodon server, Mozilla.social, giving users until December 17 to export their data and migrate to another instance &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240917/p26#a240917p26)
- - [How to Shop Like a Pro During Amazon Prime Day October 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
- - [Pew survey: 17% of US adults say they regularly get news on TikTok in 2024, up from 14% in 2023 and 3% in 2020; 39% aged 18 to 29 do so, up from 32% a year ago &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240917/p25#a240917p25)
- - [EA is launching a social app for its sports games](https://www.theverge.com/2024/9/17/24247276/ea-sports-social-mobile-app)
- - [The Sonos Arc Ultra and Sub 4 have leaked, and they’re likely coming soon](https://www.theverge.com/2024/9/17/24247380/sonos-arc-ultra-sub-4-leaked-photos)<!-- TECH:END -->
+ - [Spatial photos now available on iPhone 15 Pro with iOS 18.1 developer beta 4](https://appleinsider.com/articles/24/09/17/spatial-photos-now-available-on-iphone-15-pro-with-ios-181-developer-beta-4?utm_medium=rss)
+ - [SocialAI answers the question: what if Twitter bots were the point?](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots)
+ - [Sources: BlackRock is aiming to launch a $30B+ AI investment fund with Microsoft, to build data centers and energy projects that meet the growing demands of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p29#a240917p29)
+ - [OpenAI’s new model is better at reasoning and, occasionally, deceiving](https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment)
+ - [Discord says it is beginning to roll out end-to-end encryption to voice and video chats in DMs, Group DMs, voice channels, and Go Live streams &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240917/p28#a240917p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

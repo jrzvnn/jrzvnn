@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to flag AI-generated images that have C2PA metadata on Search, Google Lens, and Circle to Search in the &quot;about this image&quot; box, within a few months &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p19#a240917p19)
- - [Apple updates iWork productivity app suite with iOS 18 &amp; macOS Sequoia features](https://appleinsider.com/articles/24/09/17/apple-updates-iwork-productivity-app-suite-with-ios-18-macos-sequoia-features?utm_medium=rss)
- - [In defense of the iPhone Action Button](https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples)
- - [The EU picks veteran Finnish lawmaker Henna Virkkunen to take over from Thierry Breton, pending her confirmation; Virkkunen was central in creating the DSA &lpar;Bloomberg&rpar;](http://www.techmeme.com/240917/p18#a240917p18)
- - [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)<!-- TECH:END -->
+ - [Apple rolls out fourth developer betas of iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/09/17/apple-rolls-out-fourth-developer-betas-of-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
+ - [Snapchat is getting its biggest redesign in years](https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight)
+ - [Final Fantasy XVI producer wants y’all to be chill about mods](https://www.theverge.com/2024/9/17/24247242/final-fantasy-16-naoki-yoshida-pc-mods)
+ - [IBM acquires Kubecost, a FinOps startup launched in 2019 that helps companies monitor and optimize Kubernetes clusters; Kubecost had raised $30M+ in funding &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240917/p20#a240917p20)
+ - [Meta extends its Ray-Ban smart glasses deal beyond 2030](https://www.theverge.com/2024/9/17/24247236/meta-ray-ban-smart-glasses-essilorluxottica)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

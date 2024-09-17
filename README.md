@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [C U Next Time](http://9gag.com/gag/aYQgbD2)
  - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
- - 💣 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 😝 [Title](http://9gag.com/gag/aAyxBqL)
+ - 💣 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
+ - 😝 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
  - 👉 [Women](http://9gag.com/gag/aGyj9rZ)<!-- MEMES:END -->
 
 ---

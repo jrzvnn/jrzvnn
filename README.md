@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 😝 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 😝 [So many books](http://9gag.com/gag/azxXbYp)
+ - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 💣 [C U Next Time](http://9gag.com/gag/aYQgbD2)
+ - 😝 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 👉 [Title](http://9gag.com/gag/aAyxBqL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [German grocery delivery app Flink raised $115M in equity and $35M in debt, sources say at a valuation just under $1B; Flink has raised $1.5B+, per PitchBook &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240917/p4#a240917p4)
+ - [Brompton Electric G Line Review: Stupid Amounts of Fun](https://www.wired.com/review/review-brompton-electric-g-line/)
  - [Setapp Mobile’s open beta adds more apps for European iPhone users](https://www.theverge.com/2024/9/17/24243950/setapp-mobile-alternative-ios-app-store-eu-open-beta)
  - [A look at Shenzhen-based Transsion, whose Infinix and Tecno command about 50% of Africa&#39;s smartphone market and are finding success in Asia and the Middle East &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240917/p3#a240917p3)
- - [iPhone 16 Arrives in 3 Days: Best Preorder Deals Available Right Now](https://www.cnet.com/deals/iphone-16-arrives-in-3-days-best-preorder-deals-available-right-now/#ftag=CAD590a51e)
- - [Burning Man Is Over, but Regional Burns Keep the Party Going Year-Round](https://www.wired.com/story/burning-man-regional-burns-around-the-world/)
- - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)<!-- TECH:END -->
+ - [iPhone 16 Arrives in 3 Days: Best Preorder Deals Available Right Now](https://www.cnet.com/deals/iphone-16-arrives-in-3-days-best-preorder-deals-available-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

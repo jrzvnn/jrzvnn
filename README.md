@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber is now asking riders to get verified as a safety measure for drivers](https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety)
  - [Third-party Epic Games Store now available on iPad for EU users](https://appleinsider.com/articles/24/09/17/third-party-epic-games-store-now-available-on-ipad-for-eu-users?utm_medium=rss)
  - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
  - [What Is a Copilot+ PC? Explaining Microsoft’s AI Term for Windows Laptops](https://www.wired.com/story/what-is-copilot-plus-pc/)
- - [Deals: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM is on sale for $1,499](https://appleinsider.com/articles/24/09/17/deals-apples-m3-14-inch-macbook-pro-with-16gb-ram-is-on-sale-for-1499?utm_medium=rss)
- - [In US v. Google, YouTube’s CEO defends the Google way](https://www.theverge.com/2024/9/17/24247066/neal-mohan-us-v-google-testimony)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM is on sale for $1,499](https://appleinsider.com/articles/24/09/17/deals-apples-m3-14-inch-macbook-pro-with-16gb-ram-is-on-sale-for-1499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

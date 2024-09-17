@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Shenzhen-based Transsion, whose Infinix and Tecno command about 50% of Africa&#39;s smartphone market and are finding success in Asia and the Middle East &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240917/p3#a240917p3)
  - [Burning Man Is Over, but Regional Burns Keep the Party Going Year-Round](https://www.wired.com/story/burning-man-regional-burns-around-the-world/)
  - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)
  - [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://www.theverge.com/2024/9/17/24244180/amazon-october-prime-day-big-deal-days-fall-dates-2024)
- - [Revolut is preparing to launch its services in India in 2025, in an effort to expand outside Europe, which accounted for more than 90% of its sales in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p1#a240917p1)
- - [The Trumps Have Gone Full Crypto With World Liberty Financial](https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/)<!-- TECH:END -->
+ - [Revolut is preparing to launch its services in India in 2025, in an effort to expand outside Europe, which accounted for more than 90% of its sales in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p1#a240917p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

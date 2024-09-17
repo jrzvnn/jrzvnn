@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber says it plans to start checking US passengers&#39; account info against third-party ID verification databases; drivers will be able to see a user&#39;s blue badge &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240917/p16#a240917p16)
+ - [How to use macOS Terminal and what it’s useful for](https://www.theverge.com/24246585/macos-apple-terminal-how-to)
  - [Amazon is producing The Sims movie](https://www.theverge.com/2024/9/17/24247232/the-sims-movie-amazon-luckychap-kate-heron-briony-redman)
  - [New image of Titan submersible wreck released by US Coast Guard](https://www.theverge.com/2024/9/17/24247067/titan-submersible-wreck-image-investigation-hearing-coast-guard)
- - [Epomaker’s TH80 Pro, our top mechanical keyboard budget pick, is cheaper than ever](https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale)
- - [Former MoviePass CEO admits the $9.95 ‘unlimited’ ticket scheme was fraud](https://www.theverge.com/2024/9/17/24247051/moviepass-ceo-mitch-lowe-guilty-plea-fraud)
- - [Best iPad Pro Deals: Get Apple&#39;s Best Tablet for Less](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epomaker’s TH80 Pro, our top mechanical keyboard budget pick, is cheaper than ever](https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

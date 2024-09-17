@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setapp Mobile launches its EU app storefront in open beta](https://appleinsider.com/articles/24/09/17/setapp-mobile-launches-its-eu-app-storefront-in-open-beta?utm_medium=rss)
- - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
- - [Microsoft calls for &quot;clarity and consistency&quot; over US export controls that have held up shipping AI chips to UAE-based G42, in which Microsoft invested $1.5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p11#a240917p11)
- - [Apple Watch Series 10 review: bigger display, wide-angle OLED, faster charging, and sleep apnea detection, but no blood oxygen and another year of minor updates &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240917/p10#a240917p10)
- - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/apple-watch-series-10/)<!-- TECH:END -->
+ - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
+ - [Armenian startup EasyDMARC, which uses the DMARC standard to simplify email security and authentication, raised a $20M Series A led by Radian Capital &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240917/p14#a240917p14)
+ - [The Epic Games Store arrives on iPad in the EU](https://www.theverge.com/2024/9/17/24247062/epic-games-store-ipad-eu-fortnite)
+ - [Google plans to use C2PA&#39;s standard to identify images taken with a camera, edited in tools like Photoshop, or made using AI via its &quot;about this image&quot; feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240917/p13#a240917p13)
+ - [How to turn off the gaps in macOS Sequoia&#39;s Window Tiling](https://appleinsider.com/inside/macos-sequoia/tips/how-to-turn-off-the-gaps-in-macos-sequoias-window-tiling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

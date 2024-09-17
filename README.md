@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
- - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 💣 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 😝 [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - 😝 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
  - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---

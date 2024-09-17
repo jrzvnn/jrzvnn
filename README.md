@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at France&#39;s LOPMI law, enacted in January 2023 to criminalize tech executives whose platforms allow illegal activities, as Pavel Durov remains on bail &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240917/p5#a240917p5)
  - [German grocery delivery app Flink raised $115M in equity and $35M in debt, sources say at a valuation just under $1B; Flink has raised $1.5B+, per PitchBook &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240917/p4#a240917p4)
  - [Brompton Electric G Line Review: Stupid Amounts of Fun](https://www.wired.com/review/review-brompton-electric-g-line/)
  - [Setapp Mobile’s open beta adds more apps for European iPhone users](https://www.theverge.com/2024/9/17/24243950/setapp-mobile-alternative-ios-app-store-eu-open-beta)
- - [A look at Shenzhen-based Transsion, whose Infinix and Tecno command about 50% of Africa&#39;s smartphone market and are finding success in Asia and the Middle East &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240917/p3#a240917p3)
- - [iPhone 16 Arrives in 3 Days: Best Preorder Deals Available Right Now](https://www.cnet.com/deals/iphone-16-arrives-in-3-days-best-preorder-deals-available-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [4 Reasons Nightly Drinks Are Causing Bad Sleep and How to Stop It](https://www.cnet.com/health/sleep/4-reasons-your-nightly-drink-is-causing-bad-sleep-and-what-to-do-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

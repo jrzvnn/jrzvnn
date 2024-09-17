@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
+ - 😝 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
+ - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 💣 [C U Next Time](http://9gag.com/gag/aYQgbD2)
+ - 😝 [So many books](http://9gag.com/gag/azxXbYp)
+ - 👉 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
 
 ---
 

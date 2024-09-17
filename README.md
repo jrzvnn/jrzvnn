@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 💣 [Chin](http://9gag.com/gag/aByx3Nz)
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 👉 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)<!-- MEMES:END -->
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 😝 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 💣 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
+ - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
+ - 👉 [What kind of sport is this](http://9gag.com/gag/arygp97)<!-- MEMES:END -->
 
 ---
 

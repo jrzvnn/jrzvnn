@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Playtika agrees to buy Tel Aviv-based mobile game maker SuperPlay for $700M, and up to an additional $1.25B if SuperPlay hits financial targets over three years &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240918/p43#a240918p43)
  - [Google Workspace users will see their Calendars front and center in Chrome](https://www.theverge.com/2024/9/18/24248416/google-workspace-chrome-calendar-new0tabs)
  - [Sources: the hackers behind the February data breach of drug distributor Cencora received a record ransom of $75M through three bitcoin installments in March &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240918/p42#a240918p42)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [iPhone 16 Camera Control is the fastest way to take a picture, says Austin Mann](https://appleinsider.com/articles/24/09/18/iphone-16-camera-control-is-the-fastest-way-to-take-a-picture-says-austin-mann?utm_medium=rss)
- - [Lionsgate’s New Deal Is a Test of Hollywood’s Relationship With AI](https://www.wired.com/story/lionsgates-new-deal-is-a-test-of-hollywoods-relationship-with-ai/)<!-- TECH:END -->
+ - [iPhone 16 Camera Control is the fastest way to take a picture, says Austin Mann](https://appleinsider.com/articles/24/09/18/iphone-16-camera-control-is-the-fastest-way-to-take-a-picture-says-austin-mann?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

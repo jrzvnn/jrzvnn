@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [SocialAI, a new iOS app that looks like a social network, is filled entirely with bots and lets users populate their network with up to 32 types of bots &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240918/p39#a240918p39)
+ - [Exclusive KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [HTC announces the Vive Focus Vision with color passthrough and an eye on gaming](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)
- - [YouTube is adding ‘seasons’ to make your favorite channel more like Netflix](https://www.theverge.com/2024/9/18/24248206/youtube-season-episode-format-organizing-tv-netflix-binge)
- - [The FBI says it disrupted a botnet of &quot;hundreds of thousands&quot; of IoT devices worldwide last week, run by the China-linked hacking group Flax Typhoon &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/240918/p38#a240918p38)
- - [T-Mobile announces a multi-year partnership with OpenAI that includes building IntentCX, a customer service system powered by AI agents &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240918/p37#a240918p37)
- - [Lionsgate signs deal to train AI model on its movies and shows](https://www.theverge.com/2024/9/18/24248115/lionsgate-runway-ai-deal)<!-- TECH:END -->
+ - [YouTube is adding ‘seasons’ to make your favorite channel more like Netflix](https://www.theverge.com/2024/9/18/24248206/youtube-season-episode-format-organizing-tv-netflix-binge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

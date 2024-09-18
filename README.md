@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon warehouse workers are getting free Prime and a pay raise](https://www.theverge.com/2024/9/18/24248139/amazon-warehouse-workers-free-prime-pay-raise)
+ - [Apple enables direct Thread control for smart home devices with iOS 18](https://appleinsider.com/articles/24/09/18/apple-enables-direct-thread-control-for-smart-home-devices-with-ios-18?utm_medium=rss)
+ - [Judge dismisses suit against Facebook over iOS privacy settings](https://appleinsider.com/articles/24/09/18/judge-dismisses-suit-against-facebook-over-ios-privacy-settings?utm_medium=rss)
  - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
- - [Walkie-Talkies Explode in New Attack on Hezbollah](https://www.wired.com/story/walkie-talkie-explosions-hezbollah/)
- - [Open-source chip design company SiFive unveils the SiFive Intelligence XM Series, its latest RISC-V-based blueprints to help companies develop AI chips &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240918/p36#a240918p36)
- - [Substack now lets creators with its Bestsellers badges start live videos within its app, and plans to roll out the feature to all users in the coming months &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/240918/p35#a240918p35)
- - [OnePlus is taking $100 off its Pad 2 tablet with a free pair of Buds 3 earbuds](https://www.theverge.com/good-deals/2024/9/18/24247983/oneplus-pad-2-buds-3-android-tablet-echo-show-deal-sale)<!-- TECH:END -->
+ - [Walkie-Talkies Explode in New Attack on Hezbollah](https://www.wired.com/story/walkie-talkie-explosions-hezbollah/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scooter ft New Kids](http://9gag.com/gag/a6Zo7Em)
- - 😝 [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)
- - 👉 [Aim](http://9gag.com/gag/amo70ej)<!-- MEMES:END -->
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 💣 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)
+ - 😝 [Aim](http://9gag.com/gag/amo70ej)
+ - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
 
 ---
 

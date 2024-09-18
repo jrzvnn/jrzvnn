@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Laura Loomer Is MAGA at Its Most Extreme—and She&#39;s Closer to Donald Trump Than Ever](https://www.wired.com/story/donald-trump-laura-loomer/)
  - [The US plans to host the first meeting of the International Network of AI Safety Institutes in San Francisco on November 20 and 21 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240918/p21#a240918p21)
  - [Project 2025 Would Drastically Cut Support for Carbon Removal](https://www.wired.com/story/project-2025-carbon-capture-subsidies-dac-direct-air-2024-election-trump/)
  - [Craigslist founder Craig Newmark plans to donate $100M to boost US cybersecurity: $50M to protect infrastructure and $50M to educate people about safeguards &lpar;Juliet Chung/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p20#a240918p20)
- - [US prosecutors say Caroline Ellison provided &quot;extraordinary cooperation&quot; in the Sam Bankman-Fried case, signaling that she should receive a lenient sentence &lpar;New York Times&rpar;](http://www.techmeme.com/240918/p19#a240918p19)
- - [It’s the Last Day of the All-Clad Factory Seconds Sale](https://www.wired.com/story/all-clad-sale-september-2024/)<!-- TECH:END -->
+ - [US prosecutors say Caroline Ellison provided &quot;extraordinary cooperation&quot; in the Sam Bankman-Fried case, signaling that she should receive a lenient sentence &lpar;New York Times&rpar;](http://www.techmeme.com/240918/p19#a240918p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

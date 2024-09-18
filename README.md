@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [Amazon warehouse workers are getting free Prime and a pay raise](https://www.theverge.com/2024/9/18/24248139/amazon-warehouse-workers-free-prime-pay-raise)
  - [Apple enables direct Thread control for smart home devices with iOS 18](https://appleinsider.com/articles/24/09/18/apple-enables-direct-thread-control-for-smart-home-devices-with-ios-18?utm_medium=rss)
  - [Judge dismisses suit against Facebook over iOS privacy settings](https://appleinsider.com/articles/24/09/18/judge-dismisses-suit-against-facebook-over-ios-privacy-settings?utm_medium=rss)
- - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
- - [Walkie-Talkies Explode in New Attack on Hezbollah](https://www.wired.com/story/walkie-talkie-explosions-hezbollah/)<!-- TECH:END -->
+ - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

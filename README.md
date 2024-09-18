@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 💣 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
  - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 👉 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)<!-- MEMES:END -->
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 💣 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
 

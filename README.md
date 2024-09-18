@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
+ - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 💣 [Thought it might be appreciated here.](http://9gag.com/gag/aMVj94A)
+ - 😝 [Aim](http://9gag.com/gag/amo70ej)
+ - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OnePlus is taking $100 off its Pad 2 tablet with a free pair of Buds 3 earbuds](https://www.theverge.com/good-deals/2024/9/18/24247983/oneplus-pad-2-buds-3-android-tablet-echo-show-deal-sale)
  - [NBA Twitter newsbreaker Adrian Wojnarowski is retiring](https://www.theverge.com/2024/9/18/24248090/adrian-wojnarowski-retirement-nba-twitter)
  - [LinkedIn confirms training its AI on user data by default, and says it is &quot;making sure that those who have specific privacy preferences&quot; can opt out &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240918/p34#a240918p34)
- - [8 Foods That&#39;ll Make You Happy, According to Science](https://www.cnet.com/health/mental/8-happiness-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Lose Weight? Change Up Your Workout Routine With Strength Training](https://www.cnet.com/health/fitness/want-to-lose-weight-change-up-your-workout-routine-with-strength-training/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo says the company has started building AI servers in Pondicherry in southeastern India, moving beyond products such as laptops and smartphones &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240918/p5#a240918p5)
  - [Prager Metis, a former auditor for FTX, pays a $1.95M fine to settle two US SEC cases, including for alleged negligence in auditing the cryptocurrency exchange &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240918/p4#a240918p4)
  - [Grab exclusive coupon savings on Apple Watch Series 10, Ultra 2 &amp; even AirPods 4](https://appleinsider.com/articles/24/09/18/grab-exclusive-coupon-savings-on-apple-watch-series-10-ultra-2-even-airpods-4?utm_medium=rss)
  - [Sources: the EU&#39;s decision to fine Meta, with up to 10% of its global annual revenue, for linking Marketplace and Facebook, could come as early as October 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240918/p3#a240918p3)
- - [Australian police say they infiltrated Ghost, a global encrypted communications app developed for criminals, arresting dozens, including the app&#39;s alleged admin &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/240918/p2#a240918p2)
- - [GoTo signs a five-year cloud infrastructure deal with Alibaba, which has agreed to not sell down its 7.5% stake in GoTo any further for the duration of the deal &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240918/p1#a240918p1)<!-- TECH:END -->
+ - [Australian police say they infiltrated Ghost, a global encrypted communications app developed for criminals, arresting dozens, including the app&#39;s alleged admin &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/240918/p2#a240918p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

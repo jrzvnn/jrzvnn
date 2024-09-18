@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple was -- temporarily -- the third-largest smartphone brand in August](https://appleinsider.com/articles/24/09/18/apple-was----temporarily----the-third-largest-smartphone-brand-in-august?utm_medium=rss)
- - [Laura Loomer Is MAGA at Its Most Extreme—and She&#39;s Closer to Donald Trump Than Ever](https://www.wired.com/story/donald-trump-laura-loomer/)
- - [The US plans to host the first meeting of the International Network of AI Safety Institutes in San Francisco on November 20 and 21 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240918/p21#a240918p21)
- - [&#39;The Penguin&#39;: Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-penguin-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [12 Stellar Sci-Fi Movies to Stream on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reviewing the iPhone 16](https://www.theverge.com/2024/9/18/24247952/iphone-16-pro-apple-watch-10-airpods-4-review)
+ - [Apple releases updates to improve iPhone 16 repairability, including changes to the battery, TrueDepth Camera, and Face ID, and launches a Repair Assistant &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240918/p25#a240918p25)
+ - [Apple says Apple Intelligence will support German, Italian, Korean, Portuguese, Vietnamese, and other languages in 2025, and is in talks with the EU and China &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240918/p24#a240918p24)
+ - [Apple iPhone 16 and 16 Plus review: reliable camera, Action Button, more RAM, and A18 chip, but standard refresh rate screen and Camera Control is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240918/p23#a240918p23)
+ - [iPhone 16 Pro and 16 Pro Max review: physical shutter button, 4K120 video, and camera tone control, but Camera Control can be fiddly and an incremental upgrade &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240918/p22#a240918p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

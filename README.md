@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple was -- temporarily -- the third-largest smartphone brand in August](https://appleinsider.com/articles/24/09/18/apple-was----temporarily----the-third-largest-smartphone-brand-in-august?utm_medium=rss)
  - [Laura Loomer Is MAGA at Its Most Extreme—and She&#39;s Closer to Donald Trump Than Ever](https://www.wired.com/story/donald-trump-laura-loomer/)
  - [The US plans to host the first meeting of the International Network of AI Safety Institutes in San Francisco on November 20 and 21 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240918/p21#a240918p21)
  - [&#39;The Penguin&#39;: Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-penguin-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [12 Stellar Sci-Fi Movies to Stream on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)
- - [iOS 18: How to Easily Add and Resize Your iPhone&#39;s Home Screen Widgets](https://www.cnet.com/tech/services-and-software/ios-18-how-to-easily-add-and-resize-your-iphones-home-screen-widgets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Stellar Sci-Fi Movies to Stream on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

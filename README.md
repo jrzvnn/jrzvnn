@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 💣 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
  - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
- - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
+ - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
 
 ---
 

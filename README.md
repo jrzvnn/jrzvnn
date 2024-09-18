@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Fall Prime Day starts October 8, but Apple deals from $24 are live right now](https://appleinsider.com/articles/24/09/18/amazons-fall-prime-day-starts-october-8-but-apple-deals-from-24-are-live-right-now?utm_medium=rss)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [SocialAI, a new iOS app that looks like a social network, is filled entirely with bots and lets users populate their network with up to 32 types of bots &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240918/p39#a240918p39)
- - [Exclusive KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [HTC announces the Vive Focus Vision with color passthrough and an eye on gaming](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)<!-- TECH:END -->
+ - [Apple releases second firmware for AirPods Pro 2 in two weeks](https://appleinsider.com/articles/24/09/18/apple-releases-second-firmware-for-airpods-pro-2-in-two-weeks?utm_medium=rss)
+ - [I Stared Into the AI Void With the SocialAI App](https://www.wired.com/story/socialai-app-ai-chatbots-chatgpt/)
+ - [Charge All the Things for Just $20 With This 65W 4-Port Charger](https://www.cnet.com/deals/charge-all-the-things-for-just-20-with-this-65w-4-port-charger/#ftag=CAD590a51e)
+ - [Best 3D Printer Filament Deals: Find Low Prices on Black, Multi-Colored, Silk and More](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)
+ - [Allswell Mattress Review 2024: Tested by CNET&#39;s Sleep Expert](https://www.cnet.com/health/sleep/allswell-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

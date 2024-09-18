@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starling Bank survey of over 3,000 UK adults: 28% say they were targeted by an AI voice cloning scam in the past year; 46% didn&#39;t even know about such scams &lpar;Jen Mills/Metro.co.uk&rpar;](http://www.techmeme.com/240918/p15#a240918p15)
+ - [The EU&#39;s General Court backs Google&#39;s challenge against the EU&#39;s &amp;euro;1.49B antitrust fine, imposed in 2019 for hindering rivals in online search ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240918/p14#a240918p14)
  - [How a trademark fight led to a new version of Flappy Bird by a crypto-adjacent game developer, ten years after the original was pulled from app stores &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240918/p13#a240918p13)
  - [Did a Chinese University Hacking Competition Target a Real Victim?](https://www.wired.com/story/china-hacking-competition-real-victim/)
- - [India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/240918/p12#a240918p12)
- - [Apple pulls the iPadOS 18 update for M4 iPad Pro models after bricking complaints as the company works &quot;to resolve an issue impacting a small number of devices&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240918/p11#a240918p11)
- - [Intel&#39;s decision to delay new Germany and Poland plants by two years is a blow to the EU&#39;s goal of making 20% of the world&#39;s chips by 2030, up from ~9% in 2022 &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/240918/p10#a240918p10)<!-- TECH:END -->
+ - [India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/240918/p12#a240918p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

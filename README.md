@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose counters the AirPods 4 with new $179 QuietComfort Earbuds](https://www.theverge.com/2024/9/18/24247961/bose-quietcomfort-earbuds-announced)
- - [EV charging sucks — can smart cameras make it better?](https://www.theverge.com/2024/9/18/24247452/revel-juice-ev-charging-computer-vision)
- - [Bose’s soundbars and Ultra Open Earbuds can now work together in mindblowing ways](https://www.theverge.com/2024/9/18/24247145/bose-personal-surround-sound-earbuds-soundbar)
- - [HTC unveils the $999 Vive Focus Vision, a standalone VR headset with built-in eye tracking, 16MP stereo color front-facing cameras, and more, for pre-order now &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240918/p26#a240918p26)
- - [Reviewing the iPhone 16](https://www.theverge.com/2024/9/18/24247952/iphone-16-pro-apple-watch-10-airpods-4-review)<!-- TECH:END -->
+ - [Lions Gate Entertainment, the studio behind The Hunger Games, John Wick, and Twilight, signs a deal with Runway to use generative AI in its movies and TV shows &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p28#a240918p28)
+ - [iPhone 16 review roundup: Small but necessary upgrades](https://appleinsider.com/articles/24/09/18/iphone-16-review-roundup-small-but-necessary-upgrades?utm_medium=rss)
+ - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)
+ - [22 Amazon Prime Perks You Might Not Be Using](https://www.wired.com/story/amazon-prime-perks/)
+ - [TechInsights: China&#39;s YMTC upgraded its &quot;Xtacking&quot; tech, which stacks memory cells in layers, to rival NAND industry leaders, but significant challenges remain &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240918/p27#a240918p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

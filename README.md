@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
+ - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
  - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 💣 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
  - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
 
 ---

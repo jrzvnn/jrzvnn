@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reviewing the iPhone 16](https://www.theverge.com/2024/9/18/24247952/iphone-16-pro-apple-watch-10-airpods-4-review)
- - [Apple releases updates to improve iPhone 16 repairability, including changes to the battery, TrueDepth Camera, and Face ID, and launches a Repair Assistant &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240918/p25#a240918p25)
- - [Apple says Apple Intelligence will support German, Italian, Korean, Portuguese, Vietnamese, and other languages in 2025, and is in talks with the EU and China &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240918/p24#a240918p24)
- - [Apple iPhone 16 and 16 Plus review: reliable camera, Action Button, more RAM, and A18 chip, but standard refresh rate screen and Camera Control is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240918/p23#a240918p23)
- - [iPhone 16 Pro and 16 Pro Max review: physical shutter button, 4K120 video, and camera tone control, but Camera Control can be fiddly and an incremental upgrade &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240918/p22#a240918p22)<!-- TECH:END -->
+ - [Bose counters the AirPods 4 with new $179 QuietComfort Earbuds](https://www.theverge.com/2024/9/18/24247961/bose-quietcomfort-earbuds-announced)
+ - [EV charging sucks — can smart cameras make it better?](https://www.theverge.com/2024/9/18/24247452/revel-juice-ev-charging-computer-vision)
+ - [Bose’s soundbars and Ultra Open Earbuds can now work together in mindblowing ways](https://www.theverge.com/2024/9/18/24247145/bose-personal-surround-sound-earbuds-soundbar)
+ - [HTC unveils the $999 Vive Focus Vision, a standalone VR headset with built-in eye tracking, 16MP stereo color front-facing cameras, and more, for pre-order now &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240918/p26#a240918p26)
+ - [Reviewing the iPhone 16](https://www.theverge.com/2024/9/18/24247952/iphone-16-pro-apple-watch-10-airpods-4-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

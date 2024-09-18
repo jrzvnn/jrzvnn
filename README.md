@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use UTM to run almost any version of macOS -- even very old ones](https://appleinsider.com/inside/macos/tips/how-to-use-utm-to-run-almost-any-version-of-macos----even-very-old-ones?utm_medium=rss)
+ - [Exploding pagers kill nine and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
  - [NYC-based GreenLite, which aims to standardize the construction permitting process across multiple jurisdictions, raised a $28.5M Series A led by Craft Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p39#a240917p39)
  - [Sources: the US is urging Vietnam to avoid cable-laying firm HMN Technologies and other Chinese companies in Vietnam&#39;s plans for 10 new subsea cables by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p38#a240917p38)
- - [Average Electricity Bill in New Jersey &lpar;and How to Save&rpar;](https://www.cnet.com/how-to/average-electricity-bill-in-new-jersey-and-how-to-save/#ftag=CAD590a51e)
- - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [CA Gov. Newsom signs three laws regulating election AI deepfakes, including holding large online platforms liable for not removing content after a user&#39;s report &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240917/p37#a240917p37)<!-- TECH:END -->
+ - [Average Electricity Bill in New Jersey &lpar;and How to Save&rpar;](https://www.cnet.com/how-to/average-electricity-bill-in-new-jersey-and-how-to-save/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

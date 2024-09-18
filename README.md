@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
  - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [When you realize you&#39;re going to prison for the rest of your life.](http://9gag.com/gag/aRB3ezB)
+ - 😝 [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
  - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
 
 ---

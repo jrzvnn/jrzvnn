@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Backup by BioLite is a beefy emergency battery for your big appliances](https://www.theverge.com/2024/9/18/24243688/backup-biolite-power-battery-emergency)
  - [How to use UTM to run almost any version of macOS -- even very old ones](https://appleinsider.com/inside/macos/tips/how-to-use-utm-to-run-almost-any-version-of-macos----even-very-old-ones?utm_medium=rss)
  - [Exploding pagers kill nine and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 18, #465](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-18-465/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 18, #1187](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-18-1187/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 18, #199](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-18-199/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 18, #1187](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-18-1187/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)<!-- MEMES:END -->
+ - 😝 [As long both teams have fun](http://9gag.com/gag/aByxwNQ)
+ - 😝 [It turns out they really do exist.](http://9gag.com/gag/aqy7b9Z)
+ - 💣 [Life Memes #2](http://9gag.com/gag/adBKXbj)
+ - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
+ - 👉 [The laughter did more emotional damage than what the cop did physically.](http://9gag.com/gag/arygOVV)<!-- MEMES:END -->
 
 ---
 

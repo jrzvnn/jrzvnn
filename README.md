@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BHP, the world&#39;s largest mining company by market cap, warns the rise of data centers and AI could exacerbate a looming shortage of copper by increasing demand &lpar;Leslie Hook/Financial Times&rpar;](http://www.techmeme.com/240918/p8#a240918p8)
+ - [CEO Anne Wojcicki says she remains committed to taking 23andMe private and is &quot;surprised and disappointed&quot; after all seven independent board directors resigned &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240918/p7#a240918p7)
+ - [Amazon names Samir Kumar as the new head of its India consumer business, a month after his predecessor Manish Tiwary&#39;s sudden exit, as competition intensifies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240918/p6#a240918p6)
  - [Lenovo says the company has started building AI servers in Pondicherry in southeastern India, moving beyond products such as laptops and smartphones &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240918/p5#a240918p5)
- - [Prager Metis, a former auditor for FTX, pays a $1.95M fine to settle two US SEC cases, including for alleged negligence in auditing the cryptocurrency exchange &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240918/p4#a240918p4)
- - [Grab exclusive coupon savings on Apple Watch Series 10, Ultra 2 &amp; even AirPods 4](https://appleinsider.com/articles/24/09/18/grab-exclusive-coupon-savings-on-apple-watch-series-10-ultra-2-even-airpods-4?utm_medium=rss)
- - [Sources: the EU&#39;s decision to fine Meta, with up to 10% of its global annual revenue, for linking Marketplace and Facebook, could come as early as October 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240918/p3#a240918p3)
- - [Australian police say they infiltrated Ghost, a global encrypted communications app developed for criminals, arresting dozens, including the app&#39;s alleged admin &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/240918/p2#a240918p2)<!-- TECH:END -->
+ - [Prager Metis, a former auditor for FTX, pays a $1.95M fine to settle two US SEC cases, including for alleged negligence in auditing the cryptocurrency exchange &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240918/p4#a240918p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

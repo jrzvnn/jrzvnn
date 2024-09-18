@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: GPT-4 generating a 100-word email uses 1,468ml of water at its Washington data center, 925ml in Arizona, 464ml in Illinois, and 235ml in Texas &lpar;Washington Post&rpar;](http://www.techmeme.com/240918/p18#a240918p18)
+ - [Josh Johnson Has Become the Funniest Guy on the Internet. That Is Not a Joke](https://www.wired.com/story/josh-johnson-has-become-the-funniest-guy-on-the-internet/)
+ - [RSV Can Be a Killer. New Tools Are Identifying the Most At-Risk Kids](https://www.wired.com/story/rsv-killer-new-tools-children-health-infectious-disease/)
  - [A look at the &quot;Shein village&quot; supply chain in Panyu, China, as Temu apes its tactics; sources say Beijing is unhappy with Shein&#39;s move to &quot;de-Chinafy&quot; itself &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p17#a240918p17)
- - [4 Features That Sold Me on the iPhone 16 Pro Max](https://www.cnet.com/tech/mobile/4-reasons-im-ordering-the-iphone-16-pro-max-as-a-digital-nomad/#ftag=CAD590a51e)
- - [2 Hidden Apple Watch Features I&#39;m Using to Get Into Peak Shape](https://www.cnet.com/tech/mobile/2-hidden-apple-watch-features-im-using-to-get-into-peak-shape/#ftag=CAD590a51e)
- - [Most US Teens Use Generative AI. Most of Their Parents Don&#39;t Know](https://www.wired.com/story/teens-generative-ai-use-schools-parents/)
- - [Leesa Original Mattress Review 2024: Leesa&#39;s Flagship Foam Mattress](https://www.cnet.com/health/sleep/leesa-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [4 Features That Sold Me on the iPhone 16 Pro Max](https://www.cnet.com/tech/mobile/4-reasons-im-ordering-the-iphone-16-pro-max-as-a-digital-nomad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

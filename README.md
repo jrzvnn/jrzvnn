@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lionsgate’s New Deal Is a Test of Hollywood’s Relationship With AI](https://www.wired.com/story/lionsgates-new-deal-is-a-test-of-hollywoods-relationship-with-ai/)
  - [X is live again for many Brazilian users after the platform made a change to deliver its site in Brazil; a source says X switched to Cloudflare &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240918/p41#a240918p41)
- - [House committee advances Kids Online Safety Act](https://www.theverge.com/2024/9/18/24248117/kosa-coppa-house-energy-commerce-committee-passage-amendments)
- - [14 people have been killed by a second day of device explosions in Lebanon](https://www.theverge.com/2024/9/18/24248214/lebanon-hezbollah-exploding-radio-attacks)
- - [Soundcore’s new $24.99 waterproof speaker is almost an impulse purchase](https://www.theverge.com/2024/9/18/24248304/soundcore-anker-bluetooth-speaker-portable)
- - [YouTube confirms your pause screen is now fair game for ads](https://www.theverge.com/2024/9/18/24248391/youtube-pause-ads-widely-rolling-out)<!-- TECH:END -->
+ - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)
+ - [The Scandinavian Sleep Method: The Secret to Better Sleep and a Happier Relationship](https://www.cnet.com/health/sleep/the-scandinavian-sleep-method-the-secret-to-better-sleep-and-a-happier-relationship/#ftag=CAD590a51e)
+ - [House committee advances Kids Online Safety Act](https://www.theverge.com/2024/9/18/24248117/kosa-coppa-house-energy-commerce-committee-passage-amendments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

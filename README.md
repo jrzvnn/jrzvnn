@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do You Need an Antivirus Program on Windows?](https://www.wired.com/story/do-you-need-an-antivirus-program-on-windows/)
  - [Lions Gate Entertainment, the studio behind The Hunger Games, John Wick, and Twilight, signs a deal with Runway to use generative AI in its movies and TV shows &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p28#a240918p28)
  - [iPhone 16 review roundup: Small but necessary upgrades](https://appleinsider.com/articles/24/09/18/iphone-16-review-roundup-small-but-necessary-upgrades?utm_medium=rss)
  - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)
- - [22 Amazon Prime Perks You Might Not Be Using](https://www.wired.com/story/amazon-prime-perks/)
- - [TechInsights: China&#39;s YMTC upgraded its &quot;Xtacking&quot; tech, which stacks memory cells in layers, to rival NAND industry leaders, but significant challenges remain &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240918/p27#a240918p27)<!-- TECH:END -->
+ - [22 Amazon Prime Perks You Might Not Be Using](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

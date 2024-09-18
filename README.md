@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
  - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 👉 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)<!-- MEMES:END -->
+ - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
+ - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
 
 ---
 

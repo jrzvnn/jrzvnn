@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HTC announces the Vive Focus Vision with color passthrough and an eye on gaming](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)
+ - [YouTube is adding ‘seasons’ to make your favorite channel more like Netflix](https://www.theverge.com/2024/9/18/24248206/youtube-season-episode-format-organizing-tv-netflix-binge)
  - [The FBI says it disrupted a botnet of &quot;hundreds of thousands&quot; of IoT devices worldwide last week, run by the China-linked hacking group Flax Typhoon &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/240918/p38#a240918p38)
  - [T-Mobile announces a multi-year partnership with OpenAI that includes building IntentCX, a customer service system powered by AI agents &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240918/p37#a240918p37)
- - [Lionsgate signs deal to train AI model on its movies and shows](https://www.theverge.com/2024/9/18/24248115/lionsgate-runway-ai-deal)
- - [This portable wind turbine can charge your phone with just a breeze](https://www.theverge.com/2024/9/18/24248077/shine-2-wind-portable-turbine-power-emergency)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Lionsgate signs deal to train AI model on its movies and shows](https://www.theverge.com/2024/9/18/24248115/lionsgate-runway-ai-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

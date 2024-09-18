@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin’s satellite communicator can now send photo and voice messages](https://www.theverge.com/2024/9/18/24247972/garmin-satellite-inreach-messenger-plus-sos)
+ - [Wooting’s 80HE makes the best gaming keyboard even better](https://www.theverge.com/2024/9/18/24247911/wooting-80he-keyboard-gaming-hands-on)
+ - [This retro mechanical keyboard kit is all modern on the inside](https://www.theverge.com/24247498/classic-tkl-mechanical-keyboard-review)
  - [SpaceX dinged by FAA for failing to get mission changes approved](https://www.theverge.com/2024/9/18/24247996/faa-spacex-fine-license-violation-launch-changes-elon-musk-lawsuit-threat)
- - [Do You Need an Antivirus Program on Windows?](https://www.wired.com/story/do-you-need-an-antivirus-program-on-windows/)
- - [Lionsgate, the studio behind The Hunger Games, John Wick, and Twilight, signs a deal with Runway to use generative AI in its movies and TV shows &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p28#a240918p28)
- - [iPhone 16 review roundup: Small but necessary upgrades](https://appleinsider.com/articles/24/09/18/iphone-16-review-roundup-small-but-necessary-upgrades?utm_medium=rss)
- - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Do You Need an Antivirus Program on Windows?](https://www.wired.com/story/do-you-need-an-antivirus-program-on-windows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

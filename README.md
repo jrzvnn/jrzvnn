@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you’ve struggled to see your new Nest Thermostat, there’s a fix on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)
+ - [YouTube confirms your pause screen is now fair game for ads](https://www.theverge.com/2024/9/18/24248391/youtube-pause-ads-widely-rolling-out)
+ - [Get 3 Months of Access to Adobe Creative Cloud for Just $90](https://www.cnet.com/deals/get-3-months-of-access-to-adobe-creative-cloud-for-just-90/#ftag=CAD590a51e)
+ - [If you’ve struggled to see your new Nest Thermostat’s screen, a fix is on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)
  - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [PayPal has a new logo that makes it look just like everything else](https://www.theverge.com/2024/9/18/24248315/paypal-new-logo-design-2024-update)
- - [Sources: Google tried to end an EU antitrust probe by offering to sell its ad marketplace AdX, or Ad Exchange, but European publishers rejected the proposal &lpar;Reuters&rpar;](http://www.techmeme.com/240918/p40#a240918p40)
- - [Substack is trying to turn its writers into streamers](https://www.theverge.com/2024/9/18/24248308/substack-live-video)<!-- TECH:END -->
+ - [PayPal has a new logo that makes it look just like everything else](https://www.theverge.com/2024/9/18/24248315/paypal-new-logo-design-2024-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

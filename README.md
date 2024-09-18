@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
- - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
- - 💣 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 😝 [His reaction](http://9gag.com/gag/a4P7LMm)
  - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
+ - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 👉 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)<!-- MEMES:END -->
 
 ---
 

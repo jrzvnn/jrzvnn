@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [iPhone 16 Camera Control is the fastest way to take a picture, says Austin Mann](https://appleinsider.com/articles/24/09/18/iphone-16-camera-control-is-the-fastest-way-to-take-a-picture-says-austin-mann?utm_medium=rss)
  - [Lionsgate’s New Deal Is a Test of Hollywood’s Relationship With AI](https://www.wired.com/story/lionsgates-new-deal-is-a-test-of-hollywoods-relationship-with-ai/)
  - [X is live again for many Brazilian users after the platform made a change to deliver its site in Brazil; a source says X switched to Cloudflare &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240918/p41#a240918p41)
- - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)
- - [The Scandinavian Sleep Method: The Secret to Better Sleep and a Happier Relationship](https://www.cnet.com/health/sleep/the-scandinavian-sleep-method-the-secret-to-better-sleep-and-a-happier-relationship/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Rio Rancho, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

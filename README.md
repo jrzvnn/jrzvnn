@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 💣 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 😝 [When you realize you&#39;re going to prison for the rest of your life.](http://9gag.com/gag/aRB3ezB)
+ - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 💣 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
  - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---

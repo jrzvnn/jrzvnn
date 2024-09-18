@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwanese chip industry suppliers have been expanding into the Japanese island of Kyushu, which has become a gateway for business growth after TSMC&#39;s arrival &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240918/p9#a240918p9)
  - [BHP, the world&#39;s largest mining company by market cap, warns the rise of data centers and AI could exacerbate a looming shortage of copper by increasing demand &lpar;Leslie Hook/Financial Times&rpar;](http://www.techmeme.com/240918/p8#a240918p8)
  - [CEO Anne Wojcicki says she remains committed to taking 23andMe private and is &quot;surprised and disappointed&quot; after all seven independent board directors resigned &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240918/p7#a240918p7)
  - [Amazon names Samir Kumar as the new head of its India consumer business, a month after his predecessor Manish Tiwary&#39;s sudden exit, as competition intensifies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240918/p6#a240918p6)
- - [Lenovo says the company has started building AI servers in Pondicherry in southeastern India, moving beyond products such as laptops and smartphones &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240918/p5#a240918p5)
- - [Prager Metis, a former auditor for FTX, pays a $1.95M fine to settle two US SEC cases, including for alleged negligence in auditing the cryptocurrency exchange &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240918/p4#a240918p4)<!-- TECH:END -->
+ - [Lenovo says the company has started building AI servers in Pondicherry in southeastern India, moving beyond products such as laptops and smartphones &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240918/p5#a240918p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

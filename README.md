@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn is training AI models on your data](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in)
  - [Oprah buys back rights to Apple TV+ documentary about her life so it never releases](https://appleinsider.com/articles/24/09/18/oprah-buys-back-rights-to-apple-tv-documentary-about-her-life-so-it-never-releases?utm_medium=rss)
- - [Playtika agrees to buy Tel Aviv-based mobile game maker SuperPlay for $700M, and up to an additional $1.25B if SuperPlay hits financial targets over three years &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240918/p43#a240918p43)
- - [Google Workspace users will see their Calendars front and center in Chrome](https://www.theverge.com/2024/9/18/24248416/google-workspace-chrome-calendar-new0tabs)
- - [Sources: the hackers behind the February data breach of drug distributor Cencora received a record ransom of $75M through three bitcoin installments in March &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240918/p42#a240918p42)
- - [Got the New iOS 18 Update? Check Out These Hidden Settings and Features](https://www.cnet.com/tech/services-and-software/have-you-discovered-these-hidden-ios-18-features-and-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress Deals: Fall Discounts From Our Favorite Mattress Brands](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
+ - [Best VPN Deals: Get the Security and Privacy of a VPN for as Low as $2 Per Month](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
+ - [Fed Meeting Recap: Fed Lowers Rates by 0.5%, Signals More Rate Cuts This Year](https://www.cnet.com/personal-finance/fed-watch-live-blog-whats-happening-at-todays-federal-reserve-meeting-september-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

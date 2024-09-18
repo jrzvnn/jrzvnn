@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
  - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 💣 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
  - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
  - 👉 [When you realize you&#39;re going to prison for the rest of your life.](http://9gag.com/gag/aRB3ezB)<!-- MEMES:END -->
 

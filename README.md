@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As long both teams have fun](http://9gag.com/gag/aByxwNQ)
- - 😝 [Life Memes #2](http://9gag.com/gag/adBKXbj)
- - 💣 [The laughter did more emotional damage than what the cop did physically.](http://9gag.com/gag/arygOVV)
- - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - 👉 [They are eating the geese](http://9gag.com/gag/aND1deA)<!-- MEMES:END -->
+ - 😝 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)<!-- MEMES:END -->
 
 ---
 

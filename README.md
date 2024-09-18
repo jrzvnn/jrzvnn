@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 💣 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)
- - 😝 [Aim](http://9gag.com/gag/amo70ej)
- - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 💣 [The FBI visited this man yesterday for free speech acts they knew were not crimes. Take notes Europe. This is how Americans deal with fascist authorities.](http://9gag.com/gag/ayNX0yb)
+ - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
 
 ---
 

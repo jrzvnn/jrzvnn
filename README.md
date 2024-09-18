@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US prosecutors say Caroline Ellison provided &quot;extraordinary cooperation&quot; in the Sam Bankman-Fried case, signaling that she should receive a lenient sentence &lpar;New York Times&rpar;](http://www.techmeme.com/240918/p19#a240918p19)
+ - [It’s the Last Day of the All-Clad Factory Seconds Sale](https://www.wired.com/story/all-clad-sale-september-2024/)
  - [Researchers: GPT-4 generating a 100-word email uses 1,468ml of water at its Washington data center, 925ml in Arizona, 464ml in Illinois, and 235ml in Texas &lpar;Washington Post&rpar;](http://www.techmeme.com/240918/p18#a240918p18)
- - [Josh Johnson Has Become the Funniest Guy on the Internet. That Is Not a Joke](https://www.wired.com/story/josh-johnson-has-become-the-funniest-guy-on-the-internet/)
- - [RSV Can Be a Killer. New Tools Are Identifying the Most At-Risk Kids](https://www.wired.com/story/rsv-killer-new-tools-children-health-infectious-disease/)
- - [A look at the &quot;Shein village&quot; supply chain in Panyu, China, as Temu apes its tactics; sources say Beijing is unhappy with Shein&#39;s move to &quot;de-Chinafy&quot; itself &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p17#a240918p17)
- - [4 Features That Sold Me on the iPhone 16 Pro Max](https://www.cnet.com/tech/mobile/4-reasons-im-ordering-the-iphone-16-pro-max-as-a-digital-nomad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Apple iOS Feature Makes iPhone Calls Sound Much Better](https://www.cnet.com/tech/services-and-software/this-apple-ios-feature-makes-your-iphone-calls-much-better/#ftag=CAD590a51e)
+ - [First Zero-Emission Hydrogen Train Launching in the US Later This Year](https://www.cnet.com/tech/first-zero-emission-hydrogen-train-launching-in-the-us-later-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

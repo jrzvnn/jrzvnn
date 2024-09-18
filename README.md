@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is live again for many Brazilian users after the platform made a change to deliver its site in Brazil; a source says X switched to Cloudflare &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240918/p41#a240918p41)
  - [House committee advances Kids Online Safety Act](https://www.theverge.com/2024/9/18/24248117/kosa-coppa-house-energy-commerce-committee-passage-amendments)
  - [14 people have been killed by a second day of device explosions in Lebanon](https://www.theverge.com/2024/9/18/24248214/lebanon-hezbollah-exploding-radio-attacks)
  - [Soundcore’s new $24.99 waterproof speaker is almost an impulse purchase](https://www.theverge.com/2024/9/18/24248304/soundcore-anker-bluetooth-speaker-portable)
- - [YouTube confirms your pause screen is now fair game for ads](https://www.theverge.com/2024/9/18/24248391/youtube-pause-ads-widely-rolling-out)
- - [Get 3 Months of Access to Adobe Creative Cloud for Just $90](https://www.cnet.com/deals/get-3-months-of-access-to-adobe-creative-cloud-for-just-90/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube confirms your pause screen is now fair game for ads](https://www.theverge.com/2024/9/18/24248391/youtube-pause-ads-widely-rolling-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

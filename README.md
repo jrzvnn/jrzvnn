@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
- - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 😝 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
+ - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 💣 [They are eating the geese](http://9gag.com/gag/aND1deA)
+ - 😝 [Giving him the taste of his own medicine](http://9gag.com/gag/ae9M68O)
+ - 👉 [Oh so that was what I heard in the forest](http://9gag.com/gag/aD2xGpK)<!-- MEMES:END -->
 
 ---
 

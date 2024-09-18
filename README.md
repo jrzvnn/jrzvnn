@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 😝 [Alright thanks everybody. See you tomorrow.](http://9gag.com/gag/ayNX82q)
- - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 💣 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
+ - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
 
 ---
 

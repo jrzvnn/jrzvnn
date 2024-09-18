@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction](http://9gag.com/gag/a4P7LMm)
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 👉 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)<!-- MEMES:END -->
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 💣 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
+ - 😝 [Old 9gag folder](http://9gag.com/gag/ayNXn58)
+ - 👉 [His reaction](http://9gag.com/gag/a4P7LMm)<!-- MEMES:END -->
 
 ---
 

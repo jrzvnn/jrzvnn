@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
+ - [Walkie-Talkies Explode in New Attack on Hezbollah](https://www.wired.com/story/walkie-talkie-explosions-hezbollah/)
+ - [Open-source chip design company SiFive unveils the SiFive Intelligence XM Series, its latest RISC-V-based blueprints to help companies develop AI chips &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240918/p36#a240918p36)
  - [Substack now lets creators with its Bestsellers badges start live videos within its app, and plans to roll out the feature to all users in the coming months &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/240918/p35#a240918p35)
- - [OnePlus is taking $100 off its Pad 2 tablet with a free pair of Buds 3 earbuds](https://www.theverge.com/good-deals/2024/9/18/24247983/oneplus-pad-2-buds-3-android-tablet-echo-show-deal-sale)
- - [NBA Twitter newsbreaker Adrian Wojnarowski is retiring](https://www.theverge.com/2024/9/18/24248090/adrian-wojnarowski-retirement-nba-twitter)
- - [LinkedIn confirms training its AI on user data by default, and says it is &quot;making sure that those who have specific privacy preferences&quot; can opt out &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240918/p34#a240918p34)
- - [Want to Lose Weight? Change Up Your Workout Routine With Strength Training](https://www.cnet.com/health/fitness/want-to-lose-weight-change-up-your-workout-routine-with-strength-training/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus is taking $100 off its Pad 2 tablet with a free pair of Buds 3 earbuds](https://www.theverge.com/good-deals/2024/9/18/24247983/oneplus-pad-2-buds-3-android-tablet-echo-show-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

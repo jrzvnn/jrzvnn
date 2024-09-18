@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 😝 [Alright thanks everybody. See you tomorrow.](http://9gag.com/gag/ayNX82q)
  - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 👉 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)<!-- MEMES:END -->
+ - 😝 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)
+ - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
 
 ---
 

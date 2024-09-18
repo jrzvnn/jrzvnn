@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 💣 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [When you realize you&#39;re going to prison for the rest of your life.](http://9gag.com/gag/aRB3ezB)<!-- MEMES:END -->
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 😝 [When you realize you&#39;re going to prison for the rest of your life.](http://9gag.com/gag/aRB3ezB)
+ - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
 
 ---
 

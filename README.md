@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
+ - 😝 [They are eating the geese](http://9gag.com/gag/aND1deA)
+ - 💣 [Dune 2: Deleted scenes](http://9gag.com/gag/aoyN2Bn)
  - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
- - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
+ - 👉 [It turns out they really do exist.](http://9gag.com/gag/aqy7b9Z)<!-- MEMES:END -->
 
 ---
 

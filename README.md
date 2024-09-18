@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Fall Prime Day starts October 8, but Apple deals from $24 are live right now](https://appleinsider.com/articles/24/09/18/amazons-fall-prime-day-starts-october-8-but-apple-deals-from-24-are-live-right-now?utm_medium=rss)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [SocialAI, a new iOS app that looks like a social network, is filled entirely with bots and lets users populate their network with up to 32 types of bots &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240918/p39#a240918p39)
  - [Exclusive KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [HTC announces the Vive Focus Vision with color passthrough and an eye on gaming](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)
- - [YouTube is adding ‘seasons’ to make your favorite channel more like Netflix](https://www.theverge.com/2024/9/18/24248206/youtube-season-episode-format-organizing-tv-netflix-binge)<!-- TECH:END -->
+ - [HTC announces the Vive Focus Vision with color passthrough and an eye on gaming](https://www.theverge.com/2024/9/18/24248052/htc-vive-focus-vision-vr-headset-eye-tracking-color-passthrough-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

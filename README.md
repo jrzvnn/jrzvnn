@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the &quot;Shein village&quot; supply chain in Panyu, China, as Temu apes its tactics; sources say Beijing is unhappy with Shein&#39;s move to &quot;de-Chinafy&quot; itself &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p17#a240918p17)
  - [4 Features That Sold Me on the iPhone 16 Pro Max](https://www.cnet.com/tech/mobile/4-reasons-im-ordering-the-iphone-16-pro-max-as-a-digital-nomad/#ftag=CAD590a51e)
  - [2 Hidden Apple Watch Features I&#39;m Using to Get Into Peak Shape](https://www.cnet.com/tech/mobile/2-hidden-apple-watch-features-im-using-to-get-into-peak-shape/#ftag=CAD590a51e)
  - [Most US Teens Use Generative AI. Most of Their Parents Don&#39;t Know](https://www.wired.com/story/teens-generative-ai-use-schools-parents/)
- - [Leesa Original Mattress Review 2024: Leesa&#39;s Flagship Foam Mattress](https://www.cnet.com/health/sleep/leesa-mattress-review/#ftag=CAD590a51e)
- - [A planned UK data center project in Abbots Langley, seen as a test for the new Labour government&#39;s data center push, stokes tensions among the local community &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p16#a240918p16)<!-- TECH:END -->
+ - [Leesa Original Mattress Review 2024: Leesa&#39;s Flagship Foam Mattress](https://www.cnet.com/health/sleep/leesa-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

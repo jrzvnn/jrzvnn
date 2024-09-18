@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 💣 [They are eating the geese](http://9gag.com/gag/aND1deA)
- - 😝 [Giving him the taste of his own medicine](http://9gag.com/gag/ae9M68O)
- - 👉 [Oh so that was what I heard in the forest](http://9gag.com/gag/aD2xGpK)<!-- MEMES:END -->
+ - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
+ - 💣 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---
 

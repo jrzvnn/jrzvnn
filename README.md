@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 😝 [If they installed one of these, would you return to the office](http://9gag.com/gag/aO8rVPv)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
  - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
+ - 😝 [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)
+ - 👉 [Scooter ft New Kids](http://9gag.com/gag/a6Zo7Em)<!-- MEMES:END -->
 
 ---
 

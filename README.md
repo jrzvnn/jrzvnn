@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Gov. Gavin Newsom says he is concerned about the potential &quot;chilling effect&quot; of AI safety bill SB 1047, which awaits his signature, on AI development &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240917/p36#a240917p36)
- - [iOS 18.1 developer beta 4: Context-based suggestions for Siri, and more](https://appleinsider.com/articles/24/09/17/ios-181-developer-beta-4-context-based-suggestions-for-siri-and-more?utm_medium=rss)
- - [The GSM Association plans to enable E2EE on messages between Android and iOS; Google is working to bring cross-platform E2EE to RCS chats &quot;as soon as possible&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240917/p35#a240917p35)
- - [Best Sonos Deals: Save on Bundles for Indoor, Outdoor and Home Theater Audio](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [OpenAI Threatens to Ban Users Who Probe Its ‘Strawberry’ AI Models](https://www.wired.com/story/openai-threatens-bans-as-users-probe-o1-model/)<!-- TECH:END -->
+ - [CA Gov. Newsom signs three laws regulating election AI deepfakes, including holding large online platforms liable for not removing content after a user&#39;s report &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240917/p37#a240917p37)
+ - [Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://www.theverge.com/2024/9/17/24138113/mickey-17-trailer-bong-joon-ho-robert-pattinson)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [You’ll be able to use an iPhone to wirelessly restore an iPhone 16](https://www.theverge.com/2024/9/17/24247702/apple-iphone-16-pro-wireless-restore)
+ - [California Gov. Gavin Newsom says he is concerned about the potential &quot;chilling effect&quot; of AI safety bill SB 1047, which awaits his signature, on AI development &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240917/p36#a240917p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

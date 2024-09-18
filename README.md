@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 💣 [Thought it might be appreciated here.](http://9gag.com/gag/aMVj94A)
- - 😝 [Aim](http://9gag.com/gag/amo70ej)
- - 👉 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)<!-- MEMES:END -->
+ - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 💣 [Something about fishermen running out of nets or something, I don&#39;t know](http://9gag.com/gag/apR2o6W)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)<!-- MEMES:END -->
 
 ---
 

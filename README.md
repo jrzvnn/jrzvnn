@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube integrates Google DeepMind&#39;s AI video generation model Veo into Shorts, letting creators generate high-quality backgrounds and six-second clips &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240918/p31#a240918p31)
+ - [YouTube plans a major connected TV app revamp, with a new UI and features like immersive previews for creator pages and an updated subscribe functionality &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240918/p30#a240918p30)
  - [YouTube launches Communities, a mix of old-school forums, subreddit, and Facebook group, and a new Community Hub to help creators use Communities &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240918/p29#a240918p29)
  - [Apple Watch &amp; AirPods play a bigger role in Apple&#39;s ecosystem than you think](https://appleinsider.com/articles/24/09/18/apple-watch-airpods-play-a-bigger-role-in-apples-ecosystem-than-you-think?utm_medium=rss)
- - [An Avalanche of Generative AI Videos Is Coming to YouTube Shorts](https://www.wired.com/story/generative-ai-tools-youtube-shorts-veo/)
- - [YouTube Hype gives smaller creators a place to shine](https://www.theverge.com/2024/9/18/24247995/youtube-hype-creators)
- - [YouTube will use AI to generate ideas, titles, and even full videos](https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab)<!-- TECH:END -->
+ - [An Avalanche of Generative AI Videos Is Coming to YouTube Shorts](https://www.wired.com/story/generative-ai-tools-youtube-shorts-veo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

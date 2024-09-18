@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube launches Communities, a mix of old-school forums, subreddit, and Facebook group, and a new Community Hub to help creators use Communities &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240918/p29#a240918p29)
+ - [Apple Watch &amp; AirPods play a bigger role in Apple&#39;s ecosystem than you think](https://appleinsider.com/articles/24/09/18/apple-watch-airpods-play-a-bigger-role-in-apples-ecosystem-than-you-think?utm_medium=rss)
  - [An Avalanche of Generative AI Videos Is Coming to YouTube Shorts](https://www.wired.com/story/generative-ai-tools-youtube-shorts-veo/)
  - [YouTube Hype gives smaller creators a place to shine](https://www.theverge.com/2024/9/18/24247995/youtube-hype-creators)
- - [YouTube will use AI to generate ideas, titles, and even full videos](https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab)
- - [YouTube Communities are like mini Discords for creators](https://www.theverge.com/2024/9/18/24247529/youtube-communities-social-comments)
- - [Tesla sold more Cybertrucks than almost all other EV trucks combined](https://www.theverge.com/2024/9/18/24247985/tesla-cybertruck-july-2024-sales-deliveries-match-all-ev-trucks)<!-- TECH:END -->
+ - [YouTube will use AI to generate ideas, titles, and even full videos](https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

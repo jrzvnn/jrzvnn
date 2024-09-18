@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [As long both teams have fun](http://9gag.com/gag/aByxwNQ)
- - 😝 [It turns out they really do exist.](http://9gag.com/gag/aqy7b9Z)
- - 💣 [Life Memes #2](http://9gag.com/gag/adBKXbj)
+ - 😝 [Life Memes #2](http://9gag.com/gag/adBKXbj)
+ - 💣 [The laughter did more emotional damage than what the cop did physically.](http://9gag.com/gag/arygOVV)
  - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - 👉 [The laughter did more emotional damage than what the cop did physically.](http://9gag.com/gag/arygOVV)<!-- MEMES:END -->
+ - 👉 [They are eating the geese](http://9gag.com/gag/aND1deA)<!-- MEMES:END -->
 
 ---
 

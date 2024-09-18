@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 people have been killed by a second day of device explosions in Lebanon](https://www.theverge.com/2024/9/18/24248214/lebanon-hezbollah-exploding-radio-attacks)
+ - [Soundcore’s new $24.99 waterproof speaker is almost an impulse purchase](https://www.theverge.com/2024/9/18/24248304/soundcore-anker-bluetooth-speaker-portable)
  - [YouTube confirms your pause screen is now fair game for ads](https://www.theverge.com/2024/9/18/24248391/youtube-pause-ads-widely-rolling-out)
  - [Get 3 Months of Access to Adobe Creative Cloud for Just $90](https://www.cnet.com/deals/get-3-months-of-access-to-adobe-creative-cloud-for-just-90/#ftag=CAD590a51e)
- - [If you’ve struggled to see your new Nest Thermostat’s screen, a fix is on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [PayPal has a new logo that makes it look just like everything else](https://www.theverge.com/2024/9/18/24248315/paypal-new-logo-design-2024-update)<!-- TECH:END -->
+ - [If you’ve struggled to see your new Nest Thermostat’s screen, a fix is on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

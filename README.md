@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 💣 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 😝 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
- - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 👉 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 💣 [The FBI visited this man yesterday for free speech acts they knew were not crimes. Take notes Europe. This is how Americans deal with fascist authorities.](http://9gag.com/gag/ayNX0yb)
+ - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
  - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
+ - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GTA V, one of the most popular Steam Deck games, is now ‘unsupported’](https://www.theverge.com/2024/9/18/24248585/gta-v-steam-deck-battleye)
  - [Court filings: X has moved its official headquarters to Bastrop, Texas, a small town just outside of Austin that&#39;s also home to SpaceX and The Boring Company &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240918/p44#a240918p44)
+ - [Nintendo and Pokémon are suing Palworld maker Pocketpair](https://www.theverge.com/2024/9/18/24248602/nintendo-pokemon-palworld-pocketpair-patent-infringement-lawsuit)
  - [LinkedIn is training AI models on your data](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in)
- - [Oprah buys back rights to Apple TV+ documentary about her life so it never releases](https://appleinsider.com/articles/24/09/18/oprah-buys-back-rights-to-apple-tv-documentary-about-her-life-so-it-never-releases?utm_medium=rss)
- - [Best Mattress Deals: Fall Discounts From Our Favorite Mattress Brands](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Best VPN Deals: Get the Security and Privacy of a VPN for as Low as $2 Per Month](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oprah buys back rights to Apple TV+ documentary about her life so it never releases](https://appleinsider.com/articles/24/09/18/oprah-buys-back-rights-to-apple-tv-documentary-about-her-life-so-it-never-releases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

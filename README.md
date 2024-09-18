@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s satellite communicator can now send photo and voice messages](https://www.theverge.com/2024/9/18/24247972/garmin-satellite-inreach-messenger-plus-sos)
- - [Wooting’s 80HE makes the best gaming keyboard even better](https://www.theverge.com/2024/9/18/24247911/wooting-80he-keyboard-gaming-hands-on)
- - [This retro mechanical keyboard kit is all modern on the inside](https://www.theverge.com/24247498/classic-tkl-mechanical-keyboard-review)
- - [SpaceX dinged by FAA for failing to get mission changes approved](https://www.theverge.com/2024/9/18/24247996/faa-spacex-fine-license-violation-launch-changes-elon-musk-lawsuit-threat)
- - [Do You Need an Antivirus Program on Windows?](https://www.wired.com/story/do-you-need-an-antivirus-program-on-windows/)<!-- TECH:END -->
+ - [An Avalanche of Generative AI Videos Is Coming to YouTube Shorts](https://www.wired.com/story/generative-ai-tools-youtube-shorts-veo/)
+ - [YouTube Hype gives smaller creators a place to shine](https://www.theverge.com/2024/9/18/24247995/youtube-hype-creators)
+ - [YouTube will use AI to generate ideas, titles, and even full videos](https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab)
+ - [YouTube Communities are like mini Discords for creators](https://www.theverge.com/2024/9/18/24247529/youtube-communities-social-comments)
+ - [Tesla sold more Cybertrucks than almost all other EV trucks combined](https://www.theverge.com/2024/9/18/24247985/tesla-cybertruck-july-2024-sales-deliveries-match-all-ev-trucks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

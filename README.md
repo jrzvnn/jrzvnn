@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - 😝 [They are eating the geese](http://9gag.com/gag/aND1deA)
- - 💣 [Dune 2: Deleted scenes](http://9gag.com/gag/aoyN2Bn)
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 👉 [It turns out they really do exist.](http://9gag.com/gag/aqy7b9Z)<!-- MEMES:END -->
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 💣 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 👉 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Project 2025 Would Drastically Cut Support for Carbon Removal](https://www.wired.com/story/project-2025-carbon-capture-subsidies-dac-direct-air-2024-election-trump/)
+ - [Craigslist founder Craig Newmark plans to donate $100M to boost US cybersecurity: $50M to protect infrastructure and $50M to educate people about safeguards &lpar;Juliet Chung/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p20#a240918p20)
  - [US prosecutors say Caroline Ellison provided &quot;extraordinary cooperation&quot; in the Sam Bankman-Fried case, signaling that she should receive a lenient sentence &lpar;New York Times&rpar;](http://www.techmeme.com/240918/p19#a240918p19)
  - [It’s the Last Day of the All-Clad Factory Seconds Sale](https://www.wired.com/story/all-clad-sale-september-2024/)
- - [Researchers: GPT-4 generating a 100-word email uses 1,468ml of water at its Washington data center, 925ml in Arizona, 464ml in Illinois, and 235ml in Texas &lpar;Washington Post&rpar;](http://www.techmeme.com/240918/p18#a240918p18)
- - [This Apple iOS Feature Makes iPhone Calls Sound Much Better](https://www.cnet.com/tech/services-and-software/this-apple-ios-feature-makes-your-iphone-calls-much-better/#ftag=CAD590a51e)
- - [First Zero-Emission Hydrogen Train Launching in the US Later This Year](https://www.cnet.com/tech/first-zero-emission-hydrogen-train-launching-in-the-us-later-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers: GPT-4 generating a 100-word email uses 1,468ml of water at its Washington data center, 925ml in Arizona, 464ml in Illinois, and 235ml in Texas &lpar;Washington Post&rpar;](http://www.techmeme.com/240918/p18#a240918p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you’ve struggled to see your new Nest Thermostat, there’s a fix on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)
  - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
  - [PayPal has a new logo that makes it look just like everything else](https://www.theverge.com/2024/9/18/24248315/paypal-new-logo-design-2024-update)
  - [Sources: Google tried to end an EU antitrust probe by offering to sell its ad marketplace AdX, or Ad Exchange, but European publishers rejected the proposal &lpar;Reuters&rpar;](http://www.techmeme.com/240918/p40#a240918p40)
- - [Substack is trying to turn its writers into streamers](https://www.theverge.com/2024/9/18/24248308/substack-live-video)
- - [Apple releases second firmware for AirPods Pro 2 in two weeks](https://appleinsider.com/articles/24/09/18/apple-releases-second-firmware-for-airpods-pro-2-in-two-weeks?utm_medium=rss)<!-- TECH:END -->
+ - [Substack is trying to turn its writers into streamers](https://www.theverge.com/2024/9/18/24248308/substack-live-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A planned UK data center project in Abbots Langley, seen as a test for the new Labour government&#39;s data center push, stokes tensions among the local community &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p16#a240918p16)
- - [Starling Bank survey of over 3,000 UK adults: 28% say they were targeted by an AI voice cloning scam in the past year; 46% didn&#39;t even know about such scams &lpar;Jen Mills/Metro.co.uk&rpar;](http://www.techmeme.com/240918/p15#a240918p15)
- - [The EU&#39;s General Court backs Google&#39;s challenge against the EU&#39;s &amp;euro;1.49B antitrust fine, imposed in 2019 for hindering rivals in online search ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240918/p14#a240918p14)
- - [How a trademark fight led to a new version of Flappy Bird by a crypto-adjacent game developer, ten years after the original was pulled from app stores &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240918/p13#a240918p13)
- - [Did a Chinese University Hacking Competition Target a Real Victim?](https://www.wired.com/story/china-hacking-competition-real-victim/)<!-- TECH:END -->
+ - [4 Features That Sold Me on the iPhone 16 Pro Max](https://www.cnet.com/tech/mobile/4-reasons-im-ordering-the-iphone-16-pro-max-as-a-digital-nomad/#ftag=CAD590a51e)
+ - [2 Hidden Apple Watch Features I&#39;m Using to Get Into Peak Shape](https://www.cnet.com/tech/mobile/2-hidden-apple-watch-features-im-using-to-get-into-peak-shape/#ftag=CAD590a51e)
+ - [Most US Teens Use Generative AI. Most of Their Parents Don&#39;t Know](https://www.wired.com/story/teens-generative-ai-use-schools-parents/)
+ - [Leesa Original Mattress Review 2024: Leesa&#39;s Flagship Foam Mattress](https://www.cnet.com/health/sleep/leesa-mattress-review/#ftag=CAD590a51e)
+ - [A planned UK data center project in Abbots Langley, seen as a test for the new Labour government&#39;s data center push, stokes tensions among the local community &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p16#a240918p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

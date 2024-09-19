@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hide and seek](http://9gag.com/gag/aZZ3Mx0)
- - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
- - 💣 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 😝 [In case you were wondering how much brain surgery costs.](http://9gag.com/gag/aMVj8WP)
- - 👉 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)<!-- MEMES:END -->
+ - 😝 [This Neighbors&#39; Dog Needs a Kiss Everytime](http://9gag.com/gag/aW41Mmn)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 💣 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - 👉 [Outstanding move](http://9gag.com/gag/apR2LED)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Weighted Blankets, Robes, and Eye Masks &lpar;2024&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [Everything You Need to Know About the WIRED &amp; Octopus Energy Tech Summit 2024](https://www.wired.com/story/everything-you-need-to-know-about-the-wired-and-octopus-energy-tech-summit-2024/)
+ - [Your Phone Won’t Be the Next Exploding Pager](https://www.wired.com/story/exploding-pagers-hezbollah-phones/)
  - [Amazon joins the Motion Picture Association, after a long courtship; the lobbying group&#39;s other members are Disney, Netflix, Paramount, Sony, Universal, and WBD &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/240919/p22#a240919p22)
- - [Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio](https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio?utm_medium=rss)
- - [Amazon launches Amelia, an AI tool to help third-party sellers resolve account issues and fetch sales and inventory data, in beta for select US sellers &lpar;CNBC&rpar;](http://www.techmeme.com/240919/p21#a240919p21)
- - [The US FTC releases a four-year study of how Meta, YouTube, TikTok, and six others collected and used data, finding &quot;vast surveillance&quot; of consumers &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240919/p20#a240919p20)
- - [Google employees’ attempts to hide messages from investigators might backfire](https://www.theverge.com/2024/9/19/24245559/google-employee-privileged-confidential-deleted-chats)<!-- TECH:END -->
+ - [Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio](https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [The 22 Best Movies on Apple TV+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Hipstamatic’s new app collects everyone’s party photos for you](https://www.theverge.com/2024/9/19/24248903/hipstamatic-disposable-camera-app-ios-iphone)
  - [You might get offered promo codes if one of these delivery robots runs into you](https://www.theverge.com/2024/9/19/24249034/starship-technologies-delivery-robot-accident-promo-codes)
- - [The Apple Watch is now a better TV remote](https://www.theverge.com/2024/9/19/24249074/apple-watch-watchos-11-tv-remote)
- - [macOS 15 Sequoia appears to have broken several security tools made by CrowdStrike, SentinelOne, Microsoft, and others; CrowdStrike delays support for Sequoia &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240919/p32#a240919p32)
- - [California becomes eighth state to support IDs in Wallet app](https://appleinsider.com/articles/24/09/19/california-becomes-eighth-state-to-support-ids-in-wallet-app?utm_medium=rss)
- - [Cruise plots its robotaxi return to the Bay Area](https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous)<!-- TECH:END -->
+ - [The Apple Watch is now a better TV remote](https://www.theverge.com/2024/9/19/24249074/apple-watch-watchos-11-tv-remote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

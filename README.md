@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
+ - [Palmer Luckey partners with Microsoft to turn US soldiers into Starship Troopers](https://www.theverge.com/2024/9/19/24248851/palmer-luckey-anduril-microsoft-partnership-ivas-ar-headset)
  - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)
- - [28 Years Later: Danny Boyle’s New Zombie Flick Was Shot on an iPhone 15](https://www.wired.com/story/28-years-later-danny-boyles-new-zombie-flick-was-shot-on-an-iphone-15/)
- - [Barron Trump Is Finally Taking the Stage](https://www.wired.com/story/nyu-obsessed-barron-trump/)
- - [BMW will recycle old EV batteries with Redwood Materials](https://www.theverge.com/2024/9/19/24248302/bmw-redwood-materials-ev-battery-recycle-deal)
- - [YouTube says it has &quot;widely rolled out Pause ads to all advertisers&quot; after a &quot;strong advertiser and strong viewer response&quot;; YouTube piloted Pause ads in 2023 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240919/p16#a240919p16)<!-- TECH:END -->
+ - [Frostpunk 2 and More Games Are Coming to Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/frostpunk-2-and-more-games-are-coming-to-xbox-game-pass-soon/#ftag=CAD590a51e)
+ - [How to Perform Conversions in iOS 18&#39;s Overhauled Calculator App](https://www.cnet.com/tech/services-and-software/how-to-perform-conversions-in-ios-18s-overhauled-calculator-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

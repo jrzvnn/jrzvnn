@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [Nice tiddies](http://9gag.com/gag/abAMpqr)
+ - 💣 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
+ - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
+ - 👉 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)<!-- MEMES:END -->
 
 ---
 

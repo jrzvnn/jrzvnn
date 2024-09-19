@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iFixit Portable Soldering Iron Review: Worthy of Your Work Bench](https://www.wired.com/review/ifixit-soldering-iron-and-hub/)
- - [Putin&#39;s administration resumed posting to YouTube in the past two weeks for the first time in six months, even as the Kremlin blocks YouTube in Russia &lpar;Henry Meyer/Bloomberg&rpar;](http://www.techmeme.com/240919/p15#a240919p15)
+ - [Putin&#39;s administration resumed posting to YouTube in the past two weeks for the first time in six months, even as the Kremlin throttles YouTube access in Russia &lpar;Henry Meyer/Bloomberg&rpar;](http://www.techmeme.com/240919/p15#a240919p15)
  - [High costs mean Apple will limit 2nm processors to iPhone 18 Pro models](https://appleinsider.com/articles/24/09/19/high-costs-mean-apple-will-limit-2nm-processors-to-iphone-18-pro-models?utm_medium=rss)
  - [Alibaba releases 100+ open-source models from its Qwen 2.5 family, its LLM released in May 2024, ranging from 0.5B to 72B parameters, and text-to-video AI tech &lpar;Reuters&rpar;](http://www.techmeme.com/240919/p14#a240919p14)
  - [How to Check Your Eligibility and Apply for Supplemental Security Income](https://www.cnet.com/personal-finance/how-to-check-your-eligibility-and-apply-for-supplemental-security-income/#ftag=CAD590a51e)<!-- TECH:END -->

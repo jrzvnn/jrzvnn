@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky addresses how it approaches trust and safety concerns on the platform, including piloting initiatives to deal with bad actors, abuse, and spam &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240919/p8#a240919p8)
  - [Online Casino Workers Went on Hunger Strike Over Working Conditions](https://www.wired.com/story/online-casino-workers-went-on-hunger-strike-over-working-conditions/)
  - [The Outrageous Scheme to Capture and Sell Greenland’s Meltwater](https://www.wired.com/story/the-outrageous-scheme-to-capture-and-sell-greenlands-meltwater/)
  - [Content Creators in the Adult Industry Want a Say in AI Rules](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/)
- - [A UN advisory body makes seven recommendations for governing AI, including establishing a panel to provide impartial and reliable scientific knowledge about AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240919/p7#a240919p7)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-19/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A UN advisory body makes seven recommendations for governing AI, including establishing a panel to provide impartial and reliable scientific knowledge about AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240919/p7#a240919p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

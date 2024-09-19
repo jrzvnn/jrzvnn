@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Display shipments for new MacBook Air, iPad rumored to start in October](https://appleinsider.com/articles/24/09/19/display-shipments-for-new-macbook-air-ipad-rumored-to-start-in-october?utm_medium=rss)
- - [A look at the two &quot;specification proceedings&quot; that the EU has opened on Apple under the DMA, instructing Apple on how to comply with interoperability provisions &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240919/p30#a240919p30)
- - [Datamaran, which offers an analytics platform for clients to monitor adherence to ESG regulations, raised a $33M Series C from Morgan Stanley funds &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240919/p29#a240919p29)
- - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)
- - [Saatva Memory Foam Hybrid Mattress Review: Quality Comfort With a Misleading Name](https://www.cnet.com/health/sleep/saatva-memory-foam-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cruise plots its robotaxi return to the Bay Area](https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous)
+ - [Apple seeds iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas with some Apple Intelligence features, including Writing Tools and Siri redesign &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240919/p31#a240919p31)
+ - [Apple&#39;s new OS public betas offer a glimpse of Apple Intelligence](https://appleinsider.com/articles/24/09/19/apples-new-os-public-betas-offer-a-glimpse-of-apple-intelligence?utm_medium=rss)
+ - [Apple pulls MacBook component supplier shipments over quality issues](https://appleinsider.com/articles/24/09/19/apple-pulls-macbook-component-supplier-shipments-over-quality-issues?utm_medium=rss)
+ - [Display shipments for new MacBook Air, iPad rumored to start in October](https://appleinsider.com/articles/24/09/19/display-shipments-for-new-macbook-air-ipad-rumored-to-start-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

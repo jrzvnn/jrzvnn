@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)
  - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
- - [Memo: Disney plans to stop using Slack in most units by the end of 2024, after a hacking group leaked 1TB+ of its data, including 44M Slack messages, in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p35#a240919p35)
- - [Californians can now add their driver’s licenses to Apple Wallet](https://www.theverge.com/2024/9/19/24249278/apple-wallet-california-drivers-license-state-id-mdl)
- - [Get All the Hottest Sports Action This Fall with Hulu + Live TV](https://www.cnet.com/paid-content/news/get-all-the-hottest-sports-action-this-fall-with-hulu-live-tv-nfl-mlb-nhl-nba-college-football/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Miss a Second of the Action This NFL Season with Hulu + Live TV](https://www.cnet.com/paid-content/news/dont-miss-a-second-of-the-action-this-nfl-football-season-with-hulu-live-tv-streaming/#ftag=CAD590a51e)
+ - [Get All the Hottest Sports Action This Fall with Hulu + Live TV](https://www.cnet.com/paid-content/news/get-all-the-hottest-sports-action-this-fall-with-hulu-live-tv-nfl-mlb-nhl-nba-college-football/#ftag=CAD590a51e)
+ - [iOS 18.1 Public Beta 1 Is Available Now, a Few Days After iOS 18&#39;s Release](https://www.cnet.com/tech/services-and-software/ios-18-1-public-beta-1-is-available-now-a-few-days-after-ios-18s-release/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

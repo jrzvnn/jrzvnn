@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Datamaran, which offers an analytics platform for clients to monitor adherence to ESG regulations, raised a $33M Series C from Morgan Stanley funds &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240919/p29#a240919p29)
- - [LG’s 65-inch C4 OLED TV is half off as a part of eBay’s new fall sale](https://www.theverge.com/2024/9/19/24248976/lg-65-inch-c4-oled-tv-sony-wh-1000xm5-deal-sale)
+ - [LG’s 65-inch C4 OLED TV is half off as part of eBay’s new fall sale](https://www.theverge.com/2024/9/19/24248976/lg-65-inch-c4-oled-tv-sony-wh-1000xm5-deal-sale)
  - [New BenQ monitor deals for your Mac deliver discounts of up to $200 off &amp; lowest prices ever](https://appleinsider.com/articles/24/09/19/new-benq-monitor-deals-for-your-mac-deliver-discounts-of-up-to-200-off-lowest-prices-ever?utm_medium=rss)
  - [Microsoft launches a Windows app for iPhones, Macs, and Android devices](https://www.theverge.com/2024/9/19/24249087/microsoft-windows-app-ios-ipados-macos-web-general-availability)
  - [Where to preorder Microsoft’s special-edition Galaxy Black Xbox Series X](https://www.theverge.com/24247123/microsoft-xbox-series-x-2tb-galaxy-black-special-edition-preorder-buy-price-release-date)<!-- TECH:END -->

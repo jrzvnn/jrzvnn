@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
+ - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 😝 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)
+ - 💣 [Outstanding move](http://9gag.com/gag/apR2LED)
  - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 💣 [She will not go out the same](http://9gag.com/gag/aAyx1Kg)
- - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
- - 👉 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)<!-- MEMES:END -->
+ - 👉 [She will not go out the same](http://9gag.com/gag/aAyx1Kg)<!-- MEMES:END -->
 
 ---
 

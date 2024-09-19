@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Concord&#39;s game director steps down, as Firewalk, the studio behind the PlayStation flop, is left in limbo, with some staffers expecting mass layoffs &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/240919/p36#a240919p36)
  - [Thursday Night Football: How to Watch, Stream Patriots vs. Jets Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-jets-tonight-on-prime-video/#ftag=CAD590a51e)
  - [EU Tells Apple How to Expand iOS Interoperability to Third-Party Accessories](https://www.cnet.com/tech/services-and-software/eu-tells-apple-how-to-expand-ios-interoperability-to-third-party-accessories/#ftag=CAD590a51e)
  - [US online passport renewal is now fully open for business](https://www.theverge.com/2024/9/19/24249413/us-online-passport-renewal-website)
- - [&#39;Twilight of the Gods&#39; Interview: Zack Snyder on Sigrid, Loki and Crabby Thor](https://www.cnet.com/tech/services-and-software/twilight-of-the-gods-interview-zack-snyder-on-sigrid-loki-and-crabby-thor/#ftag=CAD590a51e)
- - [Best AirPods Pro 2 Deals: Snag a Pair While They’re $59 Off](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Twilight of the Gods&#39; Interview: Zack Snyder on Sigrid, Loki and Crabby Thor](https://www.cnet.com/tech/services-and-software/twilight-of-the-gods-interview-zack-snyder-on-sigrid-loki-and-crabby-thor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

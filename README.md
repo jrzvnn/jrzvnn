@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - 💣 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
- - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
- - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [They are eating the geese](http://9gag.com/gag/aND1deA)
+ - 💣 [Toy cars get into a bad crash](http://9gag.com/gag/aRB3V1B)
+ - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
+ - 👉 [Know the simple rules](http://9gag.com/gag/a87oyG3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well done boy!](http://9gag.com/gag/aD2x1R7)
- - 😝 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
- - 💣 [Clean and safe](http://9gag.com/gag/agmXYxn)
- - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
- - 👉 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)<!-- MEMES:END -->
+ - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - 💣 [Eye contact](http://9gag.com/gag/aKGjj4Q)
+ - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
+ - 👉 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)<!-- MEMES:END -->
 
 ---
 

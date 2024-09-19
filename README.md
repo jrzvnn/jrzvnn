@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Layoffs.fyi: tech companies have laid off ~137,000 people since January 2024; Indeed.com: software development job postings are down 30%+ since February 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240919/p12#a240919p12)
+ - [Anti-Immigrant Election Deniers Have Turned Their Online Following Into an Army of Activists](https://www.wired.com/story/election-deniers-trump-anti-immigrant-voting/)
  - [Nintendo and Pokémon are suing Palworld maker Pocketpair](https://www.theverge.com/2024/9/18/24248602/nintendo-pokemon-palworld-pocketpair-patent-infringement-lawsuit)
  - [Source: EU regulators are set to announce that Apple must step into line with strict new rules on making OSes fully functional with other tech under the DMA &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240919/p11#a240919p11)
- - [A profile of lobbyist Andrew Kingman, who has exerted immense influence on US tech policy by helping large companies that want lax rules on data privacy &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240919/p10#a240919p10)
- - [Study: unintended electromagnetic radiation from second-gen Starlink satellites is stronger than first-gen, causing 32x more interference with radio telescopes &lpar;Georgina Rannard/BBC&rpar;](http://www.techmeme.com/240919/p9#a240919p9)
- - [Bluesky addresses how it approaches trust and safety concerns on the platform, including piloting initiatives to deal with bad actors, abuse, and spam &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240919/p8#a240919p8)<!-- TECH:END -->
+ - [A profile of lobbyist Andrew Kingman, who has exerted immense influence on US tech policy by helping large companies that want lax rules on data privacy &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240919/p10#a240919p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

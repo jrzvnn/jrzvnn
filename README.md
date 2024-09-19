@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence is now available in public betas](https://www.theverge.com/2024/9/19/24249206/apple-intelligence-ios-18-1-public-beta)
- - [Nintendo Is Suing &#39;Palworld&#39; Creator Pocketpair](https://www.wired.com/story/nintendo-suing-the-makers-of-palworld/)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [&#39;The Penguin&#39;: Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-penguin-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [&#39;Power Book II: Ghost&#39; Season 4: When to Watch the Final Episodes](https://www.cnet.com/tech/services-and-software/power-book-ii-ghost-season-4-when-to-watch-final-episodes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTC says social media companies can’t be trusted to regulate themselves](https://www.theverge.com/2024/9/19/24249073/ftc-data-retention-privacy-report-facebook-meta-youtube-reddit)
+ - [Fal.ai, a developer-focused platform for media-generating AI models, raised a $9M seed and a $14M Series A from Kindred Ventures, a16z, First Round, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240919/p33#a240919p33)
+ - [Logitech is making 502 metal mice](https://www.theverge.com/2024/9/19/24249195/logitech-g502-limited-edition-aluminum-10th-anniversary-gaming-mouse)
+ - [Apple&#39;s iPhone 16 &amp; iPhone 16 Pro battery capacities have been revealed](https://appleinsider.com/articles/24/09/19/apples-iphone-16-iphone-16-pro-battery-capacities-have-been-revealed?utm_medium=rss)
+ - [For a Limited Time Only, Score Big Savings on an Eero Wi-Fi 7 Mesh Router](https://www.cnet.com/deals/for-a-limited-time-only-score-big-savings-on-an-eero-wi-fi-7-mesh-router/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

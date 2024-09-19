@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palworld developer has no idea why Nintendo’s suing over its Pokémon-like game](https://www.theverge.com/2024/9/19/24248957/pocketpair-pokemon-patent-infrigement-lawsuit)
+ - [Strange Visual Auras Could Hold the Key to Better Migraine Treatments](https://www.wired.com/story/strange-visual-auras-could-hold-the-key-to-better-migraine-treatments/)
  - [Why Google is back in court for another monopoly showdown](https://www.theverge.com/24248923/google-antitrust-ad-trial-doj-monopoly-doubleclick-acquisition-decoder-podcast-interview)
  - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Laura Loomer: The ‘Free Spirit’ Whispering in Trump’s Ear](https://www.wired.com/story/laura-loomer-donald-trump/)
- - [Zombie film &#39;28 Years Later&#39; was shot on iPhone 15 Pro Max](https://appleinsider.com/articles/24/09/19/zombie-film-28-years-later-was-shot-on-iphone-15-pro-max?utm_medium=rss)
- - [Folding iPhone may be touch sensitive all over](https://appleinsider.com/articles/23/02/14/folding-iphone-may-be-touch-sensitive-all-over?utm_medium=rss)<!-- TECH:END -->
+ - [Laura Loomer: The ‘Free Spirit’ Whispering in Trump’s Ear](https://www.wired.com/story/laura-loomer-donald-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

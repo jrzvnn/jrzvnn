@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GTA V, one of the most popular Steam Deck games, is now ‘unsupported’](https://www.theverge.com/2024/9/18/24248585/gta-v-steam-deck-battleye)
- - [Court filings: X has moved its official headquarters to Bastrop, Texas, a small town just outside of Austin that&#39;s also home to SpaceX and The Boring Company &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240918/p44#a240918p44)
- - [Nintendo and Pokémon are suing Palworld maker Pocketpair](https://www.theverge.com/2024/9/18/24248602/nintendo-pokemon-palworld-pocketpair-patent-infringement-lawsuit)
- - [LinkedIn is training AI models on your data](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in)
- - [Oprah buys back rights to Apple TV+ documentary about her life so it never releases](https://appleinsider.com/articles/24/09/18/oprah-buys-back-rights-to-apple-tv-documentary-about-her-life-so-it-never-releases?utm_medium=rss)<!-- TECH:END -->
+ - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)
+ - [Nintendo and The Pok&amp;eacute;mon Company sue Pocketpair, accusing the Palworld developer of infringing on &quot;multiple patent rights&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240918/p45#a240918p45)
+ - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)
+ - [Best Showerhead for 2024](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)
+ - [US Senate Warns Big Tech to Act Fast Against Election Meddling](https://www.wired.com/story/senate-hearing-with-us-tech-providers-on-election-threats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

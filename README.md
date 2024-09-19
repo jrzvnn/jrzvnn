@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s top court says Booking.com&#39;s restrictions on hotels offering lower rates on their websites or on rival sites are unnecessary and may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p18#a240919p18)
  - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
- - [Palmer Luckey partners with Microsoft to turn US soldiers into Starship Troopers](https://www.theverge.com/2024/9/19/24248851/palmer-luckey-anduril-microsoft-partnership-ivas-ar-headset)
- - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)
- - [Frostpunk 2 and More Games Are Coming to Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/frostpunk-2-and-more-games-are-coming-to-xbox-game-pass-soon/#ftag=CAD590a51e)
- - [How to Perform Conversions in iOS 18&#39;s Overhauled Calculator App](https://www.cnet.com/tech/services-and-software/how-to-perform-conversions-in-ios-18s-overhauled-calculator-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s new competition TV show, debuting October 30, will have entrepreneurs pitch judges, including Amazon execs; finalists&#39; product will be sold on Amazon &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p17#a240919p17)
+ - [Why Threads Is All the Ragebait](https://www.wired.com/story/gadget-lab-podcast-659/)
+ - [Palmer Luckey partners with Microsoft to turn US soldiers into Starship Troopers](https://www.theverge.com/2024/9/19/24248851/palmer-luckey-anduril-microsoft-partnership-ivas-ar-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 😝 [They are eating the geese](http://9gag.com/gag/aND1deA)
- - 💣 [Toy cars get into a bad crash](http://9gag.com/gag/aRB3V1B)
+ - 😝 [Wireless charging](http://9gag.com/gag/azxXEWp)
+ - 😝 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
+ - 💣 [Cargasm](http://9gag.com/gag/a2vo5AO)
  - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
- - 👉 [Know the simple rules](http://9gag.com/gag/a87oyG3)<!-- MEMES:END -->
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 ---
 

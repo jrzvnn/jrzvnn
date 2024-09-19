@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo and Pokémon are suing Palworld maker Pocketpair](https://www.theverge.com/2024/9/18/24248602/nintendo-pokemon-palworld-pocketpair-patent-infringement-lawsuit)
  - [Source: EU regulators are set to announce that Apple must step into line with strict new rules on making OSes fully functional with other tech under the DMA &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240919/p11#a240919p11)
  - [A profile of lobbyist Andrew Kingman, who has exerted immense influence on US tech policy by helping large companies that want lax rules on data privacy &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240919/p10#a240919p10)
  - [Study: unintended electromagnetic radiation from second-gen Starlink satellites is stronger than first-gen, causing 32x more interference with radio telescopes &lpar;Georgina Rannard/BBC&rpar;](http://www.techmeme.com/240919/p9#a240919p9)
- - [Bluesky addresses how it approaches trust and safety concerns on the platform, including piloting initiatives to deal with bad actors, abuse, and spam &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240919/p8#a240919p8)
- - [Your Brain&#39;s the Limit With iPhone Emoji You Dream Up in iOS 18: How It Will Work](https://www.cnet.com/tech/services-and-software/your-brains-the-limit-with-iphone-emoji-you-dream-up-in-ios-18-how-it-will-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky addresses how it approaches trust and safety concerns on the platform, including piloting initiatives to deal with bad actors, abuse, and spam &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240919/p8#a240919p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

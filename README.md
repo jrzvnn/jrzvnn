@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
- - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
- - 💣 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
- - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
- - 👉 [Clean and safe](http://9gag.com/gag/agmXYxn)<!-- MEMES:END -->
+ - 😝 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
+ - 😝 [Outstanding move](http://9gag.com/gag/apR2LED)
+ - 💣 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
+ - 😝 [FML](http://9gag.com/gag/aByxw3z)
+ - 👉 [Know the simple rules](http://9gag.com/gag/a87oyG3)<!-- MEMES:END -->
 
 ---
 

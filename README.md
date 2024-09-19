@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is it so on beat](http://9gag.com/gag/avyOPwZ)
- - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - 💣 [Boyfriend, I&#39;ve \u0441um to bargain.](http://9gag.com/gag/a34KBxm)
- - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
- - 👉 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)<!-- MEMES:END -->
+ - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
+ - 😝 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
+ - 💣 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 👉 [High definition too](http://9gag.com/gag/aQz3ME2)<!-- MEMES:END -->
 
 ---
 

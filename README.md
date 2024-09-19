@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - 😝 [In case you were wondering how much brain surgery costs.](http://9gag.com/gag/aMVj8WP)
- - 💣 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
- - 😝 [Get on the bus:](http://9gag.com/gag/a5QornO)
- - 👉 [High definition too](http://9gag.com/gag/aQz3ME2)<!-- MEMES:END -->
+ - 😝 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 💣 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 😝 [Life be like](http://9gag.com/gag/aZZ3pRQ)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---
 

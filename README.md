@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
- - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
- - 💣 [His reaction](http://9gag.com/gag/a4P7LMm)
+ - 😝 [Hide and seek](http://9gag.com/gag/aZZ3Mx0)
+ - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
+ - 💣 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
  - 😝 [In case you were wondering how much brain surgery costs.](http://9gag.com/gag/aMVj8WP)
- - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
+ - 👉 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)<!-- MEMES:END -->
 
 ---
 

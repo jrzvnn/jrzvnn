@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: server CPU designer Ampere is exploring a potential sale; Ampere was reportedly valued at $8B in a proposed minority investment in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240919/p27#a240919p27)
  - [Intel says it has no plans to sell its majority stake in Mobileye; the self-driving tech company&#39;s stock, which is down 73% in 2024, jumps 13%+ &lpar;Reuters&rpar;](http://www.techmeme.com/240919/p26#a240919p26)
  - [Hands on with Apple&#39;s 25W MagSafe charger for iPhone 16](https://appleinsider.com/articles/24/09/19/hands-on-with-apples-25w-magsafe-charger-for-iphone-16?utm_medium=rss)
  - [iPhone SE and iPhone 17 rumored to get Apple&#39;s 5G modem first, in 2025](https://appleinsider.com/articles/24/09/19/iphone-se-and-iphone-17-rumored-to-get-apples-5g-modem-first-in-2025?utm_medium=rss)
- - [Volkswagen ID.4 production halted in the US after its doors wouldn’t stay closed](https://www.theverge.com/2024/9/19/24248973/volkswagen-id4-production-halt-recall-door-faulty)
- - [Black Mirror season 7 cast includes Peter Capaldi, Paul Giamatti, and Issa Rae](https://www.theverge.com/2024/9/19/24248900/black-mirror-season-7-netflix-cast-capaldi-giamatti-issa-rae)<!-- TECH:END -->
+ - [Volkswagen ID.4 production halted in the US after its doors wouldn’t stay closed](https://www.theverge.com/2024/9/19/24248973/volkswagen-id4-production-halt-recall-door-faulty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

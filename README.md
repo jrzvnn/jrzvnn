@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life be like](http://9gag.com/gag/aZZ3pRQ)
- - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
- - 💣 [Welcome To University](http://9gag.com/gag/aAyxw92)
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)
+ - 😝 [He won and she knows it.](http://9gag.com/gag/apR2LPp)
+ - 💣 [Get on the bus:](http://9gag.com/gag/a5QornO)
+ - 😝 [Judge jails woman after laughing at victims family in court](http://9gag.com/gag/a87oMPQ)
  - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---

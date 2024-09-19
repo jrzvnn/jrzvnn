@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio](https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio?utm_medium=rss)
+ - [Amazon launches Amelia, an AI tool to help third-party sellers resolve account issues and fetch sales and inventory data, in beta for select US sellers &lpar;CNBC&rpar;](http://www.techmeme.com/240919/p21#a240919p21)
  - [The US FTC releases a four-year study of how Meta, YouTube, TikTok, and six others collected and used data, finding &quot;vast surveillance&quot; of consumers &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240919/p20#a240919p20)
  - [Google employees’ attempts to hide messages from investigators might backfire](https://www.theverge.com/2024/9/19/24245559/google-employee-privileged-confidential-deleted-chats)
- - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
- - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)
- - [Apple Vision Pro&#39;s New OS Subtly Expands the Headset&#39;s Potential](https://www.cnet.com/tech/computing/apple-vision-pros-new-os-subtly-raises-the-bar-on-the-headsets-potential/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

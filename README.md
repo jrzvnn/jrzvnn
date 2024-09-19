@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
  - 😝 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
- - 💣 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 😝 [If you&#39;re the only male in the dormitory](http://9gag.com/gag/aGyjexG)
- - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aW416G6)
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)<!-- MEMES:END -->
 
 ---
 

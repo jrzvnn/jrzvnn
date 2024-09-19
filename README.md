@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Weighted Blankets, Robes, and Eye Masks &lpar;2024&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
- - [Everything You Need to Know About the WIRED &amp; Octopus Energy Tech Summit 2024](https://www.wired.com/story/everything-you-need-to-know-about-the-wired-and-octopus-energy-tech-summit-2024/)
- - [Your Phone Won’t Be the Next Exploding Pager](https://www.wired.com/story/exploding-pagers-hezbollah-phones/)
- - [Amazon joins the Motion Picture Association, after a long courtship; the lobbying group&#39;s other members are Disney, Netflix, Paramount, Sony, Universal, and WBD &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/240919/p22#a240919p22)
- - [Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio](https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio?utm_medium=rss)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Laura Loomer: The ‘Free Spirit’ Whispering in Trump’s Ear](https://www.wired.com/story/laura-loomer-donald-trump/)
+ - [Zombie film &#39;28 Years Later&#39; was shot on iPhone 15 Pro Max](https://appleinsider.com/articles/24/09/19/zombie-film-28-years-later-was-shot-on-iphone-15-pro-max?utm_medium=rss)
+ - [Folding iPhone may be touch sensitive all over](https://appleinsider.com/articles/23/02/14/folding-iphone-may-be-touch-sensitive-all-over?utm_medium=rss)
+ - [First Israel’s Exploding Pagers Maimed and Killed. Now Comes the Paranoia](https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

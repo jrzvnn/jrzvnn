@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Online Casino Workers Went on Hunger Strike Over Working Conditions](https://www.wired.com/story/online-casino-workers-went-on-hunger-strike-over-working-conditions/)
+ - [The Outrageous Scheme to Capture and Sell Greenland’s Meltwater](https://www.wired.com/story/the-outrageous-scheme-to-capture-and-sell-greenlands-meltwater/)
  - [Content Creators in the Adult Industry Want a Say in AI Rules](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/)
  - [A UN advisory body makes seven recommendations for governing AI, including establishing a panel to provide impartial and reliable scientific knowledge about AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240919/p7#a240919p7)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-19/#ftag=CAD590a51e)
- - [Analysis: Elon Musk, apparently unaware of Tenet Media&#39;s alleged Russian funding, replied to or reposted content from accounts tied to Tenet at least 60 times &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240919/p6#a240919p6)
- - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

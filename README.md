@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)
  - [Microsoft teams up with Anduril Industries to improve the performance of Integrated Visual Augmentation System or IVAS, new combat goggles for the US Army &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240919/p4#a240919p4)
  - [The United Nations Wants to Treat AI With the Same Urgency as Climate Change](https://www.wired.com/story/united-nations-artificial-intelligence-report/)
  - [The US House Committee on Energy and Commerce advanced KOSA and COPPA 2.0 on a voice vote despite discontent from some lawmakers over last-minute changes &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240919/p3#a240919p3)
- - [EU regulators say Microsoft&#39;s acquihire of Inflection&#39;s team will not be scrutinized under EU merger rules, after seven EU countries dropped their requests &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p2#a240919p2)
- - [The FBI, ODNI, and CISA say Iranian hackers emailed stolen, non-public Trump campaign info to Biden campaign associates; there&#39;s no sign the recipients replied &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240919/p1#a240919p1)<!-- TECH:END -->
+ - [EU regulators say Microsoft&#39;s acquihire of Inflection&#39;s team will not be scrutinized under EU merger rules, after seven EU countries dropped their requests &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p2#a240919p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

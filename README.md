@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
- - 💣 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
- - 😝 [Can someone explain?](http://9gag.com/gag/arygRD6)
- - 👉 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)<!-- MEMES:END -->
+ - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [Know the simple rules](http://9gag.com/gag/a87oyG3)
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 ---
 

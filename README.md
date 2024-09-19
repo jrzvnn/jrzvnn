@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 😝 [Outstanding move](http://9gag.com/gag/apR2LED)
- - 💣 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 😝 [FML](http://9gag.com/gag/aByxw3z)
- - 👉 [Know the simple rules](http://9gag.com/gag/a87oyG3)<!-- MEMES:END -->
+ - 😝 [Know the simple rules](http://9gag.com/gag/a87oyG3)
+ - 😝 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
+ - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
 
 ---
 

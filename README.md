@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old 9gag folder](http://9gag.com/gag/ayNXn58)
- - 😝 [Wireless charging](http://9gag.com/gag/azxXEWp)
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
- - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
+ - 😝 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 💣 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/aW416G6)<!-- MEMES:END -->
 
 ---
 

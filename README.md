@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thursday Night Football: How to Watch, Stream Patriots vs. Jets Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-jets-tonight-on-prime-video/#ftag=CAD590a51e)
- - [EU Tells Apple How to Expand iOS Interoperability to Third-Party Accessories](https://www.cnet.com/tech/services-and-software/eu-tells-apple-how-to-expand-ios-interoperability-to-third-party-accessories/#ftag=CAD590a51e)
  - [US online passport renewal is now fully open for business](https://www.theverge.com/2024/9/19/24249413/us-online-passport-renewal-website)
- - [&#39;Twilight of the Gods&#39; Interview: Zack Snyder on Sigrid, Loki and Crabby Thor](https://www.cnet.com/tech/services-and-software/twilight-of-the-gods-interview-zack-snyder-on-sigrid-loki-and-crabby-thor/#ftag=CAD590a51e)
- - [Best AirPods Pro 2 Deals: Snag a Pair While They’re $59 Off](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)
+ - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
+ - [Don&#39;t Miss a Second of the Action This NFL Season with Hulu + Live TV](https://www.cnet.com/paid-content/news/dont-miss-a-second-of-the-action-this-nfl-football-season-with-hulu-live-tv-streaming/#ftag=CAD590a51e)
+ - [Get All the Hottest Sports Action This Fall with Hulu + Live TV](https://www.cnet.com/paid-content/news/get-all-the-hottest-sports-action-this-fall-with-hulu-live-tv-nfl-mlb-nhl-nba-college-football/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

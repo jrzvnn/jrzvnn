@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU regulators say Microsoft&#39;s acquihire of Inflection&#39;s team will not be scrutinized under EU merger rules, after seven EU countries dropped their requests &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p2#a240919p2)
  - [The FBI, ODNI, and CISA say Iranian hackers emailed stolen, non-public Trump campaign info to Biden campaign associates; there&#39;s no sign the recipients replied &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240919/p1#a240919p1)
  - [Palmer Luckey Is Bringing Anduril Smarts to Microsoft’s Military Headset](https://www.wired.com/story/palmer-luckey-anduril-microsoft-military-headset/)
  - [Two researchers say a security conference in China potentially used the event as a secret espionage operation to collect intelligence from an unknown target &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240918/p47#a240918p47)
- - [Nuphy Air60 V2 review: tiny &amp; mighty mechanical keyboard gets better](https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 19, #200](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-19-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nuphy Air60 V2 review: tiny &amp; mighty mechanical keyboard gets better](https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

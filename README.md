@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC says social media companies can’t be trusted to regulate themselves](https://www.theverge.com/2024/9/19/24249073/ftc-data-retention-privacy-report-facebook-meta-youtube-reddit)
+ - [OpenAI makes its latest AI models, o1-preview and o1-mini, available to all ChatGPT Enterprise and ChatGPT Edu customers &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240919/p34#a240919p34)
+ - [The FTC says social media companies can’t be trusted to regulate themselves](https://www.theverge.com/2024/9/19/24249073/ftc-data-retention-privacy-report-facebook-meta-youtube-reddit)
  - [Fal.ai, a developer-focused platform for media-generating AI models, raised a $9M seed and a $14M Series A from Kindred Ventures, a16z, First Round, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240919/p33#a240919p33)
  - [Logitech is making 502 metal mice](https://www.theverge.com/2024/9/19/24249195/logitech-g502-limited-edition-aluminum-10th-anniversary-gaming-mouse)
- - [Apple&#39;s iPhone 16 &amp; iPhone 16 Pro battery capacities have been revealed](https://appleinsider.com/articles/24/09/19/apples-iphone-16-iphone-16-pro-battery-capacities-have-been-revealed?utm_medium=rss)
- - [For a Limited Time Only, Score Big Savings on an Eero Wi-Fi 7 Mesh Router](https://www.cnet.com/deals/for-a-limited-time-only-score-big-savings-on-an-eero-wi-fi-7-mesh-router/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16 &amp; iPhone 16 Pro battery capacities have been revealed](https://appleinsider.com/articles/24/09/19/apples-iphone-16-iphone-16-pro-battery-capacities-have-been-revealed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

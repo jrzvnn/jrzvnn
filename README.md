@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Content Creators in the Adult Industry Want a Say in AI Rules](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/)
  - [A UN advisory body makes seven recommendations for governing AI, including establishing a panel to provide impartial and reliable scientific knowledge about AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240919/p7#a240919p7)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-19/#ftag=CAD590a51e)
  - [Analysis: Elon Musk, apparently unaware of Tenet Media&#39;s alleged Russian funding, replied to or reposted content from accounts tied to Tenet at least 60 times &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240919/p6#a240919p6)
- - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)
- - [Is a Home Generator Worth It in 2024?](https://www.cnet.com/home/energy-and-utilities/how-much-do-home-generators-cost-and-are-they-worth-it/#ftag=CAD590a51e)
- - [Microsoft partners with Anduril Industries to improve the performance of Integrated Visual Augmentation System or IVAS, the new combat goggles for the US Army &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240919/p4#a240919p4)<!-- TECH:END -->
+ - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

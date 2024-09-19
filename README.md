@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuphy Air60 V2 review: tiny &amp; mighty mechanical keyboard gets better](https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better?utm_medium=rss)
  - [Mercor, a jobs marketplace that uses AI to vet and interview candidates, raised a $32M Series A led by Benchmark at a $250M valuation and says it&#39;s profitable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240918/p46#a240918p46)
  - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
  - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)
- - [Best Dash Cam Deals: Save Over $100 on Top-Rated Dash Cams](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)
- - [Nintendo and The Pok&amp;eacute;mon Company sue Pocketpair, accusing the Palworld developer of infringing on &quot;multiple patent rights&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240918/p45#a240918p45)<!-- TECH:END -->
+ - [Best Dash Cam Deals: Save Over $100 on Top-Rated Dash Cams](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

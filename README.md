@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
  - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
- - 💣 [Welcome To University](http://9gag.com/gag/aAyxw92)
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
+ - 💣 [He won and she knows it.](http://9gag.com/gag/apR2LPp)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
 
 ---
 

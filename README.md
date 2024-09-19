@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
- - 💣 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
  - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 💣 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
+ - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
  - 👉 [Nice tiddies](http://9gag.com/gag/abAMpqr)<!-- MEMES:END -->
 
 ---

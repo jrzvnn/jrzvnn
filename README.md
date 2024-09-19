@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palworld developer has no idea why Nintendo’s suing over its Pokémon-like game](https://www.theverge.com/2024/9/19/24248957/pocketpair-pokemon-patent-infrigement-lawsuit)
- - [Strange Visual Auras Could Hold the Key to Better Migraine Treatments](https://www.wired.com/story/strange-visual-auras-could-hold-the-key-to-better-migraine-treatments/)
- - [Why Google is back in court for another monopoly showdown](https://www.theverge.com/24248923/google-antitrust-ad-trial-doj-monopoly-doubleclick-acquisition-decoder-podcast-interview)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Laura Loomer: The ‘Free Spirit’ Whispering in Trump’s Ear](https://www.wired.com/story/laura-loomer-donald-trump/)<!-- TECH:END -->
+ - [iPhone SE and iPhone 17 rumored to get Apple&#39;s 5G modem first, in 2025](https://appleinsider.com/articles/24/09/19/iphone-se-and-iphone-17-rumored-to-get-apples-5g-modem-first-in-2025?utm_medium=rss)
+ - [Volkswagen ID.4 production halted in the US after its doors wouldn’t stay closed](https://www.theverge.com/2024/9/19/24248973/volkswagen-id4-production-halt-recall-door-faulty)
+ - [Black Mirror season 7 cast includes Peter Capaldi, Paul Giamatti, and Issa Rae](https://www.theverge.com/2024/9/19/24248900/black-mirror-season-7-netflix-cast-capaldi-giamatti-issa-rae)
+ - [US DOJ lawyers told a court that Google employees liberally labelled emails as &quot;privileged and confidential&quot;, a strategy that may backfire in the antitrust case &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240919/p25#a240919p25)
+ - [PlayStation’s 30th anniversary PS5 and PS5 Pro are delightfully retro](https://www.theverge.com/2024/9/19/24249013/sony-playstation-ps5-pro-30th-anniversary-retro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

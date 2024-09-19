@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The estates of dead celebrities like Laurence Olivier and James Dean partnered with ElevenLabs on its &quot;iconic voices&quot; project, making millions after their death &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/240919/p13#a240919p13)
- - [Layoffs.fyi: tech companies have laid off ~137,000 people since January 2024; Indeed.com: software development job postings are down 30%+ since February 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240919/p12#a240919p12)
- - [Anti-Immigrant Election Deniers Have Turned Their Online Following Into an Army of Activists](https://www.wired.com/story/election-deniers-trump-anti-immigrant-voting/)
- - [Nintendo and Pokémon are suing Palworld maker Pocketpair](https://www.theverge.com/2024/9/18/24248602/nintendo-pokemon-palworld-pocketpair-patent-infringement-lawsuit)
- - [Source: EU regulators are set to announce that Apple must step into line with strict new rules on making OSes fully functional with other tech under the DMA &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240919/p11#a240919p11)<!-- TECH:END -->
+ - [High costs mean Apple will limit 2nm processors to iPhone 18 Pro models](https://appleinsider.com/articles/24/09/19/high-costs-mean-apple-will-limit-2nm-processors-to-iphone-18-pro-models?utm_medium=rss)
+ - [Alibaba releases 100+ open-source models from its Qwen 2.5 family, its LLM released in May 2024, ranging from 0.5B to 72B parameters, and text-to-video AI tech &lpar;Reuters&rpar;](http://www.techmeme.com/240919/p14#a240919p14)
+ - [A Game Designer Just Hid a Gold Trophy in the Woods for a Real-Life Treasure Hunt. It Starts Now](https://www.wired.com/story/project-skydrop-jason-rohrer-treasure-hunt-begins/)
+ - [Behold, the black Apple Watch Ultra 2](https://www.theverge.com/2024/9/19/24248380/apple-watch-ultra-2-black-smartwatch-wearables)
+ - [The estates of dead celebrities like Laurence Olivier and James Dean partnered with ElevenLabs on its &quot;iconic voices&quot; project, making millions after their death &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/240919/p13#a240919p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

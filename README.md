@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to preorder Microsoft’s special edition Galaxy Black Xbox Series X](https://www.theverge.com/24247123/microsoft-xbox-series-x-2tb-galaxy-black-special-edition-preorder-buy-price-release-date)
+ - [Microsoft launches a Windows app for iPhones, Macs, and Android devices](https://www.theverge.com/2024/9/19/24249087/microsoft-windows-app-ios-ipados-macos-web-general-availability)
+ - [Where to preorder Microsoft’s special-edition Galaxy Black Xbox Series X](https://www.theverge.com/24247123/microsoft-xbox-series-x-2tb-galaxy-black-special-edition-preorder-buy-price-release-date)
  - [Amazon is stuffing generative AI into its shopping experience](https://www.theverge.com/2024/9/19/24249046/amazon-generative-ai-tools-personalized-shopping-recommendations)
  - [Google announces Password Manager PIN to let users sync passkeys across Windows, macOS, Linux, and Android devices, with iOS support coming soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240919/p28#a240919p28)
- - [Project 2025 would ‘essentially eviscerate EPA,’ former staff warn](https://www.theverge.com/2024/9/19/24248267/epa-air-pollution-report-biden-trump-project-2025)
- - [Censorship accusations loom over Big Tech hearing on election threats](https://www.theverge.com/2024/9/19/24248501/senate-intelligence-committee-election-threats-hearing-meta-google-microsoft)<!-- TECH:END -->
+ - [Project 2025 would ‘essentially eviscerate EPA,’ former staff warn](https://www.theverge.com/2024/9/19/24248267/epa-air-pollution-report-biden-trump-project-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

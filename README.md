@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
- - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
+ - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 💣 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)
+ - 😝 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
+ - 👉 [Cargasm](http://9gag.com/gag/a2vo5AO)<!-- MEMES:END -->
 
 ---
 

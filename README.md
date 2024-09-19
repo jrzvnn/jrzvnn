@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harry&#39;s trying to make a different kind of magic, if you know what I mean](http://9gag.com/gag/axy10QM)
- - 😝 [Better make sure nobody is watching](http://9gag.com/gag/ajPEX9G)
- - 💣 [...](http://9gag.com/gag/a9ypre0)
- - 😝 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
- - 👉 [Look at those ears, they were about to take-off](http://9gag.com/gag/aD2xzNd)<!-- MEMES:END -->
+ - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 💣 [She will not go out the same](http://9gag.com/gag/aAyx1Kg)
+ - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 👉 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC releases a four-year study of how Meta, YouTube, TikTok, and six others collected and used data, finding &quot;vast surveillance&quot; of consumers &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240919/p20#a240919p20)
+ - [Google employees’ attempts to hide messages from investigators might backfire](https://www.theverge.com/2024/9/19/24245559/google-employee-privileged-confidential-deleted-chats)
+ - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
  - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)
- - [DJI goes pro with latest Osmo Action camera](https://www.theverge.com/2024/9/19/24247926/dji-osmo-action-5-pro-compared-gopro-price-specs)
- - [Picus Security, which helps fix inconsistencies in code and network activity, raised a $45M Series C, bringing its total funding to $80M, and has 500+ clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240919/p19#a240919p19)
- - [The iPhone 16&#39;s Battery Is Easier to Replace, Finally](https://www.wired.com/story/iphone-16-battery-is-easier-to-replace/)
- - [The EU&#39;s top court says Booking.com&#39;s restrictions on hotels offering lower rates on their websites or on rival sites are unnecessary and may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p18#a240919p18)<!-- TECH:END -->
+ - [Apple Vision Pro&#39;s New OS Subtly Expands the Headset&#39;s Potential](https://www.cnet.com/tech/computing/apple-vision-pros-new-os-subtly-raises-the-bar-on-the-headsets-potential/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
- - 😝 [Harry&#39;s trying to make a different kind of magic, if you know what I mean](http://9gag.com/gag/axy10QM)
- - 💣 [Better make sure nobody is watching](http://9gag.com/gag/ajPEX9G)
- - 😝 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
- - 👉 [...](http://9gag.com/gag/a9ypre0)<!-- MEMES:END -->
+ - 😝 [Outstanding move](http://9gag.com/gag/apR2LED)
+ - 😝 [Giving him the taste of his own medicine](http://9gag.com/gag/ae9M68O)
+ - 💣 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - 😝 [Dude casually found windows 10 wallpaper](http://9gag.com/gag/aRB3KVB)
+ - 👉 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - 😝 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
- - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
+ - 😝 [Well done boy!](http://9gag.com/gag/aD2x1R7)
+ - 😝 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
+ - 💣 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
+ - 👉 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Outstanding move](http://9gag.com/gag/apR2LED)
- - 😝 [Giving him the taste of his own medicine](http://9gag.com/gag/ae9M68O)
- - 💣 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - 😝 [Dude casually found windows 10 wallpaper](http://9gag.com/gag/aRB3KVB)
+ - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - 😝 [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
  - 👉 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)<!-- MEMES:END -->
 
 ---

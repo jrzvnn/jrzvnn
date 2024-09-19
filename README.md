@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 💣 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)
- - 😝 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - 👉 [Cargasm](http://9gag.com/gag/a2vo5AO)<!-- MEMES:END -->
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
+ - 💣 [The true wingman](http://9gag.com/gag/avyO7mE)
+ - 😝 [In case you were wondering how much brain surgery costs.](http://9gag.com/gag/aMVj8WP)
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 ---
 

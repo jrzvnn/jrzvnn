@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why is it so on beat](http://9gag.com/gag/avyOPwZ)
  - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - 😝 [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)
- - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
- - 👉 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)<!-- MEMES:END -->
+ - 💣 [Boyfriend, I&#39;ve \u0441um to bargain.](http://9gag.com/gag/a34KBxm)
+ - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 👉 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)<!-- MEMES:END -->
 
 ---
 

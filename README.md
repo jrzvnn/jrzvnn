@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft teams up with Anduril Industries to improve the performance of Integrated Visual Augmentation System or IVAS, new combat goggles for the US Army &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240919/p4#a240919p4)
+ - [The United Nations Wants to Treat AI With the Same Urgency as Climate Change](https://www.wired.com/story/united-nations-artificial-intelligence-report/)
  - [The US House Committee on Energy and Commerce advanced KOSA and COPPA 2.0 on a voice vote despite discontent from some lawmakers over last-minute changes &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240919/p3#a240919p3)
  - [EU regulators say Microsoft&#39;s acquihire of Inflection&#39;s team will not be scrutinized under EU merger rules, after seven EU countries dropped their requests &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p2#a240919p2)
- - [The FBI, ODNI, and CISA say Iranian hackers emailed stolen, non-public Trump campaign info to Biden campaign associates; there&#39;s no sign the recipients replied &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240919/p1#a240919p1)
- - [Palmer Luckey Is Bringing Anduril Smarts to Microsoft’s Military Headset](https://www.wired.com/story/palmer-luckey-anduril-microsoft-military-headset/)
- - [Two researchers say a security conference in China potentially used the event as a secret espionage operation to collect intelligence from an unknown target &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240918/p47#a240918p47)<!-- TECH:END -->
+ - [The FBI, ODNI, and CISA say Iranian hackers emailed stolen, non-public Trump campaign info to Biden campaign associates; there&#39;s no sign the recipients replied &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240919/p1#a240919p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

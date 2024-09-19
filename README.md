@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - 😝 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)
- - 💣 [Outstanding move](http://9gag.com/gag/apR2LED)
- - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 👉 [She will not go out the same](http://9gag.com/gag/aAyx1Kg)<!-- MEMES:END -->
+ - 😝 [Life be like](http://9gag.com/gag/aZZ3pRQ)
+ - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 💣 [Welcome To University](http://9gag.com/gag/aAyxw92)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---
 

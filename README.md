@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US online passport renewal is now fully open for business](https://www.theverge.com/2024/9/19/24249413/us-online-passport-renewal-website)
  - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)
  - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
  - [Don&#39;t Miss a Second of the Action This NFL Season with Hulu + Live TV](https://www.cnet.com/paid-content/news/dont-miss-a-second-of-the-action-this-nfl-football-season-with-hulu-live-tv-streaming/#ftag=CAD590a51e)
- - [Get All the Hottest Sports Action This Fall with Hulu + Live TV](https://www.cnet.com/paid-content/news/get-all-the-hottest-sports-action-this-fall-with-hulu-live-tv-nfl-mlb-nhl-nba-college-football/#ftag=CAD590a51e)
- - [iOS 18.1 Public Beta 1 Is Available Now, a Few Days After iOS 18&#39;s Release](https://www.cnet.com/tech/services-and-software/ios-18-1-public-beta-1-is-available-now-a-few-days-after-ios-18s-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get All the Hottest Sports Action This Fall with Hulu + Live TV](https://www.cnet.com/paid-content/news/get-all-the-hottest-sports-action-this-fall-with-hulu-live-tv-nfl-mlb-nhl-nba-college-football/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

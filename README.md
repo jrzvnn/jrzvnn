@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aW416G6)
- - 😝 [His reaction](http://9gag.com/gag/a4P7LMm)
- - 💣 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
- - 👉 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)<!-- MEMES:END -->
+ - 😝 [Old 9gag folder](http://9gag.com/gag/ayNXn58)
+ - 😝 [Wireless charging](http://9gag.com/gag/azxXEWp)
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 ---
 

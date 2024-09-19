@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch is now a better TV remote](https://www.theverge.com/2024/9/19/24249074/apple-watch-watchos-11-tv-remote)
+ - [macOS 15 Sequoia appears to have broken several security tools made by CrowdStrike, SentinelOne, Microsoft, and others; CrowdStrike delays support for Sequoia &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240919/p32#a240919p32)
  - [California becomes eighth state to support IDs in Wallet app](https://appleinsider.com/articles/24/09/19/california-becomes-eighth-state-to-support-ids-in-wallet-app?utm_medium=rss)
  - [Cruise plots its robotaxi return to the Bay Area](https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous)
- - [Apple seeds iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas with some Apple Intelligence features, including Writing Tools and Siri redesign &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240919/p31#a240919p31)
- - [Apple&#39;s new OS public betas offer a glimpse of Apple Intelligence](https://appleinsider.com/articles/24/09/19/apples-new-os-public-betas-offer-a-glimpse-of-apple-intelligence?utm_medium=rss)
- - [Apple pulls MacBook component supplier shipments over quality issues](https://appleinsider.com/articles/24/09/19/apple-pulls-macbook-component-supplier-shipments-over-quality-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas with some Apple Intelligence features, including Writing Tools and Siri redesign &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240919/p31#a240919p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

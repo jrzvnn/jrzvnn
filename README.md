@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 💣 [High definition too](http://9gag.com/gag/aQz3ME2)
- - 😝 [Life be like](http://9gag.com/gag/aZZ3pRQ)
- - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
+ - 😝 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
+ - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
+ - 💣 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
+ - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
+ - 👉 [Clean and safe](http://9gag.com/gag/agmXYxn)<!-- MEMES:END -->
 
 ---
 

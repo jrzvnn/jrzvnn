@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 💣 [The true wingman](http://9gag.com/gag/avyO7mE)
- - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
- - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)
+ - 💣 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 👉 [Better make sure nobody is watching](http://9gag.com/gag/ajPEX9G)<!-- MEMES:END -->
 
 ---
 

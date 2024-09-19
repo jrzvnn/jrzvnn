@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Google is back in court for another monopoly showdown](https://www.theverge.com/24248923/google-antitrust-ad-trial-doj-monopoly-doubleclick-acquisition-decoder-podcast-interview)
  - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
  - [Laura Loomer: The ‘Free Spirit’ Whispering in Trump’s Ear](https://www.wired.com/story/laura-loomer-donald-trump/)
  - [Zombie film &#39;28 Years Later&#39; was shot on iPhone 15 Pro Max](https://appleinsider.com/articles/24/09/19/zombie-film-28-years-later-was-shot-on-iphone-15-pro-max?utm_medium=rss)
- - [Folding iPhone may be touch sensitive all over](https://appleinsider.com/articles/23/02/14/folding-iphone-may-be-touch-sensitive-all-over?utm_medium=rss)
- - [First Israel’s Exploding Pagers Maimed and Killed. Now Comes the Paranoia](https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/)<!-- TECH:END -->
+ - [Folding iPhone may be touch sensitive all over](https://appleinsider.com/articles/23/02/14/folding-iphone-may-be-touch-sensitive-all-over?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

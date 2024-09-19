@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s top court says Booking.com&#39;s restrictions on hotels offering lower rates on their websites or on rival sites are unnecessary and may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p18#a240919p18)
- - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
- - [Amazon&#39;s new competition TV show, debuting October 30, will have entrepreneurs pitch judges, including Amazon execs; finalists&#39; product will be sold on Amazon &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p17#a240919p17)
- - [Why Threads Is All the Ragebait](https://www.wired.com/story/gadget-lab-podcast-659/)
- - [Palmer Luckey partners with Microsoft to turn US soldiers into Starship Troopers](https://www.theverge.com/2024/9/19/24248851/palmer-luckey-anduril-microsoft-partnership-ivas-ar-headset)<!-- TECH:END -->
+ - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)
+ - [DJI goes pro with latest Osmo Action camera](https://www.theverge.com/2024/9/19/24247926/dji-osmo-action-5-pro-compared-gopro-price-specs)
+ - [Picus Security, which helps fix inconsistencies in code and network activity, raised a $45M Series C, bringing its total funding to $80M, and has 500+ clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240919/p19#a240919p19)
+ - [The iPhone 16&#39;s Battery Is Easier to Replace, Finally](https://www.wired.com/story/iphone-16-battery-is-easier-to-replace/)
+ - [The EU&#39;s top court says Booking.com&#39;s restrictions on hotels offering lower rates on their websites or on rival sites are unnecessary and may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p18#a240919p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

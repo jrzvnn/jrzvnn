@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two researchers say a security conference in China potentially used the event as a secret espionage operation to collect intelligence from an unknown target &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240918/p47#a240918p47)
  - [Nuphy Air60 V2 review: tiny &amp; mighty mechanical keyboard gets better](https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better?utm_medium=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 19, #200](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-19-200/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 19, #466](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-19-466/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 19, #1188](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-19-1188/#ftag=CAD590a51e)
- - [Mercor, a jobs marketplace that uses AI to vet and interview candidates, raised a $32M Series A led by Benchmark at a $250M valuation and says it&#39;s profitable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240918/p46#a240918p46)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 19, #1188](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-19-1188/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

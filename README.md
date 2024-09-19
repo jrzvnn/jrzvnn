@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Disney plans to stop using Slack in most of its businesses by the end of this year, after a hacking group leaked more than 1TB of company data in summer &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p35#a240919p35)
+ - [Memo: Disney plans to stop using Slack in most units by the end of 2024, after a hacking group leaked 1TB+ of its data, including 44M Slack messages, in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p35#a240919p35)
  - [Californians can now add their driver’s licenses to Apple Wallet](https://www.theverge.com/2024/9/19/24249278/apple-wallet-california-drivers-license-state-id-mdl)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [OpenAI makes its latest AI models, o1-preview and o1-mini, available to all ChatGPT Enterprise and ChatGPT Edu customers &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240919/p34#a240919p34)
- - [The FTC says social media companies can’t be trusted to regulate themselves](https://www.theverge.com/2024/9/19/24249073/ftc-data-retention-privacy-report-facebook-meta-youtube-reddit)<!-- TECH:END -->
+ - [Get All the Hottest Sports Action This Fall with Hulu + Live TV](https://www.cnet.com/paid-content/news/get-all-the-hottest-sports-action-this-fall-with-hulu-live-tv-nfl-mlb-nhl-nba-college-football/#ftag=CAD590a51e)
+ - [Don&#39;t Miss a Second of the Action This NFL Season with Hulu + Live TV](https://www.cnet.com/paid-content/news/dont-miss-a-second-of-the-action-this-nfl-football-season-with-hulu-live-tv-streaming/#ftag=CAD590a51e)
+ - [Best Solar Companies of September 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence is now available in public betas](https://www.theverge.com/2024/9/19/24249206/apple-intelligence-ios-18-1-public-beta)
+ - [Nintendo Is Suing &#39;Palworld&#39; Creator Pocketpair](https://www.wired.com/story/nintendo-suing-the-makers-of-palworld/)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [The 22 Best Movies on Apple TV+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Hipstamatic’s new app collects everyone’s party photos for you](https://www.theverge.com/2024/9/19/24248903/hipstamatic-disposable-camera-app-ios-iphone)
- - [You might get offered promo codes if one of these delivery robots runs into you](https://www.theverge.com/2024/9/19/24249034/starship-technologies-delivery-robot-accident-promo-codes)
- - [The Apple Watch is now a better TV remote](https://www.theverge.com/2024/9/19/24249074/apple-watch-watchos-11-tv-remote)<!-- TECH:END -->
+ - [&#39;The Penguin&#39;: Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-penguin-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;Power Book II: Ghost&#39; Season 4: When to Watch the Final Episodes](https://www.cnet.com/tech/services-and-software/power-book-ii-ghost-season-4-when-to-watch-final-episodes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

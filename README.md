@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 😝 [Nice tiddies](http://9gag.com/gag/abAMpqr)
- - 💣 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
- - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
- - 👉 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)<!-- MEMES:END -->
+ - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
+ - 😝 [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
+ - 💣 [His reaction](http://9gag.com/gag/a4P7LMm)
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
 

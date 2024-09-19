@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wireless charging](http://9gag.com/gag/azxXEWp)
- - 😝 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
- - 💣 [Cargasm](http://9gag.com/gag/a2vo5AO)
- - 😝 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
- - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 💣 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---
 

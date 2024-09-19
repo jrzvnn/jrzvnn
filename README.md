@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: server CPU designer Ampere is exploring a potential sale; Ampere was reportedly valued at $8B in a proposed minority investment in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240919/p27#a240919p27)
- - [Intel says it has no plans to sell its majority stake in Mobileye; the self-driving tech company&#39;s stock, which is down 73% in 2024, jumps 13%+ &lpar;Reuters&rpar;](http://www.techmeme.com/240919/p26#a240919p26)
- - [Hands on with Apple&#39;s 25W MagSafe charger for iPhone 16](https://appleinsider.com/articles/24/09/19/hands-on-with-apples-25w-magsafe-charger-for-iphone-16?utm_medium=rss)
- - [iPhone SE and iPhone 17 rumored to get Apple&#39;s 5G modem first, in 2025](https://appleinsider.com/articles/24/09/19/iphone-se-and-iphone-17-rumored-to-get-apples-5g-modem-first-in-2025?utm_medium=rss)
- - [Volkswagen ID.4 production halted in the US after its doors wouldn’t stay closed](https://www.theverge.com/2024/9/19/24248973/volkswagen-id4-production-halt-recall-door-faulty)<!-- TECH:END -->
+ - [Project 2025 would ‘essentially eviscerate EPA,’ former staff warn](https://www.theverge.com/2024/9/19/24248267/epa-air-pollution-report-biden-trump-project-2025)
+ - [Censorship accusations loom over Big Tech hearing on election threats](https://www.theverge.com/2024/9/19/24248501/senate-intelligence-committee-election-threats-hearing-meta-google-microsoft)
+ - [Google’s passkey syncing makes it easier to move on from passwords](https://www.theverge.com/2024/9/19/24248820/google-chrome-passkey-logins-device-sync-password-manager-pin)
+ - [The new Microsoft Flight Simulator will be a lot smaller](https://www.theverge.com/2024/9/19/24248947/microsoft-flight-simulator-2024-cloud-release-date)
+ - [Sources: server CPU designer Ampere is exploring a potential sale; Ampere was reportedly valued at $8B in a proposed minority investment in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240919/p27#a240919p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

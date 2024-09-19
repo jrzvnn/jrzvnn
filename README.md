@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 💣 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
- - 😝 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
- - 👉 [Nice tiddies](http://9gag.com/gag/abAMpqr)<!-- MEMES:END -->
+ - 😝 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
 
 ---
 

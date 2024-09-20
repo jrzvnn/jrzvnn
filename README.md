@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The judge overseeing the Google ad trial calls Google&#39;s testimony that it faces &quot;fierce competition&quot; from the likes of Microsoft and Meta &quot;highly questionable&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240920/p21#a240920p21)
  - [Akur8, which uses AI to automate the generation of insurance pricing models, raised a $120M Series C led by One Peak, bringing its total raised to $180M &lpar;FinTech Global&rpar;](http://www.techmeme.com/240920/p20#a240920p20)
  - [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://www.theverge.com/2024/9/20/24250237/oceangate-titan-submarine-coast-guard-hearing-investigation)
  - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
- - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
+ - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

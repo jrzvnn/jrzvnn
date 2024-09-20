@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
  - [Elon Musk is navigating Brazil’s X ban — and flirting with its far right](https://www.theverge.com/2024/9/20/24249256/elon-musk-brazil-x-ban-far-right)
  - [Diving in to iPhone 16 and Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/20/diving-in-to-iphone-16-and-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)
- - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)
- - [Welcome to the new and improved Verge Deals newsletter](https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts)<!-- TECH:END -->
+ - [Has Your Facebook or Instagram Account Been Hacked? How to Find Out and What to Do](https://www.cnet.com/tech/has-your-facebook-or-instagram-account-been-hacked-how-to-find-out-and-what-to-do/#ftag=CAD590a51e)
+ - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

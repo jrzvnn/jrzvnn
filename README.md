@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
  - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 😝 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
  - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
  - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 ---

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
- - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - 😝 [What the f**k](http://9gag.com/gag/aXPxxzd)
+ - 💣 [Now that is air support](http://9gag.com/gag/apR22qn)
  - 😝 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
  - 👉 [Man attempts to expose corrupt politicians to corrupt politicians. Consequences ensued](http://9gag.com/gag/aqy7b7L)<!-- MEMES:END -->
 

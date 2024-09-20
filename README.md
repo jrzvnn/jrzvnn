@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best iPhone 16 Cases and Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)
  - [This app-controlled toilet seat is a cheaper excuse to use your phone in the bathroom](https://www.theverge.com/2024/9/20/24250077/toilet-bidet-seat-app-ios-android-smarthome)
  - [Sources: Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, is raising $100M at a $1B valuation; Black Forest raised a $31M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240920/p17#a240920p17)
  - [Qualcomm wants to buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
- - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Texas](https://www.cnet.com/home/energy-and-utilities/texas-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

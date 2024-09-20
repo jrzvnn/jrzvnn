@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone 16 Pro hands on: All the new titanium colors](https://appleinsider.com/articles/24/09/20/iphone-16-pro-hands-on-all-the-new-titanium-colors?utm_medium=rss)
  - [Twitch changes enforcement of community guidelines so that strikes for some offenses will depreciate over time, users will get more info on strikes, and more &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240920/p15#a240920p15)
  - [Anker recalls two popular MagSafe clone power banks over fire risk](https://appleinsider.com/articles/24/09/20/anker-recalls-two-popular-magsafe-clone-power-banks-over-fire-risk?utm_medium=rss)
- - [Apple designers shed light on the new iPhone 16 Camera Control button](https://appleinsider.com/articles/24/09/20/apple-designers-shed-light-on-the-new-iphone-16-camera-control-button?utm_medium=rss)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
+ - [6 Best Sleep Trackers of 2024 -- Tested and Selected by Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Best Internet Providers in Binghamton, New York](https://www.cnet.com/home/internet/best-internet-providers-in-binghamton-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

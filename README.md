@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
- - 😝 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)
- - 💣 [Well done boy!](http://9gag.com/gag/aD2x1R7)
- - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
- - 👉 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)<!-- MEMES:END -->
+ - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 😝 [Women](http://9gag.com/gag/aPAjMdB)
+ - 💣 [Know the simple rules](http://9gag.com/gag/a87oyG3)
+ - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - 👉 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)<!-- MEMES:END -->
 
 ---
 

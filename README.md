@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
- - 💣 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 👉 [That look](http://9gag.com/gag/ae9Mryp)<!-- MEMES:END -->
+ - 😝 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
+ - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 💣 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)
+ - 😝 [That look](http://9gag.com/gag/ae9Mryp)
+ - 👉 [Realistic sound game](http://9gag.com/gag/aByxxzZ)<!-- MEMES:END -->
 
 ---
 

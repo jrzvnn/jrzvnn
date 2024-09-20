@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 💣 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
  - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
+ - 💣 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
  - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech’s New Adversaries in Europe](https://www.wired.com/story/big-techs-new-adversaries-in-europe/)
  - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)
  - [Plank Firm Mattress Review 2024: An Ultra-Firm and Flippable Bed](https://www.cnet.com/health/sleep/plank-firm-mattress-review/#ftag=CAD590a51e)
  - [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://www.theverge.com/2024/9/20/24249600/ps5-pro-30th-anniversary-photos)
- - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Best Internet Providers in San Francisco, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

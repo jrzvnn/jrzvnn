@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protesters Take to Apple Stores Worldwide on iPhone 16 Launch Day](https://www.wired.com/story/apple-store-protests-gaza-congo-iphone-16-launch/)
  - [The Titan Submersible Disaster Hearings Paint a Damning Picture](https://www.wired.com/story/titan-submersible-hearings-week-one-testimony-oceangate-implosion/)
  - [Cards Against Humanity is suing SpaceX for trespassing on its ‘pristine’ property](https://www.theverge.com/2024/9/20/24250269/cards-against-humanity-space-x-lawsuit-cameron-county-texas)
  - [Welcome to the Era of ‘Deep Doubt’](https://www.wired.com/story/deepfakes-deep-doubt-era-artificial-intelligence/)
- - [Filing: the US SEC says it intends to seek sanctions against Elon Musk for failing to appear for scheduled testimony for a probe into his $44B Twitter takeover &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240920/p19#a240920p19)
- - [Add Sizzle to Your iPhone Messages in iOS 18](https://www.cnet.com/tech/services-and-software/add-sizzle-to-your-iphone-messages-in-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the US SEC says it intends to seek sanctions against Elon Musk for failing to appear for scheduled testimony for a probe into his $44B Twitter takeover &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240920/p19#a240920p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nvidia partners with Abu Dhabi-based G42 to create a climate tech lab and develop AI to improve weather forecasting accuracy using Nvidia&#39;s Earth-2 platform &lpar;Abeer Abu Omar/Bloomberg&rpar;](http://www.techmeme.com/240920/p1#a240920p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-20/#ftag=CAD590a51e)
  - [Phoenix-based Virtuous, which offers a CRM and a marketing platform to help nonprofits increase donations, raised $100M from Susquehanna Growth Equity &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240919/p40#a240919p40)
  - [Clicks Keyboard review: trading speed for well-made nostalgia](https://appleinsider.com/articles/24/09/20/clicks-keyboard-review-trading-speed-for-well-made-nostalgia?utm_medium=rss)
- - [Huawei&#39;s $2,800 Mate XT trifold phone goes on sale in China, amid analysts&#39; supply concerns; IDC: preorders surpassed 6.5M, versus ~3.9M foldables shipped in Q2 &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/240919/p39#a240919p39)<!-- TECH:END -->
+ - [Huawei&#39;s $2,800 Mate XT trifold phone goes on sale in China, amid analysts&#39; supply concerns; IDC: preorders surpassed 6.5M, versus ~3.9M foldables shipped in Q2 &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/240919/p39#a240919p39)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 20, #467](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-20-467/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

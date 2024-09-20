@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moo Deng Is More Than a Meme](https://www.wired.com/story/moo-deng-is-more-than-a-meme/)
+ - [Apple put on notice over support for third-party watches and headphones](https://www.theverge.com/2024/9/20/24249738/eu-dma-apple-ios-iphone-interoperability-smartwatches-headphones)
+ - [Xavier Niel, a Driving Force of French AI, Is Now Shaping TikTok](https://www.wired.com/story/what-xavier-niel-can-do-for-tiktok/)
  - [How to Set Up Your New iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
- - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
- - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
- - [Don&#39;t Mount Your TV Above Your Fireplace, Seriously](https://www.cnet.com/tech/home-entertainment/dont-mount-your-tv-above-your-fireplace-seriously/#ftag=CAD590a51e)
- - [Social Security and SSDI Cheat Sheet: What You Need to Know About Social Security](https://www.cnet.com/personal-finance/social-security-and-ssdi-cheat-sheet-what-you-need-to-know-about-social-security/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

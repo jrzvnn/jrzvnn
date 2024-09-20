@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 💣 [Call an ambulance!!](http://9gag.com/gag/aGyj195)
- - 😝 [88-Year-Old Father Reunites With His 53-Year-Old Son With Down Syndrome, after spending a week apart for the first time ever.](http://9gag.com/gag/aE0xRLM)
- - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
+ - 😝 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
+ - 😝 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)
+ - 💣 [Well done boy!](http://9gag.com/gag/aD2x1R7)
+ - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 👉 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
+ - 😝 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
+ - 😝 [. . .](http://9gag.com/gag/a5QoRzr)
+ - 💣 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
+ - 😝 [Dont be a bigot](http://9gag.com/gag/aAyxeGL)
+ - 👉 [A singer in the UK is going viral for taking to the streets to sing the things he isn&#39;t allowed to say on Facebook!](http://9gag.com/gag/aGyjZKw)<!-- MEMES:END -->
 
 ---
 

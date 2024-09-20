@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 💣 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
  - 😝 [Armed cargo ship security destroying incoming pirate boat](http://9gag.com/gag/a34KMz7)
- - 😝 [Welcome To University](http://9gag.com/gag/aAyxw92)
- - 💣 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
- - 😝 [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
- - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
+ - 👉 [Call an ambulance!!](http://9gag.com/gag/aGyj195)<!-- MEMES:END -->
 
 ---
 

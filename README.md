@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the f**k](http://9gag.com/gag/aXPxxzd)
- - 😝 [My dude](http://9gag.com/gag/aAyxPAp)
- - 💣 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
- - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 👉 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)<!-- MEMES:END -->
+ - 😝 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
+ - 😝 [Well done boy!](http://9gag.com/gag/aD2x1R7)
+ - 💣 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)
+ - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 👉 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)<!-- MEMES:END -->
 
 ---
 

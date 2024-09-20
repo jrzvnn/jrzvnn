@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
- - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 💣 [A woman with tumors on her head documents her recovery journey.](http://9gag.com/gag/a7oMwR2)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)<!-- MEMES:END -->
+ - 😝 [That look](http://9gag.com/gag/ae9Mryp)
+ - 😝 [Go to therapy](http://9gag.com/gag/aVv307K)
+ - 💣 [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
+ - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
+ - 👉 [Metrics](http://9gag.com/gag/abAMr1O)<!-- MEMES:END -->
 
 ---
 

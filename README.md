@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 👉 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)<!-- MEMES:END -->
+ - 😝 [Raise wages!](http://9gag.com/gag/azxXAnN)
+ - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
+ - 💣 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 😝 [What a nice way to start a day](http://9gag.com/gag/ae9MrXO)
+ - 👉 [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)<!-- MEMES:END -->
 
 ---
 

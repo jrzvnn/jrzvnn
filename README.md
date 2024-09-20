@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
  - [Google Ventures CEO David Krane about the firm&#39;s first 15 years, operating independently from Alphabet, early investments in Nest and Uber, generative AI, more &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240920/p12#a240920p12)
  - [Preorder demand for iPhone 16 rises in Russia despite high import prices](https://appleinsider.com/articles/24/09/20/preorder-demand-for-iphone-16-rises-in-russia-despite-high-import-prices?utm_medium=rss)
  - [A new PS5 update is here to address Final Fantasy XVI bugs](https://www.theverge.com/2024/9/20/24249912/sony-ps5-final-fantasy-xvi-update)
- - [Win a pair of Sony WH-1000XM5 headphones from The Verge](https://www.theverge.com/good-deals/24248989/sweepstakes-giveaway-sony-wh-1000xm5-noise-canceling-headphones)
- - [Ukraine bans the use of Telegram on official devices used by state officials, military personnel, and critical workers over fears of Russian spying &lpar;Olena Harmash/Reuters&rpar;](http://www.techmeme.com/240920/p11#a240920p11)<!-- TECH:END -->
+ - [Win a pair of Sony WH-1000XM5 headphones from The Verge](https://www.theverge.com/good-deals/24248989/sweepstakes-giveaway-sony-wh-1000xm5-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 💣 [Thursday](http://9gag.com/gag/ae9MM45)
- - 😝 [That look](http://9gag.com/gag/ae9Mryp)
- - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
+ - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
+ - 💣 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 👉 [That look](http://9gag.com/gag/ae9Mryp)<!-- MEMES:END -->
 
 ---
 

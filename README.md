@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 💣 [Thursday](http://9gag.com/gag/ae9MM45)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [That look](http://9gag.com/gag/ae9Mryp)<!-- MEMES:END -->
+ - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 💣 [What the f**k](http://9gag.com/gag/aXPxxzd)
+ - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
+ - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
 
 ---
 

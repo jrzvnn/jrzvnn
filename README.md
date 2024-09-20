@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo now sells the NES-themed keycaps from its retro keyboard](https://www.theverge.com/2024/9/20/24249970/8bitdo-keyboard-mechanical-keycap-nintendo)
+ - [The Shade Room Founder Is Ready to Dial Down the Shade](https://www.wired.com/story/dial-up-angie-nwandu-the-shade-room/)
  - [Microsoft’s Copilot key will be able to launch apps on Windows 11 soon](https://www.theverge.com/2024/9/20/24250067/microsoft-windows-11-copilot-key-customization-apps)
  - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
- - [Sources: EU officials are preparing formal charges against Google under the DMA, targeting how it displays rival product results across its search services &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240920/p14#a240920p14)
- - [Lotus Theory 1 is a high-powered electric sports car with haptics and robot textiles](https://www.theverge.com/2024/9/20/24249976/lotus-theory-1-concept-lightweight-sports-cars-ev-lotuswear)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
+ - [Sources: EU officials are preparing formal charges against Google under the DMA, targeting how it displays rival product results across its search services &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240920/p14#a240920p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

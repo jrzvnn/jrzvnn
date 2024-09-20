@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)
  - [Plank Firm Mattress Review 2024: An Ultra-Firm and Flippable Bed](https://www.cnet.com/health/sleep/plank-firm-mattress-review/#ftag=CAD590a51e)
  - [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://www.theverge.com/2024/9/20/24249600/ps5-pro-30th-anniversary-photos)
  - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Best Internet Providers in San Francisco, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
- - [Nvidia partners with Abu Dhabi-based G42 to create a climate tech lab and develop AI to improve weather forecasting accuracy using Nvidia&#39;s Earth-2 platform &lpar;Abeer Abu Omar/Bloomberg&rpar;](http://www.techmeme.com/240920/p1#a240920p1)<!-- TECH:END -->
+ - [Best Internet Providers in San Francisco, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

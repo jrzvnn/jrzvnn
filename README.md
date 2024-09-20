@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
  - [Unboxing the iPhone 16 Pro Max and Apple Watch Series 10](https://appleinsider.com/articles/24/09/20/unboxing-the-iphone-16-pro-max-and-apple-watch-series-10?utm_medium=rss)
- - [Meta Connect 2024: How to Watch and What to Expect](https://www.wired.com/story/meta-connect-2024-what-to-expect/)
- - [Constellation Energy plans to invest $1.6B to revive the Three Mile Island nuclear plant in Pennsylvania and sell all the output to Microsoft data centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p6#a240920p6)
- - [Sources: Thrive Capital has already provided $1B+ to OpenAI as part of the $6.5B round; OpenAI&#39;s existing backers a16z and Sequoia Capital are not participating &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240920/p5#a240920p5)
- - [Microsoft’s new Fluent illustrations are more 3D and playful](https://www.theverge.com/2024/9/20/24249735/microsoft-fluent-design-illustrations-3d-overhaul)<!-- TECH:END -->
+ - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
+ - [Microsoft updates the Fluent design illustrations across its products, shifting towards 3D designs that bring back skeuomorphism with more playful designs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240920/p7#a240920p7)
+ - [Watch Kamala Harris Take the WIRED Autocomplete Interview](https://www.wired.com/story/kamala-harris-autocomplete-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Copilot key will be able to launch apps on Windows 11 soon](https://www.theverge.com/2024/9/20/24250067/microsoft-windows-11-copilot-key-customization-apps)
+ - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
+ - [Sources: EU officials are preparing formal charges against Google under the DMA, targeting how it displays rival product results across its search services &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240920/p14#a240920p14)
  - [Lotus Theory 1 is a high-powered electric sports car with haptics and robot textiles](https://www.theverge.com/2024/9/20/24249976/lotus-theory-1-concept-lightweight-sports-cars-ev-lotuswear)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [4 Free Ways to Improve Your Mental Health Right Now](https://www.cnet.com/health/mental/4-free-ways-to-improve-your-mental-health-right-now/#ftag=CAD590a51e)
- - [Here&#39;s How Much You&#39;ll Earn If You Deposit $2,000 Into This CD Today](https://www.cnet.com/personal-finance/if-you-deposit-2000-into-this-cd-right-now-youd-earn-about-100-in-a-year/#ftag=CAD590a51e)
- - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

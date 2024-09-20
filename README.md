@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based crypto exchange BingX suffered a security hack on its hot wallet, resulting in a &quot;minor&quot; loss; PeckShield: the loss was $43M in cryptocurrencies &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240920/p3#a240920p3)
  - [French digital health insurance startup Alan raised &amp;euro;173M led by Belgian bank Belfius Bank at a &amp;euro;4B valuation, bringing its total raised since 2021 to &amp;euro;500M+ &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240920/p2#a240920p2)
  - [Big Tech’s New Adversaries in Europe](https://www.wired.com/story/big-techs-new-adversaries-in-europe/)
  - [Best Internet Providers in San Diego, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)
- - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)
- - [Plank Firm Mattress Review 2024: An Ultra-Firm and Flippable Bed](https://www.cnet.com/health/sleep/plank-firm-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

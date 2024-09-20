@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Constellation Energy plans to invest $1.6B to revive the Three Mile Island nuclear plant in Pennsylvania and sell all the output to Microsoft data centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p6#a240920p6)
  - [Sources: Thrive Capital has already provided $1B+ to OpenAI as part of the $6.5B round; OpenAI&#39;s existing backers a16z and Sequoia Capital are not participating &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240920/p5#a240920p5)
  - [Microsoft’s new Fluent illustrations are more 3D and playful](https://www.theverge.com/2024/9/20/24249735/microsoft-fluent-design-illustrations-3d-overhaul)
  - [7 Best Foods to Cook in Your Air Fryer](https://www.cnet.com/how-to/7-best-foods-to-cook-in-your-air-fryer/#ftag=CAD590a51e)
- - [The Wonderful World of Disney Plus: 22 TV Shows You Should Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2024/#ftag=CAD590a51e)
- - [Play Frostpunk 2 Now and More Games Soon With Xbox Game Pass](https://www.cnet.com/tech/gaming/play-frostpunk-2-now-and-more-games-soon-with-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Wonderful World of Disney Plus: 22 TV Shows You Should Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

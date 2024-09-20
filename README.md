@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix adds Civilization VI and Street Fighter IV to its games lineup](https://www.theverge.com/2024/9/19/24249136/netflix-civilization-6-street-fighter-4-game-releases)
- - [Nvidia launches AI Aerial, which integrates AI into the radio access network and could allow telcos to run third-party AI apps at the network&#39;s edge &lpar;Julia King/Fierce Network&rpar;](http://www.techmeme.com/240919/p38#a240919p38)
- - [Arcane’s final season starts streaming on November 9th](https://www.theverge.com/2024/9/19/24236186/netflix-arcane-season-2-premiere-date-trailer)
- - [Netflix’s Devil May Cry series starts streaming in April](https://www.theverge.com/2024/9/19/24249440/devil-may-cry-show-netflix-date-trailer)
- - [Zack Snyder&#39;s Rebel Moon Film Series Is Getting a Netflix Game](https://www.cnet.com/tech/gaming/zack-snyders-rebel-moon-film-series-is-getting-a-netflix-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Phoenix-based Virtuous, which offers a CRM and a marketing platform to help nonprofits increase donations, raised $100M from Susquehanna Growth Equity &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240919/p40#a240919p40)
+ - [Clicks Keyboard review: trading speed for well-made nostalgia](https://appleinsider.com/articles/24/09/20/clicks-keyboard-review-trading-speed-for-well-made-nostalgia?utm_medium=rss)
+ - [Huawei&#39;s $2,800 Mate XT trifold phone goes on sale in China, amid analysts&#39; supply concerns; IDC: preorders surpassed 6.5M, versus ~3.9M foldables shipped in Q2 &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/240919/p39#a240919p39)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 20, #467](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-20-467/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 20, #1189](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-20-1189/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

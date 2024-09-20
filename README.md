@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Win a pair of Sony WH-1000XM5 headphones from The Verge](https://www.theverge.com/good-deals/24248989/sweepstakes-giveaway-sony-wh-1000xm5-noise-canceling-headphones)
+ - [Ukraine bans the use of Telegram on official devices used by state officials, military personnel, and critical workers over fears of Russian spying &lpar;Olena Harmash/Reuters&rpar;](http://www.techmeme.com/240920/p11#a240920p11)
  - [Rivian is now shipping its Gen 2 R1T and R1S EVs with tri-motor powertrains](https://www.theverge.com/2024/9/20/24249829/rivian-2025-r1t-r1s-tri-motor-shipping-gen-2)
  - [Tim Cook opens Fifth Avenue store as iPhone 16 sales begin](https://appleinsider.com/articles/24/09/20/tim-cook-opens-fifth-avenue-store-as-iphone-16-sales-begin?utm_medium=rss)
- - [When You Call a Restaurant, You Might Be Chatting With an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
- - [Anker recalls MagSafe iPhone batteries over fire risk](https://www.theverge.com/2024/9/20/24249805/anker-recall-maggo-magsafe-iphone-battery-power-bank)
- - [Source: most daily users of Meta AI do so through WhatsApp, followed by Facebook, and few via Instagram; the vast majority of Meta AI&#39;s users are outside the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240920/p10#a240920p10)<!-- TECH:END -->
+ - [When You Call a Restaurant, You Might Be Chatting With an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

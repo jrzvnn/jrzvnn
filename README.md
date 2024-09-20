@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 💣 [What the f**k](http://9gag.com/gag/aXPxxzd)
  - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 💣 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 😝 [Armed cargo ship security destroying incoming pirate boat](http://9gag.com/gag/a34KMz7)
- - 👉 [Call an ambulance!!](http://9gag.com/gag/aGyj195)<!-- MEMES:END -->
+ - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
 
 ---
 

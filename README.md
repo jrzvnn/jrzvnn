@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aPAjMdB)
- - 😝 [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
- - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
  - 😝 [Call an ambulance!!](http://9gag.com/gag/aGyj195)
- - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
+ - 💣 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
+ - 😝 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Indian edtech startup Physics Wallah raises a $210M Series B led by hedge fund Hornbill Capital at a $2.8B valuation, up from $1.1B valuation in June 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240920/p4#a240920p4)
+ - [5 Scenarios Where You Shouldn&#39;t Pay Off Your Debt](https://www.cnet.com/personal-finance/5-scenarios-where-you-shouldnt-pay-off-your-debt/#ftag=CAD590a51e)
  - [The Multiple Ways Climate Change Threatens to Make Migraines Worse](https://www.wired.com/story/climate-change-could-make-migraines-worse/)
- - [Singapore-based crypto exchange BingX suffered a security hack on its hot wallet, resulting in a &quot;minor&quot; loss; PeckShield: the loss was $43M in cryptocurrencies &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240920/p3#a240920p3)
- - [French digital health insurance startup Alan raised &amp;euro;173M led by Belgian bank Belfius Bank at a &amp;euro;4B valuation, bringing its total raised since 2021 to &amp;euro;500M+ &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240920/p2#a240920p2)
- - [Big Tech’s New Adversaries in Europe](https://www.wired.com/story/big-techs-new-adversaries-in-europe/)<!-- TECH:END -->
+ - [Best Savings Rates Today, Sept. 20, 2024: The Clock Is Ticking on High APYs Following the Fed Rate Cut](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-20-2024/#ftag=CAD590a51e)
+ - [Don&#39;t Crush Your Cans and Other Ways You&#39;re Recycling Metal Wrong](https://www.cnet.com/how-to/dont-crush-your-cans-and-other-ways-youre-recycling-metal-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

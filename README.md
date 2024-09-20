@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A German court rules that Nokia Oyj can stop Amazon from selling Fire TV Sticks in Germany after Amazon lost a patent case; Nokia hasn&#39;t enforced the injunction &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240920/p8#a240920p8)
- - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
- - [Unboxing the iPhone 16 Pro Max and Apple Watch Series 10](https://appleinsider.com/articles/24/09/20/unboxing-the-iphone-16-pro-max-and-apple-watch-series-10?utm_medium=rss)
- - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
- - [Microsoft updates the Fluent design illustrations across its products, shifting towards 3D designs that bring back skeuomorphism with more playful designs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240920/p7#a240920p7)<!-- TECH:END -->
+ - [Diving in to iPhone 16 and Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/20/diving-in-to-iphone-16-and-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)
+ - [Welcome to the new and improved Verge Deals newsletter](https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts)
+ - [You’re cute no matter what phone you have](https://www.theverge.com/2024/9/20/24249516/iphone-16-joannabot-spectacles-vergecast)
+ - [A German court rules that Nokia Oyj can stop Amazon from selling Fire TV Sticks in Germany after Amazon lost a patent case; Nokia hasn&#39;t enforced the injunction &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240920/p8#a240920p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Concord&#39;s game director steps down, as Firewalk, the studio behind the PlayStation flop, is left in limbo, with some staffers expecting mass layoffs &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/240919/p36#a240919p36)
- - [Thursday Night Football: How to Watch, Stream Patriots vs. Jets Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-jets-tonight-on-prime-video/#ftag=CAD590a51e)
- - [EU Tells Apple How to Expand iOS Interoperability to Third-Party Accessories](https://www.cnet.com/tech/services-and-software/eu-tells-apple-how-to-expand-ios-interoperability-to-third-party-accessories/#ftag=CAD590a51e)
- - [US online passport renewal is now fully open for business](https://www.theverge.com/2024/9/19/24249413/us-online-passport-renewal-website)
- - [&#39;Twilight of the Gods&#39; Interview: Zack Snyder on Sigrid, Loki and Crabby Thor](https://www.cnet.com/tech/services-and-software/twilight-of-the-gods-interview-zack-snyder-on-sigrid-loki-and-crabby-thor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arcane’s final season starts streaming on November 9th](https://www.theverge.com/2024/9/19/24236186/netflix-arcane-season-2-premiere-date-trailer)
+ - [Netflix’s Devil May Cry series starts streaming in April](https://www.theverge.com/2024/9/19/24249440/devil-may-cry-show-netflix-date-trailer)
+ - [Zack Snyder&#39;s Rebel Moon Film Series Is Getting a Netflix Game](https://www.cnet.com/tech/gaming/zack-snyders-rebel-moon-film-series-is-getting-a-netflix-game/#ftag=CAD590a51e)
+ - [Apple Fifth Avenue store gets Apple Intelligence glow ahead of iPhone 16 launch](https://appleinsider.com/articles/24/09/20/apple-fifth-avenue-store-gets-apple-intelligence-glow-ahead-of-iphone-16-launch?utm_medium=rss)
+ - [Devil May Cry Teaser Revealed for New Netflix Series Based on Video Game](https://www.cnet.com/tech/services-and-software/devil-may-cry-teaser-revealed-for-new-netflix-series-based-on-video-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

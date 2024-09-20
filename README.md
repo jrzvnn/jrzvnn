@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life be like](http://9gag.com/gag/aZZ3pRQ)
  - 😝 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)
- - 💣 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 💣 [Call an ambulance!!](http://9gag.com/gag/aGyj195)
  - 😝 [88-Year-Old Father Reunites With His 53-Year-Old Son With Down Syndrome, after spending a week apart for the first time ever.](http://9gag.com/gag/aE0xRLM)
- - 👉 [Now that is air support](http://9gag.com/gag/apR22qn)<!-- MEMES:END -->
+ - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 💣 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
+ - 💣 [Welcome To University](http://9gag.com/gag/aAyxw92)
  - 😝 [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
- - 👉 [Call an ambulance!!](http://9gag.com/gag/aGyj195)<!-- MEMES:END -->
+ - 👉 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)<!-- MEMES:END -->
 
 ---
 

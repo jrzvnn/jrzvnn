@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 💣 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aPAjMdB)
+ - 😝 [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 😝 [Call an ambulance!!](http://9gag.com/gag/aGyj195)
+ - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
 
 ---
 

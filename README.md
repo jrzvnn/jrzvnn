@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tumblr says it has seen a 222.99% growth in communities and 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from 110K prior to the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240920/p13#a240920p13)
  - [Researcher reveals ‘catastrophic’ security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)
  - [US announces $3 billion in funding for new battery projects](https://www.theverge.com/2024/9/20/24249856/battery-ev-renewable-energy-doe-funding)
- - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
+ - [I&#39;ve Been Reading Tolkien&#39;s Works for 30 Years, Here&#39;s How &#39;Rings of Power&#39; Season 2 Holds Up](https://www.cnet.com/tech/services-and-software/rings-of-power-season-2-lore-check-episode-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

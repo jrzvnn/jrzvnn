@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - 💣 [What the f**k](http://9gag.com/gag/aXPxxzd)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
+ - 😝 [Time to start a new conspiracy theory](http://9gag.com/gag/aByxx42)
+ - 😝 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
+ - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [Imagine a small accident...](http://9gag.com/gag/aVv33xy)
+ - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
 
 ---
 

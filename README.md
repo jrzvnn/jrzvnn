@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
  - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 💣 [Women](http://9gag.com/gag/aPAjMdB)
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
+ - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 👉 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)<!-- MEMES:END -->
 
 ---
 

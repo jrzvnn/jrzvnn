@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Fluent illustrations are more 3D and playful](https://www.theverge.com/2024/9/20/24249735/microsoft-fluent-design-illustrations-3d-overhaul)
  - [Moo Deng Is More Than a Meme](https://www.wired.com/story/moo-deng-is-more-than-a-meme/)
  - [Apple put on notice over support for third-party watches and headphones](https://www.theverge.com/2024/9/20/24249738/eu-dma-apple-ios-iphone-interoperability-smartwatches-headphones)
  - [Xavier Niel, a Driving Force of French AI, Is Now Shaping TikTok](https://www.wired.com/story/what-xavier-niel-can-do-for-tiktok/)
- - [How to Set Up Your New iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
- - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
+ - [How to Set Up Your New iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

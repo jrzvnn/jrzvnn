@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
- - 💣 [Welcome To University](http://9gag.com/gag/aAyxw92)
+ - 😝 [Armed cargo ship security destroying incoming pirate boat](http://9gag.com/gag/a34KMz7)
+ - 😝 [Welcome To University](http://9gag.com/gag/aAyxw92)
+ - 💣 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
  - 😝 [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
- - 👉 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)<!-- MEMES:END -->
+ - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
 
 ---
 

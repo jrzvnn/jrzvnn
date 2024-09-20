@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lotus Theory 1 is a high-powered electric sports car with haptics and robot textiles](https://www.theverge.com/2024/9/20/24249976/lotus-theory-1-concept-lightweight-sports-cars-ev-lotuswear)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [iPhone 17 may gain ProMotion on all models, under-display Face ID on Pro](https://appleinsider.com/articles/24/09/20/iphone-17-may-gain-promotion-on-all-models-under-display-face-id-on-pro?utm_medium=rss)
- - [Tumblr says it has seen a 222.99% growth in communities and 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from 110K prior to the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240920/p13#a240920p13)
- - [Researcher reveals ‘catastrophic’ security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)
- - [US announces $3 billion in funding for new battery projects](https://www.theverge.com/2024/9/20/24249856/battery-ev-renewable-energy-doe-funding)<!-- TECH:END -->
+ - [4 Free Ways to Improve Your Mental Health Right Now](https://www.cnet.com/health/mental/4-free-ways-to-improve-your-mental-health-right-now/#ftag=CAD590a51e)
+ - [Here&#39;s How Much You&#39;ll Earn If You Deposit $2,000 Into This CD Today](https://www.cnet.com/personal-finance/if-you-deposit-2000-into-this-cd-right-now-youd-earn-about-100-in-a-year/#ftag=CAD590a51e)
+ - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

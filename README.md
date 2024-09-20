@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook opens Fifth Avenue store as iPhone 16 sales begin](https://appleinsider.com/articles/24/09/20/tim-cook-opens-fifth-avenue-store-as-iphone-16-sales-begin?utm_medium=rss)
+ - [When You Call a Restaurant, You Might Be Chatting With an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
+ - [Anker recalls MagSafe iPhone batteries over fire risk](https://www.theverge.com/2024/9/20/24249805/anker-recall-maggo-magsafe-iphone-battery-power-bank)
  - [Source: most daily users of Meta AI do so through WhatsApp, followed by Facebook, and few via Instagram; the vast majority of Meta AI&#39;s users are outside the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240920/p10#a240920p10)
- - [Former Snap Spectacles engineer says the new glasses are ‘obviously bad’](https://www.theverge.com/2024/9/20/24249807/snap-spectacles-ar-glasses-developer-bad-comment)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Unlock the Secret of a Gravity-Defying Parkour Stunt—With Physics!](https://www.wired.com/story/the-secret-of-a-gravity-defying-parkour-stunt/)
- - [A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p9#a240920p9)<!-- TECH:END -->
+ - [Former Snap Spectacles engineer says the new glasses are ‘obviously bad’](https://www.theverge.com/2024/9/20/24249807/snap-spectacles-ar-glasses-developer-bad-comment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

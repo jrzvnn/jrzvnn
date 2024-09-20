@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple designers shed light on the new iPhone 16 Camera Control button](https://appleinsider.com/articles/24/09/20/apple-designers-shed-light-on-the-new-iphone-16-camera-control-button?utm_medium=rss)
  - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
  - [Twitch introduces new depreciating strike program](https://www.theverge.com/2024/9/20/24249913/twitch-depreciating-strike-twitchcon-trust-and-safety)
  - [iPhone 16 Pro metal-wrapped battery &amp; better cooling confirmed by teardown](https://appleinsider.com/articles/24/09/20/iphone-16-pro-metal-wrapped-battery-better-cooling-confirmed-by-teardown?utm_medium=rss)
- - [Wear OS watches might soon have an edge when it comes to blood oxygen](https://www.theverge.com/2024/9/20/24249934/masimo-wear-os-smartwatches-google-qualcomm)
- - [I Asked AI to Find Me the Best Mattress. Here’s How It Compares to My Own Advice as a Mattress Expert](https://www.cnet.com/health/sleep/i-asked-ai-to-find-me-a-new-mattress-heres-how-it-compares-to-my-own-advice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wear OS watches might soon have an edge when it comes to blood oxygen](https://www.theverge.com/2024/9/20/24249934/masimo-wear-os-smartwatches-google-qualcomm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

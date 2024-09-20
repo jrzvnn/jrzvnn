@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 💣 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)
- - 😝 [That look](http://9gag.com/gag/ae9Mryp)
- - 👉 [Realistic sound game](http://9gag.com/gag/aByxxzZ)<!-- MEMES:END -->
+ - 😝 [Go to therapy](http://9gag.com/gag/aVv307K)
+ - 😝 [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
+ - 💣 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
+ - 😝 [Metrics](http://9gag.com/gag/abAMr1O)
+ - 👉 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)<!-- MEMES:END -->
 
 ---
 

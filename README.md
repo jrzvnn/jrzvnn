@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://www.theverge.com/2024/9/20/24249600/ps5-pro-30th-anniversary-photos)
  - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [Best Internet Providers in San Francisco, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
  - [Nvidia partners with Abu Dhabi-based G42 to create a climate tech lab and develop AI to improve weather forecasting accuracy using Nvidia&#39;s Earth-2 platform &lpar;Abeer Abu Omar/Bloomberg&rpar;](http://www.techmeme.com/240920/p1#a240920p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-20/#ftag=CAD590a51e)
- - [Phoenix-based Virtuous, which offers a CRM and a marketing platform to help nonprofits increase donations, raised $100M from Susquehanna Growth Equity &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240919/p40#a240919p40)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

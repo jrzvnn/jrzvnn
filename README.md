@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Set Up Your New iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
  - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
  - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
  - [Don&#39;t Mount Your TV Above Your Fireplace, Seriously](https://www.cnet.com/tech/home-entertainment/dont-mount-your-tv-above-your-fireplace-seriously/#ftag=CAD590a51e)
- - [Social Security and SSDI Cheat Sheet: What You Need to Know About Social Security](https://www.cnet.com/personal-finance/social-security-and-ssdi-cheat-sheet-what-you-need-to-know-about-social-security/#ftag=CAD590a51e)
- - [How I Saved Money Repairing My iPhone Without AppleCare](https://www.cnet.com/tech/mobile/how-i-saved-money-repairing-my-iphone-without-applecare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social Security and SSDI Cheat Sheet: What You Need to Know About Social Security](https://www.cnet.com/personal-finance/social-security-and-ssdi-cheat-sheet-what-you-need-to-know-about-social-security/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

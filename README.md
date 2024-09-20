@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
  - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
- - [Indian edtech startup Physics Wallah raises a $210M Series B led by hedge fund Hornbill Capital at a $2.8B valuation, up from $1.1B valuation in June 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240920/p4#a240920p4)
- - [5 Scenarios Where You Shouldn&#39;t Pay Off Your Debt](https://www.cnet.com/personal-finance/5-scenarios-where-you-shouldnt-pay-off-your-debt/#ftag=CAD590a51e)
- - [The Multiple Ways Climate Change Threatens to Make Migraines Worse](https://www.wired.com/story/climate-change-could-make-migraines-worse/)<!-- TECH:END -->
+ - [Don&#39;t Mount Your TV Above Your Fireplace, Seriously](https://www.cnet.com/tech/home-entertainment/dont-mount-your-tv-above-your-fireplace-seriously/#ftag=CAD590a51e)
+ - [Social Security and SSDI Cheat Sheet: What You Need to Know About Social Security](https://www.cnet.com/personal-finance/social-security-and-ssdi-cheat-sheet-what-you-need-to-know-about-social-security/#ftag=CAD590a51e)
+ - [How I Saved Money Repairing My iPhone Without AppleCare](https://www.cnet.com/tech/mobile/how-i-saved-money-repairing-my-iphone-without-applecare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

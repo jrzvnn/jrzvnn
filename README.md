@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
+ - 😝 [Giving him the taste of his own medicine](http://9gag.com/gag/ae9M68O)
+ - 💣 [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)
  - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
  - 👉 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)<!-- MEMES:END -->
 
 ---

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Win a pair of Sony WH-1000XM5 headphones from The Verge](https://www.theverge.com/good-deals/24248989/sweepstakes-giveaway-sony-wh-1000xm5-noise-canceling-headphones)
  - [Ukraine bans the use of Telegram on official devices used by state officials, military personnel, and critical workers over fears of Russian spying &lpar;Olena Harmash/Reuters&rpar;](http://www.techmeme.com/240920/p11#a240920p11)
- - [Rivian is now shipping its Gen 2 R1T and R1S EVs with tri-motor powertrains](https://www.theverge.com/2024/9/20/24249829/rivian-2025-r1t-r1s-tri-motor-shipping-gen-2)
- - [Tim Cook opens Fifth Avenue store as iPhone 16 sales begin](https://appleinsider.com/articles/24/09/20/tim-cook-opens-fifth-avenue-store-as-iphone-16-sales-begin?utm_medium=rss)
- - [When You Call a Restaurant, You Might Be Chatting With an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)<!-- TECH:END -->
+ - [Stream Netflix&#39;s Hidden Halloween Gems With This Hack](https://www.cnet.com/tech/services-and-software/stream-netflixs-hidden-halloween-gems-with-this-hack/#ftag=CAD590a51e)
+ - [Galaxy Z Fold 6 vs. Z Fold 5 vs. Z Fold 4: How Samsung&#39;s Book-Style Foldables Have Changed](https://www.cnet.com/tech/mobile/galaxy-z-fold-6-vs-z-fold-5-vs-z-fold-4-how-samsungs-book-style-foldables-have-changed/#ftag=CAD590a51e)
+ - [Amazon LED Twinkly Squares and Curtains Are the Perfect Way to Light Up Your House This Fall](https://www.cnet.com/deals/amazon-led-twinkly-squares-and-curtains-are-the-perfect-way-to-light-up-your-house-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

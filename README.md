@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That look](http://9gag.com/gag/ae9Mryp)
- - 😝 [Go to therapy](http://9gag.com/gag/aVv307K)
- - 💣 [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
- - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
- - 👉 [Metrics](http://9gag.com/gag/abAMr1O)<!-- MEMES:END -->
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
+ - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 👉 [That look](http://9gag.com/gag/ae9Mryp)<!-- MEMES:END -->
 
 ---
 

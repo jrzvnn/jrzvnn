@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr says it has seen a 222.99% growth in communities and 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from 110K prior to the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240920/p13#a240920p13)
+ - [Researcher reveals ‘catastrophic’ security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)
+ - [US announces $3 billion in funding for new battery projects](https://www.theverge.com/2024/9/20/24249856/battery-ev-renewable-energy-doe-funding)
  - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
- - [Google Ventures CEO David Krane about the firm&#39;s first 15 years, operating independently from Alphabet, early investments in Nest and Uber, generative AI, more &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240920/p12#a240920p12)
- - [Preorder demand for iPhone 16 rises in Russia despite high import prices](https://appleinsider.com/articles/24/09/20/preorder-demand-for-iphone-16-rises-in-russia-despite-high-import-prices?utm_medium=rss)
- - [A new PS5 update is here to address Final Fantasy XVI bugs](https://www.theverge.com/2024/9/20/24249912/sony-ps5-final-fantasy-xvi-update)
- - [Win a pair of Sony WH-1000XM5 headphones from The Verge](https://www.theverge.com/good-deals/24248989/sweepstakes-giveaway-sony-wh-1000xm5-noise-canceling-headphones)<!-- TECH:END -->
+ - [Google Ventures CEO David Krane about the firm&#39;s first 15 years, operating independently from Alphabet, early investments in Nest and Uber, generative AI, more &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240920/p12#a240920p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

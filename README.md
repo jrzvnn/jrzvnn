@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://www.theverge.com/2024/9/20/24250237/oceangate-titan-submarine-coast-guard-hearing-investigation)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [The 5 Best Sunrise Alarm Clocks and How to Choose](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
  - [Best Apple Watch Deals: Save on Apple Watch Series 10, Ultra 2, SE and Series 9](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Protesters Take to Apple Stores Worldwide on iPhone 16 Launch Day](https://www.wired.com/story/apple-store-protests-gaza-congo-iphone-16-launch/)
- - [Qualcomm in Talks With Intel Over Takeover, Report Says](https://www.cnet.com/tech/computing/qualcomm-in-talks-with-intel-over-takeover-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Protesters Take to Apple Stores Worldwide on iPhone 16 Launch Day](https://www.wired.com/story/apple-store-protests-gaza-congo-iphone-16-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

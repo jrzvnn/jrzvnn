@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://www.theverge.com/2024/9/20/24250237/oceangate-titan-submarine-coast-guard-hearing-investigation)
+ - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
+ - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save on Apple Watch Series 10, Ultra 2, SE and Series 9](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Protesters Take to Apple Stores Worldwide on iPhone 16 Launch Day](https://www.wired.com/story/apple-store-protests-gaza-congo-iphone-16-launch/)<!-- TECH:END -->
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

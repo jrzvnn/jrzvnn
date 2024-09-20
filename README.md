@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
+ - 😝 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
  - 😝 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)
  - 💣 [Well done boy!](http://9gag.com/gag/aD2x1R7)
  - 😝 [Clean and safe](http://9gag.com/gag/agmXYxn)

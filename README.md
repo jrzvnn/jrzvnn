@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Thrive Capital has already provided $1B+ to OpenAI as part of the $6.5B round; OpenAI&#39;s existing backers a16z and Sequoia Capital are not participating &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240920/p5#a240920p5)
  - [Microsoft’s new Fluent illustrations are more 3D and playful](https://www.theverge.com/2024/9/20/24249735/microsoft-fluent-design-illustrations-3d-overhaul)
- - [Moo Deng Is More Than a Meme](https://www.wired.com/story/moo-deng-is-more-than-a-meme/)
- - [Apple put on notice over support for third-party watches and headphones](https://www.theverge.com/2024/9/20/24249738/eu-dma-apple-ios-iphone-interoperability-smartwatches-headphones)
- - [Xavier Niel, a Driving Force of French AI, Is Now Shaping TikTok](https://www.wired.com/story/what-xavier-niel-can-do-for-tiktok/)<!-- TECH:END -->
+ - [7 Best Foods to Cook in Your Air Fryer](https://www.cnet.com/how-to/7-best-foods-to-cook-in-your-air-fryer/#ftag=CAD590a51e)
+ - [The Wonderful World of Disney Plus: 22 TV Shows You Should Watch Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2024/#ftag=CAD590a51e)
+ - [Play Frostpunk 2 Now and More Games Soon With Xbox Game Pass](https://www.cnet.com/tech/gaming/play-frostpunk-2-now-and-more-games-soon-with-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

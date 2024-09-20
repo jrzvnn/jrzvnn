@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raise wages!](http://9gag.com/gag/azxXAnN)
- - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 💣 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 😝 [What a nice way to start a day](http://9gag.com/gag/ae9MrXO)
- - 👉 [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)<!-- MEMES:END -->
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
+ - 💣 [Women](http://9gag.com/gag/aPAjMdB)
+ - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
 
 ---
 

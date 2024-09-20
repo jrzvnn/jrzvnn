@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
+ - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
  - [Indian edtech startup Physics Wallah raises a $210M Series B led by hedge fund Hornbill Capital at a $2.8B valuation, up from $1.1B valuation in June 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240920/p4#a240920p4)
  - [5 Scenarios Where You Shouldn&#39;t Pay Off Your Debt](https://www.cnet.com/personal-finance/5-scenarios-where-you-shouldnt-pay-off-your-debt/#ftag=CAD590a51e)
- - [The Multiple Ways Climate Change Threatens to Make Migraines Worse](https://www.wired.com/story/climate-change-could-make-migraines-worse/)
- - [Best Savings Rates Today, Sept. 20, 2024: The Clock Is Ticking on High APYs Following the Fed Rate Cut](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-20-2024/#ftag=CAD590a51e)
- - [Don&#39;t Crush Your Cans and Other Ways You&#39;re Recycling Metal Wrong](https://www.cnet.com/how-to/dont-crush-your-cans-and-other-ways-youre-recycling-metal-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Multiple Ways Climate Change Threatens to Make Migraines Worse](https://www.wired.com/story/climate-change-could-make-migraines-worse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

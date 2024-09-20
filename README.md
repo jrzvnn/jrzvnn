@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 may gain ProMotion on all models, no under-display Face ID on Pro](https://appleinsider.com/articles/24/09/20/iphone-17-may-gain-promotion-on-all-models-under-display-face-id-on-pro?utm_medium=rss)
- - [Sources: Qualcomm made a takeover approach to Intel in recent days; Intel stock jumps 7%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240920/p16#a240920p16)
- - [iPhone 16 Pro hands on: All the new titanium colors](https://appleinsider.com/articles/24/09/20/iphone-16-pro-hands-on-all-the-new-titanium-colors?utm_medium=rss)
- - [Twitch changes enforcement of community guidelines so that strikes for some offenses will depreciate over time, users will get more info on strikes, and more &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240920/p15#a240920p15)
- - [Anker recalls two popular MagSafe clone power banks over fire risk](https://appleinsider.com/articles/24/09/20/anker-recalls-two-popular-magsafe-clone-power-banks-over-fire-risk?utm_medium=rss)<!-- TECH:END -->
+ - [This app-controlled toilet seat is a cheaper excuse to use your phone in the bathroom](https://www.theverge.com/2024/9/20/24250077/toilet-bidet-seat-app-ios-android-smarthome)
+ - [Sources: Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, is raising $100M at a $1B valuation; Black Forest raised a $31M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240920/p17#a240920p17)
+ - [Qualcomm might buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
+ - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Texas](https://www.cnet.com/home/energy-and-utilities/texas-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

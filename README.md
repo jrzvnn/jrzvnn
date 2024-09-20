@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show no mercy.](http://9gag.com/gag/a9ypYBD)
- - 😝 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - 💣 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)
+ - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
  - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 👉 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)<!-- MEMES:END -->
+ - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 😝 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
+ - 👉 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)<!-- MEMES:END -->
 
 ---
 

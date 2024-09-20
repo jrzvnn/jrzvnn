@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [An intense movie](http://9gag.com/gag/agmXYBq)
- - 👉 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)<!-- MEMES:END -->
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 😝 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
+ - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 ---
 

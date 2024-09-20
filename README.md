@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to start a new conspiracy theory](http://9gag.com/gag/aByxx42)
- - 😝 [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [Imagine a small accident...](http://9gag.com/gag/aVv33xy)
- - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
+ - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
+ - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
+ - 👉 [Man attempts to expose corrupt politicians to corrupt politicians. Consequences ensued](http://9gag.com/gag/aqy7b7L)<!-- MEMES:END -->
 
 ---
 

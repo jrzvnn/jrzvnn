@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 may gain ProMotion on all models, no under-display Face ID on Pro](https://appleinsider.com/articles/24/09/20/iphone-17-may-gain-promotion-on-all-models-under-display-face-id-on-pro?utm_medium=rss)
  - [Sources: Qualcomm made a takeover approach to Intel in recent days; Intel stock jumps 7%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240920/p16#a240920p16)
  - [iPhone 16 Pro hands on: All the new titanium colors](https://appleinsider.com/articles/24/09/20/iphone-16-pro-hands-on-all-the-new-titanium-colors?utm_medium=rss)
  - [Twitch changes enforcement of community guidelines so that strikes for some offenses will depreciate over time, users will get more info on strikes, and more &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240920/p15#a240920p15)
- - [Anker recalls two popular MagSafe clone power banks over fire risk](https://appleinsider.com/articles/24/09/20/anker-recalls-two-popular-magsafe-clone-power-banks-over-fire-risk?utm_medium=rss)
- - [6 Best Sleep Trackers of 2024 -- Tested and Selected by Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker recalls two popular MagSafe clone power banks over fire risk](https://appleinsider.com/articles/24/09/20/anker-recalls-two-popular-magsafe-clone-power-banks-over-fire-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

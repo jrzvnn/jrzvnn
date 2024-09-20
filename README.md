@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple designers shed light on the new iPhone 16 Camera Control button](https://appleinsider.com/articles/24/09/20/apple-designers-shed-light-on-the-new-iphone-16-camera-control-button?utm_medium=rss)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
- - [Twitch introduces new depreciating strike program](https://www.theverge.com/2024/9/20/24249913/twitch-depreciating-strike-twitchcon-trust-and-safety)
- - [iPhone 16 Pro metal-wrapped battery &amp; better cooling confirmed by teardown](https://appleinsider.com/articles/24/09/20/iphone-16-pro-metal-wrapped-battery-better-cooling-confirmed-by-teardown?utm_medium=rss)
- - [Wear OS watches might soon have an edge when it comes to blood oxygen](https://www.theverge.com/2024/9/20/24249934/masimo-wear-os-smartwatches-google-qualcomm)<!-- TECH:END -->
+ - [6 Best Sleep Trackers of 2024 -- Tested and Selected by Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Best Internet Providers in Binghamton, New York](https://www.cnet.com/home/internet/best-internet-providers-in-binghamton-ny/#ftag=CAD590a51e)
+ - [Best Camera Phone of 2024](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
+ - [Best Internet Providers in Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-wyoming/#ftag=CAD590a51e)
+ - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

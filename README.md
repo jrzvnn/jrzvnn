@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best iPhone 16 Cases and Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)
- - [This app-controlled toilet seat is a cheaper excuse to use your phone in the bathroom](https://www.theverge.com/2024/9/20/24250077/toilet-bidet-seat-app-ios-android-smarthome)
- - [Sources: Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, is raising $100M at a $1B valuation; Black Forest raised a $31M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240920/p17#a240920p17)
- - [Qualcomm wants to buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
- - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the US SEC says it intends to seek sanctions against Elon Musk for failing to appear for scheduled testimony for a probe into his $44B Twitter takeover &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240920/p19#a240920p19)
+ - [Apple has a list of everything you need to repair the iPhone 16](https://appleinsider.com/articles/24/09/20/apple-has-a-list-of-everything-you-need-to-repair-the-iphone-16?utm_medium=rss)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [OpenAI&#39;s o1 models are dramatically better at reasoning than previous LLMs, but they struggle with spatial reasoning and are far from human-level intelligence &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240920/p18#a240920p18)
+ - [The Best iPhone 16 Cases and Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

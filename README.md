@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: most daily users of Meta AI do so through WhatsApp, followed by Facebook, and few via Instagram; the vast majority of Meta AI&#39;s users are outside the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240920/p10#a240920p10)
+ - [Former Snap Spectacles engineer says the new glasses are ‘obviously bad’](https://www.theverge.com/2024/9/20/24249807/snap-spectacles-ar-glasses-developer-bad-comment)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Unlock the Secret of a Gravity-Defying Parkour Stunt—With Physics!](https://www.wired.com/story/the-secret-of-a-gravity-defying-parkour-stunt/)
- - [A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p9#a240920p9)
- - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [Elon Musk is navigating Brazil’s X ban — and flirting with its far right](https://www.theverge.com/2024/9/20/24249256/elon-musk-brazil-x-ban-far-right)<!-- TECH:END -->
+ - [A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p9#a240920p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

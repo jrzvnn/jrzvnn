@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [Thursday](http://9gag.com/gag/ae9MM45)
- - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 👉 [That look](http://9gag.com/gag/ae9Mryp)<!-- MEMES:END -->
+ - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 💣 [Thursday](http://9gag.com/gag/ae9MM45)
+ - 😝 [That look](http://9gag.com/gag/ae9Mryp)
+ - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
 
 ---
 

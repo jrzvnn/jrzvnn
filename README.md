@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
- - 😝 [Women](http://9gag.com/gag/aPAjMdB)
- - 💣 [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - 😝 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 👉 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)<!-- MEMES:END -->
+ - 😝 [Show no mercy.](http://9gag.com/gag/a9ypYBD)
+ - 😝 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
+ - 💣 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 👉 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)<!-- MEMES:END -->
 
 ---
 

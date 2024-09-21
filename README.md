@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Some Mad Genius Put ChatGPT on a TI-84 Graphing Calculator](https://www.wired.com/story/chatgpt-on-a-ti-84-graphing-calculator-cheating-device/)
  - [At the UN Summit of the Future, Sundar Pichai says Google will create a $120M fund to provide AI education globally, calls for &quot;smart product regulation&quot;, more &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240921/p13#a240921p13)
+ - [How To Keep Your Old iPhone&#39;s Battery in the Best Condition Possible](https://www.cnet.com/tech/mobile/how-to-keep-your-old-iphones-battery-in-the-best-condition-possible/#ftag=CAD590a51e)
  - [Jony Ive confirms he’s working on a new device with OpenAI](https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware)
- - [Memo: Zoom plans to cut back on stock-based compensation, saying equity has been issued at a rate that is &quot;not sustainable&quot;, joining peers like Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240921/p12#a240921p12)
- - [Best Internet Providers in Athens, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-athens-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

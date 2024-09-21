@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: in Perplexity&#39;s new ad model, brands will be able to bid for a &quot;sponsored&quot; question, which features an AI-generated answer approved by the advertiser &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240921/p11#a240921p11)
  - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
  - [The Verge’s favorite home office keepsakes](https://www.theverge.com/24248065/favorites-desk-toys-keepsakes)
  - [RCS-enhanced iMessage in iOS 18 still has security issues when adding Android users](https://appleinsider.com/articles/24/09/21/rcs-enhanced-imessage-in-ios-18-still-has-security-issues-when-adding-android-users?utm_medium=rss)
- - [Sources: many OpenAI staff were taken aback by a proposed ChatGPT logo with a simple, large black &quot;O&quot;, which struck some as ominous and lacking in creativity &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240921/p10#a240921p10)
- - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: many OpenAI staff were taken aback by a proposed ChatGPT logo with a simple, large black &quot;O&quot;, which struck some as ominous and lacking in creativity &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240921/p10#a240921p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
- - 😝 [Geek for a life](http://9gag.com/gag/agmXXKr)
- - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 👉 [Anyone else?](http://9gag.com/gag/a4P7RMp)<!-- MEMES:END -->
+ - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
+ - 😝 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
+ - 💣 [News that could be verified](http://9gag.com/gag/a2voovE)
+ - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
+ - 👉 [Oops](http://9gag.com/gag/aAyxer0)<!-- MEMES:END -->
 
 ---
 

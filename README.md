@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 💣 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
+ - 😝 [90\u2019s SAAB hidden feature](http://9gag.com/gag/agmXAdv)
+ - 😝 [And he was right](http://9gag.com/gag/an7M4V5)
+ - 💣 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
+ - 😝 [45 hours](http://9gag.com/gag/ayNXo6b)
+ - 👉 [A singer in the UK is going viral for taking to the streets to sing the things he isn&#39;t allowed to say on Facebook!](http://9gag.com/gag/aGyjZKw)<!-- MEMES:END -->
 
 ---
 

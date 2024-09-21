@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 😝 [Imagine a small accident...](http://9gag.com/gag/aVv33xy)
- - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 😝 [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
  - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 👉 [Oops](http://9gag.com/gag/aAyxer0)<!-- MEMES:END -->
+ - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
+ - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
- - 💣 [Finally! Justice caught up](http://9gag.com/gag/aD2xgG7)
+ - 😝 [Xbox also spent 400 million on halo finte, but it lost less money for them.](http://9gag.com/gag/aMVjxyW)
  - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 👉 [She can smell Parkinson&#39;s disease](http://9gag.com/gag/avyO8ob)<!-- MEMES:END -->
+ - 💣 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)
+ - 😝 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
+ - 👉 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)<!-- MEMES:END -->
 
 ---
 

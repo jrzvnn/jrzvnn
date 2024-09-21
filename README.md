@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/aAyxer0)
- - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 👉 [Anyone else?](http://9gag.com/gag/a4P7RMp)<!-- MEMES:END -->
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 💣 [Anyone else?](http://9gag.com/gag/a4P7RMp)
+ - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
 
 ---
 

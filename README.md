@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motion, which sells analytics and research tools for creative strategists, raised a $30M Series B led by Inovia Capital, bringing its total funding to $42M &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240920/p25#a240920p25)
  - [Email: Linda Yaccarino announces X is launching a &quot;video tab&quot; feature and an X-exclusive women&#39;s soccer reality show, The Offseason, produced by Alexis Ohanian &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240920/p24#a240920p24)
  - [Brazil-based Cayena, which operates a marketplace to connect suppliers and buyers in the wholesale food industry, raised a $55M Series B led by Bicycle Capital &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240920/p23#a240920p23)
  - [Alexis Ohanian is premiering his women’s soccer show on X](https://www.theverge.com/2024/9/20/24250374/alexis-ohanian-twitter-x-the-offseason-midge-purce-linda-yaccarino)
- - [Functional Finance, which offers financial operations software for managing general agents, insurers, and wholesalers, raised a $20M Series A led by Walkabout &lpar;Avi Ben-Hutta/Coverager&rpar;](http://www.techmeme.com/240920/p22#a240920p22)
- - [The judge overseeing the Google ad trial calls Google&#39;s testimony that it faces &quot;fierce competition&quot; from the likes of Microsoft and Meta &quot;highly questionable&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240920/p21#a240920p21)<!-- TECH:END -->
+ - [Functional Finance, which offers financial operations software for managing general agents, insurers, and wholesalers, raised a $20M Series A led by Walkabout &lpar;Avi Ben-Hutta/Coverager&rpar;](http://www.techmeme.com/240920/p22#a240920p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

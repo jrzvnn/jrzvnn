@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Freak in the sheets](http://9gag.com/gag/aQz3oo8)
- - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
- - 💣 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
- - 😝 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
- - 👉 [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)<!-- MEMES:END -->
+ - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
+ - 💣 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
+ - 😝 [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)
+ - 👉 [Awkward](http://9gag.com/gag/aO8r3pv)<!-- MEMES:END -->
 
 ---
 

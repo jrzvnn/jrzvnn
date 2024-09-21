@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
- - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
- - 💣 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
- - 😝 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
- - 👉 [A singer in the UK is going viral for taking to the streets to sing the things he isn&#39;t allowed to say on Facebook!](http://9gag.com/gag/aGyjZKw)<!-- MEMES:END -->
+ - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 💣 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
+ - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
+ - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
 
 ---
 

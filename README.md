@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 💣 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
- - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 👉 [Sure you are](http://9gag.com/gag/aRB31BQ)<!-- MEMES:END -->
+ - 😝 [Awkward](http://9gag.com/gag/aO8r3pv)
+ - 😝 [`We live in a society.`](http://9gag.com/gag/aoyNg9x)
+ - 💣 [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 👉 [True story, sad life...](http://9gag.com/gag/aKGjmgO)<!-- MEMES:END -->
 
 ---
 

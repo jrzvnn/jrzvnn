@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freak in the sheets](http://9gag.com/gag/aQz3oo8)
- - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
- - 💣 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
- - 😝 [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)
- - 👉 [Awkward](http://9gag.com/gag/aO8r3pv)<!-- MEMES:END -->
+ - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 💣 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 👉 [I can feel the pain](http://9gag.com/gag/aMVjK5R)<!-- MEMES:END -->
 
 ---
 

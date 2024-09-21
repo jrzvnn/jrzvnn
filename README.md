@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awkward](http://9gag.com/gag/aO8r3pv)
- - 😝 [`We live in a society.`](http://9gag.com/gag/aoyNg9x)
- - 💣 [Time off essence](http://9gag.com/gag/an7MgNb)
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 👉 [True story, sad life...](http://9gag.com/gag/aKGjmgO)<!-- MEMES:END -->
+ - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
+ - 💣 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
 
 ---
 

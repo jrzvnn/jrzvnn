@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Gov. Newsom signs Senate Bill 976 to protect minors, banning &quot;addictive feeds&quot;, barring social media notifications from 12am to 6am, and more &lpar;Taryn Luna/Los Angeles Times&rpar;](http://www.techmeme.com/240921/p6#a240921p6)
  - [The 44 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [California Can Slake the Thirst of Its Farms by Storing Water Underground](https://www.wired.com/story/the-key-to-fix-californias-inadequate-water-storage-put-water-underground-scientists-say/)
  - [The 44 Best Shows on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [A look at GFWeb, which tracks millions of domains to uncover the Great Firewall&#39;s domain blocklists; GFWeb data reveals China blocked ChatGPT on March 2, 2023 &lpar;Joanna Chiu/Rest of World&rpar;](http://www.techmeme.com/240921/p5#a240921p5)
- - [Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems](https://www.wired.com/story/iran-hackers-trump-democrats-emails/)<!-- TECH:END -->
+ - [A look at GFWeb, which tracks millions of domains to uncover the Great Firewall&#39;s domain blocklists; GFWeb data reveals China blocked ChatGPT on March 2, 2023 &lpar;Joanna Chiu/Rest of World&rpar;](http://www.techmeme.com/240921/p5#a240921p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

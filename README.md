@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
- - 😝 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
- - 💣 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)
- - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 👉 [What the f**k](http://9gag.com/gag/aXPxxzd)<!-- MEMES:END -->
+ - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [Cristiano Ronaldo](http://9gag.com/gag/ajPE8Vw)
+ - 💣 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
+ - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
+ - 👉 [Sure you are](http://9gag.com/gag/aRB31BQ)<!-- MEMES:END -->
 
 ---
 

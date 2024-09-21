@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to start a new conspiracy theory](http://9gag.com/gag/aByxx42)
- - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
- - 💣 [What happened to people in america? lmao](http://9gag.com/gag/aO8rBAr)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [Danger Noodles](http://9gag.com/gag/aW41qx3)<!-- MEMES:END -->
+ - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 💣 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 😝 [`I&#39;m gona take their butter now!`](http://9gag.com/gag/a7oMWxm)
+ - 👉 [News that could be verified](http://9gag.com/gag/a2voovE)<!-- MEMES:END -->
 
 ---
 

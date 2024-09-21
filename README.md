@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
  - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)
  - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
- - [Installing a Home Security Camera? Avoid These Terrible Locations](https://www.cnet.com/home/security/installing-a-home-security-camera-avoid-these-terrible-locations/#ftag=CAD590a51e)
- - [Some Mad Genius Put ChatGPT on a TI-84 Graphing Calculator](https://www.wired.com/story/chatgpt-on-a-ti-84-graphing-calculator-cheating-device/)
- - [Burning Up While You Cook? This Small Appliance Keeps the Kitchen Cool](https://www.cnet.com/news/burning-up-while-you-cook-this-small-appliance-keeps-the-kitchen-cool/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Installing a Home Security Camera? Avoid These Terrible Locations](https://www.cnet.com/home/security/installing-a-home-security-camera-avoid-these-terrible-locations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

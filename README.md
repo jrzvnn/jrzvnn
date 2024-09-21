@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Election 2024: Here&#39;s How to Stop Those Endless Fundraising Messages](https://www.cnet.com/news/politics/election-2024-heres-how-to-stop-those-endless-fundraising-messages/#ftag=CAD590a51e)
  - [Hands on with Plaud&#39;s ChatGPT-powered NotePin: deliberate design that uses tap to trigger the device, can manage multiple speakers in 59 languages, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240921/p2#a240921p2)
+ - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)
  - [JPMorgan, Visa, and other financial firms join Project Agora, a blockchain-based project by Bank for International Settlements to overhaul cross-border payments &lpar;Bastian Benrath-Wright/Bloomberg&rpar;](http://www.techmeme.com/240921/p1#a240921p1)
- - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
- - [Intezer, which develops AI-powered tools for autonomous security operations, raised a $33M Series C led by Norwest Venture Partners, taking total raised to $60M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240920/p26#a240920p26)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 21, #468](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-21-468/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

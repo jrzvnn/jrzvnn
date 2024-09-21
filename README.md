@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [News that could be verified](http://9gag.com/gag/a2voovE)
- - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
+ - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 💣 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [Geek for a life](http://9gag.com/gag/agmXXKr)
+ - 👉 [Oops](http://9gag.com/gag/aAyxer0)<!-- MEMES:END -->
 
 ---
 

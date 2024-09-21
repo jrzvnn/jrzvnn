@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ayo lets watch a movie](http://9gag.com/gag/aND1zPv)
+ - 😝 [Woman escapes daylight armed carjacking in Oakland](http://9gag.com/gag/aD2x12d)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 💣 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
  - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
- - 💣 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
+ - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 ---
 

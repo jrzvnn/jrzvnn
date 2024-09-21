@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harold Perrineau Says &#39;From&#39; Season 3 Is Scarier Than the Last: &#39;Prepare for Worse&#39;](https://www.cnet.com/tech/services-and-software/harold-perrineau-says-from-season-3-is-scarier-than-the-last-prepare-for-worse/#ftag=CAD590a51e)
+ - [Lionsgate Is Trading Its Movies and TV Shows for Custom AI](https://www.cnet.com/tech/services-and-software/lionsgate-is-trading-its-movies-and-tv-shows-for-custom-ai/#ftag=CAD590a51e)
  - [X is capitulating to Brazil’s Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
  - [X capitulates in Brazil and could return next week, as the company&#39;s lawyers say it took down some accounts, paid fines, and named a new formal representative &lpar;New York Times&rpar;](http://www.techmeme.com/240921/p9#a240921p9)
- - [Save up to 36% on Amazon Eero 6 Series WiFi Mesh Routers Right Now](https://www.cnet.com/deals/save-up-to-36-on-amazon-eero-6-series-wifi-mesh-routers-right-now/#ftag=CAD590a51e)
- - [The Cognitive Shuffle Method: A New Sleep Hack to Conquer Late Night Anxiety](https://www.cnet.com/health/sleep/the-cognitive-shuffle-method-a-new-sleep-hack-to-conquer-late-night-anxiety/#ftag=CAD590a51e)
- - [32 Great Tech Gifts Under $100](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tried Sleeping Better With Lemme Sleep. Here&#39;s What Happened](https://www.cnet.com/health/sleep/i-tried-sleeping-better-with-lemme-sleep-heres-what-happened/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

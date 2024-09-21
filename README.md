@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JPMorgan, Visa, and other financial firms join Project Agora, a blockchain-based project by Bank for International Settlements to overhaul cross-border payments &lpar;Bastian Benrath-Wright/Bloomberg&rpar;](http://www.techmeme.com/240921/p1#a240921p1)
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
  - [Intezer, which develops AI-powered tools for autonomous security operations, raised a $33M Series C led by Norwest Venture Partners, taking total raised to $60M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240920/p26#a240920p26)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 21, #468](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-21-468/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 21, #1190](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-21-1190/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 21, #202](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-21-202/#ftag=CAD590a51e)
- - [Motion, which sells analytics and research tools for creative strategists, raised a $30M Series B led by Inovia Capital, bringing its total funding to $42M &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240920/p25#a240920p25)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 21, #1190](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-21-1190/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [90\u2019s SAAB hidden feature](http://9gag.com/gag/agmXAdv)
- - 😝 [And he was right](http://9gag.com/gag/an7M4V5)
- - 💣 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
- - 😝 [45 hours](http://9gag.com/gag/ayNXo6b)
- - 👉 [A singer in the UK is going viral for taking to the streets to sing the things he isn&#39;t allowed to say on Facebook!](http://9gag.com/gag/aGyjZKw)<!-- MEMES:END -->
+ - 😝 [Oops](http://9gag.com/gag/aAyxer0)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 💣 [Right?](http://9gag.com/gag/aByxm62)
+ - 😝 [Geek for a life](http://9gag.com/gag/agmXXKr)
+ - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 ---
 

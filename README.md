@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
- - 💣 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 😝 [Geek for a life](http://9gag.com/gag/agmXXKr)
- - 👉 [Oops](http://9gag.com/gag/aAyxer0)<!-- MEMES:END -->
+ - 😝 [`I&#39;m gona take their butter now!`](http://9gag.com/gag/a7oMWxm)
+ - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
+ - 💣 [Oops](http://9gag.com/gag/aAyxer0)
+ - 😝 [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
+ - 👉 [Imagine a small accident...](http://9gag.com/gag/aVv33xy)<!-- MEMES:END -->
 
 ---
 

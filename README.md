@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 💣 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
- - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
- - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
+ - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
+ - 😝 [I wish I had 1% of this confidence](http://9gag.com/gag/adBK9LN)
+ - 💣 [An intense movie](http://9gag.com/gag/agmXYBq)
+ - 😝 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
+ - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
 
 ---
 

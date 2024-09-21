@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 😝 [Imagine a small accident...](http://9gag.com/gag/aVv33xy)
+ - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
  - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 💣 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
- - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - 👉 [The art of negotiation](http://9gag.com/gag/axy1Mdp)<!-- MEMES:END -->
+ - 👉 [Oops](http://9gag.com/gag/aAyxer0)<!-- MEMES:END -->
 
 ---
 

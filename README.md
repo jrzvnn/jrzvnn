@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
- - 💣 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 👉 [I can feel the pain](http://9gag.com/gag/aMVjK5R)<!-- MEMES:END -->
+ - 😝 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
+ - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
+ - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [American dream](http://9gag.com/gag/an7M4G5)
+ - 👉 [What the f**k](http://9gag.com/gag/aXPxxzd)<!-- MEMES:END -->
 
 ---
 

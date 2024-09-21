@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
- - 😝 [I wish I had 1% of this confidence](http://9gag.com/gag/adBK9LN)
- - 💣 [An intense movie](http://9gag.com/gag/agmXYBq)
- - 😝 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
- - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
+ - 😝 [Time to start a new conspiracy theory](http://9gag.com/gag/aByxx42)
+ - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
+ - 💣 [What happened to people in america? lmao](http://9gag.com/gag/aO8rBAr)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 👉 [Danger Noodles](http://9gag.com/gag/aW41qx3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
  - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 💣 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 💣 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
  - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 👉 [He was re-bailed in February](http://9gag.com/gag/avyOAQE)<!-- MEMES:END -->
 
 ---
 

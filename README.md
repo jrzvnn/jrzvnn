@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 😝 [American dream](http://9gag.com/gag/an7M4G5)
- - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
  - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 👉 [Sure you are](http://9gag.com/gag/aRB31BQ)<!-- MEMES:END -->
+ - 😝 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
+ - 💣 [Cristiano Ronaldo](http://9gag.com/gag/ajPE8Vw)
+ - 😝 [Help me step magician, I&#39;m stuck](http://9gag.com/gag/aPAjRYB)
+ - 👉 [American dream](http://9gag.com/gag/an7M4G5)<!-- MEMES:END -->
 
 ---
 

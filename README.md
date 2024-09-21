@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Santa Clara County Deputy DA Erin West, whose team clawed back ~$3M stolen from 26 US pig butchering victims, as she works to improve enforcement &lpar;Feliz Solomon/Wall Street Journal&rpar;](http://www.techmeme.com/240921/p4#a240921p4)
  - [Nick Clegg criticized Rishi Sunak&#39;s doomerism after the PM held a summit on AI safety, saying Britain &quot;wasted a huge amount of time&quot; focusing on the risks of AI &lpar;Politico&rpar;](http://www.techmeme.com/240921/p3#a240921p3)
  - [Election 2024: Here&#39;s How to Stop Those Endless Fundraising Messages](https://www.cnet.com/news/politics/election-2024-heres-how-to-stop-those-endless-fundraising-messages/#ftag=CAD590a51e)
  - [Hands on with Plaud&#39;s ChatGPT-powered NotePin: deliberate design that uses tap to trigger the device, can manage multiple speakers in 59 languages, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240921/p2#a240921p2)
- - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)
- - [JPMorgan, Visa, and other financial firms join Project Agora, a blockchain-based project by Bank for International Settlements to overhaul cross-border payments &lpar;Bastian Benrath-Wright/Bloomberg&rpar;](http://www.techmeme.com/240921/p1#a240921p1)<!-- TECH:END -->
+ - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

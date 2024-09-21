@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protests at Apple Stores in multiple cities mar iPhone 16 launch](https://appleinsider.com/articles/24/09/21/protests-at-apple-stores-in-multiple-cities-mar-iphone-16-launch?utm_medium=rss)
  - [A look at Jony Ive&#39;s work with LoveFrom; Ive bought a city block in SF&#39;s Jackson Square and could raise ~$1B with Sam Altman by end of 2024 for an AI device &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240921/p8#a240921p8)
  - [What to expect at Meta Connect 2024 — the next Quest VR headset](https://www.theverge.com/24250169/meta-connect-2024-stream-quest-3s-vr-ar-ai)
  - [The 11 Best Meal Kit Delivery Services We&#39;ve Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-meal-kit-services/)
- - [The Plucky Squire is an adorable adventure that mixes 2D and 3D](https://www.theverge.com/2024/9/21/24249299/the-plucky-squire-art-interview-switch-ps5-xbox-steam)
- - [A Google threat analyst says the hacker behind the Snowflake breach recently broke into a &quot;handful&quot; of new orgs and is likely a male based in Canada in his 20s &lpar;Bloomberg&rpar;](http://www.techmeme.com/240921/p7#a240921p7)<!-- TECH:END -->
+ - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

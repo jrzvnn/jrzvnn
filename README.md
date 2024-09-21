@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the UN Summit of the Future, Sundar Pichai says Google will create a $120M fund to provide AI education globally, calls for &quot;smart product regulation&quot;, more &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240921/p13#a240921p13)
+ - [Jony Ive confirms he’s working on a new device with OpenAI](https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware)
  - [Memo: Zoom plans to cut back on stock-based compensation, saying equity has been issued at a rate that is &quot;not sustainable&quot;, joining peers like Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240921/p12#a240921p12)
  - [Best Internet Providers in Athens, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-athens-ga/#ftag=CAD590a51e)
- - [Docs: in Perplexity&#39;s new ad model, brands will be able to bid for a &quot;sponsored&quot; question, which features an AI-generated answer approved by the advertiser &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240921/p11#a240921p11)
- - [Bear Original Mattress Review: Affordable, Memory Foam Mattress With a Unique Cover](https://www.cnet.com/health/sleep/bear-original-mattress-review/#ftag=CAD590a51e)
- - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Docs: in Perplexity&#39;s new ad model, brands will be able to bid for a &quot;sponsored&quot; question, which features an AI-generated answer approved by the advertiser &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240921/p11#a240921p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
  - 😝 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
- - 💣 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 👉 [Sure you are](http://9gag.com/gag/aRB31BQ)<!-- MEMES:END -->
+ - 😝 [He was re-bailed in February](http://9gag.com/gag/avyOAQE)
+ - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
 
 ---
 

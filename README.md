@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 😝 [After divorce she ends up living with cats while you are having best time of your life far from home](http://9gag.com/gag/an7M5ML)
- - 💣 [American dream](http://9gag.com/gag/an7M4G5)
- - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
+ - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 😝 [American dream](http://9gag.com/gag/an7M4G5)
+ - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
  - 👉 [Sure you are](http://9gag.com/gag/aRB31BQ)<!-- MEMES:END -->
 
 ---

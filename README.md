@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 💣 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 😝 [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
- - 👉 [News that could be verified](http://9gag.com/gag/a2voovE)<!-- MEMES:END -->
+ - 😝 [Freak in the sheets](http://9gag.com/gag/aQz3oo8)
+ - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
+ - 💣 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
+ - 😝 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
+ - 👉 [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)<!-- MEMES:END -->
 
 ---
 

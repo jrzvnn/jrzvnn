@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I&#39;m gona take their butter now!`](http://9gag.com/gag/a7oMWxm)
- - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
- - 💣 [Oops](http://9gag.com/gag/aAyxer0)
- - 😝 [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
- - 👉 [Imagine a small accident...](http://9gag.com/gag/aVv33xy)<!-- MEMES:END -->
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 💣 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 👉 [Geek for a life](http://9gag.com/gag/agmXXKr)<!-- MEMES:END -->
 
 ---
 

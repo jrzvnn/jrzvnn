@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I&#39;m gona take their butter now!`](http://9gag.com/gag/a7oMWxm)
- - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
- - 💣 [News that could be verified](http://9gag.com/gag/a2voovE)
  - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
- - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 💣 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
+ - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
+ - 👉 [The art of negotiation](http://9gag.com/gag/axy1Mdp)<!-- MEMES:END -->
 
 ---
 

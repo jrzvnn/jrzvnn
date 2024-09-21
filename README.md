@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xbox also spent 400 million on halo finte, but it lost less money for them.](http://9gag.com/gag/aMVjxyW)
- - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 💣 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)
- - 😝 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
- - 👉 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)<!-- MEMES:END -->
+ - 😝 [Dont be a bigot](http://9gag.com/gag/aAyxeGL)
+ - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
+ - 💣 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
+ - 😝 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
+ - 👉 [A singer in the UK is going viral for taking to the streets to sing the things he isn&#39;t allowed to say on Facebook!](http://9gag.com/gag/aGyjZKw)<!-- MEMES:END -->
 
 ---
 

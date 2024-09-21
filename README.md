@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/aAyxer0)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 💣 [Right?](http://9gag.com/gag/aByxm62)
+ - 😝 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)
  - 😝 [Geek for a life](http://9gag.com/gag/agmXXKr)
- - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
+ - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 👉 [Anyone else?](http://9gag.com/gag/a4P7RMp)<!-- MEMES:END -->
 
 ---
 

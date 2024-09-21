@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
  - [&#39;Transformers One&#39; Isn’t as Silly as It Looks](https://www.wired.com/story/transformers-one-josh-cooley-interview/)
  - [Meta has a major opportunity to win the AI hardware race](https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect)
  - [The Best Tech Support Services for Seniors](https://www.wired.com/story/the-best-tech-support-services-for-seniors/)
- - [Roast a Chicken Like a Pro, Right in Your Air Fryer](https://www.cnet.com/how-to/roast-chicken-like-a-pro-right-from-your-air-fryer/#ftag=CAD590a51e)
- - [Here&#39;s When You Can Stream &#39;Inside Out 2&#39;](https://www.cnet.com/tech/services-and-software/inside-out-2-is-coming-to-disney-plus-heres-streaming-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roast a Chicken Like a Pro, Right in Your Air Fryer](https://www.cnet.com/how-to/roast-chicken-like-a-pro-right-from-your-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

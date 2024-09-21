@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [X is capitulating to Brazil’s Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
  - [X capitulates in Brazil and could return next week, as the company&#39;s lawyers say it took down some accounts, paid fines, and named a new formal representative &lpar;New York Times&rpar;](http://www.techmeme.com/240921/p9#a240921p9)
- - [Protests at Apple Stores in multiple cities mar iPhone 16 launch](https://appleinsider.com/articles/24/09/21/protests-at-apple-stores-in-multiple-cities-mar-iphone-16-launch?utm_medium=rss)
- - [A look at Jony Ive&#39;s work with LoveFrom; Ive bought a city block in SF&#39;s Jackson Square and could raise ~$1B with Sam Altman by end of 2024 for an AI device &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240921/p8#a240921p8)
- - [What to expect at Meta Connect 2024 — the next Quest VR headset](https://www.theverge.com/24250169/meta-connect-2024-stream-quest-3s-vr-ar-ai)<!-- TECH:END -->
+ - [Save up to 36% on Amazon Eero 6 Series WiFi Mesh Routers Right Now](https://www.cnet.com/deals/save-up-to-36-on-amazon-eero-6-series-wifi-mesh-routers-right-now/#ftag=CAD590a51e)
+ - [The Cognitive Shuffle Method: A New Sleep Hack to Conquer Late Night Anxiety](https://www.cnet.com/health/sleep/the-cognitive-shuffle-method-a-new-sleep-hack-to-conquer-late-night-anxiety/#ftag=CAD590a51e)
+ - [32 Great Tech Gifts Under $100](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Google threat analyst says the hacker behind the Snowflake breach recently broke into a &quot;handful&quot; of new orgs and is likely a male based in Canada in his 20s &lpar;Bloomberg&rpar;](http://www.techmeme.com/240921/p7#a240921p7)
  - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [14 Standout Movies to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/14-standout-movies-to-stream-netflix-right-now/#ftag=CAD590a51e)
  - [&#39;Transformers One&#39; Isn’t as Silly as It Looks](https://www.wired.com/story/transformers-one-josh-cooley-interview/)
- - [Meta has a major opportunity to win the AI hardware race](https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect)
- - [The Best Tech Support Services for Seniors](https://www.wired.com/story/the-best-tech-support-services-for-seniors/)
- - [Roast a Chicken Like a Pro, Right in Your Air Fryer](https://www.cnet.com/how-to/roast-chicken-like-a-pro-right-from-your-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;re Weighing Yourself Wrong. The Best and Worst Times Explained](https://www.cnet.com/health/fitness/youre-weighing-yourself-wrong-the-best-and-worst-times-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

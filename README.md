@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s Dairy Farms Have Vanished](https://www.wired.com/story/americas-dairy-farms-have-vanished/)
- - [Ford’s new Digital Experience brings Android and Apple into balance](https://www.theverge.com/2024/9/21/24229743/lincoln-nautilus-ford-digital-experience-infotainment-review)
- - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [California Gov. Newsom signs Senate Bill 976 to protect minors, banning &quot;addictive feeds&quot;, barring social media notifications from 12am to 6am, and more &lpar;Taryn Luna/Los Angeles Times&rpar;](http://www.techmeme.com/240921/p6#a240921p6)
- - [iOS 18 Review: New Customizations Made My iPhone Feel Tailored to Me](https://www.cnet.com/tech/services-and-software/ios-18-review-new-customization-made-my-iphone-feel-tailored-to-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Tech Support Services for Seniors](https://www.wired.com/story/the-best-tech-support-services-for-seniors/)
+ - [Roast a Chicken Like a Pro, Right in Your Air Fryer](https://www.cnet.com/how-to/roast-chicken-like-a-pro-right-from-your-air-fryer/#ftag=CAD590a51e)
+ - [Here&#39;s When You Can Stream &#39;Inside Out 2&#39;](https://www.cnet.com/tech/services-and-software/inside-out-2-is-coming-to-disney-plus-heres-streaming-release-date/#ftag=CAD590a51e)
+ - [iOS 18 Cheat Sheet: An Expert&#39;s Guide to the Latest iPhone Update](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-an-experts-guide-to-the-latest-iphone-update/#ftag=CAD590a51e)
+ - [America’s Dairy Farms Have Vanished](https://www.wired.com/story/americas-dairy-farms-have-vanished/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

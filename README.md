@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Athens, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-athens-ga/#ftag=CAD590a51e)
  - [Docs: in Perplexity&#39;s new ad model, brands will be able to bid for a &quot;sponsored&quot; question, which features an AI-generated answer approved by the advertiser &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240921/p11#a240921p11)
+ - [Bear Original Mattress Review: Affordable, Memory Foam Mattress With a Unique Cover](https://www.cnet.com/health/sleep/bear-original-mattress-review/#ftag=CAD590a51e)
  - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
- - [The Verge’s favorite home office keepsakes](https://www.theverge.com/24248065/favorites-desk-toys-keepsakes)
- - [RCS-enhanced iMessage in iOS 18 still has security issues when adding Android users](https://appleinsider.com/articles/24/09/21/rcs-enhanced-imessage-in-ios-18-still-has-security-issues-when-adding-android-users?utm_medium=rss)
- - [Sources: many OpenAI staff were taken aback by a proposed ChatGPT logo with a simple, large black &quot;O&quot;, which struck some as ominous and lacking in creativity &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240921/p10#a240921p10)<!-- TECH:END -->
+ - [The Verge’s favorite home office keepsakes](https://www.theverge.com/24248065/favorites-desk-toys-keepsakes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
- - 😝 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
- - 💣 [News that could be verified](http://9gag.com/gag/a2voovE)
- - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - 👉 [Oops](http://9gag.com/gag/aAyxer0)<!-- MEMES:END -->
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
+ - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 😝 [News that could be verified](http://9gag.com/gag/a2voovE)
+ - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 ---
 

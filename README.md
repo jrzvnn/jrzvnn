@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 💣 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
  - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [Geek for a life](http://9gag.com/gag/agmXXKr)<!-- MEMES:END -->
+ - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 💣 [Anyone else?](http://9gag.com/gag/a4P7RMp)
+ - 😝 [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
+ - 👉 [News that could be verified](http://9gag.com/gag/a2voovE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 😝 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
+ - 💣 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)
  - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 💣 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
- - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 👉 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)<!-- MEMES:END -->
+ - 👉 [What the f**k](http://9gag.com/gag/aXPxxzd)<!-- MEMES:END -->
 
 ---
 

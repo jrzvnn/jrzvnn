@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont be a bigot](http://9gag.com/gag/aAyxeGL)
- - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
- - 💣 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
- - 😝 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
- - 👉 [A singer in the UK is going viral for taking to the streets to sing the things he isn&#39;t allowed to say on Facebook!](http://9gag.com/gag/aGyjZKw)<!-- MEMES:END -->
+ - 😝 [Xbox also spent 400 million on halo finte, but it lost less money for them.](http://9gag.com/gag/aMVjxyW)
+ - 😝 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)
+ - 💣 [Danger Noodles](http://9gag.com/gag/aW41qx3)
+ - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
+ - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
 
 ---
 

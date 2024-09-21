@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 💣 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
  - 😝 [`I&#39;m gona take their butter now!`](http://9gag.com/gag/a7oMWxm)
- - 👉 [News that could be verified](http://9gag.com/gag/a2voovE)<!-- MEMES:END -->
+ - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
+ - 💣 [News that could be verified](http://9gag.com/gag/a2voovE)
+ - 😝 [Hole in the ground](http://9gag.com/gag/a6ZooE9)
+ - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
 
 ---
 

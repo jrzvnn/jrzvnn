@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)
- - 😝 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
- - 💣 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
- - 😝 [Awkward](http://9gag.com/gag/aO8r3pv)
- - 👉 [Assassin&#39;s Creed Shadows, IQ very.](http://9gag.com/gag/a7oM1Zx)<!-- MEMES:END -->
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 💣 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
+ - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 👉 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)<!-- MEMES:END -->
 
 ---
 

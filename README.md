@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [America’s Dairy Farms Have Vanished](https://www.wired.com/story/americas-dairy-farms-have-vanished/)
+ - [Ford’s new Digital Experience brings Android and Apple into balance](https://www.theverge.com/2024/9/21/24229743/lincoln-nautilus-ford-digital-experience-infotainment-review)
  - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
  - [California Gov. Newsom signs Senate Bill 976 to protect minors, banning &quot;addictive feeds&quot;, barring social media notifications from 12am to 6am, and more &lpar;Taryn Luna/Los Angeles Times&rpar;](http://www.techmeme.com/240921/p6#a240921p6)
- - [iOS 18 Review: New Customizations Made My iPhone Feel Tailored to Me](https://www.cnet.com/tech/services-and-software/ios-18-review-new-customization-made-my-iphone-feel-tailored-to-me/#ftag=CAD590a51e)
- - [The Best Way to Clean Your Toaster Inside and Out](https://www.cnet.com/home/kitchen-and-household/the-best-way-to-clean-your-toaster-inside-and-out/#ftag=CAD590a51e)
- - [The 44 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [iOS 18 Review: New Customizations Made My iPhone Feel Tailored to Me](https://www.cnet.com/tech/services-and-software/ios-18-review-new-customization-made-my-iphone-feel-tailored-to-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

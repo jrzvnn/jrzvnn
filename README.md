@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 44 Best Movies on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [California Can Slake the Thirst of Its Farms by Storing Water Underground](https://www.wired.com/story/the-key-to-fix-californias-inadequate-water-storage-put-water-underground-scientists-say/)
+ - [The 44 Best Shows on Netflix Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A look at GFWeb, which tracks millions of domains to uncover the Great Firewall&#39;s domain blocklists; GFWeb data reveals China blocked ChatGPT on March 2, 2023 &lpar;Joanna Chiu/Rest of World&rpar;](http://www.techmeme.com/240921/p5#a240921p5)
- - [Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems](https://www.wired.com/story/iran-hackers-trump-democrats-emails/)
- - [How to Blur Your Home on Google Maps and Stay Anonymous](https://www.cnet.com/tech/services-and-software/how-to-blur-your-home-on-google-maps-and-stay-anonymous/#ftag=CAD590a51e)
- - [iPhone Mirroring Is the Best Under-the-Radar Feature of iOS 18 and MacOS Sequoia](https://www.cnet.com/tech/services-and-software/iphone-mirroring-is-the-best-under-the-radar-feature-of-ios-18-and-macos-sequoia/#ftag=CAD590a51e)
- - [Meet Earth&#39;s New Mini-Moon Before It Vanishes](https://www.cnet.com/science/meet-earths-new-mini-moon-before-it-vanishes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems](https://www.wired.com/story/iran-hackers-trump-democrats-emails/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

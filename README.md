@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [Oops](http://9gag.com/gag/aAyxer0)
+ - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
  - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
- - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 👉 [Anyone else?](http://9gag.com/gag/a4P7RMp)<!-- MEMES:END -->
 
 ---
 

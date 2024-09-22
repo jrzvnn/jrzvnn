@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An analysis shows that at least 26 US states have passed or are considering bills regulating the use of generative AI in election-related communications &lpar;Ivana Saric/Axios&rpar;](http://www.techmeme.com/240922/p8#a240922p8)
+ - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
  - [In with the new, out with the old: Apple discontinues the iPhone 15 Pro, iPhone 13](https://appleinsider.com/articles/24/09/22/in-with-the-new-out-with-the-old-apple-discontinues-the-iphone-15-pro-iphone-13?utm_medium=rss)
- - [Sources: TSMC and Samsung execs have visited the UAE and are considering building chip factories funded by the UAE, with a central role for Abu Dhabi&#39;s Mubadala &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240922/p7#a240922p7)
- - [Deals: Amazon slashes new Apple Watch Ultra 2 styles to $749](https://appleinsider.com/articles/24/09/22/deals-amazon-slashes-new-apple-watch-ultra-2-styles-to-749?utm_medium=rss)
- - [It&#39;s About Time You Cleaned Your Mattress to Get a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/its-about-time-you-cleaned-your-mattress-to-get-a-better-nights-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2024](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
+ - [Sources: TSMC and Samsung execs have visited the UAE and are considering building chip factories funded by the UAE, with a central role for Abu Dhabi&#39;s Mubadala &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240922/p7#a240922p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

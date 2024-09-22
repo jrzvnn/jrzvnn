@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
- - 😝 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
- - 💣 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 👉 [A bunch of times](http://9gag.com/gag/an7M7Mz)<!-- MEMES:END -->
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 😝 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
+ - 💣 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
+ - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 👉 [Who cares](http://9gag.com/gag/a5QoWzq)<!-- MEMES:END -->
 
 ---
 

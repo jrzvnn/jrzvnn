@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Thoughts on the iPhone&#39;s slowing pace of hardware innovation, first impressions of the iPhone 16 Pro Max, and a closer look at Apple Intelligence roll out plans &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240922/p4#a240922p4)
  - [This New Pac-Man Machine Brought Me Closer to My Teen Kids](https://www.wired.com/story/pac-man-arcade-machine-rave/)
- - [The chatbot becomes the teacher](https://www.theverge.com/24249388/notebooklm-google-steven-johnson-vergecast)
- - [Apple Hikes the Price for iPhone 16 Pro Battery Replacements](https://www.cnet.com/tech/mobile/apple-hikes-the-price-for-iphone-16-pro-battery-replacements/#ftag=CAD590a51e)
- - [&#39;A Cambrian Explosion&#39;: AI&#39;s Radical Reshaping of Your Phone, Coming Soon](https://www.cnet.com/tech/mobile/features/a-cambrian-explosion-ais-radical-reshaping-of-your-phone-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Broncos vs. Buccaneers Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/broncos-vs-buccaneers-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
+ - [Packers vs. Titans Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/packers-vs-titans-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
+ - [Giants vs. Browns Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/giants-vs-browns-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

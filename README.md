@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
- - 😝 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
- - 💣 [Time off essence](http://9gag.com/gag/an7MgNb)
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 👉 [Did you know?](http://9gag.com/gag/aQz3XYW)<!-- MEMES:END -->
+ - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 💣 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
+ - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
 
 ---
 

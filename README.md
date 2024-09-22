@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iOS 18&#39;s slow rollout will phase in Apple Intelligence over the next six months](https://appleinsider.com/articles/24/09/22/ios-18s-slow-rollout-will-phase-in-apple-intelligence-over-the-next-six-months?utm_medium=rss)
- - [Law enforcement agencies shut down a service offered by iServer, a phishing-as-a-service platform, which was used to unlock 1.2M+ stolen or lost mobile phones &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240922/p5#a240922p5)
+ - [Law enforcement agencies shut down a phishing-as-a-service platform offered by iServer since 2018 that was used to unlock 1.2M+ stolen or lost mobile phones &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240922/p5#a240922p5)
  - [18 Best Fitness Trackers &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
  - [How to Stop Snapchat&#39;s My Selfie Feature From Using Your Face in Ads](https://www.cnet.com/tech/services-and-software/how-to-stop-snapchats-my-selfie-feature-from-using-your-face-in-ads/#ftag=CAD590a51e)
  - [Watch the Live-Action &#39;Avatar: The Last Airbender&#39; Season 2 Netflix Teaser](https://www.cnet.com/tech/services-and-software/watch-the-live-action-avatar-the-last-airbender-season-2-netflix-teaser/#ftag=CAD590a51e)<!-- TECH:END -->

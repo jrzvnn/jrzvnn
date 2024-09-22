@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Yeah](http://9gag.com/gag/aoyNP7A)
- - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 💣 [Oops](http://9gag.com/gag/aAyxer0)
- - 😝 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
- - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
+ - 😝 [Oops](http://9gag.com/gag/aAyxer0)
+ - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
+ - 💣 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
+ - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
 
 ---
 

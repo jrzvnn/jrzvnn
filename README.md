@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the People Traveling the World, Thanks to Crowdfunding](https://www.wired.com/story/meet-the-people-traveling-for-free-with-crowdfunded-money/)
  - [Inside Equinix&#39;s 114,300-square-foot data center in Northern Virginia, a region that is home to the largest concentration of data centers in the world &lpar;Washington Post&rpar;](http://www.techmeme.com/240922/p2#a240922p2)
  - [How to Find Out if an AirTag Is Tracking You on Android](https://www.cnet.com/tech/mobile/find-out-if-an-airtag-is-tracking-you-on-android/#ftag=CAD590a51e)
  - [What to expect from Meta Connect 2024 keynote on September 25 at 1pm ET: new AI features powered by Llama 3.1, cheaper Quest 3S headset, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240922/p1#a240922p1)
- - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
- - [Google says the UK risks being &quot;left behind&quot; in the AI race without more data centers and should relax laws barring AI models being trained on copyrighted works &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240921/p16#a240921p16)<!-- TECH:END -->
+ - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

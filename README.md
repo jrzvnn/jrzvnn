@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC and Samsung execs have visited the UAE and are considering building chip factories funded by the UAE, with a central role for Abu Dhabi&#39;s Mubadala &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240922/p7#a240922p7)
  - [Deals: Amazon slashes new Apple Watch Ultra 2 styles to $749](https://appleinsider.com/articles/24/09/22/deals-amazon-slashes-new-apple-watch-ultra-2-styles-to-749?utm_medium=rss)
  - [It&#39;s About Time You Cleaned Your Mattress to Get a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/its-about-time-you-cleaned-your-mattress-to-get-a-better-nights-sleep/#ftag=CAD590a51e)
  - [13 Essential Superfoods That Will Supercharge Your Kidney Health](https://www.cnet.com/health/nutrition/13-essential-superfoods-that-will-supercharge-your-kidney-health/#ftag=CAD590a51e)
- - [Brooklyn Bedding Aurora Luxe Mattress Review: Best Cooling Mattress for Hot Sleepers](https://www.cnet.com/health/sleep/brooklyn-bedding-aurora-luxe-mattress-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brooklyn Bedding Aurora Luxe Mattress Review: Best Cooling Mattress for Hot Sleepers](https://www.cnet.com/health/sleep/brooklyn-bedding-aurora-luxe-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

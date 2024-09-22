@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
+ - 💣 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
  - 😝 [American dream](http://9gag.com/gag/an7M4G5)
- - 💣 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 😝 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 👉 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)<!-- MEMES:END -->
 
 ---
 

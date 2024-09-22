@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Evidence Shows Heat Destroys Quantum Entanglement](https://www.wired.com/story/new-evidence-shows-heat-destroys-quantum-entanglement/)
  - [Eligible for Social Security Disability Insurance? Here&#39;s How to Apply](https://www.cnet.com/personal-finance/eligible-for-social-security-disability-insurance-heres-how-to-apply/#ftag=CAD590a51e)
  - [Every TV Can Look Better by Changing These Settings](https://www.cnet.com/tech/home-entertainment/every-tv-can-look-better-by-changing-these-settings/#ftag=CAD590a51e)
  - [Apple&#39;s MagSafe Charging Explained: iPhone 16 25W Charging, Qi2, Magnetic Accessories](https://www.cnet.com/tech/mobile/what-is-apples-magsafe-charging-iphone-16-25w-charging-qi2-magnetic-accessories/#ftag=CAD590a51e)
- - [Meet the People Traveling the World, Thanks to Crowdfunding](https://www.wired.com/story/meet-the-people-traveling-for-free-with-crowdfunded-money/)
- - [Inside Equinix&#39;s 114,300-square-foot data center in Northern Virginia, a region that is home to the largest concentration of data centers in the world &lpar;Washington Post&rpar;](http://www.techmeme.com/240922/p2#a240922p2)<!-- TECH:END -->
+ - [Meet the People Traveling the World, Thanks to Crowdfunding](https://www.wired.com/story/meet-the-people-traveling-for-free-with-crowdfunded-money/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

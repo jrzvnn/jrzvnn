@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most lethal weapon in the univers](http://9gag.com/gag/axy1yWp)
- - 😝 [That damn smile](http://9gag.com/gag/agmXm1r)
- - 💣 [For the captains on the road.](http://9gag.com/gag/aE0x0V9)
- - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 👉 [Not today Satan.](http://9gag.com/gag/aYQgre2)<!-- MEMES:END -->
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
+ - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
 
 ---
 

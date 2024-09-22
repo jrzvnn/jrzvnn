@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
- - 😝 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
- - 💣 [Who cares](http://9gag.com/gag/a5QoWzq)
- - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
- - 👉 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)<!-- MEMES:END -->
+ - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
+ - 😝 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
+ - 💣 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
+ - 👉 [A bunch of times](http://9gag.com/gag/an7M7Mz)<!-- MEMES:END -->
 
 ---
 

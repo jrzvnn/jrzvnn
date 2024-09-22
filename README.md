@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTuber adapts hidden first-gen HomePod debug port to carry USB audio](https://appleinsider.com/articles/24/09/22/youtuber-adapts-hidden-first-gen-homepod-debug-port-to-carry-usb-audio?utm_medium=rss)
  - [Sources: Apollo Global Management has offered to make an equity-like investment of as much as $5B in Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/240922/p10#a240922p10)
- - [A profile of French billionaire Xavier Niel, a driving force of French AI and ByteDance&#39;s newest board member, who believes Europe should pursue homegrown AI &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240922/p9#a240922p9)
- - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)
- - [Best Blood Pressure Monitors to Consider in 2024](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [An analysis shows that at least 26 US states have passed or are considering bills regulating the use of generative AI in election-related communications &lpar;Ivana Saric/Axios&rpar;](http://www.techmeme.com/240922/p8#a240922p8)<!-- TECH:END -->
+ - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)
+ - [Best Internet Providers in Medford, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-medford-or/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

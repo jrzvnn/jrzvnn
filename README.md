@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of SoftBank&#39;s Masayoshi Son, who transformed the Japanese tech conglomerate into a global investment group and is criticized for high-risk investments &lpar;Lionel Barber/Financial Times&rpar;](http://www.techmeme.com/240922/p6#a240922p6)
  - [Nab This Goal Zero 500 Lumen Light for Just $30 at Amazon Right Now](https://www.cnet.com/deals/nab-this-goal-zero-500-lumen-light-for-just-30-at-amazon-right-now/#ftag=CAD590a51e)
  - [The Digital Divide Has Been Narrowing for Years, but a Regression Could Be Coming](https://www.cnet.com/home/internet/the-digital-divide-has-been-narrowing-for-years-but-a-regression-could-be-coming/#ftag=CAD590a51e)
  - [Best Internet Providers in Horseheads, New York](https://www.cnet.com/home/internet/best-internet-providers-in-horseheads-ny/#ftag=CAD590a51e)
- - [Best Internet Providers in Fort Worth, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-fort-worth-tx/#ftag=CAD590a51e)
- - [iOS 18&#39;s slow rollout will phase in Apple Intelligence over the next six months](https://appleinsider.com/articles/24/09/22/ios-18s-slow-rollout-will-phase-in-apple-intelligence-over-the-next-six-months?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Fort Worth, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-fort-worth-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

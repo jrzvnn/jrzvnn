@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
- - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
  - 😝 [Just bros talking](http://9gag.com/gag/ae9MgQq)
- - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
+ - 💣 [For a few seconds I thought the show was on some elevator platform...](http://9gag.com/gag/aO8rQ4D)
+ - 😝 [Person](http://9gag.com/gag/aXPxn59)
+ - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
 
 ---
 

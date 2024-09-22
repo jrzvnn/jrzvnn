@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch and Stream the 2024 Singapore GP](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-singapore-gp/#ftag=CAD590a51e)
+ - [The Best Way to Slash Your Electric, Gas and Water Bills This Fall](https://www.cnet.com/how-to/the-best-way-to-slash-your-electric-gas-and-water-bills-this-fall/#ftag=CAD590a51e)
+ - [iOS 18: How to Create a Route in Maps for Your Next Hike, Walk or Run](https://www.cnet.com/tech/services-and-software/ios-18-how-to-create-a-route-in-maps-for-your-next-hike-walk-or-run/#ftag=CAD590a51e)
  - [New Evidence Shows Heat Destroys Quantum Entanglement](https://www.wired.com/story/new-evidence-shows-heat-destroys-quantum-entanglement/)
- - [Eligible for Social Security Disability Insurance? Here&#39;s How to Apply](https://www.cnet.com/personal-finance/eligible-for-social-security-disability-insurance-heres-how-to-apply/#ftag=CAD590a51e)
- - [Every TV Can Look Better by Changing These Settings](https://www.cnet.com/tech/home-entertainment/every-tv-can-look-better-by-changing-these-settings/#ftag=CAD590a51e)
- - [Apple&#39;s MagSafe Charging Explained: iPhone 16 25W Charging, Qi2, Magnetic Accessories](https://www.cnet.com/tech/mobile/what-is-apples-magsafe-charging-iphone-16-25w-charging-qi2-magnetic-accessories/#ftag=CAD590a51e)
- - [Meet the People Traveling the World, Thanks to Crowdfunding](https://www.wired.com/story/meet-the-people-traveling-for-free-with-crowdfunded-money/)<!-- TECH:END -->
+ - [Need an ACP Alternative? Look Into Savings With the Lifeline Program](https://www.cnet.com/home/internet/heres-how-to-sign-up-for-lifeline/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

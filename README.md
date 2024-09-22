@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/aAyxer0)
- - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
- - 💣 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
+ - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 😝 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
+ - 💣 [Praying to the goth gods](http://9gag.com/gag/avyO8NO)
+ - 😝 [Pucking Jabuticaba. A typivsl Brazilian berry.](http://9gag.com/gag/aMVjxGR)
+ - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
 
 ---
 

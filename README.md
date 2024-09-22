@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
- - 😝 [I can feel the pain](http://9gag.com/gag/aMVjK5R)
- - 💣 [Just bros talking](http://9gag.com/gag/ae9MgQq)
- - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 😝 [That&#39;s how you do it!](http://9gag.com/gag/a1mo13G)
+ - 💣 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
+ - 😝 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 👉 [The most lethal weapon in the univers](http://9gag.com/gag/axy1yWp)<!-- MEMES:END -->
 
 ---
 

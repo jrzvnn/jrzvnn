@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who cares](http://9gag.com/gag/a5QoWzq)
- - 😝 [Oops](http://9gag.com/gag/aAyxer0)
- - 💣 [Europe test](http://9gag.com/gag/aXPxj59)
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
+ - 😝 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
+ - 💣 [Who cares](http://9gag.com/gag/a5QoWzq)
+ - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
  - 👉 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)<!-- MEMES:END -->
 
 ---

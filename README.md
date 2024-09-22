@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Useful Slack Features You May not Be Using Yet](https://www.wired.com/story/4-useful-slack-features-you-may-not-be-using-yet/)
  - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)
  - [Sony Bravia 9 TV Review: Can LED Screens Get Much Better?](https://www.wired.com/review/sony/bravia/9/)
  - [17 Bingeworthy Fantasy TV Shows to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
- - [You Can Shoot Video and Record Music at the Same Time in iOS 18](https://www.cnet.com/tech/services-and-software/you-can-shoot-video-and-record-music-at-the-same-time-in-ios-18/#ftag=CAD590a51e)
- - [Stream What&#39;s New on TV This Week: Wolfs, Will &amp; Harper and More](https://www.cnet.com/tech/services-and-software/stream-whats-new-on-tv-this-week-wolfs-will-harper-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Shoot Video and Record Music at the Same Time in iOS 18](https://www.cnet.com/tech/services-and-software/you-can-shoot-video-and-record-music-at-the-same-time-in-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eligible for Social Security Disability Insurance? Here&#39;s How to Apply](https://www.cnet.com/personal-finance/eligible-for-social-security-disability-insurance-heres-how-to-apply/#ftag=CAD590a51e)
+ - [Every TV Can Look Better by Changing These Settings](https://www.cnet.com/tech/home-entertainment/every-tv-can-look-better-by-changing-these-settings/#ftag=CAD590a51e)
+ - [Apple&#39;s MagSafe Charging Explained: iPhone 16 25W Charging, Qi2, Magnetic Accessories](https://www.cnet.com/tech/mobile/what-is-apples-magsafe-charging-iphone-16-25w-charging-qi2-magnetic-accessories/#ftag=CAD590a51e)
  - [Meet the People Traveling the World, Thanks to Crowdfunding](https://www.wired.com/story/meet-the-people-traveling-for-free-with-crowdfunded-money/)
- - [Inside Equinix&#39;s 114,300-square-foot data center in Northern Virginia, a region that is home to the largest concentration of data centers in the world &lpar;Washington Post&rpar;](http://www.techmeme.com/240922/p2#a240922p2)
- - [How to Find Out if an AirTag Is Tracking You on Android](https://www.cnet.com/tech/mobile/find-out-if-an-airtag-is-tracking-you-on-android/#ftag=CAD590a51e)
- - [What to expect from Meta Connect 2024 keynote on September 25 at 1pm ET: new AI features powered by Llama 3.1, cheaper Quest 3S headset, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240922/p1#a240922p1)
- - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside Equinix&#39;s 114,300-square-foot data center in Northern Virginia, a region that is home to the largest concentration of data centers in the world &lpar;Washington Post&rpar;](http://www.techmeme.com/240922/p2#a240922p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

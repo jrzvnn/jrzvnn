@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
- - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
- - 💣 [Time off essence](http://9gag.com/gag/an7MgNb)
- - 😝 [Did you know?](http://9gag.com/gag/aQz3XYW)
- - 👉 [Right?](http://9gag.com/gag/aByxm62)<!-- MEMES:END -->
+ - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
+ - 😝 [American dream](http://9gag.com/gag/an7M4G5)
+ - 💣 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
+ - 😝 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
+ - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
 
 ---
 

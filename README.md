@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the iPhone 16’s electrically-charged battery replacement process](https://www.theverge.com/2024/9/22/24251327/iphone-16-teardown-repair-battery-adhesive)
- - [Repair site praises new iPhone 16 line as the most repairable yet](https://appleinsider.com/articles/24/09/22/repair-site-praises-new-iphone-16-line-as-the-most-repairable-yet?utm_medium=rss)
- - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
- - [A profile of SoftBank&#39;s Masayoshi Son, who transformed the Japanese tech conglomerate into a global investment group and is criticized for high-risk investments &lpar;Lionel Barber/Financial Times&rpar;](http://www.techmeme.com/240922/p6#a240922p6)
- - [HelloFresh Is the Most Popular Meal Kit Service, but Is It the Best? We Tested It to Find Out](https://www.cnet.com/health/nutrition/hello-fresh-meal-kit-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Amazon slashes new Apple Watch Ultra 2 styles to $749](https://appleinsider.com/articles/24/09/22/deals-amazon-slashes-new-apple-watch-ultra-2-styles-to-749?utm_medium=rss)
+ - [It&#39;s About Time You Cleaned Your Mattress to Get a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/its-about-time-you-cleaned-your-mattress-to-get-a-better-nights-sleep/#ftag=CAD590a51e)
+ - [13 Essential Superfoods That Will Supercharge Your Kidney Health](https://www.cnet.com/health/nutrition/13-essential-superfoods-that-will-supercharge-your-kidney-health/#ftag=CAD590a51e)
+ - [Brooklyn Bedding Aurora Luxe Mattress Review: Best Cooling Mattress for Hot Sleepers](https://www.cnet.com/health/sleep/brooklyn-bedding-aurora-luxe-mattress-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

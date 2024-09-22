@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
- - 😝 [Pucking Jabuticaba. A typivsl Brazilian berry.](http://9gag.com/gag/aMVjxGR)
- - 💣 [Who cares](http://9gag.com/gag/a5QoWzq)
- - 😝 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
- - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
+ - 😝 [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Who cares](http://9gag.com/gag/a5QoWzq)
+ - 💣 [Just bros talking](http://9gag.com/gag/ae9MgQq)
+ - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 👉 [Bros casting over the horizon](http://9gag.com/gag/a7oMEBA)<!-- MEMES:END -->
 
 ---
 

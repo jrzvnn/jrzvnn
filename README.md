@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can feel the pain](http://9gag.com/gag/aMVjK5R)
- - 😝 [He was re-bailed in February](http://9gag.com/gag/avyOAQE)
- - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 😝 [Oops](http://9gag.com/gag/aAyxer0)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 😝 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
+ - 😝 [For a few seconds I thought the show was on some elevator platform...](http://9gag.com/gag/aO8rQ4D)
+ - 💣 [American dream](http://9gag.com/gag/an7M4G5)
+ - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
+ - 👉 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)<!-- MEMES:END -->
 
 ---
 

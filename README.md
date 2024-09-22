@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18&#39;s slow rollout will phase in Apple Intelligence over the next six months](https://appleinsider.com/articles/24/09/22/ios-18s-slow-rollout-will-phase-in-apple-intelligence-over-the-next-six-months?utm_medium=rss)
- - [Law enforcement agencies shut down a phishing-as-a-service platform offered by iServer since 2018 that was used to unlock 1.2M+ stolen or lost mobile phones &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240922/p5#a240922p5)
- - [18 Best Fitness Trackers &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
- - [How to Stop Snapchat&#39;s My Selfie Feature From Using Your Face in Ads](https://www.cnet.com/tech/services-and-software/how-to-stop-snapchats-my-selfie-feature-from-using-your-face-in-ads/#ftag=CAD590a51e)
- - [Watch the Live-Action &#39;Avatar: The Last Airbender&#39; Season 2 Netflix Teaser](https://www.cnet.com/tech/services-and-software/watch-the-live-action-avatar-the-last-airbender-season-2-netflix-teaser/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nab This Goal Zero 500 Lumen Light for Just $30 at Amazon Right Now](https://www.cnet.com/deals/nab-this-goal-zero-500-lumen-light-for-just-30-at-amazon-right-now/#ftag=CAD590a51e)
+ - [The Digital Divide Has Been Narrowing for Years, but a Regression Could Be Coming](https://www.cnet.com/home/internet/the-digital-divide-has-been-narrowing-for-years-but-a-regression-could-be-coming/#ftag=CAD590a51e)
+ - [Best Internet Providers in Horseheads, New York](https://www.cnet.com/home/internet/best-internet-providers-in-horseheads-ny/#ftag=CAD590a51e)
+ - [Best Internet Providers in Fort Worth, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-fort-worth-tx/#ftag=CAD590a51e)
+ - [iOS 18&#39;s slow rollout will phase in Apple Intelligence over the next six months](https://appleinsider.com/articles/24/09/22/ios-18s-slow-rollout-will-phase-in-apple-intelligence-over-the-next-six-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

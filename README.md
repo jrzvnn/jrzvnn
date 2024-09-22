@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 😝 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
- - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
+ - 😝 [90\u2019s SAAB hidden feature](http://9gag.com/gag/agmXAdv)
+ - 😝 [He was re-bailed in February](http://9gag.com/gag/avyOAQE)
+ - 💣 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
+ - 😝 [Oops](http://9gag.com/gag/aAyxer0)
+ - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
- - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 💣 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
- - 😝 [The Japanese Flash.](http://9gag.com/gag/avyOo6E)
- - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
+ - 😝 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
+ - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
+ - 💣 [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Did you know?](http://9gag.com/gag/aQz3XYW)
+ - 👉 [Right?](http://9gag.com/gag/aByxm62)<!-- MEMES:END -->
 
 ---
 

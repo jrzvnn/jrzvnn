@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of French billionaire Xavier Niel, a driving force of French AI and ByteDance&#39;s newest board member, who believes Europe should pursue homegrown AI &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240922/p9#a240922p9)
+ - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)
+ - [Best Blood Pressure Monitors to Consider in 2024](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
  - [An analysis shows that at least 26 US states have passed or are considering bills regulating the use of generative AI in election-related communications &lpar;Ivana Saric/Axios&rpar;](http://www.techmeme.com/240922/p8#a240922p8)
- - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
- - [In with the new, out with the old: Apple discontinues the iPhone 15 Pro, iPhone 13](https://appleinsider.com/articles/24/09/22/in-with-the-new-out-with-the-old-apple-discontinues-the-iphone-15-pro-iphone-13?utm_medium=rss)
- - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2024](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

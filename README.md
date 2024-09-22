@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [YouTuber adapts hidden first-gen HomePod debug port to carry USB audio](https://appleinsider.com/articles/24/09/22/youtuber-adapts-hidden-first-gen-homepod-debug-port-to-carry-usb-audio?utm_medium=rss)
- - [Sources: Apollo Global Management has offered to make an equity-like investment of as much as $5B in Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/240922/p10#a240922p10)
- - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)
- - [Best Internet Providers in Medford, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-medford-or/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where to Get Free Moving Boxes](https://www.cnet.com/how-to/where-to-get-free-moving-boxes/#ftag=CAD590a51e)
+ - [Best Healthy Meal Delivery Services of 2024, Tested and Reviewed](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service/#ftag=CAD590a51e)
+ - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)
+ - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

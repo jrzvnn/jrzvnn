@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AC Technician Charges $1,700 to repair a small fix and gets caught on camera.](http://9gag.com/gag/awyXze1)
- - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 💣 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
- - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
+ - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
+ - 😝 [I can feel the pain](http://9gag.com/gag/aMVjK5R)
+ - 💣 [Just bros talking](http://9gag.com/gag/ae9MgQq)
+ - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
+ - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
 
 ---
 

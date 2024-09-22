@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 💣 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
  - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 👉 [Anyone else?](http://9gag.com/gag/a4P7RMp)<!-- MEMES:END -->
+ - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
+ - 😝 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
+ - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
 
 ---
 

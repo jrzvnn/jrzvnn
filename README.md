@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time off essence](http://9gag.com/gag/an7MgNb)
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 💣 [Wife: what happened? Me:](http://9gag.com/gag/aMVj4yx)
- - 😝 [Did you know?](http://9gag.com/gag/aQz3XYW)
- - 👉 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)<!-- MEMES:END -->
+ - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
+ - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 💣 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
+ - 👉 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)<!-- MEMES:END -->
 
 ---
 

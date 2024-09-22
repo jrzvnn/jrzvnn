@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assassin&#39;s Creed Shadows, IQ very.](http://9gag.com/gag/a7oM1Zx)
- - 😝 [Time off essence](http://9gag.com/gag/an7MgNb)
- - 💣 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
- - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
- - 👉 [Right?](http://9gag.com/gag/aByxm62)<!-- MEMES:END -->
+ - 😝 [Oh Yeah](http://9gag.com/gag/aoyNP7A)
+ - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
+ - 💣 [Oops](http://9gag.com/gag/aAyxer0)
+ - 😝 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
+ - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
 
 ---
 

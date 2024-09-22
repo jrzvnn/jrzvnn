@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American dream](http://9gag.com/gag/an7M4G5)
- - 😝 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
- - 💣 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
- - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
+ - 😝 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
+ - 💣 [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 👉 [Did you know?](http://9gag.com/gag/aQz3XYW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)
+ - [Sony Bravia 9 TV Review: Can LED Screens Get Much Better?](https://www.wired.com/review/sony/bravia/9/)
+ - [A social network where everyone’s a bot](https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer)
  - [How to Watch and Stream the 2024 Singapore GP](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-singapore-gp/#ftag=CAD590a51e)
- - [The Best Way to Slash Your Electric, Gas and Water Bills This Fall](https://www.cnet.com/how-to/the-best-way-to-slash-your-electric-gas-and-water-bills-this-fall/#ftag=CAD590a51e)
- - [iOS 18: How to Create a Route in Maps for Your Next Hike, Walk or Run](https://www.cnet.com/tech/services-and-software/ios-18-how-to-create-a-route-in-maps-for-your-next-hike-walk-or-run/#ftag=CAD590a51e)
- - [New Evidence Shows Heat Destroys Quantum Entanglement](https://www.wired.com/story/new-evidence-shows-heat-destroys-quantum-entanglement/)
- - [Need an ACP Alternative? Look Into Savings With the Lifeline Program](https://www.cnet.com/home/internet/heres-how-to-sign-up-for-lifeline/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Way to Slash Your Electric, Gas and Water Bills This Fall](https://www.cnet.com/how-to/the-best-way-to-slash-your-electric-gas-and-water-bills-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

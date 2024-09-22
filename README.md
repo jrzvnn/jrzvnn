@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bunch of times](http://9gag.com/gag/an7M7Mz)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [Just bros talking](http://9gag.com/gag/ae9MgQq)
  - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 👉 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)<!-- MEMES:END -->
+ - 💣 [A bunch of times](http://9gag.com/gag/an7M7Mz)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
 
 ---
 

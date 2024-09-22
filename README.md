@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 💣 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
- - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 👉 [Europe test](http://9gag.com/gag/aXPxj59)<!-- MEMES:END -->
+ - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 💣 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
+ - 👉 [Anyone else?](http://9gag.com/gag/a4P7RMp)<!-- MEMES:END -->
 
 ---
 

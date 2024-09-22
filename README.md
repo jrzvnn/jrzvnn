@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just bros talking](http://9gag.com/gag/ae9MgQq)
- - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 💣 [A bunch of times](http://9gag.com/gag/an7M7Mz)
+ - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
+ - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
  - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
+ - 👉 [A bunch of times](http://9gag.com/gag/an7M7Mz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
- - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
  - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
- - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
+ - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
 
 ---
 

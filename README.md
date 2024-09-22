@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Repair site praises new iPhone 16 line as the most repairable yet](https://appleinsider.com/articles/24/09/22/repair-site-praises-new-iphone-16-line-as-the-most-repairable-yet?utm_medium=rss)
+ - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
  - [A profile of SoftBank&#39;s Masayoshi Son, who transformed the Japanese tech conglomerate into a global investment group and is criticized for high-risk investments &lpar;Lionel Barber/Financial Times&rpar;](http://www.techmeme.com/240922/p6#a240922p6)
- - [Nab This Goal Zero 500 Lumen Light for Just $30 at Amazon Right Now](https://www.cnet.com/deals/nab-this-goal-zero-500-lumen-light-for-just-30-at-amazon-right-now/#ftag=CAD590a51e)
- - [The Digital Divide Has Been Narrowing for Years, but a Regression Could Be Coming](https://www.cnet.com/home/internet/the-digital-divide-has-been-narrowing-for-years-but-a-regression-could-be-coming/#ftag=CAD590a51e)
- - [Best Internet Providers in Horseheads, New York](https://www.cnet.com/home/internet/best-internet-providers-in-horseheads-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HelloFresh Is the Most Popular Meal Kit Service, but Is It the Best? We Tested It to Find Out](https://www.cnet.com/health/nutrition/hello-fresh-meal-kit-reviews/#ftag=CAD590a51e)
+ - [Best Internet Providers in Trenton, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-trenton-nj/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

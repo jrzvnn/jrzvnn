@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
 
 ---
 

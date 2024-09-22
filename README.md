@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
- - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 💣 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 😝 [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 👉 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)<!-- MEMES:END -->
+ - 😝 [The 2011 Occupy Wall Street protest in New York. Amidst the demonstrations, wealthy individuals were seen seemingly partying, laughing, and enjoying champagne whilst watching the protests.](http://9gag.com/gag/a34KEPr)
+ - 😝 [He is a wonderful father](http://9gag.com/gag/awyXody)
+ - 💣 [Pick a number](http://9gag.com/gag/a9yp1Z1)
+ - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 👉 [`I&#39;m gona take their butter now!`](http://9gag.com/gag/a7oMWxm)<!-- MEMES:END -->
 
 ---
 

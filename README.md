@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Law enforcement agencies shut down a service offered by iServer, a phishing-as-a-service platform, which was used to unlock 1.2M+ stolen or lost mobile phones &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240922/p5#a240922p5)
+ - [18 Best Fitness Trackers &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [How to use Windows Terminal and what it’s useful for](https://www.theverge.com/24249353/windows-11-terminal-microsoft-how-to)
  - [Thoughts on the iPhone&#39;s slowing pace of hardware innovation, first impressions of the iPhone 16 Pro Max, and a closer look at Apple Intelligence roll out plans &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240922/p4#a240922p4)
- - [This New Pac-Man Machine Brought Me Closer to My Teen Kids](https://www.wired.com/story/pac-man-arcade-machine-rave/)
- - [Broncos vs. Buccaneers Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/broncos-vs-buccaneers-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
- - [Packers vs. Titans Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/packers-vs-titans-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
- - [Giants vs. Browns Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/giants-vs-browns-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This New Pac-Man Machine Brought Me Closer to My Teen Kids](https://www.wired.com/story/pac-man-arcade-machine-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)
- - 😝 [For a few seconds I thought the show was on some elevator platform...](http://9gag.com/gag/aO8rQ4D)
- - 💣 [American dream](http://9gag.com/gag/an7M4G5)
- - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 👉 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)<!-- MEMES:END -->
+ - 😝 [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 💣 [Wife: what happened? Me:](http://9gag.com/gag/aMVj4yx)
+ - 😝 [Did you know?](http://9gag.com/gag/aQz3XYW)
+ - 👉 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)<!-- MEMES:END -->
 
 ---
 

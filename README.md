@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
- - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
+ - 😝 [The most lethal weapon in the univers](http://9gag.com/gag/axy1yWp)
+ - 😝 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 💣 [For the captains on the road.](http://9gag.com/gag/aE0x0V9)
+ - 😝 [Not today Satan.](http://9gag.com/gag/aYQgre2)
+ - 👉 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)<!-- MEMES:END -->
 
 ---
 

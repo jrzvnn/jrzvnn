@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
  - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 💣 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
  - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
+ - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [Just bros talking](http://9gag.com/gag/ae9MgQq)
  - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 ---

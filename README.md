@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [A bunch of times](http://9gag.com/gag/an7M7Mz)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
  - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 💣 [Pick a number](http://9gag.com/gag/a9yp1Z1)
- - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 👉 [Just bros talking](http://9gag.com/gag/ae9MgQq)<!-- MEMES:END -->
+ - 👉 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)<!-- MEMES:END -->
 
 ---
 

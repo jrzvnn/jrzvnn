@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 😝 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
  - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
 
 ---

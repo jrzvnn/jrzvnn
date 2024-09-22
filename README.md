@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else?](http://9gag.com/gag/a4P7RMp)
+ - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
  - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 💣 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
+ - 💣 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)
+ - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
+ - 👉 [Europe test](http://9gag.com/gag/aXPxj59)<!-- MEMES:END -->
 
 ---
 

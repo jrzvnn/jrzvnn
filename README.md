@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American dream](http://9gag.com/gag/an7M4G5)
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
- - 💣 [Who cares](http://9gag.com/gag/a5QoWzq)
- - 😝 [Time off essence](http://9gag.com/gag/an7MgNb)
- - 👉 [Mr Jack Sparrow strikes again](http://9gag.com/gag/aW41gNd)<!-- MEMES:END -->
+ - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 💣 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
+ - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
+ - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 ---
 

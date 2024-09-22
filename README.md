@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 😝 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
- - 💣 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 👉 [Who cares](http://9gag.com/gag/a5QoWzq)<!-- MEMES:END -->
+ - 😝 [American dream](http://9gag.com/gag/an7M4G5)
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 💣 [Who cares](http://9gag.com/gag/a5QoWzq)
+ - 😝 [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 👉 [Mr Jack Sparrow strikes again](http://9gag.com/gag/aW41gNd)<!-- MEMES:END -->
 
 ---
 

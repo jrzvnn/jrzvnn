@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [90\u2019s SAAB hidden feature](http://9gag.com/gag/agmXAdv)
+ - 😝 [I can feel the pain](http://9gag.com/gag/aMVjK5R)
  - 😝 [He was re-bailed in February](http://9gag.com/gag/avyOAQE)
- - 💣 [I pray to the lord, wish all 9gager can experience this](http://9gag.com/gag/aVv378O)
+ - 💣 [`I believe him.`](http://9gag.com/gag/avyOAvd)
  - 😝 [Oops](http://9gag.com/gag/aAyxer0)
- - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
+ - 👉 [Statue of .....](http://9gag.com/gag/ajPEmzg)<!-- MEMES:END -->
 
 ---
 

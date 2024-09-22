@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google says the UK risks being &quot;left behind&quot; in the AI race without more data centers and should relax laws barring AI models being trained on copyrighted works &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240921/p16#a240921p16)
+ - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in St. Louis, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 22, #469](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-22-469/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 22, #1191](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-22-1191/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 22, #203](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-22-203/#ftag=CAD590a51e)
- - [A look at Balaji Srinivasan&#39;s Network State concept, which envisions online communities acquiring land via crowdfunding, with the goal of becoming new countries &lpar;Gabriel Gatehouse/BBC&rpar;](http://www.techmeme.com/240921/p15#a240921p15)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 22, #1191](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-22-1191/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

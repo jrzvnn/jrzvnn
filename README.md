@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Hikes the Price for iPhone 16 Pro Battery Replacements](https://www.cnet.com/tech/mobile/apple-hikes-the-price-for-iphone-16-pro-battery-replacements/#ftag=CAD590a51e)
- - [&#39;A Cambrian Explosion&#39;: AI&#39;s Radical Reshaping of Your Phone, Coming Soon](https://www.cnet.com/tech/mobile/features/a-cambrian-explosion-ais-radical-reshaping-of-your-phone-coming-soon/#ftag=CAD590a51e)
- - [The 4 Unique Sleep Cycles You Have Never Heard Of](https://www.cnet.com/health/sleep/4-unique-sleep-cycles/#ftag=CAD590a51e)
  - [4 Useful Slack Features You May not Be Using Yet](https://www.wired.com/story/4-useful-slack-features-you-may-not-be-using-yet/)
- - [Best Internet Providers in Arlington, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)
+ - [Sony Bravia 9 TV Review: Can LED Screens Get Much Better?](https://www.wired.com/review/sony/bravia/9/)
+ - [17 Bingeworthy Fantasy TV Shows to Stream on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
+ - [You Can Shoot Video and Record Music at the Same Time in iOS 18](https://www.cnet.com/tech/services-and-software/you-can-shoot-video-and-record-music-at-the-same-time-in-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

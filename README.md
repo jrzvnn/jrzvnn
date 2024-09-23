@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
- - 💣 [The cleaning process](http://9gag.com/gag/a9yp1oW)
- - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 👉 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)<!-- MEMES:END -->
+ - 😝 [That was an overkill.](http://9gag.com/gag/aO8r833)
+ - 😝 [Pick a number](http://9gag.com/gag/a9yp1Z1)
+ - 💣 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
+ - 😝 [Person](http://9gag.com/gag/aXPxn59)
+ - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
 
 ---
 

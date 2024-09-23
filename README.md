@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Date the one who understands this as art \ud83c\udfa8 \ud83d\udc99](http://9gag.com/gag/aD2x6ZG)
- - 😝 [No title](http://9gag.com/gag/amo7WDV)
- - 💣 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
  - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 👉 [It ain&#39;t much](http://9gag.com/gag/aZZ314X)<!-- MEMES:END -->
+ - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 💣 [Chinese beat the shit out of Pooh in Shanghai Disneyland](http://9gag.com/gag/ajPE1MG)
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
 
 ---
 

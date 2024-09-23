@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-23/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 23, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-23-470/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 23, #204](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-23-204/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Wichita Falls, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-wichita-falls-tx/#ftag=CAD590a51e)
+ - [Best Internet Providers in Summerville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-summerville-sc/#ftag=CAD590a51e)
+ - [Best Internet Providers in Traverse City, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-traverse-city-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

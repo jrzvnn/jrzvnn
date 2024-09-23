@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
  - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 💣 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 💣 [Sure, why not](http://9gag.com/gag/apR234M)
+ - 😝 [It ain&#39;t much](http://9gag.com/gag/aZZ314X)
+ - 👉 [Murderer of a female police officer is being transported in garbage bag with an animal control vehicle in Turkey.](http://9gag.com/gag/aPAjPyg)<!-- MEMES:END -->
 
 ---
 

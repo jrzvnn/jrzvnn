@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Assa Abloy partners with Boston Dynamics to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)
  - [Sam Altman claims &quot;deep learning worked&quot;, superintelligence may be &quot;a few thousand days&quot; away, and &quot;astounding triumphs&quot; will incrementally become commonplace &lpar;Sam Altman&rpar;](http://www.techmeme.com/240923/p22#a240923p22)
- - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)
- - [US customers of Kaspersky antivirus find that UltraAV was installed remotely to replace Kaspersky on their PCs, after a Kaspersky deal with UltraAV owner Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240923/p21#a240923p21)<!-- TECH:END -->
+ - [Best Crib Mattress for 2024](https://www.cnet.com/health/sleep/best-crib-mattress/#ftag=CAD590a51e)
+ - [Best Pixel 9 Deals: Nab Savings With Trade-Ins, New Lines and Other Discounts](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

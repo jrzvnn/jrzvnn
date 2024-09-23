@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung plans to invest $1.8B to build a factory in northern Vietnam to make OLED displays for cars and tech equipment; Samsung has invested $22.4B in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/240923/p6#a240923p6)
+ - [You can get an at-home flu ‘shot’ starting next year](https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray)
+ - [Adaptogenic drinks: The Race to Make Your Coffee Do More and More](https://www.wired.com/story/adaptogenic-drinks-the-race-to-make-your-coffee-do-more-and-more/)
  - [Similarweb: daily X users in the UK fell from 8M in May 2023 to 5.6M now, with 33%+ of the fall coming after the summer riots; US DAUs fell by ~20% in that time &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/240923/p5#a240923p5)
- - [The FBI arrests and charges two people in Miami over a conspiracy to steal and launder 4,100+ bitcoin, worth $230M+, using crypto exchanges and mixing services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240923/p4#a240923p4)
- - [In Praise of Climate Virtue Signaling](https://www.wired.com/story/in-praise-of-climate-virtue-signaling/)
- - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Jaguars vs. Bills, Commanders vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-jaguars-vs-bills-commanders-vs-bengals-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FBI arrests and charges two people in Miami over a conspiracy to steal and launder 4,100+ bitcoin, worth $230M+, using crypto exchanges and mixing services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240923/p4#a240923p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JBL’s new party lights wirelessly sync to its glowing speakers](https://www.theverge.com/2024/9/23/24252096/jbl-speaker-partylight-stick-beam-bluetooth-wireless)
  - [Israel Innovation Authority: since October 7, Israeli tech companies have raised $9B, third behind Silicon Valley and NYC; tech is 16% of Israel&#39;s employment &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240923/p17#a240923p17)
  - [How to Save Money by Making Distilled Water Yourself](https://www.cnet.com/how-to/how-to-save-money-by-making-distilled-water-yourself/#ftag=CAD590a51e)
  - [Stop Eating These 10 Foods Before Bed. They’re Screwing Up Your Sleep](https://www.cnet.com/health/sleep/stop-eating-these-10-foods-before-bed/#ftag=CAD590a51e)
- - [Microsoft’s largest ever security transformation detailed in new report](https://www.theverge.com/2024/9/23/24251945/microsoft-security-report-secure-future-initiative)
- - [Marvel’s new Thunderbolts trailer is armed to the teeth](https://www.theverge.com/2024/9/23/24252103/thunderbolts-trailer-release-date)<!-- TECH:END -->
+ - [Microsoft’s largest ever security transformation detailed in new report](https://www.theverge.com/2024/9/23/24251945/microsoft-security-report-secure-future-initiative)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

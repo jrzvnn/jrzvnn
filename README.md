@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
  - 😝 [Person](http://9gag.com/gag/aXPxn59)
- - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 👉 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)<!-- MEMES:END -->
 
 ---
 

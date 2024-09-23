@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)
  - [Apple says Apple Intelligence will require 4GB of storage on compatible iPhones, and the storage requirement &quot;will increase as more features roll out&quot; &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240923/p25#a240923p25)
  - [ExxonMobil deceived the public with plastic recycling, lawsuit claims](https://www.theverge.com/2024/9/23/24252433/exxonmobil-knew-plastic-recycling-lawsuit-california)
  - [Analysis: major crypto companies, executives, and investors have spent $38M+ recently to help Ohio Republican Bernie Moreno&#39;s campaign for the US Senate &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240923/p24#a240923p24)
- - [How to find the best deals during Amazon’s fall Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Source: Anthropic has started talking to investors about a future capital raise, floating a $30B-40B valuation, around double its valuation from earlier in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240923/p23#a240923p23)<!-- TECH:END -->
+ - [How to find the best deals during Amazon’s fall Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

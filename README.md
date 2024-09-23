@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: daily X users in the UK fell from 8M in May 2023 to 5.6M now, with 33%+ of the fall coming after the summer riots; US DAUs fell by ~20% in that time &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/240923/p5#a240923p5)
  - [The FBI arrests and charges two people in Miami over a conspiracy to steal and launder 4,100+ bitcoin, worth $230M+, using crypto exchanges and mixing services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240923/p4#a240923p4)
  - [In Praise of Climate Virtue Signaling](https://www.wired.com/story/in-praise-of-climate-virtue-signaling/)
  - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Jaguars vs. Bills, Commanders vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-jaguars-vs-bills-commanders-vs-bengals-tonight/#ftag=CAD590a51e)
- - [TikTok&#39;s Defense Strategy Involves Throwing Shein and Temu Under the Bus](https://www.wired.com/story/tiktok-defense-china-ban/)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Jaguars vs. Bills, Commanders vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-jaguars-vs-bills-commanders-vs-bengals-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

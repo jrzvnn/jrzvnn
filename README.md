@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 😝 [Person](http://9gag.com/gag/aXPxn59)
- - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
+ - 😝 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 ---
 

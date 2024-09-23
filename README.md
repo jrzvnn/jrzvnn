@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos staff and report: technical debt was partly responsible for the app debacle, and Sonos lacked urgency in fixing it; sources: a reorganization caused chaos &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240923/p16#a240923p16)
  - [TikTok rolls out its redesigned Subscription feature, which lets creators offer three tiers, to eligible creators in select regions, including the UK and the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240923/p15#a240923p15)
  - [US moves to block all Chinese auto imports through software crackdown](https://www.theverge.com/2024/9/23/24252043/us-ban-china-car-software-ev-tariff-biden)
  - [Google TV Streamer review: excellent UI, Google Assistant, fast controls, smart home hub, and handy Find My feature, but not a huge speed bump and only Wi-Fi 5 &lpar;The Verge&rpar;](http://www.techmeme.com/240923/p14#a240923p14)
- - [The 5 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
- - [Shazam rolls out support for Apple Music Haptics in iOS 18](https://appleinsider.com/articles/24/09/23/shazam-rolls-out-support-for-apple-music-haptics-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [The 5 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

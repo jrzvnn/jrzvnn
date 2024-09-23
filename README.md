@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
  - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 💣 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 😝 [AC Technician Charges $1,700 to repair a small fix and gets caught on camera.](http://9gag.com/gag/awyXze1)
  - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---

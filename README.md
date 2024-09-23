@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale)
  - [Apple iPhone 16 and iPhone 16 Plus Review: Why Go Pro?](https://www.wired.com/review/apple-iphone-16-and-iphone-16-plus/)
  - [Your Dumb Memes Revived One of Butt Rock&#39;s Biggest Bands](https://www.wired.com/story/creed-memes-revival/)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [A Mysterious School for the Network State Crowd Is Now in Session](https://www.wired.com/story/network-school-balaji-srinivasan/)
- - [Apple&#39;s fifth round of iOS 18.1, iPadOS 18.1, macOS 15.1 developer betas have arrived](https://appleinsider.com/articles/24/09/23/apples-fifth-round-of-ios-181-ipados-181-macos-151-developer-betas-have-arrived?utm_medium=rss)<!-- TECH:END -->
+ - [A Mysterious School for the Network State Crowd Is Now in Session](https://www.wired.com/story/network-school-balaji-srinivasan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

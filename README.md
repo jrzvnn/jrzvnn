@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: major crypto companies, executives, and investors have spent $38M+ recently to help Ohio Republican Bernie Moreno&#39;s campaign for the US Senate &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240923/p24#a240923p24)
  - [How to find the best deals during Amazon’s fall Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
  - [Source: Anthropic has started talking to investors about a future capital raise, floating a $30B-40B valuation, around double its valuation from earlier in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240923/p23#a240923p23)
- - [The Delta emulator is getting online multiplayer for Nintendo DS games](https://www.theverge.com/2024/9/23/24252493/delta-ios-emulator-online-multiplayer-nintendo-ds)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Boston Dynamics partners with Assa Abloy to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)<!-- TECH:END -->
+ - [These Are the Hidden iOS 18 Features You Don&#39;t Want to Miss on Your iPhone](https://www.cnet.com/tech/services-and-software/these-are-the-hidden-ios-18-features-you-dont-want-to-miss-on-your-iphone/#ftag=CAD590a51e)
+ - [The Delta emulator is getting online multiplayer for Nintendo DS games](https://www.theverge.com/2024/9/23/24252493/delta-ios-emulator-online-multiplayer-nintendo-ds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

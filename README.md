@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Assa Abloy partners with Boston Dynamics to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)
  - [Sam Altman claims &quot;deep learning worked&quot;, superintelligence may be &quot;a few thousand days&quot; away, and &quot;astounding triumphs&quot; will incrementally become commonplace &lpar;Sam Altman&rpar;](http://www.techmeme.com/240923/p22#a240923p22)
  - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)
- - [US customers of Kaspersky antivirus find that UltraAV was installed remotely to replace Kaspersky on their PCs, after a Kaspersky deal with UltraAV owner Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240923/p21#a240923p21)
- - [Mercedes dials up the speed of its hands-free, eyes-off Drive Pilot feature](https://www.theverge.com/2024/9/23/24252413/mercedes-drive-pilot-speed-germany-level-3-autonomous)
- - [Researchers find a new version of Necro malware in Google Play apps with 11M+ total installs; Necro malware in 2019 was found in Play apps with 100M+ installs &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240923/p20#a240923p20)<!-- TECH:END -->
+ - [US customers of Kaspersky antivirus find that UltraAV was installed remotely to replace Kaspersky on their PCs, after a Kaspersky deal with UltraAV owner Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240923/p21#a240923p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

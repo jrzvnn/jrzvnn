@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases a progress report on its efforts to make security its top priority, which began in November 2023 after a scathing report from the US CSRB &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240923/p19#a240923p19)
- - [The UK helped usher in the coal era — now its closing its last remaining plant](https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy)
- - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
- - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)
- - [Score $50 Worth of International Cell Service Data Coverage for Just $35](https://www.cnet.com/deals/score-50-worth-of-international-cell-service-data-coverage-for-just-35/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers find a new version of Necro malware in Google Play apps with 11M+ total installs; Necro malware in 2019 was found in Play apps with 100M+ installs &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240923/p20#a240923p20)
+ - [This Panasonic product is literally vaporware — it sprays displays into the air](https://www.theverge.com/2024/9/23/24252304/panasonic-silky-fine-mist-water-pump-screen-projector)
+ - [How to use a VPN to access international marketplaces](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-international-marketplaces?utm_medium=rss)
+ - [Woot is offering $50 off the Switch OLED just in time for the new Zelda](https://www.theverge.com/2024/9/23/24252246/nintendo-switch-oled-woot-best-of-sale-deal)
+ - [Telegram will now hand over your phone number and IP if you’re a criminal suspect](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

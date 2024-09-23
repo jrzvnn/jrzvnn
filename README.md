@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Legacy carmakers struggle to keep pace as the focus shifts from engines to computing power; only Ford, GM, and BMW are in Gartner&#39;s digital performance top 10 &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p3#a240923p3)
+ - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
  - [AI copilots are evolving into AI agents designed to take actions on behalf of users, as business software companies experiment with ways to sell generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p2#a240923p2)
- - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)
- - [Best Internet Providers in Lincoln, Nebraska](https://www.cnet.com/home/internet/best-internet-providers-in-lincoln-ne/#ftag=CAD590a51e)
- - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in La Crosse, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-la-crosse-wi/#ftag=CAD590a51e)
+ - [Best Internet Providers in Denton, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-denton-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

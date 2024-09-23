@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic CEO Matt Mullenweg calls WP Engine a &quot;cancer to WordPress&quot; and says it profits off confusion between the WordPress project and commercial services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240923/p13#a240923p13)
- - [Compared: Aqara U50 vs U100 vs U200 - Good, better, best in Apple Home security](https://appleinsider.com/articles/24/09/23/compared-aqara-u50-vs-u100-vs-u200---good-better-best-in-apple-home-security?utm_medium=rss)
- - [Cloudflare rolls out Bot Management, a suite of free AI auditing tools, to all of its customers to help monitor and selectively block AI data-scraping bots &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240923/p12#a240923p12)
- - [The US Commerce Department proposes banning Chinese software and hardware for internet connected vehicles, effectively banning Chinese vehicles in the US &lpar;Felicia Schwartz/Financial Times&rpar;](http://www.techmeme.com/240923/p11#a240923p11)
- - [Why You Should Think Twice About Eating Leftover Rice](https://www.cnet.com/how-to/why-you-should-think-twice-about-eating-leftover-rice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US moves to block all Chinese auto imports through software crackdown](https://www.theverge.com/2024/9/23/24252043/us-ban-china-car-software-ev-tariff-biden)
+ - [Google TV Streamer review: excellent UI, Google Assistant, fast controls, smart home hub, and handy Find My feature, but not a huge speed bump and only Wi-Fi 5 &lpar;The Verge&rpar;](http://www.techmeme.com/240923/p14#a240923p14)
+ - [The 5 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
+ - [Shazam rolls out support for Apple Music Haptics in iOS 18](https://appleinsider.com/articles/24/09/23/shazam-rolls-out-support-for-apple-music-haptics-in-ios-18?utm_medium=rss)
+ - [Here&#39;s the Fastest Way to Fully Charge Your iPhone](https://www.cnet.com/tech/mobile/heres-the-fastest-way-to-fully-charge-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

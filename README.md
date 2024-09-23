@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
+ - 😝 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 💣 [I\u2019ll leave this here](http://9gag.com/gag/aD2xYyZ)
+ - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 

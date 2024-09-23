@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That damn smile](http://9gag.com/gag/agmXm1r)
- - 😝 [For the captains on the road.](http://9gag.com/gag/aE0x0V9)
- - 💣 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
- - 😝 [Bring him back from the grave](http://9gag.com/gag/aLnjnxP)
- - 👉 [Not today Satan.](http://9gag.com/gag/aYQgre2)<!-- MEMES:END -->
+ - 😝 [Bye bakery](http://9gag.com/gag/a6ZoExq)
+ - 😝 [AC Technician Charges $1,700 to repair a small fix and gets caught on camera.](http://9gag.com/gag/awyXze1)
+ - 💣 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 ---
 

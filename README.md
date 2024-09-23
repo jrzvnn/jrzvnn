@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 😝 [No title](http://9gag.com/gag/amo7WDV)
- - 💣 [Date the one who understands this as art \ud83c\udfa8 \ud83d\udc99](http://9gag.com/gag/aD2x6ZG)
  - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 👉 [Maam, i\u2019m eligible](http://9gag.com/gag/agmXOmw)<!-- MEMES:END -->
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 ---
 

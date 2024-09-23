@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases a progress report on its efforts to make security its top priority, which began in November 2023 after a scathing report from the US CSRB &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240923/p19#a240923p19)
+ - [The UK helped usher in the coal era — now its closing its last remaining plant](https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy)
  - [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale)
  - [Apple iPhone 16 and iPhone 16 Plus Review: Why Go Pro?](https://www.wired.com/review/apple-iphone-16-and-iphone-16-plus/)
- - [Your Dumb Memes Revived One of Butt Rock&#39;s Biggest Bands](https://www.wired.com/story/creed-memes-revival/)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [A Mysterious School for the Network State Crowd Is Now in Session](https://www.wired.com/story/network-school-balaji-srinivasan/)<!-- TECH:END -->
+ - [Your Dumb Memes Revived One of Butt Rock&#39;s Biggest Bands](https://www.wired.com/story/creed-memes-revival/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

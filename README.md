@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change my mind](http://9gag.com/gag/an7MRxz)
- - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 💣 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 😝 [No title](http://9gag.com/gag/amo7WDV)
- - 👉 [Date the one who understands this as art \ud83c\udfa8 \ud83d\udc99](http://9gag.com/gag/aD2x6ZG)<!-- MEMES:END -->
+ - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 😝 [Coming Soon to your office](http://9gag.com/gag/aZZ3Zr3)
+ - 💣 [Person](http://9gag.com/gag/aXPxn59)
+ - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
+ - 👉 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)<!-- MEMES:END -->
 
 ---
 

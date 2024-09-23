@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 💣 [Chinese beat the shit out of Pooh in Shanghai Disneyland](http://9gag.com/gag/ajPE1MG)
- - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
+ - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 😝 [Chinese beat the shit out of Pooh in Shanghai Disneyland](http://9gag.com/gag/ajPE1MG)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 

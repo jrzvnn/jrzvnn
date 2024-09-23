@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Touch screen issues hit iPhone 16 Pro and older models](https://appleinsider.com/articles/24/09/23/touch-screen-issues-hit-iphone-16-pro-and-older-models?utm_medium=rss)
+ - [The US and India announce plans for a new chip plant in India, producing infrared, gallium nitride, and silicon carbide chips, as Narendra Modi visits the US &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/240923/p7#a240923p7)
  - [Attention, Spoiled Software Engineers: Take a Lesson from Google’s Programming Language](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
  - [Samsung plans to invest $1.8B to build a factory in northern Vietnam to make OLED displays for cars and tech equipment; Samsung has invested $22.4B in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/240923/p6#a240923p6)
- - [You can get an at-home flu ‘shot’ starting next year](https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray)
- - [Adaptogenic drinks: The Race to Make Your Coffee Do More and More](https://www.wired.com/story/adaptogenic-drinks-the-race-to-make-your-coffee-do-more-and-more/)
- - [Similarweb: daily X users in the UK fell from 8M in May 2023 to 5.6M now, with 33%+ of the fall coming after the summer riots; US DAUs fell by ~20% in that time &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/240923/p5#a240923p5)<!-- TECH:END -->
+ - [You can get an at-home flu ‘shot’ starting next year](https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

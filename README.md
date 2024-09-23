@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They\u2019re so easy to checkmate](http://9gag.com/gag/aYQgEO0)
- - 😝 [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
- - 💣 [Post](http://9gag.com/gag/a5Qo6qG)
- - 😝 [Change my mind](http://9gag.com/gag/an7MRxz)
- - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
+ - 😝 [Pick a number](http://9gag.com/gag/a9yp1Z1)
+ - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 💣 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 👉 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)<!-- MEMES:END -->
 
 ---
 

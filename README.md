@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pick a number](http://9gag.com/gag/a9yp1Z1)
- - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 💣 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)<!-- MEMES:END -->
+ - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 😝 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
+ - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
 
 ---
 

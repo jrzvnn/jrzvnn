@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bye bakery](http://9gag.com/gag/a6ZoExq)
- - 😝 [AC Technician Charges $1,700 to repair a small fix and gets caught on camera.](http://9gag.com/gag/awyXze1)
- - 💣 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)
+ - 😝 [Person](http://9gag.com/gag/aXPxn59)
+ - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
+ - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
 
 ---
 

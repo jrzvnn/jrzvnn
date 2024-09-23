@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)
- - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
- - 💣 [Person](http://9gag.com/gag/aXPxn59)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 😝 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
+ - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
 
 ---
 

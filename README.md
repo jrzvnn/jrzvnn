@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
- - 💣 [I\u2019ll leave this here](http://9gag.com/gag/aD2xYyZ)
  - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
  - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---

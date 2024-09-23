@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
- - 💣 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
+ - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
  - 😝 [Mr Jack Sparrow strikes again](http://9gag.com/gag/aW41gNd)
- - 👉 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)<!-- MEMES:END -->
+ - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
 
 ---
 

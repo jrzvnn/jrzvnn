@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in Blender](http://9gag.com/gag/aO8rxg2)
- - 😝 [Soft](http://9gag.com/gag/abAM1Xb)
- - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
- - 😝 [Change my mind](http://9gag.com/gag/an7MRxz)
- - 👉 [They\u2019re so easy to checkmate](http://9gag.com/gag/aYQgEO0)<!-- MEMES:END -->
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 😝 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
+ - 💣 [The cleaning process](http://9gag.com/gag/a9yp1oW)
+ - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 👉 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)<!-- MEMES:END -->
 
 ---
 

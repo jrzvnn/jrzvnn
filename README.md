@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft releases a progress report on its efforts to make security its top priority, which began in November 2023 after a scathing report from the US CSRB &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240923/p19#a240923p19)
  - [The UK helped usher in the coal era — now its closing its last remaining plant](https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy)
- - [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale)
- - [Apple iPhone 16 and iPhone 16 Plus Review: Why Go Pro?](https://www.wired.com/review/apple-iphone-16-and-iphone-16-plus/)
- - [Your Dumb Memes Revived One of Butt Rock&#39;s Biggest Bands](https://www.wired.com/story/creed-memes-revival/)<!-- TECH:END -->
+ - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)
+ - [Score $50 Worth of International Cell Service Data Coverage for Just $35](https://www.cnet.com/deals/score-50-worth-of-international-cell-service-data-coverage-for-just-35/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

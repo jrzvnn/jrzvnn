@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Person](http://9gag.com/gag/aXPxn59)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
- - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 👉 [Pick a number](http://9gag.com/gag/a9yp1Z1)<!-- MEMES:END -->
+ - 😝 [They\u2019re so easy to checkmate](http://9gag.com/gag/aYQgEO0)
+ - 😝 [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
+ - 💣 [Post](http://9gag.com/gag/a5Qo6qG)
+ - 😝 [Change my mind](http://9gag.com/gag/an7MRxz)
+ - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
 
 ---
 

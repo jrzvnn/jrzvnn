@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of Alexandr Wang, CEO of Scale AI, which hires contractors to do data labeling tasks, as he looks to expand to higher-margin AI tools to sustain growth &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240922/p11#a240922p11)
+ - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)
+ - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)
  - [YouTuber adapts hidden first-gen HomePod debug port to carry USB audio](https://appleinsider.com/articles/24/09/22/youtuber-adapts-hidden-first-gen-homepod-debug-port-to-carry-usb-audio?utm_medium=rss)
- - [Where to Get Free Moving Boxes](https://www.cnet.com/how-to/where-to-get-free-moving-boxes/#ftag=CAD590a51e)
- - [Best Healthy Meal Delivery Services of 2024, Tested and Reviewed](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)
- - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in El Paso, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-el-paso-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

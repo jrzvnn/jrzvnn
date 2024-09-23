@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
  - 😝 [Ready to settle down](http://9gag.com/gag/aND1DX6)
- - 😝 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 💣 [Person](http://9gag.com/gag/aXPxn59)
- - 😝 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)
- - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
+ - 💣 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 😝 [Mr Jack Sparrow strikes again](http://9gag.com/gag/aW41gNd)
+ - 👉 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)<!-- MEMES:END -->
 
 ---
 

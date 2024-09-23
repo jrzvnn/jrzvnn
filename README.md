@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was an overkill.](http://9gag.com/gag/aO8r833)
- - 😝 [Pick a number](http://9gag.com/gag/a9yp1Z1)
- - 💣 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
  - 😝 [Person](http://9gag.com/gag/aXPxn59)
- - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 👉 [Pick a number](http://9gag.com/gag/a9yp1Z1)<!-- MEMES:END -->
 
 ---
 

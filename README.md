@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Amazon executive Rohit Prasad, who now oversees a new team of thousands to develop AI products for an Alexa upgrade and other businesses &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240923/p10#a240923p10)
- - [Mumbai-based Qure.AI, which uses AI to help identify and manage critical diseases at 3K+ imaging sites, raised a $65M Series D led by Lightspeed and 360 ONE &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240923/p9#a240923p9)
- - [Sources: Xiaomi asked India to recall its report that found the company and Walmart&#39;s Flipkart breached competition laws, saying it contains commercial secrets &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240923/p8#a240923p8)
- - [Apple TV Plus Sci-Fi Shows That Will Keep You on the Edge of Your Seat](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2024/#ftag=CAD590a51e)
- - [iOS 18: Your iPhone Just Got All These New Features](https://www.cnet.com/tech/services-and-software/ios-18-your-iphone-just-got-all-these-new-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [What’s this new mystery Nintendo device?](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
+ - [The 10 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)
+ - [Power Up Your Devices With Ease With This 6-in-1 Anker Power Strip for Just $15](https://www.cnet.com/deals/power-up-your-devices-with-ease-with-this-6-in-1-anker-power-strip-for-just-15/#ftag=CAD590a51e)
+ - [This AI Startup Is Supporting Artificial Voices and the Humans Who Need Them](https://www.cnet.com/tech/services-and-software/this-ai-startup-is-supporting-artificial-voices-and-the-humans-who-need-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

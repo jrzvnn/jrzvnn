@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bye bakery](http://9gag.com/gag/a6ZoExq)
- - 😝 [Person](http://9gag.com/gag/aXPxn59)
+ - 😝 [Man is real](http://9gag.com/gag/agmXop1)
+ - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
  - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
  - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->

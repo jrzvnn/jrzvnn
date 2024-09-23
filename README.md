@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The FBI arrests and charges two people in Miami over a conspiracy to steal and launder 4,100+ bitcoin, worth $230M+, using crypto exchanges and mixing services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240923/p4#a240923p4)
  - [In Praise of Climate Virtue Signaling](https://www.wired.com/story/in-praise-of-climate-virtue-signaling/)
- - [TikTok&#39;s Defense Strategy Involves Throwing Shein and Temu Under the Bus](https://www.wired.com/story/tiktok-defense-china-ban/)
- - [Legacy carmakers struggle to keep pace as the focus shifts from engines to computing power; only Ford, GM, and BMW are in Gartner&#39;s digital performance top 10 &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p3#a240923p3)
- - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Jaguars vs. Bills, Commanders vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-jaguars-vs-bills-commanders-vs-bengals-tonight/#ftag=CAD590a51e)
+ - [TikTok&#39;s Defense Strategy Involves Throwing Shein and Temu Under the Bus](https://www.wired.com/story/tiktok-defense-china-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

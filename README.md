@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to find the best deals during Amazon’s fall Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+ - [Source: Anthropic has started talking to investors about a future capital raise, floating a $30B-40B valuation, around double its valuation from earlier in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240923/p23#a240923p23)
+ - [The Delta emulator is getting online multiplayer for Nintendo DS games](https://www.theverge.com/2024/9/23/24252493/delta-ios-emulator-online-multiplayer-nintendo-ds)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Assa Abloy partners with Boston Dynamics to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)
- - [Sam Altman claims &quot;deep learning worked&quot;, superintelligence may be &quot;a few thousand days&quot; away, and &quot;astounding triumphs&quot; will incrementally become commonplace &lpar;Sam Altman&rpar;](http://www.techmeme.com/240923/p22#a240923p22)
- - [Best Crib Mattress for 2024](https://www.cnet.com/health/sleep/best-crib-mattress/#ftag=CAD590a51e)
- - [Best Pixel 9 Deals: Nab Savings With Trade-Ins, New Lines and Other Discounts](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boston Dynamics partners with Assa Abloy to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

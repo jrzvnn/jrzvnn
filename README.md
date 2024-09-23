@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)
+ - [US customers of Kaspersky antivirus find UltraAV, an entirely different AV suite, remotely installed on their PCs, after a Kaspersky deal with UltraAV&#39;s owner &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240923/p21#a240923p21)
  - [Mercedes dials up the speed on its hands-free, eyes-off Drive Pilot feature](https://www.theverge.com/2024/9/23/24252413/mercedes-drive-pilot-speed-germany-level-3-autonomous)
  - [Researchers find a new version of Necro malware in Google Play apps with 11M+ total installs; Necro malware in 2019 was found in Play apps with 100M+ installs &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240923/p20#a240923p20)
- - [This Panasonic product is literally vaporware — it sprays displays into the air](https://www.theverge.com/2024/9/23/24252304/panasonic-silky-fine-mist-water-pump-screen-projector)
- - [How to use a VPN to access international marketplaces](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-international-marketplaces?utm_medium=rss)
- - [Woot is offering $50 off the Switch OLED just in time for the new Zelda](https://www.theverge.com/2024/9/23/24252246/nintendo-switch-oled-woot-best-of-sale-deal)<!-- TECH:END -->
+ - [This Panasonic product is literally vaporware — it sprays displays into the air](https://www.theverge.com/2024/9/23/24252304/panasonic-silky-fine-mist-water-pump-screen-projector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

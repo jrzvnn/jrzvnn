@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s open-style headphones leak just before launch](https://www.theverge.com/2024/9/23/24252179/nothing-ear-open-wraparound-earbuds-design-leak)
+ - [PlayStation’s next State of Play will cover more than 20 PS5 and PSVR 2 games](https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games)
+ - [Google is bringing its smart home panel to all Google TV devices](https://www.theverge.com/2024/9/23/24252165/google-smart-home-panel-comes-to-all-google-tvs)
  - [Let’s compare Apple, Google, and Samsung’s definitions of ‘a photo’](https://www.theverge.com/2024/9/23/24252231/lets-compare-apple-google-and-samsungs-definitions-of-a-photo)
- - [Finally a UWB lock, a Matter ice maker, &amp; more smart home gear on HomeKit Insider](https://appleinsider.com/articles/24/09/23/finally-a-uwb-lock-a-matter-ice-maker-more-smart-home-gear-on-homekit-insider?utm_medium=rss)
- - [Grab Apple&#39;s M3 MacBook Pro for $1,199, the lowest price ever](https://appleinsider.com/articles/24/09/23/grab-apples-m3-macbook-pro-for-1199-the-lowest-price-ever?utm_medium=rss)
- - [Telegram will provide users&#39; IP addresses and phone numbers to authorities after valid legal requests, changing its terms of service to deter criminal activity &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240923/p18#a240923p18)
- - [Get a Free Bag of Premium Coffee With a New Atlas Coffee Club Subscription](https://www.cnet.com/deals/get-a-free-bag-of-premium-coffee-with-a-new-atlas-coffee-club-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Finally a UWB lock, a Matter ice maker, &amp; more smart home gear on HomeKit Insider](https://appleinsider.com/articles/24/09/23/finally-a-uwb-lock-a-matter-ice-maker-more-smart-home-gear-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)
- - [Apple says Apple Intelligence will require 4GB of storage on compatible iPhones, and the storage requirement &quot;will increase as more features roll out&quot; &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240923/p25#a240923p25)
- - [ExxonMobil deceived the public with plastic recycling, lawsuit claims](https://www.theverge.com/2024/9/23/24252433/exxonmobil-knew-plastic-recycling-lawsuit-california)
- - [Analysis: major crypto companies, executives, and investors have spent $38M+ recently to help Ohio Republican Bernie Moreno&#39;s campaign for the US Senate &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240923/p24#a240923p24)
- - [How to find the best deals during Amazon’s fall Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
+ - [Source: Meta plans to launch the voices of Judi Dench, Kristen Bell, John Cena, Awkwafina, and Keegan-Michael Key for its Meta AI chatbot at Connect this week &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240923/p26#a240923p26)
+ - [Proposed Ban Would Be a ‘Death Sentence’ for Chinese EVs in the US](https://www.wired.com/story/us-ban-china-russia-ev-cars-security/)
+ - [Netflix Reveals &#39;Arcane&#39; Season 2 Video Clip](https://www.cnet.com/tech/services-and-software/netflix-reveals-arcane-season-2-video-clip/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Jaguars vs. Bills, Commanders vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-jaguars-vs-bills-commanders-vs-bengals-tonight/#ftag=CAD590a51e)
+ - [Achieve Your Daily Protein Goals With This Simple Visual Guide](https://www.cnet.com/health/nutrition/achieve-your-daily-protein-goals-with-this-simple-visual-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

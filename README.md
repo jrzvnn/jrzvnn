@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [They ruined her...](http://9gag.com/gag/ayNXqnM)
  - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [Mr Jack Sparrow strikes again](http://9gag.com/gag/aW41gNd)
- - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
+ - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
 
 ---
 

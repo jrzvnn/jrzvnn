@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 23, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-23-470/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 23, #204](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-23-204/#ftag=CAD590a51e)
  - [In an event that raised $27M, Kamala Harris vowed to help grow investments in AI and crypto, her first comments on crypto as the Democratic presidential nominee &lpar;Jennifer Epstein/Bloomberg&rpar;](http://www.techmeme.com/240922/p12#a240922p12)
- - [Profile of Alexandr Wang, CEO of Scale AI, which hires contractors to do data labeling tasks, as he looks to expand to higher-margin AI tools to sustain growth &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240922/p11#a240922p11)
- - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)
- - [YouTuber adapts hidden first-gen HomePod debug port to carry USB audio](https://appleinsider.com/articles/24/09/22/youtuber-adapts-hidden-first-gen-homepod-debug-port-to-carry-usb-audio?utm_medium=rss)<!-- TECH:END -->
+ - [Best Power Bank for iPhone in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A profile of Amazon executive Rohit Prasad, who now oversees a new team of thousands to develop AI products for an Alexa upgrade and other businesses &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240923/p10#a240923p10)
  - [Mumbai-based Qure.AI, which uses AI to help identify and manage critical diseases at 3K+ imaging sites, raised a $65M Series D led by Lightspeed and 360 ONE &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240923/p9#a240923p9)
  - [Sources: Xiaomi asked India to recall its report that found the company and Walmart&#39;s Flipkart breached competition laws, saying it contains commercial secrets &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240923/p8#a240923p8)
- - [Why Women Get Migraines More Than Men](https://www.wired.com/story/the-science-of-why-migraines-affect-women-more-than-men/)
- - [Touch screen issues hit iPhone 16 Pro and older models](https://appleinsider.com/articles/24/09/23/touch-screen-issues-hit-iphone-16-pro-and-older-models?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV Plus Sci-Fi Shows That Will Keep You on the Edge of Your Seat](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2024/#ftag=CAD590a51e)
+ - [iOS 18: Your iPhone Just Got All These New Features](https://www.cnet.com/tech/services-and-software/ios-18-your-iphone-just-got-all-these-new-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just another day at the office](http://9gag.com/gag/axy1vEY)
  - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 😝 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
  - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
+ - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
+ - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
 
 ---
 

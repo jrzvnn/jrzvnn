@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 💣 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 😝 [AC Technician Charges $1,700 to repair a small fix and gets caught on camera.](http://9gag.com/gag/awyXze1)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 😝 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
+ - 😝 [Not today Satan.](http://9gag.com/gag/aYQgre2)
+ - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
+ - 😝 [A bunch of times](http://9gag.com/gag/an7M7Mz)
+ - 👉 [That&#39;s not possible](http://9gag.com/gag/aQz3EYq)<!-- MEMES:END -->
 
 ---
 

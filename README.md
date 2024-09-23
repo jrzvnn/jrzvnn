@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 💣 [Person](http://9gag.com/gag/aXPxn59)
- - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 👉 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)<!-- MEMES:END -->
+ - 😝 [Person](http://9gag.com/gag/aXPxn59)
+ - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
 
 ---
 

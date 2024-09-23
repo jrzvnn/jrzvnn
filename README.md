@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI copilots are evolving into AI agents designed to take actions on behalf of users, as business software companies experiment with ways to sell generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p2#a240923p2)
  - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)
  - [Best Internet Providers in Lincoln, Nebraska](https://www.cnet.com/home/internet/best-internet-providers-in-lincoln-ne/#ftag=CAD590a51e)
  - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
- - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
- - [Best Internet Providers in Butte, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-butte-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

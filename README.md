@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Touch screen issues hit iPhone 16 Pro and older models](https://appleinsider.com/articles/24/09/23/touch-screen-issues-hit-iphone-16-pro-and-older-models?utm_medium=rss)
- - [The US and India announce plans for a new chip plant in India, producing infrared, gallium nitride, and silicon carbide chips, as Narendra Modi visits the US &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/240923/p7#a240923p7)
- - [Attention, Spoiled Software Engineers: Take a Lesson from Google’s Programming Language](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
- - [Samsung plans to invest $1.8B to build a factory in northern Vietnam to make OLED displays for cars and tech equipment; Samsung has invested $22.4B in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/240923/p6#a240923p6)
- - [You can get an at-home flu ‘shot’ starting next year](https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray)<!-- TECH:END -->
+ - [Sources: Xiaomi asked India to recall its report that found the company and Walmart&#39;s Flipkart breached competition laws, saying it contains commercial secrets &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240923/p8#a240923p8)
+ - [Apple TV Plus Sci-Fi Shows That Will Keep You on the Edge of Your Seat](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2024/#ftag=CAD590a51e)
+ - [iOS 18: Your iPhone Just Got All These New Features](https://www.cnet.com/tech/services-and-software/ios-18-your-iphone-just-got-all-these-new-features/#ftag=CAD590a51e)
+ - [Why Women Get Migraines More Than Men](https://www.wired.com/story/the-science-of-why-migraines-affect-women-more-than-men/)
+ - [Looking for an Easy Way to Save Money on Your Internet Bill? Buy Your Own Router](https://www.cnet.com/home/internet/buy-your-own-router-for-an-easy-way-to-save-money-on-your-internet-bill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Let&#39;s put together a list of games we won&#39;t purchase. Please add anything else if you have more.](http://9gag.com/gag/aGyjE25)
  - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)<!-- MEMES:END -->
+ - 💣 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 👉 [Yeet](http://9gag.com/gag/aMVjmw1)<!-- MEMES:END -->
 
 ---
 

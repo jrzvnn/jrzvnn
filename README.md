@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-23/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 23, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-23-470/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 23, #204](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-23-204/#ftag=CAD590a51e)
- - [In an event that raised $27M, Kamala Harris vowed to help grow investments in AI and crypto, her first comments on crypto as the Democratic presidential nominee &lpar;Jennifer Epstein/Bloomberg&rpar;](http://www.techmeme.com/240922/p12#a240922p12)
- - [Best Power Bank for iPhone in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 23, #204](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-23-204/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lincoln, Nebraska](https://www.cnet.com/home/internet/best-internet-providers-in-lincoln-ne/#ftag=CAD590a51e)
+ - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
  - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-23/#ftag=CAD590a51e)
- - [Best Internet Providers in Wichita Falls, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-wichita-falls-tx/#ftag=CAD590a51e)
- - [Best Internet Providers in Summerville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-summerville-sc/#ftag=CAD590a51e)
- - [Best Internet Providers in Traverse City, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-traverse-city-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Butte, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-butte-mt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

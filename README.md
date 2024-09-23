@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Compared: Aqara U50 vs U100 vs U200 - Good, better, best in Apple Home security](https://appleinsider.com/articles/24/09/23/compared-aqara-u50-vs-u100-vs-u200---good-better-best-in-apple-home-security?utm_medium=rss)
+ - [Cloudflare rolls out Bot Management, a suite of free AI auditing tools, to all of its customers to help monitor and selectively block AI data-scraping bots &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240923/p12#a240923p12)
  - [The US Commerce Department proposes banning Chinese software and hardware for internet connected vehicles, effectively banning Chinese vehicles in the US &lpar;Felicia Schwartz/Financial Times&rpar;](http://www.techmeme.com/240923/p11#a240923p11)
- - [New Cloudflare Tools Let Sites Detect and Block AI Bots for Free](https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/)
- - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)
- - [Cameras on iPhone 16 Pro Max are fourth-best in the world](https://appleinsider.com/articles/24/09/23/cameras-on-iphone-16-pro-max-are-fourth-best-in-the-world?utm_medium=rss)
- - [The 16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [Why You Should Think Twice About Eating Leftover Rice](https://www.cnet.com/how-to/why-you-should-think-twice-about-eating-leftover-rice/#ftag=CAD590a51e)
+ - [New Cloudflare Tools Let Sites Detect and Block AI Bots for Free](https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

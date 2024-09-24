@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft claims its AI safety tool not only finds errors but also fixes them](https://www.theverge.com/2024/9/24/24253452/microsoft-correction-ai-safety-tool-fix-errors)
  - [Google updates its Street View imagery in nearly 80 countries, brings Street View to new locations, and sharpens satellite imagery across Google Earth and Maps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240924/p43#a240924p43)
  - [PlayStation State of Play September 2024: all the biggest news and announcements](https://www.theverge.com/24253137/playstation-ps5-state-of-play-september-2024)
  - [Salesforce agrees to buy Zoomin, an Israeli data management company that makes unstructured data accessible to AI agents, in an acquisition valued at $450M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240924/p42#a240924p42)
- - [SAG-AFTRA calls a strike against League of Legends, formerly strike exempt, filing an NLRB complaint and saying Formosa Interactive also refuses &quot;fair AI terms&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p41#a240924p41)
- - [Hollywood is coming out in force for California’s AI safety bill](https://www.theverge.com/2024/9/24/24253439/california-sb-1047-newsom-hollywood-sag-aftra-ai-safety)<!-- TECH:END -->
+ - [SAG-AFTRA calls a strike against League of Legends, formerly strike exempt, filing an NLRB complaint and saying Formosa Interactive also refuses &quot;fair AI terms&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p41#a240924p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

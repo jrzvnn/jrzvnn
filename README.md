@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI adds five voices to Advanced Voice Mode, which is now rolling out to ChatGPT Plus and Teams users and, next week, to enterprise and education users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240924/p33#a240924p33)
+ - [DOJ sues Visa for locking out rival payment platforms](https://www.theverge.com/2024/9/24/24253280/doj-antitrust-lawsuit-visa-debit-monopoly)
+ - [Razer just added its banned Snap Tap feature to all its recent laptops and keyboards](https://www.theverge.com/2024/9/24/24253312/razer-snap-tap-comes-blade-laptops-more-keyboards)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Arlo cameras can now recognize people and vehicles](https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles)
- - [Can-Am Pulse Electric Motorcycle: Specs, Price, Availability](https://www.wired.com/story/first-ride-can-am-pulse-electric-motorcycle/)
- - [How to watch the September PlayStation State of Play livestream](https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games)
- - [Samsung is taking preorders for an unannounced phone](https://www.theverge.com/2024/9/24/24253223/samsung-galaxy-s24-fe-pre-order-live-announcement)<!-- TECH:END -->
+ - [Arlo cameras can now recognize people and vehicles](https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

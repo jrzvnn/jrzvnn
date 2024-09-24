@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Logitech goes after Streamdeck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
  - [Sources: some key staff working on Microsoft&#39;s distilled AI models like Phi, trained on synthetic data, have left the Microsoft AI unit led by Mustafa Suleyman &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240924/p25#a240924p25)
- - [Kia EVs will get Tesla Supercharger access starting January 15th](https://www.theverge.com/2024/9/24/24252996/kia-nacs-supercharger-adapter-access-date-information)
+ - [Kia EVs will get Tesla Supercharger access starting on January 15th](https://www.theverge.com/2024/9/24/24252996/kia-nacs-supercharger-adapter-access-date-information)
  - [Insta360’s new Link webcams are cheaper but can still follow you around](https://www.theverge.com/2024/9/24/24253008/insta360-webcam-link-2-2c)
  - [Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 

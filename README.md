@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mark Zuckerberg wants to get away from politics, pulling back from charitable causes that may seem partisan, tamping down employee activism, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p29#a240924p29)
+ - [The AirPods 4 are on sale for the first time](https://www.theverge.com/2024/9/24/24249916/apple-airpods-4-with-active-noise-cancellation-super-mario-bros-wonder-deal-sale)
  - [Google Cloud debuts Gemini 1.5 Flash and 1.5 Pro with a 2M context window, twice as big as before, &quot;grounding&quot; for better Google search accuracy, and new agents &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240924/p28#a240924p28)
  - [New Xbox Design Lab translucent Elite controller options are clearly great](https://www.theverge.com/2024/9/24/24253073/translucent-xbox-elite-controller-cipher-series-design-lab)
- - [Max is getting Google AI-generated closed captions](https://www.theverge.com/2024/9/24/24253107/warner-bros-discovery-caption-ai-google-cloud-closed-captioning)
- - [Logitech goes after Stream Deck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
- - [Marques Brownlee says ‘I hear you’ after fans criticize his new wallpaper app](https://www.theverge.com/2024/9/24/24253023/mkbhd-panels-wallpaper-app-response-criticism)<!-- TECH:END -->
+ - [Max is getting Google AI-generated closed captions](https://www.theverge.com/2024/9/24/24253107/warner-bros-discovery-caption-ai-google-cloud-closed-captioning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

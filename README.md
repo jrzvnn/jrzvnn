@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This DIY kit gives you the Switch Lite OLED that Nintendo hasn’t](https://www.theverge.com/2024/9/24/24253224/nintendo-switch-lite-oled-upgrade-kit)
+ - [Here are Jony Ive’s $3,000 jackets](https://www.theverge.com/2024/9/24/24253225/jony-ive-lovefrom-moncler-collection-launches)
+ - [The US DOJ sues Visa, alleging it has an illegal monopoly over debit network markets and has tried to unlawfully crush competitors, including PayPal and Square &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240924/p34#a240924p34)
  - [OpenAI adds five voices to Advanced Voice Mode, which is now rolling out to ChatGPT Plus and Teams users and, next week, to enterprise and education users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240924/p33#a240924p33)
- - [DOJ sues Visa for locking out rival payment platforms](https://www.theverge.com/2024/9/24/24253280/doj-antitrust-lawsuit-visa-debit-monopoly)
- - [Razer just added its banned Snap Tap feature to all its recent laptops and keyboards](https://www.theverge.com/2024/9/24/24253312/razer-snap-tap-comes-blade-laptops-more-keyboards)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Arlo cameras can now recognize people and vehicles](https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles)<!-- TECH:END -->
+ - [DOJ sues Visa for locking out rival payment platforms](https://www.theverge.com/2024/9/24/24253280/doj-antitrust-lawsuit-visa-debit-monopoly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

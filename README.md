@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 😝 [And suddenly for no reason at all](http://9gag.com/gag/a9yp8VW)
- - 💣 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)<!-- MEMES:END -->
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 😝 [Running away from accident? In bird culture it is called a dick move.](http://9gag.com/gag/a0eK06X)
+ - 👉 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says iPhone launches are an &#39;out-of-body experience&#39;](https://appleinsider.com/articles/24/09/24/tim-cook-says-iphone-launches-are-an-out-of-body-experience?utm_medium=rss)
- - [Swedish prosecutors say Iran was behind 15K text messages sent on August 1, 2023 to sow fear in Sweden, asking recipients to exact revenge after Koran burnings &lpar;Niclas Rolander/Bloomberg&rpar;](http://www.techmeme.com/240924/p10#a240924p10)
- - [Google Photos is getting a redesigned video editor](https://www.theverge.com/2024/9/24/24252944/google-photos-redesigned-video-editor-ai-presets)
- - [How WhatsApp Channels, launched in late 2023, are driving traffic to digital news outlets, especially readers from outside the US, as social media traffic falls &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p9#a240924p9)
- - [What Really Happened While Filming Hodor’s Fateful &#39;Game of Thrones&#39; Scene](https://www.wired.com/story/what-happened-while-filming-hodor-fateful-game-of-thrones-scene/)<!-- TECH:END -->
+ - [On its Chinese website, Huawei says its HarmonyOS now has 10,000 apps and meta-services; the latest HarmonyOS update blocked the ability to install Android apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240924/p12#a240924p12)
+ - [I Tried These Brain-Tracking Headphones That Claim to Improve Focus](https://www.wired.com/story/this-brain-tracking-device-wants-to-help-you-work-smarter/)
+ - [Google’s Gemini AI might soon appear in your corporate Workspace](https://www.theverge.com/2024/9/24/24252934/google-workspace-gemini-ai-security-assistant)
+ - [Pinterest’s new remix feature can jump-start your mood board](https://www.theverge.com/2024/9/24/24252588/pinterest-remix-collages-mood-boards)
+ - [TikTok says it plans to shut down TikTok Music on November 28 and will delete customer data; the app, originally called Resso, first launched in 2019 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240924/p11#a240924p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

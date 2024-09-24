@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 💣 [And suddenly for no reason at all](http://9gag.com/gag/a9yp8VW)
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 👉 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)<!-- MEMES:END -->
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - 💣 [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 👉 [And suddenly for no reason at all](http://9gag.com/gag/a9yp8VW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 😝 [Post](http://9gag.com/gag/aGyjL3z)
  - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 💣 [And suddenly for no reason at all](http://9gag.com/gag/a9yp8VW)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 👉 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)<!-- MEMES:END -->
 
 ---
 

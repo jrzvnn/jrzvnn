@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Cloud debuts Gemini 1.5 Flash and 1.5 Pro with a 2M context window, twice as big as before, &quot;grounding&quot; for better Google search accuracy, and new agents &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240924/p28#a240924p28)
+ - [New Xbox Design Lab translucent Elite controller options are clearly great](https://www.theverge.com/2024/9/24/24253073/translucent-xbox-elite-controller-cipher-series-design-lab)
+ - [Max is getting Google AI-generated closed captions](https://www.theverge.com/2024/9/24/24253107/warner-bros-discovery-caption-ai-google-cloud-closed-captioning)
  - [Logitech goes after Stream Deck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
- - [Marques Brownlee says ‘I hear you’ after fans criticize his new wallpaper app](https://www.theverge.com/2024/9/24/24253023/mkbhd-panels-wallpaper-app-response-criticism)
- - [Sources describe Meta&#39;s efforts to de-emphasize political content across its family of apps, its reduction and reshuffling of election integrity staff, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p27#a240924p27)
- - [Apple withdraws HomePod 18.1 beta 2 after reports of bricking](https://appleinsider.com/articles/24/09/24/apple-withdraws-homepod-181-beta-2-after-reports-of-bricking?utm_medium=rss)
- - [You can finally record videos while playing music on the iPhone](https://www.theverge.com/2024/9/24/24253060/apple-iphone-ios-18-camera)<!-- TECH:END -->
+ - [Marques Brownlee says ‘I hear you’ after fans criticize his new wallpaper app](https://www.theverge.com/2024/9/24/24253023/mkbhd-panels-wallpaper-app-response-criticism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

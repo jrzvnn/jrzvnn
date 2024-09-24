@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 😝 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)
  - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 👉 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)<!-- MEMES:END -->
+ - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
 
 ---
 

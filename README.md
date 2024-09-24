@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Disk Jockey for retro emulation on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-disk-jockey-for-retro-emulation-on-your-mac?utm_medium=rss)
  - [Q&amp;A with Vinod Khosla on investing in AI and OpenAI, AI risks, the impact of AI in the labor market, regulation, dominance within the global AI race, and more &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240923/p35#a240923p35)
  - [A teardown of Huawei&#39;s popular Qingyun L540 laptop, which relies on some foreign tech, reveals the challenges ahead for China&#39;s tech self-sufficiency efforts &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/240923/p34#a240923p34)
  - [Best Google Pixel Deals: Save on Pixel 9, 9 Fold, 8A and Earlier Models](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)
- - [Revolut is spinning out its &amp;euro;8.5B wealth management offering into a standalone app and plans to launch it in European Economic Area countries by the end of 2024 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240923/p32#a240923p32)<!-- TECH:END -->
+ - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

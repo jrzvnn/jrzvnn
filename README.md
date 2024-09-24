@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)
- - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 😝 [F around and find out](http://9gag.com/gag/an7Mn60)
+ - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
  - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
+ - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 ---
 

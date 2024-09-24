@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
- - 😝 [Diddy do it?](http://9gag.com/gag/aGyjGZK)
- - 💣 [HoMM3 Heroes come to life](http://9gag.com/gag/aoyN4Ve)
- - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 👉 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)<!-- MEMES:END -->
+ - 😝 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)
+ - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
+ - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
 
 ---
 

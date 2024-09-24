@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
  - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 💣 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 💣 [Oh, please. That&#39;s not the reason why there&#39;s no bridge. If Europe wanted a bridge there, there would\u2019ve been a bridge. LOL](http://9gag.com/gag/aLnjGBz)
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
 
 ---
 

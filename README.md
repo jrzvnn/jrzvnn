@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech MX Creative Console review: the $200 control surface for apps like Lightroom is an affordable entry point, but pros may find the controls limiting &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240924/p24#a240924p24)
  - [Spotify rolls out its AI Playlist feature in beta to Premium subscribers in the US, Canada, Ireland, and New Zealand, after launching in the UK and Australia &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p23#a240924p23)
  - [Portland-based Torq, which helps IT teams automate security workflows, raised a $70M Series C led by Evolution Equity Partners, for $192M in total funding &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p22#a240924p22)
  - [Best AirPods &lpar;2024&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
- - [Sources: Scale AI nearly quadrupled sales YoY to ~$400M in H1 2024 and had ~$980M in cash; the data labeling startup raised $1B at a $13.8B valuation in May &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240924/p21#a240924p21)
- - [Future Apple Vision Pro could help the injured avoid medication addiction](https://appleinsider.com/articles/24/09/24/future-apple-vision-pro-could-help-the-injured-avoid-medication-addiction?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Scale AI nearly quadrupled sales YoY to ~$400M in H1 2024 and had ~$980M in cash; the data labeling startup raised $1B at a $13.8B valuation in May &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240924/p21#a240924p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

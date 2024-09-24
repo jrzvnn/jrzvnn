@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 💣 [Pan Shot](http://9gag.com/gag/aZZ3nqQ)
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 😝 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 😝 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
+ - 💣 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
+ - 😝 [What the heeeeell](http://9gag.com/gag/ae9MOAv)
+ - 👉 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here are Jony Ive’s $3,000 jackets](https://www.theverge.com/2024/9/24/24253225/jony-ive-lovefrom-moncler-collection-launches)
  - [The US DOJ sues Visa, alleging it has an illegal monopoly over debit network markets and has tried to unlawfully crush competitors, including PayPal and Square &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240924/p34#a240924p34)
  - [OpenAI adds five voices to Advanced Voice Mode, which is now rolling out to ChatGPT Plus and Teams users and, next week, to enterprise and education users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240924/p33#a240924p33)
- - [DOJ sues Visa for locking out rival payment platforms](https://www.theverge.com/2024/9/24/24253280/doj-antitrust-lawsuit-visa-debit-monopoly)<!-- TECH:END -->
+ - [The DOJ sues Visa for locking out rival payment platforms](https://www.theverge.com/2024/9/24/24253280/doj-antitrust-lawsuit-visa-debit-monopoly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

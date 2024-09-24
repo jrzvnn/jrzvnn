@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
  - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 💣 [F around and find out](http://9gag.com/gag/an7Mn60)
  - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 👉 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)<!-- MEMES:END -->
+ - 👉 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)<!-- MEMES:END -->
 
 ---
 

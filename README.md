@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggos are the best! Change my mind.](http://9gag.com/gag/abAMWWE)
- - 😝 [Nice German stereotypes](http://9gag.com/gag/a4P76yp)
- - 💣 [Me every evening](http://9gag.com/gag/a0eK6dv)
- - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 👉 [HoMM3 Heroes come to life](http://9gag.com/gag/aoyN4Ve)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 ---
 

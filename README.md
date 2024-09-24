@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
- - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
- - 💣 [That was an overkill.](http://9gag.com/gag/aO8r833)
+ - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
  - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 👉 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)<!-- MEMES:END -->
+ - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 ---
 

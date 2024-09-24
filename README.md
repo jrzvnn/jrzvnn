@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation State of Play September 2024: all the biggest news and announcements](https://www.theverge.com/24253137/playstation-ps5-state-of-play-september-2024)
  - [Salesforce agrees to buy Zoomin, an Israeli data management company that makes unstructured data accessible to AI agents, in an acquisition valued at $450M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240924/p42#a240924p42)
  - [SAG-AFTRA calls a strike against League of Legends, formerly strike exempt, filing an NLRB complaint and saying Formosa Interactive also refuses &quot;fair AI terms&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p41#a240924p41)
  - [Hollywood is coming out in force for California’s AI safety bill](https://www.theverge.com/2024/9/24/24253439/california-sb-1047-newsom-hollywood-sag-aftra-ai-safety)
- - [Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240924/p40#a240924p40)
- - [Stability AI says filmmaker James Cameron has joined its board of directors &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p39#a240924p39)<!-- TECH:END -->
+ - [Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240924/p40#a240924p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

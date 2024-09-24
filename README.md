@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 💣 [F around and find out](http://9gag.com/gag/an7Mn60)
+ - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 👉 [That was an overkill.](http://9gag.com/gag/aO8r833)<!-- MEMES:END -->
 
 ---
 

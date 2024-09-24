@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was an overkill.](http://9gag.com/gag/aO8r833)
- - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 😝 [F around and find out](http://9gag.com/gag/an7Mn60)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - 😝 [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
+ - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
+ - 💣 [That was an overkill.](http://9gag.com/gag/aO8r833)
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 👉 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)<!-- MEMES:END -->
 
 ---
 

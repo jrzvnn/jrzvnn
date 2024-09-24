@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike SVP Adam Meyers apologizes before Congress over the company&#39;s faulty update that caused a global IT outage, to largely sympathetic House lawmakers &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240924/p45#a240924p45)
  - [Sony’s pearlescent new PS5 colors will jazz up your gaming station](https://www.theverge.com/2024/9/24/24253623/sony-pearlescent-chroma-playstation-5-slim-colors)
  - [Sources: Wiz is in discussions to sell existing shares at a valuation between $15B and $20B, after abandoning a deal in July to be acquired by Google for $23B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p44#a240924p44)
  - [PS5 Pro will enhance Stellar Blade, Jedi: Survivor, Metal Gear, and Resident Evil](https://www.theverge.com/2024/9/24/24253518/ps5-pro-sony-playstation-state-of-play-september-2024)
- - [Ghost of Yotei is the next entry in Sucker Punch’s Ghosts series](https://www.theverge.com/2024/9/24/24253576/ghost-of-tsushima-2-yotei-ps5-pro-2025)
- - [Horizon Zero Dawn is getting a remaster for PlayStation 5 and PC](https://www.theverge.com/2024/9/24/24253184/horizon-zero-dawn-remaster-ps5-pro-trailer)<!-- TECH:END -->
+ - [Ghost of Yotei is the next entry in Sucker Punch’s Ghosts series](https://www.theverge.com/2024/9/24/24253576/ghost-of-tsushima-2-yotei-ps5-pro-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Goldman Sachs&#39; head of stock research Jim Covello, who has become Wall Street&#39;s leading AI skeptic after joining the bank in 2000 as a tech analyst &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240924/p7#a240924p7)
- - [Raspberry Pi reports H1 2024 revenue up 61% YoY to $144M, gross profit up 47% YoY to $34.2M, and unit volume up 31% YoY to 3.66M; RPI jumps 5%+ pre-market &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240924/p6#a240924p6)
- - [Nike&#39;s Next CEO Has One Hell of a Challenge Ahead](https://www.wired.com/story/nikes-next-ceo-has-one-hell-of-a-challenge-ahead/)
- - [Logitech has created a Stream Deck for Photoshop and Premiere Pro](https://www.theverge.com/2024/9/24/24252933/logitech-mx-creative-console-release-date-pricing)
- - [How to See Heart Rate Zones on Your Apple Watch on Any Workout](https://www.cnet.com/tech/mobile/how-to-see-heart-rate-on-apple-watch-fitness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How WhatsApp Channels, launched in late 2023, are driving traffic to digital news outlets, especially readers from outside the US, as social media traffic falls &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p9#a240924p9)
+ - [What Really Happened While Filming Hodor’s Fateful &#39;Game of Thrones&#39; Scene](https://www.wired.com/story/what-happened-while-filming-hodor-fateful-game-of-thrones-scene/)
+ - [Cellular Apple Watch buyers call out Verizon&#39;s maddening activation block](https://appleinsider.com/articles/24/09/24/cellular-apple-watch-buyers-call-out-verizons-maddening-activation-block?utm_medium=rss)
+ - [Access Now and 24+ others wrote to Pavel Durov in late 2021 asking Telegram to add transparent content rules, an appeals process, and more; Durov didn&#39;t respond &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240924/p8#a240924p8)
+ - [A profile of Goldman Sachs&#39; head of stock research Jim Covello, who has become Wall Street&#39;s leading AI skeptic after joining the bank in 2000 as a tech analyst &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240924/p7#a240924p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

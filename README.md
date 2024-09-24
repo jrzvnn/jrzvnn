@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 😝 [This didn&#39;t age well](http://9gag.com/gag/aPAjP0B)
- - 💣 [Person](http://9gag.com/gag/aXPxn59)
- - 😝 [I wish I could use this video as wallpaper &lpar;if there&#39;s a way please tell me&rpar;](http://9gag.com/gag/a5Qowry)
- - 👉 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)<!-- MEMES:END -->
+ - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 😝 [Sure, why not](http://9gag.com/gag/apR234M)
+ - 💣 [It ain&#39;t much](http://9gag.com/gag/aZZ314X)
+ - 😝 [Maam, i\u2019m eligible](http://9gag.com/gag/agmXOmw)
+ - 👉 [Drivers rights](http://9gag.com/gag/adBKObN)<!-- MEMES:END -->
 
 ---
 

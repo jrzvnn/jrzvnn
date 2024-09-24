@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 😝 [And suddenly for no reason at all](http://9gag.com/gag/a9yp8VW)
+ - 💣 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
  - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 👉 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)<!-- MEMES:END -->
+ - 👉 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to use Disk Jockey for retro emulation on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-disk-jockey-for-retro-emulation-on-your-mac?utm_medium=rss)
- - [Q&amp;A with Vinod Khosla on investing in AI and OpenAI, AI risks, the impact of AI in the labor market, regulation, dominance within the global AI race, and more &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240923/p35#a240923p35)
- - [A teardown of Huawei&#39;s popular Qingyun L540 laptop, which relies on some foreign tech, reveals the challenges ahead for China&#39;s tech self-sufficiency efforts &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/240923/p34#a240923p34)
- - [Best Google Pixel Deals: Save on Pixel 9, 9 Fold, 8A and Earlier Models](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 24, #471](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-24-471/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 24, #1193](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-24-1193/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 24, #205](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-24-205/#ftag=CAD590a51e)
+ - [Q&amp;A with Vinod Khosla on investing in AI and OpenAI, AI risks, the impact of AI in the labor market, regulation, dominance within the global AI race, and more &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240923/p35#a240923p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mark Zuckerberg wants to get away from politics, pulling back from charitable causes that may seem partisan, tamping down employee activism, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p29#a240924p29)
- - [The AirPods 4 are on sale for the first time](https://www.theverge.com/2024/9/24/24249916/apple-airpods-4-with-active-noise-cancellation-super-mario-bros-wonder-deal-sale)
- - [Google Cloud debuts Gemini 1.5 Flash and 1.5 Pro with a 2M context window, twice as big as before, &quot;grounding&quot; for better Google search accuracy, and new agents &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240924/p28#a240924p28)
- - [New Xbox Design Lab translucent Elite controller options are clearly great](https://www.theverge.com/2024/9/24/24253073/translucent-xbox-elite-controller-cipher-series-design-lab)
- - [Max is getting Google AI-generated closed captions](https://www.theverge.com/2024/9/24/24253107/warner-bros-discovery-caption-ai-google-cloud-closed-captioning)<!-- TECH:END -->
+ - [Marques Brownlee says &quot;I hear you&quot; after criticism of his new freemium wallpaper app Panels, which asks for many permissions and costs $50/year for full access &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240924/p30#a240924p30)
+ - [Teens Say John McEntee, Trump’s Former Personal Aide and Project 2025 Higher-Up, Made Them Uncomfortable in Chats](https://www.wired.com/story/teens-john-mcentee-trump-aide-project-2025-chats/)
+ - [Don’t ever hand your phone to the cops](https://www.theverge.com/2024/9/24/24252235/police-unlock-phone-password-face-id-apple-wallet-id)
+ - [iPhone 16 vs iPhone 16 Pro compared -- Going Pro in 2024](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-16-pro-compared----going-pro-in-2024?utm_medium=rss)
+ - [Sony’s new OLED gaming monitor is one of the fastest you can buy](https://www.theverge.com/2024/9/24/24253167/sony-inzone-gaming-monitor-m10s-480hz-oled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

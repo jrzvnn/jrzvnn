@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
- - 😝 [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
- - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 😝 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
+ - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 💣 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
  - 👉 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)<!-- MEMES:END -->
 
 ---

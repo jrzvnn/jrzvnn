@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nike&#39;s Next CEO Has One Hell of a Challenge Ahead](https://www.wired.com/story/nikes-next-ceo-has-one-hell-of-a-challenge-ahead/)
  - [Logitech has created a Stream Deck for Photoshop and Premiere Pro](https://www.theverge.com/2024/9/24/24252933/logitech-mx-creative-console-release-date-pricing)
  - [Generative AI Hype Feels Inescapable. Tackle It Head On With Education](https://www.wired.com/story/artificial-intelligence-hype-ai-snake-oil/)
  - [The US, Meta, Anthropic, Google, IBM, Microsoft, Nvidia, and OpenAI launch the Partnership for Global Inclusivity on AI to advance &quot;sustainable&quot; AI development &lpar;US Department of State&rpar;](http://www.techmeme.com/240924/p5#a240924p5)
- - [A profile of Li-Chen Miller, Meta VP of product for wearables and a former Microsoft CVP; IDC says Meta has shipped 700K+ Ray-Ban units after the 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p4#a240924p4)
- - [An interview with The Browser Company CEO Josh Miller on Arc Search being an operating system, competing with Chrome and Safari, monetization, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240924/p3#a240924p3)<!-- TECH:END -->
+ - [A profile of Li-Chen Miller, Meta VP of product for wearables and a former Microsoft CVP; IDC says Meta has shipped 700K+ Ray-Ban units after the 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p4#a240924p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

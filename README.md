@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally record videos while playing music on the iPhone](https://www.theverge.com/2024/9/24/24253060/apple-iphone-ios-18-camera)
- - [In a controversial move, Israel&#39;s ISA clears AI startup Bridgewise to launch a chatbot that gives stock picking advice, slated to debut with a big Israeli bank &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240924/p26#a240924p26)
- - [The Best Radios We Tested &lpar;2024&rpar;: Portable, Bluetooth, for Emergencies](https://www.wired.com/gallery/best-radios/)
- - [Best Noise-Canceling Headphones for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Best Internet Providers in Concord, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-concord-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech goes after Stream Deck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
+ - [Marques Brownlee says ‘I hear you’ after fans criticize his new wallpaper app](https://www.theverge.com/2024/9/24/24253023/mkbhd-panels-wallpaper-app-response-criticism)
+ - [Sources describe Meta&#39;s efforts to de-emphasize political content across its family of apps, its reduction and reshuffling of election integrity staff, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p27#a240924p27)
+ - [Apple withdraws HomePod 18.1 beta 2 after reports of bricking](https://appleinsider.com/articles/24/09/24/apple-withdraws-homepod-181-beta-2-after-reports-of-bricking?utm_medium=rss)
+ - [You can finally record videos while playing music on the iPhone](https://www.theverge.com/2024/9/24/24253060/apple-iphone-ios-18-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

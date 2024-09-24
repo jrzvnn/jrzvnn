@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)
- - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
- - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
  - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
+ - 👉 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)<!-- MEMES:END -->
 
 ---
 

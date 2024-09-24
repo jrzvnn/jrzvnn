@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Russia-Backed Media Outlets Are Under Fire in the US—but Still Trusted Worldwide](https://www.wired.com/story/russia-backed-media-outlets-are-under-fire-in-the-us-but-still-trusted-worldwide/)
  - [WP Engine sends a &quot;cease and desist&quot; letter to Automattic to &quot;retract false, harmful, and disparaging statements&quot;, after Matt Mullenweg called it a &quot;cancer&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240924/p13#a240924p13)
  - [On its Chinese website, Huawei says its HarmonyOS now has 10,000 apps and meta-services; the latest HarmonyOS update blocked the ability to install Android apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240924/p12#a240924p12)
- - [I Tried These Brain-Tracking Headphones That Claim to Improve Focus](https://www.wired.com/story/this-brain-tracking-device-wants-to-help-you-work-smarter/)<!-- TECH:END -->
+ - [Logitech MX Creative Console Review: Useful Control Inputs, If You Put The Work In](https://www.cnet.com/tech/computing/logitech-mx-creative-console-review-useful-control-inputs-if-you-put-the-work-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

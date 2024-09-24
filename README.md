@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice German stereotypes](http://9gag.com/gag/a4P76yp)
- - 😝 [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
- - 💣 [Me every evening](http://9gag.com/gag/a0eK6dv)
- - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 👉 [HoMM3 Heroes come to life](http://9gag.com/gag/aoyN4Ve)<!-- MEMES:END -->
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 💣 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 👉 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)<!-- MEMES:END -->
 
 ---
 

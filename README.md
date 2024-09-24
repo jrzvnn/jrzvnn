@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 vs iPhone 16 Pro compared -- Going Pro in 2024](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-16-pro-compared----going-pro-in-2024?utm_medium=rss)
+ - [Brompton improves on a good thing with the G Line of bicycles](https://www.theverge.com/2024/9/24/24252957/brompton-g-e-bike-redesign-20-inch-specs-price)
  - [Snap says it will use Google&#39;s Gemini to help add new features to its chatbot, including translating menus, after starting to use Gemini earlier in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240924/p15#a240924p15)
  - [Google plans to include the standalone Gemini app as standard on Workspace Business, Enterprise, and Frontline plans from Q4, replacing the Gemini add-on &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p14#a240924p14)
- - [Russia-Backed Media Outlets Are Under Fire in the US—but Still Trusted Worldwide](https://www.wired.com/story/russia-backed-media-outlets-are-under-fire-in-the-us-but-still-trusted-worldwide/)
- - [WP Engine sends a &quot;cease and desist&quot; letter to Automattic to &quot;retract false, harmful, and disparaging statements&quot;, after Matt Mullenweg called it a &quot;cancer&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240924/p13#a240924p13)
- - [On its Chinese website, Huawei says its HarmonyOS now has 10,000 apps and meta-services; the latest HarmonyOS update blocked the ability to install Android apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240924/p12#a240924p12)<!-- TECH:END -->
+ - [Russia-Backed Media Outlets Are Under Fire in the US—but Still Trusted Worldwide](https://www.wired.com/story/russia-backed-media-outlets-are-under-fire-in-the-us-but-still-trusted-worldwide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)
  - [How to use Disk Jockey for retro emulation on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-disk-jockey-for-retro-emulation-on-your-mac?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 24, #471](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-24-471/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Sept. 24, #1193](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-24-1193/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 24, #205](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-24-205/#ftag=CAD590a51e)
- - [Q&amp;A with Vinod Khosla on investing in AI and OpenAI, AI risks, the impact of AI in the labor market, regulation, dominance within the global AI race, and more &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240923/p35#a240923p35)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 24, #205](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-24-205/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

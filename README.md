@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s AI playlist builder is now available in the US](https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada)
- - [Bose’s new QuietComfort Earbuds offer top-tier ANC for under $200](https://www.theverge.com/24252852/bose-quietcomfort-earbuds-2024-hands-on)
- - [The new Roku Ultra is faster, has better Wi-Fi, and comes with a backlit remote](https://www.theverge.com/2024/9/24/24252484/roku-ultra-2024-features-specs-price)
- - [Ecovacs’ budget robovacs include premium features like mophead cleaning and drying](https://www.theverge.com/2024/9/24/24252318/ecovacs-robot-vacuum-deebot-n30-omni-n20-pro-plus)
- - [Nothing’s first open-ear headphones keep you aware of your surroundings](https://www.theverge.com/2024/9/24/24252192/nothing-ear-open-wireless-earbuds-headphones-available)<!-- TECH:END -->
+ - [Sources: Scale AI nearly quadrupled sales YoY to ~$400M in H1 2024 and had ~$980M in cash; the data labeling startup raised $1B at a $13.8B valuation in May &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240924/p21#a240924p21)
+ - [Future Apple Vision Pro could help the injured avoid medication addiction](https://appleinsider.com/articles/24/09/24/future-apple-vision-pro-could-help-the-injured-avoid-medication-addiction?utm_medium=rss)
+ - [Collaboration software maker Smartsheet agrees to be acquired by Blackstone and Vista Equity Partners for $8.4B in cash, or $56.50/share, closing in early 2025 &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240924/p20#a240924p20)
+ - [Roku unveils the $100 Roku Ultra, which is 30% faster than its other streaming players and has Wi-Fi 6, HDMI 2.1, Dolby Atmos, the Voice Remote Pro, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240924/p19#a240924p19)
+ - [They think they’re building God](https://www.theverge.com/2024/9/24/24252723/openai-o1-ai-god-tiktok-google-adtech-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX Insider Caroline Ellison Sentenced to Two Years in Prison](https://www.wired.com/story/caroline-ellison-ftx-sentencing/)
  - [SAG-AFTRA calls for a strike against League of Legends](https://www.theverge.com/2024/9/24/24253387/sag-aftra-strike-league-of-legends-formosa-interactive-riot-games)
- - [5 Proven Sleep Hacks to Stop Night Anxiety in Its Tracks](https://www.cnet.com/health/sleep/5-proven-sleep-hacks-to-stop-anixety/#ftag=CAD590a51e)
  - [Caroline Ellison, a star witness in the prosecution of FTX founder and former boyfriend SBF, is sentenced to two years in prison for her role in the FTX scandal &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240924/p38#a240924p38)
  - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)
- - [Kaspersky Antivirus Software Automatically Transitions to UltraAV for US Subscribers](https://www.cnet.com/tech/services-and-software/kaspersky-antivirus-software-automatically-transitions-to-ultraav-for-us-subscribers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wear OS 5 and the Recorder app are rolling out to older Pixel Watches](https://www.theverge.com/2024/9/24/24253258/pixel-watch-wear-os-5-smartwatch-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

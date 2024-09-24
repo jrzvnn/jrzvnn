@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 😝 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
- - 💣 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 👉 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)<!-- MEMES:END -->
+ - 😝 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)
+ - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 

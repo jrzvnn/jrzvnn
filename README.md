@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 😝 [Left winger take down](http://9gag.com/gag/aD2x2NO)
- - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
  - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
+ - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 😝 [Post](http://9gag.com/gag/aGyjL3z)
+ - 👉 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WP Engine sends a &quot;cease and desist&quot; letter to Automattic to &quot;retract false, harmful, and disparaging statements&quot;, after Matt Mullenweg called it a &quot;cancer&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240924/p13#a240924p13)
  - [On its Chinese website, Huawei says its HarmonyOS now has 10,000 apps and meta-services; the latest HarmonyOS update blocked the ability to install Android apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240924/p12#a240924p12)
  - [I Tried These Brain-Tracking Headphones That Claim to Improve Focus](https://www.wired.com/story/this-brain-tracking-device-wants-to-help-you-work-smarter/)
  - [Google’s Gemini AI might soon appear in your corporate Workspace](https://www.theverge.com/2024/9/24/24252934/google-workspace-gemini-ai-security-assistant)
- - [Pinterest’s new remix feature can jump-start your mood board](https://www.theverge.com/2024/9/24/24252588/pinterest-remix-collages-mood-boards)
- - [TikTok says it plans to shut down TikTok Music on November 28 and will delete customer data; the app, originally called Resso, first launched in 2019 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240924/p11#a240924p11)<!-- TECH:END -->
+ - [Pinterest’s new remix feature can jump-start your mood board](https://www.theverge.com/2024/9/24/24252588/pinterest-remix-collages-mood-boards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The New York Times will now charge for past episodes of its popular podcasts](https://www.theverge.com/2024/9/24/24253376/nyt-podcast-paywall-spotify-apple)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Flu Vaccines Are Available: When Should You Get Yours?](https://www.cnet.com/health/medical/flu-vaccines-are-available-when-should-you-get-yours/#ftag=CAD590a51e)
  - [The 52 Best Shows on Disney+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [Microsoft debuts Correction in preview as part of the Azure AI Content Safety API; the service tries to find and revise AI-generated text that&#39;s factually wrong &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p35#a240924p35)<!-- TECH:END -->
+ - [Microsoft debuts Correction in preview as part of the Azure AI Content Safety API; the service tries to find and revise AI-generated text that&#39;s factually wrong &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p35#a240924p35)
+ - [This DIY kit gives you the Switch Lite OLED that Nintendo hasn’t](https://www.theverge.com/2024/9/24/24253224/nintendo-switch-lite-oled-upgrade-kit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

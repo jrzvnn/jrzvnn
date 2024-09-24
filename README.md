@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The world&#39;s second largest money transfer company, MoneyGram, blames an unspecified &quot;cybersecurity issue&quot; for an ongoing days-long outage affecting its users &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240924/p37#a240924p37)
- - [Nintendo Japan plans to stop repairing its Classic Edition consoles](https://www.theverge.com/2024/9/24/24253332/nintendo-japan-super-famicom-mini-family-computer-classic-edition-console-repair)
- - [Ujet, which uses AI to help businesses with customer support, raised $76M led by Sapphire Ventures, valuing the company at $500M, and promotes its COO to co-CEO &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240924/p36#a240924p36)
- - [The New York Times will now charge for past episodes of its popular podcasts](https://www.theverge.com/2024/9/24/24253376/nyt-podcast-paywall-spotify-apple)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
+ - [Caroline Ellison, a star witness in the prosecution of FTX founder and former boyfriend SBF, is sentenced to two years in prison for her role in the FTX scandal &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240924/p38#a240924p38)
+ - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)
+ - [Wear OS 5 and the Recorder app are rolling out to older Pixel Watches](https://www.theverge.com/2024/9/24/24253258/pixel-watch-wear-os-5-smartwatch-wearables)
+ - [James Cameron is joining Stability AI’s board of directors](https://www.theverge.com/2024/9/24/24253272/james-cameron-stability-ai)
+ - [The world&#39;s second largest money transfer company, MoneyGram, blames an unspecified &quot;cybersecurity issue&quot; for an ongoing days-long outage affecting its users &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240924/p37#a240924p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ghost of Yotei is the next entry in Sucker Punch’s Ghosts series](https://www.theverge.com/2024/9/24/24253576/ghost-of-tsushima-2-yotei-ps5-pro-2025)
  - [Horizon Zero Dawn is getting a remaster for PlayStation 5 and PC](https://www.theverge.com/2024/9/24/24253184/horizon-zero-dawn-remaster-ps5-pro-trailer)
  - [Legacy of Kain: Soul Reaver 1 and 2 are getting a remaster](https://www.theverge.com/2024/9/24/24253265/legacy-of-kain-soul-reaver-1-and-2-remastered-ps5-state-of-play-aspyr-media)
- - [Google Is ‘Thinking Through’ How to Make the Pixel Watch Repairable](https://www.wired.com/story/google-is-thinking-through-the-pixel-watchs-design-to-be-repairable/)<!-- TECH:END -->
+ - [Best Cheap Vacuums for 2024](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

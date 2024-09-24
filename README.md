@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horizon Zero Dawn is getting a remaster for PlayStation 5 and PC](https://www.theverge.com/2024/9/24/24253184/horizon-zero-dawn-remaster-ps5-pro-trailer)
  - [Legacy of Kain: Soul Reaver 1 and 2 are getting a remaster](https://www.theverge.com/2024/9/24/24253265/legacy-of-kain-soul-reaver-1-and-2-remastered-ps5-state-of-play-aspyr-media)
  - [Google Is ‘Thinking Through’ How to Make the Pixel Watch Repairable](https://www.wired.com/story/google-is-thinking-through-the-pixel-watchs-design-to-be-repairable/)
  - [Microsoft claims its AI safety tool not only finds errors but also fixes them](https://www.theverge.com/2024/9/24/24253452/microsoft-correction-ai-safety-tool-fix-errors)
- - [Google updates its Street View imagery in nearly 80 countries, brings Street View to new locations, and sharpens satellite imagery across Google Earth and Maps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240924/p43#a240924p43)
- - [PlayStation State of Play September 2024: all the biggest news and announcements](https://www.theverge.com/24253137/playstation-ps5-state-of-play-september-2024)<!-- TECH:END -->
+ - [Google updates its Street View imagery in nearly 80 countries, brings Street View to new locations, and sharpens satellite imagery across Google Earth and Maps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240924/p43#a240924p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

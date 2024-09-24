@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 💣 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 😝 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [Post](http://9gag.com/gag/aGyjL3z)
+ - 💣 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 

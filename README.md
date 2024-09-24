@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA calls a strike against League of Legends, formerly strike exempt, filing an NLRB complaint and saying Formosa Interactive also refuses &quot;fair AI terms&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p41#a240924p41)
+ - [Hollywood is coming out in force for California’s AI safety bill](https://www.theverge.com/2024/9/24/24253439/california-sb-1047-newsom-hollywood-sag-aftra-ai-safety)
  - [Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240924/p40#a240924p40)
  - [Stability AI says filmmaker James Cameron has joined its board of directors &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p39#a240924p39)
- - [How Google made the ad tech industry revolve around itself](https://www.theverge.com/2024/9/24/24253293/google-ad-tech-antitrust-trial-doj-case)
- - [FTX Insider Caroline Ellison Sentenced to Two Years in Prison](https://www.wired.com/story/caroline-ellison-ftx-sentencing/)
- - [SAG-AFTRA calls for a strike against League of Legends](https://www.theverge.com/2024/9/24/24253387/sag-aftra-strike-league-of-legends-formosa-interactive-riot-games)<!-- TECH:END -->
+ - [How Google made the ad tech industry revolve around itself](https://www.theverge.com/2024/9/24/24253293/google-ad-tech-antitrust-trial-doj-case)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

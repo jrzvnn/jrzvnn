@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Figma’s AI-powered app generator is back after it was pulled for copying Apple](https://www.theverge.com/2024/9/24/24253252/figma-ai-make-designs-first-draft-app-ui-generator)
- - [This Game Boy Color themed electric motorcycle even has cheat codes](https://www.theverge.com/2024/9/24/24252985/dab-motors-electric-motorcycle-1a-nintendo-game-boy-color)
- - [7.5 FT Inflatable Pumpkins &amp; Cat](https://www.cnet.com/news/7-5-ft-inflatable-pumpkins-dpnl/#ftag=CAD590a51e)
- - [Meta says it will not sign the EU&#39;s voluntary AI safety pledge that&#39;s planned as a stopgap before the EU&#39;s AI Act takes full effect in 2027, but may join later &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/240924/p32#a240924p32)<!-- TECH:END -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Arlo cameras can now recognize people and vehicles](https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles)
+ - [Can-Am Pulse Electric Motorcycle: Specs, Price, Availability](https://www.wired.com/story/first-ride-can-am-pulse-electric-motorcycle/)
+ - [How to watch the September PlayStation State of Play livestream](https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games)
+ - [Samsung is taking preorders for an unannounced phone](https://www.theverge.com/2024/9/24/24253223/samsung-galaxy-s24-fe-pre-order-live-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

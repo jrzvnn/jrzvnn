@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ujet, which uses AI to help businesses with customer support, raised $76M led by Sapphire Ventures, valuing the company at $500M, and promotes its COO to co-CEO &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240924/p36#a240924p36)
  - [The New York Times will now charge for past episodes of its popular podcasts](https://www.theverge.com/2024/9/24/24253376/nyt-podcast-paywall-spotify-apple)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [The 52 Best Shows on Disney+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [Microsoft debuts Correction in preview as part of the Azure AI Content Safety API; the service tries to find and revise AI-generated text that&#39;s factually wrong &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p35#a240924p35)
- - [This DIY kit gives you the Switch Lite OLED that Nintendo hasn’t](https://www.theverge.com/2024/9/24/24253224/nintendo-switch-lite-oled-upgrade-kit)<!-- TECH:END -->
+ - [Flu Vaccines Are Available: When Should You Get Yours?](https://www.cnet.com/health/medical/flu-vaccines-are-available-when-should-you-get-yours/#ftag=CAD590a51e)
+ - [The 52 Best Shows on Disney+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

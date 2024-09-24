@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Li-Chen Miller, Meta VP of product for wearables and a former Microsoft CVP; IDC says Meta has shipped 700K+ Ray-Ban units after the 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p4#a240924p4)
  - [An interview with The Browser Company CEO Josh Miller on Arc Search being an operating system, competing with Chrome and Safari, monetization, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240924/p3#a240924p3)
- - [Myntra founder Mukesh Bansal&#39;s Nurix AI, which builds custom AI agents for enterprise services, raises a $27.5M seed from Accel, General Catalyst, and others &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240924/p2#a240924p2)
- - [Dyson Promo Code: Up to $200 Off Vacuums &lpar;September 2024&rpar;](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)
- - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Whip Up a Poached Egg in Just 60 Seconds](https://www.cnet.com/home/kitchen-and-household/how-to-whip-up-a-poached-egg-in-just-60-seconds/#ftag=CAD590a51e)
+ - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Myntra founder Mukesh Bansal&#39;s Nurix AI, which builds custom AI agents for enterprise services, raises a $27.5M seed from Accel, General Catalyst, and others &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240924/p2#a240924p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

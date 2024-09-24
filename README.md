@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 😝 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
  - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 😝 [Mistakes were made](http://9gag.com/gag/aRB3v2B)
  - 👉 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)<!-- MEMES:END -->
 
 ---

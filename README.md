@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 💣 [F around and find out](http://9gag.com/gag/an7Mn60)
- - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 👉 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)<!-- MEMES:END -->
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 💣 [Pan Shot](http://9gag.com/gag/aZZ3nqQ)
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 

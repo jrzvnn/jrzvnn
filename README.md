@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.1 developer beta 5: New Control Center toggles, options, and more](https://appleinsider.com/articles/24/09/23/ios-181-developer-beta-5-new-control-center-toggles-options-and-more?utm_medium=rss)
- - [An official OpenAI X account was taken over to peddle a crypto scam](https://www.theverge.com/2024/9/23/24252664/openai-x-account-crypto-scam-newsroom)
- - [California Governor Gavin Newsom signs the Phone-Free Schools Act, which will require schools to restrict cellphone use during school hours by July 1, 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/240923/p28#a240923p28)
- - [Best Internet Providers in Redding, California](https://www.cnet.com/home/internet/best-internet-providers-in-redding-ca/#ftag=CAD590a51e)
- - [Harmonic, a startup co-founded by Robinhood CEO Vlad Tenev that aims to build AI better at math than humans, raised a $75M Series A at a $325M valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240923/p27#a240923p27)<!-- TECH:END -->
+ - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)
+ - [Revolut is spinning out its &amp;euro;8.5B wealth management offering into a standalone app and plans to launch it in European Economic Area countries by the end of 2024 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240923/p32#a240923p32)
+ - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)
+ - [TikTok permanently removes accounts associated with the parent organizations of Russian state media outlets RT and Sputnik, citing &quot;covert influence operations&quot; &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240923/p31#a240923p31)
+ - [US intelligence officials say Russia, Iran, and China are using AI tools to boost US election influence efforts, with Russia&#39;s efforts being the most aggressive &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240923/p30#a240923p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

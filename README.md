@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times will now charge for past episodes of its popular podcasts](https://www.theverge.com/2024/9/24/24253376/nyt-podcast-paywall-spotify-apple)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [The 52 Best Shows on Disney+ Right Now &lpar;September 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [Microsoft debuts Correction in preview as part of the Azure AI Content Safety API; the service tries to find and revise AI-generated text that&#39;s factually wrong &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p35#a240924p35)
- - [This DIY kit gives you the Switch Lite OLED that Nintendo hasn’t](https://www.theverge.com/2024/9/24/24253224/nintendo-switch-lite-oled-upgrade-kit)
- - [Here are Jony Ive’s $3,000 jackets](https://www.theverge.com/2024/9/24/24253225/jony-ive-lovefrom-moncler-collection-launches)
- - [The US DOJ sues Visa, alleging it has an illegal monopoly over debit network markets and has tried to unlawfully crush competitors, including PayPal and Square &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240924/p34#a240924p34)<!-- TECH:END -->
+ - [This DIY kit gives you the Switch Lite OLED that Nintendo hasn’t](https://www.theverge.com/2024/9/24/24253224/nintendo-switch-lite-oled-upgrade-kit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

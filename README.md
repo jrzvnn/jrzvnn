@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - 😝 [Dammmmnnn](http://9gag.com/gag/a1mo5oD)
- - 💣 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
  - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 👉 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)<!-- MEMES:END -->
+ - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
 
 ---
 

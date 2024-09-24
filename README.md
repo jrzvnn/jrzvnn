@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)
- - 😝 [F around and find out](http://9gag.com/gag/an7Mn60)
- - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - 😝 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 💣 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 👉 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google made the ad tech industry revolve around itself](https://www.theverge.com/2024/9/24/24253293/google-ad-tech-antitrust-trial-doj-case)
  - [FTX Insider Caroline Ellison Sentenced to Two Years in Prison](https://www.wired.com/story/caroline-ellison-ftx-sentencing/)
  - [SAG-AFTRA calls for a strike against League of Legends](https://www.theverge.com/2024/9/24/24253387/sag-aftra-strike-league-of-legends-formosa-interactive-riot-games)
  - [Caroline Ellison, a star witness in the prosecution of FTX founder and former boyfriend SBF, is sentenced to two years in prison for her role in the FTX scandal &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240924/p38#a240924p38)
- - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)
- - [Wear OS 5 and the Recorder app are rolling out to older Pixel Watches](https://www.theverge.com/2024/9/24/24253258/pixel-watch-wear-os-5-smartwatch-wearables)<!-- TECH:END -->
+ - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

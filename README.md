@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
- - [Google is about to update Street View images across dozens of countries](https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images)
- - [An AI-powered copyright tool is taking down AI-generated Mario pictures](https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection)
- - [Mozilla’s brand update gives its old T-Rex logo a fresh new look](https://www.theverge.com/2024/9/24/24253028/mozilla-brand-update-tyrannosaurus-rex-logo)
- - [SteelSeries’ new Apex Pro Gen 3 has upgraded switches and a thockier sound](https://www.theverge.com/2024/9/24/24252951/steelseries-apex-pro-gen-3-keyboards-hall-effect)<!-- TECH:END -->
+ - [Logitech goes after Streamdeck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
+ - [Sources: some key staff working on Microsoft&#39;s distilled AI models like Phi, trained on synthetic data, have left the Microsoft AI unit led by Mustafa Suleyman &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240924/p25#a240924p25)
+ - [Kia EVs will get Tesla Supercharger access starting January 15th](https://www.theverge.com/2024/9/24/24252996/kia-nacs-supercharger-adapter-access-date-information)
+ - [Insta360’s new Link webcams are cheaper but can still follow you around](https://www.theverge.com/2024/9/24/24253008/insta360-webcam-link-2-2c)
+ - [Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

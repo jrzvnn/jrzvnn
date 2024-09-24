@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
- - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 💣 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
  - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 👉 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)<!-- MEMES:END -->
+ - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 😝 [Post](http://9gag.com/gag/aGyjL3z)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 

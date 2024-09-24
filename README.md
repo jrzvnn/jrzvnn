@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 💣 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)<!-- MEMES:END -->
+ - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 👉 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)<!-- MEMES:END -->
 
 ---
 

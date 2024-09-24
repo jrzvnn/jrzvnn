@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Myntra founder Mukesh Bansal&#39;s Nurix AI, which builds custom AI agents for enterprise services, raises a $27.5M seed from Accel, General Catalyst, and others &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240924/p2#a240924p2)
+ - [Dyson Promo Code: Up to $200 Off Vacuums &lpar;September 2024&rpar;](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)
  - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)
- - [Duolingo Brings Adventure and AI to Your Language Learning Journey](https://www.cnet.com/tech/services-and-software/duolingo-brings-adventure-and-ai-to-your-language-learning-journey/#ftag=CAD590a51e)
- - [How to use Disk Jockey for retro emulation on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-disk-jockey-for-retro-emulation-on-your-mac?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 24, #471](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-24-471/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Duolingo Brings Adventure and AI to Your Language Learning Journey](https://www.cnet.com/tech/services-and-software/duolingo-brings-adventure-and-ai-to-your-language-learning-journey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

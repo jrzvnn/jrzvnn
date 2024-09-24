@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical adds thousands of booklets to album listings](https://appleinsider.com/articles/24/09/24/apple-music-classical-adds-thousands-of-booklets-to-album-listings?utm_medium=rss)
- - [Netgear rolls out three pricey new Wi-Fi 7 Nighthawk routers](https://www.theverge.com/2024/9/24/24252968/netgear-wi-fi-7-nighthawk-routers-rs600-rs600-rs200)
- - [Google Photos rolls out an update to its mobile video editor for Android and iOS, adding editing tools and AI presets to make trimming and tweaking clips easier &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p18#a240924p18)
- - [Warner Bros. Discovery partners with Google to add its &quot;caption AI&quot;, built on Vertex AI, to Max to automatically generate captions for unscripted programming &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240924/p17#a240924p17)
- - [GitHub says all enterprise cloud customers will be able to select an EU region to store all their code starting on October 29 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240924/p16#a240924p16)<!-- TECH:END -->
+ - [Spotify’s AI playlist builder is now available in the US](https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada)
+ - [Bose’s new QuietComfort Earbuds offer top-tier ANC for under $200](https://www.theverge.com/24252852/bose-quietcomfort-earbuds-2024-hands-on)
+ - [The new Roku Ultra is faster, has better Wi-Fi, and comes with a backlit remote](https://www.theverge.com/2024/9/24/24252484/roku-ultra-2024-features-specs-price)
+ - [Ecovacs’ budget robovacs include premium features like mophead cleaning and drying](https://www.theverge.com/2024/9/24/24252318/ecovacs-robot-vacuum-deebot-n30-omni-n20-pro-plus)
+ - [Nothing’s first open-ear headphones keep you aware of your surroundings](https://www.theverge.com/2024/9/24/24252192/nothing-ear-open-wireless-earbuds-headphones-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

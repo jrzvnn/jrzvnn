@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 😝 [F around and find out](http://9gag.com/gag/an7Mn60)
+ - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 💣 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
  - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 💣 [F around and find out](http://9gag.com/gag/an7Mn60)
- - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 👉 [That was an overkill.](http://9gag.com/gag/aO8r833)<!-- MEMES:END -->
+ - 👉 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)<!-- MEMES:END -->
 
 ---
 

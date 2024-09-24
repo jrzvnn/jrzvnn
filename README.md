@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 😝 [Sure, why not](http://9gag.com/gag/apR234M)
- - 💣 [It ain&#39;t much](http://9gag.com/gag/aZZ314X)
- - 😝 [Maam, i\u2019m eligible](http://9gag.com/gag/agmXOmw)
- - 👉 [Drivers rights](http://9gag.com/gag/adBKObN)<!-- MEMES:END -->
+ - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 💣 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 👉 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)<!-- MEMES:END -->
 
 ---
 

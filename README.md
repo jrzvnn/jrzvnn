@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 💣 [What the heeeeell](http://9gag.com/gag/ae9MOAv)
  - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
+ - 👉 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)<!-- MEMES:END -->
 
 ---
 

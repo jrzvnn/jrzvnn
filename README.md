@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 vs iPhone 16 Pro compared -- Going Pro in 2024](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-16-pro-compared----going-pro-in-2024?utm_medium=rss)
- - [Brompton improves on a good thing with the G Line of bicycles](https://www.theverge.com/2024/9/24/24252957/brompton-g-e-bike-redesign-20-inch-specs-price)
- - [Snap says it will use Google&#39;s Gemini to help add new features to its chatbot, including translating menus, after starting to use Gemini earlier in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240924/p15#a240924p15)
- - [Google plans to include the standalone Gemini app as standard on Workspace Business, Enterprise, and Frontline plans from Q4, replacing the Gemini add-on &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p14#a240924p14)
- - [Russia-Backed Media Outlets Are Under Fire in the US—but Still Trusted Worldwide](https://www.wired.com/story/russia-backed-media-outlets-are-under-fire-in-the-us-but-still-trusted-worldwide/)<!-- TECH:END -->
+ - [Apple Music Classical adds thousands of booklets to album listings](https://appleinsider.com/articles/24/09/24/apple-music-classical-adds-thousands-of-booklets-to-album-listings?utm_medium=rss)
+ - [Netgear rolls out three pricey new Wi-Fi 7 Nighthawk routers](https://www.theverge.com/2024/9/24/24252968/netgear-wi-fi-7-nighthawk-routers-rs600-rs600-rs200)
+ - [Google Photos rolls out an update to its mobile video editor for Android and iOS, adding editing tools and AI presets to make trimming and tweaking clips easier &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p18#a240924p18)
+ - [Warner Bros. Discovery partners with Google to add its &quot;caption AI&quot;, built on Vertex AI, to Max to automatically generate captions for unscripted programming &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240924/p17#a240924p17)
+ - [GitHub says all enterprise cloud customers will be able to select an EU region to store all their code starting on October 29 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240924/p16#a240924p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

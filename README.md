@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech MX Creative Console review: the $200 control surface for apps like Lightroom is an affordable entry point, but pros may find the controls limiting &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240924/p24#a240924p24)
- - [Spotify rolls out its AI Playlist feature in beta to Premium subscribers in the US, Canada, Ireland, and New Zealand, after launching in the UK and Australia &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p23#a240924p23)
- - [Portland-based Torq, which helps IT teams automate security workflows, raised a $70M Series C led by Evolution Equity Partners, for $192M in total funding &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p22#a240924p22)
- - [Best AirPods &lpar;2024&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
- - [Sources: Scale AI nearly quadrupled sales YoY to ~$400M in H1 2024 and had ~$980M in cash; the data labeling startup raised $1B at a $13.8B valuation in May &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240924/p21#a240924p21)<!-- TECH:END -->
+ - [Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
+ - [Google is about to update Street View images across dozens of countries](https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images)
+ - [An AI-powered copyright tool is taking down AI-generated Mario pictures](https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection)
+ - [Mozilla’s brand update gives its old T-Rex logo a fresh new look](https://www.theverge.com/2024/9/24/24253028/mozilla-brand-update-tyrannosaurus-rex-logo)
+ - [SteelSeries’ new Apex Pro Gen 3 has upgraded switches and a thockier sound](https://www.theverge.com/2024/9/24/24252951/steelseries-apex-pro-gen-3-keyboards-hall-effect)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

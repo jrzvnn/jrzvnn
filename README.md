@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240924/p40#a240924p40)
+ - [Stability AI says filmmaker James Cameron has joined its board of directors &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p39#a240924p39)
  - [How Google made the ad tech industry revolve around itself](https://www.theverge.com/2024/9/24/24253293/google-ad-tech-antitrust-trial-doj-case)
  - [FTX Insider Caroline Ellison Sentenced to Two Years in Prison](https://www.wired.com/story/caroline-ellison-ftx-sentencing/)
- - [SAG-AFTRA calls for a strike against League of Legends](https://www.theverge.com/2024/9/24/24253387/sag-aftra-strike-league-of-legends-formosa-interactive-riot-games)
- - [Caroline Ellison, a star witness in the prosecution of FTX founder and former boyfriend SBF, is sentenced to two years in prison for her role in the FTX scandal &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240924/p38#a240924p38)
- - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)<!-- TECH:END -->
+ - [SAG-AFTRA calls for a strike against League of Legends](https://www.theverge.com/2024/9/24/24253387/sag-aftra-strike-league-of-legends-formosa-interactive-riot-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s $300 Quest 3S Headset Significantly Lowers VR&#39;s Buy-In Price](https://www.wired.com/story/meta-quest-3s-headset/)
- - [Meta is discontinuing the Quest Pro two years after launching it](https://www.theverge.com/2024/9/25/24253322/meta-quest-pro-2-discontinued-vr)
- - [Meta’s cheaper Quest 3S might just be an upgrade](https://www.theverge.com/24252316/meta-quest-3s-hands-on-connect-2024)
- - [The best free or low-cost photo storage services](https://www.theverge.com/21561171/photo-storage-service-google-amazon-flickr)
- - [Here are all the games enhanced by the PS5 Pro](https://www.theverge.com/2024/9/10/24240027/sony-ps5-pro-enhanced-games-list-game-boost)<!-- TECH:END -->
+ - [Meta discontinues the Quest 2, which debuted nearly four years ago, and Quest Pro, which debuted in 2022 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240925/p36#a240925p36)
+ - [VR artists can now buy Logitech’s pen-shaped Meta Quest controller](https://www.theverge.com/2024/9/25/24254218/logitech-mx-ink-meta-quest-stylus-controller-availability)
+ - [Meta debuts Quest 3S, larger and with lower-resolution displays than Quest 3 but with better battery and the same chip and controllers, coming Oct. 15 for $300+ &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240925/p35#a240925p35)
+ - [Meta’s AI can now talk to you in the voices of Awkwafina, John Cena, and Judi Dench](https://www.theverge.com/2024/9/25/24253420/meta-ai-celebrity-voices-awkwafina-john-cena-judi-dench-connect)
+ - [Meta’s going to put AI-generated images in your Facebook and Instagram feeds](https://www.theverge.com/2024/9/25/24253329/meta-ai-generated-images-facebook-instagram-feeds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

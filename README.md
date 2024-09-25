@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta has acquired the Threads.com domain name, according to Whois records; Threads.com was owned by a Slack alternative startup acquired by Shopify in June &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p32#a240925p32)
- - [Ubisoft delays Assassin’s Creed Shadows to February 2025](https://www.theverge.com/2024/9/25/24254173/ubisoft-assassins-creed-shadows-delay-february-2025)
- - [Liverpool vs. West Ham Livestream: How to Watch Carabao Cup Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/liverpool-vs-west-ham-livestream-how-to-watch-carabao-cup-soccer-from-anywhere/#ftag=CAD590a51e)
- - [The biggest news from Meta Connect 2024](https://www.theverge.com/2024/9/25/24250234/meta-connect-rayban-glasses-orion-ai-llama)
- - [Best Internet Providers in Visalia, California](https://www.cnet.com/home/internet/best-internet-providers-in-visalia-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Livestream of Meta Connect 2024 &lpar;Meta for Developers on Facebook&rpar;](http://www.techmeme.com/240925/p34#a240925p34)
+ - [Here’s how much Disney Plus will charge to share your password](https://www.theverge.com/2024/9/25/24254189/disney-plus-password-sharing-pricing-extra-member)
+ - [Microsoft is merging the Xbox Game Pass app with Xbox mobile](https://appleinsider.com/articles/24/09/25/microsoft-is-merging-the-xbox-game-pass-app-with-xbox-mobile?utm_medium=rss)
+ - [Shorter lead times suggest iPhone 16 is least popular since the iPhone 12](https://appleinsider.com/articles/24/09/25/shorter-lead-times-suggest-iphone-16-is-least-popular-since-the-iphone-12?utm_medium=rss)
+ - [Google Pixel Buds Pro 2 review: big upgrade, much smaller earbuds](https://www.theverge.com/24254109/google-pixel-buds-pro-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

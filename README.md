@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Sept. 25, 2024: APYs Top 5% Post-Fed Cut. But the Clock Is Ticking](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-25-2024/#ftag=CAD590a51e)
  - [Researchers detail an AI model that they claim can solve Google&#39;s reCAPTCHAv2 challenges with 100% accuracy using a similar number of attempts as human users &lpar;Peter Saalfield/Decrypt&rpar;](http://www.techmeme.com/240925/p12#a240925p12)
  - [A profile of Canva, which has an estimated 4% share of the $15.4B creative software market and has doubled its MAUs to 190M since 2022, ahead of a US IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240925/p11#a240925p11)
- - [An interview with Arvind Narayanan and Sayash Kapoor on their new book AI Snake Oil, which is based on their popular newsletter about AI&#39;s shortcomings &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240925/p10#a240925p10)
- - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
- - [Meta Connect 2024: How to Watch and What to Expect](https://www.wired.com/story/meta-connect-2024-what-to-expect/)<!-- TECH:END -->
+ - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

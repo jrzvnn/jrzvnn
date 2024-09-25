@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
- - 😝 [True](http://9gag.com/gag/aD2xbEO)
- - 💣 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
- - 😝 [Chop Heart](http://9gag.com/gag/apR2xLE)
- - 👉 [That&#39;s what she said](http://9gag.com/gag/a4P722d)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 👉 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)<!-- MEMES:END -->
 
 ---
 

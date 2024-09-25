@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [The Moonwalkers robot shoes are back, and they’re lighter this time](https://www.theverge.com/2024/9/25/24254444/shift-robotics-moonwalkers-aero-robot-shoes)
  - [iPhone 16 features and designs that didn&#39;t make it out of prototyping](https://appleinsider.com/articles/24/09/25/iphone-16-features-and-designs-that-didnt-make-it-out-of-prototyping?utm_medium=rss)
  - [‘Robot lawyer’ company faces $193,000 fine as part of FTC’s AI crackdown](https://www.theverge.com/2024/9/25/24254405/federal-trade-commission-donotpay-robot-lawyers-artificial-intelligence-scams)
- - [Google Pixel Buds Pro 2 review: lighter and comfortable with improved ANC and transparency, but underwhelming Gemini Live and no high-quality Bluetooth codecs &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240925/p51#a240925p51)
- - [Titan Submersible Hearings Spotlight Multiple Issues With Its Carbon Fiber Hull](https://www.wired.com/story/titan-submersible-hearings-spotlight-multiple-issues-with-its-carbon-fiber-hull/)<!-- TECH:END -->
+ - [Google Pixel Buds Pro 2 review: lighter and comfortable with improved ANC and transparency, but underwhelming Gemini Live and no high-quality Bluetooth codecs &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240925/p51#a240925p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

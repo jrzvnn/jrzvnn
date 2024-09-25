@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says there’s ‘no causal connection’ between social media and teen mental health](https://www.theverge.com/2024/9/25/24254044/mark-zuckerberg-meta-social-media-teen-mental-health)
+ - [Hands-on with Meta&#39;s Orion: need a wireless processor puck, weigh only 100g, are packed with sensors, and have good eye tracking and a wide FoV for AR glasses &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240925/p42#a240925p42)
  - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
- - [Mark Zuckerberg: publishers ‘overestimate the value’ of their work for training AI](https://www.theverge.com/2024/9/25/24254042/mark-zuckerberg-creators-value-ai-meta)
- - [Meta is working on recreating influencers with AI](https://www.theverge.com/2024/9/25/24254190/meta-connect-2024-ai-auto-dubbing-lip-syncing)
- - [Meta unveils a prototype of Orion, its first AR glasses, with a 70-degree FoV, wireless neural input wristband, silicon carbide lenses, and micro-LED projectors &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240925/p41#a240925p41)
- - [Everything announced at Meta Connect 2024](https://www.theverge.com/24254101/meta-connect-2024-announcements-products)<!-- TECH:END -->
+ - [Mark Zuckerberg: creators and publishers ‘overestimate the value’ of their work for training AI](https://www.theverge.com/2024/9/25/24254042/mark-zuckerberg-creators-value-ai-meta)
+ - [Meta is working on recreating influencers with AI](https://www.theverge.com/2024/9/25/24254190/meta-connect-2024-ai-auto-dubbing-lip-syncing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

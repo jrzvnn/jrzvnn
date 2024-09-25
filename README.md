@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
- - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 👉 [Let that sink in](http://9gag.com/gag/a9yp2no)<!-- MEMES:END -->
+ - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 💣 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)
+ - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
 
 ---
 

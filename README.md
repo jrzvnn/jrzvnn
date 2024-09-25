@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
- - 😝 [Real leadership](http://9gag.com/gag/aYQgPpO)
- - 💣 [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)
- - 😝 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
- - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Honey, why isn&#39;t Timmy sleeping properly?](http://9gag.com/gag/a4P7znQ)
+ - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
+ - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
+ - 👉 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)<!-- MEMES:END -->
 
 ---
 

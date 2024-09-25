@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is giving its metaverse avatars a glow-up](https://www.theverge.com/2024/9/25/24254331/meta-metaverse-avatars-glow-up-connect-2024)
- - [OpenAI CTO Mira Murati is leaving](https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving)
- - [OpenAI CTO Mira Murati says she&#39;s leaving the company after six and a half years &quot;because I want to create the time and space to do my own exploration&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240925/p47#a240925p47)
- - [The FTC announces a crackdown on &quot;deceptive AI claims and schemes&quot; by companies including legal services firm DoNotPay, which claimed to offer a &quot;robot lawyer&quot; &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240925/p46#a240925p46)
- - [iPhone Designer Jony Ive and OpenAI&#39;s Sam Altman Reportedly Working on a Top-Secret AI Device](https://www.cnet.com/tech/mobile/iphone-designer-jony-ive-and-openai-ceo-sam-altman-working-on-a-top-secret-ai-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)
+ - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
+ - [Why California is suing ExxonMobil for ‘perpetuating the lie’ of plastic recycling](https://www.theverge.com/2024/9/25/24253348/plastic-recycling-california-attorney-general-interview-exxon-mobil-lawsuit)
+ - [OpenAI CTO Mira Murati Is Leaving the Company](https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/)
+ - [Suunto’s new bone conduction headphones are up to $30 off right now](https://www.theverge.com/2024/9/25/24253447/suunto-wing-sonic-bone-conduction-headphones-ue-wonderboom-4-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

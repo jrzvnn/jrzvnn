@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 😝 [Honey, why isn&#39;t Timmy sleeping properly?](http://9gag.com/gag/a4P7znQ)
- - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
- - 👉 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)<!-- MEMES:END -->
+ - 😝 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
+ - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 💣 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)
+ - 😝 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)
+ - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
 
 ---
 

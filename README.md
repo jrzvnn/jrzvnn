@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail an AI model that they claim can solve Google&#39;s reCAPTCHAv2 challenges with 100% accuracy using a similar number of attempts as human users &lpar;Peter Saalfield/Decrypt&rpar;](http://www.techmeme.com/240925/p12#a240925p12)
  - [A profile of Canva, which has an estimated 4% share of the $15.4B creative software market and has doubled its MAUs to 190M since 2022, ahead of a US IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240925/p11#a240925p11)
  - [An interview with Arvind Narayanan and Sayash Kapoor on their new book AI Snake Oil, which is based on their popular newsletter about AI&#39;s shortcomings &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240925/p10#a240925p10)
- - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
  - [Meta Connect 2024: How to Watch and What to Expect](https://www.wired.com/story/meta-connect-2024-what-to-expect/)
  - [AI&#39;s first wave of successful implementation will probably look more like the first wave of computing, which was led by enterprise installations that cut jobs &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240925/p9#a240925p9)<!-- TECH:END -->
 

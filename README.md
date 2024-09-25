@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/aGyjMoK)
+ - 😝 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
  - 😝 [True](http://9gag.com/gag/aD2xbEO)
  - 💣 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
  - 😝 [Chop Heart](http://9gag.com/gag/apR2xLE)

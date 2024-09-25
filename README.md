@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony announces seven new games that the $700 PS5 Pro, arriving November 7, will enhance via AI-powered &quot;PSSR&quot; upscaling, taking the total to 20 Enhanced games &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240925/p18#a240925p18)
+ - [X’s First Transparency Report Since Elon Musk’s Takeover Is Finally Here](https://www.wired.com/story/x-twitter-first-transparency-report-since-elon-musks-takeover-is-finally-here/)
+ - [watchOS 11 puts a Dynamic Island on your wrist](https://www.theverge.com/2024/9/25/24253366/watch-os-11-apple-watch-smartwatch)
  - [Automattic sends a cease-and-desist letter to WP Engine, alleging unauthorized use of the WordPress trademark, after WP Engine sent its own letter on Monday &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p17#a240925p17)
- - [Apple Card Savings cuts interest rate again](https://appleinsider.com/articles/24/09/25/apple-card-savings-cuts-interest-rate-again?utm_medium=rss)
- - [Lexie B2 Plus Review: Good Value Hearing Aids](https://www.wired.com/review/lexie-b2-plus/)
- - [Chainalysis: inflows to China&#39;s over-the-counter crypto brokers topped $20B in Q4 2023, Q1 2024, and Q2 2024 for $75.4B in total, despite Beijing&#39;s crypto ban &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240925/p16#a240925p16)
- - [Retro Remake says its Switch Lite OLED screen upgrade kits, which don&#39;t require soldering or modifications, will go on sale on September 26 for $50 to $110 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240925/p15#a240925p15)<!-- TECH:END -->
+ - [Apple Card Savings cuts interest rate again](https://appleinsider.com/articles/24/09/25/apple-card-savings-cuts-interest-rate-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

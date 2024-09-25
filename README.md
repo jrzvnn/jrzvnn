@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
- - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - 😝 [Congratulations](http://9gag.com/gag/ajPEBAx)
- - 👉 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)<!-- MEMES:END -->
+ - 😝 [True](http://9gag.com/gag/aD2xbEO)
+ - 😝 [The enemy.](http://9gag.com/gag/apR2b8W)
+ - 💣 [Chop Heart](http://9gag.com/gag/apR2xLE)
+ - 😝 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)
+ - 👉 [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)<!-- MEMES:END -->
 
 ---
 

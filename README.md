@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Patients Are Turning to Vibrators to Relieve Their Migraines](https://www.wired.com/story/wired-health-hub-why-vibrating-your-body-the-right-way-could-relieve-migraines/)
+ - [X releases its first transparency report since Musk took over; X took action against 2,361 accounts over hateful content in H1 2024, down from 1M in H2 2021 &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240925/p20#a240925p20)
  - [Duolingo now offers a portable piano for its music course](https://www.theverge.com/2024/9/25/24253932/duolingo-loog-portable-green-piano-music-lessons)
  - [Manchester-based Vsim, which is building a robotics simulation service, raised a $21.5M seed from EQT Ventures and others, taking its total funding to $24M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240925/p19#a240925p19)
- - [Sony announces seven new games that the $700 PS5 Pro, arriving November 7, will enhance via AI-powered &quot;PSSR&quot; upscaling, taking the total to 20 Enhanced games &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240925/p18#a240925p18)
- - [X’s First Transparency Report Since Elon Musk’s Takeover Is Finally Here](https://www.wired.com/story/x-twitter-first-transparency-report-since-elon-musks-takeover-is-finally-here/)
- - [watchOS 11 puts a Dynamic Island on your wrist](https://www.theverge.com/2024/9/25/24253366/watch-os-11-apple-watch-smartwatch)<!-- TECH:END -->
+ - [Sony announces seven new games that the $700 PS5 Pro, arriving November 7, will enhance via AI-powered &quot;PSSR&quot; upscaling, taking the total to 20 Enhanced games &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240925/p18#a240925p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

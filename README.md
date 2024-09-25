@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta unveils 11B- and 90B-parameter Llama 3.2 models with multimodal image support and small 1B and 3B models, which Arm partnered on, meant to run on phones &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/240925/p37#a240925p37)
- - [Meta Teaches Its Ray-Ban Smart Glasses Some New AI Tricks](https://www.wired.com/story/ray-ban-meta-smart-glasses-connect-2024/)
- - [Meta’s Ray-Bans will now ‘remember’ things for you](https://www.theverge.com/2024/9/25/24253712/meta-rayban-ai-features-reminders-translation-transparent-style)
- - [Meta discontinues the Quest 2, which debuted nearly four years ago, and Quest Pro, which debuted in 2022 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240925/p36#a240925p36)
- - [VR artists can now buy Logitech’s pen-shaped Meta Quest controller](https://www.theverge.com/2024/9/25/24254218/logitech-mx-ink-meta-quest-stylus-controller-availability)<!-- TECH:END -->
+ - [Meta AI&#39;s Imagine features are now being expanded across Facebook, Messenger, and Instagram, letting users generate AI photos, image captions, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240925/p39#a240925p39)
+ - [Why Mark Zuckerberg thinks AR glasses will replace your phone](https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview)
+ - [Hands-on with Orion, Meta’s first pair of AR glasses](https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview)
+ - [Meta says Meta AI can now respond back to questions out loud with celebrity voices and is piloting a tool to automatically translate voices in Instagram Reels &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p38#a240925p38)
+ - [Meta unveils 11B- and 90B-parameter Llama 3.2 models with multimodal image support and small 1B and 3B models, which Arm partnered on, meant to run on phones &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/240925/p37#a240925p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

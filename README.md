@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Viral ‘Goodbye Meta AI’ Copypasta Will Not Protect You](https://www.wired.com/story/viral-facebook-copypasta-will-not-protect-you/)
- - [California’s new law requires schools to limit phone use](https://www.theverge.com/2024/9/25/24253426/california-phone-free-school-act-newsom)
- - [London-based Raycast, a keyboard-based macOS productivity app with third-party extensions, raised a $30M Series B and plans to release iOS and Windows apps &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p29#a240925p29)
- - [A look at Caroline Ellison&#39;s motivations in the FTX fraud, including her relationship with SBF; the judge said he had &quot;never seen&quot; a cooperator like Ellison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240925/p28#a240925p28)
- - [Google files EU antitrust complaint over Microsoft’s cloud practices](https://www.theverge.com/2024/9/25/24253990/google-eu-complaint-microsoft-cloud-azure-practices)<!-- TECH:END -->
+ - [Sources: Google&#39;s $2.7B Character.AI deal was primarily to rehire founder Noam Shazeer, who quit Google in 2021 and made hundreds of millions from the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240925/p31#a240925p31)
+ - [Early iPhone upgraders are deeply committed to Apple&#39;s entire ecosystem](https://appleinsider.com/articles/24/09/25/early-iphone-upgraders-are-deeply-committed-to-apples-entire-ecosystem?utm_medium=rss)
+ - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2024](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2024?utm_medium=rss)
+ - [8 Best Portable Power Stations &lpar;2024&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
+ - [Sources: China-linked hackers, in a campaign called Salt Typhoon, have broken into a handful of US ISPs in recent months in pursuit of sensitive information &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240925/p30#a240925p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

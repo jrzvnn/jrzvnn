@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gotta love the guy](http://9gag.com/gag/aoyN4X3)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 💣 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
- - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
+ - 😝 [Don&#39;t pull me in](http://9gag.com/gag/a0eKVDZ)
+ - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
  - 👉 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)<!-- MEMES:END -->
 
 ---

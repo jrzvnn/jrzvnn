@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
  - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 😝 [That&#39;s what she said](http://9gag.com/gag/a4P722d)
- - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)<!-- MEMES:END -->
+ - 💣 [Congratulations](http://9gag.com/gag/ajPEBAx)
+ - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
+ - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
 
 ---
 

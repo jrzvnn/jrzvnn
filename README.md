@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
- - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 💣 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 😝 [True](http://9gag.com/gag/aD2xbEO)
+ - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
  - 😝 [Congratulations](http://9gag.com/gag/ajPEBAx)
- - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
+ - 👉 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)<!-- MEMES:END -->
 
 ---
 

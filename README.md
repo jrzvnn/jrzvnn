@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Over 100 companies, including Amazon, Google, Microsoft, and OpenAI, signed the EU&#39;s AI Pact for &quot;voluntary pledges&quot; before the AI Act; Apple and Meta did not &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240925/p49#a240925p49)
+ - [Meta Missed Out on Smartphones. Can Smart Glasses Make Up for It?](https://www.wired.com/story/meta-orion-glasses-augmented-reality-mark-zuckerberg/)
+ - [This Apple Watch clone straps a retro gaming machine to your wrist.](https://www.theverge.com/2024/9/25/24254312/space-invaders-my-play-watch-taito-kickstarter)
  - [Sources: Sam Altman will receive equity in OpenAI for the first time, as it plans to restructure its core business into a for-profit benefit corporation &lpar;Reuters&rpar;](http://www.techmeme.com/240925/p48#a240925p48)
- - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)
- - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
- - [Why California is suing ExxonMobil for ‘perpetuating the lie’ of plastic recycling](https://www.theverge.com/2024/9/25/24253348/plastic-recycling-california-attorney-general-interview-exxon-mobil-lawsuit)
- - [OpenAI CTO Mira Murati Is Leaving the Company](https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/)<!-- TECH:END -->
+ - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
- - [Reddit begins rolling out its ML-powered translations in Brazil, Spain, Germany, Italy, the Philippines, and 30+ others on the web, mobile, and desktop &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p21#a240925p21)
- - [Patients Are Turning to Vibrators to Relieve Their Migraines](https://www.wired.com/story/wired-health-hub-why-vibrating-your-body-the-right-way-could-relieve-migraines/)
- - [X releases its first transparency report since Musk took over; X took action against 2,361 accounts over hateful content in H1 2024, down from 1M in H2 2021 &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240925/p20#a240925p20)
- - [Duolingo now offers a portable piano for its music course](https://www.theverge.com/2024/9/25/24253932/duolingo-loog-portable-green-piano-music-lessons)<!-- TECH:END -->
+ - [Alphabet CEO Sundar Pichai says the US search and ads antitrust lawsuits are &quot;going to take time ... to play out&quot; and an appeal &quot;will likely take many years&quot; &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240925/p25#a240925p25)
+ - [MSI Stealth 18 AI Studio A1V Review: No AI Needed](https://www.wired.com/review/msi-stealth-18-ai-studio-a1v/)
+ - [Whatfix, which helps companies demo how to use third-party software, raised a $125M Series E led by Warburg Pincus at an estimated ~$900M valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p24#a240925p24)
+ - [Google files an EU antitrust complaint against Microsoft, alleging it engages in unfair cloud practices and is &quot;exploiting&quot; its customers&#39; reliance on Windows &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240925/p23#a240925p23)
+ - [Apple focusing on lower resolution screens to make a more affordable Apple Vision Pro](https://appleinsider.com/articles/24/09/25/apple-focusing-on-lower-resolution-screens-to-make-a-more-affordable-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

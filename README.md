@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
+ - 😝 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
+ - 😝 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)
+ - 💣 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 ---
 

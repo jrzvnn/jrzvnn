@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/aGyjMoK)
- - 😝 [True](http://9gag.com/gag/aD2xbEO)
- - 💣 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
- - 😝 [That&#39;s what she said](http://9gag.com/gag/a4P722d)
- - 👉 [Chop Heart](http://9gag.com/gag/apR2xLE)<!-- MEMES:END -->
+ - 😝 [Final destination](http://9gag.com/gag/aAyx4d0)
+ - 😝 [Hmm hehe hahah AHAHAHA](http://9gag.com/gag/aAyxM79)
+ - 💣 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
+ - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
 
 ---
 

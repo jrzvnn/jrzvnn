@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel is releasing another microcode update to protect crashing Raptor Lake CPUs](https://www.theverge.com/2024/9/25/24254611/intel-13th-14th-gen-crashes-september-2024-microcode-0x12b)
  - [Ubisoft lowers its FY 2024-25 bookings forecast to &amp;euro;1.95B, vs. &amp;euro;2.42B est., and delays Assassin&#39;s Creed Shadows to February 14, 2025; UBI closes down 4.52% &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240925/p52#a240925p52)
  - [Blue Origin gets its New Glenn rocket on track with new test fire](https://www.theverge.com/2024/9/25/24254512/blue-origin-new-glenn-second-stage-hotfire-test-blue-ring)
  - [OpenAI’s for-profit switch could include equity for Sam Altman](https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment)
- - [Just 5,000 people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
- - [Best Wi-Fi Wireless Speaker of 2024](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Just 5,000 people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung, Hyundai, and Kia sign a partnership to integrate Samsung&#39;s SmartThings IoT platform with future car infotainment systems developed by Hyundai and Kia &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240925/p5#a240925p5)
  - [Google Cloud VP Gabe Monroy says he has seen 20%-30% productivity gains across the software development lifecycle at large companies using Gemini Code Assist &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/240925/p4#a240925p4)
  - [US federal court records show the DOJ has been investigating SAP, IT vendor Carahsoft, and others for potentially conspiring to overcharge government agencies &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240925/p3#a240925p3)
  - [Sources: the FBI is investigating whether China-backed Hone Capital, a US VC firm that invested in 360 US tech startups, allowed Beijing to obtain trade secrets &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240925/p2#a240925p2)
- - [The US DOL releases AI &amp; Inclusive Hiring Framework, a set of guidelines to help employers ensure AI doesn&#39;t lead to discrimination for disabled job seekers &lpar;Rebecca Rainey/Bloomberg Law&rpar;](http://www.techmeme.com/240925/p1#a240925p1)
- - [How to make the most of Apple&#39;s Calendar, and when to opt for an alternative](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-apples-calendar-and-when-to-opt-for-an-alternative?utm_medium=rss)<!-- TECH:END -->
+ - [The US DOL releases AI &amp; Inclusive Hiring Framework, a set of guidelines to help employers ensure AI doesn&#39;t lead to discrimination for disabled job seekers &lpar;Rebecca Rainey/Bloomberg Law&rpar;](http://www.techmeme.com/240925/p1#a240925p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

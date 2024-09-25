@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ubisoft delays Assassin’s Creed Shadows to February 2025](https://www.theverge.com/2024/9/25/24254173/ubisoft-assassins-creed-shadows-delay-february-2025)
+ - [Liverpool vs. West Ham Livestream: How to Watch Carabao Cup Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/liverpool-vs-west-ham-livestream-how-to-watch-carabao-cup-soccer-from-anywhere/#ftag=CAD590a51e)
  - [The biggest news from Meta Connect 2024](https://www.theverge.com/2024/9/25/24250234/meta-connect-rayban-glasses-orion-ai-llama)
- - [Amazon issues record low prices on Apple Watch Series 10, black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/25/amazon-issues-record-low-prices-on-apple-watch-series-10-black-apple-watch-ultra-2?utm_medium=rss)
- - [Sources: Google&#39;s $2.7B Character.AI deal was primarily to rehire founder Noam Shazeer, who quit Google in 2021 and made hundreds of millions from the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240925/p31#a240925p31)
- - [Early iPhone upgraders are deeply committed to Apple&#39;s entire ecosystem](https://appleinsider.com/articles/24/09/25/early-iphone-upgraders-are-deeply-committed-to-apples-entire-ecosystem?utm_medium=rss)
- - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2024](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Visalia, California](https://www.cnet.com/home/internet/best-internet-providers-in-visalia-ca/#ftag=CAD590a51e)
+ - [Ring&#39;s Pan-Tilt Indoor Camera Just Crashed to a New Amazon Low Ahead of Prime Day](https://www.cnet.com/deals/rings-pan-tilt-indoor-camera-just-crashed-to-a-new-amazon-low-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

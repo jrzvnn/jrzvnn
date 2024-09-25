@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automattic sends a cease-and-desist letter to WP Engine, alleging unauthorized use of the WordPress trademark, after WP Engine sent its own letter on Monday &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p17#a240925p17)
  - [Apple Card Savings cuts interest rate again](https://appleinsider.com/articles/24/09/25/apple-card-savings-cuts-interest-rate-again?utm_medium=rss)
  - [Lexie B2 Plus Review: Good Value Hearing Aids](https://www.wired.com/review/lexie-b2-plus/)
  - [Chainalysis: inflows to China&#39;s over-the-counter crypto brokers topped $20B in Q4 2023, Q1 2024, and Q2 2024 for $75.4B in total, despite Beijing&#39;s crypto ban &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240925/p16#a240925p16)
- - [Retro Remake says its Switch Lite OLED screen upgrade kits, which don&#39;t require soldering or modifications, will go on sale on September 26 for $50 to $110 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240925/p15#a240925p15)
- - [Social Security COLA Increase for 2025: The Latest Expert Predictions Are In](https://www.cnet.com/personal-finance/social-security-cola-increase-for-2025-the-latest-expert-predictions-are-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Retro Remake says its Switch Lite OLED screen upgrade kits, which don&#39;t require soldering or modifications, will go on sale on September 26 for $50 to $110 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240925/p15#a240925p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

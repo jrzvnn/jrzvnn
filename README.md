@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Apron, which is aiming to become the financial super app for SMBs, raised a $30M Series B led by Zinal Growth, bringing its total funding to $50.5M &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240924/p47#a240924p47)
+ - [The Best Over-the-Counter Hearing Aids to Try in 2024](https://www.cnet.com/health/medical/best-over-the-counter-hearing-aids/#ftag=CAD590a51e)
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
  - [Palworld’s PS5 port is on hold indefinitely in Japan](https://www.theverge.com/2024/9/24/24253687/palworld-ps5-japan-release-date-nintendo-pokemon-lawsuit)
- - [Filing: OpenAI agrees to give representatives for authors suing the company access to review its training data to see if OpenAI used authors&#39; copyrighted works &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p46#a240924p46)
- - [Sony State of Play: Ghost of Yotei and Everything Announced for PS5 and PSVR 2](https://www.cnet.com/tech/gaming/sony-state-of-play-ghost-of-yotei-and-everything-announced-for-ps5-and-psvr-2/#ftag=CAD590a51e)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
- - [CrowdStrike SVP Adam Meyers apologizes before Congress over the company&#39;s faulty update that caused a global IT outage, to largely sympathetic House lawmakers &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240924/p45#a240924p45)<!-- TECH:END -->
+ - [How to Claim Your Share of Cash App&#39;s $15 Million Legal Settlement](https://www.cnet.com/personal-finance/how-to-claim-your-share-of-cash-apps-15-million-legal-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

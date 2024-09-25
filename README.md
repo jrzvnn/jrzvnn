@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI&#39;s Imagine features are now being expanded across Facebook, Messenger, and Instagram, letting users generate AI photos, image captions, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240925/p39#a240925p39)
- - [Why Mark Zuckerberg thinks AR glasses will replace your phone](https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview)
- - [Hands-on with Orion, Meta’s first pair of AR glasses](https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview)
- - [Meta says Meta AI can now respond back to questions out loud with celebrity voices and is piloting a tool to automatically translate voices in Instagram Reels &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p38#a240925p38)
- - [Meta unveils 11B- and 90B-parameter Llama 3.2 models with multimodal image support and small 1B and 3B models, which Arm partnered on, meant to run on phones &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/240925/p37#a240925p37)<!-- TECH:END -->
+ - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
+ - [Mark Zuckerberg: publishers ‘overestimate the value’ of their work for training AI](https://www.theverge.com/2024/9/25/24254042/mark-zuckerberg-creators-value-ai-meta)
+ - [Meta is working on recreating influencers with AI](https://www.theverge.com/2024/9/25/24254190/meta-connect-2024-ai-auto-dubbing-lip-syncing)
+ - [Meta unveils a prototype of Orion, its first AR glasses, with a 70-degree FoV, wireless neural input wristband, silicon carbide lenses, and micro-LED projectors &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240925/p41#a240925p41)
+ - [Everything announced at Meta Connect 2024](https://www.theverge.com/24254101/meta-connect-2024-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

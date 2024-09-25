@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)
- - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
- - 💣 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 😝 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
+ - 😝 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)
+ - 💣 [Oh no](http://9gag.com/gag/axy16OK)
  - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
+ - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
 
 ---
 

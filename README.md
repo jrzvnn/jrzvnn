@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There you go!](http://9gag.com/gag/amo7xbd)
- - 😝 [No way lol](http://9gag.com/gag/ayNX6Yb)
- - 💣 [And what&#39;s next?](http://9gag.com/gag/ae9M1yW)
- - 😝 [Honey, why isn&#39;t Timmy sleeping properly?](http://9gag.com/gag/a4P7znQ)
- - 👉 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
+ - 😝 [Gotta love the guy](http://9gag.com/gag/aoyN4X3)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 💣 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
+ - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
+ - 👉 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 💣 [To infinity and beyond](http://9gag.com/gag/a1mo20D)
- - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 👉 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
+ - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - 💣 [Brazilian Bridge](http://9gag.com/gag/adBKODj)
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 👉 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NOYB files a privacy complaint against Mozilla with the Austrian data protection authority, accusing the Firefox maker of tracking users without consent &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240925/p13#a240925p13)
  - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
  - [Best Savings Rates Today, Sept. 25, 2024: APYs Top 5% Post-Fed Cut. But the Clock Is Ticking](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-25-2024/#ftag=CAD590a51e)
  - [Researchers detail an AI model that they claim can solve Google&#39;s reCAPTCHAv2 challenges with 100% accuracy using a similar number of attempts as human users &lpar;Peter Saalfield/Decrypt&rpar;](http://www.techmeme.com/240925/p12#a240925p12)
- - [A profile of Canva, which has an estimated 4% share of the $15.4B creative software market and has doubled its MAUs to 190M since 2022, ahead of a US IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240925/p11#a240925p11)
- - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Canva, which has an estimated 4% share of the $15.4B creative software market and has doubled its MAUs to 190M since 2022, ahead of a US IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240925/p11#a240925p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

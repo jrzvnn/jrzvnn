@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestream of Meta Connect 2024 &lpar;Meta for Developers on Facebook&rpar;](http://www.techmeme.com/240925/p34#a240925p34)
- - [Here’s how much Disney Plus will charge to share your password](https://www.theverge.com/2024/9/25/24254189/disney-plus-password-sharing-pricing-extra-member)
- - [Microsoft is merging the Xbox Game Pass app with Xbox mobile](https://appleinsider.com/articles/24/09/25/microsoft-is-merging-the-xbox-game-pass-app-with-xbox-mobile?utm_medium=rss)
- - [Shorter lead times suggest iPhone 16 is least popular since the iPhone 12](https://appleinsider.com/articles/24/09/25/shorter-lead-times-suggest-iphone-16-is-least-popular-since-the-iphone-12?utm_medium=rss)
- - [Google Pixel Buds Pro 2 review: big upgrade, much smaller earbuds](https://www.theverge.com/24254109/google-pixel-buds-pro-2-review)<!-- TECH:END -->
+ - [Meta&#39;s $300 Quest 3S Headset Significantly Lowers VR&#39;s Buy-In Price](https://www.wired.com/story/meta-quest-3s-headset/)
+ - [Meta is discontinuing the Quest Pro two years after launching it](https://www.theverge.com/2024/9/25/24253322/meta-quest-pro-2-discontinued-vr)
+ - [Meta’s cheaper Quest 3S might just be an upgrade](https://www.theverge.com/24252316/meta-quest-3s-hands-on-connect-2024)
+ - [The best free or low-cost photo storage services](https://www.theverge.com/21561171/photo-storage-service-google-amazon-flickr)
+ - [Here are all the games enhanced by the PS5 Pro](https://www.theverge.com/2024/9/10/24240027/sony-ps5-pro-enhanced-games-list-game-boost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

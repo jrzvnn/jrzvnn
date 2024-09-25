@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 💣 [Congratulations](http://9gag.com/gag/ajPEBAx)
- - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
- - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
+ - 😝 [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)
+ - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 💣 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)
+ - 😝 [That&#39;s what she said](http://9gag.com/gag/a4P722d)
+ - 👉 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)<!-- MEMES:END -->
 
 ---
 

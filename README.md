@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Caroline Ellison&#39;s motivations in the FTX fraud, including her relationship with SBF; the judge said he had &quot;never seen&quot; a cooperator like Ellison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240925/p28#a240925p28)
+ - [Google files EU antitrust complaint over Microsoft’s cloud practices](https://www.theverge.com/2024/9/25/24253990/google-eu-complaint-microsoft-cloud-azure-practices)
  - [Best Headphones for Working Out &lpar;2024&rpar;: Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
  - [A second Apple Store just ratified a union contract](https://www.theverge.com/2024/9/25/24254013/apple-oklahoma-city-second-store-ratify-union-contract)
- - [The Allen Institute for AI releases the Multimodal Open Language Model, or Molmo, in 1B and 70B-parameter sizes, the most capable open source AI model yet &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240925/p27#a240925p27)
- - [A fan of AMC’s The Terror helped identify real-life crew member of doomed expedition](https://www.theverge.com/2024/9/25/24253938/amc-the-terror-franklin-expedition-captain-james-fitzjames)
- - [Amazon’s next entry-level Kindle with a brighter screen leaks](https://www.theverge.com/2024/9/25/24253963/amazon-kindle-12-generation-colors-leak)<!-- TECH:END -->
+ - [Nest Starling Mattress Review 2024: Flying In With a New Take on Premium Comfort](https://www.cnet.com/health/sleep/nest-starling-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

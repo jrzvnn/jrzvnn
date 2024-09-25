@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
- - 😝 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)
- - 💣 [Oh no](http://9gag.com/gag/axy16OK)
- - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
+ - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 👉 [Let that sink in](http://9gag.com/gag/a9yp2no)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
- - 😝 [This didn&#39;t age well](http://9gag.com/gag/aPAjP0B)
- - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - 😝 [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
- - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
+ - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
+ - 👉 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)<!-- MEMES:END -->
 
 ---
 

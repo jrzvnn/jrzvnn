@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Blue Origin gets its New Glenn rocket on track with new test fire](https://www.theverge.com/2024/9/25/24254512/blue-origin-new-glenn-second-stage-hotfire-test-blue-ring)
  - [OpenAI’s for-profit switch could include equity for Sam Altman](https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment)
  - [Just 5,000 people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [Best Wi-Fi Wireless Speaker of 2024](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

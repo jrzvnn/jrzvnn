@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California’s new law requires schools to limit phone use](https://www.theverge.com/2024/9/25/24253426/california-phone-free-school-act-newsom)
  - [London-based Raycast, a keyboard-based macOS productivity app with third-party extensions, raised a $30M Series B and plans to release iOS and Windows apps &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p29#a240925p29)
  - [A look at Caroline Ellison&#39;s motivations in the FTX fraud, including her relationship with SBF; the judge said he had &quot;never seen&quot; a cooperator like Ellison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240925/p28#a240925p28)
  - [Google files EU antitrust complaint over Microsoft’s cloud practices](https://www.theverge.com/2024/9/25/24253990/google-eu-complaint-microsoft-cloud-azure-practices)
- - [Best Headphones for Working Out &lpar;2024&rpar;: Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
- - [A second Apple Store just ratified a union contract](https://www.theverge.com/2024/9/25/24254013/apple-oklahoma-city-second-store-ratify-union-contract)<!-- TECH:END -->
+ - [Best Headphones for Working Out &lpar;2024&rpar;: Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

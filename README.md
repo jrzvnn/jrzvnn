@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s for-profit switch could include equity for Sam Altman](https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment)
+ - [Just 5,000 people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [The Moonwalkers robot shoes are back, and they’re lighter this time](https://www.theverge.com/2024/9/25/24254444/shift-robotics-moonwalkers-aero-robot-shoes)
- - [iPhone 16 features and designs that didn&#39;t make it out of prototyping](https://appleinsider.com/articles/24/09/25/iphone-16-features-and-designs-that-didnt-make-it-out-of-prototyping?utm_medium=rss)
- - [‘Robot lawyer’ company faces $193,000 fine as part of FTC’s AI crackdown](https://www.theverge.com/2024/9/25/24254405/federal-trade-commission-donotpay-robot-lawyers-artificial-intelligence-scams)
- - [Google Pixel Buds Pro 2 review: lighter and comfortable with improved ANC and transparency, but underwhelming Gemini Live and no high-quality Bluetooth codecs &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240925/p51#a240925p51)<!-- TECH:END -->
+ - [iPhone 16 features and designs that didn&#39;t make it out of prototyping](https://appleinsider.com/articles/24/09/25/iphone-16-features-and-designs-that-didnt-make-it-out-of-prototyping?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

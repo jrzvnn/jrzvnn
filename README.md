@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Meta will likely strike &quot;certain partnerships&quot; for AI training content, but some publishers may be overestimating their content&#39;s value &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240925/p44#a240925p44)
- - [Q&amp;A with Mark Zuckerberg on Meta&#39;s Orion AR glasses, partnering with Ray-Ban, Threads, X, downranking political content, mental health, AI regulation, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240925/p43#a240925p43)
- - [Mark Zuckerberg says there’s ‘no causal connection’ between social media and teen mental health](https://www.theverge.com/2024/9/25/24254044/mark-zuckerberg-meta-social-media-teen-mental-health)
- - [Hands-on with Meta&#39;s Orion: need a wireless processor puck, weigh only 100g, are packed with sensors, and have good eye tracking and a wide FoV for AR glasses &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240925/p42#a240925p42)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
+ - [&#39;Assassin&#39;s Creed Shadows&#39; Mac release slips to February 2025](https://appleinsider.com/articles/24/09/25/assassins-creed-shadows-mac-release-slips-to-february-2025?utm_medium=rss)
+ - [Meta’s VR app store is about to fill up with phone-style 2D apps](https://www.theverge.com/2024/9/25/24254357/meta-quest-vr-2d-spatial-web-apps-developers-vr)
+ - [Disney officially launches its password-sharing crackdown, letting users add an &quot;Extra Member&quot; for $6.99/month for Disney+ Basic, or $9.99 for Disney+ Premium &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240925/p45#a240925p45)
+ - [Finally, HP is adding AI to its printers](https://www.theverge.com/2024/9/25/24254129/hp-print-ai-beta-launch-printers)
+ - [Mark Zuckerberg says Meta will likely strike &quot;certain partnerships&quot; for AI training content, but some publishers may be overestimating their content&#39;s value &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240925/p44#a240925p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

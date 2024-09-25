@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron reports Q4 revenue up 93% YoY to $7.75B, vs. $7.66B est., forecasts Q1 revenue and profit above estimates, helped by AI demand; MU jumps 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240925/p50#a240925p50)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [Over 100 companies, including Amazon, Google, Microsoft, and OpenAI, signed the EU&#39;s AI Pact for &quot;voluntary pledges&quot; before the AI Act; Apple and Meta did not &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240925/p49#a240925p49)
  - [Meta Missed Out on Smartphones. Can Smart Glasses Make Up for It?](https://www.wired.com/story/meta-orion-glasses-augmented-reality-mark-zuckerberg/)
- - [This Apple Watch clone straps a retro gaming machine to your wrist.](https://www.theverge.com/2024/9/25/24254312/space-invaders-my-play-watch-taito-kickstarter)
- - [Sources: Sam Altman will receive equity in OpenAI for the first time, as it plans to restructure its core business into a for-profit benefit corporation &lpar;Reuters&rpar;](http://www.techmeme.com/240925/p48#a240925p48)
- - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)<!-- TECH:END -->
+ - [This Apple Watch clone straps a retro gaming machine to your wrist](https://www.theverge.com/2024/9/25/24254312/space-invaders-my-play-watch-taito-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 💣 [Brazilian Bridge](http://9gag.com/gag/adBKODj)
+ - 😝 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
+ - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 💣 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
  - 😝 [Congratulations](http://9gag.com/gag/ajPEBAx)
- - 👉 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)<!-- MEMES:END -->
+ - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
 
 ---
 

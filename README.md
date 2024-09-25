@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Allen Institute for AI releases the Multimodal Open Language Model, or Molmo, in 1B and 70B-parameter sizes, the most capable open source AI model yet &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240925/p27#a240925p27)
  - [A fan of AMC’s The Terror helped identify real-life crew member of doomed expedition](https://www.theverge.com/2024/9/25/24253938/amc-the-terror-franklin-expedition-captain-james-fitzjames)
  - [Amazon’s next entry-level Kindle with a brighter screen leaks](https://www.theverge.com/2024/9/25/24253963/amazon-kindle-12-generation-colors-leak)
  - [As expected, Apple&#39;s U.S. Mac shipments didn&#39;t grow much in Q2 2024](https://appleinsider.com/articles/24/09/25/as-expected-apples-us-mac-shipments-didnt-grow-much-in-q2-2024?utm_medium=rss)
- - [Americans Still Falling for Romance Scams, Survey Shows](https://www.cnet.com/tech/services-and-software/americans-still-falling-for-romance-scams-survey-shows/#ftag=CAD590a51e)
- - [Torras Ostand 360 Spin Case returns with two great options for iPhone 16 lineup](https://appleinsider.com/articles/24/09/25/torras-ostand-360-spin-case-returns-with-two-great-options-for-iphone-16-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [Americans Still Falling for Romance Scams, Survey Shows](https://www.cnet.com/tech/services-and-software/americans-still-falling-for-romance-scams-survey-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

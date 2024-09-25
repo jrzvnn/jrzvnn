@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 💣 [Congratulations](http://9gag.com/gag/ajPEBAx)
- - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
+ - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
+ - 💣 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
+ - 😝 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
 
 ---
 

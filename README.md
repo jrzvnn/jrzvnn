@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
- - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 💣 [Real leadership](http://9gag.com/gag/aYQgPpO)
- - 😝 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
- - 👉 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)<!-- MEMES:END -->
+ - 😝 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
+ - 😝 [This didn&#39;t age well](http://9gag.com/gag/aPAjP0B)
+ - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
+ - 😝 [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
+ - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
 
 ---
 

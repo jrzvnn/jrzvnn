@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Canva, which has an estimated 4% share of the $15.4B creative software market and has doubled its MAUs to 190M since 2022, ahead of a US IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240925/p11#a240925p11)
  - [An interview with Arvind Narayanan and Sayash Kapoor on their new book AI Snake Oil, which is based on their popular newsletter about AI&#39;s shortcomings &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240925/p10#a240925p10)
+ - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
  - [Meta Connect 2024: How to Watch and What to Expect](https://www.wired.com/story/meta-connect-2024-what-to-expect/)
- - [AI&#39;s first wave of successful implementation will probably look more like the first wave of computing, which was led by enterprise installations that cut jobs &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240925/p9#a240925p9)
- - [About 15,000 US doctors and assistants are using an AI feature in MyChart, a ubiquitous communications platform at US hospitals, to draft messages for patients &lpar;Teddy Rosenbluth/New York Times&rpar;](http://www.techmeme.com/240925/p8#a240925p8)
- - [How a security researcher used a now-fixed flaw to store false memories in ChatGPT via indirect prompt injection with the goal of exfiltrating all user input &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240925/p7#a240925p7)<!-- TECH:END -->
+ - [AI&#39;s first wave of successful implementation will probably look more like the first wave of computing, which was led by enterprise installations that cut jobs &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240925/p9#a240925p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

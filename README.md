@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 💣 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 😝 [Always remember to lube up.](http://9gag.com/gag/a87o02Y)
- - 👉 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)<!-- MEMES:END -->
+ - 😝 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
+ - 😝 [Real leadership](http://9gag.com/gag/aYQgPpO)
+ - 💣 [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)
+ - 😝 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
+ - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
 
 ---
 

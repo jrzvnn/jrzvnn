@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
- - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 💣 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)
- - 😝 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)
- - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
+ - 😝 [Real leadership](http://9gag.com/gag/aYQgPpO)
+ - 😝 [True](http://9gag.com/gag/aD2xbEO)
+ - 💣 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
+ - 😝 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
+ - 👉 [. . .](http://9gag.com/gag/aGyjMoK)<!-- MEMES:END -->
 
 ---
 

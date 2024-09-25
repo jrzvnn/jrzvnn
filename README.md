@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
  - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 😝 [That&#39;s what she said](http://9gag.com/gag/a4P722d)
  - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
  - 👉 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)<!-- MEMES:END -->
 
 ---

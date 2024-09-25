@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 💣 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)
+ - 😝 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)
+ - 😝 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
+ - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
  - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
+ - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
 
 ---
 

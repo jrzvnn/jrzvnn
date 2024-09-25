@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mistakes were made](http://9gag.com/gag/aRB3v2B)
- - 😝 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
- - 💣 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 😝 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
- - 👉 [Real leadership](http://9gag.com/gag/aYQgPpO)<!-- MEMES:END -->
+ - 😝 [There you go!](http://9gag.com/gag/amo7xbd)
+ - 😝 [No way lol](http://9gag.com/gag/ayNX6Yb)
+ - 💣 [And what&#39;s next?](http://9gag.com/gag/ae9M1yW)
+ - 😝 [Honey, why isn&#39;t Timmy sleeping properly?](http://9gag.com/gag/a4P7znQ)
+ - 👉 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
 
 ---
 

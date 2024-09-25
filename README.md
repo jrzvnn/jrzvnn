@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 💣 [Brazilian Bridge](http://9gag.com/gag/adBKODj)
- - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)<!-- MEMES:END -->
+ - 😝 [. . .](http://9gag.com/gag/aGyjMoK)
+ - 😝 [True](http://9gag.com/gag/aD2xbEO)
+ - 💣 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
+ - 😝 [That&#39;s what she said](http://9gag.com/gag/a4P722d)
+ - 👉 [Chop Heart](http://9gag.com/gag/apR2xLE)<!-- MEMES:END -->
 
 ---
 

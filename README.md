@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True](http://9gag.com/gag/aD2xbEO)
- - 😝 [The enemy.](http://9gag.com/gag/apR2b8W)
- - 💣 [Chop Heart](http://9gag.com/gag/apR2xLE)
- - 😝 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)
- - 👉 [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - 💣 [Brazilian Bridge](http://9gag.com/gag/adBKODj)
+ - 😝 [Congratulations](http://9gag.com/gag/ajPEBAx)
+ - 👉 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)<!-- MEMES:END -->
 
 ---
 

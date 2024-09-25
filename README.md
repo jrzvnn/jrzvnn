@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sam Altman will receive equity in OpenAI for the first time, as it plans to restructure its core business into a for-profit benefit corporation &lpar;Reuters&rpar;](http://www.techmeme.com/240925/p48#a240925p48)
  - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)
  - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
  - [Why California is suing ExxonMobil for ‘perpetuating the lie’ of plastic recycling](https://www.theverge.com/2024/9/25/24253348/plastic-recycling-california-attorney-general-interview-exxon-mobil-lawsuit)
- - [OpenAI CTO Mira Murati Is Leaving the Company](https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/)
- - [Suunto’s new bone conduction headphones are up to $30 off right now](https://www.theverge.com/2024/9/25/24253447/suunto-wing-sonic-bone-conduction-headphones-ue-wonderboom-4-speaker-deal-sale)<!-- TECH:END -->
+ - [OpenAI CTO Mira Murati Is Leaving the Company](https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

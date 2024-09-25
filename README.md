@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It didnt take long](http://9gag.com/gag/ae9Mx4j)
- - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
- - 💣 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 😝 [Phd in advertising.](http://9gag.com/gag/ajPEL2G)
- - 👉 [She has no chill](http://9gag.com/gag/a34KAW5)<!-- MEMES:END -->
+ - 😝 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
+ - 😝 [. . .](http://9gag.com/gag/aGyjMoK)
+ - 💣 [True](http://9gag.com/gag/aD2xbEO)
+ - 😝 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)
+ - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
 
 ---
 

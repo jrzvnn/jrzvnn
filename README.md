@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card Savings cuts interest rate again](https://appleinsider.com/articles/24/09/25/apple-card-savings-cuts-interest-rate-again?utm_medium=rss)
+ - [Lexie B2 Plus Review: Good Value Hearing Aids](https://www.wired.com/review/lexie-b2-plus/)
+ - [Chainalysis: inflows to China&#39;s over-the-counter crypto brokers topped $20B in Q4 2023, Q1 2024, and Q2 2024 for $75.4B in total, despite Beijing&#39;s crypto ban &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240925/p16#a240925p16)
  - [Retro Remake says its Switch Lite OLED screen upgrade kits, which don&#39;t require soldering or modifications, will go on sale on September 26 for $50 to $110 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240925/p15#a240925p15)
- - [Trae Stephens Has Built AI Weapons and Worked for Donald Trump. As He Sees It, Jesus Would Approve](https://www.wired.com/story/big-interview-trae-stephens-has-built-ai-weapons-and-worked-for-donald-trump-as-he-sees-it-jesus-would-approve/)
- - [Google&#39;s Mandiant says dozens of Fortune 100 companies have unwittingly hired North Korean IT workers in a scheme orchestrated by group UNC5267 starting in 2018 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240925/p14#a240925p14)
- - [NOYB files a privacy complaint against Mozilla with the Austrian data protection authority, accusing the Firefox maker of tracking users without consent &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240925/p13#a240925p13)
- - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social Security COLA Increase for 2025: The Latest Expert Predictions Are In](https://www.cnet.com/personal-finance/social-security-cola-increase-for-2025-the-latest-expert-predictions-are-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

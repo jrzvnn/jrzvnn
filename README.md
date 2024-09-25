@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Americans Still Falling for Romance Scams, Survey Shows](https://www.cnet.com/tech/services-and-software/americans-still-falling-for-romance-scams-survey-shows/#ftag=CAD590a51e)
+ - [Amazon’s next entry-level Kindle with a brighter screen leaks](https://www.theverge.com/2024/9/25/24253963/amazon-kindle-12-generation-colors-leak)
+ - [As expected, Apple&#39;s U.S. Mac shipments didn&#39;t grow much in Q2 2024](https://appleinsider.com/articles/24/09/25/as-expected-apples-us-mac-shipments-didnt-grow-much-in-q2-2024?utm_medium=rss)
  - [Torras Ostand 360 Spin Case returns with two great options for iPhone 16 lineup](https://appleinsider.com/articles/24/09/25/torras-ostand-360-spin-case-returns-with-two-great-options-for-iphone-16-lineup?utm_medium=rss)
- - [Artificial Intelligence Can Break Down Old Songs Into Individual &#39;Stems.&#39; Here&#39;s How It&#39;s Used](https://www.cnet.com/tech/services-and-software/artificial-intelligence-can-break-down-songs-into-individual-stems-heres-how-its-used/#ftag=CAD590a51e)
- - [The Dinosaur-Killing Asteroid: Scientists Now Believe They Know Its Origin Story](https://www.cnet.com/tech/the-dinosaur-killing-asteroid-scientists-now-believe-they-know-its-origin-story/#ftag=CAD590a51e)
- - [The Most Capable Open Source AI Model Yet Could Supercharge AI Agents](https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/)<!-- TECH:END -->
+ - [The Most Capable Open Source AI Model Yet Could Supercharge AI Agents](https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/)
+ - [Raycast is bringing its super-powerful Mac launcher to iOS and Windows](https://www.theverge.com/2024/9/25/24253375/raycast-mac-launcher-ios-windows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

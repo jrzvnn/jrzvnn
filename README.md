@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Robot lawyer’ company faces $193,000 fine as part of FTC’s AI crackdown](https://www.theverge.com/2024/9/25/24254405/federal-trade-commission-donotpay-robot-lawyers-artificial-intelligence-scams)
+ - [Google Pixel Buds Pro 2 review: lighter and comfortable with improved ANC and transparency, but underwhelming Gemini Live and no high-quality Bluetooth codecs &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240925/p51#a240925p51)
+ - [Titan Submersible Hearings Spotlight Multiple Issues With Its Carbon Fiber Hull](https://www.wired.com/story/titan-submersible-hearings-spotlight-multiple-issues-with-its-carbon-fiber-hull/)
  - [Micron reports Q4 revenue up 93% YoY to $7.75B, vs. $7.66B est., forecasts Q1 revenue and profit above estimates, helped by AI demand; MU jumps 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240925/p50#a240925p50)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Over 100 companies, including Amazon, Google, Microsoft, and OpenAI, signed the EU&#39;s AI Pact for &quot;voluntary pledges&quot; before the AI Act; Apple and Meta did not &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240925/p49#a240925p49)
- - [Meta Missed Out on Smartphones. Can Smart Glasses Make Up for It?](https://www.wired.com/story/meta-orion-glasses-augmented-reality-mark-zuckerberg/)
- - [This Apple Watch clone straps a retro gaming machine to your wrist](https://www.theverge.com/2024/9/25/24254312/space-invaders-my-play-watch-taito-kickstarter)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

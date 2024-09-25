@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [Yeet](http://9gag.com/gag/aMVjmw1)
  - 😝 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
  - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 👉 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)<!-- MEMES:END -->
+ - 😝 [Congratulations](http://9gag.com/gag/ajPEBAx)
+ - 👉 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
- - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
+ - 😝 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
+ - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 💣 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
+ - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
 
 ---
 

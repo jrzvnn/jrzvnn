@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US federal court records show the DOJ has been investigating SAP, IT vendor Carahsoft, and others for potentially conspiring to overcharge government agencies &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240925/p3#a240925p3)
+ - [Sources: the FBI is investigating whether China-backed Hone Capital, a US VC firm that invested in 360 US tech startups, allowed Beijing to obtain trade secrets &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240925/p2#a240925p2)
  - [The US DOL releases AI &amp; Inclusive Hiring Framework, a set of guidelines to help employers ensure AI doesn&#39;t lead to discrimination for disabled job seekers &lpar;Rebecca Rainey/Bloomberg Law&rpar;](http://www.techmeme.com/240925/p1#a240925p1)
  - [How to make the most of Apple&#39;s Calendar, and when to opt for an alternative](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-apples-calendar-and-when-to-opt-for-an-alternative?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 25, #1194](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-25-1194/#ftag=CAD590a51e)
- - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

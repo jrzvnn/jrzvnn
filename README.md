@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)
- - 😝 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)
- - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [That&#39;s what she said](http://9gag.com/gag/a4P722d)
- - 👉 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)<!-- MEMES:END -->
+ - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
 
 ---
 

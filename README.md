@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 😝 [Let that sink in](http://9gag.com/gag/a9yp2no)
- - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 💣 [Congratulations](http://9gag.com/gag/ajPEBAx)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 😝 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 😝 [Running away from accident? In bird culture it is called a dick move.](http://9gag.com/gag/a0eK06X)
- - 👉 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)<!-- MEMES:END -->
+ - 😝 [Mistakes were made](http://9gag.com/gag/aRB3v2B)
+ - 😝 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
+ - 💣 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - 😝 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
+ - 👉 [Real leadership](http://9gag.com/gag/aYQgPpO)<!-- MEMES:END -->
 
 ---
 

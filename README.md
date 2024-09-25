@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet CEO Sundar Pichai says the US search and ads antitrust lawsuits are &quot;going to take time ... to play out&quot; and an appeal &quot;will likely take many years&quot; &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240925/p25#a240925p25)
- - [MSI Stealth 18 AI Studio A1V Review: No AI Needed](https://www.wired.com/review/msi-stealth-18-ai-studio-a1v/)
- - [Whatfix, which helps companies demo how to use third-party software, raised a $125M Series E led by Warburg Pincus at an estimated ~$900M valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p24#a240925p24)
- - [Google files an EU antitrust complaint against Microsoft, alleging it engages in unfair cloud practices and is &quot;exploiting&quot; its customers&#39; reliance on Windows &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240925/p23#a240925p23)
- - [Apple focusing on lower resolution screens to make a more affordable Apple Vision Pro](https://appleinsider.com/articles/24/09/25/apple-focusing-on-lower-resolution-screens-to-make-a-more-affordable-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Americans Still Falling for Romance Scams, Survey Shows](https://www.cnet.com/tech/services-and-software/americans-still-falling-for-romance-scams-survey-shows/#ftag=CAD590a51e)
+ - [Torras Ostand 360 Spin Case returns with two great options for iPhone 16 lineup](https://appleinsider.com/articles/24/09/25/torras-ostand-360-spin-case-returns-with-two-great-options-for-iphone-16-lineup?utm_medium=rss)
+ - [Artificial Intelligence Can Break Down Old Songs Into Individual &#39;Stems.&#39; Here&#39;s How It&#39;s Used](https://www.cnet.com/tech/services-and-software/artificial-intelligence-can-break-down-songs-into-individual-stems-heres-how-its-used/#ftag=CAD590a51e)
+ - [The Dinosaur-Killing Asteroid: Scientists Now Believe They Know Its Origin Story](https://www.cnet.com/tech/the-dinosaur-killing-asteroid-scientists-now-believe-they-know-its-origin-story/#ftag=CAD590a51e)
+ - [The Most Capable Open Source AI Model Yet Could Supercharge AI Agents](https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

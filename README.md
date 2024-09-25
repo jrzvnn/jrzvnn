@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
- - 😝 [. . .](http://9gag.com/gag/aGyjMoK)
- - 💣 [True](http://9gag.com/gag/aD2xbEO)
- - 😝 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)
- - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
+ - 😝 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 💣 [To infinity and beyond](http://9gag.com/gag/a1mo20D)
+ - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 👉 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
 
 ---
 

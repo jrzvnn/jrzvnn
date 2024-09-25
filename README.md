@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)
- - 😝 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
- - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 😝 [Let that sink in](http://9gag.com/gag/a9yp2no)
  - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
+ - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
 
 ---
 

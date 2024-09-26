@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tencent is the unidentified shareholder that raised about $206M after selling Chinese brokerage-platform Futu&#39;s American depositary shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p22#a240926p22)
  - [Sources: the DOJ is investigating Super Micro after a report by short-seller Hindenburg Research; an ex-employee accused the company of accounting violations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240926/p21#a240926p21)
  - [PS5 vs. PS5 Slim vs. PS5 Pro: What’s the Difference, and Which Console Should You Get?](https://www.wired.com/story/ps5-vs-ps5-slim-vs-ps5-pro-whats-the-difference-and-which-one-should-you-get/)
  - [13 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2024&rpar;](https://www.wired.com/gallery/best-couches/)
- - [Letter from Congress could be first step in forcing Apple to stop using BOE displays](https://appleinsider.com/articles/24/09/26/letter-from-congress-could-be-first-step-in-forcing-apple-to-stop-using-boe-displays?utm_medium=rss)
- - [The Toyota Prius and Rav4 are no longer Prime](https://www.theverge.com/2024/9/26/24254955/toyota-prius-rav4-plug-in-hybrid-drops-prime-2025)<!-- TECH:END -->
+ - [Letter from Congress could be first step in forcing Apple to stop using BOE displays](https://appleinsider.com/articles/24/09/26/letter-from-congress-could-be-first-step-in-forcing-apple-to-stop-using-boe-displays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a demo of Sora initially took 10+ minutes to make a 1-minute clip; source: OpenAI execs spoke of training an improved Sora that could quickly make clips &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240925/p56#a240925p56)
+ - [I Played Like a Dragon: Pirate Yakuza in Hawaii. It&#39;s a Swarthy Sea Dog Adventure](https://www.cnet.com/tech/gaming/i-played-like-a-dragon-pirate-yakuza-in-hawaii-its-a-swarthy-sea-dog-adventure/#ftag=CAD590a51e)
  - [This Quick Trick Cools My Bedroom Without Blasting the AC](https://www.cnet.com/how-to/this-quick-trick-cools-my-bedroom-without-blasting-ac/#ftag=CAD590a51e)
  - [PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/240925/p55#a240925p55)
- - [Ecobee Smart Thermostat Premium Review: Expensive, but It Does Everything](https://www.cnet.com/home/energy-and-utilities/ecobee-smart-thermostat-premium-review/#ftag=CAD590a51e)
- - [Best Gel Mattress for 2024](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
- - [OpenAI&#39;s chief research officer, Bob McGrew, and a research VP, Barret Zoph, are leaving the company; OpenAI names Mark Chen as new SVP of Research, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p54#a240925p54)<!-- TECH:END -->
+ - [Ecobee Smart Thermostat Premium Review: Expensive, but It Does Everything](https://www.cnet.com/home/energy-and-utilities/ecobee-smart-thermostat-premium-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

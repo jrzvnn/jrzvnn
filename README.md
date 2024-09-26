@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 💣 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
  - 😝 [Unexpected!](http://9gag.com/gag/a2voGNE)
- - 👉 [Crazy dogs](http://9gag.com/gag/abAMRRE)<!-- MEMES:END -->
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 ---
 

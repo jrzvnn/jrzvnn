@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)
- - 💣 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
- - 😝 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
- - 👉 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)<!-- MEMES:END -->
+ - 😝 [Anglo-Saxons in 1945 thinking that they won the war...](http://9gag.com/gag/a2vo2OE)
+ - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 💣 [Universal language](http://9gag.com/gag/awyX4rx)
+ - 😝 [To infinity and beyond](http://9gag.com/gag/a1mo20D)
+ - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 ---
 

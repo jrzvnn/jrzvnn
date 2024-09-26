@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s Horizon Zero Dawn remaster may cost $20 more than we thought](https://www.theverge.com/2024/9/26/24255343/sony-horizon-zero-dawn-remaster-price-double-psn)
+ - [X is preventing users from posting links to a newsletter containing a hacked JD Vance dossier; X suspended the newsletter author Ken Klippenstein&#39;s account &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240926/p31#a240926p31)
+ - [Google’s NotebookLM can help you dive deeper into YouTube videos](https://www.theverge.com/2024/9/26/24255176/google-notebooklm-summarize-youtube-videos-ai)
  - [X blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
- - [Ford’s BlueCruise 1.4 update lets you keep your hands off the wheel much longer](https://www.theverge.com/2024/9/26/24255245/ford-bluecruise-1-4-hands-free-driving-ota-update)
- - [AirPods Pro 2 get bug fix update for third time in September](https://appleinsider.com/articles/24/09/26/airpods-pro-2-get-new-firmware-with-version-7?utm_medium=rss)
- - [&#39;Balatro&#39; deals itself into the App Store and Apple Arcade](https://appleinsider.com/articles/24/09/26/balatro-deals-itself-into-the-app-store-and-apple-arcade?utm_medium=rss)
- - [This Anker MagSafe Battery Pack Is Down to Only $20](https://www.cnet.com/deals/this-anker-magsafe-battery-pack-down-to-only-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ford’s BlueCruise 1.4 update lets you keep your hands off the wheel much longer](https://www.theverge.com/2024/9/26/24255245/ford-bluecruise-1-4-hands-free-driving-ota-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

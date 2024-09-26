@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Meta Connect, Mark Zuckerberg was the whole show, giving it a &quot;Zuck or nothing&quot; feel, and he has never seemed more intent on claiming the mantle of innovator &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240926/p12#a240926p12)
- - [Thursday Night Football: How to Watch, Stream Cowboys vs. Giants Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-cowboys-vs-giants-tonight-on-prime-video/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Sept. 26, 2024: Don&#39;t Sleep on APYs as High as 5.30%. They Won&#39;t Last Long](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-26-2024/#ftag=CAD590a51e)
- - [The Easiest Bacon Cooking Hack That Nobody Talks About](https://www.cnet.com/how-to/the-easiest-bacon-cooking-hack-that-nobody-talks-about/#ftag=CAD590a51e)
- - [Pilots Are Dying of Tiredness. Tech Can’t Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)<!-- TECH:END -->
+ - [A look at some exciting startups from Day 1 of YC&#39;s AI-heavy S24 Demo Day, including estate planning startup Elayne and clinical trial startup Baseline &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/240926/p14#a240926p14)
+ - [An interview with Rabbit founder Jesse Lyu on the Rabbit R1 on criticism of the AI device, bad reviews, and more; Lyu says ~5,000 people now use the R1 daily &lpar;Liz Stinson/Fast Company&rpar;](http://www.techmeme.com/240926/p13#a240926p13)
+ - [National Coffee Day 2024: Deals, Freebies and More](https://www.cnet.com/culture/national-coffee-day-2024-deals-freebies-and-more/#ftag=CAD590a51e)
+ - [Stop Paying for Distilled Water: Here&#39;s an Easy DIY Recipe](https://www.cnet.com/how-to/stop-paying-for-distilled-water-heres-an-easy-diy-recipe/#ftag=CAD590a51e)
+ - [Your iPhone Just Got T9 Dialing With iOS 18](https://www.cnet.com/tech/services-and-software/your-iphone-just-got-t9-dialing-with-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

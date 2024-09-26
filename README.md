@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thursday Night Football: How to Watch, Stream Cowboys vs. Giants Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-cowboys-vs-giants-tonight-on-prime-video/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Sept. 26, 2024: Don&#39;t Sleep on APYs as High as 5.30%. They Won&#39;t Last Long](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-26-2024/#ftag=CAD590a51e)
- - [The Easiest Bacon Cooking Hack That Nobody Talks About](https://www.cnet.com/how-to/the-easiest-bacon-cooking-hack-that-nobody-talks-about/#ftag=CAD590a51e)
  - [Pilots Are Dying of Tiredness. Tech Can’t Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
- - [An interview with Nintendo&#39;s Shigeru Miyamoto, who in recent years has focused on movies and amusement parks, on the new Nintendo Museum in Kyoto and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240926/p11#a240926p11)<!-- TECH:END -->
+ - [An interview with Nintendo&#39;s Shigeru Miyamoto, who in recent years has focused on movies and amusement parks, on the new Nintendo Museum in Kyoto and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240926/p11#a240926p11)
+ - [Soon After the Deadly Hezbollah Pager Explosions, This AI-Generated Podcast Went Up](https://www.wired.com/story/pager-protocol-pager-explosion-ai-podcast/)
+ - [Study: newer, bigger versions of LLMs like OpenAI&#39;s GPT, Meta&#39;s Llama, and BigScience&#39;s BLOOM are more inclined to give wrong answers than to admit ignorance &lpar;Nicola Jones/Nature&rpar;](http://www.techmeme.com/240926/p10#a240926p10)
+ - [US filing: Oracle reveals a 29% stake in server CPU design startup Ampere with an option to own; Ampere CEO Renee James is stepping down from Oracle&#39;s board &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p9#a240926p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

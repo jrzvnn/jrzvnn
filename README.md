@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to preorder the PS5 Pro and PlayStation’s 30th anniversary collection](https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date)
  - [Xiaomi 14T and 14T Pro Review: Solid but Not Snazzy](https://www.wired.com/review/xiaomi-14t-pro/)
  - [Jony Ive&#39;s LoveFrom firm adopts new logo mascot](https://appleinsider.com/articles/24/09/26/jony-ives-lovefrom-firm-adopts-new-logo-mascot?utm_medium=rss)
  - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)
- - [De-Fi Platform Studio Review: A Good Compact Recording Desk](https://www.wired.com/review/de-fi-platform-studio/)
- - [Disney+ is now cracking down on password sharing in the U.S.](https://appleinsider.com/articles/24/09/26/disney-is-now-cracking-down-on-password-sharing-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [De-Fi Platform Studio Review: A Good Compact Recording Desk](https://www.wired.com/review/de-fi-platform-studio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

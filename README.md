@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Horizon Store now supports 2D apps built as PWAs, Android native apps, or via the new Meta Spatial SDK, which lets developers use Android dev tools &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240925/p53#a240925p53)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Intel is releasing another microcode update to protect crashing Raptor Lake CPUs](https://www.theverge.com/2024/9/25/24254611/intel-13th-14th-gen-crashes-september-2024-microcode-0x12b)
- - [Ubisoft lowers its FY 2024-25 bookings forecast to &amp;euro;1.95B, vs. &amp;euro;2.42B est., and delays Assassin&#39;s Creed Shadows to February 14, 2025; UBI closes down 4.52% &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240925/p52#a240925p52)
- - [Blue Origin gets its New Glenn rocket on track with new test fire](https://www.theverge.com/2024/9/25/24254512/blue-origin-new-glenn-second-stage-hotfire-test-blue-ring)<!-- TECH:END -->
+ - [This Quick Trick Cools My Bedroom Without Blasting the AC](https://www.cnet.com/how-to/this-quick-trick-cools-my-bedroom-without-blasting-ac/#ftag=CAD590a51e)
+ - [PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/240925/p55#a240925p55)
+ - [Ecobee Smart Thermostat Premium Review: Expensive, but It Does Everything](https://www.cnet.com/home/energy-and-utilities/ecobee-smart-thermostat-premium-review/#ftag=CAD590a51e)
+ - [Best Gel Mattress for 2024](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
+ - [OpenAI&#39;s chief research officer, Bob McGrew, and a research VP, Barret Zoph, are leaving the company; OpenAI names Mark Chen as new SVP of Research, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p54#a240925p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

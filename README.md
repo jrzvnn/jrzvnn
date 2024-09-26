@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
  - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 💣 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 😝 [Biker Starting A Race Gets Fooled By Spectator](http://9gag.com/gag/avyORZd)
- - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
+ - 💣 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)
+ - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
+ - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
 
 ---
 

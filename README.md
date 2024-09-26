@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now listen very carefully; DON&#39;T put the candle back](http://9gag.com/gag/aAyxZOE)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 💣 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)
+ - 😝 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
  - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 💣 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 ---
 

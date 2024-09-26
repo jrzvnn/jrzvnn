@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Governor Gavin Newsom signed AB 2426, which forces digital stores to tell customers they are getting a revocable license when &quot;buying&quot; digital media &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240926/p24#a240926p24)
  - [Apple wants a future Apple Pencil to work as a TV antenna](https://appleinsider.com/articles/24/09/26/apple-wants-a-future-apple-pencil-to-work-as-a-tv-antenna?utm_medium=rss)
  - [Israel-based GEOX, which uses AI to analyze real estate risk from climate-related disasters, raised a $19M Series A, bringing its total funding to $23M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240926/p23#a240926p23)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Make remote work safe and private with a trustworthy tool like Surfshark VPN](https://appleinsider.com/articles/24/09/26/make-remote-work-safe-and-private-with-a-trustworthy-tool-like-surfshark-vpn?utm_medium=rss)
- - [Apple, Meta ignore EU artificial intelligence regulatory initiative for now](https://appleinsider.com/articles/24/09/26/apple-meta-ignore-eu-artificial-intelligence-regulatory-initiative-for-now?utm_medium=rss)<!-- TECH:END -->
+ - [Make remote work safe and private with a trustworthy tool like Surfshark VPN](https://appleinsider.com/articles/24/09/26/make-remote-work-safe-and-private-with-a-trustworthy-tool-like-surfshark-vpn?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

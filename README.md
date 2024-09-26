@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/avyOvyX)
- - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
- - 💣 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 😝 [64 year old US woman travels to Switzerland to die in the suicide capsule](http://9gag.com/gag/aD2xZ7N)
+ - 😝 [She cyberpunks](http://9gag.com/gag/a87oDBp)
+ - 💣 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 😝 [Stranger Things](http://9gag.com/gag/ajPEKGR)
+ - 👉 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [From the brilliant minds that brought you Concord, Dustborn and DA Veilguard](http://9gag.com/gag/a34K2Gm)
- - 👉 [Anglo-Saxons in 1945 thinking that they won the war...](http://9gag.com/gag/a2vo2OE)<!-- MEMES:END -->
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 💣 [True](http://9gag.com/gag/aD2xbEO)
+ - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 👉 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)<!-- MEMES:END -->
 
 ---
 

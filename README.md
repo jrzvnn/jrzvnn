@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Shower Water Filters, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-shower-water-filters/)
+ - [Is AI More Sustainable if You Generate it Underwater?](https://www.wired.com/story/gadget-lab-podcast-660/)
  - [Q&amp;A with Meta CTO Andrew Bosworth on Orion, Reality Labs, building News Feed, competing with Apple, developers, the AR and VR bifurcation, Ray-Ban, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240926/p18#a240926p18)
  - [Google TV Streamer 4K Review: Smooth Streaming](https://www.wired.com/review/google-tv-streamer-4k/)
- - [Trump demanding that Apple must unlock shooter&#39;s iPhones because of foreign apps](https://appleinsider.com/articles/24/09/26/trump-demanding-that-apple-must-unlock-shooters-iphones-because-of-foreign-apps?utm_medium=rss)
- - [Google Maps is cracking down on fake reviews](https://www.theverge.com/2024/9/26/24254882/google-maps-removing-fake-business-reviews-warning-message)
- - [Sources: Peak XV, the largest India-focused VC fund, has realized ~$1.2B in exits since its Sequoia separation in June 2023, selling stakes in ~12 companies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p17#a240926p17)<!-- TECH:END -->
+ - [Trump demanding that Apple must unlock shooter&#39;s iPhones because of foreign apps](https://appleinsider.com/articles/24/09/26/trump-demanding-that-apple-must-unlock-shooters-iphones-because-of-foreign-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

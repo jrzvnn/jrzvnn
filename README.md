@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 😝 [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
+ - 💣 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
  - 👉 [Brb](http://9gag.com/gag/aLnjdQM)<!-- MEMES:END -->
 
 ---

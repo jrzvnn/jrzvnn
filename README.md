@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
  - 💣 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [You underestimate her power](http://9gag.com/gag/amo7Vzv)<!-- MEMES:END -->
 
 ---
 

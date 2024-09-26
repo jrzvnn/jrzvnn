@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google TV Streamer 4K Review: Smooth Streaming](https://www.wired.com/review/google-tv-streamer-4k/)
  - [Trump demanding that Apple must unlock shooter&#39;s iPhones because of foreign apps](https://appleinsider.com/articles/24/09/26/trump-demanding-that-apple-must-unlock-shooters-iphones-because-of-foreign-apps?utm_medium=rss)
  - [Google Maps is cracking down on fake reviews](https://www.theverge.com/2024/9/26/24254882/google-maps-removing-fake-business-reviews-warning-message)
  - [Sources: Peak XV, the largest India-focused VC fund, has realized ~$1.2B in exits since its Sequoia separation in June 2023, selling stakes in ~12 companies &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p17#a240926p17)
- - [Michigan honors Apple with prestigious 4-H award](https://appleinsider.com/articles/24/09/26/michigan-honors-apple-with-prestigious-4-h-award?utm_medium=rss)
- - [Would You Vote From Your Phone?](https://www.wired.com/story/vote-from-mobile-phone/)<!-- TECH:END -->
+ - [Michigan honors Apple with prestigious 4-H award](https://appleinsider.com/articles/24/09/26/michigan-honors-apple-with-prestigious-4-h-award?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

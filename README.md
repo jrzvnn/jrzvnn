@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
- - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
- - 💣 [A message](http://9gag.com/gag/ajPEB1q)
- - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 😝 [Task failed successfully](http://9gag.com/gag/adBKxdj)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 💣 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
+ - 👉 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)<!-- MEMES:END -->
 
 ---
 

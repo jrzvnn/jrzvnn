@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deepfake caller pretending to be a Ukrainian official almost tricked a US Senator](https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba)
+ - [Google’s new Nest Learning Thermostat is discounted for the first time](https://www.theverge.com/2024/9/26/24254879/google-nest-learning-thermostat-fourth-gen-elgato-stream-deck-deal-sale)
  - [Sources: Robinhood and Revolut are exploring offering their own stablecoins; Tether&#39;s USDT has grown to $120B, accounting for over two-thirds of market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p28#a240926p28)
  - [Volvo’s head of sustainability on why the brand tweaked its ‘EV or bust’ strategy](https://www.theverge.com/2024/9/26/24254996/volvo-ev-2030-adjustment-vanessa-butani-sustainable)
- - [John Wick: Ballerina passes the torch to a tiny dancer in first trailer](https://www.theverge.com/2024/9/26/24255157/john-wick-ballerina-trailer)
- - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)
- - [An Ultrathin Graphene Brain Implant Was Just Tested in a Person](https://www.wired.com/story/an-ultrathin-graphene-brain-implant-was-just-tested-in-a-person/)<!-- TECH:END -->
+ - [John Wick: Ballerina passes the torch to a tiny dancer in first trailer](https://www.theverge.com/2024/9/26/24255157/john-wick-ballerina-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

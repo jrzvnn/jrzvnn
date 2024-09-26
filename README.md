@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 😝 [In time](http://9gag.com/gag/aKGjWY1)
- - 💣 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 😝 [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
  - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
- - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
+ - 💣 [A message](http://9gag.com/gag/ajPEB1q)
+ - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 ---
 

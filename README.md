@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
- - 👉 [You underestimate her power](http://9gag.com/gag/amo7Vzv)<!-- MEMES:END -->
+ - 😝 [Beautiful.](http://9gag.com/gag/aYQgRgv)
+ - 😝 [YES](http://9gag.com/gag/a87oV2Q)
+ - 💣 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
+ - 😝 [Young legend\u2026](http://9gag.com/gag/aryg21p)
+ - 👉 [SWEET BABY INC slideshow resurfaces and show the agenda in western gaming industry to ruin gaming... Also saying Quentin Tarantino is bad because he makes good movies.](http://9gag.com/gag/aW41RNK)<!-- MEMES:END -->
 
 ---
 

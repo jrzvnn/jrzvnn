@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: IBM&#39;s AI isn&#39;t up to the job to meet CEO Arvind Krishna&#39;s commitment to replace ~7,800 staff and some of the people who could fix that have been let go &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240926/p8#a240926p8)
+ - [A US Senate security office email says a &quot;deepfake&quot; caller posed as the former foreign minister of Ukraine in a recent Zoom call with Sen. Benjamin L. Cardin &lpar;Karoun Demirjian/New York Times&rpar;](http://www.techmeme.com/240926/p7#a240926p7)
+ - [A look at Chinese PE firm CSC Group, which has stakes in 360 US tech startups via Hone Capital that is reportedly under an FBI probe over IP transfers to China &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240926/p6#a240926p6)
  - [a16z is a prosecution witness in the DOJ&#39;s case against BitClout founder Nader Al-Naji, who raised hundreds of millions dollars for his failed crypto startups &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240926/p5#a240926p5)
- - [Google says its transition to memory-safe languages like Rust led to memory-safe vulnerabilities in Android dropping from 76% in 2019 to 24% in 2024 &lpar;The Hacker News&rpar;](http://www.techmeme.com/240926/p4#a240926p4)
- - [Matt Mullenweg says WP Engine no longer has free WordPress.org access and WP Engine customers having trouble with their sites should contact WP Engine support &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240926/p3#a240926p3)
- - [Early Voting Underway in 5 States: When and How to Vote Early in Your State](https://www.cnet.com/news/politics/early-voting-has-begun-find-your-states-start-time-and-get-prepared/#ftag=CAD590a51e)
- - [Google Nest Learning Thermostat 4th Gen Review: Pricey but Packed With Features](https://www.cnet.com/home/energy-and-utilities/google-nest-learning-thermostat-4th-gen-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says its transition to memory-safe languages like Rust led to memory-safe vulnerabilities in Android dropping from 76% in 2019 to 24% in 2024 &lpar;The Hacker News&rpar;](http://www.techmeme.com/240926/p4#a240926p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

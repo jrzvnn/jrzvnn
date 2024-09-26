@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 💣 [Universal language](http://9gag.com/gag/awyX4rx)
- - 😝 [We are getting a new Ghost of Tsushima game!](http://9gag.com/gag/aYQgqww)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/avyOvyX)
+ - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
+ - 💣 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
+ - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
  - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 ---

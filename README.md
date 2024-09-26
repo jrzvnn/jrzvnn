@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
- - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
- - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 😝 [Congratulations](http://9gag.com/gag/ajPEBAx)
+ - 💣 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 ---
 

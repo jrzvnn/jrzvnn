@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
  - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 💣 [Sport is hard sometimes...](http://9gag.com/gag/aMVjzQX)
- - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 👉 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)<!-- MEMES:END -->
+ - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 😝 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 👉 [Brb](http://9gag.com/gag/aLnjdQM)<!-- MEMES:END -->
 
 ---
 

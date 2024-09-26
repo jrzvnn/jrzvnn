@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zillow will now show climate risks for property listings in the US](https://www.theverge.com/2024/9/26/24255325/zillow-real-estate-climate-risk-insurance)
+ - [Nab This GoTrax V14 Electric Balance Bike for Kids at a Record Low Price](https://www.cnet.com/roadshow/news/nab-this-gotrax-v14-electric-balance-bike-for-kids-at-a-record-low-price/#ftag=CAD590a51e)
+ - [Buying Unclaimed Mail Packages? It&#39;s Easy and Legal With These Sites](https://www.cnet.com/personal-finance/buying-unclaimed-mail-packages-its-easy-and-legal-with-these-sites/#ftag=CAD590a51e)
  - [Sony’s Horizon Zero Dawn remaster may cost $20 more than we thought](https://www.theverge.com/2024/9/26/24255343/sony-horizon-zero-dawn-remaster-price-double-psn)
- - [X is preventing users from posting links to a newsletter containing a hacked JD Vance dossier; X suspended the newsletter author Ken Klippenstein&#39;s account &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240926/p31#a240926p31)
- - [Google’s NotebookLM can help you dive deeper into YouTube videos](https://www.theverge.com/2024/9/26/24255176/google-notebooklm-summarize-youtube-videos-ai)
- - [X blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
- - [Ford’s BlueCruise 1.4 update lets you keep your hands off the wheel much longer](https://www.theverge.com/2024/9/26/24255245/ford-bluecruise-1-4-hands-free-driving-ota-update)<!-- TECH:END -->
+ - [X is preventing users from posting links to a newsletter containing a hacked JD Vance dossier; X suspended the newsletter author Ken Klippenstein&#39;s account &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240926/p31#a240926p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

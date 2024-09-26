@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Indian food delivery company Swiggy files for an IPO in India; source: Swiggy plans to raise $1.25B at a $15B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240926/p32#a240926p32)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Cognitive Shuffling: Conquer Your Late Night Anxiety With This Simple Sleep Hack](https://www.cnet.com/health/sleep/cognitive-shuffling-conquer-your-late-night-anxiety-with-this-simple-sleep-hack/#ftag=CAD590a51e)
- - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)
- - [Robotic Apple Home Hub could have square-ish display](https://appleinsider.com/articles/24/09/26/robotic-apple-home-hub-could-have-square-ish-display?utm_medium=rss)<!-- TECH:END -->
+ - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

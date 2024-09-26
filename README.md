@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Photos Reveal Holes in NASA Mars Rover Wheels, but They&#39;re Still Turning](https://www.cnet.com/science/new-photos-reveal-holes-in-nasa-mars-rover-wheels-but-theyre-still-turning/#ftag=CAD590a51e)
+ - [John Wick: Ballerina passes the torch to a tiny dancer in first trailer](https://www.theverge.com/2024/9/26/24255157/john-wick-ballerina-trailer)
+ - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)
+ - [An Ultrathin Graphene Brain Implant Was Just Tested in a Person](https://www.wired.com/story/an-ultrathin-graphene-brain-implant-was-just-tested-in-a-person/)
  - [Samsung unveils the 14.6&quot; Galaxy Tab S10 Ultra and 12.4&quot; Galaxy Tab S10+, which are &quot;built with AI enhancements&quot;, available for $1,200+ and $999+, respectively &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/240926/p27#a240926p27)
- - [Amazon&#39;s early Prime Day deals on eero WiFi routers start at just $39.99](https://appleinsider.com/articles/24/09/26/amazons-early-prime-day-deals-on-eero-wifi-routers-start-at-just-3999?utm_medium=rss)
- - [Peeing Too Much at Night? 5 Things to Start Doing to Save Your Sleep](https://www.cnet.com/health/sleep/peeing-too-much-at-night-5-things-to-start-doing-to-save-your-sleep/#ftag=CAD590a51e)
- - [Massachusetts Solar Panel Incentives: Rebates, Net Metering, Financing and More](https://www.cnet.com/home/energy-and-utilities/massachusetts-solar-panel-costs-incentives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s early Prime Day deals on eero WiFi routers start at just $39.99](https://appleinsider.com/articles/24/09/26/amazons-early-prime-day-deals-on-eero-wifi-routers-start-at-just-3999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

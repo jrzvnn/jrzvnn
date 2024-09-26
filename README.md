@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
- - 😝 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
- - 💣 [We all need a little push sometimes](http://9gag.com/gag/ae9Mxgq)
- - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
+ - 😝 [A message](http://9gag.com/gag/ajPEB1q)
+ - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
+ - 💣 [Sport is hard sometimes...](http://9gag.com/gag/aMVjzQX)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)<!-- MEMES:END -->
 
 ---
 

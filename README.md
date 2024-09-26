@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
- - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
- - 💣 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)
+ - 😝 [Now listen very carefully; DON&#39;T put the candle back](http://9gag.com/gag/aAyxZOE)
  - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)<!-- MEMES:END -->
+ - 💣 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
 
 ---
 

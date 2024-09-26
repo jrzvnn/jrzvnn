@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Governor Gavin Newsom signed AB 2426, which forces digital stores to tell customers they are getting a revocable license when &quot;buying&quot; digital media &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240926/p24#a240926p24)
- - [Apple wants a future Apple Pencil to work as a TV antenna](https://appleinsider.com/articles/24/09/26/apple-wants-a-future-apple-pencil-to-work-as-a-tv-antenna?utm_medium=rss)
- - [Israel-based GEOX, which uses AI to analyze real estate risk from climate-related disasters, raised a $19M Series A, bringing its total funding to $23M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240926/p23#a240926p23)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Make remote work safe and private with a trustworthy tool like Surfshark VPN](https://appleinsider.com/articles/24/09/26/make-remote-work-safe-and-private-with-a-trustworthy-tool-like-surfshark-vpn?utm_medium=rss)<!-- TECH:END -->
+ - [Google updates its AI note-taking assistant NotebookLM to let users get summaries of YouTube videos and audio files, and create sharable AI audio discussions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p25#a240926p25)
+ - [Top 12 Probiotic Foods That Will Make Your Gut Healthy and Happy](https://www.cnet.com/health/nutrition/top-12-probiotic-foods-that-will-make-your-gut-healthy-and-happy/#ftag=CAD590a51e)
+ - [Agatha All Along’s practical effects were key to bringing its magic to life](https://www.theverge.com/2024/9/26/24253494/agatha-all-along-witches-road-practical-effects)
+ - [Best Unlimited Data Plans for October 2024](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)
+ - [California Governor Gavin Newsom signed AB 2426, which forces digital stores to tell customers they are getting a revocable license when &quot;buying&quot; digital media &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240926/p24#a240926p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

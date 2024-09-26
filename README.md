@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 💣 [True](http://9gag.com/gag/aD2xbEO)
- - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - 👉 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)<!-- MEMES:END -->
+ - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 💣 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 😝 [Anglo-Saxons in 1945 thinking that they won the war...](http://9gag.com/gag/a2vo2OE)
+ - 👉 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)<!-- MEMES:END -->
 
 ---
 

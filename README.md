@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful.](http://9gag.com/gag/aYQgRgv)
- - 😝 [YES](http://9gag.com/gag/a87oV2Q)
- - 💣 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
- - 😝 [Young legend\u2026](http://9gag.com/gag/aryg21p)
- - 👉 [SWEET BABY INC slideshow resurfaces and show the agenda in western gaming industry to ruin gaming... Also saying Quentin Tarantino is bad because he makes good movies.](http://9gag.com/gag/aW41RNK)<!-- MEMES:END -->
+ - 😝 [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
+ - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 💣 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)<!-- MEMES:END -->
 
 ---
 

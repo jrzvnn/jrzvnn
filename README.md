@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
- - 💣 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
+ - 😝 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
+ - 😝 [Beautiful.](http://9gag.com/gag/aYQgRgv)
+ - 💣 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
+ - 😝 [Efficient use of space](http://9gag.com/gag/agmXj3W)
+ - 👉 [The office I need.](http://9gag.com/gag/aMVjyO6)<!-- MEMES:END -->
 
 ---
 

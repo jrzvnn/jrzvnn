@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deepfake caller pretending to be a Ukrainian official almost tricked a US Senator](https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba)
- - [Google’s new Nest Learning Thermostat is discounted for the first time](https://www.theverge.com/2024/9/26/24254879/google-nest-learning-thermostat-fourth-gen-elgato-stream-deck-deal-sale)
- - [Sources: Robinhood and Revolut are exploring offering their own stablecoins; Tether&#39;s USDT has grown to $120B, accounting for over two-thirds of market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p28#a240926p28)
- - [Volvo’s head of sustainability on why the brand tweaked its ‘EV or bust’ strategy](https://www.theverge.com/2024/9/26/24254996/volvo-ev-2030-adjustment-vanessa-butani-sustainable)
- - [John Wick: Ballerina passes the torch to a tiny dancer in first trailer](https://www.theverge.com/2024/9/26/24255157/john-wick-ballerina-trailer)<!-- TECH:END -->
+ - [If you&#39;re having problems with USB on macOS Sequoia, you&#39;re not alone](https://appleinsider.com/articles/24/09/26/if-youre-having-problems-with-usb-on-macos-sequoia-youre-not-alone?utm_medium=rss)
+ - [Twitch’s BibleThump will soon go to emote heaven](https://www.theverge.com/2024/9/26/24255122/twitch-biblethump-emote-binding-of-isaac)
+ - [LG Display agrees to sell its stake in its large LCD display plant in China to TCL&#39;s LCD unit CSOT for ~$1.54B; LG will now no longer make LCD panels in China &lpar;Reuters&rpar;](http://www.techmeme.com/240926/p29#a240926p29)
+ - [An out-of-warranty battery almost left this paralyzed man’s exoskeleton useless](https://www.theverge.com/2024/9/26/24255074/former-jockey-michael-straight-exoskeleton-repair-battery)
+ - [Your HVAC Should Last 20 Years, but It Can Last Longer. Here’s How](https://www.cnet.com/home/energy-and-utilities/heres-how-long-your-hvac-system-should-last/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

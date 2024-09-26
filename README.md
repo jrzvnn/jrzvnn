@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
- - 💣 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
- - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
- - 👉 [Brb](http://9gag.com/gag/aLnjdQM)<!-- MEMES:END -->
+ - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 😝 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)
+ - 👉 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)<!-- MEMES:END -->
 
 ---
 

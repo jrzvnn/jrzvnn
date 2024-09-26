@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A message](http://9gag.com/gag/ajPEB1q)
- - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 💣 [Sport is hard sometimes...](http://9gag.com/gag/aMVjzQX)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)<!-- MEMES:END -->
+ - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 😝 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)
+ - 💣 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
+ - 😝 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 👉 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)<!-- MEMES:END -->
 
 ---
 

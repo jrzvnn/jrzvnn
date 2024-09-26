@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants a future Apple Pencil to work as a TV antenna](https://appleinsider.com/articles/24/09/26/apple-wants-a-future-apple-pencil-to-work-as-a-tv-antenna?utm_medium=rss)
+ - [Israel-based GEOX, which uses AI to analyze real estate risk from climate-related disasters, raised a $19M Series A, bringing its total funding to $23M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240926/p23#a240926p23)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Make remote work safe and private with a trustworthy tool like Surfshark VPN](https://appleinsider.com/articles/24/09/26/make-remote-work-safe-and-private-with-a-trustworthy-tool-like-surfshark-vpn?utm_medium=rss)
- - [Apple, Meta ignore EU artificial intelligence regulatory initiative for now](https://appleinsider.com/articles/24/09/26/apple-meta-ignore-eu-artificial-intelligence-regulatory-initiative-for-now?utm_medium=rss)
- - [iPhone 16 features and designs that didn&#39;t make it out of prototyping](https://appleinsider.com/articles/24/09/25/iphone-16-features-and-designs-that-didnt-make-it-out-of-prototyping?utm_medium=rss)
- - [The Last of Us’ new season 2 trailer puts Joel and Ellie through the wringer](https://www.theverge.com/2024/9/26/24255066/the-last-of-us-tlou-season-two-teaser-trailer)
- - [Sources: Tencent is the unidentified shareholder that raised about $206M after selling Chinese brokerage-platform Futu&#39;s American depositary shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p22#a240926p22)<!-- TECH:END -->
+ - [Apple, Meta ignore EU artificial intelligence regulatory initiative for now](https://appleinsider.com/articles/24/09/26/apple-meta-ignore-eu-artificial-intelligence-regulatory-initiative-for-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

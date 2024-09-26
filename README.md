@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matt Mullenweg says Automattic has &quot;been attempting to make a licensing deal&quot; with WP Engine &quot;for a very long time, and all they have done has string us along&quot; &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/240926/p16#a240926p16)
  - [LG rolls out full-screen screensaver ads to its smart TVs, including its expensive OLED models; the ads, on by default, can be disabled &lpar;Rasmus Larsen/FlatpanelsHD&rpar;](http://www.techmeme.com/240926/p15#a240926p15)
  - [A look at some exciting startups from Day 1 of YC&#39;s AI-heavy S24 Demo Day, including estate planning startup Elayne and clinical trial startup Baseline &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/240926/p14#a240926p14)
  - [An interview with Rabbit founder Jesse Lyu on the Rabbit R1 on criticism of the AI device, bad reviews, and more; Lyu says ~5,000 people now use the R1 daily &lpar;Liz Stinson/Fast Company&rpar;](http://www.techmeme.com/240926/p13#a240926p13)
- - [National Coffee Day 2024: Deals, Freebies and More](https://www.cnet.com/culture/national-coffee-day-2024-deals-freebies-and-more/#ftag=CAD590a51e)
- - [Stop Paying for Distilled Water: Here&#39;s an Easy DIY Recipe](https://www.cnet.com/how-to/stop-paying-for-distilled-water-heres-an-easy-diy-recipe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [National Coffee Day 2024: Deals, Freebies and More](https://www.cnet.com/culture/national-coffee-day-2024-deals-freebies-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

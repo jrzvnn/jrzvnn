@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s RTX 5090 will reportedly include 32GB of VRAM and hefty power requirements](https://www.theverge.com/2024/9/26/24255234/nvidia-rtx-5090-5080-specs-leak)
  - [If you&#39;re having problems with USB on macOS Sequoia, you&#39;re not alone](https://appleinsider.com/articles/24/09/26/if-youre-having-problems-with-usb-on-macos-sequoia-youre-not-alone?utm_medium=rss)
  - [Twitch’s BibleThump will soon go to emote heaven](https://www.theverge.com/2024/9/26/24255122/twitch-biblethump-emote-binding-of-isaac)
  - [LG Display agrees to sell its stake in its large LCD display plant in China to TCL&#39;s LCD unit CSOT for ~$1.54B; LG will now no longer make LCD panels in China &lpar;Reuters&rpar;](http://www.techmeme.com/240926/p29#a240926p29)
- - [An out-of-warranty battery almost left this paralyzed man’s exoskeleton useless](https://www.theverge.com/2024/9/26/24255074/former-jockey-michael-straight-exoskeleton-repair-battery)
- - [Your HVAC Should Last 20 Years, but It Can Last Longer. Here’s How](https://www.cnet.com/home/energy-and-utilities/heres-how-long-your-hvac-system-should-last/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An out-of-warranty battery almost left this paralyzed man’s exoskeleton useless](https://www.theverge.com/2024/9/26/24255074/former-jockey-michael-straight-exoskeleton-repair-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

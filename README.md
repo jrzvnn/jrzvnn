@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a student in Texas refused to hand over her cell phone, her teacher called the police and this happened](http://9gag.com/gag/aVv3V1O)
- - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
- - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 💣 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 😝 [Biker Starting A Race Gets Fooled By Spectator](http://9gag.com/gag/avyORZd)
  - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
 
 ---

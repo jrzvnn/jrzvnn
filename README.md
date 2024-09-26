@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anglo-Saxons in 1945 thinking that they won the war...](http://9gag.com/gag/a2vo2OE)
- - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 💣 [Universal language](http://9gag.com/gag/awyX4rx)
- - 😝 [To infinity and beyond](http://9gag.com/gag/a1mo20D)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 😝 [Take that mailman](https://www.reddit.com/r/funny/comments/1fprtg0/take_that_mailman/)
+ - 😝 [when you think about it](https://www.reddit.com/r/memes/comments/1fpqt9b/when_you_think_about_it/)
+ - 💣 [&quot;Oh it is slippery?&quot;](https://www.reddit.com/r/memes/comments/1fpqstp/oh_it_is_slippery/)
+ - 😝 [Here&#39;s Proof :D](https://www.reddit.com/r/memes/comments/1fppnht/heres_proof_d/)
+ - 👉 [Gotta pretend I am blind.](https://www.reddit.com/r/memes/comments/1fpouwo/gotta_pretend_i_am_blind/)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)
- - 😝 [Beautiful](http://9gag.com/gag/aPAjn9P)
- - 💣 [Unexpected!](http://9gag.com/gag/a2voGNE)
- - 😝 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
- - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
+ - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 😝 [Unexpected!](http://9gag.com/gag/a2voGNE)
+ - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
 
 ---
 

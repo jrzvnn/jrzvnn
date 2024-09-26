@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Task failed successfully](http://9gag.com/gag/adBKxdj)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 💣 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
- - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
- - 👉 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)<!-- MEMES:END -->
+ - 😝 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
+ - 😝 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
+ - 💣 [We all need a little push sometimes](http://9gag.com/gag/ae9Mxgq)
+ - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
 
 ---
 

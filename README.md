@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
- - 💣 [Stranger Things](http://9gag.com/gag/ajPEKGR)
  - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
+ - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
+ - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
+ - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
 
 ---
 

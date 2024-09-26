@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take that mailman](https://www.reddit.com/r/funny/comments/1fprtg0/take_that_mailman/)
- - 😝 [when you think about it](https://www.reddit.com/r/memes/comments/1fpqt9b/when_you_think_about_it/)
- - 💣 [&quot;Oh it is slippery?&quot;](https://www.reddit.com/r/memes/comments/1fpqstp/oh_it_is_slippery/)
- - 😝 [Here&#39;s Proof :D](https://www.reddit.com/r/memes/comments/1fppnht/heres_proof_d/)
- - 👉 [Gotta pretend I am blind.](https://www.reddit.com/r/memes/comments/1fpouwo/gotta_pretend_i_am_blind/)<!-- MEMES:END -->
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 😝 [From the brilliant minds that brought you Concord, Dustborn and DA Veilguard](http://9gag.com/gag/a34K2Gm)
+ - 👉 [Anglo-Saxons in 1945 thinking that they won the war...](http://9gag.com/gag/a2vo2OE)<!-- MEMES:END -->
 
 ---
 

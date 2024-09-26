@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://www.theverge.com/2024/9/26/24255026/moment-smartphone-filmmaking-supercage)
  - [Samsung’s new Galaxy S24 FE brings AI features to a lower price](https://www.theverge.com/2024/9/26/24255031/samsung-galaxy-s24-fe-watch-lte-tab-s10-ultra-announced)
  - [Google updates its AI note-taking assistant NotebookLM to let users get summaries of YouTube videos and audio files, and create sharable AI audio discussions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p25#a240926p25)
- - [Top 12 Probiotic Foods That Will Make Your Gut Healthy and Happy](https://www.cnet.com/health/nutrition/top-12-probiotic-foods-that-will-make-your-gut-healthy-and-happy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Agatha All Along’s practical effects were key to bringing its magic to life](https://www.theverge.com/2024/9/26/24253494/agatha-all-along-witches-road-practical-effects)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

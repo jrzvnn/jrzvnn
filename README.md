@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
  - 😝 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 💣 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 😝 [Anglo-Saxons in 1945 thinking that they won the war...](http://9gag.com/gag/a2vo2OE)
- - 👉 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)<!-- MEMES:END -->
+ - 💣 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 ---
 

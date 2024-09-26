@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California’s new law goes after ‘disappearing’ digital media](https://www.theverge.com/2024/9/26/24254922/california-digital-purchase-disclosure-law-ab-2426)
- - [Where to preorder the PS5 Pro and PlayStation’s 30th anniversary collection](https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date)
- - [Xiaomi 14T and 14T Pro Review: Solid but Not Snazzy](https://www.wired.com/review/xiaomi-14t-pro/)
- - [Jony Ive&#39;s LoveFrom firm adopts new logo mascot](https://appleinsider.com/articles/24/09/26/jony-ives-lovefrom-firm-adopts-new-logo-mascot?utm_medium=rss)
- - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)<!-- TECH:END -->
+ - [The Toyota Prius and Rav4 are no longer Prime](https://www.theverge.com/2024/9/26/24254955/toyota-prius-rav4-plug-in-hybrid-drops-prime-2025)
+ - [The Tor Project merges with Tails, a portable Linux-based OS focused on user privacy and anonymity; Tails says it had &quot;outgrown its existing structure&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240926/p20#a240926p20)
+ - [Thermacell LIV Smart Mosquito Repellent System Review: Expensive but Effective](https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system/)
+ - [LG smart TVs have started displaying ads when idle](https://www.theverge.com/2024/9/26/24254935/lg-smart-tv-oled-screensaver-ads-idle-mode)
+ - [California’s new law forces digital stores to admit you’re just licensing content, not buying it](https://www.theverge.com/2024/9/26/24254922/california-digital-purchase-disclosure-law-ab-2426)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

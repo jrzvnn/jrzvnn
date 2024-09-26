@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Balatro&#39; deals itself into the App Store and Apple Arcade](https://appleinsider.com/articles/24/09/26/balatro-deals-itself-into-the-app-store-and-apple-arcade?utm_medium=rss)
  - [The US FCC levies a $6M fine on Steve Kramer, who used AI to mimic Biden&#39;s voice and made thousands of robocalls to New Hampshire voters in early 2024 &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/240926/p30#a240926p30)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Nvidia’s RTX 5090 will reportedly include 32GB of VRAM and hefty power requirements](https://www.theverge.com/2024/9/26/24255234/nvidia-rtx-5090-5080-specs-leak)
- - [If you&#39;re having problems with USB on macOS Sequoia, you&#39;re not alone](https://appleinsider.com/articles/24/09/26/if-youre-having-problems-with-usb-on-macos-sequoia-youre-not-alone?utm_medium=rss)
- - [Twitch’s BibleThump will soon go to emote heaven](https://www.theverge.com/2024/9/26/24255122/twitch-biblethump-emote-binding-of-isaac)<!-- TECH:END -->
+ - [If you&#39;re having problems with USB on macOS Sequoia, you&#39;re not alone](https://appleinsider.com/articles/24/09/26/if-youre-having-problems-with-usb-on-macos-sequoia-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

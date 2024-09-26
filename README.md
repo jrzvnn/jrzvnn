@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
+ - 😝 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)
+ - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
  - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
+ - 👉 [You underestimate her power](http://9gag.com/gag/amo7Vzv)<!-- MEMES:END -->
 
 ---
 

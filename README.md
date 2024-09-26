@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung unveils the $649+ Galaxy S24 FE, a &quot;Fan Edition&quot; value-focused version of the S24 with a 6.7&quot; display, Exynos 2400e, and 8GB of RAM, in five colors &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240926/p26#a240926p26)
+ - [Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://www.theverge.com/2024/9/26/24255026/moment-smartphone-filmmaking-supercage)
+ - [Samsung’s new Galaxy S24 FE brings AI features to a lower price](https://www.theverge.com/2024/9/26/24255031/samsung-galaxy-s24-fe-watch-lte-tab-s10-ultra-announced)
  - [Google updates its AI note-taking assistant NotebookLM to let users get summaries of YouTube videos and audio files, and create sharable AI audio discussions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p25#a240926p25)
- - [Top 12 Probiotic Foods That Will Make Your Gut Healthy and Happy](https://www.cnet.com/health/nutrition/top-12-probiotic-foods-that-will-make-your-gut-healthy-and-happy/#ftag=CAD590a51e)
- - [Agatha All Along’s practical effects were key to bringing its magic to life](https://www.theverge.com/2024/9/26/24253494/agatha-all-along-witches-road-practical-effects)
- - [Best Unlimited Data Plans for October 2024](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)
- - [California Governor Gavin Newsom signed AB 2426, which forces digital stores to tell customers they are getting a revocable license when &quot;buying&quot; digital media &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240926/p24#a240926p24)<!-- TECH:END -->
+ - [Top 12 Probiotic Foods That Will Make Your Gut Healthy and Happy](https://www.cnet.com/health/nutrition/top-12-probiotic-foods-that-will-make-your-gut-healthy-and-happy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

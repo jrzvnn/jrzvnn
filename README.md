@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 💣 [Mom, what does that mean?](http://9gag.com/gag/avyOvyX)
- - 😝 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 😝 [Stranger Things](http://9gag.com/gag/ajPEKGR)
+ - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
 
 ---
 

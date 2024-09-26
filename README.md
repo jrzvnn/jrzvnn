@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soon, Californians Will Be Able to Cancel Subscriptions With 1 Click](https://www.cnet.com/personal-finance/soon-californians-will-be-able-to-cancel-subscriptions-with-1-click/#ftag=CAD590a51e)
  - [This Eufy security camera can show nighttime as if it were daytime](https://www.theverge.com/2024/9/26/24255217/eufycam-s3-pro-smart-security-camera-night-vision-apple-home)
  - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
- - [Best Firm Mattress of 2024 -- Expert Tested](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [Source: Amazon exceeded its goal of $1.8B in ad-spending commitments for its video-streaming offerings, including Thursday Night Football, in the coming year &lpar;The Information&rpar;](http://www.techmeme.com/240926/p34#a240926p34)<!-- TECH:END -->
+ - [Source: Amazon exceeded its goal of $1.8B in ad-spending commitments for its video-streaming offerings, including Thursday Night Football, in the coming year &lpar;The Information&rpar;](http://www.techmeme.com/240926/p34#a240926p34)
+ - [Hugging Face surpasses 1M AI model listings for the first time; the platform began as a chatbot app in 2016 before becoming a hub for AI models in 2020 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240926/p33#a240926p33)
+ - [Best Air Purifier Deals: Up to $270 Off Coway, Blueair, Dyson and More](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

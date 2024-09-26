@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
- - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - 💣 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [You underestimate her power](http://9gag.com/gag/amo7Vzv)<!-- MEMES:END -->
+ - 😝 [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 😝 [Unexpected!](http://9gag.com/gag/a2voGNE)
+ - 👉 [Crazy dogs](http://9gag.com/gag/abAMRRE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find a flaw in carmaker Kia&#39;s web portal that let them track millions of cars, unlock doors, and start engines; Kia seems to have fixed the issue &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240926/p19#a240926p19)
- - [Kristen Bell told Instagram to ‘get rid of AI’ before she became its official voice](https://www.theverge.com/2024/9/26/24253834/kristen-bell-meta-ai-voice-connect)
- - [How to Preorder Sony’s PS5 Pro &lpar;Before a Scalper Bot Does&rpar;](https://www.wired.com/story/how-to-preorder-the-sony-ps5-pro/)
- - [Amid Air Strikes and Rockets, an SMS From the Enemy](https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/)
- - [8 Best Shower Water Filters, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-shower-water-filters/)<!-- TECH:END -->
+ - [Jony Ive&#39;s LoveFrom firm adopts new logo mascot](https://appleinsider.com/articles/24/09/26/jony-ives-lovefrom-firm-adopts-new-logo-mascot?utm_medium=rss)
+ - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)
+ - [De-Fi Platform Studio Review: A Good Compact Recording Desk](https://www.wired.com/review/de-fi-platform-studio/)
+ - [Disney+ is now cracking down on password sharing in the U.S.](https://appleinsider.com/articles/24/09/26/disney-is-now-cracking-down-on-password-sharing-in-the-us?utm_medium=rss)
+ - [Leica made a second Q3 camera with a new lens and even higher price](https://www.theverge.com/2024/9/26/24254024/leica-q3-43-full-frame-fixed-lens-43mm-camera-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

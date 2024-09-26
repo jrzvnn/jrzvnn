@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says its transition to memory-safe languages like Rust led to memory-safe vulnerabilities in Android dropping from 76% in 2019 to 24% in 2024 &lpar;The Hacker News&rpar;](http://www.techmeme.com/240926/p4#a240926p4)
  - [Matt Mullenweg says WP Engine no longer has free WordPress.org access and WP Engine customers having trouble with their sites should contact WP Engine support &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240926/p3#a240926p3)
  - [Early Voting Underway in 5 States: When and How to Vote Early in Your State](https://www.cnet.com/news/politics/early-voting-has-begun-find-your-states-start-time-and-get-prepared/#ftag=CAD590a51e)
  - [Google Nest Learning Thermostat 4th Gen Review: Pricey but Packed With Features](https://www.cnet.com/home/energy-and-utilities/google-nest-learning-thermostat-4th-gen-review/#ftag=CAD590a51e)
- - [SK Hynix starts mass producing its new 12-layer HBM3E chips with 36GB per chip capacity, up 50% from its previous gen, slated for delivery by the end of 2024 &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/240926/p2#a240926p2)
- - [Blackstone confirms a &amp;pound;10B investment for an AI data center in northeast England; UK PM Keir Starmer says the construction will create 4,000 jobs in 2025 &lpar;Surbhi Misra/Reuters&rpar;](http://www.techmeme.com/240926/p1#a240926p1)<!-- TECH:END -->
+ - [SK Hynix starts mass producing its new 12-layer HBM3E chips with 36GB per chip capacity, up 50% from its previous gen, slated for delivery by the end of 2024 &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/240926/p2#a240926p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
+ - 😝 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)
+ - 😝 [Beautiful](http://9gag.com/gag/aPAjn9P)
  - 💣 [Unexpected!](http://9gag.com/gag/a2voGNE)
- - 😝 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 😝 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
 
 ---
 

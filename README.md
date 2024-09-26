@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackstone confirms a &amp;pound;10B investment for an AI data center in northeast England; UK PM Keir Starmer says the construction will create 4,000 jobs in 2025 &lpar;Surbhi Misra/Reuters&rpar;](http://www.techmeme.com/240926/p1#a240926p1)
+ - [Yes, You Need to Clean Your Air Conditioner](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-air-conditioner/#ftag=CAD590a51e)
  - [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://www.theverge.com/2024/9/26/24253924/steelseries-arctis-gamebuds-earbuds-pc-xbox-playstation-nintendo-switch-release-date-pricing)
  - [Tokyo-based Dinii, which lets diners order food from restaurants and shops through a mobile platform, raised a ~$48M Series B led by Bessemer and Hillhouse &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240925/p57#a240925p57)
- - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 26, #207](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-26-207/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 26, #1195](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-26-1195/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

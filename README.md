@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DefiLlama: Coinbase&#39;s L2 Ethereum network Base stands at $2.08B in total value locked, up from $430M at the start of 2024, marking a 370% growth year-to-date &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240927/p7#a240927p7)
  - [Acer Swift X 14 Review: A Hot and Loud Gaming Laptop](https://www.wired.com/review/acer-swift-x-14/)
  - [Current and former staff say OpenAI has rushed product announcements and safety testing, lost its lead over rivals, and Altman is detached from the day-to-day &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240927/p6#a240927p6)
  - [The Internet Archive’s Fight to Save Itself](https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/)
- - [Tesla’s Cybertruck Goes, Inevitably, to War](https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/)
- - [Apple Intelligence will come to an M5-powered Apple Vision Pro](https://appleinsider.com/articles/24/09/27/apple-intelligence-will-come-to-an-m5-powered-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla’s Cybertruck Goes, Inevitably, to War](https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

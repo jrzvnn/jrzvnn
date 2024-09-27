@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro experiences, Jony Ive&#39;s bear and more, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/27/iphone-16-pro-experiences-jony-ives-bear-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
- - [The Irish Data Protection Commission wraps up an inquiry launched in 2019 and fines Meta &amp;euro;91M for violating GDPR rules by storing passwords in plain text &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240927/p9#a240927p9)
- - [Apple, Don&#39;t Screw Up the iPhone Flip](https://www.cnet.com/tech/mobile/apple-dont-screw-up-the-iphone-flip/#ftag=CAD590a51e)
- - [Google Maps Is Making It Easier to Spot Businesses With Fake Reviews](https://www.cnet.com/tech/services-and-software/google-maps-is-making-it-easier-to-spot-businesses-with-fake-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at some standout startups from Day 2 of YC&#39;s S24 Demo Day, including energy-efficient AI chips maker Exa Laboratories and freight carpooling startup Oway &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240927/p10#a240927p10)
+ - [Robotic Apple Home Hub could have square display](https://appleinsider.com/articles/24/09/26/robotic-apple-home-hub-could-have-square-ish-display?utm_medium=rss)
+ - [Meta stored 600 million Facebook and Instagram passwords in plain text](https://appleinsider.com/articles/24/09/27/meta-stored-600-million-facebook-and-instagram-passwords-in-plain-text?utm_medium=rss)
+ - [iPhone 16 Pro is Apple&#39;s most repairable model yet](https://appleinsider.com/articles/24/09/27/iphone-16-pro-is-apples-most-repairable-model-yet?utm_medium=rss)
+ - [The Stan Accounts That Keep Posting Through Brazil’s Ban on X](https://www.wired.com/story/brazil-x-suspended-fan-accounts-beyonce-taylor-swift-miley-cyrus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

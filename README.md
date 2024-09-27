@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple rethinks its movie strategy, including rolling back theatrical releases and cutting budgets for most to under $100M, after some box office misses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p13#a240927p13)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Steam will let you sue Valve now](https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit)
  - [The US is fretting over signing a UN cybercrime treaty due to fears Russia, China, and others could use it to justify surveillance and suppression of rights &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/240927/p12#a240927p12)
- - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
- - [Hands on - luxe Hermes Apple Watch Series 10 in silver titanium](https://appleinsider.com/articles/24/09/27/hands-on---luxe-hermes-apple-watch-series-10-in-silver-titanium?utm_medium=rss)
- - [Best MacBook Deals: Bag an Apple Laptop, Big or Small, for Less Than You Might Think](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

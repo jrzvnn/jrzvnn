@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
  - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [The picture speaks for itself](http://9gag.com/gag/aYQgmmw)
- - 💣 [Unexpected!](http://9gag.com/gag/a2voGNE)
+ - 💣 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Quite a zinger!](http://9gag.com/gag/ajPER4w)<!-- MEMES:END -->
+ - 👉 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)<!-- MEMES:END -->
 
 ---
 

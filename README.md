@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
- - 😝 [Fbi](http://9gag.com/gag/aMVjW06)
- - 💣 [It be like that tho](http://9gag.com/gag/ae9MWLv)
+ - 😝 [BLM is funny?](http://9gag.com/gag/aD2xM37)
+ - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [BLM is funny?](http://9gag.com/gag/aD2xM37)<!-- MEMES:END -->
+ - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
 
 ---
 

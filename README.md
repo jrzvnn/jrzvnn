@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)
  - [Discord opens Activities, its ecosystem of apps and games, to all developers, letting them distribute and monetize apps on Discord via its Embedded Apps SDK &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240926/p35#a240926p35)
+ - [The 9 Best Dutch Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
  - [Flash deals at B&amp;H discount Mac computers to $469+](https://appleinsider.com/articles/24/09/26/flash-deals-at-bh-discount-mac-computers-to-469?utm_medium=rss)
- - [Soon, Californians Will Be Able to Cancel Subscriptions With 1 Click](https://www.cnet.com/personal-finance/soon-californians-will-be-able-to-cancel-subscriptions-with-1-click/#ftag=CAD590a51e)
- - [This Eufy security camera can show nighttime as if it were daytime](https://www.theverge.com/2024/9/26/24255217/eufycam-s3-pro-smart-security-camera-night-vision-apple-home)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)<!-- TECH:END -->
+ - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

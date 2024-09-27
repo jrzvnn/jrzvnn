@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s new smart glasses look like the future](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast)
+ - [No, Sam Altman, AI Won’t Solve All of Humanity&#39;s Problems](https://www.wired.com/story/plaintext-no-sam-altman-ai-wont-solve-all-of-humanitys-problems/)
  - [A look at some standout startups from Day 2 of YC&#39;s S24 Demo Day, including energy-efficient AI chips maker Exa Laboratories and freight carpooling startup Oway &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240927/p10#a240927p10)
  - [Robotic Apple Home Hub could have square display](https://appleinsider.com/articles/24/09/26/robotic-apple-home-hub-could-have-square-ish-display?utm_medium=rss)
- - [Meta stored 600 million Facebook and Instagram passwords in plain text](https://appleinsider.com/articles/24/09/27/meta-stored-600-million-facebook-and-instagram-passwords-in-plain-text?utm_medium=rss)
- - [iPhone 16 Pro is Apple&#39;s most repairable model yet](https://appleinsider.com/articles/24/09/27/iphone-16-pro-is-apples-most-repairable-model-yet?utm_medium=rss)
- - [The Stan Accounts That Keep Posting Through Brazil’s Ban on X](https://www.wired.com/story/brazil-x-suspended-fan-accounts-beyonce-taylor-swift-miley-cyrus/)<!-- TECH:END -->
+ - [Meta stored 600 million Facebook and Instagram passwords in plain text](https://appleinsider.com/articles/24/09/27/meta-stored-600-million-facebook-and-instagram-passwords-in-plain-text?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today is your last chance to save on Disney Plus before the password sharing crackdown](https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale)
  - [Save up to $300 on Apple&#39;s MacBook Air during today&#39;s flash sale](https://appleinsider.com/articles/24/09/27/save-up-to-300-on-apples-macbook-air-during-todays-flash-sale?utm_medium=rss)
  - [The US DOJ charges three hackers employed by Iran&#39;s Revolutionary Guard for allegedly hacking Trump&#39;s presidential campaign and disseminating stolen info &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240927/p15#a240927p15)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)
- - [Best AirPods 4 Deals: Save on Apple&#39;s Latest Iconic Wireless Earbuds](https://www.cnet.com/deals/best-airpods-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

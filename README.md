@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mango DAO, Mango Labs, and Blockworks Foundation agree to destroy MNGO tokens and ask crypto exchanges to stop trading them as part of an SEC settlement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240927/p21#a240927p21)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [Threads now lets you tag your location](https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram)
  - [Google rolls out Gemini-powered contextual Smart Replies, which analyzes the context of an email and suggests a detailed reply, in Gmail for paid users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240927/p20#a240927p20)
- - [Steam changes its subscriber agreement, removing its forced arbitration policy and allowing gamers to take legal action against its parent company Valve &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240927/p19#a240927p19)
- - [Chat Podcasts Rule the Market—and Always Will](https://www.wired.com/story/dial-up-eric-eddings-hartbeat-podcasts/)
- - [This robot arm can detach its hand to grab things](https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl)<!-- TECH:END -->
+ - [Steam changes its subscriber agreement, removing its forced arbitration policy and allowing gamers to take legal action against its parent company Valve &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240927/p19#a240927p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

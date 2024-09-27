@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
  - 😝 [Crazy dogs](http://9gag.com/gag/abAMRRE)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch Brad Pitt and George Clooney&#39;s &#39;Wolfs&#39; From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-brad-pitt-and-george-clooneys-wolfs-from-anywhere/#ftag=CAD590a51e)
  - [TikTok’s Latest Trend Lets Gen Z Write the Marketing Script](https://www.wired.com/story/tiktoks-latest-trend-lets-gen-z-write-the-marketing-script/)
- - [DefiLlama: Coinbase&#39;s L2 Ethereum network Base stands at $2.08B in total value locked, up from $430M at the start of 2024, marking a 370% growth year-to-date &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240927/p7#a240927p7)
- - [Acer Swift X 14 Review: A Hot and Loud Gaming Laptop](https://www.wired.com/review/acer-swift-x-14/)
- - [Current and former staff say OpenAI has rushed product announcements and safety testing, lost its lead over rivals, and Altman is detached from the day-to-day &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240927/p6#a240927p6)
- - [iPhone 16 Pro Max vs. Google Pixel 9 Pro XL: Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fiber Internet Is Revolutionizing the Way We Get Online, but Is It Worth the Money?](https://www.cnet.com/home/internet/fiber-internet-explained/#ftag=CAD590a51e)
+ - [Best High-Yield Savings Accounts for September 2024](https://www.cnet.com/personal-finance/best-high-yield-savings-accounts/#ftag=CAD590a51e)
+ - [Key Refi Rates Moves Higher: Refinance Rates for Sept. 27, 2024](https://www.cnet.com/personal-finance/mortgages/key-refi-rates-moves-higher-refinance-rates-for-sept-27-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

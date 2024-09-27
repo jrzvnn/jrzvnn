@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
- - 😝 [Bodybuilder playing tug of war with a lion](http://9gag.com/gag/aKGjK4O)
- - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 😝 [This is what I&#39;m talking about](http://9gag.com/gag/aGyjNE7)
+ - 😝 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
+ - 💣 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)<!-- MEMES:END -->
+ - 👉 [The office I need.](http://9gag.com/gag/aMVjyO6)<!-- MEMES:END -->
 
 ---
 

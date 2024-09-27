@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 💣 [Brb](http://9gag.com/gag/aLnjdQM)
- - 😝 [Comedy Wildlife Photography Awards 2024 Finalists Announced](http://9gag.com/gag/aYQgdqN)
- - 👉 [Bodybuilder playing tug of war with a lion](http://9gag.com/gag/aKGjK4O)<!-- MEMES:END -->
+ - 😝 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 😝 [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
+ - 💣 [I have an idea](http://9gag.com/gag/aE0xZQ9)
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
 
 ---
 

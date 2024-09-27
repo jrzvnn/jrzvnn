@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
- - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 💣 [Brb](http://9gag.com/gag/aLnjdQM)
- - 😝 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)
- - 👉 [Explosive detectors powered by bees](http://9gag.com/gag/a5Qo5pG)<!-- MEMES:END -->
+ - 😝 [The point of no return.](http://9gag.com/gag/a4P7WO1)
+ - 😝 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
+ - 💣 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 😝 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
+ - 👉 [Brb](http://9gag.com/gag/aLnjdQM)<!-- MEMES:END -->
 
 ---
 

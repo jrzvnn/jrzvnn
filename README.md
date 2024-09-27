@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [China’s Plan to Make AI Watermarks Happen](https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/)
- - [iPhone 16 vs. iPhone 15: Key Differences Explained](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-15-key-differences-explained/#ftag=CAD590a51e)
  - [The UK&#39;s Gambling Commission plans to take fantasy football startup Sorare to court next week over charges of providing unlicensed gambling facilities to users &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/240927/p3#a240927p3)
  - [Shein Workers Have Had It—and They’re Going Public](https://www.wired.com/story/the-shein-gig-workers-packing-your-order/)
- - [iPhone 16 vs. iPhone 16 Pro: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-16-pro-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 vs. iPhone 16 Pro: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-16-pro-dont-buy-the-wrong-one/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
  - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
- - 💣 [Uh oh](http://9gag.com/gag/apR2bnD)
- - 😝 [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
- - 👉 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)<!-- MEMES:END -->
+ - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 💣 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
+ - 😝 [Comedy Wildlife Photography Awards 2024 Finalists Announced](http://9gag.com/gag/aYQgdqN)
+ - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
 
 ---
 

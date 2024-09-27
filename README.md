@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - 💣 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)
+ - 😝 [Maggie Smith from Harry potter &amp; Downton Abbey died at 89 years old , RIP](http://9gag.com/gag/aVv316P)
+ - 😝 [Quite a zinger!](http://9gag.com/gag/ajPER4w)
+ - 💣 [Snek video.](http://9gag.com/gag/aVv31EM)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
+ - 👉 [Step mommy.....](http://9gag.com/gag/ayNXz3M)<!-- MEMES:END -->
 
 ---
 

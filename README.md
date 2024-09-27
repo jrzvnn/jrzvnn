@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It be like that tho](http://9gag.com/gag/ae9MWLv)
- - 😝 [I can&#39;t put my finger on it, but doesn&#39;t the new New Jersey State Police uniform remind you of something?](http://9gag.com/gag/aW419LZ)
- - 💣 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 😝 [Maggie Smith from Harry potter &amp; Downton Abbey died at 89 years old , RIP](http://9gag.com/gag/aVv316P)
+ - 😝 [It was my 45th birthday yesterday, and I dined just like Mr. Bean all by myself](http://9gag.com/gag/a34Kp4Q)
+ - 💣 [Lol](http://9gag.com/gag/aKGjnxj)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [BLM is funny?](http://9gag.com/gag/aD2xM37)<!-- MEMES:END -->
+ - 👉 [Ok who did that?](http://9gag.com/gag/a0eKxRO)<!-- MEMES:END -->
 
 ---
 

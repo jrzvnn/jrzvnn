@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ charges three hackers employed by Iran&#39;s Revolutionary Guard for allegedly hacking Trump&#39;s presidential campaign and disseminating stolen info &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240927/p15#a240927p15)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)
- - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
- - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
- - [Now searches on Google Flights will suggest Amtrak train rides, too](https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets)
- - [Sources: Apple rethinks its movie strategy, including rolling back theatrical releases and cutting budgets for most to under $100M, after some box office misses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p13#a240927p13)<!-- TECH:END -->
+ - [Best AirPods 4 Deals: Save on Apple&#39;s Latest Iconic Wireless Earbuds](https://www.cnet.com/deals/best-airpods-4-deals/#ftag=CAD590a51e)
+ - [My Favorite Film Is a Painting Come to Life and It&#39;s Free to Watch on Kanopy Now](https://www.cnet.com/tech/services-and-software/my-favorite-film-is-a-painting-come-to-life-and-its-free-to-watch-on-kanopy-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

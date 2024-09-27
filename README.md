@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US is fretting over signing a UN cybercrime treaty due to fears Russia, China, and others could use it to justify surveillance and suppression of rights &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/240927/p12#a240927p12)
  - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
  - [Hands on - luxe Hermes Apple Watch Series 10 in silver titanium](https://appleinsider.com/articles/24/09/27/hands-on---luxe-hermes-apple-watch-series-10-in-silver-titanium?utm_medium=rss)
  - [Solar Sails and Comet Tails: How Sunlight Pushes Stuff Around](https://www.wired.com/story/how-solar-sails-can-work-to-propel-spacecraft/)
- - [iPhone 16 Pro and Pro Max teardown: great modularity upgrades and better repairability due to a dual-entry design and a metal enclosure for the 16 Pro&#39;s battery &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/240927/p11#a240927p11)
- - [The Best Dyson Vacuums We&#39;ve Tested and Reviewed: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
+ - [iPhone 16 Pro and Pro Max teardown: great modularity upgrades and better repairability due to a dual-entry design and a metal enclosure for the 16 Pro&#39;s battery &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/240927/p11#a240927p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

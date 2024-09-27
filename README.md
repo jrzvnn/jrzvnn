@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ indicts Iranians for alleged Trump campaign ‘hack-and-leak’ scheme](https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign)
- - [Kaspersky confirms that it has replaced the antivirus software on its US customers&#39; computers with software called UltraAV, owned by American company Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240927/p22#a240927p22)
- - [A truck full of batteries has been burning for almost a full day, shutting down ports in LA](https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Mango DAO, Mango Labs, and Blockworks Foundation agree to destroy MNGO tokens and ask crypto exchanges to stop trading them as part of an SEC settlement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240927/p21#a240927p21)<!-- TECH:END -->
+ - [The Titan Submersible Hearings End With Few Solid Answers. Here’s What Comes Next](https://www.wired.com/story/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/)
+ - [Docs: OpenAI&#39;s monthly revenue hit $300M in August, up 1,700% since 2023 beginning; it expects ~$3.7B in 2024 sales but may lose ~$5B, and had 350M MAUs in June &lpar;New York Times&rpar;](http://www.techmeme.com/240927/p23#a240927p23)
+ - [OpenAI was a research lab — now it’s just another tech company](https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus)
+ - [The DOJ indicts Iranians for alleged Trump campaign ‘hack-and-leak’ scheme](https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign)
+ - [Kaspersky confirms that it has replaced the antivirus software on its US customers&#39; computers with software called UltraAV, owned by American company Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240927/p22#a240927p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

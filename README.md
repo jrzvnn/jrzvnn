@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
- - 😝 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
- - 💣 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)
- - 😝 [The office I need.](http://9gag.com/gag/aMVjyO6)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 😝 [Fbi](http://9gag.com/gag/aMVjW06)
+ - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
+ - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
 
 ---
 

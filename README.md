@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And now you know](http://9gag.com/gag/aD2xQxw)
+ - 😝 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
  - 😝 [Bodybuilder playing tug of war with a lion](http://9gag.com/gag/aKGjK4O)
- - 💣 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [It be like that tho](http://9gag.com/gag/ae9MWLv)<!-- MEMES:END -->
+ - 👉 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)<!-- MEMES:END -->
 
 ---
 

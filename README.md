@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BLM is funny?](http://9gag.com/gag/aD2xM37)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
+ - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 😝 [The picture speaks for itself](http://9gag.com/gag/aYQgmmw)
+ - 💣 [Unexpected!](http://9gag.com/gag/a2voGNE)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 👉 [Quite a zinger!](http://9gag.com/gag/ajPER4w)<!-- MEMES:END -->
 
 ---
 

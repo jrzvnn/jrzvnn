@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 😝 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
  - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
- - 💣 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 😝 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 💣 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 😝 [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
+ - 👉 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)<!-- MEMES:END -->
 
 ---
 

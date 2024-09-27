@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fbi](http://9gag.com/gag/aMVjW06)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 😝 [And now you know](http://9gag.com/gag/aD2xQxw)
+ - 😝 [Bodybuilder playing tug of war with a lion](http://9gag.com/gag/aKGjK4O)
+ - 💣 [The audacity](http://9gag.com/gag/aMVjqLW)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 👉 [It be like that tho](http://9gag.com/gag/ae9MWLv)<!-- MEMES:END -->
 
 ---
 

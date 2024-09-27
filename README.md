@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stripe data: AI startups took a median 11 months to hit $1M in annualized revenue after their first sales, vs. 15 months for previous gen of SaaS companies &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240927/p5#a240927p5)
  - [Gemini is making Gmail’s smart replies smarter](https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability)
  - [Ukraine Is Decentralizing Energy Production to Protect Itself From Russia](https://www.wired.com/story/energy-act-foundation-ukraine-russian-invasion-solar-yuliana-onishchuk/)
  - [The Gut Might Hold the Key to Treating Long Covid in Kids](https://www.wired.com/story/the-first-clinical-trials-are-underway-for-kids-with-long-covid/)
- - [Kamala Harris is courting crypto investors and pro-crypto Democrats, as some prominent Democrats temper their initial skepticism of crypto assets &lpar;Joseph Zeballos-Roig/Semafor&rpar;](http://www.techmeme.com/240927/p4#a240927p4)
- - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines/)<!-- TECH:END -->
+ - [iPhone 16 Pro Max Specs vs. Galaxy S24 Ultra: Big Phones Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-specs-vs-galaxy-s24-ultra-big-phones-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

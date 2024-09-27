@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro and Pro Max teardown: great modularity upgrades and much improved repairability with a dual-entry design and a metal enclosure for 16 Pro battery &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/240927/p11#a240927p11)
  - [The Best Dyson Vacuums We&#39;ve Tested and Reviewed: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
  - [Best Savings Rates Today, Sept. 27, 2024: Time&#39;s Running Out on Top APYs. Here&#39;s Where You Can Still Earn up to 5.30% APY](https://www.cnet.com/personal-finance/btodays-best-savings-rates-sept-27-2024/#ftag=CAD590a51e)
  - [Meta’s new smart glasses look like the future](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast)
- - [SpaceX Crew-9 Dragon Aims for Launch This Weekend: How to Watch](https://www.cnet.com/science/spacex-crew-9-dragon-aims-for-launch-this-weekend-how-to-watch/#ftag=CAD590a51e)
- - [No, Sam Altman, AI Won’t Solve All of Humanity&#39;s Problems](https://www.wired.com/story/plaintext-no-sam-altman-ai-wont-solve-all-of-humanitys-problems/)<!-- TECH:END -->
+ - [SpaceX Crew-9 Dragon Aims for Launch This Weekend: How to Watch](https://www.cnet.com/science/spacex-crew-9-dragon-aims-for-launch-this-weekend-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

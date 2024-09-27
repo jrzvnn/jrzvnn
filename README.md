@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [When you&#39;re in new york](http://9gag.com/gag/amo7MxX)
- - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
- - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 👉 [The what?](http://9gag.com/gag/a9ypXYK)<!-- MEMES:END -->
+ - 😝 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 😝 [The point of no return.](http://9gag.com/gag/a4P7WO1)
+ - 💣 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)
+ - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 👉 [Brb](http://9gag.com/gag/aLnjdQM)<!-- MEMES:END -->
 
 ---
 

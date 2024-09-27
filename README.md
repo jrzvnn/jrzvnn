@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Source: Arm approached Intel about potentially buying Intel&#39;s product group, but not factory operations; Intel declined, saying the division isn&#39;t for sale &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240926/p39#a240926p39)
  - [How to use AWS CodeBuild to make macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-aws-codebuild-to-make-macos-apps?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 27, #208](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-27-208/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 27, #474](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-27-474/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 27, #1196](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-27-1196/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: at an all-hands meeting, Sam Altman said there were no plans for him to get a &quot;giant equity stake&quot; in OpenAI, calling the information &quot;just not true&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240926/p38#a240926p38)
+ - [Berlin-based Distribusion, a B2B marketplace connecting ground transportation providers and online travel retailers, raised an $80M Series C led by TQ Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240926/p37#a240926p37)
+ - [Balatro Launches on Phones, Saving Commutes and Ruining Workdays Everywhere](https://www.cnet.com/tech/gaming/balatro-launches-on-phones-saving-commutes-and-ruining-workdays-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

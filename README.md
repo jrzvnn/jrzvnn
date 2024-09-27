@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
- - 😝 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
- - 💣 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
+ - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 💣 [Brb](http://9gag.com/gag/aLnjdQM)
  - 😝 [Comedy Wildlife Photography Awards 2024 Finalists Announced](http://9gag.com/gag/aYQgdqN)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 👉 [Bodybuilder playing tug of war with a lion](http://9gag.com/gag/aKGjK4O)<!-- MEMES:END -->
 
 ---
 

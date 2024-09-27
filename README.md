@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
- - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 💣 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
+ - 😝 [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
+ - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 💣 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
  - 😝 [Comedy Wildlife Photography Awards 2024 Finalists Announced](http://9gag.com/gag/aYQgdqN)
- - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
+ - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
 
 ---
 

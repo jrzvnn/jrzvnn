@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A truck full of batteries has been burning for almost a full day, shutting down ports in LA](https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Mango DAO, Mango Labs, and Blockworks Foundation agree to destroy MNGO tokens and ask crypto exchanges to stop trading them as part of an SEC settlement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240927/p21#a240927p21)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Threads now lets you tag your location](https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram)
- - [Google rolls out Gemini-powered contextual Smart Replies, which analyzes the context of an email and suggests a detailed reply, in Gmail for paid users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240927/p20#a240927p20)
- - [Grab the Dyson V15 Detect, One of Our Favorite Vacuums, With Up to $165 Off](https://www.cnet.com/deals/grab-the-dyson-v15-detect-one-our-favorite-vacuum-with-up-to-165-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads now lets you tag your location](https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

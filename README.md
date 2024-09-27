@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok’s Latest Trend Lets Gen Z Write the Marketing Script](https://www.wired.com/story/tiktoks-latest-trend-lets-gen-z-write-the-marketing-script/)
  - [DefiLlama: Coinbase&#39;s L2 Ethereum network Base stands at $2.08B in total value locked, up from $430M at the start of 2024, marking a 370% growth year-to-date &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240927/p7#a240927p7)
  - [Acer Swift X 14 Review: A Hot and Loud Gaming Laptop](https://www.wired.com/review/acer-swift-x-14/)
  - [Current and former staff say OpenAI has rushed product announcements and safety testing, lost its lead over rivals, and Altman is detached from the day-to-day &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240927/p6#a240927p6)
- - [iPhone 16 Pro Max vs. Google Pixel 9 Pro XL: Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-specs-compared/#ftag=CAD590a51e)
- - [The Hidden Flight Tracker on Your iPhone Can Save You Time and Stress](https://www.cnet.com/tech/mobile/the-hidden-flight-tracker-in-your-iphone-can-save-you-time-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro Max vs. Google Pixel 9 Pro XL: Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

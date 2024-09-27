@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 💣 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)
+ - 😝 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
+ - 😝 [Fbi](http://9gag.com/gag/aMVjW06)
+ - 💣 [It be like that tho](http://9gag.com/gag/ae9MWLv)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [It be like that tho](http://9gag.com/gag/ae9MWLv)<!-- MEMES:END -->
+ - 👉 [BLM is funny?](http://9gag.com/gag/aD2xM37)<!-- MEMES:END -->
 
 ---
 

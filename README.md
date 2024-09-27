@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time when Snoop Dogg helped everyone win on price is right](http://9gag.com/gag/arygrGd)
  - 😝 [Snek video.](http://9gag.com/gag/aVv31EM)
+ - 😝 [That went differently in my head?](http://9gag.com/gag/aLnjN5g)
  - 💣 [Anything is possible](http://9gag.com/gag/axy1n1Y)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
  - 👉 [2 years of prison for first, 20 months for second](http://9gag.com/gag/avyOXwZ)<!-- MEMES:END -->

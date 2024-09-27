@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
+ - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
+ - [Now searches on Google Flights will suggest Amtrak train rides, too](https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets)
  - [Sources: Apple rethinks its movie strategy, including rolling back theatrical releases and cutting budgets for most to under $100M, after some box office misses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p13#a240927p13)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Steam will let you sue Valve now](https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit)
- - [The US is fretting over signing a UN cybercrime treaty due to fears Russia, China, and others could use it to justify surveillance and suppression of rights &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/240927/p12#a240927p12)
- - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

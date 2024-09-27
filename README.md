@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Lisa Jackson says environmental regulation is essential](https://appleinsider.com/articles/24/09/27/apples-lisa-jackson-says-environmental-regulation-is-essential?utm_medium=rss)
  - [The UK CMA rules that Amazon&#39;s $4B Anthropic deal does not qualify for an investigation under merger laws as Anthropic&#39;s UK revenue did not meet needed limits &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240927/p8#a240927p8)
  - [As FTC Chair Lina Khan’s Term Expires, Democrats Are Torn Between Donors and Their Base](https://www.wired.com/story/ftc-chair-lina-khans-democrats-donors-harris/)
  - [How to Watch Brad Pitt and George Clooney&#39;s &#39;Wolfs&#39; From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-brad-pitt-and-george-clooneys-wolfs-from-anywhere/#ftag=CAD590a51e)
- - [TikTok’s Latest Trend Lets Gen Z Write the Marketing Script](https://www.wired.com/story/tiktoks-latest-trend-lets-gen-z-write-the-marketing-script/)
- - [Fiber Internet Is Revolutionizing the Way We Get Online, but Is It Worth the Money?](https://www.cnet.com/home/internet/fiber-internet-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok’s Latest Trend Lets Gen Z Write the Marketing Script](https://www.wired.com/story/tiktoks-latest-trend-lets-gen-z-write-the-marketing-script/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Titan Submersible Hearings End With Few Solid Answers. Here’s What Comes Next](https://www.wired.com/story/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/)
- - [Earn 5% APY &lpar;or More&rpar; With These Savings Accounts – While Rates Last](https://www.cnet.com/personal-finance/these-savings-accounts-pay-5-percent-apy-or-higher-right-now/#ftag=CAD590a51e)
  - [Docs: OpenAI&#39;s monthly revenue hit $300M in August, up 1,700% since 2023 beginning; it expects ~$3.7B in 2024 sales but may lose ~$5B, and had 350M MAUs in June &lpar;New York Times&rpar;](http://www.techmeme.com/240927/p23#a240927p23)
  - [OpenAI was a research lab — now it’s just another tech company](https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus)
- - [The DOJ indicts Iranians for alleged Trump campaign ‘hack-and-leak’ scheme](https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign)<!-- TECH:END -->
+ - [The DOJ indicts Iranians for alleged Trump campaign ‘hack-and-leak’ scheme](https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign)
+ - [Kaspersky confirms that it has replaced the antivirus software on its US customers&#39; computers with software called UltraAV, owned by American company Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240927/p22#a240927p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

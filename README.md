@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam changes its subscriber agreement, removing its forced arbitration policy and allowing gamers to take legal action against its parent company Valve &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240927/p19#a240927p19)
+ - [Chat Podcasts Rule the Market—and Always Will](https://www.wired.com/story/dial-up-eric-eddings-hartbeat-podcasts/)
  - [This robot arm can detach its hand to grab things out of reach](https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl)
  - [Europe’s space agency will destroy a brand-new satellite in 2027 just to see what happens](https://www.theverge.com/2024/9/27/24255990/esa-draco-mission-satellite-space-junk-zero-debris)
- - [Nintendo’s shiny new museum needs more dirt](https://www.theverge.com/2024/9/27/24256070/nintendo-museum-kyoto-tour-shigeru-miyamoto)
- - [Neo-Nazis are creating AI videos of Hitler making English versions of his speeches and to rebrand him as &quot;misunderstood&quot; via TikTok, X, Instagram, and YouTube &lpar;Washington Post&rpar;](http://www.techmeme.com/240927/p18#a240927p18)
- - [Scientists Figured Out How to Recycle Plastic by Vaporizing It](https://www.wired.com/story/scientists-figured-out-how-to-recycle-plastic-by-vaporizing-it/)<!-- TECH:END -->
+ - [Nintendo’s shiny new museum needs more dirt](https://www.theverge.com/2024/9/27/24256070/nintendo-museum-kyoto-tour-shigeru-miyamoto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

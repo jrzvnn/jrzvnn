@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kamala Harris is courting crypto investors and pro-crypto Democrats, as some prominent Democrats temper their initial skepticism of crypto assets &lpar;Joseph Zeballos-Roig/Semafor&rpar;](http://www.techmeme.com/240927/p4#a240927p4)
+ - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines/)
  - [China’s Plan to Make AI Watermarks Happen](https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/)
  - [iPhone 16 vs. iPhone 15: Key Differences Explained](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-15-key-differences-explained/#ftag=CAD590a51e)
- - [The UK&#39;s Gambling Commission plans to take fantasy football startup Sorare to court next week over charges of providing unlicensed gambling facilities to users &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/240927/p3#a240927p3)
- - [Shein Workers Have Had It—and They’re Going Public](https://www.wired.com/story/the-shein-gig-workers-packing-your-order/)
- - [iPhone 16 vs. iPhone 16 Pro: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-16-pro-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK&#39;s Gambling Commission plans to take fantasy football startup Sorare to court next week over charges of providing unlicensed gambling facilities to users &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/240927/p3#a240927p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

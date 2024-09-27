@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
- - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - 💣 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
+ - 😝 [And now you know](http://9gag.com/gag/aD2xQxw)
+ - 😝 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)
+ - 💣 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)<!-- MEMES:END -->
+ - 👉 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)<!-- MEMES:END -->
 
 ---
 

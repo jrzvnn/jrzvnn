@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [Threads now lets you tag your location](https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram)
  - [Google rolls out Gemini-powered contextual Smart Replies, which analyzes the context of an email and suggests a detailed reply, in Gmail for paid users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240927/p20#a240927p20)
- - [Steam changes its subscriber agreement, removing its forced arbitration policy and allowing gamers to take legal action against its parent company Valve &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240927/p19#a240927p19)<!-- TECH:END -->
+ - [Grab the Dyson V15 Detect, One of Our Favorite Vacuums, With Up to $165 Off](https://www.cnet.com/deals/grab-the-dyson-v15-detect-one-our-favorite-vacuum-with-up-to-165-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

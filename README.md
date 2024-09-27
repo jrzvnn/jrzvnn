@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam will let you sue Valve now](https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit)
  - [The US is fretting over signing a UN cybercrime treaty due to fears Russia, China, and others could use it to justify surveillance and suppression of rights &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/240927/p12#a240927p12)
  - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
  - [Hands on - luxe Hermes Apple Watch Series 10 in silver titanium](https://appleinsider.com/articles/24/09/27/hands-on---luxe-hermes-apple-watch-series-10-in-silver-titanium?utm_medium=rss)
- - [Solar Sails and Comet Tails: How Sunlight Pushes Stuff Around](https://www.wired.com/story/how-solar-sails-can-work-to-propel-spacecraft/)
- - [iPhone 16 Pro and Pro Max teardown: great modularity upgrades and better repairability due to a dual-entry design and a metal enclosure for the 16 Pro&#39;s battery &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/240927/p11#a240927p11)<!-- TECH:END -->
+ - [Best MacBook Deals: Bag an Apple Laptop, Big or Small, for Less Than You Might Think](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

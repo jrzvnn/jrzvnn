@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 💣 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
+ - 😝 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
+ - 😝 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
+ - 💣 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
  - 😝 [Comedy Wildlife Photography Awards 2024 Finalists Announced](http://9gag.com/gag/aYQgdqN)
- - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
+ - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
 
 ---
 

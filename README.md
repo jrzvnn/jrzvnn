@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The point of no return.](http://9gag.com/gag/a4P7WO1)
- - 😝 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
- - 💣 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 😝 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
- - 👉 [Brb](http://9gag.com/gag/aLnjdQM)<!-- MEMES:END -->
+ - 😝 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
+ - 😝 [Efficient use of space](http://9gag.com/gag/agmXj3W)
+ - 💣 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
+ - 😝 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
+ - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
 
 ---
 

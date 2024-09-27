@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
- - 😝 [Efficient use of space](http://9gag.com/gag/agmXj3W)
- - 💣 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
- - 😝 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 💣 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 😝 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
+ - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
 
 ---
 

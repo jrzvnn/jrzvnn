@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s $100,000 Watches Are the Most Tragic Celebrity Watch Yet](https://www.wired.com/story/trumps-dollar100000-watches-are-the-most-tragic-celebrity-watch-yet/)
+ - [Meta will also block sharing of Ken Klippenstein&#39;s newsletter and other sources with the JD Vance dossier, citing foreign meddling and hacked materials policies &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240927/p17#a240927p17)
  - [Microsoft details how it has overhauled its controversial AI-powered Recall feature, including making it opt-in and giving users an option to uninstall &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240927/p16#a240927p16)
  - [&#39;F1&#39; could be the last Apple TV+ theatrical release](https://appleinsider.com/articles/24/09/27/f1-could-be-the-last-apple-tv-theatrical-release?utm_medium=rss)
- - [Best Beats Headphone Deals: The Latest and Greatest Beats Models at Cut-Rate Prices](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
- - [I Asked ChatGPT to Prepare a Healthy Meal Plan for the Week. Here&#39;s How It Went](https://www.cnet.com/how-to/i-asked-chatgpt-to-prepare-a-healthy-meal-plan-for-the-week-heres-how-it-went/#ftag=CAD590a51e)
- - [How to Self-Install Your Internet to Save Time and Money](https://www.cnet.com/home/internet/how-to-self-install-your-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Beats Headphone Deals: The Latest and Greatest Beats Models at Cut-Rate Prices](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

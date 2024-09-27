@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel and the US government plan to finalize $8.5B in direct funding for the chipmaker by year-end, as Intel tries to stabilize its ailing business &lpar;Financial Times&rpar;](http://www.techmeme.com/240927/p2#a240927p2)
  - [In an email to OpenAI&#39;s investors, CFO Sarah Friar says the company&#39;s current funding round was oversubscribed and is set to close next week &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240927/p1#a240927p1)
  - [Source: Arm approached Intel about potentially buying Intel&#39;s product group, but not factory operations; Intel declined, saying the division isn&#39;t for sale &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240926/p39#a240926p39)
  - [How to use AWS CodeBuild to make macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-aws-codebuild-to-make-macos-apps?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 27, #208](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-27-208/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 27, #474](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-27-474/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 27, #208](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-27-208/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

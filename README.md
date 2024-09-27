@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The messy WordPress drama, explained](https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg)
  - [The US DOJ charges two Russians for operating $1B+ money laundering services for cybercriminals; one is accused of operating the Joker&#39;s Stash marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240927/p24#a240927p24)
  - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
- - [I Replaced My iPhone Battery at Home and You Can Too](https://www.cnet.com/tech/mobile/i-replaced-my-iphone-battery-at-home-and-you-can-too/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Replaced My iPhone Battery at Home, and You Can Swap Out Yours Too](https://www.cnet.com/tech/mobile/i-replaced-my-iphone-battery-at-home-and-you-can-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

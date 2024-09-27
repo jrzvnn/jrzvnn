@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maggie Smith from Harry potter &amp; Downton Abbey died at 89 years old , RIP](http://9gag.com/gag/aVv316P)
- - 😝 [Quite a zinger!](http://9gag.com/gag/ajPER4w)
- - 💣 [Snek video.](http://9gag.com/gag/aVv31EM)
+ - 😝 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
+ - 😝 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 💣 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Step mommy.....](http://9gag.com/gag/ayNXz3M)<!-- MEMES:END -->
+ - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)<!-- MEMES:END -->
 
 ---
 

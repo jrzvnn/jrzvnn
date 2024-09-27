@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy dogs](http://9gag.com/gag/abAMRRE)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - 😝 [Haitian politician drinks water from a giant JUG during his address at the UN General Assembly.](http://9gag.com/gag/apR2dL8)
+ - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
+ - 💣 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
+ - 👉 [Fbi](http://9gag.com/gag/aMVjW06)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is your last chance to save on Disney Plus before the password sharing crackdown](https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale)
- - [Save up to $300 on Apple&#39;s MacBook Air during today&#39;s flash sale](https://appleinsider.com/articles/24/09/27/save-up-to-300-on-apples-macbook-air-during-todays-flash-sale?utm_medium=rss)
- - [The US DOJ charges three hackers employed by Iran&#39;s Revolutionary Guard for allegedly hacking Trump&#39;s presidential campaign and disseminating stolen info &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240927/p15#a240927p15)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)<!-- TECH:END -->
+ - [Microsoft details how it has overhauled its controversial AI-powered Recall feature, including making it opt-in and giving users an option to uninstall &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240927/p16#a240927p16)
+ - [&#39;F1&#39; could be the last Apple TV+ theatrical release](https://appleinsider.com/articles/24/09/27/f1-could-be-the-last-apple-tv-theatrical-release?utm_medium=rss)
+ - [Microsoft’s more secure Windows Recall feature can also be uninstalled by users](https://www.theverge.com/2024/9/27/24255721/microsoft-windows-recall-ai-security-improvements-overhaul-uninstall)
+ - [Today is your last chance to save on Disney Plus before the password-sharing crackdown](https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale)
+ - [Save up to $300 on Apple&#39;s MacBook Air during today&#39;s flash sale](https://appleinsider.com/articles/24/09/27/save-up-to-300-on-apples-macbook-air-during-todays-flash-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

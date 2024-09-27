@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [Crazy dogs](http://9gag.com/gag/abAMRRE)
- - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
+ - 😝 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
+ - 😝 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
+ - 💣 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)
+ - 😝 [The office I need.](http://9gag.com/gag/aMVjyO6)
+ - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
 
 ---
 

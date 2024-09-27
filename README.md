@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Lisa Jackson says environmental regulation is essential](https://appleinsider.com/articles/24/09/27/apples-lisa-jackson-says-environmental-regulation-is-essential?utm_medium=rss)
- - [The UK CMA rules that Amazon&#39;s $4B Anthropic deal does not qualify for an investigation under merger laws as Anthropic&#39;s UK revenue did not meet needed limits &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240927/p8#a240927p8)
- - [As FTC Chair Lina Khan’s Term Expires, Democrats Are Torn Between Donors and Their Base](https://www.wired.com/story/ftc-chair-lina-khans-democrats-donors-harris/)
- - [How to Watch Brad Pitt and George Clooney&#39;s &#39;Wolfs&#39; From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-brad-pitt-and-george-clooneys-wolfs-from-anywhere/#ftag=CAD590a51e)
- - [TikTok’s Latest Trend Lets Gen Z Write the Marketing Script](https://www.wired.com/story/tiktoks-latest-trend-lets-gen-z-write-the-marketing-script/)<!-- TECH:END -->
+ - [iPhone 16 Pro experiences, Jony Ive&#39;s bear and more, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/27/iphone-16-pro-experiences-jony-ives-bear-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
+ - [The Irish Data Protection Commission wraps up an inquiry launched in 2019 and fines Meta &amp;euro;91M for violating GDPR rules by storing passwords in plain text &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240927/p9#a240927p9)
+ - [Apple, Don&#39;t Screw Up the iPhone Flip](https://www.cnet.com/tech/mobile/apple-dont-screw-up-the-iphone-flip/#ftag=CAD590a51e)
+ - [Google Maps Is Making It Easier to Spot Businesses With Fake Reviews](https://www.cnet.com/tech/services-and-software/google-maps-is-making-it-easier-to-spot-businesses-with-fake-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This robot arm can detach its hand to grab things out of reach](https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl)
+ - [Europe’s space agency will destroy a brand-new satellite in 2027 just to see what happens](https://www.theverge.com/2024/9/27/24255990/esa-draco-mission-satellite-space-junk-zero-debris)
+ - [Nintendo’s shiny new museum needs more dirt](https://www.theverge.com/2024/9/27/24256070/nintendo-museum-kyoto-tour-shigeru-miyamoto)
  - [Neo-Nazis are creating AI videos of Hitler making English versions of his speeches and to rebrand him as &quot;misunderstood&quot; via TikTok, X, Instagram, and YouTube &lpar;Washington Post&rpar;](http://www.techmeme.com/240927/p18#a240927p18)
- - [Scientists Figured Out How to Recycle Plastic by Vaporizing It](https://www.wired.com/story/scientists-figured-out-how-to-recycle-plastic-by-vaporizing-it/)
- - [Trump’s $100,000 Watches Are the Most Tragic Celebrity Watch Yet](https://www.wired.com/story/trumps-dollar100000-watches-are-the-most-tragic-celebrity-watch-yet/)
- - [Meta will also block sharing of Ken Klippenstein&#39;s newsletter and other sources with the JD Vance dossier, citing foreign meddling and hacked materials policies &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240927/p17#a240927p17)
- - [Microsoft details how it has overhauled its controversial AI-powered Recall feature, including making it opt-in and giving users an option to uninstall &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240927/p16#a240927p16)<!-- TECH:END -->
+ - [Scientists Figured Out How to Recycle Plastic by Vaporizing It](https://www.wired.com/story/scientists-figured-out-how-to-recycle-plastic-by-vaporizing-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)
  - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
  - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
  - [Now searches on Google Flights will suggest Amtrak train rides, too](https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets)
- - [Sources: Apple rethinks its movie strategy, including rolling back theatrical releases and cutting budgets for most to under $100M, after some box office misses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p13#a240927p13)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
+ - [Sources: Apple rethinks its movie strategy, including rolling back theatrical releases and cutting budgets for most to under $100M, after some box office misses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p13#a240927p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

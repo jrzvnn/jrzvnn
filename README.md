@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Arm approached Intel about potentially buying Intel&#39;s product group, but not factory operations; Intel declined, saying the division isn&#39;t for sale &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240926/p39#a240926p39)
+ - [How to use AWS CodeBuild to make macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-aws-codebuild-to-make-macos-apps?utm_medium=rss)
  - [Source: at an all-hands meeting, Sam Altman said there were no plans for him to get a &quot;giant equity stake&quot; in OpenAI, calling the information &quot;just not true&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240926/p38#a240926p38)
  - [Berlin-based Distribusion, a B2B marketplace connecting ground transportation providers and online travel retailers, raised an $80M Series C led by TQ Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240926/p37#a240926p37)
- - [Balatro Launches on Phones, Saving Commutes and Ruining Workdays Everywhere](https://www.cnet.com/tech/gaming/balatro-launches-on-phones-saving-commutes-and-ruining-workdays-everywhere/#ftag=CAD590a51e)
- - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)
- - [Xfinity Agreed to Drop Its &#39;10G&#39; Branding. Here&#39;s What the Term Actually Means](https://www.cnet.com/home/internet/xfinity-agreed-to-drop-its-10g-branding-heres-what-the-term-actually-means/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Balatro Launches on Phones, Saving Commutes and Ruining Workdays Everywhere](https://www.cnet.com/tech/gaming/balatro-launches-on-phones-saving-commutes-and-ruining-workdays-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

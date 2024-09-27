@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: at an all-hands meeting, Sam Altman said there were no plans for him to get a &quot;giant equity stake&quot; in OpenAI, calling the information &quot;just not true&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240926/p38#a240926p38)
+ - [Berlin-based Distribusion, a B2B marketplace connecting ground transportation providers and online travel retailers, raised an $80M Series C led by TQ Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240926/p37#a240926p37)
  - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)
- - [Discord opens Activities, its ecosystem of apps and games, to all developers, letting them distribute and monetize apps on Discord via its Embedded Apps SDK &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240926/p35#a240926p35)
- - [The 9 Best Dutch Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
- - [Flash deals at B&amp;H discount Mac computers to $469+](https://appleinsider.com/articles/24/09/26/flash-deals-at-bh-discount-mac-computers-to-469?utm_medium=rss)
- - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xfinity Agreed to Drop Its &#39;10G&#39; Branding. Here&#39;s What the Term Actually Means](https://www.cnet.com/home/internet/xfinity-agreed-to-drop-its-10g-branding-heres-what-the-term-actually-means/#ftag=CAD590a51e)
+ - [Does Your Wi-Fi Router Track Your Browsing? I Read 30,000 Words of Privacy Policies to Find Out](https://www.cnet.com/home/internet/does-your-wi-fi-router-track-your-browsing-i-read-30000-words-of-privacy-policies-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

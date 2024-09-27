@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Gut Might Hold the Key to Treating Long Covid in Kids](https://www.wired.com/story/the-first-clinical-trials-are-underway-for-kids-with-long-covid/)
  - [Kamala Harris is courting crypto investors and pro-crypto Democrats, as some prominent Democrats temper their initial skepticism of crypto assets &lpar;Joseph Zeballos-Roig/Semafor&rpar;](http://www.techmeme.com/240927/p4#a240927p4)
  - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines/)
  - [iPhone 16 Pro vs. 15 Pro vs. 14 Pro vs. 13 Pro: Should You Upgrade This Year?](https://www.cnet.com/tech/mobile/iphone-16-pro-vs-15-pro-vs-14-pro-vs-13-pro-should-you-upgrade-this-year/#ftag=CAD590a51e)
- - [China’s Plan to Make AI Watermarks Happen](https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/)
- - [iPhone 16 vs. iPhone 15: Key Differences Explained](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-15-key-differences-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China’s Plan to Make AI Watermarks Happen](https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

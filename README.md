@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - 😝 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
- - 💣 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
+ - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
+ - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 💣 [It be like that tho](http://9gag.com/gag/ae9MWLv)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [And now you know](http://9gag.com/gag/aD2xQxw)<!-- MEMES:END -->
+ - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
 
 ---
 

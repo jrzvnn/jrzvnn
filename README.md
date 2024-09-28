@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enhance your driving experience with a great wireless CarPlay adapter from Ottocast](https://appleinsider.com/articles/24/09/28/enhance-your-driving-experience-with-a-great-wireless-carplay-adapter-from-ottocast?utm_medium=rss)
- - [Source: Apple is no longer in talks to participate in an OpenAI funding round that is expected to raise as much as $6.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240927/p27#a240927p27)
- - [A profile of Internet Archive founder Brewster Kahle, as the service fights existential battles over copyright, including from music labels like UMG &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240927/p26#a240927p26)
- - [With Savings Rates Dropping, This CFP Still Doesn’t Recommend This Type of CD](https://www.cnet.com/personal-finance/this-cfp-changed-her-mind-on-putting-money-in-cds-heres-why/#ftag=CAD590a51e)
- - [Sources: China is discouraging local companies from purchasing Nvidia&#39;s H20 chips to help expand the country&#39;s semiconductor industry and counter US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p25#a240927p25)<!-- TECH:END -->
+ - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines-nl/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 28, #209](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-28-209/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 28, #475](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-28-475/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 28, #1197](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-28-1197/#ftag=CAD590a51e)
+ - [Two Major Student Loan Benefits Will End on Sept. 30. Here’s What You Should Do Now](https://www.cnet.com/personal-finance/loans/two-major-student-loan-benefits-will-end-on-sept-30-heres-what-you-should-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no Justin](http://9gag.com/gag/aKGjX51)
- - 😝 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)
- - 💣 [Brazilian Technology on vehicle transportation](http://9gag.com/gag/aAyxZj9)
+ - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
+ - 😝 [What Ryu is actually saying in Street Fighter 2](http://9gag.com/gag/agmX6Ag)
+ - 💣 [Ok who did that?](http://9gag.com/gag/a0eKxRO)
  - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
+ - 👉 [And it probably costs as much as a used car](http://9gag.com/gag/aE0xj9n)<!-- MEMES:END -->
 
 ---
 

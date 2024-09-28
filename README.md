@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/aKGjnxj)
- - 😝 [This is what I&#39;m talking about](http://9gag.com/gag/aGyjNE7)
- - 💣 [Ok who did that?](http://9gag.com/gag/a0eKxRO)
- - 😝 [What Ryu is actually saying in Street Fighter 2](http://9gag.com/gag/agmX6Ag)
- - 👉 [And it probably costs as much as a used car](http://9gag.com/gag/aE0xj9n)<!-- MEMES:END -->
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
+ - 😝 [Behold... The bird yeeter](http://9gag.com/gag/aQz3Bgz)
+ - 💣 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
+ - 😝 [The way she opens the zipper](http://9gag.com/gag/apR2z3W)
+ - 👉 [Japanese samurai cuts his hair.](http://9gag.com/gag/aND1Gzr)<!-- MEMES:END -->
 
 ---
 

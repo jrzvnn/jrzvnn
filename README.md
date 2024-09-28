@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [Do you like commitment?](http://9gag.com/gag/a0eKWZL)
- - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
- - 👉 [Stupid people.](http://9gag.com/gag/avyO4pn)<!-- MEMES:END -->
+ - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
+ - 😝 [You are listening to a sad song. &amp; That thing is dancing.](http://9gag.com/gag/ayNXAqM)
+ - 💣 [Big Oil PR goes brrrrrr](http://9gag.com/gag/aqy7ByY)
+ - 😝 [Speedrun Darwin Award](http://9gag.com/gag/a1mon7w)
+ - 👉 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)<!-- MEMES:END -->
 
 ---
 

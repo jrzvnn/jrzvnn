@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon launches iPad clearance sale, save up to $900](https://appleinsider.com/articles/24/09/28/amazon-launches-ipad-clearance-sale-save-up-to-900?utm_medium=rss)
  - [Bumble, Muzz, and Match Group are pushing their friend-finding and community-building products to attract young users hit by so-called dating app fatigue &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240928/p9#a240928p9)
- - [Amazon may tap Brian Williams to host an election night special](https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special)
- - [Judge not impressed with Apple&#39;s request for more time in Epic case](https://appleinsider.com/articles/24/09/28/judge-not-impressed-with-apples-request-for-more-time-in-epic-case?utm_medium=rss)
- - [Use These 9 Expert-Recommended Mental Health Tips to Beat Your Election Anxiety](https://www.cnet.com/health/mental/use-these-9-mental-health-expert-recommended-tips-to-beat-your-election-anxiety/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [ChatGPT Glossary: 47 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-47-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
+ - [Amazon may tap Brian Williams to host an election night special](https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Record-Breaking New Solar Panels Produce 60 Percent More Electricity](https://www.wired.com/story/tandem-solar-panel-cells-efficiency-energy/)
+ - [Welcome to Meta’s future, where everyone wears cameras](https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect)
  - [23 Best Early Prime Day Deals on Products We’ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024/)
  - [Premier League Soccer: Livestream Nottingham Forest vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Everton vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brentford vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Chelsea vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-brighton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Everton vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

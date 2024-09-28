@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
- - 😝 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)
- - 💣 [The leader of the second largest terrorist organization in the world hassan Nasrallah is confirmed dead by the idf.](http://9gag.com/gag/aO8rnL2)
- - 😝 [Lol](http://9gag.com/gag/aKGjnxj)
- - 👉 [Food&#39;s mood](http://9gag.com/gag/aND18or)<!-- MEMES:END -->
+ - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
+ - 😝 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)
+ - 💣 [Call America.](http://9gag.com/gag/amo7d8X)
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
 
 ---
 

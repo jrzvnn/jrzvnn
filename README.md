@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 💣 [Angie Tribeca](http://9gag.com/gag/aAyxNdZ)
  - 😝 [Oh no Justin](http://9gag.com/gag/aKGjX51)
+ - 😝 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)
+ - 💣 [Brazilian Technology on vehicle transportation](http://9gag.com/gag/aAyxZj9)
+ - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
  - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
 
 ---

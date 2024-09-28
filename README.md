@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incredible things are happening in japan](http://9gag.com/gag/an7M0Qq)
- - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
- - 💣 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)
- - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Lol](http://9gag.com/gag/aKGjnxj)<!-- MEMES:END -->
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 💣 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
+ - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 👉 [Stupid people.](http://9gag.com/gag/avyO4pn)<!-- MEMES:END -->
 
 ---
 

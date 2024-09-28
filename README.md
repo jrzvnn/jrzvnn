@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know 5 people who can do this easily and I&#39;m 3 of them](http://9gag.com/gag/avyOB8X)
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 💣 [Love this](http://9gag.com/gag/aYQgZnx)
- - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
- - 👉 [Surgeon kept tattoo aligned](http://9gag.com/gag/ayNXzZV)<!-- MEMES:END -->
+ - 😝 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
+ - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
+ - 💣 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)
+ - 😝 [Oh no Justin](http://9gag.com/gag/aKGjX51)
+ - 👉 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)<!-- MEMES:END -->
 
 ---
 

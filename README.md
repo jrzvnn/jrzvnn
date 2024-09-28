@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media has embraced the success of Black Myth: Wukong, a Chinese AAA game that has sold 20M+ copies globally, hailing it as a soft power export &lpar;Lizzi C. Lee/Rest of World&rpar;](http://www.techmeme.com/240928/p3#a240928p3)
- - [The US Could Finally Ban Inane Forced Password Changes](https://www.wired.com/story/nist-password-guidance-improvements/)
- - [Social Security October 2024: Here&#39;s When Your Check Should Arrive](https://www.cnet.com/personal-finance/social-security-october-2024-heres-when-your-check-should-arrive/#ftag=CAD590a51e)
- - [This Secret iOS 18 Feature Lets You Create Custom iPhone Controls](https://www.cnet.com/tech/services-and-software/this-secret-ios-18-feature-lets-you-create-custom-iphone-controls/#ftag=CAD590a51e)
- - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Everton vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-everton-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Brentford vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Chelsea vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-brighton-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Arsenal vs. Leicester From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-leicester-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

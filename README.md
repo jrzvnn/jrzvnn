@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [Behold... The bird yeeter](http://9gag.com/gag/aQz3Bgz)
- - 💣 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 😝 [The way she opens the zipper](http://9gag.com/gag/apR2z3W)
- - 👉 [Japanese samurai cuts his hair.](http://9gag.com/gag/aND1Gzr)<!-- MEMES:END -->
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 💣 [Angie Tribeca](http://9gag.com/gag/aAyxNdZ)
+ - 😝 [Oh no Justin](http://9gag.com/gag/aKGjX51)
+ - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
 
 ---
 

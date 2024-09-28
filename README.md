@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Big Tech-funded TV facing a &#39;schism&#39; in production styles claims Jon Stewart](https://appleinsider.com/articles/24/09/28/big-tech-funded-tv-facing-a-schism-in-production-styles-claims-jon-stewart?utm_medium=rss)
- - [Amazon launches iPad clearance sale, save up to $900](https://appleinsider.com/articles/24/09/28/amazon-launches-ipad-clearance-sale-save-up-to-900?utm_medium=rss)
- - [Bumble, Muzz, and Match Group are pushing their friend-finding and community-building products to attract young users hit by so-called dating app fatigue &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240928/p9#a240928p9)
- - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [ChatGPT Glossary: 47 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-47-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
+ - [DreamCloud Memory Foam Mattress Review 2024: An Expert Analysis](https://www.cnet.com/health/sleep/dreamcloud-mattress-memory-foam-review/#ftag=CAD590a51e)
+ - [Don&#39;t Wait Until Prime Day: Best Buy&#39;s Members-Only Sale Is Offering Major Deals](https://www.cnet.com/deals/dont-wait-until-prime-day-best-buys-members-only-sale-is-offering-major-deals/#ftag=CAD590a51e)
+ - [Best Smart Locks of 2024](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

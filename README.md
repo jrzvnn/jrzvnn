@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Chinese state media has embraced the success of Black Myth: Wukong, a Chinese AAA game that has sold 20M+ copies globally, hailing it as a soft power export &lpar;Lizzi C. Lee/Rest of World&rpar;](http://www.techmeme.com/240928/p3#a240928p3)
  - [The US Could Finally Ban Inane Forced Password Changes](https://www.wired.com/story/nist-password-guidance-improvements/)
- - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)
- - [8 Real-World Uses for iPhone Mirroring in iOS 18 and MacOS Sequoia](https://www.cnet.com/tech/services-and-software/8-real-world-uses-for-iphone-mirroring-in-ios-18-and-macos-sequoia/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social Security October 2024: Here&#39;s When Your Check Should Arrive](https://www.cnet.com/personal-finance/social-security-october-2024-heres-when-your-check-should-arrive/#ftag=CAD590a51e)
+ - [This Secret iOS 18 Feature Lets You Create Custom iPhone Controls](https://www.cnet.com/tech/services-and-software/this-secret-ios-18-feature-lets-you-create-custom-iphone-controls/#ftag=CAD590a51e)
+ - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

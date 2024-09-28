@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Buds Pro 2 Review: Better AirPods Pro for Android](https://www.wired.com/review/google-pixel-buds-pro-2/)
+ - [An ‘iPhone of AI’ Makes No Sense. Jony Ive Needs To Carefully Construct The Whole Damn System](https://www.wired.com/story/jony-ive-iphone-of-ai/)
  - [PlayStation 30th Anniversary PS5: Availability, Specs](https://www.wired.com/story/playstation-30-anniversary-ps5/)
  - [I&#39;m a Camera Nerd, but Something Is Strange About the iPhone 16&#39;s Camera Control Button](https://www.cnet.com/tech/mobile/im-a-camera-nerd-but-something-is-strange-about-the-iphone-16s-camera-control-button/#ftag=CAD590a51e)
- - [Custom AI Posts in Our Instagram Feeds? No Thanks, Meta](https://www.cnet.com/tech/services-and-software/custom-ai-posts-in-our-instagram-feeds-no-thanks-meta/#ftag=CAD590a51e)
- - [iOS 18 Cheat Sheet: Everything to Know About the iPhone Update](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-everything-you-need-to-know-about-the-iphone-update/#ftag=CAD590a51e)
- - [These Record-Breaking New Solar Panels Produce 60 Percent More Electricity](https://www.wired.com/story/tandem-solar-panel-cells-efficiency-energy/)<!-- TECH:END -->
+ - [Custom AI Posts in Our Instagram Feeds? No Thanks, Meta](https://www.cnet.com/tech/services-and-software/custom-ai-posts-in-our-instagram-feeds-no-thanks-meta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

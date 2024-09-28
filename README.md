@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Trae Stephens, partner at Founders Fund and Executive Chairman of Anduril, on autonomous AI&#39;s role in warfare, building a wearable e-reader, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240928/p10#a240928p10)
- - [Big Tech-funded TV facing a &#39;schism&#39; in production styles claims Jon Stewart](https://appleinsider.com/articles/24/09/28/big-tech-funded-tv-facing-a-schism-in-production-styles-claims-jon-stewart?utm_medium=rss)
- - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
- - [DreamCloud Memory Foam Mattress Review 2024: An Expert Analysis](https://www.cnet.com/health/sleep/dreamcloud-mattress-memory-foam-review/#ftag=CAD590a51e)
- - [Don&#39;t Wait Until Prime Day: Best Buy&#39;s Members-Only Sale Is Offering Major Deals](https://www.cnet.com/deals/dont-wait-until-prime-day-best-buys-members-only-sale-is-offering-major-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch the &#39;Saturday Night Live&#39; Season 50 Premiere Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-saturday-night-live-season-50-premiere-without-cable/#ftag=CAD590a51e)
+ - [PayPal Will Allow Businesses to Buy and Sell Crypto](https://www.cnet.com/personal-finance/crypto/paypal-will-allow-businesses-to-buy-and-sell-crypto/#ftag=CAD590a51e)
+ - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
+ - [Big Tech-funded TV facing a &#39;schism&#39; in production styles claims Jon Stewart](https://appleinsider.com/articles/24/09/28/big-tech-funded-tv-facing-a-schism-in-production-styles-claims-jon-stewart?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

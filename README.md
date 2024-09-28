@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-28/#ftag=CAD590a51e)
- - [A look at telehealth startup Done Global, whose owner was arrested by the US in June for allegedly running a &quot;pill mill&quot;, as it continues to operate from China &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240928/p2#a240928p2)
- - [The demand for the X100 series of point-and-shoot digital cameras has driven big profits for Fujifilm after the X100V went viral on TikTok in September 2022 &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240928/p1#a240928p1)
- - [California&#39;s Plastic Bag Ban Is Growing: Here&#39;s What You Need to Know](https://www.cnet.com/how-to/californias-plastic-bag-ban-is-growing-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines-nl/)<!-- TECH:END -->
+ - [Social Security October 2024: Here&#39;s When Your Check Should Arrive](https://www.cnet.com/personal-finance/social-security-october-2024-heres-when-your-check-should-arrive/#ftag=CAD590a51e)
+ - [This Secret iOS 18 Feature Lets You Create Custom iPhone Controls](https://www.cnet.com/tech/services-and-software/this-secret-ios-18-feature-lets-you-create-custom-iphone-controls/#ftag=CAD590a51e)
+ - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)
+ - [Samsung Galaxy Tab S10 Tablets Revealed, Complete With AI Features, S Pen](https://www.cnet.com/tech/computing/samsung-galaxy-s10-tablets-revealed-complete-with-ai-features-s-pen/#ftag=CAD590a51e)
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

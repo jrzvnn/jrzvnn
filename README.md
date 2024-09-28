@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the left one](http://9gag.com/gag/aND1jPw)
- - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
+ - 😝 [BLM is funny?](http://9gag.com/gag/aD2xM37)
+ - 💣 [Family matters](http://9gag.com/gag/aYQgmB2)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
+ - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
 
 ---
 

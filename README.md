@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 💣 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 😝 [Big Oil PR goes brrrrrr](http://9gag.com/gag/aqy7ByY)
- - 👉 [You are listening to a sad song. &amp; That thing is dancing.](http://9gag.com/gag/ayNXAqM)<!-- MEMES:END -->
+ - 😝 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 💣 [Love this](http://9gag.com/gag/aYQgZnx)
+ - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
+ - 👉 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)<!-- MEMES:END -->
 
 ---
 

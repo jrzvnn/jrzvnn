@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 😝 [Milk in Murica](http://9gag.com/gag/aVv3dnM)
- - 💣 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
+ - 😝 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)
+ - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
+ - 💣 [Family matters](http://9gag.com/gag/aYQgmB2)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
+ - 👉 [Tennis freakout at SU](http://9gag.com/gag/aYQgd22)<!-- MEMES:END -->
 
 ---
 

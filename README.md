@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple is no longer in talks to participate in an OpenAI funding round that is expected to raise as much as $6.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240927/p27#a240927p27)
+ - [A profile of Internet Archive founder Brewster Kahle, as the service fights existential battles over copyright, including from music labels like UMG &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240927/p26#a240927p26)
+ - [With Savings Rates Dropping, This CFP Still Doesn’t Recommend This Type of CD](https://www.cnet.com/personal-finance/this-cfp-changed-her-mind-on-putting-money-in-cds-heres-why/#ftag=CAD590a51e)
  - [Sources: China is discouraging local companies from purchasing Nvidia&#39;s H20 chips to help expand the country&#39;s semiconductor industry and counter US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p25#a240927p25)
- - [7 Tech Items I&#39;m Using to Manage the Chaos of Mom Life](https://www.cnet.com/home/smart-home/7-tech-items-im-using-to-manage-the-chaos-of-mom-life/#ftag=CAD590a51e)
- - [The messy WordPress drama, explained](https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg)
- - [The US DOJ charges two Russians for operating $1B+ money laundering services for cybercriminals; one is accused of operating the Joker&#39;s Stash marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240927/p24#a240927p24)
- - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Tech Items I&#39;m Using to Manage the Chaos of Mom Life](https://www.cnet.com/home/smart-home/7-tech-items-im-using-to-manage-the-chaos-of-mom-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

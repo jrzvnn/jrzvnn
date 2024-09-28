@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
+ - 😝 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
  - 💣 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
  - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
- - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
+ - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)<!-- MEMES:END -->
 
 ---
 

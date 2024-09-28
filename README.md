@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 😝 [You are listening to a sad song. &amp; That thing is dancing.](http://9gag.com/gag/ayNXAqM)
- - 💣 [Big Oil PR goes brrrrrr](http://9gag.com/gag/aqy7ByY)
- - 😝 [Speedrun Darwin Award](http://9gag.com/gag/a1mon7w)
- - 👉 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)<!-- MEMES:END -->
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 😝 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
+ - 💣 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 👉 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)<!-- MEMES:END -->
 
 ---
 

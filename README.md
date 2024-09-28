@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social Security October 2024: Here&#39;s When Your Check Should Arrive](https://www.cnet.com/personal-finance/social-security-october-2024-heres-when-your-check-should-arrive/#ftag=CAD590a51e)
- - [This Secret iOS 18 Feature Lets You Create Custom iPhone Controls](https://www.cnet.com/tech/services-and-software/this-secret-ios-18-feature-lets-you-create-custom-iphone-controls/#ftag=CAD590a51e)
  - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)
- - [Samsung Galaxy Tab S10 Tablets Revealed, Complete With AI Features, S Pen](https://www.cnet.com/tech/computing/samsung-galaxy-s10-tablets-revealed-complete-with-ai-features-s-pen/#ftag=CAD590a51e)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Real-World Uses for iPhone Mirroring in iOS 18 and MacOS Sequoia](https://www.cnet.com/tech/services-and-software/8-real-world-uses-for-iphone-mirroring-in-ios-18-and-macos-sequoia/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [iPhone Designer Jony Ive and OpenAI&#39;s Sam Altman Working on Top-Secret AI Device, Report Says](https://www.cnet.com/tech/mobile/iphone-designer-jony-ive-and-openais-sam-altman-working-on-top-secret-ai-device-report-says/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

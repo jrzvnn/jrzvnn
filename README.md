@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trailers of the week: Thunderbolts, Rumors, and Disclaimer](https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming)
  - [Apple is reportedly not investing in OpenAI](https://appleinsider.com/articles/24/09/28/apple-is-reportedly-not-investing-in-openai?utm_medium=rss)
  - [Apple’s homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
  - [Sources: TSMC&#39;s execs took to calling Sam Altman a &quot;podcasting bro&quot; after he said it would take $7T and many years to build 36 chip plants to fulfill his vision &lpar;New York Times&rpar;](http://www.techmeme.com/240928/p6#a240928p6)
- - [An International Space Station Leak Is Getting Worse—and Keeping NASA Up at Night](https://www.wired.com/story/international-space-station-leak-getting-worse-nasa-up-at-night/)
- - [The Best Pickleball Paddles, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)<!-- TECH:END -->
+ - [An International Space Station Leak Is Getting Worse—and Keeping NASA Up at Night](https://www.wired.com/story/international-space-station-leak-getting-worse-nasa-up-at-night/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

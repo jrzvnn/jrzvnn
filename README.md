@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
- - 😝 [\u201cRandomly\u201d](http://9gag.com/gag/aGyj6O0)
- - 💣 [Call America.](http://9gag.com/gag/amo7d8X)
+ - 😝 [I have an idea](http://9gag.com/gag/aE0xZQ9)
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 💣 [Poke](http://9gag.com/gag/agmXdyg)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
+ - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Real-World Uses for iPhone Mirroring in iOS 18 and MacOS Sequoia](https://www.cnet.com/tech/services-and-software/8-real-world-uses-for-iphone-mirroring-in-ios-18-and-macos-sequoia/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [iPhone Designer Jony Ive and OpenAI&#39;s Sam Altman Working on Top-Secret AI Device, Report Says](https://www.cnet.com/tech/mobile/iphone-designer-jony-ive-and-openais-sam-altman-working-on-top-secret-ai-device-report-says/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-28/#ftag=CAD590a51e)
- - [A look at telehealth startup Done Global, whose owner was arrested by the US in June for allegedly running a &quot;pill mill&quot;, as it continues to operate from China &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240928/p2#a240928p2)
- - [The demand for the X100 series of point-and-shoot digital cameras has driven big profits for Fujifilm after the X100V went viral on TikTok in September 2022 &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240928/p1#a240928p1)
- - [California&#39;s Plastic Bag Ban Is Growing: Here&#39;s What You Need to Know](https://www.cnet.com/how-to/californias-plastic-bag-ban-is-growing-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines-nl/)<!-- TECH:END -->
+ - [A look at telehealth startup Done Global, whose owner was arrested by the US in June for allegedly running a &quot;pill mill&quot;, as it continues to operate from China &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240928/p2#a240928p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

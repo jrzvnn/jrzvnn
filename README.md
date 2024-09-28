@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
- - 😝 [It was my 45th birthday yesterday, and I dined just like Mr. Bean all by myself](http://9gag.com/gag/a34Kp4Q)
- - 💣 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)
+ - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
+ - 😝 [BLM is funny?](http://9gag.com/gag/aD2xM37)
+ - 💣 [This guy was a 1,000% better Bruce Banner than Mark Ruffalo, who openly despises half his audience](http://9gag.com/gag/axy1A4Y)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Lol](http://9gag.com/gag/aKGjnxj)<!-- MEMES:END -->
+ - 👉 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)<!-- MEMES:END -->
 
 ---
 

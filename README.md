@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 😝 [I know 5 people who can do this easily and I&#39;m 3 of them](http://9gag.com/gag/avyOB8X)
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
  - 💣 [Love this](http://9gag.com/gag/aYQgZnx)
  - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
- - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
+ - 👉 [Surgeon kept tattoo aligned](http://9gag.com/gag/ayNXzZV)<!-- MEMES:END -->
 
 ---
 

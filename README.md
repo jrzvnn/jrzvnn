@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
- - 💣 [Poke](http://9gag.com/gag/agmXdyg)
- - 😝 [Drive safe](http://9gag.com/gag/aryg0XB)
- - 👉 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)<!-- MEMES:END -->
+ - 😝 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)
+ - 😝 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)
+ - 💣 [No Title](http://9gag.com/gag/aByxjYA)
+ - 😝 [Japanese samurai cuts his hair.](http://9gag.com/gag/aND1Gzr)
+ - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
 
 ---
 

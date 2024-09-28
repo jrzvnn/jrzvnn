@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I have an idea](http://9gag.com/gag/aE0xZQ9)
- - 😝 [Surgeon kept tattoo aligned](http://9gag.com/gag/ayNXzZV)
- - 💣 [Family matters](http://9gag.com/gag/aYQgmB2)
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 💣 [The way she opens the zipper](http://9gag.com/gag/apR2z3W)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
  - 👉 [Japanese samurai cuts his hair.](http://9gag.com/gag/aND1Gzr)<!-- MEMES:END -->
 

@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lol](http://9gag.com/gag/aKGjnxj)
- - 😝 [Food&#39;s mood](http://9gag.com/gag/aND18or)
+ - 😝 [And it probably costs as much as a used car](http://9gag.com/gag/aE0xj9n)
  - 💣 [This is what I&#39;m talking about](http://9gag.com/gag/aGyjNE7)
  - 😝 [Ok who did that?](http://9gag.com/gag/a0eKxRO)
  - 👉 [What Ryu is actually saying in Street Fighter 2](http://9gag.com/gag/agmX6Ag)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech-funded TV facing a &#39;schism&#39; in production styles claims Jon Stewart](https://appleinsider.com/articles/24/09/28/big-tech-funded-tv-facing-a-schism-in-production-styles-claims-jon-stewart?utm_medium=rss)
  - [Amazon launches iPad clearance sale, save up to $900](https://appleinsider.com/articles/24/09/28/amazon-launches-ipad-clearance-sale-save-up-to-900?utm_medium=rss)
  - [Bumble, Muzz, and Match Group are pushing their friend-finding and community-building products to attract young users hit by so-called dating app fatigue &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240928/p9#a240928p9)
  - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [ChatGPT Glossary: 47 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-47-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
- - [Amazon may tap Brian Williams to host an election night special](https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special)<!-- TECH:END -->
+ - [ChatGPT Glossary: 47 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-47-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazilian Technology on vehicle transportation](http://9gag.com/gag/aAyxZj9)
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
- - 💣 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
- - 👉 [Family matters](http://9gag.com/gag/aYQgmB2)<!-- MEMES:END -->
+ - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
+ - 😝 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)
+ - 💣 [The leader of the second largest terrorist organization in the world hassan Nasrallah is confirmed dead by the idf.](http://9gag.com/gag/aO8rnL2)
+ - 😝 [Lol](http://9gag.com/gag/aKGjnxj)
+ - 👉 [Food&#39;s mood](http://9gag.com/gag/aND18or)<!-- MEMES:END -->
 
 ---
 

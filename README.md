@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 😝 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
- - 💣 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)
- - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 👉 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)<!-- MEMES:END -->
+ - 😝 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)
+ - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
+ - 💣 [Poke](http://9gag.com/gag/agmXdyg)
+ - 😝 [Stupid people.](http://9gag.com/gag/avyO4pn)
+ - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
 
 ---
 

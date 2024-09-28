@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese state media has embraced the success of Black Myth: Wukong, a Chinese AAA game that has sold 20M+ copies globally, hailing it as a soft power export &lpar;Lizzi C. Lee/Rest of World&rpar;](http://www.techmeme.com/240928/p3#a240928p3)
+ - [The US Could Finally Ban Inane Forced Password Changes](https://www.wired.com/story/nist-password-guidance-improvements/)
  - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)
  - [8 Real-World Uses for iPhone Mirroring in iOS 18 and MacOS Sequoia](https://www.cnet.com/tech/services-and-software/8-real-world-uses-for-iphone-mirroring-in-ios-18-and-macos-sequoia/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [iPhone Designer Jony Ive and OpenAI&#39;s Sam Altman Working on Top-Secret AI Device, Report Says](https://www.cnet.com/tech/mobile/iphone-designer-jony-ive-and-openais-sam-altman-working-on-top-secret-ai-device-report-says/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Newcastle vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

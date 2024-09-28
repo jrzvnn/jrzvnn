@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)
- - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
- - 💣 [Poke](http://9gag.com/gag/agmXdyg)
- - 😝 [Stupid people.](http://9gag.com/gag/avyO4pn)
- - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
+ - 😝 [Now they all smile in heaven. rest in peace maggie smith](http://9gag.com/gag/aMVjD1X)
+ - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 💣 [Pattern recognition](http://9gag.com/gag/avyOBjb)
+ - 😝 [Big Oil PR goes brrrrrr](http://9gag.com/gag/aqy7ByY)
+ - 👉 [You are listening to a sad song. &amp; That thing is dancing.](http://9gag.com/gag/ayNXAqM)<!-- MEMES:END -->
 
 ---
 

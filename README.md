@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 💣 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)
- - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
- - 👉 [Stupid people.](http://9gag.com/gag/avyO4pn)<!-- MEMES:END -->
+ - 😝 [Brazilian Technology on vehicle transportation](http://9gag.com/gag/aAyxZj9)
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 💣 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 👉 [Family matters](http://9gag.com/gag/aYQgmB2)<!-- MEMES:END -->
 
 ---
 

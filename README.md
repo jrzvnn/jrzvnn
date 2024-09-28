@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Vizio 4K TV &lpar;2024&rpar; Review: A Simple TV for Cheap](https://www.wired.com/review/vizio-4k-tv-2024/)
- - [Google Pixel Buds Pro 2 Review: Better AirPods Pro for Android](https://www.wired.com/review/google-pixel-buds-pro-2/)
- - [An ‘iPhone of AI’ Makes No Sense. Jony Ive Needs To Carefully Construct The Whole Damn System](https://www.wired.com/story/jony-ive-iphone-of-ai/)
- - [PlayStation 30th Anniversary PS5: Availability, Specs](https://www.wired.com/story/playstation-30-anniversary-ps5/)
- - [I&#39;m a Camera Nerd, but Something Is Strange About the iPhone 16&#39;s Camera Control Button](https://www.cnet.com/tech/mobile/im-a-camera-nerd-but-something-is-strange-about-the-iphone-16s-camera-control-button/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Remove Stains From Clothing: Blood, Grease, Grass, Oil and More](https://www.cnet.com/how-to/how-to-remove-stains-from-clothing-blood-grease-grass-oil-and-more/#ftag=CAD590a51e)
+ - [Why Is Moo Deng So Popular Right Now? This &#39;Bouncy Meatball&#39; Has a Livestream and Merch](https://www.cnet.com/science/why-is-moo-deng-so-popular-right-now-this-bouncy-meatball-has-a-livestream-and-merch/#ftag=CAD590a51e)
+ - [BenQ X300G Projector Review: A Cute 4K Cube, but a Little Pricey](https://www.cnet.com/tech/home-entertainment/benq-x300g-review-a-cube-in-4k/#ftag=CAD590a51e)
+ - [Daylight Saving Time Ends Soon. Here&#39;s What You Need to Know](https://www.cnet.com/science/daylight-saving-time-ends-soon-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
- - 😝 [Call America.](http://9gag.com/gag/amo7d8X)
- - 💣 [Stupid people.](http://9gag.com/gag/avyO4pn)
+ - 😝 [Incredible things are happening in japan](http://9gag.com/gag/an7M0Qq)
+ - 😝 [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
+ - 💣 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 👉 [Lol](http://9gag.com/gag/aKGjnxj)<!-- MEMES:END -->
 
 ---
 

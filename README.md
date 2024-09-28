@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
- - 😝 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)
- - 💣 [Call America.](http://9gag.com/gag/amo7d8X)
- - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/aKGjnxj)
+ - 😝 [Food&#39;s mood](http://9gag.com/gag/aND18or)
+ - 💣 [This is what I&#39;m talking about](http://9gag.com/gag/aGyjNE7)
+ - 😝 [Ok who did that?](http://9gag.com/gag/a0eKxRO)
+ - 👉 [What Ryu is actually saying in Street Fighter 2](http://9gag.com/gag/agmX6Ag)<!-- MEMES:END -->
 
 ---
 

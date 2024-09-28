@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)
- - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
  - 💣 [Love this](http://9gag.com/gag/aYQgZnx)
  - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
- - 👉 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)<!-- MEMES:END -->
+ - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
 
 ---
 

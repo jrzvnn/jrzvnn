@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 😝 [BLM is funny?](http://9gag.com/gag/aD2xM37)
- - 💣 [This guy was a 1,000% better Bruce Banner than Mark Ruffalo, who openly despises half his audience](http://9gag.com/gag/axy1A4Y)
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 😝 [Brazilian Technology on vehicle transportation](http://9gag.com/gag/aAyxZj9)
+ - 💣 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)<!-- MEMES:END -->
+ - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
 
 ---
 

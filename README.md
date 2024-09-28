@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
  - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 👉 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)<!-- MEMES:END -->
+ - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
+ - 💣 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 😝 [Big Oil PR goes brrrrrr](http://9gag.com/gag/aqy7ByY)
+ - 👉 [You are listening to a sad song. &amp; That thing is dancing.](http://9gag.com/gag/ayNXAqM)<!-- MEMES:END -->
 
 ---
 

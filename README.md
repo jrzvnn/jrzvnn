@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)
- - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - 💣 [Family matters](http://9gag.com/gag/aYQgmB2)
+ - 😝 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
+ - 😝 [\u201cRandomly\u201d](http://9gag.com/gag/aGyj6O0)
+ - 💣 [Call America.](http://9gag.com/gag/amo7d8X)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Tennis freakout at SU](http://9gag.com/gag/aYQgd22)<!-- MEMES:END -->
+ - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
 
 ---
 

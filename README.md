@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The demand for the X100 series of point-and-shoot digital cameras has driven big profits for Fujifilm after the X100V went viral on TikTok in September 2022 &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240928/p1#a240928p1)
+ - [California&#39;s Plastic Bag Ban Is Growing: Here&#39;s What You Need to Know](https://www.cnet.com/how-to/californias-plastic-bag-ban-is-growing-heres-what-you-need-to-know/#ftag=CAD590a51e)
  - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines-nl/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 28, #209](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-28-209/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 28, #475](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-28-475/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 28, #1197](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-28-1197/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 28, #475](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-28-475/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

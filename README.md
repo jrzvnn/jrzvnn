@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Pickleball Paddles, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)
  - [Sources: OpenAI expects its revenue to grow to $11.6B in 2025; ChatGPT has 10M paying users and could bring in $2.7B in revenue in 2024, up from $700M in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240928/p5#a240928p5)
  - [Samsung’s gorgeous Galaxy Book4 Edge has fallen to its lowest price to date](https://www.theverge.com/2024/9/28/24255916/samsung-galaxy-book4-edge-beats-fit-pro-earbuds-deal-sale)
  - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
- - [The Best Fantasy Movies to Watch With Your Prime Video Subscription](https://www.cnet.com/tech/services-and-software/the-best-fantasy-movies-to-watch-with-your-prime-video-subscription/#ftag=CAD590a51e)
- - [Stop Using AirTags to Track Your Pets. Here&#39;s What Experts Say You Should Try Instead](https://www.cnet.com/home/kitchen-and-household/stop-using-airtags-to-track-your-pets-heres-what-experts-say-you-should-try-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Fantasy Movies to Watch With Your Prime Video Subscription](https://www.cnet.com/tech/services-and-software/the-best-fantasy-movies-to-watch-with-your-prime-video-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

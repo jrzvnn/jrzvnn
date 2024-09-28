@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)
- - 😝 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)
- - 💣 [No Title](http://9gag.com/gag/aByxjYA)
- - 😝 [Japanese samurai cuts his hair.](http://9gag.com/gag/aND1Gzr)
- - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
+ - 😝 [Do you like commitment?](http://9gag.com/gag/a0eKWZL)
+ - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
+ - 👉 [Stupid people.](http://9gag.com/gag/avyO4pn)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Court docs: Brazil&#39;s Supreme Court say X still needs to pay $5M+ in pending fines, including a new one, before it will be allowed to resume service in Brazil &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/240928/p7#a240928p7)
  - [Trailers of the week: Thunderbolts, Rumors, and Disclaimer](https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming)
- - [Apple is reportedly not investing in OpenAI](https://appleinsider.com/articles/24/09/28/apple-is-reportedly-not-investing-in-openai?utm_medium=rss)
- - [Apple’s homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
- - [Sources: TSMC&#39;s execs took to calling Sam Altman a &quot;podcasting bro&quot; after he said it would take $7T and many years to build 36 chip plants to fulfill his vision &lpar;New York Times&rpar;](http://www.techmeme.com/240928/p6#a240928p6)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Osasuna vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-osasuna-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
+ - [Cocoa Press 3D Chocolate Printer Gets Sweet Upgrades, Lower Price](https://www.cnet.com/tech/computing/cocoa-press-3d-chocolate-printer-gets-sweet-upgrades/#ftag=CAD590a51e)
+ - [Considering Collagen Supplements? What You Need to Know About the Benefits and Drawbacks](https://www.cnet.com/health/nutrition/considering-collagen-supplements-what-you-need-to-know-about-the-benefits-and-drawbacks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

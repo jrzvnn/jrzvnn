@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s gorgeous Galaxy Book4 Edge has fallen to its lowest price to date](https://www.theverge.com/2024/9/28/24255916/samsung-galaxy-book4-edge-beats-fit-pro-earbuds-deal-sale)
  - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
  - [Now that Balatro’s on mobile, here are some tips to get started](https://www.theverge.com/24256010/how-to-play-balatro-mobile-localthunk-playstack)
  - [SEMI: China is projected to invest $100B+ on chipmaking equipment from 2025 to 2027, followed by South Korea at $81B, Taiwan at $75B, and the Americas at $63B &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240928/p4#a240928p4)
- - [Vizio 4K TV &lpar;2024&rpar; Review: A Simple TV for Cheap](https://www.wired.com/review/vizio-4k-tv-2024/)
- - [How to Remove Stains From Clothing: Blood, Grease, Grass, Oil and More](https://www.cnet.com/how-to/how-to-remove-stains-from-clothing-blood-grease-grass-oil-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vizio 4K TV &lpar;2024&rpar; Review: A Simple TV for Cheap](https://www.wired.com/review/vizio-4k-tv-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

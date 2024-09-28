@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
- - 😝 [What Ryu is actually saying in Street Fighter 2](http://9gag.com/gag/agmX6Ag)
- - 💣 [Ok who did that?](http://9gag.com/gag/a0eKxRO)
  - 😝 [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 👉 [And it probably costs as much as a used car](http://9gag.com/gag/aE0xj9n)<!-- MEMES:END -->
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 💣 [Poke](http://9gag.com/gag/agmXdyg)
+ - 😝 [Drive safe](http://9gag.com/gag/aryg0XB)
+ - 👉 [Sony following the footsteps of ubisoft who replaced their talented developers and engineers with D.e.i. devs who only knows propaganda. goodluck gamers](http://9gag.com/gag/an7M075)<!-- MEMES:END -->
 
 ---
 

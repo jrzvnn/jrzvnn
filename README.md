@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Climate activists sentenced to jail for throwing soup at Van Gogh\u2019s \u2018Sunflowers\u2019](http://9gag.com/gag/aXPxQVb)
- - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
- - 💣 [Oh no Justin](http://9gag.com/gag/aKGjX51)
- - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
- - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
+ - 😝 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 💣 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
+ - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
+ - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
+ - 😝 [Climate activists sentenced to jail for throwing soup at Van Gogh\u2019s \u2018Sunflowers\u2019](http://9gag.com/gag/aXPxQVb)
+ - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
+ - 💣 [Oh no Justin](http://9gag.com/gag/aKGjX51)
  - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
- - 💣 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)
- - 😝 [Oh no Justin](http://9gag.com/gag/aKGjX51)
- - 👉 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)<!-- MEMES:END -->
+ - 👉 [Motivation is the key](http://9gag.com/gag/aO8rNV6)<!-- MEMES:END -->
 
 ---
 

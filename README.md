@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
  - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 💣 [Call America.](http://9gag.com/gag/amo7d8X)
+ - 💣 [\u201cRandomly\u201d](http://9gag.com/gag/aGyj6O0)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Tennis freakout at SU](http://9gag.com/gag/aYQgd22)<!-- MEMES:END -->
+ - 👉 [It be like that tho](http://9gag.com/gag/ae9MWLv)<!-- MEMES:END -->
 
 ---
 

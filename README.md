@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupid people.](http://9gag.com/gag/avyO4pn)
- - 😝 [It be like that tho](http://9gag.com/gag/ae9MWLv)
- - 💣 [Fbi](http://9gag.com/gag/aMVjW06)
+ - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
+ - 😝 [Milk in Murica](http://9gag.com/gag/aVv3dnM)
+ - 💣 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)<!-- MEMES:END -->
+ - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
 
 ---
 

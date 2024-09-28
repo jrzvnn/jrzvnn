@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon may tap Brian Williams to host an election night special](https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special)
  - [Judge not impressed with Apple&#39;s request for more time in Epic case](https://appleinsider.com/articles/24/09/28/judge-not-impressed-with-apples-request-for-more-time-in-epic-case?utm_medium=rss)
- - [Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://www.theverge.com/2024/9/28/24256815/meta-blocking-jd-vance-dossier-hack)
- - [Sources: Amazon Prime Video is in talks with veteran anchor Brian Williams to host a live Election Night special, its first entry into news-related programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240928/p8#a240928p8)
- - [The Best Mattress for Hip Pain and Pressure Relief](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
- - [Razer&#39;s Updated Sensa Haptics Has Your Back &lpar;and Legs and Head&rpar;](https://www.cnet.com/tech/computing/razers-updated-sensa-haptics-has-your-back-and-legs-and-head/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use These 9 Expert-Recommended Mental Health Tips to Beat Your Election Anxiety](https://www.cnet.com/health/mental/use-these-9-mental-health-expert-recommended-tips-to-beat-your-election-anxiety/#ftag=CAD590a51e)
+ - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)
+ - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

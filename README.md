@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro won](http://9gag.com/gag/aAyxLD2)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 😝 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
  - 💣 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
  - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
+ - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
 
 ---
 

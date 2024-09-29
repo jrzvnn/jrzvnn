@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)
- - 😝 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)
- - 💣 [The last day](http://9gag.com/gag/ayNXw2V)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)<!-- MEMES:END -->
+ - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
+ - 💣 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
+ - 😝 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
+ - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
 
 ---
 

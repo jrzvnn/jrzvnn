@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With 27 years I finally achieved something!](http://9gag.com/gag/amo7yY4)
- - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 💣 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
+ - 😝 [Now what ?](http://9gag.com/gag/aZZ3VW0)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 😝 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)
+ - 👉 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)<!-- MEMES:END -->
 
 ---
 

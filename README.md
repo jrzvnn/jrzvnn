@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [California Gov. Gavin Newsom vetoes AI safety bill SB 1047; source: Newsom vetoed because the bill applies only to large AI models and leaves others unregulated &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p8#a240929p8)
- - [California governor vetoes major AI safety bill](https://www.theverge.com/2024/9/29/24232172/california-ai-safety-bill-1047-vetoed-gavin-newsom)
- - [Marvel and DC lose ‘SUPER HERO’ trademarks](https://www.theverge.com/2024/9/29/24257677/marvel-dc-super-hero-trademark-canceled-challenge-superbabies)
- - [Best VPN Deals: Snag Top VPN Subscriptions for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)
- - [Best Vitamins and Supplements for Joint Health in 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Saatva Rx Mattress Review 2024: A Luxury Bed Designed for People With Chronic Health Conditions](https://www.cnet.com/health/sleep/saatva-rx-mattress-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)
+ - [5 Things I Love About My Experience With T-Mobile Home Internet — and a Few Bummers](https://www.cnet.com/home/internet/5-things-i-love-about-my-experience-with-t-mobile-home-internet-and-a-few-bummers/#ftag=CAD590a51e)
+ - [California governor vetoes major AI safety bill](https://www.theverge.com/2024/9/29/24232172/california-ai-safety-bill-1047-vetoed-gavin-newsom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

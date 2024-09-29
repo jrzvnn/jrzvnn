@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best WIRED Tested and Reviewed Espresso Machines &lpar;2024&rpar;](https://www.wired.com/gallery/best-espresso-machines/)
- - [16 Best Coffee Grinders, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
- - [NYU professor Aswath Damodaran on an AI bot that is trained on his equity valuation work that is in the public domain, why AI will empower generalists, and more &lpar;Aswath Damodaran/Financial Times&rpar;](http://www.techmeme.com/240929/p4#a240929p4)
- - [The 9 Best National Coffee Day Deals on Machines and Beans](https://www.wired.com/story/national-coffee-day-deals-2024/)
- - [Melatonin Making You Groggy? A Better Natural Sleep Aid Might Be GABA](https://www.cnet.com/health/sleep/melatonin-making-you-groggy-a-better-natural-sleep-might-be-gaba/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 17 &#39;Slim&#39; Rumors: Apple&#39;s Thinnest Phone Ever May Come Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)
+ - [You Can Now Use Every Emoji to React to Messages With iOS 18](https://www.cnet.com/tech/services-and-software/you-can-now-use-every-emoji-to-react-to-messages-with-ios-18/#ftag=CAD590a51e)
+ - [The Vagus Nerve’s Crucial Role in Creating the Human Sense of Mind](https://www.wired.com/story/how-our-longest-nerve-orchestrates-the-mind-body-connection-vagus/)
+ - [Fall Is Here: 3 Reasons You Need a Smokeless Fire Pit This Season](https://www.cnet.com/home/yard-and-outdoors/three-reasons-you-need-a-smokeless-fire-pit-this-season/#ftag=CAD590a51e)
+ - [Shopping for a Decent Deal on Internet Service? Check the Cost Per Mbps](https://www.cnet.com/home/internet/check-the-cost-per-mbps-when-shopping-for-internet-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

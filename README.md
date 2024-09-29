@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
- - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 💣 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)
- - 😝 [Behold... The bird yeeter](http://9gag.com/gag/aQz3Bgz)
- - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
+ - 😝 [Thats something...](http://9gag.com/gag/awyX9GD)
+ - 😝 [I love dongle](http://9gag.com/gag/ajPEwmg)
+ - 💣 [I love the Irish](http://9gag.com/gag/a4P7yW6)
+ - 😝 [Today collected 15kg of garbage. Total is 3290kg. Long time no see. Miss you all .Your Cleaning Guy.](http://9gag.com/gag/avyOVmZ)
+ - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
 
 ---
 

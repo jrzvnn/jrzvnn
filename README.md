@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
- - 😝 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
- - 💣 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 😝 [With 27 years I finally achieved something!](http://9gag.com/gag/amo7yY4)
  - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
+ - 💣 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
+ - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
+ - 👉 [Oddly satisfying art](http://9gag.com/gag/an7M0o0)<!-- MEMES:END -->
 
 ---
 

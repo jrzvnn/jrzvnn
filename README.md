@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The future of AI might look a lot like Twitter](https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast)
  - [A look at challenges to OpenAI becoming a for-profit company, including the complexity of splitting assets with the nonprofit arm, which will continue to exist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p5#a240929p5)
  - [The Best Instax Cameras and Printers We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-instax-cameras-and-printers/)
  - [The Best Action Cameras &lpar;2024&rpar;: Underwater, Compact, More](https://www.wired.com/gallery/best-action-cameras/)
- - [Apple&#39;s long-rumored homeOS may arrive in 2025 with Home Hub](https://appleinsider.com/articles/24/09/29/apples-long-rumored-homeos-may-arrive-in-2025-with-home-hub?utm_medium=rss)
- - [M4 MacBook Pro packaging leak gives hope for an October event](https://appleinsider.com/articles/24/09/29/m4-macbook-pro-packaging-leak-gives-hope-for-an-october-event?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s long-rumored homeOS may arrive in 2025 with Home Hub](https://appleinsider.com/articles/24/09/29/apples-long-rumored-homeos-may-arrive-in-2025-with-home-hub?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

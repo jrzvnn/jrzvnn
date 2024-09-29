@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
- - 😝 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
- - 💣 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 👉 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 💣 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 👉 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Get Started on Valve’s &#39;Deadlock&#39;](https://www.wired.com/story/valve-deadlock-playtest-tips/)
+ - [The AR and VR headsets you’ll actually wear](https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer)
  - [iPhone 17 &#39;Slim&#39; Rumors: Apple&#39;s Thinnest Phone Ever May Come Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)
  - [You Can Now Use Every Emoji to React to Messages With iOS 18](https://www.cnet.com/tech/services-and-software/you-can-now-use-every-emoji-to-react-to-messages-with-ios-18/#ftag=CAD590a51e)
- - [The Vagus Nerve’s Crucial Role in Creating the Human Sense of Mind](https://www.wired.com/story/how-our-longest-nerve-orchestrates-the-mind-body-connection-vagus/)
- - [Fall Is Here: 3 Reasons You Need a Smokeless Fire Pit This Season](https://www.cnet.com/home/yard-and-outdoors/three-reasons-you-need-a-smokeless-fire-pit-this-season/#ftag=CAD590a51e)
- - [Shopping for a Decent Deal on Internet Service? Check the Cost Per Mbps](https://www.cnet.com/home/internet/check-the-cost-per-mbps-when-shopping-for-internet-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Vagus Nerve’s Crucial Role in Creating the Human Sense of Mind](https://www.wired.com/story/how-our-longest-nerve-orchestrates-the-mind-body-connection-vagus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

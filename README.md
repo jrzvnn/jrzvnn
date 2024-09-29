@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman driving while on her cell phone crashes into a vintage jaguar](http://9gag.com/gag/aMVj5VP)
  - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
- - 💣 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 💣 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
  - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 ---

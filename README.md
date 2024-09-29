@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)
- - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
- - 💣 [The last day](http://9gag.com/gag/ayNXw2V)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
+ - 😝 [I love dongle](http://9gag.com/gag/ajPEwmg)
+ - 😝 [Today collected 15kg of garbage. Total is 3290kg. Long time no see. Miss you all .Your Cleaning Guy.](http://9gag.com/gag/avyOVmZ)
+ - 💣 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)
+ - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
+ - 👉 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)<!-- MEMES:END -->
 
 ---
 

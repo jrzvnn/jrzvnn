@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Student Loans Under Harris vs. Trump. Here&#39;s What the Experts Predict](https://www.cnet.com/personal-finance/loans/your-student-loans-under-harris-vs-trump-heres-what-the-experts-predict/#ftag=CAD590a51e)
- - [YouTube pulls songs from Adele, Nirvana, and others due to SESAC dispute](https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming)
- - [NASA, SpaceX Launch Capsule to Fetch Stranded Astronauts: Watch It Dock on Sunday](https://www.cnet.com/science/nasa-spacex-launch-capsule-to-fetch-stranded-astronauts-watch-it-dock-on-sunday/#ftag=CAD590a51e)
- - [iPhone 16 Pro Max beats all comers in battery life test](https://appleinsider.com/articles/24/09/28/iphone-16-pro-max-beats-all-comers-in-battery-life-test?utm_medium=rss)
- - [These Student Loan Benefits Expire in 2 Days. Here&#39;s What Borrowers Should Do Now](https://www.cnet.com/personal-finance/loans/these-student-loan-benefits-expire-in-2-days-heres-what-borrowers-should-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 29, #210](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-29-210/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 29, #476](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-29-476/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 29, #1198](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-29-1198/#ftag=CAD590a51e)
+ - [Student Loan Forgiveness: You Have 2 Days Left to Apply for This Student Loan Debt Relief Program](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-you-have-2-days-left-to-apply-for-this-student-loan-debt-relief-program/#ftag=CAD590a51e)
+ - [Your Student Loans Under Harris vs. Trump. Here&#39;s What the Experts Predict](https://www.cnet.com/personal-finance/loans/your-student-loans-under-harris-vs-trump-heres-what-the-experts-predict/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple is considering multiple paths for future Apple Vision Pro hardware](https://appleinsider.com/articles/24/09/29/apple-is-considering-multiple-paths-for-future-apple-vision-pro-hardware?utm_medium=rss)
+ - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
  - [The 14 Best Office Chairs in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-office-chairs/)
- - [Crime blotter: &#39;Quasi-gangs&#39; arrested for 2023 fight outside Tokyo Apple Store](https://appleinsider.com/articles/24/09/29/crime-blotter-quasi-gangs-arrested-for-2023-fight-outside-tokyo-apple-store?utm_medium=rss)
- - [How to Watch the Vance vs. Walz Vice Presidential Debate Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-vance-vs-walz-vice-presidential-debate-without-cable/#ftag=CAD590a51e)
- - [This Is the Biggest Map of the Milky Way Ever Constructed by Humans](https://www.cnet.com/science/this-is-the-biggest-map-of-the-milky-way-ever-constructed-by-humans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use ChatGPT to Find the Best Online Shopping Deals and Coupons](https://www.cnet.com/tech/services-and-software/how-to-use-chatgpt-to-find-the-best-online-shopping-deals-and-coupons/#ftag=CAD590a51e)
+ - [Best Mac VPN for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

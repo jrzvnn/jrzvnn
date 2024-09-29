@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
  - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
- - 💣 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [C. Cant tell](http://9gag.com/gag/a9yp4M0)<!-- MEMES:END -->
+ - 💣 [Finally](http://9gag.com/gag/ayNXmGY)
+ - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
 
 ---
 

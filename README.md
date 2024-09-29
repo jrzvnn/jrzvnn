@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With 27 years I finally achieved something!](http://9gag.com/gag/amo7yY4)
- - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 💣 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 👉 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
+ - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 😝 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)
+ - 👉 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)<!-- MEMES:END -->
 
 ---
 

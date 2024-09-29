@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify is down](https://www.theverge.com/2024/9/29/24257477/spotify-outage-down-website-app)
  - [Sources: Apple considers options for its headsets, including moving compute to iPhone, and is working on homeOS; new Masimo CEO could enable a deal with Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240929/p6#a240929p6)
  - [SpaceX Will Send Five Missions to Mars by 2026, Elon Musk Promises](https://www.cnet.com/science/space/spacex-will-send-five-missions-to-mars-by-2026-elon-musk-promises/#ftag=CAD590a51e)
  - [Apple may release an iPad-like smart home display next year](https://www.theverge.com/2024/9/29/24257391/apple-smart-home-display-homeos-apple-intelligence-homepod-ipad-robot)
- - [Reddit Is Using AI to Expand Translation Services](https://www.cnet.com/tech/services-and-software/reddit-is-using-ai-to-expand-translation-services/#ftag=CAD590a51e)
- - [You Can Plan Your Halloween Decor With AI. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-plan-your-halloween-decor-with-ai-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit Is Using AI to Expand Translation Services](https://www.cnet.com/tech/services-and-software/reddit-is-using-ai-to-expand-translation-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

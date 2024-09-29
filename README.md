@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
+ - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 💣 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)
  - 😝 [Behold... The bird yeeter](http://9gag.com/gag/aQz3Bgz)
- - 😝 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)
- - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
+ - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 ---
 

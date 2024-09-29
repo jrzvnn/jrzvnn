@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Get Started on Valve’s &#39;Deadlock&#39;](https://www.wired.com/story/valve-deadlock-playtest-tips/)
- - [The AR and VR headsets you’ll actually wear](https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer)
- - [iPhone 17 &#39;Slim&#39; Rumors: Apple&#39;s Thinnest Phone Ever May Come Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)
- - [You Can Now Use Every Emoji to React to Messages With iOS 18](https://www.cnet.com/tech/services-and-software/you-can-now-use-every-emoji-to-react-to-messages-with-ios-18/#ftag=CAD590a51e)
- - [The Vagus Nerve’s Crucial Role in Creating the Human Sense of Mind](https://www.wired.com/story/how-our-longest-nerve-orchestrates-the-mind-body-connection-vagus/)<!-- TECH:END -->
+ - [How to Watch the Vance vs. Walz Vice Presidential Debate Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-vance-vs-walz-vice-presidential-debate-without-cable/#ftag=CAD590a51e)
+ - [This Is the Biggest Map of the Milky Way Ever Constructed by Humans](https://www.cnet.com/science/this-is-the-biggest-map-of-the-milky-way-ever-constructed-by-humans/#ftag=CAD590a51e)
+ - [Lenovo Yoga 9i 14 Gen 9 Review: Slim Body, Superb Display, Stunning Sound](https://www.cnet.com/tech/computing/lenovo-yoga-9i-14-gen-9-review-slim-body-superb-display-stunning-sound/#ftag=CAD590a51e)
+ - [The Most Effective Ways to Keep Your Home Address Off the Web](https://www.cnet.com/home/security/want-to-keep-your-address-off-the-internet-heres-how/#ftag=CAD590a51e)
+ - [Sunday Night Football: How to Watch Bills vs. Ravens Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-bills-vs-ravens-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

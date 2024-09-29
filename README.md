@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [California governor vetoes major AI safety bill](https://www.theverge.com/2024/9/29/24232172/california-ai-safety-bill-1047-vetoed-gavin-newsom)
  - [Marvel and DC lose ‘SUPER HERO’ trademarks](https://www.theverge.com/2024/9/29/24257677/marvel-dc-super-hero-trademark-canceled-challenge-superbabies)
- - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [You Can Earn a $250 Bonus With a New Capital One Checking Account](https://www.cnet.com/personal-finance/banking/you-can-earn-a-250-bonus-with-a-new-capital-one-checking-account/#ftag=CAD590a51e)
- - [Best Drones for 2024](https://www.cnet.com/tech/computing/best-drone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Deals: Snag Top VPN Subscriptions for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)
+ - [Best Vitamins and Supplements for Joint Health in 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)
+ - [Best Buy Members: You Have a Few Hours To Nab Major Discounts](https://www.cnet.com/deals/best-buy-members-you-have-a-few-hours-to-nab-major-discounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 😝 [Woman driving while on her cell phone crashes into a vintage jaguar](http://9gag.com/gag/aMVj5VP)
- - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
+ - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 💣 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 👉 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)<!-- MEMES:END -->
 
 ---
 

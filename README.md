@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With 27 years I finally achieved something!](http://9gag.com/gag/amo7yY4)
- - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 💣 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 😝 [Bro won](http://9gag.com/gag/aAyxLD2)
+ - 💣 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
+ - 😝 [Angie Tribeca](http://9gag.com/gag/aAyxNdZ)
+ - 👉 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)<!-- MEMES:END -->
 
 ---
 

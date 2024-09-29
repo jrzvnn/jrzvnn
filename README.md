@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
  - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
- - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 😝 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
  - 👉 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)<!-- MEMES:END -->
 
 ---

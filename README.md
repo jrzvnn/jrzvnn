@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 💣 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 👉 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)<!-- MEMES:END -->
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 💣 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 ---
 

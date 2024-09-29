@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California governor vetoes major AI safety bill](https://www.theverge.com/2024/9/29/24232172/california-ai-safety-bill-1047-vetoed-gavin-newsom)
  - [Marvel and DC lose ‘SUPER HERO’ trademarks](https://www.theverge.com/2024/9/29/24257677/marvel-dc-super-hero-trademark-canceled-challenge-superbabies)
  - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
  - [You Can Earn a $250 Bonus With a New Capital One Checking Account](https://www.cnet.com/personal-finance/banking/you-can-earn-a-250-bonus-with-a-new-capital-one-checking-account/#ftag=CAD590a51e)
- - [Best Drones for 2024](https://www.cnet.com/tech/computing/best-drone/#ftag=CAD590a51e)
- - [Are Your Upload Speeds Too Slow? Here&#39;s Why, and How to Fix It](https://www.cnet.com/home/internet/are-your-upload-speeds-too-slow-heres-why-and-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Drones for 2024](https://www.cnet.com/tech/computing/best-drone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

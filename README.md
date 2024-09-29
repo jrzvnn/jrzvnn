@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
  - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
- - 👉 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)<!-- MEMES:END -->
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 👉 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)<!-- MEMES:END -->
 
 ---
 

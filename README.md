@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love dongle](http://9gag.com/gag/ajPEwmg)
- - 😝 [Today collected 15kg of garbage. Total is 3290kg. Long time no see. Miss you all .Your Cleaning Guy.](http://9gag.com/gag/avyOVmZ)
- - 💣 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)
- - 😝 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)
- - 👉 [The good boy.](http://9gag.com/gag/axy1w12)<!-- MEMES:END -->
+ - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 💣 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
+ - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
 
 ---
 

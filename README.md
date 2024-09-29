@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 💣 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
- - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
+ - 😝 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)
+ - 😝 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)
+ - 💣 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 👉 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)<!-- MEMES:END -->
 
 ---
 

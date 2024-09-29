@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
- - 😝 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
- - 💣 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
  - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
- - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)<!-- MEMES:END -->
+ - 😝 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)
+ - 💣 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)
+ - 😝 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
+ - 👉 [Love this](http://9gag.com/gag/aYQgZnx)<!-- MEMES:END -->
 
 ---
 

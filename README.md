@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
- - 😝 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)
- - 💣 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)
- - 😝 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
- - 👉 [Love this](http://9gag.com/gag/aYQgZnx)<!-- MEMES:END -->
+ - 😝 [With 27 years I finally achieved something!](http://9gag.com/gag/amo7yY4)
+ - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 💣 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
+ - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
+ - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
 
 ---
 

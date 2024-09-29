@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love the Irish](http://9gag.com/gag/a4P7yW6)
  - 😝 [I love dongle](http://9gag.com/gag/ajPEwmg)
- - 💣 [Today collected 15kg of garbage. Total is 3290kg. Long time no see. Miss you all .Your Cleaning Guy.](http://9gag.com/gag/avyOVmZ)
+ - 😝 [Today collected 15kg of garbage. Total is 3290kg. Long time no see. Miss you all .Your Cleaning Guy.](http://9gag.com/gag/avyOVmZ)
+ - 💣 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)
  - 😝 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)
- - 👉 [Badass](http://9gag.com/gag/a87oO9Y)<!-- MEMES:END -->
+ - 👉 [The good boy.](http://9gag.com/gag/axy1w12)<!-- MEMES:END -->
 
 ---
 

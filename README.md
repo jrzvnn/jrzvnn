@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
- - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 😝 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
- - 👉 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)<!-- MEMES:END -->
+ - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
+ - 😝 [A quick break.](http://9gag.com/gag/a9ypwXo)
+ - 💣 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
+ - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
+ - 👉 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
 
 ---
 

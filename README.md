@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh, captain? Why are those ruins lighting up?](http://9gag.com/gag/apR2w3W)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 💣 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)
- - 😝 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
- - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
+ - 😝 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)
+ - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
+ - 💣 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
 
 ---
 

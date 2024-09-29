@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [14 Best WIRED Tested and Reviewed Espresso Machines &lpar;2024&rpar;](https://www.wired.com/gallery/best-espresso-machines/)
  - [16 Best Coffee Grinders, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
  - [NYU professor Aswath Damodaran on an AI bot that is trained on his equity valuation work that is in the public domain, why AI will empower generalists, and more &lpar;Aswath Damodaran/Financial Times&rpar;](http://www.techmeme.com/240929/p4#a240929p4)
- - [The 9 Best National Coffee Day Deals on Machines and Beans](https://www.wired.com/story/national-coffee-day-deals-2024/)
- - [Melatonin Making You Groggy? A Better Natural Sleep Aid Might Be GABA](https://www.cnet.com/health/sleep/melatonin-making-you-groggy-a-better-natural-sleep-might-be-gaba/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Ipswich vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
+ - [How to Edit and Use Your iPhone&#39;s Updated Control Center in iOS 18](https://www.cnet.com/tech/services-and-software/how-to-edit-and-use-your-iphones-updated-control-center-in-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

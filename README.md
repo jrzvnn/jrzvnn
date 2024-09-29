@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
- - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 💣 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
- - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
+ - 😝 [Uh, captain? Why are those ruins lighting up?](http://9gag.com/gag/apR2w3W)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 💣 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)
+ - 😝 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
+ - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OpenAI&#39;s sprawling product portfolio as the startup matures into a real business and runs into the challenges of avoiding product creep &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/240929/p3#a240929p3)
  - [YouTube blocks songs by Adele, Bob Dylan, Green Day, and others in the US, after its music licensing agreement with performing rights organization SESAC expired &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240929/p2#a240929p2)
  - [Mark Zuckerberg&#39;s personal wealth has climbed almost sixfold to $200B+ in less than two years, buoyed by Meta&#39;s record-high share price, which is up 60%+ YTD &lpar;Alex Perry/Bloomberg&rpar;](http://www.techmeme.com/240929/p1#a240929p1)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-29/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 29, #210](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-29-210/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 29, #476](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-29-476/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 29, #210](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-29-210/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

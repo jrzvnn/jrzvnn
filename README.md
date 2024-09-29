@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record $241B Holiday Shopping Season Is Coming, Adobe Predicts](https://www.cnet.com/news/record-241-billion-holiday-shopping-season-is-coming-adobe-predicts/#ftag=CAD590a51e)
- - [Best Sleep Headphones of 2024](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [3 Methods for Identifying Your Blood Type and Why It&#39;s Important](https://www.cnet.com/health/medical/important-know-blood-type-3-methods-identify-yours/#ftag=CAD590a51e)
- - [Chiefs vs. Chargers: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/chiefs-vs-chargers-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
+ - [You Can Earn a $250 Bonus With a New Capital One Checking Account](https://www.cnet.com/personal-finance/banking/you-can-earn-a-250-bonus-with-a-new-capital-one-checking-account/#ftag=CAD590a51e)
+ - [Best Drones for 2024](https://www.cnet.com/tech/computing/best-drone/#ftag=CAD590a51e)
+ - [Are Your Upload Speeds Too Slow? Here&#39;s Why, and How to Fix It](https://www.cnet.com/home/internet/are-your-upload-speeds-too-slow-heres-why-and-how-to-fix-it/#ftag=CAD590a51e)
+ - [Best Wireless Home Security Cameras of 2024](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

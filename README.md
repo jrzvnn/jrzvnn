@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Razer leans into haptics with a new gaming cushion and vibrating headphones](https://www.theverge.com/2024/9/29/24257440/razer-freyja-gaming-cushion-kraken-v4-pro-headphones-haptic-feedback)
- - [Indian authorities looking into fire at iPhone parts factory](https://appleinsider.com/articles/24/09/29/indian-authorities-looking-into-fire-at-iphone-parts-factory?utm_medium=rss)
- - [California passes a law that includes &quot;neural data&quot; under personal sensitive information, aiming to protect people&#39;s brain data from being misused by companies &lpar;Jonathan Moens/New York Times&rpar;](http://www.techmeme.com/240929/p7#a240929p7)
- - [Spotify is down](https://www.theverge.com/2024/9/29/24257477/spotify-outage-down-website-app)
- - [21 Best Luxury Gifts for Those Who Seem to Have Everything](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Commanders vs. Cardinals Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/commanders-vs-cardinals-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
+ - [Patriots vs. 49ers Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/patriots-vs-49ers-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
+ - [This Inclusive Visual Guide Gives You the Full Scoop on Your Protein Needs](https://www.cnet.com/health/nutrition/this-inclusive-visual-guide-gives-you-the-full-scoop-on-your-protein-needs/#ftag=CAD590a51e)
+ - [Indian authorities looking into fire at iPhone parts factory](https://appleinsider.com/articles/24/09/29/indian-authorities-looking-into-fire-at-iphone-parts-factory?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

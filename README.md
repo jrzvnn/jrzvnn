@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)
+ - 😝 [Behold... The bird yeeter](http://9gag.com/gag/aQz3Bgz)
+ - 😝 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)
+ - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
  - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 💣 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
+ - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
 
 ---
 

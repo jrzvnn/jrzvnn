@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)
- - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
- - 💣 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
- - 😝 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
+ - 😝 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
+ - 😝 [You may now kiss the axe](http://9gag.com/gag/aAyxLXd)
+ - 💣 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
+ - 😝 [It is time we take control](http://9gag.com/gag/arygwMy)
  - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
 
 ---

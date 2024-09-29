@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 😝 [The way she opens the zipper](http://9gag.com/gag/apR2z3W)
- - 💣 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
- - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
+ - 😝 [With 27 years I finally achieved something!](http://9gag.com/gag/amo7yY4)
+ - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 💣 [Look Netflix it&#39;s not that hard...](http://9gag.com/gag/a5QoAzr)
+ - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
+ - 👉 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
- - 😝 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 💣 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
+ - 😝 [Clever girl](http://9gag.com/gag/apR2wQM)
+ - 😝 [Oddly satisfying art](http://9gag.com/gag/an7M0o0)
+ - 💣 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)
+ - 😝 [Step dancers perform at Cheyenne Celtic Festival](http://9gag.com/gag/ayNXw1W)
+ - 👉 [Thats something...](http://9gag.com/gag/awyX9GD)<!-- MEMES:END -->
 
 ---
 

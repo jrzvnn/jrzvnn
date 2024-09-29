@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 😝 [A quick break.](http://9gag.com/gag/a9ypwXo)
- - 💣 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
- - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
- - 👉 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
+ - 😝 [Woman driving while on her cell phone crashes into a vintage jaguar](http://9gag.com/gag/aMVj5VP)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 💣 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 ---
 

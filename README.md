@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clever girl](http://9gag.com/gag/apR2wQM)
- - 😝 [Oddly satisfying art](http://9gag.com/gag/an7M0o0)
- - 💣 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)
- - 😝 [Step dancers perform at Cheyenne Celtic Festival](http://9gag.com/gag/ayNXw1W)
- - 👉 [Thats something...](http://9gag.com/gag/awyX9GD)<!-- MEMES:END -->
+ - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
+ - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
+ - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 😝 [Woman driving while on her cell phone crashes into a vintage jaguar](http://9gag.com/gag/aMVj5VP)
+ - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
 
 ---
 

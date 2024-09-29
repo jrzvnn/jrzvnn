@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may release an iPad-like smart home display next year](https://www.theverge.com/2024/9/29/24257391/apple-smart-home-display-homeos-apple-intelligence-homepod-ipad-robot)
  - [The future of AI might look a lot like Twitter](https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast)
  - [A look at challenges to OpenAI becoming a for-profit company, including the complexity of splitting assets with the nonprofit arm, which will continue to exist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p5#a240929p5)
  - [The Best Instax Cameras and Printers We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-instax-cameras-and-printers/)
- - [The Best Action Cameras &lpar;2024&rpar;: Underwater, Compact, More](https://www.wired.com/gallery/best-action-cameras/)
- - [I Tracked My Blood Sugar for a Month. It Burst My Wellness Bubble](https://www.cnet.com/health/medical/i-tracked-my-blood-sugar-for-a-month-it-burst-my-wellness-bubble/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Action Cameras &lpar;2024&rpar;: Underwater, Compact, More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

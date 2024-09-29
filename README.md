@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
- - 😝 [Japan was always ahead of the times...](http://9gag.com/gag/awyX9rQ)
- - 💣 [Love this](http://9gag.com/gag/aYQgZnx)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [Bro won](http://9gag.com/gag/aAyxLD2)<!-- MEMES:END -->
+ - 😝 [Bro won](http://9gag.com/gag/aAyxLD2)
+ - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
+ - 💣 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
 
 ---
 

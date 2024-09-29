@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at challenges to OpenAI becoming a for-profit company, including the complexity of splitting assets with the nonprofit arm, which will continue to exist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p5#a240929p5)
  - [The Best Instax Cameras and Printers We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-instax-cameras-and-printers/)
  - [The Best Action Cameras &lpar;2024&rpar;: Underwater, Compact, More](https://www.wired.com/gallery/best-action-cameras/)
- - [Apple&#39;s long-rumored homeOS may arrive in 2025 with Home Hub](https://appleinsider.com/articles/24/09/29/apples-long-rumored-homeos-may-arrive-in-2025-with-home-hub?utm_medium=rss)<!-- TECH:END -->
+ - [I Tracked My Blood Sugar for a Month. It Burst My Wellness Bubble](https://www.cnet.com/health/medical/i-tracked-my-blood-sugar-for-a-month-it-burst-my-wellness-bubble/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

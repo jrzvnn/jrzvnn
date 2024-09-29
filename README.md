@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYU professor Aswath Damodaran on an AI bot that is trained on his equity valuation work that is in the public domain, why AI will empower generalists, and more &lpar;Aswath Damodaran/Financial Times&rpar;](http://www.techmeme.com/240929/p4#a240929p4)
  - [The 9 Best National Coffee Day Deals on Machines and Beans](https://www.wired.com/story/national-coffee-day-deals-2024/)
  - [Melatonin Making You Groggy? A Better Natural Sleep Aid Might Be GABA](https://www.cnet.com/health/sleep/melatonin-making-you-groggy-a-better-natural-sleep-might-be-gaba/#ftag=CAD590a51e)
  - [A look at OpenAI&#39;s sprawling product portfolio as the startup matures into a real business and runs into the challenges of avoiding product creep &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/240929/p3#a240929p3)
- - [YouTube blocks songs by Adele, Bob Dylan, Green Day, and others in the US, after its music licensing agreement with performing rights organization SESAC expired &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240929/p2#a240929p2)
- - [Mark Zuckerberg&#39;s personal wealth has climbed almost sixfold to $200B+ in less than two years, buoyed by Meta&#39;s record-high share price, which is up 60%+ YTD &lpar;Alex Perry/Bloomberg&rpar;](http://www.techmeme.com/240929/p1#a240929p1)<!-- TECH:END -->
+ - [YouTube blocks songs by Adele, Bob Dylan, Green Day, and others in the US, after its music licensing agreement with performing rights organization SESAC expired &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240929/p2#a240929p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
- - 😝 [C. Cant tell](http://9gag.com/gag/a9yp4M0)
+ - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
  - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
  - 😝 [Woman driving while on her cell phone crashes into a vintage jaguar](http://9gag.com/gag/aMVj5VP)
  - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->

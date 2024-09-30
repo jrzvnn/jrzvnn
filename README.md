@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
- - 😝 [6 feet](http://9gag.com/gag/aLnjZ8A)
- - 💣 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
+ - 💣 [How to take a joke](http://9gag.com/gag/a2vo32O)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [How to take a joke](http://9gag.com/gag/a2vo32O)<!-- MEMES:END -->
+ - 👉 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)<!-- MEMES:END -->
 
 ---
 

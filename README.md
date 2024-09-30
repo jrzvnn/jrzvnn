@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever seen the full video?](http://9gag.com/gag/aVv3rnd)
- - 😝 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
- - 💣 [Another safety orientation video.](http://9gag.com/gag/ae9MzGq)
- - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
- - 👉 [Title](http://9gag.com/gag/adBKMoQ)<!-- MEMES:END -->
+ - 😝 [Another safety orientation video.](http://9gag.com/gag/ae9MzGq)
+ - 😝 [New merch gon drop, too.](http://9gag.com/gag/awyX2oy)
+ - 💣 [That should be required by law](http://9gag.com/gag/aXPx3Kd)
+ - 😝 [The tension in this 1950&#39;s beef stew ad](http://9gag.com/gag/a9ypwP6)
+ - 👉 [Every time I tell someone asks me what&#39;s in my smoothie.](http://9gag.com/gag/aGyjvZw)<!-- MEMES:END -->
 
 ---
 

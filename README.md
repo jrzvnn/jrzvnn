@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
- - 💣 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 💣 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [It is time we take control](http://9gag.com/gag/arygwMy)<!-- MEMES:END -->
+ - 👉 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)<!-- MEMES:END -->
 
 ---
 

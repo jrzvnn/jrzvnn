@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California enacts an internet-connected car data privacy law to curb domestic violence, requiring carmakers to make it easier to submit restraining orders, more &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p17#a240930p17)
  - [Indicted Eric Adams told FBI he forgot his iPhone&#39;s new passcode](https://appleinsider.com/articles/24/09/30/indicted-eric-adams-told-fbi-he-forgot-his-iphones-new-passcode?utm_medium=rss)
  - [US NHTSA: Cruise must pay a $1.5M fine, submit a corrective action plan, and face enhanced oversight after a 2023 crash with a pedestrian was not fully reported &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240930/p16#a240930p16)
- - [Leaked Google Pixel 9A renders reveal a visor-free look](https://www.theverge.com/2024/9/30/24258413/google-pixel-9a-render-image-leak-rumor)
- - [This smart front door can go from clear to opaque with a voice command](https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot)
- - [Reddit moderators must now submit a request to Reddit staff before changing a subreddit&#39;s public/private status, making sitewide mod-led protests much harder &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240930/p15#a240930p15)<!-- TECH:END -->
+ - [Amazon Prime Day Is Back Next Week. Here&#39;s the Info, Plus Some Early Deals to Score Now](https://www.cnet.com/deals/when-is-amazon-prime-day/#ftag=CAD590a51e)
+ - [Best Knife Sharpener of 2024](https://www.cnet.com/news/best-knife-sharpener/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

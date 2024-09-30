@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An FBI affidavit and European media leaks show how Russia&#39;s Doppelganger disinformation project operated and give insights into the Kremlin&#39;s online tactics &lpar;Thomas Rid/Foreign Affairs&rpar;](http://www.techmeme.com/240930/p8#a240930p8)
- - [Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung&#39;s Auto Blocker, and plans to speak to the EU &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p7#a240930p7)
- - [AT&amp;T agrees to sell its majority stake in DirecTV to private equity firm TPG for $7.6B in cash, including $1.7B in pre-tax quarterly distributions in H2 2024 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240930/p6#a240930p6)
- - [Xbox Game Pass: You Can Play Frostpunk 2 and More Games Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-frostpunk-2-and-more-games-now/#ftag=CAD590a51e)
- - [These 2 iPad Pro Features Should Come to the iPhone](https://www.cnet.com/tech/mobile/i-hope-these-2-ipad-pro-features-make-it-to-the-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance founder Changpeng Zhao pledges to keep investing in blockchain, AI, and biotech, in his first comments since his release from US custody on September 27 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240930/p9#a240930p9)
+ - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)
+ - [DirecTV and Dish are merging](https://www.theverge.com/2024/9/30/24258196/directv-dish-merger-tpg-deal-announcement)
+ - [Asus ProArt PZ13 Review: A Cheaper Surface Pro](https://www.wired.com/review/asus-proart-pz13/)
+ - [Google Chrome&#39;s AI Extension Does Your Mundane Prep Work and More](https://www.cnet.com/tech/services-and-software/google-chromes-ai-extension-does-your-mundane-prep-work-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirPods help police locate stolen Ferrari worth $575,000](https://appleinsider.com/articles/24/09/30/apple-airpods-help-police-locate-stolen-ferrari-worth-575000?utm_medium=rss)
+ - [Notes on Google NotebookLM&#39;s Audio Overview feature, which generates a podcast with two AI hosts discussing user-provided content and is surprisingly effective &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240930/p27#a240930p27)
  - [Want to Buy a Smart Glass Door? It Just Got a Little Bit Cheaper](https://www.wired.com/story/smart-glass-door-home-depot/)
  - [T-Mobile promises to try not to get hacked again](https://www.theverge.com/2024/9/30/24258763/t-mobile-fcc-settlement-cybersecurity-investment)
- - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)
- - [Meet Your Daily Protein Goals With This Simple Visual Guide](https://www.cnet.com/health/nutrition/meet-your-daily-protein-goals-with-this-simple-visual-guide/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Titans vs. Dolphins, Seahawks vs. Lions Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-seahawks-vs-lions-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

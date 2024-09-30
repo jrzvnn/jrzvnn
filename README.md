@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 😝 [Chad Prince Salman](http://9gag.com/gag/aLnj7V5)
+ - 💣 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
  - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
- - 😝 [`NO`](http://9gag.com/gag/aE0x4DK)
- - 💣 [Chromium is everywhere](http://9gag.com/gag/aD2xL9N)
- - 😝 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
  - 👉 [OurProphet](http://9gag.com/gag/axy1qdM)<!-- MEMES:END -->
 
 ---

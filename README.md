@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Udemy uses opt-out windows, the first of which lasted three weeks and just ended, that its creators must use to prevent their videos from being used to train AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240930/p24#a240930p24)
  - [YouTube reaches a deal with SESAC that will bring back songs by Adele, Bob Dylan, Nirvana, and others that were removed over the weekend in the US &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240930/p23#a240930p23)
  - [YouTube’s missing hits will come back now that it has a deal with SESAC](https://www.theverge.com/2024/9/30/24258734/youtube-sesac-music-licensing-streaming-negotiation)
  - [CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them &lpar;Jeffrey D. Neuburger/National Law Review&rpar;](http://www.techmeme.com/240930/p22#a240930p22)
- - [The Shockingly Simple Way to Keep Food From Drying Out in a Microwave](https://www.cnet.com/news/the-shockingly-simple-way-i-keep-food-from-drying-out-in-the-microwave/#ftag=CAD590a51e)
- - [EcoFlow&#39;s New Power Station Lineup Keeps You Running No Matter Where You Are](https://www.cnet.com/news/ecoflows-new-delta-3-river-3-power-station-lineup-keeps-you-running-no-matter-where-you-are/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Shockingly Simple Way to Keep Food From Drying Out in a Microwave](https://www.cnet.com/news/the-shockingly-simple-way-i-keep-food-from-drying-out-in-the-microwave/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

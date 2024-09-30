@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p3#a240930p3)
+ - [The Pig Butchering Invasion Has Begun](https://www.wired.com/story/pig-butchering-scam-invasion/)
  - [Google&#39;s lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge&#39;s ruling is expected in the coming months &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p2#a240930p2)
  - [How To Delete Safari History on iOS in a Few Simple Steps](https://www.cnet.com/tech/services-and-software/how-to-delete-some-or-all-of-your-safari-browsing-history-on-ios/#ftag=CAD590a51e)
- - [Inside Two Years of Turmoil at Big Tech&#39;s Anti-Terrorism Group](https://www.wired.com/story/gifct-x-meta-youtube-microsoft-anti-terrorism-big-tech-turmoil/)
- - [Best Savings Rates Today, Sept. 30, 2024: Act Fast to Maximize Your Earnings. APYs Are Falling Fast](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-30-2024/#ftag=CAD590a51e)
- - [Raspberry Pi and Sony made an AI-powered camera module](https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability)<!-- TECH:END -->
+ - [Inside Two Years of Turmoil at Big Tech&#39;s Anti-Terrorism Group](https://www.wired.com/story/gifct-x-meta-youtube-microsoft-anti-terrorism-big-tech-turmoil/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance founder Changpeng Zhao pledges to keep investing in blockchain, AI, and biotech, in his first comments since his release from US custody on September 27 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240930/p9#a240930p9)
- - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)
- - [DirecTV and Dish are merging](https://www.theverge.com/2024/9/30/24258196/directv-dish-merger-tpg-deal-announcement)
- - [Asus ProArt PZ13 Review: A Cheaper Surface Pro](https://www.wired.com/review/asus-proart-pz13/)
- - [Google Chrome&#39;s AI Extension Does Your Mundane Prep Work and More](https://www.cnet.com/tech/services-and-software/google-chromes-ai-extension-does-your-mundane-prep-work-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [You Can Use AI to Catch Cheaters in School. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-use-ai-to-catch-cheaters-in-school-heres-how/#ftag=CAD590a51e)
+ - [AMD improves Zen 5 CPU latency and performance with BIOS updates](https://www.theverge.com/2024/9/30/24258147/amd-zen-5-cpu-performance-latency-bios-updates)
+ - [&#39;Gray Charges&#39; May Be Sneaking Onto Your Credit Card. How to Fight Back](https://www.cnet.com/personal-finance/gray-charges-may-be-sneaking-onto-your-credit-card-how-to-fight-back/#ftag=CAD590a51e)
+ - [Binance founder Changpeng Zhao pledges to keep investing in blockchain, AI, and biotech, in his first comments since his release from US custody on September 27 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240930/p9#a240930p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

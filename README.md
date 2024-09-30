@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learn the difference](http://9gag.com/gag/aMVj5gA)
- - 😝 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
- - 💣 [Badass](http://9gag.com/gag/a87oO9Y)
- - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
- - 👉 [Step dancers perform at Cheyenne Celtic Festival](http://9gag.com/gag/ayNXw1W)<!-- MEMES:END -->
+ - 😝 [Why You Won&#39;t See Me at Condo Association Meetings](http://9gag.com/gag/a7oMxP2)
+ - 😝 [Proud silly royalty](http://9gag.com/gag/azxXyYj)
+ - 💣 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 😝 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
+ - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
 
 ---
 

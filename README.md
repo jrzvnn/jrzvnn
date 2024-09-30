@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Want to Buy a Smart Glass Door? It Just Got a Little Bit Cheaper](https://www.wired.com/story/smart-glass-door-home-depot/)
+ - [T-Mobile promises to try not to get hacked again](https://www.theverge.com/2024/9/30/24258763/t-mobile-fcc-settlement-cybersecurity-investment)
  - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)
  - [Meet Your Daily Protein Goals With This Simple Visual Guide](https://www.cnet.com/health/nutrition/meet-your-daily-protein-goals-with-this-simple-visual-guide/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Titans vs. Dolphins, Seahawks vs. Lions Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-seahawks-vs-lions-tonight/#ftag=CAD590a51e)
- - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Trump’s crypto platform is now open to the public — kind of](https://www.theverge.com/2024/9/30/24258815/world-liberty-financial-accredited-investors-know-your-customer-trump)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Titans vs. Dolphins, Seahawks vs. Lions Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-seahawks-vs-lions-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

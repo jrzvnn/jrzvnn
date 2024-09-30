@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why You Won&#39;t See Me at Condo Association Meetings](http://9gag.com/gag/a7oMxP2)
- - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
- - 💣 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
- - 😝 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)
- - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
+ - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 💣 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)
+ - 😝 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
+ - 👉 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge&#39;s ruling is expected in the coming months &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p2#a240930p2)
+ - [How To Delete Safari History on iOS in a Few Simple Steps](https://www.cnet.com/tech/services-and-software/how-to-delete-some-or-all-of-your-safari-browsing-history-on-ios/#ftag=CAD590a51e)
  - [Inside Two Years of Turmoil at Big Tech&#39;s Anti-Terrorism Group](https://www.wired.com/story/gifct-x-meta-youtube-microsoft-anti-terrorism-big-tech-turmoil/)
- - [Raspberry Pi and Sony made an AI-powered camera module](https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability)
- - [Antenna: Netflix cancellations spiked for a few days in late July 2024 after Reed Hastings endorsed Kamala Harris and announced a $7M super PAC donation &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240930/p1#a240930p1)
- - [How a 15-Year-Old Gamer Became the Patron Saint of the Internet](https://www.wired.com/story/carlo-acutis-millennial-patron-saint-internet/)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Savings Rates Today, Sept. 30, 2024: Act Fast to Maximize Your Earnings. APYs Are Falling Fast](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-30-2024/#ftag=CAD590a51e)
+ - [Raspberry Pi and Sony made an AI-powered camera module](https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

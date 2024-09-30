@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Global Internet Forum to Counter Terrorism, created by Meta, Microsoft, YouTube, and X in 2016 to share info; X quietly left the board this month &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240930/p5#a240930p5)
+ - [iPhone 16 Pro review: More of the same, and that&#39;s a great thing](https://appleinsider.com/articles/24/09/30/iphone-16-pro-review-more-of-the-same-and-thats-a-great-thing?utm_medium=rss)
  - [How to Renovate Your Home for a Billion Children](https://www.wired.com/story/inside-tiktok-unhinged-home-remodeling-videos/)
  - [Raspberry Pi AI Camera review: the new $70 kit has a smart camera with performance that will cover 99% of basic user projects, and works as a standard Pi camera &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240930/p4#a240930p4)
- - [Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p3#a240930p3)
- - [The Pig Butchering Invasion Has Begun](https://www.wired.com/story/pig-butchering-scam-invasion/)
- - [Google&#39;s lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge&#39;s ruling is expected in the coming months &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p2#a240930p2)<!-- TECH:END -->
+ - [Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p3#a240930p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

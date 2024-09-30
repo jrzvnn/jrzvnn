@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why You Won&#39;t See Me at Condo Association Meetings](http://9gag.com/gag/a7oMxP2)
- - 😝 [Proud silly royalty](http://9gag.com/gag/azxXyYj)
- - 💣 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 😝 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
- - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
+ - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
+ - 💣 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
+ - 😝 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)
+ - 👉 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)<!-- MEMES:END -->
 
 ---
 

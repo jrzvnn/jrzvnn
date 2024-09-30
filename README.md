@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 😝 [Arena Darkeh sentences a man to 10 years for building guns legally in his own home with no priors. Her exact words were `don&#39;t mention the second amendment. It doesn&#39;t exist in this courtroom.` This judge needs to be arrested for treason.](http://9gag.com/gag/ae9MngB)
- - 💣 [Happily Never After](http://9gag.com/gag/aqy7oAY)
+ - 😝 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
+ - 😝 [6 feet](http://9gag.com/gag/aLnjZ8A)
+ - 💣 [The last day](http://9gag.com/gag/ayNXw2V)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)<!-- MEMES:END -->
+ - 👉 [How to take a joke](http://9gag.com/gag/a2vo32O)<!-- MEMES:END -->
 
 ---
 

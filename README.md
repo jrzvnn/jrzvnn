@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true professional](http://9gag.com/gag/adBKGyd)
- - 😝 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
- - 💣 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 😝 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
+ - 💣 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
+ - 👉 [Would?](http://9gag.com/gag/aRB3bK2)<!-- MEMES:END -->
 
 ---
 

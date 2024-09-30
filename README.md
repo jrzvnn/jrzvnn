@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: UAE-based G42 accounted for 87% of Cerebras&#39; H1 2024 revenue and has committed to buy $335M worth of its stock by April 2025, giving G42 a 5%+ stake &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p28#a240930p28)
  - [Apple AirPods help police locate stolen Ferrari worth $575,000](https://appleinsider.com/articles/24/09/30/apple-airpods-help-police-locate-stolen-ferrari-worth-575000?utm_medium=rss)
  - [Notes on Google NotebookLM&#39;s Audio Overview feature, which generates a podcast with two AI hosts discussing user-provided content and is surprisingly effective &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240930/p27#a240930p27)
  - [Want to Buy a Smart Glass Door? It Just Got a Little Bit Cheaper](https://www.wired.com/story/smart-glass-door-home-depot/)
- - [T-Mobile promises to try not to get hacked again](https://www.theverge.com/2024/9/30/24258763/t-mobile-fcc-settlement-cybersecurity-investment)
- - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)<!-- TECH:END -->
+ - [T-Mobile promises to try not to get hacked again](https://www.theverge.com/2024/9/30/24258763/t-mobile-fcc-settlement-cybersecurity-investment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

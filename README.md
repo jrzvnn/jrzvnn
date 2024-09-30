@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true professional](http://9gag.com/gag/adBKGyd)
- - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 💣 [Weight a minute](http://9gag.com/gag/aryg7Q0)
+ - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 💣 [It is time we take control](http://9gag.com/gag/arygwMy)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)<!-- MEMES:END -->
+ - 👉 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 💣 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
+ - 😝 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
+ - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - 💣 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)<!-- MEMES:END -->
+ - 👉 [The last day](http://9gag.com/gag/ayNXw2V)<!-- MEMES:END -->
 
 ---
 

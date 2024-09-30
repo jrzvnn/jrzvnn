@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Hurricane Helene became a monster storm](https://www.theverge.com/2024/9/30/24258295/hurricane-helene-monster-storm-speed-strength-size)
  - [AI chip startup Cerebras Systems files for an IPO, with plans to trade on the Nasdaq as CBRS, and reports a net loss of $66.6M on $136.4M in sales in H1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240930/p25#a240930p25)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Udemy uses opt-out windows, the first of which lasted three weeks and just ended, that its creators must use to prevent their videos from being used to train AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240930/p24#a240930p24)
- - [There&#39;s Much More to Amazon Prime Than Just Prime Day Deals: Check Out These 16 Great Perks](https://www.cnet.com/tech/mobile/theres-much-more-to-amazon-prime-than-just-prime-day-deals-check-out-these-16-great-perks/#ftag=CAD590a51e)
- - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There&#39;s Much More to Amazon Prime Than Just Prime Day Deals: Check Out These 16 Great Perks](https://www.cnet.com/tech/mobile/theres-much-more-to-amazon-prime-than-just-prime-day-deals-check-out-these-16-great-perks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

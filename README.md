@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antenna: Netflix cancellations spiked for a few days in late July 2024 after Reed Hastings endorsed Kamala Harris and announced a $7M super PAC donation &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240930/p1#a240930p1)
  - [How a 15-Year-Old Gamer Became the Patron Saint of the Internet](https://www.wired.com/story/carlo-acutis-millennial-patron-saint-internet/)
  - [Today&#39;s NYT Mini Crossword Answers for Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-30/#ftag=CAD590a51e)
  - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
- - [Student Loan Forgiveness: Today&#39;s the Last Day to Apply for This Student Loan Debt Relief Program](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/#ftag=CAD590a51e)
- - [Two Major Student Loan Benefits Expire Today. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/two-major-student-loan-benefits-expire-today-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Student Loan Forgiveness: Today&#39;s the Last Day to Apply for This Student Loan Debt Relief Program](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

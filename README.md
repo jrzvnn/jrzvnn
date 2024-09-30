@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 😝 [Chad Prince Salman](http://9gag.com/gag/aLnj7V5)
- - 💣 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
- - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
- - 👉 [OurProphet](http://9gag.com/gag/axy1qdM)<!-- MEMES:END -->
+ - 😝 [A true professional](http://9gag.com/gag/adBKGyd)
+ - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 💣 [Weight a minute](http://9gag.com/gag/aryg7Q0)
+ - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
+ - 👉 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)<!-- MEMES:END -->
 
 ---
 

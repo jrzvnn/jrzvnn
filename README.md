@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s mobile services are down across the country](https://www.theverge.com/2024/9/30/24258362/verizon-mobile-services-down-sos-mode)
+ - [This Startup Wants YouTube Creators to Get Paid for AI Training Data](https://www.wired.com/story/license-to-scrape-youtube-ai-data-license-creators/)
  - [NBCU’s streaming chief isn’t worried about you canceling cable](https://www.theverge.com/24258301/matt-strauss-peacock-nbc-comcast-olympics-sports-direct-to-consumer-video-streaming)
  - [Tesla starts pushing Full Self-Driving access for some Cybertrucks](https://www.theverge.com/2024/9/30/24258232/tesla-cybertruck-fsd-early-access-v12-roll-out)
- - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)
- - [ADT&#39;s Gilles Drieu joins HomeKit Insider to talk latest in the smart home](https://appleinsider.com/articles/24/09/30/adts-gilles-drieu-joins-homekit-insider-to-talk-latest-in-the-smart-home?utm_medium=rss)
- - [For More At-Home Ambience This Fall, Try These 4 Smart Lighting Tips](https://www.cnet.com/home/smart-home/for-more-at-home-ambience-try-these-4-smart-lighting-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

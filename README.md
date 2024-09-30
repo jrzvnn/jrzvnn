@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally Germans are standing up against this nonsense](http://9gag.com/gag/aD2xKoO)
- - 😝 [A true professional](http://9gag.com/gag/adBKGyd)
- - 💣 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 😝 [Arena Darkeh sentences a man to 10 years for building guns legally in his own home with no priors. Her exact words were `don&#39;t mention the second amendment. It doesn&#39;t exist in this courtroom.` This judge needs to be arrested for treason.](http://9gag.com/gag/ae9MngB)
+ - 💣 [Happily Never After](http://9gag.com/gag/aqy7oAY)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
+ - 👉 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)<!-- MEMES:END -->
 
 ---
 

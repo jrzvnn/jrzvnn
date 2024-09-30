@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to donate to aid relief efforts following Hurricane Helene aftermath](https://appleinsider.com/articles/24/09/30/apple-to-donate-to-aid-relief-efforts-following-hurricane-helene-aftermath?utm_medium=rss)
- - [A massive outage has affected Verizon customers since around 10AM ET, according to reports on Downdetector from subscribers across the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240930/p14#a240930p14)
- - [Verizon wireless service is disrupted across a large area of the US](https://appleinsider.com/articles/24/09/30/verizon-wireless-service-is-disrupted-across-a-large-area-of-the-us?utm_medium=rss)
- - [Amazon is launching its own Shark Tank where winners get to be Amazon sellers](https://www.theverge.com/2024/9/30/24258276/amazon-buy-it-now-show-trailer-shark-tank-jb-smoove)
- - [Verizon’s mobile services are down across the country](https://www.theverge.com/2024/9/30/24258362/verizon-mobile-services-down-sos-mode)<!-- TECH:END -->
+ - [Hurricane Helene barreled through a crucial chip mining area in North Carolina](https://www.theverge.com/2024/9/30/24258333/hurricane-helene-quartz-chip-mining-north-carolina-spruce-pine)
+ - [California governor signs one driverless vehicle bill, vetoes two others](https://www.theverge.com/2024/9/30/24258349/california-governor-signs-veto-autonomous-vehicle-law)
+ - [HBO Almost Cut the Industry Season Finale&#39;s Most Shocking Scene](https://www.wired.com/story/hbo-almost-cut-the-industry-season-finales-most-shocking-scene/)
+ - [Reddit is making sitewide protests basically impossible](https://www.theverge.com/2024/9/30/24253727/reddit-communities-subreddits-request-protests)
+ - [Apple to donate to aid relief efforts following Hurricane Helene aftermath](https://appleinsider.com/articles/24/09/30/apple-to-donate-to-aid-relief-efforts-following-hurricane-helene-aftermath?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

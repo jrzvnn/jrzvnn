@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s been years since the Elektra movie came out and she can still do the tricks](http://9gag.com/gag/aGyjQbX)
  - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
- - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 💣 [A new way to hire](http://9gag.com/gag/aoyNQgw)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [The last day](http://9gag.com/gag/ayNXw2V)<!-- MEMES:END -->
+ - 👉 [Islamist occupation](http://9gag.com/gag/a87oxvQ)<!-- MEMES:END -->
 
 ---
 

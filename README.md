@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Controlling Apple Vision Pro with your brain is one step closer to reality](https://appleinsider.com/articles/24/09/30/controlling-apple-vision-pro-with-your-brain-is-one-step-closer-to-reality?utm_medium=rss)
+ - [Is this Anker’s first 140W wall charger with a screen?](https://www.theverge.com/2024/9/30/24258691/anker-leak-charger-zolo-usb-c)
+ - [A US judge dismisses a DOJ lawsuit accusing eBay of violating environmental laws by allowing the sale of harmful products, citing Section 230 protections &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240930/p26#a240930p26)
  - [How Hurricane Helene became a monster storm](https://www.theverge.com/2024/9/30/24258295/hurricane-helene-monster-storm-speed-strength-size)
- - [AI chip startup Cerebras Systems files for an IPO, with plans to trade on the Nasdaq as CBRS, and reports a net loss of $66.6M on $136.4M in sales in H1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240930/p25#a240930p25)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Udemy uses opt-out windows, the first of which lasted three weeks and just ended, that its creators must use to prevent their videos from being used to train AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240930/p24#a240930p24)
- - [There&#39;s Much More to Amazon Prime Than Just Prime Day Deals: Check Out These 16 Great Perks](https://www.cnet.com/tech/mobile/theres-much-more-to-amazon-prime-than-just-prime-day-deals-check-out-these-16-great-perks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI chip startup Cerebras Systems files for an IPO, with plans to trade on the Nasdaq as CBRS, and reports a net loss of $66.6M on $136.4M in sales in H1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240930/p25#a240930p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

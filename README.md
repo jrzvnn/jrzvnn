@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OurProphet](http://9gag.com/gag/axy1qdM)
- - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 💣 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
+ - 😝 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
+ - 😝 [It is time we take control](http://9gag.com/gag/arygwMy)
+ - 💣 [How to take a joke](http://9gag.com/gag/a2vo32O)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [It is time we take control](http://9gag.com/gag/arygwMy)<!-- MEMES:END -->
+ - 👉 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)<!-- MEMES:END -->
 
 ---
 

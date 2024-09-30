@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch blowout sale: save $150 on Series 9 styles at Amazon](https://appleinsider.com/articles/24/09/30/apple-watch-blowout-sale-save-150-on-series-9-styles-at-amazon?utm_medium=rss)
  - [iPhone 16 Pro review: More of the same, and that&#39;s a great thing](https://appleinsider.com/articles/24/09/30/iphone-16-pro-review-more-of-the-same-and-thats-a-great-thing?utm_medium=rss)
  - [Oura says it will see annual sales double to roughly $500M this year; sources: it plans to debut a new, thinner fitness ring with better battery life in October &lpar;Bloomberg&rpar;](http://www.techmeme.com/240930/p20#a240930p20)
  - [Cybertruck Finally Gets Full Self-Driving &lpar;Supervised&rpar;](https://www.wired.com/story/cybertruck-finally-gets-full-self-driving-supervised/)
- - [The Echo Hub smart home controller is down to a new all-time low price](https://www.theverge.com/2024/9/30/24258304/echo-hub-usb-c-apple-pencil-deal-sale)
- - [Series Entertainment, a game studio startup building a generative AI-powered service for making games, raised a $28M Series A from Netflix, Dell, a16z, others &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p19#a240930p19)<!-- TECH:END -->
+ - [The Echo Hub smart home controller is down to a new all-time low price](https://www.theverge.com/2024/9/30/24258304/echo-hub-usb-c-apple-pencil-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

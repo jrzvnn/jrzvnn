@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 30, #211](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-30-211/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 30, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-30-477/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 30, #1199](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-30-1199/#ftag=CAD590a51e)
  - [HOAs Can Turn Homeownership Into a Nightmare. Trust Me](https://www.cnet.com/personal-finance/hoas-can-turn-homeownership-into-a-nightmare-trust-me/#ftag=CAD590a51e)
- - [Interview with SolarWinds CISO Tim Brown on the 2020 breach, facing the US SEC&#39;s charges that were largely dismissed in July, global cyber regulations, and more &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240929/p9#a240929p9)
- - [Some Homeowners Are Refinancing Their Mortgages at Higher Rates. Here&#39;s Why](https://www.cnet.com/personal-finance/some-homeowners-are-refinancing-their-mortgages-at-higher-rates-heres-why/#ftag=CAD590a51e)
- - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with SolarWinds CISO Tim Brown on the 2020 breach, facing the US SEC&#39;s charges that were largely dismissed in July, global cyber regulations, and more &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240929/p9#a240929p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

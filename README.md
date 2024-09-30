@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung&#39;s Auto Blocker, and plans to speak to the EU &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p7#a240930p7)
  - [AT&amp;T agrees to sell its majority stake in DirecTV to private equity firm TPG for $7.6B in cash, including $1.7B in pre-tax quarterly distributions in H2 2024 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240930/p6#a240930p6)
- - [Epic Games Is Suing Samsung Now](https://www.wired.com/story/epic-games-sues-samsung/)
- - [Epic is suing Google — again — and now Samsung too](https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker)
- - [TV star turns losing his Apple Watch into a game](https://appleinsider.com/articles/24/09/30/tv-star-turns-losing-his-apple-watch-into-a-game?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Game Pass: You Can Play Frostpunk 2 and More Games Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-frostpunk-2-and-more-games-now/#ftag=CAD590a51e)
+ - [These 2 iPad Pro Features Should Come to the iPhone](https://www.cnet.com/tech/mobile/i-hope-these-2-ipad-pro-features-make-it-to-the-iphone/#ftag=CAD590a51e)
+ - [Epic Games Is Suing Samsung Now](https://www.wired.com/story/epic-games-sues-samsung/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

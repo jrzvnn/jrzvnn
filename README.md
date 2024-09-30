@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to donate to aid relief efforts following Hurricane Helene aftermath](https://appleinsider.com/articles/24/09/30/apple-to-donate-to-aid-relief-efforts-following-hurricane-helene-aftermath?utm_medium=rss)
+ - [A massive outage has affected Verizon customers since around 10AM ET, according to reports on Downdetector from subscribers across the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240930/p14#a240930p14)
  - [Verizon wireless service is disrupted across a large area of the US](https://appleinsider.com/articles/24/09/30/verizon-wireless-service-is-disrupted-across-a-large-area-of-the-us?utm_medium=rss)
  - [Amazon is launching its own Shark Tank where winners get to be Amazon sellers](https://www.theverge.com/2024/9/30/24258276/amazon-buy-it-now-show-trailer-shark-tank-jb-smoove)
- - [Verizon’s mobile services are down across the country](https://www.theverge.com/2024/9/30/24258362/verizon-mobile-services-down-sos-mode)
- - [This Startup Wants YouTube Creators to Get Paid for AI Training Data](https://www.wired.com/story/license-to-scrape-youtube-ai-data-license-creators/)
- - [How to Watch Mets vs. Braves Doubleheader Today: TV Channel, Start Time, Playoff Scenarios](https://www.cnet.com/tech/services-and-software/how-to-watch-mets-vs-braves-doubleheader-today-tv-channel-start-time-playoff-scenarios/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Verizon’s mobile services are down across the country](https://www.theverge.com/2024/9/30/24258362/verizon-mobile-services-down-sos-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

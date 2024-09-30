@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
- - [Death Stranding 2’s photo mode looks wild](https://www.theverge.com/2024/9/30/24258230/death-stranding-2-photo-mode-trailer-tgs-2024)
- - [Source: SoftBank&#39;s Vision Fund has agreed to invest $500M in OpenAI&#39;s latest funding round, SoftBank&#39;s first investment in OpenAI, which is raising $6.5B &lpar;The Information&rpar;](http://www.techmeme.com/240930/p13#a240930p13)
- - [The UK FCA says a man pleaded guilty to illegally operating a crypto ATM network, which processed &amp;pound;2.6M across various locations, as it cracks down on such ATMs &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240930/p12#a240930p12)
- - [AMD releases BIOS updates to boost the performance of its Ryzen 9600X and 9700X processors, around a month after disappointing Zen 5 desktop CPU reviews &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240930/p11#a240930p11)<!-- TECH:END -->
+ - [Tesla starts pushing Full-Self Driving access for some Cybertrucks](https://www.theverge.com/2024/9/30/24258232/tesla-cybertruck-fsd-early-access-v12-roll-out)
+ - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)
+ - [ADT&#39;s Gilles Drieu joins HomeKit Insider to talk latest in the smart home](https://appleinsider.com/articles/24/09/30/adts-gilles-drieu-joins-homekit-insider-to-talk-latest-in-the-smart-home?utm_medium=rss)
+ - [For More At-Home Ambience This Fall, Try These 4 Smart Lighting Tips](https://www.cnet.com/home/smart-home/for-more-at-home-ambience-try-these-4-smart-lighting-tips/#ftag=CAD590a51e)
+ - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise hit with $1.5 million fine for failing to report robotaxi crash involving pedestrian](https://www.theverge.com/2024/9/30/24258445/cruise-nhtsa-fine-robotaxi-pedestrian-drag)
  - [Hurricane Helene barreled through a crucial chip mining area in North Carolina](https://www.theverge.com/2024/9/30/24258333/hurricane-helene-quartz-chip-mining-north-carolina-spruce-pine)
  - [California governor signs one driverless vehicle bill, vetoes two others](https://www.theverge.com/2024/9/30/24258349/california-governor-signs-veto-autonomous-vehicle-law)
- - [HBO Almost Cut the Industry Season Finale&#39;s Most Shocking Scene](https://www.wired.com/story/hbo-almost-cut-the-industry-season-finales-most-shocking-scene/)
- - [Reddit is making sitewide protests basically impossible](https://www.theverge.com/2024/9/30/24253727/reddit-communities-subreddits-request-protests)
- - [Apple to donate to aid relief efforts following Hurricane Helene aftermath](https://appleinsider.com/articles/24/09/30/apple-to-donate-to-aid-relief-efforts-following-hurricane-helene-aftermath?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Almost Cut the ‘Industry’ Season Finale’s Most Shocking Scene](https://www.wired.com/story/hbo-almost-cut-the-industry-season-finales-most-shocking-scene/)
+ - [Reddit is making sitewide protests basically impossible](https://www.theverge.com/2024/9/30/24253727/reddit-communities-subreddits-request-protests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

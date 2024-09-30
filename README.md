@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
- - 👉 [F**king diabolical](http://9gag.com/gag/aQz3b2q)<!-- MEMES:END -->
+ - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
+ - 😝 [`NO`](http://9gag.com/gag/aE0x4DK)
+ - 💣 [Chromium is everywhere](http://9gag.com/gag/aD2xL9N)
+ - 😝 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
+ - 👉 [OurProphet](http://9gag.com/gag/axy1qdM)<!-- MEMES:END -->
 
 ---
 

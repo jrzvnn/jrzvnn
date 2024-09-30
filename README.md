@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [An FBI affidavit and European media leaks show how Russia&#39;s Doppelganger disinformation project operated and give insights into the Kremlin&#39;s online tactics &lpar;Thomas Rid/Foreign Affairs&rpar;](http://www.techmeme.com/240930/p8#a240930p8)
  - [Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung&#39;s Auto Blocker, and plans to speak to the EU &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p7#a240930p7)
  - [AT&amp;T agrees to sell its majority stake in DirecTV to private equity firm TPG for $7.6B in cash, including $1.7B in pre-tax quarterly distributions in H2 2024 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240930/p6#a240930p6)
- - [Epic Games Is Suing Samsung Now](https://www.wired.com/story/epic-games-sues-samsung/)
- - [Epic is suing Google — again — and now Samsung too](https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker)<!-- TECH:END -->
+ - [Xbox Game Pass: You Can Play Frostpunk 2 and More Games Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-frostpunk-2-and-more-games-now/#ftag=CAD590a51e)
+ - [These 2 iPad Pro Features Should Come to the iPhone](https://www.cnet.com/tech/mobile/i-hope-these-2-ipad-pro-features-make-it-to-the-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

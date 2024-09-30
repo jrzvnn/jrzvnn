@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
  - 😝 [Learn the difference](http://9gag.com/gag/aMVj5gA)
- - 💣 [The good boy.](http://9gag.com/gag/axy1w12)
- - 😝 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)
- - 👉 [Badass](http://9gag.com/gag/a87oO9Y)<!-- MEMES:END -->
+ - 😝 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
+ - 💣 [Badass](http://9gag.com/gag/a87oO9Y)
+ - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
+ - 👉 [Step dancers perform at Cheyenne Celtic Festival](http://9gag.com/gag/ayNXw1W)<!-- MEMES:END -->
 
 ---
 

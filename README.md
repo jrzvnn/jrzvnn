@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI chip startup Cerebras Systems files for an IPO, with plans to trade on the Nasdaq as CBRS, and reports a net loss of $66.6M on $136.4M in sales in H1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240930/p25#a240930p25)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Udemy uses opt-out windows, the first of which lasted three weeks and just ended, that its creators must use to prevent their videos from being used to train AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240930/p24#a240930p24)
- - [YouTube reaches a deal with SESAC that will bring back songs by Adele, Bob Dylan, Nirvana, and others that were removed over the weekend in the US &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240930/p23#a240930p23)
- - [YouTube’s missing hits will come back now that it has a deal with SESAC](https://www.theverge.com/2024/9/30/24258734/youtube-sesac-music-licensing-streaming-negotiation)
- - [CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them &lpar;Jeffrey D. Neuburger/National Law Review&rpar;](http://www.techmeme.com/240930/p22#a240930p22)
- - [The Shockingly Simple Way to Keep Food From Drying Out in a Microwave](https://www.cnet.com/news/the-shockingly-simple-way-i-keep-food-from-drying-out-in-the-microwave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There&#39;s Much More to Amazon Prime Than Just Prime Day Deals: Check Out These 16 Great Perks](https://www.cnet.com/tech/mobile/theres-much-more-to-amazon-prime-than-just-prime-day-deals-check-out-these-16-great-perks/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

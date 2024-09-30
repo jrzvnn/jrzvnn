@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 💣 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)
- - 😝 [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
- - 👉 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)<!-- MEMES:END -->
+ - 😝 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
+ - 👉 [F**king diabolical](http://9gag.com/gag/aQz3b2q)<!-- MEMES:END -->
 
 ---
 

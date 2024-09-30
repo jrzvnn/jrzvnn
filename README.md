@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK FCA says a man pleaded guilty to illegally operating a crypto ATM network, which processed &amp;pound;2.6M across various locations, as it cracks down on such ATMs &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240930/p12#a240930p12)
+ - [AMD releases BIOS updates to boost the performance of its Ryzen 9600X and 9700X processors, around a month after disappointing Zen 5 desktop CPU reviews &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240930/p11#a240930p11)
+ - [Qodo, which offers code generation and testing tools to the enterprise, raised a $40M Series A led by Susa Ventures and Square Peg &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240930/p10#a240930p10)
  - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [You Can Use AI to Catch Cheaters in School. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-use-ai-to-catch-cheaters-in-school-heres-how/#ftag=CAD590a51e)
- - [AMD improves Zen 5 CPU latency and performance with BIOS updates](https://www.theverge.com/2024/9/30/24258147/amd-zen-5-cpu-performance-latency-bios-updates)
- - [&#39;Gray Charges&#39; May Be Sneaking Onto Your Credit Card. How to Fight Back](https://www.cnet.com/personal-finance/gray-charges-may-be-sneaking-onto-your-credit-card-how-to-fight-back/#ftag=CAD590a51e)
- - [Binance founder Changpeng Zhao pledges to keep investing in blockchain, AI, and biotech, in his first comments since his release from US custody on September 27 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240930/p9#a240930p9)<!-- TECH:END -->
+ - [You Can Use AI to Catch Cheaters in School. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-use-ai-to-catch-cheaters-in-school-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

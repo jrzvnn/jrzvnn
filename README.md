@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Controlling Apple Vision Pro with your brain is one step closer to reality](https://appleinsider.com/articles/24/09/30/controlling-apple-vision-pro-with-your-brain-is-one-step-closer-to-reality?utm_medium=rss)
- - [Is this Anker’s first 140W wall charger with a screen?](https://www.theverge.com/2024/9/30/24258691/anker-leak-charger-zolo-usb-c)
- - [A US judge dismisses a DOJ lawsuit accusing eBay of violating environmental laws by allowing the sale of harmful products, citing Section 230 protections &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240930/p26#a240930p26)
- - [How Hurricane Helene became a monster storm](https://www.theverge.com/2024/9/30/24258295/hurricane-helene-monster-storm-speed-strength-size)
- - [AI chip startup Cerebras Systems files for an IPO, with plans to trade on the Nasdaq as CBRS, and reports a net loss of $66.6M on $136.4M in sales in H1 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240930/p25#a240930p25)<!-- TECH:END -->
+ - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)
+ - [Meet Your Daily Protein Goals With This Simple Visual Guide](https://www.cnet.com/health/nutrition/meet-your-daily-protein-goals-with-this-simple-visual-guide/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Titans vs. Dolphins, Seahawks vs. Lions Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-seahawks-vs-lions-tonight/#ftag=CAD590a51e)
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Trump’s crypto platform is now open to the public — kind of](https://www.theverge.com/2024/9/30/24258815/world-liberty-financial-accredited-investors-know-your-customer-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

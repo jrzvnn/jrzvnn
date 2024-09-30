@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
- - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 💣 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
+ - 😝 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
+ - 😝 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)
+ - 💣 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
  - 👉 [The last day](http://9gag.com/gag/ayNXw2V)<!-- MEMES:END -->
 

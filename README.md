@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Indicted Eric Adams told FBI he forgot his iPhone&#39;s new passcode](https://appleinsider.com/articles/24/09/30/indicted-eric-adams-told-fbi-he-forgot-his-iphones-new-passcode?utm_medium=rss)
  - [US NHTSA: Cruise must pay a $1.5M fine, submit a corrective action plan, and face enhanced oversight after a 2023 crash with a pedestrian was not fully reported &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240930/p16#a240930p16)
  - [Leaked Google Pixel 9A renders reveal a visor-free look](https://www.theverge.com/2024/9/30/24258413/google-pixel-9a-render-image-leak-rumor)
- - [This front door can go from clear to opaque with a voice command](https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot)
+ - [This smart front door can go from clear to opaque with a voice command](https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot)
  - [Reddit moderators must now submit a request to Reddit staff before changing a subreddit&#39;s public/private status, making sitewide mod-led protests much harder &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240930/p15#a240930p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with SolarWinds CISO Tim Brown on the 2020 breach, facing the US SEC&#39;s charges that were largely dismissed in July, global cyber regulations, and more &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240929/p9#a240929p9)
+ - [Some Homeowners Are Refinancing Their Mortgages at Higher Rates. Here&#39;s Why](https://www.cnet.com/personal-finance/some-homeowners-are-refinancing-their-mortgages-at-higher-rates-heres-why/#ftag=CAD590a51e)
  - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [&#39;Superintelligent&#39; AI Is Only a Few Thousand Days Away: OpenAI CEO Sam Altman](https://www.cnet.com/tech/services-and-software/superintelligent-ai-is-only-a-few-thousand-days-away-openai-ceo-sam-altman/#ftag=CAD590a51e)
- - [10 Renter-Friendly Decor Hacks That Won&#39;t Jeopardize Your Security Deposit](https://www.cnet.com/how-to/10-renter-friendly-decor-hacks-that-wont-jeopardize-your-security-deposit/#ftag=CAD590a51e)
- - [Best Window AC Units of 2024](https://www.cnet.com/home/kitchen-and-household/best-window-ac-units/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Superintelligent&#39; AI Is Only a Few Thousand Days Away: OpenAI CEO Sam Altman](https://www.cnet.com/tech/services-and-software/superintelligent-ai-is-only-a-few-thousand-days-away-openai-ceo-sam-altman/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

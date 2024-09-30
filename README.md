@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon wireless service is disrupted across a large area of the US](https://appleinsider.com/articles/24/09/30/verizon-wireless-service-is-disrupted-across-a-large-area-of-the-us?utm_medium=rss)
+ - [Amazon is launching its own Shark Tank where winners get to be Amazon sellers](https://www.theverge.com/2024/9/30/24258276/amazon-buy-it-now-show-trailer-shark-tank-jb-smoove)
  - [Verizon’s mobile services are down across the country](https://www.theverge.com/2024/9/30/24258362/verizon-mobile-services-down-sos-mode)
  - [This Startup Wants YouTube Creators to Get Paid for AI Training Data](https://www.wired.com/story/license-to-scrape-youtube-ai-data-license-creators/)
- - [NBCU’s streaming chief isn’t worried about you canceling cable](https://www.theverge.com/24258301/matt-strauss-peacock-nbc-comcast-olympics-sports-direct-to-consumer-video-streaming)
- - [Tesla starts pushing Full Self-Driving access for some Cybertrucks](https://www.theverge.com/2024/9/30/24258232/tesla-cybertruck-fsd-early-access-v12-roll-out)
- - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)<!-- TECH:END -->
+ - [How to Watch Mets vs. Braves Doubleheader Today: TV Channel, Start Time, Playoff Scenarios](https://www.cnet.com/tech/services-and-software/how-to-watch-mets-vs-braves-doubleheader-today-tv-channel-start-time-playoff-scenarios/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holding on tight to her bestie](http://9gag.com/gag/aD2xeqN)
- - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 💣 [It is time we take control](http://9gag.com/gag/arygwMy)
+ - 😝 [OurProphet](http://9gag.com/gag/axy1qdM)
+ - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 💣 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)<!-- MEMES:END -->
+ - 👉 [It is time we take control](http://9gag.com/gag/arygwMy)<!-- MEMES:END -->
 
 ---
 

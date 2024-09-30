@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best community after 9gag](http://9gag.com/gag/a34KgP1)
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)
- - 💣 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
- - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 👉 [The last day](http://9gag.com/gag/ayNXw2V)<!-- MEMES:END -->
+ - 😝 [Badass](http://9gag.com/gag/a87oO9Y)
+ - 😝 [Step dancers perform at Cheyenne Celtic Festival](http://9gag.com/gag/ayNXw1W)
+ - 💣 [The good boy.](http://9gag.com/gag/axy1w12)
+ - 😝 [So useful](http://9gag.com/gag/aYQgXxV)
+ - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
 
 ---
 

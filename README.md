@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them &lpar;Jeffrey D. Neuburger/National Law Review&rpar;](http://www.techmeme.com/240930/p22#a240930p22)
  - [The FCC announces a $31.5M settlement with T-Mobile over four data breaches, in 2021, 2022, and 2023, that compromised personal info of millions of US customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240930/p21#a240930p21)
  - [Apple Watch blowout sale: save $150 on Series 9 styles at Amazon](https://appleinsider.com/articles/24/09/30/apple-watch-blowout-sale-save-150-on-series-9-styles-at-amazon?utm_medium=rss)
  - [iPhone 16 Pro review: More of the same, and that&#39;s a great thing](https://appleinsider.com/articles/24/09/30/iphone-16-pro-review-more-of-the-same-and-thats-a-great-thing?utm_medium=rss)
- - [Oura says it will see annual sales double to roughly $500M this year; sources: it plans to debut a new, thinner fitness ring with better battery life in October &lpar;Bloomberg&rpar;](http://www.techmeme.com/240930/p20#a240930p20)
- - [Cybertruck Finally Gets Full Self-Driving &lpar;Supervised&rpar;](https://www.wired.com/story/cybertruck-finally-gets-full-self-driving-supervised/)<!-- TECH:END -->
+ - [Apple Card Could Boost Benefits if It Moves to Chase, This Credit Card Expert Says](https://www.cnet.com/personal-finance/credit-cards/apple-card-could-boost-benefits-if-it-moves-to-chase-this-credit-card-expert-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

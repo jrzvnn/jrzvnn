@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube’s missing hits will come back now that it has a deal with SESAC](https://www.theverge.com/2024/9/30/24258734/youtube-sesac-music-licensing-streaming-negotiation)
  - [CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them &lpar;Jeffrey D. Neuburger/National Law Review&rpar;](http://www.techmeme.com/240930/p22#a240930p22)
  - [The FCC announces a $31.5M settlement with T-Mobile over four data breaches, in 2021, 2022, and 2023, that compromised personal info of millions of US customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240930/p21#a240930p21)
  - [Apple Watch blowout sale: save $150 on Series 9 styles at Amazon](https://appleinsider.com/articles/24/09/30/apple-watch-blowout-sale-save-150-on-series-9-styles-at-amazon?utm_medium=rss)
- - [iPhone 16 Pro review: More of the same, and that&#39;s a great thing](https://appleinsider.com/articles/24/09/30/iphone-16-pro-review-more-of-the-same-and-thats-a-great-thing?utm_medium=rss)
- - [Apple Card Could Boost Benefits if It Moves to Chase, This Credit Card Expert Says](https://www.cnet.com/personal-finance/credit-cards/apple-card-could-boost-benefits-if-it-moves-to-chase-this-credit-card-expert-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro review: More of the same, and that&#39;s a great thing](https://appleinsider.com/articles/24/09/30/iphone-16-pro-review-more-of-the-same-and-thats-a-great-thing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

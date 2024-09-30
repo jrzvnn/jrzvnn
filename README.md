@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
  - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 💣 [Would?](http://9gag.com/gag/aRB3bK2)
+ - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)<!-- MEMES:END -->
+ - 👉 [The nerve of this guy](http://9gag.com/gag/aLnjozW)<!-- MEMES:END -->
 
 ---
 

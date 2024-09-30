@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [So useful](http://9gag.com/gag/aYQgXxV)
  - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 💣 [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
- - 😝 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)
+ - 💣 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)
+ - 😝 [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
  - 👉 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)<!-- MEMES:END -->
 
 ---

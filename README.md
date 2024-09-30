@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
- - 😝 [You may now kiss the axe](http://9gag.com/gag/aAyxLXd)
- - 💣 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)
- - 😝 [It is time we take control](http://9gag.com/gag/arygwMy)
- - 👉 [&#39;V&#39; shaped ;&rpar;](http://9gag.com/gag/aQz3b42)<!-- MEMES:END -->
+ - 😝 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
+ - 😝 [Learn the difference](http://9gag.com/gag/aMVj5gA)
+ - 💣 [The good boy.](http://9gag.com/gag/axy1w12)
+ - 😝 [Yesterday in Essen, Germany, a Syrian migrant set fire to two houses. Following that, he attacked shops with a machete. 31 people were injured, and the condition of two children is critical.](http://9gag.com/gag/a34Kr0Q)
+ - 👉 [Badass](http://9gag.com/gag/a87oO9Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a2vopDp)
- - 😝 [Ah yes, the seggs](http://9gag.com/gag/aMVj7Y6)
- - 💣 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
+ - 😝 [Have you ever seen the full video?](http://9gag.com/gag/aVv3rnd)
+ - 😝 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
+ - 💣 [Another safety orientation video.](http://9gag.com/gag/ae9MzGq)
+ - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 👉 [Title](http://9gag.com/gag/adBKMoQ)<!-- MEMES:END -->
 
 ---
 

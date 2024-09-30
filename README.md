@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
+ - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 💣 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
  - 😝 [Best community after 9gag](http://9gag.com/gag/a34KgP1)
- - 💣 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 😝 [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
  - 👉 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)<!-- MEMES:END -->
 
 ---

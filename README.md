@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So useful](http://9gag.com/gag/aYQgXxV)
+ - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
+ - 💣 [No one could have expected it](http://9gag.com/gag/azxXzgB)
  - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 💣 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)
- - 😝 [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
- - 👉 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)<!-- MEMES:END -->
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)<!-- MEMES:END -->
 
 ---
 

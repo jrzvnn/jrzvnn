@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
+ - [Death Stranding 2’s photo mode looks wild](https://www.theverge.com/2024/9/30/24258230/death-stranding-2-photo-mode-trailer-tgs-2024)
+ - [Source: SoftBank&#39;s Vision Fund has agreed to invest $500M in OpenAI&#39;s latest funding round, SoftBank&#39;s first investment in OpenAI, which is raising $6.5B &lpar;The Information&rpar;](http://www.techmeme.com/240930/p13#a240930p13)
  - [The UK FCA says a man pleaded guilty to illegally operating a crypto ATM network, which processed &amp;pound;2.6M across various locations, as it cracks down on such ATMs &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240930/p12#a240930p12)
- - [AMD releases BIOS updates to boost the performance of its Ryzen 9600X and 9700X processors, around a month after disappointing Zen 5 desktop CPU reviews &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240930/p11#a240930p11)
- - [Qodo, which offers code generation and testing tools to the enterprise, raised a $40M Series A led by Susa Ventures and Square Peg &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240930/p10#a240930p10)
- - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [You Can Use AI to Catch Cheaters in School. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-use-ai-to-catch-cheaters-in-school-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD releases BIOS updates to boost the performance of its Ryzen 9600X and 9700X processors, around a month after disappointing Zen 5 desktop CPU reviews &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240930/p11#a240930p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

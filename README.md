@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
- - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 😝 [Finally Germans are standing up against this nonsense](http://9gag.com/gag/aD2xKoO)
+ - 😝 [A true professional](http://9gag.com/gag/adBKGyd)
+ - 💣 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [The nerve of this guy](http://9gag.com/gag/aLnjozW)<!-- MEMES:END -->
+ - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
 
 ---
 

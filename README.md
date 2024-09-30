@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Badass](http://9gag.com/gag/a87oO9Y)
- - 😝 [Step dancers perform at Cheyenne Celtic Festival](http://9gag.com/gag/ayNXw1W)
- - 💣 [The good boy.](http://9gag.com/gag/axy1w12)
- - 😝 [So useful](http://9gag.com/gag/aYQgXxV)
- - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
+ - 😝 [The good boy.](http://9gag.com/gag/axy1w12)
+ - 😝 [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
+ - 💣 [So useful](http://9gag.com/gag/aYQgXxV)
+ - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 👉 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)<!-- MEMES:END -->
 
 ---
 

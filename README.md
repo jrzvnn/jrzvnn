@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-30/#ftag=CAD590a51e)
  - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
  - [Student Loan Forgiveness: Today&#39;s the Last Day to Apply for This Student Loan Debt Relief Program](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/#ftag=CAD590a51e)
  - [Two Major Student Loan Benefits Expire Today. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/two-major-student-loan-benefits-expire-today-heres-what-to-do/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 30, #211](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-30-211/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 30, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-30-477/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 30, #211](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-30-211/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 💣 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
  - 😝 [Best community after 9gag](http://9gag.com/gag/a34KgP1)
- - 👉 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)<!-- MEMES:END -->
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)
+ - 💣 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 👉 [The last day](http://9gag.com/gag/ayNXw2V)<!-- MEMES:END -->
 
 ---
 

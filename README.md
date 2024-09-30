@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This front door can go from clear to opaque with a voice command](https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot)
+ - [Reddit moderators must now submit a request to Reddit staff before changing a subreddit&#39;s public/private status, making sitewide mod-led protests much harder &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240930/p15#a240930p15)
  - [Cruise hit with $1.5 million fine for failing to report robotaxi crash involving pedestrian](https://www.theverge.com/2024/9/30/24258445/cruise-nhtsa-fine-robotaxi-pedestrian-drag)
  - [Hurricane Helene barreled through a crucial chip mining area in North Carolina](https://www.theverge.com/2024/9/30/24258333/hurricane-helene-quartz-chip-mining-north-carolina-spruce-pine)
- - [California governor signs one driverless vehicle bill, vetoes two others](https://www.theverge.com/2024/9/30/24258349/california-governor-signs-veto-autonomous-vehicle-law)
- - [HBO Almost Cut the ‘Industry’ Season Finale’s Most Shocking Scene](https://www.wired.com/story/hbo-almost-cut-the-industry-season-finales-most-shocking-scene/)
- - [Reddit is making sitewide protests basically impossible](https://www.theverge.com/2024/9/30/24253727/reddit-communities-subreddits-request-protests)<!-- TECH:END -->
+ - [California governor signs one driverless vehicle bill, vetoes two others](https://www.theverge.com/2024/9/30/24258349/california-governor-signs-veto-autonomous-vehicle-law)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

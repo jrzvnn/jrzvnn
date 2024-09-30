@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The nerve of this guy](http://9gag.com/gag/aLnjozW)
- - 😝 [It is time we take control](http://9gag.com/gag/arygwMy)
- - 💣 [How to take a joke](http://9gag.com/gag/a2vo32O)
+ - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 😝 [Arena Darkeh sentences a man to 10 years for building guns legally in his own home with no priors. Her exact words were `don&#39;t mention the second amendment. It doesn&#39;t exist in this courtroom.` This judge needs to be arrested for treason.](http://9gag.com/gag/ae9MngB)
+ - 💣 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)<!-- MEMES:END -->
+ - 👉 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)<!-- MEMES:END -->
 
 ---
 

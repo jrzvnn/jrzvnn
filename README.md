@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Global Internet Forum to Counter Terrorism, created by Meta, Microsoft, YouTube, and X in 2016 to share info; X quietly left the board this month &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240930/p5#a240930p5)
- - [iPhone 16 Pro review: More of the same, and that&#39;s a great thing](https://appleinsider.com/articles/24/09/30/iphone-16-pro-review-more-of-the-same-and-thats-a-great-thing?utm_medium=rss)
- - [How to Renovate Your Home for a Billion Children](https://www.wired.com/story/inside-tiktok-unhinged-home-remodeling-videos/)
- - [Raspberry Pi AI Camera review: the new $70 kit has a smart camera with performance that will cover 99% of basic user projects, and works as a standard Pi camera &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240930/p4#a240930p4)
- - [Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p3#a240930p3)<!-- TECH:END -->
+ - [Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung&#39;s Auto Blocker, and plans to speak to the EU &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p7#a240930p7)
+ - [AT&amp;T agrees to sell its majority stake in DirecTV to private equity firm TPG for $7.6B in cash, including $1.7B in pre-tax quarterly distributions in H2 2024 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240930/p6#a240930p6)
+ - [Epic Games Is Suing Samsung Now](https://www.wired.com/story/epic-games-sues-samsung/)
+ - [Epic is suing Google — again — and now Samsung too](https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker)
+ - [TV star turns losing his Apple Watch into a game](https://appleinsider.com/articles/24/09/30/tv-star-turns-losing-his-apple-watch-into-a-game?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

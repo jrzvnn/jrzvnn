@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Series Entertainment, a game studio startup building a generative AI-powered service for making games, raised a $28M Series A from Netflix, Dell, a16z, others &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p19#a240930p19)
  - [Thoughts on OpenAI&#39;s recent fundraise reports and how Apple reportedly backing out, while still using ChatGPT for Apple Intelligence, may lead to awkward deals &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240930/p18#a240930p18)
  - [What SOS on an iPhone means, and how it impacts what you can do](https://appleinsider.com/inside/iphone/tips/what-sos-on-an-iphone-means-and-how-it-impacts-what-you-can-do?utm_medium=rss)
  - [California enacts an internet-connected car data privacy law to curb domestic violence, requiring carmakers to make it easier to submit restraining orders, more &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p17#a240930p17)
- - [Indicted Eric Adams told FBI he forgot his iPhone&#39;s new passcode](https://appleinsider.com/articles/24/09/30/indicted-eric-adams-told-fbi-he-forgot-his-iphones-new-passcode?utm_medium=rss)
- - [US NHTSA: Cruise must pay a $1.5M fine, submit a corrective action plan, and face enhanced oversight after a 2023 crash with a pedestrian was not fully reported &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240930/p16#a240930p16)<!-- TECH:END -->
+ - [Indicted Eric Adams told FBI he forgot his iPhone&#39;s new passcode](https://appleinsider.com/articles/24/09/30/indicted-eric-adams-told-fbi-he-forgot-his-iphones-new-passcode?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

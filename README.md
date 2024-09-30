@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MIT spinoff Liquid AI debuts its non-transformer AI models LFM 1B, 3B, and 40B MoE, and claims they achieve &quot;state-of-the-art performance at every scale&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240930/p29#a240930p29)
  - [Amazon&#39;s fan-favorite $1,299 M3 MacBook Pro deal is back ahead of fall Prime Day](https://appleinsider.com/articles/24/09/30/amazons-fan-favorite-1299-m3-macbook-pro-deal-is-back-ahead-of-fall-prime-day?utm_medium=rss)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Filing: UAE-based G42 accounted for 87% of Cerebras&#39; H1 2024 revenue and has committed to buy $335M worth of its stock by April 2025, giving G42 a 5%+ stake &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p28#a240930p28)
- - [Apple AirPods help police locate stolen Ferrari worth $575,000](https://appleinsider.com/articles/24/09/30/apple-airpods-help-police-locate-stolen-ferrari-worth-575000?utm_medium=rss)
- - [Notes on Google NotebookLM&#39;s Audio Overview feature, which generates a podcast with two AI hosts discussing user-provided content and is surprisingly effective &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240930/p27#a240930p27)<!-- TECH:END -->
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [5 Debt Payoff Tips for Low-Income Households](https://www.cnet.com/personal-finance/5-debt-payoff-tips-for-low-income-households/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

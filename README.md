@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Port workers along East and Gulf Coasts go on strike](https://www.theverge.com/2024/10/1/24259395/port-workers-ila-east-gulf-coast-strike-automation)
+ - [Apple&#39;s holiday quarter will again see giant challenges because of supply chain issues](https://appleinsider.com/articles/24/10/01/apples-holiday-quarter-will-again-see-giant-challenges-because-of-supply-chain-issues?utm_medium=rss)
  - [Apple accused of forcing employees to sign illegal contracts, quashed labor efforts](https://appleinsider.com/articles/24/10/01/apple-accused-of-forcing-employees-to-sign-illegal-contracts-quashed-labor-efforts?utm_medium=rss)
  - [Epic is trying to sweeten the deal to use Unreal Engine and the Epic Games Store](https://www.theverge.com/2024/10/1/24258723/epic-games-store-unreal-engine-launch-everywhere-royalty)
- - [The US could bring a shuttered nuclear power plant back to life next year](https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades)
- - [Devolver launches new indie label focused on licensed games](https://www.theverge.com/2024/10/1/24259402/devolver-digital-big-fan-licensed-indie-games)
- - [Hands-on With Sony&#39;s New LinkBuds Fit and LinkBuds Open Earbuds](https://www.cnet.com/tech/mobile/hands-on-with-sonys-new-linkbuds-fit-and-linkbuds-open-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US could bring a shuttered nuclear power plant back to life next year](https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

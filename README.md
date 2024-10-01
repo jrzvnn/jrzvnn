@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
- - 😝 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
- - 💣 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)
- - 😝 [Permission to be horn](http://9gag.com/gag/aByxpxN)
- - 👉 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)<!-- MEMES:END -->
+ - 😝 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
+ - 😝 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
+ - 💣 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 😝 [How to take a joke](http://9gag.com/gag/a2vo32O)
+ - 👉 [6 feet](http://9gag.com/gag/aLnjZ8A)<!-- MEMES:END -->
 
 ---
 

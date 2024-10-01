@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - 😝 [Happily Never After](http://9gag.com/gag/aqy7oAY)
- - 💣 [Women](http://9gag.com/gag/a2vopDp)
+ - 😝 [They promised us flying cars but all we get is a personal phone scammer for everyone ...](http://9gag.com/gag/apR2O1W)
+ - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 💣 [Genius moves](http://9gag.com/gag/a87oR2O)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
+ - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
 
 ---
 

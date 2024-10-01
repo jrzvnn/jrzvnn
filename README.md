@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts a public beta of its Realtime API to quickly make speech-to-speech features, a way to use images to fine-tune GPT-4o uses via its API, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241001/p23#a241001p23)
- - [Third watchOS 11.1, tvOS 18.1, visionOS 2.1 betas arrive without iOS, iPadOS, macOS](https://appleinsider.com/articles/24/10/01/third-watchos-111-tvos-181-visionos-21-betas-arrive-without-ios-ipados-macos?utm_medium=rss)
- - [Instagram’s ‘best practices’ tell creators how they should post](https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach)
- - [Bose’s new SoundLink Home is one of its best-looking wireless speakers](https://www.theverge.com/2024/10/1/24259408/bose-bluetooth-wireless-speaker-soundlink-home)
- - [Apple Podcasts spotlights top 100 narrative series](https://appleinsider.com/articles/24/10/01/apple-podcasts-spotlights-top-100-narrative-series?utm_medium=rss)<!-- TECH:END -->
+ - [ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions](https://www.wired.com/story/ice-paragon-solutions-contract/)
+ - [Amazon’s Fire TV Stick 4K Max has hit a new low price ahead of Prime Day](https://www.theverge.com/2024/10/1/24259285/amazon-fire-tv-stick-4k-max-sennheiser-momentum-true-wireless-3-earbuds-deal-sale)
+ - [Best iPad Deals: Save on Apple&#39;s Tablets With These Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
+ - [VistaPrint Promo Code 2024: Get $15 off custom products](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [How to Use Online Tools to Find Your Glasses Prescription Without an Exam](https://www.cnet.com/health/personal-care/online-tools-can-help-find-your-glasses-prescription-without-an-exam/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

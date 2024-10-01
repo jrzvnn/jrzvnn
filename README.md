@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with SAP CEO Christian Klein on why regulating AI would harm EU competitiveness, spending &amp;euro;2B per year on AI, building the Joule chatbot, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241001/p5#a241001p5)
+ - [Verified Walmart Promo Codes for October 2024 | WIRED](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [An interview with WhatsApp Product Director Alice Newton-Rex on end-to-end encryption, spotting misinformation, the UK&#39;s Online Safety Act, Telegram, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241001/p4#a241001p4)
- - [A look at Calliope Networks, a content licensing company whose License to Scrape program is targeting YouTubers to strike their own AI training data agreements &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241001/p3#a241001p3)
- - [In the past year, one researcher reported vulnerabilities in 19 commercial services used by hundreds of courts, state agencies, and police departments in the US &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241001/p2#a241001p2)
- - [Google starts construction of a new $2B data center in Malaysia, says its investments would create 26,500 jobs and contribute $3B+ to Malaysian economy by 2030 &lpar;Rozanna Latiff/Reuters&rpar;](http://www.techmeme.com/241001/p1#a241001p1)
- - [iPhone SE 4 Rumors: Bigger OLED Screen, Apple Intelligence and More to Expect](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-bigger-oled-screen-apple-intelligence-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Calliope Networks, a content licensing company whose License to Scrape program is targeting YouTubers to strike their own AI training data agreements &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241001/p3#a241001p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

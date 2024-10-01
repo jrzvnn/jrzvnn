@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
- - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 💣 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 💣 [Neat trick](http://9gag.com/gag/aByxe21)
  - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
- - 👉 [She got colonized!](http://9gag.com/gag/aW41zRK)<!-- MEMES:END -->
+ - 👉 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)<!-- MEMES:END -->
 
 ---
 

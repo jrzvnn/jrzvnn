@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sleep Number’s newest smart bed aims to tackle night sweats](https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Sources say many OpenAI staff thought that o1 was not ready to be unveiled, and then-CTO Mira Murati was often stuck in the middle of arguments between teams &lpar;Fortune&rpar;](http://www.techmeme.com/241001/p25#a241001p25)
  - [DataPelago launches from stealth with a &quot;universal data processing engine&quot; for &quot;accelerated computing&quot; workloads, with $47M in seed and Series A funding &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/241001/p24#a241001p24)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
- - [Tesla wins again as lawsuit challenging Autopilot claims is dismissed](https://www.theverge.com/2024/10/1/24259588/tesla-lawsuit-autopilot-dismissed-elon-musk-self-driving)
- - [ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions](https://www.wired.com/story/ice-paragon-solutions-contract/)<!-- TECH:END -->
+ - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

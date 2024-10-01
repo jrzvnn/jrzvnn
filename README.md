@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
- - 💣 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
+ - 😝 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
+ - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 💣 [Genius moves](http://9gag.com/gag/a87oR2O)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Permission to be horn](http://9gag.com/gag/aByxpxN)<!-- MEMES:END -->
+ - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
 
 ---
 

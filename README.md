@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay is off the hook for selling harmful products](https://www.theverge.com/2024/10/1/24259191/ebay-doj-harmful-polluting-products-lawsuit-dismissed)
  - [Sony reports a massive outage of its online gaming network PSN, affecting the PS3, PS4, PS5, PS Vita, web, and more, ongoing for over eight hours &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241001/p7#a241001p7)
- - [A look at the debates over whether social media has fueled a teen suicide crisis, as mental health struggles have risen sharply among young Americans &lpar;Andrew Solomon/New Yorker&rpar;](http://www.techmeme.com/241001/p6#a241001p6)
- - [An interview with SAP CEO Christian Klein on why regulating AI would harm EU competitiveness, spending &amp;euro;2B per year on AI, building the Joule chatbot, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241001/p5#a241001p5)
- - [Verified Walmart Promo Codes for October 2024 | WIRED](https://www.wired.com/story/top-walmart-promo-codes/)
- - [KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Best International Coffee Day 2024 Deals, Freebies and More](https://www.cnet.com/how-to/best-international-coffee-day-2024-deals-freebies-and-more/#ftag=CAD590a51e)
+ - [Mac Split Screen View: How to Set Up Your Ultimate Display](https://www.cnet.com/tech/services-and-software/mac-split-screen-view-how-to-set-up-your-ultimate-display/#ftag=CAD590a51e)
+ - [Best Rowing Machines for 2024](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

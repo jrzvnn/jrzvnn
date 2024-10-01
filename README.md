@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)
  - [Open-source Nintendo Switch emulator Ryujinx has been removed from GitHub, and its team has reportedly ceased development after Nintendo contacted its creator &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/241001/p33#a241001p33)
  - [Snap employees were well aware of the app’s child safety issues, newly unsealed complaint says](https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Christian Selig’s unofficial YouTube app for the Vision Pro just got taken down](https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig)
- - [YouTube gets Apple Vision Pro app Juno kicked from App Store](https://appleinsider.com/articles/24/10/01/youtube-gets-apple-vision-pro-app-juno-kicked-from-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Christian Selig’s unofficial YouTube app for the Vision Pro just got taken down](https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

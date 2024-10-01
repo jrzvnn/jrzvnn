@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos CEO Patrick Spence announces a plan to understand its software and corporate culture missteps and rebuild trust with customers, after the app debacle &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241001/p11#a241001p11)
- - [Sonos has a plan to earn back your trust, and here it is](https://www.theverge.com/24258431/sonos-app-controversy-patrick-spence-plan)
- - [iPhone 16 models cost a little more to make than the iPhone 15](https://appleinsider.com/articles/24/10/01/iphone-16-models-cost-a-little-more-to-make-than-the-iphone-15?utm_medium=rss)
- - [4 Best Dehumidifiers We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-dehumidifiers/)
- - [Parents can now set Fortnite time limits](https://www.theverge.com/2024/10/1/24256104/fortnite-parental-control-time-limits)<!-- TECH:END -->
+ - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
+ - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)
+ - [Your front door is the key to the smart home](https://www.theverge.com/2024/10/1/24258957/smart-home-front-door-best-earbuds-mic-vergecast)
+ - [Chromebooks Are Getting a New Button and Google AI Features](https://www.wired.com/story/chromebooks-are-getting-a-new-button-and-a-host-of-google-ai-features/)
+ - [Cloud backup startup Eon, founded in January 2024, emerges from stealth with a Sequoia-led $20M seed, a $30M Series A, a $77M Series B, and a $750M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241001/p12#a241001p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wiping Hezbollah.](http://9gag.com/gag/aO8rXjR)
  - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 💣 [6 feet](http://9gag.com/gag/aLnjZ8A)
- - 😝 [How to take a joke](http://9gag.com/gag/a2vo32O)
+ - 😝 [6 feet](http://9gag.com/gag/aLnjZ8A)
+ - 💣 [How to take a joke](http://9gag.com/gag/a2vo32O)
+ - 😝 [Wiping Hezbollah.](http://9gag.com/gag/aO8rXjR)
  - 👉 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)<!-- MEMES:END -->
 
 ---

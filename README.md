@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is discontinuing HoloLens 2, with no replacement, and will only push &quot;updates to address critical security issues and software regressions&quot; until 2028 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241001/p17#a241001p17)
  - [Pebblebee’s trackers now work on Apple’s or Google’s networks](https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android)
  - [Noctua releases an even bigger version of its iconic desktop PC fan](https://www.theverge.com/2024/10/1/24259249/noctua-nf-a14x25-g2-price-available-dual-fan-offset)
  - [Microsoft to pay pubs for content used by Copilot Daily, a new assistant providing a spoken summary of current events, signs up Reuters, FT, Axel Springer, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p16#a241001p16)
- - [Unreal Fest Seattle 2024: all the news from Epic’s big event](https://www.theverge.com/2024/10/1/24258466/unreal-fest-seattle-2024-fortnite-uefn-engine)
- - [Microsoft will start rolling out Click to Do, similar to Google&#39;s Circle to Search, and AI-enhanced search features for Windows on Copilot+ PCs next month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241001/p15#a241001p15)<!-- TECH:END -->
+ - [Unreal Fest Seattle 2024: all the news from Epic’s big event](https://www.theverge.com/2024/10/1/24258466/unreal-fest-seattle-2024-fortnite-uefn-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
+ - [Tesla wins again as lawsuit challenging Autopilot claims is dismissed](https://www.theverge.com/2024/10/1/24259588/tesla-lawsuit-autopilot-dismissed-elon-musk-self-driving)
  - [ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions](https://www.wired.com/story/ice-paragon-solutions-contract/)
  - [Amazon’s Fire TV Stick 4K Max has hit a new low price ahead of Prime Day](https://www.theverge.com/2024/10/1/24259285/amazon-fire-tv-stick-4k-max-sennheiser-momentum-true-wireless-3-earbuds-deal-sale)
- - [Best iPad Deals: Save on Apple&#39;s Tablets With These Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [VistaPrint Promo Code 2024: Get $15 off custom products](https://www.wired.com/story/vistaprint-coupon-code/)
- - [How to Use Online Tools to Find Your Glasses Prescription Without an Exam](https://www.cnet.com/health/personal-care/online-tools-can-help-find-your-glasses-prescription-without-an-exam/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Deals: Save on Apple&#39;s Tablets With These Discounts](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

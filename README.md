@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)
- - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
- - 💣 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 👉 [Smooooothhhh](http://9gag.com/gag/aO8rLny)<!-- MEMES:END -->
+ - 😝 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
+ - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - 💣 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 😝 [Happily Never After](http://9gag.com/gag/aqy7oAY)
+ - 👉 [Holding on tight to her bestie](http://9gag.com/gag/aD2xeqN)<!-- MEMES:END -->
 
 ---
 

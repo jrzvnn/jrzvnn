@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Happily Never After](http://9gag.com/gag/aqy7oAY)
+ - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
+ - 💣 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
  - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 💣 [Happily Never After](http://9gag.com/gag/aqy7oAY)
- - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 👉 [Sushi kebab](http://9gag.com/gag/aPAjE1R)<!-- MEMES:END -->
+ - 👉 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nick Clegg says Meta plans to build the Quest 3S in Vietnam in 2025; Meta did not specify the size of the investment and of its existing operation in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/241001/p8#a241001p8)
+ - [Get Your VP Debate Bingo Card Right Here](https://www.wired.com/story/bingo-how-to-watch-vp-walz-vance-debate/)
+ - [Bentley Continental GT Speed Hybrid 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-bentley-continental-gt-speed-hybrid-2025/)
  - [eBay is off the hook for selling harmful products](https://www.theverge.com/2024/10/1/24259191/ebay-doj-harmful-polluting-products-lawsuit-dismissed)
- - [Sony reports a massive outage of its online gaming network PSN, affecting the PS3, PS4, PS5, PS Vita, web, and more, ongoing for over eight hours &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241001/p7#a241001p7)
- - [Best International Coffee Day 2024 Deals, Freebies and More](https://www.cnet.com/how-to/best-international-coffee-day-2024-deals-freebies-and-more/#ftag=CAD590a51e)
- - [Mac Split Screen View: How to Set Up Your Ultimate Display](https://www.cnet.com/tech/services-and-software/mac-split-screen-view-how-to-set-up-your-ultimate-display/#ftag=CAD590a51e)
- - [Best Rowing Machines for 2024](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony fixes a massive outage of its online gaming network PSN, affecting the PS3, PS4, PS5, PS Vita, web, and more, that was ongoing for over eight hours &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241001/p7#a241001p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

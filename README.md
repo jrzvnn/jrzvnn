@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
  - 😝 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
+ - 😝 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
  - 💣 [Do you pee ?](http://9gag.com/gag/a34KXo1)
  - 😝 [How to take a joke](http://9gag.com/gag/a2vo32O)
  - 👉 [6 feet](http://9gag.com/gag/aLnjZ8A)<!-- MEMES:END -->

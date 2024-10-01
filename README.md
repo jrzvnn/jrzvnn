@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YC-backed PearAI criticized for forking another AI code editor covered under the Apache license and changing the license to its own made-up closed license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
- - [California Governor Vetoes Far-Reaching AI Safety Bill](https://www.cnet.com/tech/services-and-software/california-governor-vetoes-far-reaching-ai-safety-bill/#ftag=CAD590a51e)
- - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
- - [If You Wake Up Drenched in Sweat, Here Are Some Possible Causes -- and Solutions](https://www.cnet.com/health/sleep/if-you-wake-up-drenched-in-sweat-here-are-some-possible-causes-and-solutions/#ftag=CAD590a51e)
- - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)<!-- TECH:END -->
+ - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)
+ - [Viture Pro XR Glasses review: A good step for AR/VR](https://appleinsider.com/articles/24/10/01/viture-pro-xr-glasses-review-a-good-step-for-arvr?utm_medium=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 1, #212](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-1-212/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 1, #478](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-1-478/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 1, #1200](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-1-1200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

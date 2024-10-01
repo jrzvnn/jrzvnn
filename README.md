@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pig butchering operations that are offshoots of the Southeast Asian activity have emerged in the Middle East, Eastern Europe, Latin America, and West Africa &lpar;Wired&rpar;](http://www.techmeme.com/241001/p31#a241001p31)
+ - [The next iPhone SE may lose the home button, add Face ID and Apple Intelligence](https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Nvidia’s all-in-one app will replace GeForce Experience later this year](https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel)
- - [23andMe Is Sinking Fast. Can the Company Survive?](https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/)
- - [We Staged a Debate to Test the Bluetooth Earrings Kamala Harris Didn’t Wear](https://www.wired.com/review/review-nova-h1-audio-earrings/)
- - [iPhone SE 4 production nears as Apple prepares for 2025 launch](https://appleinsider.com/articles/24/10/01/iphone-se-4-production-nears-as-apple-prepares-for-2025-launch?utm_medium=rss)<!-- TECH:END -->
+ - [23andMe Is Sinking Fast. Can the Company Survive?](https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Christian Selig’s unofficial YouTube app for the Vision Pro just got taken down](https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig)
+ - [YouTube gets Apple Vision Pro app Juno kicked from App Store](https://appleinsider.com/articles/24/10/01/youtube-gets-apple-vision-pro-app-juno-kicked-from-app-store?utm_medium=rss)
  - [Nintendo has reportedly shut down Ryujinx, the Switch emulator that was supposedly immune](https://www.theverge.com/2024/10/1/24259791/nintendo-ryujinx-switch-emulator-gdkchan-removed-downloads-github)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Nym, which helps US healthcare providers automate the medical coding process, raised a $47M growth investment led by PSG, bringing its total raised to $92M &lpar;Gali Weinreb/Globes Online&rpar;](http://www.techmeme.com/241001/p32#a241001p32)
- - [Dyson Promo Code: 20% Off October 2024 | WIRED](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [VistaPrint Promo Code 2024: $10 Off Custom Products | WIRED](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [Nym, which helps US healthcare providers automate the medical coding process, raised a $47M growth investment led by PSG, bringing its total raised to $92M &lpar;Gali Weinreb/Globes Online&rpar;](http://www.techmeme.com/241001/p32#a241001p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hurricane Helene Will Send Shockwaves Through the Semiconductor Industry](https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/)
- - [iPhone 16 Pro Max review: improving photography for all in a more than iterative upgrade](https://appleinsider.com/articles/24/10/01/iphone-16-pro-max-review-improving-photography-for-all-in-a-more-than-iterative-upgrade?utm_medium=rss)
- - [Serve is partnering with Wing to expand the range of its robot deliveries](https://www.theverge.com/2024/10/1/24258315/serve-delivery-robot-wing-drone-alphabet-google)
- - [Two iPhone buyers conspired to rob and murder delivery man](https://appleinsider.com/articles/24/10/01/two-iphone-buyers-conspired-to-rob-and-murder-delivery-man?utm_medium=rss)
- - [An unredacted New Mexico lawsuit shows Snap grappled internally with how to warn users of Snapchat sextortion risks without striking fear in users or parents &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/241001/p10#a241001p10)<!-- TECH:END -->
+ - [iPhone 16 models cost a little more to make than the iPhone 15](https://appleinsider.com/articles/24/10/01/iphone-16-models-cost-a-little-more-to-make-than-the-iphone-15?utm_medium=rss)
+ - [4 Best Dehumidifiers We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-dehumidifiers/)
+ - [Parents can now set Fortnite time limits](https://www.theverge.com/2024/10/1/24256104/fortnite-parental-control-time-limits)
+ - [Nationwide Verizon outage restored, but not explained](https://appleinsider.com/articles/24/10/01/nationwide-verizon-outage-restored-but-not-explained?utm_medium=rss)
+ - [Hurricane Helene Will Send Shockwaves Through the Semiconductor Industry](https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

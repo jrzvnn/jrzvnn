@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MIT spinoff Liquid AI debuts its non-transformer AI models LFM 1B, 3B, and 40B MoE, and claims they achieve &quot;state-of-the-art performance at every scale&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240930/p29#a240930p29)
- - [Amazon&#39;s fan-favorite $1,299 M3 MacBook Pro deal is back ahead of fall Prime Day](https://appleinsider.com/articles/24/09/30/amazons-fan-favorite-1299-m3-macbook-pro-deal-is-back-ahead-of-fall-prime-day?utm_medium=rss)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [5 Debt Payoff Tips for Low-Income Households](https://www.cnet.com/personal-finance/5-debt-payoff-tips-for-low-income-households/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YC-backed PearAI gets criticism for cloning another AI coding editor covered under the Apache license and applying its own made-up closed license on it &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
+ - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
+ - [If You Wake Up Drenched in Sweat, Here Are Some Possible Causes -- and Solutions](https://www.cnet.com/health/sleep/if-you-wake-up-drenched-in-sweat-here-are-some-possible-causes-and-solutions/#ftag=CAD590a51e)
+ - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)
+ - [Best Apple Watch Deals: Save $100 on the SE Plus Score Savings on Ultra 2, Series 10 and Series 9 Models](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

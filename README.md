@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 😝 [Forget Hans, we are bringing out the artillery](http://9gag.com/gag/aGyjQXK)
- - 💣 [Women](http://9gag.com/gag/a2vopDp)
+ - 😝 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
+ - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 💣 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [They promised us flying cars but all we get is a personal phone scammer for everyone ...](http://9gag.com/gag/apR2O1W)<!-- MEMES:END -->
+ - 👉 [Cutting the coco nut](http://9gag.com/gag/aryg7yV)<!-- MEMES:END -->
 
 ---
 

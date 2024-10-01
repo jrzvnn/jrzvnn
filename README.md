@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 😝 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
- - 💣 [Forget Hans, we are bringing out the artillery](http://9gag.com/gag/aGyjQXK)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
- - 👉 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)<!-- MEMES:END -->
+ - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 😝 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
+ - 💣 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)
+ - 😝 [Permission to be horn](http://9gag.com/gag/aByxpxN)
+ - 👉 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)<!-- MEMES:END -->
 
 ---
 

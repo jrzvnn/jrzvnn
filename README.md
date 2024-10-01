@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carolina Reapers Are No Joke](http://9gag.com/gag/amo74w9)
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 💣 [Permission to be horn](http://9gag.com/gag/aByxpxN)
+ - 😝 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 😝 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
+ - 💣 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)<!-- MEMES:END -->
+ - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
 
 ---
 

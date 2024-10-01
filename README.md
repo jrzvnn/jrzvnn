@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third watchOS 11.1, tvOS 18.1, visionOS 2.1 betas arrive without iOS, iPadOS, macOS](https://appleinsider.com/articles/24/10/01/third-watchos-111-tvos-181-visionos-21-betas-arrive-without-ios-ipados-macos?utm_medium=rss)
+ - [Instagram’s ‘best practices’ tell creators how they should post](https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach)
  - [Bose’s new SoundLink Home is one of its best-looking wireless speakers](https://www.theverge.com/2024/10/1/24259408/bose-bluetooth-wireless-speaker-soundlink-home)
  - [Apple Podcasts spotlights top 100 narrative series](https://appleinsider.com/articles/24/10/01/apple-podcasts-spotlights-top-100-narrative-series?utm_medium=rss)
- - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)
- - [Notorious Evil Corp Hackers Targeted NATO Allies for Russian Intelligence](https://www.wired.com/story/evil-corp-lockbit-russian-intelligence/)
- - [Epic debuts a program to reduce the royalty rate for games built with Unreal Engine from 5% to 3.5% if they launch on the Epic Game Store, starting in 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241001/p22#a241001p22)<!-- TECH:END -->
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

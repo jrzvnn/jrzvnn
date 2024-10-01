@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YC-backed PearAI gets criticism for cloning another AI coding editor covered under the Apache license and applying its own made-up closed license on it &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
+ - [YC-backed PearAI criticized for forking another AI code editor covered under the Apache license and changing the license to its own made-up closed license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
+ - [California Governor Vetoes Far-Reaching AI Safety Bill](https://www.cnet.com/tech/services-and-software/california-governor-vetoes-far-reaching-ai-safety-bill/#ftag=CAD590a51e)
  - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
  - [If You Wake Up Drenched in Sweat, Here Are Some Possible Causes -- and Solutions](https://www.cnet.com/health/sleep/if-you-wake-up-drenched-in-sweat-here-are-some-possible-causes-and-solutions/#ftag=CAD590a51e)
- - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)
- - [Best Apple Watch Deals: Save $100 on the SE Plus Score Savings on Ultra 2, Series 10 and Series 9 Models](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

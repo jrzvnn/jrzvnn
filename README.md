@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
- - 😝 [Permission to be horn](http://9gag.com/gag/aByxpxN)
- - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 😝 [Women](http://9gag.com/gag/a2vopDp)
+ - 💣 [Permission to be horn](http://9gag.com/gag/aByxpxN)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [OurProphet](http://9gag.com/gag/axy1qdM)<!-- MEMES:END -->
+ - 👉 [The find out part are so much fun](http://9gag.com/gag/axy1wRn)<!-- MEMES:END -->
 
 ---
 

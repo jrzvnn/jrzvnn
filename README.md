@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 💣 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - 😝 [Last night](http://9gag.com/gag/ae9Mo6B)
- - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
+ - 😝 [8 Israeli civil!ans de@d in an att@ck on a train station in Tel Aviv by terr0rists from Hebron `WB`.](http://9gag.com/gag/ae9Modm)
+ - 😝 [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 👉 [She got colonized!](http://9gag.com/gag/aW41zRK)<!-- MEMES:END -->
 
 ---
 

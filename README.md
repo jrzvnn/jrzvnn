@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spooky scary skeletons send shivers down your spine](http://9gag.com/gag/abAM97L)
- - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
- - 💣 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - 😝 [That sounds familiar](http://9gag.com/gag/aW41Km6)
- - 👉 [New meme template!](http://9gag.com/gag/aAyxoMd)<!-- MEMES:END -->
+ - 😝 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
+ - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 👉 [Insert have you tried confidence meme here. Steroid woman vs regular joe.](http://9gag.com/gag/aD2xEYd)<!-- MEMES:END -->
 
 ---
 

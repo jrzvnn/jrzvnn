@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos CEO Patrick Spence announces a plan to understand its software and corporate culture missteps and rebuild trust with customers, after the app debacle &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241001/p11#a241001p11)
+ - [Sonos has a plan to earn back your trust, and here it is](https://www.theverge.com/24258431/sonos-app-controversy-patrick-spence-plan)
  - [iPhone 16 models cost a little more to make than the iPhone 15](https://appleinsider.com/articles/24/10/01/iphone-16-models-cost-a-little-more-to-make-than-the-iphone-15?utm_medium=rss)
  - [4 Best Dehumidifiers We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-dehumidifiers/)
- - [Parents can now set Fortnite time limits](https://www.theverge.com/2024/10/1/24256104/fortnite-parental-control-time-limits)
- - [Nationwide Verizon outage restored, but not explained](https://appleinsider.com/articles/24/10/01/nationwide-verizon-outage-restored-but-not-explained?utm_medium=rss)
- - [Hurricane Helene Will Send Shockwaves Through the Semiconductor Industry](https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/)<!-- TECH:END -->
+ - [Parents can now set Fortnite time limits](https://www.theverge.com/2024/10/1/24256104/fortnite-parental-control-time-limits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

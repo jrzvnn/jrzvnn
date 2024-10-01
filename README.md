@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Nvidia’s all-in-one app will replace GeForce Experience later this year](https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel)
  - [23andMe Is Sinking Fast. Can the Company Survive?](https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/)
  - [We Staged a Debate to Test the Bluetooth Earrings Kamala Harris Didn’t Wear](https://www.wired.com/review/review-nova-h1-audio-earrings/)
- - [iPhone SE 4 production nears as Apple prepares for 2025 launch](https://appleinsider.com/articles/24/10/01/iphone-se-4-production-nears-as-apple-prepares-for-2025-launch?utm_medium=rss)
- - [iPhone RCS still isn&#39;t widely supported, and is waiting on carriers to act](https://appleinsider.com/articles/24/10/01/iphone-rcs-still-isnt-widely-supported-and-is-waiting-on-carriers-to-act?utm_medium=rss)
- - [Sources: 11x.ai, which makes AI sales reps, raised a $50M Series B led by a16z, valuing it at ~$350M; source: a $24M Series A earlier in 2024 valued it at $90M &lpar;TechCrunch&rpar;](http://www.techmeme.com/241001/p30#a241001p30)<!-- TECH:END -->
+ - [iPhone SE 4 production nears as Apple prepares for 2025 launch](https://appleinsider.com/articles/24/10/01/iphone-se-4-production-nears-as-apple-prepares-for-2025-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation Network is back online following a lengthy outage](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
  - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
  - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)
  - [Your front door is the key to the smart home](https://www.theverge.com/2024/10/1/24258957/smart-home-front-door-best-earbuds-mic-vergecast)
- - [Chromebooks Are Getting a New Button and Google AI Features](https://www.wired.com/story/chromebooks-are-getting-a-new-button-and-a-host-of-google-ai-features/)
- - [Cloud backup startup Eon, founded in January 2024, emerges from stealth with a Sequoia-led $20M seed, a $30M Series A, a $77M Series B, and a $750M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241001/p12#a241001p12)<!-- TECH:END -->
+ - [Chromebooks Are Getting a New Button and Google AI Features](https://www.wired.com/story/chromebooks-are-getting-a-new-button-and-a-host-of-google-ai-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

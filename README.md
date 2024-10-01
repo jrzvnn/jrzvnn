@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 💣 [Happily Never After](http://9gag.com/gag/aqy7oAY)
+ - 😝 [Macdonald had a little farm](http://9gag.com/gag/aD2xyYG)
+ - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 💣 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Would?](http://9gag.com/gag/aRB3bK2)<!-- MEMES:END -->
+ - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
 
 ---
 

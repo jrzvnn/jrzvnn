@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 💣 [Neat trick](http://9gag.com/gag/aByxe21)
- - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
- - 👉 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)<!-- MEMES:END -->
+ - 😝 [Wiping Hezbollah.](http://9gag.com/gag/aO8rXjR)
+ - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 💣 [6 feet](http://9gag.com/gag/aLnjZ8A)
+ - 😝 [How to take a joke](http://9gag.com/gag/a2vo32O)
+ - 👉 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)<!-- MEMES:END -->
 
 ---
 

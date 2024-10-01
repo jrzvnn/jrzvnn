@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
- - 😝 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
- - 💣 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
+ - 😝 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
+ - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 💣 [Genius moves](http://9gag.com/gag/a87oR2O)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
+ - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
 
 ---
 

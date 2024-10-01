@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Insert have you tried confidence meme here. Steroid woman vs regular joe.](http://9gag.com/gag/aD2xEYd)
  - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
- - 😝 [Permission to be horn](http://9gag.com/gag/aByxpxN)
- - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 💣 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
  - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
 

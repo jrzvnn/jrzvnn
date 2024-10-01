@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How streamers on Twitch and other services are moving further into talking politics, making the livestreaming platforms a focus for both presidential campaigns &lpar;New York Times&rpar;](http://www.techmeme.com/241001/p9#a241001p9)
  - [Nick Clegg says Meta plans to build the Quest 3S in Vietnam in 2025; Meta did not specify the size of the investment and of its existing operation in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/241001/p8#a241001p8)
  - [Get Your VP Debate Bingo Card Right Here](https://www.wired.com/story/bingo-how-to-watch-vp-walz-vance-debate/)
  - [Bentley Continental GT Speed Hybrid 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-bentley-continental-gt-speed-hybrid-2025/)
- - [eBay is off the hook for selling harmful products](https://www.theverge.com/2024/10/1/24259191/ebay-doj-harmful-polluting-products-lawsuit-dismissed)
- - [Sony fixes a massive outage of its online gaming network PSN, affecting the PS3, PS4, PS5, PS Vita, web, and more, that was ongoing for over eight hours &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241001/p7#a241001p7)<!-- TECH:END -->
+ - [eBay is off the hook for selling harmful products](https://www.theverge.com/2024/10/1/24259191/ebay-doj-harmful-polluting-products-lawsuit-dismissed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

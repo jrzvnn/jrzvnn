@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI debuts a public beta of its Realtime API to quickly make speech-to-speech features, a way to use images to fine-tune GPT-4o uses via its API, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241001/p23#a241001p23)
  - [Third watchOS 11.1, tvOS 18.1, visionOS 2.1 betas arrive without iOS, iPadOS, macOS](https://appleinsider.com/articles/24/10/01/third-watchos-111-tvos-181-visionos-21-betas-arrive-without-ios-ipados-macos?utm_medium=rss)
  - [Instagram’s ‘best practices’ tell creators how they should post](https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach)
  - [Bose’s new SoundLink Home is one of its best-looking wireless speakers](https://www.theverge.com/2024/10/1/24259408/bose-bluetooth-wireless-speaker-soundlink-home)
- - [Apple Podcasts spotlights top 100 narrative series](https://appleinsider.com/articles/24/10/01/apple-podcasts-spotlights-top-100-narrative-series?utm_medium=rss)
- - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Podcasts spotlights top 100 narrative series](https://appleinsider.com/articles/24/10/01/apple-podcasts-spotlights-top-100-narrative-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
- - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
- - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
+ - 💣 [Forget Hans, we are bringing out the artillery](http://9gag.com/gag/aGyjQXK)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
+ - 👉 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)<!-- MEMES:END -->
 
 ---
 

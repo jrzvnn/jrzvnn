@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
- - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
- - 💣 [Genius moves](http://9gag.com/gag/a87oR2O)
+ - 😝 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 😝 [Permission to be horn](http://9gag.com/gag/aByxpxN)
+ - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
+ - 👉 [OurProphet](http://9gag.com/gag/axy1qdM)<!-- MEMES:END -->
 
 ---
 

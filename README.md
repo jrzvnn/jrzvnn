@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Numa, which uses AI to automate tasks for auto dealerships and has 600 customers in the US and Canada, raised a $32M Series B led by Touring Capital and Mitsui &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p34#a241001p34)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)
  - [Open-source Nintendo Switch emulator Ryujinx has been removed from GitHub, and its team has reportedly ceased development after Nintendo contacted its creator &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/241001/p33#a241001p33)
- - [Snap employees were well aware of the app’s child safety issues, newly unsealed complaint says](https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Snap employees were well aware of the app’s child safety issues, newly unsealed complaint says](https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

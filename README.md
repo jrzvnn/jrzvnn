@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
- - 💣 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
- - 👉 [Insert have you tried confidence meme here. Steroid woman vs regular joe.](http://9gag.com/gag/aD2xEYd)<!-- MEMES:END -->
+ - 😝 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)
+ - 😝 [Spooky scary skeletons send shivers down your spine](http://9gag.com/gag/abAM97L)
+ - 💣 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
+ - 😝 [That sounds familiar](http://9gag.com/gag/aW41Km6)
+ - 👉 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)<!-- MEMES:END -->
 
 ---
 

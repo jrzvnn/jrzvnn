@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert have you tried confidence meme here. Steroid woman vs regular joe.](http://9gag.com/gag/aD2xEYd)
- - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
- - 💣 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
+ - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
+ - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
 
 ---
 

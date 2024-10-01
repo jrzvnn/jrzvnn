@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the US and allies try to sanction Evil Corp., the UK NCA says the ransomware gang conducted cyberattacks and espionage ops on NATO allies on Kremlin orders &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241001/p21#a241001p21)
- - [You can keep the door closed on Whirlpool’s new self-drying washers](https://www.theverge.com/2024/10/1/24259346/whirlpool-washing-machine-freshflow-vent)
- - [Microsoft&#39;s new Windows 11 update adds generative AI-based fill and erase options to Paint and up to 8x picture resolution upscaling to Photos, for Copilot+ PCs &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241001/p20#a241001p20)
- - [The US NLRB issues a complaint accusing Apple of violating staff&#39;s rights to organize and advocate for working conditions via allegedly unlawful workplace rules &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241001/p19#a241001p19)
- - [Microsoft is discontinuing its HoloLens headsets](https://www.theverge.com/2024/10/1/24259369/microsoft-hololens-2-discontinuation-support)<!-- TECH:END -->
+ - [The US could bring a shuttered nuclear power plant back to life next year](https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades)
+ - [Devolver launches new indie label focused on licensed games](https://www.theverge.com/2024/10/1/24259402/devolver-digital-big-fan-licensed-indie-games)
+ - [Hands-on With Sony&#39;s New LinkBuds Fit and LinkBuds Open Earbuds](https://www.cnet.com/tech/mobile/hands-on-with-sonys-new-linkbuds-fit-and-linkbuds-open-earbuds/#ftag=CAD590a51e)
+ - [Champions League Soccer: Livestream Slovan Bratislava vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-slovan-bratislava-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [Champions League Soccer: Livestream Barcelona vs. Young Boys From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-barcelona-vs-young-boys-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

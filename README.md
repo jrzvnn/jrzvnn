@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Staged a Debate to Test the Bluetooth Earrings Kamala Harris Didn’t Wear](https://www.wired.com/review/review-nova-h1-audio-earrings/)
  - [iPhone SE 4 production nears as Apple prepares for 2025 launch](https://appleinsider.com/articles/24/10/01/iphone-se-4-production-nears-as-apple-prepares-for-2025-launch?utm_medium=rss)
  - [iPhone RCS still isn&#39;t widely supported, and is waiting on carriers to act](https://appleinsider.com/articles/24/10/01/iphone-rcs-still-isnt-widely-supported-and-is-waiting-on-carriers-to-act?utm_medium=rss)
  - [Sources: 11x.ai, which makes AI sales reps, raised a $50M Series B led by a16z, valuing it at ~$350M; source: a $24M Series A earlier in 2024 valued it at $90M &lpar;TechCrunch&rpar;](http://www.techmeme.com/241001/p30#a241001p30)
- - [These boxes will send Dolby Atmos through your home’s power lines](https://www.theverge.com/2024/10/1/24259598/fasetto-dolby-atmos-audio-cu-speakers-power-lines)
- - [Sources: Apple nears production of an updated iPhone SE with a design that drops the home button and plans a new iPad mini this year and iPad Air models in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241001/p29#a241001p29)<!-- TECH:END -->
+ - [These boxes will send Dolby Atmos through your home’s power lines](https://www.theverge.com/2024/10/1/24259598/fasetto-dolby-atmos-audio-cu-speakers-power-lines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

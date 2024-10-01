@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on the company&#39;s AI agent progress, like transacting with third parties on users&#39; behalf, which is still a ways off &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241001/p27#a241001p27)
  - [Threads now gives users 15 minutes to edit posts and lets users who have connected their accounts to the fediverse see who follows them and likes their posts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241001/p26#a241001p26)
+ - [Best iPad Pro Deals: Get Apple&#39;s Best-Ever Tablet Computer for Less](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)
  - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Sleep Number’s newest smart bed aims to tackle night sweats](https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Sources say many OpenAI staff thought that o1 was not ready to be unveiled, and then-CTO Mira Murati was often stuck in the middle of arguments between teams &lpar;Fortune&rpar;](http://www.techmeme.com/241001/p25#a241001p25)<!-- TECH:END -->
+ - [Best Outdoor String Lights for 2024](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

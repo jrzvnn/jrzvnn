@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Can Your iPhone Run the Newest Apple Mobile OS? See All the iOS 18 Compatible Devices](https://www.cnet.com/tech/services-and-software/can-your-iphone-run-the-newest-apple-mobile-os-see-all-the-ios-18-compatible-devices/#ftag=CAD590a51e)
- - [You May Be Automatically Enrolled in Your Company&#39;s 401&lpar;k&rpar; Plan Next Year. Here&#39;s Why](https://www.cnet.com/personal-finance/investing/you-may-be-automatically-enrolled-in-your-companys-401k-plan-next-year-heres-why/#ftag=CAD590a51e)
- - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)
+ - [Open-source Nintendo Switch emulator Ryujinx has been removed from GitHub, and its team has reportedly ceased development after Nintendo contacted its creator &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/241001/p33#a241001p33)
+ - [Snap employees were well aware of the app’s child safety issues, newly unsealed complaint says](https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

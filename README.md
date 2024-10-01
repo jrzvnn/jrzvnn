@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 Israeli civil!ans de@d in an att@ck on a train station in Tel Aviv by terr0rists from Hebron `WB`.](http://9gag.com/gag/ae9Modm)
- - 😝 [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
- - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
+ - 💣 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
+ - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
  - 👉 [She got colonized!](http://9gag.com/gag/aW41zRK)<!-- MEMES:END -->
 
 ---

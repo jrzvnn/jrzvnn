@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation Network is back online following a lengthy outage](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
- - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
- - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)
- - [Your front door is the key to the smart home](https://www.theverge.com/2024/10/1/24258957/smart-home-front-door-best-earbuds-mic-vergecast)
- - [Chromebooks Are Getting a New Button and Google AI Features](https://www.wired.com/story/chromebooks-are-getting-a-new-button-and-a-host-of-google-ai-features/)<!-- TECH:END -->
+ - [Apple celebrates teachers with new resources and grants](https://appleinsider.com/articles/24/10/01/apple-celebrates-teachers-with-new-resources-and-grants?utm_medium=rss)
+ - [India factory fire may force Apple iPhone orders back to China](https://appleinsider.com/articles/24/10/01/india-factory-fire-may-force-apple-iphone-orders-back-to-china?utm_medium=rss)
+ - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)
+ - [Read Microsoft’s optimistic memo about the future of AI companions](https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo)
+ - [Plugable&#39;s new Thunderbolt dock connects 4 displays to your Mac](https://appleinsider.com/articles/24/10/01/plugables-new-thunderbolt-dock-connects-4-displays-to-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

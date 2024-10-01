@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
+ - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - 💣 [Happily Never After](http://9gag.com/gag/aqy7oAY)
  - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - 💣 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
- - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - 👉 [She got colonized!](http://9gag.com/gag/aW41zRK)<!-- MEMES:END -->
+ - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
 
 ---
 

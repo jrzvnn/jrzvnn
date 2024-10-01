@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
- - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
  - 😝 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)
- - 👉 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)<!-- MEMES:END -->
+ - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
+ - 💣 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aO8rLny)<!-- MEMES:END -->
 
 ---
 

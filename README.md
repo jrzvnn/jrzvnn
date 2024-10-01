@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 😝 [6 feet](http://9gag.com/gag/aLnjZ8A)
- - 💣 [How to take a joke](http://9gag.com/gag/a2vo32O)
- - 😝 [Wiping Hezbollah.](http://9gag.com/gag/aO8rXjR)
- - 👉 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)<!-- MEMES:END -->
+ - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
+ - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
+ - 👉 [Uzumaki Comparison](http://9gag.com/gag/a2vonqp)<!-- MEMES:END -->
 
 ---
 

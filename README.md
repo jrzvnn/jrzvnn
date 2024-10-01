@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alpha male](http://9gag.com/gag/aYQg3g0)
- - 😝 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 💣 [Women](http://9gag.com/gag/a2vopDp)
+ - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 💣 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)<!-- MEMES:END -->
+ - 👉 [Permission to be horn](http://9gag.com/gag/aByxpxN)<!-- MEMES:END -->
 
 ---
 

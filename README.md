@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [An unredacted New Mexico lawsuit shows Snap grappled internally with how to warn users of Snapchat sextortion risks without striking fear in users or parents &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/241001/p10#a241001p10)
  - [How streamers on Twitch and other services are moving further into talking politics, making the livestreaming platforms a focus for both presidential campaigns &lpar;New York Times&rpar;](http://www.techmeme.com/241001/p9#a241001p9)
  - [Nick Clegg says Meta plans to build the Quest 3S in Vietnam in 2025; Meta did not specify the size of the investment and of its existing operation in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/241001/p8#a241001p8)
- - [Get Your VP Debate Bingo Card Right Here](https://www.wired.com/story/bingo-how-to-watch-vp-walz-vance-debate/)<!-- TECH:END -->
+ - [How to Send Secret Encrypted Messages Using Your iPhone Notes App](https://www.cnet.com/tech/mobile/how-to-send-secret-encrypted-messages-using-your-iphone-notes-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

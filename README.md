@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They promised us flying cars but all we get is a personal phone scammer for everyone ...](http://9gag.com/gag/apR2O1W)
- - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
- - 💣 [Genius moves](http://9gag.com/gag/a87oR2O)
+ - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
+ - 😝 [Permission to be horn](http://9gag.com/gag/aByxpxN)
+ - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
+ - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
 
 ---
 

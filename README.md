@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hurricane Helene Will Send Shockwaves Through the Semiconductor Industry](https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/)
  - [iPhone 16 Pro Max review: improving photography for all in a more than iterative upgrade](https://appleinsider.com/articles/24/10/01/iphone-16-pro-max-review-improving-photography-for-all-in-a-more-than-iterative-upgrade?utm_medium=rss)
  - [Serve is partnering with Wing to expand the range of its robot deliveries](https://www.theverge.com/2024/10/1/24258315/serve-delivery-robot-wing-drone-alphabet-google)
  - [Two iPhone buyers conspired to rob and murder delivery man](https://appleinsider.com/articles/24/10/01/two-iphone-buyers-conspired-to-rob-and-murder-delivery-man?utm_medium=rss)
- - [An unredacted New Mexico lawsuit shows Snap grappled internally with how to warn users of Snapchat sextortion risks without striking fear in users or parents &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/241001/p10#a241001p10)
- - [How streamers on Twitch and other services are moving further into talking politics, making the livestreaming platforms a focus for both presidential campaigns &lpar;New York Times&rpar;](http://www.techmeme.com/241001/p9#a241001p9)<!-- TECH:END -->
+ - [An unredacted New Mexico lawsuit shows Snap grappled internally with how to warn users of Snapchat sextortion risks without striking fear in users or parents &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/241001/p10#a241001p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

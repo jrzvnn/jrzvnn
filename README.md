@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
- - 😝 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
- - 💣 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
+ - 😝 [Happily Never After](http://9gag.com/gag/aqy7oAY)
+ - 💣 [Women](http://9gag.com/gag/a2vopDp)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
  - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
 

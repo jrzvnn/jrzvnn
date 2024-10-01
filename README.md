@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - 😝 [Insert have you tried confidence meme here. Steroid woman vs regular joe.](http://9gag.com/gag/aD2xEYd)
- - 💣 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 💣 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 😝 [Last night](http://9gag.com/gag/ae9Mo6B)
  - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
 
 ---

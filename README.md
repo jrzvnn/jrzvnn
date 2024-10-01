@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
- - 😝 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
- - 💣 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 😝 [How to take a joke](http://9gag.com/gag/a2vo32O)
- - 👉 [6 feet](http://9gag.com/gag/aLnjZ8A)<!-- MEMES:END -->
+ - 😝 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 💣 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
+ - 👉 [She got colonized!](http://9gag.com/gag/aW41zRK)<!-- MEMES:END -->
 
 ---
 

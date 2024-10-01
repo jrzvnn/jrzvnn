@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Neat trick](http://9gag.com/gag/aByxe21)
- - 😝 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
- - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 😝 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
+ - 😝 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 💣 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
 
 ---
 

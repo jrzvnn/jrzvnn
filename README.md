@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Calliope Networks, a content licensing company whose License to Scrape program is targeting YouTubers to strike their own AI training data agreements &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241001/p3#a241001p3)
  - [In the past year, one researcher reported vulnerabilities in 19 commercial services used by hundreds of courts, state agencies, and police departments in the US &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241001/p2#a241001p2)
  - [Google starts construction of a new $2B data center in Malaysia, says its investments would create 26,500 jobs and contribute $3B+ to Malaysian economy by 2030 &lpar;Rozanna Latiff/Reuters&rpar;](http://www.techmeme.com/241001/p1#a241001p1)
  - [iPhone SE 4 Rumors: Bigger OLED Screen, Apple Intelligence and More to Expect](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-bigger-oled-screen-apple-intelligence-and-more/#ftag=CAD590a51e)
- - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)
- - [Casper Dream Max Hybrid Review 2024: Plush Yet Supportive Luxury](https://www.cnet.com/health/sleep/casper-dream-max-hybrid-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

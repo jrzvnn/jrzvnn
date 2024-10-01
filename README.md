@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Pig butchering operations that are offshoots of the Southeast Asian activity have emerged in the Middle East, Eastern Europe, Latin America, and West Africa &lpar;Wired&rpar;](http://www.techmeme.com/241001/p31#a241001p31)
  - [The next iPhone SE may lose the home button, add Face ID and Apple Intelligence](https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Nvidia’s all-in-one app will replace GeForce Experience later this year](https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel)
- - [23andMe Is Sinking Fast. Can the Company Survive?](https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/)<!-- TECH:END -->
+ - [Dyson Just Launched the Wash G1, Its First Wet Mop/Vac](https://www.cnet.com/news/dyson-just-launched-its-first-ever-wet-mopvac/#ftag=CAD590a51e)
+ - [Best Collagen Powders for 2024](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)
+ - [Best Buy&#39;s Anti-Prime Day Sale: Big Savings on Top Tech Are Up for Grabs](https://www.cnet.com/deals/best-buys-anti-prime-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

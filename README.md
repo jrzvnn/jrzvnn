@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates teachers with new resources and grants](https://appleinsider.com/articles/24/10/01/apple-celebrates-teachers-with-new-resources-and-grants?utm_medium=rss)
- - [India factory fire may force Apple iPhone orders back to China](https://appleinsider.com/articles/24/10/01/india-factory-fire-may-force-apple-iphone-orders-back-to-china?utm_medium=rss)
- - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)
- - [Read Microsoft’s optimistic memo about the future of AI companions](https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo)
- - [Plugable&#39;s new Thunderbolt dock connects 4 displays to your Mac](https://appleinsider.com/articles/24/10/01/plugables-new-thunderbolt-dock-connects-4-displays-to-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Pebblebee’s trackers now work on Apple’s or Google’s networks](https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android)
+ - [Noctua releases an even bigger version of its iconic desktop PC fan](https://www.theverge.com/2024/10/1/24259249/noctua-nf-a14x25-g2-price-available-dual-fan-offset)
+ - [Microsoft to pay pubs for content used by Copilot Daily, a new assistant providing a spoken summary of current events, signs up Reuters, FT, Axel Springer, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p16#a241001p16)
+ - [Unreal Fest Seattle 2024: all the news from Epic’s big event](https://www.theverge.com/2024/10/1/24258466/unreal-fest-seattle-2024-fortnite-uefn-engine)
+ - [Microsoft will start rolling out Click to Do, similar to Google&#39;s Circle to Search, and AI-enhanced search features for Windows on Copilot+ PCs next month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241001/p15#a241001p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

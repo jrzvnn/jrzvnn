@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube TV may soon let you keep listening even when you can’t watch](https://www.theverge.com/2024/10/1/24259647/youtube-tv-app-background-playback-google-ios-android)
+ - [Threads is giving you more time to edit your posts](https://www.theverge.com/2024/10/1/24259606/threads-post-time-limit-fediverse)
  - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on the company&#39;s AI agent progress, like transacting with third parties on users&#39; behalf, which is still a ways off &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241001/p27#a241001p27)
  - [Threads now gives users 15 minutes to edit posts and lets users who have connected their accounts to the fediverse see who follows them and likes their posts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241001/p26#a241001p26)
- - [Best iPad Pro Deals: Get Apple&#39;s Best-Ever Tablet Computer for Less](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)
- - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Best Outdoor String Lights for 2024](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Pro Deals: Get Apple&#39;s Best-Ever Tablet Computer for Less](https://www.cnet.com/deals/best-ipad-pro-m4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

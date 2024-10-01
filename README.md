@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Nintendo Switch Games for Every Kind of Player &lpar;October 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [Microsoft begins rolling out Bing Generative Search, its answer to Google&#39;s AI Overviews, to users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p18#a241001p18)
- - [Microsoft is discontinuing HoloLens 2, with no replacement, and will only push &quot;updates to address critical security issues and software regressions&quot; until 2028 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241001/p17#a241001p17)
- - [Pebblebee’s trackers now work on Apple’s or Google’s networks](https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android)
- - [Noctua’s flagship PC fan gets bigger and fancier](https://www.theverge.com/2024/10/1/24259249/noctua-nf-a14x25-g2-price-available-dual-fan-offset)<!-- TECH:END -->
+ - [Microsoft is discontinuing its HoloLens headsets](https://www.theverge.com/2024/10/1/24259369/microsoft-hololens-2-discontinuation-support)
+ - [Real ID Delayed Until 2027 Under TSA Proposal](https://www.cnet.com/tech/real-id-delayed-until-2027-under-tsa-proposal/#ftag=CAD590a51e)
+ - [Spotify Hacks: How to Make Your Favorite Songs Sound Even Better](https://www.cnet.com/tech/services-and-software/spotify-hacks-how-to-make-your-favorite-songs-sound-even-better/#ftag=CAD590a51e)
+ - [Skip Counting Sheep. Conquer Night-Time Anxiety With This Simple Sleep Hack](https://www.cnet.com/health/sleep/skip-counting-sheep-conquire-night-time-anxiety-with-this-simple-sleep-hack/#ftag=CAD590a51e)
+ - [30 Nintendo Switch Games for Every Kind of Player &lpar;October 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true professional](http://9gag.com/gag/adBKGyd)
- - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
- - 💣 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)
+ - 😝 [Neat trick](http://9gag.com/gag/aByxe21)
+ - 😝 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
+ - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [Genius moves](http://9gag.com/gag/a87oR2O)<!-- MEMES:END -->
+ - 👉 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)<!-- MEMES:END -->
 
 ---
 

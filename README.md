@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US NLRB issues a complaint accusing Apple of violating staff&#39;s rights to organize and advocate for working conditions via allegedly unlawful workplace rules &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241001/p19#a241001p19)
  - [Microsoft is discontinuing its HoloLens headsets](https://www.theverge.com/2024/10/1/24259369/microsoft-hololens-2-discontinuation-support)
  - [Real ID Delayed Until 2027 Under TSA Proposal](https://www.cnet.com/tech/real-id-delayed-until-2027-under-tsa-proposal/#ftag=CAD590a51e)
  - [Spotify Hacks: How to Make Your Favorite Songs Sound Even Better](https://www.cnet.com/tech/services-and-software/spotify-hacks-how-to-make-your-favorite-songs-sound-even-better/#ftag=CAD590a51e)
- - [Skip Counting Sheep. Conquer Night-Time Anxiety With This Simple Sleep Hack](https://www.cnet.com/health/sleep/skip-counting-sheep-conquire-night-time-anxiety-with-this-simple-sleep-hack/#ftag=CAD590a51e)
- - [30 Nintendo Switch Games for Every Kind of Player &lpar;October 2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
+ - [Skip Counting Sheep. Conquer Night-Time Anxiety With This Simple Sleep Hack](https://www.cnet.com/health/sleep/skip-counting-sheep-conquire-night-time-anxiety-with-this-simple-sleep-hack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

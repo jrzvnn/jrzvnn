@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happily Never After](http://9gag.com/gag/aqy7oAY)
- - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
- - 💣 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 👉 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)<!-- MEMES:END -->
+ - 😝 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 😝 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
+ - 👉 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Macdonald had a little farm](http://9gag.com/gag/aD2xyYG)
- - 😝 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
- - 💣 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - 😝 [Forget Hans, we are bringing out the artillery](http://9gag.com/gag/aGyjQXK)
+ - 💣 [Women](http://9gag.com/gag/a2vopDp)
  - 😝 [Good vibezzz, good night.](http://9gag.com/gag/aAyxqdp)
- - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
+ - 👉 [They promised us flying cars but all we get is a personal phone scammer for everyone ...](http://9gag.com/gag/apR2O1W)<!-- MEMES:END -->
 
 ---
 

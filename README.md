@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
  - 😝 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
  - 💣 [Happily Never After](http://9gag.com/gag/aqy7oAY)
- - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
+ - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 👉 [Sushi kebab](http://9gag.com/gag/aPAjE1R)<!-- MEMES:END -->
 
 ---
 

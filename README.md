@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads now gives users 15 minutes to edit posts and lets users who have connected their accounts to the fediverse see who follows them and likes their posts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241001/p26#a241001p26)
+ - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Sleep Number’s newest smart bed aims to tackle night sweats](https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Sources say many OpenAI staff thought that o1 was not ready to be unveiled, and then-CTO Mira Murati was often stuck in the middle of arguments between teams &lpar;Fortune&rpar;](http://www.techmeme.com/241001/p25#a241001p25)
- - [DataPelago launches from stealth with a &quot;universal data processing engine&quot; for &quot;accelerated computing&quot; workloads, with $47M in seed and Series A funding &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/241001/p24#a241001p24)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
+ - [Sources say many OpenAI staff thought that o1 was not ready to be unveiled, and then-CTO Mira Murati was often stuck in the middle of arguments between teams &lpar;Fortune&rpar;](http://www.techmeme.com/241001/p25#a241001p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

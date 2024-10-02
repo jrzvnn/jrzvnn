@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When english people go on vacation to germany for the first time](http://9gag.com/gag/a9yKjgj)
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
+ - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
  - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 💣 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
  - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
 
 ---

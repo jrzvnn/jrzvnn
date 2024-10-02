@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
+ - 💣 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
  - 😝 [He won](http://9gag.com/gag/aPAjNbP)
- - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 👉 [Sesbain lex](http://9gag.com/gag/aqy73nv)<!-- MEMES:END -->
+ - 👉 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)<!-- MEMES:END -->
 
 ---
 

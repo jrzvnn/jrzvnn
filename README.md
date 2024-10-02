@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Denise Coates, the UK&#39;s richest woman, who founded online gambling company Bet365, which had &amp;pound;3B+ in 2023 revenue, as she focuses on a US expansion &lpar;Rob Davies/The Guardian&rpar;](http://www.techmeme.com/241002/p7#a241002p7)
  - [2024 has been a barren year for big video games compared to 2023, helping indie games take center stage; the games industry has laid off 10,000+ people in 2024 &lpar;Tom Faber/Financial Times&rpar;](http://www.techmeme.com/241002/p6#a241002p6)
  - [Formula E’s Race to Get the Whole World Electrified](https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/)
  - [A profile of Jarod Koopman, who leads IRS Criminal Investigation&#39;s cybercrime unit, which has returned $12B+ to victims and the US Treasury in the past 10 years &lpar;Geraldine Brooks/Washington Post&rpar;](http://www.techmeme.com/241002/p5#a241002p5)
- - [Eight Scientists, a Billion Dollars, and the Moonshot Agency Trying to Make Britain Great Again](https://www.wired.com/story/aria-moonshot-darpa-uk-britain-great-again/)
- - [Raspberry Pi, the FTSE 250 company that defied the trend of UK tech companies listing in the US, has revived Cambridge&#39;s history of making hardware &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/241002/p4#a241002p4)<!-- TECH:END -->
+ - [Eight Scientists, a Billion Dollars, and the Moonshot Agency Trying to Make Britain Great Again](https://www.wired.com/story/aria-moonshot-darpa-uk-britain-great-again/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

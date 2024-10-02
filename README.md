@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
- - 😝 [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
- - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 😝 [Last night](http://9gag.com/gag/ae9Mo6B)
- - 👉 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)<!-- MEMES:END -->
+ - 😝 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
+ - 😝 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)
+ - 💣 [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
+ - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
+ - 👉 [New meme template!](http://9gag.com/gag/aAyxoMd)<!-- MEMES:END -->
 
 ---
 

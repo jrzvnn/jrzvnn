@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Tim Cook sells Apple stock worth in excess of $50 million](https://appleinsider.com/articles/24/10/02/tim-cook-sells-apple-stock-worth-in-excess-of-50-million?utm_medium=rss)
  - [Best Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-toaster-oven/#ftag=CAD590a51e)
  - [Biden signs legislation exempting some US semiconductor manufacturing facilities that are receiving government subsidies from federal environmental reviews &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)
- - [Best Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2024](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)
- - [Watch for the Northern Lights to Put on a Dazzling Show This Week](https://www.cnet.com/science/space/watch-for-the-northern-lights-to-put-on-a-dazzling-show-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2024](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

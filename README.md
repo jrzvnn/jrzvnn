@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’](https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate)
+ - [The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight](https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate)
  - [Resolve AI, which is building AI tools to help software engineers troubleshoot and fix production issues, raised a $35M seed led by Greylock &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241001/p39#a241001p39)
  - [How the FBI and Mandiant caught hacker Jesse Kipf, who sold access to systems he broke into and hacked Hawaii&#39;s death registration system to fake his own death &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241001/p38#a241001p38)
- - [Quntis RGB Pro+ Monitor Light review: Effortlessly brighten your desk](https://appleinsider.com/articles/24/10/02/quntis-rgb-pro-monitor-light-review-effortlessly-brighten-your-desk?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 2, #1201](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-2-1201/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 2, #213](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-2-213/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Quntis RGB Pro+ Monitor Light review: Effortlessly brighten your desk](https://appleinsider.com/articles/24/10/02/quntis-rgb-pro-monitor-light-review-effortlessly-brighten-your-desk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s next-gen frame generation tech rolls out to boost FPS in more games](https://www.theverge.com/2024/10/2/24260227/amd-afmf-2-fluid-motion-frame-generation-fps-boost-availability)
+ - [Automattic demanded a cut of WP Engine’s revenue before starting WordPress battle](https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle)
  - [Echoes of Wisdom’s best trick is turning Zelda into a dungeon master](https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening)
- - [Toyota puts another $500 million into an air taxi startup Joby](https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock)
- - [Target’s new sneakers expand to fit growing feet](https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers)
- - [Earth&#39;s Mini-Moon Is Here: Everything You Need to Know About the Temporary Second &#39;Moon&#39;](https://www.cnet.com/science/earths-mini-moon-is-here-everything-you-need-to-know-about-the-temporary-second-moon/#ftag=CAD590a51e)
- - [Your Child Is Vulnerable to Identity Theft Too. Here’s How to Protect Them](https://www.cnet.com/how-to/your-child-is-vulnerable-to-identity-theft-too-heres-how-to-protect-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Toyota puts another $500 million in an air taxi startup](https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock)
+ - [Target’s new sneakers expand to fit growing feet](https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

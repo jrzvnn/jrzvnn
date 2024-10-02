@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Grab Apple&#39;s 1TB Mac Studio for just $1,999 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/10/02/grab-apples-1tb-mac-studio-for-just-1999-200-off?utm_medium=rss)
  - [All Elite Wrestling will start streaming on Max in January](https://www.theverge.com/2024/10/2/24260475/aew-wbd-max-streaming-deal-announced)
  - [Nintendo is limiting how much merch you can buy from its new museum’s gift shop](https://www.theverge.com/2024/10/2/24260570/nintendo-museum-kyoto-gift-shop-limit)
- - [Pokemon-Like Shooter Game Palworld Coming to Mobile Despite Lawsuit](https://www.cnet.com/tech/gaming/pokemon-like-shooter-game-palworld-coming-to-mobile-despite-lawsuit/#ftag=CAD590a51e)
- - [Tempur-Pedic ProAdapt Mattress Review 2024: The Most Versatile Tempur-Pedic Mattress](https://www.cnet.com/health/sleep/tempurpedic-pro-adapt/#ftag=CAD590a51e)
- - [Best Universal Remote for 2024](https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pokemon-Like Shooter Game Palworld Coming to Mobile Despite Lawsuit](https://www.cnet.com/tech/gaming/pokemon-like-shooter-game-palworld-coming-to-mobile-despite-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

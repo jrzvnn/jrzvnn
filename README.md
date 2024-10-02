@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia details NVLM 1.0, a family of LLMs that is led by the 72B parameter NVLM-D-72B and can handle vision and language tasks while enhancing text-only tasks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)
+ - [Amazon Prime Day Budgeting Hacks From a CFP](https://www.cnet.com/personal-finance/banking/amazon-prime-day-budgeting-hacks-from-a-cfp/#ftag=CAD590a51e)
+ - [Insurance Premiums Spike as Natural Disasters Strike. What Homeowners Can Do](https://www.cnet.com/personal-finance/insurance-premiums-spike-as-natural-disasters-strike-what-homeowners-can-do/#ftag=CAD590a51e)
  - [Numa, which uses AI to automate tasks for auto dealerships and has 600 customers in the US and Canada, raised a $32M Series B led by Touring Capital and Mitsui &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p34#a241001p34)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)
- - [Open-source Nintendo Switch emulator Ryujinx has been removed from GitHub, and its team has reportedly ceased development after Nintendo contacted its creator &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/241001/p33#a241001p33)
- - [Snap employees were well aware of the app’s child safety issues, newly unsealed complaint says](https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety)<!-- TECH:END -->
+ - [Best 3D Printing Filament in 2024](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

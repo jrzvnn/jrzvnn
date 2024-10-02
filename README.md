@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
- - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 👉 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)<!-- MEMES:END -->
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 😝 [Please save Spidey!](http://9gag.com/gag/a9ypopZ)
+ - 💣 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
+ - 😝 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
+ - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
 
 ---
 

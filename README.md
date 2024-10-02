@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
- - 💣 [Sesbain lex](http://9gag.com/gag/aqy73nv)
- - 😝 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 👉 [Last night](http://9gag.com/gag/ae9Mo6B)<!-- MEMES:END -->
 
 ---
 

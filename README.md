@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiktok prankers finally getting what they deserve. Messed with the wrong man there.](http://9gag.com/gag/apRmE25)
- - 😝 [Thanks, I hate this soap dispenser](http://9gag.com/gag/a0eQv1B)
- - 💣 [Confusion of the highest order](http://9gag.com/gag/a873d3Z)
- - 😝 [This planter brings your plant alive](http://9gag.com/gag/an79epz)
- - 👉 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)<!-- MEMES:END -->
+ - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 💣 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 👉 [Emily Feld](http://9gag.com/gag/abAY3Wv)<!-- MEMES:END -->
 
 ---
 

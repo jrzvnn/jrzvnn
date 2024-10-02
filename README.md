@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 😝 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
- - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 👉 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)<!-- MEMES:END -->
+ - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 💣 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 😝 [Emily Feld](http://9gag.com/gag/abAY3Wv)
+ - 👉 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)<!-- MEMES:END -->
 
 ---
 

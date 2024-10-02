@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden signs legislation exempting some US semiconductor manufacturing facilities from federal environmental reviews that are receiving government subsidies &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)
+ - [Charter will offer Peacock for free with some cable subscriptions next year](https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [Grab Apple&#39;s 1TB Mac Studio for just $1,999 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/10/02/grab-apples-1tb-mac-studio-for-just-1999-200-off?utm_medium=rss)
- - [Spectrum Offers Free Wi-Fi at 90,000 Access Points Following Hurricane Helene](https://www.cnet.com/home/internet/spectrum-free-wi-fi-access-points-hurricane-helene/#ftag=CAD590a51e)
- - [Meet Moo Deng, Pesto the Penguin and Other Viral Animals We Love to Love](https://www.cnet.com/science/meet-moo-deng-pesto-the-penguin-and-other-viral-animals-we-love-to-love/#ftag=CAD590a51e)
- - [Could the Port Strike Lead to High Holiday Costs and Delays? What Experts Say](https://www.cnet.com/personal-finance/could-the-port-strike-lead-to-high-holiday-costs-and-delays-what-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spectrum Offers Free Wi-Fi at 90,000 Access Points Following Hurricane Helene](https://www.cnet.com/home/internet/spectrum-free-wi-fi-access-points-hurricane-helene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

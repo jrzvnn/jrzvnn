@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Grab Apple&#39;s 1TB Mac Studio for just $1,999 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/10/02/grab-apples-1tb-mac-studio-for-just-1999-200-off?utm_medium=rss)
  - [All Elite Wrestling will start streaming on Max in January](https://www.theverge.com/2024/10/2/24260475/aew-wbd-max-streaming-deal-announced)
  - [Nintendo is limiting how much merch you can buy from its new museum’s gift shop](https://www.theverge.com/2024/10/2/24260570/nintendo-museum-kyoto-gift-shop-limit)
- - [Pokemon-Like Shooter Game Palworld Coming to Mobile Despite Lawsuit](https://www.cnet.com/tech/gaming/pokemon-like-shooter-game-palworld-coming-to-mobile-despite-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Accenture says it will train 30,000 employees on Nvidia technology and start a new Nvidia Business Group focused on driving enterprise adoption of AI agents &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241002/p31#a241002p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

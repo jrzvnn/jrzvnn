@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is bringing back Sugar for season 2](https://www.theverge.com/2024/10/2/24260471/sugar-season-2-apple-tv-plus)
  - [OpenAI raised $6.6B led by Thrive Capital in the largest VC deal of all time, valuing it at $157B, with participation from Microsoft, Nvidia, SoftBank, others &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241002/p27#a241002p27)
  - [Apple Podcasts gains transcriptions for 8 more languages](https://appleinsider.com/articles/24/10/02/apple-podcasts-gains-transcriptions-for-8-more-languages?utm_medium=rss)
  - [Poolside, which is building AI-assisted software development tools, raised a $500M Series B led by Bain Capital Ventures, reportedly at a $3B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241002/p26#a241002p26)
- - [Xbox cofounder J Allard has joined Amazon to work on ‘new ideas’](https://www.theverge.com/2024/10/2/24260438/xbox-co-founder-j-allard-amazon-hiring)
- - [Amazon’s new Fire tablets have AI inside](https://www.theverge.com/2024/10/2/24260392/amazon-fire-hd-8-tablet-ai)<!-- TECH:END -->
+ - [Xbox cofounder J Allard has joined Amazon to work on ‘new ideas’](https://www.theverge.com/2024/10/2/24260438/xbox-co-founder-j-allard-amazon-hiring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

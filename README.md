@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This planter brings your plant alive](http://9gag.com/gag/an79epz)
- - 😝 [When your trying to be quiet in the public restrooms.....](http://9gag.com/gag/azx97Vp)
- - 💣 [Confusion of the highest order](http://9gag.com/gag/a873d3Z)
+ - 😝 [Tiktok prankers finally getting what they deserve. Messed with the wrong man there.](http://9gag.com/gag/apRmE25)
  - 😝 [Thanks, I hate this soap dispenser](http://9gag.com/gag/a0eQv1B)
+ - 💣 [Confusion of the highest order](http://9gag.com/gag/a873d3Z)
+ - 😝 [This planter brings your plant alive](http://9gag.com/gag/an79epz)
  - 👉 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)<!-- MEMES:END -->
 
 ---

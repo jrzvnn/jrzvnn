@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In-depth iPhone 16 Pro camera review: overall image and quality of life improvements, but Camera Control and advanced Photographic Styles are standout features &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/241002/p3#a241002p3)
  - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
  - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)
  - [London-based Dexory, which builds autonomous robots for warehouses, raised a $80M Series B led by DTCP, taking its total equity funding to $120M &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/241002/p1#a241002p1)
- - [JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’](https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate)
- - [The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight](https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate)<!-- TECH:END -->
+ - [JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’](https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

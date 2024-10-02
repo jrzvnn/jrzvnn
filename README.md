@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox co-founder J Allard has joined Amazon to work on ‘new ideas’](https://www.theverge.com/2024/10/2/24260438/xbox-co-founder-j-allard-amazon-hiring)
+ - [Amazon’s new Fire tablets have AI inside](https://www.theverge.com/2024/10/2/24260392/amazon-fire-hd-8-tablet-ai)
  - [Hurricane Helene Shows Insurance Industry That No Homes Are Safe](https://www.wired.com/story/hurricane-helene-shows-insurance-industry-that-no-homes-are-safe-north-carolina/)
- - [The HHKB Studio Snow Edition makes a great keyboard prettier](https://www.theverge.com/2024/10/2/24260259/hhkb-snow-studio-trackpoint-white-edition)
- - [Sources: OpenAI has asked investors to avoid backing rival startups such as Anthropic and xAI &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p25#a241002p25)
- - [Kindle Paperwhite Kids is near its all-time low with $55 off](https://www.theverge.com/2024/10/2/24260162/kindle-paperwhite-kids-ebook-reader-deal-sale)
- - [JuiceBox EV chargers are about to lose all their connectivity features](https://www.theverge.com/2024/10/2/24260316/juicebox-ev-chargers-enel-x-way-closing-discontinued-app)<!-- TECH:END -->
+ - [The HHKB Studio Snow makes a great keyboard prettier](https://www.theverge.com/2024/10/2/24260259/hhkb-snow-studio-trackpoint-white-edition)
+ - [Sources: OpenAI has asked investors to avoid backing rival startups such as Anthropic and xAI &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p25#a241002p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

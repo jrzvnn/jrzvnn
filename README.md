@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Canada...](http://9gag.com/gag/a9yp9vj)
- - 😝 [Giorgia Meloni\u2019s iron fist: Prison for blocking a road and chemical castration for rapists Italy is finalizing a controversial security decree, dubbed \u2018anti-Gandhi\u2019 because it targets non-violent protests. It also makes it impossible for undocumented migrants to buy a SIM card](http://9gag.com/gag/aMVjRN6)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
- - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 👉 [Every western developer and publishers](http://9gag.com/gag/aRB3xbB)<!-- MEMES:END -->
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
+ - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
 
 ---
 

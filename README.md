@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Formula E’s Race to Get the Whole World Electrified](https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/)
+ - [A profile of Jarod Koopman, who leads IRS Criminal Investigation&#39;s cybercrime unit, which has returned $12B+ to victims and the US Treasury in the past 10 years &lpar;Geraldine Brooks/Washington Post&rpar;](http://www.techmeme.com/241002/p5#a241002p5)
  - [Eight Scientists, a Billion Dollars, and the Moonshot Agency Trying to Make Britain Great Again](https://www.wired.com/story/aria-moonshot-darpa-uk-britain-great-again/)
  - [Raspberry Pi, a FTSE 250 company that defied the trend of UK-based tech companies that have listed in the US, has revived Cambridge&#39;s history of making hardware &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/241002/p4#a241002p4)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-2/#ftag=CAD590a51e)
- - [In-depth iPhone 16 Pro camera review: overall image and quality of life improvements, but Camera Control and advanced Photographic Styles are standout features &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/241002/p3#a241002p3)
- - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

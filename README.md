@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accenture says it will train 30,000 employees on Nvidia technology and start a new Nvidia Business Group focused on driving enterprise adoption of AI agents &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241002/p31#a241002p31)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Players Are Turning the ‘Echoes’ in ‘The Legend of Zelda: Echoes of Wisdom’ Into Cheat Codes](https://www.wired.com/story/players-turning-legend-of-zelda-echoes-of-wisdom-echoes-into-cheat-codes/)
- - [Tesla’s cheapest Model 3 is no longer available](https://www.theverge.com/2024/10/2/24260284/tesla-model-3-standard-range-discontinued)
- - [The feds still can’t get into Eric Adams’ phone](https://www.theverge.com/2024/10/2/24260626/fbi-eric-adams-locked-phone-forgotten-changed-password)<!-- TECH:END -->
+ - [All Elite Wrestling will start streaming on Max in January](https://www.theverge.com/2024/10/2/24260475/aew-wbd-max-streaming-deal-announced)
+ - [Nintendo is limiting how much merch you can buy from its new museum’s gift shop](https://www.theverge.com/2024/10/2/24260570/nintendo-museum-kyoto-gift-shop-limit)
+ - [Pokemon-Like Shooter Game Palworld Coming to Mobile Despite Lawsuit](https://www.cnet.com/tech/gaming/pokemon-like-shooter-game-palworld-coming-to-mobile-despite-lawsuit/#ftag=CAD590a51e)
+ - [Tempur-Pedic ProAdapt Mattress Review 2024: The Most Versatile Tempur-Pedic Mattress](https://www.cnet.com/health/sleep/tempurpedic-pro-adapt/#ftag=CAD590a51e)
+ - [Best Universal Remote for 2024](https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

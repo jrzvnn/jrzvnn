@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 😝 [Capture the flag](http://9gag.com/gag/aoyNBZn)
- - 💣 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 👉 [He won](http://9gag.com/gag/aPAjNbP)<!-- MEMES:END -->
+ - 😝 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
+ - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
+ - 💣 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
 
 ---
 

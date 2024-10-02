@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Echoes of Wisdom’s best trick is turning Zelda into a dungeon master](https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening)
+ - [Toyota puts another $500 million into an air taxi startup Joby](https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock)
  - [Target’s new sneakers expand to fit growing feet](https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers)
- - [DC Studios’ next big project is an animated movie about the Robins](https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn)
- - [Months after a terrible app launch, Sonos promises it&#39;ll do better](https://appleinsider.com/articles/24/10/02/months-after-a-terrible-app-launch-sonos-promises-itll-do-better?utm_medium=rss)
- - [Tesla’s sales are finally picking up](https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase)
- - [5 Best Food Dehydrators, Tested and Reviewed](https://www.wired.com/gallery/best-food-dehydrators/)<!-- TECH:END -->
+ - [Earth&#39;s Mini-Moon Is Here: Everything You Need to Know About the Temporary Second &#39;Moon&#39;](https://www.cnet.com/science/earths-mini-moon-is-here-everything-you-need-to-know-about-the-temporary-second-moon/#ftag=CAD590a51e)
+ - [Your Child Is Vulnerable to Identity Theft Too. Here’s How to Protect Them](https://www.cnet.com/how-to/your-child-is-vulnerable-to-identity-theft-too-heres-how-to-protect-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

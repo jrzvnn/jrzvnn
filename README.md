@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Eight Scientists, a Billion Dollars, and the Moonshot Agency Trying to Make Britain Great Again](https://www.wired.com/story/aria-moonshot-darpa-uk-britain-great-again/)
  - [Raspberry Pi, a FTSE 250 company that defied the trend of UK-based tech companies that have listed in the US, has revived Cambridge&#39;s history of making hardware &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/241002/p4#a241002p4)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-2/#ftag=CAD590a51e)
  - [In-depth iPhone 16 Pro camera review: overall image and quality of life improvements, but Camera Control and advanced Photographic Styles are standout features &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/241002/p3#a241002p3)
- - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
- - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

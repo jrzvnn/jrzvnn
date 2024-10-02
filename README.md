@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - 😝 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)
- - 💣 [Bad luck khamenei](http://9gag.com/gag/amo7jy4)
- - 😝 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)
- - 👉 [New meme template!](http://9gag.com/gag/aAyxoMd)<!-- MEMES:END -->
+ - 😝 [What Will happen LOL.](http://9gag.com/gag/a87oBve)
+ - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
+ - 👉 [Sushi kebab](http://9gag.com/gag/aPAjE1R)<!-- MEMES:END -->
 
 ---
 

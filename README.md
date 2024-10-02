@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
+ - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)
  - [London-based Dexory, which builds autonomous robots for warehouses, raised a $80M Series B led by DTCP, taking its total equity funding to $120M &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/241002/p1#a241002p1)
  - [JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’](https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate)
- - [The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight](https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate)
- - [Resolve AI, which is building AI tools to help software engineers troubleshoot and fix production issues, raised a $35M seed led by Greylock &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241001/p39#a241001p39)<!-- TECH:END -->
+ - [The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight](https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

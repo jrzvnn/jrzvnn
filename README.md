@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 💣 [Palm reading](http://9gag.com/gag/aND1xN0)
- - 😝 [Losing Interest and skills too\ud83d\ude2d](http://9gag.com/gag/avy82VE)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 😝 [Which way](http://9gag.com/gag/a9yKb5K)
+ - 😝 [It&#39;s very safe](http://9gag.com/gag/aByx79P)
+ - 💣 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
+ - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
 
 ---
 

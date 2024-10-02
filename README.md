@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
  - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
+ - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
+ - 👉 [Be warned](http://9gag.com/gag/a34KVXN)<!-- MEMES:END -->
 
 ---
 

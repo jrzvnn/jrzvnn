@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
- - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
+ - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 😝 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
+ - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
+ - 👉 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)<!-- MEMES:END -->
 
 ---
 

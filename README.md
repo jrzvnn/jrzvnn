@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signs legislation exempting some US semiconductor manufacturing facilities from federal environmental reviews that are receiving government subsidies &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)
- - [Charter will offer Peacock for free with some cable subscriptions next year](https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Grab Apple&#39;s 1TB Mac Studio for just $1,999 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/10/02/grab-apples-1tb-mac-studio-for-just-1999-200-off?utm_medium=rss)
- - [Spectrum Offers Free Wi-Fi at 90,000 Access Points Following Hurricane Helene](https://www.cnet.com/home/internet/spectrum-free-wi-fi-access-points-hurricane-helene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-toaster-oven/#ftag=CAD590a51e)
+ - [Biden signs legislation exempting some US semiconductor manufacturing facilities that are receiving government subsidies from federal environmental reviews &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)
+ - [Best Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2024](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)
+ - [Watch for the Northern Lights to Put on a Dazzling Show This Week](https://www.cnet.com/science/space/watch-for-the-northern-lights-to-put-on-a-dazzling-show-this-week/#ftag=CAD590a51e)
+ - [Charter will offer Peacock for free with some cable subscriptions next year](https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

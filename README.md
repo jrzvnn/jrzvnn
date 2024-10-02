@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
- - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
- - 💣 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
+ - 😝 [When english people go on vacation to germany for the first time](http://9gag.com/gag/a9yKjgj)
+ - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 💣 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
+ - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
 
 ---
 

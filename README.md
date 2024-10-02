@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft Office 2024 is now available for Macs and PCs](https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing)
+ - [Best Savings Rates Today, Oct. 2, 2024: Rates Are Falling. Here&#39;s Where You Can Still Earn Up to 5.30% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-2-2024/#ftag=CAD590a51e)
+ - [Best Kitchen Faucets for 2024](https://www.cnet.com/news/best-kitchen-faucet/#ftag=CAD590a51e)
  - [A profile of Denise Coates, the UK&#39;s richest woman, who founded online gambling company Bet365, which had &amp;pound;3B+ in 2023 revenue, as she focuses on a US expansion &lpar;Rob Davies/The Guardian&rpar;](http://www.techmeme.com/241002/p7#a241002p7)
- - [2024 has been a barren year for big video games compared to 2023, helping indie games take center stage; the games industry has laid off 10,000+ people in 2024 &lpar;Tom Faber/Financial Times&rpar;](http://www.techmeme.com/241002/p6#a241002p6)
- - [Formula E’s Race to Get the Whole World Electrified](https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/)
- - [A profile of Jarod Koopman, who leads IRS Criminal Investigation&#39;s cybercrime unit, which has returned $12B+ to victims and the US Treasury in the past 10 years &lpar;Geraldine Brooks/Washington Post&rpar;](http://www.techmeme.com/241002/p5#a241002p5)<!-- TECH:END -->
+ - [Best Water Guns for 2024](https://www.cnet.com/news/best-water-guns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

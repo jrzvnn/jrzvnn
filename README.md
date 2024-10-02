@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC is offering $200 million to protect schools and libraries from hackers](https://www.theverge.com/2024/10/2/24260459/fcc-schools-libraries-cybersecurity-pilot-universal-service-fund)
  - [OpenAI just raised $6.6 billion to build ever-larger AI models](https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion)
  - [Source: Thrive invested ~$1.3B in OpenAI&#39;s $6.6B round, with an exclusive option to invest up to $1B more at the same $157B valuation through 2025 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241002/p28#a241002p28)
  - [Pavel Durov Defends Telegram&#39;s Privacy Changes Amid User Unrest](https://www.wired.com/story/pavel-durov-defends-telegram-privacy-changes/)
- - [Apple is bringing back Sugar for season 2](https://www.theverge.com/2024/10/2/24260471/sugar-season-2-apple-tv-plus)
- - [OpenAI raised $6.6B led by Thrive Capital in the largest VC deal of all time, valuing it at $157B, with participation from Microsoft, Nvidia, SoftBank, others &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241002/p27#a241002p27)<!-- TECH:END -->
+ - [Apple is bringing back Sugar for season 2](https://www.theverge.com/2024/10/2/24260471/sugar-season-2-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 💣 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
- - 👉 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)<!-- MEMES:END -->
+ - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 💣 [Palm reading](http://9gag.com/gag/aND1xN0)
+ - 😝 [Losing Interest and skills too\ud83d\ude2d](http://9gag.com/gag/avy82VE)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 

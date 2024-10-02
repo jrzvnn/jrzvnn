@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - 😝 [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
- - 💣 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
- - 👉 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)<!-- MEMES:END -->
+ - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 😝 [Zoom office](http://9gag.com/gag/azxXpnZ)
+ - 💣 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
 
 ---
 

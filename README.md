@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Hong Kong stock exchange executive Yang Qiumei received a 20% stake in SenseTime, worth $1.5B, from her late husband, making her its largest shareholder &lpar;Pui Gwen Yeung/Bloomberg&rpar;](http://www.techmeme.com/241002/p14#a241002p14)
  - [A profile of the UK&#39;s Advanced Research and Invention Agency, set up in February 2022 with an &amp;pound;800M budget for high-risk, high-reward science and tech projects &lpar;Matt Reynolds/Wired&rpar;](http://www.techmeme.com/241002/p13#a241002p13)
  - [Yeah Science! These Are the Best Sci-Fi TV Shows Netflix Has to Offer](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
  - [Best High-Speed Internet Providers of 2024](https://www.cnet.com/home/internet/best-high-speed-internet/#ftag=CAD590a51e)
- - [How To Stop Your Microwave From Beeping at You](https://www.cnet.com/home/kitchen-and-household/how-to-stop-your-microwave-from-beeping-at-you/#ftag=CAD590a51e)
- - [Telegram CEO Pavel Durov says his previous post on ToS updates &quot;may have seemed to announce a major shift in how Telegram works&quot; but &quot;little has changed&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241002/p12#a241002p12)<!-- TECH:END -->
+ - [How To Stop Your Microwave From Beeping at You](https://www.cnet.com/home/kitchen-and-household/how-to-stop-your-microwave-from-beeping-at-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

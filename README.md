@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zelda’s new solo adventure on Nintendo Switch is already on a small sale](https://www.theverge.com/2024/10/2/24260573/zelda-echoes-of-wisdom-nintendo-switch-physical-game-deal-sale)
- - [A Bank of America outage is showing blanked-out account balances](https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero)
- - [Amazon announces a new lineup of Fire HD 8 tablets, with 50% more RAM than the previous models, and three new generative AI features for compatible Fire tablets &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/241002/p30#a241002p30)
- - [PUBG developer is making Palworld mobile amid Nintendo lawsuit](https://www.theverge.com/2024/10/2/24260580/pubg-developer-palworld-mobile-nintendo-lawsuit)
- - [Amazon plans to increase the number of ads on Prime Video in 2025 after not seeing a sharp drop in subscribers since adding advertisements in January 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241002/p29#a241002p29)<!-- TECH:END -->
+ - [The feds still can’t get into Eric Adams’ phone](https://www.theverge.com/2024/10/2/24260626/fbi-eric-adams-locked-phone-forgotten-changed-password)
+ - [How to follow live sports scores on your iPhone lockscreen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)
+ - [The Garmin Lily 2 Active watch finally adds GPS and buttons](https://www.theverge.com/2024/10/2/24260540/garmin-lily-2-active-smartwatch-fitness-tracker)
+ - [VP Debate Night: Vance Sanitized Trumpism, Walz Called Himself a Knucklehead](https://www.wired.com/story/vp-debate-vance-walz/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

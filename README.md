@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Venmo is getting payment scheduling](https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement)
+ - [Ring is finally adding 24/7 recording to its security cameras](https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras)
  - [Apple Intelligence will drive iPhone 16 sales but isn&#39;t a major factor yet](https://appleinsider.com/articles/24/10/02/apple-intelligence-will-drive-iphone-16-sales-but-isnt-a-major-factor-yet?utm_medium=rss)
  - [Character.AI CEO Dominic Perella says the startup has largely abandoned building AI models after Google poached its founders, instead focusing on its chatbots &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241002/p19#a241002p19)
- - [The UK FCA fines Starling Bank &amp;pound;29M over its &quot;shockingly lax&quot; controls against financial crime like potential money laundering and sanctions breaches &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p18#a241002p18)
- - [I Had the Pixel 9 Pro&#39;s AI Review Itself. The Results Were Weird.](https://www.cnet.com/tech/mobile/i-had-the-pixel-9-pro-ai-review-itself-the-results-were-weird/#ftag=CAD590a51e)
- - [Best M2 MacBook Air Deals: Save With Discounts and Trade-Ins](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK FCA fines Starling Bank &amp;pound;29M over its &quot;shockingly lax&quot; controls against financial crime like potential money laundering and sanctions breaches &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p18#a241002p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

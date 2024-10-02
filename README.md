@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 💣 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 👉 [Emily Feld](http://9gag.com/gag/abAY3Wv)<!-- MEMES:END -->
+ - 😝 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
+ - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
 
 ---
 

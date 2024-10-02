@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Generate an AI Podcast Using Google&#39;s NotebookLM](https://www.wired.com/story/ai-podcast-google-notebooklm/)
+ - [Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It](https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/)
  - [Automattic demanded a cut of 8% of WP Engine&#39;s monthly revenue to use the WordPress trademark in a seven-year deal in a September 20 letter; WP Engine declined &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p20#a241002p20)
  - [AMD’s next-gen frame generation tech rolls out to boost FPS in more games](https://www.theverge.com/2024/10/2/24260227/amd-afmf-2-fluid-motion-frame-generation-fps-boost-availability)
- - [Automattic demanded a cut of WP Engine’s revenue before starting WordPress battle](https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle)
- - [Echoes of Wisdom’s best trick is turning Zelda into a dungeon master](https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening)
- - [Toyota puts another $500 million in an air taxi startup](https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock)<!-- TECH:END -->
+ - [Automattic demanded a cut of WP Engine’s revenue before starting WordPress battle](https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

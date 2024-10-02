@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
- - 😝 [Alpha male](http://9gag.com/gag/aYQg3g0)
- - 💣 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 😝 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
+ - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 💣 [Capture the flag](http://9gag.com/gag/aoyNBZn)
+ - 😝 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
+ - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
 
 ---
 

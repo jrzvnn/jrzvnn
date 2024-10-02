@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - 💣 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
  - 😝 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)
- - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
+ - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 💣 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 

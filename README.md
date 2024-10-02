@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Will happen LOL.](http://9gag.com/gag/a87oBve)
- - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - 👉 [Sushi kebab](http://9gag.com/gag/aPAjE1R)<!-- MEMES:END -->
+ - 😝 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
+ - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
+ - 💣 [Sesbain lex](http://9gag.com/gag/aqy73nv)
+ - 😝 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
+ - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
 
 ---
 

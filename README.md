@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which way](http://9gag.com/gag/a9yKb5K)
- - 😝 [It&#39;s very safe](http://9gag.com/gag/aByx79P)
- - 💣 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
+ - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
+ - 😝 [Always point in a safe direction](http://9gag.com/gag/aGyjX5G)
+ - 💣 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
  - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
+ - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
 
 ---
 

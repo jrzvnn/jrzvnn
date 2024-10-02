@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accenture says it will train 30,000 employees on Nvidia technology and start a new Nvidia Business Group focused on driving enterprise adoption of AI agents &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241002/p31#a241002p31)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Players Are Turning the &#39;Echoes&#39; in &#39;The Legend of Zelda: Echoes of Wisdom&#39; Into Cheat Codes](https://www.wired.com/story/players-turning-legend-of-zelda-echoes-of-wisdom-echoes-into-cheat-codes/)
+ - [Players Are Turning the ‘Echoes’ in ‘The Legend of Zelda: Echoes of Wisdom’ Into Cheat Codes](https://www.wired.com/story/players-turning-legend-of-zelda-echoes-of-wisdom-echoes-into-cheat-codes/)
  - [Tesla’s cheapest Model 3 is no longer available](https://www.theverge.com/2024/10/2/24260284/tesla-model-3-standard-range-discontinued)
- - [The feds still can’t get into Eric Adams’ phone](https://www.theverge.com/2024/10/2/24260626/fbi-eric-adams-locked-phone-forgotten-changed-password)
- - [How to follow live sports scores on your iPhone lockscreen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)<!-- TECH:END -->
+ - [The feds still can’t get into Eric Adams’ phone](https://www.theverge.com/2024/10/2/24260626/fbi-eric-adams-locked-phone-forgotten-changed-password)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

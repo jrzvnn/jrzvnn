@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [Some teachers love their children](http://9gag.com/gag/amoBqXd)
- - 💣 [That aged incredibly well](http://9gag.com/gag/a7oM45r)
- - 😝 [Every western developer and publishers](http://9gag.com/gag/aRB3xbB)
- - 👉 [When your trying to be quiet in the public restrooms.....](http://9gag.com/gag/azx97Vp)<!-- MEMES:END -->
+ - 😝 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
+ - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
+ - 💣 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
 
 ---
 

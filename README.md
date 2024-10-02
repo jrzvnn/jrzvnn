@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zelda’s new solo adventure on Nintendo Switch is already on a small sale](https://www.theverge.com/2024/10/2/24260573/zelda-echoes-of-wisdom-nintendo-switch-physical-game-deal-sale)
+ - [A Bank of America outage is showing blanked-out account balances](https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero)
  - [Amazon announces a new lineup of Fire HD 8 tablets, with 50% more RAM than the previous models, and three new generative AI features for compatible Fire tablets &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/241002/p30#a241002p30)
  - [PUBG developer is making Palworld mobile amid Nintendo lawsuit](https://www.theverge.com/2024/10/2/24260580/pubg-developer-palworld-mobile-nintendo-lawsuit)
- - [Amazon plans to increase the number of ads on Prime Video in 2025 after not seeing a sharp drop in subscribers since adding advertisements in January 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241002/p29#a241002p29)
- - [Best Headsets for Working From Home in 2024](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [Amazon Resale: Amazon&#39;s Secret Deals You Didn&#39;t Know About](https://www.cnet.com/personal-finance/amazon-resale-amazons-secret-deals-you-didnt-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to increase the number of ads on Prime Video in 2025 after not seeing a sharp drop in subscribers since adding advertisements in January 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241002/p29#a241002p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

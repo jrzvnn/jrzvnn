@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
- - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 💣 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
  - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 👉 [Last night](http://9gag.com/gag/ae9Mo6B)<!-- MEMES:END -->
+ - 👉 [The tolerant left.](http://9gag.com/gag/aqy7q2R)<!-- MEMES:END -->
 
 ---
 

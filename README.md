@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 💣 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
+ - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 😝 [He won](http://9gag.com/gag/aPAjNbP)
+ - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 👉 [Sesbain lex](http://9gag.com/gag/aqy73nv)<!-- MEMES:END -->
 
 ---
 

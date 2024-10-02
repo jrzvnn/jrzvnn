@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oracle plans to invest over $6.5B in Malaysia to set up a public cloud region, its first in the country and third in Southeast Asia, after two in Singapore &lpar;Danial Azhar/Reuters&rpar;](http://www.techmeme.com/241001/p37#a241001p37)
  - [Best Solar Panel Installation Companies in Seattle](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-seattle/#ftag=CAD590a51e)
- - [Sources: Peak XV has cut its $2.85B fund by $465M, or ~16%, over a year after its split from Sequoia, with the bulk of the reduction coming at the growth stage &lpar;The Economic Times&rpar;](http://www.techmeme.com/241001/p36#a241001p36)
- - [Nvidia details NVLM 1.0, a family of LLMs that is led by the 72B parameter NVLM-D-72B and can handle vision and language tasks while enhancing text-only tasks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)
- - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Peak XV cut its $2.85B fund by $465M, or ~16%, over a year after its Sequoia split, with most of the reduction coming in its growth-stage allocation &lpar;The Economic Times&rpar;](http://www.techmeme.com/241001/p36#a241001p36)
+ - [Nvidia details LLM family NVLM 1.0, which can handle vision and language tasks while enhancing text-only capabilities and is led by the 72B-parameter NVLM-D-72B &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)
+ - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

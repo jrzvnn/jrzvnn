@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out its Fraud Intelligence Reciprocal Exchange to let UK banks share transaction intelligence to help catch scammers, after a pilot with two banks &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p11#a241002p11)
  - [Microsoft releases a $150 standalone version of Office 2024 for consumers and SMBs, with core app updates and UI changes; the last standalone was Office 2021 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241002/p10#a241002p10)
  - [Ireland plans what to buy first with Apple&#39;s $14 billion tax windfall](https://appleinsider.com/articles/24/10/02/ireland-plans-what-to-buy-first-with-apples-14-billion-tax-windfall?utm_medium=rss)
- - [Bobbi Althoff on Exactly How She Got Rich—and How Rich, Exactly](https://www.wired.com/story/bobbi-althoff-big-interview/)
- - [&#39;Wolfs&#39; is the most-watched movie on Apple TV+ ever](https://appleinsider.com/articles/24/10/02/wolfs-is-the-most-watched-movie-on-apple-tv-ever?utm_medium=rss)
- - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)<!-- TECH:END -->
+ - [Emoji Meanings Explained, and the New Emoji You Might See Now](https://www.cnet.com/tech/services-and-software/emoji-meanings-explained-and-the-new-emoji-you-might-see-now/#ftag=CAD590a51e)
+ - [Bobbi Althoff on Exactly How She Got Rich—and How Rich, Exactly](https://www.wired.com/story/bobbi-althoff-big-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

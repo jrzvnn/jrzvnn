@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
- - 💣 [Would?](http://9gag.com/gag/aRB3bK2)
- - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
- - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
+ - 😝 [Bad luck khamenei](http://9gag.com/gag/amo7jy4)
+ - 😝 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
+ - 💣 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)
+ - 😝 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)
+ - 👉 [New meme template!](http://9gag.com/gag/aAyxoMd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eight Scientists, a Billion Dollars, and the Moonshot Agency Trying to Make Britain Great Again](https://www.wired.com/story/aria-moonshot-darpa-uk-britain-great-again/)
  - [Raspberry Pi, a FTSE 250 company that defied the trend of UK-based tech companies that have listed in the US, has revived Cambridge&#39;s history of making hardware &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/241002/p4#a241002p4)
  - [In-depth iPhone 16 Pro camera review: overall image and quality of life improvements, but Camera Control and advanced Photographic Styles are standout features &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/241002/p3#a241002p3)
  - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
- - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)
- - [London-based Dexory, which builds autonomous robots for warehouses, raised a $80M Series B led by DTCP, taking its total equity funding to $120M &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/241002/p1#a241002p1)<!-- TECH:END -->
+ - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

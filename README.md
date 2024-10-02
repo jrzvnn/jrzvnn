@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
  - 😝 [Alpha male](http://9gag.com/gag/aYQg3g0)
- - 💣 [Sesbain lex](http://9gag.com/gag/aqy73nv)
- - 😝 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)
- - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
+ - 💣 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)
+ - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 

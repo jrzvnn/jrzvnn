@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)
- - [Developer Christian Selig says third-party YouTube app Juno for the Vision Pro was &quot;removed from the App Store&quot;, after YouTube said it violated its ToS in April &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p8#a241002p8)
- - [Microsoft Office 2024 is now available for Macs and PCs](https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing)
- - [Best Savings Rates Today, Oct. 2, 2024: Rates Are Falling. Here&#39;s Where You Can Still Earn Up to 5.30% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-2-2024/#ftag=CAD590a51e)
- - [Best Kitchen Faucets for 2024](https://www.cnet.com/news/best-kitchen-faucet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft releases a $150 standalone version of Office 2024 for consumers and SMBs, with core app updates and UI changes; the last standalone was Office 2021 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241002/p10#a241002p10)
+ - [Ireland plans what to buy first with Apple&#39;s $14 billion tax windfall](https://appleinsider.com/articles/24/10/02/ireland-plans-what-to-buy-first-with-apples-14-billion-tax-windfall?utm_medium=rss)
+ - [Bobbi Althoff on Exactly How She Got Rich—and How Rich, Exactly](https://www.wired.com/story/bobbi-althoff-big-interview/)
+ - [&#39;Wolfs&#39; is the most-watched movie on Apple TV+ ever](https://appleinsider.com/articles/24/10/02/wolfs-is-the-most-watched-movie-on-apple-tv-ever?utm_medium=rss)
+ - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

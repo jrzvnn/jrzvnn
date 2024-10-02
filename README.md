@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DC Studios’ next big project is an animated movie about the Robins](https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn)
  - [Months after a terrible app launch, Sonos promises it&#39;ll do better](https://appleinsider.com/articles/24/10/02/months-after-a-terrible-app-launch-sonos-promises-itll-do-better?utm_medium=rss)
  - [Tesla’s sales are finally picking up](https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase)
  - [5 Best Food Dehydrators, Tested and Reviewed](https://www.wired.com/gallery/best-food-dehydrators/)
- - [I Tried to Summarize a Book With ChatGPT, and the Plagiarism Protections Worked](https://www.cnet.com/tech/services-and-software/i-tried-to-summarize-a-book-with-chatgpt-and-the-plagiarism-protections-worked/#ftag=CAD590a51e)
- - [13 New Anime Releases You Should Absolutely Stream This Fall](https://www.cnet.com/tech/services-and-software/13-new-anime-releases-you-should-absolutely-stream-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tried to Summarize a Book With ChatGPT, and the Plagiarism Protections Worked](https://www.cnet.com/tech/services-and-software/i-tried-to-summarize-a-book-with-chatgpt-and-the-plagiarism-protections-worked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

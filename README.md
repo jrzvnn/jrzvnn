@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Players Are Turning the &#39;Echoes&#39; in &#39;The Legend of Zelda: Echoes of Wisdom&#39; Into Cheat Codes](https://www.wired.com/story/players-turning-legend-of-zelda-echoes-of-wisdom-echoes-into-cheat-codes/)
+ - [Tesla’s cheapest Model 3 is no longer available](https://www.theverge.com/2024/10/2/24260284/tesla-model-3-standard-range-discontinued)
  - [The feds still can’t get into Eric Adams’ phone](https://www.theverge.com/2024/10/2/24260626/fbi-eric-adams-locked-phone-forgotten-changed-password)
  - [How to follow live sports scores on your iPhone lockscreen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)
- - [The Garmin Lily 2 Active watch finally adds GPS and buttons](https://www.theverge.com/2024/10/2/24260540/garmin-lily-2-active-smartwatch-fitness-tracker)
- - [VP Debate Night: Vance Sanitized Trumpism, Walz Called Himself a Knucklehead](https://www.wired.com/story/vp-debate-vance-walz/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The Garmin Lily 2 Active watch finally adds GPS and buttons](https://www.theverge.com/2024/10/2/24260540/garmin-lily-2-active-smartwatch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

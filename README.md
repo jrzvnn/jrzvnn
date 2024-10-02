@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Teardown shows AirPods 4 still unfixable by the public](https://appleinsider.com/articles/24/10/02/teardown-shows-airpods-4-still-unfixable-by-the-public?utm_medium=rss)
  - [iPhone users delay upgrades as Android owners are upgrading often for newer tech](https://appleinsider.com/articles/24/10/02/iphone-users-delay-upgrades-as-android-owners-are-upgrading-often-for-newer-tech?utm_medium=rss)
- - [Some iOS developers worry that an iOS 18 change to let users choose contacts an app can access may make growing social apps hard; Apple says it boosts privacy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241002/p22#a241002p22)
+ - [Some iOS developers worry that an iOS 18 change letting users choose contacts an app can access may make growing social apps hard; Apple says it boosts privacy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241002/p22#a241002p22)
  - [The hidden toll taken by tropical storms](https://www.theverge.com/2024/10/2/24260137/hurricane-helene-death-toll-tropical-storms)
  - [Microsoft wants to know why some game developers aren’t on Xbox](https://www.theverge.com/2024/10/2/24260296/microsoft-xbox-research-developers-outreach)<!-- TECH:END -->
 

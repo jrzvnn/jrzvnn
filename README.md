@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 😝 [Always point in a safe direction](http://9gag.com/gag/aGyjX5G)
- - 💣 [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
- - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - 👉 [She got colonized!](http://9gag.com/gag/aW41zRK)<!-- MEMES:END -->
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 💣 [He won](http://9gag.com/gag/aPAjNbP)
+ - 😝 [Pixelated Only](http://9gag.com/gag/aLnjqGM)
+ - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
 
 ---
 

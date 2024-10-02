@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 💣 [He won](http://9gag.com/gag/aPAjNbP)
  - 😝 [Pixelated Only](http://9gag.com/gag/aLnjqGM)
- - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
+ - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 💣 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
+ - 😝 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 

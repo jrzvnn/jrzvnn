@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram CEO Pavel Durov says his previous post on ToS updates &quot;may have seemed to announce a major shift in how Telegram works&quot; but &quot;little has changed&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241002/p12#a241002p12)
  - [Meta rolls out its Fraud Intelligence Reciprocal Exchange to let UK banks share transaction intelligence to help catch scammers, after a pilot with two banks &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p11#a241002p11)
  - [Microsoft releases a $150 standalone version of Office 2024 for consumers and SMBs, with core app updates and UI changes; the last standalone was Office 2021 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241002/p10#a241002p10)
  - [Ireland plans what to buy first with Apple&#39;s $14 billion tax windfall](https://appleinsider.com/articles/24/10/02/ireland-plans-what-to-buy-first-with-apples-14-billion-tax-windfall?utm_medium=rss)
- - [Emoji Meanings Explained, and the New Emoji You Might See Now](https://www.cnet.com/tech/services-and-software/emoji-meanings-explained-and-the-new-emoji-you-might-see-now/#ftag=CAD590a51e)
- - [Bobbi Althoff on Exactly How She Got Rich—and How Rich, Exactly](https://www.wired.com/story/bobbi-althoff-big-interview/)<!-- TECH:END -->
+ - [Emoji Meanings Explained, and the New Emoji You Might See Now](https://www.cnet.com/tech/services-and-software/emoji-meanings-explained-and-the-new-emoji-you-might-see-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

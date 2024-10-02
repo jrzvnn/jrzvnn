@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developer Christian Selig says third-party YouTube app Juno for the Vision Pro was &quot;removed from the App Store&quot;, after YouTube said it violated its ToS in April &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p8#a241002p8)
  - [Microsoft Office 2024 is now available for Macs and PCs](https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing)
  - [Best Savings Rates Today, Oct. 2, 2024: Rates Are Falling. Here&#39;s Where You Can Still Earn Up to 5.30% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-2-2024/#ftag=CAD590a51e)
  - [Best Kitchen Faucets for 2024](https://www.cnet.com/news/best-kitchen-faucet/#ftag=CAD590a51e)
- - [A profile of Denise Coates, the UK&#39;s richest woman, who founded online gambling company Bet365, which had &amp;pound;3B+ in 2023 revenue, as she focuses on a US expansion &lpar;Rob Davies/The Guardian&rpar;](http://www.techmeme.com/241002/p7#a241002p7)
- - [Best Water Guns for 2024](https://www.cnet.com/news/best-water-guns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Denise Coates, the UK&#39;s richest woman, who founded online gambling company Bet365, which had &amp;pound;3B+ in 2023 revenue, as she focuses on a US expansion &lpar;Rob Davies/The Guardian&rpar;](http://www.techmeme.com/241002/p7#a241002p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [College students used Meta’s smart glasses to doxx people in real time](https://www.theverge.com/2024/10/2/24260262/ray-ban-meta-smart-glasses-doxxing-privacy)
- - [Gmail’s new ‘summary cards’ find useful links and info buried in your emails](https://www.theverge.com/2024/10/2/24259700/gmail-summary-cards-tracking-events-email)
- - [Teardown shows AirPods 4 still unfixable by the public](https://appleinsider.com/articles/24/10/02/teardown-shows-airpods-4-still-unfixable-by-the-public?utm_medium=rss)
- - [iPhone users delay upgrades as Android owners are upgrading often for newer tech](https://appleinsider.com/articles/24/10/02/iphone-users-delay-upgrades-as-android-owners-are-upgrading-often-for-newer-tech?utm_medium=rss)
- - [Some iOS developers worry that an iOS 18 change letting users choose contacts an app can access may make growing social apps hard; Apple says it boosts privacy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241002/p22#a241002p22)<!-- TECH:END -->
+ - [The HHKB Studio Snow Edition makes a great keyboard prettier](https://www.theverge.com/2024/10/2/24260259/hhkb-snow-studio-trackpoint-white-edition)
+ - [Sources: OpenAI has asked investors to avoid backing rival startups such as Anthropic and xAI &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p25#a241002p25)
+ - [Kindle Paperwhite Kids is near its all-time low with $55 off](https://www.theverge.com/2024/10/2/24260162/kindle-paperwhite-kids-ebook-reader-deal-sale)
+ - [JuiceBox EV chargers are about to lose all their connectivity features](https://www.theverge.com/2024/10/2/24260316/juicebox-ev-chargers-enel-x-way-closing-discontinued-app)
+ - [Sources: OpenAI has completed a deal to raise over $6.5B in new funding led by Thrive Capital, giving it a $150B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241002/p24#a241002p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

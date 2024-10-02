@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s sales are finally picking up](https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase)
+ - [5 Best Food Dehydrators, Tested and Reviewed](https://www.wired.com/gallery/best-food-dehydrators/)
  - [Venmo is getting payment scheduling](https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement)
  - [Ring is finally adding 24/7 recording to its security cameras](https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras)
- - [Apple Intelligence will drive iPhone 16 sales but isn&#39;t a major factor yet](https://appleinsider.com/articles/24/10/02/apple-intelligence-will-drive-iphone-16-sales-but-isnt-a-major-factor-yet?utm_medium=rss)
- - [Character.AI CEO Dominic Perella says the startup has largely abandoned building AI models after Google poached its founders, instead focusing on its chatbots &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241002/p19#a241002p19)
- - [The UK FCA fines Starling Bank &amp;pound;29M over its &quot;shockingly lax&quot; controls against financial crime like potential money laundering and sanctions breaches &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p18#a241002p18)<!-- TECH:END -->
+ - [Apple Intelligence will drive iPhone 16 sales but isn&#39;t a major factor yet](https://appleinsider.com/articles/24/10/02/apple-intelligence-will-drive-iphone-16-sales-but-isnt-a-major-factor-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

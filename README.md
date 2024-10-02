@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some iOS developers worry that an iOS 18 change to let users choose contacts an app can access may make growing social apps hard; Apple says it boosts privacy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241002/p22#a241002p22)
+ - [The hidden toll taken by tropical storms](https://www.theverge.com/2024/10/2/24260137/hurricane-helene-death-toll-tropical-storms)
  - [Microsoft wants to know why some game developers aren’t on Xbox](https://www.theverge.com/2024/10/2/24260296/microsoft-xbox-research-developers-outreach)
- - [Livestream marketplace Whatnot says its GMV passed $2B+ in 2024 and its top 500 sellers each sold $1M+; 66% of its sellers earn more than $10,000 per month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241002/p21#a241002p21)
- - [How to Generate an AI Podcast Using Google&#39;s NotebookLM](https://www.wired.com/story/ai-podcast-google-notebooklm/)
- - [Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It](https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/)
- - [Automattic demanded a cut of 8% of WP Engine&#39;s monthly revenue to use the WordPress trademark in a seven-year deal in a September 20 letter; WP Engine declined &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p20#a241002p20)<!-- TECH:END -->
+ - [Livestream marketplace Whatnot says its GMV passed $2B+ in 2024 and its top 500 sellers each sold $1M+ on the platform; 66% of its sellers earn $10K+ per month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241002/p21#a241002p21)
+ - [How to Generate an AI Podcast Using Google&#39;s NotebookLM](https://www.wired.com/story/ai-podcast-google-notebooklm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

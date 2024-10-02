@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [Capture the flag](http://9gag.com/gag/aoyNBZn)
+ - 💣 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
  - 😝 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 👉 [Be warned](http://9gag.com/gag/a34KVXN)<!-- MEMES:END -->
+ - 👉 [He won](http://9gag.com/gag/aPAjNbP)<!-- MEMES:END -->
 
 ---
 

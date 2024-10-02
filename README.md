@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
+ - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 💣 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
  - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 💣 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 👉 [The tolerant left.](http://9gag.com/gag/aqy7q2R)<!-- MEMES:END -->
+ - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
 
 ---
 

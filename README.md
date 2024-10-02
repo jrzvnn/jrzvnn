@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
- - 😝 [Zoom office](http://9gag.com/gag/azxXpnZ)
- - 💣 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
+ - 😝 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 💣 [Would?](http://9gag.com/gag/aRB3bK2)
+ - 😝 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
 
 ---
 

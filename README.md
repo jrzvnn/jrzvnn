@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO Pavel Durov says his previous post on ToS updates &quot;may have seemed to announce a major shift in how Telegram works&quot; but &quot;little has changed&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241002/p12#a241002p12)
- - [Meta rolls out its Fraud Intelligence Reciprocal Exchange to let UK banks share transaction intelligence to help catch scammers, after a pilot with two banks &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p11#a241002p11)
- - [Microsoft releases a $150 standalone version of Office 2024 for consumers and SMBs, with core app updates and UI changes; the last standalone was Office 2021 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241002/p10#a241002p10)
- - [Ireland plans what to buy first with Apple&#39;s $14 billion tax windfall](https://appleinsider.com/articles/24/10/02/ireland-plans-what-to-buy-first-with-apples-14-billion-tax-windfall?utm_medium=rss)
- - [Emoji Meanings Explained, and the New Emoji You Might See Now](https://www.cnet.com/tech/services-and-software/emoji-meanings-explained-and-the-new-emoji-you-might-see-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of the UK&#39;s Advanced Research and Invention Agency, set up in February 2022 with an &amp;pound;800M budget for high-risk, high-reward science and tech projects &lpar;Matt Reynolds/Wired&rpar;](http://www.techmeme.com/241002/p13#a241002p13)
+ - [Yeah Science! These Are the Best Sci-Fi TV Shows Netflix Has to Offer](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)
+ - [Best High-Speed Internet Providers of 2024](https://www.cnet.com/home/internet/best-high-speed-internet/#ftag=CAD590a51e)
+ - [How To Stop Your Microwave From Beeping at You](https://www.cnet.com/home/kitchen-and-household/how-to-stop-your-microwave-from-beeping-at-you/#ftag=CAD590a51e)
+ - [Telegram CEO Pavel Durov says his previous post on ToS updates &quot;may have seemed to announce a major shift in how Telegram works&quot; but &quot;little has changed&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241002/p12#a241002p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

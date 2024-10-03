@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)
- - 😝 [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
- - 💣 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
- - 😝 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
- - 👉 [We are](http://9gag.com/gag/a9ypQVm)<!-- MEMES:END -->
+ - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 😝 [What Will happen LOL.](http://9gag.com/gag/a87oBve)
+ - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 👉 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)<!-- MEMES:END -->
 
 ---
 

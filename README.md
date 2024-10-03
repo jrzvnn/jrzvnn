@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [License Plate Readers Are Creating a US-Wide Database of Political Lawn Signs and Bumper Stickers](https://www.wired.com/story/license-plate-readers-political-signs-bumper-stickers/)
  - [Oura unveils the $349+ Oura Ring 4, with a slimmer design, improved accuracy, and more sizes, shipping October 15, and completely redesigns the Oura app &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241003/p12#a241003p12)
  - [As Satya Nadella says AI models are becoming &quot;more of a commodity&quot;, OpenAI faces formidable challenges, including burning through cash and intense competition &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241003/p11#a241003p11)
- - [How chips made by US companies like Analog Devices, Germany&#39;s Infineon, and others helped power a Russian missile used in Ukraine, despite US export controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/241003/p10#a241003p10)<!-- TECH:END -->
+ - [Get Ready for the Official 2025 Social Security COLA Announcement Next Week](https://www.cnet.com/personal-finance/get-ready-for-the-2025-social-security-cola-official-announcement-next-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

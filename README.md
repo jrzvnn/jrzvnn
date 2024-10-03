@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 😝 [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
- - 💣 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
- - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
+ - 😝 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
+ - 😝 [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
+ - 💣 [Gentleman](http://9gag.com/gag/a7o35ne)
+ - 😝 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
+ - 👉 [Forklift fellas](http://9gag.com/gag/aqyK98Y)<!-- MEMES:END -->
 
 ---
 

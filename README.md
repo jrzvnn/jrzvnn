@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds over a dozen crypto companies unknowingly hired IT workers, who used fake IDs and successfully navigated interviews, from North Korea &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/241002/p36#a241002p36)
  - [Founders Tim Berners-Lee and Rosemary Leith announce the World Wide Web Foundation is shutting down after fifteen years of fighting to make the web safer &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/241002/p35#a241002p35)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [A US judge temporarily blocks California&#39;s AG from enforcing AB 2839 on election deepfakes, which Gov. Gavin Newsom signed into law on September 17 &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241002/p34#a241002p34)
- - [Best iPhone 16 Deals: Here&#39;s How to Save on Apple&#39;s Flagship Phones](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
- - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)<!-- TECH:END -->
+ - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
+ - [Best Beats Headphones and Earbuds for 2024](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 😝 [When you put a headset microphone on tennis players](http://9gag.com/gag/aQzRpAq)
+ - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
  - 💣 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 😝 [Suddenly my search history doesn&#39;t seem so bad anymore](http://9gag.com/gag/aKGxgnZ)
+ - 👉 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)<!-- MEMES:END -->
 
 ---
 

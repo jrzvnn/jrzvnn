@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [The big boys want in on crypto, too](https://www.theverge.com/2024/10/3/24261453/paypal-visa-blockchain-stablecoins)
  - [4 Expert-Approved Tips That Will Unlock Lifelong Healthy Eyes](https://www.cnet.com/health/personal-care/4-expert-approved-tips-that-will-unlock-lifelong-healthy-eyes/#ftag=CAD590a51e)
  - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [I&#39;ve Quit Shopping Prime Day. This Is Why](https://www.cnet.com/personal-finance/banking/ive-quit-shopping-prime-day-this-is-why/#ftag=CAD590a51e)
- - [Best USB-C Monitor Deals: Premium and Budget Screens of All Sizes, Fit for All Needs](https://www.cnet.com/deals/best-usb-c-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I&#39;ve Quit Shopping Prime Day. This Is Why](https://www.cnet.com/personal-finance/banking/ive-quit-shopping-prime-day-this-is-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

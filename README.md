@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Google releases Gemini 1.5 Flash-8B, a smaller and faster variant of 1.5 Flash, with 50% lower price, 2x higher rate limits, and lower latency on small prompts &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/241003/p31#a241003p31)
  - [The US and Microsoft seize 107 websites used by Russian intelligence agents and their proxies in the US operating under Star Blizzard, a group active since 2016 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241003/p30#a241003p30)
  - [Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://www.theverge.com/2024/10/3/24261166/anker-soundcore-liberty-4-pro-wireless-earbuds)
- - [Senator Laphonza Butler thinks supporting Big AI or human workers is a ‘false choice’](https://www.theverge.com/2024/10/3/24259479/senator-laphonza-butler-ai-california-workforce-harris)
- - [Inside the Anti-Vax Facebook Group Pushing a Bogus Cure for Autism](https://www.wired.com/story/inside-the-antivax-facebook-group-pushing-a-bogus-cure-for-autism/)<!-- TECH:END -->
+ - [Senator Laphonza Butler thinks supporting Big AI or human workers is a ‘false choice’](https://www.theverge.com/2024/10/3/24259479/senator-laphonza-butler-ai-california-workforce-harris)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 😝 [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
- - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
- - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
+ - 😝 [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)
+ - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 💣 [Palm reading](http://9gag.com/gag/aND1xN0)
+ - 😝 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
+ - 👉 [NFL player Rashee Rice&#39;s mom was caught stealing a package from a neighbor&#39;s porch while wearing a `Momma-Rice` jersey. Rice is signed to a 6.5M dollar contract](http://9gag.com/gag/amoBXK4)<!-- MEMES:END -->
 
 ---
 

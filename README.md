@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
- - 😝 [We should import millions of them, what could go wrong with our environment?](http://9gag.com/gag/a34KoWN)
- - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [Japan](http://9gag.com/gag/aQz3Yjr)
  - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 👉 [The hits just keep on coming. More than DOUBLE the budget of Concord](http://9gag.com/gag/a6ZOrDm)<!-- MEMES:END -->
+ - 💣 [Hey look it\u2019s Eddie Ha-](http://9gag.com/gag/abAMjLr)
+ - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
+ - 👉 [Pixelated Only](http://9gag.com/gag/aLnjqGM)<!-- MEMES:END -->
 
 ---
 

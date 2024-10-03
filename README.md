@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Founders Tim Berners-Lee and Rosemary Leith announce the World Wide Web Foundation is shutting down after fifteen years of fighting to make the web safer &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/241002/p35#a241002p35)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [A US judge temporarily blocks California&#39;s AG from enforcing AB 2839 on election deepfakes, which Gov. Gavin Newsom signed into law on September 17 &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241002/p34#a241002p34)
  - [Best iPhone 16 Deals: Here&#39;s How to Save on Apple&#39;s Flagship Phones](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
- - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)
- - [The SEC files a notice of appeal in its Ripple case, seeking to reverse a July 2023 ruling that XRP sales on retail exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/241002/p33#a241002p33)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

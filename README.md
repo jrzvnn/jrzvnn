@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber partners to use Avride&#39;s sidewalk robots for Eats in Austin now and in Dallas and Jersey City later in 2024, and Avride&#39;s autonomous cars in Dallas in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241003/p18#a241003p18)
  - [Uber partners with ex-Yandex self-driving group for robotaxis and robot delivery](https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex)
  - [Gemini Live will support more languages for its AI voice chat](https://www.theverge.com/2024/10/3/24260561/gemini-live-language-support)
  - [John Deere accused of ‘excluding’ right-to-repair language in its manuals](https://www.theverge.com/2024/10/3/24260513/john-deere-right-to-repair-elizabeth-warren-clean-air-act)
- - [How to import email from other accounts into Gmail](https://www.theverge.com/24260399/gmail-email-inbox-import-how-to)
- - [You can easily upgrade all of Apple’s AirPods to USB-C using these smart cases](https://www.theverge.com/2024/10/3/24260280/apple-airpods-pro-max-usb-c-upgrade-ken-pillonel)<!-- TECH:END -->
+ - [How to import email from other accounts into Gmail](https://www.theverge.com/24260399/gmail-email-inbox-import-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

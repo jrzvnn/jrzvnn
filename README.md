@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [As Wildfires Rage, California’s Insurance Market Is in Crisis](https://www.wired.com/story/fire-insurance-wildfires-california-state-farm-allstate-liberty-mutual/)
  - [iPhone 16 review: Bold colors, new buttons, promises for the future](https://appleinsider.com/articles/24/10/03/iphone-16-review-bold-colors-new-buttons-promises-for-the-future?utm_medium=rss)
  - [Gurbir Grewal, the US SEC&#39;s top enforcement official since 2021, who oversaw 2,400+ enforcement actions and the crypto crackdown, plans to leave on October 11 &lpar;Nicola M. White/Bloomberg&rpar;](http://www.techmeme.com/241003/p15#a241003p15)
- - [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)
- - [Trump Is Getting Out the Vote Online Not IRL](https://www.wired.com/story/trump-get-out-the-vote-online/)<!-- TECH:END -->
+ - [Best Prime Day Roku Deals: Save on Smart TVs, Streaming Sticks and More](https://www.cnet.com/deals/best-prime-day-roku-deals/#ftag=CAD590a51e)
+ - [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

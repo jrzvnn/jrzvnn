@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oura Ring 4: Specs, Price, Features, Availability](https://www.wired.com/story/oura-ring-4-price-specs-features/)
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
+ - [The Oura Ring 4 has slimmer sensors, increased accuracy, and more sizes](https://www.theverge.com/2024/10/3/24260260/oura-ring-4-price-specs-smart-ring-wearable)
  - [Two Harvard students demo using Ray-Ban Meta Smart Glasses, PimEyes, and other tools to instantly identify strangers&#39; names, phone numbers, addresses, and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241003/p6#a241003p6)
- - [Dogecoin has become surprisingly popular among businesses looking to accept crypto for real-world purchases, largely due to the memecoin&#39;s low transaction costs &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241003/p5#a241003p5)
- - [VistaPrint Promo Code 2024: $10 Off Custom Products](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Analysis: OpenAI, the third-most valuable VC-backed company after SpaceX and ByteDance, is worth far more than any VC-backed company at the time of their IPO &lpar;Rosie Bradbury/PitchBook&rpar;](http://www.techmeme.com/241003/p4#a241003p4)
- - [Verified Walmart Promo Codes for October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Dogecoin has become surprisingly popular among businesses looking to accept crypto for real-world purchases, largely due to the memecoin&#39;s low transaction costs &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241003/p5#a241003p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

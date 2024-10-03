@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a7o3v5x)
- - 😝 [Losing Interest and skills too\ud83d\ude2d](http://9gag.com/gag/avy82VE)
- - 💣 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
- - 👉 [Pixelated Only](http://9gag.com/gag/aLnjqGM)<!-- MEMES:END -->
+ - 😝 [Exact7ly](http://9gag.com/gag/a873WeZ)
+ - 😝 [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
+ - 💣 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
+ - 😝 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
+ - 👉 [Forklift fellas](http://9gag.com/gag/aqyK98Y)<!-- MEMES:END -->
 
 ---
 

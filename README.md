@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [What Will happen LOL.](http://9gag.com/gag/a87oBve)
- - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
- - 👉 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)<!-- MEMES:END -->
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 😝 [Pixelated Only](http://9gag.com/gag/aLnjqGM)
+ - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
 
 ---
 

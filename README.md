@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Watch what it’s like to handle an overturned truck full of burning batteries](https://www.theverge.com/2024/10/3/24261539/lithium-ion-battery-fire-la-truck-container-video-pepes-towing)
  - [Texas AG Ken Paxton sues TikTok for allegedly violating a new state law by sharing and selling minors&#39; personal information without parental consent &lpar;Pooja Salhotra/The Texas Tribune&rpar;](http://www.techmeme.com/241003/p34#a241003p34)
- - [6 Habits You Need to Kick to Lose Weight Fast](https://www.cnet.com/health/nutrition/6-habits-you-need-to-kick-to-lose-weight-fast/#ftag=CAD590a51e)
- - [Tips For Seeing a Meteor Shower in 2024: It&#39;s Not Too Late](https://www.cnet.com/science/its-not-too-late-to-catch-a-meteor-shower-here-are-all-the-ones-left-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 💣 [Suddenly my search history doesn&#39;t seem so bad anymore](http://9gag.com/gag/aKGxgnZ)
+ - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 💣 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
  - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 👉 [The gaurdian.](http://9gag.com/gag/aE02w99)<!-- MEMES:END -->
+ - 👉 [Pulpit rock in Norway](http://9gag.com/gag/aVvYWjK)<!-- MEMES:END -->
 
 ---
 

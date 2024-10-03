@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now you can use Apple’s Home Key to get into your garage or home office](https://www.theverge.com/2024/10/3/24261181/aqara-u300-lever-smart-lock-smart-home-matter-apple-home-key)
  - [Trump Supporters Are Pushing a Clip of a Voting Machine Being Hacked. It&#39;s Not What It Seems](https://www.wired.com/story/trump-supporters-hacking-voting-machine/)
  - [OpenAI launches a new canvas ChatGPT interface in beta that opens a separate window beside the normal chat window for writing and coding projects &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241003/p29#a241003p29)
  - [A new Ray-Ban Meta update adds reminders and voice messages](https://www.theverge.com/2024/10/3/24261238/meta-ray-ban-update-reminders-voice-messages)
- - [OpenAI’s ChatGPT Breaks Out of Its Box—and Onto a Canvas](https://www.wired.com/story/chatgpt-canvas-openai/)
- - [How to set up and manage a guest user on your Mac](https://appleinsider.com/inside/mac/tips/how-to-set-up-and-manage-a-guest-user-to-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI’s ChatGPT Breaks Out of Its Box—and Onto a Canvas](https://www.wired.com/story/chatgpt-canvas-openai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

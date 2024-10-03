@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Port workers on the East and Gulf coasts agree to end their strikes](https://www.theverge.com/2024/10/3/24261653/port-workers-strike-tentative-agreement-wages)
  - [Disney Imagineer wants his amazing retractable lightsaber to become a toy](https://www.theverge.com/2024/10/3/24261634/disney-lanny-smoot-retractable-lightsaber-imagineer)
  - [Sources: ElevenLabs is raising a new round that could value it at up to $3B; source: its ARR has grown from $25M at the end of 2023 to ~$80M in recent months &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241003/p36#a241003p36)
- - [Apple releases iPadOS 18.0.1, bringing iPadOS 18 to the M4 iPad Pro models for the first time since pulling the update for the devices after reports of bricking &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241003/p35#a241003p35)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [Apple releases iPadOS 18.0.1, bringing iPadOS 18 to the M4 iPad Pro models for the first time since pulling the update for the devices after reports of bricking &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241003/p35#a241003p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

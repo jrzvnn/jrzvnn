@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)
- - 😝 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
- - 💣 [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
- - 😝 [Talk about science](http://9gag.com/gag/aYQYbKV)
- - 👉 [For the boys...](http://9gag.com/gag/aNDYem3)<!-- MEMES:END -->
+ - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 💣 [...](http://9gag.com/gag/a7o3v5x)
+ - 😝 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
+ - 👉 [Pixelated Only](http://9gag.com/gag/aLnjqGM)<!-- MEMES:END -->
 
 ---
 

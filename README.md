@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: hackers are actively exploiting a recently disclosed RCE vulnerability in Zimbra email servers triggered by sending emails to the SMTP server &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241003/p9#a241003p9)
  - [Thursday Night Football: How to Watch, Stream Buccaneers vs. Falcons Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-buccaneers-vs-falcons-tonight-on-prime-video/#ftag=CAD590a51e)
  - [Best Savings Rates Today, Oct. 3, 2024: Now&#39;s the Time to Earn up to 5.30% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-3-2024/#ftag=CAD590a51e)
  - [A look at the prevalence of deepfake porn in South Korea, where its parliament has revised a law to make watching or possessing deepfake porn content illegal &lpar;Hyung-Jin Kim/Associated Press&rpar;](http://www.techmeme.com/241003/p8#a241003p8)
- - [An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues &lpar;Chris Tapsell/Eurogamer.net&rpar;](http://www.techmeme.com/241003/p7#a241003p7)
- - [Don&#39;t Get Burned: Tips to Avoid an Overheated Phone](https://www.cnet.com/pictures/dont-get-burned-tips-to-avoid-an-overheated-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues &lpar;Chris Tapsell/Eurogamer.net&rpar;](http://www.techmeme.com/241003/p7#a241003p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

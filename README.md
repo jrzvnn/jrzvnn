@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan](http://9gag.com/gag/aQz3Yjr)
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 💣 [Hey look it\u2019s Eddie Ha-](http://9gag.com/gag/abAMjLr)
- - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
- - 👉 [Pixelated Only](http://9gag.com/gag/aLnjqGM)<!-- MEMES:END -->
+ - 😝 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)
+ - 😝 [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
+ - 💣 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
+ - 😝 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)
+ - 👉 [We are](http://9gag.com/gag/a9ypQVm)<!-- MEMES:END -->
 
 ---
 

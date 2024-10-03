@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 💣 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
+ - 💣 [Downward Spiral](http://9gag.com/gag/aBy0Q5P)
  - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 👉 [Pulpit rock in Norway](http://9gag.com/gag/aVvYWjK)<!-- MEMES:END -->
+ - 👉 [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)<!-- MEMES:END -->
 
 ---
 

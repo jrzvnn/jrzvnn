@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, launches an API in beta and its latest image generation model Flux1.1 Pro &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p22#a241003p22)
  - [Spotify now automatically creates an offline playlist when you lose internet](https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup)
  - [Tesla recalls over 27,000 Cybertrucks over laggy reverse cameras](https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software)
  - [Source: on top of the $6.6B in funding, OpenAI got a $4B revolving line of credit from JPMorgan Chase, Citi, and others, bringing its total liquidity to $10B+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241003/p21#a241003p21)
- - [Avatar: The Last Airbender’s next game will let you play as a new Avatar](https://www.theverge.com/2024/10/3/24261101/avatar-the-last-airbender-upcoming-game-saber-interactive)
- - [Aqara Smart Lock U300 unlocks with Apple Home Key](https://appleinsider.com/articles/24/10/03/aqara-smart-lock-u300-unlocks-with-apple-home-key?utm_medium=rss)<!-- TECH:END -->
+ - [Avatar: The Last Airbender’s next game will let you play as a new Avatar](https://www.theverge.com/2024/10/3/24261101/avatar-the-last-airbender-upcoming-game-saber-interactive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

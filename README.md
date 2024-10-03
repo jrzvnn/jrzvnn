@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
- - 😝 [Pixelated Only](http://9gag.com/gag/aLnjqGM)
- - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/a7o3v5x)
+ - 😝 [Losing Interest and skills too\ud83d\ude2d](http://9gag.com/gag/avy82VE)
+ - 💣 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
+ - 👉 [Pixelated Only](http://9gag.com/gag/aLnjqGM)<!-- MEMES:END -->
 
 ---
 

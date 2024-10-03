@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gurbir Grewal, the US SEC&#39;s top enforcement official since 2021, who oversaw 2,400+ enforcement actions and the crypto crackdown, plans to leave on October 11 &lpar;Nicola M. White/Bloomberg&rpar;](http://www.techmeme.com/241003/p15#a241003p15)
+ - [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)
+ - [Trump Is Getting Out the Vote Online Not IRL](https://www.wired.com/story/trump-get-out-the-vote-online/)
  - [Barcelona-based Submer, which submerges data center server racks in its proprietary coolant, raised a $55.5M Series C at a ~$500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241003/p14#a241003p14)
- - [Analysis: London&#39;s Met police used facial recognition 117 times in 2024 to August, up from 32 times in total from 2020 to 2023; ~770,966 people were scanned &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241003/p13#a241003p13)
- - [License Plate Readers Are Creating a US-Wide Database of Political Lawn Signs and Bumper Stickers](https://www.wired.com/story/license-plate-readers-political-signs-bumper-stickers/)
- - [Oura unveils the $349+ Oura Ring 4, with a slimmer design, improved accuracy, and more sizes, shipping October 15, and completely redesigns the Oura app &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241003/p12#a241003p12)
- - [As Satya Nadella says AI models are becoming &quot;more of a commodity&quot;, OpenAI faces formidable challenges, including burning through cash and intense competition &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241003/p11#a241003p11)<!-- TECH:END -->
+ - [Analysis: London&#39;s Met police used facial recognition 117 times in 2024 to August, up from 32 times in total from 2020 to 2023; ~770,966 people were scanned &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241003/p13#a241003p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last night](http://9gag.com/gag/ae9Mo6B)
- - 😝 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
- - 💣 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
- - 😝 [Pixelated Only](http://9gag.com/gag/aLnjqGM)
- - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
+ - 😝 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)
+ - 😝 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
+ - 💣 [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
+ - 😝 [Talk about science](http://9gag.com/gag/aYQYbKV)
+ - 👉 [For the boys...](http://9gag.com/gag/aNDYem3)<!-- MEMES:END -->
 
 ---
 

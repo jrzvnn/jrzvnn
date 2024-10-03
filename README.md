@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Elon Musk’s AI party in OpenAI’s old headquarters](https://www.theverge.com/2024/10/3/24261160/elon-musk-xai-recruiting-party-openai-dev-day-sam-altman)
  - [16 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [How four expensive cards imploded Magic: The Gathering’s most popular format](https://www.theverge.com/2024/10/3/24260527/magic-the-gathering-commander-rules-committee-ban)
  - [SpaceX Is Planning to Send 5 Missions to Mars by 2026, Elon Musk Says](https://www.cnet.com/science/space/spacex-is-planning-to-send-5-missions-to-mars-by-2026-elon-musk-says/#ftag=CAD590a51e)
- - [12 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
- - [Best Savings Rates Today, Oct. 3, 2024: Now&#39;s the Time to Earn up to 5.30% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

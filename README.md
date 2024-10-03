@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
  - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 💣 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
+ - 💣 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 

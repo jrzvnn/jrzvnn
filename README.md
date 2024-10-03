@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates Lens to let users take a video or use their voice to search, showing an AI Overview and search results, rolling out to Search Labs on mobile &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p26#a241003p26)
  - [Zepz, the money transfer service formerly called WorldRemit and valued at $5B in 2021, raised $267M to fund an expansion in its core African markets and beyond &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241003/p25#a241003p25)
  - [Google Search rolls out &quot;Organized with AI&quot;, grouping results with &quot;unique, AI-generated headlines&quot; in the US, and brings ads to mobile US search AI Overviews &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p24#a241003p24)
  - [YouTube unveils Shorts updates, including letting creators upload three-minute videos, updating the Shorts player, introducing templates, and a new trends page &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241003/p23#a241003p23)
- - [Google’s Visual Search Can Now Answer Even More Complex Questions](https://www.wired.com/story/google-lens-multimodal-search/)
- - [Google’s AI search summaries officially have ads](https://www.theverge.com/2024/10/3/24260637/googles-ai-overview-ads-launch)<!-- TECH:END -->
+ - [Google’s Visual Search Can Now Answer Even More Complex Questions](https://www.wired.com/story/google-lens-multimodal-search/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thursday Night Football: How to Watch, Stream Buccaneers vs. Falcons Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-buccaneers-vs-falcons-tonight-on-prime-video/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Oct. 3, 2024: Now&#39;s the Time to Earn up to 5.30% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-3-2024/#ftag=CAD590a51e)
  - [A look at the prevalence of deepfake porn in South Korea, where its parliament has revised a law to make watching or possessing deepfake porn content illegal &lpar;Hyung-Jin Kim/Associated Press&rpar;](http://www.techmeme.com/241003/p8#a241003p8)
  - [An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues &lpar;Chris Tapsell/Eurogamer.net&rpar;](http://www.techmeme.com/241003/p7#a241003p7)
- - [Extend Amazon Prime Day Savings With These Shopping Tips](https://www.cnet.com/pictures/extend-amazon-prime-day-savings-with-these-shopping-tips/#ftag=CAD590a51e)
- - [These New Biomaterials Can Help Decarbonize Fashion and Construction](https://www.wired.com/story/biomaterials-natsai-audrey-chieza-normal-phenomena-life-faber-futures/)
- - [A Bank of America outage showed customers blanked-out account balances](https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero)<!-- TECH:END -->
+ - [Don&#39;t Get Burned: Tips to Avoid an Overheated Phone](https://www.cnet.com/pictures/dont-get-burned-tips-to-avoid-an-overheated-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

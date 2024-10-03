@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 💣 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
- - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 😝 [Every masterpiece has its cheap copy](http://9gag.com/gag/axyz2jY)
+ - 😝 [Horsemen of the Apocalypse](http://9gag.com/gag/aPAYy4q)
+ - 💣 [Forklift fellas](http://9gag.com/gag/aqyK98Y)
+ - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
+ - 👉 [Well, how about that...](http://9gag.com/gag/aGyZYO7)<!-- MEMES:END -->
 
 ---
 

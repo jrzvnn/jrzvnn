@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The toxic transformation of Warcraft maker Blizzard](https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview)
- - [What’s on your desk, David Pierce?](https://www.theverge.com/24259381/work-home-desk-logitech-sony)
- - [Google expands conversational AI voice chat Gemini Live&#39;s language support to French, German, Portuguese, Hindi, and Spanish, after launching in English &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241003/p20#a241003p20)
- - [PayPal completes its first business payment using its proprietary PYUSD stablecoin, paying an E&amp;Y invoice on September 23 via SAP&#39;s digital currency hub &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241003/p19#a241003p19)
- - [Uber partners to use Avride&#39;s sidewalk robots for Eats in Austin now and in Dallas and Jersey City later in 2024, and Avride&#39;s autonomous cars in Dallas in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241003/p18#a241003p18)<!-- TECH:END -->
+ - [Source: on top of the $6.6B in funding, OpenAI got a $4B revolving line of credit from JPMorgan Chase, Citi, and others, bringing its total liquidity to $10B+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241003/p21#a241003p21)
+ - [Aqara Smart Lock U300 unlocks with Apple Home Key](https://appleinsider.com/articles/24/10/03/aqara-smart-lock-u300-unlocks-with-apple-home-key?utm_medium=rss)
+ - [October Prime Day: Early Deals and Everything You Need to Know About Amazon&#39;s Prime Big Deal Days](https://www.cnet.com/deals/best-prime-day-deals/#ftag=CAD590a51e)
+ - [Eat Your Way to Bigger Muscles: 8 Essential Foods to Make Sure You&#39;re Eating](https://www.cnet.com/health/nutrition/eat-your-way-to-bigger-muscles-8-essential-foods-to-make-sure-youre-eating/#ftag=CAD590a51e)
+ - [Nectar Premier Memory Foam Mattress Review 2024: Nectar&#39;s Most Comfortable Foam Bed, Tested by Experts](https://www.cnet.com/health/sleep/nectar-premier-memory-foam-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

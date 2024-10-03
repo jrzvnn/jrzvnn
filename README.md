@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: Q3 US VC investments rose 8% YoY to $37.9B across 3,777 deals; AI firms got 36% of deal value and 27% of deal count in the first nine months of 2024 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241003/p3#a241003p3)
- - [PitchBook and the NVCA: global VC activity declined in Q3; VC investments in Asia hit $14.9B, the lowest figure since Q1 2017, impacted by China&#39;s deep decline &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241003/p2#a241003p2)
- - [Analysis: Microsoft&#39;s finance leases, commencing between FY 2025 and FY 2030, mainly for data centers, has risen by $100B+ in less than two years to $108.4B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241003/p1#a241003p1)
- - [WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion, abuse of power, and greed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241002/p38#a241002p38)
- - [Twitch includes raids, which let streamers who are going offline to send viewers to other channels, in its average viewer count, easing the path to make partner &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/241002/p37#a241002p37)<!-- TECH:END -->
+ - [Dogecoin has become surprisingly popular among businesses looking to accept crypto for real-world purchases, largely due to the memecoin&#39;s low transaction costs &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241003/p5#a241003p5)
+ - [VistaPrint Promo Code 2024: $10 Off Custom Products](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Analysis: OpenAI, the third-most valuable VC-backed company after SpaceX and ByteDance, is worth far more than any VC-backed company at the time of their IPO &lpar;Rosie Bradbury/PitchBook&rpar;](http://www.techmeme.com/241003/p4#a241003p4)
+ - [Verified Walmart Promo Codes for October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

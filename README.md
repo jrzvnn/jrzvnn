@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Wildfires Rage, California’s Insurance Market Is in Crisis](https://www.wired.com/story/fire-insurance-wildfires-california-state-farm-allstate-liberty-mutual/)
- - [iPhone 16 review: Bold colors, new buttons, promises for the future](https://appleinsider.com/articles/24/10/03/iphone-16-review-bold-colors-new-buttons-promises-for-the-future?utm_medium=rss)
- - [Gurbir Grewal, the US SEC&#39;s top enforcement official since 2021, who oversaw 2,400+ enforcement actions and the crypto crackdown, plans to leave on October 11 &lpar;Nicola M. White/Bloomberg&rpar;](http://www.techmeme.com/241003/p15#a241003p15)
- - [Best Prime Day Roku Deals: Save on Smart TVs, Streaming Sticks and More](https://www.cnet.com/deals/best-prime-day-roku-deals/#ftag=CAD590a51e)
- - [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)<!-- TECH:END -->
+ - [Original Macintosh prototype with &#39;Twiggy&#39; drive may hit $120,000 at auction](https://appleinsider.com/articles/24/10/03/original-macintosh-prototype-with-twiggy-drive-may-hit-120000-at-auction?utm_medium=rss)
+ - [Multimillion dollar fraudsters jailed over fake iPhone scam](https://appleinsider.com/articles/24/10/03/multimillion-dollar-fraudsters-jailed-over-fake-iphone-scam?utm_medium=rss)
+ - [Spotify launches Offline Backup, a playlist of downloaded songs that users recently listened to, available automatically for Premium users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241003/p17#a241003p17)
+ - [Analysis: Nvidia execs and directors have sold nearly 11M shares, worth $1.8B+, in 2024 so far, the most since at least 2020; there are 24.5B outstanding shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/241003/p16#a241003p16)
+ - [iPhone 16 Pro Camera Takes on Xiaomi 14 Ultra: Let the Fun Begin](https://www.cnet.com/tech/mobile/iphone-16-pro-camera-takes-on-xiaomi-14-ultra-let-the-fun-begin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

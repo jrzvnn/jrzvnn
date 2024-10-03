@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla recalls over 27,000 Cybertrucks over laggy reverse cameras](https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software)
  - [Source: on top of the $6.6B in funding, OpenAI got a $4B revolving line of credit from JPMorgan Chase, Citi, and others, bringing its total liquidity to $10B+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241003/p21#a241003p21)
+ - [Avatar: The Last Airbender’s next game will let you play as a new Avatar](https://www.theverge.com/2024/10/3/24261101/avatar-the-last-airbender-upcoming-game-saber-interactive)
  - [Aqara Smart Lock U300 unlocks with Apple Home Key](https://appleinsider.com/articles/24/10/03/aqara-smart-lock-u300-unlocks-with-apple-home-key?utm_medium=rss)
- - [October Prime Day: Early Deals and Everything You Need to Know About Amazon&#39;s Prime Big Deal Days](https://www.cnet.com/deals/best-prime-day-deals/#ftag=CAD590a51e)
- - [Eat Your Way to Bigger Muscles: 8 Essential Foods to Make Sure You&#39;re Eating](https://www.cnet.com/health/nutrition/eat-your-way-to-bigger-muscles-8-essential-foods-to-make-sure-youre-eating/#ftag=CAD590a51e)
- - [Nectar Premier Memory Foam Mattress Review 2024: Nectar&#39;s Most Comfortable Foam Bed, Tested by Experts](https://www.cnet.com/health/sleep/nectar-premier-memory-foam-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The toxic transformation of Warcraft maker Blizzard](https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

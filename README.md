@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sid Meier’s Civilization 7: all the latest on the strategy epic from Firaxis Games](https://www.theverge.com/2024/10/3/24261375/sid-meiers-civilization-7-civ-vii-news-announcements)
  - [UnifyDrive UT2 portable NAS review: Hardware has promise, software is terrible](https://appleinsider.com/articles/24/10/03/unifydrive-ut2-portable-nas-review-hardware-has-promise-software-is-terrible?utm_medium=rss)
  - [Sony’s best ANC headphones and earbuds are getting Google’s Find My Device](https://www.theverge.com/2024/10/3/24261443/sony-wireless-headphones-google-find-my-device-update)
  - [Sources: the iPhone SE 4, coming in spring, will have Apple&#39;s first 5G modem, A18 and 8GB of RAM to enable Apple Intelligence, and same rear camera as iPhone 15 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241003/p32#a241003p32)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Best AirPods 4 Deals: Apple&#39;s Iconic Wireless Earbuds Are Better Than Ever](https://www.cnet.com/deals/best-airpods-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

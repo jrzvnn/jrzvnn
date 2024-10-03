@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 💣 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
  - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 👉 [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)<!-- MEMES:END -->
+ - 👉 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; season 4 rumored to start filming in London in early 2025](https://appleinsider.com/articles/24/10/03/ted-lasso-season-4-rumored-to-start-filming-in-london-in-early-2025?utm_medium=rss)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [How Sam Altman concentrated his power at OpenAI since he was fired and rehired 11 months ago; sources: burnout has become a key issue for some employees &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241003/p28#a241003p28)
- - [Samsung is turning your Galaxy phone into a smart door key](https://www.theverge.com/2024/10/3/24261118/samsung-digital-home-key-smart-door-lock-aliro-uwb)
- - [Your smart fridge can now warn you when you’ve spent too long in the shower](https://www.theverge.com/2024/10/3/24260477/samsung-smartthings-kohler-anthem-smart-home-shower)<!-- TECH:END -->
+ - [OpenAI launches a new canvas ChatGPT interface in beta that opens a separate window beside the normal chat window for writing and coding projects &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241003/p29#a241003p29)
+ - [A new Ray-Ban Meta update adds reminders and voice messages](https://www.theverge.com/2024/10/3/24261238/meta-ray-ban-update-reminders-voice-messages)
+ - [OpenAI&#39;s ChatGPT Breaks Out of Its Box—and Onto a Canvas](https://www.wired.com/story/chatgpt-canvas-openai/)
+ - [How to set up and manage a guest user on your Mac](https://appleinsider.com/inside/mac/tips/how-to-set-up-and-manage-a-guest-user-to-your-mac?utm_medium=rss)
+ - [The SEC is appealing a federal court’s ruling on Ripple](https://www.theverge.com/2024/10/3/24261244/sec-appeal-ripple-xrp-securities-violation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

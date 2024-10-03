@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
- - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
- - 💣 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
- - 😝 [Works!](http://9gag.com/gag/aAyxnZZ)
- - 👉 [Pixelated Only](http://9gag.com/gag/aLnjqGM)<!-- MEMES:END -->
+ - 😝 [Last night](http://9gag.com/gag/ae9Mo6B)
+ - 😝 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
+ - 💣 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
+ - 😝 [Pixelated Only](http://9gag.com/gag/aLnjqGM)
+ - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
 
 ---
 

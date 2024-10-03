@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey look it\u2019s Eddie Ha-](http://9gag.com/gag/abAMjLr)
- - 😝 [NFL player Rashee Rice&#39;s mom was caught stealing a package from a neighbor&#39;s porch while wearing a `Momma-Rice` jersey. Rice is signed to a 6.5M dollar contract](http://9gag.com/gag/amoBXK4)
- - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 👉 [We should import millions of them, what could go wrong with our environment?](http://9gag.com/gag/a34KoWN)<!-- MEMES:END -->
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 👉 [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)<!-- MEMES:END -->
 
 ---
 

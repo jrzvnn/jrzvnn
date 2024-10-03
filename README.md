@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge temporarily blocks California&#39;s AG from enforcing AB 2839 on election deepfakes, which Gov. Gavin Newsom signed into law on September 17 &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241002/p34#a241002p34)
+ - [Best iPhone 16 Deals: Here&#39;s How to Save on Apple&#39;s Flagship Phones](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
+ - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)
  - [The SEC files a notice of appeal in its Ripple case, seeking to reverse a July 2023 ruling that XRP sales on retail exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/241002/p33#a241002p33)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Tim Cook sells Apple stock worth in excess of $50 million](https://appleinsider.com/articles/24/10/02/tim-cook-sells-apple-stock-worth-in-excess-of-50-million?utm_medium=rss)
- - [Best Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-toaster-oven/#ftag=CAD590a51e)
- - [Biden signs legislation exempting some US semiconductor manufacturing facilities that are receiving government subsidies from federal environmental reviews &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

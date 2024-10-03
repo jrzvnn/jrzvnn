@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These New Biomaterials Can Help Decarbonize Fashion and Construction](https://www.wired.com/story/biomaterials-natsai-audrey-chieza-normal-phenomena-life-faber-futures/)
  - [A Bank of America outage showed customers blanked-out account balances](https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero)
  - [Oura Ring 4 First Take: More Titanium, Better Accuracy and Longer Battery Life](https://www.cnet.com/tech/mobile/oura-ring-4-first-take-more-titanium-better-accuracy-and-longer-battery-life/#ftag=CAD590a51e)
  - [Oura Ring 4: Specs, Price, Features, Availability](https://www.wired.com/story/oura-ring-4-price-specs-features/)
- - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
- - [This One Trick Will Get You Prime Day Deals for Free](https://www.cnet.com/personal-finance/this-one-trick-will-get-you-prime-day-deals-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

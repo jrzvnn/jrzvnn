@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How chips made by US companies like Analog Devices, Germany&#39;s Infineon, and others helped power a Russian missile used in Ukraine, despite US export controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/241003/p10#a241003p10)
  - [Apple pulls watchOS 11.1 beta for locking up Apple Watches](https://appleinsider.com/articles/24/10/03/apple-pulls-watchos-111-beta-for-locking-up-apple-watches?utm_medium=rss)
  - [Researchers: hackers are actively exploiting a recently disclosed RCE vulnerability in Zimbra email servers triggered by sending emails to the SMTP server &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241003/p9#a241003p9)
  - [A look at the prevalence of deepfake porn in South Korea, where its parliament has revised a law to make watching or possessing deepfake porn content illegal &lpar;Hyung-Jin Kim/Associated Press&rpar;](http://www.techmeme.com/241003/p8#a241003p8)
- - [An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues &lpar;Chris Tapsell/Eurogamer.net&rpar;](http://www.techmeme.com/241003/p7#a241003p7)
- - [Extend Amazon Prime Day Savings With These Shopping Tips](https://www.cnet.com/pictures/extend-amazon-prime-day-savings-with-these-shopping-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues &lpar;Chris Tapsell/Eurogamer.net&rpar;](http://www.techmeme.com/241003/p7#a241003p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

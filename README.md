@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s be honest... companies DON&#39;T care...](http://9gag.com/gag/aLnjqyv)
- - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 💣 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
- - 😝 [Jennifer Lopez visits her childhood home, and the new owner has no idea who she is](http://9gag.com/gag/aGyZYo0)
- - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
+ - 😝 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
+ - 😝 [We should import millions of them, what could go wrong with our environment?](http://9gag.com/gag/a34KoWN)
+ - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 👉 [The hits just keep on coming. More than DOUBLE the budget of Concord](http://9gag.com/gag/a6ZOrDm)<!-- MEMES:END -->
 
 ---
 

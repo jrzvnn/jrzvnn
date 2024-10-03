@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iPadOS 18.0.1, bringing iPadOS 18 to the M4 iPad Pro models for the first time since pulling the update for the devices after reports of bricking &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241003/p35#a241003p35)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Watch what it’s like to handle an overturned truck full of burning batteries](https://www.theverge.com/2024/10/3/24261539/lithium-ion-battery-fire-la-truck-container-video-pepes-towing)
- - [Texas AG Ken Paxton sues TikTok for allegedly violating a new state law by sharing and selling minors&#39; personal information without parental consent &lpar;Pooja Salhotra/The Texas Tribune&rpar;](http://www.techmeme.com/241003/p34#a241003p34)
- - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)<!-- TECH:END -->
+ - [Texas AG Ken Paxton sues TikTok for allegedly violating a new state law by sharing and selling minors&#39; personal information without parental consent &lpar;Pooja Salhotra/The Texas Tribune&rpar;](http://www.techmeme.com/241003/p34#a241003p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

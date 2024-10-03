@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every masterpiece has its cheap copy](http://9gag.com/gag/axyz2jY)
- - 😝 [Horsemen of the Apocalypse](http://9gag.com/gag/aPAYy4q)
- - 💣 [Forklift fellas](http://9gag.com/gag/aqyK98Y)
- - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
- - 👉 [Well, how about that...](http://9gag.com/gag/aGyZYO7)<!-- MEMES:END -->
+ - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
 
 ---
 

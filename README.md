@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
+ - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 😝 [When you put a headset microphone on tennis players](http://9gag.com/gag/aQzRpAq)
+ - 💣 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 

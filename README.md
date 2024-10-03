@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 😝 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
- - 💣 [Be warned](http://9gag.com/gag/a34KVXN)
- - 😝 [Four; Three; Two; One.....earth below us.......](http://9gag.com/gag/aNDYmMK)
- - 👉 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)<!-- MEMES:END -->
+ - 😝 [I don\u2019t know how he didn\u2019t know the board was there](http://9gag.com/gag/a4PQpmQ)
+ - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
+ - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion and abuse of power &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241002/p38#a241002p38)
  - [Twitch includes raids, which let streamers who are going offline to send viewers to other channels, in its average viewer count, easing the path to make partner &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/241002/p37#a241002p37)
  - [Investigation: over a dozen crypto companies unknowingly hired North Korean IT workers who used fake IDs, successfully navigated interviews, and passed checks &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/241002/p36#a241002p36)
  - [Co-founders Tim Berners-Lee and Rosemary Leith plan to close the World Wide Web Foundation after 15 years of fighting to make the web safer and more accessible &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/241002/p35#a241002p35)
- - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [Best Beats Headphones and Earbuds for 2024](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

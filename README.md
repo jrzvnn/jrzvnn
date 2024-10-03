@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US and Microsoft seize 107 websites used by Russian intelligence agents and their proxies in the US operating under Star Blizzard, a group active since 2016 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241003/p30#a241003p30)
+ - [Anker’s Soundcore Liberty 4 Pro earbuds add a charging case screen](https://www.theverge.com/2024/10/3/24261166/anker-soundcore-liberty-4-pro-wireless-earbuds)
  - [Senator Laphonza Butler thinks supporting Big AI or human workers is a ‘false choice’](https://www.theverge.com/2024/10/3/24259479/senator-laphonza-butler-ai-california-workforce-harris)
  - [Inside the Anti-Vax Facebook Group Pushing a Bogus Cure for Autism](https://www.wired.com/story/inside-the-antivax-facebook-group-pushing-a-bogus-cure-for-autism/)
- - [India iPhone 15 buyers get free orange Beats Solo Buds for Diwali](https://appleinsider.com/articles/24/10/03/india-iphone-15-buyers-get-free-orange-beats-solo-buds-for-diwali?utm_medium=rss)
- - [Now you can use Apple’s Home Key to get into your garage or home office](https://www.theverge.com/2024/10/3/24261181/aqara-u300-lever-smart-lock-smart-home-matter-apple-home-key)
- - [Trump Supporters Are Pushing a Clip of a Voting Machine Being Hacked. It&#39;s Not What It Seems](https://www.wired.com/story/trump-supporters-hacking-voting-machine/)<!-- TECH:END -->
+ - [India iPhone 15 buyers get free orange Beats Solo Buds for Diwali](https://appleinsider.com/articles/24/10/03/india-iphone-15-buyers-get-free-orange-beats-solo-buds-for-diwali?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - 😝 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
- - 💣 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
- - 😝 [Never gonna give u up](http://9gag.com/gag/apR2eX8)
- - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
+ - 😝 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
+ - 😝 [In my restless dreams... I see that town...](http://9gag.com/gag/aLngReA)
+ - 💣 [The hits just keep on coming. More than DOUBLE the budget of Concord](http://9gag.com/gag/a6ZOrDm)
+ - 😝 [When english people go on vacation to germany for the first time](http://9gag.com/gag/a9yKjgj)
+ - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
 
 ---
 

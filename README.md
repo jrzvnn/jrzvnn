@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UnifyDrive UT2 portable NAS review: Hardware has promise, software is terrible](https://appleinsider.com/articles/24/10/03/unifydrive-ut2-portable-nas-review-hardware-has-promise-software-is-terrible?utm_medium=rss)
+ - [Sony’s best ANC headphones and earbuds are getting Google’s Find My Device](https://www.theverge.com/2024/10/3/24261443/sony-wireless-headphones-google-find-my-device-update)
  - [Sources: the iPhone SE 4, coming in spring, will have Apple&#39;s first 5G modem, A18 and 8GB of RAM to enable Apple Intelligence, and same rear camera as iPhone 15 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241003/p32#a241003p32)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The big boys want in on crypto, too](https://www.theverge.com/2024/10/3/24261453/paypal-visa-blockchain-stablecoins)
- - [4 Expert-Approved Tips That Will Unlock Lifelong Healthy Eyes](https://www.cnet.com/health/personal-care/4-expert-approved-tips-that-will-unlock-lifelong-healthy-eyes/#ftag=CAD590a51e)
- - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Best AirPods 4 Deals: Apple&#39;s Iconic Wireless Earbuds Are Better Than Ever](https://www.cnet.com/deals/best-airpods-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [&#39;Ted Lasso&#39; season 4 rumored to start filming in London in early 2025](https://appleinsider.com/articles/24/10/03/ted-lasso-season-4-rumored-to-start-filming-in-london-in-early-2025?utm_medium=rss)
- - [Google rolls out ads in AI Overviews when a user&#39;s question has a &quot;commercial angle&quot;, and identifies the ads with a &quot;sponsored&quot; header, on mobile in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p27#a241003p27)
- - [Google updates Lens to let users take a video or use their voice to search, showing an AI Overview and search results, rolling out to Search Labs on mobile &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p26#a241003p26)
- - [Zepz, the money transfer service formerly called WorldRemit and valued at $5B in 2021, raised $267M to fund an expansion in its core African markets and beyond &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241003/p25#a241003p25)
- - [Google rolls out AI-organized Search results in the US on mobile, showing users AI-aggregated pages of content from forums, articles, YouTube videos, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p24#a241003p24)<!-- TECH:END -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [How Sam Altman concentrated his power at OpenAI since he was fired and rehired 11 months ago; sources: burnout has become a key issue for some employees &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241003/p28#a241003p28)
+ - [Samsung is turning your Galaxy phone into a smart door key](https://www.theverge.com/2024/10/3/24261118/samsung-digital-home-key-smart-door-lock-aliro-uwb)
+ - [Your smart fridge can now warn you when you’ve spent too long in the shower](https://www.theverge.com/2024/10/3/24260477/samsung-smartthings-kohler-anthem-smart-home-shower)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

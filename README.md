@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The toxic transformation of Warcraft maker Blizzard](https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview)
+ - [What’s on your desk, David Pierce?](https://www.theverge.com/24259381/work-home-desk-logitech-sony)
  - [Google expands conversational AI voice chat Gemini Live&#39;s language support to French, German, Portuguese, Hindi, and Spanish, after launching in English &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241003/p20#a241003p20)
  - [PayPal completes its first business payment using its proprietary PYUSD stablecoin, paying an E&amp;Y invoice on September 23 via SAP&#39;s digital currency hub &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241003/p19#a241003p19)
- - [Uber partners to use Avride&#39;s sidewalk robots for Eats in Austin now and in Dallas and Jersey City later in 2024, and Avride&#39;s autonomous cars in Dallas in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241003/p18#a241003p18)
- - [Best Free VPN for 2024: Affordable Risk-Free Privacy](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)
- - [Best Prime Day Monitor Deals: 15 Early Amazon Offers Worth Nabbing Now](https://www.cnet.com/deals/best-prime-day-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber partners to use Avride&#39;s sidewalk robots for Eats in Austin now and in Dallas and Jersey City later in 2024, and Avride&#39;s autonomous cars in Dallas in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241003/p18#a241003p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
  - 😝 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
- - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
- - 💣 [Palm reading](http://9gag.com/gag/aND1xN0)
- - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
- - 👉 [Never gonna give u up](http://9gag.com/gag/apR2eX8)<!-- MEMES:END -->
+ - 💣 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
+ - 😝 [Never gonna give u up](http://9gag.com/gag/apR2eX8)
+ - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
 
 ---
 

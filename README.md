@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Original Macintosh prototype with &#39;Twiggy&#39; drive may hit $120,000 at auction](https://appleinsider.com/articles/24/10/03/original-macintosh-prototype-with-twiggy-drive-may-hit-120000-at-auction?utm_medium=rss)
- - [Multimillion dollar fraudsters jailed over fake iPhone scam](https://appleinsider.com/articles/24/10/03/multimillion-dollar-fraudsters-jailed-over-fake-iphone-scam?utm_medium=rss)
- - [Spotify launches Offline Backup, a playlist of downloaded songs that users recently listened to, available automatically for Premium users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241003/p17#a241003p17)
- - [Analysis: Nvidia execs and directors have sold nearly 11M shares, worth $1.8B+, in 2024 so far, the most since at least 2020; there are 24.5B outstanding shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/241003/p16#a241003p16)
- - [iPhone 16 Pro Camera Takes on Xiaomi 14 Ultra: Let the Fun Begin](https://www.cnet.com/tech/mobile/iphone-16-pro-camera-takes-on-xiaomi-14-ultra-let-the-fun-begin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber partners with ex-Yandex self-driving group for robotaxis and robot delivery](https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex)
+ - [Gemini Live will support more languages for its AI voice chat](https://www.theverge.com/2024/10/3/24260561/gemini-live-language-support)
+ - [John Deere accused of ‘excluding’ right-to-repair language in its manuals](https://www.theverge.com/2024/10/3/24260513/john-deere-right-to-repair-elizabeth-warren-clean-air-act)
+ - [How to import email from other accounts into Gmail](https://www.theverge.com/24260399/gmail-email-inbox-import-how-to)
+ - [You can easily upgrade all of Apple’s AirPods to USB-C using these smart cases](https://www.theverge.com/2024/10/3/24260280/apple-airpods-pro-max-usb-c-upgrade-ken-pillonel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

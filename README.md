@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch what it’s like to handle an overturned truck full of burning batteries](https://www.theverge.com/2024/10/3/24261539/lithium-ion-battery-fire-la-truck-container-video-pepes-towing)
+ - [Texas AG Ken Paxton sues TikTok for allegedly violating a new state law by sharing and selling minors&#39; personal information without parental consent &lpar;Pooja Salhotra/The Texas Tribune&rpar;](http://www.techmeme.com/241003/p34#a241003p34)
  - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)
  - [Point updates for iOS, iPadOS, macOS &amp; the rest released with bug fixes](https://appleinsider.com/articles/24/10/03/point-updates-for-ios-ipados-macos-the-rest-released-with-bug-fixes?utm_medium=rss)
- - [Voyage AI, which helps companies build RAG systems, raised a $20M Series A from CRV, Snowflake, Databricks, and others, bringing its total funding to $28M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p33#a241003p33)
- - [Sid Meier’s Civilization 7: all the latest on the strategy epic from Firaxis Games](https://www.theverge.com/2024/10/3/24261375/sid-meiers-civilization-7-civ-vii-news-announcements)
- - [An Avatar: The Last Airbender RPG Is Coming From The Space Marine 2 Studio](https://www.cnet.com/tech/gaming/an-avatar-the-last-airbender-rpg-is-coming-from-the-space-marine-2-studio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Voyage AI, which helps companies build RAG systems, raised a $20M Series A from CRV, Snowflake, Databricks, and others, bringing its total funding to $28M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p33#a241003p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

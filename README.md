@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: Q3 US VC investments rose 8% YoY to $37.9B across 3,777 deals; AI firms got 36% of deal value and 27% of deal count in the first nine months of 2024 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241003/p3#a241003p3)
  - [PitchBook and the NVCA: global VC activity declined in Q3; VC investments in Asia hit $14.9B, the lowest figure since Q1 2017, impacted by China&#39;s deep decline &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241003/p2#a241003p2)
  - [Analysis: Microsoft&#39;s finance leases, commencing between FY 2025 and FY 2030, mainly for data centers, has risen by $100B+ in less than two years to $108.4B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241003/p1#a241003p1)
  - [WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion, abuse of power, and greed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241002/p38#a241002p38)
- - [Twitch includes raids, which let streamers who are going offline to send viewers to other channels, in its average viewer count, easing the path to make partner &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/241002/p37#a241002p37)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 3, #1202](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-3-1202/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitch includes raids, which let streamers who are going offline to send viewers to other channels, in its average viewer count, easing the path to make partner &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/241002/p37#a241002p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

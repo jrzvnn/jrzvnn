@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Elon Musk’s AI party in OpenAI’s old headquarters](https://www.theverge.com/2024/10/3/24261160/elon-musk-xai-recruiting-party-openai-dev-day-sam-altman)
- - [16 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [How four expensive cards imploded Magic: The Gathering’s most popular format](https://www.theverge.com/2024/10/3/24260527/magic-the-gathering-commander-rules-committee-ban)
- - [SpaceX Is Planning to Send 5 Missions to Mars by 2026, Elon Musk Says](https://www.cnet.com/science/space/spacex-is-planning-to-send-5-missions-to-mars-by-2026-elon-musk-says/#ftag=CAD590a51e)
- - [12 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
+ - [Zepz, the money transfer service formerly called WorldRemit and valued at $5B in 2021, raised $267M to fund an expansion in its core African markets and beyond &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241003/p25#a241003p25)
+ - [Google Search rolls out &quot;Organized with AI&quot;, grouping results with &quot;unique, AI-generated headlines&quot; in the US, and brings ads to mobile US search AI Overviews &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p24#a241003p24)
+ - [YouTube unveils Shorts updates, including letting creators upload three-minute videos, updating the Shorts player, introducing templates, and a new trends page &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241003/p23#a241003p23)
+ - [Google’s Visual Search Can Now Answer Even More Complex Questions](https://www.wired.com/story/google-lens-multimodal-search/)
+ - [Google’s AI search summaries officially have ads](https://www.theverge.com/2024/10/3/24260637/googles-ai-overview-ads-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

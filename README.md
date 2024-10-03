@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
+ - [How four expensive cards imploded Magic: The Gathering’s most popular format](https://www.theverge.com/2024/10/3/24260527/magic-the-gathering-commander-rules-committee-ban)
  - [12 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
  - [Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, launches an API in beta and its latest image generation model Flux1.1 Pro &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p22#a241003p22)
- - [Spotify now automatically creates an offline playlist when you lose internet](https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup)
- - [Tesla recalls over 27,000 Cybertrucks over laggy reverse cameras](https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software)
- - [Source: on top of the $6.6B in funding, OpenAI got a $4B revolving line of credit from JPMorgan Chase, Citi, and others, bringing its total liquidity to $10B+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241003/p21#a241003p21)<!-- TECH:END -->
+ - [Spotify now automatically creates an offline playlist when you lose internet](https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

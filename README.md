@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 😝 [Always point in a safe direction](http://9gag.com/gag/aGyjX5G)
- - 💣 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
- - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
+ - 😝 [The hits just keep on coming. More than DOUBLE the budget of Concord](http://9gag.com/gag/a6ZOrDm)
+ - 😝 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
+ - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 👉 [I don\u2019t know how he didn\u2019t know the board was there](http://9gag.com/gag/a4PQpmQ)<!-- MEMES:END -->
 
 ---
 

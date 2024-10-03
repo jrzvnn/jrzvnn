@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, launches an API in beta and its latest image generation model Flux1.1 Pro &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p22#a241003p22)
- - [Spotify now automatically creates an offline playlist when you lose internet](https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup)
- - [Tesla recalls over 27,000 Cybertrucks over laggy reverse cameras](https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software)
- - [Source: on top of the $6.6B in funding, OpenAI got a $4B revolving line of credit from JPMorgan Chase, Citi, and others, bringing its total liquidity to $10B+ &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241003/p21#a241003p21)
- - [Avatar: The Last Airbender’s next game will let you play as a new Avatar](https://www.theverge.com/2024/10/3/24261101/avatar-the-last-airbender-upcoming-game-saber-interactive)<!-- TECH:END -->
+ - [SpaceX Is Planning to Send 5 Missions to Mars by 2026, Elon Musk Says](https://www.cnet.com/science/space/spacex-is-planning-to-send-5-missions-to-mars-by-2026-elon-musk-says/#ftag=CAD590a51e)
+ - [12 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
+ - [Best Savings Rates Today, Oct. 3, 2024: Now&#39;s the Time to Earn up to 5.30% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-3-2024/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch Ultra Just Hit Its Lowest Price Yet Ahead of Prime Day](https://www.cnet.com/deals/samsung-galaxy-watch-ultra-just-hit-its-lowest-price-yet-ahead-of-prime-day/#ftag=CAD590a51e)
+ - [Meta Ray-Bans&#39; New AI Camera Features Are Arriving Now](https://www.cnet.com/tech/services-and-software/meta-ray-bans-new-ai-camera-features-are-arriving-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

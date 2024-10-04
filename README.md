@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Everything is in the numbers](http://9gag.com/gag/aoyejy2)
+ - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 💣 [No P.Diddy](http://9gag.com/gag/a5QMPzN)
  - 😝 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 💣 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
  - 👉 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)<!-- MEMES:END -->
 
 ---

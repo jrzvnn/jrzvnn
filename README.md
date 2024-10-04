@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 💣 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
+ - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 😝 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
+ - 💣 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
+ - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
 
 ---
 

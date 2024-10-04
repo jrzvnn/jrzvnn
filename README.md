@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Port workers on the East and Gulf coasts agree to end their strikes](https://www.theverge.com/2024/10/3/24261653/port-workers-strike-tentative-agreement-wages)
- - [Disney Imagineer wants his amazing retractable lightsaber to become a toy](https://www.theverge.com/2024/10/3/24261634/disney-lanny-smoot-retractable-lightsaber-imagineer)
- - [Sources: ElevenLabs is raising a new round that could value it at up to $3B; source: its ARR has grown from $25M at the end of 2023 to ~$80M in recent months &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241003/p36#a241003p36)
- - [Apple releases iPadOS 18.0.1, bringing iPadOS 18 to the M4 iPad Pro models for the first time since pulling the update for the devices after reports of bricking &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241003/p35#a241003p35)<!-- TECH:END -->
+ - [CCData: Binance&#39;s share of digital asset trading volume fell to 36.6% in September, down from 42.7% at the start of 2024, the lowest level in four years &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241003/p37#a241003p37)
+ - [Get Better Reception on Your iPhone or Android, No Matter Where You Go](https://www.cnet.com/tech/mobile/get-better-reception-on-your-iphone-or-android-no-matter-where-you-go/#ftag=CAD590a51e)
+ - [Here&#39;s How to Get Free At-Home COVID-19 Tests From USPS](https://www.cnet.com/health/heres-how-to-get-free-at-home-covid-19-tests-from-usps/#ftag=CAD590a51e)
+ - [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://www.theverge.com/2024/10/3/24261313/ford-expedition-2025-android-automotive-digital-experience)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

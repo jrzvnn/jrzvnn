@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 💣 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
  - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [Four; Three; Two; One.....earth below us.......](http://9gag.com/gag/aNDYmMK)
- - 💣 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
- - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
+ - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
 
 ---
 

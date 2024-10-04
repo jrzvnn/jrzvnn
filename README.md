@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [Talk about science](http://9gag.com/gag/aYQYbKV)
- - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
- - 👉 [Oh dear](http://9gag.com/gag/aQzR4R8)<!-- MEMES:END -->
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [Four; Three; Two; One.....earth below us.......](http://9gag.com/gag/aNDYmMK)
+ - 💣 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
 
 ---
 

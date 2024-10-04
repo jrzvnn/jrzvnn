@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google says it&#39;ll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/241004/p1#a241004p1)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-4/#ftag=CAD590a51e)
  - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 4, #1203](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-4-1203/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 4, #215](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-4-215/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 4, #215](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-4-215/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 4, #481](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-4-481/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

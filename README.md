@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
  - 😝 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
- - 💣 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
+ - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
 
 ---
 

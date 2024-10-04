@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Gemini e-mail searches arrive ahead of Apple Intelligence](https://appleinsider.com/articles/24/10/04/google-gemini-e-mail-searches-arrive-ahead-of-apple-intelligence?utm_medium=rss)
+ - [iPhone 16 reviews, photography, and battery life on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/04/iphone-16-reviews-photography-and-battery-life-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Get ready to meet your AI best friend](https://www.theverge.com/2024/10/4/24261989/ai-companion-microsoft-copilot-openai-directv-dish-vergecast)
  - [Meta announces Movie Gen, which creates videos up to 16 seconds long based on a text prompt; Meta plans to make it available on its apps in 2025 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/241004/p9#a241004p9)
- - [Joker: Folie à Deux can barely hold a tune](https://www.theverge.com/2024/10/4/24261206/joker-folie-a-deux-review)
- - [Snoop Dogg, Martha Stewart, and Bic are somehow all involved in this weird iPhone case](https://www.theverge.com/2024/10/4/24261942/bic-iphone-15-case-martha-stewart-snoop-dogg)
- - [Meta announces Movie Gen, a collection of AI models for generating realistic video and audioclips; Movie Gen Video has 30B parameters and Audio has 13B &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/241004/p8#a241004p8)
- - [WordPress co-founder is paying employees to leave if they disagree with him](https://www.theverge.com/2024/10/4/24261931/wordpress-matt-mullenweg-automattic-employee-pay-package)<!-- TECH:END -->
+ - [Joker: Folie à Deux can barely hold a tune](https://www.theverge.com/2024/10/4/24261206/joker-folie-a-deux-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

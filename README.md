@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail for iOS gets an AI assistant to help manage your inbox](https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support)
- - [The CJEU rules that social networks, such as Facebook, cannot keep using people&#39;s data for ad targeting indefinitely, siding with privacy campaigner Max Schrems &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241004/p7#a241004p7)
- - [So You Can 3D Print a Steak Now—but Why on Earth Would You?](https://www.wired.com/story/so-you-can-3d-print-a-steak-now-but-why-on-earth-would-you/)
- - [Epic and Disney want to make ‘what every Disney fan has ever wanted’](https://www.theverge.com/2024/10/4/24261555/epic-disney-fortnite-unreal-fest)
- - [Rivian now says it will make fewer electric vehicles this year than it did in 2023](https://www.theverge.com/2024/10/4/24261908/rivian-q3-production-delivery-forecast-supply-shortage)<!-- TECH:END -->
+ - [WordPress co-founder is paying employees to leave if they disagree with him](https://www.theverge.com/2024/10/4/24261931/wordpress-matt-mullenweg-automattic-employee-pay-package)
+ - [How to Use AI to Make a Work Presentation](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-make-a-work-presentation/#ftag=CAD590a51e)
+ - [AI&#39;s Big Gift to Society Is … Pithy Summaries?](https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/)
+ - [Meta’s Movie Gen Makes Convincing AI Video Clips](https://www.wired.com/story/meta-movie-gen-ai-model/)
+ - [Apple Cider Vinegar: 12 Different Ways to Use It at Home, and All Its Health Benefits](https://www.cnet.com/health/nutrition/apple-cider-vinegar-health-benefits-kitchen-staple/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

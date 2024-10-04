@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 😝 [Jennifer Lopez visits her childhood home, and the new owner has no idea who she is](http://9gag.com/gag/aGyZYo0)
- - 💣 [She seems nice](http://9gag.com/gag/agmnyp1)
  - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 💣 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
 
 ---
 

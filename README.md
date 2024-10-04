@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Can’t Use Sexual Orientation to Target Ads in the EU, Court Rules](https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/)
  - [Rumor: Apple tapping display supplier Novatek for iPhone 17 Air](https://appleinsider.com/articles/24/10/04/rumor-apple-tapping-display-supplier-novatek-for-iphone-17-air?utm_medium=rss)
- - [Meta launches a Gen Z-focused redesign of Facebook, including a Local tab in 10 US cities, an Explore tab, and a full-screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)
- - [Financial newsletter accuses Roblox of enabling child abuse](https://www.theverge.com/2024/10/4/24262033/roblox-the-bear-cave-child-abuse)
- - [A buggy Samsung smart home update broke old Galaxy S10 phones, but there’s a fix](https://www.theverge.com/2024/10/4/24261940/samsung-smart-home-smartthings-bug-bootloop-galaxy-s10-note-10)
- - [Facebook is going to show you even more content from accounts you don’t follow](https://www.theverge.com/2024/10/4/24261170/facebook-recommendations-explore-local-tab-tiktok)<!-- TECH:END -->
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [Register Online to Vote? Not in These 7 States](https://www.cnet.com/news/politics/want-to-register-to-vote-online-youre-out-of-luck-if-you-live-in-these-7-states/#ftag=CAD590a51e)
+ - [Ease Your Anxiety Naturally With These 8 Everyday Foods](https://www.cnet.com/health/mental/ease-your-anxiety-naturally-with-these-8-everyday-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

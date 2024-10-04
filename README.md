@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Up to 65% Off Walmart Promo Codes &amp; Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [The Meteoric Rise of Temu and Pinduoduo—and What Might Finally Slow Them Down](https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/)
  - [Google says it&#39;ll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/241004/p1#a241004p1)
  - [Today&#39;s NYT Mini Crossword Answers for Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-4/#ftag=CAD590a51e)
- - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 4, #1203](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-4-1203/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

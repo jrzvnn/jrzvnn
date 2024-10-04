@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is testing verified checkmarks in search](https://www.theverge.com/2024/10/4/24261877/google-search-verified-checkmarks-experiment-feature)
  - [A postmortem of HyperWrite&#39;s Reflection 70B model blames &quot;a bug in the initial code for benchmarking&quot;, after evaluators couldn&#39;t reproduce some claimed results &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241004/p2#a241004p2)
  - [Up to 65% Off Walmart Promo Codes &amp; Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [The Meteoric Rise of Temu and Pinduoduo—and What Might Finally Slow Them Down](https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/)
- - [Google says it&#39;ll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/241004/p1#a241004p1)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it&#39;ll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/241004/p1#a241004p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

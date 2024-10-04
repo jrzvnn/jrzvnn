@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Mark Zuckerberg aims to be politically &quot;neutral&quot;, some argue he&#39;s placating critics like Trump; source: Nick Clegg now makes most election policy decisions &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241004/p15#a241004p15)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [The US Is Loading Up on Bird Flu Vaccine](https://www.wired.com/story/us-loading-up-on-bird-flu-vaccine/)
  - [8 Best Products for Eczema with the National Eczema Association&#39;s Seal of Acceptance](https://www.cnet.com/health/personal-care/best-products-for-eczema/#ftag=CAD590a51e)
- - [Walmart Holiday Deals: Shop Early Discounts on Tech, Appliances, Outdoor and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-4/#ftag=CAD590a51e)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Holiday Deals: Shop Early Discounts on Tech, Appliances, Outdoor and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

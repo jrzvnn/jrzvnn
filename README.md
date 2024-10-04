@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian now says it will make fewer electric vehicles this year than it did in 2023](https://www.theverge.com/2024/10/4/24261908/rivian-q3-production-delivery-forecast-supply-shortage)
- - [How This Video Game Controller Became the US Military’s Weapon of Choice](https://www.wired.com/story/fmcu-us-military-controller/)
- - [Robinhood plans to debut margin trading in UK in the coming weeks; it is exploring offering retirement products and letting British users invest in UK stocks &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p6#a241004p6)
- - [Cupertino wins a battle but loses the war over California&#39;s Apple tax ruling](https://appleinsider.com/articles/24/10/04/cupertino-wins-and-loses-millions-over-californias-apple-tax-ruling?utm_medium=rss)
- - [ChatGPT’s ‘canvas’ interface makes it easier to write and code](https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface)<!-- TECH:END -->
+ - [Gmail for iOS gets an AI assistant to help manage your inbox](https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support)
+ - [The CJEU rules that social networks, such as Facebook, cannot keep using people&#39;s data for ad targeting indefinitely, siding with privacy campaigner Max Schrems &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241004/p7#a241004p7)
+ - [So You Can 3D Print a Steak Now—but Why on Earth Would You?](https://www.wired.com/story/so-you-can-3d-print-a-steak-now-but-why-on-earth-would-you/)
+ - [Epic and Disney want to make ‘what every Disney fan has ever wanted’](https://www.theverge.com/2024/10/4/24261555/epic-disney-fortnite-unreal-fest)
+ - [Rivian now says it will make fewer electric vehicles this year than it did in 2023](https://www.theverge.com/2024/10/4/24261908/rivian-q3-production-delivery-forecast-supply-shortage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

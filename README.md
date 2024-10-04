@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Is Loading Up on Bird Flu Vaccine](https://www.wired.com/story/us-loading-up-on-bird-flu-vaccine/)
  - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
  - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)
- - [The smartphone-sized Boox Palma e-reader’s on sale exclusively for Verge readers](https://www.theverge.com/2024/10/4/24262072/boox-palma-e-reader-deal-sale)
- - [The Oura Ring Gen 3, our favorite smart ring, is nearly matching its best price to date](https://www.theverge.com/2024/10/4/24261151/oura-ring-generation-3-amazon-fire-tv-cube-deal-sale)
- - [Cloudflare says it stopped a month long DDoS campaign targeting orgs in financial services, internet, and telecommunications sectors, that peaked at 3.8Tbps &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/241004/p14#a241004p14)<!-- TECH:END -->
+ - [The smartphone-sized Boox Palma e-reader’s on sale exclusively for Verge readers](https://www.theverge.com/2024/10/4/24262072/boox-palma-e-reader-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

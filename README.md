@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man of culture...](http://9gag.com/gag/a873jyO)
- - 😝 [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)
- - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
- - 😝 [Everything is in the numbers](http://9gag.com/gag/aoyejy2)
- - 👉 [Not mine. But pre cool](http://9gag.com/gag/aryG47y)<!-- MEMES:END -->
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 😝 [Jennifer Lopez visits her childhood home, and the new owner has no idea who she is](http://9gag.com/gag/aGyZYo0)
+ - 💣 [She seems nice](http://9gag.com/gag/agmnyp1)
+ - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 

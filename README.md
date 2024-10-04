@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 😝 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
- - 👉 [No P.Diddy](http://9gag.com/gag/a5QMPzN)<!-- MEMES:END -->
+ - 😝 [This might be the best selfie ever](http://9gag.com/gag/aBy03RO)
+ - 😝 [Oh dear](http://9gag.com/gag/aQzR4R8)
+ - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 😝 [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)
+ - 👉 [Not mine. But pre cool](http://9gag.com/gag/aryG47y)<!-- MEMES:END -->
 
 ---
 

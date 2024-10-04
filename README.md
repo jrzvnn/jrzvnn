@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 😝 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
  - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 💣 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
- - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
+ - 💣 [She seems nice](http://9gag.com/gag/agmnyp1)
+ - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
 
 ---
 

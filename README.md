@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
- - 😝 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
- - 💣 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
- - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
+ - 😝 [And it&#39;s even funnier the second time](http://9gag.com/gag/aLngBG5)
+ - 😝 [Give a little gratitude to this crew from the future!](http://9gag.com/gag/axyzGWY)
+ - 💣 [Oh look, a meme and not war propoganda.](http://9gag.com/gag/aW4YOrA)
+ - 😝 [When a dog barks at you, bark back loud and fierce](http://9gag.com/gag/awyAx0R)
+ - 👉 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)<!-- MEMES:END -->
 
 ---
 

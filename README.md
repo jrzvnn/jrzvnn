@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
- - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
- - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
+ - 😝 [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)
+ - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 💣 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 👉 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)<!-- MEMES:END -->
 
 ---
 

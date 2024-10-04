@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
- - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 👉 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)<!-- MEMES:END -->
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 💣 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
+ - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 👉 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)<!-- MEMES:END -->
 
 ---
 

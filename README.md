@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
  - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 💣 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 😝 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
- - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
+ - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 👉 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)<!-- MEMES:END -->
 
 ---
 

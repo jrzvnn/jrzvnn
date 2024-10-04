@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cupertino wins and loses millions over California&#39;s Apple tax ruling](https://appleinsider.com/articles/24/10/04/cupertino-wins-and-loses-millions-over-californias-apple-tax-ruling?utm_medium=rss)
+ - [Wastewater Offers an Early Alarm System for Another Deadly Virus](https://www.wired.com/story/wastewater-offers-an-early-alarm-system-for-a-deadly-virus/)
  - [Google is &quot;running a small experiment&quot; showing blue verified checkmarks beside business links in its search results that indicate the company is genuine &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241004/p5#a241004p5)
  - [25 Best Early Prime Day Deals on Products We’ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024/)
- - [Neo-Nazis Are Fleeing Telegram for Encrypted App SimpleX Chat](https://www.wired.com/story/neo-nazis-flee-telegram-encrypted-app-simplex/)
- - [Waymo is adding the Hyundai Ioniq 5 to its robotaxi fleet](https://www.theverge.com/2024/10/4/24261357/waymo-hyundai-ioniq-5-robotaxi-partnership)
- - [Matt Mullenweg says 159 Automattic employees, ~8.4% of staff, accepted a generous buyout package offered to those who disagreed with his direction of WordPress &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241004/p4#a241004p4)<!-- TECH:END -->
+ - [Don&#39;t Buy Google Drive Space. Save Money With These Tricks Instead](https://www.cnet.com/tech/services-and-software/dont-buy-google-drive-space-save-money-with-these-tricks-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

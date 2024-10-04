@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 💣 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 👉 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)<!-- MEMES:END -->
+ - 😝 [Man of culture...](http://9gag.com/gag/a873jyO)
+ - 😝 [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)
+ - 💣 [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 😝 [Everything is in the numbers](http://9gag.com/gag/aoyejy2)
+ - 👉 [Not mine. But pre cool](http://9gag.com/gag/aryG47y)<!-- MEMES:END -->
 
 ---
 

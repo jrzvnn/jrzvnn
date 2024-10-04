@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And it&#39;s even funnier the second time](http://9gag.com/gag/aLngBG5)
- - 😝 [Give a little gratitude to this crew from the future!](http://9gag.com/gag/axyzGWY)
- - 💣 [Oh look, a meme and not war propoganda.](http://9gag.com/gag/aW4YOrA)
- - 😝 [When a dog barks at you, bark back loud and fierce](http://9gag.com/gag/awyAx0R)
- - 👉 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)<!-- MEMES:END -->
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 💣 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 😝 [That dude can&#39;t hold it!!!](http://9gag.com/gag/aGyZxgn)
+ - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
 
 ---
 

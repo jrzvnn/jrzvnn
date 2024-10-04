@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
  - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 💣 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 😝 [That dude can&#39;t hold it!!!](http://9gag.com/gag/aGyZxgn)
- - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 💣 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
+ - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
 
 ---
 

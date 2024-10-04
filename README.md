@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to install macOS Sequoia on unsupported Macs](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-macos-sequoia-on-unsupported-macs?utm_medium=rss)
  - [Intel says its Raptor Lake crashing chip nightmare is over](https://www.theverge.com/2024/10/4/24262287/intel-13th-14th-gen-crash-raptor-lake-root-cause-fix)
- - [Help Hurricane Helene Survivors and Impacted Communities: Donations, Relief Efforts and More](https://www.cnet.com/how-to/help-hurricane-helene-survivors-and-impacted-communities-donations-relief-efforts-and-more/#ftag=CAD590a51e)
- - [Amazon October Prime Day: The Top Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [Ben Horowitz says he and his wife plan to make a &quot;significant&quot; personal donation to Harris&#39; campaign; Horowitz and Marc Andreessen endorsed Trump in July &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241004/p17#a241004p17)<!-- TECH:END -->
+ - [Ben Horowitz says he and his wife plan to make a &quot;significant&quot; personal donation to Harris&#39; campaign; Horowitz and Marc Andreessen endorsed Trump in July &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241004/p17#a241004p17)
+ - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)
+ - [Best Early Prime Deals to Save Big on TVs](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

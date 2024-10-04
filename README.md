@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 💣 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
+ - 😝 [Modern wonder](http://9gag.com/gag/aNDYZ34)
+ - 😝 [This might be the best selfie ever](http://9gag.com/gag/aBy03RO)
+ - 💣 [For the boys...](http://9gag.com/gag/aNDYem3)
+ - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
+ - 👉 [Oh dear](http://9gag.com/gag/aQzR4R8)<!-- MEMES:END -->
 
 ---
 

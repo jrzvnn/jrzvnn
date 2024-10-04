@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 😝 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
+ - 💣 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
  - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
- - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
+ - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
 
 ---
 

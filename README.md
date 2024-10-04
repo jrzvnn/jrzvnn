@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare says it stopped a month long DDoS campaign targeting orgs in financial services, internet, and telecommunications sectors, that peaked at 3.8Tbps &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/241004/p14#a241004p14)
  - [Coinbase says it will delist all unauthorized stablecoins, like Tether&#39;s USDT, from its exchange in the EEA by 2024&#39;s end, to comply with the EU&#39;s MiCA rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241004/p13#a241004p13)
  - [She Asked TikTok If Her House Was Haunted. Then the Cops Came](https://www.wired.com/story/tiktok-rug-buried-investigation-haunting/)
  - [How to make an external bootable drive in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-make-an-external-bootable-drive-in-macos-sequoia?utm_medium=rss)
- - [Meta Can’t Use Sexual Orientation to Target Ads in the EU, Court Rules](https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/)
- - [Rumor: Apple tapping display supplier Novatek for iPhone 17 Air](https://appleinsider.com/articles/24/10/04/rumor-apple-tapping-display-supplier-novatek-for-iphone-17-air?utm_medium=rss)<!-- TECH:END -->
+ - [Meta Can’t Use Sexual Orientation to Target Ads in the EU, Court Rules](https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

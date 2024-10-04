@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [Secure Your New iPhone 16 With Apple Cases Now Just $30 For Prime Day](https://www.cnet.com/deals/secure-your-new-iphone-16-with-apple-cases-now-just-30-for-prime-day/#ftag=CAD590a51e)
+ - [Best Prime Day Roku Deals: Grab Discounts on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-04/#ftag=CAD590a51e)
  - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
- - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)
- - [From AOL Time Warner to DirecTV and Dish: 20 years of media mergers](https://www.theverge.com/2024/10/4/24259360/directv-dish-merger-timeline-aol-timewarner)
- - [As Mark Zuckerberg aims to be politically &quot;neutral&quot;, some argue he&#39;s placating critics like Trump; source: Nick Clegg now makes most election policy decisions &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241004/p15#a241004p15)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
  - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
+ - 💣 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 😝 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
 
 ---
 

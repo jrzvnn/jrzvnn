@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 💣 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
  - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 👉 [Audrey Tautou getting her hair cut for Am\u00e9lie &lpar;2001&rpar;](http://9gag.com/gag/azx9bMZ)<!-- MEMES:END -->
+ - 😝 [Talk about science](http://9gag.com/gag/aYQYbKV)
+ - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
+ - 👉 [Oh dear](http://9gag.com/gag/aQzR4R8)<!-- MEMES:END -->
 
 ---
 

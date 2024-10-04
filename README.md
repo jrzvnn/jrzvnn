@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
  - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)
  - [The smartphone-sized Boox Palma e-reader’s on sale exclusively for Verge readers](https://www.theverge.com/2024/10/4/24262072/boox-palma-e-reader-deal-sale)
- - [The Oura Ring Gen 3, our favorite smart ring, is nearly matching its best price to date](https://www.theverge.com/2024/10/4/24261151/oura-ring-generation-3-amazon-fire-tv-cube-deal-sale)
- - [Cloudflare says it stopped a month long DDoS campaign targeting orgs in financial services, internet, and telecommunications sectors, that peaked at 3.8Tbps &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/241004/p14#a241004p14)
- - [Best Prime Day Apple Deals: Early Discounts on iPads, MacBooks, Watches, AirPods and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This 13-in-1 Ninja Air Fryer Is Over 35% Off Ahead of October Prime Day](https://www.cnet.com/deals/this-13-in-1-ninja-air-fryer-is-over-35-off-ahead-of-october-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

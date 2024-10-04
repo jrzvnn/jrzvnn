@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [MKBHD’s wallpaper app updated with fewer ads](https://www.theverge.com/2024/10/4/24262350/mkbhd-panels-wallpaper-app-fewer-ads-update)
- - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
- - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)
- - [From AOL Time Warner to DirecTV and Dish: 20 years of media mergers](https://www.theverge.com/2024/10/4/24259360/directv-dish-merger-timeline-aol-timewarner)<!-- TECH:END -->
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [Secure Your New iPhone 16 With Apple Cases Now Just $30 For Prime Day](https://www.cnet.com/deals/secure-your-new-iphone-16-with-apple-cases-now-just-30-for-prime-day/#ftag=CAD590a51e)
+ - [Best Prime Day Roku Deals: Grab Discounts on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

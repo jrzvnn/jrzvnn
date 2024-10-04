@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches a Gen-Z focused redesign for Facebook, including a Local tab in 10 US cities, an Explore tab, and a full screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)
+ - [Rumor: Apple tapping display supplier Novatek for iPhone 17 Air](https://appleinsider.com/articles/24/10/04/rumor-apple-tapping-display-supplier-novatek-for-iphone-17-air?utm_medium=rss)
+ - [Meta launches a Gen Z-focused redesign of Facebook, including a Local tab in 10 US cities, an Explore tab, and a full-screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)
  - [Financial newsletter accuses Roblox of enabling child abuse](https://www.theverge.com/2024/10/4/24262033/roblox-the-bear-cave-child-abuse)
  - [A buggy Samsung smart home update broke old Galaxy S10 phones, but there’s a fix](https://www.theverge.com/2024/10/4/24261940/samsung-smart-home-smartthings-bug-bootloop-galaxy-s10-note-10)
- - [Facebook is going to show you even more content from accounts you don’t follow](https://www.theverge.com/2024/10/4/24261170/facebook-recommendations-explore-local-tab-tiktok)
- - [TSMC-Amkor chip packaging deal will boost Apple chip production in the US](https://appleinsider.com/articles/24/10/04/tsmc-amkor-chip-packaging-deal-will-boost-apple-chip-production-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook is going to show you even more content from accounts you don’t follow](https://www.theverge.com/2024/10/4/24261170/facebook-recommendations-explore-local-tab-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

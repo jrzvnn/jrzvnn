@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [She Asked TikTok If Her House Was Haunted. Then the Cops Came](https://www.wired.com/story/tiktok-rug-buried-investigation-haunting/)
+ - [How to make an external bootable drive in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-make-an-external-bootable-drive-in-macos-sequoia?utm_medium=rss)
  - [Meta Can’t Use Sexual Orientation to Target Ads in the EU, Court Rules](https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/)
  - [Rumor: Apple tapping display supplier Novatek for iPhone 17 Air](https://appleinsider.com/articles/24/10/04/rumor-apple-tapping-display-supplier-novatek-for-iphone-17-air?utm_medium=rss)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [Register Online to Vote? Not in These 7 States](https://www.cnet.com/news/politics/want-to-register-to-vote-online-youre-out-of-luck-if-you-live-in-these-7-states/#ftag=CAD590a51e)
- - [Ease Your Anxiety Naturally With These 8 Everyday Foods](https://www.cnet.com/health/mental/ease-your-anxiety-naturally-with-these-8-everyday-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

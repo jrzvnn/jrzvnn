@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 😝 [Sound engineer doing the right thing.](http://9gag.com/gag/aD2100G)
- - 💣 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
+ - 😝 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 💣 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
+ - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
 
 ---
 

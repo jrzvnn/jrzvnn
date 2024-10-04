@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How This Video Game Controller Became the US Military’s Weapon of Choice](https://www.wired.com/story/fmcu-us-military-controller/)
+ - [Robinhood plans to debut margin trading in UK in the coming weeks; it is exploring offering retirement products and letting British users invest in UK stocks &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p6#a241004p6)
+ - [Cupertino wins a battle but loses the war over California&#39;s Apple tax ruling](https://appleinsider.com/articles/24/10/04/cupertino-wins-and-loses-millions-over-californias-apple-tax-ruling?utm_medium=rss)
  - [ChatGPT’s ‘canvas’ interface makes it easier to write and code](https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface)
- - [The Trolling of the &#39;Minecraft Movie&#39; Trailer Isn’t Exactly What You Think](https://www.wired.com/story/the-trolling-of-the-minecraft-movie-trailer-isnt-exactly-what-you-think/)
- - [Cupertino wins and loses millions over California&#39;s Apple tax ruling](https://appleinsider.com/articles/24/10/04/cupertino-wins-and-loses-millions-over-californias-apple-tax-ruling?utm_medium=rss)
- - [Wastewater Offers an Early Alarm System for Another Deadly Virus](https://www.wired.com/story/wastewater-offers-an-early-alarm-system-for-a-deadly-virus/)
- - [Google is &quot;running a small experiment&quot; showing blue verified checkmarks beside business links in its search results that indicate the company is genuine &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241004/p5#a241004p5)<!-- TECH:END -->
+ - [The Trolling of the &#39;Minecraft Movie&#39; Trailer Isn’t Exactly What You Think](https://www.wired.com/story/the-trolling-of-the-minecraft-movie-trailer-isnt-exactly-what-you-think/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

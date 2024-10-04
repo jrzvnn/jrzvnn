@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 😝 [Homie called customer service](http://9gag.com/gag/adBLN8B)
- - 💣 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
- - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 💣 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 😝 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
  - 👉 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)<!-- MEMES:END -->
 
 ---

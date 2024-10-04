@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces Movie Gen, an AI-powered video generator](https://www.theverge.com/2024/10/4/24261990/meta-movie-gen-ai-video-generator-openai-sora)
- - [7 Best Digital Photo Frames &lpar;2024&rpar;: Wi-Fi, High-Res, and Artwork](https://www.wired.com/gallery/best-digital-picture-frames/)
- - [Sources: Tencent and Ubisoft&#39;s founding Guillemot family are considering options including a buyout of Ubisoft after it lost 50%+ of its market value this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p10#a241004p10)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2024&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say a Linux malware named &quot;perfctl&quot; has been targeting Linux servers to mine the hard-to-trace Monero cryptocurrency for at least three years &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241004/p11#a241004p11)
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [I Made a Reel for Job Applications Using AI. I Wasn&#39;t Blown Away](https://www.cnet.com/tech/services-and-software/i-made-a-reel-for-job-applications-using-ai-i-wasnt-blown-away/#ftag=CAD590a51e)
+ - [The Black List Upended the Film Industry. The Book World Is Next](https://www.wired.com/story/dial-up-franklin-leonard-the-black-list/)
+ - [Best Prime Day Deals Under $50: Big Discounts on Tech, Home Goods and Everyday Essentials](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

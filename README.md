@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tencent and Ubisoft&#39;s founding Guillemot family are considering options including a buyout of Ubisoft after it lost 50%+ of its market value this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p10#a241004p10)
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2024&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [Hasbro is bringing classic board games to Fortnite, starting with Clue](https://www.theverge.com/2024/10/4/24261095/hasbro-board-games-fortnite)
  - [Google Gemini e-mail searches arrive ahead of Apple Intelligence](https://appleinsider.com/articles/24/10/04/google-gemini-e-mail-searches-arrive-ahead-of-apple-intelligence?utm_medium=rss)
- - [iPhone 16 reviews, photography, and battery life on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/04/iphone-16-reviews-photography-and-battery-life-on-the-appleinsider-podcast?utm_medium=rss)
- - [Get ready to meet your AI best friend](https://www.theverge.com/2024/10/4/24261989/ai-companion-microsoft-copilot-openai-directv-dish-vergecast)
- - [Meta announces Movie Gen, which creates videos up to 16 seconds long based on a text prompt; Meta plans to make it available on its apps in 2025 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/241004/p9#a241004p9)
- - [Joker: Folie à Deux can barely hold a tune](https://www.theverge.com/2024/10/4/24261206/joker-folie-a-deux-review)<!-- TECH:END -->
+ - [iPhone 16 reviews, photography, and battery life on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/04/iphone-16-reviews-photography-and-battery-life-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

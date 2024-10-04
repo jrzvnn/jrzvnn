@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CCData: Binance&#39;s share of digital asset trading volume fell to 36.6% in September, down from 42.7% at the start of 2024, the lowest level in four years &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241003/p37#a241003p37)
+ - [Apple&#39;s spooky Q4 2024 earnings are on Halloween](https://appleinsider.com/articles/24/10/04/apples-spooky-q4-2024-earnings-are-on-halloween?utm_medium=rss)
+ - [CCData: Binance&#39;s trading volume in the $2T digital asset market fell from 42.7% at the start of 2024 to 36.6% in September, the lowest share since January 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241003/p37#a241003p37)
+ - [Biden&#39;s Student Loan Forgiveness Plan Blocked Again](https://www.cnet.com/personal-finance/loans/bidens-student-loan-forgiveness-plan-blocked-again/#ftag=CAD590a51e)
  - [Get Better Reception on Your iPhone or Android, No Matter Where You Go](https://www.cnet.com/tech/mobile/get-better-reception-on-your-iphone-or-android-no-matter-where-you-go/#ftag=CAD590a51e)
- - [Here&#39;s How to Get Free At-Home COVID-19 Tests From USPS](https://www.cnet.com/health/heres-how-to-get-free-at-home-covid-19-tests-from-usps/#ftag=CAD590a51e)
- - [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://www.theverge.com/2024/10/3/24261313/ford-expedition-2025-android-automotive-digital-experience)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
+ - [Here&#39;s How to Get Free At-Home COVID-19 Tests From USPS](https://www.cnet.com/health/heres-how-to-get-free-at-home-covid-19-tests-from-usps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

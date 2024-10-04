@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
+ - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)
+ - [From AOL Time Warner to DirecTV and Dish: 20 years of media mergers](https://www.theverge.com/2024/10/4/24259360/directv-dish-merger-timeline-aol-timewarner)
  - [As Mark Zuckerberg aims to be politically &quot;neutral&quot;, some argue he&#39;s placating critics like Trump; source: Nick Clegg now makes most election policy decisions &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241004/p15#a241004p15)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The US Is Loading Up on Bird Flu Vaccine](https://www.wired.com/story/us-loading-up-on-bird-flu-vaccine/)
- - [8 Best Products for Eczema with the National Eczema Association&#39;s Seal of Acceptance](https://www.cnet.com/health/personal-care/best-products-for-eczema/#ftag=CAD590a51e)
- - [Walmart Holiday Deals: Shop Early Discounts on Tech, Appliances, Outdoor and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

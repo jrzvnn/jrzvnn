@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Financial newsletter accuses Roblox of enabling child abuse](https://www.theverge.com/2024/10/4/24262033/roblox-the-bear-cave-child-abuse)
  - [A buggy Samsung smart home update broke old Galaxy S10 phones, but there’s a fix](https://www.theverge.com/2024/10/4/24261940/samsung-smart-home-smartthings-bug-bootloop-galaxy-s10-note-10)
  - [Facebook is going to show you even more content from accounts you don’t follow](https://www.theverge.com/2024/10/4/24261170/facebook-recommendations-explore-local-tab-tiktok)
  - [TSMC-Amkor chip packaging deal will boost Apple chip production in the US](https://appleinsider.com/articles/24/10/04/tsmc-amkor-chip-packaging-deal-will-boost-apple-chip-production-in-the-us?utm_medium=rss)
- - [Researchers say a Linux malware named &quot;perfctl&quot; has been targeting Linux servers to mine the hard-to-trace Monero cryptocurrency for at least three years &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241004/p11#a241004p11)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say a Linux malware named &quot;perfctl&quot; has been targeting Linux servers to mine the hard-to-trace Monero cryptocurrency for at least three years &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241004/p11#a241004p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 💣 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
+ - 😝 [Sound engineer doing the right thing.](http://9gag.com/gag/aD2100G)
+ - 💣 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
  - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
 
 ---

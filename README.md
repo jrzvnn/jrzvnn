@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC-Amkor chip packaging deal will boost Apple chip production in the US](https://appleinsider.com/articles/24/10/04/tsmc-amkor-chip-packaging-deal-will-boost-apple-chip-production-in-the-us?utm_medium=rss)
  - [Researchers say a Linux malware named &quot;perfctl&quot; has been targeting Linux servers to mine the hard-to-trace Monero cryptocurrency for at least three years &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241004/p11#a241004p11)
  - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
  - [I Made a Reel for Job Applications Using AI. I Wasn&#39;t Blown Away](https://www.cnet.com/tech/services-and-software/i-made-a-reel-for-job-applications-using-ai-i-wasnt-blown-away/#ftag=CAD590a51e)
- - [The Black List Upended the Film Industry. The Book World Is Next](https://www.wired.com/story/dial-up-franklin-leonard-the-black-list/)
- - [Best Prime Day Deals Under $50: Big Discounts on Tech, Home Goods and Everyday Essentials](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Black List Upended the Film Industry. The Book World Is Next](https://www.wired.com/story/dial-up-franklin-leonard-the-black-list/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

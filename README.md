@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
- - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 💣 [Sound engineer doing the right thing.](http://9gag.com/gag/aD2100G)
  - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 👉 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)<!-- MEMES:END -->
+ - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 💣 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
 
 ---
 

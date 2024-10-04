@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WordPress co-founder is paying employees to leave if they disagree with him](https://www.theverge.com/2024/10/4/24261931/wordpress-matt-mullenweg-automattic-employee-pay-package)
- - [How to Use AI to Make a Work Presentation](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-make-a-work-presentation/#ftag=CAD590a51e)
- - [AI&#39;s Big Gift to Society Is … Pithy Summaries?](https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/)
- - [Meta’s Movie Gen Makes Convincing AI Video Clips](https://www.wired.com/story/meta-movie-gen-ai-model/)
- - [Apple Cider Vinegar: 12 Different Ways to Use It at Home, and All Its Health Benefits](https://www.cnet.com/health/nutrition/apple-cider-vinegar-health-benefits-kitchen-staple/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta announces Movie Gen, which creates videos up to 16 seconds long based on a text prompt; Meta plans to make it available on its apps in 2025 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/241004/p9#a241004p9)
+ - [Joker: Folie à Deux can barely hold a tune](https://www.theverge.com/2024/10/4/24261206/joker-folie-a-deux-review)
+ - [Snoop Dogg, Martha Stewart, and Bic are somehow all involved in this weird iPhone case](https://www.theverge.com/2024/10/4/24261942/bic-iphone-15-case-martha-stewart-snoop-dogg)
+ - [Meta announces Movie Gen, a collection of AI models for generating realistic video and audioclips; Movie Gen Video has 30B parameters and Audio has 13B &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/241004/p8#a241004p8)
+ - [WordPress co-founder is paying employees to leave if they disagree with him](https://www.theverge.com/2024/10/4/24261931/wordpress-matt-mullenweg-automattic-employee-pay-package)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

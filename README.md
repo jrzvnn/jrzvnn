@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the boys...](http://9gag.com/gag/aNDYem3)
- - 😝 [Not mine. But pre cool](http://9gag.com/gag/aryG47y)
- - 💣 [Modern wonder](http://9gag.com/gag/aNDYZ34)
- - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
- - 👉 [Oh dear](http://9gag.com/gag/aQzR4R8)<!-- MEMES:END -->
+ - 😝 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
+ - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
+ - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 👉 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)<!-- MEMES:END -->
 
 ---
 

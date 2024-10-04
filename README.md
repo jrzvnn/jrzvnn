@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [The US Is Loading Up on Bird Flu Vaccine](https://www.wired.com/story/us-loading-up-on-bird-flu-vaccine/)
- - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)
- - [The smartphone-sized Boox Palma e-reader’s on sale exclusively for Verge readers](https://www.theverge.com/2024/10/4/24262072/boox-palma-e-reader-deal-sale)<!-- TECH:END -->
+ - [8 Best Products for Eczema with the National Eczema Association&#39;s Seal of Acceptance](https://www.cnet.com/health/personal-care/best-products-for-eczema/#ftag=CAD590a51e)
+ - [Walmart Holiday Deals: Shop Early Discounts on Tech, Appliances, Outdoor and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-4/#ftag=CAD590a51e)
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

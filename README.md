@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel says its Raptor Lake crashing chip nightmare is over](https://www.theverge.com/2024/10/4/24262287/intel-13th-14th-gen-crash-raptor-lake-root-cause-fix)
  - [In an email to a16z employees, Ben Horowitz says he and his wife plan to make a &quot;significant&quot; personal donation to Harris&#39; campaign; he endorsed Trump in July &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241004/p17#a241004p17)
  - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)
  - [Best Early Prime Deals to Save Big on TVs](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-04/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $25: Score Early Markdowns on Tech, Kitchen Appliances and More](https://www.cnet.com/deals/best-prime-day-deals-under-25/#ftag=CAD590a51e)
- - [Best Early Prime Day Deals Under $10: Score Savings on Tech, Daily Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Deals Under $25: Score Early Markdowns on Tech, Kitchen Appliances and More](https://www.cnet.com/deals/best-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)
- - [Apple&#39;s spooky Q4 2024 earnings are on Halloween](https://appleinsider.com/articles/24/10/04/apples-spooky-q4-2024-earnings-are-on-halloween?utm_medium=rss)
- - [CCData: Binance&#39;s trading volume in the $2T digital asset market fell from 42.7% at the start of 2024 to 36.6% in September, the lowest share since January 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241003/p37#a241003p37)
- - [Biden&#39;s Student Loan Forgiveness Plan Blocked Again](https://www.cnet.com/personal-finance/loans/bidens-student-loan-forgiveness-plan-blocked-again/#ftag=CAD590a51e)
- - [Get Better Reception on Your iPhone or Android, No Matter Where You Go](https://www.cnet.com/tech/mobile/get-better-reception-on-your-iphone-or-android-no-matter-where-you-go/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 4, #1203](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-4-1203/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 4, #215](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-4-215/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 4, #481](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-4-481/#ftag=CAD590a51e)
+ - [Apple&#39;s spooky Q4 2024 earnings are on Halloween](https://appleinsider.com/articles/24/10/04/apples-spooky-q4-2024-earnings-are-on-halloween?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

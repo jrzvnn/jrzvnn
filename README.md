@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Digital Photo Frames &lpar;2024&rpar;: Wi-Fi, High-Res, and Artwork](https://www.wired.com/gallery/best-digital-picture-frames/)
  - [Sources: Tencent and Ubisoft&#39;s founding Guillemot family are considering options including a buyout of Ubisoft after it lost 50%+ of its market value this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p10#a241004p10)
  - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2024&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [How to Find Your Dream Job Using AI](https://www.cnet.com/tech/services-and-software/how-to-find-your-dream-job-using-ai/#ftag=CAD590a51e)
- - [The Best Horror Movies to Watch on Max in October](https://www.cnet.com/tech/services-and-software/best-horror-movies-on-max-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hasbro is bringing classic board games to Fortnite, starting with Clue](https://www.theverge.com/2024/10/4/24261095/hasbro-board-games-fortnite)
+ - [Google Gemini e-mail searches arrive ahead of Apple Intelligence](https://appleinsider.com/articles/24/10/04/google-gemini-e-mail-searches-arrive-ahead-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AI research team releases Depth Pro, an AI model that can generate a 2.25-megapixel depth map in 0.3 seconds on a standard GPU, using a single image &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241004/p16#a241004p16)
  - [The latest on the WordPress fight over trademarks and open source](https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg)
  - [Amazon October Prime Day: The Top Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
  - [Save $23 on the TP-Link Tapo Video Doorbell This Prime Day](https://www.cnet.com/deals/save-23-on-the-tp-link-tapo-video-doorbell-this-prime-day/#ftag=CAD590a51e)
- - [Waymo’s New Agreement With Hyundai Raises Questions About China](https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/)
- - [Sennheiser Momentum 3 Earbuds Less Than $100 Right Now For Prime Day](https://www.cnet.com/deals/sennheiser-momentum-3-earbuds-less-than-100-right-now-for-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo’s New Agreement With Hyundai Raises Questions About China](https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Oura Ring Gen 3, our favorite smart ring, is nearly matching its best price to date](https://www.theverge.com/2024/10/4/24261151/oura-ring-generation-3-amazon-fire-tv-cube-deal-sale)
  - [Cloudflare says it stopped a month long DDoS campaign targeting orgs in financial services, internet, and telecommunications sectors, that peaked at 3.8Tbps &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/241004/p14#a241004p14)
- - [Coinbase says it will delist all unauthorized stablecoins, like Tether&#39;s USDT, from its exchange in the EEA by 2024&#39;s end, to comply with the EU&#39;s MiCA rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241004/p13#a241004p13)
- - [She Asked TikTok If Her House Was Haunted. Then the Cops Came](https://www.wired.com/story/tiktok-rug-buried-investigation-haunting/)
- - [How to make an external bootable drive in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-make-an-external-bootable-drive-in-macos-sequoia?utm_medium=rss)
- - [Meta Can’t Use Sexual Orientation to Target Ads in the EU, Court Rules](https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/)<!-- TECH:END -->
+ - [Best Prime Day Apple Deals: Early Discounts on iPads, MacBooks, Watches, AirPods and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-10-04/#ftag=CAD590a51e)
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [This Inclusive Visual Guide Makes Hitting Your Protein Needs Easy](https://www.cnet.com/health/nutrition/this-inclusive-visual-guide-makes-hitting-your-protein-needs-easy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

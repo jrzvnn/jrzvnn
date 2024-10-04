@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 😝 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
- - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
+ - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
+ - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 👉 [The future is now young boi](http://9gag.com/gag/apRmvE8)<!-- MEMES:END -->
 
 ---
 

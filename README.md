@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
  - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 😝 [Jennifer Lopez visits her childhood home, and the new owner has no idea who she is](http://9gag.com/gag/aGyZYo0)
- - 💣 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 😝 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
+ - 💣 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
  - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
 
 ---

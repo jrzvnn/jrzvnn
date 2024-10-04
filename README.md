@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Making an RSV Vaccine Was a Challenge. Getting People to Take It Is the Next](https://www.wired.com/story/making-an-rsv-vaccine-was-a-challenge-getting-people-to-take-it-is-the-next/)
+ - [The CJEU sides with Max Schrems over his privacy dispute with Meta after an Austrian court asked CJEU if Facebook undermines GDPR with its use of data for ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241004/p3#a241004p3)
+ - [Making an RSV Vaccine Was Hard. Getting People to Take It Is Even Harder](https://www.wired.com/story/making-an-rsv-vaccine-was-a-challenge-getting-people-to-take-it-is-the-next/)
  - [The Secret Alchemy of Making Ice Cream](https://www.wired.com/story/inside-alchemy-ice-cream-making/)
- - [Google is testing verified checkmarks in search](https://www.theverge.com/2024/10/4/24261877/google-search-verified-checkmarks-experiment-feature)
- - [A postmortem of HyperWrite&#39;s Reflection 70B model blames &quot;a bug in the initial code for benchmarking&quot;, after evaluators couldn&#39;t reproduce some claimed results &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241004/p2#a241004p2)
- - [Up to 65% Off Walmart Promo Codes &amp; Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Best Savings Rates Today, Oct. 4, 2024: Take Advantage of High APYs While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-4-2024/#ftag=CAD590a51e)
+ - [Best October Prime Day TV Deals: Early Offers Discount Top TV Models by Over $1,000](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

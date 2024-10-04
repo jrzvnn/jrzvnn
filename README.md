@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern wonder](http://9gag.com/gag/aNDYZ34)
- - 😝 [This might be the best selfie ever](http://9gag.com/gag/aBy03RO)
- - 💣 [For the boys...](http://9gag.com/gag/aNDYem3)
+ - 😝 [For the boys...](http://9gag.com/gag/aNDYem3)
+ - 😝 [Not mine. But pre cool](http://9gag.com/gag/aryG47y)
+ - 💣 [Modern wonder](http://9gag.com/gag/aNDYZ34)
  - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
  - 👉 [Oh dear](http://9gag.com/gag/aQzR4R8)<!-- MEMES:END -->
 

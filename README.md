@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Android feature now rolling out locks your screen if your phone is swiped](https://www.theverge.com/2024/10/5/24262810/google-theft-detection-lock-rolling-out-android)
  - [Foxconn Q3: revenue up 20.2% YoY to ~$57.3B on strong AI server demand; consumer electronics revenue, including iPhones, was flat YoY; stock is up ~86% in 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/241005/p8#a241005p8)
  - [Amazon October Prime Day: 80+ Early Deals Across Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
  - [Earth&#39;s Mini-Moon: Everything You Need to Know About Our Temporary Second &#39;Moon&#39;](https://www.cnet.com/science/earths-mini-moon-everything-you-need-to-know-about-earths-temporary-second-moon/#ftag=CAD590a51e)
- - [Best Vacuums for Carpets in 2024](https://www.cnet.com/home/kitchen-and-household/best-vacuums-for-carpets/#ftag=CAD590a51e)
- - [Save a Massive $150 Off the Eero Wi-Fi 7 Mesh Router With This Early Prime Day Deal](https://www.cnet.com/deals/save-a-massive-150-off-the-eero-wi-fi-7-mesh-router-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vacuums for Carpets in 2024](https://www.cnet.com/home/kitchen-and-household/best-vacuums-for-carpets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

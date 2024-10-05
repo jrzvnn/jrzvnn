@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beats patent troll, wins suit over Secure Enclave tech](https://appleinsider.com/articles/24/10/05/apple-beats-patent-troll-wins-suit-over-secure-enclave-tech?utm_medium=rss)
- - [A deep dive into &quot;AI Neoclouds&quot;, a new breed of cloud compute providers built to offer GPU rentals, like Crusoe, Lambda Labs, and CoreWeave, and their economics &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241005/p12#a241005p12)
- - [Best Prime Day Monitor Deals: Score Big on Top Monitors From Acer, Samsung, and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-10-05/#ftag=CAD590a51e)
- - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; Here&#39;s 100 Great Ones I&#39;ve Found](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Soundbar Deals: Score Big on These TV Audio Deals](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best October Prime Day Deals Under $100: Save on Cookware, Apple Products, Skincare and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-05/#ftag=CAD590a51e)
+ - [Have You Tried Mouth Taping? What to Know About This Trend for Better Sleep](https://www.cnet.com/health/sleep/have-you-tried-mouth-taping-what-to-know-about-this-trend-for-better-sleep/#ftag=CAD590a51e)
+ - [Happiness Is in Your Hormones. The 4 Most Important Ones You Should Know About](https://www.cnet.com/health/mental/happiness-is-in-your-hormones-the-4-most-important-ones-you-should-know-about/#ftag=CAD590a51e)
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
+ - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; Here&#39;s 100 Great Ones I&#39;ve Found](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

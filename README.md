@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Beixiazhu, a Chinese village that was a hotspot of activity during the livestream shopping boom on Douyin, Kuaishou and other apps, became a cautionary tale &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/241005/p5#a241005p5)
- - [Hurricane Helene Destroyed Roads. Here’s How to Rebuild—and Flood-Proof Them for Next Time](https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/)
  - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Headphone Deals: Turn Up the Savings With Deals on AirPods, Bose, Sony and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best October Prime Day Deals Under $100: Save Big on Tech, Home Goods and So Much More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MLB Playoffs 2024: How to Watch the Division Series Today Without Cable](https://www.cnet.com/tech/services-and-software/mlb-playoffs-2024-how-to-watch-the-division-series-today-without-cable/#ftag=CAD590a51e)
+ - [Return Amazon Purchases at Kohl&#39;s for Free With These Simple Steps](https://www.cnet.com/deals/return-amazon-purchases-at-kohls-for-free-with-these-simple-steps/#ftag=CAD590a51e)
+ - [It&#39;s Really Easy to Record High-Quality Audio for Your Phone With the Rode Wireless Go II](https://www.cnet.com/deals/its-really-easy-to-record-high-quality-audio-for-your-phone-with-the-rode-wireless-go-ii/#ftag=CAD590a51e)
+ - [The Tap Dial Is My Favorite Accessory for Philips Hue Lights and I Use It Every Day](https://www.cnet.com/home/smart-home/the-tap-dial-is-my-favorite-accessory-for-philips-hue-lights-and-i-use-it-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
- - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
+ - 😝 [Time to weaponize grandpas old TV](http://9gag.com/gag/ayNB03X)
+ - 😝 [It catched up](http://9gag.com/gag/aryG42p)
  - 💣 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
  - 👉 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)<!-- MEMES:END -->
 
 ---

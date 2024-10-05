@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
+ - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
  - 😝 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
- - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
  - 👉 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)<!-- MEMES:END -->
 
 ---

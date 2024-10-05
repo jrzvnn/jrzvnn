@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI Still Hasn’t Cracked NYC Mayor Eric Adams’ Phone](https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/)
  - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-05/#ftag=CAD590a51e)
  - [MLB Playoffs 2024: How to Watch the Division Series Today Without Cable](https://www.cnet.com/tech/services-and-software/mlb-playoffs-2024-how-to-watch-the-division-series-today-without-cable/#ftag=CAD590a51e)
  - [Return Amazon Purchases at Kohl&#39;s for Free With These Simple Steps](https://www.cnet.com/deals/return-amazon-purchases-at-kohls-for-free-with-these-simple-steps/#ftag=CAD590a51e)
- - [It&#39;s Really Easy to Record High-Quality Audio for Your Phone With the Rode Wireless Go II](https://www.cnet.com/deals/its-really-easy-to-record-high-quality-audio-for-your-phone-with-the-rode-wireless-go-ii/#ftag=CAD590a51e)
- - [The Tap Dial Is My Favorite Accessory for Philips Hue Lights and I Use It Every Day](https://www.cnet.com/home/smart-home/the-tap-dial-is-my-favorite-accessory-for-philips-hue-lights-and-i-use-it-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s Really Easy to Record High-Quality Audio for Your Phone With the Rode Wireless Go II](https://www.cnet.com/deals/its-really-easy-to-record-high-quality-audio-for-your-phone-with-the-rode-wireless-go-ii/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

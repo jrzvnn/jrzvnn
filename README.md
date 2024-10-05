@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
- - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 😝 [Caught you little sheet!](http://9gag.com/gag/awyAK1D)
+ - 😝 [Bro identifies as fat](http://9gag.com/gag/a5QMPMy)
+ - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
+ - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
 
 ---
 

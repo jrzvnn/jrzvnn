@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn Q3: revenue up 20.2% YoY to ~$57.3B on strong AI server demand; consumer electronics revenue, including iPhones, was flat YoY; stock is up ~86% in 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/241005/p8#a241005p8)
  - [Jeff Bezos’ Blue Origin plans to launch a new crew capsule on Monday](https://www.theverge.com/2024/10/5/24262730/blue-origin-rss-karman-line-capsule-first-launch)
  - [Big Tech has cozied up to nuclear energy](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)
  - [These 5 Automatic Cat Feeders Were the Best We Tested](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [Get a Lifetime of Learning With a Headway Subscription for Just $45](https://www.cnet.com/deals/get-a-lifetime-of-learning-with-a-headway-subscription-for-just-45/#ftag=CAD590a51e)
- - [Amazon October Prime Day: 80+ Early Deals Across Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a Lifetime of Learning With a Headway Subscription for Just $45](https://www.cnet.com/deals/get-a-lifetime-of-learning-with-a-headway-subscription-for-just-45/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

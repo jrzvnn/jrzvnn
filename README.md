@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
- - 💣 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
  - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 👉 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)<!-- MEMES:END -->
+ - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 💣 [It started for me to \ud83d\ude2d\ud83d\ude2d](http://9gag.com/gag/aPAYDxQ)
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 👉 [Man of culture...](http://9gag.com/gag/a873jyO)<!-- MEMES:END -->
 
 ---
 

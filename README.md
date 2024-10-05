@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
- - 💣 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
- - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
+ - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
+ - 😝 [SuperBros](http://9gag.com/gag/avy8LrX)
+ - 💣 [I would also be very proud](http://9gag.com/gag/aGyZDvz)
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 👉 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)<!-- MEMES:END -->
 
 ---
 

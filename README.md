@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caught you little sheet!](http://9gag.com/gag/awyAK1D)
- - 😝 [Bro identifies as fat](http://9gag.com/gag/a5QMPMy)
- - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
  - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
- - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

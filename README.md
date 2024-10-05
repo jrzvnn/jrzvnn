@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 😝 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
- - 💣 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 👉 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)<!-- MEMES:END -->
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

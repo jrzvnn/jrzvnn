@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Couldn&#39;t wait for his turn](http://9gag.com/gag/aLngQo5)
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
  - 💣 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
- - 👉 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)<!-- MEMES:END -->
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
 
 ---
 

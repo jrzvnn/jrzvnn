@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alcohol Plays a Major Role in New Cancer Cases](https://www.wired.com/story/alcohol-plays-a-major-role-in-new-cancer-cases/)
- - [The 45 Best Movies on Netflix Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 46 Best Shows on Netflix Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The FBI Still Hasn’t Cracked NYC Mayor Eric Adams’ Phone](https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/)
- - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Brentford vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-wolves-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man City vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Arsenal vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-southampton-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream West Ham vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-ipswich-from-anywhere/#ftag=CAD590a51e)
+ - [Beam Virgo Integral MIPS Helmet Review: Style May Be Subjective, but Safety Is Universal](https://www.cnet.com/roadshow/news/beam-virgo-integral-mips-helmet-review-style-may-be-subjective-but-safety-is-universal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

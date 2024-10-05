@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
- - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
  - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
- - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
+ - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 👉 [Bro identifies as fat](http://9gag.com/gag/a5QMPMy)<!-- MEMES:END -->
 
 ---
 

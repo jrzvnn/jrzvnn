@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mullenweg says &quot;WordPress.org just belongs to me personally&quot;, as his WP Engine feud blurs the lines between WordPress.org, WordPress Foundation, and Automattic &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241005/p7#a241005p7)
  - [Stealthy Malware Has Infected Thousands of Linux Systems for Years](https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/)
  - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [Starfield’s big Shattered Space expansion isn’t weird enough](https://www.theverge.com/24262053/starfield-shattered-space-expansion-review)
- - [A look at the rise and fall of IronNet, a cybersecurity firm led by ex-NSA director Keith Alexander and whose valuation crossed $3B after it went public in 2021 &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/241005/p6#a241005p6)
- - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Leicester vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-leicester-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
+ - [October 2024 Skygazing Guide](https://www.cnet.com/science/space/october-2024-skygazing-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

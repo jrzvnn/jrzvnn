@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No P.Diddy](http://9gag.com/gag/a5QMPzN)
- - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 😝 [Which country and traditions is this?](http://9gag.com/gag/aW4YZ93)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 💣 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 👉 [The gaurdian.](http://9gag.com/gag/aE02w99)<!-- MEMES:END -->
 
 ---
 

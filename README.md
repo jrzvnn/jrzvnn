@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech has cozied up to nuclear energy](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)
+ - [These 5 Automatic Cat Feeders Were the Best We Tested](https://www.wired.com/gallery/best-automatic-cat-feeders/)
  - [Mullenweg says &quot;WordPress.org just belongs to me personally&quot;, as his WP Engine feud blurs the lines between WordPress.org, WordPress Foundation, and Automattic &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241005/p7#a241005p7)
  - [Stealthy Malware Has Infected Thousands of Linux Systems for Years](https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/)
- - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [Premier League Soccer: Livestream Leicester vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-leicester-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
- - [October 2024 Skygazing Guide](https://www.cnet.com/science/space/october-2024-skygazing-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

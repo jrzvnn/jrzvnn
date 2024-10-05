@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
- - 😝 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
- - 💣 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
- - 😝 [Getting into a Saturday mood](http://9gag.com/gag/agmnLy6)
+ - 😝 [SuperBros](http://9gag.com/gag/avy8LrX)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
  - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---

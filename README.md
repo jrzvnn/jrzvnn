@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No P.Diddy](http://9gag.com/gag/a5QMPzN)
- - 😝 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
- - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
+ - 😝 [Extracting natural rubber from the rubber tree](http://9gag.com/gag/amoBLWo)
+ - 💣 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
+ - 😝 [Everything is in the numbers](http://9gag.com/gag/aoyejy2)
  - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---

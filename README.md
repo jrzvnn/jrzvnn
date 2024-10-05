@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
- - 💣 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
+ - 😝 [Hugh Jackman shocks Taron Egerton](http://9gag.com/gag/a2vZ5x9)
+ - 😝 [Christianity vs Islam](http://9gag.com/gag/a9yKYp0)
+ - 💣 [The future is now young boi](http://9gag.com/gag/apRmvE8)
+ - 😝 [Streaming Wars : What you prefer ?](http://9gag.com/gag/aD21jD7)
+ - 👉 [Well done](http://9gag.com/gag/aE027pn)<!-- MEMES:END -->
 
 ---
 

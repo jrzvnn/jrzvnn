@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hugh Jackman shocks Taron Egerton](http://9gag.com/gag/a2vZ5x9)
- - 😝 [Christianity vs Islam](http://9gag.com/gag/a9yKYp0)
- - 💣 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 😝 [Streaming Wars : What you prefer ?](http://9gag.com/gag/aD21jD7)
- - 👉 [Well done](http://9gag.com/gag/aE027pn)<!-- MEMES:END -->
+ - 😝 [Couldn&#39;t wait for his turn](http://9gag.com/gag/aLngQo5)
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 💣 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
+ - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
+ - 👉 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)<!-- MEMES:END -->
 
 ---
 

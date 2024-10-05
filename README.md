@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
- - 💣 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 😝 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
- - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
+ - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
+ - 😝 [A good october](http://9gag.com/gag/aXPY9Qg)
+ - 💣 [South African diversity](http://9gag.com/gag/a873YoZ)
+ - 😝 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)
+ - 👉 [When a dog barks at you, bark back loud and fierce](http://9gag.com/gag/awyAx0R)<!-- MEMES:END -->
 
 ---
 

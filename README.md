@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 💣 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 😝 [POV Cat](http://9gag.com/gag/aW4Y8NA)
+ - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
+ - 💣 [Best locksmith in town](http://9gag.com/gag/awyAVwD)
+ - 😝 [I can see through time](http://9gag.com/gag/a5QMbpG)
+ - 👉 [Savage as f-ck](http://9gag.com/gag/azx9rdb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to weaponize grandpas old TV](http://9gag.com/gag/ayNB03X)
- - 😝 [It catched up](http://9gag.com/gag/aryG42p)
- - 💣 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
- - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
- - 👉 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)<!-- MEMES:END -->
+ - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 💣 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 

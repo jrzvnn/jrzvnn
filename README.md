@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
- - 😝 [A good october](http://9gag.com/gag/aXPY9Qg)
- - 💣 [South African diversity](http://9gag.com/gag/a873YoZ)
- - 😝 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)
- - 👉 [When a dog barks at you, bark back loud and fierce](http://9gag.com/gag/awyAx0R)<!-- MEMES:END -->
+ - 😝 [No P.Diddy](http://9gag.com/gag/a5QMPzN)
+ - 😝 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
+ - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 

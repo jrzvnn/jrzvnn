@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [What kind of guiter is this?](http://9gag.com/gag/aGyZx4n)
+ - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 💣 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
  - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 💣 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 👉 [What kind of guiter is this?](http://9gag.com/gag/aGyZx4n)<!-- MEMES:END -->
+ - 👉 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)<!-- MEMES:END -->
 
 ---
 

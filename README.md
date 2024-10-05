@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
- - 😝 [MOSFET](http://9gag.com/gag/a6ZO7nb)
- - 💣 [South African diversity](http://9gag.com/gag/a873YoZ)
- - 😝 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)
- - 👉 [When a dog barks at you, bark back loud and fierce](http://9gag.com/gag/awyAx0R)<!-- MEMES:END -->
+ - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
+ - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
+ - 💣 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 💣 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
+ - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 💣 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)
+ - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
+ - 👉 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)<!-- MEMES:END -->
 
 ---
 

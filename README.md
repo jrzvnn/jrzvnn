@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into &quot;AI Neoclouds&quot;, a new breed of cloud compute providers built to offer GPU rentals, like Crusoe, Lambda Labs, and CoreWeave, and their economics &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241005/p12#a241005p12)
  - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; Here&#39;s 100 Great Ones I&#39;ve Found](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
  - [Best Fiber Internet Providers of 2024](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)
  - [Best Prime Day Fitness Tracker Deals: Watches by Apple, Samsung, Garmin and More](https://www.cnet.com/deals/best-prime-day-fitness-tracker-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Apple Deals: Massive Discounts on AirPods, iPads, MacBooks and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $25: Shop Amazon&#39;s Early Offers Before the Crowds](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Apple Deals: Massive Discounts on AirPods, iPads, MacBooks and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

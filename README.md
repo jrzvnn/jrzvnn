@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
- - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
- - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
+ - 😝 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
+ - 💣 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 👉 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)<!-- MEMES:END -->
 
 ---
 

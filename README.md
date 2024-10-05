@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 💣 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)
+ - 😝 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
+ - 👉 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)<!-- MEMES:END -->
 
 ---
 

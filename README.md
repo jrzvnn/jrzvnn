@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh look, a meme and not war propoganda.](http://9gag.com/gag/aW4YOrA)
  - 😝 [MOSFET](http://9gag.com/gag/a6ZO7nb)
- - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
- - 💣 [South African diversity](http://9gag.com/gag/a873YoZ)
- - 😝 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)
- - 👉 [She nailed it](http://9gag.com/gag/ayNBn28)<!-- MEMES:END -->
+ - 💣 [Josie](http://9gag.com/gag/aGyZx1X)
+ - 😝 [South African diversity](http://9gag.com/gag/a873YoZ)
+ - 👉 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)<!-- MEMES:END -->
 
 ---
 

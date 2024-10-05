@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-05/#ftag=CAD590a51e)
  - [A look at Google NotebookLM&#39;s Audio Overview feature, which was built by Google Labs and has gone viral thanks to its the Deep Dive podcast with two AI hosts &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241005/p4#a241005p4)
  - [Taiwan Makes the Majority of the World’s Computer Chips. Now It’s Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
+ - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
  - [An executive says GM is working on a Level 3 eyes-off, hands-off driving system, but does not provide a timeline for when it might become publicly available &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/241005/p3#a241005p3)
  - [Cyber Crimes Center, a division of the US DHS, says it has disrupted 500+ ransomware attacks and seized $4.3B in crypto since 2021, including $180M last year &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/241005/p2#a241005p2)<!-- TECH:END -->
 

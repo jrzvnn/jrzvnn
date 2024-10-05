@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 💣 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)
- - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
- - 👉 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)<!-- MEMES:END -->
+ - 😝 [This gives me the feeling of playing CSGO](http://9gag.com/gag/aE02RW9)
+ - 😝 [Never thought it would be that smooth](http://9gag.com/gag/aoyepoA)
+ - 💣 [I want to know the brand of the pan](http://9gag.com/gag/ae9r6q5)
+ - 😝 [Blast!](http://9gag.com/gag/a5QMrxy)
+ - 👉 [Hugh Jackman shocks Taron Egerton](http://9gag.com/gag/a2vZ5x9)<!-- MEMES:END -->
 
 ---
 

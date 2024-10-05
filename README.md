@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [iPhone 16 Pro Max is being smuggled into India to beat the country&#39;s high prices](https://appleinsider.com/articles/24/10/05/iphone-16-pro-max-is-being-smuggled-into-india-to-beat-the-countrys-high-prices?utm_medium=rss)
  - [An Android feature now rolling out locks your screen if your phone is swiped](https://www.theverge.com/2024/10/5/24262810/google-theft-detection-lock-rolling-out-android)
- - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; I&#39;ve Found 99 Great Ones](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Villareal From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-villareal-from-anywhere/#ftag=CAD590a51e)
- - [How to Renew Your US Passport Online](https://www.cnet.com/tech/services-and-software/how-to-renew-your-us-passport-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn Q3: revenue up 20.2% YoY to ~$57.3B on strong AI server demand; consumer electronics revenue, including iPhones, was flat YoY; stock is up ~86% in 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/241005/p8#a241005p8)
+ - [Amazon October Prime Day: 80+ Early Deals Across Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
+ - [Earth&#39;s Mini-Moon: Everything You Need to Know About Our Temporary Second &#39;Moon&#39;](https://www.cnet.com/science/earths-mini-moon-everything-you-need-to-know-about-earths-temporary-second-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

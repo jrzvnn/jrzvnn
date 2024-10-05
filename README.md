@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV Cat](http://9gag.com/gag/aW4Y8NA)
- - 😝 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)
- - 💣 [Best locksmith in town](http://9gag.com/gag/awyAVwD)
- - 😝 [Solar Powered Chicken Coop Moves Every Day So Chicks Have Fresh Grass](http://9gag.com/gag/aGyZ0qG)
- - 👉 [Savage as f-ck](http://9gag.com/gag/azx9rdb)<!-- MEMES:END -->
+ - 😝 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
+ - 😝 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
+ - 💣 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
+ - 😝 [Getting into a Saturday mood](http://9gag.com/gag/agmnLy6)
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

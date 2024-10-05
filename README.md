@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
- - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 💣 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
- - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 💣 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
+ - 👉 [What kind of guiter is this?](http://9gag.com/gag/aGyZx4n)<!-- MEMES:END -->
 
 ---
 

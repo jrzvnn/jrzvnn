@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Credit data company Experian has agreed to buy Brazilian digital fraud prevention provider ClearSale for $350M; the deal is expected to close in H1 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241004/p18#a241004p18)
+ - [Amazon October Prime Day: 70+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
  - [Ben Horowitz says he’ll donate to Kamala Harris after all](https://www.theverge.com/2024/10/4/24262505/ben-horowitz-kamala-harris-a16z)
- - [How to install macOS Sequoia on unsupported Macs](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-macos-sequoia-on-unsupported-macs?utm_medium=rss)
- - [Intel says its Raptor Lake crashing chip nightmare is over](https://www.theverge.com/2024/10/4/24262287/intel-13th-14th-gen-crash-raptor-lake-root-cause-fix)
- - [Ben Horowitz says he and his wife plan to make a &quot;significant&quot; personal donation to Harris&#39; campaign; Horowitz and Marc Andreessen endorsed Trump in July &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241004/p17#a241004p17)
- - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)<!-- TECH:END -->
+ - [Best Prime Day Soundbar Deals: Upgrade Your Audio Quality With These Early Offers](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-04/#ftag=CAD590a51e)
+ - [Waymo Teams Up With Hyundai for Future Rides: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-teams-up-with-hyundai-for-future-rides-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the rise and fall of IronNet, a cybersecurity firm led by ex-NSA director Keith Alexander and whose valuation crossed $3B after it went public in 2021 &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/241005/p6#a241005p6)
+ - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)
  - [Sony Bravia Theater Quad Review: Crazy Immersion, Crazy Expensive](https://www.wired.com/review/sony-bravia-theater-quad/)
  - [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
- - [Premier League Soccer: Livestream Brentford vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-wolves-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man City vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Arsenal vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Brentford vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-wolves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

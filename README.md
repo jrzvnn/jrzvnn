@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stealthy Malware Has Infected Thousands of Linux Systems for Years](https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/)
  - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
  - [Starfield’s big Shattered Space expansion isn’t weird enough](https://www.theverge.com/24262053/starfield-shattered-space-expansion-review)
  - [A look at the rise and fall of IronNet, a cybersecurity firm led by ex-NSA director Keith Alexander and whose valuation crossed $3B after it went public in 2021 &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/241005/p6#a241005p6)
- - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)
- - [Sony Bravia Theater Quad Review: Crazy Immersion, Crazy Expensive](https://www.wired.com/review/sony-bravia-theater-quad/)<!-- TECH:END -->
+ - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

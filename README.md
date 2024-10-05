@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple beats patent troll, wins suit over Secure Enclave tech](https://appleinsider.com/articles/24/10/05/apple-beats-patent-troll-wins-suit-over-secure-enclave-tech?utm_medium=rss)
  - [A deep dive into &quot;AI Neoclouds&quot;, a new breed of cloud compute providers built to offer GPU rentals, like Crusoe, Lambda Labs, and CoreWeave, and their economics &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241005/p12#a241005p12)
+ - [Best Prime Day Monitor Deals: Score Big on Top Monitors From Acer, Samsung, and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-10-05/#ftag=CAD590a51e)
  - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; Here&#39;s 100 Great Ones I&#39;ve Found](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Fiber Internet Providers of 2024](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)
- - [Best Prime Day Fitness Tracker Deals: Watches by Apple, Samsung, Garmin and More](https://www.cnet.com/deals/best-prime-day-fitness-tracker-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Soundbar Deals: Score Big on These TV Audio Deals](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

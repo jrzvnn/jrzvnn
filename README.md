@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
- - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 👉 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)<!-- MEMES:END -->
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 😝 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)
+ - 💣 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 😝 [When you rush others and also lack the head contents](http://9gag.com/gag/azx9ARx)
+ - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
 
 ---
 

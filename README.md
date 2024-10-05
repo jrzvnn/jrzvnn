@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I pick things up and put them down.](http://9gag.com/gag/an79KZE)
  - 😝 [No P.Diddy](http://9gag.com/gag/a5QMPzN)
- - 💣 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 😝 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
- - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
+ - 😝 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 😝 [Which country and traditions is this?](http://9gag.com/gag/aW4YZ93)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 

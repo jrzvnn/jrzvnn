@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Bravia Theater Quad Review: Crazy Immersion, Crazy Expensive](https://www.wired.com/review/sony-bravia-theater-quad/)
+ - [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
  - [Premier League Soccer: Livestream Brentford vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-wolves-from-anywhere/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Man City vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Arsenal vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-southampton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream West Ham vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-ipswich-from-anywhere/#ftag=CAD590a51e)
- - [Beam Virgo Integral MIPS Helmet Review: Style May Be Subjective, but Safety Is Universal](https://www.cnet.com/roadshow/news/beam-virgo-integral-mips-helmet-review-style-may-be-subjective-but-safety-is-universal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Arsenal vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with UCLA&#39;s Terence Tao, widely considered the world&#39;s greatest living mathematician, on OpenAI&#39;s o1, how AI might be useful to mathematicians, and more &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241005/p13#a241005p13)
  - [Best October Prime Day Deals Under $100: Save on Cookware, Apple Products, Skincare and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-05/#ftag=CAD590a51e)
  - [Have You Tried Mouth Taping? What to Know About This Trend for Better Sleep](https://www.cnet.com/health/sleep/have-you-tried-mouth-taping-what-to-know-about-this-trend-for-better-sleep/#ftag=CAD590a51e)
  - [Happiness Is in Your Hormones. The 4 Most Important Ones You Should Know About](https://www.cnet.com/health/mental/happiness-is-in-your-hormones-the-4-most-important-ones-you-should-know-about/#ftag=CAD590a51e)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
- - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; Here&#39;s 100 Great Ones I&#39;ve Found](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
  - 😝 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)
- - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 👉 [Bro identifies as fat](http://9gag.com/gag/a5QMPMy)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
+ - 💣 [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 👉 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)<!-- MEMES:END -->
 
 ---
 

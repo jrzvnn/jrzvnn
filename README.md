@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
- - 😝 [She seems nice](http://9gag.com/gag/agmnyp1)
- - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - 😝 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 👉 [The future is now young boi](http://9gag.com/gag/apRmvE8)<!-- MEMES:END -->
+ - 😝 [MOSFET](http://9gag.com/gag/a6ZO7nb)
+ - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
+ - 💣 [South African diversity](http://9gag.com/gag/a873YoZ)
+ - 😝 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)
+ - 👉 [She nailed it](http://9gag.com/gag/ayNBn28)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jeff Bezos’ Blue Origin plans to launch a new crew capsule on Monday](https://www.theverge.com/2024/10/5/24262730/blue-origin-rss-karman-line-capsule-first-launch)
  - [Big Tech has cozied up to nuclear energy](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)
  - [These 5 Automatic Cat Feeders Were the Best We Tested](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [Mullenweg says &quot;WordPress.org just belongs to me personally&quot;, as his WP Engine feud blurs the lines between WordPress.org, WordPress Foundation, and Automattic &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241005/p7#a241005p7)
- - [Stealthy Malware Has Infected Thousands of Linux Systems for Years](https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/)
- - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
+ - [Get a Lifetime of Learning With a Headway Subscription for Just $45](https://www.cnet.com/deals/get-a-lifetime-of-learning-with-a-headway-subscription-for-just-45/#ftag=CAD590a51e)
+ - [Amazon October Prime Day: 80+ Early Deals Across Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

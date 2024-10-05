@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 😝 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)
- - 💣 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [When you rush others and also lack the head contents](http://9gag.com/gag/azx9ARx)
- - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
+ - 💣 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 👉 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This gives me the feeling of playing CSGO](http://9gag.com/gag/aE02RW9)
- - 😝 [Never thought it would be that smooth](http://9gag.com/gag/aoyepoA)
- - 💣 [I want to know the brand of the pan](http://9gag.com/gag/ae9r6q5)
- - 😝 [Blast!](http://9gag.com/gag/a5QMrxy)
- - 👉 [Hugh Jackman shocks Taron Egerton](http://9gag.com/gag/a2vZ5x9)<!-- MEMES:END -->
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 💣 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
+ - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
 
 ---
 

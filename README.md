@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SuperBros](http://9gag.com/gag/avy8LrX)
- - 😝 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
  - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 👉 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)<!-- MEMES:END -->
+ - 💣 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 

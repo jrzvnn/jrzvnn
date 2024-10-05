@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 😝 [Extracting natural rubber from the rubber tree](http://9gag.com/gag/amoBLWo)
- - 💣 [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 😝 [Everything is in the numbers](http://9gag.com/gag/aoyejy2)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 😝 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)
+ - 💣 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 👉 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)<!-- MEMES:END -->
 
 ---
 

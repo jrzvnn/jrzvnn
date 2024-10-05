@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An executive says GM is working on a Level 3 eyes-off, hands-off driving system, but does not provide a timeline for when it might become publicly available &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/241005/p3#a241005p3)
- - [Cyber Crimes Center, a division of the US DHS, says it has disrupted 500+ ransomware attacks and seized $4.3B in crypto since 2021, including $180M last year &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/241005/p2#a241005p2)
- - [Google ramps up efforts to integrate AI across its products in India, where it has 700M to 800M users, including launching Gemini Live in nine Indian languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241005/p1#a241005p1)
  - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [Best October Prime Day Tablet Deals: Surf, Stream and Save on a New Tablet From Apple, Amazon and More](https://www.cnet.com/deals/best-october-prime-day-tablet-deals-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cyber Crimes Center, a division of the US DHS, says it has disrupted 500+ ransomware attacks and seized $4.3B in crypto since 2021, including $180M last year &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/241005/p2#a241005p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-5/#ftag=CAD590a51e)
+ - [Google ramps up efforts to integrate AI across its products in India, where it has 700M to 800M users, including launching Gemini Live in nine Indian languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241005/p1#a241005p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

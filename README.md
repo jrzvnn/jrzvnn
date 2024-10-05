@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 💣 [It started for me to \ud83d\ude2d\ud83d\ude2d](http://9gag.com/gag/aPAYDxQ)
- - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 👉 [Man of culture...](http://9gag.com/gag/a873jyO)<!-- MEMES:END -->
+ - 😝 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
+ - 💣 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
 
 ---
 

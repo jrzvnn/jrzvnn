@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyber Crimes Center, a division of the US DHS, says it has disrupted 500+ ransomware attacks and seized $4.3B in crypto since 2021, including $180M last year &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/241005/p2#a241005p2)
  - [Google ramps up efforts to integrate AI across its products in India, where it has 700M to 800M users, including launching Gemini Live in nine Indian languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241005/p1#a241005p1)
- - [Sources: China-linked hacking campaign dubbed Salt Typhoon breached networks of a wide swath of US broadband providers, including Verizon, AT&amp;T, and Lumen &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241004/p19#a241004p19)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 5, #216](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-5-216/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 5, #482](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-5-482/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 5, #1204](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-5-1204/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [Best October Prime Day Tablet Deals: Surf, Stream and Save on a New Tablet From Apple, Amazon and More](https://www.cnet.com/deals/best-october-prime-day-tablet-deals-2024-10-04/#ftag=CAD590a51e)
+ - [Sources: China-linked hacking campaign dubbed Salt Typhoon breached networks of a wide swath of US broadband providers, including Verizon, AT&amp;T, and Lumen &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241004/p19#a241004p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

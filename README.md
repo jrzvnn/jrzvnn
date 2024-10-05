@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 💣 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 👉 [The gaurdian.](http://9gag.com/gag/aE02w99)<!-- MEMES:END -->
+ - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
+ - 😝 [MOSFET](http://9gag.com/gag/a6ZO7nb)
+ - 💣 [South African diversity](http://9gag.com/gag/a873YoZ)
+ - 😝 [Cat asking to stay with her during delivery](http://9gag.com/gag/aPAY4Nn)
+ - 👉 [When a dog barks at you, bark back loud and fierce](http://9gag.com/gag/awyAx0R)<!-- MEMES:END -->
 
 ---
 

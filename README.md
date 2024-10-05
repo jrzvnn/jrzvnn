@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; Here&#39;s 100 Great Ones I&#39;ve Found](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Fiber Internet Providers of 2024](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)
- - [Best Prime Day Fitness Tracker Deals: Watches by Apple, Samsung, Garmin and More](https://www.cnet.com/deals/best-prime-day-fitness-tracker-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Apple Deals: Massive Discounts on AirPods, iPads, MacBooks and More](https://www.cnet.com/deals/best-prime-day-apple-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $25: Shop Amazon&#39;s Early Offers Before the Crowds](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple kicks off blitz of worldwide visionOS developer events](https://appleinsider.com/articles/24/10/05/apple-kicks-off-blitz-of-worldwide-visionos-developer-events?utm_medium=rss)
+ - [Google rolls out Android theft protection features: Theft Detection Lock, which uses AI to detect motion indicating theft, Offline Device Lock, and Remote Lock &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241005/p11#a241005p11)
+ - [Early Prime Day Woot Sale: You Could Save More Than 60% on These Amazon Refurbished Devices](https://www.cnet.com/deals/early-prime-day-woot-sale-you-could-save-more-than-60-on-these-amazon-refurbished-devices/#ftag=CAD590a51e)
+ - [Amazon Prime Day: The Portable Jump Starter I Keep In My Car Is 40% off Right Now](https://www.cnet.com/deals/amazon-prime-day-the-portable-jump-starter-i-keep-in-my-car-is-40-off-right-now/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $50: Early Discounts You Can Already Get on Tech, Everyday Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

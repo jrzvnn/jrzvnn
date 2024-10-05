@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple expected to open four new retail stores in India by end of 2025](https://appleinsider.com/articles/24/10/05/apple-expected-to-open-four-new-retail-stores-in-india-by-end-of-2025?utm_medium=rss)
+ - [Lowest price anywhere: M3 MacBook Air with 16GB RAM, 512GB SSD drops to $1,249](https://appleinsider.com/articles/24/10/05/lowest-price-anywhere-m3-macbook-air-with-16gb-ram-512gb-ssd-drops-to-1249?utm_medium=rss)
  - [An interview with Epic CEO Tim Sweeney about how the company became &quot;financially sound&quot;, Unreal Engine 6, building a &quot;persistent universe&quot; with Disney, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241005/p9#a241005p9)
  - [iPhone 16 Pro Max is being smuggled into India to beat the country&#39;s high prices](https://appleinsider.com/articles/24/10/05/iphone-16-pro-max-is-being-smuggled-into-india-to-beat-the-countrys-high-prices?utm_medium=rss)
- - [An Android feature now rolling out locks your screen if your phone is swiped](https://www.theverge.com/2024/10/5/24262810/google-theft-detection-lock-rolling-out-android)
- - [Foxconn Q3: revenue up 20.2% YoY to ~$57.3B on strong AI server demand; consumer electronics revenue, including iPhones, was flat YoY; stock is up ~86% in 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/241005/p8#a241005p8)
- - [Amazon October Prime Day: 80+ Early Deals Across Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Android feature now rolling out locks your screen if your phone is swiped](https://www.theverge.com/2024/10/5/24262810/google-theft-detection-lock-rolling-out-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

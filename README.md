@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple kicks off blitz of worldwide visionOS developer events](https://appleinsider.com/articles/24/10/05/apple-kicks-off-blitz-of-worldwide-visionos-developer-events?utm_medium=rss)
  - [Google rolls out Android theft protection features: Theft Detection Lock, which uses AI to detect motion indicating theft, Offline Device Lock, and Remote Lock &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241005/p11#a241005p11)
  - [You can slap a Pixel Watch 2 on your wrist for just $224 right now](https://www.theverge.com/2024/10/5/24260725/google-pixel-watch-2-amazon-fire-hd-8-tablet-deal-sale)
  - [Best Pillow for Every Sleeper in 2024](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)
- - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; I&#39;ve Found 99 Great Ones](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Amazon&#39;s Second Prime Day Kicks Off in Just a Few Days. Here&#39;s Everything You Need to Know](https://www.cnet.com/deals/when-is-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I&#39;ve Been Trawling the Best Prime Day Deals That Dropped Early at Amazon; I&#39;ve Found 99 Great Ones](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

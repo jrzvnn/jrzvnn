@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
- - 😝 [SuperBros](http://9gag.com/gag/avy8LrX)
- - 💣 [I would also be very proud](http://9gag.com/gag/aGyZDvz)
- - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 👉 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)<!-- MEMES:END -->
+ - 😝 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)
+ - 😝 [How sad](http://9gag.com/gag/aW4Y0z4)
+ - 💣 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 😝 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)
+ - 👉 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)<!-- MEMES:END -->
 
 ---
 

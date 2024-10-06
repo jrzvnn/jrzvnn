@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 💣 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
+ - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
+ - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
+ - 💣 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
+ - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
+ - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
 
 ---
 

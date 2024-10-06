@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at the fall of Byju&#39;s, India&#39;s most valuable startup in 2022 with an estimated $22B valuation, as it faces insolvency and lawsuits in India and the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241006/p7#a241006p7)
  - [Apple hasn&#39;t abandoned microLED tech, despite recent setbacks](https://appleinsider.com/articles/24/10/06/apple-hasnt-abandoned-microled-tech-despite-recent-setbacks?utm_medium=rss)
- - [Best Internet for Gaming in 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
- - [Babbel Subscription Sale: Get a Lifetime Language Learning Subscription for Only $150 Ahead of Prime Day](https://www.cnet.com/deals/babbel-subscription-sale-get-a-lifetime-language-learning-subscription-for-only-150-ahead-of-prime-day/#ftag=CAD590a51e)
- - [JBL Wireless Earbuds Are on Sale for Just $30 Right Now During Prime Day](https://www.cnet.com/deals/jbl-wireless-earbuds-are-on-sale-for-just-30-right-now-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Find the Best Amazon Deals This Prime Day](https://www.cnet.com/deals/how-to-find-the-best-amazon-deals-this-prime-day/#ftag=CAD590a51e)
+ - [Best Prime Day Gaming Deals: Massive Savings on PlayStation, Xbox and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Bose Ultra Earbuds Slashed to Lowest-Ever Price In Early Prime Day Deal](https://www.cnet.com/deals/bose-ultra-earbuds-slashed-to-lowest-ever-price-in-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

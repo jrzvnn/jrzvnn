@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 💣 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 😝 [Sad anon](http://9gag.com/gag/aVvYMow)
- - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
+ - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 💣 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
+ - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NFL London Game: How to Watch, Stream Jets vs. Vikings This Morning](https://www.cnet.com/tech/services-and-software/nfl-london-game-how-to-watch-stream-jets-vs-vikings-this-morning/#ftag=CAD590a51e)
+ - [This iOS 18 Feature Might Not Be All It&#39;s Cracked Up to Be](https://www.cnet.com/tech/services-and-software/this-ios-18-feature-might-not-be-all-its-cracked-up-to-be/#ftag=CAD590a51e)
  - [Bose Reinvented Itself Just in Time. Now Comes the Tricky Part](https://www.wired.com/story/bose-reinvented-itself-just-in-time-now-comes-the-tricky-part/)
- - [Some ride-hailing drivers are using Teslas with FSD as makeshift robotaxis, saying it lets them work longer hours by reducing stress, amid safety concerns &lpar;Reuters&rpar;](http://www.techmeme.com/241006/p3#a241006p3)
- - [Best Prime Day Soundbar Deals: Turn Up the Savings With These 10 Home Entertainment Deals](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-06/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $25: Shop 60+ Early Sales Before October Prime Day Begins](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-06/#ftag=CAD590a51e)
- - [Best Prime Day Headphone Deals: Grab a Discounted Pair from Apple, Bose, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gift Baskets of 2024: Find the Perfect Edible Gift](https://www.cnet.com/news/best-gift-baskets/#ftag=CAD590a51e)
+ - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 116 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

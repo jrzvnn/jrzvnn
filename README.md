@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I&#39;ve Been Digging Through the Best Prime Day Deals at Amazon; Here Are 105 Fantastic Finds You Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
+ - [Best Prime Day Robot Vacuum Deals: Suck Up the Savings on Roomba, Dreame and More](https://www.cnet.com/deals/best-prime-day-robot-vacuum-deals-2024-10-05/#ftag=CAD590a51e)
+ - [Best Prime Day TV Deals: Score Major Savings on TVs of All Sizes From Your Favorite Brands](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-05/#ftag=CAD590a51e)
  - [Elon Musk Spoke at a Trump Rally, Referenced &#39;Dark MAGA,&#39; and Urged Supporters to Vote](https://www.wired.com/story/elon-musk-donald-trump-butler-register-vote/)
- - [Q&amp;A with UCLA&#39;s Terence Tao, widely considered the world&#39;s greatest living mathematician, on OpenAI&#39;s o1, how AI might be useful to mathematicians, and more &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241005/p13#a241005p13)
- - [Best October Prime Day Deals Under $100: Save on Cookware, Apple Products, Skincare and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-05/#ftag=CAD590a51e)
- - [Have You Tried Mouth Taping? What to Know About This Trend for Better Sleep](https://www.cnet.com/health/sleep/have-you-tried-mouth-taping-what-to-know-about-this-trend-for-better-sleep/#ftag=CAD590a51e)
- - [Happiness Is in Your Hormones. The 4 Most Important Ones You Should Know About](https://www.cnet.com/health/mental/happiness-is-in-your-hormones-the-4-most-important-ones-you-should-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Gaming Deals: Low Prices on PlayStation, Xbox and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joker](http://9gag.com/gag/aVvYMp8)
  - 😝 [That man](http://9gag.com/gag/aGyZeBG)
+ - 😝 [Boom, roasted!!! Hahahahahahahha](http://9gag.com/gag/a6ZOoRN)
  - 💣 [Flirting 101](http://9gag.com/gag/aO8Yrpr)
  - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
  - 👉 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)<!-- MEMES:END -->

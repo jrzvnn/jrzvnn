@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Secret to Amazon Prime Day Deals Without a Membership](https://www.cnet.com/personal-finance/the-secret-to-amazon-prime-day-deals-without-a-membership/#ftag=CAD590a51e)
- - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 116 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 113 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
  - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)
  - [Taiwan, which is highly dependent on imported fossil fuels, is struggling to meet energy demands from its chip industry; TSMC uses ~9% of Taiwan&#39;s electricity &lpar;Isabel Hilton/Yale E360&rpar;](http://www.techmeme.com/241006/p2#a241006p2)
- - [‘Groups’ Underpin Modern Math. Here’s How They Work](https://www.wired.com/story/groups-underpin-modern-math-heres-how-they-work/)<!-- TECH:END -->
+ - [‘Groups’ Underpin Modern Math. Here’s How They Work](https://www.wired.com/story/groups-underpin-modern-math-heres-how-they-work/)
+ - [Amkor and TSMC sign an MOU to collaborate on advanced chip packaging for AI, HPC, PC, and mobile processors at Amkor&#39;s planned ~$2B facility in Peoria, Arizona &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241006/p1#a241006p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

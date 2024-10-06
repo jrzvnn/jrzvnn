@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-hulu-october-2024/#ftag=CAD590a51e)
+ - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-06/#ftag=CAD590a51e)
  - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Get Your Hands on the Coolest Gadgets, Gizmos, and Doodads During Amazon Prime Day](https://www.cnet.com/deals/get-your-hands-on-coolest-gadgets-gizmos-doodads-during-amazon-prime-day/#ftag=CAD590a51e)
- - [iPhone 16 Pro vs. Pixel 9 Pro Camera Comparison video](https://www.cnet.com/videos/iphone-16-pro-vs-pixel-9-pro-camera-comparison/#ftag=CAD590a51e)
- - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $50 on Our Favorite Marshall Micro Speaker With This Early Prime Day Deal](https://www.cnet.com/deals/save-50-on-our-favorite-marshall-micro-speaker-with-this-early-prime-day-deal/#ftag=CAD590a51e)
+ - [Save a Whopping $450 With This Early Prime Day Power Station Deal](https://www.cnet.com/deals/save-a-whopping-450-with-this-prime-day-power-station-deal/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals: Save on Apple MacBooks, Gaming Laptops, Samsung and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

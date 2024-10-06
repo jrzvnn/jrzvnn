@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose Reinvented Itself Just in Time. Now Comes the Tricky Part](https://www.wired.com/story/bose-reinvented-itself-just-in-time-now-comes-the-tricky-part/)
  - [Some ride-hailing drivers are using Teslas with FSD as makeshift robotaxis, saying it lets them work longer hours by reducing stress, amid safety concerns &lpar;Reuters&rpar;](http://www.techmeme.com/241006/p3#a241006p3)
- - [The Secret to Amazon Prime Day Deals Without a Membership](https://www.cnet.com/personal-finance/the-secret-to-amazon-prime-day-deals-without-a-membership/#ftag=CAD590a51e)
- - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 116 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)
- - [Taiwan, which is highly dependent on imported fossil fuels, is struggling to meet energy demands from its chip industry; TSMC uses ~9% of Taiwan&#39;s electricity &lpar;Isabel Hilton/Yale E360&rpar;](http://www.techmeme.com/241006/p2#a241006p2)<!-- TECH:END -->
+ - [Best Prime Day Soundbar Deals: Turn Up the Savings With These 10 Home Entertainment Deals](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $25: Shop 60+ Early Sales Before October Prime Day Begins](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-06/#ftag=CAD590a51e)
+ - [Best Prime Day Headphone Deals: Grab a Discounted Pair from Apple, Bose, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

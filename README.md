@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage as f-ck](http://9gag.com/gag/azx9rdb)
- - 😝 [One year on](http://9gag.com/gag/aAy3d5p)
- - 💣 [Keanu Reeves made his professional car racing debut today in the Toyota GR Cup and placed 25th out of 35.](http://9gag.com/gag/axyzVKK)
- - 😝 [Joy - the moment Anna Lapwood is allowed to kick the spurs of her organ at Royal Albert Hall](http://9gag.com/gag/abAYpgX)
- - 👉 [The look on the black chicks face though...](http://9gag.com/gag/aGyZ1Mz)<!-- MEMES:END -->
+ - 😝 [Sadiq Khan&#39;s London looks like an Islamic caliphate now.](http://9gag.com/gag/agmnGMr)
+ - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 💣 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
+ - 😝 [Gambling](http://9gag.com/gag/aPAY9AQ)
+ - 👉 [Viking genetics](http://9gag.com/gag/aQzRxgK)<!-- MEMES:END -->
 
 ---
 

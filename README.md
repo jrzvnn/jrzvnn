@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 107 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
  - [eMarketer: Google&#39;s share of the US search ad market is expected to drop below 50% in 2025 for the first time in 10+ years, as Amazon, TikTok, and others rise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241005/p14#a241005p14)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 6, #217](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-6-217/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 6, #483](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-6-483/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 6, #1205](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-6-1205/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 6, #1205](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-6-1205/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

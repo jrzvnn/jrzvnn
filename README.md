@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia can run on Valve&#39;s Steam Deck with hacks](https://appleinsider.com/articles/24/10/06/macos-sequoia-can-run-on-valves-steam-deck-with-hacks?utm_medium=rss)
- - [What Can Your Blood Sugar Tell You? I Tracked Mine for a Month to Find Out](https://www.cnet.com/health/medical/what-can-your-blood-sugar-tell-you-i-tracked-mine-for-a-month-to-find-out/#ftag=CAD590a51e)
+ - [Early Prime Day deals: $99 Apple Pencil Pro, $320 off iPad mini 6 kit, $399 AirPods Max](https://appleinsider.com/articles/24/10/06/early-prime-day-deals-99-apple-pencil-pro-320-off-ipad-mini-6-kit-399-airpods-max?utm_medium=rss)
+ - [Trailers of the week: Nosferatu, The Franchise, and Squid Game 2](https://www.theverge.com/2024/10/6/24263075/trailers-of-the-week-nosferatu-the-franchise-squid-game-2-companion-movie-tv)
+ - [My Favorite Bluetooth Speaker Is Heavily Discounted Ahead of Prime Day This Week](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-heavily-discounted-ahead-of-prime-day-this-week/#ftag=CAD590a51e)
  - [Amazon Prime Day: Over 100 of the Best Early Offers To Shop Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $10: Grab Discounts on Over 50 Top Items Including Tech, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-06/#ftag=CAD590a51e)
- - [Get a Pair of Apple AirPods Max for Only $399 Through This Early Amazon Prime Day Deal](https://www.cnet.com/deals/get-a-pair-of-apple-airpods-max-for-only-399-through-this-early-amazon-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo Yoga 7 14 Gen 9 Review: Terrific 2-in-1 for Less Than $1,000](https://www.cnet.com/tech/computing/lenovo-yoga-7-14-gen-9-review-terrific-2-in-1-for-less-than-1000/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

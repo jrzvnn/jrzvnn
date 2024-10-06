@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink’s direct-to-cell satellite service approved for areas hit by Hurricane Helene](https://www.theverge.com/2024/10/6/24263801/starlink-t-mobile-fcc-satellite-hurricane-helene)
  - [30 Early Prime Day Deals on Kitchen Tools and Cookware](https://www.cnet.com/deals/best-home-and-kitchen-october-prime-day-deals/#ftag=CAD590a51e)
  - [Best Prime Day TV Deals: Save on Top TVs From Samsung, LG, Sony and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-06/#ftag=CAD590a51e)
  - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-hulu-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

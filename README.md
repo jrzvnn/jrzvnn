@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [macOS Sequoia can run on Valve&#39;s Steam Deck with hacks](https://appleinsider.com/articles/24/10/06/macos-sequoia-can-run-on-valves-steam-deck-with-hacks?utm_medium=rss)
- - [Best Binoculars &lpar;2024&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
- - [Sources: Apple plans to launch iOS 18.1 and Apple Intelligence on Oct. 28 and announce new Macs and an iPad mini in late Oct., with shipments starting on Nov. 1 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241006/p5#a241006p5)
- - [Shrunken Mac Minis and a new iPad Mini might come in November](https://www.theverge.com/2024/10/6/24263414/apple-m4-macs-november-rumor-small-mac-mini-macbook-pro-imac-ipad-mini)
- - [Dolphins vs. Patriots Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/dolphins-vs-patriots-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Can Your Blood Sugar Tell You? I Tracked Mine for a Month to Find Out](https://www.cnet.com/health/medical/what-can-your-blood-sugar-tell-you-i-tracked-mine-for-a-month-to-find-out/#ftag=CAD590a51e)
+ - [Amazon Prime Day: Over 100 of the Best Early Offers To Shop Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $10: Grab Discounts on Over 50 Top Items Including Tech, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-06/#ftag=CAD590a51e)
+ - [Get a Pair of Apple AirPods Max for Only $399 Through This Early Amazon Prime Day Deal](https://www.cnet.com/deals/get-a-pair-of-apple-airpods-max-for-only-399-through-this-early-amazon-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

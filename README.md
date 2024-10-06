@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
  - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

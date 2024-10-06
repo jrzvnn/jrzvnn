@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to launch MacBook Air, iPad Air refreshes in early 2025](https://appleinsider.com/articles/24/10/06/apple-to-launch-macbook-air-ipad-air-refreshes-in-early-2025?utm_medium=rss)
  - [Best Galaxy S24 Cases &lpar;2024&rpar;: Screen Protectors, Chargers, More](https://www.wired.com/gallery/best-samsung-galaxy-s24-cases-and-accessories/)
  - [Your iPhone 16 may get its first Apple Intelligence features later this month](https://www.theverge.com/2024/10/6/24263398/ios-18-iphone-16-apple-intelligence-coming-october-update-ai-notification-summaries)
  - [Apple Intelligence and iOS 18.1 should debut on October 28](https://appleinsider.com/articles/24/10/06/apple-intelligence-and-ios-181-should-debut-on-october-28?utm_medium=rss)
- - [New M4 Macs are expected to launch on November 1](https://appleinsider.com/articles/24/10/06/new-m4-macs-are-expected-to-launch-on-november-1?utm_medium=rss)
- - [The Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [New M4 Macs are expected to launch on November 1](https://appleinsider.com/articles/24/10/06/new-m4-macs-are-expected-to-launch-on-november-1?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

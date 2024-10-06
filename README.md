@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was always the one messaging them, to go out or just chat](http://9gag.com/gag/aRB1A5G)
- - 😝 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
- - 💣 [SuperBros](http://9gag.com/gag/avy8LrX)
- - 😝 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
- - 👉 [Getting into a Saturday mood](http://9gag.com/gag/agmnLy6)<!-- MEMES:END -->
+ - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
+ - 😝 [Mama Bear Mode: Activated](http://9gag.com/gag/a5QM7GV)
+ - 💣 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [SuperBros](http://9gag.com/gag/avy8LrX)<!-- MEMES:END -->
 
 ---
 

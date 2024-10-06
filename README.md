@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)
- - 😝 [He is right](http://9gag.com/gag/aD21mrZ)
- - 💣 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
+ - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [Sad anon](http://9gag.com/gag/aVvYMow)
+ - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
 
 ---
 

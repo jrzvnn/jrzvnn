@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New M4 Macs are expected to launch on November 1](https://appleinsider.com/articles/24/10/06/new-m4-macs-are-expected-to-launch-on-november-1?utm_medium=rss)
  - [The Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
  - [A profile of UK teenage hacker Arion Kurtaj, a Lapsus$ member who leaked GTA VI video in 2022 and was found guilty in 2023 for hacking Nvidia, Uber, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241006/p4#a241006p4)
  - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2024&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [McLaren’s $2.6M W1 Supercar Wouldn’t Seem Out of Place in Formula 1](https://www.wired.com/story/mclarens-w1-dollar26m-supercar-is-in-places-mightier-than-an-f1-car/)
- - [The much simpler way to keep track of everything](https://www.theverge.com/2024/10/6/24262260/pebblebee-airtag-google-arc-search-copilot-chatgpt-installer)<!-- TECH:END -->
+ - [How to Plan Your Halloween Decor With AI](https://www.cnet.com/tech/services-and-software/how-to-plan-your-halloween-decor-with-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadiq Khan&#39;s London looks like an Islamic caliphate now.](http://9gag.com/gag/agmnGMr)
+ - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 😝 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
+ - 💣 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
  - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 💣 [Fefla](http://9gag.com/gag/an79NKz)
- - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
+ - 👉 [Fefla](http://9gag.com/gag/an79NKz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NASA releases new view of Mars surface](http://9gag.com/gag/a873oXp)
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 💣 [OOF!](http://9gag.com/gag/amoBYAX)
- - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
- - 👉 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)<!-- MEMES:END -->
+ - 😝 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
+ - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 😝 [OOF!](http://9gag.com/gag/amoBYAX)
+ - 👉 [NASA releases new view of Mars surface](http://9gag.com/gag/a873oXp)<!-- MEMES:END -->
 
 ---
 

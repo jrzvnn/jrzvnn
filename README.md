@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Eero Pro 6E Mesh Router Is on Sale Right Now for Prime Day](https://www.cnet.com/deals/amazons-eero-pro-6e-mesh-router-is-on-sale-right-now-for-prime-day/#ftag=CAD590a51e)
- - [It&#39;s Really Easy to Record High-Quality Audio for Your Phone With the Rode Wireless Go II](https://www.cnet.com/deals/its-really-easy-to-record-high-quality-audio-for-your-phone-with-the-rode-wireless-go-ii/#ftag=CAD590a51e)
- - [Amazon Prime Day: Over 100 of the Best Early Offers To Shop Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Amazon, Microsoft, and Google are increasingly eyeing nuclear reactors, which provide steady &quot;baseload&quot; power, as their carbon emissions climb due to AI tools &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/241006/p6#a241006p6)
- - [Buy a Samsung Galaxy S23 FE for $650 and Get a $100 Amazon Gift Card Today](https://www.cnet.com/deals/buy-a-samsung-galaxy-s23-fe-for-650-and-get-a-100-amazon-gift-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet for Gaming in 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
+ - [Babbel Subscription Sale: Get a Lifetime Language Learning Subscription for Only $150 Ahead of Prime Day](https://www.cnet.com/deals/babbel-subscription-sale-get-a-lifetime-language-learning-subscription-for-only-150-ahead-of-prime-day/#ftag=CAD590a51e)
+ - [JBL Wireless Earbuds Are on Sale for Just $30 Right Now During Prime Day](https://www.cnet.com/deals/jbl-wireless-earbuds-are-on-sale-for-just-30-right-now-during-prime-day/#ftag=CAD590a51e)
+ - [Packers vs. Rams Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/packers-vs-rams-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
+ - [Giants vs. Seahawks Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/giants-vs-seahawks-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

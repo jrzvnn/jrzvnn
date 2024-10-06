@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 😝 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 💣 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 👉 [Fefla](http://9gag.com/gag/an79NKz)<!-- MEMES:END -->
+ - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 💣 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
 
 ---
 

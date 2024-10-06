@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sequoia can run on Valve&#39;s Steam Deck with hacks](https://appleinsider.com/articles/24/10/06/macos-sequoia-can-run-on-valves-steam-deck-with-hacks?utm_medium=rss)
  - [Best Binoculars &lpar;2024&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
  - [Sources: Apple plans to launch iOS 18.1 and Apple Intelligence on Oct. 28 and announce new Macs and an iPad mini in late Oct., with shipments starting on Nov. 1 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241006/p5#a241006p5)
  - [Shrunken Mac Minis and a new iPad Mini might come in November](https://www.theverge.com/2024/10/6/24263414/apple-m4-macs-november-rumor-small-mac-mini-macbook-pro-imac-ipad-mini)
- - [Dolphins vs. Patriots Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/dolphins-vs-patriots-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
- - [Panthers vs. Bears Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-bears-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dolphins vs. Patriots Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/dolphins-vs-patriots-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

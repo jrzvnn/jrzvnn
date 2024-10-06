@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL London Game: How to Watch, Stream Jets vs. Vikings This Morning](https://www.cnet.com/tech/services-and-software/nfl-london-game-how-to-watch-stream-jets-vs-vikings-this-morning/#ftag=CAD590a51e)
- - [This iOS 18 Feature Might Not Be All It&#39;s Cracked Up to Be](https://www.cnet.com/tech/services-and-software/this-ios-18-feature-might-not-be-all-its-cracked-up-to-be/#ftag=CAD590a51e)
- - [Bose Reinvented Itself Just in Time. Now Comes the Tricky Part](https://www.wired.com/story/bose-reinvented-itself-just-in-time-now-comes-the-tricky-part/)
- - [Best Gift Baskets of 2024: Find the Perfect Edible Gift](https://www.cnet.com/news/best-gift-baskets/#ftag=CAD590a51e)
- - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 116 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Ready for Walmart&#39;s Holiday Event: Early Deals on Tech, Kitchen, Home Appliances and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Aston Villa vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-aston-villa-vs-man-united-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Chelsea vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
+ - [Messages Can Solve Equations Like a Calculator With iOS 18](https://www.cnet.com/tech/services-and-software/messages-can-solve-equations-like-a-calculator-with-ios-18/#ftag=CAD590a51e)
+ - [Best Internet Providers in Polk City, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-polk-city-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

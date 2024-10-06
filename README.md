@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
  - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 💣 [In 2013, a man named Richard Swanson tried to dribble a football from Seattle to Brazil to promote a charity. He was run over and killed by a truck just 250 miles into his 10,000-mile trip](http://9gag.com/gag/aGyZ1dZ)
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
  - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 👉 [Dw, no one died](http://9gag.com/gag/amoBYgy)<!-- MEMES:END -->
+ - 👉 [OOF!](http://9gag.com/gag/amoBYAX)<!-- MEMES:END -->
 
 ---
 

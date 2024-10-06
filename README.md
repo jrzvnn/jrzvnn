@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
+ - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
  - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
  - 💣 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 👉 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)<!-- MEMES:END -->
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

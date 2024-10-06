@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your iPhone 16 may get its first Apple Intelligence features later this month](https://www.theverge.com/2024/10/6/24263398/ios-18-iphone-16-apple-intelligence-coming-october-update-ai-notification-summaries)
+ - [Apple Intelligence and iOS 18.1 should debut on October 28](https://appleinsider.com/articles/24/10/06/apple-intelligence-and-ios-181-should-debut-on-october-28?utm_medium=rss)
  - [New M4 Macs are expected to launch on November 1](https://appleinsider.com/articles/24/10/06/new-m4-macs-are-expected-to-launch-on-november-1?utm_medium=rss)
  - [The Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [A profile of UK teenage hacker Arion Kurtaj, a Lapsus$ member who leaked GTA VI video in 2022 and was found guilty in 2023 for hacking Nvidia, Uber, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241006/p4#a241006p4)
- - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2024&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [How to Plan Your Halloween Decor With AI](https://www.cnet.com/tech/services-and-software/how-to-plan-your-halloween-decor-with-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of UK teenage hacker Arion Kurtaj, a Lapsus$ member who leaked GTA VI video in 2022 and was found guilty in 2023 for hacking Nvidia, Uber, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241006/p4#a241006p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

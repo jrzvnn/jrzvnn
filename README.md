@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 💣 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
  - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [He is right](http://9gag.com/gag/aD21mrZ)
- - 💣 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
- - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
  - 👉 [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)<!-- MEMES:END -->
 
 ---

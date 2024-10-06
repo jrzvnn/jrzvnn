@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
- - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
- - 💣 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 👉 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)<!-- MEMES:END -->
+ - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
+ - 👉 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)<!-- MEMES:END -->
 
 ---
 

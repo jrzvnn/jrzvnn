@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That man](http://9gag.com/gag/aGyZeBG)
- - 😝 [Boom, roasted!!! Hahahahahahahha](http://9gag.com/gag/a6ZOoRN)
- - 💣 [Flirting 101](http://9gag.com/gag/aO8Yrpr)
- - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 👉 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)<!-- MEMES:END -->
+ - 😝 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
+ - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 😝 [OOF!](http://9gag.com/gag/amoBYAX)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 

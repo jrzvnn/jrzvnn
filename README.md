@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 👉 [OOF!](http://9gag.com/gag/amoBYAX)<!-- MEMES:END -->
+ - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 😝 [That man](http://9gag.com/gag/aGyZeBG)
+ - 💣 [Joker](http://9gag.com/gag/aVvYMp8)
+ - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 👉 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
- - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 💣 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
  - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 👉 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)<!-- MEMES:END -->
+ - 😝 [Sadiq Khan&#39;s London looks like an Islamic caliphate now.](http://9gag.com/gag/agmnGMr)
+ - 💣 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
+ - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
 
 ---
 

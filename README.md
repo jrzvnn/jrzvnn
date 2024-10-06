@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [I&#39;ve Been Digging Through the Best Prime Day Deals at Amazon; Here Are 105 Fantastic Finds You Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Robot Vacuum Deals: Suck Up the Savings on Roomba, Dreame and More](https://www.cnet.com/deals/best-prime-day-robot-vacuum-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day TV Deals: Score Major Savings on TVs of All Sizes From Your Favorite Brands](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-05/#ftag=CAD590a51e)
- - [Elon Musk Spoke at a Trump Rally, Referenced &#39;Dark MAGA,&#39; and Urged Supporters to Vote](https://www.wired.com/story/elon-musk-donald-trump-butler-register-vote/)
- - [Best Prime Day Gaming Deals: Low Prices on PlayStation, Xbox and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Deals Under $25: Shop 60+ Early Offers Before October Prime Day Starts](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-05/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $10: Save on Over 45 Items Including Tech, Toys and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-05/#ftag=CAD590a51e)
+ - [Best Prime Day Soundbar Deals: Upgrade Your TV Audio and Save With a New Soundbar](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-05/#ftag=CAD590a51e)
+ - [Best Prime Day Members-Only Deals: Get Exclusive Offers Before Prime Day](https://www.cnet.com/deals/best-prime-day-members-only-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

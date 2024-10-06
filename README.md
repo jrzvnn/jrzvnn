@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage from October 3, 2024, shows the moment an overloaded ferry capsized near Goma, Congo, just before docking. At least 78 people have died, with the death toll expected to rise.](http://9gag.com/gag/a1mQMM2)
- - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
- - 💣 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
- - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
+ - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 😝 [Me too, buddy. Me too.](http://9gag.com/gag/aRB1V4q)
+ - 💣 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
+ - 😝 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 

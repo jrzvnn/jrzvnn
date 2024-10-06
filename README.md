@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 💣 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
- - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
+ - 😝 [Keanu Reeves made his professional car racing debut today in the Toyota GR Cup and placed 25th out of 35.](http://9gag.com/gag/axyzVKK)
+ - 😝 [&lpar;\\_/&rpar; &lpar; \u2022_\u2022&rpar; /&gt;](http://9gag.com/gag/avy877W)
+ - 💣 [The look on the black chicks face though...](http://9gag.com/gag/aGyZ1Mz)
+ - 😝 [How dare they doing this!](http://9gag.com/gag/azx9AwK)
+ - 👉 [Absolutely filthy shot](http://9gag.com/gag/aVvYD82)<!-- MEMES:END -->
 
 ---
 

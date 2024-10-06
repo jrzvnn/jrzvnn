@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Fefla](http://9gag.com/gag/an79NKz)
- - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [He is right](http://9gag.com/gag/aD21mrZ)
+ - 💣 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
  - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
- - 👉 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)<!-- MEMES:END -->
+ - 👉 [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)<!-- MEMES:END -->
 
 ---
 

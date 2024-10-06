@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The look on the black chicks face though...](http://9gag.com/gag/aGyZ1Mz)
- - 😝 [How dare they doing this!](http://9gag.com/gag/azx9AwK)
- - 💣 [Absolutely filthy shot](http://9gag.com/gag/aVvYD82)
- - 😝 [Pretty Slick Trick; Rick](http://9gag.com/gag/a2vZd8p)
- - 👉 [Tesla would have been impressed\u26a1](http://9gag.com/gag/avy87jX)<!-- MEMES:END -->
+ - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 💣 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)<!-- MEMES:END -->
 
 ---
 

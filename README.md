@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
- - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 💣 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
  - 😝 [Sad anon](http://9gag.com/gag/aVvYMow)
  - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
 

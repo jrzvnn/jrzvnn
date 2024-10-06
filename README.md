@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iam this old..](http://9gag.com/gag/amoBY72)
- - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
- - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 👉 [Getting into a Saturday mood](http://9gag.com/gag/agmnLy6)<!-- MEMES:END -->
+ - 😝 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
+ - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 💣 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
+ - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
+ - 👉 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-06/#ftag=CAD590a51e)
+ - [30 Early Prime Day Deals on Kitchen Tools and Cookware](https://www.cnet.com/deals/best-home-and-kitchen-october-prime-day-deals/#ftag=CAD590a51e)
+ - [Best Prime Day TV Deals: Save on Top TVs From Samsung, LG, Sony and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-06/#ftag=CAD590a51e)
  - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Save $50 on Our Favorite Marshall Micro Speaker With This Early Prime Day Deal](https://www.cnet.com/deals/save-50-on-our-favorite-marshall-micro-speaker-with-this-early-prime-day-deal/#ftag=CAD590a51e)
- - [Save a Whopping $450 With This Early Prime Day Power Station Deal](https://www.cnet.com/deals/save-a-whopping-450-with-this-prime-day-power-station-deal/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals: Save on Apple MacBooks, Gaming Laptops, Samsung and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-hulu-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

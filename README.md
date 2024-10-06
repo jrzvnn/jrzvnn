@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 💣 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
- - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 👉 [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)<!-- MEMES:END -->
+ - 😝 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
+ - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 

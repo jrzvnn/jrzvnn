@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
- - 💣 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 👉 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)<!-- MEMES:END -->
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 💣 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
+ - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
+ - 👉 [Dw, no one died](http://9gag.com/gag/amoBYgy)<!-- MEMES:END -->
 
 ---
 

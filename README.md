@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [eMarketer: Google&#39;s share of the US search ad market is expected to drop below 50% in 2025 for the first time in 10+ years, as Amazon, TikTok, and others rise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241005/p14#a241005p14)
- - [I&#39;ve Been Digging Through the Best Prime Day Deals at Amazon; Here Are 105 Fantastic Finds You Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $25: Shop 60+ Early Offers Before October Prime Day Starts](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $10: Save on Over 45 Items Including Tech, Toys and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-05/#ftag=CAD590a51e)
- - [Best Prime Day Soundbar Deals: Upgrade Your TV Audio and Save With a New Soundbar](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 6, #217](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-6-217/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 6, #483](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-6-483/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 6, #1205](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-6-1205/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

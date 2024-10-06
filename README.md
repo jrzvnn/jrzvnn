@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
- - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
- - 💣 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
  - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 💣 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 

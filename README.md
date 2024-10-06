@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
- - 😝 [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
+ - 😝 [Savage as f-ck](http://9gag.com/gag/azx9rdb)
+ - 😝 [One year on](http://9gag.com/gag/aAy3d5p)
+ - 💣 [Keanu Reeves made his professional car racing debut today in the Toyota GR Cup and placed 25th out of 35.](http://9gag.com/gag/axyzVKK)
+ - 😝 [Joy - the moment Anna Lapwood is allowed to kick the spurs of her organ at Royal Albert Hall](http://9gag.com/gag/abAYpgX)
+ - 👉 [The look on the black chicks face though...](http://9gag.com/gag/aGyZ1Mz)<!-- MEMES:END -->
 
 ---
 

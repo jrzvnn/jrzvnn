@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I was always the one messaging them, to go out or just chat](http://9gag.com/gag/aRB1A5G)
  - 😝 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
- - 😝 [Fefla](http://9gag.com/gag/an79NKz)
- - 💣 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
- - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
- - 👉 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)<!-- MEMES:END -->
+ - 💣 [SuperBros](http://9gag.com/gag/avy8LrX)
+ - 😝 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
+ - 👉 [Getting into a Saturday mood](http://9gag.com/gag/agmnLy6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-06/#ftag=CAD590a51e)
- - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Save $50 on Our Favorite Marshall Micro Speaker With This Early Prime Day Deal](https://www.cnet.com/deals/save-50-on-our-favorite-marshall-micro-speaker-with-this-early-prime-day-deal/#ftag=CAD590a51e)
- - [Save a Whopping $450 With This Early Prime Day Power Station Deal](https://www.cnet.com/deals/save-a-whopping-450-with-this-prime-day-power-station-deal/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals: Save on Apple MacBooks, Gaming Laptops, Samsung and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the fall of Byju&#39;s, India&#39;s most valuable startup in 2022 with an estimated $22B valuation, as it faces insolvency and lawsuits in India and the US &lpar;Financial Times&rpar;](http://www.techmeme.com/241006/p7#a241006p7)
+ - [Apple hasn&#39;t abandoned microLED tech, despite recent setbacks](https://appleinsider.com/articles/24/10/06/apple-hasnt-abandoned-microled-tech-despite-recent-setbacks?utm_medium=rss)
+ - [How to Find the Best Amazon Deals This Prime Day](https://www.cnet.com/deals/how-to-find-the-best-amazon-deals-this-prime-day/#ftag=CAD590a51e)
+ - [Best Prime Day Gaming Deals: Massive Savings on PlayStation, Xbox and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Bose Ultra Earbuds Slashed to Lowest-Ever Price In Early Prime Day Deal](https://www.cnet.com/deals/bose-ultra-earbuds-slashed-to-lowest-ever-price-in-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

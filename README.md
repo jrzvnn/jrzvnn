@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - 😝 [OOF!](http://9gag.com/gag/amoBYAX)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 💣 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 😝 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
+ - 👉 [Sad anon](http://9gag.com/gag/aVvYMow)<!-- MEMES:END -->
 
 ---
 

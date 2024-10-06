@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
  - 😝 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
- - 💣 [Just a hug](http://9gag.com/gag/adBLjMD)
- - 😝 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
+ - 💣 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 👉 [It&#39;s a musical. And a bad one.](http://9gag.com/gag/aryGKW7)<!-- MEMES:END -->
 
 ---
 

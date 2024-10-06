@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amkor and TSMC sign an MOU to collaborate on advanced chip packaging for AI, HPC, PC, and mobile processors at Amkor&#39;s planned ~$2B facility in Peoria, Arizona &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241006/p1#a241006p1)
+ - [Taiwan, which is highly dependent on imported fossil fuels, is struggling to meet energy demands from its chip industry; TSMC uses ~9% of Taiwan&#39;s electricity &lpar;Isabel Hilton/Yale E360&rpar;](http://www.techmeme.com/241006/p2#a241006p2)
+ - [‘Groups’ Underpin Modern Math. Here’s How They Work](https://www.wired.com/story/groups-underpin-modern-math-heres-how-they-work/)
  - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 106 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
- - [Best October Prime Day Deals Under $100: Save on Home Goods, Apple Products, Daily Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-06/#ftag=CAD590a51e)
- - [eMarketer: Google&#39;s share of the US search ad market is expected to drop below 50% in 2025 for the first time in 10+ years, as Amazon, TikTok, and others rise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241005/p14#a241005p14)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 6, #217](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-6-217/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amkor and TSMC sign an MOU to collaborate on advanced chip packaging for AI, HPC, PC, and mobile processors at Amkor&#39;s planned ~$2B facility in Peoria, Arizona &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241006/p1#a241006p1)
+ - [Best Prime Day TV Deals: Snag Massive Discounts on TVs From Top Brands](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

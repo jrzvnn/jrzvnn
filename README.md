@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 😝 [OOF!](http://9gag.com/gag/amoBYAX)
- - 👉 [NASA releases new view of Mars surface](http://9gag.com/gag/a873oXp)<!-- MEMES:END -->
+ - 😝 [Joker](http://9gag.com/gag/aVvYMp8)
+ - 😝 [That man](http://9gag.com/gag/aGyZeBG)
+ - 💣 [Flirting 101](http://9gag.com/gag/aO8Yrpr)
+ - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 👉 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)<!-- MEMES:END -->
 
 ---
 

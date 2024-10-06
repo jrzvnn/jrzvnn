@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
- - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
- - 💣 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)
- - 😝 [Gone in 30 seconds...](http://9gag.com/gag/aBy014N)
- - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
+ - 😝 [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 💣 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadiq Khan&#39;s London looks like an Islamic caliphate now.](http://9gag.com/gag/agmnGMr)
- - 😝 [Fefla](http://9gag.com/gag/an79NKz)
- - 💣 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
- - 😝 [Gambling](http://9gag.com/gag/aPAY9AQ)
- - 👉 [Viking genetics](http://9gag.com/gag/aQzRxgK)<!-- MEMES:END -->
+ - 😝 [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)
+ - 😝 [He is right](http://9gag.com/gag/aD21mrZ)
+ - 💣 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 👉 [Just a hug](http://9gag.com/gag/adBLjMD)<!-- MEMES:END -->
 
 ---
 

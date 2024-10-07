@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confirmed : Ubisoft DEI stock crash was engineered. Hats off to MRPickles12345 for calling it. Link in comments](http://9gag.com/gag/a5QMWoE)
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)
  - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
- - 👉 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)<!-- MEMES:END -->
+ - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 😝 [Remember this](http://9gag.com/gag/aNDYgB6)
+ - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
 
 ---
 

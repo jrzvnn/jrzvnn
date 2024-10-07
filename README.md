@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rabbit CEO Jesse Lyu isn’t thinking too far ahead](https://www.theverge.com/24260181/rabbit-r1-large-action-model-lam-playground-generative-ai-jesse-lyu-interview-users)
+ - [28 Best Early Amazon Prime Day Deals On Gear We&#39;ve Tested &lpar;October 2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024-1/)
  - [Apple Pencil Pro drops under $100 for the first time](https://www.theverge.com/2024/10/7/24264200/apple-pencil-pro-pixel-watch-3-deal-sale)
  - [Congo government plans to crack down on buyers like Apple for conflict minerals](https://appleinsider.com/articles/24/10/07/congo-government-plans-to-crack-down-on-buyers-like-apple-for-conflict-minerals?utm_medium=rss)
- - [Wondering if You Have ADHD? 8 Common Symptoms and How to Manage](https://www.cnet.com/health/mental/wondering-if-you-have-adhd-8-common-symptoms-and-how-to-manage/#ftag=CAD590a51e)
- - [Amazon Prime Day: More Than 115 Offers You Shouldn&#39;t Miss as October&#39;s Prime Day Sale Nears](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Hostinger Review: Website Creation Made Easy](https://www.cnet.com/tech/services-and-software/hostinger-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SmartThings adds Matter 1.3, eufy S3 Cam Pro launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/10/07/smartthings-adds-matter-13-eufy-s3-cam-pro-launches-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

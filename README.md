@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch this one minute preview of Apple’s first scripted Vision Pro short](https://www.theverge.com/2024/10/7/24264457/apple-submerged-trailer-vision-pro-immersive-video)
- - [Judge greenlights FTC’s antitrust suit against Amazon](https://www.theverge.com/2024/10/7/24264605/ftc-amazon-antitrust-motion-to-dismiss)
- - [Hurricane Helene Couldn’t Stop Birders From Using eBird](https://www.wired.com/story/birders-are-still-watching-during-hurricane-helene/)
- - [In a final Epic v. Google ruling, US judge orders Google to open up Google Play to rivals for three years, distribute 3rd-party stores in Google Play, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241007/p15#a241007p15)
- - [We&#39;ve Tested the 9 Best TV Streaming Devices for 4K and HD](https://www.wired.com/gallery/best-4k-streaming-devices/)<!-- TECH:END -->
+ - [A US federal judge has given the FTC the green light to pursue antitrust claims against Amazon but ruled that some claims under state laws won&#39;t move forward &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241007/p18#a241007p18)
+ - [US bankruptcy judge approves plan to repay FTX customers; in June FTX had $12.6B, which could rise to $16.5B; FTX is in talks with US over $1B+ in seized assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241007/p19#a241007p19)
+ - [Experts have long warned &quot;secure backdoor&quot; systems are impossible; Salt Typhoon&#39;s reported hack of US ISPs&#39; wiretap systems is a key example of backdoors&#39; risks &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p17#a241007p17)
+ - [As Meta proudly unveils AI tools, Facebook users find feeds clogged with AI junk, even when Facebook is needed as a civic resource to coordinate disaster relief &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/241007/p16#a241007p16)
+ - [Best VPN for Amazon Fire TV Stick in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really not surprising](http://9gag.com/gag/avy88rq)
  - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
- - 💣 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 💣 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 👉 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)<!-- MEMES:END -->
 
 ---
 

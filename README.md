@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iCloud.com updated with dark mode, customization options, and tweaked UI](https://appleinsider.com/articles/24/10/07/icloudcom-updated-with-dark-mode-customization-options-and-tweaked-ui?utm_medium=rss)
+ - [Google says it will appeal the Epic Games verdict, claiming &quot;Apple and Android clearly compete&quot; and the ruling will cause unintended consequences for consumers &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241007/p20#a241007p20)
  - [A US federal judge has given the FTC the green light to pursue antitrust claims against Amazon but ruled that some claims under state laws won&#39;t move forward &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241007/p18#a241007p18)
  - [US bankruptcy judge approves plan to repay FTX customers; in June FTX had $12.6B, which could rise to $16.5B; FTX is in talks with US over $1B+ in seized assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241007/p19#a241007p19)
- - [Experts have long warned &quot;secure backdoor&quot; systems are impossible; Salt Typhoon&#39;s reported hack of US ISPs&#39; wiretap systems is a key example of backdoors&#39; risks &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p17#a241007p17)
- - [As Meta proudly unveils AI tools, Facebook users find feeds clogged with AI junk, even when Facebook is needed as a civic resource to coordinate disaster relief &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/241007/p16#a241007p16)
- - [Best VPN for Amazon Fire TV Stick in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts have long warned &quot;secure backdoor&quot; systems are impossible; Salt Typhoon&#39;s reported hack of US ISPs&#39; wiretap systems is a key example of backdoors&#39; risks &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p17#a241007p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

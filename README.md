@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 😝 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
- - 💣 [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)
- - 😝 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
- - 👉 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)<!-- MEMES:END -->
+ - 😝 [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
+ - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 💣 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 😝 [Random physics](http://9gag.com/gag/aD214dw)
+ - 👉 [Making millionaires billionaires. And where I work is mandatory to ask for donations to customers. Fk em.](http://9gag.com/gag/aryGoYK)<!-- MEMES:END -->
 
 ---
 

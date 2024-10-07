@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What `percentage` are you?](http://9gag.com/gag/aO8YBpy)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 😝 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 👉 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)<!-- MEMES:END -->
+ - 😝 [Nobody knows!](http://9gag.com/gag/ae9r50Q)
+ - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
+ - 💣 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - 👉 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)<!-- MEMES:END -->
 
 ---
 

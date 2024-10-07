@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s six developer betas land for iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/07/apples-six-developer-betas-land-for-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
  - [The OpenAI Talent Exodus Gives Rivals an Opening](https://www.wired.com/story/openai-departures-research-rivals-artificial-intelligence/)
  - [It’s a spooky season miracle — Alien: Isolation is getting a sequel](https://www.theverge.com/2024/10/7/24264348/alien-isolation-sequel-creative-assembly-sega)
- - [Zombie-horror &#39;Resident Evil 2&#39; heads to Mac on Dec 31](https://appleinsider.com/articles/24/10/07/zombie-horror-resident-evil-2-heads-to-mac-on-dec-31?utm_medium=rss)<!-- TECH:END -->
+ - [$150 Prime Day Discount Drops the OnePlus 12 to a New All-Time Low](https://www.cnet.com/deals/oneplus-12-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

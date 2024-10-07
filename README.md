@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: police in 15 US states used facial recognition in 1,000+ cases since 2020 and routinely failed to tell defendants about their use of the software &lpar;Washington Post&rpar;](http://www.techmeme.com/241007/p3#a241007p3)
- - [The future of Halo is being built with Unreal Engine 5](https://www.theverge.com/2024/10/7/24264129/halo-unreal-engine-5-halo-studios-announcement)
- - [This Homemade AI Drone Software Finds People When Search and Rescue Teams Can’t](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
+ - [SportQuake: crypto companies have spent a record of almost &amp;pound;130M on Premier League sponsorship deals for the 2024/25 season, buoyed by tighter gambling rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241007/p4#a241007p4)
+ - [iOS 18: Everything You Should Know About RCS Messaging on Your iPhone](https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/#ftag=CAD590a51e)
  - [Amazon Prime Day: More Than 115 Offers You Can Get Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Dealroom: US VCs made up 65% of 2024 VC investments in European defense startups, up from 18% in 2023, for a total of $458M, or 3x+ more than in any prior year &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241007/p2#a241007p2)<!-- TECH:END -->
+ - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Best Prime Day Kitchen Appliance Deals: Great Prices on Ninja, KitchenAid, Keurig and More](https://www.cnet.com/deals/best-prime-day-kitchen-appliance-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 💣 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 👉 [Dw, no one died](http://9gag.com/gag/amoBYgy)<!-- MEMES:END -->
+ - 😝 [Really not surprising](http://9gag.com/gag/avy88rq)
+ - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 😝 [OOF!](http://9gag.com/gag/amoBYAX)
+ - 👉 [I need a translator](http://9gag.com/gag/a9yKWoK)<!-- MEMES:END -->
 
 ---
 

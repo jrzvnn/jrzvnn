@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - 😝 [Wake up woman](http://9gag.com/gag/amoBBYy)
- - 💣 [Farenhite](http://9gag.com/gag/azx9qYK)
- - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 👉 [Really not surprising](http://9gag.com/gag/avy88rq)<!-- MEMES:END -->
+ - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 😝 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
+ - 💣 [What `percentage` are you?](http://9gag.com/gag/aO8YBpy)
+ - 😝 [I think its in vietnam](http://9gag.com/gag/an79bqL)
+ - 👉 [I think I was close enough](http://9gag.com/gag/azx9rOZ)<!-- MEMES:END -->
 
 ---
 

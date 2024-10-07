@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 😝 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - 💣 [What `percentage` are you?](http://9gag.com/gag/aO8YBpy)
- - 😝 [I think its in vietnam](http://9gag.com/gag/an79bqL)
- - 👉 [I think I was close enough](http://9gag.com/gag/azx9rOZ)<!-- MEMES:END -->
+ - 😝 [Dw, no one died](http://9gag.com/gag/amoBYgy)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 💣 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
+ - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
+ - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
 
 ---
 

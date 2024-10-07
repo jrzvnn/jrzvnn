@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [iOS 18.1 developer beta 6: New Control Center toggles, sleep apnea detection, more](https://appleinsider.com/articles/24/10/07/ios-181-developer-beta-6-new-control-center-toggles-sleep-apnea-detection-more?utm_medium=rss)
  - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 betas have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)
- - [Epic v. Google: everything we learned in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [How to set up sleep schedules in iOS](https://www.theverge.com/23296761/sleep-schedules-ios-health-app-how-to)
- - [Another major hurricane is approaching Florida, one of the most rapidly intensifying on record](https://www.theverge.com/2024/10/7/24264419/hurricane-milton-category-5-storm-rapid-intensification-climate-change)<!-- TECH:END -->
+ - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [This Pack of Emergency Meals Is 38% Off on Amazon and Ships Overnight](https://www.cnet.com/deals/this-pack-of-emergency-meals-is-38-off-on-amazon-and-ships-overnight/#ftag=CAD590a51e)
+ - [These Delicious Air Fryer Chicken Wings Only Take 25 Minutes to Make](https://www.cnet.com/how-to/these-delicious-air-fryer-chicken-wings-only-take-25-minutes-to-make/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

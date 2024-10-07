@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That man](http://9gag.com/gag/aGyZeBG)
- - 😝 [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
- - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
- - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 👉 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)<!-- MEMES:END -->
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 💣 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
+ - 😝 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
+ - 👉 [Lady misses Justin Timberlake singing to her while she\u2019s texting](http://9gag.com/gag/aO8YrEy)<!-- MEMES:END -->
 
 ---
 

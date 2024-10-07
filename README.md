@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
- - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 💣 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 👉 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)<!-- MEMES:END -->
+ - 😝 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 💣 [I think its in vietnam](http://9gag.com/gag/an79bqL)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 👉 [I need a translator](http://9gag.com/gag/a9yKWoK)<!-- MEMES:END -->
 
 ---
 

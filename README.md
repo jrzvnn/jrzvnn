@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
- - 😝 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 💣 [Dw, no one died](http://9gag.com/gag/amoBYgy)
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - 😝 [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
+ - 💣 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 👉 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)<!-- MEMES:END -->
 
 ---
 

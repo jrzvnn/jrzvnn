@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philip’s Hue app now uses AR to preview how a smart lamp will light up a room](https://www.theverge.com/2024/10/7/24264201/philips-hue-app-smart-home-lighting-augmented-reality)
+ - [Persona director says making beautiful menus is ‘actually really annoying’](https://www.theverge.com/2024/10/7/24262357/persona-metaphor-menu-design)
+ - [How Malaysia&#39;s Johor went from a backwater to having one of the world&#39;s biggest AI data center construction projects, with an estimated ~$3.8B invested in 2024 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/241007/p11#a241007p11)
  - [Husqvarna 410XE Nera Mower Review: Wonderful, Unaffordable](https://www.wired.com/review/husqvarna-automower-410xe-nera/)
- - [Why Persona’s longtime director made an epic fantasy RPG](https://www.theverge.com/2024/10/7/24262346/metaphor-refantazio-katsura-hashino-interview-persona)
- - [A professional’s guide to the iPhone 16 Pro camera](https://www.theverge.com/24261280/iphone-16-pro-camera-guide-features-camera-control-button)
- - [SCOTUS rejects X&#39;s appeal over a secret DOJ search warrant from Special Counsel Jack Smith for records related to Donald Trump&#39;s Twitter account &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/241007/p10#a241007p10)
- - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)<!-- TECH:END -->
+ - [Why Persona’s longtime director made an epic fantasy RPG](https://www.theverge.com/2024/10/7/24262346/metaphor-refantazio-katsura-hashino-interview-persona)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

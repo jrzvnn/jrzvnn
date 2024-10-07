@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dw, no one died](http://9gag.com/gag/amoBYgy)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 💣 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
- - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
+ - 😝 [Indian quality](http://9gag.com/gag/a2vZZBD)
+ - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
+ - 💣 [Really not surprising](http://9gag.com/gag/avy88rq)
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 👉 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)<!-- MEMES:END -->
 
 ---
 

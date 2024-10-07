@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 😝 [In 2013, a man named Richard Swanson tried to dribble a football from Seattle to Brazil to promote a charity. He was run over and killed by a truck just 250 miles into his 10,000-mile trip](http://9gag.com/gag/aGyZ1dZ)
- - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
+ - 😝 [Looks cool](http://9gag.com/gag/abAYGz9)
+ - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - 💣 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)
+ - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
 
 ---
 

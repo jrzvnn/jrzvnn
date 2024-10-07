@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS rejects X&#39;s appeal over a secret DOJ search warrant from Special Counsel Jack Smith for records related to Donald Trump&#39;s Twitter account &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/241007/p10#a241007p10)
  - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
  - [Rarebird Px Coffee Review: Alertness Without the Jitters](https://www.wired.com/review/rarebird-px-coffee/)
  - [Instacart’s smart cart helps you navigate to the sauce that’s on sale](https://www.theverge.com/2024/10/7/24262249/instacart-smart-caper-cart-live-location-map-game-treasure-hunt)
- - [Ukraine says the country&#39;s hackers carried out a cyberattack that took down the online broadcasts of 20+ Russian broadcasters on Vladimir Putin&#39;s 72nd birthday &lpar;Olesia Safronova/Bloomberg&rpar;](http://www.techmeme.com/241007/p9#a241007p9)
- - [How to tint your app icons in iOS 18](https://www.theverge.com/24260660/ios-18-iphone-icons-color-how-to)<!-- TECH:END -->
+ - [Ukraine says the country&#39;s hackers carried out a cyberattack that took down the online broadcasts of 20+ Russian broadcasters on Vladimir Putin&#39;s 72nd birthday &lpar;Olesia Safronova/Bloomberg&rpar;](http://www.techmeme.com/241007/p9#a241007p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hurricane Helene Couldn’t Stop Birders From Using eBird](https://www.wired.com/story/birders-are-still-watching-during-hurricane-helene/)
  - [In a final Epic v. Google ruling, US judge orders Google to open up Google Play to rivals for three years, distribute 3rd-party stores in Google Play, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241007/p15#a241007p15)
  - [We&#39;ve Tested the 9 Best TV Streaming Devices for 4K and HD](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
- - [Ubisoft responds to rumors about Tencent’s potential buyout](https://www.theverge.com/2024/10/7/24264469/ubisoft-tencent-buyout-rumors-statement)
- - [This Man Found 1,650 Ways to Turn a Profit While Decarbonizing](https://www.wired.com/story/this-man-found-1650-ways-to-turn-a-profit-while-decarbonizing/)<!-- TECH:END -->
+ - [Best Prime Day Laptop Deals: Big Discounts on Apple, Samsung, HP and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-07/#ftag=CAD590a51e)
+ - [7 Pet-Safe Houseplants for Your Home](https://www.cnet.com/how-to/7-pet-safe-houseplants-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

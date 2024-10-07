@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philip’s Hue app now uses AR to preview how a smart lamp will light up a room](https://www.theverge.com/2024/10/7/24264201/philips-hue-app-smart-home-lighting-augmented-reality)
+ - [Nissan buys into Ford, BMW, and Honda’s home EV charging business](https://www.theverge.com/2024/10/7/24264241/nissan-chargescape-investment-ev-home-v2g)
+ - [The last-gen Sony WH-1000XM4 headphones are now a staggering $220 off](https://www.theverge.com/2024/10/7/24264257/sony-wh1000xm4-noise-canceling-headphones-amazon-prime-deal-days-sale)
+ - [Philips’ Hue app now uses AR to preview how a smart lamp will light up a room](https://www.theverge.com/2024/10/7/24264201/philips-hue-app-smart-home-lighting-augmented-reality)
  - [Persona director says making beautiful menus is ‘actually really annoying’](https://www.theverge.com/2024/10/7/24262357/persona-metaphor-menu-design)
- - [How Malaysia&#39;s Johor went from a backwater to having one of the world&#39;s biggest AI data center construction projects, with an estimated ~$3.8B invested in 2024 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/241007/p11#a241007p11)
- - [Husqvarna 410XE Nera Mower Review: Wonderful, Unaffordable](https://www.wired.com/review/husqvarna-automower-410xe-nera/)
- - [Why Persona’s longtime director made an epic fantasy RPG](https://www.theverge.com/2024/10/7/24262346/metaphor-refantazio-katsura-hashino-interview-persona)<!-- TECH:END -->
+ - [How Malaysia&#39;s Johor went from a backwater to having one of the world&#39;s biggest AI data center construction projects, with an estimated ~$3.8B invested in 2024 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/241007/p11#a241007p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

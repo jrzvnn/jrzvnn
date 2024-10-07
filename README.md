@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
- - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
- - 💣 [Wake up woman](http://9gag.com/gag/amoBBYy)
- - 😝 [Farenhite](http://9gag.com/gag/azx9qYK)
- - 👉 [Really not surprising](http://9gag.com/gag/avy88rq)<!-- MEMES:END -->
+ - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 😝 [Toby&#39;s mom](http://9gag.com/gag/avy8r4E)
+ - 💣 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - 👉 [I need a translator](http://9gag.com/gag/a9yKWoK)<!-- MEMES:END -->
 
 ---
 

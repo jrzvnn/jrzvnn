@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
  - [Rarebird Px Coffee Review: Alertness Without the Jitters](https://www.wired.com/review/rarebird-px-coffee/)
- - [Amazon Prime Day: More Than 115 Offers You Shouldn&#39;t Miss as October&#39;s Prime Day Sale Nears](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [I Took an At-Home Food Sensitivity Test to Help My Gut Issues. Here&#39;s How It Went](https://www.cnet.com/news/i-tried-an-at-home-food-sensitivity-test-for-my-gut-issues-heres-how-it-went/#ftag=CAD590a51e)
- - [Early Prime Day Wellness and Fitness Picks Worth Stocking Up on Now](https://www.cnet.com/deals/early-prime-day-wellness-and-fitness-picks-worth-stocking-up-on-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instacart’s smart cart helps you navigate to the sauce that’s on sale](https://www.theverge.com/2024/10/7/24262249/instacart-smart-caper-cart-live-location-map-game-treasure-hunt)
+ - [Ukraine says the country&#39;s hackers carried out a cyberattack that took down the online broadcasts of 20+ Russian broadcasters on Vladimir Putin&#39;s 72nd birthday &lpar;Olesia Safronova/Bloomberg&rpar;](http://www.techmeme.com/241007/p9#a241007p9)
+ - [How to tint your app icons in iOS 18](https://www.theverge.com/24260660/ios-18-iphone-icons-color-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 😝 [Toby&#39;s mom](http://9gag.com/gag/avy8r4E)
- - 💣 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
  - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - 😝 [Wait, wait, are they talking?](http://9gag.com/gag/aO8YY9v)
+ - 💣 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 😝 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
  - 👉 [I need a translator](http://9gag.com/gag/a9yKWoK)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 💣 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)
- - 😝 [I need a translator](http://9gag.com/gag/a9yKWoK)
- - 👉 [Winning the life lottery being uncircumcised!](http://9gag.com/gag/a7o3Zpb)<!-- MEMES:END -->
+ - 😝 [Dw, no one died](http://9gag.com/gag/amoBYgy)
+ - 😝 [Sad anon](http://9gag.com/gag/aVvYMow)
+ - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
+ - 😝 [Was that a dildo I saw in there](http://9gag.com/gag/aLngggA)
+ - 👉 [I think its in vietnam](http://9gag.com/gag/an79bqL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 💣 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
- - 😝 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)
- - 👉 [Lady misses Justin Timberlake singing to her while she\u2019s texting](http://9gag.com/gag/aO8YrEy)<!-- MEMES:END -->
+ - 😝 [I need a translator](http://9gag.com/gag/a9yKWoK)
+ - 😝 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
+ - 💣 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 👉 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)<!-- MEMES:END -->
 
 ---
 

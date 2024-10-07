@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congo government plans to crack down on buyers like Apple for conflict minerals](https://appleinsider.com/articles/24/10/07/congo-government-plans-to-crack-down-on-buyers-like-apple-for-conflict-minerals?utm_medium=rss)
  - [SmartThings adds Matter 1.3, eufy S3 Cam Pro launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/10/07/smartthings-adds-matter-13-eufy-s3-cam-pro-launches-more-on-homekit-insider?utm_medium=rss)
  - [Sansui’s new 55-inch 4K OLED is just $799](https://www.theverge.com/2024/10/7/24264214/sansui-55-inch-4k-oled-tv-budget-price-ai-karaoke-mode-youtube)
  - [Nissan buys into Ford, BMW, and Honda’s home EV charging business](https://www.theverge.com/2024/10/7/24264241/nissan-chargescape-investment-ev-home-v2g)
- - [The last-gen Sony WH-1000XM4 headphones are now a staggering $220 off](https://www.theverge.com/2024/10/7/24264257/sony-wh1000xm4-noise-canceling-headphones-amazon-prime-deal-days-sale)
- - [Philips’ Hue app now uses AR to preview how a smart lamp will light up a room](https://www.theverge.com/2024/10/7/24264201/philips-hue-app-smart-home-lighting-augmented-reality)<!-- TECH:END -->
+ - [The last-gen Sony WH-1000XM4 headphones are now a staggering $220 off](https://www.theverge.com/2024/10/7/24264257/sony-wh1000xm4-noise-canceling-headphones-amazon-prime-deal-days-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

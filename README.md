@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really not surprising](http://9gag.com/gag/avy88rq)
- - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 😝 [OOF!](http://9gag.com/gag/amoBYAX)
- - 👉 [I need a translator](http://9gag.com/gag/a9yKWoK)<!-- MEMES:END -->
+ - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
+ - 💣 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
 
 ---
 

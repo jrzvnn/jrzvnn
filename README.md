@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zombie-horror &#39;Resident Evil 2&#39; heads to Mac on Dec 31](https://appleinsider.com/articles/24/10/07/zombie-horror-resident-evil-2-heads-to-mac-on-dec-31?utm_medium=rss)
- - [Nvidia to hold CES 2025 keynote as RTX 5090 rumors swirl](https://www.theverge.com/2024/10/7/24264418/nvidia-ces-2025-keynote-rtx-5090-rumors)
- - [&#39;Joker: Folie à Deux&#39; Might Be the Worst Comic Book Adaptation of All Time](https://www.wired.com/story/is-joker-folie-a-deux-really-the-worst-comic-book-adaptation-of-all-time/)
- - [A deep dive on Chris Lehane, super PACs like Fairshake, and recent political savagery from some Silicon Valley execs, effectively targeting Katie Porter, others &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/241007/p13#a241007p13)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
+ - [It’s a spooky season miracle, Alien: Isolation is getting a sequel](https://www.theverge.com/2024/10/7/24264348/alien-isolation-sequel-creative-assembly-sega)
+ - [$150 Prime Day Discount Drops the OnePlus 12 to a New All-Time Low](https://www.cnet.com/deals/oneplus-12-prime-day-deal/#ftag=CAD590a51e)
+ - [Best Walmart Early Holiday Sales: Get Big Discounts on Gadgets, Kitchen Items, Appliances and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Samsung Galaxy Book 4 Falls by More Than $500 in Best Buy’s Anti-Prime Sale](https://www.cnet.com/tech/computing/samsung-galaxy-book-4-falls-by-more-than-500-in-best-buys-anti-prime-sale/#ftag=CAD590a51e)
+ - [Best Prime Day Amazon Device Deals: Big Discounts on Fire TVs, Echo Speakers and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

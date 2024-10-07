@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases macOS 15.0.1, which &quot;improves compatibility with third-party security software&quot;, after the Sequoia&#39;s release broke some third-party tools &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241007/p14#a241007p14)
- - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)
- - [Apple&#39;s six developer betas land for iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/07/apples-six-developer-betas-land-for-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
- - [The OpenAI Talent Exodus Gives Rivals an Opening](https://www.wired.com/story/openai-departures-research-rivals-artificial-intelligence/)
- - [It’s a spooky season miracle — Alien: Isolation is getting a sequel](https://www.theverge.com/2024/10/7/24264348/alien-isolation-sequel-creative-assembly-sega)<!-- TECH:END -->
+ - [Ubisoft responds to rumors about Tencent’s potential buyout](https://www.theverge.com/2024/10/7/24264469/ubisoft-tencent-buyout-rumors-statement)
+ - [This Man Found 1,650 Ways to Turn a Profit While Decarbonizing](https://www.wired.com/story/this-man-found-1650-ways-to-turn-a-profit-while-decarbonizing/)
+ - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $10: Top 46 Deals on Tech, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-07/#ftag=CAD590a51e)
+ - [Get Over $500 Off This EcoFlow Portable Power Station Ahead of Prime Day](https://www.cnet.com/deals/get-over-500-off-this-ecoflow-portable-power-station-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

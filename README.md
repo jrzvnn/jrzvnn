@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil Pro drops under $100 for the first time](https://www.theverge.com/2024/10/7/24264200/apple-pencil-pro-pixel-watch-3-deal-sale)
  - [Congo government plans to crack down on buyers like Apple for conflict minerals](https://appleinsider.com/articles/24/10/07/congo-government-plans-to-crack-down-on-buyers-like-apple-for-conflict-minerals?utm_medium=rss)
- - [SmartThings adds Matter 1.3, eufy S3 Cam Pro launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/10/07/smartthings-adds-matter-13-eufy-s3-cam-pro-launches-more-on-homekit-insider?utm_medium=rss)
- - [Sansui’s new 55-inch 4K OLED is just $799](https://www.theverge.com/2024/10/7/24264214/sansui-55-inch-4k-oled-tv-budget-price-ai-karaoke-mode-youtube)
- - [Nissan buys into Ford, BMW, and Honda’s home EV charging business](https://www.theverge.com/2024/10/7/24264241/nissan-chargescape-investment-ev-home-v2g)
- - [The last-gen Sony WH-1000XM4 headphones are now a staggering $220 off](https://www.theverge.com/2024/10/7/24264257/sony-wh1000xm4-noise-canceling-headphones-amazon-prime-deal-days-sale)<!-- TECH:END -->
+ - [Wondering if You Have ADHD? 8 Common Symptoms and How to Manage](https://www.cnet.com/health/mental/wondering-if-you-have-adhd-8-common-symptoms-and-how-to-manage/#ftag=CAD590a51e)
+ - [Amazon Prime Day: More Than 115 Offers You Shouldn&#39;t Miss as October&#39;s Prime Day Sale Nears](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Hostinger Review: Website Creation Made Easy](https://www.cnet.com/tech/services-and-software/hostinger-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

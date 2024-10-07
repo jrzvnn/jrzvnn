@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 😝 [Shocking Hollywood](http://9gag.com/gag/aBy00Ax)
- - 💣 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 😝 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
+ - 💣 [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)
+ - 😝 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
  - 👉 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russian YouTubers keep showing off alleged M4 MacBook Pros in possibly historic Apple leak](https://appleinsider.com/articles/24/10/07/russian-youtubers-keep-showing-off-alleged-m4-macbook-pros-in-possibly-historic-apple-leak?utm_medium=rss)
  - [Apple’s next MacBook Pros might have leaked in Russia](https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video)
  - [Apple&#39;s global head of procurement, Dan Rosckes, to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
  - [Chevy’s cheapest Silverado EV now starts at $57,095](https://www.theverge.com/2024/10/7/24264622/chevy-silverado-ev-2025-wt-lt-rst)
- - [New in iOS 18.1 developer beta 6: Control Center toggles, sleep apnea detection, more](https://appleinsider.com/articles/24/10/07/ios-181-developer-beta-6-new-control-center-toggles-sleep-apnea-detection-more?utm_medium=rss)
- - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New in iOS 18.1 developer beta 6: Control Center toggles, sleep apnea detection, more](https://appleinsider.com/articles/24/10/07/ios-181-developer-beta-6-new-control-center-toggles-sleep-apnea-detection-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

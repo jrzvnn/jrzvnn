@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
  - [Ubisoft responds to rumors about Tencent’s potential buyout](https://www.theverge.com/2024/10/7/24264469/ubisoft-tencent-buyout-rumors-statement)
  - [This Man Found 1,650 Ways to Turn a Profit While Decarbonizing](https://www.wired.com/story/this-man-found-1650-ways-to-turn-a-profit-while-decarbonizing/)
  - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $10: Top 46 Deals on Tech, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-07/#ftag=CAD590a51e)
- - [Get Over $500 Off This EcoFlow Portable Power Station Ahead of Prime Day](https://www.cnet.com/deals/get-over-500-off-this-ecoflow-portable-power-station-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Deals Under $10: Top 46 Deals on Tech, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

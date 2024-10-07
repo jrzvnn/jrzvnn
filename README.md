@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s a spooky season miracle, Alien: Isolation is getting a sequel](https://www.theverge.com/2024/10/7/24264348/alien-isolation-sequel-creative-assembly-sega)
- - [$150 Prime Day Discount Drops the OnePlus 12 to a New All-Time Low](https://www.cnet.com/deals/oneplus-12-prime-day-deal/#ftag=CAD590a51e)
- - [Best Walmart Early Holiday Sales: Get Big Discounts on Gadgets, Kitchen Items, Appliances and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-07/#ftag=CAD590a51e)
- - [Samsung Galaxy Book 4 Falls by More Than $500 in Best Buy’s Anti-Prime Sale](https://www.cnet.com/tech/computing/samsung-galaxy-book-4-falls-by-more-than-500-in-best-buys-anti-prime-sale/#ftag=CAD590a51e)
- - [Best Prime Day Amazon Device Deals: Big Discounts on Fire TVs, Echo Speakers and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)
+ - [Apple&#39;s six developer betas land for iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/07/apples-six-developer-betas-land-for-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)
+ - [The OpenAI Talent Exodus Gives Rivals an Opening](https://www.wired.com/story/openai-departures-research-rivals-artificial-intelligence/)
+ - [It’s a spooky season miracle — Alien: Isolation is getting a sequel](https://www.theverge.com/2024/10/7/24264348/alien-isolation-sequel-creative-assembly-sega)
+ - [Zombie-horror &#39;Resident Evil 2&#39; heads to Mac on Dec 31](https://appleinsider.com/articles/24/10/07/zombie-horror-resident-evil-2-heads-to-mac-on-dec-31?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

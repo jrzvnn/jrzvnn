@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need a translator](http://9gag.com/gag/a9yKWoK)
- - 😝 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
- - 💣 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 👉 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)<!-- MEMES:END -->
+ - 😝 [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
+ - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 💣 [Toby&#39;s mom](http://9gag.com/gag/avy8r4E)
+ - 😝 [I think its in vietnam](http://9gag.com/gag/an79bqL)
+ - 👉 [World&#39;s first case of an alive ladybug found in someone&#39;s colon during colonoscopy](http://9gag.com/gag/amoBrgV)<!-- MEMES:END -->
 
 ---
 

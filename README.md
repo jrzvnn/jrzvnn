@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPads are back down to as low as $199 for Prime Big Deals Days](https://appleinsider.com/articles/24/10/07/apple-ipads-are-back-down-to-as-low-as-199-for-prime-big-deals-days?utm_medium=rss)
+ - [Data breach leaks SSNs of over 230,000 Comcast customers](https://www.theverge.com/2024/10/7/24264283/comcast-fcbs-data-breach-ssn-names)
  - [Filing: KoBold Metals, which uses ML to help it sift through datasets to identify large deposits of various metals, has raised $491M of a targeted $527M round &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/241007/p12#a241007p12)
  - [Rabbit CEO Jesse Lyu isn’t thinking too far ahead](https://www.theverge.com/24260181/rabbit-r1-large-action-model-lam-playground-generative-ai-jesse-lyu-interview-users)
- - [28 Best Early Amazon Prime Day Deals On Gear We&#39;ve Tested &lpar;October 2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024-1/)
- - [Apple Pencil Pro drops under $100 for the first time](https://www.theverge.com/2024/10/7/24264200/apple-pencil-pro-pixel-watch-3-deal-sale)
- - [Congo government plans to crack down on buyers like Apple for conflict minerals](https://appleinsider.com/articles/24/10/07/congo-government-plans-to-crack-down-on-buyers-like-apple-for-conflict-minerals?utm_medium=rss)<!-- TECH:END -->
+ - [28 Best Early Prime Day Deals On Gear We&#39;ve Tested &lpar;October 2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

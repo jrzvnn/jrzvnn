@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung says it is not interested in spinning off its contract chip manufacturing business; sources say it has struggled to win big orders for new chip capacity &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p8#a241007p8)
  - [Apple may not be making a Smart Ring right now after all](https://appleinsider.com/articles/24/10/07/apple-may-not-be-making-a-smart-ring-right-now-after-all?utm_medium=rss)
  - [The Race to Block OpenAI’s Scraping Bots Is Slowing Down](https://www.wired.com/story/open-ai-publisher-deals-scraping-bots/)
  - [Apple Watch Series 10 review: Faster charging, redesign, and watchOS 11 make it worth buying](https://appleinsider.com/articles/24/10/07/apple-watch-series-10-review-faster-charging-redesign-and-watchos-11-make-it-worth-buying?utm_medium=rss)
- - [UN report: cyber crime syndicates raked in as much as $37B in 2023 and are growing in Myanmar, Cambodia, Laos, and across Southeast Asia despite police efforts &lpar;Philip Heijmans/Bloomberg&rpar;](http://www.techmeme.com/241007/p7#a241007p7)
- - [How Chinese e-commerce companies like Pinduoduo pushing to lower prices are making China&#39;s deflation worse; HSBC says ~60% of Chinese consumers use e-commerce &lpar;New York Times&rpar;](http://www.techmeme.com/241007/p6#a241007p6)<!-- TECH:END -->
+ - [UN report: cyber crime syndicates raked in as much as $37B in 2023 and are growing in Myanmar, Cambodia, Laos, and across Southeast Asia despite police efforts &lpar;Philip Heijmans/Bloomberg&rpar;](http://www.techmeme.com/241007/p7#a241007p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

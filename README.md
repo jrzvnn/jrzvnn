@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 💣 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 👉 [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)<!-- MEMES:END -->
+ - 😝 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
+ - 😝 [Title](http://9gag.com/gag/avy8oDX)
+ - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
+ - 👉 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)<!-- MEMES:END -->
 
 ---
 

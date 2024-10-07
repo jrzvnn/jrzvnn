@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To Be a Good Pregnancy Surrogate, It Helps to Be a Dominatrix First](https://www.wired.com/story/pregnancy-surrogate-your-next-job/)
+ - [The BBC, ITV, Channel 4, and Channel 5 agree a deal with Amazon to put free streamer Freely, developed by joint venture Everyone TV, on Amazon&#39;s US smart TVs &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241007/p5#a241007p5)
  - [SportQuake: crypto companies have spent a record of almost &amp;pound;130M on Premier League sponsorship deals for the 2024/25 season, buoyed by tighter gambling rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241007/p4#a241007p4)
  - [iOS 18: Everything You Should Know About RCS Messaging on Your iPhone](https://www.cnet.com/tech/services-and-software/ios-18-everything-you-should-know-about-rcs-messaging-on-your-iphone/#ftag=CAD590a51e)
- - [Amazon Prime Day: More Than 115 Offers You Can Get Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-07/#ftag=CAD590a51e)
- - [Best Prime Day Kitchen Appliance Deals: Great Prices on Ninja, KitchenAid, Keurig and More](https://www.cnet.com/deals/best-prime-day-kitchen-appliance-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: More Than 115 Offers You Can Get Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

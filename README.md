@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian YouTubers keep showing off alleged M4 MacBook Pros in possibly historic Apple leak](https://appleinsider.com/articles/24/10/07/russian-youtubers-keep-showing-off-alleged-m4-macbook-pros-in-possibly-historic-apple-leak?utm_medium=rss)
+ - [Apple&#39;s global head of procurement Dan Rosckes to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
+ - [Russian YouTubers keep showing off alleged M4 MacBook Pros in historic Apple leak](https://appleinsider.com/articles/24/10/07/russian-youtubers-keep-showing-off-alleged-m4-macbook-pros-in-possibly-historic-apple-leak?utm_medium=rss)
  - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
  - [Monday Night Football: How to Watch Saints vs. Chiefs, ManningCast Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-saints-vs-chiefs-manningcast-tonight/#ftag=CAD590a51e)
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
- - [Prime-Exclusive Deals Knock Up to $650 Off Dreame Robot Vacuums](https://www.cnet.com/deals/dreame-robot-vacuum-prime-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

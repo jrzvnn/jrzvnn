@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a bit of a laugh](http://9gag.com/gag/a873p16)
- - 😝 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
- - 💣 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
- - 😝 [I need a translator](http://9gag.com/gag/a9yKWoK)
- - 👉 [OOF!](http://9gag.com/gag/amoBYAX)<!-- MEMES:END -->
+ - 😝 [That man](http://9gag.com/gag/aGyZeBG)
+ - 😝 [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
+ - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
+ - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 👉 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)<!-- MEMES:END -->
 
 ---
 

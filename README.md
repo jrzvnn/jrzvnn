@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Homemade AI Drone Software Finds People When Search and Rescue Teams Can’t](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
+ - [Amazon Prime Day: More Than 115 Offers You Can Get Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
  - [Dealroom: US VCs made up 65% of 2024 VC investments in European defense startups, up from 18% in 2023, for a total of $458M, or 3x+ more than in any prior year &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241007/p2#a241007p2)
- - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
  - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)
- - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

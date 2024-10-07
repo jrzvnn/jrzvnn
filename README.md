@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Best Internet Providers in Birmingham, Alabama](https://www.cnet.com/home/internet/best-internet-providers-in-birmingham-al/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $10: Grab Discounts on Over 50 Top Items Including Tech, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-06/#ftag=CAD590a51e)
- - [Purple Restore Premier Review: Purple&#39;s Softest Hybrid Mattress](https://www.cnet.com/health/sleep/purple-restore-premier-review-purples-softest-hybrid-mattress/#ftag=CAD590a51e)
- - [Starlink’s direct-to-cell satellite service approved for areas hit by Hurricane Helene](https://www.theverge.com/2024/10/6/24263801/starlink-t-mobile-fcc-satellite-hurricane-helene)<!-- TECH:END -->
+ - [Substack, which still isn&#39;t profitable but has added +1M paid subscribers over the last year, is trying to become a primary way creators of all mediums get paid &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/241006/p8#a241006p8)
+ - [Sunday Night Football: How to Watch Cowboys vs. Steelers Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-cowboys-vs-steelers-tonight/#ftag=CAD590a51e)
+ - [Say Goodbye to Pet Hair With Dyson&#39;s V8 Animal Extra Stick Vac, Now Up to $150 off Ahead of Prime Day](https://www.cnet.com/deals/say-goodbye-to-pet-hair-with-dysons-v8-animal-extra-stick-vac-now-up-to-150-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

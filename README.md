@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/aryGbKp)
- - 😝 [In 2013, a man named Richard Swanson tried to dribble a football from Seattle to Brazil to promote a charity. He was run over and killed by a truck just 250 miles into his 10,000-mile trip](http://9gag.com/gag/aGyZ1dZ)
+ - 😝 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
+ - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
  - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 👉 [OOF!](http://9gag.com/gag/amoBYAX)<!-- MEMES:END -->
+ - 😝 [In 2013, a man named Richard Swanson tried to dribble a football from Seattle to Brazil to promote a charity. He was run over and killed by a truck just 250 miles into his 10,000-mile trip](http://9gag.com/gag/aGyZ1dZ)
+ - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
 
 ---
 

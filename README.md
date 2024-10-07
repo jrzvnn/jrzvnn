@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - 😝 [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
- - 💣 [Making millionaires billionaires. And where I work is mandatory to ask for donations to customers. Fk em.](http://9gag.com/gag/aryGoYK)
- - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 😝 [Shocking Hollywood](http://9gag.com/gag/aBy00Ax)
+ - 💣 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 👉 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)<!-- MEMES:END -->
 
 ---
 

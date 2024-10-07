@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - 💣 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
  - 😝 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
- - 👉 [Sad anon](http://9gag.com/gag/aVvYMow)<!-- MEMES:END -->
+ - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 👉 [Was that a dildo I saw in there](http://9gag.com/gag/aLngggA)<!-- MEMES:END -->
 
 ---
 

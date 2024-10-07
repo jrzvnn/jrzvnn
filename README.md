@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s next MacBook Pros might have leaked in Russia](https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video)
+ - [Apple&#39;s global head of procurement, Dan Rosckes, to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
+ - [Chevy’s cheapest Silverado EV now starts at $57,095](https://www.theverge.com/2024/10/7/24264622/chevy-silverado-ev-2025-wt-lt-rst)
  - [New in iOS 18.1 developer beta 6: Control Center toggles, sleep apnea detection, more](https://appleinsider.com/articles/24/10/07/ios-181-developer-beta-6-new-control-center-toggles-sleep-apnea-detection-more?utm_medium=rss)
- - [TikTok launches Smart+, a new AI-powered ad tool that competes with Google&#39;s Performance Max and Meta&#39;s Advantage+, automating ad targeting and optimization &lpar;Digiday&rpar;](http://www.techmeme.com/241007/p21#a241007p21)
- - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 betas have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)
- - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [This Pack of Emergency Meals Is 38% Off on Amazon and Ships Overnight](https://www.cnet.com/deals/this-pack-of-emergency-meals-is-38-off-on-amazon-and-ships-overnight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok launches Smart+, a new AI-powered ad tool that competes with Google&#39;s Performance Max and Meta&#39;s Advantage+, automating ad targeting and optimization &lpar;Digiday&rpar;](http://www.techmeme.com/241007/p21#a241007p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

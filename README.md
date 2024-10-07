@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indian quality](http://9gag.com/gag/a2vZZBD)
- - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
- - 💣 [Really not surprising](http://9gag.com/gag/avy88rq)
- - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 👉 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)<!-- MEMES:END -->
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
+ - 👉 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)<!-- MEMES:END -->
 
 ---
 

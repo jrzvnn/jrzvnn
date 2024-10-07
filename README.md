@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)
  - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
  - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)
- - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)<!-- TECH:END -->
+ - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 7, #218](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-7-218/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

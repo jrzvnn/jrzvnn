@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says it is not interested in spinning off its contract chip manufacturing business; sources say it has struggled to win big orders for new chip capacity &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p8#a241007p8)
- - [Apple may not be making a Smart Ring right now after all](https://appleinsider.com/articles/24/10/07/apple-may-not-be-making-a-smart-ring-right-now-after-all?utm_medium=rss)
- - [The Race to Block OpenAI’s Scraping Bots Is Slowing Down](https://www.wired.com/story/open-ai-publisher-deals-scraping-bots/)
- - [Apple Watch Series 10 review: Faster charging, redesign, and watchOS 11 make it worth buying](https://appleinsider.com/articles/24/10/07/apple-watch-series-10-review-faster-charging-redesign-and-watchos-11-make-it-worth-buying?utm_medium=rss)
- - [UN report: cyber crime syndicates raked in as much as $37B in 2023 and are growing in Myanmar, Cambodia, Laos, and across Southeast Asia despite police efforts &lpar;Philip Heijmans/Bloomberg&rpar;](http://www.techmeme.com/241007/p7#a241007p7)<!-- TECH:END -->
+ - [How to tint your app icons in iOS 18](https://www.theverge.com/24260660/ios-18-iphone-icons-color-how-to)
+ - [How to Use AI to Find the Best Deals and Coupons During Prime Day](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-find-the-best-deals-and-coupons-during-prime-day/#ftag=CAD590a51e)
+ - [OpenAI Makes History Again, This Time by Scoring Billions From Investors](https://www.cnet.com/tech/computing/openai-makes-history-again-this-time-by-scoring-billions-from-investors/#ftag=CAD590a51e)
+ - [Where Have All the Chief Metaverse Officers Gone?](https://www.wired.com/story/where-have-all-the-chief-metaverse-officers-gone/)
+ - [Metronet Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/metronet-home-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

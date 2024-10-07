@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set up sleep schedules in iOS](https://www.theverge.com/23296761/sleep-schedules-ios-health-app-how-to)
  - [Another major hurricane is approaching Florida, one of the most rapidly intensifying on record](https://www.theverge.com/2024/10/7/24264419/hurricane-milton-category-5-storm-rapid-intensification-climate-change)
  - [FTX Customers Will Get Back Billions After Judge OKs Bankruptcy Plan](https://www.wired.com/story/ftx-bankruptcy-us-judge-confirms/)
  - [iCloud.com updated with dark mode, customization options, and tweaked UI](https://appleinsider.com/articles/24/10/07/icloudcom-updated-with-dark-mode-customization-options-and-tweaked-ui?utm_medium=rss)
- - [Google says it will appeal the Epic Games verdict, claiming &quot;Apple and Android clearly compete&quot; and the ruling will cause unintended consequences for consumers &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241007/p20#a241007p20)
- - [A US federal judge has given the FTC the green light to pursue antitrust claims against Amazon but ruled that some claims under state laws won&#39;t move forward &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241007/p18#a241007p18)<!-- TECH:END -->
+ - [Google says it will appeal the Epic Games verdict, claiming &quot;Apple and Android clearly compete&quot; and the ruling will cause unintended consequences for consumers &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241007/p20#a241007p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody knows!](http://9gag.com/gag/ae9r50Q)
  - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
- - 💣 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
  - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - 👉 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)<!-- MEMES:END -->
+ - 👉 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)<!-- MEMES:END -->
 
 ---
 

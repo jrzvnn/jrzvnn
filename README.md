@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zombie-horror &#39;Resident Evil 2&#39; heads to Mac on Dec 31](https://appleinsider.com/articles/24/10/07/zombie-horror-resident-evil-2-heads-to-mac-on-dec-31?utm_medium=rss)
+ - [Nvidia to hold CES 2025 keynote as RTX 5090 rumors swirl](https://www.theverge.com/2024/10/7/24264418/nvidia-ces-2025-keynote-rtx-5090-rumors)
+ - [&#39;Joker: Folie à Deux&#39; Might Be the Worst Comic Book Adaptation of All Time](https://www.wired.com/story/is-joker-folie-a-deux-really-the-worst-comic-book-adaptation-of-all-time/)
  - [A deep dive on Chris Lehane, super PACs like Fairshake, and recent political savagery from some Silicon Valley execs, effectively targeting Katie Porter, others &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/241007/p13#a241007p13)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
- - [Threads knows it has an engagement bait problem](https://www.theverge.com/2024/10/7/24264382/threads-engagement-bait-problem-mosseri-meta)
- - [Geico insists it ‘has coverage’ for the Cybertruck after owners complain of dropped policies](https://www.theverge.com/2024/10/7/24264330/geico-insurance-coverage-cybertruck-cancelled-dropped-policy)
- - [Unleash Your Creativity With New Cricut Gear On Sale For Prime Day](https://www.cnet.com/deals/unleash-your-creativity-with-new-cricut-gear-on-sale-for-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

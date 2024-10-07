@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty Slick Trick; Rick](http://9gag.com/gag/a2vZd8p)
- - 😝 [That man](http://9gag.com/gag/aGyZeBG)
- - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
- - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 👉 [Really not surprising](http://9gag.com/gag/avy88rq)<!-- MEMES:END -->
+ - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 💣 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)
+ - 😝 [I need a translator](http://9gag.com/gag/a9yKWoK)
+ - 👉 [Winning the life lottery being uncircumcised!](http://9gag.com/gag/a7o3Zpb)<!-- MEMES:END -->
 
 ---
 

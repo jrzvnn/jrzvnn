@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was that a dildo I saw in there](http://9gag.com/gag/aLngggA)
- - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
- - 💣 [Umm. Excuse me.. WTF](http://9gag.com/gag/a4PQje6)
- - 😝 [I think its in vietnam](http://9gag.com/gag/an79bqL)
- - 👉 [OOF!](http://9gag.com/gag/amoBYAX)<!-- MEMES:END -->
+ - 😝 [Pretty Slick Trick; Rick](http://9gag.com/gag/a2vZd8p)
+ - 😝 [That man](http://9gag.com/gag/aGyZeBG)
+ - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
+ - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 👉 [Really not surprising](http://9gag.com/gag/avy88rq)<!-- MEMES:END -->
 
 ---
 

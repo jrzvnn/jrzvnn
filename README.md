@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)
- - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
- - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 😝 [Remember this](http://9gag.com/gag/aNDYgB6)
- - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 😝 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - 😝 [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
+ - 💣 [Making millionaires billionaires. And where I work is mandatory to ask for donations to customers. Fk em.](http://9gag.com/gag/aryGoYK)
+ - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
 
 ---
 

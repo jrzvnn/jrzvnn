@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dw, no one died](http://9gag.com/gag/amoBYgy)
- - 😝 [Sad anon](http://9gag.com/gag/aVvYMow)
- - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
- - 😝 [Was that a dildo I saw in there](http://9gag.com/gag/aLngggA)
- - 👉 [I think its in vietnam](http://9gag.com/gag/an79bqL)<!-- MEMES:END -->
+ - 😝 [Have a bit of a laugh](http://9gag.com/gag/a873p16)
+ - 😝 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
+ - 💣 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
+ - 😝 [I need a translator](http://9gag.com/gag/a9yKWoK)
+ - 👉 [OOF!](http://9gag.com/gag/amoBYAX)<!-- MEMES:END -->
 
 ---
 

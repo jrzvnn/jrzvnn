@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 10 review: Faster charging, redesign, and watchOS 11 make it worth buying](https://appleinsider.com/articles/24/10/07/apple-watch-series-10-review-faster-charging-redesign-and-watchos-11-make-it-worth-buying?utm_medium=rss)
+ - [UN report: cyber crime syndicates raked in as much as $37B in 2023 and are growing in Myanmar, Cambodia, Laos, and across Southeast Asia despite police efforts &lpar;Philip Heijmans/Bloomberg&rpar;](http://www.techmeme.com/241007/p7#a241007p7)
  - [How Chinese e-commerce companies like Pinduoduo pushing to lower prices are making China&#39;s deflation worse; HSBC says ~60% of Chinese consumers use e-commerce &lpar;New York Times&rpar;](http://www.techmeme.com/241007/p6#a241007p6)
  - [M1 iMacs failing with dark horizontal lines on screen](https://appleinsider.com/articles/24/10/07/m1-imacs-failing-with-dark-horizontal-lines-on-screen?utm_medium=rss)
- - [To Be a Good Pregnancy Surrogate, It Helps to Be a Dominatrix First](https://www.wired.com/story/pregnancy-surrogate-your-next-job/)
- - [The BBC, ITV, Channel 4, and Channel 5 agree a deal with Amazon to put free streamer Freely, developed by joint venture Everyone TV, on Amazon&#39;s US smart TVs &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241007/p5#a241007p5)
- - [SportQuake: crypto companies have spent a record of almost &amp;pound;130M on Premier League sponsorship deals for the 2024/25 season, buoyed by tighter gambling rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241007/p4#a241007p4)<!-- TECH:END -->
+ - [To Be a Good Pregnancy Surrogate, It Helps to Be a Dominatrix First](https://www.wired.com/story/pregnancy-surrogate-your-next-job/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

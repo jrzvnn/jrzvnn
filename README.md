@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)
  - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
  - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 7, #218](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-7-218/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 7, #484](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-7-484/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 7, #1206](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-7-1206/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 7, #484](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-7-484/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

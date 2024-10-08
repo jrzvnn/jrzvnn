@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)
- - [Adobe launches a Content Authenticity web app to let creators use its Content Credentials &quot;nutrition labels&quot; to apply attribution and opt out of AI training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241008/p13#a241008p13)
- - [Apple will open the 2025 Swift Student Challenge in February](https://appleinsider.com/articles/24/10/08/apple-will-open-the-2025-swift-student-challenge-in-february?utm_medium=rss)
- - [Bellevue, Washington-based Auger, founded by ex-Amazon and Flexport exec Dave Clark to offer AI-powered supply chain tools, raised a $100M seed led by Oak HC/FT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p12#a241008p12)
- - [260 Best Prime Day Deals, Tested and Tracked By Our Team &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
+ - [Amazon discounts Apple Watch SE 2 to just $169 for Prime Day](https://appleinsider.com/articles/24/10/08/amazon-discounts-apple-watch-se-2-to-just-169-for-prime-day?utm_medium=rss)
+ - [Prime Day is a great time to get the Galaxy Watch 6 Classic for 33 percent off](https://www.theverge.com/2024/10/8/24265096/prime-day-galaxy-watch-6-classic-deals)
+ - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
+ - [How to use your iPhone&#39;s satellite features in an emergency](https://appleinsider.com/inside/iphone/tips/how-to-use-your-iphones-satellite-features-in-an-emergency?utm_medium=rss)
+ - [Crypto.com sues the US SEC after receiving a Wells notice that the agency plans to bring an enforcement action against it; Consensys sued the SEC in April 2024 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241008/p14#a241008p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

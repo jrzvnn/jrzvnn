@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a joke..rrr](http://9gag.com/gag/an79jrB)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 💣 [Title](http://9gag.com/gag/avy8oDX)
- - 😝 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)
- - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 😝 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)
+ - 💣 [Random physics](http://9gag.com/gag/aD214dw)
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 👉 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)<!-- MEMES:END -->
 
 ---
 

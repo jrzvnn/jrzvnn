@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EvenUp, a personal injury startup making AI tools for law firms, raised a $135M Series D led by Bain Capital at a $1B+ valuation and says it has 1,000+ clients &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241008/p9#a241008p9)
+ - [Best Prime Day iPad deals: iPad mini falls to $349, M4 iPad Pro dips to record low $849](https://appleinsider.com/articles/24/10/08/best-prime-day-ipad-deals-ipad-mini-falls-to-349-m4-ipad-pro-dips-to-record-low-849?utm_medium=rss)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [The 12 Best Wi-Fi Routers, Tested and Reviewed by Experts &lpar;2024&rpar;](https://www.wired.com/gallery/best-wifi-routers/)
- - [The incredible blandness of AI photography](https://www.theverge.com/2024/10/8/24258764/iphone-pixel-camera-google-photos-memories-ai-edits)
- - [Apple&#39;s iPad maintains lead as tablet market expanded in Q2 2024](https://appleinsider.com/articles/24/10/08/apples-ipad-maintains-lead-as-tablet-market-expanded-in-q2-2024?utm_medium=rss)
- - [Save up to 30% on Aqara smart locks and HomeKit doorbell during Prime Big Deal Days](https://appleinsider.com/articles/24/10/08/save-up-to-30-on-aqara-smart-locks-and-homekit-doorbell-during-prime-big-deal-days?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S24 FE Review: Flagship Features for Small Sacrifices](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-fe-review-flagship-features-for-small-sacrifices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

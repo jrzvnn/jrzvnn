@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)
+ - [Online gig platforms sought to increase their &quot;take rates&quot; amid slowing growth; PitchBook: Fiverr and Upwork are trading at less than 20% their pandemic peaks &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241008/p1#a241008p1)
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Amazon Prime Day: The Best 137 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Maximize Your Prime Day Savings With These Amazon Shopping Tips](https://www.cnet.com/deals/maximize-your-prime-day-savings-with-these-amazon-shopping-tips/#ftag=CAD590a51e)
- - [How to Keep Your Home Safe During Hurricanes and Storms](https://www.cnet.com/how-to/how-to-protect-your-home-during-hurricanes-and-other-major-storms/#ftag=CAD590a51e)
- - [The Walmart Deals Event Starts Today. 10+ Items to Consider for Every Budget](https://www.cnet.com/paid-content/news/the-walmart-deals-event-starts-today-10-items-to-consider-for-every-budget/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [34 Best Gifts for Teens in 2024](https://www.cnet.com/news/best-gifts-for-teens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

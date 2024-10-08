@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Royal Swedish Academy of Sciences awards the Nobel Prize in physics to John Hopfield and Geoffrey Hinton for &quot;foundational discoveries&quot; in machine learning &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/241008/p6#a241008p6)
+ - [Uber announces ride-hailing and delivery updates: an EV-only Uber Green in 40 cities, a GPT-4o-powered chatbot to answer drivers&#39; EV questions, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241008/p7#a241008p7)
+ - [The Royal Swedish Academy of Sciences awards the Nobel Prize in Physics to John Hopfield and Geoffrey Hinton for &quot;foundational discoveries&quot; in machine learning &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/241008/p6#a241008p6)
  - [October Prime Day 2024: Live coverage of the best Apple deals &amp; tech sales](https://appleinsider.com/articles/24/10/08/october-prime-day-2024-live-coverage-of-the-best-apple-deals-tech-sales?utm_medium=rss)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
- - [Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241008/p5#a241008p5)<!-- TECH:END -->
+ - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

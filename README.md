@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
+ - 😝 [Remember this](http://9gag.com/gag/aNDYgB6)
+ - 😝 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
+ - 💣 [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 😝 [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
+ - 👉 [`My life is over`](http://9gag.com/gag/a1mQrBv)<!-- MEMES:END -->
 
 ---
 

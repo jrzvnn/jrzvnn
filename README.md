@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden-Harris administration launches a Reddit White House account for news and info about federal government work; first posts are about Hurricane Helene &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241008/p27#a241008p27)
+ - [16 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)
  - [Marketing tech company Zeta Global agrees to buy LiveIntent, another marketing tech provider, for $250M in cash and stock in a deal expected to close in Q4 2024 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p26#a241008p26)
  - [Bissell&#39;s Little Green Cleaner Is Only $82 for Amazon Prime Day](https://www.cnet.com/deals/bissells-little-green-cleaner-is-only-82-for-amazon-prime-day/#ftag=CAD590a51e)
- - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
- - [Prime Day Steal: Apple M3 MacBook Air Drops to Record Low at Nearly $300 Off](https://www.cnet.com/deals/prime-day-steal-apple-m3-macbook-air-drops-to-record-low-at-nearly-300-off/#ftag=CAD590a51e)
- - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

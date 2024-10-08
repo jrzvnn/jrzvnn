@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day: The Best 136 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
- - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
- - [Best Prime Day Deals Under $10: Over 40 Super Budget Deals on Tech, Toys, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-08/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals: Save Big on Apple, Samsung, HP and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-08/#ftag=CAD590a51e)
- - [Through Hurricanes Helene and Milton, Amateur Radio Triumphs When All Else Fails](https://www.wired.com/story/hurricane-helene-milton-north-carolina-florida-amateur-radio/)<!-- TECH:END -->
+ - [Roborock robot vacuum &amp; mop combos get hefty Prime Big Deal Days discounts up to 63% off](https://appleinsider.com/articles/24/10/08/roborock-robot-vacuum-mop-combos-get-hefty-prime-big-deal-days-discounts-up-to-63-off?utm_medium=rss)
+ - [Google Docs will let users organize information into tabs](https://www.theverge.com/2024/10/8/24265025/google-docs-tabs-organization-feature-availability)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
+ - [12 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
+ - [8 Best Prime Day Laptop Deals &lpar;2024&rpar;: Apple, Acer, Asus](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

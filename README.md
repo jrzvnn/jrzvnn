@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
- - 👉 [Remember this](http://9gag.com/gag/aNDYgB6)<!-- MEMES:END -->
+ - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 😝 [I am listening ..](http://9gag.com/gag/awyAoBy)
+ - 💣 [Title](http://9gag.com/gag/avy8oDX)
+ - 😝 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
+ - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
 
 ---
 

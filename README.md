@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)
- - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 💣 [The boys](http://9gag.com/gag/aAy3b3R)
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aoyegjn)
- - 👉 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)<!-- MEMES:END -->
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
+ - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
 
 ---
 

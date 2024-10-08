@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)
- - [Amazon Prime Day: The Best 137 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Maximize Your Prime Day Savings With These Amazon Shopping Tips](https://www.cnet.com/deals/maximize-your-prime-day-savings-with-these-amazon-shopping-tips/#ftag=CAD590a51e)
- - [How to Keep Your Home Safe During Hurricanes and Storms](https://www.cnet.com/how-to/how-to-protect-your-home-during-hurricanes-and-other-major-storms/#ftag=CAD590a51e)
- - [The Walmart Deals Event Starts Today. 10+ Items to Consider for Every Budget](https://www.cnet.com/paid-content/news/the-walmart-deals-event-starts-today-10-items-to-consider-for-every-budget/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Walmart Deals Event Starts Today. 10+ Items to Consider for Every Budget](https://www.cnet.com/paid-content/news/the-walmart-deals-event-starts-today-10-items-to-consider-for-every-budget/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-8/#ftag=CAD590a51e)
+ - [Amazon Prime Day: The Best 135 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [A look at OpenAI&#39;s ongoing talent exodus, seeming shift in hiring priorities, deep bench of young talent, and the intensifying competition to hire the next wave &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241007/p27#a241007p27)
+ - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

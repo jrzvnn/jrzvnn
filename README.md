@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will open the 2025 Swift Student Challenge in February](https://appleinsider.com/articles/24/10/08/apple-will-open-the-2025-swift-student-challenge-in-february?utm_medium=rss)
  - [Bellevue, WA-based Auger, founded by former Amazon and Flexport exec Dave Clark to offer AI-powered supply chain tools, raised a $100M seed led by Oak HC/FT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p12#a241008p12)
  - [260 Best Prime Day Deals, Tested and Tracked By Our Team &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Short seller Hindenburg releases a report accusing Roblox of inflating user metrics to investors and prioritizing growth over protecting minors; RBLX drops 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241008/p11#a241008p11)
- - [Competing rumors differ on if the Apple Ring is dead or about to be born](https://appleinsider.com/articles/24/10/08/competing-rumors-differ-on-if-the-apple-ring-is-dead-or-about-to-be-born?utm_medium=rss)<!-- TECH:END -->
+ - [Short seller Hindenburg releases a report accusing Roblox of inflating user metrics to investors and prioritizing growth over protecting minors; RBLX drops 5%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241008/p11#a241008p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

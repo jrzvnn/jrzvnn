@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)
- - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 💣 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)
- - 😝 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)
+ - 😝 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)
+ - 💣 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)
+ - 😝 [Road Rage f**k around find out](http://9gag.com/gag/azx9MOx)
  - 👉 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)<!-- MEMES:END -->
 
 ---

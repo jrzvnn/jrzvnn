@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a UK treaty could spell the end of the .io domain](https://www.theverge.com/2024/10/8/24265441/uk-treaty-end-io-domain-chagos-islands)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [CRKD Atom game controller review: small and perfectly formed](https://appleinsider.com/articles/24/10/08/crkd-atom-game-controller-review-small-and-perfectly-formed?utm_medium=rss)
  - [Best Prime Day Apple Deals on MacBooks, iPads, More &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024/)
- - [293 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
- - [Amazon Prime Day: We Found Over 150 Deals Worth Shopping](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [293 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

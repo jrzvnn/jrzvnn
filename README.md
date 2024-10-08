@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 😝 [Title](http://9gag.com/gag/avy8oDX)
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
  - 😝 [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
- - 👉 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/avy8oDX)
+ - 💣 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)
+ - 😝 [The old sunglasses trick](http://9gag.com/gag/aXPYgG2)
+ - 👉 [No more taco nights](http://9gag.com/gag/aYQY7ZO)<!-- MEMES:END -->
 
 ---
 

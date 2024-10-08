@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 😝 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
- - 💣 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
- - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
+ - 😝 [When you`re obsessed with annoying your dog and he enjoys it more than you](http://9gag.com/gag/aMVZ4dx)
+ - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
+ - 💣 [The boys](http://9gag.com/gag/aAy3b3R)
+ - 😝 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aoyegjn)<!-- MEMES:END -->
 
 ---
 

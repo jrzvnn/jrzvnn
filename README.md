@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung removes the Galaxy Z Fold2, which launched in September 2020 for $2,000, from its list of devices that will receive security updates &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241008/p24#a241008p24)
  - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
- - [Amazon Prime Day: The 150+ Best Deals Vetted by Shopping Experts in October](https://www.cnet.com/tech/best-october-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
- - [Saatva Solaire Mattress Review 2024: A Truly Customizable Mattress for Couples](https://www.cnet.com/health/sleep/saatva-solaire-mattress-review/#ftag=CAD590a51e)
- - [Lock In an APY as High as 5% With These Top CDs](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)
- - [Best Home Theater Systems of 2024](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GM’s Ultium battery gets the ultimatum](https://www.theverge.com/2024/10/8/24265416/gm-ultium-ev-battery-platform-discontinued-lfp)
+ - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

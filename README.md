@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember this](http://9gag.com/gag/aNDYgB6)
- - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 💣 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
  - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 👉 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)<!-- MEMES:END -->
+ - 😝 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
+ - 💣 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
+ - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
 
 ---
 

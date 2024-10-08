@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
  - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 💣 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
- - 😝 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
- - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
+ - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
 
 ---
 

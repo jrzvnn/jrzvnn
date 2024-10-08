@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Series X / S expansion cards are near their lowest prices for Prime Day](https://www.theverge.com/2024/10/8/24201383/amazon-prime-day-western-digital-wdblack-c50-seagate-xbox-storage-expansion-card-deal-sale)
+ - [Invincible Fight Girl smashes her way onto Adult Swim this November](https://www.theverge.com/2024/10/8/24265323/invincible-fight-girl-adult-swim-premiere-date)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
  - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
- - [The US could finally ditch lead pipes under new EPA decision](https://www.theverge.com/2024/10/8/24265195/lead-pipe-epa-replacement-deadline-infrastructure-funding)
- - [NYT Games is testing Zorse, a new ‘phrase guessing’ puzzle game](https://www.theverge.com/2024/10/8/24265296/new-york-times-nyt-games-zorse-test)
- - [A rare Apple Macintosh prototype is returning to auction](https://www.theverge.com/2024/10/8/24265175/apple-macintosh-twiggy-prototype-auction-bonhams)
- - [Apple Pay returns to Home Depot, grocery chain H-E-B starts to accept it](https://appleinsider.com/articles/24/10/08/apple-pay-returns-to-home-depot-grocery-chain-h-e-b-starts-to-accept-it?utm_medium=rss)<!-- TECH:END -->
+ - [The US could finally ditch lead pipes under new EPA decision](https://www.theverge.com/2024/10/8/24265195/lead-pipe-epa-replacement-deadline-infrastructure-funding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

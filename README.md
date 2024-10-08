@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 😝 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)
- - 💣 [Random physics](http://9gag.com/gag/aD214dw)
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 👉 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)<!-- MEMES:END -->
+ - 😝 [Shocking Hollywood](http://9gag.com/gag/aBy00Ax)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 💣 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)
+ - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
 
 ---
 

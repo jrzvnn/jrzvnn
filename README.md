@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok hit by over a dozen state lawsuits for allegedly harming teens](https://www.theverge.com/2024/10/8/24265169/tiktok-lawsuit-state-attorneys-general-kids-mental-health)
- - [Meta begins rolling out new AI tools that will let advertisers expand the aspect ratio of their videos as well as generate a video ad from a static image &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241008/p16#a241008p16)
- - [What Google&#39;s U-Turn on Third-Party Cookies Means for Chrome Privacy](https://www.wired.com/story/google-chrome-third-party-cookies-privacy-rollback/)
- - [16 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)<!-- TECH:END -->
+ - [Rockstar brings Red Dead Redemption to PC, 14 years after its PS3 and Xbox 360 release, available via Rockstar, Steam, and the Epic Games Store on October 29 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/241008/p18#a241008p18)
+ - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [AirPods Pro 2 are lower than ever at $169 for Prime Day](https://www.theverge.com/2024/10/8/24265115/apple-airpods-pro-amazon-prime-day-deal-sale-october)
+ - [An era of politically motivated AI slop is here, exacerbating viral conspiracy theories and making a big impact after disasters, as in the US, Brazil, and Gaza &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241008/p17#a241008p17)
+ - [TikTok hit by over a dozen state lawsuits for allegedly harming teens](https://www.theverge.com/2024/10/8/24265169/tiktok-lawsuit-state-attorneys-general-kids-mental-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

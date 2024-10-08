@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Big Deal Days: AirPods Pro 2 drop to $168.99, AirPods Max plunge to $394.99](https://appleinsider.com/articles/24/10/08/amazon-prime-big-deal-days-airpods-pro-2-drop-to-16899-airpods-max-plunge-to-39499?utm_medium=rss)
  - [&#39;Severance&#39; gets rare Apple TV+ Blu-ray release](https://appleinsider.com/articles/24/10/08/severance-gets-rare-apple-tv-blu-ray-release?utm_medium=rss)
  - [TrendForce: TSMC&#39;s global foundry revenue share will hit 64% in 2024, up from 51% in 2019, while Samsung&#39;s share is set to drop to 10%, down from 16% in 2019 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p8#a241008p8)
  - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [The &#39;Diablo IV&#39; Nobody Ever Saw](https://www.wired.com/story/play-nice-book-excerpt-blizzard-diablo-iv/)
- - [Uber announces ride-hailing and delivery updates: an EV-only Uber Green in 40 cities, a GPT-4o-powered chatbot to answer drivers&#39; EV questions, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241008/p7#a241008p7)<!-- TECH:END -->
+ - [Forget Prime Day. Best Buy&#39;s 48-Hour Sale Has Huge Discounts on Samsung, Apple and More](https://www.cnet.com/deals/best-buy-anti-prime-day-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

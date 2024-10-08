@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
- - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 💣 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
  - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
- - 👉 [`My life is over`](http://9gag.com/gag/a1mQrBv)<!-- MEMES:END -->
+ - 💣 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
 
 ---
 

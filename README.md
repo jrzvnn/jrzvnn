@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real villain](http://9gag.com/gag/aXPYxNP)
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 💣 [Back when You could say almost anything without getting canceled](http://9gag.com/gag/a9yKAXK)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 👉 [Remember this](http://9gag.com/gag/aNDYgB6)<!-- MEMES:END -->
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 💣 [Move like a gazelle](http://9gag.com/gag/a9yKR3j)
+ - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 👉 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is fixing — and ruining — our photos](https://www.theverge.com/2024/10/8/24264652/ai-photos-apple-google-halide-vergecast)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
- - [Meta is bringing AI-edited video ads to Facebook and Instagram](https://www.theverge.com/2024/10/8/24265065/meta-ai-edited-video-ads-facebook-instagram)
- - [iFixit now sells a USB-powered tool for removing the iPhone 16’s battery](https://www.theverge.com/2024/10/8/24262373/ifixit-iphone-16-battery-repair-adhesive)<!-- TECH:END -->
+ - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)
+ - [Roblox accused of lying to investors about user numbers by Hindenburg Research](https://www.theverge.com/2024/10/8/24265145/roblox-hindenburg-reseach-dau-child-safety-short-seller-report)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
+ - [AI is fixing — and ruining — our photos](https://www.theverge.com/2024/10/8/24264652/ai-photos-apple-google-halide-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

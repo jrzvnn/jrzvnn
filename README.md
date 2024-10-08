@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 😝 [Try That In A Pole Town. Immigrant tries to sexually assault women in public... 10 seconds later, FAFO. Bobr dont f**k around.](http://9gag.com/gag/aMVZ49R)
+ - 😝 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)
  - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
  - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 👉 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)<!-- MEMES:END -->
+ - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
  - [20 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
  - [Mastodon switches things up to make its app a little easier to use](https://www.theverge.com/2024/10/8/24265201/mastodon-4-3-update-grouped-notifications-design-discover-carousel)
- - [FEMA adds misinformation to its list of disasters to clean up](https://www.theverge.com/2024/10/8/24265372/fema-misinformation-hurricane-helene-milton)
- - [GM teases next-gen Chevy Bolt EV: faster charging, multiple models](https://www.theverge.com/2024/10/8/24265404/gm-chevy-bolt-next-gen-charging-family-reuss)<!-- TECH:END -->
+ - [FEMA adds misinformation to its list of disasters to clean up](https://www.theverge.com/2024/10/8/24265372/fema-misinformation-hurricane-helene-milton)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

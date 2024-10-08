@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
- - [Tucker Carlson Promotes the Heritage Foundation&#39;s Project 2025 in Elon Musk Interview](https://www.wired.com/story/tucker-carlson-elon-musk-interview-project-2025/)
- - [The Garmin Forerunner 255 Music is nearly half off for Prime Day](https://www.theverge.com/2024/10/8/24265338/prime-day-garmin-forerunner-255-smartwatch-wearables)
- - [The Best Smart Home Devices on Sale During Prime Day](https://www.cnet.com/deals/best-smart-home-deals-prime-day-2024-10-08/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals to Shop Right Now](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Oura Ring Gen 3 is 20 percent off](https://www.theverge.com/2024/10/8/24265363/amazon-prime-day-oura-ring-gen-3-smart-ring-wearables-october)
+ - [Apple’s M3 MacBook Airs are at their best prices for Amazon’s Prime Day](https://www.theverge.com/2024/10/8/24265354/apple-macbook-air-13-15-m3-processor-october-prime-day-deal-sale)
+ - [Officials in NC and at FEMA, responding to Hurricane Helene, face a flurry of antisemitic attacks largely on X, where some posts get tens of millions of views &lpar;Washington Post&rpar;](http://www.techmeme.com/241008/p23#a241008p23)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

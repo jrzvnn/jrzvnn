@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 😝 [I am listening ..](http://9gag.com/gag/awyAoBy)
- - 💣 [Title](http://9gag.com/gag/avy8oDX)
- - 😝 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
- - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
+ - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 💣 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
+ - 😝 [Title](http://9gag.com/gag/avy8oDX)
+ - 👉 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)<!-- MEMES:END -->
 
 ---
 

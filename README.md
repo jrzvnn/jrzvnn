@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Saudi Arabia&#39;s PIF sold ~17.3M Nintendo shares between August 21 to October 1, lowering its stake to 7.54%, despite an exec saying it wants to buy more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p4#a241008p4)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)
- - [Dublin-based Appeals Centre, backed by Meta&#39;s Oversight Board, launches to moderate disputes between EU users and Facebook, TikTok, and YouTube under the DSA &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/241008/p3#a241008p3)
- - [Roborock robot vacuum &amp; mop combos get hefty Prime Big Deal Days discounts up to 63% off](https://appleinsider.com/articles/24/10/08/roborock-robot-vacuum-mop-combos-get-hefty-prime-big-deal-days-discounts-up-to-63-off?utm_medium=rss)
- - [Google Docs will let users organize information into tabs](https://www.theverge.com/2024/10/8/24265025/google-docs-tabs-organization-feature-availability)<!-- TECH:END -->
+ - [Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241008/p5#a241008p5)
+ - [SSDI October 2024: Here&#39;s When Your Check Will Arrive](https://www.cnet.com/personal-finance/ssdi-october-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)
+ - [iOS 18: This Secret Trick Can Help Keep Your Notes App Organized](https://www.cnet.com/tech/services-and-software/ios-18-this-secret-trick-can-help-keep-your-notes-app-organized/#ftag=CAD590a51e)
+ - [Best Christmas Decorations on Amazon in 2024](https://www.cnet.com/news/amazon-christmas-decorations/#ftag=CAD590a51e)
+ - [Best Prime Day Deals Under $100: Treat Yourself to These Prime Day Deals](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

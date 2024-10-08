@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Influencer tries to do a prank and gets slapped](http://9gag.com/gag/a4PQRed)
  - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 👉 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
+ - 👉 [Remember this](http://9gag.com/gag/aNDYgB6)<!-- MEMES:END -->
 
 ---
 

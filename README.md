@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
- - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Red Dead Redemption and Undead Nightmare are finally coming to PC this month](https://www.theverge.com/2024/10/8/24265128/red-dead-redemption-undead-nightmare-pc-october-29th)
- - [The Kindle Paperwhite Kids is down to just $115 for October Prime Day](https://www.theverge.com/2024/10/8/24264745/amazon-prime-day-kindle-paperwhite-kids-scribe-e-reader-deal-sale-october-2024)
- - [Apple&#39;s MacBook Air receives Prime Day price drop to as low as $749](https://appleinsider.com/articles/24/10/08/apples-macbook-air-receives-prime-day-price-drop-to-as-low-as-749?utm_medium=rss)<!-- TECH:END -->
+ - [AI is fixing — and ruining — our photos](https://www.theverge.com/2024/10/8/24264652/ai-photos-apple-google-halide-vergecast)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
+ - [Meta is bringing AI-edited video ads to Facebook and Instagram](https://www.theverge.com/2024/10/8/24265065/meta-ai-edited-video-ads-facebook-instagram)
+ - [iFixit now sells a USB-powered tool for removing the iPhone 16’s battery](https://www.theverge.com/2024/10/8/24262373/ifixit-iphone-16-battery-repair-adhesive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

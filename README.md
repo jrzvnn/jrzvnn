@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar brings Red Dead Redemption to PC, 14 years after its PS3 and Xbox 360 release, available via Rockstar, Steam, and the Epic Games Store on October 29 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/241008/p18#a241008p18)
- - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
- - [AirPods Pro 2 are lower than ever at $169 for Prime Day](https://www.theverge.com/2024/10/8/24265115/apple-airpods-pro-amazon-prime-day-deal-sale-october)
- - [An era of politically motivated AI slop is here, exacerbating viral conspiracy theories and making a big impact after disasters, as in the US, Brazil, and Gaza &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241008/p17#a241008p17)
- - [TikTok hit by over a dozen state lawsuits for allegedly harming teens](https://www.theverge.com/2024/10/8/24265169/tiktok-lawsuit-state-attorneys-general-kids-mental-health)<!-- TECH:END -->
+ - [Snap says it is bringing ads to the Snapchat&#39;s main Chat tab for the first time and launches &quot;Promoted Places&quot; on Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241008/p19#a241008p19)
+ - [China-backed hackers broke into US telecom wiretap portals that law enforcement uses](https://appleinsider.com/articles/24/10/08/china-backed-hackers-broke-into-us-telecom-wiretap-portals-that-law-enforcement-uses?utm_medium=rss)
+ - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
+ - [iFixit&#39;s VoltClip tool will let you unglue your iPhone 16 battery](https://appleinsider.com/articles/24/10/08/ifixits-voltclip-tool-will-let-you-unglue-your-iphone-16-battery?utm_medium=rss)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

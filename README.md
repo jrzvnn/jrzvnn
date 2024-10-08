@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [&#39;Severance&#39; gets rare Apple TV+ Blu-ray release](https://appleinsider.com/articles/24/10/08/severance-gets-rare-apple-tv-blu-ray-release?utm_medium=rss)
  - [TrendForce: TSMC&#39;s global foundry revenue share will hit 64% in 2024, up from 51% in 2019, while Samsung&#39;s share is set to drop to 10%, down from 16% in 2019 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p8#a241008p8)
  - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [Forget Prime Day. Best Buy&#39;s 48-Hour Sale Has Huge Discounts on Samsung, Apple and More](https://www.cnet.com/deals/best-buy-anti-prime-day-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The &#39;Diablo IV&#39; Nobody Ever Saw](https://www.wired.com/story/play-nice-book-excerpt-blizzard-diablo-iv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

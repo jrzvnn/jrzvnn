@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MoneyGram says hackers &quot;accessed and acquired&quot; some customers&#39; personal and transaction data, including SSNs, during a cyberattack between September 20 and 22 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p26#a241007p26)
  - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)
- - [Samsung estimates Q3 operating profit up 274% YoY to ~$6.78B, falling short of analysts&#39; estimates of ~$7.66B, as it struggles to capitalize on AI chips demand &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p24#a241007p24)
- - [Apple Watch Series 10 teardown shows progress in everything except repairability](https://appleinsider.com/articles/24/10/08/apple-watch-series-10-teardown-shows-progress-in-everything-except-repairability?utm_medium=rss)
- - [Two Russian YouTube channels posted videos of an alleged new 14-inch M4 MacBook Pro base model, in what could be the worst Apple product leak since the iPhone 4 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241007/p23#a241007p23)
- - [Forget Prime Day. Best Buy Has Major Discounts on Samsung, Apple and More](https://www.cnet.com/deals/best-buy-anti-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Traveling Soon and Love Deals? Same. 12 Amazon Finds for Your Next Trip](https://www.cnet.com/news/traveling-soon-and-love-deals-same-12-amazon-finds-for-your-next-trip/#ftag=CAD590a51e)
+ - [How You Can Protect Your Home During a Blackout](https://www.cnet.com/home/energy-and-utilities/blackout-prep-made-easy-protect-your-home-with-these-simple-tips/#ftag=CAD590a51e)
+ - [Samsung estimates Q3 operating profit up 274% YoY to ~$6.78B, falling short of analysts&#39; estimates of ~$7.66B, as it lags rivals in the booming AI chip market &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p24#a241007p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

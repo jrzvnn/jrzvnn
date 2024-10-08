@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember this](http://9gag.com/gag/aNDYgB6)
- - 😝 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
- - 💣 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 😝 [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
- - 👉 [`My life is over`](http://9gag.com/gag/a1mQrBv)<!-- MEMES:END -->
+ - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 💣 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
+ - 👉 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)<!-- MEMES:END -->
 
 ---
 

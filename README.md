@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
+ - [The US could finally ditch lead pipes under new EPA decision](https://www.theverge.com/2024/10/8/24265195/lead-pipe-epa-replacement-deadline-infrastructure-funding)
+ - [NYT Games is testing Zorse, a new ‘phrase guessing’ puzzle game](https://www.theverge.com/2024/10/8/24265296/new-york-times-nyt-games-zorse-test)
  - [A rare Apple Macintosh prototype is returning to auction](https://www.theverge.com/2024/10/8/24265175/apple-macintosh-twiggy-prototype-auction-bonhams)
- - [Apple Pay returns to Home Depot, grocery chain H-E-B starts to accept it](https://appleinsider.com/articles/24/10/08/apple-pay-returns-to-home-depot-grocery-chain-h-e-b-starts-to-accept-it?utm_medium=rss)
- - [Honda Zero first drive: an EV without the baggage](https://www.theverge.com/2024/10/8/24265238/honda-zero-first-drive-ev-weight-battery-vr-autonomous)
- - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
- - [Study: X acts quickly to remove AI-made nonconsensual nude images reported by users as a copyright violation but not if reported as nonconsensual intimate media &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/241008/p21#a241008p21)<!-- TECH:END -->
+ - [Apple Pay returns to Home Depot, grocery chain H-E-B starts to accept it](https://appleinsider.com/articles/24/10/08/apple-pay-returns-to-home-depot-grocery-chain-h-e-b-starts-to-accept-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

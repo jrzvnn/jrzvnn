@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Oura Ring Gen 3 is 20 percent off](https://www.theverge.com/2024/10/8/24265363/amazon-prime-day-oura-ring-gen-3-smart-ring-wearables-october)
- - [Apple’s M3 MacBook Airs are at their best prices for Amazon’s Prime Day](https://www.theverge.com/2024/10/8/24265354/apple-macbook-air-13-15-m3-processor-october-prime-day-deal-sale)
- - [Officials in NC and at FEMA, responding to Hurricane Helene, face a flurry of antisemitic attacks largely on X, where some posts get tens of millions of views &lpar;Washington Post&rpar;](http://www.techmeme.com/241008/p23#a241008p23)
- - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)<!-- TECH:END -->
+ - [GM teases next-gen Chevy Bolt EV: faster charging, multiple models](https://www.theverge.com/2024/10/8/24265404/gm-chevy-bolt-next-gen-charging-family-reuss)
+ - [The TK Best Amazon Prime Day Deals to Shop Under $50](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-08/#ftag=CAD590a51e)
+ - [Amazon Prime Day: The 150 Best Deals Vetted by Shopping Experts in October](https://www.cnet.com/tech/best-october-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
+ - [Upgrade Your Wireless Earbuds for $30 With this Great JBL Deal on October Prime Day](https://www.cnet.com/deals/upgrade-your-wireless-earbuds-for-30-with-this-great-jbl-deal-on-october-prime-day/#ftag=CAD590a51e)
+ - [Best Amazon Prime Day TV Deals to Shop for This October](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

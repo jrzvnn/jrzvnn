@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [OpenAI signs a content deal with Hearst, letting it use content from 40+ local newspapers and 20+ magazines, after deals with Cond&amp;eacute; Nast and Dotdash Meredith &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241008/p20#a241008p20)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
  - [Snap says it is bringing ads to the Snapchat&#39;s main Chat tab for the first time and launches &quot;Promoted Places&quot; on Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241008/p19#a241008p19)
- - [China-backed hackers broke into US telecom wiretap portals that law enforcement uses](https://appleinsider.com/articles/24/10/08/china-backed-hackers-broke-into-us-telecom-wiretap-portals-that-law-enforcement-uses?utm_medium=rss)
- - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
- - [iFixit&#39;s VoltClip tool will let you unglue your iPhone 16 battery](https://appleinsider.com/articles/24/10/08/ifixits-voltclip-tool-will-let-you-unglue-your-iphone-16-battery?utm_medium=rss)
- - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
+ - [China-backed hackers broke into US telecom wiretap portals that law enforcement uses](https://appleinsider.com/articles/24/10/08/china-backed-hackers-broke-into-us-telecom-wiretap-portals-that-law-enforcement-uses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

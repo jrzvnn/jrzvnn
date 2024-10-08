@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Headphone Deals: Major Savings on AirPods, Beats, Sony and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-08/#ftag=CAD590a51e)
- - [Best Streaming Device for 2024: Roku, Chromecast and More](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Best Amazon Prime Day Deals Under $10 for October 2024](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-08/#ftag=CAD590a51e)
- - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
+ - [The White House started posting on Reddit to talk about Hurricane Milton](https://www.theverge.com/2024/10/8/24265598/white-house-official-reddit-account-posting-hurricane)
+ - [Brazil clears X for return after a monthlong ban](https://www.theverge.com/2024/10/8/24265606/x-twitter-unbanned-brazil-supreme-court)
+ - [US adult TikTok users follow lots of mid-tier influencers and creators but very few politicians, civic actors, or traditional media outlets and journalists &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241008/p28#a241008p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

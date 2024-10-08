@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon discounts Apple Watch SE 2 to just $169 for Prime Day](https://appleinsider.com/articles/24/10/08/amazon-discounts-apple-watch-se-2-to-just-169-for-prime-day?utm_medium=rss)
- - [Prime Day is a great time to get the Galaxy Watch 6 Classic for 33 percent off](https://www.theverge.com/2024/10/8/24265096/prime-day-galaxy-watch-6-classic-deals)
- - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [How to use your iPhone&#39;s satellite features in an emergency](https://appleinsider.com/inside/iphone/tips/how-to-use-your-iphones-satellite-features-in-an-emergency?utm_medium=rss)
- - [Crypto.com sues the US SEC after receiving a Wells notice that the agency plans to bring an enforcement action against it; Consensys sued the SEC in April 2024 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241008/p14#a241008p14)<!-- TECH:END -->
+ - [Apple&#39;s MacBook Air receives Prime Day price drop to as low as $749](https://appleinsider.com/articles/24/10/08/apples-macbook-air-receives-prime-day-price-drop-to-as-low-as-749?utm_medium=rss)
+ - [Scientists who built ‘foundation’ for AI awarded Nobel Prize](https://www.theverge.com/2024/10/8/24265066/ai-nobel-prize-winners-physics-machine-learning-regret)
+ - [A bipartisan coalition of 14 US state AGs file lawsuits accusing TikTok of damaging young users&#39; mental health and collecting data without parental consent &lpar;Daniel Arkin/NBC News&rpar;](http://www.techmeme.com/241008/p15#a241008p15)
+ - [Kaspersky no longer on Google Play Store anywhere following US ban](https://www.theverge.com/2024/10/8/24265073/google-kaspersky-removed-play-store-android-us-restrictions)
+ - [Severance season 1 is coming home on Blu-ray](https://www.theverge.com/2024/10/8/24265105/severance-season-one-blu-ray-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

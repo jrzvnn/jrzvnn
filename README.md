@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 💣 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)
  - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 👉 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)<!-- MEMES:END -->
+ - 👉 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
 
 ---
 

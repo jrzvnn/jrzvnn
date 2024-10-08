@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM teases next-gen Chevy Bolt EV: faster charging, multiple models](https://www.theverge.com/2024/10/8/24265404/gm-chevy-bolt-next-gen-charging-family-reuss)
- - [The TK Best Amazon Prime Day Deals to Shop Under $50](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-08/#ftag=CAD590a51e)
- - [Amazon Prime Day: The 150 Best Deals Vetted by Shopping Experts in October](https://www.cnet.com/tech/best-october-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
- - [Upgrade Your Wireless Earbuds for $30 With this Great JBL Deal on October Prime Day](https://www.cnet.com/deals/upgrade-your-wireless-earbuds-for-30-with-this-great-jbl-deal-on-october-prime-day/#ftag=CAD590a51e)
- - [Best Amazon Prime Day TV Deals to Shop for This October](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
+ - [20 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
+ - [Mastodon switches things up to make its app a little easier to use](https://www.theverge.com/2024/10/8/24265201/mastodon-4-3-update-grouped-notifications-design-discover-carousel)
+ - [FEMA adds misinformation to its list of disasters to clean up](https://www.theverge.com/2024/10/8/24265372/fema-misinformation-hurricane-helene-milton)
+ - [GM teases next-gen Chevy Bolt EV: faster charging, multiple models](https://www.theverge.com/2024/10/8/24265404/gm-chevy-bolt-next-gen-charging-family-reuss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

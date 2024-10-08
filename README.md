@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
- - 💣 [Offended](http://9gag.com/gag/aryGM4y)
- - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
+ - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 😝 [Offended](http://9gag.com/gag/aryGM4y)
+ - 💣 [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
+ - 😝 [Dude goes 20000% for each movie](http://9gag.com/gag/a0eQNWO)
+ - 👉 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)<!-- MEMES:END -->
 
 ---
 

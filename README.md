@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: X acts quickly to remove AI-made nonconsensual nude images reported by users as a copyright violation but not if reported as nonconsensual intimate media &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/241008/p21#a241008p21)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [OpenAI signs a content deal with Hearst, letting it use content from 40+ local newspapers and 20+ magazines, after deals with Cond&amp;eacute; Nast and Dotdash Meredith &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241008/p20#a241008p20)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
- - [Snap says it is bringing ads to the Snapchat&#39;s main Chat tab for the first time and launches &quot;Promoted Places&quot; on Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241008/p19#a241008p19)
- - [China-backed hackers broke into US telecom wiretap portals that law enforcement uses](https://appleinsider.com/articles/24/10/08/china-backed-hackers-broke-into-us-telecom-wiretap-portals-that-law-enforcement-uses?utm_medium=rss)<!-- TECH:END -->
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/avy8oDX)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 💣 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
- - 😝 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 💣 [Offended](http://9gag.com/gag/aryGM4y)
+ - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
 
 ---
 

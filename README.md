@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 😝 [The girl with the toe](http://9gag.com/gag/a9yKnzZ)
+ - 💣 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
  - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
  - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
 
 ---

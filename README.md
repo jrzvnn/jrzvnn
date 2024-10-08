@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s 32-inch M8 monitor is now over 40% off](https://appleinsider.com/articles/24/10/08/samsungs-32-inch-m8-monitor-is-now-over-40-off?utm_medium=rss)
+ - [OneDrive is getting a new mobile app, better search, and colored folders in File Explorer](https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer)
  - [Xbox Series X / S expansion cards are near their lowest prices for Prime Day](https://www.theverge.com/2024/10/8/24201383/amazon-prime-day-western-digital-wdblack-c50-seagate-xbox-storage-expansion-card-deal-sale)
  - [Invincible Fight Girl smashes her way onto Adult Swim this November](https://www.theverge.com/2024/10/8/24265323/invincible-fight-girl-adult-swim-premiere-date)
- - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
- - [The US could finally ditch lead pipes under new EPA decision](https://www.theverge.com/2024/10/8/24265195/lead-pipe-epa-replacement-deadline-infrastructure-funding)<!-- TECH:END -->
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

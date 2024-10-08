@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)
  - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 💣 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 😝 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
- - 👉 [`My life is over`](http://9gag.com/gag/a1mQrBv)<!-- MEMES:END -->
+ - 💣 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)
+ - 😝 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)
+ - 👉 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 8A is just a ridiculously good deal at $379](https://www.theverge.com/2024/10/8/24265214/amazon-prime-day-google-pixel-8a-deal-sale-october)
- - [Filing: Shein&#39;s UK business made &amp;pound;1.55B in 2023 revenue, up 38% over a 16-month period to the end of 2022, as the fast fashion retailer prepares for a UK IPO &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241008/p22#a241008p22)
- - [Samsung&#39;s 32-inch M8 monitor is now over 40% off](https://appleinsider.com/articles/24/10/08/samsungs-32-inch-m8-monitor-is-now-over-40-off?utm_medium=rss)
- - [OneDrive is getting a new mobile app, better search, and colored folders in File Explorer](https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer)
- - [Xbox Series X / S expansion cards are near their lowest prices for Prime Day](https://www.theverge.com/2024/10/8/24201383/amazon-prime-day-western-digital-wdblack-c50-seagate-xbox-storage-expansion-card-deal-sale)<!-- TECH:END -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
+ - [Tucker Carlson Promotes the Heritage Foundation&#39;s Project 2025 in Elon Musk Interview](https://www.wired.com/story/tucker-carlson-elon-musk-interview-project-2025/)
+ - [The Garmin Forerunner 255 Music is nearly half off for Prime Day](https://www.theverge.com/2024/10/8/24265338/prime-day-garmin-forerunner-255-smartwatch-wearables)
+ - [The Best Smart Home Devices on Sale During Prime Day](https://www.cnet.com/deals/best-smart-home-deals-prime-day-2024-10-08/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals to Shop Right Now](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

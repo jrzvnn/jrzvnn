@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - 👉 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)<!-- MEMES:END -->
 
 ---
 

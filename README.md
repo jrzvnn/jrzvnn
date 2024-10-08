@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
+ - 😝 [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
+ - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
  - 😝 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
- - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
- - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
+ - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 💣 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)
- - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 👉 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
+ - 😝 [The real villain](http://9gag.com/gag/aXPYxNP)
+ - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 💣 [Back when You could say almost anything without getting canceled](http://9gag.com/gag/a9yKAXK)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 👉 [Remember this](http://9gag.com/gag/aNDYgB6)<!-- MEMES:END -->
 
 ---
 

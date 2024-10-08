@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden-Harris administration launches a Reddit White House account for news and info about federal government work; first posts are about Hurricane Helene &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241008/p27#a241008p27)
- - [16 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)
- - [Marketing tech company Zeta Global agrees to buy LiveIntent, another marketing tech provider, for $250M in cash and stock in a deal expected to close in Q4 2024 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p26#a241008p26)
- - [Bissell&#39;s Little Green Cleaner Is Only $82 for Amazon Prime Day](https://www.cnet.com/deals/bissells-little-green-cleaner-is-only-82-for-amazon-prime-day/#ftag=CAD590a51e)
- - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
+ - [Best Prime Day Headphone Deals: Major Savings on AirPods, Beats, Sony and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-08/#ftag=CAD590a51e)
+ - [Best Streaming Device for 2024: Roku, Chromecast and More](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Headphones for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [Best Amazon Prime Day Deals Under $10 for October 2024](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-08/#ftag=CAD590a51e)
+ - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

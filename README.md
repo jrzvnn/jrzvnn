@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
  - [Flash sale: grab Apple&#39;s 14-inch MacBook Pro M3 Pro for just $1,699 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/10/08/flash-sale-grab-apples-14-inch-macbook-pro-m3-pro-for-just-1699-300-off?utm_medium=rss)
  - [How a UK treaty could spell the end of the .io domain](https://www.theverge.com/2024/10/8/24265441/uk-treaty-end-io-domain-chagos-islands)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [CRKD Atom game controller review: small and perfectly formed](https://appleinsider.com/articles/24/10/08/crkd-atom-game-controller-review-small-and-perfectly-formed?utm_medium=rss)
- - [Best Prime Day Apple Deals on MacBooks, iPads, More &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024/)<!-- TECH:END -->
+ - [CRKD Atom game controller review: small and perfectly formed](https://appleinsider.com/articles/24/10/08/crkd-atom-game-controller-review-small-and-perfectly-formed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

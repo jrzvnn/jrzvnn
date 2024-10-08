@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Competing rumors differ on if the Apple Ring is dead or about to be born](https://appleinsider.com/articles/24/10/08/competing-rumors-differ-on-if-the-apple-ring-is-dead-or-about-to-be-born?utm_medium=rss)
- - [Las Vegas-based TensorWave, which offers cloud-based AMD MI300X chips for AI workloads, raised $43M led by Nexus VP at a $100M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p10#a241008p10)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The Roli Airwave Is Both an AI Piano Teacher and a Digital Theremin](https://www.wired.com/story/roli-airwave-ai-music-teacher/)
- - [Lenovo Chromebook Duet Gen 9 Review: A Tiny Laptop](https://www.wired.com/review/lenovo-chromebook-duet-gen-9-11-inch-mediatek/)<!-- TECH:END -->
+ - [Bellevue, WA-based Auger, founded by former Amazon and Flexport exec Dave Clark to offer AI-powered supply chain tools, raised a $100M seed led by Oak HC/FT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p12#a241008p12)
+ - [260 Best Prime Day Deals, Tested and Tracked By Our Team &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Short seller Hindenburg releases a report accusing Roblox of inflating user metrics to investors and prioritizing growth over protecting minors; RBLX drops 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241008/p11#a241008p11)
+ - [Competing rumors differ on if the Apple Ring is dead or about to be born](https://appleinsider.com/articles/24/10/08/competing-rumors-differ-on-if-the-apple-ring-is-dead-or-about-to-be-born?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 😝 [Offended](http://9gag.com/gag/aryGM4y)
- - 💣 [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
- - 😝 [Dude goes 20000% for each movie](http://9gag.com/gag/a0eQNWO)
- - 👉 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)<!-- MEMES:END -->
+ - 😝 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 💣 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 😝 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 👉 [Remember this](http://9gag.com/gag/aNDYgB6)<!-- MEMES:END -->
 
 ---
 

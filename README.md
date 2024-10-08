@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude goes 20000% for each movie](http://9gag.com/gag/a0eQNWO)
  - 😝 [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
- - 💣 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)
- - 😝 [Offended](http://9gag.com/gag/aryGM4y)
- - 👉 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)<!-- MEMES:END -->
+ - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
+ - 💣 [Offended](http://9gag.com/gag/aryGM4y)
+ - 😝 [Road Rage f**k around find out](http://9gag.com/gag/azx9MOx)
+ - 👉 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
- - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
- - 💣 [Offended](http://9gag.com/gag/aryGM4y)
- - 😝 [Road Rage f**k around find out](http://9gag.com/gag/azx9MOx)
- - 👉 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)<!-- MEMES:END -->
+ - 😝 [Influencer tries to do a prank and gets slapped](http://9gag.com/gag/a4PQRed)
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
+ - 👉 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
 
 ---
 

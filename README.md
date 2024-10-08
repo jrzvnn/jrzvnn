@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta begins rolling out new AI tools that will let advertisers expand the aspect ratio of their videos as well as generate a video ad from a static image &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241008/p16#a241008p16)
+ - [16 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
  - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)
  - [Roblox accused of lying to investors about user numbers by Hindenburg Research](https://www.theverge.com/2024/10/8/24265145/roblox-hindenburg-reseach-dau-child-safety-short-seller-report)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [AI is fixing — and ruining — our photos](https://www.theverge.com/2024/10/8/24264652/ai-photos-apple-google-halide-vergecast)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

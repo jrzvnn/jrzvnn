@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung apologizes for making just $6.8 billion last quarter](https://www.theverge.com/2024/10/8/24265018/samsung-profit-apology-ai-memory-chips)
  - [Online gig platforms sought to increase their &quot;take rates&quot; amid slowing growth; PitchBook: Fiverr and Upwork are trading at less than 20% their pandemic peaks &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241008/p1#a241008p1)
  - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
  - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Amazon Prime Day: The Best 137 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [34 Best Gifts for Teens in 2024](https://www.cnet.com/news/best-gifts-for-teens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: The Best 137 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

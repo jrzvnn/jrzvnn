@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
- - [The White House started posting on Reddit to talk about Hurricane Milton](https://www.theverge.com/2024/10/8/24265598/white-house-official-reddit-account-posting-hurricane)
- - [Brazil clears X for return after a monthlong ban](https://www.theverge.com/2024/10/8/24265606/x-twitter-unbanned-brazil-supreme-court)
- - [US adult TikTok users follow lots of mid-tier influencers and creators but very few politicians, civic actors, or traditional media outlets and journalists &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241008/p28#a241008p28)<!-- TECH:END -->
+ - [The White House started posting on Reddit to talk about Hurricane Milton](https://www.theverge.com/2024/10/8/24265598/white-house-official-reddit-account-posting-hurricane)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

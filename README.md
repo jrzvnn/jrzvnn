@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
- - [216 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-october-2024/)
- - [Foxconn Chair Young Liu says the company plans to build a plant in Mexico&#39;s Guadalajara to make Nvidia GB200 Blackwell AI servers, as tech decouples from China &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241008/p2#a241008p2)
- - [Maximize Your Amazon Prime Membership with These 16 Tips](https://www.cnet.com/tech/mobile/16-ways-to-enjoy-your-amazon-prime-membership-beyond-prime-day/#ftag=CAD590a51e)
- - [It&#39;s Really Easy to Record High-Quality Audio for Your Phone With the Rode Wireless Go II](https://www.cnet.com/deals/its-really-easy-to-record-high-quality-audio-for-your-phone-with-the-rode-wireless-go-ii/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: The Best 136 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
+ - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
+ - [Best Prime Day Deals Under $10: Over 40 Super Budget Deals on Tech, Toys, Home Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-08/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals: Save Big on Apple, Samsung, HP and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-10-08/#ftag=CAD590a51e)
+ - [Through Hurricanes Helene and Milton, Amateur Radio Triumphs When All Else Fails](https://www.wired.com/story/hurricane-helene-milton-north-carolina-florida-amateur-radio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Air receives Prime Day price drop to as low as $749](https://appleinsider.com/articles/24/10/08/apples-macbook-air-receives-prime-day-price-drop-to-as-low-as-749?utm_medium=rss)
- - [Scientists who built ‘foundation’ for AI awarded Nobel Prize](https://www.theverge.com/2024/10/8/24265066/ai-nobel-prize-winners-physics-machine-learning-regret)
- - [A bipartisan coalition of 14 US state AGs file lawsuits accusing TikTok of damaging young users&#39; mental health and collecting data without parental consent &lpar;Daniel Arkin/NBC News&rpar;](http://www.techmeme.com/241008/p15#a241008p15)
- - [Kaspersky no longer on Google Play Store anywhere following US ban](https://www.theverge.com/2024/10/8/24265073/google-kaspersky-removed-play-store-android-us-restrictions)
- - [Severance season 1 is coming home on Blu-ray](https://www.theverge.com/2024/10/8/24265105/severance-season-one-blu-ray-release-date)<!-- TECH:END -->
+ - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Red Dead Redemption and Undead Nightmare are finally coming to PC this month](https://www.theverge.com/2024/10/8/24265128/red-dead-redemption-undead-nightmare-pc-october-29th)
+ - [The Kindle Paperwhite Kids is down to just $115 for October Prime Day](https://www.theverge.com/2024/10/8/24264745/amazon-prime-day-kindle-paperwhite-kids-scribe-e-reader-deal-sale-october-2024)
+ - [Apple&#39;s MacBook Air receives Prime Day price drop to as low as $749](https://appleinsider.com/articles/24/10/08/apples-macbook-air-receives-prime-day-price-drop-to-as-low-as-749?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin-based Appeals Centre, backed by Meta&#39;s Oversight Board, launches to moderate disputes between EU users and Facebook, TikTok, and YouTube under the DSA &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/241008/p3#a241008p3)
  - [Roborock robot vacuum &amp; mop combos get hefty Prime Big Deal Days discounts up to 63% off](https://appleinsider.com/articles/24/10/08/roborock-robot-vacuum-mop-combos-get-hefty-prime-big-deal-days-discounts-up-to-63-off?utm_medium=rss)
  - [Google Docs will let users organize information into tabs](https://www.theverge.com/2024/10/8/24265025/google-docs-tabs-organization-feature-availability)
  - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [12 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
- - [8 Best Prime Day Laptop Deals &lpar;2024&rpar;: Apple, Acer, Asus](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)<!-- TECH:END -->
+ - [12 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

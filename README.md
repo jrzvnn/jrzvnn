@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil&#39;s Supreme Court authorizes the return of X after the company complied with its demands, including taking down some accounts and appointing a legal agent &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p25#a241008p25)
+ - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
  - [Right-Wing Influencers Claim &#39;They&#39; Defeated Physics, Geoengineered Hurricane Milton](https://www.wired.com/story/hurricane-milton-geoengineer-lasers-fema-conspiracy-theories-debunk/)
  - [How to send messages via satellite on your iPhone or Pixel](https://www.theverge.com/24265288/satellite-messages-iphone-pixel-how-to-send)
- - [286 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
- - [Samsung removes the Galaxy Z Fold2, which launched in September 2020 for $2,000, from its list of devices that will receive security updates &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241008/p24#a241008p24)
- - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)<!-- TECH:END -->
+ - [286 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

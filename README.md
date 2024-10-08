@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you`re obsessed with annoying your dog and he enjoys it more than you](http://9gag.com/gag/aMVZ4dx)
- - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 💣 [The boys](http://9gag.com/gag/aAy3b3R)
- - 😝 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aoyegjn)<!-- MEMES:END -->
+ - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 😝 [`My life is over`](http://9gag.com/gag/a1mQrBv)
+ - 💣 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
+ - 😝 [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
+ - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI&#39;s ongoing talent exodus, seeming shift in hiring priorities, deep bench of young talent, and the intensifying competition to hire the next wave &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241007/p27#a241007p27)
- - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 8, #219](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-8-219/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 8, #1207](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-8-1207/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 8, #485](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-8-485/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)
+ - [Amazon Prime Day: The Best 137 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Maximize Your Prime Day Savings With These Amazon Shopping Tips](https://www.cnet.com/deals/maximize-your-prime-day-savings-with-these-amazon-shopping-tips/#ftag=CAD590a51e)
+ - [How to Keep Your Home Safe During Hurricanes and Storms](https://www.cnet.com/how-to/how-to-protect-your-home-during-hurricanes-and-other-major-storms/#ftag=CAD590a51e)
+ - [The Walmart Deals Event Starts Today. 10+ Items to Consider for Every Budget](https://www.cnet.com/paid-content/news/the-walmart-deals-event-starts-today-10-items-to-consider-for-every-budget/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

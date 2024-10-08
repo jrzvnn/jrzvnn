@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)
+ - [Adobe launches a Content Authenticity web app to let creators use its Content Credentials &quot;nutrition labels&quot; to apply attribution and opt out of AI training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241008/p13#a241008p13)
  - [Apple will open the 2025 Swift Student Challenge in February](https://appleinsider.com/articles/24/10/08/apple-will-open-the-2025-swift-student-challenge-in-february?utm_medium=rss)
- - [Bellevue, WA-based Auger, founded by former Amazon and Flexport exec Dave Clark to offer AI-powered supply chain tools, raised a $100M seed led by Oak HC/FT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p12#a241008p12)
- - [260 Best Prime Day Deals, Tested and Tracked By Our Team &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
- - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Short seller Hindenburg releases a report accusing Roblox of inflating user metrics to investors and prioritizing growth over protecting minors; RBLX drops 5%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241008/p11#a241008p11)<!-- TECH:END -->
+ - [Bellevue, Washington-based Auger, founded by ex-Amazon and Flexport exec Dave Clark to offer AI-powered supply chain tools, raised a $100M seed led by Oak HC/FT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p12#a241008p12)
+ - [260 Best Prime Day Deals, Tested and Tracked By Our Team &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

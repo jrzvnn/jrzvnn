@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to 30% on Aqara smart locks and HomeKit doorbell during Prime Big Deal Days](https://appleinsider.com/articles/24/10/08/save-up-to-30-on-aqara-smart-locks-and-homekit-doorbell-during-prime-big-deal-days?utm_medium=rss)
  - [234 Best Prime Day Deals, Tested and Tracked By Our Team &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
  - [Amazon Prime Big Deal Days: AirPods Pro 2 drop to $168.99, AirPods Max plunge to $394.99](https://appleinsider.com/articles/24/10/08/amazon-prime-big-deal-days-airpods-pro-2-drop-to-16899-airpods-max-plunge-to-39499?utm_medium=rss)
  - [&#39;Severance&#39; gets rare Apple TV+ Blu-ray release](https://appleinsider.com/articles/24/10/08/severance-gets-rare-apple-tv-blu-ray-release?utm_medium=rss)
- - [TrendForce: TSMC&#39;s global foundry revenue share will hit 64% in 2024, up from 51% in 2019, while Samsung&#39;s share is set to drop to 10%, down from 16% in 2019 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p8#a241008p8)
- - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)<!-- TECH:END -->
+ - [TrendForce: TSMC&#39;s global foundry revenue share will hit 64% in 2024, up from 51% in 2019, while Samsung&#39;s share is set to drop to 10%, down from 16% in 2019 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p8#a241008p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

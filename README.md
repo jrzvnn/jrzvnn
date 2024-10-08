@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 😝 [What a joke..rrr](http://9gag.com/gag/an79jrB)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
  - 💣 [Title](http://9gag.com/gag/avy8oDX)
- - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 👉 [Date Experience](http://9gag.com/gag/aAy333d)<!-- MEMES:END -->
+ - 😝 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)
+ - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
 
 ---
 

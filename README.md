@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241008/p5#a241008p5)
- - [SSDI October 2024: Here&#39;s When Your Check Will Arrive](https://www.cnet.com/personal-finance/ssdi-october-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)
- - [iOS 18: This Secret Trick Can Help Keep Your Notes App Organized](https://www.cnet.com/tech/services-and-software/ios-18-this-secret-trick-can-help-keep-your-notes-app-organized/#ftag=CAD590a51e)
- - [Best Christmas Decorations on Amazon in 2024](https://www.cnet.com/news/amazon-christmas-decorations/#ftag=CAD590a51e)
- - [Best Prime Day Deals Under $100: Treat Yourself to These Prime Day Deals](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Royal Swedish Academy of Sciences awards the Nobel Prize in physics to John Hopfield and Geoffrey Hinton for &quot;foundational discoveries&quot; in machine learning &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/241008/p6#a241008p6)
+ - [October Prime Day 2024: Live coverage of the best Apple deals &amp; tech sales](https://appleinsider.com/articles/24/10/08/october-prime-day-2024-live-coverage-of-the-best-apple-deals-tech-sales?utm_medium=rss)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024/)
+ - [Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241008/p5#a241008p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM’s Ultium battery gets the ultimatum](https://www.theverge.com/2024/10/8/24265416/gm-ultium-ev-battery-platform-discontinued-lfp)
  - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
  - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [20 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
- - [Mastodon switches things up to make its app a little easier to use](https://www.theverge.com/2024/10/8/24265201/mastodon-4-3-update-grouped-notifications-design-discover-carousel)<!-- TECH:END -->
+ - [20 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

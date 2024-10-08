@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil&#39;s Supreme Court authorizes the return of X after the company complied with its demands, including taking down some accounts and appointing a legal agent &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p25#a241008p25)
- - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [Right-Wing Influencers Claim &#39;They&#39; Defeated Physics, Geoengineered Hurricane Milton](https://www.wired.com/story/hurricane-milton-geoengineer-lasers-fema-conspiracy-theories-debunk/)
- - [How to send messages via satellite on your iPhone or Pixel](https://www.theverge.com/24265288/satellite-messages-iphone-pixel-how-to-send)
- - [286 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
+ - [Marketing tech company Zeta Global agrees to buy LiveIntent, another marketing tech provider, for $250M in cash and stock in a deal expected to close in Q4 2024 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/241008/p26#a241008p26)
+ - [Bissell&#39;s Little Green Cleaner Is Only $82 for Amazon Prime Day](https://www.cnet.com/deals/bissells-little-green-cleaner-is-only-82-for-amazon-prime-day/#ftag=CAD590a51e)
+ - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [Prime Day Steal: Apple M3 MacBook Air Drops to Record Low at Nearly $300 Off](https://www.cnet.com/deals/prime-day-steal-apple-m3-macbook-air-drops-to-record-low-at-nearly-300-off/#ftag=CAD590a51e)
+ - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

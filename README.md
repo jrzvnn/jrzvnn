@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shocking Hollywood](http://9gag.com/gag/aBy00Ax)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 💣 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)
- - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
+ - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
+ - 😝 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - 💣 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 😝 [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 👉 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)<!-- MEMES:END -->
 
 ---
 

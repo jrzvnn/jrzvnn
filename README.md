@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random physics](http://9gag.com/gag/aD214dw)
- - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 💣 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)
- - 😝 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)
- - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
+ - 😝 [What a joke..rrr](http://9gag.com/gag/an79jrB)
+ - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 💣 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 😝 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)
+ - 👉 [Title](http://9gag.com/gag/avy8oDX)<!-- MEMES:END -->
 
 ---
 

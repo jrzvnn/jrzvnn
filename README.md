@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)
- - 😝 [Thanks, Toyota](http://9gag.com/gag/avy8zR5)
- - 💣 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)
- - 😝 [Road Rage f**k around find out](http://9gag.com/gag/azx9MOx)
- - 👉 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)<!-- MEMES:END -->
+ - 😝 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
 
 ---
 

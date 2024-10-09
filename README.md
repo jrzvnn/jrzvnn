@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI announces Singapore will serve as its APAC hub and appoints Oliver Jay, who served as Asana&#39;s chief revenue officer, to lead international expansion &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241009/p9#a241009p9)
- - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Best Mattresses for Sciatica for 2024](https://www.cnet.com/health/sleep/best-mattress-for-sciatica/#ftag=CAD590a51e)
+ - [18 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
+ - [MiniMax, ByteDance, and 01.ai are among a group of Chinese AI companies that have launched AI products overseas, particularly in the US, to boost revenue growth &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241009/p10#a241009p10)
+ - [Best Air Fryers of 2024, According to an Expert](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)
  - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
- - [A look at challenges for Ireland&#39;s role as a data center hub, as energy supply problems and planning hurdles force AWS and others to evaluate alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p8#a241009p8)<!-- TECH:END -->
+ - [This Prime Day Deal Knocks Our Favorite Budget Wi-Fi Extender to Just $12](https://www.cnet.com/deals/this-prime-day-deal-knocks-our-favorite-budget-wi-fi-extender-to-just-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
  - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 💣 [First time crash](http://9gag.com/gag/aryGmv0)
- - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 👉 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)<!-- MEMES:END -->
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 💣 [Muscle Memory](http://9gag.com/gag/a4PQojp)
+ - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
 
 ---
 

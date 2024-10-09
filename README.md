@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Royal Swedish Academy of Sciences awards the Nobel Prize in Chemistry to David Baker for &quot;computational protein design&quot; and Demis Hassabis and John Jumper &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/241009/p14#a241009p14)
- - [Russian site listed many leaked M4 MacBook Pro models for sale](https://appleinsider.com/articles/24/10/09/russian-site-listed-many-leaked-m4-macbook-pro-models-for-sale?utm_medium=rss)
- - [The best deals you can grab on day two of Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Alfonso Cuarón Subverted Sci-Fi and Fantasy. Now He’s Coming for TV](https://www.wired.com/story/big-interview-director-alfonso-cuaron-disclaimer-sci-fi/)
- - [298 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)<!-- TECH:END -->
+ - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024-1/)
+ - [Threads is working on a community groups feature](https://www.theverge.com/2024/10/9/24265936/threads-loops-community-groups-feature)
+ - [298 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [27 Best Prime Day Apple Deals on MacBooks, iPads, More &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)
+ - [The Royal Swedish Academy of Sciences awards the Nobel Prize in Chemistry to David Baker for &quot;computational protein design&quot; and Demis Hassabis and John Jumper &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/241009/p14#a241009p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

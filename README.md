@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [MediaTek’s new flagship chipset is ready for AI agents and tri-fold phones](https://www.theverge.com/2024/10/8/24265408/mediatek-dimensity-9400-agentic-ai-specs-availability)
  - [A Google breakup is on the table, say DOJ lawyers](https://www.theverge.com/2024/10/8/24265832/google-search-antitrust-remedies-framework-android-chrome-play)
  - [How to use inline text prediction and other autocorrect functions in Pages](https://appleinsider.com/inside/macos/tips/how-to-use-inline-text-prediction-and-other-autocorrect-functions-in-pages?utm_medium=rss)
- - [Filing: the US DOJ lays out &quot;behavioral and structural remedies&quot;, including a breakup, for the federal judge to consider in the Google Search antitrust case &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/241008/p32#a241008p32)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 9, #486](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-9-486/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

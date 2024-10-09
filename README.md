@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
+ - 😝 [Everything is fine](http://9gag.com/gag/aQzRE1W)
+ - 😝 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)
+ - 💣 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
  - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
- - 💣 [First time crash](http://9gag.com/gag/aryGmv0)
- - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
  - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
 
 ---

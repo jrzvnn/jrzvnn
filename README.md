@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KKR-owned BMC Software plans to split: BMC for enterprise mainframes and BMC Helix for enterprise software; ~66% of BMC Software&#39;s ~$2.3B revenue will go to BMC &lpar;Liana Baker/Bloomberg&rpar;](http://www.techmeme.com/241009/p19#a241009p19)
- - [Tesla Is Ready to Roll Out the Cybercab, Its Answer to Robotaxis](https://www.wired.com/story/tesla-is-ready-to-roll-out-cybercab-robotaxi/)
- - [Glassdoor launches short videos, polls, and images to foster engagement on its platform, and now has 63M monthly unique visitors, up from 55M in early 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241009/p18#a241009p18)
- - [The Fight That Nearly Destroyed the Letterboxd Community](https://www.wired.com/story/the-fight-that-nearly-destroyed-the-letterboxd-community/)
- - [X Is Back in Brazil](https://www.wired.com/story/x-is-back-in-brazil/)<!-- TECH:END -->
+ - [Google DeepMind scientists win Nobel Prize for chemistry](https://www.theverge.com/2024/10/9/24265962/google-deepmind-ai-nobel-prize-winners-chemistry-protein)
+ - [Ring’s New AI Search Tool Lets You Easily Scan Videos—With Mixed Results](https://www.wired.com/story/amazon-ring-new-ai-video-search-tool-mixed-results/)
+ - [Ring’s video history search is super handy for tracking my cat](https://www.theverge.com/2024/10/9/24265564/ring-ai-smart-video-search-security-camera-price-availability)
+ - [Players will need a quiet place if they want to survive the A Quiet Place game](https://www.theverge.com/2024/10/9/24265465/a-quiet-place-the-road-ahead-microphone-support-price-release-date)
+ - [Samsung’s AirPods Pro look-alike is nearly $100 off](https://www.theverge.com/2024/10/9/24265955/samsung-galaxy-buds-3-pro-earbuds-airpods-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

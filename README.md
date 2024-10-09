@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it suspects that China-linked SweetSpecter tried to phish its employees earlier in 2024, posing as a ChatGPT user to send customer support emails &lpar;Seth Fiegerman/Bloomberg&rpar;](http://www.techmeme.com/241009/p15#a241009p15)
  - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024-1/)
  - [Threads is working on a community groups feature](https://www.theverge.com/2024/10/9/24265936/threads-loops-community-groups-feature)
  - [298 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
- - [27 Best Prime Day Apple Deals on MacBooks, iPads, More &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)
- - [The Royal Swedish Academy of Sciences awards the Nobel Prize in Chemistry to David Baker for &quot;computational protein design&quot; and Demis Hassabis and John Jumper &lpar;Kati Pohjanpalo/Bloomberg&rpar;](http://www.techmeme.com/241009/p14#a241009p14)<!-- TECH:END -->
+ - [27 Best Prime Day Apple Deals on MacBooks, iPads, More &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

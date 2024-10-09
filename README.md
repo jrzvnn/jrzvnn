@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s former hardware chief and current Apple Vision Pro lead is retiring](https://appleinsider.com/articles/24/10/09/apples-former-hardware-chief-and-current-apple-vision-pro-lead-is-retiring?utm_medium=rss)
+ - [Zoom plans to launch a feature in 2025 that allows users to create an AI-animated, photorealistic avatar from a video clip they record of themselves &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241009/p31#a241009p31)
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [Sharp&#39;s LDK+ Electric Van Concept Turns Into a Movie Theater When You Park](https://www.wired.com/story/sharp-ldk-electric-van-concept-foxconn/)
- - [Apple’s Vision Pro leader, Dan Riccio, is retiring](https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring)
- - [Amazon Prime Day is Almost Over—We’re Still Tracking Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [28 Best Prime Day Apple Deals on MacBooks, iPads, AirPods &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)
- - [A closer look at Nintendo’s adorable Alarmo clock](https://www.theverge.com/24266272/nintendo-alarmo-sound-clock-hands-on)<!-- TECH:END -->
+ - [Apple’s Vision Pro leader, Dan Riccio, is retiring](https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

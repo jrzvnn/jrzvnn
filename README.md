@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [329 Best Prime Day Deals Day 2, Vetted By Our Gear Pros &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
  - [US prosecutors charge four purported crypto market makers, a handful of crypto projects, and over a dozen individuals with manipulating various crypto markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/241009/p34#a241009p34)
  - [The best Prime Day Apple deals on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
- - [26 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)
- - [FTC: Marriott agrees to pay a $52M penalty to 49 states and DC to resolve data security allegations, and, in another settlement, agrees to a new infosec program &lpar;Reuters&rpar;](http://www.techmeme.com/241009/p33#a241009p33)<!-- TECH:END -->
+ - [Best Prime Day Headphone Deals: These AirPods, Beats, and Sony Discounts Are Still Available](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-09/#ftag=CAD590a51e)
+ - [Federal Officials Warn of Scammers Looking To Cash In On Hurricane Milton Disaster](https://www.cnet.com/tech/services-and-software/federal-officials-warn-of-scammers-looking-to-cash-in-on-hurricane-milton-disaster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

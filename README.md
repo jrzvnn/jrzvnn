@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can grab three months of Xbox Game Pass Ultimate for just $29 today](https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024)
- - [How the DOJ wants to break up Google’s search monopoly](https://www.theverge.com/2024/10/9/24265983/doj-google-search-remedies-monopoly)
- - [YouTube says it is ‘not hiding the skip button’ on ads](https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads)
- - [Nintendo Alarmo: Price, Specs, Availability](https://www.wired.com/story/nintendo-alarmo-alarm-clock/)
- - [29 Deals WIRED Readers Are Actually Buying During Prime Day 2024](https://www.wired.com/gallery/the-29-prime-day-deals-wired-readers-are-actually-buying/)<!-- TECH:END -->
+ - [This bottle-sized rotating projector won’t fall over](https://www.theverge.com/2024/10/9/24266155/projector-portable-jmgo-picoflix)
+ - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [The Gulf of Mexico is almost as warm as a bath, and it’s stirring up monster storms](https://www.theverge.com/2024/10/9/24265963/hurricane-milton-helene-gulf-of-mexico-atlantic-water-temperature)
+ - [Writer debuts Palmyra X 004, an LLM for enterprise applications, saying it cost just $700K to train, using synthetic data; source: Writer is raising up to $200M &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p27#a241009p27)
+ - [Save an Impressive $250 on the Samsung Galaxy S24 Plus With This Prime Day Big Deal](https://www.cnet.com/deals/save-an-impressive-250-on-the-samsung-galaxy-s24-prime-day-big-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

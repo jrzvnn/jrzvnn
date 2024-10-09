@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything is fine](http://9gag.com/gag/aQzRE1W)
- - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 💣 [Peyton and her special talent](http://9gag.com/gag/a34QEW7)
- - 😝 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
- - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
+ - 😝 [Make you wonder..](http://9gag.com/gag/aW4Y4W6)
+ - 😝 [Everyone gets a good chuckle as the cops weave](http://9gag.com/gag/a4PQnR6)
+ - 💣 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)
+ - 😝 [You can do it, too!](http://9gag.com/gag/a7o3oGw)
+ - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
 
 ---
 

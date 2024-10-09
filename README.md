@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [London-based Basecamp Research, which says its BaseFold model outperforms AlphaFold 2 at predicting proteins, raised a $60M Series B, for $85M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241009/p21#a241009p21)
+ - [How to detect sleep apnea with Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-detect-sleep-apnea-with-apple-watch?utm_medium=rss)
  - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
- - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)
- - [Ring unveils a new $20 per month Ring Home Premium subscription, adding 24/7 recording and AI-powered Smart Video Search from November 5 in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241009/p20#a241009p20)
- - [Nintendo is making an alarm clock so you can wake up to Zelda and Super Mario sounds](https://www.theverge.com/2024/10/9/24265984/nintendo-alarmo-alarm-clock-date-price)
- - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
+ - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

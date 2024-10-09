@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sharp&#39;s LDK+ Electric Van Concept Turns Into a Movie Theater When You Park](https://www.wired.com/story/sharp-ldk-electric-van-concept-foxconn/)
  - [Apple’s Vision Pro leader, Dan Riccio, is retiring](https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring)
- - [27 Best Prime Day Apple Deals on MacBooks, iPads, AirPods &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)
- - [A closer look at Nintendo’s adorable Alarmo clock](https://www.theverge.com/24266272/nintendo-alarmo-sound-clock-hands-on)
- - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [X updates its Creator Revenue Sharing program to pay creators based on engagement with their content from Premium users, not ads in replies &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241009/p30#a241009p30)<!-- TECH:END -->
+ - [Amazon Prime Day is Almost Over—We’re Still Tracking Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
+ - [28 Best Prime Day Apple Deals on MacBooks, iPads, AirPods &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)
+ - [A closer look at Nintendo’s adorable Alarmo clock](https://www.theverge.com/24266272/nintendo-alarmo-sound-clock-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

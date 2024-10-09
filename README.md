@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
  - [CamScanner app maker Intsig is the best-performing China IPO stock in 2024 for $100M+ listings, after a euphoric market response to Beijing&#39;s stimulus measures &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p12#a241009p12)
  - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
  - [Best Glucose Meter for Diabetes and Blood Sugar Monitoring](https://www.cnet.com/health/medical/best-glucose-meter/#ftag=CAD590a51e)
- - [Prime Day Robot Vacuum Deals: Clean Up With Deals on Shark, Roomba and More](https://www.cnet.com/deals/best-prime-day-robot-vacuum-deals-2024-10-09/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Oct. 9, 2024: Top Rates Sit at 5% APY or More. But the Clock Is Ticking](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Day Robot Vacuum Deals: Clean Up With Deals on Shark, Roomba and More](https://www.cnet.com/deals/best-prime-day-robot-vacuum-deals-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

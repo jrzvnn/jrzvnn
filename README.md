@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The bill finally comes due for Elon Musk](https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5)
+ - [How to use Apple’s new Passwords app on iOS and macOS](https://www.theverge.com/24264400/passwords-apple-ios-macos-how-to)
  - [The OnePlus Watch 2 is a good deal at $210](https://www.theverge.com/2024/10/9/24266010/amazon-prime-day-oneplus-watch-2-android-smartwatch-deal-sale-october)
  - [Brazil’s FCC gives the order to unblock X](https://www.theverge.com/2024/10/9/24266020/brazil-telecommunications-agency-anatel-unblock-x)
- - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Live Prime Day coverage on Day 2: Apple deals start at just $7](https://appleinsider.com/articles/24/10/09/live-prime-day-coverage-on-day-2-apple-deals-start-at-just-7?utm_medium=rss)<!-- TECH:END -->
+ - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

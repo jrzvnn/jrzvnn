@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: OpenAI projections suggest it won&#39;t turn a profit until 2029, when its revenue would hit $100B; losses could rise to $14B in 2026, ~3x the loss in 2024 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/241009/p35#a241009p35)
+ - [The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
  - [329 Best Prime Day Deals Day 2, Vetted By Our Gear Pros &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
  - [US prosecutors charge four purported crypto market makers, a handful of crypto projects, and over a dozen individuals with manipulating various crypto markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/241009/p34#a241009p34)
- - [The best Prime Day Apple deals on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
- - [Best Prime Day Headphone Deals: These AirPods, Beats, and Sony Discounts Are Still Available](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-09/#ftag=CAD590a51e)
- - [Federal Officials Warn of Scammers Looking To Cash In On Hurricane Milton Disaster](https://www.cnet.com/tech/services-and-software/federal-officials-warn-of-scammers-looking-to-cash-in-on-hurricane-milton-disaster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Prime Day Apple deals on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

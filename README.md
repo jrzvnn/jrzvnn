@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 😝 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
- - 💣 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
- - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
- - 👉 [Everything is fine](http://9gag.com/gag/aQzRE1W)<!-- MEMES:END -->
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aoyegjn)
+ - 😝 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
+ - 💣 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
+ - 😝 [Thank me later](http://9gag.com/gag/a34QEgQ)
+ - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
 
 ---
 

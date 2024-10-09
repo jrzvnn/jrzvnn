@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [329 Best Prime Day Deals Day 2, Vetted By Our Gear Pros &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [US prosecutors charge four purported crypto market makers, a handful of crypto projects, and over a dozen individuals with manipulating various crypto markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/241009/p34#a241009p34)
+ - [The best Prime Day Apple deals on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
  - [26 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)
- - [FTC: Marriott agrees to pay a $52M penalty to 49 states and DC to resolve data security allegations, and, in another settlement, agrees to a new infosec program &lpar;Reuters&rpar;](http://www.techmeme.com/241009/p33#a241009p33)
- - [The Fitbit Ace LTE, a great kids smartwatch, hits its lowest price](https://www.theverge.com/2024/10/9/24266358/fitbit-ace-lte-kids-smartwatch-amazon-prime-big-deals-day)
- - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
- - [Platform-adventure game &#39;Neva&#39; will arrive on macOS at launch](https://appleinsider.com/articles/24/10/09/platform-adventure-game-neva-will-arrive-on-macos-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [FTC: Marriott agrees to pay a $52M penalty to 49 states and DC to resolve data security allegations, and, in another settlement, agrees to a new infosec program &lpar;Reuters&rpar;](http://www.techmeme.com/241009/p33#a241009p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

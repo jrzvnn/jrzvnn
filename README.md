@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [The best headphone and earbud deals on day two of Amazon Prime Day](https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
- - [Sources: OpenAI plans to restructure as a public benefit corporation to defend itself from hostile takeovers and protect Sam Altman from outsider interference &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p25#a241009p25)
- - [Here are my picks for the best Prime Day deals on robot vacuums and mops](https://www.theverge.com/2024/10/9/24266033/amazon-prime-day-best-deals-robot-vacuums-roborock-roomba-dreame-sale)<!-- TECH:END -->
+ - [Amazon Pharmacy plans to expand same-day prescription delivery to 20 more US cities in 2025, including Boston, Dallas, Minneapolis, Philadelphia, and San Diego &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241009/p26#a241009p26)
+ - [There&#39;s Still Time to Get a $150 Amazon Gift Card for Prime Day. Here&#39;s How](https://www.cnet.com/personal-finance/credit-cards/theres-still-time-to-get-a-150-amazon-gift-card-for-prime-day-heres-how/#ftag=CAD590a51e)
+ - [Google DeepMind Scientists Win Nobel Prize for AlphaFold AI Project](https://www.cnet.com/tech/services-and-software/google-deepmind-scientists-win-nobel-prize-for-alphafold-ai-project/#ftag=CAD590a51e)
+ - [The Most Versatile Smart Home Device You Can Have Is Over 40% Off For Prime Day](https://www.cnet.com/deals/the-most-versatile-smart-home-device-you-can-have-is-over-40-off-for-prime-day/#ftag=CAD590a51e)
+ - [Best Prime Day Amazon Device Discounts: Huge Discounts on Fire Sticks and TVs, Echos and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

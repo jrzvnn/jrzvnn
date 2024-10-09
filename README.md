@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
  - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
  - 💣 [Let them fight](http://9gag.com/gag/aLng1KW)
- - 😝 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
- - 👉 [The boys](http://9gag.com/gag/aAy3b3R)<!-- MEMES:END -->
+ - 😝 [The boys](http://9gag.com/gag/aAy3b3R)
+ - 👉 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)<!-- MEMES:END -->
 
 ---
 

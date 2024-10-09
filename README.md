@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ&#39;s quest to end Google&#39;s long-standing dominance remains the stuff of fantasy, as whatever the courts may order, any real reckoning will take years &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p3#a241009p3)
- - [Google says the DOJ&#39;s &quot;radical&quot; and &quot;sweeping&quot; proposals in Search antitrust case risk hurting consumers, businesses, developers, and American competitiveness &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241009/p2#a241009p2)
- - [Apple Arcade: You Can Play the Mobile Version of &#39;Wheel of Fortune&#39; Soon](https://www.cnet.com/tech/gaming/apple-arcade-you-can-play-the-mobile-version-of-wheel-of-fortune-soon/#ftag=CAD590a51e)
- - [Best Pellet Grill of 2024](https://www.cnet.com/home/yard-and-outdoors/best-pellet-grill/#ftag=CAD590a51e)
- - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy takes on Amazon Prime Day with its 48-hour flash sale on Macs](https://appleinsider.com/articles/24/10/09/best-buy-takes-on-amazon-prime-day-with-its-48-hour-flash-sale-on-macs?utm_medium=rss)
+ - [Best Nonstick Pan for 2024](https://www.cnet.com/news/best-nonstick-pan/#ftag=CAD590a51e)
+ - [Amazon Prime Day: More Than 130 Deals You Don&#39;t Want to Miss](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
+ - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [The US DOJ&#39;s quest to end Google&#39;s long-standing dominance remains the stuff of fantasy, as whatever the courts may order, any real reckoning will take years &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p3#a241009p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

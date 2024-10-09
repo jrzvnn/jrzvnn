@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s RTX 5070 reportedly set to launch alongside the RTX 5090 at CES 2025](https://www.theverge.com/2024/10/9/24266052/nvidia-rtx-5070-ces-rumor-specs)
- - [The bill finally comes due for Elon Musk](https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5)
- - [How to use Apple’s new Passwords app on iOS and macOS](https://www.theverge.com/24264400/passwords-apple-ios-macos-how-to)
- - [The OnePlus Watch 2 is a good deal at $210](https://www.theverge.com/2024/10/9/24266010/amazon-prime-day-oneplus-watch-2-android-smartwatch-deal-sale-october)
- - [Brazil’s FCC gives the order to unblock X](https://www.theverge.com/2024/10/9/24266020/brazil-telecommunications-agency-anatel-unblock-x)<!-- TECH:END -->
+ - [iPhone 16 Pro models dominate lackluster iPhone 16 sales](https://appleinsider.com/articles/24/10/09/iphone-16-pro-models-dominate-lackluster-iphone-16-sales?utm_medium=rss)
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
+ - [Meta rolls out Meta AI in six more countries, including the UK, and plans 15 more in the coming weeks, and adds it to Ray-Ban glasses in Australia and the UK &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/241009/p24#a241009p24)
+ - [Russia&#39;s Roskomnadzor regulator bans Discord, drawing ire from the Russian military, which has extensively used the app to coordinate units in Ukraine &lpar;Mary Ilyushina/Washington Post&rpar;](http://www.techmeme.com/241009/p23#a241009p23)
+ - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

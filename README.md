@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at challenges for Ireland&#39;s role as a data center hub, as energy supply problems and planning hurdles force AWS and others to evaluate alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p8#a241009p8)
  - [Braintrust, whose software helps companies evaluate and monitor their AI tools&#39; performance, raised a $36M Series A led by a16; source: the valuation was ~$150M &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241009/p7#a241009p7)
- - [Court filing: OpenAI says Elon Musk&#39;s &quot;altruism versus greed&quot; lawsuit is part of his &quot;blusterous campaign to harass OpenAI for his own competitive advantage&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p6#a241009p6)
- - [Turkey blocks access to Discord following a court decision over sufficient suspicion that the crimes of &quot;child sexual abuse and obscenity&quot; have been committed &lpar;Reuters&rpar;](http://www.techmeme.com/241009/p5#a241009p5)
- - [MediaTek announces the 3nm Dimensity 9400 mobile chip, which features its own 8th-gen NPU, claiming &quot;80 percent faster large language model prompt performance&quot; &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/241009/p4#a241009p4)<!-- TECH:END -->
+ - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
+ - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)
+ - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

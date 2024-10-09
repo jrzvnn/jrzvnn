@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [The best headphone and earbud deals on day two of Amazon Prime Day](https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale)
  - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
  - [Sources: OpenAI plans to restructure as a public benefit corporation to defend itself from hostile takeovers and protect Sam Altman from outsider interference &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p25#a241009p25)
- - [Here are my picks for the best Prime Day deals on robot vacuums and mops](https://www.theverge.com/2024/10/9/24266033/amazon-prime-day-best-deals-robot-vacuums-roborock-roomba-dreame-sale)
- - [Our 22 Best Prime Day Laptop Deals Are Just a Click Away &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
- - [Wimbledon is Wimble-done with line judges](https://www.theverge.com/2024/10/9/24266107/wimbledon-electronic-line-calling-hawk-eye-line-judges-out)<!-- TECH:END -->
+ - [Here are my picks for the best Prime Day deals on robot vacuums and mops](https://www.theverge.com/2024/10/9/24266033/amazon-prime-day-best-deals-robot-vacuums-roborock-roomba-dreame-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

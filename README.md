@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
+ - 😝 [Germans are learning how to defend themselves from their new permanent visitors by throwing towels around](http://9gag.com/gag/aRB1BgB)
  - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
  - 💣 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 😝 [Everything is fine](http://9gag.com/gag/aQzRE1W)
- - 👉 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)<!-- MEMES:END -->
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can grab three months of Xbox Game Pass Ultimate for just $29 today](https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024)
+ - [How the DOJ wants to break up Google’s search monopoly](https://www.theverge.com/2024/10/9/24265983/doj-google-search-remedies-monopoly)
  - [YouTube says it is ‘not hiding the skip button’ on ads](https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads)
  - [Nintendo Alarmo: Price, Specs, Availability](https://www.wired.com/story/nintendo-alarmo-alarm-clock/)
- - [29 Deals WIRED Readers Are Actually Buying During Prime Day 2024](https://www.wired.com/gallery/the-29-prime-day-deals-wired-readers-are-actually-buying/)
- - [HBO’s Lanterns adds Aaron Pierre to its cast as John Stewart](https://www.theverge.com/2024/10/9/24266192/hbo-lanterns-john-stewart-casting-aaron-pierre-dc-comics)
- - [Amazon Pharmacy plans to expand same-day prescription delivery to 20 more US cities in 2025, including Boston, Dallas, Minneapolis, Philadelphia, and San Diego &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241009/p26#a241009p26)<!-- TECH:END -->
+ - [29 Deals WIRED Readers Are Actually Buying During Prime Day 2024](https://www.wired.com/gallery/the-29-prime-day-deals-wired-readers-are-actually-buying/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

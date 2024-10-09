@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink and T-Mobile’s text-by-satellite service is available in Florida](https://www.theverge.com/2024/10/8/24265706/hurricane-milton-sms-satellite-t-mobile-starlink)
- - [Anthropic launches Message Batches API in beta, for batches of up to 10K queries that are processed within 24 hours and cost 50% less than standard API calls &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241008/p29#a241008p29)
- - [20 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024/)
- - [Amazon Prime Day: We Found Over 150 Deals Worth Shopping](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-08/#ftag=CAD590a51e)
- - [39 Best Buy Deals to Shop During Prime Day](https://www.cnet.com/deals/best-buy-anti-prime-day-deals-2024-10-08/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best October Prime Day deals you can get for less than $50](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
+ - [297 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
+ - [HBO&#39;s documentary Money Electric: The Bitcoin Mystery says Peter Todd, known for his Bitcoin codebase contributions, is Satoshi Nakamoto, a claim Todd denies &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241008/p31#a241008p31)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

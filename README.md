@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
- - 😝 [Liquid nitro glycerin](http://9gag.com/gag/aAy3g5p)
- - 💣 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
- - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
+ - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - 💣 [Banana for scale](http://9gag.com/gag/aBy0dw1)
+ - 😝 [I steal memes for a living to supply your needs.](http://9gag.com/gag/a4PQRVm)
+ - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Department of Justice considering a break-up of Google after monopoly ruling](https://appleinsider.com/articles/24/10/09/us-department-of-justice-considering-a-break-up-of-google-after-monopoly-ruling?utm_medium=rss)
- - [October Prime Day 2024: Live coverage of the best Apple deals &amp; tech sales](https://appleinsider.com/articles/24/10/08/october-prime-day-2024-live-coverage-of-the-best-apple-deals-tech-sales?utm_medium=rss)
- - [The best deals you can grab on day two of Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it](https://www.theverge.com/2024/10/9/24265946/microsoft-flight-simulator-2024-alpha-test)
- - [A Major GLP-1 Drug Shortage Is Over. Some Patients Aren’t Celebrating](https://www.wired.com/story/glp-1-shortage-mounjaro-zepbound-tirzepatide-compounded/)<!-- TECH:END -->
+ - [KKR-owned BMC Software plans to split: BMC for enterprise mainframes and BMC Helix for enterprise software; ~66% of BMC Software&#39;s ~$2.3B revenue will go to BMC &lpar;Liana Baker/Bloomberg&rpar;](http://www.techmeme.com/241009/p19#a241009p19)
+ - [Tesla Is Ready to Roll Out the Cybercab, Its Answer to Robotaxis](https://www.wired.com/story/tesla-is-ready-to-roll-out-cybercab-robotaxi/)
+ - [Glassdoor launches short videos, polls, and images to foster engagement on its platform, and now has 63M monthly unique visitors, up from 55M in early 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241009/p18#a241009p18)
+ - [The Fight That Nearly Destroyed the Letterboxd Community](https://www.wired.com/story/the-fight-that-nearly-destroyed-the-letterboxd-community/)
+ - [X Is Back in Brazil](https://www.wired.com/story/x-is-back-in-brazil/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Major GLP-1 Drug Shortage Is Over. Some Patients Aren’t Celebrating](https://www.wired.com/story/glp-1-shortage-mounjaro-zepbound-tirzepatide-compounded/)
+ - [27 Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024-1/)
+ - [How Withheld for Privacy and other proxy services that help domain operators shield their identities have turned Iceland into a global hub for illicit activity &lpar;New York Times&rpar;](http://www.techmeme.com/241009/p17#a241009p17)
  - [You can save $50 on a PlayStation 5 Slim](https://www.theverge.com/2024/10/9/24265463/amazon-prime-day-ps5-digital-edition-slim-deal-sale-october-2024)
- - [Microsoft issues the final Surface Duo 2 security update ahead of its end of support on October 21; the Duo 2, released in October 2021, got one Android update &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241009/p16#a241009p16)
- - [Florida Hospitals and Nursing Homes Are Bracing for Hurricane Milton](https://www.wired.com/story/florida-health-care-system-hurricane-milton-evacuations/)
- - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
- - [OpenAI says it suspects that China-linked SweetSpecter tried to phish its employees earlier in 2024, posing as a ChatGPT user to send customer support emails &lpar;Seth Fiegerman/Bloomberg&rpar;](http://www.techmeme.com/241009/p15#a241009p15)<!-- TECH:END -->
+ - [Microsoft issues the final Surface Duo 2 security update ahead of its end of support on October 21; the Duo 2, released in October 2021, got one Android update &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241009/p16#a241009p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

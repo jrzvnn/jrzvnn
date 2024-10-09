@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ew, a lab diamond?](http://9gag.com/gag/a2vZ70e)
  - 😝 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
- - 💣 [Offended](http://9gag.com/gag/aryGM4y)
- - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
- - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
+ - 😝 [I don&#39;t understand the rules, does this mean he won?](http://9gag.com/gag/amoBg4V)
+ - 💣 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
+ - 😝 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
+ - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---
 

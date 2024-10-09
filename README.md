@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use inline text prediction and other autocorrect functions in Pages](https://appleinsider.com/inside/macos/tips/how-to-use-inline-text-prediction-and-other-autocorrect-functions-in-pages?utm_medium=rss)
+ - [Filing: the US DOJ lays out &quot;behavioral and structural remedies&quot;, including a breakup, for the federal judge to consider in the Google Search antitrust case &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/241008/p32#a241008p32)
  - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
- - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [297 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
- - [HBO&#39;s documentary Money Electric: The Bitcoin Mystery says Peter Todd, known for his Bitcoin codebase contributions, is Satoshi Nakamoto, a claim Todd denies &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241008/p31#a241008p31)
- - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
+ - [Amazon Prime Day: We Found Over 140 Deals Worth Shopping](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-08/#ftag=CAD590a51e)
+ - [Helix Twilight Mattress Review 2024: A Hybrid Bed for Back and Stomach Sleepers](https://www.cnet.com/health/sleep/helix-twilight-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

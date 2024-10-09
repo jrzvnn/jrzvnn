@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
  - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 💣 [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - 😝 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)
+ - 💣 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
  - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---

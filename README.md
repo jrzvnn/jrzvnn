@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 22 Best Prime Day Laptop Deals Are Just a Click Away &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
+ - [Wimbledon is Wimble-done with line judges](https://www.theverge.com/2024/10/9/24266107/wimbledon-electronic-line-calling-hawk-eye-line-judges-out)
+ - [Nintendo’s original alarm clock prototypes were a lot less playful](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)
  - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [69,000 Bitcoins Are Headed for the US Treasury—While the Agent Who Seized Them Is in Jail](https://www.wired.com/story/4-4-billion-silk-road-bitcoin-tigran-gambaryan/)
- - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [The Best Prime Day Deals for Those Who Hate Amazon](https://www.wired.com/story/the-best-prime-day-deals-for-those-who-hate-amazon/)<!-- TECH:END -->
+ - [69,000 Bitcoins Are Headed for the US Treasury—While the Agent Who Seized Them Is in Jail](https://www.wired.com/story/4-4-billion-silk-road-bitcoin-tigran-gambaryan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

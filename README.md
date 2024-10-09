@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Walz Rally Goes Live on World of Warcraft Twitch Stream](https://www.wired.com/story/tim-walz-rally-world-of-warcraft-twitch/)
- - [Docs: OpenAI&#39;s projections suggest it won&#39;t turn a profit until 2029, when its revenue would hit $100B; losses could hit $14B in 2026, nearly 3x its 2024 losses &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/241009/p35#a241009p35)
- - [The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
- - [329 Best Prime Day Deals Day 2, Vetted By Our Gear Pros &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
- - [US prosecutors charge four purported crypto market makers, a handful of crypto projects, and over a dozen individuals with manipulating various crypto markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/241009/p34#a241009p34)<!-- TECH:END -->
+ - [28 Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024-1/)
+ - [Our 22 Best Prime Day Laptop Deals Are Just a Click Away &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
+ - [The best Prime Day deals you can still grab for $25 or less](https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024)
+ - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
+ - [Nintendo is taking applications to join a mysterious Switch Online playtest](https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

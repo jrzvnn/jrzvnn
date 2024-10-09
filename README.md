@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banana for scale](http://9gag.com/gag/aBy0dw1)
- - 😝 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)
- - 💣 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)
- - 😝 [The girl with the toe](http://9gag.com/gag/a9yKnzZ)
- - 👉 [Everything is fine](http://9gag.com/gag/aQzRE1W)<!-- MEMES:END -->
+ - 😝 [Thank me later](http://9gag.com/gag/a34QEgQ)
+ - 😝 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
+ - 💣 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)
+ - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 👉 [Make you wonder..](http://9gag.com/gag/aW4Y4W6)<!-- MEMES:END -->
 
 ---
 

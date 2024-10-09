@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
- - 😝 [Thank me later](http://9gag.com/gag/a34QEgQ)
- - 💣 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 😝 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
- - 👉 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)<!-- MEMES:END -->
+ - 😝 [Eminem, his brother, his mom](http://9gag.com/gag/ae9rAXW)
+ - 😝 [Banana for scale](http://9gag.com/gag/aBy0dw1)
+ - 💣 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
+ - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 👉 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)<!-- MEMES:END -->
 
 ---
 

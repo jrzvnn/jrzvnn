@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [69,000 Bitcoins Are Headed for the US Treasury—While the Agent Who Seized Them Is in Jail](https://www.wired.com/story/4-4-billion-silk-road-bitcoin-tigran-gambaryan/)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
  - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [The Best Prime Day Deals for Those Who Hate Amazon](https://www.wired.com/story/the-best-prime-day-deals-for-those-who-hate-amazon/)
- - [Apple&#39;s Studio Display is $305 off for Prime Day](https://appleinsider.com/articles/24/10/09/apples-studio-display-is-305-off-for-prime-day?utm_medium=rss)
- - [You can add wireless controller support to the NES through its unused expansion port](https://www.theverge.com/2024/10/9/24266019/nintendo-nes-expansion-port-retrotime-bluetooth-wireless-controller)
- - [iPhone 16 Pro models dominate lackluster iPhone 16 sales](https://appleinsider.com/articles/24/10/09/iphone-16-pro-models-dominate-lackluster-iphone-16-sales?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Prime Day Deals for Those Who Hate Amazon](https://www.wired.com/story/the-best-prime-day-deals-for-those-who-hate-amazon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

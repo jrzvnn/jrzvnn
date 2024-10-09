@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft issues the final Surface Duo 2 security update ahead of its end of support on October 21; the Duo 2, released in October 2021, got one Android update &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241009/p16#a241009p16)
+ - [Florida Hospitals and Nursing Homes Are Bracing for Hurricane Milton](https://www.wired.com/story/florida-health-care-system-hurricane-milton-evacuations/)
+ - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
  - [OpenAI says it suspects that China-linked SweetSpecter tried to phish its employees earlier in 2024, posing as a ChatGPT user to send customer support emails &lpar;Seth Fiegerman/Bloomberg&rpar;](http://www.techmeme.com/241009/p15#a241009p15)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024-1/)
- - [Threads is working on a community groups feature](https://www.theverge.com/2024/10/9/24265936/threads-loops-community-groups-feature)
- - [298 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
- - [27 Best Prime Day Apple Deals on MacBooks, iPads, More &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)<!-- TECH:END -->
+ - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Offended](http://9gag.com/gag/aryGM4y)
- - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 💣 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 😝 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)
- - 👉 [The girl with the toe](http://9gag.com/gag/a9yKnzZ)<!-- MEMES:END -->
+ - 😝 [Let them fight](http://9gag.com/gag/aLng1KW)
+ - 😝 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
+ - 💣 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
+ - 😝 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
+ - 👉 [The boys](http://9gag.com/gag/aAy3b3R)<!-- MEMES:END -->
 
 ---
 

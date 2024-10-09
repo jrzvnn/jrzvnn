@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
- - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 💣 [Let them fight](http://9gag.com/gag/aLng1KW)
- - 😝 [The boys](http://9gag.com/gag/aAy3b3R)
- - 👉 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)<!-- MEMES:END -->
+ - 😝 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 💣 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
+ - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
 
 ---
 

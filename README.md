@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A threat actor hacked the Internet Archive and stole a user authentication database with 31M unique records; a DDoS attack took the site offline on Wednesday &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241009/p37#a241009p37)
+ - [Hurricane Milton Shows How a Storm’s Category Doesn’t Tell the Full Story](https://www.wired.com/story/hurricane-milton-storm-category-doesnt-tell-full-story/)
  - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)
  - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)
- - [Best Amazon Prime Day Deals Under $10: Take Advantage of Tech and Home Savings While You Still Can](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-09/#ftag=CAD590a51e)
- - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)
- - [The Best Prime Day Tablet Deals Still Up for Grabs](https://www.cnet.com/deals/best-prime-day-tablet-deals-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Prime Day Deals Under $10: Take Advantage of Tech and Home Savings While You Still Can](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

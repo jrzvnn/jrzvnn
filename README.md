@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 💣 [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
- - 👉 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)<!-- MEMES:END -->
+ - 😝 [Let them fight](http://9gag.com/gag/aLng1KW)
+ - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
+ - 💣 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
+ - 😝 [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
+ - 👉 [The boys](http://9gag.com/gag/aAy3b3R)<!-- MEMES:END -->
 
 ---
 

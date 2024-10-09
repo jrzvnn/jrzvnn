@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)
+ - [The best headphone and earbud deals on day two of Amazon Prime Day](https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale)
  - [28 Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024-1/)
- - [Our 22 Best Prime Day Laptop Deals Are Just a Click Away &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
- - [The best Prime Day deals you can still grab for $25 or less](https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024)
- - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
- - [Nintendo is taking applications to join a mysterious Switch Online playtest](https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest)<!-- TECH:END -->
+ - [Our 22 Best Prime Day Laptop Deals Are Just a Click Away &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

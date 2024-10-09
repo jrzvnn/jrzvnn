@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at disagreements over automation between US dockworkers and shipping industry officials, who say they need AI-powered stacking cranes and other machines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241009/p13#a241009p13)
- - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [CamScanner app maker Intsig is the best-performing China IPO stock in 2024 for $100M+ listings, after a euphoric market response to Beijing&#39;s stimulus measures &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p12#a241009p12)
- - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
- - [Best Glucose Meter for Diabetes and Blood Sugar Monitoring](https://www.cnet.com/health/medical/best-glucose-meter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russian site listed many leaked M4 MacBook Pro models for sale](https://appleinsider.com/articles/24/10/09/russian-site-listed-many-leaked-m4-macbook-pro-models-for-sale?utm_medium=rss)
+ - [The best deals you can grab on day two of Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Alfonso Cuarón Subverted Sci-Fi and Fantasy. Now He’s Coming for TV](https://www.wired.com/story/big-interview-director-alfonso-cuaron-disclaimer-sci-fi/)
+ - [298 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [A look at disagreements over automation between US dockworkers and shipping industry officials, who say they need AI-powered stacking cranes and other machines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241009/p13#a241009p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

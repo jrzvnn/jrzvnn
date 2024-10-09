@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says the DOJ&#39;s &quot;radical&quot; and &quot;sweeping&quot; proposals in Search antitrust case risk hurting consumers, businesses, developers, and American competitiveness &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241009/p2#a241009p2)
+ - [There is little modern precedent to guide US judges on whether a breakup, like the one the DOJ is proposing in the Google Search antitrust case, is appropriate &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241009/p1#a241009p1)
  - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [MediaTek’s new flagship chipset is ready for AI agents and tri-fold phones](https://www.theverge.com/2024/10/8/24265408/mediatek-dimensity-9400-agentic-ai-specs-availability)
- - [A Google breakup is on the table, say DOJ lawyers](https://www.theverge.com/2024/10/8/24265832/google-search-antitrust-remedies-framework-android-chrome-play)
- - [How to use inline text prediction and other autocorrect functions in Pages](https://appleinsider.com/inside/macos/tips/how-to-use-inline-text-prediction-and-other-autocorrect-functions-in-pages?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 9, #486](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-9-486/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google breakup is on the table, say DOJ lawyers](https://www.theverge.com/2024/10/8/24265832/google-search-antitrust-remedies-framework-android-chrome-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

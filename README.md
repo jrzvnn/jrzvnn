@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best laptop deals we found for Amazon Prime Day](https://www.theverge.com/good-deals/2024/10/9/24262303/amazon-prime-day-best-buy-sale-laptop-macbook-windows-gaming-deal)
+ - [Why Tampa Is So Vulnerable to Hurricane Milton](https://www.wired.com/story/why-tampa-is-so-vulnerable-to-hurricane-milton/)
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
  - [This bottle-sized rotating projector won’t fall over](https://www.theverge.com/2024/10/9/24266155/projector-portable-jmgo-picoflix)
- - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
- - [The Gulf of Mexico is almost as warm as a bath, and it’s stirring up monster storms](https://www.theverge.com/2024/10/9/24265963/hurricane-milton-helene-gulf-of-mexico-atlantic-water-temperature)
- - [Writer debuts Palmyra X 004, an LLM for enterprise applications, saying it cost just $700K to train, using synthetic data; source: Writer is raising up to $200M &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p27#a241009p27)
- - [Save an Impressive $250 on the Samsung Galaxy S24 Plus With This Prime Day Big Deal](https://www.cnet.com/deals/save-an-impressive-250-on-the-samsung-galaxy-s24-prime-day-big-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [320 Best Prime Day Deals for Day Two, Fully Vetted By Our Gear Pros &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces AI Shopping Guides, which show AI-generated descriptions and recommendations for over 100 product types on its US mobile website and app &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241009/p32#a241009p32)
  - [Apple&#39;s former hardware chief and current Apple Vision Pro lead is retiring](https://appleinsider.com/articles/24/10/09/apples-former-hardware-chief-and-current-apple-vision-pro-lead-is-retiring?utm_medium=rss)
  - [Zoom plans to launch a feature in 2025 that allows users to create an AI-animated, photorealistic avatar from a video clip they record of themselves &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241009/p31#a241009p31)
  - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Sharp&#39;s LDK+ Electric Van Concept Turns Into a Movie Theater When You Park](https://www.wired.com/story/sharp-ldk-electric-van-concept-foxconn/)
- - [Apple’s Vision Pro leader, Dan Riccio, is retiring](https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring)<!-- TECH:END -->
+ - [Sharp&#39;s LDK+ Electric Van Concept Turns Into a Movie Theater When You Park](https://www.wired.com/story/sharp-ldk-electric-van-concept-foxconn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

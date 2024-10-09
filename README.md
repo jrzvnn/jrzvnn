@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Dan Riccio, Apple&#39;s Vision Pro chief and former head of hardware engineering, is leaving this month; the Vision Pro team is moving under John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241009/p29#a241009p29)
- - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
- - [Amazon aims to deploy Vision Assisted Package Retrieval, an AI-powered tool to help drivers quickly find packages in delivery vans, in 1,000 vans by early 2025 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241009/p28#a241009p28)
- - [The best laptop deals we found for Amazon Prime Day](https://www.theverge.com/good-deals/2024/10/9/24262303/amazon-prime-day-best-buy-sale-laptop-macbook-windows-gaming-deal)
- - [Why Tampa Is So Vulnerable to Hurricane Milton](https://www.wired.com/story/why-tampa-is-so-vulnerable-to-hurricane-milton/)<!-- TECH:END -->
+ - [Apple’s Vision Pro leader, Dan Riccio, is retiring](https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring)
+ - [27 Best Prime Day Apple Deals on MacBooks, iPads, AirPods &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-october-2024-1/)
+ - [A closer look at Nintendo’s adorable Alarmo clock](https://www.theverge.com/24266272/nintendo-alarmo-sound-clock-hands-on)
+ - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
+ - [X updates its Creator Revenue Sharing program to pay creators based on engagement with their content from Premium users, not ads in replies &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241009/p30#a241009p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

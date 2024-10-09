@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
+ - [Amazon aims to deploy Vision Assisted Package Retrieval, an AI-powered tool to help drivers quickly find packages in delivery vans, in 1,000 vans by early 2025 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241009/p28#a241009p28)
  - [The best laptop deals we found for Amazon Prime Day](https://www.theverge.com/good-deals/2024/10/9/24262303/amazon-prime-day-best-buy-sale-laptop-macbook-windows-gaming-deal)
  - [Why Tampa Is So Vulnerable to Hurricane Milton](https://www.wired.com/story/why-tampa-is-so-vulnerable-to-hurricane-milton/)
- - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
- - [This bottle-sized rotating projector won’t fall over](https://www.theverge.com/2024/10/9/24266155/projector-portable-jmgo-picoflix)
- - [320 Best Prime Day Deals for Day Two, Fully Vetted By Our Gear Pros &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)<!-- TECH:END -->
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

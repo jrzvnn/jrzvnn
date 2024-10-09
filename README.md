@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI announces Singapore will serve as its APAC hub and appoints Oliver Jay, who served as Asana&#39;s chief revenue officer, to lead international expansion &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241009/p9#a241009p9)
  - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Best Mattresses for Sciatica for 2024](https://www.cnet.com/health/sleep/best-mattress-for-sciatica/#ftag=CAD590a51e)
- - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
- - [A look at challenges for Ireland&#39;s role as a data center hub, as energy supply problems and planning hurdles force AWS and others to evaluate alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p8#a241009p8)<!-- TECH:END -->
+ - [A look at challenges for Ireland&#39;s role as a data center hub, as energy supply problems and planning hurdles force AWS and others to evaluate alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/241009/p8#a241009p8)
+ - [Braintrust, whose software helps companies evaluate and monitor their AI tools&#39; performance, raised a $36M Series A led by a16; source: the valuation was ~$150M &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241009/p7#a241009p7)
+ - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

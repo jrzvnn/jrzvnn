@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
- - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
- - 💣 [Banana for scale](http://9gag.com/gag/aBy0dw1)
- - 😝 [I steal memes for a living to supply your needs.](http://9gag.com/gag/a4PQRVm)
- - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
+ - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 💣 [Muscle Memory](http://9gag.com/gag/a4PQojp)
+ - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 👉 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)<!-- MEMES:END -->
 
 ---
 

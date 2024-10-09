@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of the National Archives and Records Administration&#39;s Chief Innovation Officer Pamela Wright, who leads the agency&#39;s project to digitize 13B+ records &lpar;Sarah Vowell/Washington Post&rpar;](http://www.techmeme.com/241009/p11#a241009p11)
  - [18 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
  - [MiniMax, ByteDance, and 01.ai are among a group of Chinese AI companies that have launched AI products overseas, particularly in the US, to boost revenue growth &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241009/p10#a241009p10)
  - [Best Air Fryers of 2024, According to an Expert](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)
- - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)
- - [This Prime Day Deal Knocks Our Favorite Budget Wi-Fi Extender to Just $12](https://www.cnet.com/deals/this-prime-day-deal-knocks-our-favorite-budget-wi-fi-extender-to-just-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: Must-See Savings on TVs, Tablets, Fitness Trackers and More](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
- - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
  - 💣 [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 😝 [Liquid nitro glycerin](http://9gag.com/gag/aAy3g5p)
- - 👉 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)<!-- MEMES:END -->
+ - 😝 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---
 

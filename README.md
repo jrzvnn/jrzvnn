@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)
  - [Some Threads and Instagram users say their accounts are being deleted or restricted due to moderation failures; Adam Mosseri says he&#39;s &quot;looking into it&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241009/p36#a241009p36)
  - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)
- - [The best headphone and earbud deals on day two of Amazon Prime Day](https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale)
- - [28 Prime Day Toy Deals On Stuff Our Kids Love &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-toy-deals-october-2024-1/)<!-- TECH:END -->
+ - [The best headphone and earbud deals on day two of Amazon Prime Day](https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

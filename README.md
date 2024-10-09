@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube says it is ‘not hiding the skip button’ on ads](https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads)
  - [Nintendo Alarmo: Price, Specs, Availability](https://www.wired.com/story/nintendo-alarmo-alarm-clock/)
  - [29 Deals WIRED Readers Are Actually Buying During Prime Day 2024](https://www.wired.com/gallery/the-29-prime-day-deals-wired-readers-are-actually-buying/)
  - [HBO’s Lanterns adds Aaron Pierre to its cast as John Stewart](https://www.theverge.com/2024/10/9/24266192/hbo-lanterns-john-stewart-casting-aaron-pierre-dc-comics)
- - [Amazon Pharmacy plans to expand same-day prescription delivery to 20 more US cities in 2025, including Boston, Dallas, Minneapolis, Philadelphia, and San Diego &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241009/p26#a241009p26)
- - [Zoom will let AI avatars talk to your team for you](https://www.theverge.com/2024/10/9/24266007/zoom-ai-avatars-clips-talk-for-you)<!-- TECH:END -->
+ - [Amazon Pharmacy plans to expand same-day prescription delivery to 20 more US cities in 2025, including Boston, Dallas, Minneapolis, Philadelphia, and San Diego &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241009/p26#a241009p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

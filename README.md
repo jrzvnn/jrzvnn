@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds 3 Pro review: light ’em up](https://www.theverge.com/24265270/samsung-galaxy-buds-3-pro-review)
- - [The All England Club says AI will make &quot;out&quot; and &quot;fault&quot; calls at the Wimbledon tennis championships starting in 2025, replacing line judges, after a 2024 test &lpar;Associated Press&rpar;](http://www.techmeme.com/241009/p22#a241009p22)
- - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
- - [London-based Basecamp Research, which says its BaseFold model outperforms AlphaFold 2 at predicting proteins, raised a $60M Series B, for $85M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241009/p21#a241009p21)
- - [How to detect sleep apnea with Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-detect-sleep-apnea-with-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus Watch 2 is a good deal at $210](https://www.theverge.com/2024/10/9/24266010/amazon-prime-day-oneplus-watch-2-android-smartwatch-deal-sale-october)
+ - [Brazil’s FCC gives the order to unblock X](https://www.theverge.com/2024/10/9/24266020/brazil-telecommunications-agency-anatel-unblock-x)
+ - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Live Prime Day coverage on Day 2: Apple deals start at just $7](https://appleinsider.com/articles/24/10/09/live-prime-day-coverage-on-day-2-apple-deals-start-at-just-7?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

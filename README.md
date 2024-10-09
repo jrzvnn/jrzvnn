@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
- - 😝 [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
- - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - 😝 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
+ - 😝 [Muscle Memory](http://9gag.com/gag/a4PQojp)
+ - 😝 [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 💣 [Trick or treat](http://9gag.com/gag/a7o3Evz)
+ - 😝 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)
  - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
 
 ---

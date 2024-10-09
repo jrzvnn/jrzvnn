@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro models dominate lackluster iPhone 16 sales](https://appleinsider.com/articles/24/10/09/iphone-16-pro-models-dominate-lackluster-iphone-16-sales?utm_medium=rss)
- - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
- - [Meta rolls out Meta AI in six more countries, including the UK, and plans 15 more in the coming weeks, and adds it to Ray-Ban glasses in Australia and the UK &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/241009/p24#a241009p24)
- - [Russia&#39;s Roskomnadzor regulator bans Discord, drawing ire from the Russian military, which has extensively used the app to coordinate units in Ukraine &lpar;Mary Ilyushina/Washington Post&rpar;](http://www.techmeme.com/241009/p23#a241009p23)
- - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)<!-- TECH:END -->
+ - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
+ - [The Best Prime Day Deals for Those Who Hate Amazon](https://www.wired.com/story/the-best-prime-day-deals-for-those-who-hate-amazon/)
+ - [Apple&#39;s Studio Display is $305 off for Prime Day](https://appleinsider.com/articles/24/10/09/apples-studio-display-is-305-off-for-prime-day?utm_medium=rss)
+ - [You can add wireless controller support to the NES through its unused expansion port](https://www.theverge.com/2024/10/9/24266019/nintendo-nes-expansion-port-retrotime-bluetooth-wireless-controller)
+ - [iPhone 16 Pro models dominate lackluster iPhone 16 sales](https://appleinsider.com/articles/24/10/09/iphone-16-pro-models-dominate-lackluster-iphone-16-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

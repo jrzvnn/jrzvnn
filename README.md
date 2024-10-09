@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Buds 3 Pro review: light ’em up](https://www.theverge.com/24265270/samsung-galaxy-buds-3-pro-review)
+ - [The All England Club says AI will make &quot;out&quot; and &quot;fault&quot; calls at the Wimbledon tennis championships starting in 2025, replacing line judges, after a 2024 test &lpar;Associated Press&rpar;](http://www.techmeme.com/241009/p22#a241009p22)
  - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
  - [London-based Basecamp Research, which says its BaseFold model outperforms AlphaFold 2 at predicting proteins, raised a $60M Series B, for $85M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241009/p21#a241009p21)
- - [How to detect sleep apnea with Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-detect-sleep-apnea-with-apple-watch?utm_medium=rss)
- - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
- - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)<!-- TECH:END -->
+ - [How to detect sleep apnea with Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-detect-sleep-apnea-with-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

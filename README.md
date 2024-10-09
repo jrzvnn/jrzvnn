@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)
- - [Some Threads and Instagram users say their accounts are being deleted or restricted due to moderation failures; Adam Mosseri says he&#39;s &quot;looking into it&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241009/p36#a241009p36)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)
- - [The best headphone and earbud deals on day two of Amazon Prime Day](https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale)<!-- TECH:END -->
+ - [Best LED Light Bulb for Every Room in Your House in 2024](https://www.cnet.com/home/kitchen-and-household/best-led-lights/#ftag=CAD590a51e)
+ - [Best Amazon Prime Day Deals Under $10: Take Advantage of Tech and Home Savings While You Still Can](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-09/#ftag=CAD590a51e)
+ - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)
+ - [The Best Prime Day Tablet Deals Still Up for Grabs](https://www.cnet.com/deals/best-prime-day-tablet-deals-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

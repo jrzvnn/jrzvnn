@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces AI Shopping Guides, which show AI-generated descriptions and recommendations for over 100 product types on its US mobile website and app &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241009/p32#a241009p32)
- - [Apple&#39;s former hardware chief and current Apple Vision Pro lead is retiring](https://appleinsider.com/articles/24/10/09/apples-former-hardware-chief-and-current-apple-vision-pro-lead-is-retiring?utm_medium=rss)
- - [Zoom plans to launch a feature in 2025 that allows users to create an AI-animated, photorealistic avatar from a video clip they record of themselves &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241009/p31#a241009p31)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Sharp&#39;s LDK+ Electric Van Concept Turns Into a Movie Theater When You Park](https://www.wired.com/story/sharp-ldk-electric-van-concept-foxconn/)<!-- TECH:END -->
+ - [The Fitbit Ace LTE, a great kids’ smartwatch, hits its lowest price](https://www.theverge.com/2024/10/9/24266358/fitbit-ace-lte-kids-smartwatch-amazon-prime-big-deals-day)
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
+ - [Platform-adventure game &#39;Neva&#39; will arrive on macOS at launch](https://appleinsider.com/articles/24/10/09/platform-adventure-game-neva-will-arrive-on-macos-at-launch?utm_medium=rss)
+ - [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
+ - [How the AI Nobel Prizes Could Change the Focus of Research](https://www.wired.com/story/how-the-ai-nobel-prizes-could-change-the-focus-of-research/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

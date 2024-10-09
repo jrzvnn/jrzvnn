@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind scientists win Nobel Prize for chemistry](https://www.theverge.com/2024/10/9/24265962/google-deepmind-ai-nobel-prize-winners-chemistry-protein)
- - [Ring’s New AI Search Tool Lets You Easily Scan Videos—With Mixed Results](https://www.wired.com/story/amazon-ring-new-ai-video-search-tool-mixed-results/)
- - [Ring’s video history search is super handy for tracking my cat](https://www.theverge.com/2024/10/9/24265564/ring-ai-smart-video-search-security-camera-price-availability)
- - [Players will need a quiet place if they want to survive the A Quiet Place game](https://www.theverge.com/2024/10/9/24265465/a-quiet-place-the-road-ahead-microphone-support-price-release-date)
- - [Samsung’s AirPods Pro look-alike is nearly $100 off](https://www.theverge.com/2024/10/9/24265955/samsung-galaxy-buds-3-pro-earbuds-airpods-deal-sale)<!-- TECH:END -->
+ - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
+ - [The best Prime Day deals you can get on some of our home office go-tos](https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024)
+ - [Ring unveils a new $20 per month Ring Home Premium subscription, adding 24/7 recording and AI-powered Smart Video Search from November 5 in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241009/p20#a241009p20)
+ - [Nintendo is making an alarm clock so you can wake up to Zelda and Super Mario sounds](https://www.theverge.com/2024/10/9/24265984/nintendo-alarmo-alarm-clock-date-price)
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

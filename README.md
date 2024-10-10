@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
  - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
+ - 💣 [Baby in the womb](http://9gag.com/gag/amoB134)
+ - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 👉 [Come here you little..](http://9gag.com/gag/a5QMQEO)<!-- MEMES:END -->
 
 ---
 

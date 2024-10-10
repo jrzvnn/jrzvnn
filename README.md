@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [A profile of FTC Chair Lina Khan, whose term ended in September 2024, as a bipartisan club of tech figures and VCs, including Reid Hoffman, call for her ouster &lpar;Bloomberg&rpar;](http://www.techmeme.com/241010/p4#a241010p4)
  - [Ecommerce Europe: e-commerce turnover in Europe including the UK to rise 8% YoY to &amp;euro;958B in 2024, the first growth year since 2021 in inflation-adjusted terms &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241010/p3#a241010p3)
  - [The Influence of the US Far Right on Ireland Is Growing](https://www.wired.com/story/the-influence-of-the-us-far-right-on-ireland-is-growing/)
- - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
- - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
- - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024-1/)
- - [A threat actor hacked the Internet Archive and stole a user authentication database with 31M unique records; a DDoS attack took the site offline on Wednesday &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241009/p37#a241009p37)
- - [Hurricane Milton Shows How a Storm’s Category Doesn’t Tell the Full Story](https://www.wired.com/story/hurricane-milton-storm-category-doesnt-tell-full-story/)<!-- TECH:END -->
+ - [Indian insurance firm Star Health says it suffered a &quot;malicious cyberattack&quot;, about two weeks after hackers put 31M customers&#39; alleged personal data on Telegram &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241009/p41#a241009p41)
+ - [Grabango, which provided cashierless checkout tech and raised just over $73M, shuts down after failing to secure enough funding to continue its services &lpar;CNBC&rpar;](http://www.techmeme.com/241009/p40#a241009p40)
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [29 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)
+ - [The US GSA says Login.gov is opening up its face recognition capabilities, which compare a live selfie with the photo on a photo ID, to government agencies &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/241009/p39#a241009p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

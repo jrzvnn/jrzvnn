@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
- - 👉 [Baby in the womb](http://9gag.com/gag/amoB134)<!-- MEMES:END -->
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 😝 [Wife material right there.](http://9gag.com/gag/a9yKzzo)
+ - 💣 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
+ - 😝 [It is what it is](http://9gag.com/gag/aE02VZ9)
+ - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK&#39;s defense ministry is using an AI model created by Palantir to sift through submissions for a comprehensive review of the country&#39;s defense capabilities &lpar;Stefan Boscia/Politico&rpar;](http://www.techmeme.com/241009/p45#a241009p45)
  - [The best Prime Day Apple deals you can still get on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
  - [Sources: Sierra, an AI agent startup co-founded by Bret Taylor, is raising hundreds of millions of dollars in new funding led by Greenoaks at a $4B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/241009/p44#a241009p44)
  - [WordPress.org adds a checkbox to confirm users aren&#39;t &quot;affiliated with WP Engine in any way, financially or otherwise&quot; before they log in or register an account &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241009/p43#a241009p43)
- - [OpenAI says it has disrupted 20+ operations and deceptive networks in 2024 so far that tried to use its models, including four that had election-related content &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p42#a241009p42)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
+ - [OpenAI says it has disrupted 20+ operations and deceptive networks in 2024 so far that tried to use its models, including four that had election-related content &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p42#a241009p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

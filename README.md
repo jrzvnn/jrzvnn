@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD launches the Instinct MI325X GPUs to compete with Nvidia&#39;s upcoming Blackwell chips, and plans to start production before the end of 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241010/p22#a241010p22)
+ - [Best 75 October Prime Day Deals You Can Still Snag &lpar;2024&rpar;](https://www.wired.com/story/leftover-prime-day-deals-october-2024/)
  - [Violent threats against FEMA swirl on social media](https://www.theverge.com/2024/10/10/24266848/violent-threats-against-fema-swirl-on-social-media)
  - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Up for Grabs](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
- - [Not Hearing Sound in One AirPod? There&#39;s an Easy Fix](https://www.cnet.com/tech/mobile/no-sound-in-one-airpod-troubleshooting-steps-to-get-it-working-again/#ftag=CAD590a51e)
- - [Don&#39;t Miss the Best Prime Day TV Deals Still Available: Save Up to $2,000 on TVs From Top Brands Like LG, Samsung and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-10/#ftag=CAD590a51e)
- - [Marriott agrees to pay $52 million settlement after multiple data breaches](https://www.theverge.com/2024/10/10/24267048/marriott-ftc-settlement-agreement-52-million-fine)<!-- TECH:END -->
+ - [Not Hearing Sound in One AirPod? There&#39;s an Easy Fix](https://www.cnet.com/tech/mobile/no-sound-in-one-airpod-troubleshooting-steps-to-get-it-working-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

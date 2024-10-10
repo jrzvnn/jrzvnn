@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
- - 👉 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)<!-- MEMES:END -->
+ - 😝 [Okayy lets go](http://9gag.com/gag/aryGWjp)
+ - 😝 [Well\u2026 Here we go again](http://9gag.com/gag/aqyKRzZ)
+ - 💣 [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
 
 ---
 

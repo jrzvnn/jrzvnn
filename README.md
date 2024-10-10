@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The One](http://9gag.com/gag/avy8WRq)
  - 💣 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
  - 😝 [Finally an October 7 Abdullah I can get onboard with](http://9gag.com/gag/a4PQP4v)
- - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
+ - 👉 [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)<!-- MEMES:END -->
 
 ---
 

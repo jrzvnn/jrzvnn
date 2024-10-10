@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 💣 [Baby in the womb](http://9gag.com/gag/amoB134)
- - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 👉 [Come here you little..](http://9gag.com/gag/a5QMQEO)<!-- MEMES:END -->
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 😝 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
+ - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Well they produce a lot of useful idiots in the west.](http://9gag.com/gag/ajP8ODx)
+ - 👉 [It is what it is](http://9gag.com/gag/aE02VZ9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Darktrace co-founder Poppy Gustafsson, who left last month ahead of the &amp;pound;4.3B takeover of the cybersecurity group, is appointed as the UK&#39;s investment minister &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p29#a241010p29)
+ - [Ticketmaster will start using Apple Wallet’s more useful tickets this month](https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets)
  - [Will Elon Musk Tip the Election for Trump?](https://www.wired.com/story/elon-musk-donald-trump-election/)
  - [Apple to donate to Hurricane Milton relief efforts, says CEO Tim Cook](https://appleinsider.com/articles/24/10/10/apple-to-donate-to-hurricane-milton-relief-efforts-says-ceo-tim-cook?utm_medium=rss)
- - [PayPal formally launches PayPal Ads, which looks to help US marketers tap into data about transactions across PayPal&#39;s platforms, including Venmo and Honey &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/241010/p28#a241010p28)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Sources detail Meta&#39;s work on a consumer version of Orion, which could be built within two years, plans to bring Orion wristband tech to its other devices, more &lpar;CNBC&rpar;](http://www.techmeme.com/241010/p27#a241010p27)<!-- TECH:END -->
+ - [PayPal formally launches PayPal Ads, which looks to help US marketers tap into data about transactions across PayPal&#39;s platforms, including Venmo and Honey &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/241010/p28#a241010p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

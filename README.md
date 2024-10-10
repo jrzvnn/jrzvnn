@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eminem, his brother, his mom](http://9gag.com/gag/ae9rAXW)
- - 😝 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
- - 💣 [Who has experienced this before? This made me smile and cry at the same time.](http://9gag.com/gag/awyAMYy)
  - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
- - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
+ - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
+ - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
+ - 👉 [Peyton and her special talent](http://9gag.com/gag/a34QEW7)<!-- MEMES:END -->
 
 ---
 

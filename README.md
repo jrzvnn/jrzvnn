@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marriott agrees to pay $52 million settlement after multiple data breaches](https://www.theverge.com/2024/10/10/24267048/marriott-ftc-settlement-agreement-52-million-fine)
+ - [Numeric, which wants to use AI to automate accounting tasks, raised a $28M Series A led by Menlo Ventures, five months after raising a $10M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241010/p21#a241010p21)
  - [Apple&#39;s &#39;Submerged&#39; for Apple Vision Pro is submarine warfare terror in the comfort of your home](https://appleinsider.com/articles/24/10/10/apples-submerged-for-apple-vision-pro-is-submarine-warfare-terror-in-the-comfort-of-your-home?utm_medium=rss)
  - [Chinese researchers debut AI model Pyramid Flow, which makes a five-second, 384p video in 56 seconds, built using a new technique called pyramidal flow matching &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241010/p20#a241010p20)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Costco Is the Latest Grocery Chain to Announce Major Price Cuts](https://www.cnet.com/news/costco-is-the-latest-grocery-chain-to-announce-major-price-cuts/#ftag=CAD590a51e)
- - [Best Prime Day Soundbar Deals Still Available: Up to $325 Off Vizio, Sonos and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

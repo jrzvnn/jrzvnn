@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to donate to Hurricane Milton relief efforts, says CEO Tim Cook](https://appleinsider.com/articles/24/10/10/apple-to-donate-to-hurricane-milton-relief-efforts-says-ceo-tim-cook?utm_medium=rss)
+ - [PayPal formally launches PayPal Ads, which looks to help US marketers tap into data about transactions across PayPal&#39;s platforms, including Venmo and Honey &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/241010/p28#a241010p28)
  - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Sources detail Meta&#39;s work on a consumer version of Orion, which could be built within two years, plans to bring Orion wristband tech to its other devices, more &lpar;CNBC&rpar;](http://www.techmeme.com/241010/p27#a241010p27)
- - [Best Prime Day Soundbar Deals Still Available: Last-Minute Discounts on Sonos, JBL, and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-10/#ftag=CAD590a51e)
- - [This 13-In-1 Ninja Air Fryer Is Still Heavily Discounted after Amazon Prime Day](https://www.cnet.com/deals/this-13-in-1-ninja-air-fryer-is-still-heavily-discounted-after-amazon-prime-day/#ftag=CAD590a51e)
- - [49 October Prime Day Deals Under $25 That Are Still Available](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Soundbar Deals Still Available: Last-Minute Discounts on Sonos, JBL, and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

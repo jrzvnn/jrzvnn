@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 💣 [Not today](http://9gag.com/gag/aNDYDE4)
- - 😝 [Florida man folks!](http://9gag.com/gag/an79Ryo)
- - 👉 [Come here you little..](http://9gag.com/gag/a5QMQEO)<!-- MEMES:END -->
+ - 😝 [Legendary Uno reverse in real life.](http://9gag.com/gag/ae9rQ1m)
+ - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
+ - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 😝 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
+ - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
 
 ---
 

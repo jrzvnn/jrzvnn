@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s new passkey design includes cloud syncing and 1Password integration](https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello)
- - [How Should We Feel About Ring?](https://www.wired.com/story/gadget-lab-podcast-661/)
- - [Metaphor: ReFantazio continues Persona’s great handheld heritage](https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage)
- - [Taiwan says China detained four employees at Foxconn&#39;s iPhone factories in Zhengzhou, and says Foxconn said it didn&#39;t suffer a financial loss from their actions &lpar;Joyu Wang/Wall Street Journal&rpar;](http://www.techmeme.com/241010/p13#a241010p13)
- - [How crypto power couple Ryan Salame, an FTX executive who gave millions to GOP politicians, and Michelle Bond, who ran for Congress, now both face prison time &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/241010/p12#a241010p12)<!-- TECH:END -->
+ - [We Tried the World’s Most Expensive Wireless Speakers.](https://www.wired.com/story/we-tried-the-worlds-most-expensive-wireless-speakers/)
+ - [GM’s PowerBank home battery is now available](https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch)
+ - [Threshold’s Wi-Fi sensing plugs offer caregiver monitoring without cameras](https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection)
+ - [Agents are the future AI companies promise — and desperately need](https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots)
+ - [&#39;Wayback Machine&#39; breach affects 31 million people](https://appleinsider.com/articles/24/10/10/wayback-machine-breach-affects-31-million-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)
- - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)
- - [The World&#39;s First Commercial Space Station Looks Like a Luxury Hotel Inside](https://www.wired.com/story/the-worlds-first-commercial-space-station-looks-like-a-luxury-hotel-inside/)
- - [Tensions escalate as China arrests Foxconn staff at key Apple factory](https://appleinsider.com/articles/24/10/10/tensions-escalate-as-china-arrests-foxconn-staff-at-key-apple-factory?utm_medium=rss)
- - [The best deals you can grab before October Prime Day ends](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
+ - [Best Prime Day Deals Under $100 Still Available: Shop Over 40 Last-Chance Bargains](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-10/#ftag=CAD590a51e)
+ - [Online Scammers Looking to Cash In on Hurricane Milton Disaster](https://www.cnet.com/tech/services-and-software/federal-officials-warn-of-scammers-looking-to-cash-in-on-hurricane-milton-disaster/#ftag=CAD590a51e)
+ - [The Best Air Fryer Accessories to Elevate Your Appliance](https://www.cnet.com/news/the-best-air-fryer-accessories-to-elevate-your-appliance/#ftag=CAD590a51e)
+ - [The impossible dream of good workplace software](https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder)
+ - [Amazon Prime Day: 130+ Deals That Are Still Available Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

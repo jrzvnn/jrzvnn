@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)
- - 😝 [The One](http://9gag.com/gag/avy8WRq)
- - 💣 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 😝 [Finally an October 7 Abdullah I can get onboard with](http://9gag.com/gag/a4PQP4v)
- - 👉 [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)<!-- MEMES:END -->
+ - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
+ - 😝 [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)
+ - 💣 [How the Golden Gate Bridge was constructed](http://9gag.com/gag/a4PQorp)
+ - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---
 

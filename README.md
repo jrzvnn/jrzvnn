@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WordPress.org introduces a checkbox asking users to confirm they are &quot;not affiliated with WP Engine in any way&quot; before logging in or registering a new account &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241009/p43#a241009p43)
  - [OpenAI says it has disrupted 20+ operations and deceptive networks in 2024 so far that tried to use its models, including four that had election-related content &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p42#a241009p42)
  - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Internet Archive Breach Exposes 31 Million Users](https://www.wired.com/story/internet-archive-hacked/)
- - [Indian insurance firm Star Health says it suffered a &quot;malicious cyberattack&quot;, about two weeks after hackers put 31M customers&#39; alleged personal data on Telegram &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241009/p41#a241009p41)
- - [Best Wine Clubs and Subscriptions to Gift in 2024](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)
+ - [The Best Prime Day Deals Under $50 to Grab While You Still Can](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

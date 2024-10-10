@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite the fallout from SBF&#39;s political donations, crypto&#39;s super PAC raising $203M far exceeds other groups like Koch Industries, the second-largest at $26M &lpar;Alexander Sammon/Slate&rpar;](http://www.techmeme.com/241010/p10#a241010p10)
+ - [The Polymarket Bubble: Everyone Is Betting on the US Election](https://www.wired.com/story/polymarket-betting-presidential-election-harris-trump/)
+ - [What to expect at Tesla’s ‘We, Robot’ event](https://www.theverge.com/2024/10/10/24265122/tesla-robotaxi-event-how-to-watch-what-to-expect-optimus)
  - [How Google plans to deflect and delay the US breakup threat; legal timelines may let it avoid changes for years, and a ruling on remedies may come in mid-2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p9#a241010p9)
- - [Automattic demanding an 8% cut of WP Engine&#39;s revenue is a wanton violation of general open source ideals, and the damage could extend far beyond WordPress &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/241010/p8#a241010p8)
- - [ByteDance launches its first earbuds, the open-ear wearables called Ola Friend, designed as an audio assistant, shipping on October 17 in China for ~$170 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241010/p7#a241010p7)
- - [Amazon Prime users to be offered Apple TV+ bundle](https://appleinsider.com/articles/24/10/10/amazon-prime-users-to-be-offered-apple-tv-bundle?utm_medium=rss)
- - [Best Prime Day Monitor Deals Still Available: Save on Displays From LG, Acer and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automattic demanding an 8% cut of WP Engine&#39;s revenue is a wanton violation of general open source ideals, and the damage could extend far beyond WordPress &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/241010/p8#a241010p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

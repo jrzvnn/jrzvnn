@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
  - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 👉 [Original picture in comments](http://9gag.com/gag/aPAYAVP)<!-- MEMES:END -->
+ - 💣 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
 
 ---
 

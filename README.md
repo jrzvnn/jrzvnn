@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche to recall over 27,000 EVs in US over battery short circuit risk](https://www.theverge.com/2024/10/10/24266923/porsche-battery-short-circuit-fire-recall-nhtsa)
- - [Google&#39;s EMEA president Matt Brittin plans to step down after a decade in the post and will continue running operations until a successor is chosen &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241010/p19#a241010p19)
- - [Scope3, which makes tools to monitor the carbon footprint of digital ads, raised $25M led by GV to expand into making tools to track the climate impact of AI &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/241010/p18#a241010p18)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Submerged&#39; for Apple Vision Pro is submarine warfare terror in the comfort of your home](https://appleinsider.com/articles/24/10/10/apples-submerged-for-apple-vision-pro-is-submarine-warfare-terror-in-the-comfort-of-your-home?utm_medium=rss)
+ - [Chinese researchers launch Pyramid Flow, an AI model to make a five-second, 384p video in 56 seconds, built using a new technique called pyramidal flow matching &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241010/p20#a241010p20)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Costco Is the Latest Grocery Chain to Announce Major Price Cuts](https://www.cnet.com/news/costco-is-the-latest-grocery-chain-to-announce-major-price-cuts/#ftag=CAD590a51e)
+ - [Best Prime Day Soundbar Deals Still Available: Up to $325 Off Vizio, Sonos and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

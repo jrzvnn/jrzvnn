@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 😝 [Wife material right there.](http://9gag.com/gag/a9yKzzo)
- - 💣 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
- - 😝 [It is what it is](http://9gag.com/gag/aE02VZ9)
- - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
+ - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
 
 ---
 

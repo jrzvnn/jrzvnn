@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - 😝 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
- - 💣 [Not today](http://9gag.com/gag/aNDYDE4)
- - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
+ - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 💣 [Banana for scale](http://9gag.com/gag/aBy0dw1)
+ - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
  - 👉 [Movies](http://9gag.com/gag/azx95wb)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Paris-based Qantev, which offers an AI-based claim management software for health and life insurance companies, raised a &amp;euro;30M Series B &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/241010/p1#a241010p1)
  - [Amazon says Apple TV+ will be available as a $9.99/month subscription add-on in Prime Video Channels later this month in the US, joining 100+ streaming services &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p46#a241009p46)
  - [The best Prime Day deals you can still grab for $25 or less](https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024)
- - [The UK&#39;s defense ministry is using an AI model created by Palantir to sift through submissions for a comprehensive review of the country&#39;s defense capabilities &lpar;Stefan Boscia/Politico&rpar;](http://www.techmeme.com/241009/p45#a241009p45)
- - [The best Prime Day Apple deals you can still get on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
- - [Sources: Sierra, an AI agent startup co-founded by Bret Taylor, is raising hundreds of millions of dollars in new funding led by Greenoaks at a $4B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/241009/p44#a241009p44)<!-- TECH:END -->
+ - [The UK&#39;s defense ministry is using an AI model created by Palantir to sift through submissions for a comprehensive review of the country&#39;s defense capabilities &lpar;Stefan Boscia/Politico&rpar;](http://www.techmeme.com/241009/p45#a241009p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

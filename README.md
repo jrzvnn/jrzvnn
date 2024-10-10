@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Farther, which makes software for financial advisers, raised $72M co-led by CapitalG and Viewpoint at a $542M valuation, bringing its total funding to $117M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241010/p16#a241010p16)
- - [Lexus’ new LX has a waterproofed hybrid engine](https://www.theverge.com/2024/10/10/24266847/lexus-lx-700h-rugged-hybrid-suv-2025)
- - [Here’s how to apply for Nintendo’s mystery Switch Online playtest](https://www.theverge.com/2024/10/10/24266514/nintendo-switch-online-playtest-program-how-to-apply)
- - [Suki, which makes AI voice assistants for healthcare providers, raised a $70M Series D, source says at a ~$500M valuation, bringing its total funding to $165M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241010/p15#a241010p15)
- - [The impossible dream of good workplace software](https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder)<!-- TECH:END -->
+ - [This Lingering Prime Day Deal Is Bringing the 10th-Gen iPad to Just $299 at Amazon](https://www.cnet.com/deals/this-lingering-prime-day-deal-is-bringing-the-10th-gen-ipad-to-just-299-at-amazon/#ftag=CAD590a51e)
+ - [Last Chance to Add a Security Cam to Your Home for Just $25](https://www.cnet.com/deals/last-chance-to-add-a-security-cam-to-your-home-for-just-25/#ftag=CAD590a51e)
+ - [Best Prime Day Tablet Deals Still Available: Savings on Apple, Google and More](https://www.cnet.com/deals/best-prime-day-tablet-deals-2024-10-10/#ftag=CAD590a51e)
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Available Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
+ - [10 Best Cheeses You&#39;ll Find at Any Supermarket, According to an Expert](https://www.cnet.com/how-to/10-best-cheeses-youll-find-at-any-supermarket-according-to-an-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

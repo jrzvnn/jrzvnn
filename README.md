@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WordPress.org introduces a checkbox asking users to confirm they are &quot;not affiliated with WP Engine in any way&quot; before logging in or registering a new account &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241009/p43#a241009p43)
+ - [The best Prime Day Apple deals you can still get on MacBooks, iPads, and more](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
+ - [Sources: Sierra, an AI agent startup co-founded by Bret Taylor, is raising hundreds of millions of dollars in new funding led by Greenoaks at a $4B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/241009/p44#a241009p44)
+ - [WordPress.org adds a checkbox to confirm users aren&#39;t &quot;affiliated with WP Engine in any way, financially or otherwise&quot; before they log in or register an account &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241009/p43#a241009p43)
  - [OpenAI says it has disrupted 20+ operations and deceptive networks in 2024 so far that tried to use its models, including four that had election-related content &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p42#a241009p42)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)
- - [The Best Prime Day Deals Under $50 to Grab While You Still Can](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

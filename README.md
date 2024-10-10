@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - 😝 [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)
- - 💣 [How the Golden Gate Bridge was constructed](http://9gag.com/gag/a4PQorp)
- - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - 😝 [Former MMA Fighter Shows Effects of Brain Degradation](http://9gag.com/gag/aNDYwdb)
+ - 😝 [60 Minutes caught deleting interview footages and replacing them with heavily edited videos](http://9gag.com/gag/aKGxEg3)
+ - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [Movies](http://9gag.com/gag/azx95wb)
  - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---

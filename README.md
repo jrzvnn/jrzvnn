@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Best After Prime Day Headphone Deals: Amazon&#39;s Remaining Discounts on AirPods, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-10/#ftag=CAD590a51e)
- - [Hurricane Milton Delays Astronauts&#39; Return to Earth Until Oct. 13](https://www.cnet.com/science/space/hurricane-milton-delays-astronauts-return-to-earth-until-oct-13/#ftag=CAD590a51e)
- - [Stripe reintegrates crypto payments in the US, letting users pay merchants in USDC or USDP on Ethereum, Solana, and Polygon, after disabling the feature in 2018 &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/241010/p26#a241010p26)
- - [How to Stream the New &#39;Dragon Ball Daima&#39; Anime From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-stream-the-new-dragon-ball-daima-anime-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail Meta&#39;s work on a consumer version of Orion, which could be built within two years, plans to bring Orion wristband tech to its other devices, more &lpar;CNBC&rpar;](http://www.techmeme.com/241010/p27#a241010p27)
+ - [Best Prime Day Soundbar Deals Still Available: Last-Minute Discounts on Sonos, JBL, and More](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-10/#ftag=CAD590a51e)
+ - [This 13-In-1 Ninja Air Fryer Is Still Heavily Discounted after Amazon Prime Day](https://www.cnet.com/deals/this-13-in-1-ninja-air-fryer-is-still-heavily-discounted-after-amazon-prime-day/#ftag=CAD590a51e)
+ - [49 October Prime Day Deals Under $25 That Are Still Available](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-10/#ftag=CAD590a51e)
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

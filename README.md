@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 😝 [Florida man folks!](http://9gag.com/gag/an79Ryo)
- - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
- - 👉 [Granny did not care](http://9gag.com/gag/apRmRD9)<!-- MEMES:END -->
+ - 😝 [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 💣 [Everyone has that annoying friend who does that](http://9gag.com/gag/aoyeye0)
+ - 😝 [Childhood warning](http://9gag.com/gag/aoyey6w)
+ - 👉 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Is All In on MAGA. Donald Trump’s Supporters Are Loving It](https://www.wired.com/story/elon-musk-donald-trump-maga/)
- - [Make Perfect Chicken Thighs in the Air Fryer in Only 15 Minutes](https://www.cnet.com/how-to/make-perfect-chicken-thighs-in-the-air-fryer-in-only-15-minutes/#ftag=CAD590a51e)
- - [Prime Day Deals Under $10 Still Available: Dirt-Cheap Tech and Home Products](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-10/#ftag=CAD590a51e)
- - [An interview with Shield AI co-founder Brandon Tseng on the startup&#39;s mission of building the world&#39;s best AI pilot, the ethics of military AI use, and more &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241010/p6#a241010p6)
- - [Thursday Night Football: How to Watch, Stream 49ers vs. Seahawks Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-49ers-vs-seahawks-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ByteDance launches its first earbuds, the open-ear wearables called Ola Friend, designed as an audio assistant, shipping on October 17 in China for ~$170 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241010/p7#a241010p7)
+ - [Amazon Prime users to be offered Apple TV+ bundle](https://appleinsider.com/articles/24/10/10/amazon-prime-users-to-be-offered-apple-tv-bundle?utm_medium=rss)
+ - [Apple TV Plus is coming to Prime Video](https://www.theverge.com/2024/10/10/24266763/apple-tv-plus-amazon-prime-video-add-on-subscription)
+ - [The American Who Waged a Tech War on China](https://www.wired.com/story/jake-sullivan-china-tech-profile/)
+ - [Elon Musk Is All In on MAGA. Donald Trump’s Supporters Are Loving It](https://www.wired.com/story/elon-musk-donald-trump-maga/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

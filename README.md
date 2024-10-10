@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Tried the World’s Most Expensive Wireless Speakers.](https://www.wired.com/story/we-tried-the-worlds-most-expensive-wireless-speakers/)
- - [GM’s PowerBank home battery is now available](https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch)
- - [Threshold’s Wi-Fi sensing plugs offer caregiver monitoring without cameras](https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection)
- - [Agents are the future AI companies promise — and desperately need](https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots)
- - [&#39;Wayback Machine&#39; breach affects 31 million people](https://appleinsider.com/articles/24/10/10/wayback-machine-breach-affects-31-million-people?utm_medium=rss)<!-- TECH:END -->
+ - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)
+ - [The World&#39;s First Commercial Space Station Looks Like a Luxury Hotel Inside](https://www.wired.com/story/the-worlds-first-commercial-space-station-looks-like-a-luxury-hotel-inside/)
+ - [Tensions escalate as China arrests Foxconn staff at key Apple factory](https://appleinsider.com/articles/24/10/10/tensions-escalate-as-china-arrests-foxconn-staff-at-key-apple-factory?utm_medium=rss)
+ - [The best deals you can grab before October Prime Day ends](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [We Tried the World’s Most Expensive Wireless Speakers.](https://www.wired.com/story/we-tried-the-worlds-most-expensive-wireless-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

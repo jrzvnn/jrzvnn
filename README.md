@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 😝 [Movies](http://9gag.com/gag/azx95wb)
- - 💣 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
- - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 👉 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)<!-- MEMES:END -->
 
 ---
 

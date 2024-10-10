@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)
- - 😝 [Finally an October 7 Abdullah I can get onboard with](http://9gag.com/gag/a4PQP4v)
- - 💣 [The One](http://9gag.com/gag/avy8WRq)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
+ - 😝 [Eminem, his brother, his mom](http://9gag.com/gag/ae9rAXW)
+ - 😝 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
+ - 💣 [Who has experienced this before? This made me smile and cry at the same time.](http://9gag.com/gag/awyAMYy)
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
 
 ---
 

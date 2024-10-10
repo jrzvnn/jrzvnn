@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Automattic demanding an 8% cut of WP Engine&#39;s revenue is a wanton violation of general open source ideals, and the damage could extend far beyond WordPress &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/241010/p8#a241010p8)
  - [ByteDance launches its first earbuds, the open-ear wearables called Ola Friend, designed as an audio assistant, shipping on October 17 in China for ~$170 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241010/p7#a241010p7)
  - [Amazon Prime users to be offered Apple TV+ bundle](https://appleinsider.com/articles/24/10/10/amazon-prime-users-to-be-offered-apple-tv-bundle?utm_medium=rss)
- - [Apple TV Plus is coming to Prime Video](https://www.theverge.com/2024/10/10/24266763/apple-tv-plus-amazon-prime-video-add-on-subscription)<!-- TECH:END -->
+ - [Best Prime Day Monitor Deals Still Available: Save on Displays From LG, Acer and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

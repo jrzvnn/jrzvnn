@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 💣 [Banana for scale](http://9gag.com/gag/aBy0dw1)
- - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - 👉 [Movies](http://9gag.com/gag/azx95wb)<!-- MEMES:END -->
+ - 😝 [The One](http://9gag.com/gag/avy8WRq)
+ - 😝 [Okayy lets go](http://9gag.com/gag/aryGWjp)
+ - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
 
 ---
 

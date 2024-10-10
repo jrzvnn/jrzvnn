@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best After Prime Day Headphone Deals: Amazon&#39;s Remaining Discounts on AirPods, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-10/#ftag=CAD590a51e)
- - [Hurricane Milton Delays Astronauts&#39; Return to Earth Until Oct. 13](https://www.cnet.com/science/space/hurricane-milton-delays-astronauts-return-to-earth-until-oct-13/#ftag=CAD590a51e)
  - [Stripe reintegrates crypto payments in the US, letting users pay merchants in USDC or USDP on Ethereum, Solana, and Polygon, after disabling the feature in 2018 &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/241010/p26#a241010p26)
- - [How to Stream the New &#39;Dragon Ball Daima&#39; Anime From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-stream-the-new-dragon-ball-daima-anime-from-anywhere/#ftag=CAD590a51e)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Google tests showing full recipes right in search results](https://www.theverge.com/2024/10/10/24267119/google-search-recipe-blogs-quick-view)
+ - [The sequel to the beloved mystery game Golden Idol launches in November](https://www.theverge.com/2024/10/10/24267159/the-rise-of-the-golden-idol-release-date-trailer)
+ - [The US and UK announce a joint agreement aimed at keeping children safer online, including the setting up of an online safety working group to share expertise &lpar;BBC&rpar;](http://www.techmeme.com/241010/p25#a241010p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former MMA Fighter Shows Effects of Brain Degradation](http://9gag.com/gag/aNDYwdb)
- - 😝 [60 Minutes caught deleting interview footages and replacing them with heavily edited videos](http://9gag.com/gag/aKGxEg3)
- - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
- - 😝 [Movies](http://9gag.com/gag/azx95wb)
- - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [Who has experienced this before? This made me smile and cry at the same time.](http://9gag.com/gag/awyAMYy)
+ - 💣 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
+ - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
+ - 👉 [Movies](http://9gag.com/gag/azx95wb)<!-- MEMES:END -->
 
 ---
 

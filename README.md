@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel unveils its Arrow Lake desktop processors, with an NPU, better power efficiency at higher clock speeds, and 2X the graphics performance vs. its 14th Gen &lpar;Gavin Bonshor/The Register&rpar;](http://www.techmeme.com/241010/p17#a241010p17)
- - [This Lingering Prime Day Deal Is Bringing the 10th-Gen iPad to Just $299 at Amazon](https://www.cnet.com/deals/this-lingering-prime-day-deal-is-bringing-the-10th-gen-ipad-to-just-299-at-amazon/#ftag=CAD590a51e)
- - [Last Chance to Add a Security Cam to Your Home for Just $25](https://www.cnet.com/deals/last-chance-to-add-a-security-cam-to-your-home-for-just-25/#ftag=CAD590a51e)
- - [Best Prime Day Tablet Deals Still Available: Savings on Apple, Google and More](https://www.cnet.com/deals/best-prime-day-tablet-deals-2024-10-10/#ftag=CAD590a51e)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Available Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scope3, which makes tools to monitor the carbon footprint of digital ads, raised $25M led by GV to expand into making tools to track the climate impact of AI &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/241010/p18#a241010p18)
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)
+ - [Apple’s Disclaimer uses sex and scandal to shape your perception of reality](https://www.theverge.com/24262046/disclaimer-review-apple-tv-plus)
+ - [Intel unveils its Arrow Lake desktop processors, with an NPU, better power efficiency at higher clock speeds, and 2X the graphics performance vs. its 14th Gen &lpar;Gavin Bonshor/The Register&rpar;](http://www.techmeme.com/241010/p17#a241010p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

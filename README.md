@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
- - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
- - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
  - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - 👉 [Peyton and her special talent](http://9gag.com/gag/a34QEW7)<!-- MEMES:END -->
+ - 😝 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
+ - 💣 [Not today](http://9gag.com/gag/aNDYDE4)
+ - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
+ - 👉 [Movies](http://9gag.com/gag/azx95wb)<!-- MEMES:END -->
 
 ---
 

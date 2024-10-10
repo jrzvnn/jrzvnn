@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 💣 [Florida man folks!](http://9gag.com/gag/an79Ryo)
  - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
  - 👉 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)<!-- MEMES:END -->
 
 ---

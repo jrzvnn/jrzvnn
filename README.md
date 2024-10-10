@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mama; I&#39;m going fast!](http://9gag.com/gag/amoBAV9)
  - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
- - 💣 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
- - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
+ - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
+ - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 👉 [Original picture in comments](http://9gag.com/gag/aPAYAVP)<!-- MEMES:END -->
 
 ---
 

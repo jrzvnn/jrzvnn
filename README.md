@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it has disrupted 20+ operations and deceptive networks in 2024 so far that tried to use its models, including four that had election-related content &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p42#a241009p42)
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Internet Archive Breach Exposes 31 Million Users](https://www.wired.com/story/internet-archive-hacked/)
  - [Indian insurance firm Star Health says it suffered a &quot;malicious cyberattack&quot;, about two weeks after hackers put 31M customers&#39; alleged personal data on Telegram &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241009/p41#a241009p41)
- - [Grabango, which provided cashierless checkout tech and raised just over $73M, shuts down after failing to secure enough funding to continue its services &lpar;CNBC&rpar;](http://www.techmeme.com/241009/p40#a241009p40)
- - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
- - [29 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)
- - [The US GSA says Login.gov is opening up its face recognition capabilities, which compare a live selfie with the photo on a photo ID, to government agencies &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/241009/p39#a241009p39)<!-- TECH:END -->
+ - [Best Wine Clubs and Subscriptions to Gift in 2024](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

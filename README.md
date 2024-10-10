@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elon Musk Is All In on MAGA. Donald Trump’s Supporters Are Loving It](https://www.wired.com/story/elon-musk-donald-trump-maga/)
+ - [Make Perfect Chicken Thighs in the Air Fryer in Only 15 Minutes](https://www.cnet.com/how-to/make-perfect-chicken-thighs-in-the-air-fryer-in-only-15-minutes/#ftag=CAD590a51e)
+ - [Prime Day Deals Under $10 Still Available: Dirt-Cheap Tech and Home Products](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-10/#ftag=CAD590a51e)
  - [An interview with Shield AI co-founder Brandon Tseng on the startup&#39;s mission of building the world&#39;s best AI pilot, the ethics of military AI use, and more &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241010/p6#a241010p6)
- - [The Crackdown on Compounded GLP-1 Meds Has Begun](https://www.wired.com/story/crackdown-compounded-glp-1-lilly-mounjaro-zepbound/)
- - [An investigation details a $243M crypto heist in August 2024 in which a social engineering attack targeted a single customer of Gemini&#39;s crypto exchange &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241010/p5#a241010p5)
- - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Thursday Night Football: How to Watch, Stream 49ers vs. Seahawks Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-49ers-vs-seahawks-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

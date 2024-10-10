@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
- - 😝 [Well they produce a lot of useful idiots in the west.](http://9gag.com/gag/ajP8ODx)
- - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
- - 😝 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)
- - 👉 [Congress trading stock on inside information](http://9gag.com/gag/ae9rOXm)<!-- MEMES:END -->
+ - 😝 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
+ - 😝 [Is this me in my moms basement at 14 years old?](http://9gag.com/gag/apRm1Qp)
+ - 💣 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
+ - 😝 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
+ - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
 
 ---
 

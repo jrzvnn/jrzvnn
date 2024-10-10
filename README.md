@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 💣 [Everyone has that annoying friend who does that](http://9gag.com/gag/aoyeye0)
- - 😝 [Childhood warning](http://9gag.com/gag/aoyey6w)
- - 👉 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)<!-- MEMES:END -->
+ - 😝 [Old one but satisfying](http://9gag.com/gag/aqyK8QR)
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 💣 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 👉 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)<!-- MEMES:END -->
 
 ---
 

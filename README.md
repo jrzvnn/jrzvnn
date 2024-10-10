@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Rufus AI Shopping Assistant Now Lets Some Shoppers Check Price History](https://www.wired.com/story/amazon-rufus-price-check/)
- - [AMD launches the Instinct MI325X GPUs to compete with Nvidia&#39;s upcoming Blackwell chips, and plans to start production before the end of 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241010/p22#a241010p22)
- - [Best 75 October Prime Day Deals You Can Still Snag &lpar;2024&rpar;](https://www.wired.com/story/leftover-prime-day-deals-october-2024/)
- - [Violent threats against FEMA swirl on social media](https://www.theverge.com/2024/10/10/24266848/violent-threats-against-fema-swirl-on-social-media)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Up for Grabs](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s best Prime Day Apple deals have just been extended](https://appleinsider.com/articles/24/10/10/amazons-best-prime-day-apple-deals-have-just-been-extended?utm_medium=rss)
+ - [Four of Musk&#39;s Tesla direct reports, including its CIO and global vehicle automation and safety policy lead, recently resigned, ahead of Tesla&#39;s robotaxi event &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/241010/p23#a241010p23)
+ - [The FBI secretly created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
+ - [FCC chair rejects Trump’s call to revoke CBS license over Harris interview edit](https://www.theverge.com/2024/10/10/24267054/fcc-chair-rosenworcel-trump-harris-60-minutes-cbs-license)
+ - [Amazon’s Rufus AI Shopping Assistant Now Lets Some Shoppers Check Price History](https://www.wired.com/story/amazon-rufus-price-check/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

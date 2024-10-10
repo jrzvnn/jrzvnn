@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The One](http://9gag.com/gag/avy8WRq)
- - 😝 [Okayy lets go](http://9gag.com/gag/aryGWjp)
- - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
+ - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 💣 [Florida man folks!](http://9gag.com/gag/an79Ryo)
+ - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 👉 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)<!-- MEMES:END -->
 
 ---
 

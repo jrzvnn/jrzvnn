@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Rufus AI Shopping Assistant Now Lets Some Shoppers Check Price History](https://www.wired.com/story/amazon-rufus-price-check/)
  - [AMD launches the Instinct MI325X GPUs to compete with Nvidia&#39;s upcoming Blackwell chips, and plans to start production before the end of 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241010/p22#a241010p22)
  - [Best 75 October Prime Day Deals You Can Still Snag &lpar;2024&rpar;](https://www.wired.com/story/leftover-prime-day-deals-october-2024/)
  - [Violent threats against FEMA swirl on social media](https://www.theverge.com/2024/10/10/24266848/violent-threats-against-fema-swirl-on-social-media)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Up for Grabs](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
- - [Not Hearing Sound in One AirPod? There&#39;s an Easy Fix](https://www.cnet.com/tech/mobile/no-sound-in-one-airpod-troubleshooting-steps-to-get-it-working-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Up for Grabs](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

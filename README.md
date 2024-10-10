@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Shield AI co-founder Brandon Tseng on the startup&#39;s mission of building the world&#39;s best AI pilot, the ethics of military AI use, and more &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241010/p6#a241010p6)
+ - [The Crackdown on Compounded GLP-1 Meds Has Begun](https://www.wired.com/story/crackdown-compounded-glp-1-lilly-mounjaro-zepbound/)
  - [An investigation details a $243M crypto heist in August 2024 in which a social engineering attack targeted a single customer of Gemini&#39;s crypto exchange &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241010/p5#a241010p5)
  - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)
- - [A profile of FTC Chair Lina Khan, whose term ended in September 2024, as a bipartisan club of tech figures and VCs, including Reid Hoffman, call for her ouster &lpar;Bloomberg&rpar;](http://www.techmeme.com/241010/p4#a241010p4)
- - [Ecommerce Europe expects 2024 e-commerce turnover in Europe, including the UK, to rise 8% YoY to &amp;euro;958B, the first inflation-adjusted growth year since 2021 &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241010/p3#a241010p3)<!-- TECH:END -->
+ - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
  - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 💣 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 💣 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
+ - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
+ - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 💣 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 😝 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
  - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 👉 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)<!-- MEMES:END -->
+ - 💣 [Granny did not care](http://9gag.com/gag/apRmRD9)
+ - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
+ - 👉 [Florida man folks!](http://9gag.com/gag/an79Ryo)<!-- MEMES:END -->
 
 ---
 

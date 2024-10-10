@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 👉 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)<!-- MEMES:END -->
+ - 😝 [Banana for scale](http://9gag.com/gag/aBy0dw1)
+ - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - 💣 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
+ - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
 
 ---
 

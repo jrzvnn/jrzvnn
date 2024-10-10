@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
  - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 💣 [Come here you little..](http://9gag.com/gag/a5QMQEO)
- - 😝 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
- - 👉 [Granny did not care](http://9gag.com/gag/apRmRD9)<!-- MEMES:END -->
+ - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 👉 [Baby in the womb](http://9gag.com/gag/amoB134)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card Savings reaches lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
+ - [Xbox will sell games directly in the Android app next month](https://www.theverge.com/2024/10/10/24267339/microsoft-xbox-android-purchase-games-us-court-ruling)
  - [Uniswap Labs unveils Unichain, an Ethereum Layer 2 blockchain built on Optimism tech, to enable faster, cheaper transactions and better liquidity across chains &lpar;Decrypt&rpar;](http://www.techmeme.com/241010/p30#a241010p30)
  - [Darktrace co-founder Poppy Gustafsson, who left last month ahead of the &amp;pound;4.3B takeover of the cybersecurity group, is appointed as the UK&#39;s investment minister &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p29#a241010p29)
- - [Get a Free Google Nest Doorbell and Cam When You Purchase an ADT Security System Post-Prime Day](https://www.cnet.com/deals/get-a-free-google-nest-doorbell-and-cam-when-you-purchase-an-adt-security-system-post-prime-day/#ftag=CAD590a51e)
- - [Ticketmaster will start using Apple Wallet’s more useful tickets this month](https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a Free Google Nest Doorbell and Cam When You Purchase an ADT Security System Post-Prime Day](https://www.cnet.com/deals/get-a-free-google-nest-doorbell-and-cam-when-you-purchase-an-adt-security-system-post-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

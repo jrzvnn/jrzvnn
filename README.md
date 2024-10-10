@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI reveals it created Ethereum-based token NexFundAI with the help of &quot;cooperating witnesses&quot; to investigate price manipulation in crypto markets &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/241010/p24#a241010p24)
  - [Amazon&#39;s best Prime Day Apple deals have just been extended](https://appleinsider.com/articles/24/10/10/amazons-best-prime-day-apple-deals-have-just-been-extended?utm_medium=rss)
  - [Four of Musk&#39;s Tesla direct reports, including its CIO and global vehicle automation and safety policy lead, recently resigned, ahead of Tesla&#39;s robotaxi event &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/241010/p23#a241010p23)
- - [The FBI secretly created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
- - [FCC chair rejects Trump’s call to revoke CBS license over Harris interview edit](https://www.theverge.com/2024/10/10/24267054/fcc-chair-rosenworcel-trump-harris-60-minutes-cbs-license)
- - [Amazon’s Rufus AI Shopping Assistant Now Lets Some Shoppers Check Price History](https://www.wired.com/story/amazon-rufus-price-check/)<!-- TECH:END -->
+ - [Prime Members: Not Too Late To Get $1,650 Off This Portable Power Station After Prime Day](https://www.cnet.com/deals/prime-members-not-too-late-to-get-1650-off-this-portable-power-station-after-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals That Are Still Up for Grabs](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okayy lets go](http://9gag.com/gag/aryGWjp)
- - 😝 [Well\u2026 Here we go again](http://9gag.com/gag/aqyKRzZ)
- - 💣 [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
+ - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 💣 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 👉 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)<!-- MEMES:END -->
 
 ---
 

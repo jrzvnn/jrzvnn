@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 💣 [Not today](http://9gag.com/gag/aNDYDE4)
- - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
+ - 😝 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 💣 [Wife material right there.](http://9gag.com/gag/a9yKzzo)
+ - 😝 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
+ - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
 
 ---
 

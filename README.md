@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 💣 [Not today](http://9gag.com/gag/aNDYDE4)
  - 😝 [Florida man folks!](http://9gag.com/gag/an79Ryo)
- - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
- - 💣 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 👉 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)<!-- MEMES:END -->
+ - 👉 [Come here you little..](http://9gag.com/gag/a5QMQEO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banana for scale](http://9gag.com/gag/aBy0dw1)
- - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 💣 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
- - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
+ - 😝 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
+ - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
+ - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---
 

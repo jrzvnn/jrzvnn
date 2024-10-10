@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 💣 [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)
  - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 💣 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
- - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
  - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
 
 ---

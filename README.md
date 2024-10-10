@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lexus’ new LX has a waterproofed hybrid engine](https://www.theverge.com/2024/10/10/24266847/lexus-lx-700h-rugged-hybrid-suv-2025)
+ - [Here’s how to apply for Nintendo’s mystery Switch Online playtest](https://www.theverge.com/2024/10/10/24266514/nintendo-switch-online-playtest-program-how-to-apply)
  - [Suki, which makes AI voice assistants for healthcare providers, raised a $70M Series D, source says at a ~$500M valuation, bringing its total funding to $165M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241010/p15#a241010p15)
  - [The impossible dream of good workplace software](https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder)
- - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)
- - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)
- - [The World&#39;s First Commercial Space Station Looks Like a Luxury Hotel Inside](https://www.wired.com/story/the-worlds-first-commercial-space-station-looks-like-a-luxury-hotel-inside/)<!-- TECH:END -->
+ - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

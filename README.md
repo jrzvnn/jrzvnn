@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [The best deals you can grab before October Prime Day ends](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
  - [Paris-based Qantev, which offers an AI-based claim management software for health and life insurance companies, raised a &amp;euro;30M Series B &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/241010/p1#a241010p1)
  - [Amazon says Apple TV+ will be available as a $9.99/month subscription add-on in Prime Video Channels later this month in the US, joining 100+ streaming services &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p46#a241009p46)
  - [The best Prime Day deals you can still grab for $25 or less](https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024)

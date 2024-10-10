@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Porsche to recall over 27,000 EVs in US over battery short circuit risk](https://www.theverge.com/2024/10/10/24266923/porsche-battery-short-circuit-fire-recall-nhtsa)
  - [Google&#39;s EMEA president Matt Brittin plans to step down after a decade in the post and will continue running operations until a successor is chosen &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241010/p19#a241010p19)
  - [Scope3, which makes tools to monitor the carbon footprint of digital ads, raised $25M led by GV to expand into making tools to track the climate impact of AI &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/241010/p18#a241010p18)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)
- - [Apple’s Disclaimer uses sex and scandal to shape your perception of reality](https://www.theverge.com/24262046/disclaimer-review-apple-tv-plus)<!-- TECH:END -->
+ - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

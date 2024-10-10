@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 💣 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 😝 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 😝 [Florida man folks!](http://9gag.com/gag/an79Ryo)
+ - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
+ - 👉 [Granny did not care](http://9gag.com/gag/apRmRD9)<!-- MEMES:END -->
 
 ---
 

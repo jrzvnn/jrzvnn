@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Darktrace co-founder Poppy Gustafsson, who left last month ahead of the &amp;pound;4.3B takeover of the cybersecurity group, is appointed as the UK&#39;s investment minister &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p29#a241010p29)
+ - [Get a Free Google Nest Doorbell and Cam When You Purchase an ADT Security System Post-Prime Day](https://www.cnet.com/deals/get-a-free-google-nest-doorbell-and-cam-when-you-purchase-an-adt-security-system-post-prime-day/#ftag=CAD590a51e)
  - [Ticketmaster will start using Apple Wallet’s more useful tickets this month](https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets)
- - [Will Elon Musk Tip the Election for Trump?](https://www.wired.com/story/elon-musk-donald-trump-election/)
- - [Apple to donate to Hurricane Milton relief efforts, says CEO Tim Cook](https://appleinsider.com/articles/24/10/10/apple-to-donate-to-hurricane-milton-relief-efforts-says-ceo-tim-cook?utm_medium=rss)
- - [PayPal formally launches PayPal Ads, which looks to help US marketers tap into data about transactions across PayPal&#39;s platforms, including Venmo and Honey &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/241010/p28#a241010p28)<!-- TECH:END -->
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
+ - [Best Amazon Device Deals Still Available: Score Post-Prime Day Discounts on Fire TV, Echo and More](https://www.cnet.com/deals/best-prime-day-amazon-device-deals-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

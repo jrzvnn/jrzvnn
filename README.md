@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
- - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
- - 💣 [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)
- - 😝 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
+ - 😝 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
+ - 😝 [Well they produce a lot of useful idiots in the west.](http://9gag.com/gag/ajP8ODx)
+ - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)
+ - 👉 [Congress trading stock on inside information](http://9gag.com/gag/ae9rOXm)<!-- MEMES:END -->
 
 ---
 

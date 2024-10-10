@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
- - 😝 [I don&#39;t understand the rules, does this mean he won?](http://9gag.com/gag/amoBg4V)
- - 💣 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
- - 😝 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
- - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
+ - 😝 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)
+ - 😝 [The One](http://9gag.com/gag/avy8WRq)
+ - 💣 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 😝 [Finally an October 7 Abdullah I can get onboard with](http://9gag.com/gag/a4PQP4v)
+ - 👉 [Wife material right there.](http://9gag.com/gag/a9yKzzo)<!-- MEMES:END -->
 
 ---
 

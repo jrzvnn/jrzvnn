@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stripe reintegrates crypto payments in the US, letting users pay merchants in USDC or USDP on Ethereum, Solana, and Polygon, after disabling the feature in 2018 &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/241010/p26#a241010p26)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Google tests showing full recipes right in search results](https://www.theverge.com/2024/10/10/24267119/google-search-recipe-blogs-quick-view)
  - [The sequel to the beloved mystery game Golden Idol launches in November](https://www.theverge.com/2024/10/10/24267159/the-rise-of-the-golden-idol-release-date-trailer)
- - [The US and UK announce a joint agreement aimed at keeping children safer online, including the setting up of an online safety working group to share expertise &lpar;BBC&rpar;](http://www.techmeme.com/241010/p25#a241010p25)
- - [This Miraculous Post-Prime Day Deal Knocks $154 Off the AirPods Max](https://www.cnet.com/deals/airpods-max-post-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US and UK announce a joint agreement aimed at keeping children safer online, including the setting up of an online safety working group to share expertise &lpar;BBC&rpar;](http://www.techmeme.com/241010/p25#a241010p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

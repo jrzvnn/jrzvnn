@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon knocks up to 50% off latest Beats headphones, Pill Bluetooth speaker](https://appleinsider.com/articles/24/10/11/amazon-knocks-up-to-50-off-latest-beats-headphones-pill-bluetooth-speaker?utm_medium=rss)
  - [Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans](https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/)
  - [The US NLRB issues a complaint accusing Apple of interfering with workers&#39; rights to organize by restricting their use of social media and Slack &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241011/p21#a241011p21)
  - [Here’s where you can still preorder the PS5 Pro ahead of its November launch](https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date)
- - [Amazon Still Has This PlayStation 5 Slim Console for $50 Off](https://www.cnet.com/tech/gaming/amazon-still-has-this-playstation-5-slim-console-for-50-off/#ftag=CAD590a51e)
- - [Plan for Lifelong Eye Health With These 4 Expert-Approved Tips](https://www.cnet.com/health/personal-care/plan-for-lifelong-eye-health-with-these-4-expert-approved-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Imgur is going to be less strict about memes with adult humor](https://www.theverge.com/2024/10/11/24267304/imgur-less-strict-memes-adult-humor-content-moderation-mature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

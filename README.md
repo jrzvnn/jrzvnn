@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)
  - [Steam now tells its users that they&#39;re buying a license, not a game, ahead of a California law that forces companies to do so when customers &quot;buy&quot; digital media &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/241011/p16#a241011p16)
  - [The Tesla Cybercab is a cool-looking prototype that needed to be much more than that](https://www.theverge.com/2024/10/11/24267727/tesla-cybercab-unanswered-questions-fsd-safety-liability)
- - [The Beats Pill speaker is even cheaper than it was during Prime Day](https://www.theverge.com/2024/10/11/24267717/beats-pill-speaker-amazon-fire-tv-stick-4k-max-bundle-deal-sale)<!-- TECH:END -->
+ - [There&#39;s Still Time to Save on Fitness Trackers Thanks to These Post-Prime Day Holdouts](https://www.cnet.com/deals/best-prime-day-fitness-tracker-deals-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

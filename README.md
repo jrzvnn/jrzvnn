@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s “We, Robot” robotaxi event: biggest news and announcements](https://www.theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk)
+ - [Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds](https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss)
+ - [A look at possible outcomes from the Google Search antitrust trial, including the very likely scenario of Google&#39;s default search engine deals being struck down &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)
+ - [Tesla’s “We, Robot” robotaxi event: the biggest news and announcements](https://www.theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk)
  - [LinkedIn says ~10M people have created pages on its Services Marketplace for freelancers, up 48% in the last year; it launched the marketplace in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241010/p34#a241010p34)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
- - [Glooko, whose diabetes management app is used by more than 4.4M patients and 10K clinics globally, raised a $100M Series F led by Georgian &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/241010/p33#a241010p33)
- - [Best Internet Providers in Evansville, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-evansville-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

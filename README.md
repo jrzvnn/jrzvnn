@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Cybercab announced: Elon Musk’s robotaxi is finally here](https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date)
  - [Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds](https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss)
- - [A look at possible outcomes from the Google Search antitrust trial, including the very likely scenario of Google&#39;s default search engine deals being struck down &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)
- - [Tesla’s “We, Robot” robotaxi event: the biggest news and announcements](https://www.theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk)
- - [LinkedIn says ~10M people have created pages on its Services Marketplace for freelancers, up 48% in the last year; it launched the marketplace in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241010/p34#a241010p34)
+ - [A look at the possible outcomes of the Google Search antitrust trial, including the very likely scenario that Google&#39;s default search engine deals won&#39;t survive &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)
+ - [Lingering Prime Day Deals: Save Up to $50 on Eve Smart Home Products Right Now](https://www.cnet.com/deals/save-up-to-50-on-eve-smart-home-products-with-these-lingering-prime-day-discounts/#ftag=CAD590a51e)
  - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

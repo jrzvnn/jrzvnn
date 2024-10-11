@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: 47% of traditional hedge funds have crypto investments, up from 29% in 2023; among who already invested in crypto, 33% plan for more by the end of 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241011/p8#a241011p8)
- - [Maryland Apple Store staff file for union election](https://appleinsider.com/articles/24/10/11/maryland-apple-store-staff-file-for-union-election?utm_medium=rss)
- - [Last Chance Prime Day TV Deals:  Big Discounts on Samsung, LG and More Still Available](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-11/#ftag=CAD590a51e)
- - [How to Disable App Review Pop-Up Notifications on Your iPhone or iPad](https://www.cnet.com/tech/mobile/how-disable-app-review-pop-up-notifications-on-your-iphone-or-ipad/#ftag=CAD590a51e)
- - [Easily Customize Your iPhone&#39;s Home Screen With iOS 18](https://www.cnet.com/tech/services-and-software/easily-customize-your-iphones-home-screen-with-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Card Savings hits lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
+ - [AirPods fourth-generation review: AirPods Pro power for everybody](https://appleinsider.com/articles/24/10/11/airpods-fourth-generation-review-airpods-pro-power-for-everybody?utm_medium=rss)
+ - [Apple&#39;s largest research lab outside the US opens in China](https://appleinsider.com/articles/24/10/11/apples-largest-research-lab-outside-the-us-opens-in-china?utm_medium=rss)
+ - [The Dystopia of Watching Hurricane Milton on TikTok](https://www.wired.com/story/tiktok-during-hurricane-milton/)
+ - [Report: 47% of traditional hedge funds have crypto investments, up from 29% in 2023; among who already invested in crypto, 33% plan for more by the end of 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241011/p8#a241011p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

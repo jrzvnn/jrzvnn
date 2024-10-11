@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia requests Apple block Temu from the App Store](https://appleinsider.com/articles/24/10/11/indonesia-requests-apple-block-temu-from-the-app-store?utm_medium=rss)
- - [Lenovo Yoga Slim 7i Aura Edition Review: An Intel Copilot+ PC](https://www.wired.com/review/lenovo-yoga-slim-7i-aura-edition-copilot-pc/)
- - [Lynk &amp; Co’s first EV is meant to be shared to lower its price](https://www.theverge.com/2024/10/11/24267648/lynk-and-co-02-ev-sharing-price-specs)
- - [How SpaceX became the MyPillow of government contractors](https://www.theverge.com/2024/10/11/24267262/elon-musk-donald-trump-politics-republican)
- - [CoreWeave says it has a new $650M credit line and has raised $12.7B from equity and debt investors in the past 18 months &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241011/p10#a241011p10)<!-- TECH:END -->
+ - [Filing: TikTok&#39;s European revenue grew to $4.57B in 2023, up from $2.6B in 2022; losses grew to $1.3B, up from $512M YoY; ByteDance set aside $1B for EU fines &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/241011/p11#a241011p11)
+ - [Social Media Tells You Who You Are. What if It&#39;s Totally Wrong?](https://www.wired.com/story/plaintext-social-media-tells-you-who-you-are-what-if-its-totally-wrong/)
+ - [Russian MacBook Pro Leaks, Apple Ring, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/11/russian-macbook-pro-leaks-apple-ring-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The Google breakup is looming](https://www.theverge.com/2024/10/11/24267716/google-breakup-antitrust-tesla-cybercab-vergecast)
+ - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

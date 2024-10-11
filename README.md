@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 😝 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
- - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
- - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
+ - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 💣 [Driver avoids pedestrian falling on road only to crash in other car](http://9gag.com/gag/aPAYPWR)
+ - 😝 [With my luck this would happen right after she said yes](http://9gag.com/gag/aoyeyR2)
+ - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
 
 ---
 

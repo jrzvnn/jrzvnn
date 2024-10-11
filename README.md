@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Experts question the feasibility of Tesla&#39;s robotaxi plan, citing Musk&#39;s history of missing FSD targets, achieving scale without rideshare partnerships, more &lpar;Business Insider&rpar;](http://www.techmeme.com/241011/p15#a241011p15)
+ - [Sony Linkbuds Open Review: Better Battery, Softer Sound](https://www.wired.com/review/sony-linkbuds-open/)
  - [Apple opens an applied research laboratory in Shenzhen; Chinese state media says it will become the company&#39;s &quot;most extensive&quot; lab outside the US &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/241011/p14#a241011p14)
  - [How to lock any app with Face ID on an iPhone using iOS 18](https://www.theverge.com/24267102/iphone-ios-18-lock-app-how-to)
- - [Stellantis’ CEO promises to leave in 2026 after mostly making a mess of things](https://www.theverge.com/2024/10/11/24267706/stellantis-ceo-carlos-tavares-retiring-executive-changes)
- - [What&#39;s the Cheapest Way to Get Priority Pass Airport Lounge Access? We Do the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-cheapest-way-to-get-priority-pass-airport-lounge-access-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stellantis’ CEO promises to leave in 2026 after mostly making a mess of things](https://www.theverge.com/2024/10/11/24267706/stellantis-ceo-carlos-tavares-retiring-executive-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

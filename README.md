@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 😝 [Insane road rage](http://9gag.com/gag/aAy349g)
+ - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 💣 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
  - 😝 [Is this me in my moms basement at 14 years old?](http://9gag.com/gag/apRm1Qp)
- - 👉 [Original picture in comments](http://9gag.com/gag/aPAYAVP)<!-- MEMES:END -->
+ - 👉 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)<!-- MEMES:END -->
 
 ---
 

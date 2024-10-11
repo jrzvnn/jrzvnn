@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
+ - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M, the majority of which was pooled from other investors through a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)
  - [The Internet Archive is still down but will return in ‘days, not weeks’](https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked)
  - [Sources: Microsoft plans to test the streaming of games that users own and are not part of the Xbox Game Pass library, starting with Xbox Insiders in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241011/p22#a241011p22)
- - [Steam now says the ‘game’ you’re buying is really just a license](https://www.theverge.com/2024/10/11/24267864/steam-buy-purchase-license-digital-storefront)
- - [Apple cancels California DMV permit for self-driving car testing](https://appleinsider.com/articles/24/10/11/apple-cancels-california-dmv-permit-for-self-driving-car-testing?utm_medium=rss)
- - [Xbox Cloud Gaming will let you stream your own games in November](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)<!-- TECH:END -->
+ - [Prime Day Roku Deals Remain, Grab Final Price Cuts on TVs, Streaming Sticks and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

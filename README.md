@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
- - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
- - 💣 [Accuracy. Obliteration.](http://9gag.com/gag/aGyZ8O0)
- - 😝 [Double dates](http://9gag.com/gag/a34QAQ7)
- - 👉 [Hood karate](http://9gag.com/gag/ayNBqrX)<!-- MEMES:END -->
+ - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 💣 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 👉 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)<!-- MEMES:END -->
 
 ---
 

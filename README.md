@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Game Subscription Services That We&#39;ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-game-subscriptions/)
  - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)
  - [Steam now tells its users that they&#39;re buying a license, not a game, ahead of a California law that forces companies to do so when customers &quot;buy&quot; digital media &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/241011/p16#a241011p16)
  - [The Tesla Cybercab is a cool-looking prototype that needed to be much more than that](https://www.theverge.com/2024/10/11/24267727/tesla-cybercab-unanswered-questions-fsd-safety-liability)
- - [The Beats Pill speaker is even cheaper than it was during Prime Day](https://www.theverge.com/2024/10/11/24267717/beats-pill-speaker-amazon-fire-tv-stick-4k-max-bundle-deal-sale)
- - [New &#39;Made on iPad&#39; ad showcases how artists make NHL goalie masks](https://appleinsider.com/articles/24/10/11/new-made-on-ipad-ad-showcases-how-artists-make-nhl-goalie-masks?utm_medium=rss)<!-- TECH:END -->
+ - [The Beats Pill speaker is even cheaper than it was during Prime Day](https://www.theverge.com/2024/10/11/24267717/beats-pill-speaker-amazon-fire-tv-stick-4k-max-bundle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

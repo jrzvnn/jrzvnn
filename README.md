@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BOO](http://9gag.com/gag/aPAYo5Q)
- - 😝 [The level of delusion](http://9gag.com/gag/axyzvPp)
- - 💣 [Just this](http://9gag.com/gag/axyzvbn)
- - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 👉 [Nice day innit?](http://9gag.com/gag/avy8EEq)<!-- MEMES:END -->
+ - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 💣 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
 
 ---
 

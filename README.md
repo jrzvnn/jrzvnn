@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
- - 😝 [Congress trading stock on inside information](http://9gag.com/gag/ae9rOXm)
- - 💣 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 😝 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)
- - 👉 [The feel](http://9gag.com/gag/axyz6YW)<!-- MEMES:END -->
+ - 😝 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)
+ - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 👉 [Too afraid to ask](http://9gag.com/gag/amoBWMy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
- - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
- - 💣 [Feeling useless](http://9gag.com/gag/ayNBWVy)
- - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
+ - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 💣 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 😝 [Title](http://9gag.com/gag/aAy34o2)
+ - 👉 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)<!-- MEMES:END -->
 
 ---
 

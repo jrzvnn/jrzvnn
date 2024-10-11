@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)
  - [X drops Unilever from its ‘advertiser boycott’ lawsuit](https://www.theverge.com/2024/10/11/24267784/x-unilever-lawsuit-advertiser-boycott-garm-elon-musk)
  - [Apple&#39;s secretive 3D cinema camera resurfaces for &#39;Submerged&#39;](https://appleinsider.com/articles/24/10/11/apples-secretive-3d-cinema-camera-resurfaces-for-submerged?utm_medium=rss)
  - [Apple’s USB SuperDrive might be gone for good](https://www.theverge.com/2024/10/11/24267842/apple-usb-superdrive-discontinued)
- - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)
- - [Sources: in negotiations with California lawmakers, Google insisted on taxpayer funding as a precondition to spending $110M to support the journalism industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p18#a241011p18)<!-- TECH:END -->
+ - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

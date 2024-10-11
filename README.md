@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boeing is cutting 10 percent of its workforce](https://www.theverge.com/2024/10/11/24268218/boeing-layoffs-10-percent-workforce)
+ - [Investigation: Uber and Lyft lockouts for 800+ NYC drivers occurred almost every hour of every day, saving the companies hundreds of millions of dollars in pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p24#a241011p24)
  - [Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://www.theverge.com/2024/10/11/24268166/google-pixel-watch-1-2-wear-os-5-bug-brick-pulled)
  - [46 Best Prime Day Deals Under $50 You Can Still Buy](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-11/#ftag=CAD590a51e)
- - [Grab a Roku Express 4K Plus for Just $27 with This Extended Prime Day Deal](https://www.cnet.com/deals/grab-a-roku-express-4k-plus-for-just-27-with-this-extended-prime-day-deal/#ftag=CAD590a51e)
- - [Most Shoppers Will Lean on Black Friday and Cyber Monday for Holiday Savings, CNET Survey Finds](https://www.cnet.com/personal-finance/most-shoppers-will-lean-on-black-friday-and-cyber-monday-for-holiday-savings-cnet-survey-finds/#ftag=CAD590a51e)
- - [Save $8 on a Philips Norelco OneBlade 360 With This Lingering Prime Day Deal](https://www.cnet.com/deals/save-8-on-a-philips-norelco-oneblade-360-with-this-lingering-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab a Roku Express 4K Plus for Just $27 with This Extended Prime Day Deal](https://www.cnet.com/deals/grab-a-roku-express-4k-plus-for-just-27-with-this-extended-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

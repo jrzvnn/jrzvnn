@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Cloud Gaming will let you stream your own games next month](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)
  - [You must watch this amazing presentation about a bespoke McDonald’s mural](https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024)
  - [Amazon knocks up to 50% off latest Beats headphones, Pill Bluetooth speaker](https://appleinsider.com/articles/24/10/11/amazon-knocks-up-to-50-off-latest-beats-headphones-pill-bluetooth-speaker?utm_medium=rss)
  - [Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans](https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/)
- - [The US NLRB issues a complaint accusing Apple of interfering with workers&#39; rights to organize by restricting their use of social media and Slack &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241011/p21#a241011p21)
- - [Here’s where you can still preorder the PS5 Pro ahead of its November launch](https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [The US NLRB issues a complaint accusing Apple of interfering with workers&#39; rights to organize by restricting their use of social media and Slack &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241011/p21#a241011p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

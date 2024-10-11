@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Cloud Gaming will let you stream your own games next month](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)
+ - [Xbox Cloud Gaming will let you stream your own games in November](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)
  - [You must watch this amazing presentation about a bespoke McDonald’s mural](https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024)
  - [Amazon knocks up to 50% off latest Beats headphones, Pill Bluetooth speaker](https://appleinsider.com/articles/24/10/11/amazon-knocks-up-to-50-off-latest-beats-headphones-pill-bluetooth-speaker?utm_medium=rss)
  - [Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans](https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/)

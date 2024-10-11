@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
- - 😝 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
- - 💣 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
  - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
+ - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
+ - 💣 [Feeling useless](http://9gag.com/gag/ayNBWVy)
+ - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
  - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
 
 ---

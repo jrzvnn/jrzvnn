@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 😝 [PTCM for accuracy](http://9gag.com/gag/a2vZwr9)
- - 💣 [Hand restoration of generator armatures](http://9gag.com/gag/apRm3LB)
- - 😝 [Insane road rage](http://9gag.com/gag/aAy349g)
- - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
+ - 😝 [How to opt out?](http://9gag.com/gag/ae9r48Q)
+ - 😝 [Replay it](http://9gag.com/gag/a34QGne)
+ - 💣 [Coral that closes when it feels unsafe](http://9gag.com/gag/aGyZLXn)
+ - 😝 [We are f**ked](http://9gag.com/gag/aGyZnz7)
+ - 👉 [The One](http://9gag.com/gag/avy8WRq)<!-- MEMES:END -->
 
 ---
 

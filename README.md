@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - 😝 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
- - 💣 [Driver avoids pedestrian falling on road only to crash in other car](http://9gag.com/gag/aPAYPWR)
- - 😝 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
- - 👉 [Granny did not care](http://9gag.com/gag/apRmRD9)<!-- MEMES:END -->
+ - 😝 [That&#39;s pretty cool](http://9gag.com/gag/aD21ZY9)
+ - 😝 [Can&#39;t say I&#39;ve tried this one](http://9gag.com/gag/awyAmgQ)
+ - 💣 [Still better than the Rings of Power](http://9gag.com/gag/a9yK5Ko)
+ - 😝 [Sneak 100](http://9gag.com/gag/aD21Z8d)
+ - 👉 [The feel](http://9gag.com/gag/axyz6YW)<!-- MEMES:END -->
 
 ---
 

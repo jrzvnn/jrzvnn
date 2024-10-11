@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every base is base 10](http://9gag.com/gag/aYQYPPN)
- - 😝 [Origin meme](http://9gag.com/gag/a6ZO5ne)
- - 💣 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
- - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
- - 👉 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)<!-- MEMES:END -->
+ - 😝 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
+ - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 💣 [White trash names](http://9gag.com/gag/apRmPZn)
+ - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
+ - 👉 [That delivery is everything](http://9gag.com/gag/aoyexdX)<!-- MEMES:END -->
 
 ---
 

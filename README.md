@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
  - 💣 [Nice day innit?](http://9gag.com/gag/avy8EEq)
  - 😝 [Monster operation...](http://9gag.com/gag/ae9rVym)
- - 👉 [Banger.](http://9gag.com/gag/ae9rx4Q)<!-- MEMES:END -->
+ - 👉 [My old chap of 19.5 years. He will be euthanized in a few hours. Have never felt such sadness. He is blind and deaf and just recently had a stroke. It&#39;s in his best interest. I love you Paul &lt;3](http://9gag.com/gag/a34Q8L7)<!-- MEMES:END -->
 
 ---
 

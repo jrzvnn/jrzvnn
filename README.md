@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 😝 [BOO](http://9gag.com/gag/aPAYo5Q)
- - 💣 [Feeling useless](http://9gag.com/gag/ayNBWVy)
+ - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 💣 [I love happy endings](http://9gag.com/gag/ae9rVdm)
  - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [Insane road rage](http://9gag.com/gag/aAy349g)<!-- MEMES:END -->
+ - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
 
 ---
 

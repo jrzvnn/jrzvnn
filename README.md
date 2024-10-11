@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)
  - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)
- - [Richard Mille&#39;s New McLaren Watch Has a ‘Jump Start’ Button](https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/)
- - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
- - [This $80 Apple Pencil 2 Post-Prime Day Bargain Is &lpar;Almost&rpar; as Good as It Gets](https://www.cnet.com/deals/this-80-apple-pencil-2-post-prime-day-bargain-is-almost-as-good-as-it-gets/#ftag=CAD590a51e)
- - [A review of Submerged, Apple&#39;s first scripted short film shot in Immersive Video for the Vision Pro: technologically impressive, but an isolating experience &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241011/p5#a241011p5)<!-- TECH:END -->
+ - [Tesla Cybercab: A Robotaxi of Your Own for Under $30k video](https://www.cnet.com/roadshow/videos/tesla-cybercab-a-robotaxi-of-your-own-for-under-30k/#ftag=CAD590a51e)
+ - [Elon Musk Shares Vision for Optimus Robots at &#39;We, Robot&#39; Event video](https://www.cnet.com/videos/elon-musk-shares-vision-for-optimus-robots-at-we-robot-event/#ftag=CAD590a51e)
+ - [Richard Mille&#39;s New McLaren Watch Has a ‘Jump Start’ Button](https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

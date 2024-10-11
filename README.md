@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance confirms laying off hundreds of TikTok content moderators in Malaysia and plans to invest $2B in 2024 on trust and safety; sources: 700 were laid off &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/241011/p7#a241011p7)
  - [45 of the Best Prime Day Deals Under $50 Still Available Today](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-11/#ftag=CAD590a51e)
  - [Best Savings Rates Today, Oct. 11, 2024: Jump on High APYs While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-oct-11-2024/#ftag=CAD590a51e)
  - [Amazon Prime Day Deals Under $10 Still Available: Last Chance to Grab These 46 Items on a Discount](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-11/#ftag=CAD590a51e)
- - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)
- - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)<!-- TECH:END -->
+ - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

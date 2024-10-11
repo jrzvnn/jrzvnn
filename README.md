@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Things I Didn&#39;t Know About Home Batteries During Our Hands-On Lab Testing](https://www.cnet.com/home/energy-and-utilities/5-things-i-didnt-know-about-home-batteries-during-our-hands-on-lab-testing/#ftag=CAD590a51e)
+ - [Here&#39;s How You Can Get Free COVID-19 Tests from USPS Right Now](https://www.cnet.com/health/heres-how-you-can-get-free-covid-19-tests-from-usps-right-now/#ftag=CAD590a51e)
+ - [Act Fast and You Can Still Get These Bose Ultra Earbuds for Their Lowest Price Ever](https://www.cnet.com/deals/act-fast-and-you-can-still-get-these-bose-ultra-earbuds-for-their-lowest-price-ever/#ftag=CAD590a51e)
  - [Leak: AMD’s Ryzen 9000X3D chips aren’t looking like a leap forward](https://www.theverge.com/2024/10/11/24268219/amd-ryzen-9000-x3d-leak)
- - [Boeing is cutting 10 percent of its workforce](https://www.theverge.com/2024/10/11/24268218/boeing-layoffs-10-percent-workforce)
- - [Investigation: Uber and Lyft lockouts for 800+ NYC drivers occurred almost every hour of every day, saving the companies hundreds of millions of dollars in pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p24#a241011p24)
- - [Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://www.theverge.com/2024/10/11/24268166/google-pixel-watch-1-2-wear-os-5-bug-brick-pulled)
- - [46 Best Prime Day Deals Under $50 You Can Still Buy](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day Deals Under $25: Final Chance to Save on These 48 Deals](https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple’s next Mac and iPad announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)
- - [Some developers say OpenAI&#39;s GPT Store is a mixed bag, with revenue sharing reserved for a tiny number of GPT creators in an invite-only pilot program in the US &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/241011/p9#a241011p9)
- - [Asus TUF Gaming A14 Review: A Great Budget Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2024/)
- - [Why Hurricane Milton Turned the Sky Purple](https://www.wired.com/story/why-hurricane-milton-turned-the-sky-purple/)
- - [Apple Card Savings hits lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Indonesia requests Apple block Temu from the App Store](https://appleinsider.com/articles/24/10/11/indonesia-requests-apple-block-temu-from-the-app-store?utm_medium=rss)
+ - [Lenovo Yoga Slim 7i Aura Edition Review: An Intel Copilot+ PC](https://www.wired.com/review/lenovo-yoga-slim-7i-aura-edition-copilot-pc/)
+ - [Lynk &amp; Co’s first EV is meant to be shared to lower its price](https://www.theverge.com/2024/10/11/24267648/lynk-and-co-02-ev-sharing-price-specs)
+ - [How SpaceX became the MyPillow of government contractors](https://www.theverge.com/2024/10/11/24267262/elon-musk-donald-trump-politics-republican)
+ - [CoreWeave says it has a new $650M credit line and has raised $12.7B from equity and debt investors in the past 18 months &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241011/p10#a241011p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

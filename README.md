@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to opt out?](http://9gag.com/gag/ae9r48Q)
- - 😝 [Replay it](http://9gag.com/gag/a34QGne)
- - 💣 [Coral that closes when it feels unsafe](http://9gag.com/gag/aGyZLXn)
- - 😝 [We are f**ked](http://9gag.com/gag/aGyZnz7)
- - 👉 [The One](http://9gag.com/gag/avy8WRq)<!-- MEMES:END -->
+ - 😝 [The beast that beat a European baby has been captured. What punishment would he deserve now?](http://9gag.com/gag/an79OqE)
+ - 😝 [The level of delusion](http://9gag.com/gag/axyzvPp)
+ - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Just this](http://9gag.com/gag/axyzvbn)
+ - 👉 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)<!-- MEMES:END -->
 
 ---
 

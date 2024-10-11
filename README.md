@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at the promise of AI agents as a way for companies to monetize models; PitchBook: AI agent startups raised $8.2B over the last 12 months, up 81.4% YoY &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241011/p4#a241011p4)
  - [Relyance AI, which helps companies comply with data privacy regulations, raised a $32.1M Series B led by Thomvest, bringing its total funding to ~$59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241011/p3#a241011p3)
- - [Sources: Pittsburgh-based Abridge, which uses AI to transcribe doctors&#39; conversations with their patients, raised $250M at a $2.5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/241011/p2#a241011p2)
- - [Elon Musk claims &quot;unsupervised&quot; FSD will come to TX and CA in 2025 for select models and shows a Tesla Robovan, meant to be autonomous and carry up to 20 people &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/241011/p1#a241011p1)
- - [See New Optimus Video at Tesla &#39;We, Robot&#39; Event video](https://www.cnet.com/videos/see-new-optimus-video-at-tesla-we-robot-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Sign Up for Affordable Care Act Health Insurance](https://www.cnet.com/news/how-to-sign-up-for-affordable-care-act-health-insurance/#ftag=CAD590a51e)
+ - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
+ - [Sources: Pittsburgh-based Abridge, which uses AI to transcribe doctors&#39; conversations with their patients, raised $250M at a $2.5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/241011/p2#a241011p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

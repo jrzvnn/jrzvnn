@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thrustmaster brings direct drive steering wheels to console racing sims](https://www.theverge.com/2024/10/11/24267818/thrustmaster-racing-sim-wheel-t598-sony-playstation-direct-axial-drive)
  - [Marques Brownlee says ‘we failed on the price’ with Panels](https://www.theverge.com/2024/10/11/24267900/marques-brownlee-mkbhd-price-panels-wallpaper-app)
  - [X drops Unilever from its &quot;advertiser boycott&quot; lawsuit after making a deal with Unilever &quot;to continue our partnership&quot; as part of an &quot;ecosystem-wide solution&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241011/p20#a241011p20)
- - [Aurora Watchers Share Stunning Northern Lights Photos](https://www.cnet.com/science/space/aurora-watchers-share-stunning-northern-lights-photos/#ftag=CAD590a51e)
- - [A Kitchen Essential Turned Wellness Hack: How to Use Apple Cider Vinegar to the Max](https://www.cnet.com/health/nutrition/how-to-use-apple-cider-vinegar-to-the-max/#ftag=CAD590a51e)
- - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)<!-- TECH:END -->
+ - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)
+ - [X drops Unilever from its ‘advertiser boycott’ lawsuit](https://www.theverge.com/2024/10/11/24267784/x-unilever-lawsuit-advertiser-boycott-garm-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

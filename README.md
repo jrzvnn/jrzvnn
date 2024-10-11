@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)
- - [X drops Unilever from its ‘advertiser boycott’ lawsuit](https://www.theverge.com/2024/10/11/24267784/x-unilever-lawsuit-advertiser-boycott-garm-elon-musk)
- - [Apple&#39;s secretive 3D cinema camera resurfaces for &#39;Submerged&#39;](https://appleinsider.com/articles/24/10/11/apples-secretive-3d-cinema-camera-resurfaces-for-submerged?utm_medium=rss)
- - [Apple’s USB SuperDrive might be gone for good](https://www.theverge.com/2024/10/11/24267842/apple-usb-superdrive-discontinued)
- - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)<!-- TECH:END -->
+ - [Marques Brownlee says ‘we failed on the price’ with Panels](https://www.theverge.com/2024/10/11/24267900/marques-brownlee-mkbhd-price-panels-wallpaper-app)
+ - [X drops Unilever from its &quot;advertiser boycott&quot; lawsuit after making a deal with Unilever &quot;to continue our partnership&quot; as part of an &quot;ecosystem-wide solution&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241011/p20#a241011p20)
+ - [Aurora Watchers Share Stunning Northern Lights Photos](https://www.cnet.com/science/space/aurora-watchers-share-stunning-northern-lights-photos/#ftag=CAD590a51e)
+ - [A Kitchen Essential Turned Wellness Hack: How to Use Apple Cider Vinegar to the Max](https://www.cnet.com/health/nutrition/how-to-use-apple-cider-vinegar-to-the-max/#ftag=CAD590a51e)
+ - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

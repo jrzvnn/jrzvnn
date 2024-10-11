@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
+ - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 💣 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)
  - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
- - 💣 [White trash names](http://9gag.com/gag/apRmPZn)
- - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
- - 👉 [That delivery is everything](http://9gag.com/gag/aoyexdX)<!-- MEMES:END -->
+ - 👉 [Iwao Hakamada: World&#39;s Longest-Serving Death Row Inmate Declared Innocent After 56 Years](http://9gag.com/gag/a873656)<!-- MEMES:END -->
 
 ---
 

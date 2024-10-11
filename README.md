@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
- - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
- - 💣 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
- - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
+ - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
+ - 💣 [Iwao Hakamada: World&#39;s Longest-Serving Death Row Inmate Declared Innocent After 56 Years](http://9gag.com/gag/a873656)
+ - 😝 [He got caught red handed](http://9gag.com/gag/axyzb0n)
  - 👉 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)<!-- MEMES:END -->
 
 ---

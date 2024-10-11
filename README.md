@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybercab announced: Elon Musk’s robotaxi is finally here](https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date)
- - [Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds](https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss)
- - [A look at the possible outcomes of the Google Search antitrust trial, including the very likely scenario that Google&#39;s default search engine deals won&#39;t survive &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)
- - [Lingering Prime Day Deals: Save Up to $50 on Eve Smart Home Products Right Now](https://www.cnet.com/deals/save-up-to-50-on-eve-smart-home-products-with-these-lingering-prime-day-discounts/#ftag=CAD590a51e)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk reveals the Tesla Cybercab, saying &quot;you will be able to buy one&quot; for under $30,000 and that he expects the robotaxi to be in production &quot;before 2027&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241010/p36#a241010p36)
+ - [Tesla’s Optimus bot makes a scene at the robotaxi event](https://www.theverge.com/2024/10/10/24267225/tesla-robotaxi-optimus-we-robot)
+ - [How to use the Show Library Folder option in macOS Sequoia&#39;s Finder](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-show-library-folder-option-in-macos-sequoias-finder?utm_medium=rss)
+ - [Tesla’s robovan is the surprise of the night](https://www.theverge.com/2024/10/10/24267158/tesla-van-robotaxi-autonomous-price-release-date)
+ - [Tesla Cybercab announced: Elon Musk’s robotaxi is finally here](https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

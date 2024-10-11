@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just this](http://9gag.com/gag/axyzvbn)
- - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 💣 [Nice day innit?](http://9gag.com/gag/avy8EEq)
- - 😝 [Monster operation...](http://9gag.com/gag/ae9rVym)
- - 👉 [My old chap of 19.5 years. He will be euthanized in a few hours. Have never felt such sadness. He is blind and deaf and just recently had a stroke. It&#39;s in his best interest. I love you Paul &lt;3](http://9gag.com/gag/a34Q8L7)<!-- MEMES:END -->
+ - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 💣 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
+ - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
+ - 👉 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 💣 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
  - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
+ - 💣 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
+ - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
 
 ---
 

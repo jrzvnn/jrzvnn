@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Relyance AI, which helps companies comply with data privacy regulations, raised a $32.1M Series B led by Thomvest, bringing its total funding to ~$59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241011/p3#a241011p3)
  - [Sources: Pittsburgh-based Abridge, which uses AI to transcribe doctors&#39; conversations with their patients, raised $250M at a $2.5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/241011/p2#a241011p2)
  - [Elon Musk claims &quot;unsupervised&quot; FSD will come to TX and CA in 2025 for select models and shows a Tesla Robovan, meant to be autonomous and carry up to 20 people &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/241011/p1#a241011p1)
- - [Elon Musk reveals the Tesla Cybercab, saying &quot;you will be able to buy one&quot; for under $30,000 and that he expects the robotaxi to be in production &quot;before 2027&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241010/p36#a241010p36)
- - [Tesla&#39;s Cybercab Is Here](https://www.wired.com/story/tesla-cybercab-is-here/)
- - [Tesla’s Optimus bot makes a scene at the robotaxi event](https://www.theverge.com/2024/10/10/24267225/tesla-robotaxi-optimus-we-robot)<!-- TECH:END -->
+ - [See New Optimus Video at Tesla &#39;We, Robot&#39; Event video](https://www.cnet.com/videos/see-new-optimus-video-at-tesla-we-robot-event/#ftag=CAD590a51e)
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

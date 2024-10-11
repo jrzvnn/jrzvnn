@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 faces sales block in Indonesia over investment issues](https://appleinsider.com/articles/24/10/11/iphone-16-faces-sales-block-in-indonesia-over-investment-issues?utm_medium=rss)
  - [Faulty court filing redactions show TikTok executives were unconcerned with the harms the app poses for teenagers despite internal research validating concerns &lpar;NPR&rpar;](http://www.techmeme.com/241011/p13#a241011p13)
  - [Fellow Aiden Coffee Maker Review: A Great Cup Made Simple](https://www.wired.com/review/fellow-aiden-precision-coffee-maker/)
  - [Crucial North Carolina quartz mine is up and running following Hurricane Helene](https://www.theverge.com/2024/10/11/24267697/north-carolina-quartz-sibelco-resumes-operations-hurricane-helene)
- - [Sources: Salt Typhoon hackers still had access to some parts of US broadband networks within the last week, and investigators don&#39;t know what they were seeking &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241011/p12#a241011p12)
- - [Sign Up for Affordable Care Act Health Insurance in Less Than a Month. Here&#39;s How](https://www.cnet.com/how-to/sign-up-for-affordable-care-act-health-insurance-in-less-than-a-month-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Salt Typhoon hackers still had access to some parts of US broadband networks within the last week, and investigators don&#39;t know what they were seeking &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241011/p12#a241011p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

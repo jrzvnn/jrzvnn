@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
- - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M; the majority, or possibly all, was pooled from other investors via a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)
- - [Best Solar Companies of October 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
- - [Best Dishwasher of 2024](https://www.cnet.com/home/kitchen-and-household/best-dishwasher/#ftag=CAD590a51e)
- - [Registering to Vote? It&#39;s Too Late in Arizona, Georgia and Other States, but You Might Still Have Time](https://www.cnet.com/news/politics/registering-to-vote-its-too-late-arizona-georgia-and-other-states-but-you-might-still-have-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://www.theverge.com/2024/10/11/24268166/google-pixel-watch-1-2-wear-os-5-bug-brick-pulled)
+ - [46 Best Prime Day Deals Under $50 You Can Still Buy](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-11/#ftag=CAD590a51e)
+ - [Grab a Roku Express 4K Plus for Just $27 with This Extended Prime Day Deal](https://www.cnet.com/deals/grab-a-roku-express-4k-plus-for-just-27-with-this-extended-prime-day-deal/#ftag=CAD590a51e)
+ - [Most Shoppers Will Lean on Black Friday and Cyber Monday for Holiday Savings, CNET Survey Finds](https://www.cnet.com/personal-finance/most-shoppers-will-lean-on-black-friday-and-cyber-monday-for-holiday-savings-cnet-survey-finds/#ftag=CAD590a51e)
+ - [Save $8 on a Philips Norelco OneBlade 360 With This Lingering Prime Day Deal](https://www.cnet.com/deals/save-8-on-a-philips-norelco-oneblade-360-with-this-lingering-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

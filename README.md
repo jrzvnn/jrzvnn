@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X drops Unilever from its ‘advertiser boycott’ lawsuit](https://www.theverge.com/2024/10/11/24267784/x-unilever-lawsuit-advertiser-boycott-garm-elon-musk)
+ - [Apple&#39;s secretive 3D cinema camera resurfaces for &#39;Submerged&#39;](https://appleinsider.com/articles/24/10/11/apples-secretive-3d-cinema-camera-resurfaces-for-submerged?utm_medium=rss)
  - [Apple’s USB SuperDrive might be gone for good](https://www.theverge.com/2024/10/11/24267842/apple-usb-superdrive-discontinued)
  - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)
- - [Sources: in negotiations with California lawmakers, Google insisted on taxpayer funding as a precondition to spending $110M to support the journalism industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p18#a241011p18)
- - [The Best Game Subscription Services That We&#39;ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-game-subscriptions/)
- - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)<!-- TECH:END -->
+ - [Sources: in negotiations with California lawmakers, Google insisted on taxpayer funding as a precondition to spending $110M to support the journalism industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p18#a241011p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

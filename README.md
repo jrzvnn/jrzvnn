@@ -158,9 +158,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
- - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M, the majority of which was pooled from other investors through a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)
+ - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M; the majority or possibly all was pooled from other investors through a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)
  - [The Internet Archive is still down but will return in ‘days, not weeks’](https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked)
- - [Sources: Microsoft plans to test the streaming of games that users own and are not part of the Xbox Game Pass library, starting with Xbox Insiders in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241011/p22#a241011p22)
+ - [Sources: Microsoft plans to test the ability to stream games that users own but aren&#39;t in the Xbox Game Pass library, starting with Xbox Insiders in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241011/p22#a241011p22)
  - [Prime Day Roku Deals Remain, Grab Final Price Cuts on TVs, Streaming Sticks and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

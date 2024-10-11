@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft plans to test the streaming of games that users own and are not part of the Xbox Game Pass library, starting with Xbox Insiders in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241011/p22#a241011p22)
+ - [Steam now says the ‘game’ you’re buying is really just a license](https://www.theverge.com/2024/10/11/24267864/steam-buy-purchase-license-digital-storefront)
+ - [Apple cancels California DMV permit for self-driving car testing](https://appleinsider.com/articles/24/10/11/apple-cancels-california-dmv-permit-for-self-driving-car-testing?utm_medium=rss)
  - [Xbox Cloud Gaming will let you stream your own games in November](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)
- - [Best Extended Prime Day Headphone Deals: There&#39;s Still Time To Save on AirPods, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-11/#ftag=CAD590a51e)
- - [Best High-Yield Savings Accounts for October 2024](https://www.cnet.com/personal-finance/best-high-yield-savings-accounts/#ftag=CAD590a51e)
- - [Air Fryer vs Wall Oven: Which Is Cheaper to Run? I Did the Math](https://www.cnet.com/home/kitchen-and-household/air-fryer-vs-wall-oven-which-is-cheaper-to-run/#ftag=CAD590a51e)
- - [12 Fruits and Vegetables to Wash Before Eating](https://www.cnet.com/news/12-fruits-and-vegetables-you-should-wash-before-eating/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Extended Prime Day Headphone Deals: There&#39;s Still Time To Save on AirPods, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

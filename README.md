@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The beast that beat a European baby has been captured. What punishment would he deserve now?](http://9gag.com/gag/an79OqE)
- - 😝 [The level of delusion](http://9gag.com/gag/axyzvPp)
- - 💣 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 💣 [The level of delusion](http://9gag.com/gag/axyzvPp)
  - 😝 [Just this](http://9gag.com/gag/axyzvbn)
  - 👉 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)<!-- MEMES:END -->
 

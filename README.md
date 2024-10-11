@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s USB SuperDrive might be gone for good](https://www.theverge.com/2024/10/11/24267842/apple-usb-superdrive-discontinued)
+ - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)
  - [Sources: in negotiations with California lawmakers, Google insisted on taxpayer funding as a precondition to spending $110M to support the journalism industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p18#a241011p18)
- - [My Favorite Espresso Machine Is Over 40% Off Post Prime Day Sale](https://www.cnet.com/deals/my-favorite-espresso-machine-is-over-40-off-post-prime-day-sale/#ftag=CAD590a51e)
- - [20 Great Cheap Stocking Stuffers for Adults, Kids and Even Pets in 2024](https://www.cnet.com/tech/cheap-stocking-stuffers/#ftag=CAD590a51e)
- - [Power Down the Right Way: Winter Storage for Electric Yard Equipment](https://www.cnet.com/news/power-down-the-right-way-winter-storage-for-electric-yard-equipment/#ftag=CAD590a51e)
- - [Best Buy Lingering Sales: Last Chance to Save on TVs, Vacuums, Lego Sets and More](https://www.cnet.com/deals/best-buy-lingering-sales-last-chance-to-save-on-tvs-vacuums-lego-sets-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Game Subscription Services That We&#39;ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-game-subscriptions/)
+ - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

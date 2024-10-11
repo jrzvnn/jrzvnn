@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
- - 😝 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - 💣 [BOO](http://9gag.com/gag/aPAYo5Q)
- - 😝 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
- - 👉 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)<!-- MEMES:END -->
+ - 😝 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Congress trading stock on inside information](http://9gag.com/gag/ae9rOXm)
+ - 💣 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 😝 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)
+ - 👉 [The feel](http://9gag.com/gag/axyz6YW)<!-- MEMES:END -->
 
 ---
 

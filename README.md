@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD launches the 5th Gen Epyc Turin data center chips, with up to 192 cores and clock speeds up to 5GHz, boasting double-digit gains in instructions per clock &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/241010/p31#a241010p31)
- - [Apple Card Savings reaches lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
- - [Xbox will sell games directly in the Android app next month](https://www.theverge.com/2024/10/10/24267339/microsoft-xbox-android-purchase-games-us-court-ruling)
- - [Best Prime Day TV Deals Still Available: Save Up Hundreds on LG, Samsung and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-10-10/#ftag=CAD590a51e)
- - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla’s “We, Robot” robotaxi event: biggest news and announcements](https://www.theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk)
+ - [LinkedIn says ~10M people have created pages on its Services Marketplace for freelancers, up 48% in the last year; it launched the marketplace in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241010/p34#a241010p34)
+ - [Amazon Prime Day: 130+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
+ - [Glooko, whose diabetes management app is used by more than 4.4M patients and 10K clinics globally, raised a $100M Series F led by Georgian &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/241010/p33#a241010p33)
+ - [Best Internet Providers in Evansville, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-evansville-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

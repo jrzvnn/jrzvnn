@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane road rage](http://9gag.com/gag/aAy349g)
  - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 💣 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
- - 😝 [Is this me in my moms basement at 14 years old?](http://9gag.com/gag/apRm1Qp)
- - 👉 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)<!-- MEMES:END -->
+ - 😝 [PTCM for accuracy](http://9gag.com/gag/a2vZwr9)
+ - 💣 [Hand restoration of generator armatures](http://9gag.com/gag/apRm3LB)
+ - 😝 [Insane road rage](http://9gag.com/gag/aAy349g)
+ - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
 
 ---
 

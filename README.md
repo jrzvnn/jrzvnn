@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 💣 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
- - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
+ - 😝 [BOO](http://9gag.com/gag/aPAYo5Q)
+ - 😝 [The level of delusion](http://9gag.com/gag/axyzvPp)
+ - 💣 [Just this](http://9gag.com/gag/axyzvbn)
+ - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 👉 [Nice day innit?](http://9gag.com/gag/avy8EEq)<!-- MEMES:END -->
 
 ---
 

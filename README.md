@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 💣 [The level of delusion](http://9gag.com/gag/axyzvPp)
- - 😝 [Just this](http://9gag.com/gag/axyzvbn)
- - 👉 [I should have kept my Yaris](http://9gag.com/gag/aGyZn65)<!-- MEMES:END -->
+ - 😝 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
+ - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 💣 [Accuracy. Obliteration.](http://9gag.com/gag/aGyZ8O0)
+ - 😝 [Double dates](http://9gag.com/gag/a34QAQ7)
+ - 👉 [Hood karate](http://9gag.com/gag/ayNBqrX)<!-- MEMES:END -->
 
 ---
 

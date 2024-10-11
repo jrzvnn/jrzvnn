@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [45 of the Best Prime Day Deals Under $50 Still Available Today](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-11/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Oct. 11, 2024: Jump on High APYs While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-oct-11-2024/#ftag=CAD590a51e)
+ - [Amazon Prime Day Deals Under $10 Still Available: Last Chance to Grab These 46 Items on a Discount](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-10-11/#ftag=CAD590a51e)
  - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)
- - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)
- - [Tesla Cybercab: A Robotaxi of Your Own for Under $30k video](https://www.cnet.com/roadshow/videos/tesla-cybercab-a-robotaxi-of-your-own-for-under-30k/#ftag=CAD590a51e)
- - [Elon Musk Shares Vision for Optimus Robots at &#39;We, Robot&#39; Event video](https://www.cnet.com/videos/elon-musk-shares-vision-for-optimus-robots-at-we-robot-event/#ftag=CAD590a51e)
- - [Richard Mille&#39;s New McLaren Watch Has a ‘Jump Start’ Button](https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/)<!-- TECH:END -->
+ - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

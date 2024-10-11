@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every base is base 10](http://9gag.com/gag/aYQYPPN)
- - 😝 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
  - 😝 [Singapore vs US baggage arrival](http://9gag.com/gag/aLngeBM)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 💣 [Every base is base 10](http://9gag.com/gag/aYQYPPN)
+ - 😝 [He got caught red handed](http://9gag.com/gag/axyzb0n)
  - 👉 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)<!-- MEMES:END -->
 
 ---

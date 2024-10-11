@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)
+ - [Steam now tells its users that they&#39;re buying a license, not a game, ahead of a California law that forces companies to do so when customers &quot;buy&quot; digital media &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/241011/p16#a241011p16)
+ - [The Tesla Cybercab is a cool-looking prototype that needed to be much more than that](https://www.theverge.com/2024/10/11/24267727/tesla-cybercab-unanswered-questions-fsd-safety-liability)
  - [The Beats Pill speaker is even cheaper than it was during Prime Day](https://www.theverge.com/2024/10/11/24267717/beats-pill-speaker-amazon-fire-tv-stick-4k-max-bundle-deal-sale)
- - [New &#39;Made on iPad&#39; ad showcases how artists make NHL goalie masks](https://appleinsider.com/articles/24/10/11/new-made-on-ipad-ad-showcases-how-artists-make-nhl-goalie-masks?utm_medium=rss)
- - [Experts question the feasibility of Tesla&#39;s robotaxi plan, citing Musk&#39;s history of missing FSD targets, achieving scale without rideshare partnerships, more &lpar;Business Insider&rpar;](http://www.techmeme.com/241011/p15#a241011p15)
- - [Sony Linkbuds Open Review: Better Battery, Softer Sound](https://www.wired.com/review/sony-linkbuds-open/)
- - [Apple opens an applied research laboratory in Shenzhen; Chinese state media says it will become the company&#39;s &quot;most extensive&quot; lab outside the US &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/241011/p14#a241011p14)<!-- TECH:END -->
+ - [New &#39;Made on iPad&#39; ad showcases how artists make NHL goalie masks](https://appleinsider.com/articles/24/10/11/new-made-on-ipad-ad-showcases-how-artists-make-nhl-goalie-masks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

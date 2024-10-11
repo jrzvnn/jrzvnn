@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One horned cow](http://9gag.com/gag/aO8Y40r)
- - 😝 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)
- - 💣 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 😝 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
  - 😝 [Singapore vs US baggage arrival](http://9gag.com/gag/aLngeBM)
+ - 💣 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)
+ - 😝 [Can&#39;t say I&#39;ve tried this one](http://9gag.com/gag/awyAmgQ)
  - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
 
 ---

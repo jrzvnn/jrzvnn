@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fellow Aiden Coffee Maker Review: A Great Cup Made Simple](https://www.wired.com/review/fellow-aiden-precision-coffee-maker/)
  - [Crucial North Carolina quartz mine is up and running following Hurricane Helene](https://www.theverge.com/2024/10/11/24267697/north-carolina-quartz-sibelco-resumes-operations-hurricane-helene)
  - [Sources: Salt Typhoon hackers still had access to some parts of US broadband networks within the last week, and investigators don&#39;t know what they were seeking &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241011/p12#a241011p12)
  - [Filing: TikTok&#39;s European revenue grew to $4.57B in 2023, up from $2.6B in 2022; losses grew to $1.3B, up from $512M YoY; ByteDance set aside $1B for EU fines &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/241011/p11#a241011p11)
- - [Social Media Tells You Who You Are. What if It&#39;s Totally Wrong?](https://www.wired.com/story/plaintext-social-media-tells-you-who-you-are-what-if-its-totally-wrong/)
- - [Russian MacBook Pro Leaks, Apple Ring, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/11/russian-macbook-pro-leaks-apple-ring-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Social Media Tells You Who You Are. What if It&#39;s Totally Wrong?](https://www.wired.com/story/plaintext-social-media-tells-you-who-you-are-what-if-its-totally-wrong/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

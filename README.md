@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some developers say OpenAI&#39;s GPT Store is a mixed bag, with revenue sharing reserved for a tiny number of GPT creators in an invite-only pilot program in the US &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/241011/p9#a241011p9)
  - [Asus TUF Gaming A14 Review: A Great Budget Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2024/)
  - [Why Hurricane Milton Turned the Sky Purple](https://www.wired.com/story/why-hurricane-milton-turned-the-sky-purple/)
  - [Apple Card Savings hits lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
- - [AirPods fourth-generation review: AirPods Pro power for everybody](https://appleinsider.com/articles/24/10/11/airpods-fourth-generation-review-airpods-pro-power-for-everybody?utm_medium=rss)
- - [Apple&#39;s largest research lab outside the US opens in China](https://appleinsider.com/articles/24/10/11/apples-largest-research-lab-outside-the-us-opens-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods fourth-generation review: AirPods Pro power for everybody](https://appleinsider.com/articles/24/10/11/airpods-fourth-generation-review-airpods-pro-power-for-everybody?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

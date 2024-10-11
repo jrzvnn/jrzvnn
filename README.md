@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus TUF Gaming A14 Review: A Great Budget Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2024/)
+ - [Why Hurricane Milton Turned the Sky Purple](https://www.wired.com/story/why-hurricane-milton-turned-the-sky-purple/)
  - [Apple Card Savings hits lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
  - [AirPods fourth-generation review: AirPods Pro power for everybody](https://appleinsider.com/articles/24/10/11/airpods-fourth-generation-review-airpods-pro-power-for-everybody?utm_medium=rss)
- - [Apple&#39;s largest research lab outside the US opens in China](https://appleinsider.com/articles/24/10/11/apples-largest-research-lab-outside-the-us-opens-in-china?utm_medium=rss)
- - [The Dystopia of Watching Hurricane Milton on TikTok](https://www.wired.com/story/tiktok-during-hurricane-milton/)
- - [Report: 47% of traditional hedge funds have crypto investments, up from 29% in 2023; among who already invested in crypto, 33% plan for more by the end of 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241011/p8#a241011p8)<!-- TECH:END -->
+ - [Apple&#39;s largest research lab outside the US opens in China](https://appleinsider.com/articles/24/10/11/apples-largest-research-lab-outside-the-us-opens-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

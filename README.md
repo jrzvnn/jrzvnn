@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One horned cow](http://9gag.com/gag/aO8Y40r)
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 💣 [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 😝 [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [Original picture in comments](http://9gag.com/gag/aPAYAVP)
+ - 💣 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
  - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
+ - 👉 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
 
 ---
 

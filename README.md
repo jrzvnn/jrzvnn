@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
- - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
- - 💣 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 😝 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
+ - 💣 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
  - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
 
 ---

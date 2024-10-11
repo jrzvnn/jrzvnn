@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Xbox Cloud Gaming will let you stream your own games in November](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)
- - [You must watch this amazing presentation about a bespoke McDonald’s mural](https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024)
- - [Amazon knocks up to 50% off latest Beats headphones, Pill Bluetooth speaker](https://appleinsider.com/articles/24/10/11/amazon-knocks-up-to-50-off-latest-beats-headphones-pill-bluetooth-speaker?utm_medium=rss)
- - [Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans](https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/)
- - [The US NLRB issues a complaint accusing Apple of interfering with workers&#39; rights to organize by restricting their use of social media and Slack &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241011/p21#a241011p21)<!-- TECH:END -->
+ - [Best Extended Prime Day Headphone Deals: There&#39;s Still Time To Save on AirPods, Beats and More](https://www.cnet.com/deals/best-prime-day-headphone-deals-2024-10-11/#ftag=CAD590a51e)
+ - [Best High-Yield Savings Accounts for October 2024](https://www.cnet.com/personal-finance/best-high-yield-savings-accounts/#ftag=CAD590a51e)
+ - [Air Fryer vs Wall Oven: Which Is Cheaper to Run? I Did the Math](https://www.cnet.com/home/kitchen-and-household/air-fryer-vs-wall-oven-which-is-cheaper-to-run/#ftag=CAD590a51e)
+ - [12 Fruits and Vegetables to Wash Before Eating](https://www.cnet.com/news/12-fruits-and-vegetables-you-should-wash-before-eating/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

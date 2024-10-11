@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 💣 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 😝 [BOO](http://9gag.com/gag/aPAYo5Q)
+ - 💣 [Feeling useless](http://9gag.com/gag/ayNBWVy)
  - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)<!-- MEMES:END -->
+ - 👉 [Insane road rage](http://9gag.com/gag/aAy349g)<!-- MEMES:END -->
 
 ---
 

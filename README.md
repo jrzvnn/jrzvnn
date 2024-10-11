@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A review of Submerged, Apple&#39;s first scripted short film shot in Immersive Video for the Vision Pro: technologically impressive, but an isolating experience &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241011/p5#a241011p5)
  - [VistaPrint Promo Code 2024: $10 Off Custom Orders](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
- - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)
  - [A look at the promise of AI agents as a way for companies to monetize models; PitchBook: AI agent startups raised $8.2B over the last 12 months, up 81.4% YoY &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241011/p4#a241011p4)
  - [Relyance AI, which helps companies comply with data privacy regulations, raised a $32.1M Series B led by Thomvest, bringing its total funding to ~$59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241011/p3#a241011p3)<!-- TECH:END -->
 

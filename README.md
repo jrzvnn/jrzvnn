@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk claims &quot;unsupervised&quot; FSD will come to TX and CA in 2025 for select models and shows a Tesla Robovan, meant to be autonomous and carry up to 20 people &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/241011/p1#a241011p1)
  - [Elon Musk reveals the Tesla Cybercab, saying &quot;you will be able to buy one&quot; for under $30,000 and that he expects the robotaxi to be in production &quot;before 2027&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241010/p36#a241010p36)
  - [Tesla&#39;s Cybercab Is Here](https://www.wired.com/story/tesla-cybercab-is-here/)
  - [Tesla’s Optimus bot makes a scene at the robotaxi event](https://www.theverge.com/2024/10/10/24267225/tesla-robotaxi-optimus-we-robot)
- - [How to use the Show Library Folder option in macOS Sequoia&#39;s Finder](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-show-library-folder-option-in-macos-sequoias-finder?utm_medium=rss)
- - [Tesla’s robovan is the surprise of the night](https://www.theverge.com/2024/10/10/24267158/tesla-van-robotaxi-autonomous-price-release-date)<!-- TECH:END -->
+ - [How to use the Show Library Folder option in macOS Sequoia&#39;s Finder](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-show-library-folder-option-in-macos-sequoias-finder?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

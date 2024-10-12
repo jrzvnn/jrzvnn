@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta suggests AI Northern Lights pics are as good as the real thing](https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Metaphor: ReFantazio is the rare fantasy game that goes beyond racism 101](https://www.theverge.com/24268103/metaphor-refantazio-review-atlus-xbox-persona)
- - [Want Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s cheapest iPads are still steeply discounted following Prime Day](https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Some Ukrainian soldiers say SpaceX has not done enough to crack down on illicit use of Starlink terminals by Russia to power its advance in Ukraine &lpar;Washington Post&rpar;](http://www.techmeme.com/241012/p9#a241012p9)
+ - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
+ - [23 Best Gifts for New Homeowners for the Holidays 2024](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
  - [This Babbel $149 lifetime deal makes learning a new language on your iPhone or Mac a breeze](https://appleinsider.com/articles/24/10/12/this-babbel-149-lifetime-deal-makes-learning-a-new-language-on-your-iphone-or-mac-a-breeze?utm_medium=rss)
- - [NLRB accuses Apple of illegally restricting workers&#39; social media use](https://appleinsider.com/articles/24/10/12/nlrb-accuses-apple-of-illegally-restricting-workers-social-media-use?utm_medium=rss)
- - [How to Pause Your Internet Service](https://www.cnet.com/home/internet/how-to-pause-your-internet-service/#ftag=CAD590a51e)
- - [Apple adds an option in iOS 18.1 to let users set a &quot;Primary&quot; email address in Settings, letting users change the email associated with their Apple Account &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241012/p8#a241012p8)<!-- TECH:END -->
+ - [NLRB accuses Apple of illegally restricting workers&#39; social media use](https://appleinsider.com/articles/24/10/12/nlrb-accuses-apple-of-illegally-restricting-workers-social-media-use?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

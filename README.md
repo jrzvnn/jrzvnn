@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 💣 [Double dates](http://9gag.com/gag/a34QAQ7)
- - 😝 [Imagine getting put on leave because you - wait for it - want to hire the best people for the job.](http://9gag.com/gag/amoBMoV)
- - 👉 [Bro did the math](http://9gag.com/gag/a2vZymZ)<!-- MEMES:END -->
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - 💣 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
+ - 😝 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
+ - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
 
 ---
 

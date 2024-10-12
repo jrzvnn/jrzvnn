@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird lady appreciation post: we deserve love too!](http://9gag.com/gag/aqyKxMY)
- - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 💣 [Degradation as it is](http://9gag.com/gag/aZZL28n)
- - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
- - 👉 [European culture is pure magic](http://9gag.com/gag/ae9r25b)<!-- MEMES:END -->
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 😝 [Peak of human technology](http://9gag.com/gag/an79x6L)
+ - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 👉 [Time jump](http://9gag.com/gag/a34QyW5)<!-- MEMES:END -->
 
 ---
 

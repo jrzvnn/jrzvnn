@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The bleak online discourse about hurricanes Milton and Helene revealed not just a misinformation crisis in the US but a cultural assault on reality itself &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241012/p3#a241012p3)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-12/#ftag=CAD590a51e)
  - [Adobe expects US BNPL spending to grow 11.4% YoY to $18.5B in Q4 2024; the Federal Reserve Bank of Philadelphia says most BNPL users make their payments on time &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/241012/p2#a241012p2)
  - [PitchBook: VCs in the US invested $37.5B via 2,794 deals in Q3 2024, down 32% QoQ, despite some big AI rounds, as a lack of exits restricts new deal activity &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241012/p1#a241012p1)
- - [Voting Is Already Happening in 15 States: When and How to Vote Early in Your State](https://www.cnet.com/news/politics/voting-is-already-happening-in-10-states-when-and-how-to-vote-early-in-your-state/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Voting Is Already Happening in 15 States: When and How to Vote Early in Your State](https://www.cnet.com/news/politics/voting-is-already-happening-in-10-states-when-and-how-to-vote-early-in-your-state/#ftag=CAD590a51e)
+ - [Best AT&amp;T Phones in 2024](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

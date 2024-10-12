@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double dates](http://9gag.com/gag/a34QAQ7)
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
  - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 💣 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 💣 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
  - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
+ - 👉 [Driver avoids pedestrian falling on road only to crash in other car](http://9gag.com/gag/aPAYPWR)<!-- MEMES:END -->
 
 ---
 

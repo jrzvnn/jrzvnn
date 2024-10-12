@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
- - 😝 [Migrants on Polish Belarus border try to use their usual tactic. The effect supruses them.](http://9gag.com/gag/a5QM21L)
- - 💣 [Unexpected](http://9gag.com/gag/aPAYPdw)
+ - 😝 [Unexpected](http://9gag.com/gag/aPAYPdw)
+ - 😝 [He got caught red handed](http://9gag.com/gag/axyzb0n)
+ - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
  - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 👉 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)<!-- MEMES:END -->
+ - 👉 [She just found out](http://9gag.com/gag/aQzRmg7)<!-- MEMES:END -->
 
 ---
 

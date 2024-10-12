@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How people commute to work in China](http://9gag.com/gag/axyzP81)
- - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 💣 [This should be taught at school](http://9gag.com/gag/a6ZOpwN)
- - 😝 [Weird lady appreciation post: we deserve love too!](http://9gag.com/gag/aqyKxMY)
- - 👉 [Degradation as it is](http://9gag.com/gag/aZZL28n)<!-- MEMES:END -->
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 
 ---
 

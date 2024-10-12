@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matt Mullenweg&#39;s feud with WP Engine not only presents a significant conflict of interest but has also dragged the WordPress community into a legal mess &lpar;Mathew Ingram/The Torment Nexus&rpar;](http://www.techmeme.com/241012/p4#a241012p4)
+ - [The FBI Made a Crypto Coin Just to Catch Fraudsters](https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/)
  - [Pig Butchering Scams Are Going High Tech](https://www.wired.com/story/pig-butchering-scams-go-high-tech/)
  - [A Mysterious Hacking Group Has 2 New Tools to Steal Data From Air-Gapped Machines](https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/)
- - [The Cooking Secret Pro Chefs Use to Cook Steak Perfectly](https://www.cnet.com/how-to/the-cooking-secret-pro-chefs-use-to-cook-steak-perfectly/#ftag=CAD590a51e)
- - [The bleak online discourse about hurricanes Milton and Helene revealed not just a misinformation crisis in the US but a cultural assault on reality itself &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241012/p3#a241012p3)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Cooking Secret Pro Chefs Use to Cook Steak Perfectly](https://www.cnet.com/how-to/the-cooking-secret-pro-chefs-use-to-cook-steak-perfectly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

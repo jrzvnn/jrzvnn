@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 😝 [Picture](http://9gag.com/gag/aO8YRyE)
- - 💣 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
- - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
- - 👉 [Degradation as it is](http://9gag.com/gag/aZZL28n)<!-- MEMES:END -->
+ - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 💣 [Time jump](http://9gag.com/gag/a34QyW5)
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 
 ---
 

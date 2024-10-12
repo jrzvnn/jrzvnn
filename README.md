@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best AT&amp;T Phones in 2024](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 12, #223](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-12-223/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 12, #489](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-12-489/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 12, #1211](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-12-1211/#ftag=CAD590a51e)
- - [An interview with Waymo co-CEO Dmitri Dolgov on Tesla fans&#39; claims that Waymo&#39;s software relies on hand-coded rules, can&#39;t handle freeway driving, and more &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/241011/p27#a241011p27)<!-- TECH:END -->
+ - [An interview with Waymo co-CEO Dmitri Dolgov on Tesla fans&#39; claims that Waymo&#39;s software relies on hand-coded rules, can&#39;t handle freeway driving, and more &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/241011/p27#a241011p27)
+ - [An essay on what a &quot;powerful AI&quot; may look like and how it could positively transform the world in biology, neuroscience, economic development, work, and more &lpar;Dario Amodei&rpar;](http://www.techmeme.com/241011/p26#a241011p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

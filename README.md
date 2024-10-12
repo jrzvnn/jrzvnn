@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
- - 😝 [Title](http://9gag.com/gag/aAy34o2)
- - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
  - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 😝 [Title](http://9gag.com/gag/aAy34o2)
+ - 💣 [Soon](http://9gag.com/gag/aqyK8xR)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
  - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
 
 ---

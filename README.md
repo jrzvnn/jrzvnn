@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banger.](http://9gag.com/gag/ae9rx4Q)
- - 😝 [Sneak 100](http://9gag.com/gag/aD21Z8d)
- - 💣 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
- - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
+ - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
+ - 😝 [Title](http://9gag.com/gag/aAy34o2)
+ - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The topology of this backpack.](http://9gag.com/gag/aVvY2yO)
- - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 😝 [I&#39;m not slightly surprised this happened in Mexico](http://9gag.com/gag/aXPYVLv)
  - 💣 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 👉 [Bro did the math](http://9gag.com/gag/a2vZymZ)<!-- MEMES:END -->
+ - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
+ - 👉 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)<!-- MEMES:END -->
 
 ---
 

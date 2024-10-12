@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo ThinkBook Plus &lpar;Gen 5&rpar; Review: A Windows and Android Hybrid](https://www.wired.com/review/lenovo-thinkbook-plus-gen-5/)
- - [Why You Should Be Playing Off The Grid, a New Battle Royale, Right Now](https://www.cnet.com/tech/gaming/why-you-should-be-playing-off-the-grid-a-new-battle-royale-right-now/#ftag=CAD590a51e)
- - [I Made Perfect Air Fryer Brussels Sprouts in 10 Minutes With 3 Ingredients](https://www.cnet.com/how-to/i-made-perfect-air-fryer-brussels-sprouts-in-10-minutes-with-3-ingredients/#ftag=CAD590a51e)
- - [Google TV Streamer Review: High-End Streaming for Power Users](https://www.cnet.com/tech/home-entertainment/google-tv-streamer-review-high-end-streaming-for-power-users/#ftag=CAD590a51e)
- - [TikTokkers Say Cinnamon Helps Burn Fat. Here&#39;s What the Science Says](https://www.wired.com/story/fat-cinnamon-weight-loss-tiktok/)<!-- TECH:END -->
+ - [Your FSA and HSA Money Can Buy You a New Smart Ring: Here&#39;s How](https://www.cnet.com/health/medical/your-fsa-and-hsa-money-can-buy-you-a-new-smart-ring-heres-how/#ftag=CAD590a51e)
+ - [Home Batteries Are Cheaper Than Ever](https://www.cnet.com/home/energy-and-utilities/home-batteries-are-cheaper-than-ever/#ftag=CAD590a51e)
+ - [Best VPN for Streaming in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)
+ - [Nest Wifi Pro Review: A Wi-Fi 6E Mesh Router Built for Smart Homes](https://www.cnet.com/home/internet/nest-wifi-pro-review/#ftag=CAD590a51e)
+ - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

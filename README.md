@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 💣 [Is she into you?](http://9gag.com/gag/ajP8L48)
  - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 💣 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 👉 [Without filters nowadays](http://9gag.com/gag/aAy34o9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTokkers Say Cinnamon Helps Burn Fat. Here&#39;s What the Science Says](https://www.wired.com/story/fat-cinnamon-weight-loss-tiktok/)
  - [Best Walmart Holiday Deals Still Available: Final Hours for Big Saving on Tech, Home Good and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-12/#ftag=CAD590a51e)
  - [Watch UEFA Nations League Soccer: Livestream Croatia vs. Scotland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-croatia-vs-scotland-from-anywhere/#ftag=CAD590a51e)
  - [Apple&#39;s iOS 18 Finally Brings T9 Dialing to Your iPhone](https://www.cnet.com/tech/services-and-software/apples-ios-18-finally-brings-t9-dialing-to-your-iphone/#ftag=CAD590a51e)
- - [The Origins of the Climate Haven Myth](https://www.wired.com/story/the-origins-of-the-climate-haven-myth/)
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [The Origins of the Climate Haven Myth](https://www.wired.com/story/the-origins-of-the-climate-haven-myth/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

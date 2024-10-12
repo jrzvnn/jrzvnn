@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 💣 [Unexpected](http://9gag.com/gag/aPAYPdw)
- - 😝 [Damn](http://9gag.com/gag/adBLn5j)
- - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
+ - 😝 [Football nowadays](http://9gag.com/gag/aPAY8jB)
+ - 😝 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)
+ - 💣 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 👉 [Letting road rage get the best of you \ud83e\udd37\u2642\ufe0f](http://9gag.com/gag/aqyK6oQ)<!-- MEMES:END -->
 
 ---
 

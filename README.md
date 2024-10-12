@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [This Babbel $149 lifetime deal makes learning a new language on your iPhone or Mac a breeze](https://appleinsider.com/articles/24/10/12/this-babbel-149-lifetime-deal-makes-learning-a-new-language-on-your-iphone-or-mac-a-breeze?utm_medium=rss)
  - [NLRB accuses Apple of illegally restricting workers&#39; social media use](https://appleinsider.com/articles/24/10/12/nlrb-accuses-apple-of-illegally-restricting-workers-social-media-use?utm_medium=rss)
+ - [How to Pause Your Internet Service](https://www.cnet.com/home/internet/how-to-pause-your-internet-service/#ftag=CAD590a51e)
  - [Apple adds an option in iOS 18.1 to let users set a &quot;Primary&quot; email address in Settings, letting users change the email associated with their Apple Account &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241012/p8#a241012p8)
- - [Hackers took over robovacs to chase pets and yell slurs](https://www.theverge.com/2024/10/12/24268508/hacked-ecovacs-deebot-x2-racial-slurs-chase-pets)
- - [iOS 18.1 to let users change or delete iCloud.com primary email addresses](https://appleinsider.com/articles/24/10/12/ios-181-to-let-users-change-or-delete-icloudcom-primary-email-addresses?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT Glossary: 48 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-48-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

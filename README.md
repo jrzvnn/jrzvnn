@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/aPAYPdw)
- - 😝 [He got caught red handed](http://9gag.com/gag/axyzb0n)
- - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 👉 [She just found out](http://9gag.com/gag/aQzRmg7)<!-- MEMES:END -->
+ - 😝 [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
+ - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 💣 [Sneak 100](http://9gag.com/gag/aD21Z8d)
+ - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
+ - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
 
 ---
 

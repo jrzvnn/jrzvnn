@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
- - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 💣 [I&#39;m not slightly surprised this happened in Mexico](http://9gag.com/gag/aXPYVLv)
+ - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
  - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 
 ---

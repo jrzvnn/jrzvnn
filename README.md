@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
- - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 😝 [Starman strikes again](http://9gag.com/gag/aO8Y4oM)
- - 👉 [Fight crime](http://9gag.com/gag/a4PQ28A)<!-- MEMES:END -->
+ - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 😝 [Migrants on Polish Belarus border try to use their usual tactic. The effect supruses them.](http://9gag.com/gag/a5QM21L)
+ - 💣 [Unexpected](http://9gag.com/gag/aPAYPdw)
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 👉 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)<!-- MEMES:END -->
 
 ---
 

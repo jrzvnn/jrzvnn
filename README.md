@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of, and interview with, Meta&#39;s Yann LeCun, who says today&#39;s AI models aren&#39;t intelligent and warnings about AI&#39;s existential peril are &quot;complete B.S.&quot; &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241012/p6#a241012p6)
+ - [Meta suggests AI Northern Lights pics are as good as the real thing](https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Metaphor: ReFantazio is the rare fantasy game that goes beyond racism 101](https://www.theverge.com/24268103/metaphor-refantazio-review-atlus-xbox-persona)
- - [Apple’s cheapest iPads are still steeply discounted following Prime Day](https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale)
- - [8 Best Electric Cargo Bikes for Families &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-cargo-bikes/)
- - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/the-best-fantasy-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

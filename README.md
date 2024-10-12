@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - 💣 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
- - 😝 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
- - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 😝 [Double dates](http://9gag.com/gag/a34QAQ7)
+ - 💣 [Starman strikes again](http://9gag.com/gag/aO8Y4oM)
+ - 😝 [Useful machinery #563](http://9gag.com/gag/aryGxP0)
+ - 👉 [....](http://9gag.com/gag/aMVZnw1)<!-- MEMES:END -->
 
 ---
 

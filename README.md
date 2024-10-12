@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
- - 😝 [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
- - 💣 [Sneak 100](http://9gag.com/gag/aD21Z8d)
- - 😝 [Banger.](http://9gag.com/gag/ae9rx4Q)
- - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
+ - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 💣 [Unexpected](http://9gag.com/gag/aPAYPdw)
+ - 😝 [Damn](http://9gag.com/gag/adBLn5j)
+ - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
 
 ---
 

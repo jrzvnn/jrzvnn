@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 💣 [Is she into you?](http://9gag.com/gag/ajP8L48)
- - 😝 [Damn](http://9gag.com/gag/adBLn5j)
- - 👉 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)<!-- MEMES:END -->
+ - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
+ - 💣 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 👉 [Fight crime](http://9gag.com/gag/a4PQ28A)<!-- MEMES:END -->
 
 ---
 

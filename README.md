@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
  - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 💣 [Time jump](http://9gag.com/gag/a34QyW5)
+ - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
  - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
  - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 

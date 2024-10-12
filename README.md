@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Hackers took over robovacs to chase pets and yell slurs](https://www.theverge.com/2024/10/12/24268508/hacked-ecovacs-deebot-x2-racial-slurs-chase-pets)
  - [iOS 18.1 to let users change or delete iCloud.com primary email addresses](https://appleinsider.com/articles/24/10/12/ios-181-to-let-users-change-or-delete-icloudcom-primary-email-addresses?utm_medium=rss)
  - [Threads users criticize Meta after the company posted AI-generated images of the Aurora Borealis on its Threads account &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241012/p7#a241012p7)
- - [Apple&#39;s study proves that LLM-based AI models are flawed because they cannot reason](https://appleinsider.com/articles/24/10/12/apples-study-proves-that-llm-based-ai-models-are-flawed-because-they-cannot-reason?utm_medium=rss)<!-- TECH:END -->
+ - [Best Gifts for Hikers, From Their Feet to Their Butts](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

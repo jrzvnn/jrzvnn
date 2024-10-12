@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 💣 [Starman strikes again](http://9gag.com/gag/aO8Y4oM)
- - 😝 [Soon](http://9gag.com/gag/aqyK8xR)
- - 👉 [Double dates](http://9gag.com/gag/a34QAQ7)<!-- MEMES:END -->
+ - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
+ - 😝 [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
+ - 💣 [Sneak 100](http://9gag.com/gag/aD21Z8d)
+ - 😝 [Banger.](http://9gag.com/gag/ae9rx4Q)
+ - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
- - 💣 [I&#39;m not slightly surprised this happened in Mexico](http://9gag.com/gag/aXPYVLv)
- - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
- - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
+ - 😝 [Weird lady appreciation post: we deserve love too!](http://9gag.com/gag/aqyKxMY)
+ - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 💣 [Degradation as it is](http://9gag.com/gag/aZZL28n)
+ - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 👉 [European culture is pure magic](http://9gag.com/gag/ae9r25b)<!-- MEMES:END -->
 
 ---
 

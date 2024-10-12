@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AI researchers say they found no evidence of formal reasoning in language models and their behavior is better explained by sophisticated pattern matching &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/241012/p5#a241012p5)
+ - [9 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
  - [How to Stop Your Data From Being Used to Train AI](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/)
  - [Lenovo ThinkBook Plus &lpar;Gen 5&rpar; Review: A Windows and Android Hybrid](https://www.wired.com/review/lenovo-thinkbook-plus-gen-5/)
- - [Why You Should Be Playing Off The Grid, a New Battle Royale, Right Now](https://www.cnet.com/tech/gaming/why-you-should-be-playing-off-the-grid-a-new-battle-royale-right-now/#ftag=CAD590a51e)
- - [I Made Perfect Air Fryer Brussels Sprouts in 10 Minutes With 3 Ingredients](https://www.cnet.com/how-to/i-made-perfect-air-fryer-brussels-sprouts-in-10-minutes-with-3-ingredients/#ftag=CAD590a51e)
- - [Google TV Streamer Review: High-End Streaming for Power Users](https://www.cnet.com/tech/home-entertainment/google-tv-streamer-review-high-end-streaming-for-power-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why You Should Be Playing Off The Grid, a New Battle Royale, Right Now](https://www.cnet.com/tech/gaming/why-you-should-be-playing-off-the-grid-a-new-battle-royale-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

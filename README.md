@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 💣 [Letting road rage get the best of you \ud83e\udd37\u2642\ufe0f](http://9gag.com/gag/aqyK6oQ)
- - 😝 [Feeding bears](http://9gag.com/gag/amoBVL9)
- - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
+ - 😝 [The topology of this backpack.](http://9gag.com/gag/aVvY2yO)
+ - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 💣 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 👉 [Bro did the math](http://9gag.com/gag/a2vZymZ)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 💣 [Time jump](http://9gag.com/gag/a34QyW5)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
+ - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
+ - 💣 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
 
 ---
 

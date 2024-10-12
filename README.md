@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 💣 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
+ - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
+ - 💣 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 👉 [Without filters nowadays](http://9gag.com/gag/aAy34o9)<!-- MEMES:END -->
 
 ---
 

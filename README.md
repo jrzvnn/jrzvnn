@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple’s cheapest iPads are still steeply discounted following Prime Day](https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale)
  - [8 Best Electric Cargo Bikes for Families &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-cargo-bikes/)
- - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/the-best-fantasy-movies-to-watch-on-prime-video/#ftag=CAD590a51e)
- - [Best Last-Minute Gifts You Can Print or Email](https://www.cnet.com/tech/mobile/last-minute-gifts/#ftag=CAD590a51e)
- - [5 Surprising Amazon Echo Features You Can Use Right Now](https://www.cnet.com/home/smart-home/5-surprising-amazon-echo-features-you-can-use-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Halloween 2024 storyscream: the best spooky things to watch and play](https://www.theverge.com/2024/10/12/24264357/halloween-2024-game-film-tv-reviews)
+ - [Apple AI researchers say they found no evidence of formal reasoning in language models and their behavior is better explained by sophisticated pattern matching &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/241012/p5#a241012p5)
+ - [9 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

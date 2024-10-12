@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 💣 [Time jump](http://9gag.com/gag/a34QyW5)
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 👉 [Usual culture](http://9gag.com/gag/aryGqXX)<!-- MEMES:END -->
+ - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 😝 [Picture](http://9gag.com/gag/aO8YRyE)
+ - 💣 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
+ - 👉 [Degradation as it is](http://9gag.com/gag/aZZL28n)<!-- MEMES:END -->
 
 ---
 

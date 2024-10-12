@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
- - 💣 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 💣 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 😝 [Starman strikes again](http://9gag.com/gag/aO8Y4oM)
  - 👉 [Fight crime](http://9gag.com/gag/a4PQ28A)<!-- MEMES:END -->
 
 ---

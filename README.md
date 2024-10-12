@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s study proves that LLM-based AI models are flawed because they cannot reason](https://appleinsider.com/articles/24/10/12/apples-study-proves-that-llm-based-ai-models-are-flawed-because-they-cannot-reason?utm_medium=rss)
  - [A profile of, and interview with, Meta&#39;s Yann LeCun, who says today&#39;s AI models aren&#39;t intelligent and warnings about AI&#39;s existential peril are &quot;complete B.S.&quot; &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241012/p6#a241012p6)
  - [Meta suggests AI Northern Lights pics are as good as the real thing](https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Metaphor: ReFantazio is the rare fantasy game that goes beyond racism 101](https://www.theverge.com/24268103/metaphor-refantazio-review-atlus-xbox-persona)
- - [Apple’s cheapest iPads are still steeply discounted following Prime Day](https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale)<!-- TECH:END -->
+ - [Metaphor: ReFantazio is the rare fantasy game that goes beyond racism 101](https://www.theverge.com/24268103/metaphor-refantazio-review-atlus-xbox-persona)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
- - 😝 [Unexpected](http://9gag.com/gag/aPAYPdw)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 😝 [Time jump](http://9gag.com/gag/a34QyW5)
- - 👉 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)<!-- MEMES:END -->
+ - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 💣 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into you?](http://9gag.com/gag/ajP8L48)
- - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
- - 💣 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
- - 👉 [Without filters nowadays](http://9gag.com/gag/aAy34o9)<!-- MEMES:END -->
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 😝 [Time jump](http://9gag.com/gag/a34QyW5)
+ - 💣 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 
 ---
 

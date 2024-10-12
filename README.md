@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 😝 [Time jump](http://9gag.com/gag/a34QyW5)
- - 💣 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
+ - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 😝 [POV: You just became the new King of France](http://9gag.com/gag/ajP8WmQ)
+ - 💣 [Degradation as it is](http://9gag.com/gag/aZZL28n)
+ - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
+ - 👉 [European culture is pure magic](http://9gag.com/gag/ae9r25b)<!-- MEMES:END -->
 
 ---
 

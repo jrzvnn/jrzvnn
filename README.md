@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Banger.](http://9gag.com/gag/ae9rx4Q)
  - 😝 [Sneak 100](http://9gag.com/gag/aD21Z8d)
- - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 💣 [:-D...](http://9gag.com/gag/ayNB1V8)
- - 😝 [LPTV is my life!](http://9gag.com/gag/aAy3XyZ)
+ - 💣 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
  - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
 
 ---

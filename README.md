@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [Title](http://9gag.com/gag/aAy34o2)
- - 💣 [Soon](http://9gag.com/gag/aqyK8xR)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
+ - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
+ - 💣 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/an79xjB)<!-- MEMES:END -->
 
 ---
 

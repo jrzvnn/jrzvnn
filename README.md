@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
+ - [Leaker reveals alleged cases for forthcoming fourth-gen iPhone SE](https://appleinsider.com/articles/24/10/12/leaker-reveals-alleged-cases-for-forthcoming-fourth-gen-iphone-se?utm_medium=rss)
  - [Quick and Easy Tips for Perfectly Crispy Bacon](https://www.cnet.com/how-to/quick-and-easy-tips-for-perfectly-crispy-bacon/#ftag=CAD590a51e)
  - [Some Ukrainian soldiers say SpaceX has not done enough to crack down on illicit use of Starlink terminals by Russia to power its advance in Ukraine &lpar;Washington Post&rpar;](http://www.techmeme.com/241012/p9#a241012p9)
- - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
- - [23 Best Gifts for New Homeowners for the Holidays 2024](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
- - [This Babbel $149 lifetime deal makes learning a new language on your iPhone or Mac a breeze](https://appleinsider.com/articles/24/10/12/this-babbel-149-lifetime-deal-makes-learning-a-new-language-on-your-iphone-or-mac-a-breeze?utm_medium=rss)<!-- TECH:END -->
+ - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

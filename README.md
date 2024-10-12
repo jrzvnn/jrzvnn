@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 💣 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 👉 [Driver avoids pedestrian falling on road only to crash in other car](http://9gag.com/gag/aPAYPWR)<!-- MEMES:END -->
+ - 😝 [Sneak 100](http://9gag.com/gag/aD21Z8d)
+ - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 💣 [:-D...](http://9gag.com/gag/ayNB1V8)
+ - 😝 [LPTV is my life!](http://9gag.com/gag/aAy3XyZ)
+ - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
 
 ---
 

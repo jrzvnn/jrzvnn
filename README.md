@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 💣 [Have some omelette](http://9gag.com/gag/awyA4Y1)
  - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 💣 [Time jump](http://9gag.com/gag/a34QyW5)
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
  - 👉 [Usual culture](http://9gag.com/gag/aryGqXX)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 💣 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
- - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 👉 [Without filters nowadays](http://9gag.com/gag/aAy34o9)<!-- MEMES:END -->
+ - 😝 [How people commute to work in China](http://9gag.com/gag/axyzP81)
+ - 😝 [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 💣 [This should be taught at school](http://9gag.com/gag/a6ZOpwN)
+ - 😝 [Weird lady appreciation post: we deserve love too!](http://9gag.com/gag/aqyKxMY)
+ - 👉 [Degradation as it is](http://9gag.com/gag/aZZL28n)<!-- MEMES:END -->
 
 ---
 

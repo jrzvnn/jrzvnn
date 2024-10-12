@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)
  - [Starship’s fifth test flight is approved: where to watch the launch](https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october)
+ - [The Best Spots in Your Home To Help Indoor Plants Grow](https://www.cnet.com/how-to/best-places-for-indoor-houseplants/#ftag=CAD590a51e)
  - [Matt Mullenweg says WordPress is &quot;forking&quot; Advanced Custom Fields, a plugin developed by WP Engine; ACF team says the plugin was taken away &quot;without consent&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/241012/p10#a241012p10)
- - [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
- - [Leaker reveals alleged cases for forthcoming fourth-gen iPhone SE](https://appleinsider.com/articles/24/10/12/leaker-reveals-alleged-cases-for-forthcoming-fourth-gen-iphone-se?utm_medium=rss)
- - [Lemme Sleep Took Over My TikTok, So I Had to Try This Supplement Myself](https://www.cnet.com/health/sleep/lemme-sleep-was-taking-over-my-tiktok-so-i-had-to-try-it-myself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

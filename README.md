@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
- - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
- - 💣 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
  - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 💣 [Time jump](http://9gag.com/gag/a34QyW5)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 
 ---
 

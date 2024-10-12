@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lenovo ThinkBook Plus &lpar;Gen 5&rpar; Review: A Windows and Android Hybrid](https://www.wired.com/review/lenovo-thinkbook-plus-gen-5/)
- - [TikTokkers Say Cinnamon Helps Burn Fat. Here&#39;s What the Science Says](https://www.wired.com/story/fat-cinnamon-weight-loss-tiktok/)
- - [Best Walmart Holiday Deals Still Available: Final Hours for Big Saving on Tech, Home Good and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-12/#ftag=CAD590a51e)
- - [Watch UEFA Nations League Soccer: Livestream Croatia vs. Scotland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-croatia-vs-scotland-from-anywhere/#ftag=CAD590a51e)
- - [Apple&#39;s iOS 18 Finally Brings T9 Dialing to Your iPhone](https://www.cnet.com/tech/services-and-software/apples-ios-18-finally-brings-t9-dialing-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why You Should Be Playing Off The Grid, a New Battle Royale, Right Now](https://www.cnet.com/tech/gaming/why-you-should-be-playing-off-the-grid-a-new-battle-royale-right-now/#ftag=CAD590a51e)
+ - [I Made Perfect Air Fryer Brussels Sprouts in 10 Minutes With 3 Ingredients](https://www.cnet.com/how-to/i-made-perfect-air-fryer-brussels-sprouts-in-10-minutes-with-3-ingredients/#ftag=CAD590a51e)
+ - [Google TV Streamer Review: High-End Streaming for Power Users](https://www.cnet.com/tech/home-entertainment/google-tv-streamer-review-high-end-streaming-for-power-users/#ftag=CAD590a51e)
+ - [TikTokkers Say Cinnamon Helps Burn Fat. Here&#39;s What the Science Says](https://www.wired.com/story/fat-cinnamon-weight-loss-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

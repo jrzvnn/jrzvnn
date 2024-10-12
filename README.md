@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football nowadays](http://9gag.com/gag/aPAY8jB)
- - 😝 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)
- - 💣 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 👉 [Letting road rage get the best of you \ud83e\udd37\u2642\ufe0f](http://9gag.com/gag/aqyK6oQ)<!-- MEMES:END -->
+ - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 💣 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 😝 [Damn](http://9gag.com/gag/adBLn5j)
+ - 👉 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)<!-- MEMES:END -->
 
 ---
 

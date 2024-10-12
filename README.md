@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 😝 [Double dates](http://9gag.com/gag/a34QAQ7)
+ - 😝 [Without filters nowadays](http://9gag.com/gag/aAy34o9)
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
  - 💣 [Starman strikes again](http://9gag.com/gag/aO8Y4oM)
- - 😝 [Useful machinery #563](http://9gag.com/gag/aryGxP0)
- - 👉 [....](http://9gag.com/gag/aMVZnw1)<!-- MEMES:END -->
+ - 😝 [Soon](http://9gag.com/gag/aqyK8xR)
+ - 👉 [Double dates](http://9gag.com/gag/a34QAQ7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
- - 😝 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
- - 💣 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)
- - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
- - 👉 [Iwao Hakamada: World&#39;s Longest-Serving Death Row Inmate Declared Innocent After 56 Years](http://9gag.com/gag/a873656)<!-- MEMES:END -->
+ - 😝 [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 💣 [Double dates](http://9gag.com/gag/a34QAQ7)
+ - 😝 [Imagine getting put on leave because you - wait for it - want to hire the best people for the job.](http://9gag.com/gag/amoBMoV)
+ - 👉 [Bro did the math](http://9gag.com/gag/a2vZymZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quick and Easy Tips for Perfectly Crispy Bacon](https://www.cnet.com/how-to/quick-and-easy-tips-for-perfectly-crispy-bacon/#ftag=CAD590a51e)
  - [Some Ukrainian soldiers say SpaceX has not done enough to crack down on illicit use of Starlink terminals by Russia to power its advance in Ukraine &lpar;Washington Post&rpar;](http://www.techmeme.com/241012/p9#a241012p9)
  - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
  - [23 Best Gifts for New Homeowners for the Holidays 2024](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
- - [This Babbel $149 lifetime deal makes learning a new language on your iPhone or Mac a breeze](https://appleinsider.com/articles/24/10/12/this-babbel-149-lifetime-deal-makes-learning-a-new-language-on-your-iphone-or-mac-a-breeze?utm_medium=rss)<!-- TECH:END -->
+ - [This Babbel $149 lifetime deal makes learning a new language on your iPhone or Mac a breeze](https://appleinsider.com/articles/24/10/12/this-babbel-149-lifetime-deal-makes-learning-a-new-language-on-your-iphone-or-mac-a-breeze?utm_medium=rss)
+ - [NLRB accuses Apple of illegally restricting workers&#39; social media use](https://appleinsider.com/articles/24/10/12/nlrb-accuses-apple-of-illegally-restricting-workers-social-media-use?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
- - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 💣 [Sneak 100](http://9gag.com/gag/aD21Z8d)
- - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
- - 👉 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)<!-- MEMES:END -->
+ - 😝 [Double dates](http://9gag.com/gag/a34QAQ7)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 💣 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
 
 ---
 

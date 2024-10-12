@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling useless](http://9gag.com/gag/ayNBWVy)
  - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 💣 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 👉 [She just found out](http://9gag.com/gag/aQzRmg7)<!-- MEMES:END -->
+ - 😝 [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 💣 [Letting road rage get the best of you \ud83e\udd37\u2642\ufe0f](http://9gag.com/gag/aqyK6oQ)
+ - 😝 [Feeding bears](http://9gag.com/gag/amoBVL9)
+ - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
 
 ---
 

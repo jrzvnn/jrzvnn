@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 😝 [Get da phuck out](http://9gag.com/gag/aQzROQ2)
  - 😝 [POV: You just became the new King of France](http://9gag.com/gag/ajP8WmQ)
  - 💣 [Degradation as it is](http://9gag.com/gag/aZZL28n)
  - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)

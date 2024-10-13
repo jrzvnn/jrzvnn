@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 😝 [Those last two words saved him](http://9gag.com/gag/aE02DRN)
- - 💣 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 👉 [Migrants on Polish Belarus border try to use their usual tactic. The effect supruses them.](http://9gag.com/gag/a5QM21L)<!-- MEMES:END -->
+ - 😝 [Tork](http://9gag.com/gag/a6ZOGr8)
+ - 😝 [Netflix Junior](http://9gag.com/gag/aQzRyGe)
+ - 💣 [Not so bad](http://9gag.com/gag/avy8d7n)
+ - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
+ - 👉 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)<!-- MEMES:END -->
 
 ---
 

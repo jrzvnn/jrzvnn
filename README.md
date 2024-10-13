@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
- - 😝 [Architecture](http://9gag.com/gag/adBL2RD)
- - 💣 [Netflix is blaspheming as usual](http://9gag.com/gag/a34QNp5)
- - 😝 [100%](http://9gag.com/gag/a5QM2Qo)
- - 👉 [How people commute to work in China](http://9gag.com/gag/axyzP81)<!-- MEMES:END -->
+ - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 💣 [More police brutality](http://9gag.com/gag/aBy0XnN)
+ - 😝 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)
+ - 👉 [Against a white wall](http://9gag.com/gag/a5QMznL)<!-- MEMES:END -->
 
 ---
 

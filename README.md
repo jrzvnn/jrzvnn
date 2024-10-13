@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black Adam as Dwayne Johnson](http://9gag.com/gag/a1mQVB8)
- - 😝 [White trash names](http://9gag.com/gag/apRmPZn)
- - 💣 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 👉 [Usual culture](http://9gag.com/gag/aryGqXX)<!-- MEMES:END -->
+ - 😝 [Have some omelette](http://9gag.com/gag/awyA4Y1)
+ - 😝 [Peak of human technology](http://9gag.com/gag/an79x6L)
+ - 💣 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 😝 [Got a little hot](http://9gag.com/gag/aNDYV0r)
+ - 👉 [I would give every Hollywood movie that came out this year, and the ones to come.. Just for a sequel of this movie.](http://9gag.com/gag/a5QMGzV)<!-- MEMES:END -->
 
 ---
 

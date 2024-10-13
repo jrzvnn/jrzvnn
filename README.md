@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skip the Microwave: Expert Tips for Reheating Your Leftovers](https://www.cnet.com/how-to/skip-the-microwave-expert-tips-for-reheating-your-leftovers/#ftag=CAD590a51e)
- - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
+ - [Leesa Natural Hybrid Mattress Review 2024: A Comfortable Collaboration With West Elm](https://www.cnet.com/health/sleep/leesa-west-elm-natural-hybrid-mattress-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in Juneau, Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-juneau-ak/#ftag=CAD590a51e)
+ - [The Official Social Security COLA Increase Has Been Announced: What It Means for You](https://www.cnet.com/personal-finance/the-official-social-security-cola-increase-has-been-announced-what-it-means-for-you/#ftag=CAD590a51e)
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

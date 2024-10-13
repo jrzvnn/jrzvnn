@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 😝 [Bruh](http://9gag.com/gag/amoBpvd)
- - 💣 [Black Adam as Dwayne Johnson](http://9gag.com/gag/a1mQVB8)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 👉 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)<!-- MEMES:END -->
+ - 😝 [Have some omelette](http://9gag.com/gag/awyA4Y1)
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 💣 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aZZLRr3)
+ - 👉 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)<!-- MEMES:END -->
 
 ---
 

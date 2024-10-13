@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
  - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
- - 💣 [Architecture](http://9gag.com/gag/adBL2RD)
+ - 😝 [Architecture](http://9gag.com/gag/adBL2RD)
+ - 💣 [Netflix is blaspheming as usual](http://9gag.com/gag/a34QNp5)
  - 😝 [100%](http://9gag.com/gag/a5QM2Qo)
  - 👉 [How people commute to work in China](http://9gag.com/gag/axyzP81)<!-- MEMES:END -->
 

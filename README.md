@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX’s fifth Starship flight test has launched](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
  - [On Running Cloudboom Strike LS Review: More Bounces for Less Ounces](https://www.wired.com/review/on-running-cloudboom-strike-ls/)
  - [The Best Curling Irons of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-curling-iron/)
  - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Apple Watch Series 10 vs. Series 9: How the Two Watches Compare](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-how-the-two-watches-compare/#ftag=CAD590a51e)
- - [How to Find the Best Deals and Coupons Using AI](https://www.cnet.com/tech/services-and-software/how-to-find-the-best-deals-and-coupons-using-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 10 vs. Series 9: How the Two Watches Compare](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-how-the-two-watches-compare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

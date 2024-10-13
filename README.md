@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 😝 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
- - 💣 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
- - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
- - 👉 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)<!-- MEMES:END -->
+ - 😝 [Brain](http://9gag.com/gag/aryGzXX)
+ - 😝 [This is insane. Catching a rocket booster with metal arms. What a time to be alive](http://9gag.com/gag/abAYEWE)
+ - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 👉 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)<!-- MEMES:END -->
 
 ---
 

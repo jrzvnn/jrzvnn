@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Frederick, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)
- - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
- - [New 401&lpar;k&rpar; Rules, Catchup Contributions and More: What Secure 2.0&#39;s Retirement Changes Mean for You](https://www.cnet.com/personal-finance/investing/new-401k-rules-catchup-contributions-and-more-what-secure-2-s-retirement-changes-mean-for-you/#ftag=CAD590a51e)
- - [My Favorite Credit Card for the Holidays Might Surprise You](https://www.cnet.com/personal-finance/credit-cards/my-favorite-credit-card-for-the-holiday-shopping-might-surprise-you/#ftag=CAD590a51e)
- - [My Spending Trigger Is FOMO. Here&#39;s How I Keep It in Check](https://www.cnet.com/personal-finance/banking/my-spending-trigger-is-fomo-how-i-keep-it-in-check/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: Ferrari thief busted by AirPods, Oklahoma iPhone porch pirates, more](https://appleinsider.com/articles/24/10/13/crime-blotter-ferrari-thief-busted-by-airpods-oklahoma-iphone-porch-pirates-more?utm_medium=rss)
+ - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
+ - [Chargers vs. Broncos Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/chargers-vs-broncos-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Steelers vs. Raiders Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/steelers-vs-raiders-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Best Internet Providers in Harrisburg, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-harrisburg-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

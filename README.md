@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Piece by Piece&#39; Director Morgan Neville Will Never Use AI Again](https://www.wired.com/story/piece-by-piece-director-morgan-neville-will-never-use-ai-again/)
  - [The Foolproof Way to Fold a Fitted Sheet &lpar;With Pictures&rpar;](https://www.cnet.com/health/sleep/the-foolproof-way-to-fold-a-fitted-sheet-with-pictures/#ftag=CAD590a51e)
  - [Sunshine in a Capsule: Vitamin D Supplements Explained and Who Should Take Them](https://www.cnet.com/health/nutrition/vitamin-d-supplements-explained-who-should-take-them/#ftag=CAD590a51e)
  - [iOS 18: How to Change Your iPhone&#39;s Lock Screen Controls](https://www.cnet.com/tech/services-and-software/ios-18-how-to-change-your-iphones-lock-screen-controls/#ftag=CAD590a51e)
- - [Cells From Different Species Can Exchange ‘Text Messages’ Using RNA](https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/)
- - [WOW Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/wow-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cells From Different Species Can Exchange ‘Text Messages’ Using RNA](https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

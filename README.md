@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
- - 😝 [Billie Barbequed...](http://9gag.com/gag/aAy325Z)
- - 💣 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
- - 😝 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)
- - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 😝 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
+ - 💣 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
+ - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
+ - 👉 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)<!-- MEMES:END -->
 
 ---
 

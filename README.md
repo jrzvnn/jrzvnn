@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Piece by Piece&#39; Director Morgan Neville Will Never Use AI Again](https://www.wired.com/story/piece-by-piece-director-morgan-neville-will-never-use-ai-again/)
- - [The Foolproof Way to Fold a Fitted Sheet &lpar;With Pictures&rpar;](https://www.cnet.com/health/sleep/the-foolproof-way-to-fold-a-fitted-sheet-with-pictures/#ftag=CAD590a51e)
- - [Sunshine in a Capsule: Vitamin D Supplements Explained and Who Should Take Them](https://www.cnet.com/health/nutrition/vitamin-d-supplements-explained-who-should-take-them/#ftag=CAD590a51e)
- - [iOS 18: How to Change Your iPhone&#39;s Lock Screen Controls](https://www.cnet.com/tech/services-and-software/ios-18-how-to-change-your-iphones-lock-screen-controls/#ftag=CAD590a51e)
- - [Cells From Different Species Can Exchange ‘Text Messages’ Using RNA](https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/)<!-- TECH:END -->
+ - [On Running Cloudboom Strike LS Review: More Bounces for Less Ounces](https://www.wired.com/review/on-running-cloudboom-strike-ls/)
+ - [The Best Curling Irons of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-curling-iron/)
+ - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
+ - [Apple Watch Series 10 vs. Series 9: How the Two Watches Compare](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-how-the-two-watches-compare/#ftag=CAD590a51e)
+ - [How to Find the Best Deals and Coupons Using AI](https://www.cnet.com/tech/services-and-software/how-to-find-the-best-deals-and-coupons-using-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

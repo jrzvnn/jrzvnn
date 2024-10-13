@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Browns vs. Eagles Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/browns-vs-eagles-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
- - [Best Internet Providers in Kingsport, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-kingsport-tn/#ftag=CAD590a51e)
- - [The Optimus robots at Tesla’s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
- - [Analysis: US regulators have secured $19.45B across eight settlements from crypto firms so far in 2024, including FTX&#39;s $12.7B, and ~$32B since January 1, 2019 &lpar;Lim Yu Qian/CoinGecko&rpar;](http://www.techmeme.com/241013/p7#a241013p7)
- - [Falcons vs. Panthers Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/falcons-vs-panthers-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Skip the Microwave: Expert Tips for Reheating Your Leftovers](https://www.cnet.com/how-to/skip-the-microwave-expert-tips-for-reheating-your-leftovers/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)
+ - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
+ - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

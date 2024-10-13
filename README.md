@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Chinese social e-commerce app Xiaohongshu had $200M in net profit on $1B+ revenue in Q1 2024, up from $40M in net profit on ~$600M revenue in Q1 2023 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241012/p12#a241012p12)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 13, #490](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-13-490/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 13, #1212](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-13-1212/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 13, #224](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-13-224/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Indianapolis, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-indianapolis-in/#ftag=CAD590a51e)
+ - [Best Latex Mattress of 2024, Tested and Hand-Selected by Our Experts](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lakewood, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

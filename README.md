@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some architects and designers are creating photorealistic virtual spaces in the metaverse; report: 41% of architectural practices use AI to some degree &lpar;Victoria Woodcock/Financial Times&rpar;](http://www.techmeme.com/241013/p4#a241013p4)
- - [NFL London Game: How to Watch, Stream Bears vs. Jaguars This Morning](https://www.cnet.com/tech/services-and-software/nfl-london-game-how-to-watch-stream-bears-vs-jaguars-this-morning/#ftag=CAD590a51e)
- - [High-End Fashion Dupes Are Soaring Where Knock-Offs Never Could](https://www.wired.com/story/high-end-fashion-dupes-are-soaring-where-knock-offs-never-could/)
- - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Foolproof Way to Fold a Fitted Sheet &lpar;With Pictures&rpar;](https://www.cnet.com/health/sleep/the-foolproof-way-to-fold-a-fitted-sheet-with-pictures/#ftag=CAD590a51e)
+ - [Sunshine in a Capsule: Vitamin D Supplements Explained and Who Should Take Them](https://www.cnet.com/health/nutrition/vitamin-d-supplements-explained-who-should-take-them/#ftag=CAD590a51e)
+ - [iOS 18: How to Change Your iPhone&#39;s Lock Screen Controls](https://www.cnet.com/tech/services-and-software/ios-18-how-to-change-your-iphones-lock-screen-controls/#ftag=CAD590a51e)
+ - [Cells From Different Species Can Exchange ‘Text Messages’ Using RNA](https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/)
+ - [WOW Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/wow-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Great Bread Slicers for Guaranteed Uniform Sandwiches](https://www.cnet.com/news/best-bread-slicers/#ftag=CAD590a51e)
  - [RedCap, the 5G for wearables and IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
  - [23 Best Luxury Gifts for Those Who Seem to Have Everything](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
  - [Best Cloud Storage Software Options](https://www.cnet.com/tech/services-and-software/best-cloud-storage-software-options/#ftag=CAD590a51e)
- - [Leaked fourth-gen iPhone SE cases show design changes &amp; camera placement](https://appleinsider.com/articles/24/10/12/leaker-reveals-alleged-cases-for-forthcoming-fourth-gen-iphone-se?utm_medium=rss)
- - [X blocked hacked JD Vance dossier links after the Trump campaign flagged it](https://www.theverge.com/2024/10/13/24269234/x-blocked-jd-vance-dossier-after-trump-campaign-request)<!-- TECH:END -->
+ - [Leaked fourth-gen iPhone SE cases show design changes &amp; camera placement](https://appleinsider.com/articles/24/10/12/leaker-reveals-alleged-cases-for-forthcoming-fourth-gen-iphone-se?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

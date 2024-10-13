@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
- - 😝 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
- - 💣 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 😝 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
- - 👉 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)<!-- MEMES:END -->
+ - 😝 [Against a white wall](http://9gag.com/gag/a5QMznL)
+ - 💣 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 😝 [Have some omelette](http://9gag.com/gag/awyA4Y1)
+ - 👉 [Don\u2019t eat your sandwich outdoors](http://9gag.com/gag/a9yK8G1)<!-- MEMES:END -->
 
 ---
 

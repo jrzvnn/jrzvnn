@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Against a white wall](http://9gag.com/gag/a5QMznL)
- - 😝 [More police brutality](http://9gag.com/gag/aBy0XnN)
- - 💣 [We gonna live! We gonna die!](http://9gag.com/gag/aZZLRx6)
+ - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
  - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 👉 [Don&#39;t stick your D in crazy](http://9gag.com/gag/adBLevV)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/avy8xRO)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 👉 [Dead inside](http://9gag.com/gag/agmnK51)<!-- MEMES:END -->
 
 ---
 

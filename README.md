@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
- - 😝 [Against a white wall](http://9gag.com/gag/a5QMznL)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 😝 [Have some omelette](http://9gag.com/gag/awyA4Y1)
- - 👉 [Don\u2019t eat your sandwich outdoors](http://9gag.com/gag/a9yK8G1)<!-- MEMES:END -->
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 😝 [Bruh](http://9gag.com/gag/amoBpvd)
+ - 💣 [Black Adam as Dwayne Johnson](http://9gag.com/gag/a1mQVB8)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 👉 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)<!-- MEMES:END -->
 
 ---
 

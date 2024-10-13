@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t stick your D in crazy](http://9gag.com/gag/adBLevV)
- - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
+ - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
  - 💣 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
- - 😝 [Against a white wall](http://9gag.com/gag/a5QMznL)
- - 👉 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)<!-- MEMES:END -->
+ - 😝 [War...what is it good for?](http://9gag.com/gag/axyzRRp)
+ - 👉 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)<!-- MEMES:END -->
 
 ---
 

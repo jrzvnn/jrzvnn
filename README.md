@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brain](http://9gag.com/gag/aryGzXX)
- - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
- - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 👉 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)<!-- MEMES:END -->
+ - 😝 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)
+ - 😝 [They f**king nailed it](http://9gag.com/gag/aE02EPo)
+ - 💣 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
+ - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
+ - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
+ - 😝 [Don&#39;t stick your D in crazy](http://9gag.com/gag/adBLevV)
  - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
- - 💣 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 💣 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
  - 😝 [Against a white wall](http://9gag.com/gag/a5QMznL)
- - 👉 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)<!-- MEMES:END -->
+ - 👉 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)<!-- MEMES:END -->
 
 ---
 

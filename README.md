@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 💣 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)
- - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 👉 [More police brutality](http://9gag.com/gag/aBy0XnN)<!-- MEMES:END -->
+ - 😝 [Netflix is blaspheming as usual](http://9gag.com/gag/a34QNp5)
+ - 😝 [Tork](http://9gag.com/gag/a6ZOGr8)
+ - 💣 [Netflix Junior](http://9gag.com/gag/aQzRyGe)
+ - 😝 [Not so bad](http://9gag.com/gag/avy8d7n)
+ - 👉 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)<!-- MEMES:END -->
 
 ---
 

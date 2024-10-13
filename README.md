@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 💣 [White trash names](http://9gag.com/gag/apRmPZn)
+ - 😝 [Black Adam as Dwayne Johnson](http://9gag.com/gag/a1mQVB8)
+ - 😝 [White trash names](http://9gag.com/gag/apRmPZn)
+ - 💣 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
  - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 👉 [Without filters nowadays](http://9gag.com/gag/aAy34o9)<!-- MEMES:END -->
+ - 👉 [Usual culture](http://9gag.com/gag/aryGqXX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Putt-Putt champions of the internet](https://www.theverge.com/2024/10/13/24267880/mini-golf-twin-tour-tiktok-sanicki-vergecast)
  - [Cheaper Apple Vision headset rumored to cost $2000, arriving in 2026](https://appleinsider.com/articles/24/10/13/cheaper-apple-vision-headset-rumored-to-cost-2000-arriving-in-2026?utm_medium=rss)
  - [Apple Smart Glasses, AirPods with cameras could finally arrive in 2027](https://appleinsider.com/articles/24/10/13/apple-smart-glasses-airpods-with-cameras-could-finally-arrive-in-2027?utm_medium=rss)
  - [MSI Vision Elite RS Review: A Vision of Gaming Perfection](https://www.wired.com/review/msi-vision-elite-rs-gaming-pc/)
- - [Make the Best Salmon of 2024 in Your Air Fryer](https://www.cnet.com/how-to/make-the-best-salmon-of-2024-in-your-air-fryer/#ftag=CAD590a51e)
- - [Watch UEFA Nations League Soccer: Livestream Finland vs. England From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-finland-vs-england-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Make the Best Salmon of 2024 in Your Air Fryer](https://www.cnet.com/how-to/make-the-best-salmon-of-2024-in-your-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

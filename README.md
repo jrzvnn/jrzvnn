@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
  - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 💣 [More police brutality](http://9gag.com/gag/aBy0XnN)
  - 😝 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)
- - 👉 [Against a white wall](http://9gag.com/gag/a5QMznL)<!-- MEMES:END -->
+ - 💣 [Don&#39;t stick your D in crazy](http://9gag.com/gag/adBLevV)
+ - 😝 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
+ - 👉 [We gonna live! We gonna die!](http://9gag.com/gag/aZZLRx6)<!-- MEMES:END -->
 
 ---
 

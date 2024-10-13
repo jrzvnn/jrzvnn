@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cyberbullying of yesteryears](http://9gag.com/gag/aGyZO4n)
  - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 💣 [Have some omelette](http://9gag.com/gag/awyA4Y1)
- - 😝 [The origin of the website name &lpar;have to censor so it can be posted&rpar;](http://9gag.com/gag/ayNB1d8)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)<!-- MEMES:END -->
+ - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 💣 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 👉 [Have some omelette](http://9gag.com/gag/awyA4Y1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She got rejected and couldn&#39;t handle it](http://9gag.com/gag/aYQYmvN)
- - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 💣 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
- - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
- - 👉 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)<!-- MEMES:END -->
+ - 😝 [Brain](http://9gag.com/gag/aryGzXX)
+ - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [This is insane. Catching a rocket booster with metal arms. What a time to be alive](http://9gag.com/gag/abAYEWE)
+ - 👉 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How some architects and designers are creating photorealistic virtual spaces in the metaverse; report: 41% of architectural practices use AI to some degree &lpar;Victoria Woodcock/Financial Times&rpar;](http://www.techmeme.com/241013/p4#a241013p4)
- - [NFL London Game: How to Watch, Stream Bears vs. Jaguars This Morning](https://www.cnet.com/tech/services-and-software/nfl-london-game-how-to-watch-stream-bears-vs-jaguars-this-morning/#ftag=CAD590a51e)
  - [High-End Fashion Dupes Are Soaring Where Knock-Offs Never Could](https://www.wired.com/story/high-end-fashion-dupes-are-soaring-where-knock-offs-never-could/)
- - [Best Mattress for Guest Rooms of 2024](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [A look at sports data tech companies like Sportradar, which set betting odds for sports gambling apps and websites, as they build models to keep people betting &lpar;Samanth Subramanian/Bloomberg&rpar;](http://www.techmeme.com/241013/p3#a241013p3)
+ - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 😝 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)
- - 💣 [Don&#39;t stick your D in crazy](http://9gag.com/gag/adBLevV)
- - 😝 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
- - 👉 [We gonna live! We gonna die!](http://9gag.com/gag/aZZLRx6)<!-- MEMES:END -->
+ - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
+ - 😝 [Architecture](http://9gag.com/gag/adBL2RD)
+ - 💣 [100%](http://9gag.com/gag/a5QM2Qo)
+ - 😝 [Now i want this](http://9gag.com/gag/ae9r7yB)
+ - 👉 [How people commute to work in China](http://9gag.com/gag/axyzP81)<!-- MEMES:END -->
 
 ---
 

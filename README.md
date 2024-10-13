@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CA-Pacific-Northwest AI Hardware Hub, which is researching hybrid gain cell memory to blend DRAM&#39;s density with SRAM&#39;s speed, gets a $16.3M CHIPS Act grant &lpar;Katherine Bourzac/IEEE Spectrum&rpar;](http://www.techmeme.com/241013/p2#a241013p2)
  - [Report: Chinese video surveillance tech supplier Hikvision plans to lay off 1,000+ employees in its R&amp;D department; Hikvision denied any &quot;large-scale lay-offs&quot; &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241013/p1#a241013p1)
  - [Best Internet Providers in Lincoln, Nebraska](https://www.cnet.com/home/internet/best-internet-providers-in-lincoln-ne/#ftag=CAD590a51e)
  - [Best Bug Sprays for 2024](https://www.cnet.com/health/personal-care/best-bug-sprays/#ftag=CAD590a51e)
- - [Sources: Chinese social e-commerce app Xiaohongshu had $200M in net profit on $1B+ revenue in Q1 2024, up from $40M in net profit on ~$600M revenue in Q1 2023 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241012/p12#a241012p12)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 13, #490](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-13-490/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Chinese social e-commerce app Xiaohongshu had $200M in net profit on $1B+ revenue in Q1 2024, up from $40M in net profit on ~$600M revenue in Q1 2023 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241012/p12#a241012p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

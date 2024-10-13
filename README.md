@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 😝 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)
- - 💣 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
- - 😝 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
- - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
+ - 😝 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)
+ - 😝 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)
+ - 💣 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 😝 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
+ - 👉 [War...what is it good for?](http://9gag.com/gag/axyzRRp)<!-- MEMES:END -->
 
 ---
 

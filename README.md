@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Browns vs. Eagles Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/browns-vs-eagles-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Best Internet Providers in Kingsport, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-kingsport-tn/#ftag=CAD590a51e)
  - [The Optimus robots at Tesla’s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
- - [Analysis: US regulators have secured $19B+ in eight settlements from crypto firms so far in 2024, including FTX&#39;s $12.7B, and ~$32B since January 1, 2019 &lpar;Lim Yu Qian/CoinGecko&rpar;](http://www.techmeme.com/241013/p7#a241013p7)
- - [Crime blotter: Ferrari thief busted by AirPods, Oklahoma iPhone porch pirates, more](https://appleinsider.com/articles/24/10/13/crime-blotter-ferrari-thief-busted-by-airpods-oklahoma-iphone-porch-pirates-more?utm_medium=rss)
- - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
- - [Chargers vs. Broncos Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/chargers-vs-broncos-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: US regulators have secured $19.45B across eight settlements from crypto firms so far in 2024, including FTX&#39;s $12.7B, and ~$32B since January 1, 2019 &lpar;Lim Yu Qian/CoinGecko&rpar;](http://www.techmeme.com/241013/p7#a241013p7)
+ - [Falcons vs. Panthers Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/falcons-vs-panthers-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

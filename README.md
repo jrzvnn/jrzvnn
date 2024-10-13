@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 💣 [Wtf](http://9gag.com/gag/avy8xRO)
+ - 😝 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
  - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 👉 [Dead inside](http://9gag.com/gag/agmnK51)<!-- MEMES:END -->
+ - 💣 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)
+ - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 👉 [More police brutality](http://9gag.com/gag/aBy0XnN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)
- - 😝 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)
- - 💣 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 😝 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
- - 👉 [War...what is it good for?](http://9gag.com/gag/axyzRRp)<!-- MEMES:END -->
+ - 😝 [She got rejected and couldn&#39;t handle it](http://9gag.com/gag/aYQYmvN)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 💣 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
+ - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - 👉 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)<!-- MEMES:END -->
 
 ---
 

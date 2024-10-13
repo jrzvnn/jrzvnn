@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
- - 💣 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 😝 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 👉 [Have some omelette](http://9gag.com/gag/awyA4Y1)<!-- MEMES:END -->
+ - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
+ - 😝 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
+ - 💣 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 😝 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
+ - 👉 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)<!-- MEMES:END -->
 
 ---
 

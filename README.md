@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tork](http://9gag.com/gag/a6ZOGr8)
- - 😝 [Netflix Junior](http://9gag.com/gag/aQzRyGe)
- - 💣 [Not so bad](http://9gag.com/gag/avy8d7n)
- - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
- - 👉 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)<!-- MEMES:END -->
+ - 😝 [Flame on!](http://9gag.com/gag/avy8Rxn)
+ - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
+ - 💣 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 👉 [War...what is it good for?](http://9gag.com/gag/axyzRRp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Spending Trigger Is FOMO. Here&#39;s How I Keep It in Check](https://www.cnet.com/personal-finance/banking/my-spending-trigger-is-fomo-how-i-keep-it-in-check/#ftag=CAD590a51e)
- - [Is &#39;Cycle Syncing&#39; Real? Why People Are Scheduling Their Lives to the Tune of Their Menstrual Cycle](https://www.cnet.com/health/medical/is-cycle-syncing-real-why-people-are-scheduling-their-lives-to-the-tune-of-their-menstrual-cycle/#ftag=CAD590a51e)
- - [SpaceX Starship Launch 5: Everything That Happened in 5 Minutes video](https://www.cnet.com/videos/spacex-starship-launch-5-everything-that-happened-in-5-minutes/#ftag=CAD590a51e)
- - [11 Best Lubes of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
- - [SpaceX’s Starship test completes with a remarkable ‘chopstick’ booster catch](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)<!-- TECH:END -->
+ - [Best Internet Providers in Frederick, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)
+ - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
+ - [New 401&lpar;k&rpar; Rules, Catchup Contributions and More: What Secure 2.0&#39;s Retirement Changes Mean for You](https://www.cnet.com/personal-finance/investing/new-401k-rules-catchup-contributions-and-more-what-secure-2-s-retirement-changes-mean-for-you/#ftag=CAD590a51e)
+ - [My Favorite Credit Card for the Holidays Might Surprise You](https://www.cnet.com/personal-finance/credit-cards/my-favorite-credit-card-for-the-holiday-shopping-might-surprise-you/#ftag=CAD590a51e)
+ - [My Spending Trigger Is FOMO. Here&#39;s How I Keep It in Check](https://www.cnet.com/personal-finance/banking/my-spending-trigger-is-fomo-how-i-keep-it-in-check/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

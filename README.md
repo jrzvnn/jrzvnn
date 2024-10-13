@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Lubes of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
  - [SpaceX’s Starship test completes with a remarkable ‘chopstick’ booster catch](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
  - [An energy crunch is forcing continued coal burning in a low-income area in North Omaha, Nebraska, as Meta and Google data centers strain regional power supply &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/241013/p6#a241013p6)
  - [A look at Apple&#39;s new home strategy and plans to launch a ~$2K headset in 2025, Vision Pro 2 in 2026, and Ray-Ban-like glasses and AirPods with cameras in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241013/p5#a241013p5)
- - [The Putt-Putt champions of the internet](https://www.theverge.com/2024/10/13/24267880/mini-golf-twin-tour-tiktok-sanicki-vergecast)
- - [Cheaper Apple Vision headset rumored to cost $2000, arriving in 2026](https://appleinsider.com/articles/24/10/13/cheaper-apple-vision-headset-rumored-to-cost-2000-arriving-in-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Max: The 24 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-max-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

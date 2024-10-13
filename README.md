@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
  - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
  - [Q&amp;A with physicist Lenka Zdeborov&amp;aacute; on how the physics of phase transitions in matter can help model the behavior of algorithms, understanding LLMs, and more &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/241012/p11#a241012p11)
- - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)
- - [Best Walmart Holiday Deals Still Available: Last Chance for Big Saving on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-12/#ftag=CAD590a51e)
- - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Johnson City, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-johnson-city-tn/#ftag=CAD590a51e)
+ - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 💣 [War...what is it good for?](http://9gag.com/gag/axyzRRp)
+ - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 💣 [Dead inside](http://9gag.com/gag/agmnK51)
  - 😝 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)
- - 👉 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)<!-- MEMES:END -->
+ - 👉 [Was Mike serious?](http://9gag.com/gag/aqyKD4Q)<!-- MEMES:END -->
 
 ---
 

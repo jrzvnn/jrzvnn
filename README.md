@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 💣 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)
+ - 💣 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
  - 😝 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
- - 👉 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)<!-- MEMES:END -->
+ - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
 
 ---
 

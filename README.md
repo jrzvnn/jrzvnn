@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brain](http://9gag.com/gag/aryGzXX)
- - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 😝 [This is insane. Catching a rocket booster with metal arms. What a time to be alive](http://9gag.com/gag/abAYEWE)
- - 👉 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)<!-- MEMES:END -->
+ - 😝 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
+ - 😝 [Billie Barbequed...](http://9gag.com/gag/aAy325Z)
+ - 💣 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
+ - 😝 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)
+ - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
 
 ---
 

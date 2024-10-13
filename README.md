@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have some omelette](http://9gag.com/gag/awyA4Y1)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 💣 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aZZLRr3)
- - 👉 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)<!-- MEMES:END -->
+ - 😝 [Against a white wall](http://9gag.com/gag/a5QMznL)
+ - 😝 [Atlanta is not a real place](http://9gag.com/gag/aGyZOLK)
+ - 💣 [Have some omelette](http://9gag.com/gag/awyA4Y1)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 👉 [She just found out](http://9gag.com/gag/aQzRmg7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Leesa Natural Hybrid Mattress Review 2024: A Comfortable Collaboration With West Elm](https://www.cnet.com/health/sleep/leesa-west-elm-natural-hybrid-mattress-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Juneau, Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-juneau-ak/#ftag=CAD590a51e)
- - [The Official Social Security COLA Increase Has Been Announced: What It Means for You](https://www.cnet.com/personal-finance/the-official-social-security-cola-increase-has-been-announced-what-it-means-for-you/#ftag=CAD590a51e)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Browns vs. Eagles Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/browns-vs-eagles-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Best Internet Providers in Kingsport, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-kingsport-tn/#ftag=CAD590a51e)
+ - [The Optimus robots at Tesla’s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
+ - [Analysis: US regulators have secured $19.45B across eight settlements from crypto firms so far in 2024, including FTX&#39;s $12.7B, and ~$32B since January 1, 2019 &lpar;Lim Yu Qian/CoinGecko&rpar;](http://www.techmeme.com/241013/p7#a241013p7)
+ - [Falcons vs. Panthers Livestream: How to Watch NFL Week 6 Online Today](https://www.cnet.com/tech/services-and-software/falcons-vs-panthers-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

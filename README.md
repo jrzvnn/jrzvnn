@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flame on!](http://9gag.com/gag/avy8Rxn)
- - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
- - 💣 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 👉 [War...what is it good for?](http://9gag.com/gag/axyzRRp)<!-- MEMES:END -->
+ - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 💣 [Was Mike serious?](http://9gag.com/gag/aqyKD4Q)
+ - 😝 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
+ - 👉 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)<!-- MEMES:END -->
 
 ---
 

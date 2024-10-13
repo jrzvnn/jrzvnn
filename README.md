@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flexing gone wrong](http://9gag.com/gag/a4PQVX1)
- - 😝 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)
- - 💣 [Dead inside](http://9gag.com/gag/agmnK51)
- - 😝 [Was Mike serious?](http://9gag.com/gag/aqyKD4Q)
- - 👉 [Usual culture](http://9gag.com/gag/aryGqXX)<!-- MEMES:END -->
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 💣 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 😝 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)
+ - 👉 [Broken hit rate buff](http://9gag.com/gag/apRmAw5)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at sports data tech companies like Sportradar, which set betting odds for sports gambling apps and websites, as they build models to keep people betting &lpar;Samanth Subramanian/Bloomberg&rpar;](http://www.techmeme.com/241013/p3#a241013p3)
  - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
- - [The CA-Pacific-Northwest AI Hardware Hub, which is researching hybrid gain cell memory to blend DRAM&#39;s density with SRAM&#39;s speed, gets a $16.3M CHIPS Act grant &lpar;Katherine Bourzac/IEEE Spectrum&rpar;](http://www.techmeme.com/241013/p2#a241013p2)
+ - [The Northwest-AI-Hub, which is researching hybrid gain cell memory that combines DRAM&#39;s density with SRAM&#39;s speed, gets a $16.3M CHIPS Act grant via the US DOD &lpar;Katherine Bourzac/IEEE Spectrum&rpar;](http://www.techmeme.com/241013/p2#a241013p2)
  - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
  - [Report: Chinese video surveillance tech supplier Hikvision plans to lay off 1,000+ employees in its R&amp;D department; Hikvision denied any &quot;large-scale lay-offs&quot; &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241013/p1#a241013p1)<!-- TECH:END -->
 

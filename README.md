@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
  - [Q&amp;A with physicist Lenka Zdeborov&amp;aacute; on how the physics of phase transitions in matter can help model the behavior of algorithms, understanding LLMs, and more &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/241012/p11#a241012p11)
- - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)
- - [Starship’s fifth test flight is approved: where to watch the launch](https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october)
- - [The Best Spots in Your Home To Help Indoor Plants Grow](https://www.cnet.com/how-to/best-places-for-indoor-houseplants/#ftag=CAD590a51e)
- - [Matt Mullenweg says WordPress is &quot;forking&quot; Advanced Custom Fields, a plugin developed by WP Engine; ACF team says the plugin was taken away &quot;without consent&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/241012/p10#a241012p10)<!-- TECH:END -->
+ - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)
+ - [Best Walmart Holiday Deals Still Available: Last Chance for Big Saving on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-12/#ftag=CAD590a51e)
+ - [Best Internet Providers in Honolulu, Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

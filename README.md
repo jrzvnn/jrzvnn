@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Spending Trigger Is FOMO. Here&#39;s How I Keep It in Check](https://www.cnet.com/personal-finance/banking/my-spending-trigger-is-fomo-how-i-keep-it-in-check/#ftag=CAD590a51e)
+ - [Is &#39;Cycle Syncing&#39; Real? Why People Are Scheduling Their Lives to the Tune of Their Menstrual Cycle](https://www.cnet.com/health/medical/is-cycle-syncing-real-why-people-are-scheduling-their-lives-to-the-tune-of-their-menstrual-cycle/#ftag=CAD590a51e)
+ - [SpaceX Starship Launch 5: Everything That Happened in 5 Minutes video](https://www.cnet.com/videos/spacex-starship-launch-5-everything-that-happened-in-5-minutes/#ftag=CAD590a51e)
  - [11 Best Lubes of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
- - [SpaceX’s Starship test completes with a remarkable ‘chopstick’ booster catch](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
- - [An energy crunch is forcing continued coal burning in a low-income area in North Omaha, Nebraska, as Meta and Google data centers strain regional power supply &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/241013/p6#a241013p6)
- - [A look at Apple&#39;s new home strategy and plans to launch a ~$2K headset in 2025, Vision Pro 2 in 2026, and Ray-Ban-like glasses and AirPods with cameras in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241013/p5#a241013p5)
- - [Max: The 24 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-max-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX’s Starship test completes with a remarkable ‘chopstick’ booster catch](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

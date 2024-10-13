@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Brain](http://9gag.com/gag/aryGzXX)
  - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
- - 😝 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)
- - 💣 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 😝 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
- - 👉 [Deaf girl tries caption glasses](http://9gag.com/gag/aqyKA4v)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 👉 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)<!-- MEMES:END -->
 
 ---
 

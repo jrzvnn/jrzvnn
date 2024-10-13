@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cheaper Apple Vision headset rumored to cost $2000, arriving in 2026](https://appleinsider.com/articles/24/10/13/cheaper-apple-vision-headset-rumored-to-cost-2000-arriving-in-2026?utm_medium=rss)
  - [Apple Smart Glasses, AirPods with cameras could finally arrive in 2027](https://appleinsider.com/articles/24/10/13/apple-smart-glasses-airpods-with-cameras-could-finally-arrive-in-2027?utm_medium=rss)
  - [MSI Vision Elite RS Review: A Vision of Gaming Perfection](https://www.wired.com/review/msi-vision-elite-rs-gaming-pc/)
- - [SpaceX launches Starship and catches its Super Heavy booster for the first time](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
- - [On Running Cloudboom Strike LS Review: More Bounces for Less Ounces](https://www.wired.com/review/on-running-cloudboom-strike-ls/)
- - [The Best Curling Irons of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-curling-iron/)<!-- TECH:END -->
+ - [Make the Best Salmon of 2024 in Your Air Fryer](https://www.cnet.com/how-to/make-the-best-salmon-of-2024-in-your-air-fryer/#ftag=CAD590a51e)
+ - [Watch UEFA Nations League Soccer: Livestream Finland vs. England From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-finland-vs-england-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

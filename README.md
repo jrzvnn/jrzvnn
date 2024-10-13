@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 😝 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)
- - 💣 [Found this at the gym,](http://9gag.com/gag/ajP8KnG)
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 👉 [She just found out](http://9gag.com/gag/aQzRmg7)<!-- MEMES:END -->
+ - 😝 [Morning boost before work.](http://9gag.com/gag/awyAOGy)
+ - 😝 [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
+ - 💣 [Architecture](http://9gag.com/gag/adBL2RD)
+ - 😝 [100%](http://9gag.com/gag/a5QM2Qo)
+ - 👉 [How people commute to work in China](http://9gag.com/gag/axyzP81)<!-- MEMES:END -->
 
 ---
 

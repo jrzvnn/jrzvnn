@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sebastien Bubeck, Microsoft&#39;s VP of GenAI research who is known for his work on Microsoft&#39;s Phi small language models, is leaving the company to join OpenAI &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241014/p17#a241014p17)
+ - [Pokémon developer faces major data leak](https://www.theverge.com/2024/10/14/24270226/pokemon-game-freak-data-leak-confirmed)
  - [New in iOS 18.1 developer beta 7: Translucent Clock widgets and under-the-hood enhancements](https://appleinsider.com/articles/24/10/14/new-in-ios-181-developer-beta-7-translucent-clock-widgets-and-under-the-hood-enhancements?utm_medium=rss)
  - [Best Buy selling exclusive black &amp; gold Beats Studio Pro headphones](https://appleinsider.com/articles/24/10/14/best-buy-selling-exclusive-black-gold-beats-studio-pro-headphones?utm_medium=rss)
- - [A Destiny Mobile Game Is Coming From the Co-Developer of Diablo Immortal](https://www.cnet.com/tech/gaming/a-destiny-mobile-game-is-coming-from-the-co-developer-of-diablo-immortal/#ftag=CAD590a51e)
- - [Matt Mullenweg responds to DHH&#39;s claim that &quot;Automattic is doing open source dirty&quot;, pointing out Rails&#39; own trademark policy and taking some jabs at 37signals &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/241014/p16#a241014p16)
- - [Best iPad Air Deals: Save on Apple&#39;s Latest M2 Tablets While You Can](https://www.cnet.com/deals/best-ipad-air-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Destiny Mobile Game Is Coming From the Co-Developer of Diablo Immortal](https://www.cnet.com/tech/gaming/a-destiny-mobile-game-is-coming-from-the-co-developer-of-diablo-immortal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

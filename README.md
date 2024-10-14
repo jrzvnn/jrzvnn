@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [I got your back](http://9gag.com/gag/aNDY8Q4)
- - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 😝 [Suspended](http://9gag.com/gag/a9yKVg6)
+ - 😝 [I love this clip every time I stumble over it](http://9gag.com/gag/aMVZNRV)
+ - 💣 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
+ - 👉 [Starlord](http://9gag.com/gag/ae9rygQ)<!-- MEMES:END -->
 
 ---
 

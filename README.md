@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 💣 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
+ - 😝 [Beep!](http://9gag.com/gag/aXPYKO6)
+ - 😝 [Cyberbullying of yesteryears](http://9gag.com/gag/aGyZO4n)
+ - 💣 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Yeah, they&#39;re a selfish bunch. But can&#39;t he just be glad how happy he made one of them?](http://9gag.com/gag/aQzRVbW)<!-- MEMES:END -->
+ - 👉 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)<!-- MEMES:END -->
 
 ---
 

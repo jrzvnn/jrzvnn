@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 😝 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)
- - 💣 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
+ - 😝 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 💣 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
+ - 👉 [Yeah, they&#39;re a selfish bunch. But can&#39;t he just be glad how happy he made one of them?](http://9gag.com/gag/aQzRVbW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you be able to hold her down ? Linguistically.](http://9gag.com/gag/aPAYX5Q)
- - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
- - 💣 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
- - 😝 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
- - 👉 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)<!-- MEMES:END -->
+ - 😝 [Ginger](http://9gag.com/gag/agmn2Vr)
+ - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 💣 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)
+ - 😝 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
+ - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
 
 ---
 

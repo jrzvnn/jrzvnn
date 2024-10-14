@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
- - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 💣 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
- - 😝 [Mickey said watch your kid](http://9gag.com/gag/aE02Xn9)
- - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
+ - 😝 [Would you be able to hold her down ? Linguistically.](http://9gag.com/gag/aPAYX5Q)
+ - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - 💣 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
+ - 😝 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
+ - 👉 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)<!-- MEMES:END -->
 
 ---
 

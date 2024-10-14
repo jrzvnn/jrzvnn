@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Alex Gerko, who used an Icelandic supercomputer and 25K AI chips to build XTX, an algorithmic trading firm that handles $250B of daily trades &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/241014/p7#a241014p7)
- - [Best Internet Providers in Lima, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-lima-oh/#ftag=CAD590a51e)
- - [iPhone 16 Pro Max demand high, everything else match iPhone 15](https://appleinsider.com/articles/24/10/14/iphone-16-pro-max-demand-high-everything-else-match-iphone-15?utm_medium=rss)
- - [Do You Need to Enroll in Medicare at 65 if You&#39;re Still Employed?](https://www.cnet.com/personal-finance/insurance/do-you-need-to-enroll-in-medicare-at-65-if-youre-still-employed/#ftag=CAD590a51e)
- - [Overwatch 2 Season 13 Brings Spellbinder Theme, My Hero Academia Collab](https://www.cnet.com/tech/gaming/overwatch-2-season-13-brings-spellbinder-theme-my-hero-academia-collab/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe launches its AI video model Firefly Video Model in public beta in Premiere Pro, including letting users extend footage and generate video from prompts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p8#a241014p8)
+ - [7 Best Bug Sprays We Tested and Reviewed](https://www.wired.com/story/best-bug-sprays/)
+ - [SpaceX’s Dramatic Rocket Catch Brings Interplanetary Travel One Step Closer](https://www.wired.com/story/spacex-starship-super-heavy-mechazilla-catch/)
+ - [Frame.io’s massive productivity update is now available for everyone](https://www.theverge.com/2024/10/14/24269780/frameio-v4-productivity-update-availability-c2c)
+ - [Photoshop is getting a bunch of new AI tools](https://www.theverge.com/2024/10/14/24268813/photoshop-distraction-removal-ai-tool-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

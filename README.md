@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 😝 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
- - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [I got your back](http://9gag.com/gag/aNDY8Q4)
+ - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [I got your back](http://9gag.com/gag/aNDY8Q4)<!-- MEMES:END -->
+ - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
 
 ---
 

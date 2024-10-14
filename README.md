@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV Streamer compare, hacked robovacs, &amp; iOS 18.1 looms on HomeKit Insider](https://appleinsider.com/articles/24/10/14/google-tv-streamer-compare-hacked-robovacs-ios-181-looms-on-homekit-insider?utm_medium=rss)
- - [At its Adobe Max event, Adobe adds AI tools to Photoshop, like Distraction Removal, and makes Generative Fill, Generative Expand, and more generally available &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p10#a241014p10)
- - [Meta Quest 3S review: fast performance, comfortable, excellent controllers, and large app library, but Fresnel lenses lead to artifacts and average MR cameras &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241014/p9#a241014p9)
- - [Adobe launches its AI video model Firefly Video Model in public beta in Premiere Pro, including letting users extend footage and generate video from prompts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p8#a241014p8)
- - [7 Best Bug Sprays We Tested and Reviewed](https://www.wired.com/story/best-bug-sprays/)<!-- TECH:END -->
+ - [Amazon drops M4 iPad Pro to $899, Apple Pencil Pro to $89.99](https://appleinsider.com/articles/24/10/14/amazon-drops-m4-ipad-pro-to-899-apple-pencil-pro-to-8999?utm_medium=rss)
+ - [The War on Passwords Is One Step Closer to Being Over](https://www.wired.com/story/passkey-portability-fido-alliance/)
+ - [Fujifilm goes after aspiring vloggers with its new $800 X-M5 camera](https://www.theverge.com/2024/10/14/24269223/fujifilm-xm5-camera-16-55-ii-500mm-lens-announced)
+ - [Duolingo CEO Luis von Ahn wants you addicted to learning](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder)
+ - [Google TV Streamer compare, hacked robovacs, &amp; iOS 18.1 looms on HomeKit Insider](https://appleinsider.com/articles/24/10/14/google-tv-streamer-compare-hacked-robovacs-ios-181-looms-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

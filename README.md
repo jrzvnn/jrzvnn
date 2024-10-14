@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internet Archive founder Brewster Kahle says the service is now back in a &quot;provisional, read-only manner&quot;, after a DDoS attack and data breach on October 9 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241014/p4#a241014p4)
  - [The UK appoints Microsoft UK CEO Clare Barclay to lead its new Industrial Strategy Advisory Council, which will focus on growing eight sectors, including tech &lpar;Financial Times&rpar;](http://www.techmeme.com/241014/p3#a241014p3)
  - [Monday Night Football: How to Watch Bills vs. Jets, ManningCast Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-bills-vs-jets-manningcast-tonight/#ftag=CAD590a51e)
  - [The Internet Archive is back as a read-only service after cyberattacks](https://www.theverge.com/2024/10/14/24269741/internet-archive-online-read-only-data-breach-outage)
- - [South Korean government data: tech exports slowed for a straight second month, indicating slowing global demand; DRAM had its slowest growth since December 2023 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241014/p2#a241014p2)
- - [The Hottest Startups in Dublin in 2024](https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/)<!-- TECH:END -->
+ - [South Korean government data: tech exports slowed for a straight second month, indicating slowing global demand; DRAM had its slowest growth since December 2023 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241014/p2#a241014p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

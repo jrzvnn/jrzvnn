@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 😝 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
- - 💣 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
- - 😝 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
- - 👉 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)<!-- MEMES:END -->
+ - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
+ - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 💣 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
+ - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 👉 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)<!-- MEMES:END -->
 
 ---
 

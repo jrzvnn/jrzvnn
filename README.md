@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
- - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
- - 👉 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)<!-- MEMES:END -->
+ - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
+ - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 👉 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)<!-- MEMES:END -->
 
 ---
 

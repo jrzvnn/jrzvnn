@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Three Call of Duty games are coming to Xbox Cloud Gaming on October 25th](https://www.theverge.com/2024/10/14/24269925/xbox-cloud-gaming-call-of-duty-black-ops-6-warzone-support)
  - [Rare boss Craig Duncan promoted to Xbox Game Studios chief](https://www.theverge.com/2024/10/14/24269896/microsoft-xbox-game-studios-craig-duncan-promotion)
- - [Samsung rolls out One UI, based on Tizen 8.0, to its smart TVs that were released in 2023, after announcing plans to update the TVs at its developer conference &lpar;Asif Iqbal Shaik/SamMobile&rpar;](http://www.techmeme.com/241014/p11#a241014p11)
- - [Adobe Max 2024: All the major announcements around design and AI](https://www.theverge.com/2024/10/14/24269859/adobe-max-2024-major-announcements-stream)
- - [Amazon drops M4 iPad Pro to $899, Apple Pencil Pro to $89.99](https://appleinsider.com/articles/24/10/14/amazon-drops-m4-ipad-pro-to-899-apple-pencil-pro-to-8999?utm_medium=rss)
- - [&#39;NCIS: Origins&#39;: Release Date and How to Watch Without Cable](https://www.cnet.com/tech/services-and-software/ncis-origins-release-date-and-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pillow for Neck Pain in 2024](https://www.cnet.com/health/sleep/best-pillow-for-neck-pain/#ftag=CAD590a51e)
+ - [&#39;High Potential&#39; Hulu Release Schedule: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/high-potential-hulu-release-schedule-when-does-episode-4-come-out/#ftag=CAD590a51e)
+ - [Samsung rolls out One UI, based on Tizen 8.0, to its smart TVs that were released in 2023, after announcing plans to update the TVs at its developer conference &lpar;Asif Iqbal Shaik/SamMobile&rpar;](http://www.techmeme.com/241014/p11#a241014p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

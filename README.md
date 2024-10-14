@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suspended](http://9gag.com/gag/a9yKVg6)
- - 😝 [I love this clip every time I stumble over it](http://9gag.com/gag/aMVZNRV)
- - 💣 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 😝 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
+ - 😝 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 💣 [I got your back](http://9gag.com/gag/aNDY8Q4)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Starlord](http://9gag.com/gag/ae9rygQ)<!-- MEMES:END -->
+ - 👉 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)<!-- MEMES:END -->
 
 ---
 

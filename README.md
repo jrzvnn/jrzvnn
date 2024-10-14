@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
- - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
+ - 💣 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Suspended](http://9gag.com/gag/a9yKVg6)<!-- MEMES:END -->
+ - 👉 [Dead inside](http://9gag.com/gag/agmnK51)<!-- MEMES:END -->
 
 ---
 

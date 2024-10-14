@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beep!](http://9gag.com/gag/aXPYKO6)
- - 😝 [Cyberbullying of yesteryears](http://9gag.com/gag/aGyZO4n)
- - 💣 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
+ - 😝 [Suspended](http://9gag.com/gag/a9yKVg6)
+ - 😝 [Video game physics be like](http://9gag.com/gag/adBL4bV)
+ - 💣 [Do not redeem!](http://9gag.com/gag/a2vZjD9)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)<!-- MEMES:END -->
+ - 👉 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)<!-- MEMES:END -->
 
 ---
 

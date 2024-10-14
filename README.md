@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
- - 😝 [No title](http://9gag.com/gag/azx94DN)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
  - 💣 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)<!-- MEMES:END -->
+ - 👉 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)<!-- MEMES:END -->
 
 ---
 

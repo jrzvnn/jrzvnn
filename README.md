@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
- - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 💣 [Beep!](http://9gag.com/gag/aXPYKO6)
+ - 😝 [Beep!](http://9gag.com/gag/aXPYKO6)
+ - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
+ - 💣 [Balding seems legit](http://9gag.com/gag/avy8mA5)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)<!-- MEMES:END -->
+ - 👉 [Highway to hell~ Ac/dc](http://9gag.com/gag/a1mQqzG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At its Adobe Max event, Adobe adds AI tools to Photoshop, like Distraction Removal, and makes Generative Fill, Generative Expand, and more generally available &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p10#a241014p10)
+ - [Meta Quest 3S review: fast performance, comfortable, excellent controllers, and large app library, but Fresnel lenses lead to artifacts and average MR cameras &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241014/p9#a241014p9)
  - [Adobe launches its AI video model Firefly Video Model in public beta in Premiere Pro, including letting users extend footage and generate video from prompts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p8#a241014p8)
  - [7 Best Bug Sprays We Tested and Reviewed](https://www.wired.com/story/best-bug-sprays/)
- - [SpaceX’s Dramatic Rocket Catch Brings Interplanetary Travel One Step Closer](https://www.wired.com/story/spacex-starship-super-heavy-mechazilla-catch/)
- - [Frame.io’s massive productivity update is now available for everyone](https://www.theverge.com/2024/10/14/24269780/frameio-v4-productivity-update-availability-c2c)
- - [Photoshop is getting a bunch of new AI tools](https://www.theverge.com/2024/10/14/24268813/photoshop-distraction-removal-ai-tool-launch)<!-- TECH:END -->
+ - [SpaceX’s Dramatic Rocket Catch Brings Interplanetary Travel One Step Closer](https://www.wired.com/story/spacex-starship-super-heavy-mechazilla-catch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

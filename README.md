@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
- - 😝 [They f**king nailed it](http://9gag.com/gag/aE02EPo)
- - 💣 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)
+ - 😝 [Something against brass?](http://9gag.com/gag/a34QbP5)
  - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
+ - 💣 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
+ - 😝 [Mickey said watch your kid](http://9gag.com/gag/aE02Xn9)
+ - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
 
 ---
 

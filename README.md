@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Ben Nimmo, OpenAI&#39;s principal threat investigator who found evidence that Russia and China were using ChatGPT to sway political discourse online &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241014/p1#a241014p1)
+ - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
+ - [Best Blood Pressure Monitors for 2024](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14, #225](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-225/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 14, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-14-491/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 14, #1213](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-14-1213/#ftag=CAD590a51e)
- - [Vacuum Smarter: Try This Technique for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/vacuum-smarter-try-this-technique-for-a-cleaner-home/#ftag=CAD590a51e)
- - [Best iPhone 16 Deals: Nab Apple’s Latest-Model Phones for Less](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 14, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-14-491/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

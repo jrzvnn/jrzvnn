@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 😝 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)
  - 💣 [Balding seems legit](http://9gag.com/gag/avy8mA5)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
+ - 👉 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)<!-- MEMES:END -->
 
 ---
 

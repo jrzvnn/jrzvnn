@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
  - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
  - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
- - 😝 [Suspended](http://9gag.com/gag/a9yKVg6)
- - 👉 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)<!-- MEMES:END -->
+ - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
+ - 👉 [Suspended](http://9gag.com/gag/a9yKVg6)<!-- MEMES:END -->
 
 ---
 

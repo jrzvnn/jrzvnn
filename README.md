@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
- - 😝 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
- - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)
+ - 💣 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Beep!](http://9gag.com/gag/aXPYKO6)<!-- MEMES:END -->
+ - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
 
 ---
 

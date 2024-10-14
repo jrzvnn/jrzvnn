@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 💣 [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)
+ - 😝 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)
+ - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 💣 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)<!-- MEMES:END -->
+ - 👉 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)<!-- MEMES:END -->
 
 ---
 

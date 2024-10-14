@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fifth watchOS 11.1, tvOS 18.1, visionOS 2.1 developer betas are out now](https://appleinsider.com/articles/24/10/14/fifth-watchos-111-tvos-181-visionos-21-developer-betas-are-out-now?utm_medium=rss)
  - [Seventh iOS 18.1, iPadOS 18.1 betas land as public release nears](https://appleinsider.com/articles/24/10/14/seventh-ios-181-ipados-181-betas-land-as-public-release-nears?utm_medium=rss)
  - [The Chase Freedom Flex&#39;s Newest Rewards Categories Are Weird](https://www.cnet.com/personal-finance/credit-cards/the-chase-freedom-flexs-new-rewards-categories-are-weird/#ftag=CAD590a51e)
  - [If You&#39;re Not Using These 2 Credit Card Hacks This Holiday Season, You are Missing Out on Savings](https://www.cnet.com/personal-finance/if-youre-not-using-these-2-credit-card-hacks-this-holiday-season-you-are-missing-out-on-savings/#ftag=CAD590a51e)
- - [Milton Disrupted the Flow of Drinking Water—so Florida Deployed a Machine to Harvest It From Air](https://www.wired.com/story/milton-disrupted-the-flow-of-drinking-water-so-florida-deployed-a-machine-to-harvest-it-from-air/)
- - [What Is Meta AI? Everything to Know About the Social Network&#39;s AI Tools](https://www.cnet.com/tech/services-and-software/what-is-meta-ai-everything-to-know-about-the-social-networks-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Milton Disrupted the Flow of Drinking Water—so Florida Deployed a Machine to Harvest It From Air](https://www.wired.com/story/milton-disrupted-the-flow-of-drinking-water-so-florida-deployed-a-machine-to-harvest-it-from-air/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

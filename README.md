@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fifth watchOS 11.1, tvOS 18.1, visionOS 2.1 developer betas are out now](https://appleinsider.com/articles/24/10/14/fifth-watchos-111-tvos-181-visionos-21-developer-betas-are-out-now?utm_medium=rss)
- - [Seventh iOS 18.1, iPadOS 18.1 betas land as public release nears](https://appleinsider.com/articles/24/10/14/seventh-ios-181-ipados-181-betas-land-as-public-release-nears?utm_medium=rss)
- - [The Chase Freedom Flex&#39;s Newest Rewards Categories Are Weird](https://www.cnet.com/personal-finance/credit-cards/the-chase-freedom-flexs-new-rewards-categories-are-weird/#ftag=CAD590a51e)
- - [If You&#39;re Not Using These 2 Credit Card Hacks This Holiday Season, You are Missing Out on Savings](https://www.cnet.com/personal-finance/if-youre-not-using-these-2-credit-card-hacks-this-holiday-season-you-are-missing-out-on-savings/#ftag=CAD590a51e)
- - [Milton Disrupted the Flow of Drinking Water—so Florida Deployed a Machine to Harvest It From Air](https://www.wired.com/story/milton-disrupted-the-flow-of-drinking-water-so-florida-deployed-a-machine-to-harvest-it-from-air/)<!-- TECH:END -->
+ - [Sources: Tether talked to several commodities trading firms about lending to them, as it hopes to face fewer regulatory restrictions than traditional lenders &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p14#a241014p14)
+ - [Forget Prime Day. Amazon&#39;s 55-Inch Fire TV 4-Series Is Down to Just $340 Today for Prime Members](https://www.cnet.com/deals/forget-prime-day-amazons-55-inch-fire-tv-4-series-is-down-to-just-340-today-for-prime-members/#ftag=CAD590a51e)
+ - [Best AirPods 4 Deals: The Iconic White Wireless Earbuds Are Now Better Than Ever](https://www.cnet.com/deals/best-airpods-4-deals/#ftag=CAD590a51e)
+ - [Best Savings Accounts for October 2024](https://www.cnet.com/personal-finance/best-savings-account/#ftag=CAD590a51e)
+ - [Best Vitamins for Energy in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

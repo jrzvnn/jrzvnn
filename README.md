@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
+ - 😝 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
+ - 💣 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
  - 😝 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
- - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 👉 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)<!-- MEMES:END -->
+ - 👉 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)<!-- MEMES:END -->
 
 ---
 

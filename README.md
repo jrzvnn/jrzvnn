@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://www.theverge.com/2024/10/14/24269790/destiny-rising-mobile-rpg-shooter)
  - [National Public Data, the FL-based data broker that was hacked and lost hundreds of millions of SSNs and more earlier this year, files for Chapter 11 bankruptcy &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241014/p13#a241014p13)
- - [The stunning indie game Gris now has a beautiful follow-up about love and loss](https://www.theverge.com/24267805/neva-nomada-studio-interview-gris-devolver)
- - [Save 20% on holiday gifts with this eBay coupon &lpar;bonus: 128 Apple products qualify&rpar;](https://appleinsider.com/articles/24/10/14/save-20-on-holiday-gifts-with-this-ebay-coupon-bonus-128-apple-products-qualify?utm_medium=rss)
- - [Sources: several researchers at OpenAI have asked to switch teams after Liam Fedus was promoted to lead post-training, following Barret Zoph&#39;s departure &lpar;The Information&rpar;](http://www.techmeme.com/241014/p12#a241014p12)
- - [Three Call of Duty games are coming to Xbox Cloud Gaming on October 25th](https://www.theverge.com/2024/10/14/24269925/xbox-cloud-gaming-call-of-duty-black-ops-6-warzone-support)<!-- TECH:END -->
+ - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)
+ - [You Can Do a Proper Breast Cancer Self-Exam at Home, Here’s How](https://www.cnet.com/health/medical/how-to-check-yourself-for-breast-cancer-at-home/#ftag=CAD590a51e)
+ - [The stunning indie game Gris now has a beautiful follow-up about love and loss](https://www.theverge.com/24267805/neva-nomada-studio-interview-gris-devolver)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How scammers in Southeast Asia are using generative AI, crypto drainers, Starlink terminals, and other tools to expand their pig butchering operations &lpar;Wired&rpar;](http://www.techmeme.com/241013/p8#a241013p8)
- - [4 Great Bread Slicers for Guaranteed Uniform Sandwiches](https://www.cnet.com/news/best-bread-slicers/#ftag=CAD590a51e)
- - [RedCap, the 5G for wearables and IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
- - [23 Best Luxury Gifts for Those Who Seem to Have Everything](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
- - [Best Cloud Storage Software Options](https://www.cnet.com/tech/services-and-software/best-cloud-storage-software-options/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vacuum Smarter: Try This Technique for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/vacuum-smarter-try-this-technique-for-a-cleaner-home/#ftag=CAD590a51e)
+ - [Best iPhone 16 Deals: Nab Apple’s Latest-Model Phones for Less](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-maryland/#ftag=CAD590a51e)
+ - [Make Your iPhone Battery Last Longer with These Two Easy Tweaks](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-with-these-two-easy-tweaks/#ftag=CAD590a51e)
+ - [How scammers in Southeast Asia are using generative AI, crypto drainers, Starlink terminals, and other tools to expand their pig butchering operations &lpar;Wired&rpar;](http://www.techmeme.com/241013/p8#a241013p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

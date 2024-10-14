@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silo’s new season 2 trailer teases what’s next for Juliette](https://www.theverge.com/2024/10/14/24270184/silo-season-2-trailer)
  - [Apple Car Key to unlock Volvo, Audi, Polestar vehicles soon](https://appleinsider.com/articles/24/10/14/apple-car-key-to-unlock-volvo-audi-polestar-vehicles-soon?utm_medium=rss)
  - [A look at what&#39;s changed since Microsoft acquired Activision Blizzard a year ago: layoffs, exec departures, some Xbox exclusives on PlayStation and Switch, more &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/241014/p15#a241014p15)
  - [SSD vs. HDD: What You Need to Know](https://www.cnet.com/tech/computing/ssd-vs-hdd-what-you-need-to-know/#ftag=CAD590a51e)
- - [Best iPhone 15 Deals: Get Your Hands on a Free Previous-Gen Apple Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [MLB Playoffs 2024: How to Watch Mets vs. Dodgers, Yankees vs. Guardians Without Cable](https://www.cnet.com/tech/services-and-software/mlb-playoffs-2024-how-to-watch-mets-vs-dodgers-yankees-vs-guardians-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Get Your Hands on a Free Previous-Gen Apple Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

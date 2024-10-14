@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean government data: tech exports slowed for a straight second month, indicating slowing global demand; DRAM had its slowest growth since December 2023 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241014/p2#a241014p2)
  - [The Hottest Startups in Dublin in 2024](https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/)
  - [The Hottest Startups in Madrid in 2024](https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/)
  - [The Hottest Startups in Helsinki in 2024](https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/)
- - [The Hottest Startups in Lisbon in 2024](https://www.wired.com/story/the-hottest-startups-in-lisbon-in-2024/)
- - [The Hottest Startups in Amsterdam in 2024](https://www.wired.com/story/the-hottest-startups-in-amsterdam-in-2024/)<!-- TECH:END -->
+ - [The Hottest Startups in Lisbon in 2024](https://www.wired.com/story/the-hottest-startups-in-lisbon-in-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

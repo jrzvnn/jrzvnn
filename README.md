@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
- - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
- - 💣 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
+ - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
+ - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
+ - 👉 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)<!-- MEMES:END -->
 
 ---
 

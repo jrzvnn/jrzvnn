@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10](http://9gag.com/gag/an7987b)
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
  - 💣 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
+ - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
 
 ---
 

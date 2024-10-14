@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 💣 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 😝 [It&#39;s in our hearts, right?](http://9gag.com/gag/a7o36D2)
+ - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 💣 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
+ - 👉 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)<!-- MEMES:END -->
 
 ---
 

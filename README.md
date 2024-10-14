@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aZZLRr3)
- - 💣 [Bruh](http://9gag.com/gag/amoBpvd)
+ - 😝 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 💣 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)
  - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
- - 👉 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)<!-- MEMES:END -->
+ - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
 
 ---
 

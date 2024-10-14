@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
  - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 💣 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
- - 😝 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
+ - 💣 [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Suspended](http://9gag.com/gag/a9yKVg6)
  - 👉 [What kind of humor is this?](http://9gag.com/gag/aPAYrNP)<!-- MEMES:END -->
 
 ---

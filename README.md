@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Quickly Close All Safari, Chrome and Google Tabs on Your iPhone](https://www.cnet.com/tech/services-and-software/how-to-quickly-close-all-safari-chrome-and-google-tabs-on-your-iphone/#ftag=CAD590a51e)
  - [These Apps Help People With Disabilities Travel Smarter and Safer](https://www.wired.com/story/apps-to-help-people-with-disabilities-travel/)
+ - [A New Type of Wi-Fi Sensor Keeps an Eye on the Elderly — Without Cameras](https://www.cnet.com/home/security/new-wi-fi-technology-keeps-an-eye-on-seniors-while-preserving-their-privacy/#ftag=CAD590a51e)
  - [A look at the legal dispute between OpenAI and Open AI, run by Guy Ravine, who bought the open.ai domain and filed to trademark &quot;Open AI&quot; in December 2015 &lpar;Evan Ratliff/Bloomberg&rpar;](http://www.techmeme.com/241014/p6#a241014p6)
- - [LinkedIn says US C-suite users are up 35% and UK C-suite users are up 30% in five years, and their content gets 4x more engagement than other members&#39; content &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241014/p5#a241014p5)
- - [7 Foods You Should Never Cook in Your Air Fryer](https://www.cnet.com/how-to/7-foods-you-should-never-put-in-your-air-fryer/#ftag=CAD590a51e)
- - [33 Best Food and Drink Advent Calendars for 2024: Bonne Maman, Harry &amp; David and More](https://www.cnet.com/news/best-food-and-drink-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lymphatic Drainage Massage: Benefits, Risks and At-Home Tips](https://www.cnet.com/health/medical/lymphatic-drainage-massage-benefits-risks-at-home-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

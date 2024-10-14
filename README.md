@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [Beep!](http://9gag.com/gag/aXPYKO6)
- - 💣 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 😝 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
+ - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 💣 [I hope this boy isn&#39;t regretting it right now.](http://9gag.com/gag/agmnE7v)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)<!-- MEMES:END -->
+ - 👉 [It&#39;s in our hearts, right?](http://9gag.com/gag/a7o36D2)<!-- MEMES:END -->
 
 ---
 

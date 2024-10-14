@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Alex Gerko, who used an Icelandic supercomputer and 25K AI chips to build XTX, an algorithmic trading firm that handles $250B of daily trades &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/241014/p7#a241014p7)
+ - [Best Internet Providers in Lima, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-lima-oh/#ftag=CAD590a51e)
  - [iPhone 16 Pro Max demand high, everything else match iPhone 15](https://appleinsider.com/articles/24/10/14/iphone-16-pro-max-demand-high-everything-else-match-iphone-15?utm_medium=rss)
- - [7 Tips for Mastering ‘Metaphor: ReFantazio’](https://www.wired.com/story/metaphor-refantazio-tips-how-to-level-followers-what-archetypes-to-use/)
- - [How to Quickly Close All Safari, Chrome and Google Tabs on Your iPhone](https://www.cnet.com/tech/services-and-software/how-to-quickly-close-all-safari-chrome-and-google-tabs-on-your-iphone/#ftag=CAD590a51e)
- - [These Apps Help People With Disabilities Travel Smarter and Safer](https://www.wired.com/story/apps-to-help-people-with-disabilities-travel/)
- - [A New Type of Wi-Fi Sensor Keeps an Eye on the Elderly — Without Cameras](https://www.cnet.com/home/security/new-wi-fi-technology-keeps-an-eye-on-seniors-while-preserving-their-privacy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Do You Need to Enroll in Medicare at 65 if You&#39;re Still Employed?](https://www.cnet.com/personal-finance/insurance/do-you-need-to-enroll-in-medicare-at-65-if-youre-still-employed/#ftag=CAD590a51e)
+ - [Overwatch 2 Season 13 Brings Spellbinder Theme, My Hero Academia Collab](https://www.cnet.com/tech/gaming/overwatch-2-season-13-brings-spellbinder-theme-my-hero-academia-collab/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

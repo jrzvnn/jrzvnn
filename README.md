@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
- - 👉 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)<!-- MEMES:END -->
+ - 😝 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aZZLRr3)
+ - 💣 [Bruh](http://9gag.com/gag/amoBpvd)
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 👉 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)<!-- MEMES:END -->
 
 ---
 

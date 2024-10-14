@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
- - 💣 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
+ - 😝 [10](http://9gag.com/gag/an7987b)
+ - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 💣 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)<!-- MEMES:END -->
+ - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
 
 ---
 

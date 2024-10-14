@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 😝 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
  - 😝 [I hope this boy isn&#39;t regretting it right now.](http://9gag.com/gag/agmnE7v)
- - 💣 [Lol This is so true](http://9gag.com/gag/aO8YpvD)
+ - 💣 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)<!-- MEMES:END -->
+ - 👉 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)<!-- MEMES:END -->
 
 ---
 

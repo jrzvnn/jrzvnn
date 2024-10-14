@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suspended](http://9gag.com/gag/a9yKVg6)
- - 😝 [Video game physics be like](http://9gag.com/gag/adBL4bV)
- - 💣 [Do not redeem!](http://9gag.com/gag/a2vZjD9)
+ - 😝 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 💣 [Beep!](http://9gag.com/gag/aXPYKO6)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)<!-- MEMES:END -->
+ - 👉 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)<!-- MEMES:END -->
 
 ---
 

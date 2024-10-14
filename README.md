@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google signs an agreement to purchase nuclear energy generated from multiple small modular reactors developed by Kairos Power, targeting 500 MW by 2035 &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/241014/p19#a241014p19)
+ - [Easy Ways to Refresh Your Android Phone and Boost Its Speed](https://www.cnet.com/tech/mobile/easy-ways-to-refresh-your-android-phone-and-boost-its-speed/#ftag=CAD590a51e)
+ - [Treat Yourself to Netflix&#39;s Secret Scary Movies by Using This Trick](https://www.cnet.com/tech/services-and-software/use-this-trick-to-treat-yourself-to-netflixs-hidden-scary-movies/#ftag=CAD590a51e)
  - [Sources: Microsoft lost billions of dollars on HoloLens before discontinuing it and is pulling back work on IVAS, the combat goggles for the US Army &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/241014/p18#a241014p18)
- - [Sebastien Bubeck, Microsoft&#39;s VP of GenAI research who is known for his work on Microsoft&#39;s Phi small language models, is leaving the company to join OpenAI &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241014/p17#a241014p17)
- - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
- - [What Is Fiber Internet? Everything I Learned After My First Months Writing for CNET](https://www.cnet.com/home/internet/fiber-internet-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Lafayette, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-lafayette-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

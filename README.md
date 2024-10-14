@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Balding seems legit](http://9gag.com/gag/avy8mA5)
  - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
- - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
  - 💣 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)<!-- MEMES:END -->
+ - 👉 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)<!-- MEMES:END -->
 
 ---
 

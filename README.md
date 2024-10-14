@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung rolls out One UI, based on Tizen 8.0, to its smart TVs that were released in 2023, after announcing plans to update the TVs at its developer conference &lpar;Asif Iqbal Shaik/SamMobile&rpar;](http://www.techmeme.com/241014/p11#a241014p11)
+ - [Adobe Max 2024: All the major announcements around design and AI](https://www.theverge.com/2024/10/14/24269859/adobe-max-2024-major-announcements-stream)
  - [Amazon drops M4 iPad Pro to $899, Apple Pencil Pro to $89.99](https://appleinsider.com/articles/24/10/14/amazon-drops-m4-ipad-pro-to-899-apple-pencil-pro-to-8999?utm_medium=rss)
  - [The War on Passwords Is One Step Closer to Being Over](https://www.wired.com/story/passkey-portability-fido-alliance/)
- - [Fujifilm goes after aspiring vloggers with its new $800 X-M5 camera](https://www.theverge.com/2024/10/14/24269223/fujifilm-xm5-camera-16-55-ii-500mm-lens-announced)
- - [Duolingo CEO Luis von Ahn wants you addicted to learning](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder)
- - [Google TV Streamer compare, hacked robovacs, &amp; iOS 18.1 looms on HomeKit Insider](https://appleinsider.com/articles/24/10/14/google-tv-streamer-compare-hacked-robovacs-ios-181-looms-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Fujifilm goes after aspiring vloggers with its new $800 X-M5 camera](https://www.theverge.com/2024/10/14/24269223/fujifilm-xm5-camera-16-55-ii-500mm-lens-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

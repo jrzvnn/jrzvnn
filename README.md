@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
- - 💣 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
+ - 😝 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
+ - 😝 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
+ - 💣 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Dead inside](http://9gag.com/gag/agmnK51)<!-- MEMES:END -->
+ - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
 
 ---
 

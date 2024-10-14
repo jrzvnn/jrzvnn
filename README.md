@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the legal dispute between OpenAI and Open AI, run by Guy Ravine, who bought the open.ai domain and filed to trademark &quot;Open AI&quot; in December 2015 &lpar;Evan Ratliff/Bloomberg&rpar;](http://www.techmeme.com/241014/p6#a241014p6)
  - [LinkedIn says US C-suite users are up 35% and UK C-suite users are up 30% in five years, and their content gets 4x more engagement than other members&#39; content &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241014/p5#a241014p5)
- - [7 Foods You Should Never Cook in Your Air Fryer](https://www.cnet.com/how-to/7-foods-you-should-never-put-in-your-air-fryer/#ftag=CAD590a51e)
- - [33 Best Food and Drink Advent Calendars for 2024: Bonne Maman, Harry &amp; David and More](https://www.cnet.com/news/best-food-and-drink-advent-calendars/#ftag=CAD590a51e)
  - [Scammers use AI to create scarily convincing phishing calls](https://appleinsider.com/articles/24/10/14/scammers-use-ai-to-create-scarily-convincing-phishing-calls?utm_medium=rss)
- - [Internet Archive founder Brewster Kahle says the service is now back in a &quot;provisional, read-only manner&quot;, after a DDoS attack and data breach on October 9 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241014/p4#a241014p4)<!-- TECH:END -->
+ - [Internet Archive founder Brewster Kahle says the service is now back in a &quot;provisional, read-only manner&quot;, after a DDoS attack and data breach on October 9 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241014/p4#a241014p4)
+ - [The UK appoints Microsoft UK CEO Clare Barclay to lead its new Industrial Strategy Advisory Council, which will focus on growing eight sectors, including tech &lpar;Financial Times&rpar;](http://www.techmeme.com/241014/p3#a241014p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

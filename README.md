@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad mini 7 vs iPad mini 6 compared -- Apple Intelligence on the smallest tablet](https://appleinsider.com/articles/24/10/15/ipad-mini-7-vs-ipad-mini-6-compared----apple-intelligence-on-the-smallest-tablet?utm_medium=rss)
  - [Instagram’s new profile cards make it more fun to share your account](https://www.theverge.com/2024/10/15/24270670/instagram-profile-cards-share-account)
  - [Macintosh Plus with hacks can get on the internet -- kind of](https://appleinsider.com/articles/24/10/15/macintosh-plus-with-hacks-can-get-on-the-internet----kind-of?utm_medium=rss)
  - [Nissan is giving Ariya owners a new charging network, access to Tesla Superchargers](https://www.theverge.com/2024/10/15/24270716/nissan-energy-charge-network-mynissan-app-ariya-tesla-adapter)
- - [Apple iPad Mini &lpar;2024&rpar;: Specs, Release Date, Price, Features](https://www.wired.com/story/apple-ipad-mini-2024/)
- - [Azra Games, a video game developer working on an RPG that uses web3 tech, raised a $42M Series A led by Pantera Capital, bringing its total raised to $68.3M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241015/p17#a241015p17)<!-- TECH:END -->
+ - [Apple iPad Mini &lpar;2024&rpar;: Specs, Release Date, Price, Features](https://www.wired.com/story/apple-ipad-mini-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post](http://9gag.com/gag/aAy3mgp)
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 😝 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
+ - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
  - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 👉 [The peak of sniper.](http://9gag.com/gag/avy845n)<!-- MEMES:END -->
+ - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
 
 ---
 

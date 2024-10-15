@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - 😝 [Come sweet death](http://9gag.com/gag/aVvYRZO)
- - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
- - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
+ - 😝 [Fight inflation](http://9gag.com/gag/a5QMx4r)
+ - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 💣 [3rd round failed..](http://9gag.com/gag/adBLdBM)
+ - 😝 [Post](http://9gag.com/gag/aAy3mgp)
+ - 👉 [Darwin award?](http://9gag.com/gag/aVvYdq8)<!-- MEMES:END -->
 
 ---
 

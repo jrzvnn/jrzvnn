@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
+ - 😝 [Post](http://9gag.com/gag/aAy3mgp)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
  - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
- - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
+ - 👉 [The peak of sniper.](http://9gag.com/gag/avy845n)<!-- MEMES:END -->
 
 ---
 

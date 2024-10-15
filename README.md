@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Engineers Show How Flimsy AI ‘Reasoning’ Can Be](https://www.wired.com/story/apple-ai-llm-reasoning-research/)
  - [Here’s a bunch of bananas shit Trump said today about breaking up Google](https://www.theverge.com/2024/10/15/24271297/google-donald-trump-bananas-breaking-up-bananas)
  - [A review of Character.AI finds several instances of AI personas being created without a person&#39;s consent, seemingly violating the company&#39;s terms of service &lpar;Wired&rpar;](http://www.techmeme.com/241015/p37#a241015p37)
  - [Galileo, a startup that helps companies fine tune, evaluate, observe, and protect their AI models, raised a $45M Series B led by Scale Venture Partners &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/241015/p36#a241015p36)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Trump’s crypto website crashed after its token went on sale](https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

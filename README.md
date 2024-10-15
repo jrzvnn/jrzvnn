@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decagon, which offers enterprises AI-powered customer service agents, raised a $65M Series B led by Bain Capital Ventures, valuing it at $650M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241015/p25#a241015p25)
  - [Intel and AMD forge an x86 ecosystem advisory group to ensure a unified x86 instruction set architecture moving forward, amid competition from Arm and RISC-V &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241015/p24#a241015p24)
  - [Threads can now show you when people in your feed are online](https://www.theverge.com/2024/10/15/24270960/threads-activity-status-people-feed-online)
  - [The New York Times warns AI search engine Perplexity to stop using its content](https://www.theverge.com/2024/10/15/24270774/new-york-times-cease-and-desist-letter-perplexity-ai-search-engine)
- - [Seventh macOS 15.1 developer beta has finally arrived](https://appleinsider.com/articles/24/10/15/seventh-macos-151-developer-beta-has-finally-arrived?utm_medium=rss)
- - [These 4 Student Loan Mistakes Cost Me Thousands. Here&#39;s How to Avoid Them](https://www.cnet.com/personal-finance/loans/these-4-student-loan-mistakes-cost-me-thousands-heres-how-to-avoid-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seventh macOS 15.1 developer beta has finally arrived](https://appleinsider.com/articles/24/10/15/seventh-macos-151-developer-beta-has-finally-arrived?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

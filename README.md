@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deloitte expects chip industry revenue to grow 16% YoY in 2024 to a record $611B, and to reach $1T by 2030, despite the industry facing a talent shortage &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241015/p2#a241015p2)
- - [Want to Get Free COVID-19 Tests from USPS? It Takes Only 2 Minutes](https://www.cnet.com/health/want-to-get-free-covid-19-tests-from-usps-it-only-takes-2-minutes/#ftag=CAD590a51e)
- - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [VistaPrint Promo Code 2024: $10 Off Custom Orders](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [They’re called “Podcasts”](https://www.theverge.com/c/24238422/podcast-etymology-term-history-tech-vergecast)
+ - [2004? 2024? Or Both?](https://www.theverge.com/c/24236611/2004-2024-quiz-trivia-tech-gadgets-pop-culture)
+ - [The first robot car race was a historic moment — and a complete failure](https://www.theverge.com/c/24234678/robot-car-darpa-grand-challenge-2004-autonomous-race)
+ - [Where did our 2004 photos go?](https://www.theverge.com/c/24220118/lost-photos-facebook-flickr-digital-cameras)
+ - [The internet’s homepage](https://www.theverge.com/c/24209615/digg-internet-web-2-homepage-2004-kevin-rose-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

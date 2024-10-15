@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google signs an agreement to purchase nuclear energy generated from multiple small modular reactors developed by Kairos Power, targeting 500 MW by 2035 &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/241014/p19#a241014p19)
- - [Easy Ways to Refresh Your Android Phone and Boost Its Speed](https://www.cnet.com/tech/mobile/easy-ways-to-refresh-your-android-phone-and-boost-its-speed/#ftag=CAD590a51e)
- - [Treat Yourself to Netflix&#39;s Secret Scary Movies by Using This Trick](https://www.cnet.com/tech/services-and-software/use-this-trick-to-treat-yourself-to-netflixs-hidden-scary-movies/#ftag=CAD590a51e)
- - [Sources: Microsoft lost billions of dollars on HoloLens before discontinuing it and is pulling back work on IVAS, the combat goggles for the US Army &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/241014/p18#a241014p18)
- - [Best Internet Providers in Lafayette, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-lafayette-la/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe says its Firefly Video Model is the first &quot;commercially safe&quot; text-to-video generative AI model that was trained on licensed and public domain content &lpar;Jeremy Gray/PetaPixel&rpar;](http://www.techmeme.com/241014/p21#a241014p21)
+ - [Got a Fruit Fly Problem? This Insect Expert&#39;s Advice Might Help](https://www.cnet.com/how-to/need-to-get-rid-of-fruit-flies-we-asked-an-expert-for-advice/#ftag=CAD590a51e)
+ - [Best Internet Providers in Kansas City, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-kansas-city-mo/#ftag=CAD590a51e)
+ - [Q&amp;A with Duolingo co-founder and CEO Luis von Ahn on gamifying language learning, how the app makes money, investing in AI, founder mode, return to office, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241014/p20#a241014p20)
+ - [How to Get a Tax Credit or Rebate for a New Water Heater](https://www.cnet.com/home/energy-and-utilities/how-to-get-a-tax-credit-or-rebate-for-a-new-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

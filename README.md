@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 💣 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)
- - 😝 [10](http://9gag.com/gag/an7987b)
+ - 😝 [Afternoon shift FTW!](http://9gag.com/gag/aNDY2wb)
+ - 😝 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
+ - 💣 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
+ - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
  - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
 
 ---

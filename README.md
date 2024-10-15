@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 💣 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
- - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
+ - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 💣 [Oh the mimes](http://9gag.com/gag/aoyeqBg)
+ - 😝 [Starlord](http://9gag.com/gag/ae9rygQ)
+ - 👉 [Lets keep this alive, my 9Gag brothers and sisters!](http://9gag.com/gag/aAy3NrE)<!-- MEMES:END -->
 
 ---
 

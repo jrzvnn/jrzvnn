@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FIDO Alliance announces Credential Exchange Protocol, a specification to make passkeys portable across systems, and Passkey Central, a resource website for devs &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241014/p23#a241014p23)
+ - [Sources: the US mulls capping AI chip sales from Nvidia and others on a country-specific basis, with a focus on the Middle East, for national security reasons &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241014/p22#a241014p22)
+ - [Best Internet Providers in Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)
  - [Adobe says its Firefly Video Model is the first &quot;commercially safe&quot; text-to-video generative AI model that was trained on licensed and public domain content &lpar;Jeremy Gray/PetaPixel&rpar;](http://www.techmeme.com/241014/p21#a241014p21)
- - [Got a Fruit Fly Problem? This Insect Expert&#39;s Advice Might Help](https://www.cnet.com/how-to/need-to-get-rid-of-fruit-flies-we-asked-an-expert-for-advice/#ftag=CAD590a51e)
- - [Best Internet Providers in Kansas City, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-kansas-city-mo/#ftag=CAD590a51e)
- - [Q&amp;A with Duolingo co-founder and CEO Luis von Ahn on gamifying language learning, how the app makes money, investing in AI, founder mode, return to office, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241014/p20#a241014p20)
- - [How to Get a Tax Credit or Rebate for a New Water Heater](https://www.cnet.com/home/energy-and-utilities/how-to-get-a-tax-credit-or-rebate-for-a-new-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Got a Fruit Fly Problem? This Insect Expert&#39;s Advice Might Help](https://www.cnet.com/how-to/need-to-get-rid-of-fruit-flies-we-asked-an-expert-for-advice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new Kindle was briefly on sale and it hasn’t even been announced yet](https://www.theverge.com/2024/10/15/24271061/amazon-kindle-entry-level-12-gen-e-reader)
+ - [How this smart garden stopped growing](https://www.theverge.com/2024/10/15/24271051/aerogarden-smart-garden-grow-kit-shutdown-january-warranty)
  - [Analytics software provider Amplitude acquires Command AI, an app user engagement startup formerly called CommandBar that raised $23.8M, a source says for $45M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241015/p30#a241015p30)
  - [AMD, Intel, and a slew of tech companies are teaming up to fend off ARM chips](https://www.theverge.com/2024/10/15/24271080/amd-intel-x86-advisory-group-lenovo-arm)
- - [Adobe teases AI tools that build 3D scenes, animate text, and make distractions disappear](https://www.theverge.com/2024/10/15/24271151/adobe-sneak-ai-animation-video-editing-3d-tools)
- - [A teardown of Microsoft&#39;s disk-less Xbox Series X, which was released today, shows a redesigned motherboard, a 6nm chip, and a new cooling system &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241015/p29#a241015p29)
- - [Anyone Can Turn You Into an AI Chatbot. There&#39;s Little You Can Do to Stop Them](https://www.wired.com/story/characterai-has-a-non-consensual-bot-problem/)<!-- TECH:END -->
+ - [Adobe teases AI tools that build 3D scenes, animate text, and make distractions disappear](https://www.theverge.com/2024/10/15/24271151/adobe-sneak-ai-animation-video-editing-3d-tools)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

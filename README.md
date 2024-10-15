@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ward Christensen, co-inventor of the computer bulletin board system &lpar;BBS&rpar;, a foundational technology of the internet age, died at age 78 on October 11 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241015/p4#a241015p4)
- - [UK podcaster Harry Stebbings&#39; 20VC raised a $400M fund for early stage startups, one of Europe&#39;s biggest venture funds; the podcast recently hosted Sam Altman &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241015/p3#a241015p3)
- - [Best Savings Rates Today, Oct. 15, 2024: Take Advantage of High Interest Rates While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-15-2024/#ftag=CAD590a51e)
- - [They’re called “Podcasts”](https://www.theverge.com/c/24238422/podcast-etymology-term-history-tech-vergecast)
- - [2004? 2024? Or Both?](https://www.theverge.com/c/24236611/2004-2024-quiz-trivia-tech-gadgets-pop-culture)<!-- TECH:END -->
+ - [Lillian Schwartz, one of the first artists to use a computer to make films and who brought together art, science, and tech communities in the 1970s, died at 97 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/241015/p5#a241015p5)
+ - [Apple&#39;s iPhone breaks sales record as smartphone market recovers](https://appleinsider.com/articles/24/10/15/apples-iphone-breaks-sales-record-as-smartphone-market-recovers?utm_medium=rss)
+ - [A first look at Microsoft’s discless Xbox Series X in white](https://www.theverge.com/2024/10/15/24269768/microsoft-xbox-series-x-white-discless-hands-on)
+ - [DJI’s Air 3S drone is a low light all-rounder](https://www.theverge.com/2024/10/15/24269740/dji-air-3s-drone-specs-price)
+ - [Oura Ring 4 review: still on top — for now](https://www.theverge.com/24268024/oura-ring-4-review-smart-rings-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

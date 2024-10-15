@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [Perfectly packing a fragile product for shipment](http://9gag.com/gag/an79WvE)
+ - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 💣 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)
  - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 💣 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
- - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
+ - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
 
 ---
 

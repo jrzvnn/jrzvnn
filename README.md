@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
  - 😝 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 💣 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
+ - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
+ - 💣 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
 
 ---
 

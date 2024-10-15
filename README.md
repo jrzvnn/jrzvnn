@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ward Christensen, co-inventor of the computer bulletin board system &lpar;BBS&rpar;, a foundational technology of the internet age, died at age 78 on October 11 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241015/p4#a241015p4)
  - [UK podcaster Harry Stebbings&#39; 20VC raised a $400M fund for early stage startups, one of Europe&#39;s biggest venture funds; the podcast recently hosted Sam Altman &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241015/p3#a241015p3)
+ - [Best Savings Rates Today, Oct. 15, 2024: Take Advantage of High Interest Rates While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-15-2024/#ftag=CAD590a51e)
  - [They’re called “Podcasts”](https://www.theverge.com/c/24238422/podcast-etymology-term-history-tech-vergecast)
- - [2004? 2024? Or Both?](https://www.theverge.com/c/24236611/2004-2024-quiz-trivia-tech-gadgets-pop-culture)
- - [The first robot car race was a historic moment — and a complete failure](https://www.theverge.com/c/24234678/robot-car-darpa-grand-challenge-2004-autonomous-race)
- - [Where did our 2004 photos go?](https://www.theverge.com/c/24220118/lost-photos-facebook-flickr-digital-cameras)<!-- TECH:END -->
+ - [2004? 2024? Or Both?](https://www.theverge.com/c/24236611/2004-2024-quiz-trivia-tech-gadgets-pop-culture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

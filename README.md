@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JLab now sells $30 wireless earbuds with ANC](https://www.theverge.com/2024/10/15/24270883/jlab-go-pop-anc-wireless-earbuds)
  - [Oura Ring 3 Horizon drops to $299](https://www.theverge.com/2024/10/15/24270678/oura-ring-3-horizon-motorola-razr-deal-sale)
  - [The 32 Best Shows on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [This screensaver turns your Pixel into a smart home control panel](https://www.theverge.com/2024/10/15/24270909/android-15-smart-home-control-screensaver-pixel-tablet)
- - [Court filing: VMware agrees to pay $102.5M to settle a securities fraud class action lawsuit that could apply to those who traded its stock from 2018 to 2020 &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/241015/p26#a241015p26)
- - [Password manager makers want to let you securely transfer passkeys](https://www.theverge.com/2024/10/15/24270875/password-manager-makers-transfer-passkeys-fido-alliance)<!-- TECH:END -->
+ - [Court filing: VMware agrees to pay $102.5M to settle a securities fraud class action lawsuit that could apply to those who traded its stock from 2018 to 2020 &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/241015/p26#a241015p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

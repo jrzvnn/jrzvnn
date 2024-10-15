@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 😝 [Old but gold](http://9gag.com/gag/a6ZOxLR)
- - 💣 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)
- - 😝 [Yeah, they&#39;re a selfish bunch. But can&#39;t he just be glad how happy he made one of them?](http://9gag.com/gag/aQzRVbW)
- - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 💣 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 👉 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)<!-- MEMES:END -->
 
 ---
 

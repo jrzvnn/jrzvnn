@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify starts rolling out music videos in beta for Premium subscribers in 85 additional markets, after introducing the feature in 12 markets earlier in 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241015/p10#a241015p10)
  - [WordPress plugin Jetpack releases a critical security update to fix a bug letting logged-in users access forms from website visitors, in all versions since 2016 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241015/p9#a241015p9)
  - [Oura Ring 4 review: more sizes, slimmer body, redesigned app, and better battery life and auto workout detection, but needs a subscription and no charging case &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241015/p8#a241015p8)
  - [It Seemed Like an AI Crime-Fighting Super Tool. Then Defense Attorneys Started Asking Questions](https://www.wired.com/story/cybercheck-crime-reports-prosecutions/)
- - [The US awards $750M to Wolfspeed, which makes EV chips, alongside $750M in financing led by Apollo to build new $6B+ factories in North Carolina and New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p7#a241015p7)
- - [Millions of People Are Using Abusive AI ‘Nudify’ Bots on Telegram](https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/)<!-- TECH:END -->
+ - [The US awards $750M to Wolfspeed, which makes EV chips, alongside $750M in financing led by Apollo to build new $6B+ factories in North Carolina and New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p7#a241015p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

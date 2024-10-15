@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 😝 [Hehe](http://9gag.com/gag/azx9Qoj)
- - 💣 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
+ - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 👉 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)<!-- MEMES:END -->
 
 ---
 

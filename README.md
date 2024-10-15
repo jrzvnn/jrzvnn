@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram enhances its profile sharing QR codes with a &quot;profile card&quot;, showing profile info on the front and, using a flip animation, a QR code on the back &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241015/p19#a241015p19)
+ - [iPhone SE 4 may be what Apple needs to make Apple Intelligence a hit](https://appleinsider.com/articles/24/10/15/iphone-se-4-may-be-what-apple-needs-to-make-apple-intelligence-a-hit?utm_medium=rss)
  - [Anbernic has announced its first wireless controller](https://www.theverge.com/2024/10/15/24270763/anbernic-rg-p01-wireless-controller-switch-pc-android-ios-steam)
  - [Spotify’s music videos are coming to more subscribers — but not in the US, yet](https://www.theverge.com/2024/10/15/24270738/spotify-music-videos-expansion-beta)
- - [Microsoft’s new Xbox Series X models have a smaller chip and different cooling](https://www.theverge.com/2024/10/15/24270805/microsoft-xbox-series-x-6nm-chip-cooling-changes-motherboard-design-teardown)
- - [ASML reports Q3 order bookings down 53% QoQ to &amp;euro;2.6B, far below &amp;euro;5.39B est., and Q3 net income of &amp;euro;2.1B, in results apparently released early; ASML drops 15%+ &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241015/p18#a241015p18)
- - [iPad mini 7 vs iPad mini 6 compared -- Apple Intelligence on the smallest tablet](https://appleinsider.com/articles/24/10/15/ipad-mini-7-vs-ipad-mini-6-compared----apple-intelligence-on-the-smallest-tablet?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Series X models have a smaller chip and different cooling](https://www.theverge.com/2024/10/15/24270805/microsoft-xbox-series-x-6nm-chip-cooling-changes-motherboard-design-teardown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

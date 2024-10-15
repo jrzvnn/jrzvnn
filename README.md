@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets keep this alive, my 9Gag brothers and sisters!](http://9gag.com/gag/aAy3NrE)
- - 😝 [It&#39;s in our hearts, right?](http://9gag.com/gag/a7o36D2)
- - 💣 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 😝 [Starlord](http://9gag.com/gag/ae9rygQ)
- - 👉 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)<!-- MEMES:END -->
+ - 😝 [There you go.](http://9gag.com/gag/aE02NEK)
+ - 😝 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
+ - 💣 [3rd round failed..](http://9gag.com/gag/adBLdBM)
+ - 😝 [Because too much talent leaving that knows how to use these engines, and outsourcing will be easier if it\u2019s a universal engine.](http://9gag.com/gag/aPAYV8P)
+ - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
 
 ---
 

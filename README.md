@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 😝 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
- - 💣 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
+ - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 😝 [Balding seems legit](http://9gag.com/gag/avy8mA5)
+ - 💣 [10](http://9gag.com/gag/an7987b)
+ - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - 👉 [Women are never safe in India](http://9gag.com/gag/avy8X8X)<!-- MEMES:END -->
 
 ---
 

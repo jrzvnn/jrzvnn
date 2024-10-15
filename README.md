@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
- - 😝 [Starlord](http://9gag.com/gag/ae9rygQ)
+ - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
  - 💣 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)
- - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
- - 👉 [Same video, same child, same cameraman, same actors, same scene. Same clothes, same haircut, Different location. Propaganda is something the `Palestinians` are good at.](http://9gag.com/gag/aryGDj6)<!-- MEMES:END -->
+ - 😝 [Same video, same child, same cameraman, same actors, same scene. Same clothes, same haircut, Different location. Propaganda is something the `Palestinians` are good at.](http://9gag.com/gag/aryGDj6)
+ - 👉 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)<!-- MEMES:END -->
 
 ---
 

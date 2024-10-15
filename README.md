@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight inflation](http://9gag.com/gag/a5QMx4r)
+ - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
  - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 💣 [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - 😝 [Post](http://9gag.com/gag/aAy3mgp)
- - 👉 [Darwin award?](http://9gag.com/gag/aVvYdq8)<!-- MEMES:END -->
+ - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
+ - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
- - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 👉 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)<!-- MEMES:END -->
+ - 😝 [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)
+ - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
+ - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 👉 [Prost](http://9gag.com/gag/aoyeAYX)<!-- MEMES:END -->
 
 ---
 

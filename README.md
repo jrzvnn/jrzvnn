@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity gone](http://9gag.com/gag/aQzRBZ2)
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 💣 [10](http://9gag.com/gag/an7987b)
- - 😝 [Balding seems legit](http://9gag.com/gag/avy8mA5)
- - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
+ - 😝 [3rd round failed..](http://9gag.com/gag/adBLdBM)
+ - 😝 [Come sweet death](http://9gag.com/gag/aVvYRZO)
+ - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
 
 ---
 

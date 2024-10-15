@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity gone](http://9gag.com/gag/aQzRBZ2)
- - 😝 [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
+ - 😝 [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
+ - 😝 [Starlord](http://9gag.com/gag/ae9rygQ)
+ - 💣 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)
+ - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
+ - 👉 [Same video, same child, same cameraman, same actors, same scene. Same clothes, same haircut, Different location. Propaganda is something the `Palestinians` are good at.](http://9gag.com/gag/aryGDj6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
+ - 😝 [Diversity gone](http://9gag.com/gag/aQzRBZ2)
  - 😝 [3rd round failed..](http://9gag.com/gag/adBLdBM)
  - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---
 

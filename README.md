@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customer service AI startup Neuron7 raised a $44M Series B led by Smith Point Capital, and says it had 300% growth in ARR in 2023 and 65 full-time employees &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241015/p23#a241015p23)
- - [This Talking Pet Collar Is Like a Chatbot for Your Dog](https://www.wired.com/story/shazam-talking-pet-collar-a-chatbot-for-your-cat-or-dog/)
- - [Invincible season 3 is coming to Amazon in February](https://www.theverge.com/2024/10/15/24270890/invincible-season-3-premiere-date-no-break-amazon)
- - [Beats partners with Kim Kardashian on new Beats Pill colors](https://appleinsider.com/articles/24/10/15/beats-partners-with-kim-kardashian-on-new-beats-pill-colors?utm_medium=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [The New York Times warns AI search engine Perplexity to stop using its content](https://www.theverge.com/2024/10/15/24270774/new-york-times-cease-and-desist-letter-perplexity-ai-search-engine)
+ - [Seventh macOS 15.1 developer beta has finally arrived](https://appleinsider.com/articles/24/10/15/seventh-macos-151-developer-beta-has-finally-arrived?utm_medium=rss)
+ - [These 4 Student Loan Mistakes Cost Me Thousands. Here&#39;s How to Avoid Them](https://www.cnet.com/personal-finance/loans/these-4-student-loan-mistakes-cost-me-thousands-heres-how-to-avoid-them/#ftag=CAD590a51e)
+ - [Sony Bringing PlayStation: The Concert Music Tour to 200+ Cities](https://www.cnet.com/tech/gaming/sony-bringing-playstation-the-concert-music-tour-to-200-cities/#ftag=CAD590a51e)
+ - [Customer service AI startup Neuron7 raised a $44M Series B led by Smith Point Capital, and says it had 300% growth in ARR in 2023 and 65 full-time employees &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241015/p23#a241015p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

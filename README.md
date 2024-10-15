@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram enhances its profile sharing QR codes with a &quot;profile card&quot;, showing profile info on the front and, using a flip animation, a QR code on the back &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241015/p19#a241015p19)
- - [iPhone SE 4 may be what Apple needs to make Apple Intelligence a hit](https://appleinsider.com/articles/24/10/15/iphone-se-4-may-be-what-apple-needs-to-make-apple-intelligence-a-hit?utm_medium=rss)
- - [Anbernic has announced its first wireless controller](https://www.theverge.com/2024/10/15/24270763/anbernic-rg-p01-wireless-controller-switch-pc-android-ios-steam)
- - [Spotify’s music videos are coming to more subscribers — but not in the US, yet](https://www.theverge.com/2024/10/15/24270738/spotify-music-videos-expansion-beta)
- - [Microsoft’s new Xbox Series X models have a smaller chip and different cooling](https://www.theverge.com/2024/10/15/24270805/microsoft-xbox-series-x-6nm-chip-cooling-changes-motherboard-design-teardown)<!-- TECH:END -->
+ - [Chrome begins disabling uBlock Origin as part of Google&#39;s plan to phase out Manifest V2 extensions; uBlock Origin has 39M+ downloads on the Chrome Web Store &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241015/p21#a241015p21)
+ - [Google rolls out Android 15 to Pixel devices, adding privacy features like a &quot;private space&quot; for apps, security tools, and foldable and tablet improvements &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p20#a241015p20)
+ - [Android 15 is now available for Pixels](https://www.theverge.com/2024/10/15/24268043/google-android-15-pixel)
+ - [The Nuio Flow split ergonomic keyboard uses magnets to help you find your ideal layout](https://www.theverge.com/2024/10/15/24265475/nuio-flow-ergonomic-keyboard)
+ - [Instagram enhances its profile sharing QR codes with a &quot;profile card&quot;, showing profile info on the front and, using a flip animation, a QR code on the back &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241015/p19#a241015p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

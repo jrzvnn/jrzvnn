@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
- - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 💣 [Oh the mimes](http://9gag.com/gag/aoyeqBg)
- - 😝 [Starlord](http://9gag.com/gag/ae9rygQ)
- - 👉 [Lets keep this alive, my 9Gag brothers and sisters!](http://9gag.com/gag/aAy3NrE)<!-- MEMES:END -->
+ - 😝 [Diversity gone](http://9gag.com/gag/aQzRBZ2)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 💣 [10](http://9gag.com/gag/an7987b)
+ - 😝 [Balding seems legit](http://9gag.com/gag/avy8mA5)
+ - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
 
 ---
 

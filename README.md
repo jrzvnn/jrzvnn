@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 😝 [Balding seems legit](http://9gag.com/gag/avy8mA5)
- - 💣 [10](http://9gag.com/gag/an7987b)
- - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 👉 [Women are never safe in India](http://9gag.com/gag/avy8X8X)<!-- MEMES:END -->
+ - 😝 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 💣 [Oh the mimes](http://9gag.com/gag/aoyeqBg)
+ - 😝 [Lets keep this alive, my 9Gag brothers and sisters!](http://9gag.com/gag/aAy3NrE)
+ - 👉 [It&#39;s in our hearts, right?](http://9gag.com/gag/a7o36D2)<!-- MEMES:END -->
 
 ---
 

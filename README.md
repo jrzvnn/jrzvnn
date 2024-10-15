@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel and AMD forge an x86 ecosystem advisory group to ensure a unified x86 instruction set architecture moving forward, amid competition from Arm and RISC-V &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241015/p24#a241015p24)
+ - [Threads can now show you when people in your feed are online](https://www.theverge.com/2024/10/15/24270960/threads-activity-status-people-feed-online)
  - [The New York Times warns AI search engine Perplexity to stop using its content](https://www.theverge.com/2024/10/15/24270774/new-york-times-cease-and-desist-letter-perplexity-ai-search-engine)
  - [Seventh macOS 15.1 developer beta has finally arrived](https://appleinsider.com/articles/24/10/15/seventh-macos-151-developer-beta-has-finally-arrived?utm_medium=rss)
- - [These 4 Student Loan Mistakes Cost Me Thousands. Here&#39;s How to Avoid Them](https://www.cnet.com/personal-finance/loans/these-4-student-loan-mistakes-cost-me-thousands-heres-how-to-avoid-them/#ftag=CAD590a51e)
- - [Sony Bringing PlayStation: The Concert Music Tour to 200+ Cities](https://www.cnet.com/tech/gaming/sony-bringing-playstation-the-concert-music-tour-to-200-cities/#ftag=CAD590a51e)
- - [Customer service AI startup Neuron7 raised a $44M Series B led by Smith Point Capital, and says it had 300% growth in ARR in 2023 and 65 full-time employees &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241015/p23#a241015p23)<!-- TECH:END -->
+ - [These 4 Student Loan Mistakes Cost Me Thousands. Here&#39;s How to Avoid Them](https://www.cnet.com/personal-finance/loans/these-4-student-loan-mistakes-cost-me-thousands-heres-how-to-avoid-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

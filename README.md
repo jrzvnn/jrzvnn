@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
- - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
+ - 💣 [One Game Hunting](http://9gag.com/gag/aO8YpnE)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
 
 ---
 

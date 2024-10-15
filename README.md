@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Azra Games, a video game developer working on an RPG that uses web3 tech, raised a $42M Series A led by Pantera Capital, bringing its total raised to $68.3M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241015/p17#a241015p17)
  - [You can now preorder the new iPad Mini](https://www.theverge.com/2024/10/15/24268182/ipad-mini-2024-preorder-how-to-buy-price-release-date)
- - [DC Entertainment Is Changing the Shape—and Scrollability—of Comics](https://www.wired.com/story/dc-entertainment-is-changing-the-shape-and-scrollability-of-comics/)
- - [Surfshark Black Friday deals start now, with VPN sale prices from $1.99/mo](https://appleinsider.com/articles/24/10/15/surfshark-black-friday-deals-start-now-with-vpn-sale-prices-from-199mo?utm_medium=rss)
- - [Microsoft’s New Xbox Series X and Series S Consoles Are on Sale Now &lpar;2024&rpar;](https://www.wired.com/story/how-to-order-xbox-series-x-and-xbox-series-s/)
- - [A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite](https://www.theverge.com/2024/10/15/24270673/amazon-kindle-paperwhite-12-gen-e-ink-e-reader)<!-- TECH:END -->
+ - [An Expert&#39;s Guide to Buying Great Cheese at the Grocery Store](https://www.cnet.com/how-to/an-experts-guide-to-picking-great-cheese-at-the-grocery-store/#ftag=CAD590a51e)
+ - [A OneAir Elite Lifetime Travel Subscription Is Just $70 Right Now, but Act Fast](https://www.cnet.com/deals/a-oneair-elite-lifetime-travel-subscription-is-just-70-right-now-but-act-fast/#ftag=CAD590a51e)
+ - [iPhone 16 Pro vs. 15 Pro vs. 14 Pro vs. 13 Pro: How iPhone Pro Has Changed Since 2021](https://www.cnet.com/tech/mobile/iphone-16-pro-vs-15-pro-vs-14-pro-vs-13-pro-how-iphone-pro-has-changed-since-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

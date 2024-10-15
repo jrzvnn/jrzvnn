@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 💣 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)
- - 😝 [Same video, same child, same cameraman, same actors, same scene. Same clothes, same haircut, Different location. Propaganda is something the `Palestinians` are good at.](http://9gag.com/gag/aryGDj6)
- - 👉 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)<!-- MEMES:END -->
+ - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 💣 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
 
 ---
 

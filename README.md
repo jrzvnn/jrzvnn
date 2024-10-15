@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 😝 [Same video, same child, same cameraman, same actors, same scene. Same clothes, same haircut, Different location. Propaganda is something the `Palestinians` are good at.](http://9gag.com/gag/aryGDj6)
- - 💣 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)
- - 😝 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)
- - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
+ - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
+ - 💣 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
+ - 👉 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)<!-- MEMES:END -->
 
 ---
 

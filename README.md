@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Deloitte expects chip industry revenue to grow 16% YoY in 2024 to a record $611B, and to reach $1T by 2030, despite the industry facing a talent shortage &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241015/p2#a241015p2)
+ - [Want to Get Free COVID-19 Tests from USPS? It Takes Only 2 Minutes](https://www.cnet.com/health/want-to-get-free-covid-19-tests-from-usps-it-only-takes-2-minutes/#ftag=CAD590a51e)
  - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [VistaPrint Promo Code 2024: $10 Off Custom Orders](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Bose Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-bose-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

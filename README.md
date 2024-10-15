@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out &quot;activity status&quot; to Threads that shows a green dot next to a user&#39;s profile picture to show the user is online, if they have the feature enabled &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p27#a241015p27)
+ - [Google Chrome’s uBlock Origin phaseout has begun](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker)
  - [New beta firmware for AirPods Pro 2 released ahead of iOS 18.1 launch](https://appleinsider.com/articles/24/10/15/new-beta-firmware-for-airpods-pro-2-released-ahead-of-ios-181-launch?utm_medium=rss)
  - [JLab now sells $30 wireless earbuds with ANC](https://www.theverge.com/2024/10/15/24270883/jlab-go-pop-anc-wireless-earbuds)
- - [Oura Ring 3 Horizon drops to $299](https://www.theverge.com/2024/10/15/24270678/oura-ring-3-horizon-motorola-razr-deal-sale)
- - [The 32 Best Shows on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [This screensaver turns your Pixel into a smart home control panel](https://www.theverge.com/2024/10/15/24270909/android-15-smart-home-control-screensaver-pixel-tablet)<!-- TECH:END -->
+ - [Oura Ring 3 Horizon drops to $299](https://www.theverge.com/2024/10/15/24270678/oura-ring-3-horizon-motorola-razr-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)
- - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
- - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 👉 [Prost](http://9gag.com/gag/aoyeAYX)<!-- MEMES:END -->
+ - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 😝 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 💣 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
+ - 😝 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)
+ - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
 
 ---
 

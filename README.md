@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Game Hunting](http://9gag.com/gag/aO8YpnE)
- - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
- - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [Oh the mimes](http://9gag.com/gag/aoyeqBg)
- - 👉 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)<!-- MEMES:END -->
+ - 😝 [Perfectly packing a fragile product for shipment](http://9gag.com/gag/an79WvE)
+ - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 💣 [Starlord](http://9gag.com/gag/ae9rygQ)
+ - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
+ - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
 
 ---
 

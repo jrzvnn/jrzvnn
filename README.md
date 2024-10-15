@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Azra Games, a video game developer working on an RPG that uses web3 tech, raised a $42M Series A led by Pantera Capital, bringing its total raised to $68.3M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241015/p17#a241015p17)
- - [You can now preorder the new iPad Mini](https://www.theverge.com/2024/10/15/24268182/ipad-mini-2024-preorder-how-to-buy-price-release-date)
- - [An Expert&#39;s Guide to Buying Great Cheese at the Grocery Store](https://www.cnet.com/how-to/an-experts-guide-to-picking-great-cheese-at-the-grocery-store/#ftag=CAD590a51e)
- - [A OneAir Elite Lifetime Travel Subscription Is Just $70 Right Now, but Act Fast](https://www.cnet.com/deals/a-oneair-elite-lifetime-travel-subscription-is-just-70-right-now-but-act-fast/#ftag=CAD590a51e)
- - [iPhone 16 Pro vs. 15 Pro vs. 14 Pro vs. 13 Pro: How iPhone Pro Has Changed Since 2021](https://www.cnet.com/tech/mobile/iphone-16-pro-vs-15-pro-vs-14-pro-vs-13-pro-how-iphone-pro-has-changed-since-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram’s new profile cards make it more fun to share your account](https://www.theverge.com/2024/10/15/24270670/instagram-profile-cards-share-account)
+ - [Macintosh Plus with hacks can get on the internet -- kind of](https://appleinsider.com/articles/24/10/15/macintosh-plus-with-hacks-can-get-on-the-internet----kind-of?utm_medium=rss)
+ - [Nissan is giving Ariya owners a new charging network, access to Tesla Superchargers](https://www.theverge.com/2024/10/15/24270716/nissan-energy-charge-network-mynissan-app-ariya-tesla-adapter)
+ - [Apple iPad Mini &lpar;2024&rpar;: Specs, Release Date, Price, Features](https://www.wired.com/story/apple-ipad-mini-2024/)
+ - [Azra Games, a video game developer working on an RPG that uses web3 tech, raised a $42M Series A led by Pantera Capital, bringing its total raised to $68.3M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241015/p17#a241015p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

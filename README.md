@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signaled he wouldn&#39;t break up Google if he regained the presidency, saying &quot;China is afraid of Google&quot; and questioning if it might &quot;destroy the company&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/241015/p32#a241015p32)
+ - [YouTube takes a baby step towards labeling authentic video](https://www.theverge.com/2024/10/15/24271083/youtube-c2pa-captured-camera-label-content-credentials)
  - [Adobe teases AI tools that can generate 3D scenes, make animated graphics in different styles, and automatically remove distractions in images and videos &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241015/p31#a241015p31)
  - [The new Kindle was briefly on sale and it hasn’t even been announced yet](https://www.theverge.com/2024/10/15/24271061/amazon-kindle-entry-level-12-gen-e-reader)
- - [How this smart garden stopped growing](https://www.theverge.com/2024/10/15/24271051/aerogarden-smart-garden-grow-kit-shutdown-january-warranty)
- - [Analytics software provider Amplitude acquires Command AI, an app user engagement startup formerly called CommandBar that raised $23.8M, a source says for $45M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241015/p30#a241015p30)
- - [AMD, Intel, and a slew of tech companies are teaming up to fend off ARM chips](https://www.theverge.com/2024/10/15/24271080/amd-intel-x86-advisory-group-lenovo-arm)<!-- TECH:END -->
+ - [How this smart garden stopped growing](https://www.theverge.com/2024/10/15/24271051/aerogarden-smart-garden-grow-kit-shutdown-january-warranty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

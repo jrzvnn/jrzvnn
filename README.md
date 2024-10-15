@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oura Ring 3 Horizon drops to $299](https://www.theverge.com/2024/10/15/24270678/oura-ring-3-horizon-motorola-razr-deal-sale)
+ - [The 32 Best Shows on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [This screensaver turns your Pixel into a smart home control panel](https://www.theverge.com/2024/10/15/24270909/android-15-smart-home-control-screensaver-pixel-tablet)
  - [Court filing: VMware agrees to pay $102.5M to settle a securities fraud class action lawsuit that could apply to those who traded its stock from 2018 to 2020 &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/241015/p26#a241015p26)
- - [Password manager makers want to let you securely transfer passkeys](https://www.theverge.com/2024/10/15/24270875/password-manager-makers-transfer-passkeys-fido-alliance)
- - [Sonos launches next-gen Arc Ultra alongside redesigned Sub 4](https://appleinsider.com/articles/24/10/15/sonos-launches-next-gen-arc-ultra-alongside-redesigned-sub-4?utm_medium=rss)
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Password manager makers want to let you securely transfer passkeys](https://www.theverge.com/2024/10/15/24270875/password-manager-makers-transfer-passkeys-fido-alliance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

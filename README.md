@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I got your back](http://9gag.com/gag/aNDY8Q4)
- - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 💣 [Post](http://9gag.com/gag/aAy3mgp)
+ - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 💣 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
  - 😝 [Timepiece wonders await around the world \u231a\ud83c\udf0e! The GPHG highlights and rewards the remarkable watchmaking profession worldwide every year. They are bringing the finest watch creations to a city near you.](http://9gag.com/gag/aAyx37g)
- - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
+ - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
 
 ---
 

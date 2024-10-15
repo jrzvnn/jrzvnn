@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Xbox Series X models have a smaller chip and different cooling](https://www.theverge.com/2024/10/15/24270805/microsoft-xbox-series-x-6nm-chip-cooling-changes-motherboard-design-teardown)
+ - [ASML reports Q3 order bookings down 53% QoQ to &amp;euro;2.6B, far below &amp;euro;5.39B est., and Q3 net income of &amp;euro;2.1B, in results apparently released early; ASML drops 15%+ &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241015/p18#a241015p18)
  - [iPad mini 7 vs iPad mini 6 compared -- Apple Intelligence on the smallest tablet](https://appleinsider.com/articles/24/10/15/ipad-mini-7-vs-ipad-mini-6-compared----apple-intelligence-on-the-smallest-tablet?utm_medium=rss)
  - [Instagram’s new profile cards make it more fun to share your account](https://www.theverge.com/2024/10/15/24270670/instagram-profile-cards-share-account)
- - [Macintosh Plus with hacks can get on the internet -- kind of](https://appleinsider.com/articles/24/10/15/macintosh-plus-with-hacks-can-get-on-the-internet----kind-of?utm_medium=rss)
- - [Nissan is giving Ariya owners a new charging network, access to Tesla Superchargers](https://www.theverge.com/2024/10/15/24270716/nissan-energy-charge-network-mynissan-app-ariya-tesla-adapter)
- - [Apple iPad Mini &lpar;2024&rpar;: Specs, Release Date, Price, Features](https://www.wired.com/story/apple-ipad-mini-2024/)<!-- TECH:END -->
+ - [Macintosh Plus with hacks can get on the internet -- kind of](https://appleinsider.com/articles/24/10/15/macintosh-plus-with-hacks-can-get-on-the-internet----kind-of?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

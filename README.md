@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech consultant Nima Momeni, charged in Cash App founder Bob Lee&#39;s stabbing death in April 2023, goes on trial; the judge says it is set to last two months &lpar;Janie Har/Associated Press&rpar;](http://www.techmeme.com/241015/p12#a241015p12)
+ - [Welcome to 2004 Week](https://www.theverge.com/24270606/2004-week-tech-internet-gadgets-phones-pop-culture)
+ - [Apple A20 chip packaging tech may give iPhone 18 more RAM, speed, and run cooler](https://appleinsider.com/articles/24/10/15/apple-a20-chip-packaging-tech-may-give-iphone-18-more-ram-speed-and-run-cooler?utm_medium=rss)
  - [Data center developer DataBank raised $2B led by the AustralianSuper pension fund to build three US facilities, taking its total raised to $4B+ in the past year &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/241015/p11#a241015p11)
- - [SaluSpa Ibiza Review: A Solid Place to Soak](https://www.wired.com/review/saluspa-ibiza-hot-tub/)
- - [Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them](https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/)
- - [SimpliSafe’s new camera lets live agents watch your property](https://www.theverge.com/2024/10/15/24268192/simplisafe-active-guard-outdoor-protection-live-monitoring-outdoor-camera)
- - [Arlo is launching its first wired floodlight camera](https://www.theverge.com/2024/10/15/24268054/arlo-wired-floodlight-camera-price-availability)<!-- TECH:END -->
+ - [SaluSpa Ibiza Review: A Solid Place to Soak](https://www.wired.com/review/saluspa-ibiza-hot-tub/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
+ - 😝 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 😝 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
  - 💣 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
- - 👉 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)<!-- MEMES:END -->
+ - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 👉 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)<!-- MEMES:END -->
 
 ---
 

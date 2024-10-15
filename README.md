@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galileo, a startup that helps companies fine tune, evaluate, observe, and protect their AI models, raised a $45M Series B led by Scale Venture Partners &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/241015/p36#a241015p36)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Trump’s crypto website crashed after its token went on sale](https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump)
- - [YouTube rolls out a new &quot;captured with a camera&quot; label, using the C2PA standard to detect if the video came from a real camera with unaltered footage and sound &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241015/p35#a241015p35)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Sources: Qualcomm is likely to wait until after the US presidential election in November before deciding whether to pursue an offer to buy Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p34#a241015p34)<!-- TECH:END -->
+ - [See Comet A3&#39;s Rare &#39;Anti-tail&#39; in Video From Space](https://www.cnet.com/science/space/see-comet-a3s-rare-anti-tail-in-video-from-space/#ftag=CAD590a51e)
+ - [YouTube rolls out a new &quot;captured with a camera&quot; label, using the C2PA standard to detect if the video came from a real camera with unaltered footage and sound &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241015/p35#a241015p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

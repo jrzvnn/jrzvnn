@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfectly packing a fragile product for shipment](http://9gag.com/gag/an79WvE)
- - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 💣 [Starlord](http://9gag.com/gag/ae9rygQ)
- - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
- - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
+ - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 😝 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
+ - 💣 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
 
 ---
 

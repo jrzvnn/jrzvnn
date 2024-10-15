@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There you go.](http://9gag.com/gag/aE02NEK)
- - 😝 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
- - 💣 [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - 😝 [Because too much talent leaving that knows how to use these engines, and outsourcing will be easier if it\u2019s a universal engine.](http://9gag.com/gag/aPAYV8P)
- - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
+ - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 😝 [Old but gold](http://9gag.com/gag/a6ZOxLR)
+ - 💣 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)
+ - 😝 [Yeah, they&#39;re a selfish bunch. But can&#39;t he just be glad how happy he made one of them?](http://9gag.com/gag/aQzRVbW)
+ - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
 
 ---
 

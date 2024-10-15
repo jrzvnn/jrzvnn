@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Millions of People Are Using Abusive AI ‘Nudify’ Bots on Telegram](https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/)
+ - [The NYT sends a cease-and-desist letter to AI startup Perplexity to stop using its content; Perplexity says it is &quot;interested in working with every&quot; publisher &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/241015/p6#a241015p6)
  - [Lillian Schwartz, one of the first artists to use a computer to make films and who brought together art, science, and tech communities in the 1970s, died at 97 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/241015/p5#a241015p5)
  - [Apple&#39;s iPhone breaks sales record as smartphone market recovers](https://appleinsider.com/articles/24/10/15/apples-iphone-breaks-sales-record-as-smartphone-market-recovers?utm_medium=rss)
- - [A first look at Microsoft’s discless Xbox Series X in white](https://www.theverge.com/2024/10/15/24269768/microsoft-xbox-series-x-white-discless-hands-on)
- - [DJI’s Air 3S drone is a low light all-rounder](https://www.theverge.com/2024/10/15/24269740/dji-air-3s-drone-specs-price)
- - [Oura Ring 4 review: still on top — for now](https://www.theverge.com/24268024/oura-ring-4-review-smart-rings-wearables)<!-- TECH:END -->
+ - [A first look at Microsoft’s discless Xbox Series X in white](https://www.theverge.com/2024/10/15/24269768/microsoft-xbox-series-x-white-discless-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

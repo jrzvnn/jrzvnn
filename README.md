@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech consultant Nima Momeni, charged in Cash App founder Bob Lee&#39;s stabbing death in April 2023, goes on trial; the judge says it is set to last two months &lpar;Janie Har/Associated Press&rpar;](http://www.techmeme.com/241015/p12#a241015p12)
- - [Welcome to 2004 Week](https://www.theverge.com/24270606/2004-week-tech-internet-gadgets-phones-pop-culture)
- - [Apple A20 chip packaging tech may give iPhone 18 more RAM, speed, and run cooler](https://appleinsider.com/articles/24/10/15/apple-a20-chip-packaging-tech-may-give-iphone-18-more-ram-speed-and-run-cooler?utm_medium=rss)
- - [Data center developer DataBank raised $2B led by the AustralianSuper pension fund to build three US facilities, taking its total raised to $4B+ in the past year &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/241015/p11#a241015p11)
- - [SaluSpa Ibiza Review: A Solid Place to Soak](https://www.wired.com/review/saluspa-ibiza-hot-tub/)<!-- TECH:END -->
+ - [Google rolls out a personalized Shopping feed based on recent searches and YouTube history, coming to mobile first, and adds AI-generated shopping tips &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241015/p16#a241015p16)
+ - [Apple unveils an updated iPad mini with A17 Pro, Apple Intelligence, and the same 8.3&quot; display, starting at $499 with 128GB of storage, available to pre-order &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241015/p15#a241015p15)
+ - [Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4](https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced)
+ - [YouTube rolls out new features: granular playback speed controls, an improved miniplayer on iOS and Android, updated playlists, a sleep timer, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241015/p14#a241015p14)
+ - [Apple just announced a new, faster iPad Mini](https://www.theverge.com/2024/10/15/24268079/apple-ipad-mini-2024-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

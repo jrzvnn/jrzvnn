@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
- - 💣 [One Game Hunting](http://9gag.com/gag/aO8YpnE)
- - 😝 [Churches](http://9gag.com/gag/aoyeD2n)
- - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
+ - 😝 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 💣 [Oh the mimes](http://9gag.com/gag/aoyeqBg)
+ - 😝 [Lets keep this alive, my 9Gag brothers and sisters!](http://9gag.com/gag/aAy3NrE)
+ - 👉 [Respect to Peru!](http://9gag.com/gag/aE02yNx)<!-- MEMES:END -->
 
 ---
 

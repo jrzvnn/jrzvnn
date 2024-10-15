@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deloitte expects chip industry revenue to grow 16% YoY in 2024 to a record $611B, and to reach $1T by 2030, despite the industry facing a talent shortage &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241015/p2#a241015p2)
  - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [VistaPrint Promo Code 2024: $10 Off Custom Orders](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Bose Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-bose-speakers/#ftag=CAD590a51e)
- - [Analysis: since ChatGPT&#39;s launch about two years ago, the US DOD has awarded ~$670M in contracts to ~323 companies for AI projects, up 20% from 2021 and 2022 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241015/p1#a241015p1)<!-- TECH:END -->
+ - [Best Bose Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-bose-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

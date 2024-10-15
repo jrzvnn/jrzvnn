@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats partners with Kim Kardashian on new Beats Pill colors](https://appleinsider.com/articles/24/10/15/beats-partners-with-kim-kardashian-on-new-beats-pill-colors?utm_medium=rss)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Amazon expands its suite of AI-powered ad tools to let US advertisers use generative AI to make audio ads, available now in beta, and unveils AI creative studio &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/241015/p22#a241015p22)
  - [Video game actors and publishers are finally negotiating again](https://www.theverge.com/2024/10/15/24270821/sag-aftra-video-game-voice-actor-strike-resume-negotiations)
- - [Chrome begins disabling uBlock Origin as part of Google&#39;s plan to phase out Manifest V2 extensions; uBlock Origin has 39M+ downloads on the Chrome Web Store &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241015/p21#a241015p21)
- - [Google rolls out Android 15 to Pixel devices, adding privacy features like a &quot;private space&quot; for apps, security tools, and foldable and tablet improvements &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p20#a241015p20)<!-- TECH:END -->
+ - [Chrome begins disabling uBlock Origin as part of Google&#39;s plan to phase out Manifest V2 extensions; uBlock Origin has 39M+ downloads on the Chrome Web Store &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241015/p21#a241015p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

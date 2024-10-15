@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oura Ring 4 review: more sizes, slimmer body, redesigned app, and better battery life and auto workout detection, but needs a subscription and no charging case &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241015/p8#a241015p8)
+ - [It Seemed Like an AI Crime-Fighting Super Tool. Then Defense Attorneys Started Asking Questions](https://www.wired.com/story/cybercheck-crime-reports-prosecutions/)
  - [The US awards $750M to Wolfspeed, which makes EV chips, alongside $750M in financing led by Apollo to build new $6B+ factories in North Carolina and New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p7#a241015p7)
  - [Millions of People Are Using Abusive AI ‘Nudify’ Bots on Telegram](https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/)
- - [The NYT sends a cease-and-desist letter to AI startup Perplexity to stop using its content; Perplexity says it is &quot;interested in working with every&quot; publisher &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/241015/p6#a241015p6)
- - [Did You Know Your iPhone 16 Has a Second Action Button?](https://www.cnet.com/tech/services-and-software/did-you-know-your-iphone-16-has-a-second-action-button/#ftag=CAD590a51e)
- - [Lillian Schwartz, one of the first artists to use a computer to make films and who brought together art, science, and tech communities in the 1970s, died at 97 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/241015/p5#a241015p5)<!-- TECH:END -->
+ - [The NYT sends a cease-and-desist letter to AI startup Perplexity to stop using its content; Perplexity says it is &quot;interested in working with every&quot; publisher &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/241015/p6#a241015p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

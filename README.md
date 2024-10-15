@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Doctor Behind the ‘Suicide Pod’ Wants AI to Assist at the End of Life](https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/)
- - [Spotify starts rolling out music videos in beta for Premium subscribers in 85 additional markets, after introducing the feature in 12 markets earlier in 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241015/p10#a241015p10)
- - [WordPress plugin Jetpack releases a critical security update to fix a bug letting logged-in users access forms from website visitors, in all versions since 2016 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241015/p9#a241015p9)
- - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [Oura Ring 4 review: more sizes, slimmer body, redesigned app, and better battery life and auto workout detection, but needs a subscription and no charging case &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241015/p8#a241015p8)<!-- TECH:END -->
+ - [Data center developer DataBank raised $2B led by the AustralianSuper pension fund to build three US facilities, taking its total raised to $4B+ in the past year &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/241015/p11#a241015p11)
+ - [SaluSpa Ibiza Review: A Solid Place to Soak](https://www.wired.com/review/saluspa-ibiza-hot-tub/)
+ - [Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them](https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/)
+ - [SimpliSafe’s new camera lets live agents watch your property](https://www.theverge.com/2024/10/15/24268192/simplisafe-active-guard-outdoor-protection-live-monitoring-outdoor-camera)
+ - [Arlo is launching its first wired floodlight camera](https://www.theverge.com/2024/10/15/24268054/arlo-wired-floodlight-camera-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

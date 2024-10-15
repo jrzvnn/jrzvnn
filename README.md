@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK podcaster Harry Stebbings&#39; 20VC raised a $400M fund for early stage startups, one of Europe&#39;s biggest venture funds; the podcast recently hosted Sam Altman &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241015/p3#a241015p3)
  - [They’re called “Podcasts”](https://www.theverge.com/c/24238422/podcast-etymology-term-history-tech-vergecast)
  - [2004? 2024? Or Both?](https://www.theverge.com/c/24236611/2004-2024-quiz-trivia-tech-gadgets-pop-culture)
  - [The first robot car race was a historic moment — and a complete failure](https://www.theverge.com/c/24234678/robot-car-darpa-grand-challenge-2004-autonomous-race)
- - [Where did our 2004 photos go?](https://www.theverge.com/c/24220118/lost-photos-facebook-flickr-digital-cameras)
- - [The internet’s homepage](https://www.theverge.com/c/24209615/digg-internet-web-2-homepage-2004-kevin-rose-interview)<!-- TECH:END -->
+ - [Where did our 2004 photos go?](https://www.theverge.com/c/24220118/lost-photos-facebook-flickr-digital-cameras)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

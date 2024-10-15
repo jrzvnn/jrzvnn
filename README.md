@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPad mini 7 gets A17 Pro, Apple Intelligence](https://appleinsider.com/articles/24/10/15/new-ipad-mini-7-gets-a17-pro-apple-intelligence?utm_medium=rss)
+ - [A Rubberized Cybertruck Is Ploughing Through European Pedestrian Safety Rules](https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/)
  - [Google rolls out a personalized Shopping feed based on recent searches and YouTube history, coming to mobile first, and adds AI-generated shopping tips &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241015/p16#a241015p16)
  - [Apple unveils an updated iPad mini with A17 Pro, Apple Intelligence, and the same 8.3&quot; display, starting at $499 with 128GB of storage, available to pre-order &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241015/p15#a241015p15)
- - [Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4](https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced)
- - [YouTube rolls out new features: granular playback speed controls, an improved miniplayer on iOS and Android, updated playlists, a sleep timer, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241015/p14#a241015p14)
- - [Apple just announced a new, faster iPad Mini](https://www.theverge.com/2024/10/15/24268079/apple-ipad-mini-2024-specs-price)<!-- TECH:END -->
+ - [Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4](https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

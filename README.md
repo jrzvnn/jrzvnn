@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump-backed World Liberty Financial crypto project gets off to a bumpy start, as its website crashes and WLFI token sales fall far short of the $300M target &lpar;CoinDesk&rpar;](http://www.techmeme.com/241015/p33#a241015p33)
- - [Trump signaled he wouldn&#39;t break up Google if he regained the presidency, saying &quot;China is afraid of Google&quot; and questioning if it might &quot;destroy the company&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/241015/p32#a241015p32)
- - [YouTube takes a baby step towards labeling authentic video](https://www.theverge.com/2024/10/15/24271083/youtube-c2pa-captured-camera-label-content-credentials)
- - [Adobe teases AI tools that can generate 3D scenes, make animated graphics in different styles, and automatically remove distractions in images and videos &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241015/p31#a241015p31)
- - [The new Kindle was briefly on sale and it hasn’t even been announced yet](https://www.theverge.com/2024/10/15/24271061/amazon-kindle-entry-level-12-gen-e-reader)<!-- TECH:END -->
+ - [YouTube rolls out a new &quot;captured with a camera&quot; label, using the C2PA standard to detect if the video came from a real camera with unaltered footage and sound &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241015/p35#a241015p35)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Sources: Qualcomm is likely to wait until after the US presidential election in November before deciding whether to pursue an offer to buy Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p34#a241015p34)
+ - [The FCC is looking into the impact of broadband data caps and why they still exist](https://www.theverge.com/2024/10/15/24271148/fcc-data-cap-impact-consumers-inquiry)
+ - [Trump-backed World Liberty Financial crypto project gets off to a bumpy start, as its website crashes and WLFI token sales fall far short of the $300M target &lpar;CoinDesk&rpar;](http://www.techmeme.com/241015/p33#a241015p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DC Entertainment Is Changing the Shape—and Scrollability—of Comics](https://www.wired.com/story/dc-entertainment-is-changing-the-shape-and-scrollability-of-comics/)
+ - [Surfshark Black Friday deals start now, with VPN sale prices from $1.99/mo](https://appleinsider.com/articles/24/10/15/surfshark-black-friday-deals-start-now-with-vpn-sale-prices-from-199mo?utm_medium=rss)
  - [Microsoft’s New Xbox Series X and Series S Consoles Are on Sale Now &lpar;2024&rpar;](https://www.wired.com/story/how-to-order-xbox-series-x-and-xbox-series-s/)
  - [A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite](https://www.theverge.com/2024/10/15/24270673/amazon-kindle-paperwhite-12-gen-e-ink-e-reader)
- - [New iPad mini 7 gets A17 Pro, Apple Intelligence](https://appleinsider.com/articles/24/10/15/new-ipad-mini-7-gets-a17-pro-apple-intelligence?utm_medium=rss)
- - [Google inks nuclear deal for next-generation reactors](https://www.theverge.com/2024/10/15/24270645/google-nuclear-energy-deal-small-modular-reactor-kairos)
- - [A Rubberized Cybertruck Is Ploughing Through European Pedestrian Safety Rules](https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/)<!-- TECH:END -->
+ - [New iPad mini 7 gets A17 Pro, Apple Intelligence](https://appleinsider.com/articles/24/10/15/new-ipad-mini-7-gets-a17-pro-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s New Xbox Series X and Series S Consoles Are on Sale Now &lpar;2024&rpar;](https://www.wired.com/story/how-to-order-xbox-series-x-and-xbox-series-s/)
+ - [A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite](https://www.theverge.com/2024/10/15/24270673/amazon-kindle-paperwhite-12-gen-e-ink-e-reader)
  - [New iPad mini 7 gets A17 Pro, Apple Intelligence](https://appleinsider.com/articles/24/10/15/new-ipad-mini-7-gets-a17-pro-apple-intelligence?utm_medium=rss)
  - [Google inks nuclear deal for next-generation reactors](https://www.theverge.com/2024/10/15/24270645/google-nuclear-energy-deal-small-modular-reactor-kairos)
- - [A Rubberized Cybertruck Is Ploughing Through European Pedestrian Safety Rules](https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/)
- - [Google rolls out a personalized Shopping feed based on recent searches and YouTube history, coming to mobile first, and adds AI-generated shopping tips &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241015/p16#a241015p16)
- - [Apple unveils an updated iPad mini with A17 Pro, Apple Intelligence, and the same 8.3&quot; display, starting at $499 with 128GB of storage, available to pre-order &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241015/p15#a241015p15)<!-- TECH:END -->
+ - [A Rubberized Cybertruck Is Ploughing Through European Pedestrian Safety Rules](https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

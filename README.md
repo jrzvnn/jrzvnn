@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [VistaPrint Promo Code 2024: $10 Off Custom Orders](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Analysis: since ChatGPT&#39;s launch about two years ago, the US DOD has awarded ~$670M in contracts to ~323 companies for AI projects, up 20% from 2021 and 2022 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241015/p1#a241015p1)
- - [Save Up to 87% on Surfshark VPN and Get a Free Extra Four Months Across All Plans](https://www.cnet.com/deals/save-up-to-87-on-surfshark-vpn-and-get-a-free-extra-four-months-across-all-plans/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-15/#ftag=CAD590a51e)
- - [In a report, China&#39;s cybersecurity agency rejects US and Microsoft claims that Chinese hackers were behind Volt Typhoon, calling the claims a &quot;political farce&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p24#a241014p24)
- - [How to use Mission Control on Mac to enhance your productivity](https://appleinsider.com/inside/macos/tips/how-to-use-mission-control-on-mac-to-enhance-your-productivity?utm_medium=rss)<!-- TECH:END -->
+ - [Save Up to 87% on Surfshark VPN and Get a Free Extra Four Months Across All Plans](https://www.cnet.com/deals/save-up-to-87-on-surfshark-vpn-and-get-a-free-extra-four-months-across-all-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

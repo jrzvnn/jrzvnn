@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 💣 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
- - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
- - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
+ - 😝 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)
+ - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
+ - 💣 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)
+ - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
+ - 👉 [Get bugged](http://9gag.com/gag/avy8Vnb)<!-- MEMES:END -->
 
 ---
 

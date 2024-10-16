@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hades II gets a new location and new pets](https://www.theverge.com/2024/10/16/24271897/hades-ii-2-major-update-olympic)
  - [Amazon looks to advanced nuclear reactors to meet climate goals](https://www.theverge.com/2024/10/16/24271696/amazon-nuclear-energy-advanced-reactors)
  - [Amazon signs three deals to help develop small modular nuclear reactors in the US, with Amazon&#39;s Climate Pledge Fund leading a $500M Series C-1 for X-energy &lpar;Diana Olick/CNBC&rpar;](http://www.techmeme.com/241016/p30#a241016p30)
  - [Airbnb can now help you find somebody to manage your listing](https://www.theverge.com/2024/10/16/24271838/airbnb-co-host-network-manage-listing-2024-winter-release)
- - [App Store connection issues are preventing users from downloading apps](https://appleinsider.com/articles/24/10/16/app-store-wobbles-prevent-users-from-downloading-apps?utm_medium=rss)
- - [JD Vance Adviser Posted on Reddit for Years About Use of Cocaine, ‘Gas Station Heroin,’ Other Drugs](https://www.wired.com/story/jd-vance-adviser-posted-drug-use-reddit-cocaine-gas-station-heroin/)<!-- TECH:END -->
+ - [App Store connection issues are preventing users from downloading apps](https://appleinsider.com/articles/24/10/16/app-store-wobbles-prevent-users-from-downloading-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

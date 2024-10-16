@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)
  - [Filing: Elon Musk poured ~$75M into his pro-Trump America PAC, making seven donations between July 3 and September 5; Musk was the PAC&#39;s only donor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p44#a241015p44)
  - [How to use the new Attachments Browser in Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-new-attachments-browser-in-notes-for-macos?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Oct. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-16/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 16, #23](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-16-23/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 16, #227](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-16-227/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 16, #23](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-16-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

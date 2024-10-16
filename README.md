@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seven years later, Apple data center in Iowa finally opens](https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens?utm_medium=rss)
+ - [Algorithms Policed Welfare Systems For Years. Now They&#39;re Under Fire for Bias](https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/)
  - [The Digicam Comeback](https://www.theverge.com/c/24208960/digicam-digital-camera-comeback-2004-gen-z-nikon-coolpix)
  - [A24’s The Legend of Ochi looks like an adorable fantasy adventure in first trailer](https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24)
- - [Kindle Colorsoft hands-on: bold and sharp color on a 7&quot; display, wireless charging, and comfortable, lightweight design, but pricier than other Kindles at $280 &lpar;Tony Polanco/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241016/p22#a241016p22)
- - [Lightmatter, which uses silicon photonics with waveguides instead of wires in chips, raised a $400M Series D led by T. Rowe Price at a $4.4B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241016/p21#a241016p21)
- - [Amazon unveils the $280 Kindle Colorsoft Signature Edition, its first color e-reader with a Paperwhite-like design and color E Ink display, shipping October 30 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p20#a241016p20)<!-- TECH:END -->
+ - [Kindle Colorsoft hands-on: bold and sharp color on a 7&quot; display, wireless charging, and comfortable, lightweight design, but pricier than other Kindles at $280 &lpar;Tony Polanco/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241016/p22#a241016p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

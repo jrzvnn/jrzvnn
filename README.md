@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The porn saga of North Carolina’s lieutenant governor is modern lawfare in a nutshell](https://www.theverge.com/2024/10/16/24270877/mark-robinson-north-carolina-lieutenant-governor-porn-forum-tape-defamation-lawsuit)
+ - [Astro Bot’s speedrunning DLC starts rolling out tomorrow](https://www.theverge.com/2024/10/16/24271723/astro-bot-dlc-release-date-team-asobi)
+ - [8 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
  - [Sources detail how Nvidia and TSMC&#39;s lucrative AI alliance is showing signs of stress as AI booms; sources say Nvidia found flaws in TSMC-made Blackwell chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241016/p25#a241016p25)
- - [The FTC is finally making it easier to cancel your gym membership](https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule)
- - [Best Savings Rates Today, Oct. 16, 2024: Snag a High APY Before It&#39;s Too Late](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-16-2024/#ftag=CAD590a51e)
- - [Score Over Half Off This Simple Keurig Single-Serve Coffee Maker While Supplies last](https://www.cnet.com/deals/score-over-half-off-this-simple-keurig-single-serve-coffee-maker-while-supplies-last/#ftag=CAD590a51e)
- - [Samsung Galaxy Chromebook Plus Review: Light and Thin](https://www.wired.com/review/samsung-galaxy-chromebook-plus/)<!-- TECH:END -->
+ - [The FTC is finally making it easier to cancel your gym membership](https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

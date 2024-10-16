@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get bugged](http://9gag.com/gag/avy8Vnb)
- - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
- - 💣 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 😝 [Nobody will suspect a thing](http://9gag.com/gag/aD21LG9)
- - 👉 [The content of the following video may be disturbing to some people..](http://9gag.com/gag/aYQYZ9m)<!-- MEMES:END -->
+ - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 💣 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
 
 ---
 

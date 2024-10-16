@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s prototype Surface Laptop leaks with Intel’s Lunar Lake chips inside](https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake)
  - [ASML&#39;s stock falls the most since 1998 after projecting sluggish sales, erasing &amp;euro;50B from its market cap and causing Nvidia and other chip stocks to fall &lpar;Bloomberg&rpar;](http://www.techmeme.com/241016/p9#a241016p9)
  - [Amazon’s new Kindle family includes the first color Kindle](https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date)
  - [A look at a cluster of European cities within a five-hour train ride of London that collectively have 500+ startups with at least $100M of annual revenue &lpar;Saul Klein/Wired&rpar;](http://www.techmeme.com/241016/p8#a241016p8)
- - [Best Alkaline Batteries for 2024](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
- - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Alkaline Batteries for 2024](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

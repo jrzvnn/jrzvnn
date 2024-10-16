@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
- - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 😝 [Death to press, hunt them and kill them.](http://9gag.com/gag/ae9ryNq)
+ - 😝 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
  - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
+ - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
 
 ---
 

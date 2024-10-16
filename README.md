@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK filings: Google DeepMind&#39;s operating profit rose 91% YoY to &amp;pound;136M in 2023, after Google Brain merger; Alphabet&#39;s Isomorphic Labs had &amp;pound;60.4M loss, up 3x+ YoY &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/241016/p4#a241016p4)
  - [Overseas share sales by Taiwanese companies, led by chipmakers and hardware manufacturers, have totalled $2.9B so far in 2024, on track for the most since 2007 &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/241016/p3#a241016p3)
  - [Amsterdam-based Tebi, a payments app aimed at independent businesses like bars and cafes, raised a &amp;euro;20M Series A led by Index Ventures &lpar;Prarthana Prakash/Fortune&rpar;](http://www.techmeme.com/241016/p2#a241016p2)
  - [Dane Stuckey, the former CISO of Palantir, joins OpenAI as its CISO and will serve alongside OpenAI head of security Matt Knight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241016/p1#a241016p1)
- - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)
- - [Filing: Elon Musk poured ~$75M into his pro-Trump America PAC, making seven donations between July 3 and September 5; Musk was the PAC&#39;s only donor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p44#a241015p44)<!-- TECH:END -->
+ - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

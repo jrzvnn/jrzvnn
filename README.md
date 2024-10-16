@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
- - 💣 [Worth of a son](http://9gag.com/gag/a2vZAVw)
- - 😝 [What an answer](http://9gag.com/gag/ajP8jRG)
+ - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 💣 [This is wild. Daughter going to jail for murdering her parents, and living WITH THEIR DEAD BODIES!!](http://9gag.com/gag/a6ZOeGq)
+ - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
  - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---

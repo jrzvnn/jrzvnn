@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)
- - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
- - 💣 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)
- - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
- - 👉 [Get bugged](http://9gag.com/gag/avy8Vnb)<!-- MEMES:END -->
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
+ - 💣 [Look how far we come](http://9gag.com/gag/azx9z9j)
+ - 😝 [Death to press, hunt them and kill them.](http://9gag.com/gag/ae9ryNq)
+ - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
 
 ---
 

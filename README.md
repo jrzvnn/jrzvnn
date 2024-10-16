@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of WeChat&#39;s network protocol MMTLS finds that it is a modified version of TLS 1.3 and WeChat developers&#39; changes to its cryptography add weaknesses &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/241016/p11#a241016p11)
  - [Q&amp;A with Kevin Rose on Digg, what Reddit got right, the rise of news feeds, Techmeme being the place &quot;to just see globally what&#39;s happening in tech&quot;, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p10#a241016p10)
  - [Microsoft’s prototype Surface Laptop leaks with Intel’s Lunar Lake chips inside](https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake)
  - [ASML&#39;s stock falls the most since 1998 after projecting sluggish sales, erasing &amp;euro;50B from its market cap and causing Nvidia and other chip stocks to fall &lpar;Bloomberg&rpar;](http://www.techmeme.com/241016/p9#a241016p9)
- - [Best Savings Rates Today, Oct. 16, 2024: Snag a High APY Before It&#39;s Too Late](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-16-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in Midland, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-midland-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Savings Rates Today, Oct. 16, 2024: Snag a High APY Before It&#39;s Too Late](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-16-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

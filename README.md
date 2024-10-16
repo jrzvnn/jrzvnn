@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 💣 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 😝 [Calcium carbide lamp used for miners to light their way inside mines!](http://9gag.com/gag/aO8YADN)
+ - 💣 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
  - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
- - 👉 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)<!-- MEMES:END -->
+ - 👉 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LatticeFlow&#39;s LLM Checker, which analyzed models from Meta, Alibaba, Mistral, Anthropic, and OpenAI against the EU&#39;s AI Act, finds some compliance issues &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241016/p15#a241016p15)
+ - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
+ - [Apple Watch Vitals app can predict when you&#39;re going to be sick days in advance](https://appleinsider.com/articles/24/10/16/apple-watch-vitals-app-can-predict-when-youre-going-to-be-sick-days-in-advance?utm_medium=rss)
  - [Surgeons say Apple Vision Pro saves them pain and injury](https://appleinsider.com/articles/24/10/16/surgeons-say-apple-vision-pro-saves-them-pain-and-injury?utm_medium=rss)
- - [A profile of Neuralink&#39;s top neurosurgeon Matthew MacDougall, who has worked there for seven years and is an even-keeled, affable counterbalance to Elon Musk &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241016/p14#a241016p14)
- - [Facebook put us out there](https://www.theverge.com/c/24211851/facebook-meta-history-2004-anniversary-20-years)
- - [Microsoft pulls $1 Xbox Game Pass trial just before new Call of Duty release](https://www.theverge.com/2024/10/16/24271619/microsoft-xbox-game-pass-trial-suspended-call-of-duty-black-ops-6)
- - [The Cybersecurity Association of China says Intel products sold in the country should be subject to a security review, alleging it has &quot;constantly harmed&quot; China &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/241016/p13#a241016p13)<!-- TECH:END -->
+ - [A profile of Neuralink&#39;s top neurosurgeon Matthew MacDougall, who has worked there for seven years and is an even-keeled, affable counterbalance to Elon Musk &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241016/p14#a241016p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

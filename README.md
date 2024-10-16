@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe’s experimental tool can identify an artist’s work online or on a tote bag](https://www.theverge.com/2024/10/16/24271338/adobe-sneaks-project-know-how-content-credentials)
  - [LatticeFlow&#39;s LLM Checker, which analyzed models from Meta, Alibaba, Mistral, Anthropic, and OpenAI against the EU&#39;s AI Act, finds some compliance issues &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241016/p15#a241016p15)
  - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
  - [Apple Watch Vitals app can predict when you&#39;re going to be sick days in advance](https://appleinsider.com/articles/24/10/16/apple-watch-vitals-app-can-predict-when-youre-going-to-be-sick-days-in-advance?utm_medium=rss)
- - [Surgeons say Apple Vision Pro saves them pain and injury](https://appleinsider.com/articles/24/10/16/surgeons-say-apple-vision-pro-saves-them-pain-and-injury?utm_medium=rss)
- - [A profile of Neuralink&#39;s top neurosurgeon Matthew MacDougall, who has worked there for seven years and is an even-keeled, affable counterbalance to Elon Musk &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241016/p14#a241016p14)<!-- TECH:END -->
+ - [Surgeons say Apple Vision Pro saves them pain and injury](https://appleinsider.com/articles/24/10/16/surgeons-say-apple-vision-pro-saves-them-pain-and-injury?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

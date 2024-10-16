@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Instagram’s ‘social library’ could keep track of that funny video someone sent you](https://www.theverge.com/2024/10/16/24271983/instagram-social-library-funny-video-someone-sent-you)
  - [Crypto derivatives exchange Bitnomial raised $25M led by Ripple and launches Botanical, a futures trading platform in the US currently in closed beta &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/241016/p37#a241016p37)
  - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)
- - [Chief People Officer leaves Apple after short 20 month tenure](https://appleinsider.com/articles/24/10/16/chief-people-officer-leaves-apple-after-short-18-month-tenure?utm_medium=rss)
- - [Amazon discontinues the Kindle Oasis, which was the only Kindle still available with physical page-turn buttons, introduced in 2016 and last refreshed in 2019 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241016/p36#a241016p36)<!-- TECH:END -->
+ - [Chief People Officer leaves Apple after short 20 month tenure](https://appleinsider.com/articles/24/10/16/chief-people-officer-leaves-apple-after-short-18-month-tenure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

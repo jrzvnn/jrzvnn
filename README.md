@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 😝 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
- - 💣 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - 😝 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 💣 [Look how far we come](http://9gag.com/gag/azx9z9j)
  - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---
 

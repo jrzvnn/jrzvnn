@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
- - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 💣 [Look how far we come](http://9gag.com/gag/azx9z9j)
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
+ - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - 😝 [A loving father](http://9gag.com/gag/a4PQmWy)
+ - 💣 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---
 

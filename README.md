@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Engineers Show How Flimsy AI ‘Reasoning’ Can Be](https://www.wired.com/story/apple-ai-llm-reasoning-research/)
- - [Here’s a bunch of bananas shit Trump said today about breaking up Google](https://www.theverge.com/2024/10/15/24271297/google-donald-trump-bananas-breaking-up-bananas)
- - [A review of Character.AI finds several instances of AI personas being created without a person&#39;s consent, seemingly violating the company&#39;s terms of service &lpar;Wired&rpar;](http://www.techmeme.com/241015/p37#a241015p37)
- - [Galileo, a startup that helps companies fine tune, evaluate, observe, and protect their AI models, raised a $45M Series B led by Scale Venture Partners &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/241015/p36#a241015p36)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Filing: Chinese smart-driving company Horizon Robotics is targeting to raise ~$700M in its Hong Kong IPO; Alibaba and Baidu are among its cornerstone investors &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/241015/p40#a241015p40)
+ - [Monogoto, which offers software-defined connectivity tools for enterprises, raised a $27M Series A led by Toyota Ventures, taking its total funding to $38M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241015/p39#a241015p39)
+ - [50% of Apple users can&#39;t manage AppleCare on device thanks to temporary outage](https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage?utm_medium=rss)
+ - [Lexar Professional Go Portable SSD with Hub review: an iPhone video dream](https://appleinsider.com/articles/24/10/16/lexar-professional-go-portable-ssd-with-hub-review-an-iphone-video-dream?utm_medium=rss)
+ - [Anthropic updates its Responsible Scaling Policy, setting benchmarks for when an AI model&#39;s abilities reach a point where additional safeguards are necessary &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241015/p38#a241015p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

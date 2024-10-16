@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surgeons say Apple Vision Pro saves them pain and injury](https://appleinsider.com/articles/24/10/16/surgeons-say-apple-vision-pro-saves-them-pain-and-injury?utm_medium=rss)
+ - [A profile of Neuralink&#39;s top neurosurgeon Matthew MacDougall, who has worked there for seven years and is an even-keeled, affable counterbalance to Elon Musk &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241016/p14#a241016p14)
+ - [Facebook put us out there](https://www.theverge.com/c/24211851/facebook-meta-history-2004-anniversary-20-years)
  - [Microsoft pulls $1 Xbox Game Pass trial just before new Call of Duty release](https://www.theverge.com/2024/10/16/24271619/microsoft-xbox-game-pass-trial-suspended-call-of-duty-black-ops-6)
- - [The Cybersecurity Association of China says Intel products sold in the country should be subject to a security review, alleging it has &quot;constantly harmed&quot; China &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/241016/p13#a241016p13)
- - [Elon Musk appears to have won a contest with Indian telecom tycoons Mukesh Ambani and Sunil Bharti Mittal over the awarding of satellite spectrum in India &lpar;Financial Times&rpar;](http://www.techmeme.com/241016/p12#a241016p12)
- - [Helix Plus Luxe Mattress Review 2024: A Bed Built for Burly Bodies](https://www.cnet.com/health/sleep/helix-plus-luxe-mattress-review/#ftag=CAD590a51e)
- - [An analysis of WeChat&#39;s network protocol MMTLS finds that it is a modified version of TLS 1.3 and WeChat developers&#39; changes to its cryptography add weaknesses &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/241016/p11#a241016p11)<!-- TECH:END -->
+ - [The Cybersecurity Association of China says Intel products sold in the country should be subject to a security review, alleging it has &quot;constantly harmed&quot; China &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/241016/p13#a241016p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

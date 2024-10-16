@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Chromebook Plus review: thin design, spacious 15.6&quot; screen, great performance, Quick Insert key, and solid battery life, but average speakers &lpar;Daniel Thorp-Lancaster/Wired&rpar;](http://www.techmeme.com/241016/p29#a241016p29)
  - [The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard](https://www.theverge.com/2024/10/16/24270849/oneplus-pad-amazon-smart-thermostat-deal-sale)
  - [NASA Will Do Space in Style With the Prada Axiom Spacesuit](https://www.wired.com/story/nasa-wants-you-to-do-space-in-style-with-the-prada-axiom-spacesuit/)
  - [FTC data: three crypto super PACs have spent $82M in 19 races, including $40M in Ohio and $10M in Arizona; the ads focus on candidates and rarely mention crypto &lpar;Jessica Piper/Politico&rpar;](http://www.techmeme.com/241016/p28#a241016p28)
- - [8 Best Smart Shades, Blinds, and Curtains &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
- - [Apple’s App Stores can’t install new apps](https://www.theverge.com/2024/10/16/24271811/apple-app-store-outage-install-new-apps-iphone-ipad-mac)<!-- TECH:END -->
+ - [8 Best Smart Shades, Blinds, and Curtains &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

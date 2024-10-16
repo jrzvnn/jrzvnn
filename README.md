@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Seven years later, Apple data center in Iowa finally opens](https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens?utm_medium=rss)
- - [Algorithms Policed Welfare Systems For Years. Now They&#39;re Under Fire for Bias](https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/)
- - [The Digicam Comeback](https://www.theverge.com/c/24208960/digicam-digital-camera-comeback-2004-gen-z-nikon-coolpix)
- - [A24’s The Legend of Ochi looks like an adorable fantasy adventure in first trailer](https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24)<!-- TECH:END -->
+ - [The EU declines to designate X as a DMA gatekeeper after an investigation found that &quot;X is not an important gateway for business users to reach end users&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241016/p24#a241016p24)
+ - [What Gmail Did to Email](https://www.theverge.com/c/24211978/gmail-email-storage-search-2004-anniversary-google)
+ - [ASML CEO Christophe Fouquet says he expects a slow chip market recovery to extend &quot;well into 2025&quot; due to &quot;customer cautiousness&quot;, as the US&#39; China rules bite &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241016/p23#a241016p23)
+ - [Trumpcoin Launches With a Whimper](https://www.wired.com/story/trumpcoin-launches-with-a-whimper-not-a-bang/)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

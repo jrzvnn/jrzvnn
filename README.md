@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
+ - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
+ - 😝 [Just saying tho...](http://9gag.com/gag/an79oXq)
+ - 💣 [They are right](http://9gag.com/gag/a0eQq3Z)
+ - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 👉 [Another skills in PowerPoint](http://9gag.com/gag/aZZLXLX)<!-- MEMES:END -->
 
 ---
 

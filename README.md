@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10](http://9gag.com/gag/an7987b)
- - 😝 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)
- - 💣 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 👉 [Bad biker](http://9gag.com/gag/aNDYXMb)<!-- MEMES:END -->
+ - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
+ - 💣 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)
+ - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
+ - 👉 [Get bugged](http://9gag.com/gag/avy8Vnb)<!-- MEMES:END -->
 
 ---
 

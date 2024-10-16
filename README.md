@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Flights makes it easier to find the cheapest airfare](https://www.theverge.com/2024/10/16/24271133/google-flights-cheapest-flights-view)
- - [You can now preorder the new iPad Mini](https://www.theverge.com/2024/10/15/24268182/ipad-mini-2024-preorder-how-to-buy-price-release-date)
- - [Why Apple&#39;s smart home speaker dreams are still falling short](https://appleinsider.com/articles/24/10/16/why-apples-smart-home-speaker-dreams-are-still-falling-short?utm_medium=rss)
- - [Life is Strange: Double Exposure is more heart than whodunit](https://www.theverge.com/2024/10/16/24271682/life-is-strange-double-exposure-preview)
- - [Samsung Galaxy Chromebook Plus review: thin design, spacious 15.6&quot; screen, great performance, Quick Insert key, and solid battery life, but average speakers &lpar;Daniel Thorp-Lancaster/Wired&rpar;](http://www.techmeme.com/241016/p29#a241016p29)<!-- TECH:END -->
+ - [Amazon signs three deals to help develop small modular nuclear reactors in the US, with Amazon&#39;s Climate Pledge Fund leading a $500M Series C-1 for X-energy &lpar;Diana Olick/CNBC&rpar;](http://www.techmeme.com/241016/p30#a241016p30)
+ - [Airbnb can now help you find somebody to manage your listing](https://www.theverge.com/2024/10/16/24271838/airbnb-co-host-network-manage-listing-2024-winter-release)
+ - [App Store connection issues are preventing users from downloading apps](https://appleinsider.com/articles/24/10/16/app-store-wobbles-prevent-users-from-downloading-apps?utm_medium=rss)
+ - [JD Vance Adviser Posted on Reddit for Years About Use of Cocaine, ‘Gas Station Heroin,’ Other Drugs](https://www.wired.com/story/jd-vance-adviser-posted-drug-use-reddit-cocaine-gas-station-heroin/)
+ - [Anthropic’s CEO thinks AI will lead to a utopia — he just needs $7 billion first](https://www.theverge.com/2024/10/16/24268209/anthropic-ai-dario-amodei-agi-funding-blog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

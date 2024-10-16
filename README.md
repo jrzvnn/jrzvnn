@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
- - 💣 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)
- - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
- - 👉 [Get bugged](http://9gag.com/gag/avy8Vnb)<!-- MEMES:END -->
+ - 😝 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
 
 ---
 

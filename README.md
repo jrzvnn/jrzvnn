@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon discontinues the Kindle Oasis, which was the only Kindle still available with physical page-turn buttons, introduced in 2016 and last refreshed in 2019 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241016/p36#a241016p36)
  - [Apple&#39;s chief people officer, Carol Surface, is leaving after joining in early 2023; retail chief Deirdre O&#39;Brien is reassuming oversight of human resources &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241016/p35#a241016p35)
  - [Apple’s new feature lets brands put their stamp on emails and calls to your iPhone](https://www.theverge.com/2024/10/16/24272053/apple-brands-stamp-emails-calls-iphone)
  - [Apple is expanding Apple Business Connect to let businesses, including those without a physical location, manage their presence in Mail, Phone, and Tap to Pay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241016/p34#a241016p34)
- - [The US charges two Sudanese brothers with running Anonymous Sudan, a cyberattack-for-hire gang allegedly responsible for 35,000 DDoS attacks in a single year &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241016/p33#a241016p33)
- - [Amazon discontinues the last Kindle with physical buttons](https://www.theverge.com/2024/10/16/24272009/amazon-discontinues-kindle-oasis-physical-buttons)<!-- TECH:END -->
+ - [The US charges two Sudanese brothers with running Anonymous Sudan, a cyberattack-for-hire gang allegedly responsible for 35,000 DDoS attacks in a single year &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241016/p33#a241016p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
- - 😝 [A loving father](http://9gag.com/gag/a4PQmWy)
- - 💣 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
- - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
+ - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 😝 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
  - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---

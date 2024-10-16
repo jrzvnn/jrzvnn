@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instacart names Anirban Kundu, head of engineering for Uber&#39;s delivery business, as its new CTO, a position that has been vacant for eight months &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241016/p32#a241016p32)
  - [Discord says piracy subpoena would violate users’ First Amendment rights](https://www.theverge.com/2024/10/16/24271854/discord-nexon-dmca-subopoena-copyright-piracy)
  - [Prada helped make a spacesuit](https://www.theverge.com/2024/10/16/24271875/axiom-space-prada-spacesuit-axemu-artemis-iii)
  - [Dungeon brawler &#39;Hades II&#39; now supports Apple Silicon](https://appleinsider.com/articles/24/10/16/dungeon-brawler-hades-ii-now-supports-apple-silicon?utm_medium=rss)
- - [Best Video Doorbell Cameras of 2024 -- Tested by Our Experts](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
- - [Best Universal Remote for 2024](https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Video Doorbell Cameras of 2024 -- Tested by Our Experts](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

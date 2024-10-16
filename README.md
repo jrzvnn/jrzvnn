@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC adopts its final &quot;click-to-cancel&quot; rule requiring businesses to make canceling a subscription as easy as signing up, after proposing the rule in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241016/p27#a241016p27)
- - [My aging minivan needs Anker’s leaked car charger with a retractable USB-C cable](https://www.theverge.com/2024/10/16/24271680/anker-nano-car-charger-retractable-usb-c)
- - [Elon Musk is going to stump for Trump in Pennsylvania](https://www.theverge.com/2024/10/16/24271770/elon-musk-trump-pennsylvania-talks)
- - [Mistral releases Les Ministraux AI models in 3B and 8B sizes with 128K context windows, aimed at on-device translation, internet-less smart assistants, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241016/p26#a241016p26)
- - [Best Gifts For Hikers, Backpackers, Outdoorsy People &lpar;2024&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)<!-- TECH:END -->
+ - [NASA Will Do Space in Style With the Prada Axiom Spacesuit](https://www.wired.com/story/nasa-wants-you-to-do-space-in-style-with-the-prada-axiom-spacesuit/)
+ - [FTC data: three crypto super PACs have spent $82M in 19 races, including $40M in Ohio and $10M in Arizona; the ads focus on candidates and rarely mention crypto &lpar;Jessica Piper/Politico&rpar;](http://www.techmeme.com/241016/p28#a241016p28)
+ - [8 Best Smart Shades, Blinds, and Curtains &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+ - [Apple’s App Stores can’t install new apps](https://www.theverge.com/2024/10/16/24271811/apple-app-store-outage-install-new-apps-iphone-ipad-mac)
+ - [The US FTC adopts its final &quot;click-to-cancel&quot; rule requiring businesses to make canceling a subscription as easy as signing up, after proposing the rule in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241016/p27#a241016p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

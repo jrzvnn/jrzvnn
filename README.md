@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The year of the music licensing legal wars](https://www.theverge.com/c/24239057/music-license-grokster-legal-lawsuit-2004)
- - [UK reconsidering USB-C charger mandate, after everyone else has already shifted](https://appleinsider.com/articles/24/10/16/uk-reconsidering-usb-c-charger-mandate-after-everyone-else-has-already-shifted?utm_medium=rss)
- - [Casabrews 5700PRO Review: Exceeding Expectations](https://www.wired.com/review/casabrews-5700pro/)
- - [Is AI the Answer to Your Money Problems? Here&#39;s What It Can &lpar;and Can&#39;t&rpar; Do](https://www.cnet.com/tech/services-and-software/features/is-ai-the-answer-to-your-money-problems-heres-what-it-can-and-cant-do/#ftag=CAD590a51e)
- - [Stop Wasting iPhone Storage With Duplicate Photos. Here&#39;s How to Free Up Space](https://www.cnet.com/tech/mobile/stop-wasting-iphone-storage-with-duplicate-photos-heres-how-to-free-up-space/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon updates the Kindle Scribe to add modest design improvements like white bezels, a new stylus, and a more paper-like feel, shipping December 4 for $400 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p18#a241016p18)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Amazon updates Kindle Paperwhite, adding a larger, brighter 7&quot; display and faster page turns for $160+, and Kindle, adding color options and speed improvements &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/241016/p17#a241016p17)
+ - [Amazon’s New Kindle Lineup Includes the First-Ever Color Kindle](https://www.wired.com/story/amazon-new-kindle-colorsoft-kindle-paperwhite-kindle-scribe-2024/)
+ - [Amazon finally has a color Kindle, and it looks pretty good](https://www.theverge.com/2024/10/16/24271632/amazon-kindle-colorsoft-specs-price-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

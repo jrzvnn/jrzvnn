@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 💣 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
- - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
+ - 😝 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
+ - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
 
 ---
 

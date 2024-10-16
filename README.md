@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
- - 😝 [Just saying tho...](http://9gag.com/gag/an79oXq)
- - 💣 [They are right](http://9gag.com/gag/a0eQq3Z)
- - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
- - 👉 [Another skills in PowerPoint](http://9gag.com/gag/aZZLXLX)<!-- MEMES:END -->
+ - 😝 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
+ - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
+ - 💣 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 👉 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)<!-- MEMES:END -->
 
 ---
 

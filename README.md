@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [NHS doctors warn of safety risks from an outdated IT infrastructure, as the UK government plans to digitize the world&#39;s largest publicly funded health service &lpar;Laura Hughes/Financial Times&rpar;](http://www.techmeme.com/241016/p5#a241016p5)
  - [UK filings: Google DeepMind&#39;s operating profit rose 91% YoY to &amp;pound;136M in 2023, after Google Brain merger; Alphabet&#39;s Isomorphic Labs had &amp;pound;60.4M loss, up 3x+ YoY &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/241016/p4#a241016p4)
  - [Overseas share sales by Taiwanese companies, led by chipmakers and hardware manufacturers, have totalled $2.9B so far in 2024, on track for the most since 2007 &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/241016/p3#a241016p3)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [Amsterdam-based Tebi, a payments app aimed at independent businesses like bars and cafes, raised a &amp;euro;20M Series A led by Index Ventures &lpar;Prarthana Prakash/Fortune&rpar;](http://www.techmeme.com/241016/p2#a241016p2)<!-- TECH:END -->
+ - [Amsterdam-based Tebi, a payments app aimed at independent businesses like bars and cafes, raised a &amp;euro;20M Series A led by Index Ventures &lpar;Prarthana Prakash/Fortune&rpar;](http://www.techmeme.com/241016/p2#a241016p2)
+ - [Dane Stuckey, the former CISO of Palantir, joins OpenAI as its CISO and will serve alongside OpenAI head of security Matt Knight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241016/p1#a241016p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

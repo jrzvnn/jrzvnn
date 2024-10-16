@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 💣 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
- - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
+ - 😝 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 😝 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - 💣 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 👉 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)<!-- MEMES:END -->
 
 ---
 

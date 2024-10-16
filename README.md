@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston Dynamics and Toyota Research Institute partner to speed up development of humanoid robots using TRI&#39;s large behavior models and Boston Dynamics&#39; Atlas &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/241016/p38#a241016p38)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Instagram’s ‘social library’ could keep track of that funny video someone sent you](https://www.theverge.com/2024/10/16/24271983/instagram-social-library-funny-video-someone-sent-you)
  - [Crypto derivatives exchange Bitnomial raised $25M led by Ripple and launches Botanical, a futures trading platform in the US currently in closed beta &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/241016/p37#a241016p37)
- - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)
- - [Chief People Officer leaves Apple after short 20 month tenure](https://appleinsider.com/articles/24/10/16/chief-people-officer-leaves-apple-after-short-18-month-tenure?utm_medium=rss)<!-- TECH:END -->
+ - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

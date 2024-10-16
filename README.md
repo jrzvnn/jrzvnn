@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [Seven years later, Apple data center in Iowa finally opens](https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens?utm_medium=rss)
  - [Algorithms Policed Welfare Systems For Years. Now They&#39;re Under Fire for Bias](https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/)
  - [The Digicam Comeback](https://www.theverge.com/c/24208960/digicam-digital-camera-comeback-2004-gen-z-nikon-coolpix)
- - [A24’s The Legend of Ochi looks like an adorable fantasy adventure in first trailer](https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24)
- - [Kindle Colorsoft hands-on: bold and sharp color on a 7&quot; display, wireless charging, and comfortable, lightweight design, but pricier than other Kindles at $280 &lpar;Tony Polanco/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241016/p22#a241016p22)<!-- TECH:END -->
+ - [A24’s The Legend of Ochi looks like an adorable fantasy adventure in first trailer](https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

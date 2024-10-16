@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon’s new Kindle family includes the first color Kindle](https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date)
  - [A look at a cluster of European cities within a five-hour train ride of London that collectively have 500+ startups with at least $100M of annual revenue &lpar;Saul Klein/Wired&rpar;](http://www.techmeme.com/241016/p8#a241016p8)
+ - [Best Alkaline Batteries for 2024](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
  - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
- - [Survey: 68% of US adults support a ban on middle and high school students using phones during class and 24% oppose it; 53% oppose a ban lasting full school days &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241016/p7#a241016p7)
- - [Filing: US prosecutors ask a judge to sentence Ilya Lichtenstein, mastermind of the 2016 Bitfinex hack, to five years in prison; sentencing is due in November &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241016/p6#a241016p6)<!-- TECH:END -->
+ - [Survey: 68% of US adults support a ban on middle and high school students using phones during class and 24% oppose it; 53% oppose a ban lasting full school days &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241016/p7#a241016p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

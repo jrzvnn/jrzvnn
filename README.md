@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Florida-based SynthBee, started by Magic Leap founder Rony Abovitz to build a new kind of computing intelligence platform, raised a $20M seed led by Crosspoint &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241016/p39#a241016p39)
  - [Boston Dynamics and Toyota Research Institute partner to speed up development of humanoid robots using TRI&#39;s large behavior models and Boston Dynamics&#39; Atlas &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/241016/p38#a241016p38)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Instagram’s ‘social library’ could keep track of that funny video someone sent you](https://www.theverge.com/2024/10/16/24271983/instagram-social-library-funny-video-someone-sent-you)
- - [Crypto derivatives exchange Bitnomial raised $25M led by Ripple and launches Botanical, a futures trading platform in the US currently in closed beta &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/241016/p37#a241016p37)
- - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)<!-- TECH:END -->
+ - [Instagram’s ‘social library’ could keep track of that funny video someone sent you](https://www.theverge.com/2024/10/16/24271983/instagram-social-library-funny-video-someone-sent-you)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

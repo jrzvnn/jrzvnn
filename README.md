@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Overseas share sales by Taiwanese companies, led by chipmakers and hardware manufacturers, have totalled $2.9B so far in 2024, on track for the most since 2007 &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/241016/p3#a241016p3)
  - [Amsterdam-based Tebi, a payments app aimed at independent businesses like bars and cafes, raised a &amp;euro;20M Series A led by Index Ventures &lpar;Prarthana Prakash/Fortune&rpar;](http://www.techmeme.com/241016/p2#a241016p2)
  - [Dane Stuckey, the former CISO of Palantir, joins OpenAI as its CISO and will serve alongside OpenAI head of security Matt Knight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241016/p1#a241016p1)
  - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)
- - [Filing: Elon Musk poured ~$75M into his pro-Trump America PAC, making seven donations between July 3 and September 5; Musk was the PAC&#39;s only donor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p44#a241015p44)
- - [How to use the new Attachments Browser in Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-new-attachments-browser-in-notes-for-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Elon Musk poured ~$75M into his pro-Trump America PAC, making seven donations between July 3 and September 5; Musk was the PAC&#39;s only donor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p44#a241015p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

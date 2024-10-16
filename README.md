@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 💣 [Disgusting.](http://9gag.com/gag/a2vZjXY)
- - 😝 [W for Spotify](http://9gag.com/gag/aoyeqOx)
- - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
+ - 💣 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
+ - 😝 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
+ - 👉 [Because too much talent leaving that knows how to use these engines, and outsourcing will be easier if it\u2019s a universal engine.](http://9gag.com/gag/aPAYV8P)<!-- MEMES:END -->
 
 ---
 

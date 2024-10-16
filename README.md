@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US charges two Sudanese brothers with running Anonymous Sudan, a cyberattack-for-hire gang allegedly responsible for 35,000 DDoS attacks in a single year &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241016/p33#a241016p33)
  - [Amazon discontinues the last Kindle with physical buttons](https://www.theverge.com/2024/10/16/24272009/amazon-discontinues-kindle-oasis-physical-buttons)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Apple Business Connect extends to online firms, adds branding features](https://appleinsider.com/articles/24/10/16/apple-business-connect-extends-to-online-firms-adds-branding-features?utm_medium=rss)
- - [Instacart names Anirban Kundu, head of engineering for Uber&#39;s delivery business, as its new CTO, a position that has been vacant for eight months &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241016/p32#a241016p32)
- - [Discord says piracy subpoena would violate users’ First Amendment rights](https://www.theverge.com/2024/10/16/24271854/discord-nexon-dmca-subpoena-copyright-piracy)<!-- TECH:END -->
+ - [Instacart names Anirban Kundu, head of engineering for Uber&#39;s delivery business, as its new CTO, a position that has been vacant for eight months &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241016/p32#a241016p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

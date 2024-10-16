@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Chinese smart-driving company Horizon Robotics is targeting to raise ~$700M in its Hong Kong IPO; Alibaba and Baidu are among its cornerstone investors &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/241015/p40#a241015p40)
- - [Monogoto, which offers software-defined connectivity tools for enterprises, raised a $27M Series A led by Toyota Ventures, taking its total funding to $38M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241015/p39#a241015p39)
- - [50% of Apple users can&#39;t manage AppleCare on device thanks to temporary outage](https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage?utm_medium=rss)
- - [Lexar Professional Go Portable SSD with Hub review: an iPhone video dream](https://appleinsider.com/articles/24/10/16/lexar-professional-go-portable-ssd-with-hub-review-an-iphone-video-dream?utm_medium=rss)
- - [Anthropic updates its Responsible Scaling Policy, setting benchmarks for when an AI model&#39;s abilities reach a point where additional safeguards are necessary &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241015/p38#a241015p38)<!-- TECH:END -->
+ - [50% of Apple users couldn&#39;t manage AppleCare on device thanks to temporary outage](https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage?utm_medium=rss)
+ - [Los Angeles-based Ghost, a B2B marketplace for surplus inventory with more than 6,000 members, raised a $40M Series C led by L Catterton &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241015/p42#a241015p42)
+ - [Bluetti Handsfree Backpack with portable power station is a photographer&#39;s dream](https://appleinsider.com/articles/24/10/16/bluetti-handsfree-backpack-with-portable-power-station-is-a-photographers-dream?utm_medium=rss)
+ - [Filings: Marc Andreessen and Ben Horowitz each donated $2.5M to pro-Trump super PAC Right For America; Andreessen also gave ~$844K to the GOP and Trump campaign &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p41#a241015p41)
+ - [Best Soda Makers to Buy in 2024: Get the Best Bubbly With These Top-Rated Machines](https://www.cnet.com/news/best-soda-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

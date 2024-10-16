@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Afternoon shift FTW!](http://9gag.com/gag/aNDY2wb)
- - 😝 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
- - 💣 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
- - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
+ - 😝 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
+ - 💣 [10](http://9gag.com/gag/an7987b)
+ - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - 👉 [W for Spotify](http://9gag.com/gag/aoyeqOx)<!-- MEMES:END -->
 
 ---
 

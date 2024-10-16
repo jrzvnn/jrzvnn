@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Uber has explored a possible bid for Expedia as it seeks to grow into a super app; Expedia, valued at nearly $20B, would be Uber&#39;s largest acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/241016/p40#a241016p40)
  - [Meta is laying off employees at WhatsApp, Instagram, and more](https://www.theverge.com/2024/10/16/24272195/meta-layoffs-whatsapp-instagram-reality-labs)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Florida-based SynthBee, started by Magic Leap founder Rony Abovitz to build a new kind of computing intelligence platform, raised a $20M seed led by Crosspoint &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241016/p39#a241016p39)
- - [Boston Dynamics and Toyota Research Institute partner to speed up development of humanoid robots using TRI&#39;s large behavior models and Boston Dynamics&#39; Atlas &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/241016/p38#a241016p38)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Boston Dynamics and Toyota Research Institute partner to speed up development of humanoid robots using TRI&#39;s large behavior models and Boston Dynamics&#39; Atlas &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/241016/p38#a241016p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

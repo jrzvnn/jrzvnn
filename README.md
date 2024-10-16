@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 💣 [This is wild. Daughter going to jail for murdering her parents, and living WITH THEIR DEAD BODIES!!](http://9gag.com/gag/a6ZOeGq)
+ - 😝 [Worth of a son](http://9gag.com/gag/a2vZAVw)
  - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
- - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
+ - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)
  - [Chief People Officer leaves Apple after short 20 month tenure](https://appleinsider.com/articles/24/10/16/chief-people-officer-leaves-apple-after-short-18-month-tenure?utm_medium=rss)
  - [Amazon discontinues the Kindle Oasis, which was the only Kindle still available with physical page-turn buttons, introduced in 2016 and last refreshed in 2019 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241016/p36#a241016p36)
  - [Apple&#39;s chief people officer, Carol Surface, is leaving after joining in early 2023; retail chief Deirdre O&#39;Brien is reassuming oversight of human resources &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241016/p35#a241016p35)
- - [Apple’s new feature lets brands put their stamp on emails and calls to your iPhone](https://www.theverge.com/2024/10/16/24272053/apple-brands-stamp-emails-calls-iphone)
- - [Apple is expanding Apple Business Connect to let businesses, including those without a physical location, manage their presence in Mail, Phone, and Tap to Pay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241016/p34#a241016p34)<!-- TECH:END -->
+ - [Apple’s new feature lets brands put their stamp on emails and calls to your iPhone](https://www.theverge.com/2024/10/16/24272053/apple-brands-stamp-emails-calls-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

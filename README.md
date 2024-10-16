@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - 😝 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)
  - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 💣 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
- - 😝 [This is a title](http://9gag.com/gag/apRmzn8)
- - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
+ - 💣 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 👉 [This is a title](http://9gag.com/gag/apRmzn8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Death to press, hunt them and kill them.](http://9gag.com/gag/ae9ryNq)
- - 😝 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
- - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
- - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
+ - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
+ - 💣 [Worth of a son](http://9gag.com/gag/a2vZAVw)
+ - 😝 [What an answer](http://9gag.com/gag/ajP8jRG)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---
 

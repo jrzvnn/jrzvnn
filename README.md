@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Hurricane Milton, Get Ready for Mold](https://www.wired.com/story/after-hurricane-milton-get-ready-for-mold/)
  - [My very brief stint as a race car driver at the F1 Arcade](https://www.theverge.com/2024/10/16/24271687/f1-arcade-racing-simulator-games)
  - [Inside the Mind of an AI Girlfriend &lpar;or Boyfriend&rpar;](https://www.wired.com/story/dippy-ai-girlfriend-boyfriend-reasoning/)
- - [Hades II gets a new location and new pets](https://www.theverge.com/2024/10/16/24271897/hades-ii-2-major-update-olympic)
- - [Amazon looks to advanced nuclear reactors to meet climate goals](https://www.theverge.com/2024/10/16/24271696/amazon-nuclear-energy-advanced-reactors)
- - [Amazon signs three deals to help develop small modular nuclear reactors in the US, with Amazon&#39;s Climate Pledge Fund leading a $500M Series C-1 for X-energy &lpar;Diana Olick/CNBC&rpar;](http://www.techmeme.com/241016/p30#a241016p30)<!-- TECH:END -->
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
+ - [Hades II gets a new location and new pets](https://www.theverge.com/2024/10/16/24271897/hades-ii-2-major-update-olympic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

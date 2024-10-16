@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 😝 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
- - 💣 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
+ - 😝 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
  - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 👉 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)<!-- MEMES:END -->
+ - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
 
 ---
 

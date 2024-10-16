@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
- - 💣 [Look how far we come](http://9gag.com/gag/azx9z9j)
- - 😝 [Death to press, hunt them and kill them.](http://9gag.com/gag/ae9ryNq)
- - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 💣 [Disgusting.](http://9gag.com/gag/a2vZjXY)
+ - 😝 [W for Spotify](http://9gag.com/gag/aoyeqOx)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---
 

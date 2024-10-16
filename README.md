@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon updates the Kindle Scribe to add modest design improvements like white bezels, a new stylus, and a more paper-like feel, shipping December 4 for $400 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p18#a241016p18)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Amazon updates Kindle Paperwhite, adding a larger, brighter 7&quot; display and faster page turns for $160+, and Kindle, adding color options and speed improvements &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/241016/p17#a241016p17)
- - [Amazon’s New Kindle Lineup Includes the First-Ever Color Kindle](https://www.wired.com/story/amazon-new-kindle-colorsoft-kindle-paperwhite-kindle-scribe-2024/)
- - [Amazon finally has a color Kindle, and it looks pretty good](https://www.theverge.com/2024/10/16/24271632/amazon-kindle-colorsoft-specs-price-hands-on)<!-- TECH:END -->
+ - [The Digicam Comeback](https://www.theverge.com/c/24208960/digicam-digital-camera-comeback-2004-gen-z-nikon-coolpix)
+ - [A24’s The Legend of Ochi looks like an adorable fantasy adventure in first trailer](https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24)
+ - [Kindle Colorsoft hands-on: bold and sharp color on a 7&quot; display, wireless charging, and comfortable, lightweight design, but pricier than other Kindles at $280 &lpar;Tony Polanco/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241016/p22#a241016p22)
+ - [Lightmatter, which uses silicon photonics with waveguides instead of wires in chips, raised a $400M Series D led by T. Rowe Price at a $4.4B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241016/p21#a241016p21)
+ - [Amazon unveils the $280 Kindle Colorsoft Signature Edition, its first color e-reader with a Paperwhite-like design and color E Ink display, shipping October 30 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p20#a241016p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

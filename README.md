@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU declines to designate X as a DMA gatekeeper after an investigation found that &quot;X is not an important gateway for business users to reach end users&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241016/p24#a241016p24)
- - [What Gmail Did to Email](https://www.theverge.com/c/24211978/gmail-email-storage-search-2004-anniversary-google)
- - [ASML CEO Christophe Fouquet says he expects a slow chip market recovery to extend &quot;well into 2025&quot; due to &quot;customer cautiousness&quot;, as the US&#39; China rules bite &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241016/p23#a241016p23)
- - [Trumpcoin Launches With a Whimper](https://www.wired.com/story/trumpcoin-launches-with-a-whimper-not-a-bang/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Sources detail how Nvidia and TSMC&#39;s lucrative AI alliance is showing signs of stress as AI booms; sources say Nvidia found flaws in TSMC-made Blackwell chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241016/p25#a241016p25)
+ - [The FTC is finally making it easier to cancel your gym membership](https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule)
+ - [Best Savings Rates Today, Oct. 16, 2024: Snag a High APY Before It&#39;s Too Late](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-16-2024/#ftag=CAD590a51e)
+ - [Score Over Half Off This Simple Keurig Single-Serve Coffee Maker While Supplies last](https://www.cnet.com/deals/score-over-half-off-this-simple-keurig-single-serve-coffee-maker-while-supplies-last/#ftag=CAD590a51e)
+ - [Samsung Galaxy Chromebook Plus Review: Light and Thin](https://www.wired.com/review/samsung-galaxy-chromebook-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

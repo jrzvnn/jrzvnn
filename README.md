@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
  - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 💣 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 😝 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
- - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
+ - 💣 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
 
 ---
 

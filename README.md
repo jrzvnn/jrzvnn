@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)
- - 😝 [Disgusting.](http://9gag.com/gag/a2vZjXY)
- - 💣 [Afternoon shift FTW!](http://9gag.com/gag/aNDY2wb)
- - 😝 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
+ - 😝 [W for Spotify](http://9gag.com/gag/aoyeqOx)
+ - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 😝 [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
+ - 👉 [Disgusting.](http://9gag.com/gag/a2vZjXY)<!-- MEMES:END -->
 
 ---
 

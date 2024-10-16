@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
  - [Survey: 68% of US adults support a ban on middle and high school students using phones during class and 24% oppose it; 53% oppose a ban lasting full school days &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241016/p7#a241016p7)
  - [Filing: US prosecutors ask a judge to sentence Ilya Lichtenstein, mastermind of the 2016 Bitfinex hack, to five years in prison; sentencing is due in November &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241016/p6#a241016p6)
- - [Best Kamado Grill for 2024](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
- - [NHS doctors warn of safety risks from an outdated IT infrastructure, as the UK government plans to digitize the world&#39;s largest publicly funded health service &lpar;Laura Hughes/Financial Times&rpar;](http://www.techmeme.com/241016/p5#a241016p5)
- - [UK filings: Google DeepMind&#39;s operating profit rose 91% YoY to &amp;pound;136M in 2023, after Google Brain merger; Alphabet&#39;s Isomorphic Labs had &amp;pound;60.4M loss, up 3x+ YoY &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/241016/p4#a241016p4)<!-- TECH:END -->
+ - [Best Internet Providers in Medford, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-medford-or/#ftag=CAD590a51e)
+ - [Best Kamado Grill for 2024](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

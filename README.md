@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s experimental tool can identify an artist’s work online or on a tote bag](https://www.theverge.com/2024/10/16/24271338/adobe-sneaks-project-know-how-content-credentials)
- - [LatticeFlow&#39;s LLM Checker, which analyzed models from Meta, Alibaba, Mistral, Anthropic, and OpenAI against the EU&#39;s AI Act, finds some compliance issues &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241016/p15#a241016p15)
- - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
- - [Apple Watch Vitals app can predict when you&#39;re going to be sick days in advance](https://appleinsider.com/articles/24/10/16/apple-watch-vitals-app-can-predict-when-youre-going-to-be-sick-days-in-advance?utm_medium=rss)
- - [Surgeons say Apple Vision Pro saves them pain and injury](https://appleinsider.com/articles/24/10/16/surgeons-say-apple-vision-pro-saves-them-pain-and-injury?utm_medium=rss)<!-- TECH:END -->
+ - [The year of the music licensing legal wars](https://www.theverge.com/c/24239057/music-license-grokster-legal-lawsuit-2004)
+ - [UK reconsidering USB-C charger mandate, after everyone else has already shifted](https://appleinsider.com/articles/24/10/16/uk-reconsidering-usb-c-charger-mandate-after-everyone-else-has-already-shifted?utm_medium=rss)
+ - [Casabrews 5700PRO Review: Exceeding Expectations](https://www.wired.com/review/casabrews-5700pro/)
+ - [Is AI the Answer to Your Money Problems? Here&#39;s What It Can &lpar;and Can&#39;t&rpar; Do](https://www.cnet.com/tech/services-and-software/features/is-ai-the-answer-to-your-money-problems-heres-what-it-can-and-cant-do/#ftag=CAD590a51e)
+ - [Stop Wasting iPhone Storage With Duplicate Photos. Here&#39;s How to Free Up Space](https://www.cnet.com/tech/mobile/stop-wasting-iphone-storage-with-duplicate-photos-heres-how-to-free-up-space/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

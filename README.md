@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
- - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
- - 💣 [Nobody will suspect a thing](http://9gag.com/gag/aD21LG9)
- - 😝 [The content of the following video may be disturbing to some people..](http://9gag.com/gag/aYQYZ9m)
- - 👉 [Life has been tough - so bad I ate from the bin at one point. Now I bought a tiny attic floor flat, my home. Thank you, fellow degenerates for making me smile when the world seemed dark and unfriendly. Not posting for likes, just sharing my happiness with you](http://9gag.com/gag/a0eQqxn)<!-- MEMES:END -->
+ - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 💣 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - 😝 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---
 

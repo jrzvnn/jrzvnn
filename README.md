@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord says piracy subpoena would violate users’ First Amendment rights](https://www.theverge.com/2024/10/16/24271854/discord-nexon-dmca-subopoena-copyright-piracy)
  - [Prada helped make a spacesuit](https://www.theverge.com/2024/10/16/24271875/axiom-space-prada-spacesuit-axemu-artemis-iii)
  - [Dungeon brawler &#39;Hades II&#39; now supports Apple Silicon](https://appleinsider.com/articles/24/10/16/dungeon-brawler-hades-ii-now-supports-apple-silicon?utm_medium=rss)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Filings: Trump&#39;s campaign hasn&#39;t bought an ad on Snapchat this election cycle; Trump&#39;s personal Snap account, banned after January 6, 2021, remains banned &lpar;New York Times&rpar;](http://www.techmeme.com/241016/p31#a241016p31)
- - [Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals](https://www.wired.com/story/anonymous-sudan-ddos-indictment-takedown/)<!-- TECH:END -->
+ - [Best Video Doorbell Cameras of 2024 -- Tested by Our Experts](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
+ - [Best Universal Remote for 2024](https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

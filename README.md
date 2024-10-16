@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s chief people officer, Carol Surface, is leaving after joining in early 2023; retail chief Deirdre O&#39;Brien is reassuming oversight of human resources &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241016/p35#a241016p35)
+ - [Apple’s new feature lets brands put their stamp on emails and calls to your iPhone](https://www.theverge.com/2024/10/16/24272053/apple-brands-stamp-emails-calls-iphone)
+ - [Apple is expanding Apple Business Connect to let businesses, including those without a physical location, manage their presence in Mail, Phone, and Tap to Pay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241016/p34#a241016p34)
  - [The US charges two Sudanese brothers with running Anonymous Sudan, a cyberattack-for-hire gang allegedly responsible for 35,000 DDoS attacks in a single year &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241016/p33#a241016p33)
- - [Amazon discontinues the last Kindle with physical buttons](https://www.theverge.com/2024/10/16/24272009/amazon-discontinues-kindle-oasis-physical-buttons)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Apple Business Connect extends to online firms, adds branding features](https://appleinsider.com/articles/24/10/16/apple-business-connect-extends-to-online-firms-adds-branding-features?utm_medium=rss)
- - [Instacart names Anirban Kundu, head of engineering for Uber&#39;s delivery business, as its new CTO, a position that has been vacant for eight months &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241016/p32#a241016p32)<!-- TECH:END -->
+ - [Amazon discontinues the last Kindle with physical buttons](https://www.theverge.com/2024/10/16/24272009/amazon-discontinues-kindle-oasis-physical-buttons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

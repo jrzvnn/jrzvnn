@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
- - 💣 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)
- - 😝 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
- - 👉 [Because too much talent leaving that knows how to use these engines, and outsourcing will be easier if it\u2019s a universal engine.](http://9gag.com/gag/aPAYV8P)<!-- MEMES:END -->
+ - 😝 [10](http://9gag.com/gag/an7987b)
+ - 😝 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)
+ - 💣 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 👉 [Bad biker](http://9gag.com/gag/aNDYXMb)<!-- MEMES:END -->
 
 ---
 

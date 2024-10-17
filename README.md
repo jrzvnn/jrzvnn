@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay adds Klarna installments now, PayPal balances later](https://appleinsider.com/articles/24/10/17/apple-pay-adds-klarna-installments-now-paypal-balances-later?utm_medium=rss)
+ - [Resident Evil 4 remake hits a new low just in time for Halloween](https://www.theverge.com/2024/10/17/24272551/resident-evil-4-remake-lg-stanbyme-go-deal-sale)
+ - [Where to preorder Amazon’s first color Kindle and purchase other new models](https://www.theverge.com/24270761/amazon-kindle-scribe-paperwhite-colorsoft-signature-edition-preorder-e-reader-buy-price-release-date)
  - [10 Gifts for Travelers Who Have Everything &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [On Apple Pay&#39;s 10th anniversary, Apple adds support for Klarna in the US and UK and plans to expand installment loan options and add reward redemptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241017/p22#a241017p22)
- - [Billing software company Zuora to be acquired by Silver Lake and GIC in a deal valued at $1.7B, an 18% premium to the closing price when acquisition talks began &lpar;Investing.com&rpar;](http://www.techmeme.com/241017/p21#a241017p21)
- - [Some iPhone owners are reporting quick battery drain, but it&#39;s not clear why](https://appleinsider.com/articles/24/10/17/some-iphone-owners-are-reporting-quick-battery-drain-but-its-not-clear-why?utm_medium=rss)
- - [Roadside Assistance via Satellite expands into the UK](https://appleinsider.com/articles/24/10/17/roadside-assistance-via-satellite-expands-into-the-uk?utm_medium=rss)<!-- TECH:END -->
+ - [On Apple Pay&#39;s 10th anniversary, Apple adds support for Klarna in the US and UK and plans to expand installment loan options and add reward redemptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241017/p22#a241017p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

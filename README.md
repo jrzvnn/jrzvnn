@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports Q3 revenue up 39% YoY to ~$23.6B and net income up 54.2% YoY to ~$10.1B, both above estimates, boosted by strong sales of Nvidia AI chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241017/p4#a241017p4)
+ - [NordVPN Coupon: Up to 74% Off + 3 Months Free](https://www.wired.com/nordvpn-coupon/)
  - [Hong Kong police arrested 24+ members of an alleged pig butchering crime ring, which they say used deepfake AI to lure its victims across Asia and raked in $46M &lpar;Jessie Yeung/CNN&rpar;](http://www.techmeme.com/241017/p3#a241017p3)
  - [Accel: VC funding for cloud startups in the US, Europe, and Israel to rise 27% YoY to $79.2B in 2024, with 40% of the funding going to generative AI startups &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241017/p2#a241017p2)
- - [Open Source Initiative says Meta is &quot;polluting&quot; the term open-source by using it for its Llama models; OSI to publish its definition of open-source AI next week &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241017/p1#a241017p1)
- - [Best Buy urges you to upgrade to the iPad mini 7 with 6th Gen trade-in values of up to $350](https://appleinsider.com/articles/24/10/17/best-buy-urges-you-to-upgrade-to-the-ipad-mini-7-with-6th-gen-trade-in-values-of-up-to-350?utm_medium=rss)
- - [Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety &lpar;The Verge&rpar;](http://www.techmeme.com/241016/p44#a241016p44)<!-- TECH:END -->
+ - [Open Source Initiative says Meta is &quot;polluting&quot; the term open-source by using it for its Llama models; OSI to publish its definition of open-source AI next week &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241017/p1#a241017p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

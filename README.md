@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too soon?](http://9gag.com/gag/aPAY5YB)
- - 😝 [Yes man!](http://9gag.com/gag/aO8Yw96)
- - 💣 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
+ - 😝 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
+ - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
+ - 💣 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)<!-- MEMES:END -->
+ - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
- - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
- - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
+ - 💣 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Dwight: \u201cI walk a different path..\u201d](http://9gag.com/gag/aVvYpDM)<!-- MEMES:END -->
+ - 👉 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)<!-- MEMES:END -->
 
 ---
 

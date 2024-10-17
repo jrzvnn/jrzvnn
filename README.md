@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 😝 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
- - 💣 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
+ - 😝 [Is it a man? Is it a woman? No... It&#39;s Lara Croft](http://9gag.com/gag/a8739NY)
+ - 😝 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
+ - 💣 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)<!-- MEMES:END -->
+ - 👉 [It was a blast](http://9gag.com/gag/awyADzy)<!-- MEMES:END -->
 
 ---
 

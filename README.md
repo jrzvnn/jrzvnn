@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
- - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
- - 💣 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 😝 [Look how far we come](http://9gag.com/gag/azx9z9j)
+ - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 💣 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Life has been tough - so bad I ate from the bin at one point. Now I bought a tiny attic floor flat, my home. Thank you, fellow degenerates for making me smile when the world seemed dark and unfriendly. Not posting for likes, just sharing my happiness with you](http://9gag.com/gag/a0eQqxn)<!-- MEMES:END -->
+ - 👉 [Werther effect](http://9gag.com/gag/an793eV)<!-- MEMES:END -->
 
 ---
 

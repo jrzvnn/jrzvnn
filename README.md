@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Support groups in the Philippines blame GCash, the country&#39;s most popular payment app with 90M+ active users, for a rise in gambling addiction in the country &lpar;Patrick Kho/Rest of World&rpar;](http://www.techmeme.com/241017/p7#a241017p7)
  - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Winamp owner Llama Group deletes the GitHub repository of the legacy player&#39;s source code posted on September 24, following criticism on the way it was released &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/241017/p6#a241017p6)
  - [Google projects the number of reported Android memory safety flaws to be 36 by the end of 2024, down from 220+ in 2019, after adopting memory safety in new code &lpar;Google Online Security Blog&rpar;](http://www.techmeme.com/241017/p5#a241017p5)
- - [TSMC reports Q3 revenue up 39% YoY to ~$23.6B and net income up 54.2% YoY to ~$10.1B, both above estimates, boosted by strong sales of Nvidia AI chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241017/p4#a241017p4)
- - [NordVPN Coupon: Up to 74% Off + 3 Months Free](https://www.wired.com/nordvpn-coupon/)<!-- TECH:END -->
+ - [TSMC reports Q3 revenue up 39% YoY to ~$23.6B and net income up 54.2% YoY to ~$10.1B, both above estimates, boosted by strong sales of Nvidia AI chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241017/p4#a241017p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

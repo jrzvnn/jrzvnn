@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Netflix says subscribers spend two hours a day on the platform](https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent)
  - [YouTube is testing its cheaper Premium Lite subscription again, but it now has limited ads](https://www.theverge.com/2024/10/17/24272930/youtube-cheaper-premium-lite-subscription-limited-ads)
  - [Sources: Stripe is in talks to acquire startup Bridge, a provider of infrastructure for crypto stablecoins, for $1B; Bridge raised $58M &lpar;Forbes&rpar;](http://www.techmeme.com/241017/p35#a241017p35)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Netflix reports Q3 revenue up 15% YoY to $9.83B, vs. $9.76B est., paid memberships up 14% to 282.72M, vs. 282.15M est., and net income of $2.4B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/241017/p34#a241017p34)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

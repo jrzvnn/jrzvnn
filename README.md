@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
- - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 💣 [When gamers respect each other](http://9gag.com/gag/a9yKGZ6)
+ - 😝 [Why are you here? illiteracy](http://9gag.com/gag/aBy0evZ)
+ - 😝 [Bamboozling gypsies](http://9gag.com/gag/abAYNGp)
+ - 💣 [Top of the pyramid is eliminated! Goodbye to Yahya Sinwar.](http://9gag.com/gag/a1mQy6P)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
+ - 👉 [Sinwar is Dead.. I\u2019ve seen the actual photos.. he\u2019s dead as dead can be!](http://9gag.com/gag/aNDY7Xr)<!-- MEMES:END -->
 
 ---
 

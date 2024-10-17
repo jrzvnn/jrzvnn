@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Uber CEO Dara Khosrowshahi on autonomous cars, lobbying regulators to get more EVs on the road, flying taxis, climate goals, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p9#a241017p9)
  - [Hobbyists post the code for Redbox kiosk software online, and tinkerers have been probing how it works, sometimes repurposing abandoned machines to run Doom &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241017/p8#a241017p8)
  - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
  - [Support groups in the Philippines blame GCash, the country&#39;s most popular payment app with 90M+ active users, for a rise in gambling addiction in the country &lpar;Patrick Kho/Rest of World&rpar;](http://www.techmeme.com/241017/p7#a241017p7)
- - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Winamp owner Llama Group deletes the GitHub repository of the legacy player&#39;s source code posted on September 24, following criticism on the way it was released &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/241017/p6#a241017p6)<!-- TECH:END -->
+ - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

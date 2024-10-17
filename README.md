@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
- - 😝 [Actually can you move the two fridges so they&#39;re by the exit instead?](http://9gag.com/gag/aD21vBB)
- - 💣 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
- - 😝 [This guy](http://9gag.com/gag/aGyZ4wn)
- - 👉 [Life has been tough - so bad I ate from the bin at one point. Now I bought a tiny attic floor flat, my home. Thank you, fellow degenerates for making me smile when the world seemed dark and unfriendly. Not posting for likes, just sharing my happiness with you](http://9gag.com/gag/a0eQqxn)<!-- MEMES:END -->
+ - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 😝 [This movie had no soundtrack which also made this film unsettling for me. Spooky, how authentic it was.](http://9gag.com/gag/aO8YOqR)
+ - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
 
 ---
 

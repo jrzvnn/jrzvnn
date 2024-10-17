@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple adds another buy now pay later service to Pay](https://www.theverge.com/2024/10/17/24272629/apple-pay-klarna-bnpl-replace-pay-later)
+ - [Prabhakar Raghavan will leave his role overseeing Google search and ads products, to be replaced by Nick Fox; Raghavan will become Chief Technologist &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241017/p27#a241017p27)
  - [Today&#39;s top Apple deals on Amazon start at just $15](https://appleinsider.com/articles/24/10/17/todays-top-apple-deals-on-amazon-start-at-just-15?utm_medium=rss)
  - [Google is replacing the exec in charge of Search and ads](https://www.theverge.com/2024/10/17/24272786/google-search-prabhakar-raghavan-nick-fox)
- - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)
- - [Memo: Google&#39;s Gemini App team will join DeepMind under Demis Hassabis; Prabhakar Raghavan to become chief technologist, a new strategy role reporting to Pichai &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241017/p26#a241017p26)
- - [The EU may fine Elon Musk’s other companies for X violations](https://www.theverge.com/2024/10/17/24272716/x-twitter-digital-services-act-violation-fines)<!-- TECH:END -->
+ - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

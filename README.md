@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Uber has explored a possible bid for Expedia as it seeks to grow into a super app; Expedia, valued at nearly $20B, would be Uber&#39;s largest acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/241016/p40#a241016p40)
- - [Meta is laying off employees at WhatsApp, Instagram, and more](https://www.theverge.com/2024/10/16/24272195/meta-layoffs-whatsapp-instagram-reality-labs)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Florida-based SynthBee, started by Magic Leap founder Rony Abovitz to build a new kind of computing intelligence platform, raised a $20M seed led by Crosspoint &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241016/p39#a241016p39)
- - [Boston Dynamics and Toyota Research Institute partner to speed up development of humanoid robots using TRI&#39;s large behavior models and Boston Dynamics&#39; Atlas &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/241016/p38#a241016p38)<!-- TECH:END -->
+ - [Robinhood launches its long-awaited desktop platform Robinhood Legend, and plans to add futures and index options trading to its mobile app in the coming months &lpar;Reuters&rpar;](http://www.techmeme.com/241016/p41#a241016p41)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [DJI says US customs is blocking its drone imports](https://www.theverge.com/2024/10/16/24272188/dji-blames-us-customs-block-import-some-drones)
+ - [Apple Car could have had Blade batteries developed with China&#39;s BYD](https://appleinsider.com/articles/24/10/17/apple-car-could-have-had-blade-batteries-developed-with-chinas-byd?utm_medium=rss)
+ - [Sources: Uber has explored a possible bid for Expedia as it seeks to grow into a super app; Expedia, valued at nearly $20B, would be Uber&#39;s largest acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/241016/p40#a241016p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

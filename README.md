@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram rolls out new settings to fight sextortion, like hiding teens&#39; follower lists from potential blackmailers; Meta says the crime is becoming more common &lpar;Washington Post&rpar;](http://www.techmeme.com/241017/p15#a241017p15)
  - [Enterprise data security startup Cyera buys data loss startup Trail Security for $162M in cash and stock; sources: Cyera is raising $200M+ at a ~$3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241017/p14#a241017p14)
  - [Sources: the EU warns X that it may calculate fines against X by including Elon Musk&#39;s other companies&#39; revenue; the DSA can fine 6% of global annual revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p13#a241017p13)
  - [GPS Jamming Is Screwing With Norwegian Planes](https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/)
- - [This Prompt Can Make an AI Chatbot Identify and Extract Personal Details From Your Chats](https://www.wired.com/story/ai-imprompter-malware-llm/)
- - [UK study: employers running grad schemes received an average of 140 applications for each job in 2024, a record and up 59% YoY, as AI makes applying easier &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p12#a241017p12)<!-- TECH:END -->
+ - [This Prompt Can Make an AI Chatbot Identify and Extract Personal Details From Your Chats](https://www.wired.com/story/ai-imprompter-malware-llm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

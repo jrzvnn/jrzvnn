@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She got double Os](http://9gag.com/gag/aAy37q2)
- - 😝 [It was a blast](http://9gag.com/gag/awyADzy)
- - 💣 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - 😝 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
+ - 😝 [Mission accomplished](http://9gag.com/gag/axyz80K)
+ - 💣 [What an answer](http://9gag.com/gag/ajP8jRG)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)<!-- MEMES:END -->
+ - 👉 [Terrifying](http://9gag.com/gag/a34QXOm)<!-- MEMES:END -->
 
 ---
 

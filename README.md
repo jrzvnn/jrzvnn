@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
- - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
- - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
  - 😝 [This movie had no soundtrack which also made this film unsettling for me. Spooky, how authentic it was.](http://9gag.com/gag/aO8YOqR)
- - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
+ - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 💣 [Hahahaaah woke BS..](http://9gag.com/gag/aQzRb97)
+ - 😝 [Werther effect](http://9gag.com/gag/an793eV)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---
 

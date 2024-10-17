@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stripe is in talks to acquire startup Bridge, a provider of infrastructure for crypto stablecoins, for $1B; Bridge raised $58M &lpar;Forbes&rpar;](http://www.techmeme.com/241017/p35#a241017p35)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Netflix reports Q3 revenue up 15% YoY to $9.83B, vs. $9.76B est., paid memberships up 14% to 282.72M, vs. 282.15M est., and net income of $2.4B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/241017/p34#a241017p34)
  - [Rivian’s new update could make your EV feel like Knight Rider &lpar;or Back to the Future&rpar;](https://www.theverge.com/2024/10/17/24272889/rivian-car-costumes-halloween-software-update-back-to-the-future-knight-rider-kitt)
- - [Automattic offered employees another chance to quit over WordPress drama](https://www.theverge.com/2024/10/17/24272867/automattic-employee-buyout-wordpress-drama)
- - [McLaren updates Google Chrome](https://www.theverge.com/2024/10/17/24272707/mclaren-us-grand-prix-2024-f1-racing-google-chrome-livery)
- - [Sources: Meta laid off ~100 people, at least the third such incremental layoff at Meta in 2024, separate from those let go for improper use of Grubhub credits &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241017/p33#a241017p33)<!-- TECH:END -->
+ - [Automattic offered employees another chance to quit over WordPress drama](https://www.theverge.com/2024/10/17/24272867/automattic-employee-buyout-wordpress-drama)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

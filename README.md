@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea plans stronger measures to prevent leaks of advanced tech and business secrets; the NIS says there were 40 attempted chip secret leaks in five years &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p11#a241017p11)
+ - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent. I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
  - [How machine learning could have transformative effects on Africa&#39;s developing economies and societies, as some critics worry over a deepening digital divide &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p10#a241017p10)
  - [This backpack solar generator can help you ignore nature](https://www.theverge.com/2024/10/17/24272480/bluetti-handsfree-backpack-power-station-price-specs)
- - [Best Internet Providers in Tillamook, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-tillamook-or/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch, Stream Broncos vs. Saints Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-broncos-vs-saints-tonight-on-prime-video/#ftag=CAD590a51e)
- - [CNET&#39;s Sleep Experts Reveal the Top Mattress Brands They Love to Test](https://www.cnet.com/health/sleep/favorite-mattress-brands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Tillamook, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-tillamook-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

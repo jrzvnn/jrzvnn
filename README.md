@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why It Matters That JD Vance&#39;s Financial Adviser Posted About Drug Use on Reddit for Years](https://www.wired.com/story/jd-vance-financial-adviser-drugs-crypto/)
  - [Oh, WoW](https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004)
  - [Instagram rolls out new settings to fight sextortion, like hiding teens&#39; follower lists from potential blackmailers; Meta says the crime is becoming more common &lpar;Washington Post&rpar;](http://www.techmeme.com/241017/p15#a241017p15)
- - [The Most Annoying iOS 18 Features on Your iPhone, and How to Fix Them](https://www.cnet.com/tech/services-and-software/the-most-annoying-ios-18-features-on-your-iphone-and-how-to-fix-them/#ftag=CAD590a51e)
  - [Enterprise data security startup Cyera buys data loss startup Trail Security for $162M in cash and stock; sources: Cyera is raising $200M+ at a ~$3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241017/p14#a241017p14)
- - [Call of Duty: Black Ops 6, StarCraft and More Coming to Xbox Game Pass](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-starcraft-and-more-coming-to-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU warns X that it may calculate fines against X by including Elon Musk&#39;s other companies&#39; revenue; the DSA can fine 6% of global annual revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p13#a241017p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

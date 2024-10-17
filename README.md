@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm cancels the Snapdragon Dev Kit, which was supposed to ship in June, and will offer refunds, as the product failed to meet its &quot;standards of excellence&quot; &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/241017/p32#a241017p32)
- - [Unity attempts to turn things around with its latest game engine release](https://www.theverge.com/2024/10/17/24272699/unity-6-game-engine-release)
- - [Abel, founded by Daniel Francis, or @growing_daniel, to build AI that uses body cam footage and dispatch call data to fill out police reports, raised a $5M seed &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241017/p31#a241017p31)
- - [Sources: Matt Mullenweg offered another buyout offer to Automattic staff; Mullenweg appears to have redirected staff&#39;s Blind sign-up emails to himself &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241017/p30#a241017p30)
- - [How to create new Apple Notes quickly on iPad with Apple Pencil](https://appleinsider.com/inside/ipados-18/tips/how-to-create-new-apple-notes-quickly-on-ipad-with-apple-pencil?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta laid off ~100 people, at least the third such incremental layoff at Meta in 2024, separate from those let go for improper use of Grubhub credits &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241017/p33#a241017p33)
+ - [Brazilian police arrested the hacker who stole everyone’s SSN](https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data)
+ - [Bands can turn concert set lists into Apple Music playlists](https://appleinsider.com/articles/24/10/17/bands-can-turn-concert-set-lists-into-apple-music-playlists?utm_medium=rss)
+ - [The 23 Best Movies on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What&#39;s Possible’](https://www.wired.com/story/filmmakers-are-worried-about-ai-big-tech-wants-them-to-see-whats-possible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

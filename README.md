@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: last week, Meta fired ~24 staff in LA for using $25 meal credits to buy household items, as it restructures WhatsApp, Instagram, and Reality Labs teams &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p16#a241017p16)
- - [Why It Matters That JD Vance&#39;s Financial Adviser Posted About Drug Use on Reddit for Years](https://www.wired.com/story/jd-vance-financial-adviser-drugs-crypto/)
- - [Oh, WoW](https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004)
- - [Instagram rolls out new settings to fight sextortion, like hiding teens&#39; follower lists from potential blackmailers; Meta says the crime is becoming more common &lpar;Washington Post&rpar;](http://www.techmeme.com/241017/p15#a241017p15)
- - [The Most Annoying iOS 18 Features on Your iPhone, and How to Fix Them](https://www.cnet.com/tech/services-and-software/the-most-annoying-ios-18-features-on-your-iphone-and-how-to-fix-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Melodrama!](https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo)
+ - [Q&amp;A with Marissa Mayer on AI, her startup Sunshine, its Shine app, Google News, Yahoo, selling to Verizon, Yahoo Weather, feminism, being a geek, and more &lpar;Virginia Heffernan/Wired&rpar;](http://www.techmeme.com/241017/p17#a241017p17)
+ - [Ferrari F80 2024: Specs, Price, Availability](https://www.wired.com/story/ferraris-f80-steals-the-best-f1-tech-but-it-should-have-been-more-extreme/)
+ - [All of Our Gadgets Just Keep Talking](https://www.wired.com/story/gadget-lab-podcast-662/)
+ - [Remember Blockbuster?](https://www.theverge.com/c/24243754/blockbuster-video-netflix-streaming-dvd-transition-2000s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

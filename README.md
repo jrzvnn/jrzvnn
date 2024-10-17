@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Private equity firm Permira acquires Squarespace after raising its bid to $7.2B; Squarespace sells restaurant reservation service Tock to Amex for $400M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241017/p18#a241017p18)
- - [Eglu Pro Chicken Coop Review: A Better Box](https://www.wired.com/review/eglu-pro-chicken-coop/)
- - [Melodrama!](https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo)
- - [Q&amp;A with Marissa Mayer on AI, her startup Sunshine, its Shine app, Google News, Yahoo, selling to Verizon, Yahoo Weather, feminism, being a geek, and more &lpar;Virginia Heffernan/Wired&rpar;](http://www.techmeme.com/241017/p17#a241017p17)
- - [Ferrari F80 2024: Specs, Price, Availability](https://www.wired.com/story/ferraris-f80-steals-the-best-f1-tech-but-it-should-have-been-more-extreme/)<!-- TECH:END -->
+ - [2004 was the first year of the future](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture)
+ - [The character assassination of Janet Jackson by the coward Justin Timberlake](https://www.theverge.com/c/24177612/janet-jackson-justin-timberlake-wardrobe-malfunction-super-bowl-halftime-show-legacy)
+ - [iPad mini&#39;s 7 fast charging may get a boost with a new adapter](https://appleinsider.com/articles/24/10/17/ipad-minis-7-fast-charging-may-get-a-boost-with-a-new-adapter?utm_medium=rss)
+ - [NASA Says More Aurora Borealis Nights Are Coming and Soon](https://www.cnet.com/science/nasa-says-more-aurora-borealis-nights-are-coming-and-soon/#ftag=CAD590a51e)
+ - [Want to Earn Up to $25,000 for Moving? Check Out These 11 States and Cities](https://www.cnet.com/home/services/want-to-earn-up-to-25000-for-moving-check-out-these-11-states-and-cities/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

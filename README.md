@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Private equity firm Permira acquires Squarespace after raising its bid to $7.2B; Squarespace sells restaurant reservation service Tock to Amex for $400M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241017/p18#a241017p18)
+ - [Eglu Pro Chicken Coop Review: A Better Box](https://www.wired.com/review/eglu-pro-chicken-coop/)
  - [Melodrama!](https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo)
  - [Q&amp;A with Marissa Mayer on AI, her startup Sunshine, its Shine app, Google News, Yahoo, selling to Verizon, Yahoo Weather, feminism, being a geek, and more &lpar;Virginia Heffernan/Wired&rpar;](http://www.techmeme.com/241017/p17#a241017p17)
- - [Ferrari F80 2024: Specs, Price, Availability](https://www.wired.com/story/ferraris-f80-steals-the-best-f1-tech-but-it-should-have-been-more-extreme/)
- - [All of Our Gadgets Just Keep Talking](https://www.wired.com/story/gadget-lab-podcast-662/)
- - [Remember Blockbuster?](https://www.theverge.com/c/24243754/blockbuster-video-netflix-streaming-dvd-transition-2000s)<!-- TECH:END -->
+ - [Ferrari F80 2024: Specs, Price, Availability](https://www.wired.com/story/ferraris-f80-steals-the-best-f1-tech-but-it-should-have-been-more-extreme/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Netflix says subscribers spend two hours a day on the platform](https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent)
- - [YouTube is testing its cheaper Premium Lite subscription again, but it now has limited ads](https://www.theverge.com/2024/10/17/24272930/youtube-cheaper-premium-lite-subscription-limited-ads)
- - [Sources: Stripe is in talks to acquire startup Bridge, a provider of infrastructure for crypto stablecoins, for $1B; Bridge raised $58M &lpar;Forbes&rpar;](http://www.techmeme.com/241017/p35#a241017p35)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Zens’ new Qi2 charger is about as close as you get to plugging your phone directly into a wall](https://www.theverge.com/2024/10/17/24272909/zens-qi2-wireless-charging-adapter-eu-plug-outlet-magsafe-charger)
+ - [Watch Adobe rotate a flat drawing of a bread basket as if it were a 3D object](https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector)
+ - [Future of Apple Pay could be digital keys for rental cars, says Apple Pay executive](https://appleinsider.com/articles/24/10/17/apple-pay-and-apple-wallet-chief-digital-keys-could-come-to-rental-vehicles?utm_medium=rss)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accel: VC funding for cloud startups in the US, Europe, and Israel to rise 27% YoY to $79.2B in 2024, with 40% of the funding going to generative AI startups &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241017/p2#a241017p2)
  - [Open Source Initiative says Meta is &quot;polluting&quot; the term open-source by using it for its Llama models; OSI to publish its definition of open-source AI next week &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241017/p1#a241017p1)
  - [Best Buy urges you to upgrade to the iPad mini 7 with 6th Gen trade-in values of up to $350](https://appleinsider.com/articles/24/10/17/best-buy-urges-you-to-upgrade-to-the-ipad-mini-7-with-6th-gen-trade-in-values-of-up-to-350?utm_medium=rss)
  - [Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety &lpar;The Verge&rpar;](http://www.techmeme.com/241016/p44#a241016p44)
- - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)
- - [Brazilian authorities have arrested a hacker, known as USDoD, who they allege is linked to breaches of National Public Data, the FBI&#39;s InfraGard, and others &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241016/p43#a241016p43)<!-- TECH:END -->
+ - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

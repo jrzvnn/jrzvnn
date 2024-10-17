@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This movie had no soundtrack which also made this film unsettling for me. Spooky, how authentic it was.](http://9gag.com/gag/aO8YOqR)
- - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
+ - 😝 [This is wild. Daughter going to jail for murdering her parents, and living WITH THEIR DEAD BODIES!!](http://9gag.com/gag/a6ZOeGq)
+ - 😝 [Ow shit. He said it](http://9gag.com/gag/avy8qmM)
+ - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 👉 [Bad biker](http://9gag.com/gag/aNDYXMb)<!-- MEMES:END -->
 
 ---
 

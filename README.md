@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
- - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
- - 💣 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
- - 😝 [Actually can you move the two fridges so they&#39;re by the exit instead?](http://9gag.com/gag/aD21vBB)
- - 👉 [Another skills in PowerPoint](http://9gag.com/gag/aZZLXLX)<!-- MEMES:END -->
+ - 😝 [This movie had no soundtrack which also made this film unsettling for me. Spooky, how authentic it was.](http://9gag.com/gag/aO8YOqR)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
 
 ---
 

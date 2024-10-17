@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 💣 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
+ - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
+ - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 💣 [Why government matters](http://9gag.com/gag/awyApPx)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
+ - 👉 [Life has been tough - so bad I ate from the bin at one point. Now I bought a tiny attic floor flat, my home. Thank you, fellow degenerates for making me smile when the world seemed dark and unfriendly. Not posting for likes, just sharing my happiness with you](http://9gag.com/gag/a0eQqxn)<!-- MEMES:END -->
 
 ---
 

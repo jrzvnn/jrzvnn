@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a 12-Ounce Layer of Foam Changed the NFL](https://www.wired.com/story/nfl-guardian-caps-hanson-concussions-cte/)
+ - [Activision says it’s fixed an anti-cheat hack in Modern Warfare III and Call of Duty: Warzone](https://www.theverge.com/2024/10/17/24272984/activision-anti-cheat-hack-call-of-duty-modern-warfare-iii-warzone)
  - [Sam Altman’s Eye-Scanning Orb Has a New Look—and Will Come Right to Your Door](https://www.wired.com/story/worldcoin-sam-altman-orb/)
  - [Netflix forecasts 2025 revenue of $43B-$44B, which would be 11%-13% higher than its 2024 guidance, and targets a 2025 operating margin of 28% vs. 27% in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241017/p36#a241017p36)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Zens’ new Qi2 charger is about as close as you get to plugging your phone directly into a wall](https://www.theverge.com/2024/10/17/24272909/zens-qi2-wireless-charging-adapter-eu-plug-outlet-magsafe-charger)
- - [Watch Adobe rotate a flat drawing of a bread basket as if it were a 3D object](https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [McLaren updates Google Chrome](https://www.theverge.com/2024/10/17/24272707/mclaren-us-grand-prix-2024-f1-racing-google-chrome-livery)
  - [Sources: Meta laid off ~100 people, at least the third such incremental layoff at Meta in 2024, separate from those let go for improper use of Grubhub credits &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241017/p33#a241017p33)
  - [Brazilian police arrested the hacker who stole everyone’s SSN](https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data)
  - [Bands can turn concert set lists into Apple Music playlists](https://appleinsider.com/articles/24/10/17/bands-can-turn-concert-set-lists-into-apple-music-playlists?utm_medium=rss)
- - [The 23 Best Movies on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What&#39;s Possible’](https://www.wired.com/story/filmmakers-are-worried-about-ai-big-tech-wants-them-to-see-whats-possible/)<!-- TECH:END -->
+ - [The 23 Best Movies on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

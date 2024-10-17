@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amazon will stream a live election special hosted by Brian Williams](https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams)
- - [X updates its Privacy Policy to allow third-party &quot;collaborators&quot; to train their AI models on X user data, unless the user opts out, effective November 15, 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241017/p38#a241017p38)
- - [The FCC issues new rules that will require all mobile phones sold in the US to be compatible with hearing aids, &quot;after a transition period&quot; &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/241017/p37#a241017p37)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
- - [Can You Delete Your 23andMe Data? Yes, but It&#39;s Not That Easy. Here&#39;s How](https://www.cnet.com/news/privacy/can-you-delete-your-23andme-data-yes-but-its-not-that-easy-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)
+ - [NYCC 2024: &#39;Outlander&#39; Season 7, Part 2 Trailer Shows Heartbreaking Tears and Uncertainty](https://www.cnet.com/tech/services-and-software/nycc-2024-outlander-season-7-part-2-trailer-shows-heartbreaking-tears-and-uncertainty/#ftag=CAD590a51e)
+ - [Best Fitbit Deals: Save on Fitness Trackers Including the Sense 2, Versa 4 and More](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
+ - [Thursday Night Football: How to Watch, Stream Broncos vs. Saints Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-broncos-vs-saints-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram adds more guardrails to protect teens against sextortion](https://www.theverge.com/2024/10/17/24272522/instagram-teen-sextortion-safety-features-update)
+ - [Ableton Move Review: A Perfect Tool for Traveling DJs](https://www.wired.com/review/ableton-move/)
  - [Netflix’s The Electric State is full of big, goofy bots in first trailer](https://www.theverge.com/2024/10/17/24272564/the-electric-state-trailer-netflix-russo-bros)
  - [PBTails Metal Crush Defender Review: Stick Drift, Begone](https://www.wired.com/review/pbtails-metal-crush-defender/)
- - [2004 was the first year of the future](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture)
- - [The character assassination of Janet Jackson by the coward Justin Timberlake](https://www.theverge.com/c/24177612/janet-jackson-justin-timberlake-wardrobe-malfunction-super-bowl-halftime-show-legacy)
- - [iPad mini&#39;s 7 fast charging may get a boost with a new adapter](https://appleinsider.com/articles/24/10/17/ipad-minis-7-fast-charging-may-get-a-boost-with-a-new-adapter?utm_medium=rss)<!-- TECH:END -->
+ - [2004 was the first year of the future](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

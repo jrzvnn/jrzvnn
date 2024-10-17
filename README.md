@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 😝 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
+ - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
  - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Dwight: \u201cI walk a different path..\u201d](http://9gag.com/gag/aVvYpDM)<!-- MEMES:END -->
+ - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
 
 ---
 

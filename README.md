@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity attempts to turn things around with its latest game engine release](https://www.theverge.com/2024/10/17/24272699/unity-6-game-engine-release)
+ - [Abel, founded by Daniel Francis, or @growing_daniel, to build AI that uses body cam footage and dispatch call data to fill out police reports, raised a $5M seed &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241017/p31#a241017p31)
  - [Sources: Matt Mullenweg offered another buyout offer to Automattic staff; Mullenweg appears to have redirected staff&#39;s Blind sign-up emails to himself &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241017/p30#a241017p30)
  - [How to create new Apple Notes quickly on iPad with Apple Pencil](https://appleinsider.com/inside/ipados-18/tips/how-to-create-new-apple-notes-quickly-on-ipad-with-apple-pencil?utm_medium=rss)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Memo: Google will block US election ads after the polls close on November 5 to prevent misinfo about voting, including candidates prematurely claiming victory &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241017/p29#a241017p29)
- - [JD Vance Takes a Hard Stance on Drugs. What Does His Adviser&#39;s Past Mean for His Campaign?](https://www.wired.com/story/jd-vance-adviser-reddit-drug-use/)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DHS Warns Law Enforcement Election Deniers May Attempt to Bomb Drop Boxes](https://www.wired.com/story/dhs-election-denial-violent-attacks/)
- - [Xbox’s Fall partner showcase 2024: All the news, trailers, and previews](https://www.theverge.com/2024/10/17/24272580/xbox-fall-partner-showcase-october-2024-trailers)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Hacker arrested for the fake SEC tweet that caused a Bitcoin price spike](https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council)
- - [Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241017/p25#a241017p25)<!-- TECH:END -->
+ - [Today&#39;s top Apple deals on Amazon start at just $15](https://appleinsider.com/articles/24/10/17/todays-top-apple-deals-on-amazon-start-at-just-15?utm_medium=rss)
+ - [Google is replacing the exec in charge of Search and ads](https://www.theverge.com/2024/10/17/24272786/google-search-prabhakar-raghavan-nick-fox)
+ - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)
+ - [Memo: Google&#39;s Gemini App team will join DeepMind under Demis Hassabis; Prabhakar Raghavan to become chief technologist, a new strategy role reporting to Pichai &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241017/p26#a241017p26)
+ - [The EU may fine Elon Musk’s other companies for X violations](https://www.theverge.com/2024/10/17/24272716/x-twitter-digital-services-act-violation-fines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

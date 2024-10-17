@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
  - [SpaceX Has a Plan for Starlink to Hit Gigabit Speeds](https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/)
  - [Apple adds another buy now pay later service to Pay](https://www.theverge.com/2024/10/17/24272629/apple-pay-klarna-bnpl-replace-pay-later)
  - [Prabhakar Raghavan will leave his role overseeing Google search and ads products, to be replaced by Nick Fox; Raghavan will become Chief Technologist &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241017/p27#a241017p27)
- - [Today&#39;s top Apple deals on Amazon start at just $15](https://appleinsider.com/articles/24/10/17/todays-top-apple-deals-on-amazon-start-at-just-15?utm_medium=rss)
- - [Google is replacing the exec in charge of Search and ads](https://www.theverge.com/2024/10/17/24272786/google-search-prabhakar-raghavan-nick-fox)<!-- TECH:END -->
+ - [Today&#39;s top Apple deals on Amazon start at just $15](https://appleinsider.com/articles/24/10/17/todays-top-apple-deals-on-amazon-start-at-just-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

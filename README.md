@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ferrari’s F80 uses ‘Boost optimization’ to give drivers more power where they need it](https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization)
- - [13 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $800 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Philips’ Hue app now lets you edit lighting effects](https://www.theverge.com/2024/10/17/24272541/philips-app-ios-android-update-customize-effects)
- - [Paris Court of Appeal orders complete blocks of several porn websites, including Xhamster, for their failure to roll out solid age verification systems. &lpar;Klara Durand/Politico&rpar;](http://www.techmeme.com/241017/p19#a241017p19)
- - [Apple Pay dominated the world in just ten years -- but it has more work to do](https://appleinsider.com/articles/24/10/17/apple-pay-dominated-the-world-in-just-ten-years----but-it-has-more-work-to-do?utm_medium=rss)<!-- TECH:END -->
+ - [Billing software company Zuora to be acquired by Silver Lake and GIC in a deal valued at $1.7B, an 18% premium to the closing price when acquisition talks began &lpar;Investing.com&rpar;](http://www.techmeme.com/241017/p21#a241017p21)
+ - [Some iPhone owners are reporting quick battery drain, but it&#39;s not clear why](https://appleinsider.com/articles/24/10/17/some-iphone-owners-are-reporting-quick-battery-drain-but-its-not-clear-why?utm_medium=rss)
+ - [Roadside Assistance via Satellite expands into the UK](https://appleinsider.com/articles/24/10/17/roadside-assistance-via-satellite-expands-into-the-uk?utm_medium=rss)
+ - [Unity announces the Unity 6 game engine, emphasizing stability, updates, and the ability to support hundreds of players in the same virtual world simultaneously &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241017/p20#a241017p20)
+ - [Ferrari’s F80 uses ‘Boost optimization’ to give drivers more power where they need it](https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

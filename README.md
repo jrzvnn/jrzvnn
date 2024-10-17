@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram adds more guardrails to protect teens against sextortion](https://www.theverge.com/2024/10/17/24272522/instagram-teen-sextortion-safety-features-update)
- - [Ableton Move Review: A Perfect Tool for Traveling DJs](https://www.wired.com/review/ableton-move/)
- - [Netflix’s The Electric State is full of big, goofy bots in first trailer](https://www.theverge.com/2024/10/17/24272564/the-electric-state-trailer-netflix-russo-bros)
- - [PBTails Metal Crush Defender Review: Stick Drift, Begone](https://www.wired.com/review/pbtails-metal-crush-defender/)
- - [2004 was the first year of the future](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture)<!-- TECH:END -->
+ - [Ferrari’s F80 uses ‘Boost optimization’ to give drivers more power where they need it](https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization)
+ - [13 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $800 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
+ - [Philips’ Hue app now lets you edit lighting effects](https://www.theverge.com/2024/10/17/24272541/philips-app-ios-android-update-customize-effects)
+ - [Paris Court of Appeal orders complete blocks of several porn websites, including Xhamster, for their failure to roll out solid age verification systems. &lpar;Klara Durand/Politico&rpar;](http://www.techmeme.com/241017/p19#a241017p19)
+ - [Apple Pay dominated the world in just ten years -- but it has more work to do](https://appleinsider.com/articles/24/10/17/apple-pay-dominated-the-world-in-just-ten-years----but-it-has-more-work-to-do?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

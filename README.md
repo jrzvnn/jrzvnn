@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241017/p25#a241017p25)
- - [The FBI charges Alabama man Eric Council Jr. with hacking the SEC&#39;s X account on January 9, 2024 to post a fake announcement about approving spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241017/p24#a241017p24)
- - [Trump says Tim Cook complained to him about the EU](https://appleinsider.com/articles/24/10/17/trump-says-tim-cook-complained-to-him-about-the-eu?utm_medium=rss)
- - [On a podcast, Donald Trump says Tim Cook called him &quot;hours ago&quot; to complain about EU fines and that Cook said the EU uses fines &quot;to run their enterprise&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241017/p23#a241017p23)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [DHS Warns Law Enforcement Election Deniers May Attempt to Bomb Drop Boxes](https://www.wired.com/story/dhs-election-denial-violent-attacks/)
+ - [Xbox’s Fall partner showcase 2024: All the news, trailers, and previews](https://www.theverge.com/2024/10/17/24272580/xbox-fall-partner-showcase-october-2024-trailers)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Hacker arrested for the fake SEC tweet that caused a Bitcoin price spike](https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council)
+ - [Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241017/p25#a241017p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
- - 😝 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
- - 💣 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 💣 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
  - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
 

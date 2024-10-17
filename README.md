@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay adds Klarna installments now, PayPal balances later](https://appleinsider.com/articles/24/10/17/apple-pay-adds-klarna-installments-now-paypal-balances-later?utm_medium=rss)
- - [Resident Evil 4 remake hits a new low just in time for Halloween](https://www.theverge.com/2024/10/17/24272551/resident-evil-4-remake-lg-stanbyme-go-deal-sale)
- - [Where to preorder Amazon’s first color Kindle and purchase other new models](https://www.theverge.com/24270761/amazon-kindle-scribe-paperwhite-colorsoft-signature-edition-preorder-e-reader-buy-price-release-date)
- - [10 Gifts for Travelers Who Have Everything &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [On Apple Pay&#39;s 10th anniversary, Apple adds support for Klarna in the US and UK and plans to expand installment loan options and add reward redemptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241017/p22#a241017p22)<!-- TECH:END -->
+ - [How influencers are changing advertising, with Digitas CEO Amy Lanzi](https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek)
+ - [Amnesty International gives EV makers low marks for human rights policies](https://www.theverge.com/2024/10/17/24270893/ev-battery-supply-chain-human-rights-amnesty-international-report)
+ - [Universal Orlando’s new Harry Potter and Nintendo worlds will open in May](https://www.theverge.com/2024/10/17/24272653/universal-orlando-epic-universe-harry-potter-nintendo-opening-day)
+ - [Trump says Tim Cook called him to complain about the European Union](https://www.theverge.com/2024/10/17/24272648/donald-trump-tim-cook-complain-european-union-fines)
+ - [Apple Pay adds Klarna installments now, PayPal balances later](https://appleinsider.com/articles/24/10/17/apple-pay-adds-klarna-installments-now-paypal-balances-later?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

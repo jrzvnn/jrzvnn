@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
- - 😝 [Mission accomplished](http://9gag.com/gag/axyz80K)
- - 💣 [What an answer](http://9gag.com/gag/ajP8jRG)
+ - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
+ - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 💣 [Why government matters](http://9gag.com/gag/awyApPx)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Terrifying](http://9gag.com/gag/a34QXOm)<!-- MEMES:END -->
+ - 👉 [Life has been tough - so bad I ate from the bin at one point. Now I bought a tiny attic floor flat, my home. Thank you, fellow degenerates for making me smile when the world seemed dark and unfriendly. Not posting for likes, just sharing my happiness with you](http://9gag.com/gag/a0eQqxn)<!-- MEMES:END -->
 
 ---
 

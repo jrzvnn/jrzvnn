@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [X updates its Privacy Policy to allow third-party &quot;collaborators&quot; to train their AI models on X user data, unless the user opts out, effective November 15, 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241017/p38#a241017p38)
  - [The FCC issues new rules that will require all mobile phones sold in the US to be compatible with hearing aids, &quot;after a transition period&quot; &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/241017/p37#a241017p37)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
- - [Can You Delete Your 23andMe Data? Yes, but It&#39;s Not That Easy. Here&#39;s How](https://www.cnet.com/news/privacy/can-you-delete-your-23andme-data-yes-but-its-not-that-easy-heres-how/#ftag=CAD590a51e)
- - [6 Best Sleep Trackers of 2024 -- Tested and Selected by Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT has a Windows app now](https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai)
+ - [How a 12-Ounce Layer of Foam Changed the NFL](https://www.wired.com/story/nfl-guardian-caps-hanson-concussions-cte/)
+ - [Activision says it’s fixed an anti-cheat hack in Modern Warfare III and Call of Duty: Warzone](https://www.theverge.com/2024/10/17/24272984/activision-anti-cheat-hack-call-of-duty-modern-warfare-iii-warzone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

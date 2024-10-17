@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 💣 [Moderation is a propaganda word for Censorship.](http://9gag.com/gag/aXPY3gP)
+ - 😝 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
+ - 😝 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
+ - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Christianity allows this. Convert and Follow.](http://9gag.com/gag/a34QD8Q)<!-- MEMES:END -->
+ - 👉 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)<!-- MEMES:END -->
 
 ---
 

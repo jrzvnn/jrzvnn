@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was a blast](http://9gag.com/gag/awyADzy)
- - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
- - 💣 [`just wait, stay calm and DON&#39;T PUT YOUR HAND ON THE IRON, F**K, IT&#39;S F**KED, EVERYONE IS GOING TO DIE, BB`ZZZZZZZZ`](http://9gag.com/gag/an79ZZb)
+ - 😝 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 😝 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
+ - 💣 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [She got double Os](http://9gag.com/gag/aAy37q2)<!-- MEMES:END -->
+ - 👉 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)<!-- MEMES:END -->
 
 ---
 

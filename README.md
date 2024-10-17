@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood launches its long-awaited desktop platform Robinhood Legend, and plans to add futures and index options trading to its mobile app in the coming months &lpar;Reuters&rpar;](http://www.techmeme.com/241016/p41#a241016p41)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [DJI says US customs is blocking its drone imports](https://www.theverge.com/2024/10/16/24272188/dji-blames-us-customs-block-import-some-drones)
- - [Apple Car could have had Blade batteries developed with China&#39;s BYD](https://appleinsider.com/articles/24/10/17/apple-car-could-have-had-blade-batteries-developed-with-chinas-byd?utm_medium=rss)
- - [Sources: Uber has explored a possible bid for Expedia as it seeks to grow into a super app; Expedia, valued at nearly $20B, would be Uber&#39;s largest acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/241016/p40#a241016p40)<!-- TECH:END -->
+ - [Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://www.theverge.com/2024/10/16/24272291/google-play-changes-epic-ruling-9th-circuit-court-of-appeals)
+ - [Here&#39;s Just How Massive Elon Musk&#39;s $75 Million Trump Donation Is](https://www.wired.com/story/elon-musk-trump-donations/)
+ - [FTC &#39;Click to Cancel&#39; rule makes canceling subscriptions as easy as starting them](https://appleinsider.com/articles/24/10/17/ftc-click-to-cancel-rule-makes-canceling-subscriptions-as-easy-as-starting-them?utm_medium=rss)
+ - [Everstage, which offers sales performance management software, raised a $30M Series B led by Eight Roads Ventures, bringing its total raised to $45M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/241016/p42#a241016p42)
+ - [Robinhood launches its long-awaited desktop platform Robinhood Legend, and plans to add futures and index options trading to its mobile app in the coming months &lpar;Reuters&rpar;](http://www.techmeme.com/241016/p41#a241016p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

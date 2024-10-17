@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
  - 😝 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
- - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 😝 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
+ - 💣 [What an answer](http://9gag.com/gag/ajP8jRG)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
  - 👉 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)<!-- MEMES:END -->
 

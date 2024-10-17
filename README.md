@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Belfast is the only Apple Store in Northern Ireland](https://appleinsider.com/articles/24/10/17/new-apple-belfast-is-the-only-apple-store-in-northern-ireland?utm_medium=rss)
- - [How influencers are changing advertising, with Digitas CEO Amy Lanzi](https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek)
- - [Amnesty International gives EV makers low marks for human rights policies](https://www.theverge.com/2024/10/17/24270893/ev-battery-supply-chain-human-rights-amnesty-international-report)
- - [Universal Orlando’s new Harry Potter and Nintendo worlds will open in May](https://www.theverge.com/2024/10/17/24272653/universal-orlando-epic-universe-harry-potter-nintendo-opening-day)
- - [Trump says Tim Cook called him to complain about the European Union](https://www.theverge.com/2024/10/17/24272648/donald-trump-tim-cook-complain-european-union-fines)<!-- TECH:END -->
+ - [Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241017/p25#a241017p25)
+ - [The FBI charges Alabama man Eric Council Jr. with hacking the SEC&#39;s X account on January 9, 2024 to post a fake announcement about approving spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241017/p24#a241017p24)
+ - [Trump says Tim Cook complained to him about the EU](https://appleinsider.com/articles/24/10/17/trump-says-tim-cook-complained-to-him-about-the-eu?utm_medium=rss)
+ - [On a podcast, Donald Trump says Tim Cook called him &quot;hours ago&quot; to complain about EU fines and that Cook said the EU uses fines &quot;to run their enterprise&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241017/p23#a241017p23)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

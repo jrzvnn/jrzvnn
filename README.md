@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
- - 💣 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 😝 [My idol](http://9gag.com/gag/azx9pnB)
+ - 😝 [The bouncing bed is a new invention in China to \u201chelp\u201d couples](http://9gag.com/gag/a873xY3)
+ - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)<!-- MEMES:END -->
+ - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
 
 ---
 

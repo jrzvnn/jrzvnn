@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Google will block US election ads after the polls close on November 5 to prevent misinfo about voting, including candidates prematurely claiming victory &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241017/p29#a241017p29)
+ - [JD Vance Takes a Hard Stance on Drugs. What Does His Adviser&#39;s Past Mean for His Campaign?](https://www.wired.com/story/jd-vance-adviser-reddit-drug-use/)
+ - [Sam Altman&#39;s Worldcoin rebrands as World, unveils a new Orb powered by Nvidia&#39;s Jetson chipset, plans to integrate its ID verification into other software, more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241017/p28#a241017p28)
  - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
- - [SpaceX Has a Plan for Starlink to Hit Gigabit Speeds](https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/)
- - [Apple adds another buy now pay later service to Pay](https://www.theverge.com/2024/10/17/24272629/apple-pay-klarna-bnpl-replace-pay-later)
- - [Prabhakar Raghavan will leave his role overseeing Google search and ads products, to be replaced by Nick Fox; Raghavan will become Chief Technologist &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241017/p27#a241017p27)
- - [Today&#39;s top Apple deals on Amazon start at just $15](https://appleinsider.com/articles/24/10/17/todays-top-apple-deals-on-amazon-start-at-just-15?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX Has a Plan for Starlink to Hit Gigabit Speeds](https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

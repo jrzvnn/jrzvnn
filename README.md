@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
  - 😝 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
- - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Gossip girl](http://9gag.com/gag/a2vZ3qD)<!-- MEMES:END -->
+ - 👉 [Dwight: \u201cI walk a different path..\u201d](http://9gag.com/gag/aVvYpDM)<!-- MEMES:END -->
 
 ---
 

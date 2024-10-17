@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look how far we come](http://9gag.com/gag/azx9z9j)
- - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - 💣 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - 😝 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Werther effect](http://9gag.com/gag/an793eV)<!-- MEMES:END -->
+ - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
 
 ---
 

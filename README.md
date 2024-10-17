@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy urges you to upgrade to the iPad mini 7 with 6th Gen trade-in values of up to $350](https://appleinsider.com/articles/24/10/17/best-buy-urges-you-to-upgrade-to-the-ipad-mini-7-with-6th-gen-trade-in-values-of-up-to-350?utm_medium=rss)
+ - [Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety &lpar;The Verge&rpar;](http://www.techmeme.com/241016/p44#a241016p44)
  - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)
  - [Brazilian authorities have arrested a hacker, known as USDoD, who they allege is linked to breaches of National Public Data, the FBI&#39;s InfraGard, and others &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241016/p43#a241016p43)
- - [Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://www.theverge.com/2024/10/16/24272291/google-play-changes-epic-ruling-9th-circuit-court-of-appeals)
- - [Here&#39;s Just How Massive Elon Musk&#39;s $75 Million Trump Donation Is](https://www.wired.com/story/elon-musk-trump-donations/)
- - [FTC &#39;Click to Cancel&#39; rule makes canceling subscriptions as easy as starting them](https://appleinsider.com/articles/24/10/17/ftc-click-to-cancel-rule-makes-canceling-subscriptions-as-easy-as-starting-them?utm_medium=rss)<!-- TECH:END -->
+ - [Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://www.theverge.com/2024/10/16/24272291/google-play-changes-epic-ruling-9th-circuit-court-of-appeals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

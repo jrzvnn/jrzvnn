@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 😝 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 💣 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
+ - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPS Jamming Is Screwing With Norwegian Planes](https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/)
+ - [This Prompt Can Make an AI Chatbot Identify and Extract Personal Details From Your Chats](https://www.wired.com/story/ai-imprompter-malware-llm/)
  - [UK study: employers running grad schemes received an average of 140 applications for each job in 2024, a record and up 59% YoY, as AI makes applying easier &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p12#a241017p12)
  - [South Korea plans stronger measures to prevent leaks of advanced tech and business secrets; the NIS says there were 40 attempted chip secret leaks in five years &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p11#a241017p11)
- - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent. I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
- - [How machine learning could have transformative effects on Africa&#39;s developing economies and societies, as some critics worry over a deepening digital divide &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p10#a241017p10)
- - [This backpack solar generator can help you ignore nature](https://www.theverge.com/2024/10/17/24272480/bluetti-handsfree-backpack-power-station-price-specs)<!-- TECH:END -->
+ - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent. I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

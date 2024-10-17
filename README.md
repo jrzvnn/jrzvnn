@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Uber CEO Dara Khosrowshahi on autonomous cars, lobbying regulators to get more EVs on the road, flying taxis, climate goals, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p9#a241017p9)
- - [Hobbyists post the code for Redbox kiosk software online, and tinkerers have been probing how it works, sometimes repurposing abandoned machines to run Doom &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241017/p8#a241017p8)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
- - [Support groups in the Philippines blame GCash, the country&#39;s most popular payment app with 90M+ active users, for a rise in gambling addiction in the country &lpar;Patrick Kho/Rest of World&rpar;](http://www.techmeme.com/241017/p7#a241017p7)
- - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Best Internet Providers in Tillamook, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-tillamook-or/#ftag=CAD590a51e)
+ - [Thursday Night Football: How to Watch, Stream Broncos vs. Saints Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-broncos-vs-saints-tonight-on-prime-video/#ftag=CAD590a51e)
+ - [CNET&#39;s Sleep Experts Reveal the Top Mattress Brands They Love to Test](https://www.cnet.com/health/sleep/favorite-mattress-brands/#ftag=CAD590a51e)
+ - [Identity Thieves Are Getting Jobs in Your Name. Here’s How to Stop Them](https://www.cnet.com/personal-finance/identity-theft/identity-thieves-are-getting-jobs-in-your-name-heres-how-to-stop-them/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Oct. 17, 2024: Don&#39;t Pass Up APYs as High as 5.30%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

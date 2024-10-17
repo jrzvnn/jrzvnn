@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Belfast is the only Apple Store in Northern Ireland](https://appleinsider.com/articles/24/10/17/new-apple-belfast-is-the-only-apple-store-in-northern-ireland?utm_medium=rss)
  - [How influencers are changing advertising, with Digitas CEO Amy Lanzi](https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek)
  - [Amnesty International gives EV makers low marks for human rights policies](https://www.theverge.com/2024/10/17/24270893/ev-battery-supply-chain-human-rights-amnesty-international-report)
  - [Universal Orlando’s new Harry Potter and Nintendo worlds will open in May](https://www.theverge.com/2024/10/17/24272653/universal-orlando-epic-universe-harry-potter-nintendo-opening-day)
- - [Trump says Tim Cook called him to complain about the European Union](https://www.theverge.com/2024/10/17/24272648/donald-trump-tim-cook-complain-european-union-fines)
- - [Apple Pay adds Klarna installments now, PayPal balances later](https://appleinsider.com/articles/24/10/17/apple-pay-adds-klarna-installments-now-paypal-balances-later?utm_medium=rss)<!-- TECH:END -->
+ - [Trump says Tim Cook called him to complain about the European Union](https://www.theverge.com/2024/10/17/24272648/donald-trump-tim-cook-complain-european-union-fines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
- - 😝 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
- - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 💣 [Moderation is a propaganda word for Censorship.](http://9gag.com/gag/aXPY3gP)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [`just wait, stay calm and DON&#39;T PUT YOUR HAND ON THE IRON, F**K, IT&#39;S F**KED, EVERYONE IS GOING TO DIE, BB`ZZZZZZZZ`](http://9gag.com/gag/an79ZZb)<!-- MEMES:END -->
+ - 👉 [Christianity allows this. Convert and Follow.](http://9gag.com/gag/a34QD8Q)<!-- MEMES:END -->
 
 ---
 

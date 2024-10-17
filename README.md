@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Matt Mullenweg offered another buyout offer to Automattic staff; Mullenweg appears to have redirected staff&#39;s Blind sign-up emails to himself &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241017/p30#a241017p30)
+ - [How to create new Apple Notes quickly on iPad with Apple Pencil](https://appleinsider.com/inside/ipados-18/tips/how-to-create-new-apple-notes-quickly-on-ipad-with-apple-pencil?utm_medium=rss)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Memo: Google will block US election ads after the polls close on November 5 to prevent misinfo about voting, including candidates prematurely claiming victory &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241017/p29#a241017p29)
- - [JD Vance Takes a Hard Stance on Drugs. What Does His Adviser&#39;s Past Mean for His Campaign?](https://www.wired.com/story/jd-vance-adviser-reddit-drug-use/)
- - [Sam Altman&#39;s Worldcoin rebrands as World, unveils a new Orb powered by Nvidia&#39;s Jetson chipset, plans to integrate its ID verification into other software, more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241017/p28#a241017p28)
- - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
- - [SpaceX Has a Plan for Starlink to Hit Gigabit Speeds](https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/)<!-- TECH:END -->
+ - [JD Vance Takes a Hard Stance on Drugs. What Does His Adviser&#39;s Past Mean for His Campaign?](https://www.wired.com/story/jd-vance-adviser-reddit-drug-use/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

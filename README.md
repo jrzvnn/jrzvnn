@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: former OpenAI CTO Mira Murati is raising funds for her new startup, which aims to build AI products based on proprietary models &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p20#a241018p20)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [Penguin Random House amends its copyright notice globally to prohibit the use of books for training AI; the notice will be included in new titles and reprints &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/241018/p19#a241018p19)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Terray Therapeutics, which uses AI to accelerate small-molecule drug development, raised a $120M Series B led by Bedford Ridge Capital and Nvidia&#39;s NVentures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241018/p18#a241018p18)
- - [Amazon launches $99 Anker Thunderbolt 4 Mini Dock deal to power your MacBook](https://appleinsider.com/articles/24/10/18/amazon-launches-99-anker-thunderbolt-4-mini-dock-deal-to-power-your-macbook?utm_medium=rss)
- - [Penguin Random House books now explicitly say ‘no’ to AI training](https://www.theverge.com/2024/10/18/24273895/penguin-random-house-books-copyright-ai)
- - [Cuba’s power went out across the island on Friday](https://www.theverge.com/2024/10/18/24273905/cuba-power-outage-energy-crisis)<!-- TECH:END -->
+ - [Terray Therapeutics, which uses AI to accelerate small-molecule drug development, raised a $120M Series B led by Bedford Ridge Capital and Nvidia&#39;s NVentures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241018/p18#a241018p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

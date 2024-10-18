@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPhone 17 Slim still rumored to have a 6.6-inch display](https://appleinsider.com/articles/24/10/18/iphone-17-slim-still-rumored-to-have-a-66-inch-display?utm_medium=rss)
- - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)
- - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
- - [Judge Grants Google Emergency Stay Motion in Epic Games Ruling](https://www.cnet.com/tech/services-and-software/judge-grants-google-emergency-stay-motion-in-epic-games-ruling/#ftag=CAD590a51e)
- - [Get Ready for Cozy Season With Up to 55% Off During Brooklinen’s Friends and Family Sale](https://www.cnet.com/deals/brooklinen-fall-family-and-friends-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman’s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
+ - [The Legend of Zelda: Tears of the Kingdom is just $40 for first-time Woot buyers](https://www.theverge.com/2024/10/18/24273464/legend-of-zelda-tears-of-the-kingdom-nintendo-switch-deal-sale)
+ - [A judge grants Google a temporary stay on the Epic ruling while Google appeals, which means Google might not have to change Play Store practices for years &lpar;The Verge&rpar;](http://www.techmeme.com/241018/p16#a241018p16)
+ - [NASA Is Working on a Time Zone for the Moon, Because Microseconds Matter in Space](https://www.cnet.com/science/space/nasa-is-creating-a-time-zone-for-the-moon-in-space-every-microsecond-matters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

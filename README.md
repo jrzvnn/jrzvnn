@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
  - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
- - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
+ - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 👉 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)<!-- MEMES:END -->
 
 ---
 

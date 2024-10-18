@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will stream a live election special hosted by Brian Williams](https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams)
- - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)
- - [NYCC 2024: &#39;Outlander&#39; Season 7, Part 2 Trailer Shows Heartbreaking Tears and Uncertainty](https://www.cnet.com/tech/services-and-software/nycc-2024-outlander-season-7-part-2-trailer-shows-heartbreaking-tears-and-uncertainty/#ftag=CAD590a51e)
- - [Best Fitbit Deals: Save on Fitness Trackers Including the Sense 2, Versa 4 and More](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch, Stream Broncos vs. Saints Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-broncos-vs-saints-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [X updates its ToS to steer any disputes by users to the US District Court for the Northern District of Texas, whose judges often favor conservative litigants &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/241017/p39#a241017p39)
+ - [Californians Can Now Use an iPhone to Show Their Driver&#39;s License and ID. Here&#39;s How](https://www.cnet.com/tech/services-and-software/californians-can-now-use-an-iphone-to-show-their-drivers-license-and-id-heres-how/#ftag=CAD590a51e)
+ - [Amazon will stream a live election special hosted by Brian Williams](https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

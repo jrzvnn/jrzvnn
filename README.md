@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC is trying to find out if John Deere’s repair policies broke the law](https://www.theverge.com/2024/10/18/24273639/ftc-probe-john-deere-right-to-repair)
  - [The Apple Keyboard Is Bad. Upgrade to the Nuio Flow Instead](https://www.wired.com/story/nuio-flow-keyboard-hands-on/)
  - [Sixth visionOS 2.1 developer beta arrives days after the fifth](https://appleinsider.com/articles/24/10/18/sixth-visionos-21-developer-beta-arrives-days-after-the-fifth?utm_medium=rss)
  - [Powerbeats Pro drop off Apple&#39;s online store as update looms](https://appleinsider.com/articles/24/10/18/powerbeats-pro-drop-off-apples-online-store-as-update-looms?utm_medium=rss)
- - [Best Buy&#39;s Samsung Savings Event: Score Deals on TVs, Tablets, Appliances and More](https://www.cnet.com/deals/best-buys-samsung-savings-event-score-deals-on-tvs-tablets-appliances-and-more/#ftag=CAD590a51e)
- - [I&#39;m a Sleep and Mattress Expert. Here Are the Best Places to Buy Your Next Bed](https://www.cnet.com/health/sleep/best-mattress-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Samsung Savings Event: Score Deals on TVs, Tablets, Appliances and More](https://www.cnet.com/deals/best-buys-samsung-savings-event-score-deals-on-tvs-tablets-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

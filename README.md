@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The MacBook Air updated with TK](https://www.cnet.com/tech/computing/the-macbook-air-updated-with-tk/#ftag=CAD590a51e)
  - [Chinese robotaxi firm Pony.ai files for a Nasdaq IPO, says its H1 2024 revenue nearly doubled to $24.7M with a net loss of $51.3M, down from $69.4M in H1 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p43#a241017p43)
  - [How to use the Finder Erase Disk command in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-finder-erase-disk-command-in-macos-sequoia?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 18, #495](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-18-495/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 18, #229](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-18-229/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 18, #25](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-18-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 18, #229](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-18-229/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

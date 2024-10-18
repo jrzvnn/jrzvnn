@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
  - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 💣 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
  - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: OpenAI sees a clause in its Microsoft contract, which cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, as a path to a better contract &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241018/p17#a241018p17)
  - [iPhone 17 Slim still rumored to have a 6.6-inch display](https://appleinsider.com/articles/24/10/18/iphone-17-slim-still-rumored-to-have-a-66-inch-display?utm_medium=rss)
- - [Sam Altman’s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
- - [The Legend of Zelda: Tears of the Kingdom is just $40 for first-time Woot buyers](https://www.theverge.com/2024/10/18/24273464/legend-of-zelda-tears-of-the-kingdom-nintendo-switch-deal-sale)
- - [A judge grants Google a temporary stay on the Epic ruling while Google appeals, which means Google might not have to change Play Store practices for years &lpar;The Verge&rpar;](http://www.techmeme.com/241018/p16#a241018p16)
- - [NASA Is Working on a Time Zone for the Moon, Because Microseconds Matter in Space](https://www.cnet.com/science/space/nasa-is-creating-a-time-zone-for-the-moon-in-space-every-microsecond-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)
+ - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
+ - [Judge Grants Google Emergency Stay Motion in Epic Games Ruling](https://www.cnet.com/tech/services-and-software/judge-grants-google-emergency-stay-motion-in-epic-games-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

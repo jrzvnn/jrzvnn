@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Chromebook Deals: Budget, Premium and Plenty of In-Between Models at Reduced Rates](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
  - [Social Media Swallowed Gen Z. This Film Shows Exactly How](https://www.wired.com/story/dial-up-lauren-greenfield-social-studies-docuseries/)
  - [Report: OpenAI sees a clause in its Microsoft contract, which cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, as a path to a better contract &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241018/p17#a241018p17)
- - [iPhone 17 Slim still rumored to have a 6.6-inch display](https://appleinsider.com/articles/24/10/18/iphone-17-slim-still-rumored-to-have-a-66-inch-display?utm_medium=rss)
- - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)
- - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Magic: The Gathering Reveals First Marvel Cards, Featuring Avengers, X-Men](https://www.cnet.com/culture/entertainment/magic-the-gathering-reveals-first-marvel-cards-featuring-avengers-xmen/#ftag=CAD590a51e)
+ - [Our Best Firm Mattress Picks for Back and Stomach Sleepers](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 💣 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)<!-- MEMES:END -->
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
+ - 💣 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 😝 [`None of your business`](http://9gag.com/gag/aryG7L7)
+ - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
 
 ---
 

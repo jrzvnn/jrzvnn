@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [X updates its ToS to steer any disputes by users to the US District Court for the Northern District of Texas, whose judges often favor conservative litigants &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/241017/p39#a241017p39)
- - [Californians Can Now Use an iPhone to Show Their Driver&#39;s License and ID. Here&#39;s How](https://www.cnet.com/tech/services-and-software/californians-can-now-use-an-iphone-to-show-their-drivers-license-and-id-heres-how/#ftag=CAD590a51e)
- - [Amazon will stream a live election special hosted by Brian Williams](https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams)<!-- TECH:END -->
+ - [Sources: Intel is looking to sell at least a minority stake, or possibly a majority stake, worth billions in its Altera subsidiary at a valuation of around $17B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241017/p42#a241017p42)
+ - [Sources describe OpenAI and Microsoft&#39;s fraying relationship, OpenAI renegotiating its deal for more computing power, Microsoft&#39;s own LLM efforts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/241017/p41#a241017p41)
+ - [New Eye-Scanning Orb Revealed by Sam Altman&#39;s World video](https://www.cnet.com/videos/new-eye-scanning-orb-revealed-by-sam-altmans-world/#ftag=CAD590a51e)
+ - [Spending Too Much on iPhone or Android App Subscriptions? Here&#39;s How to Find and Cancel Them](https://www.cnet.com/tech/services-and-software/spending-too-much-on-iphone-or-android-app-subscriptions-heres-how-to-find-and-cancel-them/#ftag=CAD590a51e)
+ - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

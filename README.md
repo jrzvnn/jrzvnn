@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
  - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - 👉 [Weird as shit](http://9gag.com/gag/aZZL6o3)<!-- MEMES:END -->
+ - 💣 [Dwight: \u201cI walk a different path..\u201d](http://9gag.com/gag/aVvYpDM)
+ - 😝 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
+ - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
 
 ---
 

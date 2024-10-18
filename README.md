@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sixth visionOS 2.1 developer beta arrives days after the fifth](https://appleinsider.com/articles/24/10/18/sixth-visionos-21-developer-beta-arrives-days-after-the-fifth?utm_medium=rss)
  - [Powerbeats Pro drop off Apple&#39;s online store as update looms](https://appleinsider.com/articles/24/10/18/powerbeats-pro-drop-off-apples-online-store-as-update-looms?utm_medium=rss)
  - [First benchmarks show massive leap in iPad mini performance](https://appleinsider.com/articles/24/10/18/first-benchmarks-show-massive-leap-in-ipad-mini-performance?utm_medium=rss)
  - [A look at Greg Brockman&#39;s role at OpenAI, as his return from a sabbatical nears; sources: OpenAI CFO thinks Apple pulled out of fundraising due to Murati&#39;s exit &lpar;The Information&rpar;](http://www.techmeme.com/241018/p14#a241018p14)
- - [Best iPhone 15 Deals: Enjoy Big Savings on This Previous-Gen Apple Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [Identity Thieves Are Getting Jobs in Your Name. Here&#39;s How To Stop Them](https://www.cnet.com/personal-finance/identity-thieves-are-getting-jobs-in-your-name-how-to-stop-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Enjoy Big Savings on This Previous-Gen Apple Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

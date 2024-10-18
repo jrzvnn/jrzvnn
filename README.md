@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [`None of your business`](http://9gag.com/gag/aryG7L7)
+ - 💣 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
  - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 💣 [`None of your business`](http://9gag.com/gag/aryG7L7)
- - 😝 [Too soon?](http://9gag.com/gag/aPAY5YB)
  - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
 
 ---

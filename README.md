@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WP Engine asks court to stop Matt Mullenweg from blocking access to WordPress resources](https://www.theverge.com/2024/10/18/24273448/wp-engine-injunction-matt-mullenweg-wordpress-resources)
- - [Nintendo’s Alarmo is cute and cozy — but it’s still just an alarm clock](https://www.theverge.com/24273422/nintendo-alarmo-review-alarm-clock)
- - [Feds are investigating Tesla ‘Full Self-Driving’ crashes in reduced visibility](https://www.theverge.com/2024/10/18/24273418/nhtsa-tesla-full-self-driving-investigation-crashes)
- - [Elehear Beyond Review: Super Big Hearing Aids](https://www.wired.com/review/elehear-beyond/)
- - [Verizon will buy some of US Cellular&#39;s spectrum licenses for $1B, contingent on closing a deal announced in May to sell some US Cellular assets to T-Mobile &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241018/p11#a241018p11)<!-- TECH:END -->
+ - [Sony&#39;s PSVR2 PC Adapter Is a Poor Apology to PlayStation Fans](https://www.wired.com/story/sonys-psvr2-pc-adapter-is-a-poor-apology-to-playstation-fans/)
+ - [LinkedIn woos publishers, testing a &quot;News Banner&quot; on its mobile app feed and a video ad program that sources say will earn Bloomberg and WSJ $2M+ each in 2024 &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/241018/p12#a241018p12)
+ - [People are flocking to Bluesky as X makes more unwanted changes](https://www.theverge.com/2024/10/18/24273435/bluesky-user-spike-x-tos-ai-changes-blocking)
+ - [US TSMC probe puts iPhone chips at risk](https://appleinsider.com/articles/24/10/18/us-tsmc-probe-puts-iphone-chips-at-risk?utm_medium=rss)
+ - [Best Internet Providers in North Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-north-dakota/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

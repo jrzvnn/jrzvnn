@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
- - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 😝 [That&#39;s so satisfying ..](http://9gag.com/gag/aZZLGbW)
+ - 😝 [This guy](http://9gag.com/gag/aGyZ4wn)
+ - 💣 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 👉 [My idol](http://9gag.com/gag/azx9pnB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
- - 😝 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
- - 💣 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 😝 [Ginger ale straight from the tap](http://9gag.com/gag/a0eQAvO)
  - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
+ - 💣 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 😝 [No one cares about your feelings anymore](http://9gag.com/gag/aO8YLgD)
+ - 👉 [Women logic ....](http://9gag.com/gag/aNDY7qv)<!-- MEMES:END -->
 
 ---
 

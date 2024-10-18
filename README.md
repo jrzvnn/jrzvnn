@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Paradox at the Heart of Elon Musk’s Cybercab Vision](https://www.wired.com/story/the-paradox-at-the-heart-of-elon-musks-cybercab-vision/)
  - [Government sources say India plans to limit imports of laptops, tablets, and PCs after January 2025 to push companies to increase domestic manufacturing &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/241018/p6#a241018p6)
  - [Ultimate Ears Boom 4 Review: Same Great Sound, Now Easier to Charge](https://www.wired.com/review/ultimate-ears-boom-4/)
- - [‘Trump Was Born to Be a Teenage Girl’ Is the Sarah Cooper Schtick for the ‘Brat’ Election](https://www.wired.com/story/trump-was-born-to-be-a-teenage-girl-meme-sarah-cooper/)
- - [14 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2024/)<!-- TECH:END -->
+ - [Apple iPhone 16 Trade-In Guide: How to Buy Your Next Phone Using Your Old Phone](https://www.cnet.com/tech/mobile/apple-iphone-16-trade-in-guide-how-to-buy-your-next-phone-using-your-old-phone/#ftag=CAD590a51e)
+ - [&#39;Maxxxine&#39;: Streaming Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/maxxxine-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

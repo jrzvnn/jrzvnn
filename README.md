@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netherlands unveils new rules requiring an export permit to sell quantum computers, quantum measurement equipment and chipmaking tech, and more outside the EU &lpar;Patrick Van Oosterom/Bloomberg&rpar;](http://www.techmeme.com/241018/p15#a241018p15)
+ - [Fans come to the rescue of popular Mario content creator](https://www.theverge.com/2024/10/18/24273563/supper-mario-broth-creator-fan-support)
  - [The FTC is trying to find out if John Deere’s repair policies broke the law](https://www.theverge.com/2024/10/18/24273639/ftc-probe-john-deere-right-to-repair)
  - [The Apple Keyboard Is Bad. Upgrade to the Nuio Flow Instead](https://www.wired.com/story/nuio-flow-keyboard-hands-on/)
- - [Sixth visionOS 2.1 developer beta arrives days after the fifth](https://appleinsider.com/articles/24/10/18/sixth-visionos-21-developer-beta-arrives-days-after-the-fifth?utm_medium=rss)
- - [Powerbeats Pro drop off Apple&#39;s online store as update looms](https://appleinsider.com/articles/24/10/18/powerbeats-pro-drop-off-apples-online-store-as-update-looms?utm_medium=rss)
- - [Best Buy&#39;s Samsung Savings Event: Score Deals on TVs, Tablets, Appliances and More](https://www.cnet.com/deals/best-buys-samsung-savings-event-score-deals-on-tvs-tablets-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sixth visionOS 2.1 developer beta arrives days after the fifth](https://appleinsider.com/articles/24/10/18/sixth-visionos-21-developer-beta-arrives-days-after-the-fifth?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

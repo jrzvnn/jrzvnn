@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A judge grants Google a temporary stay on the Epic ruling while Google appeals, which means Google might not have to change Play Store practices for years &lpar;The Verge&rpar;](http://www.techmeme.com/241018/p16#a241018p16)
  - [Apple HR exodus continues with recruitment exec departure](https://appleinsider.com/articles/24/10/18/apple-hr-exodus-continues-with-recruitment-exec-departure?utm_medium=rss)
  - [The Physics Trick That Makes These New Super Cars So Insanely Fast](https://www.wired.com/story/the-physics-trick-that-makes-these-new-super-cars-so-fast/)
  - [Epic judge lets Google keep its Android app store closed to competitors — for now](https://www.theverge.com/2024/10/18/24271996/google-epic-lawsuit-play-third-party-app-store-changes-delayed-administrative-stay-granted)
- - [OnePlus might be ditching curved edges too](https://www.theverge.com/2024/10/18/24273650/oneplus-13-leak-rumor-design-flat-edge)
- - [Netherlands unveils new rules requiring an export permit to sell quantum computers, quantum measurement equipment and chipmaking tech, and more outside the EU &lpar;Patrick Van Oosterom/Bloomberg&rpar;](http://www.techmeme.com/241018/p15#a241018p15)<!-- TECH:END -->
+ - [OnePlus might be ditching curved edges too](https://www.theverge.com/2024/10/18/24273650/oneplus-13-leak-rumor-design-flat-edge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

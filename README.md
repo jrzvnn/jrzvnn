@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix gained 5.1M new subscribers in Q3, vs. 4M est., and says more than 50% of signups were for its ad-supported tier in countries where it was available &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p3#a241018p3)
  - [A look at Dippy, an AI companion startup that lets users see the reasoning behind their chatbot&#39;s replies, claims to have 50K DAUs, and raised a $2.1M pre-seed &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241018/p2#a241018p2)
  - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
  - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
- - [The US Treasury says its enhanced detection tools, including AI, helped in the prevention and recovery of $4B+ in fraudulent payments in FY 2024, up over 6x YoY &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/241018/p1#a241018p1)<!-- TECH:END -->
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

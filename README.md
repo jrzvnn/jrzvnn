@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ploopy’s 3D-printed, open-source trackpad is thoroughly customizable](https://www.theverge.com/2024/10/18/24273416/ploopy-trackpad-diy-open-source)
  - [iPad mini 7, Apple Vision Pro 2, and another executive leaves Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/18/ipad-mini-7-apple-vision-pro-2-and-another-executive-leaves-apple-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sony&#39;s PSVR2 PC Adapter Is a Poor Apology to PlayStation Fans](https://www.wired.com/story/sonys-psvr2-pc-adapter-is-a-poor-apology-to-playstation-fans/)
  - [LinkedIn woos publishers, testing a &quot;News Banner&quot; on its mobile app feed and a video ad program that sources say will earn Bloomberg and WSJ $2M+ each in 2024 &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/241018/p12#a241018p12)
- - [People are flocking to Bluesky as X makes more unwanted changes](https://www.theverge.com/2024/10/18/24273435/bluesky-user-spike-x-tos-ai-changes-blocking)
- - [US TSMC probe puts iPhone chips at risk](https://appleinsider.com/articles/24/10/18/us-tsmc-probe-puts-iphone-chips-at-risk?utm_medium=rss)<!-- TECH:END -->
+ - [People are flocking to Bluesky as X makes more unwanted changes](https://www.theverge.com/2024/10/18/24273435/bluesky-user-spike-x-tos-ai-changes-blocking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
  - 😝 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
- - 💣 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 💣 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 ---
 

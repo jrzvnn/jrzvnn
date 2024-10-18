@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: former OpenAI CTO Mira Murati is raising funds for her new startup, which aims to build AI products based on proprietary models &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p20#a241018p20)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [Best 3D Printer Deals: Save Up to $350 on Top Printers Now](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
  - [Penguin Random House amends its copyright notice globally to prohibit the use of books for training AI; the notice will be included in new titles and reprints &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/241018/p19#a241018p19)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Terray Therapeutics, which uses AI to accelerate small-molecule drug development, raised a $120M Series B led by Bedford Ridge Capital and Nvidia&#39;s NVentures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241018/p18#a241018p18)<!-- TECH:END -->
+ - [Sleep Better Tonight With a Squeaky Clean Mattress](https://www.cnet.com/health/sleep/sleep-better-tonight-with-a-squeaky-clean-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

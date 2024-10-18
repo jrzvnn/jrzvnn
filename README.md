@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idiots in cars](http://9gag.com/gag/awyAWpx)
- - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
  - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
 
 ---

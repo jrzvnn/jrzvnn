@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Verizon will buy some of US Cellular&#39;s spectrum licenses for $1B, contingent on closing a deal announced in May to sell some US Cellular assets to T-Mobile &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241018/p11#a241018p11)
  - [It Sure Looks Like Trump Watches Are Breaking Copyright Law](https://www.wired.com/story/it-sure-looks-like-trump-watches-are-breaking-copyright-law/)
  - [&#39;Ted Lasso&#39; season 4 confirmed in industry listings](https://appleinsider.com/articles/24/10/18/ted-lasso-season-4-confirmed-in-industry-listings?utm_medium=rss)
- - [How to Get Perfectly Crispy French Fries in Your Air Fryer](https://www.cnet.com/how-to/how-to-get-perfectly-crispy-french-fries-in-your-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

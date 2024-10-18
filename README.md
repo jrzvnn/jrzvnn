@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Powerbeats Pro drop off Apple&#39;s online store as update looms](https://appleinsider.com/articles/24/10/18/powerbeats-pro-drop-off-apples-online-store-as-update-looms?utm_medium=rss)
  - [First benchmarks show massive leap in iPad mini performance](https://appleinsider.com/articles/24/10/18/first-benchmarks-show-massive-leap-in-ipad-mini-performance?utm_medium=rss)
  - [A look at Greg Brockman&#39;s role at OpenAI, as his return from a sabbatical nears; sources: OpenAI CFO thinks Apple pulled out of fundraising due to Murati&#39;s exit &lpar;The Information&rpar;](http://www.techmeme.com/241018/p14#a241018p14)
- - [Google’s NotebookLM now lets you guide the hosts of your AI podcast](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize)
- - [13 Best Tested Computer Monitors &lpar;2024&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
- - [How to change the iPhone used with iPhone Mirroring](https://appleinsider.com/inside/macos-sequoia/tips/how-to-change-the-iphone-used-with-iphone-mirroring?utm_medium=rss)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Enjoy Big Savings on This Previous-Gen Apple Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
+ - [Identity Thieves Are Getting Jobs in Your Name. Here&#39;s How To Stop Them](https://www.cnet.com/personal-finance/identity-thieves-are-getting-jobs-in-your-name-how-to-stop-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

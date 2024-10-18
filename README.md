@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix gained 5.1M new subscribers in Q3, vs. 4M est., and says more than 50% of signups were for its ad-supported tier in countries where it was available &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p3#a241018p3)
- - [A look at Dippy, an AI companion startup that lets users see the reasoning behind their chatbot&#39;s replies, claims to have 50K DAUs, and raised a $2.1M pre-seed &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241018/p2#a241018p2)
- - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
- - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Byju&#39;s founder Byju Raveendran says his edtech startup, valued at $22B in 2022, is effectively &quot;worth zero&quot;, and that he made mistakes and mistimed the market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241018/p4#a241018p4)
+ - [Qualcomm cancels its miniature Windows on Arm PC](https://www.theverge.com/2024/10/18/24273366/qualcomm-cancels-snapdragon-dev-kit-mini-windows-on-arm-pc)
+ - [What the US Army’s 1959 ‘Soldier of Tomorrow’ Got Right About the Future of Warfare](https://www.wired.com/story/us-army-soldier-of-tomorrow-1959/)
+ - [Disney Raises Prices for Disney Plus, Hulu, and ESPN Plus Again](https://www.cnet.com/tech/services-and-software/disney-raises-prices-for-disney-plus-hulu-and-espn-plus-again/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Oct. 18, 2024: Don&#39;t Sleep on APYs as High as 5.30%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

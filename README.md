@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
- - 💣 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 👉 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)<!-- MEMES:END -->
+ - 😝 [Living within your means challenge: Impossible](http://9gag.com/gag/a6ZORAm)
+ - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
+ - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
 
 ---
 

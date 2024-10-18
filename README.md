@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good news my brethren](http://9gag.com/gag/avy83ZO)
- - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [Making a Halloween costume with dad](http://9gag.com/gag/aO8YMvR)
- - 👉 [Yes man!](http://9gag.com/gag/aO8Yw96)<!-- MEMES:END -->
+ - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 😝 [Ginger ale straight from the tap](http://9gag.com/gag/a0eQAvO)
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 ---
 

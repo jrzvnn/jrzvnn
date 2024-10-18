@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 😝 [`None of your business`](http://9gag.com/gag/aryG7L7)
- - 👉 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
+ - 💣 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
+ - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
 
 ---
 

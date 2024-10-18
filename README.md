@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good news my brethren](http://9gag.com/gag/avy83ZO)
  - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 😝 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
- - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 😝 [Living within your means challenge: Impossible](http://9gag.com/gag/a6ZORAm)
- - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
+ - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [Making a Halloween costume with dad](http://9gag.com/gag/aO8YMvR)
+ - 👉 [Yes man!](http://9gag.com/gag/aO8Yw96)<!-- MEMES:END -->
 
 ---
 

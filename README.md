@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sam Altman’s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
  - [The Legend of Zelda: Tears of the Kingdom is just $40 for first-time Woot buyers](https://www.theverge.com/2024/10/18/24273464/legend-of-zelda-tears-of-the-kingdom-nintendo-switch-deal-sale)
  - [A judge grants Google a temporary stay on the Epic ruling while Google appeals, which means Google might not have to change Play Store practices for years &lpar;The Verge&rpar;](http://www.techmeme.com/241018/p16#a241018p16)
- - [Apple HR exodus continues with recruitment exec departure](https://appleinsider.com/articles/24/10/18/apple-hr-exodus-continues-with-recruitment-exec-departure?utm_medium=rss)
- - [The Physics Trick That Makes These New Super Cars So Insanely Fast](https://www.wired.com/story/the-physics-trick-that-makes-these-new-super-cars-so-fast/)<!-- TECH:END -->
+ - [NASA Is Working on a Time Zone for the Moon, Because Microseconds Matter in Space](https://www.cnet.com/science/space/nasa-is-creating-a-time-zone-for-the-moon-in-space-every-microsecond-matters/#ftag=CAD590a51e)
+ - [Apple Reportedly Creating Smart Glasses That Will Rival Meta&#39;s Ray-Bans](https://www.cnet.com/tech/mobile/apple-reportedly-developing-smart-glasses-to-rival-metas-ray-bans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

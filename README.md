@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
+ - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
+ - 💣 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
  - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 💣 [Good news my brethren](http://9gag.com/gag/avy83ZO)
- - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 👉 [Making a Halloween costume with dad](http://9gag.com/gag/aO8YMvR)<!-- MEMES:END -->
+ - 👉 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)<!-- MEMES:END -->
 
 ---
 

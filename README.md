@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 😝 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
- - 💣 [Good news my brethren](http://9gag.com/gag/avy83ZO)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 👉 [My idol](http://9gag.com/gag/azx9pnB)<!-- MEMES:END -->
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 💣 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
+ - 😝 [Cambodia RPG Unit](http://9gag.com/gag/a7o3X0q)
+ - 👉 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)<!-- MEMES:END -->
 
 ---
 

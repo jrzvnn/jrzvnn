@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is making it easier to use a password manager inside Chrome on Android](https://www.theverge.com/2024/10/18/24273369/google-chrome-android-password-manager-native-autofill)
  - [Byju&#39;s founder Byju Raveendran says his edtech startup, valued at $22B in 2022, is effectively &quot;worth zero&quot;, and that he made mistakes and mistimed the market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241018/p4#a241018p4)
  - [Qualcomm cancels its miniature Windows on Arm PC](https://www.theverge.com/2024/10/18/24273366/qualcomm-cancels-snapdragon-dev-kit-mini-windows-on-arm-pc)
  - [What the US Army’s 1959 ‘Soldier of Tomorrow’ Got Right About the Future of Warfare](https://www.wired.com/story/us-army-soldier-of-tomorrow-1959/)
- - [Disney Raises Prices for Disney Plus, Hulu, and ESPN Plus Again](https://www.cnet.com/tech/services-and-software/disney-raises-prices-for-disney-plus-hulu-and-espn-plus-again/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Oct. 18, 2024: Don&#39;t Sleep on APYs as High as 5.30%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix gained 5.1M new subscribers in Q3, vs. 4M est., and says more than 50% of signups were for its ad-supported tier in countries where it was available &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p3#a241018p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

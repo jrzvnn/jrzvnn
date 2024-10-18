@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Keyboard Is Bad. Upgrade to the Nuio Flow Instead](https://www.wired.com/story/nuio-flow-keyboard-hands-on/)
  - [Sixth visionOS 2.1 developer beta arrives days after the fifth](https://appleinsider.com/articles/24/10/18/sixth-visionos-21-developer-beta-arrives-days-after-the-fifth?utm_medium=rss)
  - [Powerbeats Pro drop off Apple&#39;s online store as update looms](https://appleinsider.com/articles/24/10/18/powerbeats-pro-drop-off-apples-online-store-as-update-looms?utm_medium=rss)
- - [First benchmarks show massive leap in iPad mini performance](https://appleinsider.com/articles/24/10/18/first-benchmarks-show-massive-leap-in-ipad-mini-performance?utm_medium=rss)
- - [A look at Greg Brockman&#39;s role at OpenAI, as his return from a sabbatical nears; sources: OpenAI CFO thinks Apple pulled out of fundraising due to Murati&#39;s exit &lpar;The Information&rpar;](http://www.techmeme.com/241018/p14#a241018p14)
- - [Best iPhone 15 Deals: Enjoy Big Savings on This Previous-Gen Apple Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Samsung Savings Event: Score Deals on TVs, Tablets, Appliances and More](https://www.cnet.com/deals/best-buys-samsung-savings-event-score-deals-on-tvs-tablets-appliances-and-more/#ftag=CAD590a51e)
+ - [I&#39;m a Sleep and Mattress Expert. Here Are the Best Places to Buy Your Next Bed](https://www.cnet.com/health/sleep/best-mattress-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

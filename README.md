@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cuba’s power went out across the island on Friday](https://www.theverge.com/2024/10/18/24273905/cuba-power-outage-energy-crisis)
+ - [GM will start making money on EVs this year, says CEO](https://www.theverge.com/2024/10/18/24273630/gm-ev-profitability-viability-2024-barra)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [In Shinichirō Watanabe’s Lazarus, parkour is the only way to go](https://www.theverge.com/2024/10/18/24273902/lazarus-trailer-adult-swim-shinichro-watanabe)
- - [Spider-Man 2 is latest PlayStation exclusive coming to PC](https://www.theverge.com/2024/10/18/24273919/spider-man-2-pc-release-date)
- - [Best Chromebook Deals: Budget, Premium and Plenty of In-Between Models at Reduced Rates](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
- - [Social Media Swallowed Gen Z. This Film Shows Exactly How](https://www.wired.com/story/dial-up-lauren-greenfield-social-studies-docuseries/)<!-- TECH:END -->
+ - [Spider-Man 2 is latest PlayStation exclusive coming to PC](https://www.theverge.com/2024/10/18/24273919/spider-man-2-pc-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

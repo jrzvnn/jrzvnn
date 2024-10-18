@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of the Kindle with Panos Panay](https://www.theverge.com/2024/10/18/24273208/amazon-kindle-panos-panay-ipad-mini-google-vergecast)
- - [Nebius Group, previously Yandex NV, says it will resume trading on Nasdaq on October 21, after being halted following Russia&#39;s February 2022 invasion of Ukraine &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p10#a241018p10)
- - [How to Remove and Replace Your AirTag’s Battery](https://www.wired.com/story/how-to-remove-replace-apple-airtag-battery/)
- - [Upgrade Your Home Security With This TP-Link Tapo Indoor Camera for Just $15](https://www.cnet.com/deals/upgrade-your-home-security-with-this-tp-link-tapo-indoor-camera-for-just-15/#ftag=CAD590a51e)
- - [Get This Sleek Marshall Emberton II Bluetooth Speaker at Its Cheapest Price Yet of Only $100 at Amazon](https://www.cnet.com/deals/get-this-sleek-marshall-emberton-ii-bluetooth-speaker-at-its-cheapest-price-yet-of-only-100-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It Sure Looks Like Trump Watches Are Breaking Copyright Law](https://www.wired.com/story/it-sure-looks-like-trump-watches-are-breaking-copyright-law/)
+ - [&#39;Ted Lasso&#39; season 4 confirmed in industry listings](https://appleinsider.com/articles/24/10/18/ted-lasso-season-4-confirmed-in-industry-listings?utm_medium=rss)
+ - [How to Get Perfectly Crispy French Fries in Your Air Fryer](https://www.cnet.com/how-to/how-to-get-perfectly-crispy-french-fries-in-your-air-fryer/#ftag=CAD590a51e)
+ - [M. Night Shyamalan&#39;s &#39;Trap&#39;: Max Release Date and Time](https://www.cnet.com/tech/services-and-software/m-night-shyamalans-trap-max-release-date-and-time/#ftag=CAD590a51e)
+ - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)<!-- MEMES:END -->
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 💣 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
+ - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
 
 ---
 

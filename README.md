@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spider-Man 2 is latest PlayStation exclusive coming to PC](https://www.theverge.com/2024/10/18/24273919/spider-man-2-pc-release-date)
  - [Best Chromebook Deals: Budget, Premium and Plenty of In-Between Models at Reduced Rates](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
  - [Social Media Swallowed Gen Z. This Film Shows Exactly How](https://www.wired.com/story/dial-up-lauren-greenfield-social-studies-docuseries/)
  - [Report: OpenAI sees a clause in its Microsoft contract, which cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, as a path to a better contract &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241018/p17#a241018p17)
- - [Magic: The Gathering Reveals First Marvel Cards, Featuring Avengers, X-Men](https://www.cnet.com/culture/entertainment/magic-the-gathering-reveals-first-marvel-cards-featuring-avengers-xmen/#ftag=CAD590a51e)
- - [Our Best Firm Mattress Picks for Back and Stomach Sleepers](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Magic: The Gathering Reveals First Marvel Cards, Featuring Avengers, X-Men](https://www.cnet.com/culture/entertainment/magic-the-gathering-reveals-first-marvel-cards-featuring-avengers-xmen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

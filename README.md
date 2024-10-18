@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity launches Internal Knowledge Search, to search the web or internal files, and Spaces, a way to organize research, for its Pro and Enterprise customers &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/241018/p7#a241018p7)
  - [The Paradox at the Heart of Elon Musk’s Cybercab Vision](https://www.wired.com/story/the-paradox-at-the-heart-of-elon-musks-cybercab-vision/)
  - [Government sources say India plans to limit imports of laptops, tablets, and PCs after January 2025 to push companies to increase domestic manufacturing &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/241018/p6#a241018p6)
  - [Ultimate Ears Boom 4 Review: Same Great Sound, Now Easier to Charge](https://www.wired.com/review/ultimate-ears-boom-4/)
- - [Apple iPhone 16 Trade-In Guide: How to Buy Your Next Phone Using Your Old Phone](https://www.cnet.com/tech/mobile/apple-iphone-16-trade-in-guide-how-to-buy-your-next-phone-using-your-old-phone/#ftag=CAD590a51e)
- - [&#39;Maxxxine&#39;: Streaming Release Date and How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/maxxxine-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPhone 16 Trade-In Guide: How to Buy Your Next Phone Using Your Old Phone](https://www.cnet.com/tech/mobile/apple-iphone-16-trade-in-guide-how-to-buy-your-next-phone-using-your-old-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

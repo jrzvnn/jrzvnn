@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 👉 [Weird as shit](http://9gag.com/gag/aZZL6o3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s so satisfying ..](http://9gag.com/gag/aZZLGbW)
- - 😝 [This guy](http://9gag.com/gag/aGyZ4wn)
- - 💣 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [My idol](http://9gag.com/gag/azx9pnB)<!-- MEMES:END -->
+ - 👉 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)<!-- MEMES:END -->
 
 ---
 

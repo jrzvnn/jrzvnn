@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 💣 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
+ - 😝 [My idol](http://9gag.com/gag/azx9pnB)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #841](http://9gag.com/gag/aD21vmw)
+ - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
+ - 👉 [Onion is strong with this one](http://9gag.com/gag/aKGxRKZ)<!-- MEMES:END -->
 
 ---
 

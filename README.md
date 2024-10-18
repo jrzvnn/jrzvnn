@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dwight: \u201cI walk a different path..\u201d](http://9gag.com/gag/aVvYpDM)
- - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 💣 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 😝 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
+ - 😝 [Onion is strong with this one](http://9gag.com/gag/aKGxRKZ)
+ - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [Good news my brethren](http://9gag.com/gag/avy83ZO)
+ - 👉 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)<!-- MEMES:END -->
 
 ---
 

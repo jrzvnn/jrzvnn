@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Government sources say India plans to limit imports of laptops, tablets, and PCs after January 2025 to push companies to increase domestic manufacturing &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/241018/p6#a241018p6)
+ - [Ultimate Ears Boom 4 Review: Same Great Sound, Now Easier to Charge](https://www.wired.com/review/ultimate-ears-boom-4/)
+ - [‘Trump Was Born to Be a Teenage Girl’ Is the Sarah Cooper Schtick for the ‘Brat’ Election](https://www.wired.com/story/trump-was-born-to-be-a-teenage-girl-meme-sarah-cooper/)
  - [14 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2024/)
- - [Sources: Samsung has postponed taking deliveries of ASML chipmaking equipment for its upcoming factory in Taylor, Texas as it has yet to win any major customers &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p5#a241018p5)
- - [Apple&#39;s iPhone 16 range sees 20% jump in sales in China](https://appleinsider.com/articles/24/10/18/apples-iphone-16-range-sees-20-jump-in-sales-in-china?utm_medium=rss)
- - [Google will once again ban election ads after the polls close](https://www.theverge.com/2024/10/18/24273374/google-election-ad-ban-donald-trump-kamala-harris-campaigns)
- - [Google is making it easier to use a password manager inside Chrome on Android](https://www.theverge.com/2024/10/18/24273369/google-chrome-android-password-manager-native-autofill)<!-- TECH:END -->
+ - [Sources: Samsung has postponed taking deliveries of ASML chipmaking equipment for its upcoming factory in Taylor, Texas as it has yet to win any major customers &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p5#a241018p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

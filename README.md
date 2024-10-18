@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
+ - [The US Treasury says its enhanced detection tools, including AI, helped in the prevention and recovery of $4B+ in fraudulent payments in FY 2024, up over 6x YoY &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/241018/p1#a241018p1)
  - [Today&#39;s NYT Mini Crossword Answers for Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-18/#ftag=CAD590a51e)
  - [The MacBook Air updated with TK](https://www.cnet.com/tech/computing/the-macbook-air-updated-with-tk/#ftag=CAD590a51e)
- - [Chinese robotaxi firm Pony.ai files for a Nasdaq IPO, says its H1 2024 revenue nearly doubled to $24.7M with a net loss of $51.3M, down from $69.4M in H1 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p43#a241017p43)
- - [How to use the Finder Erase Disk command in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-finder-erase-disk-command-in-macos-sequoia?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 18, #495](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-18-495/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese robotaxi firm Pony.ai files for a Nasdaq IPO, says its H1 2024 revenue nearly doubled to $24.7M with a net loss of $51.3M, down from $69.4M in H1 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p43#a241017p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

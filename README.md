@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 💣 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
  - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
- - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
+ - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
 
 ---
 

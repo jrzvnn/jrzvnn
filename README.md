@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
+ - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
  - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
  - [The US Treasury says its enhanced detection tools, including AI, helped in the prevention and recovery of $4B+ in fraudulent payments in FY 2024, up over 6x YoY &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/241018/p1#a241018p1)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-18/#ftag=CAD590a51e)
- - [The MacBook Air updated with TK](https://www.cnet.com/tech/computing/the-macbook-air-updated-with-tk/#ftag=CAD590a51e)
- - [Chinese robotaxi firm Pony.ai files for a Nasdaq IPO, says its H1 2024 revenue nearly doubled to $24.7M with a net loss of $51.3M, down from $69.4M in H1 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p43#a241017p43)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

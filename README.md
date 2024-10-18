@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Chinese robotaxi firm Pony.ai files for a Nasdaq IPO, says its H1 2024 revenue nearly doubled to $24.7M with a net loss of $51.3M, down from $69.4M in H1 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p43#a241017p43)
  - [How to use the Finder Erase Disk command in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-finder-erase-disk-command-in-macos-sequoia?utm_medium=rss)
- - [Sources: Intel is looking to sell at least a minority stake, or possibly a majority stake, worth billions in its Altera subsidiary at a valuation of around $17B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241017/p42#a241017p42)
- - [Sources describe OpenAI and Microsoft&#39;s fraying relationship, OpenAI renegotiating its deal for more computing power, Microsoft&#39;s own LLM efforts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/241017/p41#a241017p41)
- - [New Eye-Scanning Orb Revealed by Sam Altman&#39;s World video](https://www.cnet.com/videos/new-eye-scanning-orb-revealed-by-sam-altmans-world/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 18, #495](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-18-495/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 18, #229](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-18-229/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 18, #25](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-18-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

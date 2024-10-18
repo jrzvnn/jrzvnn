@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus might be ditching curved edges too](https://www.theverge.com/2024/10/18/24273650/oneplus-13-leak-rumor-design-flat-edge)
  - [Netherlands unveils new rules requiring an export permit to sell quantum computers, quantum measurement equipment and chipmaking tech, and more outside the EU &lpar;Patrick Van Oosterom/Bloomberg&rpar;](http://www.techmeme.com/241018/p15#a241018p15)
+ - [Best Apple Watch Deals: Save on the New Series 10, Updated Ultra 2, Plus the SE and Series 9 Models](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
  - [Fans come to the rescue of popular Mario content creator](https://www.theverge.com/2024/10/18/24273563/supper-mario-broth-creator-fan-support)
- - [The FTC is trying to find out if John Deere’s repair policies broke the law](https://www.theverge.com/2024/10/18/24273639/ftc-probe-john-deere-right-to-repair)
- - [The Apple Keyboard Is Bad. Upgrade to the Nuio Flow Instead](https://www.wired.com/story/nuio-flow-keyboard-hands-on/)
- - [Sixth visionOS 2.1 developer beta arrives days after the fifth](https://appleinsider.com/articles/24/10/18/sixth-visionos-21-developer-beta-arrives-days-after-the-fifth?utm_medium=rss)<!-- TECH:END -->
+ - [Best Buy’s Samsung Sale Event Is Dropping This Samsung Projector’s Price by $200](https://www.cnet.com/deals/best-buys-samsung-sale-event-is-dropping-this-samsung-projectors-price-by-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

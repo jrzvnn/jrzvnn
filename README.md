@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
  - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
- - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
  - 😝 [\ud83c\udf81AORUS AI PC Giveaway \ud83c\udf89 Which gaming event is AORUS AI PC taking us gamers to? Make a guess through the link in description for a chance to win one!](http://9gag.com/gag/aQzRyw7)
- - 👉 [Hurricanes never go across the equator](http://9gag.com/gag/aVvY5Lw)<!-- MEMES:END -->
+ - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 💣 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
- - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
+ - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
+ - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
 
 ---
 

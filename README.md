@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My idol](http://9gag.com/gag/azx9pnB)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #841](http://9gag.com/gag/aD21vmw)
- - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 👉 [Onion is strong with this one](http://9gag.com/gag/aKGxRKZ)<!-- MEMES:END -->
+ - 😝 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
+ - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
 
 ---
 

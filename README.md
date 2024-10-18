@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity launches Internal Knowledge Search, to search the web or internal files, and Spaces, a way to organize research, for its Pro and Enterprise customers &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/241018/p7#a241018p7)
- - [The Paradox at the Heart of Elon Musk’s Cybercab Vision](https://www.wired.com/story/the-paradox-at-the-heart-of-elon-musks-cybercab-vision/)
- - [Government sources say India plans to limit imports of laptops, tablets, and PCs after January 2025 to push companies to increase domestic manufacturing &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/241018/p6#a241018p6)
- - [Ultimate Ears Boom 4 Review: Same Great Sound, Now Easier to Charge](https://www.wired.com/review/ultimate-ears-boom-4/)
- - [Apple iPhone 16 Trade-In Guide: How to Buy Your Next Phone Using Your Old Phone](https://www.cnet.com/tech/mobile/apple-iphone-16-trade-in-guide-how-to-buy-your-next-phone-using-your-old-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrade Your Home Security With This TP-Link Tapo Indoor Camera for Just $15](https://www.cnet.com/deals/upgrade-your-home-security-with-this-tp-link-tapo-indoor-camera-for-just-15/#ftag=CAD590a51e)
+ - [Get This Sleek Marshall Emberton II Bluetooth Speaker at Its Cheapest Price Yet of Only $100 at Amazon](https://www.cnet.com/deals/get-this-sleek-marshall-emberton-ii-bluetooth-speaker-at-its-cheapest-price-yet-of-only-100-at-amazon/#ftag=CAD590a51e)
+ - [Sources: Microsoft and OpenAI are negotiating how much equity Microsoft gets when OpenAI becomes a for-profit company, for which OpenAI has two years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241018/p9#a241018p9)
+ - [Sleep Tracking Is Bad, Actually, for My Mental Health](https://www.cnet.com/tech/mobile/sleep-tracking-is-bad-actually-for-my-mental-health/#ftag=CAD590a51e)
+ - [This $600 Buzz Lightyear is Not a Toy! I&#39;m Blown Away at How Robosen Brought &#39;Toy Story&#39; to Life](https://www.cnet.com/tech/this-600-buzz-lightyear-is-not-a-toy-im-blown-away-at-how-robosen-brought-toy-story-to-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

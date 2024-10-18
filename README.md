@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
- - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
+ - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
+ - 😝 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
+ - 💣 [Good news my brethren](http://9gag.com/gag/avy83ZO)
+ - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 👉 [My idol](http://9gag.com/gag/azx9pnB)<!-- MEMES:END -->
 
 ---
 

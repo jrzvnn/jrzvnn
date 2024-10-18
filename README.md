@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 💣 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
- - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
+ - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 💣 [`None of your business`](http://9gag.com/gag/aryG7L7)
+ - 😝 [Too soon?](http://9gag.com/gag/aPAY5YB)
+ - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
 
 ---
 

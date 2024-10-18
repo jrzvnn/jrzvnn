@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
- - 😝 [Onion is strong with this one](http://9gag.com/gag/aKGxRKZ)
- - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [Good news my brethren](http://9gag.com/gag/avy83ZO)
- - 👉 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)<!-- MEMES:END -->
+ - 😝 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 👉 [Bamboozling gypsies](http://9gag.com/gag/abAYNGp)<!-- MEMES:END -->
 
 ---
 

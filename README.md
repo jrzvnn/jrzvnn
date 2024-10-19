@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 💣 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 💣 [Too soon?](http://9gag.com/gag/aPAY5YB)
+ - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
  - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek, 01.ai, and other Chinese companies are reducing costs to create AI models by focusing on smaller training data sets, as they deal with export controls &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241019/p3#a241019p3)
+ - [DJI sues the US DOD for adding the drone maker to a list designating it as a Chinese military company, after failing to engage on the issue for over 16 months &lpar;K Oanh Ha/Bloomberg&rpar;](http://www.techmeme.com/241019/p2#a241019p2)
  - [In a filing, WP Engine asks a court in Northern California to issue a preliminary injunction and restore its access to the WordPress.org open source repository &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241019/p1#a241019p1)
  - [Best Travel Pillows of 2024](https://www.cnet.com/health/sleep/best-travel-pillows/#ftag=CAD590a51e)
- - [Fuji Soft&#39;s board decided to keep backing KKR&#39;s ~$4B buyout offer despite Bain&#39;s $4.2B bid, in a rare battle between PE titans over a Japanese software company &lpar;Financial Times&rpar;](http://www.techmeme.com/241018/p23#a241018p23)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #496](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-496/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fuji Soft&#39;s board decided to keep backing KKR&#39;s ~$4B buyout offer despite Bain&#39;s $4.2B bid, in a rare battle between PE titans over a Japanese software company &lpar;Financial Times&rpar;](http://www.techmeme.com/241018/p23#a241018p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you should get a dash cam](http://9gag.com/gag/aZZ7qw0)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 💣 [Challng Compltd!](http://9gag.com/gag/aGyZXP6)
- - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
- - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
+ - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
+ - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
 
 ---
 

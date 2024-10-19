@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Waymo is converting locals and attracting tourists in San Francisco to pull ahead in the robotaxi race, with ~300 vehicles in the city and global ambitions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241019/p7#a241019p7)
  - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)
  - [Bose SoundLink Home Review: Big Sound From a Sleek Little Bluetooth Speaker](https://www.cnet.com/tech/home-entertainment/bose-soundlink-home-review-sleek-little-bluetooth-speaker-big-sound/#ftag=CAD590a51e)
  - [Not Sure if an Image Is AI? Check Its Nutrition Label, Thanks to a New Adobe App](https://www.cnet.com/tech/services-and-software/adobes-new-app-hopes-to-clear-up-some-ai-confusion/#ftag=CAD590a51e)
- - [Best Internet Providers in Port Arthur, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-port-arthur-tx/#ftag=CAD590a51e)
- - [Q&amp;A with Cloudflare CEO on how internet traffic surge during the pandemic helped it build an AI-ready &quot;connectivity cloud&quot;, balkanization of the internet, more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241019/p6#a241019p6)<!-- TECH:END -->
+ - [Best Internet Providers in Port Arthur, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-port-arthur-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

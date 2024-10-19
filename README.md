@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same same, but differeeeeeent !!](http://9gag.com/gag/adBL3VZ)
- - 😝 [Looks like witchcraft to me](http://9gag.com/gag/a9yK38j)
- - 💣 [How men respond vs how \u201cwomen\u201d do](http://9gag.com/gag/aQzRwX8)
- - 😝 [You know what b*tch, I&#39;m going to spend it eve harder.](http://9gag.com/gag/a4PQe1d)
- - 👉 [Maybe is time to learn some survival skills](http://9gag.com/gag/aNDYNRw)<!-- MEMES:END -->
+ - 😝 [Rangers](http://9gag.com/gag/aQzRLxe)
+ - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
+ - 💣 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
+ - 😝 [Those Dev playtest it on live/production i guess](http://9gag.com/gag/amo5q9V)
+ - 👉 [And yours?](http://9gag.com/gag/aqyKv0Q)<!-- MEMES:END -->
 
 ---
 

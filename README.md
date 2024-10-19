@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [In a filing, WP Engine asks a court in Northern California to issue a preliminary injunction and restore its access to the WordPress.org open source repository &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241019/p1#a241019p1)
- - [Best Travel Pillows of 2024](https://www.cnet.com/health/sleep/best-travel-pillows/#ftag=CAD590a51e)
  - [Fuji Soft&#39;s board decided to keep backing KKR&#39;s ~$4B buyout offer despite Bain&#39;s $4.2B bid, in a rare battle between PE titans over a Japanese software company &lpar;Financial Times&rpar;](http://www.techmeme.com/241018/p23#a241018p23)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #496](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-496/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #496](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-496/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #230](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-230/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 19, #26](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-19-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

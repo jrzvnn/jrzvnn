@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
  - 😝 [Those Dev playtest it on live/production i guess](http://9gag.com/gag/amo5q9V)
- - 💣 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
  - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
+ - 💣 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Time to watch some vintage mainstream British telly...](http://9gag.com/gag/aLngq7M)
+ - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
 
 ---
 

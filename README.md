@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 47 Best Movies on Netflix Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [California Is Flooding School Cafeterias With Vegan Meals—and Kids Like It](https://www.wired.com/story/more-schools-than-ever-are-serving-vegan-meals-in-california-heres-how-they-did-it/)
+ - [The 48 Best Shows on Netflix Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Inside the inaugural Culver Cup, a generative AI film competition sponsored by AWS and FBRC.ai giving filmmakers AI tools and three weeks to submit a short &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/241019/p5#a241019p5)
- - [Google Chrome’s uBlock Origin Purge Has Begun](https://www.wired.com/story/google-chrome-ublock-origin-extension/)
- - [Your October Social Security Payment Is on the Way. Here&#39;s When You&#39;ll Get It](https://www.cnet.com/personal-finance/your-october-social-security-payment-is-on-the-way-heres-when-youll-get-it/#ftag=CAD590a51e)
- - [Supplemental Security Income: How Much More Money Will You Get With Next Year&#39;s COLA Increase?](https://www.cnet.com/personal-finance/supplemental-security-income-how-much-more-money-will-you-get-with-next-years-cola-increase/#ftag=CAD590a51e)
- - [16 STEM Toys Your Smarty-Pants Kids Will Love in 2024](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Chrome’s uBlock Origin Purge Has Begun](https://www.wired.com/story/google-chrome-ublock-origin-extension/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

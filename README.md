@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 💣 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
 
 ---
 

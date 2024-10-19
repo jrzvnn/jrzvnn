@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Students, academics, and developers say AI writing detectors are most likely to falsely flag essays written in a more generic manner as written by AI tools &lpar;Bloomberg&rpar;](http://www.techmeme.com/241019/p10#a241019p10)
  - [Ford tells some EV customers to stop using its Tesla Supercharger adapter](https://www.theverge.com/2024/10/19/24274405/ford-ev-nacs-adapter-faulty-replacement-service-bulletin)
  - [Meta Quest 3S teardown: has the same single LCD panel and cheap Fresnel optics as Quest 2 but uses two IR flood illuminators for depth mapping instead of one &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/241019/p9#a241019p9)
  - [India moves to restrict imports of Apple&#39;s MacBook Pro](https://appleinsider.com/articles/24/10/19/india-moves-to-restrict-imports-of-apples-macbook-pro?utm_medium=rss)
- - [Save $80 on the Jackery Explorer 290 at Best Buy Right Now](https://www.cnet.com/deals/save-80-on-the-jackery-explorer-290-at-best-buy-right-now/#ftag=CAD590a51e)
- - [Apple removes independent media app from Russian App Store](https://appleinsider.com/articles/24/10/19/apple-removes-independent-media-app-from-russian-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Save $80 on the Jackery Explorer 290 at Best Buy Right Now](https://www.cnet.com/deals/save-80-on-the-jackery-explorer-290-at-best-buy-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

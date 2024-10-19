@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A historical look at Microsoft&#39;s work in AI, from research to real-world applications, recent progress, competition, challenges, and the future &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241019/p4#a241019p4)
  - [Walmart Promo Codes: 65% OFF | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
  - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [The Disinformation Warning Coming From the Edge of Europe](https://www.wired.com/story/the-disinformation-warning-coming-from-the-edge-of-europe/)
- - [$30 OFF VistaPrint Coupons &amp; Promo Codes for October 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [The Disinformation Warning Coming From the Edge of Europe](https://www.wired.com/story/the-disinformation-warning-coming-from-the-edge-of-europe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

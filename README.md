@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
+ - 😝 [Those Dev playtest it on live/production i guess](http://9gag.com/gag/amo5q9V)
  - 💣 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
- - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
- - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 ---
 

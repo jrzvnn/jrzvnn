@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
- - 😝 [Dwight: \u201cI walk a different path..\u201d](http://9gag.com/gag/aVvYpDM)
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
  - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
- - 👉 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)<!-- MEMES:END -->
+ - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - 👉 [What did you expect?](http://9gag.com/gag/a34QV77)<!-- MEMES:END -->
 
 ---
 

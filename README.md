@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hamas leader Yahya Sinwar taking his family into the tunnels for safety on 6/10/23 &lpar;the night before the massacre&rpar; and leaving the people of Gaza to suffer the consequences of his actions.](http://9gag.com/gag/apR5En9)
- - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
- - 💣 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
- - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 😝 [Here we go again](http://9gag.com/gag/aRB15w5)
+ - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
+ - 💣 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 😝 [Driver backs up into a car to make it look like they had been rear-ended, passengers get out and act like their necks were injured.](http://9gag.com/gag/a1mRv12)
  - 👉 [How?](http://9gag.com/gag/aPARwvR)<!-- MEMES:END -->
 
 ---

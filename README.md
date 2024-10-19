@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Here we go again](http://9gag.com/gag/aRB15w5)
- - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
- - 💣 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 💣 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
  - 😝 [Driver backs up into a car to make it look like they had been rear-ended, passengers get out and act like their necks were injured.](http://9gag.com/gag/a1mRv12)
- - 👉 [How?](http://9gag.com/gag/aPARwvR)<!-- MEMES:END -->
+ - 👉 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)<!-- MEMES:END -->
 
 ---
 

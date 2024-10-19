@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
- - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
  - 💣 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
  - 😝 [Here we go again](http://9gag.com/gag/aRB15w5)
- - 👉 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)<!-- MEMES:END -->
+ - 👉 [Revenge is sweet](http://9gag.com/gag/ayNo7NW)<!-- MEMES:END -->
 
 ---
 

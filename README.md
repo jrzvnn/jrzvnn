@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
  - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 💣 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 😝 [Too soon?](http://9gag.com/gag/aPAY5YB)
- - 👉 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)<!-- MEMES:END -->
+ - 💣 [Card trick](http://9gag.com/gag/agmnPrx)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
 
 ---
 

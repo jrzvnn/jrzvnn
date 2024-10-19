@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
- - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
+ - 😝 [Same same, but differeeeeeent !!](http://9gag.com/gag/adBL3VZ)
+ - 😝 [Looks like witchcraft to me](http://9gag.com/gag/a9yK38j)
+ - 💣 [How men respond vs how \u201cwomen\u201d do](http://9gag.com/gag/aQzRwX8)
+ - 😝 [You know what b*tch, I&#39;m going to spend it eve harder.](http://9gag.com/gag/a4PQe1d)
+ - 👉 [Maybe is time to learn some survival skills](http://9gag.com/gag/aNDYNRw)<!-- MEMES:END -->
 
 ---
 

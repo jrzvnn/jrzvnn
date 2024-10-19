@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Six months after bitcoin halving, some miners are keeping the Bitcoin they produce while an increasing number of companies are spending more on AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/241019/p8#a241019p8)
  - [Ember’s temperature-controlled smart mugs are 20 percent off today](https://www.theverge.com/2024/10/19/24272664/ember-travel-mug-2-plus-smart-tumbler-xbox-wireless-controller-deal-sale)
- - [At 21 years old, the iMac G4 is still down to party](https://www.theverge.com/2024/10/19/24274206/imac-g4-docklite-g4-external-monitor-display-hdmi-conversion-apple-silicon-mac)
- - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
- - [Ligue 1 Soccer: Livestream PSG vs. Strasbourg From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-strasbourg-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vitamins and Supplements for Eyes: The Top 6 You Need](https://www.cnet.com/health/personal-care/best-vitamins-and-supplements-for-eyes-the-top-6-you-need-to-get-enough-of/#ftag=CAD590a51e)
+ - [Save Up to 45% on the Motorola Razr Plus Foldable Just in Time for Halloween](https://www.cnet.com/deals/save-up-to-45-on-the-motorola-razr-plus-foldable-just-in-time-for-halloween/#ftag=CAD590a51e)
+ - [At 21 years old, the iMac G4 is still down to party](https://www.theverge.com/2024/10/19/24274206/imac-g4-docklite-g4-external-monitor-display-hdmi-conversion-apple-silicon-mac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

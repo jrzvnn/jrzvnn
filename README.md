@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [May be a repost](http://9gag.com/gag/ajP8oP1)
- - 😝 [Woke](http://9gag.com/gag/aryG6rV)
- - 💣 [How men respond vs how \u201cwomen\u201d do](http://9gag.com/gag/aQzRwX8)
- - 😝 [You know what b*tch, I&#39;m going to spend it eve harder.](http://9gag.com/gag/a4PQe1d)
- - 👉 [Maybe is time to learn some survival skills](http://9gag.com/gag/aNDYNRw)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 😝 [9gaggers](http://9gag.com/gag/a6ZOAV9)
+ - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 😝 [No one cares about your feelings anymore](http://9gag.com/gag/aO8YLgD)
+ - 👉 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)<!-- MEMES:END -->
 
 ---
 

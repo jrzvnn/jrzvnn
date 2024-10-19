@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India moves to restrict imports of Apple&#39;s MacBook Pro](https://appleinsider.com/articles/24/10/19/india-moves-to-restrict-imports-of-apples-macbook-pro?utm_medium=rss)
  - [Apple removes independent media app from Russian App Store](https://appleinsider.com/articles/24/10/19/apple-removes-independent-media-app-from-russian-app-store?utm_medium=rss)
  - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
  - [iFixit’s Meta Quest 3S teardown reveals a Quest 2 ‘hiding inside’](https://www.theverge.com/2024/10/19/24274330/meta-quest-3s-teardown-quest-2-lenses-lcd-panel)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [Best Board Game Deals: Save Big While Stocking Up on Games for Kids and Adults](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

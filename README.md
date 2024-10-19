@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rangers](http://9gag.com/gag/aQzRLxe)
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 💣 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 😝 [Those Dev playtest it on live/production i guess](http://9gag.com/gag/amo5q9V)
- - 👉 [And yours?](http://9gag.com/gag/aqyKv0Q)<!-- MEMES:END -->
+ - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 💣 [\u201cFeminism\u201d](http://9gag.com/gag/a34QV6v)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 ---
 

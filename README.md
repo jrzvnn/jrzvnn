@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
- - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
  - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
+ - 😝 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
+ - 💣 [27 whole years !](http://9gag.com/gag/ayNBy4q)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 ---
 

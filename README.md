@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company)
  - [Stoke Voltaics’ portable electric cookware review](https://www.theverge.com/24273375/stoke-voltaics-portable-electric-cookware-review)
- - [A historical look at Microsoft&#39;s work in AI, from research to real-world applications, recent progress, competition, challenges, and the future &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241019/p4#a241019p4)
- - [Walmart Promo Codes: 65% OFF | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)
+ - [Avocado Vegan Mattress Review 2024: A Vegan, Natural and Certified Organic Bed](https://www.cnet.com/health/sleep/avocado-vegan-mattress-review-2024-a-vegan-natural-and-certified-organic-bed/#ftag=CAD590a51e)
+ - [A historical look at Microsoft&#39;s work in AI, from research to real-world applications, recent progress, competition, challenges, and the future &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241019/p4#a241019p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

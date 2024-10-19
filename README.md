@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 💣 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
- - 😝 [This is how they do it](http://9gag.com/gag/aryG6g7)
- - 👉 [Rangers](http://9gag.com/gag/aQzRLxe)<!-- MEMES:END -->
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Bamboozling gypsies](http://9gag.com/gag/abAYNGp)
+ - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 ---
 

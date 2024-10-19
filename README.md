@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
  - [How Waymo is converting locals and attracting tourists in San Francisco to pull ahead in the robotaxi race, with ~300 vehicles in the city and global ambitions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241019/p7#a241019p7)
  - [Make Your Next Whole Chicken in the Air Fryer and Thank Me Later](https://www.cnet.com/how-to/make-your-next-whole-chicken-in-the-air-fryer-and-thank-me-later/#ftag=CAD590a51e)
  - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)
- - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
- - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
+ - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

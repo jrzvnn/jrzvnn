@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 😝 [I believe in you kid](http://9gag.com/gag/aBy0D5O)
- - 💣 [This toy triggers when distance is violated](http://9gag.com/gag/ajP8pmG)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 👉 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)<!-- MEMES:END -->
+ - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 💣 [Classic Toyota](http://9gag.com/gag/axyzx3D)
+ - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
+ - 👉 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)<!-- MEMES:END -->
 
 ---
 

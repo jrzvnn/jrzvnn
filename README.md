@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analogue3D’s Retro Console Proves the N64 Controller Was the Worst Ever](https://www.wired.com/story/analogue3ds-retro-console-proves-the-n64-controller-was-the-worst-ever/)
+ - [Anora director Sean Baker writes the ending first](https://www.theverge.com/24272793/anora-sean-baker-interview)
  - [16 Best PS5 Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ps5-accessories/)
- - [DJI Air 3S Drone Review: Price, Specs, Availability](https://www.wired.com/review/review-dji-air-3s/)
- - [Dolphins Are Exhaling Microplastics](https://www.wired.com/story/dolphins-exhaled-breath-is-filled-with-microplastics/)
- - [I Made a Wholesome OnlyFans to Try to Make Ends Meet](https://www.wired.com/story/i-made-a-wholesome-onlyfans-to-try-to-make-ends-meet/)
- - [Over the Past Year, This $23 Tool Saved Me Hundreds of Dollars in Chiropractor Visits](https://www.cnet.com/deals/tool-saved-me-hundreds-of-dollars-in-chiropractor-visits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Make Homemade Iced or Hot Lattes for Cheap](https://www.cnet.com/home/kitchen-and-household/how-to-make-homemade-iced-or-hot-lattes-for-cheap/#ftag=CAD590a51e)
+ - [Get Back 15GB of Gmail Storage Space for Free](https://www.cnet.com/tech/services-and-software/get-back-15gb-of-gmail-storage-space-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

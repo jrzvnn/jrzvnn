@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
- - 😝 [Hey South East Asia, pay your debts please....](http://9gag.com/gag/a875dwZ)
- - 💣 [This woman had to paint the stairs of her house because they were already very old, but she didn&#39;t forget her loyal friend, Max...](http://9gag.com/gag/avyoppO)
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 👉 [That\u2019s pretty metal](http://9gag.com/gag/aD2gA2B)<!-- MEMES:END -->
+ - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 💣 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 😝 [Here we go again](http://9gag.com/gag/aRB15w5)
+ - 👉 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 💣 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 💣 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
+ - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
 
 ---
 

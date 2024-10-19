@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [At 21 years old, the iMac G4 is still down to party](https://www.theverge.com/2024/10/19/24274206/imac-g4-docklite-g4-external-monitor-display-hdmi-conversion-apple-silicon-mac)
  - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
- - [How Waymo is converting locals and attracting tourists in San Francisco to pull ahead in the robotaxi race, with ~300 vehicles in the city and global ambitions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241019/p7#a241019p7)
- - [Make Your Next Whole Chicken in the Air Fryer and Thank Me Later](https://www.cnet.com/how-to/make-your-next-whole-chicken-in-the-air-fryer-and-thank-me-later/#ftag=CAD590a51e)
- - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ligue 1 Soccer: Livestream PSG vs. Strasbourg From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-strasbourg-from-anywhere/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Celta Vigo vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-celta-vigo-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Poughkeepsie, New York](https://www.cnet.com/home/internet/best-internet-providers-in-poughkeepsie-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

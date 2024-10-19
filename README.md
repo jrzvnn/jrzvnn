@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
+ - 😝 [Those Gremlins done f*cked up...](http://9gag.com/gag/aqyg9LZ)
+ - 💣 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
  - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
- - 💣 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
- - 😝 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
- - 👉 [Card trick](http://9gag.com/gag/agmnPrx)<!-- MEMES:END -->
+ - 👉 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)<!-- MEMES:END -->
 
 ---
 

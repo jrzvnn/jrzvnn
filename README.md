@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those Dev playtest it on live/production i guess](http://9gag.com/gag/amo5q9V)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 💣 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 😝 [Time to watch some vintage mainstream British telly...](http://9gag.com/gag/aLngq7M)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 ---
 

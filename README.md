@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Irish police seize more than $170,000in counterfeit Apple products](https://appleinsider.com/articles/24/10/19/irish-police-seize-more-than-170000in-counterfeit-apple-products?utm_medium=rss)
  - [Why are Instagram searches for ‘Adam Driver Megalopolis’ blocked for CSAM?](https://www.theverge.com/2024/10/19/24274467/instagram-facebook-meta-block-csam-adam-driver-megalopolis-mega-drive-content-moderation)
- - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)
- - [Students, academics, and developers say AI writing detectors are most likely to falsely flag essays written in a more generic manner as written by AI tools &lpar;Bloomberg&rpar;](http://www.techmeme.com/241019/p10#a241019p10)
- - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men in 2024](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top 6 Vitamins and Supplements to Improve Your Eye Health](https://www.cnet.com/health/personal-care/top-6-vitamins-and-supplements-to-improve-your-eye-health/#ftag=CAD590a51e)
+ - [Best Adjustable Bed Frames and Bases of 2024](https://www.cnet.com/health/sleep/best-adjustable-bed-frame/#ftag=CAD590a51e)
+ - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

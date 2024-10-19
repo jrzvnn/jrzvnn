@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [01.ai, DeepSeek, and other Chinese companies are reducing costs to create AI models by focusing on smaller training data sets, as they deal with export controls &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241019/p3#a241019p3)
- - [DJI sues the US DOD for adding the drone maker to a list designating it as a Chinese military company, after failing to engage on the issue for over 16 months &lpar;K Oanh Ha/Bloomberg&rpar;](http://www.techmeme.com/241019/p2#a241019p2)
- - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
- - [In a filing, WP Engine asks a court in Northern California to issue a preliminary injunction and restore its access to the WordPress.org open source repository &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241019/p1#a241019p1)
- - [Best Travel Pillows of 2024](https://www.cnet.com/health/sleep/best-travel-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Promo Codes: 65% OFF | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [The Disinformation Warning Coming From the Edge of Europe](https://www.wired.com/story/the-disinformation-warning-coming-from-the-edge-of-europe/)
+ - [$30 OFF VistaPrint Coupons &amp; Promo Codes for October 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

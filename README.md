@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - 😝 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 💣 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
+ - 😝 [May be a repost](http://9gag.com/gag/ajP8oP1)
+ - 😝 [Woke](http://9gag.com/gag/aryG6rV)
+ - 💣 [How men respond vs how \u201cwomen\u201d do](http://9gag.com/gag/aQzRwX8)
+ - 😝 [You know what b*tch, I&#39;m going to spend it eve harder.](http://9gag.com/gag/a4PQe1d)
+ - 👉 [Maybe is time to learn some survival skills](http://9gag.com/gag/aNDYNRw)<!-- MEMES:END -->
 
 ---
 

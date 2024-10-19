@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 💣 [Classic Toyota](http://9gag.com/gag/axyzx3D)
- - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
- - 👉 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)<!-- MEMES:END -->
+ - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
+ - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 💣 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
+ - 😝 [Too soon?](http://9gag.com/gag/aPAY5YB)
+ - 👉 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)<!-- MEMES:END -->
 
 ---
 

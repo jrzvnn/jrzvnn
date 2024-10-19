@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta debuts Spirit LM, its first open-source multimodal language model capable of integrating text and speech inputs and outputs, for non-commercial use only &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241018/p21#a241018p21)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
+ - [Election 2024: Where Each Presidential Candidate Stands on the Child Tax Credit](https://www.cnet.com/personal-finance/taxes/election-2024-where-each-presidential-candidate-stands-on-the-child-tax-credit/#ftag=CAD590a51e)
  - [Sources: former OpenAI CTO Mira Murati is raising funds for her new startup, which aims to build AI products based on proprietary models &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p20#a241018p20)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Best 3D Printer Deals: Save Up to $350 on Top Printers Now](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Penguin Random House amends its copyright notice globally to prohibit the use of books for training AI; the notice will be included in new titles and reprints &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/241018/p19#a241018p19)
- - [Sleep Better Tonight With a Squeaky Clean Mattress](https://www.cnet.com/health/sleep/sleep-better-tonight-with-a-squeaky-clean-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

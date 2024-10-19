@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company)
- - [Stoke Voltaics’ portable electric cookware review](https://www.theverge.com/24273375/stoke-voltaics-portable-electric-cookware-review)
- - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)
- - [Avocado Vegan Mattress Review 2024: A Vegan, Natural and Certified Organic Bed](https://www.cnet.com/health/sleep/avocado-vegan-mattress-review-2024-a-vegan-natural-and-certified-organic-bed/#ftag=CAD590a51e)
- - [A historical look at Microsoft&#39;s work in AI, from research to real-world applications, recent progress, competition, challenges, and the future &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241019/p4#a241019p4)<!-- TECH:END -->
+ - [What&#39;s the Best Way to Get Airport Lounge Access for Free? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-best-way-to-get-airport-lounge-access-for-free-we-did-the-math/#ftag=CAD590a51e)
+ - [Coffee Lovers, It&#39;s Time to Clean Your Dirty Keurig ASAP](https://www.cnet.com/home/kitchen-and-household/coffee-lovers-its-time-to-clean-your-dirty-keurig-asap/#ftag=CAD590a51e)
+ - [10 of the Best Walking Shoes for Women in 2024](https://www.cnet.com/health/fitness/best-walking-shoes-for-women/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Tottenham vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
+ - [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Best Way to Get Airport Lounge Access for Free? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-best-way-to-get-airport-lounge-access-for-free-we-did-the-math/#ftag=CAD590a51e)
- - [Coffee Lovers, It&#39;s Time to Clean Your Dirty Keurig ASAP](https://www.cnet.com/home/kitchen-and-household/coffee-lovers-its-time-to-clean-your-dirty-keurig-asap/#ftag=CAD590a51e)
- - [10 of the Best Walking Shoes for Women in 2024](https://www.cnet.com/health/fitness/best-walking-shoes-for-women/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Tottenham vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
- - [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company)<!-- TECH:END -->
+ - [Inside the inaugural Culver Cup, a generative AI film competition sponsored by AWS and FBRC.ai giving filmmakers AI tools and three weeks to submit a short &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/241019/p5#a241019p5)
+ - [Google Chrome’s uBlock Origin Purge Has Begun](https://www.wired.com/story/google-chrome-ublock-origin-extension/)
+ - [Your October Social Security Payment Is on the Way. Here&#39;s When You&#39;ll Get It](https://www.cnet.com/personal-finance/your-october-social-security-payment-is-on-the-way-heres-when-youll-get-it/#ftag=CAD590a51e)
+ - [Supplemental Security Income: How Much More Money Will You Get With Next Year&#39;s COLA Increase?](https://www.cnet.com/personal-finance/supplemental-security-income-how-much-more-money-will-you-get-with-next-years-cola-increase/#ftag=CAD590a51e)
+ - [16 STEM Toys Your Smarty-Pants Kids Will Love in 2024](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

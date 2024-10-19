@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI Air 3S Drone Review: Price, Specs, Availability](https://www.wired.com/review/review-dji-air-3s/)
+ - [Dolphins Are Exhaling Microplastics](https://www.wired.com/story/dolphins-exhaled-breath-is-filled-with-microplastics/)
  - [I Made a Wholesome OnlyFans to Try to Make Ends Meet](https://www.wired.com/story/i-made-a-wholesome-onlyfans-to-try-to-make-ends-meet/)
  - [Over the Past Year, This $23 Tool Saved Me Hundreds of Dollars in Chiropractor Visits](https://www.cnet.com/deals/tool-saved-me-hundreds-of-dollars-in-chiropractor-visits/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Southampton vs. Leicester City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-southampton-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Ipswich Town vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-town-vs-everton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Fulham vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Southampton vs. Leicester City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-southampton-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

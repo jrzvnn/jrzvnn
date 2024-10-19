@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
- - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
- - 💣 [Why are you?](http://9gag.com/gag/aryGPQB)
- - 😝 [What the 1% really are hiding from you](http://9gag.com/gag/awyAqOR)
- - 👉 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)<!-- MEMES:END -->
+ - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 💣 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
+ - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 👉 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)<!-- MEMES:END -->
 
 ---
 

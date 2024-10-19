@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-19/#ftag=CAD590a51e)
- - [Notes on an inexpensive and effective &quot;video scraping&quot; technique in which the user feeds a screen recording into Google AI Studio to extract data with Gemini &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241018/p22#a241018p22)
- - [New York Comic Con: &#39;Venom 3&#39; Director on If This Is The Last &#39;Venom&#39; Movie](https://www.cnet.com/tech/services-and-software/new-york-comic-con-venom-3-director-on-if-this-is-the-last-venom-movie/#ftag=CAD590a51e)
- - [Meta debuts Spirit LM, its first open-source multimodal language model capable of integrating text and speech inputs and outputs, for non-commercial use only &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241018/p21#a241018p21)
- - [Best Mattress Deals: Save Up to 60% on Our Favorite Mattress Brands](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #496](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-496/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #230](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-230/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 19, #26](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-19-26/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1218](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1218/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

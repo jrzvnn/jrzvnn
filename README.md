@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one cares about your feelings anymore](http://9gag.com/gag/aO8YLgD)
- - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 💣 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
+ - 😝 [I would if I could!](http://9gag.com/gag/a6ZO0RL)
+ - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
+ - 💣 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 😝 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
+ - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 ---
 

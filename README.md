@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Waymo is converting locals and attracting tourists in San Francisco to pull ahead in the robotaxi race, with ~300 vehicles in the city and global ambitions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241019/p7#a241019p7)
- - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)
- - [Bose SoundLink Home Review: Big Sound From a Sleek Little Bluetooth Speaker](https://www.cnet.com/tech/home-entertainment/bose-soundlink-home-review-sleek-little-bluetooth-speaker-big-sound/#ftag=CAD590a51e)
- - [Not Sure if an Image Is AI? Check Its Nutrition Label, Thanks to a New Adobe App](https://www.cnet.com/tech/services-and-software/adobes-new-app-hopes-to-clear-up-some-ai-confusion/#ftag=CAD590a51e)
- - [Best Internet Providers in Port Arthur, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-port-arthur-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Make Your Next Whole Chicken in the Air Fryer and Thank Me Later](https://www.cnet.com/how-to/make-your-next-whole-chicken-in-the-air-fryer-and-thank-me-later/#ftag=CAD590a51e)
+ - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)
+ - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
+ - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

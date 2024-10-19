@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Cloudflare CTO John Graham-Cumming cracked an encrypted ZIP file containing the code for a system that helped ANC members communicate safely under apartheid &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241019/p11#a241019p11)
  - [Irish police seize more than $170,000in counterfeit Apple products](https://appleinsider.com/articles/24/10/19/irish-police-seize-more-than-170000in-counterfeit-apple-products?utm_medium=rss)
  - [Why are Instagram searches for ‘Adam Driver Megalopolis’ blocked for CSAM?](https://www.theverge.com/2024/10/19/24274467/instagram-facebook-meta-block-csam-adam-driver-megalopolis-mega-drive-content-moderation)
  - [Top 6 Vitamins and Supplements to Improve Your Eye Health](https://www.cnet.com/health/personal-care/top-6-vitamins-and-supplements-to-improve-your-eye-health/#ftag=CAD590a51e)
- - [Best Adjustable Bed Frames and Bases of 2024](https://www.cnet.com/health/sleep/best-adjustable-bed-frame/#ftag=CAD590a51e)
- - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Adjustable Bed Frames and Bases of 2024](https://www.cnet.com/health/sleep/best-adjustable-bed-frame/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

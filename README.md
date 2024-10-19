@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
- - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
- - 💣 [Card trick](http://9gag.com/gag/agmnPrx)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
+ - 😝 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)
+ - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 💣 [Why are you?](http://9gag.com/gag/aryGPQB)
+ - 😝 [What the 1% really are hiding from you](http://9gag.com/gag/awyAqOR)
+ - 👉 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)<!-- MEMES:END -->
 
 ---
 

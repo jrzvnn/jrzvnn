@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-19/#ftag=CAD590a51e)
+ - [Notes on an inexpensive and effective &quot;video scraping&quot; technique in which the user feeds a screen recording into Google AI Studio to extract data with Gemini &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241018/p22#a241018p22)
+ - [New York Comic Con: &#39;Venom 3&#39; Director on If This Is The Last &#39;Venom&#39; Movie](https://www.cnet.com/tech/services-and-software/new-york-comic-con-venom-3-director-on-if-this-is-the-last-venom-movie/#ftag=CAD590a51e)
  - [Meta debuts Spirit LM, its first open-source multimodal language model capable of integrating text and speech inputs and outputs, for non-commercial use only &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241018/p21#a241018p21)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [Election 2024: Where Each Presidential Candidate Stands on the Child Tax Credit](https://www.cnet.com/personal-finance/taxes/election-2024-where-each-presidential-candidate-stands-on-the-child-tax-credit/#ftag=CAD590a51e)
- - [Sources: former OpenAI CTO Mira Murati is raising funds for her new startup, which aims to build AI products based on proprietary models &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p20#a241018p20)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [Best Mattress Deals: Save Up to 60% on Our Favorite Mattress Brands](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

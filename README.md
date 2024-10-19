@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Six months after bitcoin halving, some miners are keeping the Bitcoin they produce while an increasing number of companies are spending more on AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/241019/p8#a241019p8)
  - [Ember’s temperature-controlled smart mugs are 20 percent off today](https://www.theverge.com/2024/10/19/24272664/ember-travel-mug-2-plus-smart-tumbler-xbox-wireless-controller-deal-sale)
  - [At 21 years old, the iMac G4 is still down to party](https://www.theverge.com/2024/10/19/24274206/imac-g4-docklite-g4-external-monitor-display-hdmi-conversion-apple-silicon-mac)
  - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
- - [Ligue 1 Soccer: Livestream PSG vs. Strasbourg From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-strasbourg-from-anywhere/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Celta Vigo vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-celta-vigo-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ligue 1 Soccer: Livestream PSG vs. Strasbourg From Anywhere](https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-strasbourg-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

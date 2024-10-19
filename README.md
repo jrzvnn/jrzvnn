@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 💣 [Too soon?](http://9gag.com/gag/aPAY5YB)
- - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
- - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 😝 [I believe in you kid](http://9gag.com/gag/aBy0D5O)
+ - 💣 [This toy triggers when distance is violated](http://9gag.com/gag/ajP8pmG)
+ - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 👉 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)<!-- MEMES:END -->
 
 ---
 

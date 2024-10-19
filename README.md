@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the 1% really are hiding from you](http://9gag.com/gag/awyAqOR)
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 💣 [Card trick](http://9gag.com/gag/agmnPrx)
- - 😝 [Firing ex-boyfriends car](http://9gag.com/gag/a0eQmVn)
- - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
+ - 😝 [No one cares about your feelings anymore](http://9gag.com/gag/aO8YLgD)
+ - 😝 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 💣 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue3D’s Retro Console Proves the N64 Controller Was the Worst Ever](https://www.wired.com/story/analogue3ds-retro-console-proves-the-n64-controller-was-the-worst-ever/)
- - [Anora director Sean Baker writes the ending first](https://www.theverge.com/24272793/anora-sean-baker-interview)
- - [16 Best PS5 Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ps5-accessories/)
- - [How to Make Homemade Iced or Hot Lattes for Cheap](https://www.cnet.com/home/kitchen-and-household/how-to-make-homemade-iced-or-hot-lattes-for-cheap/#ftag=CAD590a51e)
- - [Get Back 15GB of Gmail Storage Space for Free](https://www.cnet.com/tech/services-and-software/get-back-15gb-of-gmail-storage-space-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Cloudflare CEO on how internet traffic surge during the pandemic helped it build an AI-ready &quot;connectivity cloud&quot;, balkanization of the internet, more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241019/p6#a241019p6)
+ - [14 Gifts for People Who Are Perpetually Cold &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
+ - [85 Tricks You Didn&#39;t Know Alexa Had Up Her Sleeve](https://www.cnet.com/home/smart-home/82-ways-alexa-can-bring-some-fun-into-your-home/#ftag=CAD590a51e)
+ - [How Long Does Halloween Candy Last?](https://www.cnet.com/how-to/how-long-does-halloween-candy-last/#ftag=CAD590a51e)
+ - [Analogue3D’s Retro Console Proves the N64 Controller Was the Worst Ever](https://www.wired.com/story/analogue3ds-retro-console-proves-the-n64-controller-was-the-worst-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

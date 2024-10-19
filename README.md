@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 😝 [Bamboozling gypsies](http://9gag.com/gag/abAYNGp)
- - 💣 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
+ - 😝 [Why you should get a dash cam](http://9gag.com/gag/aZZ7qw0)
+ - 😝 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 💣 [Challng Compltd!](http://9gag.com/gag/aGyZXP6)
+ - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
+ - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
 
 ---
 

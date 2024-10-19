@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over the Past Year, This $23 Tool Saved Me Hundreds of Dollars in Chiropractor Visits](https://www.cnet.com/deals/tool-saved-me-hundreds-of-dollars-in-chiropractor-visits/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Southampton vs. Leicester City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-southampton-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Ipswich Town vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-town-vs-everton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Fulham vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-fulham-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Newcastle vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-brighton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 47 Best Movies on Netflix Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [California Is Flooding School Cafeterias With Vegan Meals—and Kids Like It](https://www.wired.com/story/more-schools-than-ever-are-serving-vegan-meals-in-california-heres-how-they-did-it/)
+ - [The 48 Best Shows on Netflix Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Inside the inaugural Culver Cup, a generative AI film competition sponsored by AWS and FBRC.ai giving filmmakers AI tools and three weeks to submit a short &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/241019/p5#a241019p5)
+ - [Google Chrome’s uBlock Origin Purge Has Begun](https://www.wired.com/story/google-chrome-ublock-origin-extension/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

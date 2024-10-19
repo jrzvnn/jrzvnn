@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey South East Asia, pay your debts please....](http://9gag.com/gag/a875dwZ)
- - 😝 [Refugees](http://9gag.com/gag/ayNo7YY)
- - 💣 [This woman had to paint the stairs of her house because they were already very old, but she didn&#39;t forget her loyal friend, Max...](http://9gag.com/gag/avyoppO)
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 👉 [Nice, don\u2019t mess with Texas](http://9gag.com/gag/aoy5E62)<!-- MEMES:END -->
+ - 😝 [Hamas leader Yahya Sinwar taking his family into the tunnels for safety on 6/10/23 &lpar;the night before the massacre&rpar; and leaving the people of Gaza to suffer the consequences of his actions.](http://9gag.com/gag/apR5En9)
+ - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 💣 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
+ - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 👉 [How?](http://9gag.com/gag/aPARwvR)<!-- MEMES:END -->
 
 ---
 

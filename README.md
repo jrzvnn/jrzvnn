@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [9gaggers](http://9gag.com/gag/a6ZOAV9)
+ - 😝 [This is how they do it](http://9gag.com/gag/aryG6g7)
+ - 😝 [Women logic ....](http://9gag.com/gag/aNDY7qv)
  - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 😝 [No one cares about your feelings anymore](http://9gag.com/gag/aO8YLgD)
- - 👉 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)<!-- MEMES:END -->
+ - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 👉 [What did you expect?](http://9gag.com/gag/a34QV77)<!-- MEMES:END -->
 
 ---
 

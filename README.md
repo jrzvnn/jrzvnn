@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 💣 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 👉 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)<!-- MEMES:END -->
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 💣 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
+ - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
+ - 👉 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)<!-- MEMES:END -->
 
 ---
 

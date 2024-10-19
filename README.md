@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
- - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
- - 💣 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 👉 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)<!-- MEMES:END -->
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
+ - 💣 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
+ - 😝 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
+ - 👉 [Card trick](http://9gag.com/gag/agmnPrx)<!-- MEMES:END -->
 
 ---
 

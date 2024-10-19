@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company)
  - [Stoke Voltaics’ portable electric cookware review](https://www.theverge.com/24273375/stoke-voltaics-portable-electric-cookware-review)
  - [A historical look at Microsoft&#39;s work in AI, from research to real-world applications, recent progress, competition, challenges, and the future &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241019/p4#a241019p4)
  - [Walmart Promo Codes: 65% OFF | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
- - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

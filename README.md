@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)
  - [Q&amp;A with Cloudflare CEO on how internet traffic surge during the pandemic helped it build an AI-ready &quot;connectivity cloud&quot;, balkanization of the internet, more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241019/p6#a241019p6)
  - [14 Gifts for People Who Are Perpetually Cold &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
  - [85 Tricks You Didn&#39;t Know Alexa Had Up Her Sleeve](https://www.cnet.com/home/smart-home/82-ways-alexa-can-bring-some-fun-into-your-home/#ftag=CAD590a51e)
- - [How Long Does Halloween Candy Last?](https://www.cnet.com/how-to/how-long-does-halloween-candy-last/#ftag=CAD590a51e)
- - [Analogue3D’s Retro Console Proves the N64 Controller Was the Worst Ever](https://www.wired.com/story/analogue3ds-retro-console-proves-the-n64-controller-was-the-worst-ever/)<!-- TECH:END -->
+ - [How Long Does Halloween Candy Last?](https://www.cnet.com/how-to/how-long-does-halloween-candy-last/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

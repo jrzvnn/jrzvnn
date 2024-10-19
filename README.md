@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
  - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - 👉 [What did you expect?](http://9gag.com/gag/a34QV77)<!-- MEMES:END -->
+ - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: some at Apple think it is over two years behind the leaders in generative AI; a closer look at changes in Apple&#39;s HR and hardware engineering groups &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241020/p3#a241020p3)
- - [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
- - [The tech YouTuber who opened a coffee shop](https://www.theverge.com/2024/10/20/24273515/coffee-check-david-cogen-unlockr-vergecast)
- - [Apple Intelligence to play catch-up to rivals across 2025](https://appleinsider.com/articles/24/10/20/apple-intelligence-to-play-catch-up-to-rivals-across-2025?utm_medium=rss)
- - [The Internet Archive hackers still have access to its internal emailing tools](https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets)<!-- TECH:END -->
+ - [Seahawks vs. Falcons Livestream: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/seahawks-vs-falcons-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [Lions vs. Vikings Livestream: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/lions-vs-vikings-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [Eagles vs. Giants Livestream: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/eagles-vs-giants-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [Dolphins vs. Colts Livestream: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/dolphins-vs-colts-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

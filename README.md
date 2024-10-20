@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Spring Hill, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-spring-hill-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in San Diego, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)
+ - [Michelle Yeoh’s Star Trek spy movie has a release date](https://www.theverge.com/2024/10/20/24274900/star-trek-section-31-michelle-yeoh-paramount-plus-streaming-premiere-date)
  - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,349](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)
- - [Best Samsung Galaxy Z Flip 6 Deals: Score a New Phone With Trade-Ins](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
- - [Sources: Perplexity is looking to raise ~$500M to double its valuation to $8B or more; Perplexity&#39;s annualized revenue is ~$50M, up from ~$10M in March &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241020/p6#a241020p6)<!-- TECH:END -->
+ - [Sources: Perplexity is looking to raise ~$500M to double its valuation to $8B or more; Perplexity&#39;s annualized revenue is ~$50M, up from ~$10M in March &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241020/p6#a241020p6)
+ - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)
+ - [It’s Your Last Chance to Save on Refurbished Ninja Kitchen Appliances During Best Buy’s Outlet Event](https://www.cnet.com/deals/its-your-last-chance-to-save-on-refurbished-ninja-kitchen-appliances-during-best-buys-outlet-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

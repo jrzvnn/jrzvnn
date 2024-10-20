@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
- - 😝 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
- - 💣 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
- - 👉 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)<!-- MEMES:END -->
+ - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 💣 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
+ - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
+ - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
 
 ---
 

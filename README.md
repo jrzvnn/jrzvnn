@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 😝 [Onlyfans visualised](http://9gag.com/gag/aD2gR9B)
- - 💣 [Refugees](http://9gag.com/gag/ayNo7YY)
- - 😝 [Having disagreement is racism?](http://9gag.com/gag/aBygRpz)
- - 👉 [Asymmetrical warfare](http://9gag.com/gag/a0eRv4d)<!-- MEMES:END -->
+ - 😝 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 💣 [Yellow stone park](http://9gag.com/gag/apR5K6M)
+ - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
+ - 👉 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)<!-- MEMES:END -->
 
 ---
 

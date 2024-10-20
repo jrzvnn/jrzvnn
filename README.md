@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 💣 [Furnace suddenly explodes](http://9gag.com/gag/a4PRpZv)
- - 😝 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
- - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
+ - 💣 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
+ - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
+ - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
 
 ---
 

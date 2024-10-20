@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
  - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
+ - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)
  - [Vizio 5.1 Soundbar SE Review: Pretty Good, Hilariously Cheap](https://www.wired.com/review/vizio-51-soundbar-se/)
- - [Time to upgrade your reading gadgets](https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer)
- - [The 7 Best Blackout Curtains, Tested and Reviewed](https://www.wired.com/gallery/best-blackout-curtains/)
- - [How Safely Machine Wash Your Lululemon and Other Activewear](https://www.cnet.com/health/fitness/how-safely-machine-wash-your-lululemon-and-other-activewear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo Yoga 7 16 Gen 9 Review: Big Screen 2-in-1 Laptop With a Small Price](https://www.cnet.com/tech/computing/lenovo-yoga-7-16-gen-9-review-big-screen-2-in-1-laptop-with-a-small-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

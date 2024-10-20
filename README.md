@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sinwar wife running away on October 6th with her 32k $ bag..](http://9gag.com/gag/awyor6R)
- - 😝 [Vlogger mistaken as homeless. She is questioning her life.](http://9gag.com/gag/amo5Xwy)
- - 💣 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 👉 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)<!-- MEMES:END -->
+ - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
+ - 😝 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
+ - 💣 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
+ - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
+ - 👉 [Bonk](http://9gag.com/gag/aBy0DvQ)<!-- MEMES:END -->
 
 ---
 

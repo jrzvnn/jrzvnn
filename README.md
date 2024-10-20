@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
- - 😝 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
- - 💣 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 😝 [Yellow stone park](http://9gag.com/gag/apR5K6M)
- - 👉 [Diabolical](http://9gag.com/gag/aW4YKDd)<!-- MEMES:END -->
+ - 😝 [Having disagreement is racism?](http://9gag.com/gag/aBygRpz)
+ - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
+ - 💣 [Onlyfans visualised](http://9gag.com/gag/aD2gR9B)
+ - 😝 [Refugees](http://9gag.com/gag/ayNo7YY)
+ - 👉 [Asymmetrical warfare](http://9gag.com/gag/a0eRv4d)<!-- MEMES:END -->
 
 ---
 

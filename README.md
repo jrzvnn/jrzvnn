@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
- - 😝 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
- - 💣 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
- - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/aPARwvR)
+ - 😝 [Chasing sheep is border collie crack...](http://9gag.com/gag/ayNopRy)
+ - 💣 [A wish to satisfy any man](http://9gag.com/gag/apR5oeB)
+ - 😝 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
+ - 👉 [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)<!-- MEMES:END -->
 
 ---
 

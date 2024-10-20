@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)
- - 😝 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
- - 💣 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
+ - 😝 [Nobody touch the metal.](http://9gag.com/gag/aBygKyx)
+ - 😝 [Revenge is sweet](http://9gag.com/gag/ayNo7NW)
+ - 💣 [That level of patience](http://9gag.com/gag/aW4EQj6)
+ - 😝 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
+ - 👉 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)<!-- MEMES:END -->
 
 ---
 

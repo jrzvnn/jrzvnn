@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
- - 😝 [Hamas leader Yahya Sinwar taking his family into the tunnels for safety on 6/10/23 &lpar;the night before the massacre&rpar; and leaving the people of Gaza to suffer the consequences of his actions.](http://9gag.com/gag/apR5En9)
- - 💣 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
- - 😝 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
+ - 😝 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 💣 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
  - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
 
 ---

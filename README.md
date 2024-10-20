@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Refugees](http://9gag.com/gag/ayNo7YY)
  - 💣 [Asymmetrical warfare](http://9gag.com/gag/a0eRv4d)
  - 😝 [Nice, don\u2019t mess with Texas](http://9gag.com/gag/aoy5E62)
- - 👉 [In India, illegal mosques and Islamic places of worship are demolished with bulldozers. In India they don&#39;t joke.](http://9gag.com/gag/amo5XWV)<!-- MEMES:END -->
+ - 👉 [Exit the dream](http://9gag.com/gag/abArX49)<!-- MEMES:END -->
 
 ---
 

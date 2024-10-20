@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/aPARwvR)
- - 😝 [Chasing sheep is border collie crack...](http://9gag.com/gag/ayNopRy)
- - 💣 [A wish to satisfy any man](http://9gag.com/gag/apR5oeB)
- - 😝 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
- - 👉 [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)<!-- MEMES:END -->
+ - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 💣 [Gottfrid Svartholm, one of the co-founders of The Pirate Bay website, at his workstation.](http://9gag.com/gag/ayNopGb)
+ - 😝 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
+ - 👉 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)<!-- MEMES:END -->
 
 ---
 

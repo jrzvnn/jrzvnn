@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Safely Machine Wash Your Lululemon and Other Activewear](https://www.cnet.com/health/fitness/how-safely-machine-wash-your-lululemon-and-other-activewear/#ftag=CAD590a51e)
  - [After allegations of poor working conditions on MrBeast&#39;s Amazon Studios show Beast Games, industry insiders call for more safety oversight on creator-run sets &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/241020/p2#a241020p2)
+ - [Formula 1: How to Watch and Stream the 2024 United States GP](https://www.cnet.com/tech/services-and-software/formula-1-how-to-watch-and-stream-the-2024-united-states-gp/#ftag=CAD590a51e)
  - [How Cells Resist the Pressure of the Deep Sea](https://www.wired.com/story/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea/)
- - [Protesters Say Uber and Lyft Are Still Failing Their Blind Passengers](https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/)
- - [5 Easy Tips for Removing Stubborn Coffee Stains From Your Mugs](https://www.cnet.com/how-to/5-easy-tips-for-removing-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Wolves vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Optimum Internet Review: Pricing, Speeds and Availability](https://www.cnet.com/home/internet/optimum-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

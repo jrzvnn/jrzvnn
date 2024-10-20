@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
  - [How Cloudflare CTO John Graham-Cumming cracked an encrypted ZIP file containing the code for a system that helped ANC members communicate safely under apartheid &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241019/p11#a241019p11)
  - [Quick and Convenient Ways to Share Your Wi-Fi Password With Apple or Android Devices](https://www.cnet.com/home/internet/quick-and-convenient-ways-to-share-your-wi-fi-password-with-ios-or-android-devices/#ftag=CAD590a51e)
  - [Irish police seize more than $170,000in counterfeit Apple products](https://appleinsider.com/articles/24/10/19/irish-police-seize-more-than-170000in-counterfeit-apple-products?utm_medium=rss)
- - [Why are Instagram searches for ‘Adam Driver Megalopolis’ blocked for CSAM?](https://www.theverge.com/2024/10/19/24274467/instagram-facebook-meta-block-csam-adam-driver-megalopolis-mega-drive-content-moderation)
- - [Top 6 Vitamins and Supplements to Improve Your Eye Health](https://www.cnet.com/health/personal-care/top-6-vitamins-and-supplements-to-improve-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why are Instagram searches for ‘Adam Driver Megalopolis’ blocked for CSAM?](https://www.theverge.com/2024/10/19/24274467/instagram-facebook-meta-block-csam-adam-driver-megalopolis-mega-drive-content-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

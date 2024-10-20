@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
- - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
- - 💣 [Yellow stone park](http://9gag.com/gag/apR5K6M)
- - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
- - 👉 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/aPARwvR)
+ - 😝 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
+ - 💣 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
+ - 😝 [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
 
 ---
 

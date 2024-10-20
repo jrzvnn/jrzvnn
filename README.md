@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
- - 😝 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)
- - 💣 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 😝 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
- - 👉 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)<!-- MEMES:END -->
+ - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 💣 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 😝 [Maui the demigod](http://9gag.com/gag/aVv0jev)
+ - 👉 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)<!-- MEMES:END -->
 
 ---
 

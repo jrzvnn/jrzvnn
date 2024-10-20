@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
- - 😝 [How Himalayan salt lamps are made](http://9gag.com/gag/ayNo77Y)
- - 💣 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
- - 😝 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)
- - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
+ - 😝 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
+ - 😝 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
+ - 💣 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
 
 ---
 

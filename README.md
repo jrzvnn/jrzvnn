@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
- - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
- - 💣 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
- - 😝 [Ummm, can i get some milks?](http://9gag.com/gag/ajP5Q9G)
- - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
+ - 😝 [Having disagreement is racism?](http://9gag.com/gag/aBygRpz)
+ - 😝 [Refugees](http://9gag.com/gag/ayNo7YY)
+ - 💣 [Asymmetrical warfare](http://9gag.com/gag/a0eRv4d)
+ - 😝 [Nice, don\u2019t mess with Texas](http://9gag.com/gag/aoy5E62)
+ - 👉 [In India, illegal mosques and Islamic places of worship are demolished with bulldozers. In India they don&#39;t joke.](http://9gag.com/gag/amo5XWV)<!-- MEMES:END -->
 
 ---
 

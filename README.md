@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cFeminism\u201d](http://9gag.com/gag/a34QV6v)
- - 😝 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)
- - 💣 [How?](http://9gag.com/gag/aPARwvR)
- - 😝 [Here we go again](http://9gag.com/gag/aRB15w5)
- - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
+ - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 💣 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
+ - 😝 [Netflix should take note](http://9gag.com/gag/aPARwGq)
+ - 👉 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)<!-- MEMES:END -->
 
 ---
 

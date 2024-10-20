@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protesters Say Uber and Lyft Are Still Failing Their Blind Passengers](https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/)
  - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)
  - [Anthropic evaluates four &quot;sabotage&quot; threat vectors for its Claude 3 Opus and Claude 3.5 Sonnet models and finds that &quot;minimal mitigations are sufficient&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/241020/p1#a241020p1)
  - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)
- - [In a letter, key US lawmakers urged Japan to strengthen restrictions on sales of chipmaking equipment to China or risk facing US curbs on Japanese companies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241019/p13#a241019p13)
- - [Best Internet Providers in Phoenix](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a letter, key US lawmakers urged Japan to strengthen restrictions on sales of chipmaking equipment to China or risk facing US curbs on Japanese companies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241019/p13#a241019p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

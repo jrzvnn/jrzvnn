@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve had this happen!&lt;&lt;&lt;](http://9gag.com/gag/aQzR05z)
- - 😝 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 💣 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
- - 👉 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)<!-- MEMES:END -->
+ - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 😝 [Netflix should take note](http://9gag.com/gag/aPARwGq)
+ - 💣 [Yellow stone park](http://9gag.com/gag/apR5K6M)
+ - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
+ - 👉 [I&#39;ve had this happen!&lt;&lt;&lt;](http://9gag.com/gag/aQzR05z)<!-- MEMES:END -->
 
 ---
 

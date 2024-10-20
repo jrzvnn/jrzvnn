@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [In a letter, key US lawmakers urged Japan to strengthen restrictions on sales of chipmaking equipment to China or risk facing US curbs on Japanese companies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241019/p13#a241019p13)
  - [Kazakhstan-based Kaspi.kz agrees to acquire a majority share, or 65.4%, of Turkish e-commerce platform Hepsiburada for ~$1.13B, expected to close in Q1 2025 &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/241019/p12#a241019p12)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-20/#ftag=CAD590a51e)
- - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
- - [How Cloudflare CTO John Graham-Cumming cracked an encrypted ZIP file containing the code for a system that helped ANC members communicate safely under apartheid &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241019/p11#a241019p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 20, #497](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-20-497/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 20, #1219](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-20-1219/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 20, #231](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-20-231/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

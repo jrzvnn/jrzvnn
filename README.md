@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cable vs. Fiber Internet: How the Two Top Techs Compare](https://www.cnet.com/home/internet/cable-vs-fiber-internet/#ftag=CAD590a51e)
+ - [Nab a Lifetime Subscription to Microsoft Office for Just $25 for a Limited Time](https://www.cnet.com/deals/nab-a-lifetime-subscription-to-microsoft-office-for-just-25-for-a-limited-time/#ftag=CAD590a51e)
  - [Elon Musk is offering people $1 million to vote](https://www.theverge.com/2024/10/20/24274971/elon-musk-1-million-prize-america-pac-petition-voting-presidential-election)
- - [After Musk promises to give $1M to one swing state voter a day who signs his PAC&#39;s petition, PA&#39;s governor says &quot;law enforcement could take a look at&quot; the plan &lpar;Alexandra Marquez/NBC News&rpar;](http://www.techmeme.com/241020/p5#a241020p5)
- - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
- - [Best Internet Providers in Richardson, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-richardson-tx/#ftag=CAD590a51e)
- - [Chiefs vs. 49ers Livestream: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/kansas-city-chiefs-vs-49ers-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Chance: Save on TVs, Tablets, Appliances and More at Best Buy’s Samsung Savings Event](https://www.cnet.com/deals/last-chance-save-on-tvs-tablets-appliances-and-more-at-best-buys-samsung-savings-event/#ftag=CAD590a51e)
+ - [After Musk promises to give $1M to one swing state voter a day who signs his PAC&#39;s petition, PA&#39;s governor says &quot;law enforcement could take a look at&quot; the plan &lpar;Alexandra Marquez/NBC News&rpar;](http://www.techmeme.com/241020/p5#a241020p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

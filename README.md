@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)
  - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
+ - 😝 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)
  - 💣 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 👉 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)<!-- MEMES:END -->
+ - 😝 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
+ - 👉 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)<!-- MEMES:END -->
 
 ---
 

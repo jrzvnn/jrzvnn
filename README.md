@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence to play catch-up to rivals across 2025](https://appleinsider.com/articles/24/10/20/apple-intelligence-to-play-catch-up-to-rivals-across-2025?utm_medium=rss)
  - [The Internet Archive hackers still have access to its internal emailing tools](https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets)
  - [GoPro Hero 13 Black Review: Interchangeable Lenses and Magnetic Mounting](https://www.wired.com/review/gopro-hero-13-black/)
  - [12 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
- - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Moo Deng, the Sassy Pygmy Hippo, Has a 24/7 Livestream and Merch](https://www.cnet.com/science/moo-deng-the-sassy-pygmy-hippo-has-a-247-livestream-and-merch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

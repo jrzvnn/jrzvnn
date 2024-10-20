@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
- - 😝 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
- - 💣 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
+ - 😝 [Sinwar wife running away on October 6th with her 32k $ bag..](http://9gag.com/gag/awyor6R)
+ - 😝 [Vlogger mistaken as homeless. She is questioning her life.](http://9gag.com/gag/amo5Xwy)
+ - 💣 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 👉 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [About $2B has been bet on predicting the next US president on Polymarket, which has excluded US users since 2022 as part of a settlement with federal regulators &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/241020/p4#a241020p4)
- - [Alien: Romulus is getting a VHS release](https://www.theverge.com/2024/10/20/24274915/alien-romulus-vhs-limited-edition-collectible-release-date)
- - [10,000 Steps a Day Won&#39;t Keep You Fit. Here&#39;s What Will, According to Experts](https://www.cnet.com/health/fitness/10000-steps-a-day-wont-keep-you-fit-heres-what-will/#ftag=CAD590a51e)
- - [Best VPN for Your Smart TV](https://www.cnet.com/tech/services-and-software/best-vpn-for-smart-tv/#ftag=CAD590a51e)
- - [3D Scanning Yourself Is All the Rage - Here&#39;s 5 Tips to Make Your Scan the Best It Can Be](https://www.cnet.com/tech/computing/3d-scanning-yourself-is-all-the-rage-heres-5-tips-to-make-your-scan-the-best-it-can-be/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Panthers vs. Commanders: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-commanders-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [Raiders vs. Rams: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/raiders-vs-rams-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Sevilla From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-sevilla-from-anywhere/#ftag=CAD590a51e)
+ - [Sleep Better Next to Your Partner With the Scandinavian Sleep Method](https://www.cnet.com/health/sleep/sleep-better-next-to-your-partner-with-the-scandinavian-sleep-method/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

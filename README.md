@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
- - 💣 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
+ - 😝 [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
+ - 💣 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
  - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
- - 👉 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)<!-- MEMES:END -->
+ - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
 
 ---
 

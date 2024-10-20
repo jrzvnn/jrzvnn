@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,349](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)
  - [Sources: Perplexity is looking to raise ~$500M to double its valuation to $8B or more; Perplexity&#39;s annualized revenue is ~$50M, up from ~$10M in March &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241020/p6#a241020p6)
  - [It’s Your Last Chance to Save on Refurbished Ninja Kitchen Appliances During Best Buy’s Outlet Event](https://www.cnet.com/deals/its-your-last-chance-to-save-on-refurbished-ninja-kitchen-appliances-during-best-buys-outlet-event/#ftag=CAD590a51e)
  - [Best Internet Providers in Scranton, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-scranton-pa/#ftag=CAD590a51e)
- - [Cable vs. Fiber Internet: How the Two Top Techs Compare](https://www.cnet.com/home/internet/cable-vs-fiber-internet/#ftag=CAD590a51e)
- - [Nab a Lifetime Subscription to Microsoft Office for Just $25 for a Limited Time](https://www.cnet.com/deals/nab-a-lifetime-subscription-to-microsoft-office-for-just-25-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cable vs. Fiber Internet: How the Two Top Techs Compare](https://www.cnet.com/home/internet/cable-vs-fiber-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

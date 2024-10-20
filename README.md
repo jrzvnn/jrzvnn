@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sinwar wife running away on October 6th with her 32k $ bag..](http://9gag.com/gag/awyor6R)
- - 😝 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
- - 💣 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
- - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
+ - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 💣 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 👉 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)<!-- MEMES:END -->
 
 ---
 

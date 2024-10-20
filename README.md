@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [About $2B has been bet on predicting the next US president on Polymarket, which has excluded US users since 2022 as part of a settlement with federal regulators &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/241020/p4#a241020p4)
- - [Panthers vs. Commanders: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-commanders-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
- - [Raiders vs. Rams: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/raiders-vs-rams-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Sevilla From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-sevilla-from-anywhere/#ftag=CAD590a51e)
- - [Sleep Better Next to Your Partner With the Scandinavian Sleep Method](https://www.cnet.com/health/sleep/sleep-better-next-to-your-partner-with-the-scandinavian-sleep-method/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Musk promises to give $1M to one swing state voter a day who signs his PAC&#39;s petition, PA&#39;s governor says &quot;law enforcement could take a look at&quot; the plan &lpar;Alexandra Marquez/NBC News&rpar;](http://www.techmeme.com/241020/p5#a241020p5)
+ - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
+ - [Best Internet Providers in Richardson, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-richardson-tx/#ftag=CAD590a51e)
+ - [Chiefs vs. 49ers Livestream: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/kansas-city-chiefs-vs-49ers-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [About $2B has been bet on predicting the next US president on Polymarket, which has excluded US users since 2022 as part of a settlement with federal regulators &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/241020/p4#a241020p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

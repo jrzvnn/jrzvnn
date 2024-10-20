@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)
  - [Anthropic evaluates four &quot;sabotage&quot; threat vectors for its Claude 3 Opus and Claude 3.5 Sonnet models and finds that &quot;minimal mitigations are sufficient&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/241020/p1#a241020p1)
  - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)
  - [In a letter, key US lawmakers urged Japan to strengthen restrictions on sales of chipmaking equipment to China or risk facing US curbs on Japanese companies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241019/p13#a241019p13)
- - [Best Internet Providers in Phoenix](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)
- - [Kazakhstan-based Kaspi.kz agrees to acquire a majority share, or 65.4%, of Turkish e-commerce platform Hepsiburada for ~$1.13B, expected to close in Q1 2025 &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/241019/p12#a241019p12)<!-- TECH:END -->
+ - [Best Internet Providers in Phoenix](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

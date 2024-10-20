@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vizio 5.1 Soundbar SE Review: Pretty Good, Hilariously Cheap](https://www.wired.com/review/vizio-51-soundbar-se/)
+ - [Time to upgrade your reading gadgets](https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer)
  - [The 7 Best Blackout Curtains, Tested and Reviewed](https://www.wired.com/gallery/best-blackout-curtains/)
- - [After allegations of poor working conditions on MrBeast&#39;s Amazon Studios show Beast Games, industry insiders call for more safety oversight on creator-run sets &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/241020/p2#a241020p2)
- - [How Cells Resist the Pressure of the Deep Sea](https://www.wired.com/story/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea/)
- - [Protesters Say Uber and Lyft Are Still Failing Their Blind Passengers](https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/)
- - [5 Easy Tips for Removing Stubborn Coffee Stains From Your Mugs](https://www.cnet.com/how-to/5-easy-tips-for-removing-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Safely Machine Wash Your Lululemon and Other Activewear](https://www.cnet.com/health/fitness/how-safely-machine-wash-your-lululemon-and-other-activewear/#ftag=CAD590a51e)
+ - [After allegations of poor working conditions on MrBeast&#39;s Amazon Studios show Beast Games, industry insiders call for more safety oversight on creator-run sets &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/241020/p2#a241020p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

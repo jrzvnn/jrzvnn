@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
+ - [The tech YouTuber who opened a coffee shop](https://www.theverge.com/2024/10/20/24273515/coffee-check-david-cogen-unlockr-vergecast)
  - [Apple Intelligence to play catch-up to rivals across 2025](https://appleinsider.com/articles/24/10/20/apple-intelligence-to-play-catch-up-to-rivals-across-2025?utm_medium=rss)
  - [The Internet Archive hackers still have access to its internal emailing tools](https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets)
- - [GoPro Hero 13 Black Review: Interchangeable Lenses and Magnetic Mounting](https://www.wired.com/review/gopro-hero-13-black/)
- - [12 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [Moo Deng, the Sassy Pygmy Hippo, Has a 24/7 Livestream and Merch](https://www.cnet.com/science/moo-deng-the-sassy-pygmy-hippo-has-a-247-livestream-and-merch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GoPro Hero 13 Black Review: Interchangeable Lenses and Magnetic Mounting](https://www.wired.com/review/gopro-hero-13-black/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Internet Archive hackers still have access to its internal emailing tools](https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets)
  - [GoPro Hero 13 Black Review: Interchangeable Lenses and Magnetic Mounting](https://www.wired.com/review/gopro-hero-13-black/)
  - [12 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
  - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
- - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)
- - [Vizio 5.1 Soundbar SE Review: Pretty Good, Hilariously Cheap](https://www.wired.com/review/vizio-51-soundbar-se/)<!-- TECH:END -->
+ - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

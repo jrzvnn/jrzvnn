@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After allegations of poor working conditions on MrBeast&#39;s Amazon Studios show Beast Games, industry insiders call for more safety oversight on creator-run sets &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/241020/p2#a241020p2)
+ - [How Cells Resist the Pressure of the Deep Sea](https://www.wired.com/story/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea/)
  - [Protesters Say Uber and Lyft Are Still Failing Their Blind Passengers](https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/)
- - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)
- - [Anthropic evaluates four &quot;sabotage&quot; threat vectors for its Claude 3 Opus and Claude 3.5 Sonnet models and finds that &quot;minimal mitigations are sufficient&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/241020/p1#a241020p1)
- - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)
- - [In a letter, key US lawmakers urged Japan to strengthen restrictions on sales of chipmaking equipment to China or risk facing US curbs on Japanese companies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241019/p13#a241019p13)<!-- TECH:END -->
+ - [5 Easy Tips for Removing Stubborn Coffee Stains From Your Mugs](https://www.cnet.com/how-to/5-easy-tips-for-removing-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Wolves vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

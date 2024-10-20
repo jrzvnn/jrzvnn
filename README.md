@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
  - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
- - 💣 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
- - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
- - 👉 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)<!-- MEMES:END -->
+ - 💣 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
+ - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
+ - 👉 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)<!-- MEMES:END -->
 
 ---
 

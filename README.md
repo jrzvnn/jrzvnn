@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is father proud or no](http://9gag.com/gag/aqyg99Q)
+ - 😝 [Sinwar wife running away on October 6th with her 32k $ bag..](http://9gag.com/gag/awyor6R)
  - 😝 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
- - 💣 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
- - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
- - 👉 [Bonk](http://9gag.com/gag/aBy0DvQ)<!-- MEMES:END -->
+ - 💣 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
 
 ---
 

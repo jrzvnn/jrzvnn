@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having disagreement is racism?](http://9gag.com/gag/aBygRpz)
- - 😝 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 💣 [Onlyfans visualised](http://9gag.com/gag/aD2gR9B)
- - 😝 [Refugees](http://9gag.com/gag/ayNo7YY)
- - 👉 [Asymmetrical warfare](http://9gag.com/gag/a0eRv4d)<!-- MEMES:END -->
+ - 😝 [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
+ - 😝 [\u201cFeminism\u201d](http://9gag.com/gag/a34QV6v)
+ - 💣 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
+ - 😝 [Netflix should take note](http://9gag.com/gag/aPARwGq)
+ - 👉 [Yellow stone park](http://9gag.com/gag/apR5K6M)<!-- MEMES:END -->
 
 ---
 

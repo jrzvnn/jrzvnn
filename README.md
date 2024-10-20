@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is everyone alright??](http://9gag.com/gag/aPARvGw)
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 💣 [Prank](http://9gag.com/gag/ayNoEAX)
  - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 💣 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
- - 😝 [Maui the demigod](http://9gag.com/gag/aVv0jev)
- - 👉 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)<!-- MEMES:END -->
+ - 👉 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)<!-- MEMES:END -->
 
 ---
 

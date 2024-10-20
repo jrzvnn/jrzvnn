@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 💣 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
- - 😝 [Black ice on the road is dangerous as hell](http://9gag.com/gag/aPAR6MK)
- - 👉 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)<!-- MEMES:END -->
+ - 😝 [Maui the demigod](http://9gag.com/gag/aVv0jev)
+ - 😝 [Imagine just wanting to get home after a hard day at work and this bozo is aboard](http://9gag.com/gag/aD2gRWN)
+ - 💣 [Nobody touch the metal.](http://9gag.com/gag/aBygKyx)
+ - 😝 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)
+ - 👉 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)<!-- MEMES:END -->
 
 ---
 

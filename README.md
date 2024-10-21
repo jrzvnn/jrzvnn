@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Sophos plans to acquire Atlanta-based cybersecurity company Secureworks for ~$859M, expected to close in early 2025; Dell owns ~79% of Secureworks &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/241021/p16#a241021p16)
  - [Vampire Survivors comes full-circle with Castlevania DLC expansion](https://www.theverge.com/2024/10/21/24275710/vampire-survivors-ode-to-castlevania-dlc-konami-collaboration-expansion)
  - [14 Best Bluetooth Speakers Our Testers Jammed With in 2024](https://www.wired.com/gallery/best-bluetooth-speakers/)
  - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
- - [Sources: Tim Cook helped Nike secure Elliott Hill as CEO in September, and has carved out a role as one of Nike&#39;s closest outside advisers during a turnaround &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p15#a241021p15)
- - [AMD unveils Zen 5-based X3D desktop CPUs, arriving November 7, but offers few details and no price, ahead of Intel&#39;s Core Ultra 200-series launch on October 24 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241021/p14#a241021p14)<!-- TECH:END -->
+ - [Sources: Tim Cook helped Nike secure Elliott Hill as CEO in September, and has carved out a role as one of Nike&#39;s closest outside advisers during a turnaround &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p15#a241021p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

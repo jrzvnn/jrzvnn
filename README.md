@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 😝 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
- - 💣 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 😝 [Apply lotion, with care and caution](http://9gag.com/gag/a4PRLzm)
+ - 😝 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
+ - 💣 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - 😝 [Things the new dude has to do](http://9gag.com/gag/a1mRYov)
+ - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
 
 ---
 

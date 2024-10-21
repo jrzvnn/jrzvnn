@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the cluck!](http://9gag.com/gag/a4PRpR6)
- - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 💣 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 💣 [Is this peak ?](http://9gag.com/gag/awyoNzB)
  - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)<!-- MEMES:END -->
+ - 👉 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)<!-- MEMES:END -->
 
 ---
 

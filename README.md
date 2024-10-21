@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
+ - 😝 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
+ - 😝 [Why are people so dense?](http://9gag.com/gag/aLn0P4V)
+ - 💣 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
  - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 💣 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
- - 👉 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)<!-- MEMES:END -->
+ - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
 
 ---
 

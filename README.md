@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intuit CEO Sasan Goodarzi on AI, tax, and more; in a follow-up, an exec said &quot;at the very least the end portion of your interview should be deleted&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241021/p12#a241021p12)
- - [Tropical Storm Oscar is making Cuba’s nationwide power outage even worse](https://www.theverge.com/2024/10/21/24275647/cuba-power-outage-tropical-storm-oscar)
- - [Seattle-based Carbon Robotics, which offers an AI-powered deweeding robot for farmers, raised a $70M Series D led by BOND, taking its total funding to $157M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/241021/p11#a241021p11)
- - [Intuit asked us to delete part of this Decoder episode](https://www.theverge.com/2024/10/21/24273820/intuit-ceo-sasan-goodarzi-turbotax-irs-quickbooks-ai-software-decoder-interview)
- - [Apple&#39;s AirPods Pro 2&#39;s impressive hearing test launch date confirmed](https://appleinsider.com/articles/24/10/21/apples-airpods-pro-2s-impressive-hearing-test-launch-date-confirmed?utm_medium=rss)<!-- TECH:END -->
+ - [Safeguarding mobile privacy: why an iPhone needs a VPN](https://appleinsider.com/articles/24/10/21/safeguarding-mobile-privacy-why-an-iphone-needs-a-vpn?utm_medium=rss)
+ - [8 Amazingly Thoughtful Gifts for Your Coworkers &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-coworkers/)
+ - [AMD’s highly anticipated 9000-series X3D desktop CPUs arrive on November 7th](https://www.theverge.com/2024/10/21/24273397/amd-ryzen-x3d-processor-zen-5-release-date)
+ - [Zip, which uses AI to help businesses manage buying goods and services, raised $190M led by BOND at a $2.2B valuation, up from $1.5B in May 2023 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241021/p13#a241021p13)
+ - [Q&amp;A with Intuit CEO Sasan Goodarzi on AI, tax, and more; in a follow-up, an exec said &quot;at the very least the end portion of your interview should be deleted&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241021/p12#a241021p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

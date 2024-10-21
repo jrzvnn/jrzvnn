@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)
- - 😝 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
- - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
- - 👉 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)<!-- MEMES:END -->
+ - 😝 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
+ - 💣 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
+ - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
 
 ---
 

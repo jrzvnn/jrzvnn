@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
  - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 😝 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
+ - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 💣 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
+ - 😝 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
  - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
 
 ---

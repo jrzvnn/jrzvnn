@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nolah Mattresses Review 2024: A Bed for Everyone](https://www.cnet.com/health/sleep/nolah-mattresses-review/#ftag=CAD590a51e)
  - [At a protest in SF, blind Uber and Lyft users claim the companies aren&#39;t doing enough to prevent drivers from turning away passengers with visual impairments &lpar;Wired&rpar;](http://www.techmeme.com/241020/p7#a241020p7)
- - [Michelle Yeoh’s Star Trek spy movie has a release date](https://www.theverge.com/2024/10/20/24274900/star-trek-section-31-michelle-yeoh-paramount-plus-streaming-premiere-date)
- - [Best Internet Providers in Spring Hill, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-spring-hill-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in San Diego, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)
- - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,349](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)<!-- TECH:END -->
+ - [I&#39;ve Been Sleeping on a Purple Mattress for 5 Years. Here&#39;s What You Need to Know Before Trying One For Yourself.](https://www.cnet.com/health/sleep/a-5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
+ - [Michelle Yeoh’s Star Trek spy movie has a release date](https://www.theverge.com/2024/10/20/24274900/star-trek-section-31-michelle-yeoh-paramount-plus-streaming-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

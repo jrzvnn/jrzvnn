@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could announce new Macs with M4 chip at October event, alongside redesigned Mac Mini](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
+ - [Apple could announce redesigned Mac mini with M4 at October event](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
  - [iRobot’s budget-friendly Roombas add a self-emptying option](https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock)
  - [Save $120 on an Acer Chromebook Plus at Best Buy](https://www.cnet.com/deals/save-120-on-an-acer-chromebook-plus-at-best-buy/#ftag=CAD590a51e)
  - [Best Google Pixel Deals: Score a Pixel 9 Series Phone or Previous Model for Less](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)

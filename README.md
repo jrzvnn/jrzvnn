@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says it ditched plastic air pillows](https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging)
  - [One-third of DHS’s border surveillance cameras don’t even work](https://www.theverge.com/2024/10/21/24276110/border-patrol-surveillance-cameras-not-working-mark-green)
  - [EssilorLuxottica CFO says Ray-Ban Meta glasses are a &quot;success&quot; in the US and the best-seller &quot;in 60%&quot; of Ray-Ban stores in Europe, the Middle East, and Africa &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241021/p22#a241021p22)
  - [New in iOS 18.1: RCS support for Business Messaging, fixes for the random restart bug on iPhone 16 Pro](https://appleinsider.com/articles/24/10/21/new-in-ios-181-rcs-support-for-business-messaging-fixes-for-the-random-restart-bug-on-iphone-16-pro?utm_medium=rss)
- - [Apple CEO Tim Cook continues to kick it with Nike almost 20 years later](https://appleinsider.com/articles/24/10/21/apple-ceo-tim-cook-continues-to-kick-it-with-nike-almost-20-years-later?utm_medium=rss)
- - [Qualcomm unveils the 8 Elite, a 3nm mobile chip with 2 prime and 6 performance CPU cores, claiming a 45% CPU boost over the 8 Gen 3, faster NPU and GPU, more &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241021/p21#a241021p21)<!-- TECH:END -->
+ - [Apple CEO Tim Cook continues to kick it with Nike almost 20 years later](https://appleinsider.com/articles/24/10/21/apple-ceo-tim-cook-continues-to-kick-it-with-nike-almost-20-years-later?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)
  - [Samsung’s Z Fold Special Edition flagship is here](https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs)
  - [Tracxn: Indian health tech-related startups raised $3.7B since 2022, about half of the $7.4B raised in the sector across the Asia Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p2#a241021p2)
  - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)
- - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 21, #1220](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-21-1220/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

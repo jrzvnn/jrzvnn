@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 😝 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)
- - 💣 [I need the degenerate version](http://9gag.com/gag/aXPjZXz)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [Maui the demigod](http://9gag.com/gag/aVv0jev)<!-- MEMES:END -->
+ - 😝 [White privileges](http://9gag.com/gag/aLn0PB5)
+ - 😝 [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)
+ - 💣 [Motivational](http://9gag.com/gag/avyoZ6Z)
+ - 😝 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
+ - 👉 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)<!-- MEMES:END -->
 
 ---
 

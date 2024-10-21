@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My precious](http://9gag.com/gag/aAygVEo)
- - 😝 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
- - 💣 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 👉 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)<!-- MEMES:END -->
+ - 😝 [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)
+ - 😝 [White privileges](http://9gag.com/gag/aLn0PB5)
+ - 💣 [Title](http://9gag.com/gag/aryo4o0)
+ - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 👉 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)<!-- MEMES:END -->
 
 ---
 

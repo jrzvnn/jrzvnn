@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
- - 💣 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
- - 😝 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)
- - 👉 [No title needed](http://9gag.com/gag/a9yR7WW)<!-- MEMES:END -->
+ - 😝 [True story, bro. It happened to me](http://9gag.com/gag/aGygRYK)
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 💣 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
+ - 😝 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
+ - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
 
 ---
 

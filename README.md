@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
- - 😝 [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
- - 💣 [Oh Canada](http://9gag.com/gag/aYQ7bGw)
  - 😝 [What the cluck!](http://9gag.com/gag/a4PRpR6)
- - 👉 [Was 2020 even real?](http://9gag.com/gag/aQz16ZW)<!-- MEMES:END -->
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 💣 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
+ - 👉 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)<!-- MEMES:END -->
 
 ---
 

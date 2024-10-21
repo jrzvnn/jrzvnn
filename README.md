@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can no longer sign up for Disney+ and Hulu via the App Store](https://appleinsider.com/articles/24/10/21/you-can-no-longer-sign-up-for-disney-and-hulu-via-the-app-store?utm_medium=rss)
+ - [Google’s taking the extra search box out of your search results](https://www.theverge.com/2024/10/21/24276184/google-sitelinks-search-box-discontinued)
  - [The Biden admin unveils proposed rules for restricting the transfer of US citizens&#39; sensitive data, including biometric and genomic info, to adversarial nations &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241021/p23#a241021p23)
  - [Elon Musk sued for using AI-generated Blade Runner imagery at robotaxi event](https://www.theverge.com/2024/10/21/24276092/alcon-entertainment-blade-runner-2049-tesla-musk-warner-bros-discovery-copyright)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Elon Musk&#39;s PAC Is Buying Ads for Donald Trump on Elon Musk&#39;s X](https://www.wired.com/story/elon-musks-pac-is-buying-ads-for-donald-trump-on-elon-musks-x/)
- - [Apple could announce redesigned Mac mini with M4 at October event](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

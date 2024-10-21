@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Google DeepMind&#39;s Demis Hassabis on his Nobel Prize being &quot;a watershed moment for AI&quot;, biology, AlphaFold 3, Isomorphic Labs, drug programs, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241021/p10#a241021p10)
  - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,299](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)
  - [A profile of and interview with Tim Cook on being &quot;perfectly fine with not being first&quot;, running Apple, Vision Pro, AI, the Design Studio, group chats, and more &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p9#a241021p9)
  - [Hands-on with Apple&#39;s hearing health features for AirPods Pro 2, set for iOS 18.1: hearing aids work well, hearing protection in all modes, and a hearing test &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241021/p8#a241021p8)
- - [ByteDance says it fired an intern in its ad tech team for &quot;maliciously interfering&quot; with AI training, and says operations were unaffected by their actions &lpar;Jo&amp;atilde;o da Silva/BBC&rpar;](http://www.techmeme.com/241021/p7#a241021p7)
- - [In the Kentucky Mountains, a Bitcoin Mining Dream Becomes the Stuff of Nightmares](https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/)<!-- TECH:END -->
+ - [ByteDance says it fired an intern in its ad tech team for &quot;maliciously interfering&quot; with AI training, and says operations were unaffected by their actions &lpar;Jo&amp;atilde;o da Silva/BBC&rpar;](http://www.techmeme.com/241021/p7#a241021p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

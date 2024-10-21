@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $120 on an Acer Chromebook Plus at Best Buy](https://www.cnet.com/deals/save-120-on-an-acer-chromebook-plus-at-best-buy/#ftag=CAD590a51e)
+ - [Best Google Pixel Deals: Score a Pixel 9 Series Phone or Previous Model for Less](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
  - [Amazon says it ditched plastic air pillows](https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging)
- - [One-third of DHS’s border surveillance cameras don’t even work](https://www.theverge.com/2024/10/21/24276110/border-patrol-surveillance-cameras-not-working-mark-green)
- - [EssilorLuxottica CFO says Ray-Ban Meta glasses are a &quot;success&quot; in the US and the best-seller &quot;in 60%&quot; of Ray-Ban stores in Europe, the Middle East, and Africa &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241021/p22#a241021p22)
- - [New in iOS 18.1: RCS support for Business Messaging, fixes for the random restart bug on iPhone 16 Pro](https://appleinsider.com/articles/24/10/21/new-in-ios-181-rcs-support-for-business-messaging-fixes-for-the-random-restart-bug-on-iphone-16-pro?utm_medium=rss)
- - [Apple CEO Tim Cook continues to kick it with Nike almost 20 years later](https://appleinsider.com/articles/24/10/21/apple-ceo-tim-cook-continues-to-kick-it-with-nike-almost-20-years-later?utm_medium=rss)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
+ - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

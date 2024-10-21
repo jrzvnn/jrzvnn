@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney no longer lets new and returning customers sign up for and buy subscriptions to Hulu or Disney+ through Apple&#39;s App Store, avoiding Apple&#39;s cut &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241021/p27#a241021p27)
  - [A civil rights org claims in a lawsuit that a VA town violated 4A protections by installing Flock cameras, making it &quot;impossible&quot; for citizens to move untracked &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241021/p26#a241021p26)
  - [Best E-Bikes and Scooters to Give in 2024](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give/#ftag=CAD590a51e)
  - [Best Minecraft Server Hosting Service of 2024](https://www.cnet.com/tech/services-and-software/best-minecraft-server-hosting/#ftag=CAD590a51e)
- - [Meta Testing Facial Recognition Designed to Spot Celebrity Scams](https://www.cnet.com/news/social-media/meta-testing-facial-recognition-designed-to-spot-celebrity-scams/#ftag=CAD590a51e)
- - [Everything Announced at Qualcomm&#39;s Snapdragon Summit 2024 video](https://www.cnet.com/videos/everything-announced-at-qualcomms-snapdragon-summit-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta Testing Facial Recognition Designed to Spot Celebrity Scams](https://www.cnet.com/news/social-media/meta-testing-facial-recognition-designed-to-spot-celebrity-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

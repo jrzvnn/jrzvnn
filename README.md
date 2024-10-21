@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
- - [Apple issues release candidates for Apple Intelligence OS updates](https://appleinsider.com/articles/24/10/21/apple-issues-release-candidates-for-apple-intelligence-os-updates?utm_medium=rss)
  - [News Corp sues Perplexity for ripping off WSJ and New York Post](https://www.theverge.com/2024/10/21/24275924/news-corp-wall-street-journal-perplexity-lawsuit-copyright-infringement)
+ - [Best VPN Deals: Enjoy More Digital Security for Just $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)
+ - [Samsung&#39;s Redesigned GalaxyBuds3 Make a Great Earbud Even Better](https://www.cnet.com/paid-content/news/samsungs-redesigned-galaxybuds3-make-a-great-earbud-even-better/#ftag=CAD590a51e)
  - [Dow Jones and New York Post sue AI startup Perplexity for alleged copyright infringement and say it hasn&#39;t replied to a July 2024 letter about copyright issues &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241021/p18#a241021p18)
- - [xAI launches an API for &quot;grok-beta&quot; priced at $5 per million input tokens or $15 per million output tokens; it is unclear which AI model &quot;grok-beta&quot; might be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241021/p17#a241021p17)<!-- TECH:END -->
+ - [Best iPhone 16 Deals: Enjoy This Powerful Apple Phone for Less](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

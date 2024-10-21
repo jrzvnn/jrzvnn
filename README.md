@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 💣 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [Title](http://9gag.com/gag/aqyg22Z)<!-- MEMES:END -->
+ - 😝 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
+ - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
+ - 😝 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
+ - 👉 [Bang bang](http://9gag.com/gag/aPAR4Nw)<!-- MEMES:END -->
 
 ---
 

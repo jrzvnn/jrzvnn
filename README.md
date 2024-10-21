@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 💣 [Is this peak ?](http://9gag.com/gag/awyoNzB)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)<!-- MEMES:END -->
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
+ - 💣 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
+ - 😝 [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
+ - 👉 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)<!-- MEMES:END -->
 
 ---
 

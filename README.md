@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s October Mac event or release plans still aren&#39;t clear](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
+ - [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)
+ - [A Lawsuit Against Perplexity Calls Out Fake News Hallucinations](https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/)
  - [Ireland adopts an Online Safety Code for video-sharing platforms headquartered in the country, including TikTok, YouTube, and Instagram, effective next month &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241021/p24#a241021p24)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [You can no longer sign up for Disney+ and Hulu via the App Store](https://appleinsider.com/articles/24/10/21/you-can-no-longer-sign-up-for-disney-and-hulu-via-the-app-store?utm_medium=rss)
- - [Google’s taking the extra search box out of your search results](https://www.theverge.com/2024/10/21/24276184/google-sitelinks-search-box-discontinued)
- - [The Biden admin unveils proposed rules for restricting the transfer of US citizens&#39; sensitive data, including biometric and genomic info, to adversarial nations &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241021/p23#a241021p23)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

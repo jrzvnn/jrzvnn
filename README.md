@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Stripe announces it has finalized a deal to acquire stablecoin infrastructure company Bridge; Michael Arrington says the deal was worth $1.1B &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/241021/p19#a241021p19)
  - [Apple issues release candidates for Apple Intelligence OS updates](https://appleinsider.com/articles/24/10/21/apple-issues-release-candidates-for-apple-intelligence-os-updates?utm_medium=rss)
  - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
- - [News Corp sues Perplexity for ripping off WSJ and New York Post](https://www.theverge.com/2024/10/21/24275924/news-corp-wall-street-journal-perplexity-lawsuit-copyright-infringement)
- - [Dow Jones and New York Post sue AI startup Perplexity for alleged copyright infringement and say it hasn&#39;t replied to a July 2024 letter about copyright issues &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241021/p18#a241021p18)<!-- TECH:END -->
+ - [News Corp sues Perplexity for ripping off WSJ and New York Post](https://www.theverge.com/2024/10/21/24275924/news-corp-wall-street-journal-perplexity-lawsuit-copyright-infringement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

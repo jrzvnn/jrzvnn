@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: a Russian espionage and hacking campaign targeted Georgia for years and breached its Foreign Ministry, Finance Ministry, central bank, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p6#a241021p6)
+ - [Cook says Apple wasn&#39;t first with AI, but will be the best](https://appleinsider.com/articles/24/10/21/cook-says-apple-wasnt-first-with-ai-but-will-be-the-best?utm_medium=rss)
+ - [How a Trump Win Could Unleash Dangerous AI](https://www.wired.com/story/donald-trump-ai-safety-regulation/)
  - [Microsoft unveils 10 new AI agents for its enterprise-focused Dynamics 365 apps covering sales, finance, and more, ahead of Salesforce&#39;s Agentforce availability &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241021/p5#a241021p5)
- - [US Government Says Relying on Chinese Lithium Batteries Is Too Risky](https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/)
- - [IBM launches its open source Granite 3.0 models, including 2B and 8B general purpose versions and Mixture-of-Experts models, aimed at enterprise customers &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/241021/p4#a241021p4)
- - [Nintendo’s mysterious Playtest begins to leak](https://www.theverge.com/2024/10/21/24275596/nintendo-switch-online-beta-playtest-program-leak-mmo)
- - [Best Cloud Storage Software Options](https://www.cnet.com/tech/services-and-software/best-cloud-storage-software-options/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Government Says Relying on Chinese Lithium Batteries Is Too Risky](https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

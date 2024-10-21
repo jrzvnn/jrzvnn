@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 💣 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
- - 😝 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
- - 👉 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)<!-- MEMES:END -->
+ - 😝 [17ft 400kg boat from the 1960s with a modern 250hp engine](http://9gag.com/gag/a2vRmYO)
+ - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
+ - 💣 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)
+ - 😝 [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)
+ - 👉 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)<!-- MEMES:END -->
 
 ---
 

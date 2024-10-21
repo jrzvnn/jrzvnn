@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 😝 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 💣 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
  - 😝 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
- - 💣 [Silencer](http://9gag.com/gag/azx17vz)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)<!-- MEMES:END -->
+ - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
 
 ---
 

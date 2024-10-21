@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Things the new dude has to do](http://9gag.com/gag/a1mRYov)
- - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
+ - 😝 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
+ - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 💣 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
+ - 😝 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)
+ - 👉 [No title needed](http://9gag.com/gag/a9yR7WW)<!-- MEMES:END -->
 
 ---
 

@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [17ft 400kg boat from the 1960s with a modern 250hp engine](http://9gag.com/gag/a2vRmYO)
  - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
- - 💣 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)
- - 😝 [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)
+ - 💣 [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)
+ - 😝 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)
  - 👉 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)<!-- MEMES:END -->
 
 ---

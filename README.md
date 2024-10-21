@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
- - 😝 [Let&#39;s see how many likes will Aztec get](http://9gag.com/gag/awyor0r)
- - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
- - 😝 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)
- - 👉 [Title](http://9gag.com/gag/aqyg22Z)<!-- MEMES:END -->
+ - 😝 [Things the new dude has to do](http://9gag.com/gag/a1mRYov)
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
 
 ---
 

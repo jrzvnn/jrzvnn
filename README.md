@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)
- - 😝 [White privileges](http://9gag.com/gag/aLn0PB5)
- - 💣 [Title](http://9gag.com/gag/aryo4o0)
- - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
- - 👉 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)<!-- MEMES:END -->
+ - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
+ - 😝 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)
+ - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 😝 [Damn, that meat might be older than some of the kids in that school](http://9gag.com/gag/a4PRdWd)
+ - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
 
 ---
 

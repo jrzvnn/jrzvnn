@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
- - 😝 [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)
- - 💣 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)
- - 😝 [The design is very human](http://9gag.com/gag/an75NLB)
- - 👉 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)<!-- MEMES:END -->
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 😝 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
+ - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
 
 ---
 

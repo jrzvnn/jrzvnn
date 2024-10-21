@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
- - 😝 [Why are people so dense?](http://9gag.com/gag/aLn0P4V)
- - 💣 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 😝 [Hello! This is me in the video](http://9gag.com/gag/a34RL2N)
+ - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 💣 [Title](http://9gag.com/gag/aqyg22Z)
+ - 😝 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
+ - 👉 [Today collected 15kg of garbage total is 3305kg. I want to thank you all the people support me. I show my 9GAG page and all the comments and we are planning big eco launch to pick up garbage all over my country. Your Cleaning Guy.](http://9gag.com/gag/a1mRZnP)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Russian officials buy four times more iPhones after ban](https://appleinsider.com/articles/24/10/21/russian-officials-buy-four-times-more-iphones-after-ban?utm_medium=rss)
- - [UK-based Sophos plans to acquire Atlanta-based cybersecurity company Secureworks for ~$859M, expected to close in early 2025; Dell owns ~79% of Secureworks &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/241021/p16#a241021p16)
- - [Vampire Survivors comes full-circle with Castlevania DLC expansion](https://www.theverge.com/2024/10/21/24275710/vampire-survivors-ode-to-castlevania-dlc-konami-collaboration-expansion)
- - [14 Best Bluetooth Speakers Our Testers Jammed With in 2024](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
+ - [Four Signs You Have an Unhealthy Gut and How to Fix It](https://www.cnet.com/health/medical/four-signs-you-have-an-unhealthy-gut-and-how-to-fix-it/#ftag=CAD590a51e)
+ - [Android 15: Best New Features You Can Try video](https://www.cnet.com/videos/android-15-best-new-features-you-can-try/#ftag=CAD590a51e)
+ - [Best Internet Providers in St. Louis, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

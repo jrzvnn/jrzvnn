@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)
  - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 21, #1220](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-21-1220/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 21, #498](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-21-498/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 21, #232](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-21-232/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 21, #28](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-21-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 21, #232](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-21-232/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

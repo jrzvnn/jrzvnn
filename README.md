@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 😝 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
+ - 💣 [Silencer](http://9gag.com/gag/azx17vz)
  - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 😝 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)
- - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [Damn, that meat might be older than some of the kids in that school](http://9gag.com/gag/a4PRdWd)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 👉 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)<!-- MEMES:END -->
 
 ---
 

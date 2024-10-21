@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 💣 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
+ - 💣 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
  - 😝 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 👉 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple CEO Tim Cook continues to kick it with Nike almost 20 years later](https://appleinsider.com/articles/24/10/21/apple-ceo-tim-cook-continues-to-kick-it-with-nike-almost-20-years-later?utm_medium=rss)
  - [Qualcomm unveils the 8 Elite, a 3nm mobile chip with 2 prime and 6 performance CPU cores, claiming a 45% CPU boost over the 8 Gen 3, faster NPU and GPU, more &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241021/p21#a241021p21)
- - [Streamer’s apology for racist rant exposes the rot in streaming culture](https://www.theverge.com/2024/10/21/24275996/asmongold-palestinians-racist-rant-apology-twitch-streaming-culture)
- - [ICE&#39;s $2 Million Contract With a Spyware Vendor Is Under White House Review](https://www.wired.com/story/ice-paragon-contract-white-house-review/)
- - [Qualcomm’s new mobile chip is the 8 Elite](https://www.theverge.com/2024/10/21/24273802/qualcomm-8-elite-oryon-cpu-android-smartphone-soc)<!-- TECH:END -->
+ - [Best Deals on Earbuds and Headphones: Upgrade Your Audio Game With Apple, Beats, Samsung and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [Qualcomm&#39;s Snapdragon 8 Elite Chip Aims to Level Up AI on Android Phones](https://www.cnet.com/tech/mobile/qualcomms-snapdragon-8-elite-chip-aims-to-level-up-ai-on-android-phones/#ftag=CAD590a51e)
+ - [Keep Your New iPhone 16 Protected With Apple Cases Now Down to Just $25](https://www.cnet.com/deals/keep-your-new-iphone-16-protected-with-apple-cases-now-down-to-just-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

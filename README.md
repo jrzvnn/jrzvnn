@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Magic Keyboard, Magic Trackpad, &amp; Magic Mouse may soon be upgraded with USB-C](https://appleinsider.com/articles/24/10/21/magic-keyboard-magic-trackpad-magic-mouse-may-soon-be-upgraded-with-usb-c?utm_medium=rss)
  - [Blade Runner 2049&#39;s producer sues Musk, Tesla, and WBD for allegedly using AI to create imagery close to the film, despite a denied request, to promote Cybercab &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/241021/p20#a241021p20)
  - [Tesla’s Cybertruck range extender just became an even worse deal](https://www.theverge.com/2024/10/21/24275970/tesla-cybertruck-range-extender-worse-deal-delay)
  - [Russian Propaganda Unit Appears to Be Behind Spread of False Tim Walz Sexual Abuse Claims](https://www.wired.com/story/russian-propaganda-unit-storm-1516-false-tim-walz-sexual-abuse-claims/)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Fold 6 Deals: Save Big on a New Phone With a Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

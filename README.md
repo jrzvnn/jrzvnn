@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apply lotion, with care and caution](http://9gag.com/gag/a4PRLzm)
- - 😝 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
- - 💣 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 😝 [Things the new dude has to do](http://9gag.com/gag/a1mRYov)
+ - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 😝 [Bang bang](http://9gag.com/gag/aPAR4Nw)
+ - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
+ - 😝 [Let&#39;s see how many likes will Aztec get](http://9gag.com/gag/awyor0r)
  - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
 
 ---

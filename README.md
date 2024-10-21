@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
- - 😝 [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
- - 💣 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [Enjoy married life lol](http://9gag.com/gag/aND0e30)
- - 👉 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)<!-- MEMES:END -->
+ - 😝 [My precious](http://9gag.com/gag/aAygVEo)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 💣 [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
+ - 😝 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
+ - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
 
 ---
 

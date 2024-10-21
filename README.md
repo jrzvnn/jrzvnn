@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Streamer’s apology for racist rant exposes the rot in streaming culture](https://www.theverge.com/2024/10/21/24275996/asmongold-palestinians-racist-rant-apology-twitch-streaming-culture)
+ - [ICE&#39;s $2 Million Contract With a Spyware Vendor Is Under White House Review](https://www.wired.com/story/ice-paragon-contract-white-house-review/)
+ - [Qualcomm’s new mobile chip is the 8 Elite](https://www.theverge.com/2024/10/21/24273802/qualcomm-8-elite-oryon-cpu-android-smartphone-soc)
  - [Magic Keyboard, Magic Trackpad, &amp; Magic Mouse may soon be upgraded with USB-C](https://appleinsider.com/articles/24/10/21/magic-keyboard-magic-trackpad-magic-mouse-may-soon-be-upgraded-with-usb-c?utm_medium=rss)
- - [Blade Runner 2049&#39;s producer sues Musk, Tesla, and WBD for allegedly using AI to create imagery close to the film, despite a denied request, to promote Cybercab &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/241021/p20#a241021p20)
- - [Tesla’s Cybertruck range extender just became an even worse deal](https://www.theverge.com/2024/10/21/24275970/tesla-cybertruck-range-extender-worse-deal-delay)
- - [Russian Propaganda Unit Appears to Be Behind Spread of False Tim Walz Sexual Abuse Claims](https://www.wired.com/story/russian-propaganda-unit-storm-1516-false-tim-walz-sexual-abuse-claims/)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blade Runner 2049&#39;s producer sues Musk, Tesla, and WBD for allegedly using AI to create imagery close to the film, despite a denied request, to promote Cybercab &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/241021/p20#a241021p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

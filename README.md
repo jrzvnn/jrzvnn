@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Bluetooth Speakers Our Testers Jammed With in 2024](https://www.wired.com/gallery/best-bluetooth-speakers/)
  - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
  - [Sources: Tim Cook helped Nike secure Elliott Hill as CEO in September, and has carved out a role as one of Nike&#39;s closest outside advisers during a turnaround &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p15#a241021p15)
  - [AMD unveils Zen 5-based X3D desktop CPUs, arriving November 7, but offers few details and no price, ahead of Intel&#39;s Core Ultra 200-series launch on October 24 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241021/p14#a241021p14)
- - [Safeguarding mobile privacy: why an iPhone needs a VPN](https://appleinsider.com/articles/24/10/21/safeguarding-mobile-privacy-why-an-iphone-needs-a-vpn?utm_medium=rss)
- - [8 Amazingly Thoughtful Gifts for Your Coworkers &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-coworkers/)<!-- TECH:END -->
+ - [Safeguarding mobile privacy: why an iPhone needs a VPN](https://appleinsider.com/articles/24/10/21/safeguarding-mobile-privacy-why-an-iphone-needs-a-vpn?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

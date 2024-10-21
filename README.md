@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Apple&#39;s hearing health features, set to roll out in iOS 18.1: hearing protection in all AirPods modes, a hearing test, and AirPods hearing aids &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241021/p8#a241021p8)
  - [ByteDance says it fired an intern in its ad tech team for &quot;maliciously interfering&quot; with AI training, and says operations were unaffected by their actions &lpar;Jo&amp;atilde;o da Silva/BBC&rpar;](http://www.techmeme.com/241021/p7#a241021p7)
  - [In the Kentucky Mountains, a Bitcoin Mining Dream Becomes the Stuff of Nightmares](https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/)
  - [Apple AirPods Pro 2 With Hearing Aid Feature Review: A Promising Step](https://www.wired.com/review/apple-airpods-pro-2-with-hearing-aid-feature/)
- - [Apple’s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
- - [Investigation: a Russian espionage and hacking campaign targeted Georgia for years and breached its Foreign Ministry, Finance Ministry, central bank, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p6#a241021p6)<!-- TECH:END -->
+ - [Apple’s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

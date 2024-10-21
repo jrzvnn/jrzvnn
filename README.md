@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot’s budget-friendly Roombas add a self-emptying option](https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock)
  - [Save $120 on an Acer Chromebook Plus at Best Buy](https://www.cnet.com/deals/save-120-on-an-acer-chromebook-plus-at-best-buy/#ftag=CAD590a51e)
  - [Best Google Pixel Deals: Score a Pixel 9 Series Phone or Previous Model for Less](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
  - [Amazon says it ditched plastic air pillows](https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging)
- - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

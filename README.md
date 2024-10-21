@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: a Russian espionage and hacking campaign targeted Georgia for years and breached its Foreign Ministry, Finance Ministry, central bank, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p6#a241021p6)
- - [Cook says Apple wasn&#39;t first with AI, but will be the best](https://appleinsider.com/articles/24/10/21/cook-says-apple-wasnt-first-with-ai-but-will-be-the-best?utm_medium=rss)
- - [How a Trump Win Could Unleash Dangerous AI](https://www.wired.com/story/donald-trump-ai-safety-regulation/)
- - [Microsoft unveils 10 new AI agents for its enterprise-focused Dynamics 365 apps covering sales, finance, and more, ahead of Salesforce&#39;s Agentforce availability &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241021/p5#a241021p5)
- - [US Government Says Relying on Chinese Lithium Batteries Is Too Risky](https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/)<!-- TECH:END -->
+ - [ByteDance says it fired an intern in its ad tech team for &quot;maliciously interfering&quot; with AI training, and says operations were unaffected by their actions &lpar;Jo&amp;atilde;o da Silva/BBC&rpar;](http://www.techmeme.com/241021/p7#a241021p7)
+ - [In the Kentucky Mountains, a Bitcoin Mining Dream Becomes the Stuff of Nightmares](https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/)
+ - [Apple AirPods Pro 2 With Hearing Aid Feature Review: A Promising Step](https://www.wired.com/review/apple-airpods-pro-2-with-hearing-aid-feature/)
+ - [Apple’s AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
+ - [Investigation: a Russian espionage and hacking campaign targeted Georgia for years and breached its Foreign Ministry, Finance Ministry, central bank, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p6#a241021p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

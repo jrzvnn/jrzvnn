@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Intuit CEO Sasan Goodarzi on AI, tax, and more; in a follow-up, an exec said &quot;at the very least the end portion of your interview should be deleted&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241021/p12#a241021p12)
  - [Tropical Storm Oscar is making Cuba’s nationwide power outage even worse](https://www.theverge.com/2024/10/21/24275647/cuba-power-outage-tropical-storm-oscar)
  - [Seattle-based Carbon Robotics, which offers an AI-powered deweeding robot for farmers, raised a $70M Series D led by BOND, taking its total funding to $157M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/241021/p11#a241021p11)
  - [Intuit asked us to delete part of this Decoder episode](https://www.theverge.com/2024/10/21/24273820/intuit-ceo-sasan-goodarzi-turbotax-irs-quickbooks-ai-software-decoder-interview)
- - [Apple&#39;s AirPods Pro 2&#39;s impressive hearing test launch date confirmed](https://appleinsider.com/articles/24/10/21/apples-airpods-pro-2s-impressive-hearing-test-launch-date-confirmed?utm_medium=rss)
- - [Disney’s still looking for a new CEO — but not this year or next year](https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger)<!-- TECH:END -->
+ - [Apple&#39;s AirPods Pro 2&#39;s impressive hearing test launch date confirmed](https://appleinsider.com/articles/24/10/21/apples-airpods-pro-2s-impressive-hearing-test-launch-date-confirmed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

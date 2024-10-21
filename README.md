@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian officials buy four times more iPhones after ban](https://appleinsider.com/articles/24/10/21/russian-officials-buy-four-times-more-iphones-after-ban?utm_medium=rss)
- - [Best VPN for Windows 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [Four Signs You Have an Unhealthy Gut and How to Fix It](https://www.cnet.com/health/medical/four-signs-you-have-an-unhealthy-gut-and-how-to-fix-it/#ftag=CAD590a51e)
- - [Android 15: Best New Features You Can Try video](https://www.cnet.com/videos/android-15-best-new-features-you-can-try/#ftag=CAD590a51e)
- - [Best Internet Providers in St. Louis, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Chinese Singles&#39; Day offers include an iPhone 16 price drop](https://appleinsider.com/articles/24/10/21/early-chinese-singles-day-offers-include-an-iphone-16-price-drop?utm_medium=rss)
+ - [Sonos Arc Ultra, Car Key expands, &amp; Shortcuts automations with Clicks on HomeKit Insider](https://appleinsider.com/articles/24/10/21/sonos-arc-ultra-car-key-expands-shortcuts-automations-with-clicks-on-homekit-insider?utm_medium=rss)
+ - [The 2025 Ford Mustang Mach-E gets sportier and more affordable](https://www.theverge.com/2024/10/21/24275797/ford-mustang-mache-2025-heat-pump-bluecruise-design)
+ - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
+ - [Russian officials buy four times more iPhones after ban](https://appleinsider.com/articles/24/10/21/russian-officials-buy-four-times-more-iphones-after-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

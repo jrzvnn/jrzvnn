@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 💣 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
- - 😝 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)
- - 👉 [She&#39;s 40](http://9gag.com/gag/aGygwy6)<!-- MEMES:END -->
+ - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 😝 [Bang bang](http://9gag.com/gag/aPAR4Nw)
+ - 💣 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
+ - 😝 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
+ - 👉 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)<!-- MEMES:END -->
 
 ---
 

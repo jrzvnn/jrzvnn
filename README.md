@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New price drops hit Apple&#39;s M3 MacBook Air, on sale from $899](https://appleinsider.com/articles/24/10/21/new-price-drops-hit-apples-m3-macbook-air-on-sale-from-899?utm_medium=rss)
- - [iPhone SE 4 mockup shows 6.1-inch screen with TrueDepth notch](https://appleinsider.com/articles/24/10/21/iphone-se-4-mockup-shows-61-inch-screen-with-truedepth-notch?utm_medium=rss)
- - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
- - [Kwikset’s Newest Lock Has the Best Door Sensor I’ve Ever Seen](https://www.wired.com/story/kwikset-halo-select-announcement/)
- - [Pixel 9 Pro Fold vs. Galaxy Z Fold 6: How Google and Samsung&#39;s Latest Foldables Stack Up](https://www.cnet.com/tech/mobile/pixel-9-pro-fold-vs-galaxy-z-fold-6-how-google-and-samsung-foldable-phones-stack-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seattle-based Carbon Robotics, which offers an AI-powered deweeding robot for farmers, raised a $70M Series D led by BOND, taking its total funding to $157M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/241021/p11#a241021p11)
+ - [Apple&#39;s AirPods Pro 2&#39;s impressive hearing test launch date confirmed](https://appleinsider.com/articles/24/10/21/apples-airpods-pro-2s-impressive-hearing-test-launch-date-confirmed?utm_medium=rss)
+ - [Disney’s still looking for a new CEO — but not this year, or next year](https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger)
+ - [The Volkswagen ID Buzz Is Finally Here. We Took the Electric Microbus for a Drive](https://www.wired.com/story/2025-volkswagen-id-buzz-test-drive-first-impressions/)
+ - [New price drops hit Apple&#39;s M3 MacBook Air, on sale from $899](https://appleinsider.com/articles/24/10/21/new-price-drops-hit-apples-m3-macbook-air-on-sale-from-899?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI launches an API for &quot;grok-beta&quot; priced at $5 per million input tokens or $15 per million output tokens; it is unclear which AI model &quot;grok-beta&quot; might be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241021/p17#a241021p17)
- - [‘I woke up and had the whole idea in my head’: returning to Area X with Jeff VanderMeer](https://www.theverge.com/2024/10/21/24275853/jeff-vandermeer-interview-absolution-area-x-southern-reach)
- - [Tiger Woods’ new tech golf league brings big screens to the green in January](https://www.theverge.com/2024/10/21/24275825/tiger-woods-tgl-tech-golf-league-launch-january-espn-plus)
- - [Anker’s Solix C300 DC power station has hit a new low price for Verge readers](https://www.theverge.com/2024/10/21/24275682/anker-solix-c300-dc-portable-power-station-iphone-16-pro-max-case-deal-sale)
- - [The GameCube’s retro styling lives on in this customized PS5 DualSense controller](https://www.theverge.com/2024/10/21/24275805/killscreen-cubesense-ps5-dualsense-controller-nintendo-gamecube)<!-- TECH:END -->
+ - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
+ - [Apple issues release candidates for Apple Intelligence OS updates](https://appleinsider.com/articles/24/10/21/apple-issues-release-candidates-for-apple-intelligence-os-updates?utm_medium=rss)
+ - [News Corp sues Perplexity for ripping off WSJ and New York Post](https://www.theverge.com/2024/10/21/24275924/news-corp-wall-street-journal-perplexity-lawsuit-copyright-infringement)
+ - [Dow Jones and New York Post sue AI startup Perplexity for alleged copyright infringement and say it hasn&#39;t replied to a July 2024 letter about copyright issues &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241021/p18#a241021p18)
+ - [xAI launches an API for &quot;grok-beta&quot; priced at $5 per million input tokens or $15 per million output tokens; it is unclear which AI model &quot;grok-beta&quot; might be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241021/p17#a241021p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New price drops hit Apple&#39;s M3 MacBook Air, on sale from $899](https://appleinsider.com/articles/24/10/21/new-price-drops-hit-apples-m3-macbook-air-on-sale-from-899?utm_medium=rss)
+ - [iPhone SE 4 mockup shows 6.1-inch screen with TrueDepth notch](https://appleinsider.com/articles/24/10/21/iphone-se-4-mockup-shows-61-inch-screen-with-truedepth-notch?utm_medium=rss)
+ - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
  - [Kwikset’s Newest Lock Has the Best Door Sensor I’ve Ever Seen](https://www.wired.com/story/kwikset-halo-select-announcement/)
- - [Kwikset takes a smart approach with its new smart lock](https://www.theverge.com/2024/10/21/24273662/kwikset-halo-select-new-smart-lock-matter-thread-wifi)
- - [Q&amp;A with Google DeepMind&#39;s Demis Hassabis on his Nobel Prize being &quot;a watershed moment for AI&quot;, biology, AlphaFold 3, Isomorphic Labs, drug programs, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241021/p10#a241021p10)
- - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,299](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)
- - [A profile of and interview with Tim Cook on being &quot;perfectly fine with not being first&quot;, running Apple, Vision Pro, AI, the Design Studio, group chats, and more &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p9#a241021p9)<!-- TECH:END -->
+ - [Pixel 9 Pro Fold vs. Galaxy Z Fold 6: How Google and Samsung&#39;s Latest Foldables Stack Up](https://www.cnet.com/tech/mobile/pixel-9-pro-fold-vs-galaxy-z-fold-6-how-google-and-samsung-foldable-phones-stack-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

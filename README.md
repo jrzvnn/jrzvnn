@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could announce redesigned Mac mini with M4 at October event](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
- - [iRobot’s budget-friendly Roombas add a self-emptying option](https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock)
- - [Save $120 on an Acer Chromebook Plus at Best Buy](https://www.cnet.com/deals/save-120-on-an-acer-chromebook-plus-at-best-buy/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Score a Pixel 9 Series Phone or Previous Model for Less](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Amazon says it ditched plastic air pillows](https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging)<!-- TECH:END -->
+ - [The Biden admin unveils proposed rules for restricting the transfer of US citizens&#39; sensitive data, including biometric and genomic info, to adversarial nations &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241021/p23#a241021p23)
+ - [Elon Musk sued for using AI-generated Blade Runner imagery at robotaxi event](https://www.theverge.com/2024/10/21/24276092/alcon-entertainment-blade-runner-2049-tesla-musk-warner-bros-discovery-copyright)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Elon Musk&#39;s PAC Is Buying Ads for Donald Trump on Elon Musk&#39;s X](https://www.wired.com/story/elon-musks-pac-is-buying-ads-for-donald-trump-on-elon-musks-x/)
+ - [Apple could announce redesigned Mac mini with M4 at October event](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Samsung’s Z Fold Special Edition flagship is here](https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs)
  - [Tracxn: Indian health tech-related startups raised $3.7B since 2022, about half of the $7.4B raised in the sector across the Asia Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p2#a241021p2)
  - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)
- - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)<!-- TECH:END -->
+ - [A look at the Harris campaign&#39;s outreach to the tech sector, as it tries to convince companies that she&#39;ll chart her own course while avoiding policy specifics &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

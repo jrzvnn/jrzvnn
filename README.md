@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
  - 😝 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
- - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
  - 😝 [Let&#39;s see how many likes will Aztec get](http://9gag.com/gag/awyor0r)
+ - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
+ - 😝 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)
  - 👉 [Title](http://9gag.com/gag/aqyg22Z)<!-- MEMES:END -->
 
 ---

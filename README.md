@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [True story, bro. It happened to me](http://9gag.com/gag/aGygRYK)
  - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 💣 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
- - 😝 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
- - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
+ - 💣 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - 😝 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
+ - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
 
 ---
 

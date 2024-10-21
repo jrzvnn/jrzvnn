@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EssilorLuxottica CFO says Ray-Ban Meta glasses are a &quot;success&quot; in the US and the best-seller &quot;in 60%&quot; of Ray-Ban stores in Europe, the Middle East, and Africa &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241021/p22#a241021p22)
+ - [New in iOS 18.1: RCS support for Business Messaging, fixes for the random restart bug on iPhone 16 Pro](https://appleinsider.com/articles/24/10/21/new-in-ios-181-rcs-support-for-business-messaging-fixes-for-the-random-restart-bug-on-iphone-16-pro?utm_medium=rss)
  - [Apple CEO Tim Cook continues to kick it with Nike almost 20 years later](https://appleinsider.com/articles/24/10/21/apple-ceo-tim-cook-continues-to-kick-it-with-nike-almost-20-years-later?utm_medium=rss)
  - [Qualcomm unveils the 8 Elite, a 3nm mobile chip with 2 prime and 6 performance CPU cores, claiming a 45% CPU boost over the 8 Gen 3, faster NPU and GPU, more &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241021/p21#a241021p21)
- - [Best Deals on Earbuds and Headphones: Upgrade Your Audio Game With Apple, Beats, Samsung and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Qualcomm&#39;s Snapdragon 8 Elite Chip Aims to Level Up AI on Android Phones](https://www.cnet.com/tech/mobile/qualcomms-snapdragon-8-elite-chip-aims-to-level-up-ai-on-android-phones/#ftag=CAD590a51e)
- - [Keep Your New iPhone 16 Protected With Apple Cases Now Down to Just $25](https://www.cnet.com/deals/keep-your-new-iphone-16-protected-with-apple-cases-now-down-to-just-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on Earbuds and Headphones: Upgrade Your Audio Game With Apple, Beats, Samsung and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nintendo’s mysterious Playtest begins to leak](https://www.theverge.com/2024/10/21/24275596/nintendo-switch-online-beta-playtest-program-leak-mmo)
- - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)
- - [Samsung’s Z Fold Special Edition flagship is here](https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs)
- - [Tracxn: Indian health tech-related startups raised $3.7B since 2022, about half of the $7.4B raised in the sector across the Asia Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p2#a241021p2)
- - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)<!-- TECH:END -->
+ - [Best Cloud Storage Software Options](https://www.cnet.com/tech/services-and-software/best-cloud-storage-software-options/#ftag=CAD590a51e)
+ - [Best CD Rates Today, Oct. 21, 2024: Last Call for APYs Up to 4.75%?](https://www.cnet.com/personal-finance/banking/cd-rates-today-oct-21-2024/#ftag=CAD590a51e)
+ - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
+ - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

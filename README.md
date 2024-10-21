@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello! This is me in the video](http://9gag.com/gag/a34RL2N)
- - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
- - 💣 [Title](http://9gag.com/gag/aqyg22Z)
- - 😝 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
- - 👉 [Today collected 15kg of garbage total is 3305kg. I want to thank you all the people support me. I show my 9GAG page and all the comments and we are planning big eco launch to pick up garbage all over my country. Your Cleaning Guy.](http://9gag.com/gag/a1mRZnP)<!-- MEMES:END -->
+ - 😝 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
+ - 😝 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
+ - 💣 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 👉 [That level of patience](http://9gag.com/gag/aW4EQj6)<!-- MEMES:END -->
 
 ---
 

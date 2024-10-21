@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO Tim Cook continues to kick it with Nike almost 20 years later](https://appleinsider.com/articles/24/10/21/apple-ceo-tim-cook-continues-to-kick-it-with-nike-almost-20-years-later?utm_medium=rss)
+ - [Qualcomm unveils the 8 Elite, a 3nm mobile chip with 2 prime and 6 performance CPU cores, claiming a 45% CPU boost over the 8 Gen 3, faster NPU and GPU, more &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241021/p21#a241021p21)
  - [Streamer’s apology for racist rant exposes the rot in streaming culture](https://www.theverge.com/2024/10/21/24275996/asmongold-palestinians-racist-rant-apology-twitch-streaming-culture)
  - [ICE&#39;s $2 Million Contract With a Spyware Vendor Is Under White House Review](https://www.wired.com/story/ice-paragon-contract-white-house-review/)
- - [Qualcomm’s new mobile chip is the 8 Elite](https://www.theverge.com/2024/10/21/24273802/qualcomm-8-elite-oryon-cpu-android-smartphone-soc)
- - [Magic Keyboard, Magic Trackpad, &amp; Magic Mouse may soon be upgraded with USB-C](https://appleinsider.com/articles/24/10/21/magic-keyboard-magic-trackpad-magic-mouse-may-soon-be-upgraded-with-usb-c?utm_medium=rss)
- - [Blade Runner 2049&#39;s producer sues Musk, Tesla, and WBD for allegedly using AI to create imagery close to the film, despite a denied request, to promote Cybercab &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/241021/p20#a241021p20)<!-- TECH:END -->
+ - [Qualcomm’s new mobile chip is the 8 Elite](https://www.theverge.com/2024/10/21/24273802/qualcomm-8-elite-oryon-cpu-android-smartphone-soc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

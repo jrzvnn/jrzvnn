@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
- - 😝 [Bang bang](http://9gag.com/gag/aPAR4Nw)
+ - 😝 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
  - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
  - 😝 [Let&#39;s see how many likes will Aztec get](http://9gag.com/gag/awyor0r)
- - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/aqyg22Z)<!-- MEMES:END -->
 
 ---
 

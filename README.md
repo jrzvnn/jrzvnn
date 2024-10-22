@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accel: Klarna alumni have founded 62 new startups, more than any $1B+ European fintech startup; Revolut alumni founded 49, and Wise and N26 alumni had 33 each &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241022/p5#a241022p5)
  - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
  - [Jack Sweeney says Meta suspended Instagram and Threads accounts tracking celebrities&#39; private jets, including Zuckerberg&#39;s; Meta cites a &quot;risk of physical harm&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241022/p3#a241022p3)
  - [Celebrity jet-tracking accounts have vanished from Threads and Instagram](https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended)
- - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
- - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August 2024, and revenue down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)<!-- TECH:END -->
+ - [Best Kamado Grill for 2024](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
- - 😝 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
- - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 😝 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
+ - 😝 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
+ - 💣 [Why are people so dense?](http://9gag.com/gag/aLn0P4V)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
 
 ---
 

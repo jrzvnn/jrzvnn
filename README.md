@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French publishers try again to get Apple to drop Distraction Control](https://appleinsider.com/articles/24/10/22/french-publishers-try-again-to-get-apple-to-drop-distraction-control?utm_medium=rss)
  - [How to Close the Gender Health Gap](https://www.wired.com/story/how-to-close-the-gender-health-gap/)
  - [How the new AirPods Pro hearing features were developed](https://appleinsider.com/articles/24/10/22/how-the-new-airpods-pro-hearing-features-were-developed?utm_medium=rss)
  - [Netflix shut down AAA game studio &quot;Team Blue&quot;, which hired industry veterans and seemed set to pursue a big-budget multi-device strategy, amid a gaming shake-up &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/241022/p6#a241022p6)
- - [I Tried Hungryroot. It&#39;s a Quirky Mix of Meal Kits and Grocery Delivery to Fuel Your Busy Week](https://www.cnet.com/health/nutrition/hungryroot-review/#ftag=CAD590a51e)
- - [Accel: Klarna alumni have founded 62 new startups, more than any $1B+ European fintech startup; Revolut alumni founded 49, and Wise and N26 alumni had 33 each &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241022/p5#a241022p5)<!-- TECH:END -->
+ - [I Tried Hungryroot. It&#39;s a Quirky Mix of Meal Kits and Grocery Delivery to Fuel Your Busy Week](https://www.cnet.com/health/nutrition/hungryroot-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

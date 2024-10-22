@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The diddy treatment](http://9gag.com/gag/aqyg5vP)
- - 😝 [You know what they say about good deeds](http://9gag.com/gag/a7ow7px)
- - 💣 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)
- - 😝 [Long live the King Happy 66th](http://9gag.com/gag/aLn0Bmz)
- - 👉 [No title needed](http://9gag.com/gag/a9yR7WW)<!-- MEMES:END -->
+ - 😝 [Worry not, the next patch will fix it. Keep donating for it.](http://9gag.com/gag/aGygDwX)
+ - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
+ - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
 
 ---
 

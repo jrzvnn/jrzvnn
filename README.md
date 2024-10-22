@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [TSMC alerts U.S. to possible AI chip sanctions breach by Huawei](https://appleinsider.com/articles/24/10/22/tsmc-alerts-us-to-possible-ai-chip-sanctions-breach-by-huawei?utm_medium=rss)
+ - [Cruise lost $435 million this quarter, even with its robotaxis on hiatus](https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi)
  - [The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines](https://www.wired.com/story/nafo-ukraine-russia-war/)
  - [Microsoft’s refreshed Xbox Wireless Headset has a better mic and more battery life](https://www.theverge.com/2024/10/22/24276564/microsoft-xbox-wireless-headset-update-release-date-price-features)
- - [Canva has a shiny new text-to-image generator](https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo)
- - [Shark Cordless PowerDetect Stick Vacuum: Affordable Cleaning Prowess](https://www.wired.com/review/shark-cordless-powerdetect-stick-vacuum/)<!-- TECH:END -->
+ - [Canva has a shiny new text-to-image generator](https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

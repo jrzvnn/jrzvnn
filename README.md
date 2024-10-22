@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 😝 [Literally excites](http://9gag.com/gag/azx1EnZ)
- - 💣 [Chill Jill](http://9gag.com/gag/aoy5Znm)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 👉 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)<!-- MEMES:END -->
+ - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 💣 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 😝 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
+ - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 😝 [Make sense](http://9gag.com/gag/azx1EGB)
- - 💣 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
- - 😝 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
- - 👉 [What the Tokyo Drift theme does to a MF...](http://9gag.com/gag/aRB0KZQ)<!-- MEMES:END -->
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 😝 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 😝 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 ---
 

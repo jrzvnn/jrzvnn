@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
  - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 💣 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
- - 😝 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
- - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
+ - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - 😝 [The dilemma](http://9gag.com/gag/avyondM)
+ - 👉 [LMAO!!](http://9gag.com/gag/avyonZn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone users can try AT&amp;T via eSIM free for 30 days](https://appleinsider.com/articles/24/10/22/iphone-users-can-try-att-via-esim-free-for-30-days?utm_medium=rss)
+ - [Canva releases new generative AI features, including Dream Lab, an image generator powered by Leonardo.ai&#39;s Phoenix model; Canva acquired Leonardo.ai in July &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241022/p25#a241022p25)
  - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)
  - [The Joker sequel is heading home after less than a month in theaters](https://www.theverge.com/2024/10/22/24277037/joker-folie-a-deux-home-release-date)
- - [Want to Lower Your Heating Bill? This Small Appliance Can Help](https://www.cnet.com/home/kitchen-and-household/want-to-lower-your-heating-bill-a-space-heater-can-help/#ftag=CAD590a51e)
- - [Looking for Free Horror Movies? Tubi Has 22 of the Best](https://www.cnet.com/tech/services-and-software/looking-for-free-horror-movies-tubi-has-22-of-the-best/#ftag=CAD590a51e)
- - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Lower Your Heating Bill? This Small Appliance Can Help](https://www.cnet.com/home/kitchen-and-household/want-to-lower-your-heating-bill-a-space-heater-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

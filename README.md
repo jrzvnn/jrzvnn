@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Austin-based SchooLinks, whose SaaS offers college and career readiness resources for K-12 students, raised a $80M Series B led by Susquehanna Growth Equity &lpar;Zoya Hasan/Forbes&rpar;](http://www.techmeme.com/241021/p30#a241021p30)
+ - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)
  - [Mumbai-based Neysa, a provider of AI infrastructure to enterprise customers, raised a $30M Series A co-led by NTTVC, Z47, and Nexus Venture Partners &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241021/p29#a241021p29)
  - [The US DOD plans an initiative to recruit CTOs and other senior tech professionals as uniformed, paid reservists to help in cybersecurity, data analytics, more &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p28#a241021p28)
- - [Best Buy Has Slashed Prices on TP Link Smart Home Products by as Much as 40%](https://www.cnet.com/deals/best-buy-has-slashed-prices-on-tp-link-smart-home-products-by-as-much-as-40/#ftag=CAD590a51e)
- - [It Might Already Be Too Late to Register to Vote: Where Your State Stands](https://www.cnet.com/news/politics/it-might-already-be-too-late-to-register-to-vote-where-your-state-stands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Has Slashed Prices on TP Link Smart Home Products by as Much as 40%](https://www.cnet.com/deals/best-buy-has-slashed-prices-on-tp-link-smart-home-products-by-as-much-as-40/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

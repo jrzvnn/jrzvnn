@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
+ - 😝 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
+ - 💣 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
  - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
- - 💣 [Damn, that meat might be older than some of the kids in that school](http://9gag.com/gag/a4PRdWd)
- - 😝 [Make sense](http://9gag.com/gag/azx1EGB)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 👉 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)<!-- MEMES:END -->
 
 ---
 

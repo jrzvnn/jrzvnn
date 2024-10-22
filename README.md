@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TollBit, which recently launched a content monetization marketplace for publishers and AI companies, raised a $24M Series A led by Lightspeed Ventures &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p21#a241022p21)
- - [Exposed United Nations Database Left Sensitive Information Accessible Online](https://www.wired.com/story/un-women-database-exposure/)
- - [Air taxis and other electric-powered aircraft cleared for takeoff with final FAA rules](https://www.theverge.com/2024/10/22/24276873/faa-powered-lift-evtol-air-taxi-final-rule-sfar)
- - [Anthropic’s latest AI update can use a computer on its own](https://www.theverge.com/2024/10/22/24276822/anthopic-claude-3-5-sonnet-computer-use-ai)
- - [Apple seeds release candidate of watchOS 11.1](https://appleinsider.com/articles/24/10/22/apple-seeds-release-candidate-for-watchos-111?utm_medium=rss)<!-- TECH:END -->
+ - [Inbound M4 Mac updates rumored to arrive as early as October 28](https://appleinsider.com/articles/24/10/22/inbound-m4-mac-updates-rumored-to-arrive-as-early-as-october-28?utm_medium=rss)
+ - [Asana launches AI Studio in early access, a no-code tool for designing AI agents that can be integrated into teams&#39; existing workflows &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/241022/p22#a241022p22)
+ - [Apple&#39;s iPad mini 6 falls to record low $349, making room for 7th Gen](https://appleinsider.com/articles/24/10/22/apples-ipad-mini-6-falls-to-record-low-349-making-room-for-7th-gen?utm_medium=rss)
+ - [Now you can unlock your door from Ecobee’s app](https://www.theverge.com/2024/10/22/24276776/ecobee-yale-august-smart-lock-doorbell-partnership)
+ - [TollBit, which recently launched a content monetization marketplace for publishers and AI companies, raised a $24M Series A led by Lightspeed Ventures &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p21#a241022p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

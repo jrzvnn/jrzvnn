@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T finally has a network test drive program](https://www.theverge.com/2024/10/22/24276899/try-att-free-30-day-trial-iphone-esim-5g-mobile-hotspot)
+ - [New firmware available for AirPods, AirPods Pro, and AirPods Max devices](https://appleinsider.com/articles/24/10/22/new-firmware-available-for-airpods-airpods-pro-and-airpods-max-devices?utm_medium=rss)
  - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)
  - [Tim Cook says he uses every Apple product every day — how does that work?](https://www.theverge.com/2024/10/22/24276142/tim-cook-wsj-interview-every-apple-product-every-day)
- - [Google Messages is trying to tackle today’s most annoying messaging spam](https://www.theverge.com/2024/10/22/24276895/google-messages-job-package-delivery-spam)
- - [The 50 Best Shows on Disney+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [OpenAI hires Scott Schools, most recently the chief ethics and compliance officer at Uber, as its chief compliance officer &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241022/p23#a241022p23)<!-- TECH:END -->
+ - [Google Messages is trying to tackle today’s most annoying messaging spam](https://www.theverge.com/2024/10/22/24276895/google-messages-job-package-delivery-spam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

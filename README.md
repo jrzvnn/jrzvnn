@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Runway rolls out Act-One, a Gen-3 Alpha tool for animating AI-generated characters with realistic facial expressions using video and voice recordings as inputs &lpar;Runway&rpar;](http://www.techmeme.com/241022/p29#a241022p29)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [Google rolls out enhanced scam detection to Google Messages beta users and previews other safety features, like an option to blur images that may contain nudity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241022/p28#a241022p28)
  - [Apple quietly releases second visionOS 2.1 RC to developers](https://appleinsider.com/articles/24/10/22/apple-quietly-releases-second-visionos-21-rc-to-developers?utm_medium=rss)
- - [Kevin Bacon, Kate McKinnon, and other creatives warn of ‘unjust’ AI threat](https://www.theverge.com/2024/10/22/24276994/ai-statement-training-data-copyright-threat-actors-authors-musicians-kevin-bacon-kate-mckinnon)
- - [A satellite made by Boeing just fell apart in space](https://www.theverge.com/2024/10/22/24277073/intelsat-33e-boeing-satellite-fell-apart-space)<!-- TECH:END -->
+ - [Kevin Bacon, Kate McKinnon, and other creatives warn of ‘unjust’ AI threat](https://www.theverge.com/2024/10/22/24276994/ai-statement-training-data-copyright-threat-actors-authors-musicians-kevin-bacon-kate-mckinnon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

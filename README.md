@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
  - 😝 [Literally excites](http://9gag.com/gag/azx1EnZ)
- - 💣 [She&#39;s 40](http://9gag.com/gag/aGygwy6)
- - 😝 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
- - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
+ - 💣 [Chill Jill](http://9gag.com/gag/aoy5Znm)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 👉 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)<!-- MEMES:END -->
 
 ---
 

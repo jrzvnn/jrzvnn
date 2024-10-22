@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T finally has a network test drive program](https://www.theverge.com/2024/10/22/24276899/try-att-free-30-day-trial-iphone-esim-5g-mobile-hotspot)
- - [New firmware available for AirPods, AirPods Pro, and AirPods Max devices](https://appleinsider.com/articles/24/10/22/new-firmware-available-for-airpods-airpods-pro-and-airpods-max-devices?utm_medium=rss)
- - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)
- - [A New Phone Chip Helps You Take the Perfect Pet Pawtrait. I Tried It Out](https://www.cnet.com/tech/mobile/a-new-phone-chip-helps-you-take-the-perfect-pet-pawtrait-i-tried-it-out/#ftag=CAD590a51e)
- - [Most Political Campaign Texts Aren&#39;t Scams, Experts Say](https://www.cnet.com/tech/services-and-software/political-campaign-texts-probably-arent-scams-but-they-are-spam/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Lower Your Heating Bill? This Small Appliance Can Help](https://www.cnet.com/home/kitchen-and-household/want-to-lower-your-heating-bill-a-space-heater-can-help/#ftag=CAD590a51e)
+ - [Looking for Free Horror Movies? Tubi Has 22 of the Best](https://www.cnet.com/tech/services-and-software/looking-for-free-horror-movies-tubi-has-22-of-the-best/#ftag=CAD590a51e)
+ - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
+ - [Best Internet Providers in Spokane, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-spokane-wa/#ftag=CAD590a51e)
+ - [World Series 2024: How to Watch Game 1 Yankees vs. Dodgers](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-game-1-yankees-vs-dodgers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

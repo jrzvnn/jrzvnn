@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
- - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
+ - 😝 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 😝 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 ---
 

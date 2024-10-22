@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 😝 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
- - 💣 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
  - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 👉 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)<!-- MEMES:END -->
+ - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - 😝 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rumored to be working on new game-focused App Store &amp; launcher](https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss)
+ - [It’s not just you: Amazon’s shopping app is trying a different look](https://www.theverge.com/2024/10/22/24276973/amazon-shopping-app-homepage-redesign-ui-update)
  - [iPhone users can try AT&amp;T via eSIM free for 30 days](https://appleinsider.com/articles/24/10/22/iphone-users-can-try-att-via-esim-free-for-30-days?utm_medium=rss)
  - [Canva releases new generative AI features, including Dream Lab, an image generator powered by Leonardo.ai&#39;s Phoenix model; Canva acquired Leonardo.ai in July &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241022/p25#a241022p25)
- - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)
- - [The Joker sequel is heading home after less than a month in theaters](https://www.theverge.com/2024/10/22/24277037/joker-folie-a-deux-home-release-date)
- - [Want to Lower Your Heating Bill? This Small Appliance Can Help](https://www.cnet.com/home/kitchen-and-household/want-to-lower-your-heating-bill-a-space-heater-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

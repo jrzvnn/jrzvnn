@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney no longer lets new and returning customers sign up for and buy subscriptions to Hulu or Disney+ through Apple&#39;s App Store, avoiding Apple&#39;s cut &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241021/p27#a241021p27)
- - [A civil rights org claims in a lawsuit that a VA town violated 4A protections by installing Flock cameras, making it &quot;impossible&quot; for citizens to move untracked &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241021/p26#a241021p26)
- - [Meta is testing the use of facial recognition to combat celebrity scam ads and to enable faster recovery of compromised accounts on Facebook and Instagram &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241021/p25#a241021p25)
- - [Apple&#39;s October Mac event or release plans still aren&#39;t clear](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
- - [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)<!-- TECH:END -->
+ - [Mumbai-based Neysa, a provider of AI infrastructure to enterprise customers, raised a $30M Series A co-led by NTTVC, Z47, and Nexus Venture Partners &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241021/p29#a241021p29)
+ - [The US DOD plans an initiative to recruit CTOs and other senior tech professionals as uniformed, paid reservists to help in cybersecurity, data analytics, more &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p28#a241021p28)
+ - [Best Buy Has Slashed Prices on TP Link Smart Home Products by as Much as 40%](https://www.cnet.com/deals/best-buy-has-slashed-prices-on-tp-link-smart-home-products-by-as-much-as-40/#ftag=CAD590a51e)
+ - [It Might Already Be Too Late to Register to Vote: Where Your State Stands](https://www.cnet.com/news/politics/it-might-already-be-too-late-to-register-to-vote-where-your-state-stands/#ftag=CAD590a51e)
+ - [7 of the Best Soft Mattresses of 2024](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

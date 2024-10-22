@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 💣 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
- - 😝 [When someone special greets you with joy.](http://9gag.com/gag/aVv0XOO)
- - 👉 [What the Tokyo Drift theme does to a MF...](http://9gag.com/gag/aRB0KZQ)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/aND0dnA)
+ - 😝 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
+ - 💣 [Jos\u00e8 the Chosen One.](http://9gag.com/gag/avyorXd)
+ - 😝 [Long short story the dagther didn&#39;t want to go to the paid lessons and the father took the lessons. Cool guy.](http://9gag.com/gag/aAygwvd)
+ - 👉 [Disgusting!](http://9gag.com/gag/amo5rEj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [He&#39;s not wrong though](http://9gag.com/gag/a5QR72N)
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 😝 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 😝 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 😝 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
+ - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
 
 ---
 

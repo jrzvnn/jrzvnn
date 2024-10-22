@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC alerts U.S. to possible AI chip sanctions breach by Huawei](https://appleinsider.com/articles/24/10/22/tsmc-alerts-us-to-possible-ai-chip-sanctions-breach-by-huawei?utm_medium=rss)
- - [Cruise lost $435 million this quarter, even with its robotaxis on hiatus](https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi)
- - [The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines](https://www.wired.com/story/nafo-ukraine-russia-war/)
- - [Microsoft’s refreshed Xbox Wireless Headset has a better mic and more battery life](https://www.theverge.com/2024/10/22/24276564/microsoft-xbox-wireless-headset-update-release-date-price-features)
- - [Canva has a shiny new text-to-image generator](https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo)<!-- TECH:END -->
+ - [Anthropic releases a new Claude 3.5 Sonnet model that can interact with desktop apps by imitating mouse and keyboard input via a &quot;computer use&quot; API, now in beta &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241022/p13#a241022p13)
+ - [WhatsApp is making a massive change to the way it saves your contacts](https://www.theverge.com/2024/10/22/24276714/whatsapp-built-in-contacts-address-book)
+ - [iPhone 17 and beyond: Apple&#39;s most ambitious lineup](https://appleinsider.com/articles/24/10/22/iphone-17-and-beyond-apples-most-ambitious-lineup?utm_medium=rss)
+ - [The Juul class action lawsuit is paying people huge amounts of money](https://www.theverge.com/2024/10/22/24276629/juul-vaping-philip-morris-class-action-settlement-payment)
+ - [Soundpeats&#39; Capsule3 Pro+ Review: The Best Cheap Earbuds](https://www.wired.com/review/soundpeats-capsule3-proplus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

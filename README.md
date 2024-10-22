@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and OpenAI are giving news outlets $10 million to use AI tools](https://www.theverge.com/2024/10/22/24276747/microsoft-openai-news-outlets-10-million-ai-tools)
+ - [Source: Polymarket is making new checks to verify that users, especially big spenders, are not US-based; Fredi9999 has bet $18M+ on Republican outcomes so far &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241022/p18#a241022p18)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Apple presses on with headset that&#39;s an iPhone on your face](https://appleinsider.com/articles/24/10/22/apple-presses-on-with-headset-thats-an-iphone-on-your-face?utm_medium=rss)
- - [Sources: TechInsights took apart at least one of Huawei&#39;s latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241022/p17#a241022p17)
- - [GM reports Cruise lost $435M in Q3 2024, down from a $791M loss in Q3 2023, and had $26M in net sales and revenue and $442M in total costs and expenses &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241022/p16#a241022p16)
- - [Tim Cook &amp; Jeff Williams are touring China again](https://appleinsider.com/articles/24/10/22/tim-cook-jeff-williams-are-touring-china-again?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: TechInsights took apart at least one of Huawei&#39;s latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241022/p17#a241022p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

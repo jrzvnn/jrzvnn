@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August; sales were down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)
+ - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
+ - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August 2024, and revenue down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)
  - [A look at some use cases of Anthropic&#39;s Claude Artifacts, which lets users create interactive single-page apps via prompts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241022/p1#a241022p1)
  - [40% Off Nectar Coupon Code for October 2024](https://www.wired.com/story/nectar-coupon-code/)
- - [25% OFF VistaPrint Coupons &amp; Promo Codes for October 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [25% OFF VistaPrint Coupons &amp; Promo Codes for October 2024](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

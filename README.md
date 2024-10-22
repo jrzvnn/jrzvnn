@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 💣 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 💣 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
+ - 😝 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 💣 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 😝 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 💣 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 👉 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)<!-- MEMES:END -->
 
 ---
 

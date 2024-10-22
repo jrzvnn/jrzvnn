@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the new AirPods Pro hearing features were developed](https://appleinsider.com/articles/24/10/22/how-the-new-airpods-pro-hearing-features-were-developed?utm_medium=rss)
+ - [Netflix shut down AAA game studio &quot;Team Blue&quot;, which hired industry veterans and seemed set to pursue a big-budget multi-device strategy, amid a gaming shake-up &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/241022/p6#a241022p6)
  - [Accel: Klarna alumni have founded 62 new startups, more than any $1B+ European fintech startup; Revolut alumni founded 49, and Wise and N26 alumni had 33 each &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241022/p5#a241022p5)
  - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
- - [Jack Sweeney says Meta suspended Instagram and Threads accounts tracking celebrities&#39; private jets, including Zuckerberg&#39;s; Meta cites a &quot;risk of physical harm&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241022/p3#a241022p3)
- - [Celebrity jet-tracking accounts have vanished from Threads and Instagram](https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended)
- - [Best Kamado Grill for 2024](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jack Sweeney says Meta suspended Instagram and Threads accounts tracking celebrities&#39; private jets, including Zuckerberg&#39;s; Meta cites a &quot;risk of physical harm&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241022/p3#a241022p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [Inbound M4 Mac updates rumored to arrive as early as October 28](https://appleinsider.com/articles/24/10/22/inbound-m4-mac-updates-rumored-to-arrive-as-early-as-october-28?utm_medium=rss)
  - [Asana launches AI Studio in early access, a no-code tool for designing AI agents that can be integrated into teams&#39; existing workflows &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/241022/p22#a241022p22)
- - [Apple&#39;s iPad mini 6 falls to record low $349, making room for 7th Gen](https://appleinsider.com/articles/24/10/22/apples-ipad-mini-6-falls-to-record-low-349-making-room-for-7th-gen?utm_medium=rss)
- - [Now you can unlock your door from Ecobee’s app](https://www.theverge.com/2024/10/22/24276776/ecobee-yale-august-smart-lock-doorbell-partnership)
- - [TollBit, which recently launched a content monetization marketplace for publishers and AI companies, raised a $24M Series A led by Lightspeed Ventures &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p21#a241022p21)<!-- TECH:END -->
+ - [Best 4K TV Deals: Save Over $1,000 on Top TVs From the Best Brands](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [WhatsApp Adds New Ways to Update Your Contacts, Plans Username Support](https://www.cnet.com/tech/mobile/whatsapp-adds-new-ways-to-update-your-contacts-plans-username-support/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

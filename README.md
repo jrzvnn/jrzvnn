@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
- - 😝 [The dilemma](http://9gag.com/gag/avyondM)
- - 👉 [LMAO!!](http://9gag.com/gag/avyonZn)<!-- MEMES:END -->
+ - 😝 [Dopengers featuring JesusThor](http://9gag.com/gag/aqygZBp)
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
 
 ---
 

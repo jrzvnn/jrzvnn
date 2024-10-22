@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dilemma](http://9gag.com/gag/avyondM)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 💣 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 👉 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)<!-- MEMES:END -->
+ - 😝 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
+ - 😝 [Based](http://9gag.com/gag/aND0dnA)
+ - 💣 [Jos\u00e8 the Chosen One.](http://9gag.com/gag/avyorXd)
+ - 😝 [Disgusting!](http://9gag.com/gag/amo5rEj)
+ - 👉 [Long short story the dagther didn&#39;t want to go to the paid lessons and the father took the lessons. Cool guy.](http://9gag.com/gag/aAygwvd)<!-- MEMES:END -->
 
 ---
 

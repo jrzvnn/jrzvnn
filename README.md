@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)
+ - [The Joker sequel is heading home after less than a month in theaters](https://www.theverge.com/2024/10/22/24277037/joker-folie-a-deux-home-release-date)
  - [Want to Lower Your Heating Bill? This Small Appliance Can Help](https://www.cnet.com/home/kitchen-and-household/want-to-lower-your-heating-bill-a-space-heater-can-help/#ftag=CAD590a51e)
  - [Looking for Free Horror Movies? Tubi Has 22 of the Best](https://www.cnet.com/tech/services-and-software/looking-for-free-horror-movies-tubi-has-22-of-the-best/#ftag=CAD590a51e)
- - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
- - [Best Internet Providers in Spokane, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-spokane-wa/#ftag=CAD590a51e)
- - [World Series 2024: How to Watch Game 1 Yankees vs. Dodgers](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-game-1-yankees-vs-dodgers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dog Food Delivery Services for 2024](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

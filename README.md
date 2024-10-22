@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pushing it off like a due assignment](http://9gag.com/gag/a9yRL0L)
+ - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
  - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
 
 ---
 

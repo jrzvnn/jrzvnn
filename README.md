@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Absolution&#39; Excerpt: Read the Beginning of Jeff VanderMeer&#39;s Newest Southern Reach Book](https://www.wired.com/story/jeff-vandermeer-new-novel-absolution-book-excerpt/)
+ - [Hoto’s 25-piece electric screwdriver set is down to its lowest price yet](https://www.theverge.com/2024/10/22/24276194/hotos-25-piece-electric-screwdriver-set-nintendo-switch-game-deal-sale)
+ - [Netflix closes AAA game studio before it ever released a game](https://www.theverge.com/2024/10/22/24276700/netflix-gaming-studio-closure-blue)
  - [Anthropic releases a new Claude 3.5 Sonnet model that can interact with desktop apps by imitating mouse and keyboard input via a &quot;computer use&quot; API, now in beta &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241022/p13#a241022p13)
- - [WhatsApp is making a massive change to the way it saves your contacts](https://www.theverge.com/2024/10/22/24276714/whatsapp-built-in-contacts-address-book)
- - [iPhone 17 and beyond: Apple&#39;s most ambitious lineup](https://appleinsider.com/articles/24/10/22/iphone-17-and-beyond-apples-most-ambitious-lineup?utm_medium=rss)
- - [The Juul class action lawsuit is paying people huge amounts of money](https://www.theverge.com/2024/10/22/24276629/juul-vaping-philip-morris-class-action-settlement-payment)
- - [Soundpeats&#39; Capsule3 Pro+ Review: The Best Cheap Earbuds](https://www.wired.com/review/soundpeats-capsule3-proplus/)<!-- TECH:END -->
+ - [WhatsApp is making a massive change to the way it saves your contacts](https://www.theverge.com/2024/10/22/24276714/whatsapp-built-in-contacts-address-book)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

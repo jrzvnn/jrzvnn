@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical 9ger](http://9gag.com/gag/aE0g7Ke)
- - 😝 [This is the kind of repost I won\u00b4t mind watching everyday. Now is my turn.](http://9gag.com/gag/amo59G4)
- - 💣 [And you&#39;re in debt for the rest of your life](http://9gag.com/gag/aZZ7Bqp)
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 👉 [I&#39;m OP and I have dcks to suck and seemen to drink.](http://9gag.com/gag/a2vR5DZ)<!-- MEMES:END -->
+ - 😝 [Nightmare fuel](http://9gag.com/gag/azx1E0Z)
+ - 😝 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
+ - 💣 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
+ - 😝 [The dilemma](http://9gag.com/gag/avyondM)
+ - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
 
 ---
 

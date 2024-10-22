@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My precious](http://9gag.com/gag/aAygVEo)
- - 😝 [Oh no...](http://9gag.com/gag/aND0o4A)
- - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 😝 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
+ - 😝 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
+ - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
 
 ---
 

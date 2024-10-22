@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dopengers featuring JesusThor](http://9gag.com/gag/aqygZBp)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
+ - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - 😝 [My precious](http://9gag.com/gag/aAygVEo)
+ - 💣 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
+ - 😝 [Do you think I&#39;m a freak?](http://9gag.com/gag/azx1APq)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 ---
 

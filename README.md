@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-22/#ftag=CAD590a51e)
- - [Best Internet Providers in Savannah, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-savannah-ga/#ftag=CAD590a51e)
- - [How to use macOS&#39;s Finder Eject When Finished feature](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 22, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-22-499/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 22, #1221](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-22-1221/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August; sales were down 34% YoY to $197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)
+ - [A look at some use cases of Anthropic&#39;s Claude Artifacts, which lets users create interactive single-page apps via prompts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241022/p1#a241022p1)
+ - [40% Off Nectar Coupon Code for October 2024](https://www.wired.com/story/nectar-coupon-code/)
+ - [25% OFF VistaPrint Coupons &amp; Promo Codes for October 2024](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

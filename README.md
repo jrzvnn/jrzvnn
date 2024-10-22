@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech critics want a Google exec punished for deleted chats](https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust)
- - [iPad mini &lpar;2024&rpar; review: fast A17 Pro chip, delightful size, and Pencil Pro support, but less powerful than other iPads, outdated Touch ID and camera placement &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241022/p9#a241022p9)
- - [Spotify’s new playlist art maker gets that design is your passion](https://www.theverge.com/2024/10/22/24275651/spotify-create-cover-art-playlist-image-maker)
- - [Apple iPad Mini &lpar;A17 Pro, 2024&rpar; Review: Portable and Powerful](https://www.wired.com/review/apple-ipad-mini-a17-pro-2024/)
- - [Apple iPad Mini 2024 review: missing pieces](https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review)<!-- TECH:END -->
+ - [TSMC says it alerted the US to a potential attempt to have it manufacture AI chips for Huawei, circumventing export controls; sources: the chips resembled 910Bs &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241022/p11#a241022p11)
+ - [8 Best Mattresses for Side Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/side-sleeper-mattress/)
+ - [Democrats want DOJ to prosecute tax prep companies that allegedly shared user data with Meta and Google](https://www.theverge.com/2024/10/22/24275913/warren-tax-prep-companies-doj-prosecute-data-meta-google-tracking-pixel)
+ - [WhatsApp plans to let users save contacts in the app soon, after previously relying on the local contact book, and developed a new IPLS encrypted storage system &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241022/p10#a241022p10)
+ - [Tech critics want a Google exec punished for deleted chats](https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic launches its Fab marketplace, a unified place to get digital assets like environments and animations, offering an 88% revenue share to creators &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241022/p8#a241022p8)
+ - [Iceland Hotels Offer a Northern Lights Wake-Up Service](https://www.wired.com/story/northern-lights-wake-up-call-iceland-hotels/)
+ - [Meta brings back face scanning to combat scams and account hacking](https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait)
  - [Epic’s ambitious digital asset shop is now open](https://www.theverge.com/2024/10/22/24276113/epic-games-fab-marketplace-digital-assets-live)
- - [iPhone 16 Pro restart bug is fixed in iOS 18.1](https://appleinsider.com/articles/24/10/22/iphone-16-pro-restart-bug-is-fixed-in-ios-181?utm_medium=rss)
- - [X data: Elon Musk-backed America PAC spent $166K between July 8 and October 1 to run 59 ads on X targeting swing voters in six states, yielding 32M+ impressions &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/241022/p7#a241022p7)
- - [Peter Todd Was ‘Unmasked’ As Bitcoin Creator Satoshi Nakamoto. Now He’s In Hiding](https://www.wired.com/story/peter-todd-was-unmasked-as-bitcoin-creator-satoshi-nakamoto-now-hes-in-hiding/)
- - [French publishers try again to get Apple to drop Distraction Control](https://appleinsider.com/articles/24/10/22/french-publishers-try-again-to-get-apple-to-drop-distraction-control?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro restart bug is fixed in iOS 18.1](https://appleinsider.com/articles/24/10/22/iphone-16-pro-restart-bug-is-fixed-in-ios-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

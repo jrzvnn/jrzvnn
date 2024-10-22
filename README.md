@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Standard response](http://9gag.com/gag/aVv0PKn)
- - 😝 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
- - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
  - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 😝 [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 💣 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 😝 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
+ - 👉 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)<!-- MEMES:END -->
 
 ---
 

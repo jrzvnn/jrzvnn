@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
- - 😝 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)
- - 💣 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)
- - 😝 [Typical 9ger](http://9gag.com/gag/aE0g7Ke)
- - 👉 [This is the kind of repost I won\u00b4t mind watching everyday. Now is my turn.](http://9gag.com/gag/amo59G4)<!-- MEMES:END -->
+ - 😝 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 😝 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
+ - 💣 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 😝 [Literally excites](http://9gag.com/gag/azx1EnZ)
+ - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
 
 ---
 

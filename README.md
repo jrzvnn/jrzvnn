@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hires Scott Schools, most recently the chief ethics and compliance officer at Uber, as its chief compliance officer &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241022/p23#a241022p23)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Inbound M4 Mac updates rumored to arrive as early as October 28](https://appleinsider.com/articles/24/10/22/inbound-m4-mac-updates-rumored-to-arrive-as-early-as-october-28?utm_medium=rss)
- - [Asana launches AI Studio in early access, a no-code tool for designing AI agents that can be integrated into teams&#39; existing workflows &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/241022/p22#a241022p22)
- - [Best 4K TV Deals: Save Over $1,000 on Top TVs From the Best Brands](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)
+ - [Tim Cook says he uses every Apple product every day — how does that work?](https://www.theverge.com/2024/10/22/24276142/tim-cook-wsj-interview-every-apple-product-every-day)
+ - [Google Messages is trying to tackle today’s most annoying messaging spam](https://www.theverge.com/2024/10/22/24276895/google-messages-job-package-delivery-spam)
+ - [The 50 Best Shows on Disney+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
+ - [OpenAI hires Scott Schools, most recently the chief ethics and compliance officer at Uber, as its chief compliance officer &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241022/p23#a241022p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

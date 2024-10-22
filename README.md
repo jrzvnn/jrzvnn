@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 😝 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 😝 [Someone learned today](http://9gag.com/gag/a9yRrAK)
- - 👉 [When someone special greets you with joy.](http://9gag.com/gag/aVv0XOO)<!-- MEMES:END -->
+ - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 😝 [Nightmare fuel](http://9gag.com/gag/azx1E0Z)
+ - 💣 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
+ - 😝 [When someone special greets you with joy.](http://9gag.com/gag/aVv0XOO)
+ - 👉 [Motorcycle part](http://9gag.com/gag/aAygPnZ)<!-- MEMES:END -->
 
 ---
 

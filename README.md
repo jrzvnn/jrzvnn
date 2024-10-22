@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 😝 [Win in disguise](http://9gag.com/gag/aXPjp66)
+ - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - 💣 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
  - 😝 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 👉 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)<!-- MEMES:END -->
 
 ---
 

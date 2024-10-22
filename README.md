@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 💣 [The dilemma](http://9gag.com/gag/avyondM)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 👉 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 💣 [Damn, that meat might be older than some of the kids in that school](http://9gag.com/gag/a4PRdWd)
+ - 😝 [Make sense](http://9gag.com/gag/azx1EGB)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 ---
 

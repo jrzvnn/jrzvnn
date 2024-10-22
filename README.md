@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [&#39;Absolution&#39; Excerpt: Read the Beginning of Jeff VanderMeer&#39;s Newest Southern Reach Book](https://www.wired.com/story/jeff-vandermeer-new-novel-absolution-book-excerpt/)
- - [Hoto’s 25-piece electric screwdriver set is down to its lowest price yet](https://www.theverge.com/2024/10/22/24276194/hotos-25-piece-electric-screwdriver-set-nintendo-switch-game-deal-sale)
- - [Netflix closes AAA game studio before it ever released a game](https://www.theverge.com/2024/10/22/24276700/netflix-gaming-studio-closure-blue)
- - [Anthropic releases a new Claude 3.5 Sonnet model that can interact with desktop apps by imitating mouse and keyboard input via a &quot;computer use&quot; API, now in beta &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241022/p13#a241022p13)<!-- TECH:END -->
+ - [Plugable’s new 10-port USB-C hub is exactly the overkill my nightstand needs](https://www.theverge.com/2024/10/22/24276661/plugable-usb-c-hub-power-charger)
+ - [AirTag tracking busts rich kid stealing presidential campaign yard signs](https://appleinsider.com/articles/24/10/22/airtag-tracking-busts-rich-kid-stealing-presidential-campaign-yard-signs?utm_medium=rss)
+ - [Stability AI releases Stable Diffusion 3.5 Large, an 8B-parameter model that makes 1MP images, and 3.5 Large Turbo, and plans to launch 3.5 Medium on October 29 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241022/p15#a241022p15)
+ - [Arkansas has enough lithium for the world’s EVs — but getting to it is the problem](https://www.theverge.com/2024/10/22/24276615/ev-car-battery-lithium-reserves-arkansas)
+ - [Anthropic claims that its new Sonnet 3.5 model scores 49% on SWE-bench Verified, up from 33.4% and &quot;higher than all&quot; public models, and debuts Claude 3.5 Haiku &lpar;Anthropic&rpar;](http://www.techmeme.com/241022/p14#a241022p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
  - [Jack Sweeney says Meta suspended Instagram and Threads accounts tracking celebrities&#39; private jets, including Zuckerberg&#39;s; Meta cites a &quot;risk of physical harm&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241022/p3#a241022p3)
  - [Celebrity jet-tracking accounts have vanished from Threads and Instagram](https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended)
  - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
- - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August 2024, and revenue down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)
- - [A look at some use cases of Anthropic&#39;s Claude Artifacts, which lets users create interactive single-page apps via prompts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241022/p1#a241022p1)<!-- TECH:END -->
+ - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August 2024, and revenue down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Microsoft announce a $10M AI local news project operated by the Lenfest Institute, starting with five US metro news organizations &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p27#a241022p27)
  - [Qualcomm partners with Google to help automakers develop AI voice assistants and unveils two new chips to power dashboards and self-driving features &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241022/p26#a241022p26)
  - [Apple rumored to be working on new game-focused App Store &amp; launcher](https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss)
  - [How to Make a Freakishly Crispy Baked Potato in Under 15 Minutes](https://www.cnet.com/how-to/how-to-make-a-freakishly-crispy-baked-potato-in-under-15-minutes/#ftag=CAD590a51e)
- - [Save a Staggering $160 on the Lenovo IdeaPad Duet 3 at Best Buy Right Now](https://www.cnet.com/deals/save-a-staggering-160-on-the-lenovo-ideapad-duet-3-at-best-buy-right-now/#ftag=CAD590a51e)
- - [I&#39;m Only Air-Frying These 8 Foods From Now on](https://www.cnet.com/how-to/im-only-air-frying-these-8-foods-from-now-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save a Staggering $160 on the Lenovo IdeaPad Duet 3 at Best Buy Right Now](https://www.cnet.com/deals/save-a-staggering-160-on-the-lenovo-ideapad-duet-3-at-best-buy-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

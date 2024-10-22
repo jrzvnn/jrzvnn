@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
- - 😝 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
- - 💣 [Why are people so dense?](http://9gag.com/gag/aLn0P4V)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
+ - 😝 [The diddy treatment](http://9gag.com/gag/aqyg5vP)
+ - 😝 [Long live the King Happy 66th](http://9gag.com/gag/aLn0Bmz)
+ - 💣 [No title needed](http://9gag.com/gag/a9yR7WW)
+ - 😝 [Wrong Anderson](http://9gag.com/gag/ae95GOB)
+ - 👉 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)<!-- MEMES:END -->
 
 ---
 

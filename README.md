@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/aND0dnA)
- - 😝 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
- - 💣 [Jos\u00e8 the Chosen One.](http://9gag.com/gag/avyorXd)
- - 😝 [Long short story the dagther didn&#39;t want to go to the paid lessons and the father took the lessons. Cool guy.](http://9gag.com/gag/aAygwvd)
- - 👉 [Disgusting!](http://9gag.com/gag/amo5rEj)<!-- MEMES:END -->
+ - 😝 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 💣 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
+ - 😝 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
+ - 👉 [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)<!-- MEMES:END -->
 
 ---
 

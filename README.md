@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple rumored to be working on new game-focused App Store &amp; launcher](https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss)
- - [It’s not just you: Amazon’s shopping app is trying a different look](https://www.theverge.com/2024/10/22/24276973/amazon-shopping-app-homepage-redesign-ui-update)
- - [iPhone users can try AT&amp;T via eSIM free for 30 days](https://appleinsider.com/articles/24/10/22/iphone-users-can-try-att-via-esim-free-for-30-days?utm_medium=rss)
- - [Canva releases new generative AI features, including Dream Lab, an image generator powered by Leonardo.ai&#39;s Phoenix model; Canva acquired Leonardo.ai in July &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241022/p25#a241022p25)
- - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)<!-- TECH:END -->
+ - [How to Make a Freakishly Crispy Baked Potato in Under 15 Minutes](https://www.cnet.com/how-to/how-to-make-a-freakishly-crispy-baked-potato-in-under-15-minutes/#ftag=CAD590a51e)
+ - [Save a Staggering $160 on the Lenovo IdeaPad Duet 3 at Best Buy Right Now](https://www.cnet.com/deals/save-a-staggering-160-on-the-lenovo-ideapad-duet-3-at-best-buy-right-now/#ftag=CAD590a51e)
+ - [I&#39;m Only Air-Frying These 8 Foods From Now on](https://www.cnet.com/how-to/im-only-air-frying-these-8-foods-from-now-on/#ftag=CAD590a51e)
+ - [It’s not just you: Amazon’s shopping app is trying a different look](https://www.theverge.com/2024/10/22/24276973/amazon-shopping-app-homepage-redesign-ui-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

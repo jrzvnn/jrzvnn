@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthopic’s latest AI update can use a computer on its own](https://www.theverge.com/2024/10/22/24276822/anthopic-claude-3-5-sonnet-computer-use-ai)
+ - [Exposed United Nations Database Left Sensitive Information Accessible Online](https://www.wired.com/story/un-women-database-exposure/)
+ - [Air taxis and other electric-powered aircraft cleared for takeoff with final FAA rules](https://www.theverge.com/2024/10/22/24276873/faa-powered-lift-evtol-air-taxi-final-rule-sfar)
+ - [Anthropic’s latest AI update can use a computer on its own](https://www.theverge.com/2024/10/22/24276822/anthopic-claude-3-5-sonnet-computer-use-ai)
  - [Apple seeds release candidate of watchOS 11.1](https://appleinsider.com/articles/24/10/22/apple-seeds-release-candidate-for-watchos-111?utm_medium=rss)
- - [Unisys, Check Point, Avaya, and Mimecast to pay a combined $7M to the SEC, which says they negligently downplayed the impact of the SolarWinds supply chain hack &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241022/p20#a241022p20)
- - [New MacStadium Orka Cluster speeds up remote Mac virtual machine builds](https://appleinsider.com/articles/24/10/22/macstadium-orka-cluster-speeds-up-mac-vm-builds-with-scheduling?utm_medium=rss)
- - [Best Pixel 9 Deals: Save Big Money With Trade-Ins](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unisys, Check Point, Avaya, and Mimecast to pay a combined $7M to the SEC, which says they negligently downplayed the impact of the SolarWinds supply chain hack &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241022/p20#a241022p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [My precious](http://9gag.com/gag/aAygVEo)
- - 💣 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
- - 😝 [Do you think I&#39;m a freak?](http://9gag.com/gag/azx1APq)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
+ - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
+ - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
 
 ---
 

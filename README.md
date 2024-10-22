@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC alerts U.S. to possible AI chip sanctions breach by Huawei](https://appleinsider.com/articles/24/10/22/tsmc-alerts-us-to-possible-ai-chip-sanctions-breach-by-huawei?utm_medium=rss)
+ - [Microsoft’s refreshed Xbox Wireless Headset has a better mic and more battery life](https://www.theverge.com/2024/10/22/24276564/microsoft-xbox-wireless-headset-update-release-date-price-features)
  - [Canva has a shiny new text-to-image generator](https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo)
  - [Shark Cordless PowerDetect Stick Vacuum: Affordable Cleaning Prowess](https://www.wired.com/review/shark-cordless-powerdetect-stick-vacuum/)
- - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)
- - [A UK court says prominent Saudi dissident Yahya Assiri can sue Saudi Arabia in London court over claims of targeting him with NSO Group&#39;s Pegasus &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/241022/p12#a241022p12)
- - [AirPods are good for your &lpar;hearing&rpar; health](https://www.theverge.com/2024/10/22/24276646/apple-airpods-hearing-aid-smart-ring-vergecast)<!-- TECH:END -->
+ - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

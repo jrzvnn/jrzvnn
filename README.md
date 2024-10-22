@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
- - 😝 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
+ - 😝 [Make sense](http://9gag.com/gag/azx1EGB)
+ - 💣 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
+ - 😝 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - 👉 [What the Tokyo Drift theme does to a MF...](http://9gag.com/gag/aRB0KZQ)<!-- MEMES:END -->
 
 ---
 

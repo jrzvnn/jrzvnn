@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)
+ - [A UK court says prominent Saudi dissident Yahya Assiri can sue Saudi Arabia in London court over claims of targeting him with NSO Group&#39;s Pegasus &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/241022/p12#a241022p12)
  - [AirPods are good for your &lpar;hearing&rpar; health](https://www.theverge.com/2024/10/22/24276646/apple-airpods-hearing-aid-smart-ring-vergecast)
  - [TSMC says it alerted the US to a potential attempt to have it manufacture AI chips for Huawei, circumventing export controls; sources: the chips resembled 910Bs &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241022/p11#a241022p11)
- - [8 Best Mattresses for Side Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/side-sleeper-mattress/)
- - [Democrats want DOJ to prosecute tax prep companies that allegedly shared user data with Meta and Google](https://www.theverge.com/2024/10/22/24275913/warren-tax-prep-companies-doj-prosecute-data-meta-google-tracking-pixel)
- - [WhatsApp plans to let users save contacts in the app soon, after previously relying on the local contact book, and developed a new IPLS encrypted storage system &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241022/p10#a241022p10)<!-- TECH:END -->
+ - [8 Best Mattresses for Side Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/side-sleeper-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

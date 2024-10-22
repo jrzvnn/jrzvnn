@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Microsoft announce a $10M AI local news project operated by the Lenfest Institute, starting with five US metro news organizations &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p27#a241022p27)
- - [Qualcomm partners with Google to help automakers develop AI voice assistants and unveils two new chips to power dashboards and self-driving features &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241022/p26#a241022p26)
- - [Apple rumored to be working on new game-focused App Store &amp; launcher](https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss)
- - [How to Make a Freakishly Crispy Baked Potato in Under 15 Minutes](https://www.cnet.com/how-to/how-to-make-a-freakishly-crispy-baked-potato-in-under-15-minutes/#ftag=CAD590a51e)
- - [Save a Staggering $160 on the Lenovo IdeaPad Duet 3 at Best Buy Right Now](https://www.cnet.com/deals/save-a-staggering-160-on-the-lenovo-ideapad-duet-3-at-best-buy-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Google rolls out enhanced scam detection to Google Messages beta users and previews other safety features, like an option to blur images that may contain nudity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241022/p28#a241022p28)
+ - [Apple quietly releases second visionOS 2.1 RC to developers](https://appleinsider.com/articles/24/10/22/apple-quietly-releases-second-visionos-21-rc-to-developers?utm_medium=rss)
+ - [Kevin Bacon, Kate McKinnon, and other creatives warn of ‘unjust’ AI threat](https://www.theverge.com/2024/10/22/24276994/ai-statement-training-data-copyright-threat-actors-authors-musicians-kevin-bacon-kate-mckinnon)
+ - [A satellite made by Boeing just fell apart in space](https://www.theverge.com/2024/10/22/24277073/intelsat-33e-boeing-satellite-fell-apart-space)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X data: Elon Musk-backed America PAC spent $166K between July 8 and October 1 to run 59 ads on X targeting swing voters in six states, yielding 32M+ impressions &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/241022/p7#a241022p7)
+ - [Peter Todd Was ‘Unmasked’ As Bitcoin Creator Satoshi Nakamoto. Now He’s In Hiding](https://www.wired.com/story/peter-todd-was-unmasked-as-bitcoin-creator-satoshi-nakamoto-now-hes-in-hiding/)
  - [French publishers try again to get Apple to drop Distraction Control](https://appleinsider.com/articles/24/10/22/french-publishers-try-again-to-get-apple-to-drop-distraction-control?utm_medium=rss)
- - [How to Close the Gender Health Gap](https://www.wired.com/story/how-to-close-the-gender-health-gap/)
- - [How the new AirPods Pro hearing features were developed](https://appleinsider.com/articles/24/10/22/how-the-new-airpods-pro-hearing-features-were-developed?utm_medium=rss)
- - [Netflix shut down AAA game studio &quot;Team Blue&quot;, which hired industry veterans and seemed set to pursue a big-budget multi-device strategy, amid a gaming shake-up &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/241022/p6#a241022p6)
- - [I Tried Hungryroot. It&#39;s a Quirky Mix of Meal Kits and Grocery Delivery to Fuel Your Busy Week](https://www.cnet.com/health/nutrition/hungryroot-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internet Connection Types Explained: There&#39;s More Than One Way to Get Online](https://www.cnet.com/home/internet/internet-connection-types-explained/#ftag=CAD590a51e)
+ - [How to Close the Gender Health Gap](https://www.wired.com/story/how-to-close-the-gender-health-gap/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Protein Explained: A Visual Guide for Vegans, Omnivores, and Meat-Eaters](https://www.cnet.com/health/nutrition/protein-explained-a-visual-guide-for-vegans-omnivores-and-meat-eaters/#ftag=CAD590a51e)
- - [Best Internet Providers in New Haven, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-new-haven-ct/#ftag=CAD590a51e)
- - [30&quot; Hanging Animatronic Zombie](https://www.cnet.com/news/30-hanging-animatronic-zombie-dpnl/#ftag=CAD590a51e)
- - [Roaming Animatronic Doll](https://www.cnet.com/news/roaming-animatronic-doll-dpnl/#ftag=CAD590a51e)
- - [Here&#39;s How Much Cheaper It Is to Use a Slow Cooker Than the Oven](https://www.cnet.com/home/kitchen-and-household/heres-how-much-cheaper-it-is-to-use-a-slow-cooker-than-the-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Runway rolls out Act-One, a Gen-3 Alpha tool for animating AI-generated characters with realistic facial expressions using video and voice recordings as inputs &lpar;Runway&rpar;](http://www.techmeme.com/241022/p29#a241022p29)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [The 8 Best Coffee Subscriptions of 2024, Tested by Us](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
+ - [I Compared a Meat Subscription and Grocery Store Prices to See Which Is Cheaper](https://www.cnet.com/news/i-compared-a-meat-subscription-to-grocery-store-prices-to-see-which-is-cheaper/#ftag=CAD590a51e)
+ - [Google rolls out enhanced scam detection to Google Messages beta users and previews other safety features, like an option to blur images that may contain nudity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241022/p28#a241022p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

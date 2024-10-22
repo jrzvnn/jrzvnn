@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New MacStadium Orka Cluster speeds up remote Mac virtual machine builds](https://appleinsider.com/articles/24/10/22/macstadium-orka-cluster-speeds-up-mac-vm-builds-with-scheduling?utm_medium=rss)
+ - [Penguin Random House, UMG, and SAG-AFTRA join 11.5K+ signatories of an open letter saying the &quot;unlicensed use of creative works&quot; to train AI must not be allowed &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/241022/p19#a241022p19)
  - [Microsoft and OpenAI are giving news outlets $10 million to use AI tools](https://www.theverge.com/2024/10/22/24276747/microsoft-openai-news-outlets-10-million-ai-tools)
  - [Source: Polymarket is making new checks to verify that users, especially big spenders, are not US-based; Fredi9999 has bet $18M+ on Republican outcomes so far &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241022/p18#a241022p18)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Apple presses on with headset that&#39;s an iPhone on your face](https://appleinsider.com/articles/24/10/22/apple-presses-on-with-headset-thats-an-iphone-on-your-face?utm_medium=rss)
- - [Sources: TechInsights took apart at least one of Huawei&#39;s latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241022/p17#a241022p17)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

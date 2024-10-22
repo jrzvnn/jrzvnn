@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 💣 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
+ - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
  - 😝 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
- - 👉 [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)<!-- MEMES:END -->
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 😝 [Someone learned today](http://9gag.com/gag/a9yRrAK)
+ - 👉 [When someone special greets you with joy.](http://9gag.com/gag/aVv0XOO)<!-- MEMES:END -->
 
 ---
 

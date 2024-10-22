@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 💣 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 👉 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)<!-- MEMES:END -->
+ - 😝 [The diddy treatment](http://9gag.com/gag/aqyg5vP)
+ - 😝 [You know what they say about good deeds](http://9gag.com/gag/a7ow7px)
+ - 💣 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)
+ - 😝 [Long live the King Happy 66th](http://9gag.com/gag/aLn0Bmz)
+ - 👉 [No title needed](http://9gag.com/gag/a9yR7WW)<!-- MEMES:END -->
 
 ---
 

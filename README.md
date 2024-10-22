@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AT&amp;T finally has a network test drive program](https://www.theverge.com/2024/10/22/24276899/try-att-free-30-day-trial-iphone-esim-5g-mobile-hotspot)
  - [New firmware available for AirPods, AirPods Pro, and AirPods Max devices](https://appleinsider.com/articles/24/10/22/new-firmware-available-for-airpods-airpods-pro-and-airpods-max-devices?utm_medium=rss)
  - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)
- - [Tim Cook says he uses every Apple product every day — how does that work?](https://www.theverge.com/2024/10/22/24276142/tim-cook-wsj-interview-every-apple-product-every-day)
- - [Google Messages is trying to tackle today’s most annoying messaging spam](https://www.theverge.com/2024/10/22/24276895/google-messages-job-package-delivery-spam)<!-- TECH:END -->
+ - [A New Phone Chip Helps You Take the Perfect Pet Pawtrait. I Tried It Out](https://www.cnet.com/tech/mobile/a-new-phone-chip-helps-you-take-the-perfect-pet-pawtrait-i-tried-it-out/#ftag=CAD590a51e)
+ - [Most Political Campaign Texts Aren&#39;t Scams, Experts Say](https://www.cnet.com/tech/services-and-software/political-campaign-texts-probably-arent-scams-but-they-are-spam/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

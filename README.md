@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worry not, the next patch will fix it. Keep donating for it.](http://9gag.com/gag/aGygDwX)
- - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 💣 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)
- - 😝 [Good horror](http://9gag.com/gag/aYQ7Kew)
- - 👉 [Cristy R.](http://9gag.com/gag/a1mRXjw)<!-- MEMES:END -->
+ - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
+ - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
+ - 💣 [The dilemma](http://9gag.com/gag/avyondM)
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 👉 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)<!-- MEMES:END -->
 
 ---
 

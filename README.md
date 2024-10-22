@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 👉 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)<!-- MEMES:END -->
+ - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
+ - 😝 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)
+ - 💣 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)
+ - 😝 [Typical 9ger](http://9gag.com/gag/aE0g7Ke)
+ - 👉 [This is the kind of repost I won\u00b4t mind watching everyday. Now is my turn.](http://9gag.com/gag/amo59G4)<!-- MEMES:END -->
 
 ---
 

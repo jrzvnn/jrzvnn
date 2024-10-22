@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plugable’s new 10-port USB-C hub is exactly the overkill my nightstand needs](https://www.theverge.com/2024/10/22/24276661/plugable-usb-c-hub-power-charger)
- - [AirTag tracking busts rich kid stealing presidential campaign yard signs](https://appleinsider.com/articles/24/10/22/airtag-tracking-busts-rich-kid-stealing-presidential-campaign-yard-signs?utm_medium=rss)
- - [Stability AI releases Stable Diffusion 3.5 Large, an 8B-parameter model that makes 1MP images, and 3.5 Large Turbo, and plans to launch 3.5 Medium on October 29 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241022/p15#a241022p15)
- - [Arkansas has enough lithium for the world’s EVs — but getting to it is the problem](https://www.theverge.com/2024/10/22/24276615/ev-car-battery-lithium-reserves-arkansas)
- - [Anthropic claims that its new Sonnet 3.5 model scores 49% on SWE-bench Verified, up from 33.4% and &quot;higher than all&quot; public models, and debuts Claude 3.5 Haiku &lpar;Anthropic&rpar;](http://www.techmeme.com/241022/p14#a241022p14)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Apple presses on with headset that&#39;s an iPhone on your face](https://appleinsider.com/articles/24/10/22/apple-presses-on-with-headset-thats-an-iphone-on-your-face?utm_medium=rss)
+ - [Sources: TechInsights took apart at least one of Huawei&#39;s latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241022/p17#a241022p17)
+ - [GM reports Cruise lost $435M in Q3 2024, down from a $791M loss in Q3 2023, and had $26M in net sales and revenue and $442M in total costs and expenses &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241022/p16#a241022p16)
+ - [Tim Cook &amp; Jeff Williams are touring China again](https://appleinsider.com/articles/24/10/22/tim-cook-jeff-williams-are-touring-china-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

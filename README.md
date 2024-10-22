@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to use macOS&#39;s Finder Eject When Finished feature](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature?utm_medium=rss)
- - [Austin-based SchooLinks, whose SaaS offers college and career readiness resources for K-12 students, raised a $80M Series B led by Susquehanna Growth Equity &lpar;Zoya Hasan/Forbes&rpar;](http://www.techmeme.com/241021/p30#a241021p30)
- - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)
- - [Mumbai-based Neysa, a provider of AI infrastructure to enterprise customers, raised a $30M Series A co-led by NTTVC, Z47, and Nexus Venture Partners &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241021/p29#a241021p29)
- - [The US DOD plans an initiative to recruit CTOs and other senior tech professionals as uniformed, paid reservists to help in cybersecurity, data analytics, more &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p28#a241021p28)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 22, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-22-499/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 22, #1221](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-22-1221/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 22, #233](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-22-233/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 22, #29](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-22-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

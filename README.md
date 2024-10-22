@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic launches its Fab marketplace, a unified place to get digital assets like environments and animations, offering an 88% revenue share to creators &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241022/p8#a241022p8)
- - [Iceland Hotels Offer a Northern Lights Wake-Up Service](https://www.wired.com/story/northern-lights-wake-up-call-iceland-hotels/)
- - [Meta brings back face scanning to combat scams and account hacking](https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait)
- - [Epic’s ambitious digital asset shop is now open](https://www.theverge.com/2024/10/22/24276113/epic-games-fab-marketplace-digital-assets-live)
- - [iPhone 16 Pro restart bug is fixed in iOS 18.1](https://appleinsider.com/articles/24/10/22/iphone-16-pro-restart-bug-is-fixed-in-ios-181?utm_medium=rss)<!-- TECH:END -->
+ - [Tech critics want a Google exec punished for deleted chats](https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust)
+ - [iPad mini &lpar;2024&rpar; review: fast A17 Pro chip, delightful size, and Pencil Pro support, but less powerful than other iPads, outdated Touch ID and camera placement &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241022/p9#a241022p9)
+ - [Spotify’s new playlist art maker gets that design is your passion](https://www.theverge.com/2024/10/22/24275651/spotify-create-cover-art-playlist-image-maker)
+ - [Apple iPad Mini &lpar;A17 Pro, 2024&rpar; Review: Portable and Powerful](https://www.wired.com/review/apple-ipad-mini-a17-pro-2024/)
+ - [Apple iPad Mini 2024 review: missing pieces](https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

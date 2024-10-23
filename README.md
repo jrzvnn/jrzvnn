@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another obvious reason](http://9gag.com/gag/a34RL4r)
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 😝 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
- - 👉 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)<!-- MEMES:END -->
+ - 😝 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
+ - 😝 [I&#39;m OP and I have dcks to suck and seemen to drink.](http://9gag.com/gag/a2vR5DZ)
+ - 💣 [Long short story the dagther didn&#39;t want to go to the paid lessons and the father took the lessons. Cool guy.](http://9gag.com/gag/aAygwvd)
+ - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
+ - 👉 [Disgusting!](http://9gag.com/gag/amo5rEj)<!-- MEMES:END -->
 
 ---
 

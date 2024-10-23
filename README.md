@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AT&amp;T and T-Mobile Claim Locked Phones Are Good, Actually](https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/)
- - [India&#39;s Supreme Court strikes down a tribunal order that let Byju&#39;s settle debts with India&#39;s cricket board, pushing the edtech startup firmly toward insolvency &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p9#a241023p9)
- - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)
- - [Best Tennis Balls of 2024](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [An interview with Craig Federighi on the launch of Apple Intelligence features like notification summaries in iOS 18.1, Siri, Apple&#39;s AI strategy, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p8#a241023p8)<!-- TECH:END -->
+ - [Best Savings Rates Today, Oct. 23, 2024: Jump on These APYs While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-23-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-tennessee/#ftag=CAD590a51e)
+ - [Set Your Thermostat to This Temperature to Save Money This Winter](https://www.cnet.com/home/energy-and-utilities/set-your-thermostat-to-this-temperature-to-save-money-this-winter/#ftag=CAD590a51e)
+ - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

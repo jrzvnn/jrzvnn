@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 💣 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
+ - 😝 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 💣 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 👉 [Cursed gumball](http://9gag.com/gag/aD2gW1N)<!-- MEMES:END -->
 
 ---
 

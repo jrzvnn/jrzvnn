@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Goldman Sachs fined millions for misleading Apple Card holders](https://www.theverge.com/2024/10/23/24277710/apple-goldman-sachs-cfpb-fine-charge-disputes-system)
+ - [Kuo again predicts doom for new iPhone because of order cuts](https://appleinsider.com/articles/24/10/23/kuo-again-predicts-doom-for-new-iphone-because-of-order-cuts?utm_medium=rss)
+ - [Chinese industry tsar urges Tim Cook to continue investing](https://appleinsider.com/articles/24/10/23/chinese-industry-tsar-urges-tim-cook-to-continue-investing?utm_medium=rss)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Chemistry, a new VC firm by Index, Bessemer, and a16z alums Mark Goldberg, Ethan Kurzweil, and Kristina Shen, raised $350M for its debut, Series A-focused fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241023/p30#a241023p30)
- - [Samsung’s rugged Galaxy Watch Ultra has fallen to its best price to date](https://www.theverge.com/2024/10/23/24276728/samsung-galaxy-watch-ultra-apple-ipad-mini-6-deal-sale)
- - [Lomography’s new instant camera uses a glass lens for sharper photos](https://www.theverge.com/2024/10/23/24277617/lomography-lomo-instant-wide-glass-camera-photography-fujifilm-instax-wide)
- - [How to watch Messi&#39;s MLS playoff debut for free on Apple TV](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-messis-mls-playoff-debut-for-free-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Chemistry, a new VC firm by Index, Bessemer, and a16z alums Mark Goldberg, Ethan Kurzweil, and Kristina Shen, raised $350M for its debut, Series A-focused fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241023/p30#a241023p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

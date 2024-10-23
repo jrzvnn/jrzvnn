@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Chemistry, a new VC firm by Index, Bessemer, and a16z alums Mark Goldberg, Ethan Kurzweil, and Kristina Shen, raised $350M for its debut, Series A-focused fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241023/p30#a241023p30)
  - [Samsung’s rugged Galaxy Watch Ultra has fallen to its best price to date](https://www.theverge.com/2024/10/23/24276728/samsung-galaxy-watch-ultra-apple-ipad-mini-6-deal-sale)
  - [Lomography’s new instant camera uses a glass lens for sharper photos](https://www.theverge.com/2024/10/23/24277617/lomography-lomo-instant-wide-glass-camera-photography-fujifilm-instax-wide)
- - [I Put Getting Sunlight in the Morning to the Test. It Changed My Sleep for the Better](https://www.cnet.com/health/sleep/i-put-getting-sunlight-in-the-morning-to-the-test-it-changed-my-sleep-for-the-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch Messi&#39;s MLS playoff debut for free on Apple TV](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-messis-mls-playoff-debut-for-free-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

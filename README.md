@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Runway rolls out Act-One, a Gen-3 Alpha tool for animating AI-generated characters with realistic facial expressions using video and voice recordings as inputs &lpar;Runway&rpar;](http://www.techmeme.com/241022/p29#a241022p29)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [The 8 Best Coffee Subscriptions of 2024, Tested by Us](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
- - [I Compared a Meat Subscription and Grocery Store Prices to See Which Is Cheaper](https://www.cnet.com/news/i-compared-a-meat-subscription-to-grocery-store-prices-to-see-which-is-cheaper/#ftag=CAD590a51e)
- - [Google rolls out enhanced scam detection to Google Messages beta users and previews other safety features, like an option to blur images that may contain nudity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241022/p28#a241022p28)<!-- TECH:END -->
+ - [Document: Arm is canceling a license that let Qualcomm use Arm&#39;s intellectual property to design chips, escalating the legal dispute between the companies &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241022/p30#a241022p30)
+ - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
+ - [My Student Loan Mistakes and an Awful Scam Cost Me Thousands. How I Dug Myself Out](https://www.cnet.com/personal-finance/loans/my-student-loan-mistakes-and-one-awful-scam-cost-me-thousands-how-i-dug-myself-out/#ftag=CAD590a51e)
+ - [4&#39; Inflatable Jack O Lantern Crawler](https://www.cnet.com/news/5-inflatable-jack-o-lantern-crawler-dpnl/#ftag=CAD590a51e)
+ - [Angler Fish Skeleton Decoration](https://www.cnet.com/news/angler-fish-skeleton-decoration-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

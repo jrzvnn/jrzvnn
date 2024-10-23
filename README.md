@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Foursquare plans to sunset its City Guide app on December 15, 2024 to focus on check-in app Swarm, reversing a 2014 decision to split its services into two apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241023/p5#a241023p5)
+ - [There&#39;s One Big Reason Blue Apron Is the Best Meal Kit Service to Try in 2024](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)
  - [Stream.Security, which offers real-time cloud threat and exposure management solutions for enterprises, raised a $30M Series B led by U.S. Venture Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/241023/p4#a241023p4)
- - [Paytm receives regulatory approval to resume adding UPI payments users, following an eight-month Reserve Bank of India&#39;s restrictions on many of its operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241023/p3#a241023p3)
- - [Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241023/p2#a241023p2)
- - [In its first annual report, Walmart&#39;s PhonePe says FY 2024 revenue grew 74% YoY to ~$602M, net losses dropped 28% YoY to ~$237M, and 200M MAUs as of March 2024 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241023/p1#a241023p1)<!-- TECH:END -->
+ - [How Do I Track My Ballot? The Details You Need in Every State](https://www.cnet.com/how-to/how-do-i-track-my-ballot-the-details-you-need-in-every-state/#ftag=CAD590a51e)
+ - [Paytm receives regulatory approval to resume adding UPI payments users, following an eight-month Reserve Bank of India&#39;s restrictions on many of its operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241023/p3#a241023p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

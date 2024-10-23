@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get cursed in the latest No Man’s Sky event](https://www.theverge.com/2024/10/23/24277582/no-mans-sky-the-cursed-expedition-halloween-event)
- - [Claude Sonnet 3.5 hands-on: the AI understood a basic game and its mechanics, had a strategy, was willing to revise it based on learning, but fragilities remain &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241023/p22#a241023p22)
- - [Apple severely cuts Vision Pro production, and may stop it completely very soon](https://appleinsider.com/articles/24/10/23/apple-severely-cuts-vision-pro-production-and-may-stop-it-completely-very-soon?utm_medium=rss)
- - [Apple’s reportedly slowing down Vision Pro production, for now](https://www.theverge.com/2024/10/23/24277584/apple-vision-pro-manufacturing-cutback)
- - [The Eero Outdoor 7 Brings Wi-Fi to the Backyard](https://www.wired.com/story/amazon-eero-outdoor-7-news/)<!-- TECH:END -->
+ - [TikTok brings its STEM feed to all users in the US, the UK, and Ireland by default to help find educational content, after launching the feed to under-18 users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241023/p24#a241023p24)
+ - [The Maker of Ozempic Is Trying to Block Compounded Versions of Its Blockbuster Drug](https://www.wired.com/story/novo-nordisk-ozempic-compounded-fda-block-pharmacies/)
+ - [Infinitus, which uses AI to automate health care tasks, raised $51.5M led by a16z, a source says at a $600M+ valuation, taking its total funding to $102.9M &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p23#a241023p23)
+ - [Nigeria Drops Charges Against Tigran Gambaryan, Jailed Binance Exec and Former IRS Agent](https://www.wired.com/story/tigran-gambaryan-charges-dropped-nigeria/)
+ - [Get cursed in the latest No Man’s Sky event](https://www.theverge.com/2024/10/23/24277582/no-mans-sky-the-cursed-expedition-halloween-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

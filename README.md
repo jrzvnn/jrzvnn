@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launched the iPod 23 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
+ - [Using Artificial Intelligence Is Easier Than You Think](https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/)
  - [Source: in mid-October, TSMC halted shipments to a client after it discovered that chips fabricated for that entity had found their way into Huawei products &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p15#a241023p15)
  - [China says Tim Cook said Apple would &quot;continue to grow its investments in China&quot; in a meeting with its top tech official, during his second visit in 2024 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p14#a241023p14)
- - [How to Make Focaccia in 1 Day](https://www.cnet.com/how-to/how-to-make-focaccia-in-one-day/#ftag=CAD590a51e)
- - [Apple iPhone 16 Trade-In Guide: How to Use Your Old Phone to Help Buy a New One](https://www.cnet.com/tech/mobile/apple-iphone-16-trade-in-guide-how-to-use-your-old-phone-to-help-buy-a-new-one/#ftag=CAD590a51e)
  - [Loop Switch 2 Review: Volume-Adjustable Earplugs](https://www.wired.com/review/loop-switch-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

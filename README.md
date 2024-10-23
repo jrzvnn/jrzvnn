@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 👉 [Ive never been with someone pro](http://9gag.com/gag/apR5pRn)<!-- MEMES:END -->
+ - 😝 [The dilemma](http://9gag.com/gag/avyondM)
+ - 💣 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 👉 [Some of the craziest people I have ever met have been psychologists and psychiatrists.](http://9gag.com/gag/an75y5b)<!-- MEMES:END -->
 
 ---
 

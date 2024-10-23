@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 23, #30](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-23-30/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 23, #1222](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-23-1222/#ftag=CAD590a51e)
  - [How to run apps outside system security policies in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-apps-outside-system-security-policies-in-macos-sequoia?utm_medium=rss)
- - [NYC-based Tennr, which uses AI-based document parsing and workflow automation to reduce waiting times for patients, raised a $37M Series B led by Lightspeed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241022/p33#a241022p33)
- - [OpenAI hires former White House official Aaron &quot;Ronnie&quot; Chatterji as its first chief economist to research how AI will impact economic growth and job creation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241022/p32#a241022p32)
- - [Best Water Guns for 2024](https://www.cnet.com/news/best-water-guns/#ftag=CAD590a51e)
- - [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers for Oct. 23, #500: It&#39;s a Weird One](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-500/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 23, #234](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-23-234/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

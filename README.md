@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Goldman Sachs fined millions for misleading Apple Card holders](https://www.theverge.com/2024/10/23/24277710/apple-goldman-sachs-cfpb-fine-charge-disputes-system)
- - [Kuo again predicts doom for new iPhone because of order cuts](https://appleinsider.com/articles/24/10/23/kuo-again-predicts-doom-for-new-iphone-because-of-order-cuts?utm_medium=rss)
- - [Chinese industry tsar urges Tim Cook to continue investing](https://appleinsider.com/articles/24/10/23/chinese-industry-tsar-urges-tim-cook-to-continue-investing?utm_medium=rss)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Chemistry, a new VC firm by Index, Bessemer, and a16z alums Mark Goldberg, Ethan Kurzweil, and Kristina Shen, raised $350M for its debut, Series A-focused fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241023/p30#a241023p30)<!-- TECH:END -->
+ - [Grab This Great 15.6-Inch Lenovo Laptop for $240 Off Today at Best Buy](https://www.cnet.com/deals/grab-this-great-15-6-inch-lenovo-laptop-for-240-off-today-at-best-buy/#ftag=CAD590a51e)
+ - [Kuo: Apple has cut iPhone 16 orders by ~10M units for Q4 2024 and H1 2025, mostly non-Pro models, and plans 8.6M iPhone SE 4 units from December 2024 to Q1 2025 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241023/p31#a241023p31)
+ - [Apple restarts iOS, iPadOS, MacOS betas with bigger Apple Intelligence push](https://appleinsider.com/articles/24/10/23/apple-restarts-betas-with-bigger-apple-intelligence-push?utm_medium=rss)
+ - [You Can Download iOS 18.2 Developer Beta, Featuring ChatGPT, Visual Intelligence and GenMoji](https://www.cnet.com/tech/services-and-software/you-can-download-ios-18-2-developer-beta-featuring-chatgpt-visual-intelligence-and-genmoji/#ftag=CAD590a51e)
+ - [Anthropic Wants Claude AI to Use Computers the Way You Do](https://www.cnet.com/tech/services-and-software/anthropic-wants-claude-ai-to-use-computers-the-way-you-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

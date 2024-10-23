@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
- - 😝 [I&#39;m OP and I have dcks to suck and seemen to drink.](http://9gag.com/gag/a2vR5DZ)
- - 💣 [Long short story the dagther didn&#39;t want to go to the paid lessons and the father took the lessons. Cool guy.](http://9gag.com/gag/aAygwvd)
- - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
- - 👉 [Disgusting!](http://9gag.com/gag/amo5rEj)<!-- MEMES:END -->
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - 💣 [Standard response](http://9gag.com/gag/aVv0PKn)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [High School Teacher Ban List](http://9gag.com/gag/aZZ7pr6)<!-- MEMES:END -->
 
 ---
 

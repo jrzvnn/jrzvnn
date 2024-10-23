@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
- - 😝 [Dad of the Century](http://9gag.com/gag/abArzg8)
- - 💣 [`keep the change`](http://9gag.com/gag/ajP5N1q)
- - 😝 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)
- - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
+ - 😝 [So much hate](http://9gag.com/gag/aXPjvgz)
+ - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 👉 [`keep the change`](http://9gag.com/gag/ajP5N1q)<!-- MEMES:END -->
 
 ---
 

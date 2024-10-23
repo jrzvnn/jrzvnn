@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [*cries in grown up*](http://9gag.com/gag/aGygD16)
+ - 😝 [Useful phone](http://9gag.com/gag/aMVYGWG)
+ - 💣 [You are free Men, indeed](http://9gag.com/gag/a34Rjd8)
  - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 😝 [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
- - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 👉 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)<!-- MEMES:END -->
+ - 👉 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)<!-- MEMES:END -->
 
 ---
 

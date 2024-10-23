@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Image Playground, ChatGPT, and Genmoji in iOS 18.2](https://appleinsider.com/articles/24/10/23/hands-on-with-image-playground-chatgpt-and-genmoji-in-ios-182?utm_medium=rss)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Google open-sourced its watermarking tool for AI-generated text](https://www.theverge.com/2024/10/23/24277873/google-artificial-intelligence-synthid-watermarking-open-source)
- - [UK-based Wayve, which develops AI software for vehicles, starts testing its driver-assistance system in San Francisco and opens a new office in California &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/241023/p37#a241023p37)
- - [Dodge Chargers with semi-solid-state batteries may hit the road in 2026](https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026)
- - [IBM reports Q3 revenue up 1% YoY to $14.97B, vs. $15.07B est., and says bookings for AI consulting and software have exceeded $3B, up more than $1B QoQ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241023/p36#a241023p36)<!-- TECH:END -->
+ - [AirPods Will Get a Hearing Aid Mode Next Week. Here&#39;s Why That&#39;s a Huge Deal](https://www.cnet.com/health/medical/airpods-will-get-a-hearing-aid-mode-next-week-heres-why-thats-a-huge-deal/#ftag=CAD590a51e)
+ - [UK-based Wayve, which develops AI software for vehicles, starts testing its driver-assistance system in San Francisco and opens a new office in California &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/241023/p37#a241023p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

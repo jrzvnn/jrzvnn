@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 💣 [Standard response](http://9gag.com/gag/aVv0PKn)
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 👉 [High School Teacher Ban List](http://9gag.com/gag/aZZ7pr6)<!-- MEMES:END -->
+ - 😝 [Zelda](http://9gag.com/gag/ae95p5m)
+ - 😝 [Some of the craziest people I have ever met have been psychologists and psychiatrists.](http://9gag.com/gag/an75y5b)
+ - 💣 [Nice!](http://9gag.com/gag/an75Bv0)
+ - 😝 [Beebop and Rocksteddy are waiting](http://9gag.com/gag/aRB0evA)
+ - 👉 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)<!-- MEMES:END -->
 
 ---
 

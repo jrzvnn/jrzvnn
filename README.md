@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Severance looks like a terrifying return to office in new season 2 trailer](https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus)
- - [Dropped iPhone leads to Australian woman being stuck upside down between boulders for hours](https://appleinsider.com/articles/24/10/23/dropped-iphone-leads-to-australian-woman-being-stuck-upside-down-between-boulders-for-hours?utm_medium=rss)
- - [Cisco brings Spatial Meetings to Apple Vision Pro with native Webex app](https://appleinsider.com/articles/24/10/23/cisco-brings-spatial-meetings-to-apple-vision-pro-with-native-webex-app?utm_medium=rss)
- - [Adobe made its painting app completely free to take on Procreate](https://www.theverge.com/2024/10/23/24277533/adobe-fresco-painting-app-free-availablility-procreate)
- - [How to switch your Instagram account from public to private](https://www.theverge.com/24267793/instagram-account-meta-privacy-how-to)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says a flaw in Blackwell AI chips that impacted production has been fixed with TSMC&#39;s help and the issue was &quot;100% Nvidia&#39;s fault&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241023/p17#a241023p17)
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
+ - [How to Fly With a Personal Item—Plus Our 3 Favorite Small Bags &lpar;2024&rpar;](https://www.wired.com/story/how-to-fly-with-a-personal-item/)
+ - [Best Blenders 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 💣 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 👉 [Cursed gumball](http://9gag.com/gag/aD2gW1N)<!-- MEMES:END -->
+ - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 💣 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - 😝 [The dilemma](http://9gag.com/gag/avyondM)
+ - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
 
 ---
 

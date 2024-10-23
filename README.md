@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
  - 😝 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
- - 💣 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 😝 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 💣 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
+ - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
 

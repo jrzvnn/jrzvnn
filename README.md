@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Useful phone](http://9gag.com/gag/aMVYGWG)
- - 😝 [A \u2018conspiracy theorist\u2019 went on Dr Phil and accused him of being a member of the Illuminati](http://9gag.com/gag/apR5v9W)
- - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 👉 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)<!-- MEMES:END -->
+ - 😝 [High School Teacher Ban List](http://9gag.com/gag/aZZ7pr6)
+ - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 💣 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
 
 ---
 

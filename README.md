@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
- - 😝 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
- - 💣 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
+ - 😝 [Another obvious reason](http://9gag.com/gag/a34RL4r)
+ - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 😝 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)
+ - 👉 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)<!-- MEMES:END -->
 
 ---
 

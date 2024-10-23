@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [tvOS 18.1 receives second release candidate version two days after the first](https://appleinsider.com/articles/24/10/23/tvos-181-receives-second-release-candidate-version-two-days-after-the-first?utm_medium=rss)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Guess who’s suing the FTC to stop click to cancel](https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups)
- - [Sources and documents detail headwinds slowing Amazon&#39;s data center buildout: electricity and water supply issues, zoning problems, labor shortages, and more &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241023/p38#a241023p38)
- - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
- - [This $50 case turns your phone into an e-reader minus the benefits of an e-reader](https://www.theverge.com/2024/10/23/24277920/astropad-bookcase-smartphone-e-reader-ios-android)<!-- TECH:END -->
+ - [Sources and documents detail headwinds slowing Amazon&#39;s data center buildout: electricity and water supply issues, zoning problems, labor shortages, and more &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241023/p38#a241023p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

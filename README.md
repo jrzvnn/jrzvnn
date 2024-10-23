@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [India&#39;s Supreme Court strikes down a tribunal order that let Byju&#39;s settle debts with India&#39;s cricket board, pushing the edtech startup firmly toward insolvency &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p9#a241023p9)
+ - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)
  - [Best Tennis Balls of 2024](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
  - [An interview with Craig Federighi on the launch of Apple Intelligence features like notification summaries in iOS 18.1, Siri, Apple&#39;s AI strategy, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p8#a241023p8)
- - [Sources: Shein&#39;s revenue growth slowed to 23% YoY to $18B in H1 2024 and its profit declined 70%+ YoY to just under $400M, as competition with Temu intensifies &lpar;The Information&rpar;](http://www.techmeme.com/241023/p7#a241023p7)
- - [Texas Instruments says it is nearing recovery after Q3 sales fell for the eighth straight quarter to $4.15B, down 8.4% YoY, and projects Q4 sales below est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241023/p6#a241023p6)<!-- TECH:END -->
+ - [Sources: Shein&#39;s revenue growth slowed to 23% YoY to $18B in H1 2024 and its profit declined 70%+ YoY to just under $400M, as competition with Temu intensifies &lpar;The Information&rpar;](http://www.techmeme.com/241023/p7#a241023p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

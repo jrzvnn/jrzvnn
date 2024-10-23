@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
  - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 💣 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
  - 👉 [`Raus`. Lady had enough. Nice to see someone stand up against this behavior.](http://9gag.com/gag/a2vRoPp)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is preparing an M4 MacBook Air update for early next year](https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update)
  - [Sources: the US DOJ warned Elon Musk&#39;s America PAC in recent days that his $1M sweepstakes to registered voters in swing states may violate federal law &lpar;CNN&rpar;](http://www.techmeme.com/241023/p34#a241023p34)
  - [Apple&#39;s spring 2025 to be busy with M4 MacBook Air &amp; iPad updates](https://appleinsider.com/articles/24/10/23/apples-spring-2025-to-be-busy-with-m4-macbook-air-ipad-updates?utm_medium=rss)
  - [Windows 11 updates now install significantly faster and use less CPU](https://www.theverge.com/2024/10/23/24277844/microsoft-windows-11-24h2-windows-update-improvements)
- - [Novosbed Mattress Review 2024: Memory Foam With a Cleanly Edge Tested by Experts](https://www.cnet.com/health/sleep/novosbed-mattress-review/#ftag=CAD590a51e)
- - [The Best Keurig Deals: Save Big on Coffee and Espressos With Added Convenience](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Novosbed Mattress Review 2024: Memory Foam With a Cleanly Edge Tested by Experts](https://www.cnet.com/health/sleep/novosbed-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

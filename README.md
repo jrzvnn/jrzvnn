@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to run apps outside system security policies in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-apps-outside-system-security-policies-in-macos-sequoia?utm_medium=rss)
+ - [NYC-based Tennr, which uses AI-based document parsing and workflow automation to reduce waiting times for patients, raised a $37M Series B led by Lightspeed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241022/p33#a241022p33)
  - [OpenAI hires former White House official Aaron &quot;Ronnie&quot; Chatterji as its first chief economist to research how AI will impact economic growth and job creation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241022/p32#a241022p32)
  - [Best Water Guns for 2024](https://www.cnet.com/news/best-water-guns/#ftag=CAD590a51e)
- - [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader)
- - [Socket, which provides tools to help detect open source code vulnerabilities, raised a $40M Series B led by Abstract Ventures, taking its total funding to $65M &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/241022/p31#a241022p31)
- - [Craig Federighi says Siri won&#39;t become sentient, but it&#39;ll get better](https://appleinsider.com/articles/24/10/23/craig-federighi-says-siri-wont-become-sentient-but-itll-get-better?utm_medium=rss)<!-- TECH:END -->
+ - [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

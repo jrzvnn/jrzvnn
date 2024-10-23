@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Craig Federighi on the launch of Apple Intelligence features like notification summaries in iOS 18.1, Siri, Apple&#39;s AI strategy, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p8#a241023p8)
  - [Sources: Shein&#39;s revenue growth slowed to 23% YoY to $18B in H1 2024 and its profit declined 70%+ YoY to just under $400M, as competition with Temu intensifies &lpar;The Information&rpar;](http://www.techmeme.com/241023/p7#a241023p7)
  - [Texas Instruments says it is nearing recovery after sales fell for the eighth straight quarter in Q3 to $4.15B, down 8.4% YoY, and projects Q4 sales below est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241023/p6#a241023p6)
  - [65% OFF Walmart Promo Codes, Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Here’s What the Sustainable Cities of Tomorrow Could Look Like](https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/)
- - [Squarespace Promo Codes - 10% Off in October 2024](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
+ - [Here’s What the Sustainable Cities of Tomorrow Could Look Like](https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

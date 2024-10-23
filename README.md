@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*cries in grown up*](http://9gag.com/gag/aGygD16)
- - 😝 [Useful phone](http://9gag.com/gag/aMVYGWG)
- - 💣 [You are free Men, indeed](http://9gag.com/gag/a34Rjd8)
- - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 👉 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)<!-- MEMES:END -->
+ - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 💣 [Useful phone](http://9gag.com/gag/aMVYGWG)
+ - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
 
 ---
 

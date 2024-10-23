@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview)
+ - [Amazon begins testing a new shopping app homepage on Android and iOS with millions of US users, adding bigger graphics and an emphasis on horizontal scrolling &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241023/p12#a241023p12)
+ - [Online Talk About ‘Civil War’ Could Inspire Real-World Violence, DHS Warns Cops](https://www.wired.com/story/extremists-civil-war-dhs/)
  - [How advances in AI and autonomous systems, new tech, and lower costs are shifting global wars towards &quot;precise mass&quot;, or the mass deployment of uncrewed systems &lpar;Michael C. Horowitz/Foreign Affairs&rpar;](http://www.techmeme.com/241023/p11#a241023p11)
- - [Joseph Gordon-Levitt criticizes AI, calling Hollywood a &quot;canary in the coal mine&quot; for other industries, and says studios &quot;own the IP and I don&#39;t own any of it&quot; &lpar;Erich Schwartzel/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p10#a241023p10)
- - [Meta Quest 3S Review: The Best Headset for VR Noobs](https://www.wired.com/review/meta-quest-3s/)
- - [AT&amp;T and T-Mobile Claim Locked Phones Are Good, Actually](https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/)<!-- TECH:END -->
+ - [Joseph Gordon-Levitt criticizes AI, calling Hollywood a &quot;canary in the coal mine&quot; for other industries, and says studios &quot;own the IP and I don&#39;t own any of it&quot; &lpar;Erich Schwartzel/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p10#a241023p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`keep the change`](http://9gag.com/gag/ajP5N1q)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 💣 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
+ - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 😝 [Female behaviour](http://9gag.com/gag/aZZ7pv3)
+ - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Alarmo Review: Nagging Nostalgia](https://www.wired.com/review/nintendo-alarmo/)
- - [Tiger Siphonysta Review: Fun Yet Flawed Coffee Brewer](https://www.wired.com/review/tiger-siphonysta/)
- - [Apple launched the iPod 23 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
- - [Using Artificial Intelligence Is Easier Than You Think](https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/)
- - [Source: in mid-October, TSMC halted shipments to a client after it discovered that chips fabricated for that entity had found their way into Huawei products &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p15#a241023p15)<!-- TECH:END -->
+ - [Severance looks like a terrifying return to office in new season 2 trailer](https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus)
+ - [Dropped iPhone leads to Australian woman being stuck upside down between boulders for hours](https://appleinsider.com/articles/24/10/23/dropped-iphone-leads-to-australian-woman-being-stuck-upside-down-between-boulders-for-hours?utm_medium=rss)
+ - [Cisco brings Spatial Meetings to Apple Vision Pro with native Webex app](https://appleinsider.com/articles/24/10/23/cisco-brings-spatial-meetings-to-apple-vision-pro-with-native-webex-app?utm_medium=rss)
+ - [Adobe made its painting app completely free to take on Procreate](https://www.theverge.com/2024/10/23/24277533/adobe-fresco-painting-app-free-availablility-procreate)
+ - [How to switch your Instagram account from public to private](https://www.theverge.com/24267793/instagram-account-meta-privacy-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

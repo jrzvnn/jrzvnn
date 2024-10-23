@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are free Men, indeed](http://9gag.com/gag/a34Rjd8)
- - 😝 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
- - 💣 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
+ - 💣 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
 
 ---
 

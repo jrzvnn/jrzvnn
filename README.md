@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
- - 💣 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
- - 👉 [So much hate](http://9gag.com/gag/aXPjvgz)<!-- MEMES:END -->
+ - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - 😝 [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
+ - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
 
 ---
 

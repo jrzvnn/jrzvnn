@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview)
  - [How advances in AI and autonomous systems, new tech, and lower costs are shifting global wars towards &quot;precise mass&quot;, or the mass deployment of uncrewed systems &lpar;Michael C. Horowitz/Foreign Affairs&rpar;](http://www.techmeme.com/241023/p11#a241023p11)
  - [Joseph Gordon-Levitt criticizes AI, calling Hollywood a &quot;canary in the coal mine&quot; for other industries, and says studios &quot;own the IP and I don&#39;t own any of it&quot; &lpar;Erich Schwartzel/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p10#a241023p10)
  - [Meta Quest 3S Review: The Best Headset for VR Noobs](https://www.wired.com/review/meta-quest-3s/)
- - [AT&amp;T and T-Mobile Claim Locked Phones Are Good, Actually](https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/)
- - [Best Savings Rates Today, Oct. 23, 2024: Jump on These APYs While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-23-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AT&amp;T and T-Mobile Claim Locked Phones Are Good, Actually](https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

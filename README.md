@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool kid](http://9gag.com/gag/azx1qox)
- - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
- - 💣 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
- - 👉 [Dad of the Century](http://9gag.com/gag/abArzg8)<!-- MEMES:END -->
+ - 😝 [So much hate](http://9gag.com/gag/aXPjvgz)
+ - 😝 [That boys vocabulary is about to grow](http://9gag.com/gag/a2vRd29)
+ - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
 
 ---
 

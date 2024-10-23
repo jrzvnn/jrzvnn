@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foursquare plans to sunset its City Guide app on December 15, 2024 to focus on check-in app Swarm, reversing a 2014 decision to split its services into two apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241023/p5#a241023p5)
- - [There&#39;s One Big Reason Blue Apron Is the Best Meal Kit Service to Try in 2024](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)
- - [Stream.Security, which offers real-time cloud threat and exposure management solutions for enterprises, raised a $30M Series B led by U.S. Venture Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/241023/p4#a241023p4)
- - [How Do I Track My Ballot? The Details You Need in Every State](https://www.cnet.com/how-to/how-do-i-track-my-ballot-the-details-you-need-in-every-state/#ftag=CAD590a51e)
- - [Paytm receives regulatory approval to resume adding UPI payments users, following an eight-month Reserve Bank of India&#39;s restrictions on many of its operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241023/p3#a241023p3)<!-- TECH:END -->
+ - [Sources: Shein&#39;s revenue growth slowed to 23% YoY to $18B in H1 2024 and its profit declined 70%+ YoY to just under $400M, as competition with Temu intensifies &lpar;The Information&rpar;](http://www.techmeme.com/241023/p7#a241023p7)
+ - [Texas Instruments says it is nearing recovery after sales fell for the eighth straight quarter in Q3 to $4.15B, down 8.4% YoY, and projects Q4 sales below est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241023/p6#a241023p6)
+ - [65% OFF Walmart Promo Codes, Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Here’s What the Sustainable Cities of Tomorrow Could Look Like](https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/)
+ - [Squarespace Promo Codes - 10% Off in October 2024](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

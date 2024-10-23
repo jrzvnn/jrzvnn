@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241023/p2#a241023p2)
  - [In its first annual report, Walmart&#39;s PhonePe says FY 2024 revenue grew 74% YoY to ~$602M, net losses dropped 28% YoY to ~$237M, and 200M MAUs as of March 2024 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241023/p1#a241023p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 23, #30](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-23-30/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 23, #1222](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-23-1222/#ftag=CAD590a51e)
- - [How to run apps outside system security policies in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-apps-outside-system-security-policies-in-macos-sequoia?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints and Answers for Oct. 23, #500: It&#39;s a Weird One](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to run apps outside system security policies in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-apps-outside-system-security-policies-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

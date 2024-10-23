@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dodge Chargers with semi-solid-state batteries may hit the road in 2026](https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026)
+ - [IBM reports Q3 revenue up 1% YoY to $14.97B, vs. $15.07B est., and says bookings for AI consulting and software have exceeded $3B, up more than $1B QoQ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241023/p36#a241023p36)
  - [Humane slashes the price of its AI Pin after weak sales](https://www.theverge.com/2024/10/23/24277964/humane-slashes-ai-pin-price-weak-sales)
  - [Tesla says ‘more affordable’ EVs will launch early 2025](https://www.theverge.com/2024/10/23/24277609/tesla-earnings-q3-2024-net-income-margin-sales)
- - [Apple will let everyone set new default phone and messaging apps with iOS 18.2](https://www.theverge.com/2024/10/23/24277926/apple-iphone-default-messaging-apps-ios-18-2)
- - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $699 while supplies last](https://appleinsider.com/articles/24/10/23/lowest-price-ever-apples-m2-macbook-air-drops-to-699-while-supplies-last?utm_medium=rss)
- - [Microsoft: Russia, China, and Iran are stepping up cyber-influence efforts on the US election; China has focused on down-ballot candidates and Congress members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241023/p35#a241023p35)<!-- TECH:END -->
+ - [Apple will let everyone set new default phone and messaging apps with iOS 18.2](https://www.theverge.com/2024/10/23/24277926/apple-iphone-default-messaging-apps-ios-18-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents detail headwinds slowing Amazon&#39;s data center buildout: electricity and water supply issues, zoning problems, labor shortages, and more &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241023/p38#a241023p38)
+ - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
  - [This $50 case turns your phone into an e-reader minus the benefits of an e-reader](https://www.theverge.com/2024/10/23/24277920/astropad-bookcase-smartphone-e-reader-ios-android)
  - [Hands on with Image Playground, ChatGPT, and Genmoji in iOS 18.2](https://appleinsider.com/articles/24/10/23/hands-on-with-image-playground-chatgpt-and-genmoji-in-ios-182?utm_medium=rss)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Google open-sourced its watermarking tool for AI-generated text](https://www.theverge.com/2024/10/23/24277873/google-artificial-intelligence-synthid-watermarking-open-source)
- - [AirPods Will Get a Hearing Aid Mode Next Week. Here&#39;s Why That&#39;s a Huge Deal](https://www.cnet.com/health/medical/airpods-will-get-a-hearing-aid-mode-next-week-heres-why-thats-a-huge-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

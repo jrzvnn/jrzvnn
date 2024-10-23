@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That boys vocabulary is about to grow](http://9gag.com/gag/a2vRd29)
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
- - 👉 [`keep the change`](http://9gag.com/gag/ajP5N1q)<!-- MEMES:END -->
+ - 😝 [Aliens Humor. Laugh, for a change.](http://9gag.com/gag/aoy5O2n)
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
+ - 👉 [Dad of the Century](http://9gag.com/gag/abArzg8)<!-- MEMES:END -->
 
 ---
 

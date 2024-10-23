@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get cursed in the latest No Man’s Sky event](https://www.theverge.com/2024/10/23/24277582/no-mans-sky-the-cursed-expedition-halloween-event)
+ - [Claude Sonnet 3.5 hands-on: the AI understood a basic game and its mechanics, had a strategy, was willing to revise it based on learning, but fragilities remain &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241023/p22#a241023p22)
  - [Apple severely cuts Vision Pro production, and may stop it completely very soon](https://appleinsider.com/articles/24/10/23/apple-severely-cuts-vision-pro-production-and-may-stop-it-completely-very-soon?utm_medium=rss)
- - [A mother plans to sue Character.AI after her 14-year-old son became obsessed with a chatbot before his suicide; Character.AI says it plans new safety features &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241023/p20#a241023p20)
- - [Marantz’s first speakers look like works of art](https://www.theverge.com/2024/10/23/24277535/marantz-wireless-speaker-grand-horizon-streaming)
- - [Sources: Apple has sharply scaled back Vision Pro production since early summer, and could stop making the existing version entirely by the end of 2024 &lpar;The Information&rpar;](http://www.techmeme.com/241023/p19#a241023p19)
- - [Adobe makes Fresco, its dedicated drawing and painting app, free to users, removing a subscription for premium features, to compete with Procreate and others &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241023/p18#a241023p18)<!-- TECH:END -->
+ - [Apple’s reportedly slowing down Vision Pro production, for now](https://www.theverge.com/2024/10/23/24277584/apple-vision-pro-manufacturing-cutback)
+ - [The Eero Outdoor 7 Brings Wi-Fi to the Backyard](https://www.wired.com/story/amazon-eero-outdoor-7-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
+ - 😝 [`keep the change`](http://9gag.com/gag/ajP5N1q)
  - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 💣 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 😝 [The dilemma](http://9gag.com/gag/avyondM)
+ - 💣 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
  - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
 
 ---

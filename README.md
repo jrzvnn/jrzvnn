@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Police surveillance company Flock Safety buys drone startup Aerodome, sources say for $300M+; both are a16z-backed and have raised $680M+ and $28M respectively &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241023/p41#a241023p41)
  - [Documents show direct ties between Russia&#39;s government and a former Florida deputy sheriff behind a network of fake news sites using AI and targeting US voters &lpar;Catherine Belton/Washington Post&rpar;](http://www.techmeme.com/241023/p40#a241023p40)
  - [Roblox is making changes for pre-teen users after reports that it failed to protect children](https://www.theverge.com/2024/10/23/24277992/roblox-pre-teen-children-parent-accounts-default-settings)
  - [Character.AI and Google sued after chatbot-obsessed teen’s death](https://www.theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit)
- - [Apple Vision Pro guest mode may soon be controlled via iPhone](https://appleinsider.com/articles/24/10/23/apple-vision-pro-guest-mode-may-soon-be-controlled-via-iphone?utm_medium=rss)
- - [Roblox plans child-safety reforms, including a new type of account to let parents monitor their child&#39;s online activity and friends, starting in November &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p39#a241023p39)<!-- TECH:END -->
+ - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

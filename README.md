@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The smartphone-like Boox Palma ebook reader hits a record low price](https://www.theverge.com/2024/10/23/24277569/boox-palma-ebook-reader-deal-sale)
  - [Apple and Goldman Sachs hit with $90 million penalty over Apple Card](https://appleinsider.com/articles/24/10/23/apple-and-goldman-sachs-hit-with-90-million-penalty-over-apple-card?utm_medium=rss)
  - [The US CFPB says Goldman Sachs and Apple will pay $89M following a long-running Apple Card investigation; Goldman must pay $64.8M and Apple must pay $25M &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241023/p27#a241023p27)
  - [Trying to reverse climate change won’t save us, scientists warn](https://www.theverge.com/2024/10/23/24265618/reverse-climate-change-overshoot-carbon-removal-research-nature)
- - [A profile of Nicole Shanahan, the ex-wife of Sergey Brin and a rising MAGA star; sources: Shanahan and Brin&#39;s marriage drove a wedge between Brin and Larry Page &lpar;Washington Post&rpar;](http://www.techmeme.com/241023/p26#a241023p26)
- - [Amazon-owned Eero unveils the $350 Eero Outdoor 7, a dual-band 2.4 and 5Ghz Wi-Fi 7 access point that covers up to 15,000 square feet with speeds up to 2.1Gbps &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241023/p25#a241023p25)<!-- TECH:END -->
+ - [A profile of Nicole Shanahan, the ex-wife of Sergey Brin and a rising MAGA star; sources: Shanahan and Brin&#39;s marriage drove a wedge between Brin and Larry Page &lpar;Washington Post&rpar;](http://www.techmeme.com/241023/p26#a241023p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $699 while supplies last](https://appleinsider.com/articles/24/10/23/lowest-price-ever-apples-m2-macbook-air-drops-to-699-while-supplies-last?utm_medium=rss)
+ - [Microsoft: Russia, China, and Iran are stepping up cyber-influence efforts on the US election; China has focused on down-ballot candidates and Congress members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241023/p35#a241023p35)
  - [Apple is preparing an M4 MacBook Air update for early next year](https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update)
  - [&#39;Despicable Me 4&#39; Streaming on Peacock: Release Date and Time](https://www.cnet.com/tech/services-and-software/despicable-me-4-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
- - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)
- - [Sources: the US DOJ warned Elon Musk&#39;s America PAC in recent days that his $1M sweepstakes to registered voters in swing states may violate federal law &lpar;CNN&rpar;](http://www.techmeme.com/241023/p34#a241023p34)
- - [Apple&#39;s spring 2025 to be busy with M4 MacBook Air &amp; iPad updates](https://appleinsider.com/articles/24/10/23/apples-spring-2025-to-be-busy-with-m4-macbook-air-ipad-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

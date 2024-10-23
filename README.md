@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says Tim Cook said Apple would &quot;continue to grow its investments in China&quot; in a meeting with its top tech official, during his second visit in 2024 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p14#a241023p14)
  - [Loop Switch 2 Review: Volume-Adjustable Earplugs](https://www.wired.com/review/loop-switch-2/)
  - [Nigeria drops charges against Binance executive Tigran Gambaryan, detained since February 2024; sources say the case was discontinued due to his ill health &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/241023/p13#a241023p13)
  - [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview)
- - [Amazon begins testing a new shopping app homepage on Android and iOS with millions of US users, adding bigger graphics and an emphasis on horizontal scrolling &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241023/p12#a241023p12)
- - [Online Talk About ‘Civil War’ Could Inspire Real-World Violence, DHS Warns Cops](https://www.wired.com/story/extremists-civil-war-dhs/)<!-- TECH:END -->
+ - [Amazon begins testing a new shopping app homepage on Android and iOS with millions of US users, adding bigger graphics and an emphasis on horizontal scrolling &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241023/p12#a241023p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

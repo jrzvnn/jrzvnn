@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zelda](http://9gag.com/gag/ae95p5m)
- - 😝 [Some of the craziest people I have ever met have been psychologists and psychiatrists.](http://9gag.com/gag/an75y5b)
- - 💣 [Nice!](http://9gag.com/gag/an75Bv0)
- - 😝 [Beebop and Rocksteddy are waiting](http://9gag.com/gag/aRB0evA)
- - 👉 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)<!-- MEMES:END -->
+ - 😝 [Useful phone](http://9gag.com/gag/aMVYGWG)
+ - 😝 [A \u2018conspiracy theorist\u2019 went on Dr Phil and accused him of being a member of the Illuminati](http://9gag.com/gag/apR5v9W)
+ - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 😝 [Nice!](http://9gag.com/gag/an75Bv0)
+ - 👉 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)<!-- MEMES:END -->
 
 ---
 

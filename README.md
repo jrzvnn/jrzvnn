@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High School Teacher Ban List](http://9gag.com/gag/aZZ7pr6)
- - 😝 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 💣 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
+ - 😝 [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 💣 [Well, that escalated quickly!](http://9gag.com/gag/aMVYQOW)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 👉 [Ive never been with someone pro](http://9gag.com/gag/apR5pRn)<!-- MEMES:END -->
 
 ---
 

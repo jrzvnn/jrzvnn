@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aliens Humor. Laugh, for a change.](http://9gag.com/gag/aoy5O2n)
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 😝 [Cool kid](http://9gag.com/gag/azx1qox)
+ - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 💣 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
  - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
  - 👉 [Dad of the Century](http://9gag.com/gag/abArzg8)<!-- MEMES:END -->
 

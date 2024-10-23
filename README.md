@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab This Great 15.6-Inch Lenovo Laptop for $240 Off Today at Best Buy](https://www.cnet.com/deals/grab-this-great-15-6-inch-lenovo-laptop-for-240-off-today-at-best-buy/#ftag=CAD590a51e)
+ - [Iowa rolls out support for driver&#39;s licenses, IDs in Wallet app](https://appleinsider.com/articles/24/10/23/iowa-rolls-out-support-for-drivers-licenses-ids-in-wallet-app?utm_medium=rss)
+ - [Apple releases iOS 18.2, iPadOS 18.2, and macOS 15.2 developer betas, with features like Genmoji, Image Playground, Visual Intelligence, and ChatGPT integration &lpar;Six Colors&rpar;](http://www.techmeme.com/241023/p32#a241023p32)
+ - [Liquid AI Is Redesigning the Neural Network](https://www.wired.com/story/liquid-ai-redesigning-neural-network/)
  - [Kuo: Apple has cut iPhone 16 orders by ~10M units for Q4 2024 and H1 2025, mostly non-Pro models, and plans 8.6M iPhone SE 4 units from December 2024 to Q1 2025 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241023/p31#a241023p31)
- - [Apple restarts iOS, iPadOS, MacOS betas with bigger Apple Intelligence push](https://appleinsider.com/articles/24/10/23/apple-restarts-betas-with-bigger-apple-intelligence-push?utm_medium=rss)
- - [You Can Download iOS 18.2 Developer Beta, Featuring ChatGPT, Visual Intelligence and GenMoji](https://www.cnet.com/tech/services-and-software/you-can-download-ios-18-2-developer-beta-featuring-chatgpt-visual-intelligence-and-genmoji/#ftag=CAD590a51e)
- - [Anthropic Wants Claude AI to Use Computers the Way You Do](https://www.cnet.com/tech/services-and-software/anthropic-wants-claude-ai-to-use-computers-the-way-you-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple restarts iOS, iPadOS, MacOS betas with bigger Apple Intelligence push](https://appleinsider.com/articles/24/10/23/apple-restarts-betas-with-bigger-apple-intelligence-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

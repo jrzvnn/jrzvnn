@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: in mid-October, TSMC halted shipments to a client after it discovered that chips fabricated for that entity had found their way into Huawei products &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p15#a241023p15)
  - [China says Tim Cook said Apple would &quot;continue to grow its investments in China&quot; in a meeting with its top tech official, during his second visit in 2024 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p14#a241023p14)
- - [Loop Switch 2 Review: Volume-Adjustable Earplugs](https://www.wired.com/review/loop-switch-2/)
- - [Nigeria drops charges against Binance executive Tigran Gambaryan, detained since February 2024; sources say the case was discontinued due to his ill health &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/241023/p13#a241023p13)
- - [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview)
- - [Amazon begins testing a new shopping app homepage on Android and iOS with millions of US users, adding bigger graphics and an emphasis on horizontal scrolling &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241023/p12#a241023p12)<!-- TECH:END -->
+ - [How to Make Focaccia in 1 Day](https://www.cnet.com/how-to/how-to-make-focaccia-in-one-day/#ftag=CAD590a51e)
+ - [Apple iPhone 16 Trade-In Guide: How to Use Your Old Phone to Help Buy a New One](https://www.cnet.com/tech/mobile/apple-iphone-16-trade-in-guide-how-to-use-your-old-phone-to-help-buy-a-new-one/#ftag=CAD590a51e)
+ - [Loop Switch 2 Review: Volume-Adjustable Earplugs](https://www.wired.com/review/loop-switch-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Loop Switch 2 Review: Volume-Adjustable Earplugs](https://www.wired.com/review/loop-switch-2/)
+ - [Nigeria drops charges against Binance executive Tigran Gambaryan, detained since February 2024; sources say the case was discontinued due to his ill health &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/241023/p13#a241023p13)
  - [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview)
  - [Amazon begins testing a new shopping app homepage on Android and iOS with millions of US users, adding bigger graphics and an emphasis on horizontal scrolling &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241023/p12#a241023p12)
- - [Online Talk About ‘Civil War’ Could Inspire Real-World Violence, DHS Warns Cops](https://www.wired.com/story/extremists-civil-war-dhs/)
- - [How advances in AI and autonomous systems, new tech, and lower costs are shifting global wars towards &quot;precise mass&quot;, or the mass deployment of uncrewed systems &lpar;Michael C. Horowitz/Foreign Affairs&rpar;](http://www.techmeme.com/241023/p11#a241023p11)
- - [Joseph Gordon-Levitt criticizes AI, calling Hollywood a &quot;canary in the coal mine&quot; for other industries, and says studios &quot;own the IP and I don&#39;t own any of it&quot; &lpar;Erich Schwartzel/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p10#a241023p10)<!-- TECH:END -->
+ - [Online Talk About ‘Civil War’ Could Inspire Real-World Violence, DHS Warns Cops](https://www.wired.com/story/extremists-civil-war-dhs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

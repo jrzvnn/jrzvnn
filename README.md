@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Alarmo Review: Nagging Nostalgia](https://www.wired.com/review/nintendo-alarmo/)
+ - [Tiger Siphonysta Review: Fun Yet Flawed Coffee Brewer](https://www.wired.com/review/tiger-siphonysta/)
  - [Apple launched the iPod 23 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
  - [Using Artificial Intelligence Is Easier Than You Think](https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/)
- - [Source: in mid-October, TSMC halted shipments to a client after it discovered that chips fabricated for that entity had found their way into Huawei products &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p15#a241023p15)
- - [China says Tim Cook said Apple would &quot;continue to grow its investments in China&quot; in a meeting with its top tech official, during his second visit in 2024 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p14#a241023p14)
- - [Loop Switch 2 Review: Volume-Adjustable Earplugs](https://www.wired.com/review/loop-switch-2/)<!-- TECH:END -->
+ - [Source: in mid-October, TSMC halted shipments to a client after it discovered that chips fabricated for that entity had found their way into Huawei products &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241023/p15#a241023p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

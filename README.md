@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 😝 [`Raus`. Lady had enough. Nice to see someone stand up against this behavior.](http://9gag.com/gag/a2vRoPp)
- - 💣 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
+ - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
+ - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - 💣 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [`Raus`. Lady had enough. Nice to see someone stand up against this behavior.](http://9gag.com/gag/a2vRoPp)<!-- MEMES:END -->
 
 ---
 

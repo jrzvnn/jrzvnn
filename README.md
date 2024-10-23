@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
  - 💣 [Useful phone](http://9gag.com/gag/aMVYGWG)
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
+ - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 ---
 

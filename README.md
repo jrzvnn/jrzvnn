@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
- - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 💣 [The dilemma](http://9gag.com/gag/avyondM)
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 👉 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)<!-- MEMES:END -->
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 😝 [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)<!-- MEMES:END -->
 
 ---
 

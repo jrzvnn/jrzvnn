@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime members can now save on gas](https://www.theverge.com/2024/10/23/24277750/amazon-prime-bp-earnify-savings-fuel-rewards)
+ - [An investigation exposes data brokers using ads to help track almost any phone](https://www.theverge.com/2024/10/23/24277679/atlas-privacy-babel-street-data-brokers-locate-x-tracking)
  - [How to master the camera on iPhone 16 Pro &amp; iPhone 16 Pro Max](https://appleinsider.com/articles/24/10/23/how-to-master-the-camera-on-iphone-16-pro-iphone-16-pro-max?utm_medium=rss)
  - [Sources: Apple nears production of MacBook Airs with M4 for release in early 2025, slightly delays M4 Mac Studio, and plans new entry-level iPads for the spring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241023/p33#a241023p33)
- - [Apple’s first iOS 18.2 beta adds more AI features and ChatGPT integration](https://www.theverge.com/2024/10/23/24277811/apple-intelligence-ios-18-2-beta-chatgpt-visual-intelligence-image-generation)
- - [Iowa rolls out support for driver&#39;s licenses, IDs in Wallet app](https://appleinsider.com/articles/24/10/23/iowa-rolls-out-support-for-drivers-licenses-ids-in-wallet-app?utm_medium=rss)
- - [Apple releases iOS 18.2, iPadOS 18.2, and macOS 15.2 developer betas, with features like Genmoji, Image Playground, Visual Intelligence, and ChatGPT integration &lpar;Six Colors&rpar;](http://www.techmeme.com/241023/p32#a241023p32)<!-- TECH:END -->
+ - [Apple’s first iOS 18.2 beta adds more AI features and ChatGPT integration](https://www.theverge.com/2024/10/23/24277811/apple-intelligence-ios-18-2-beta-chatgpt-visual-intelligence-image-generation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

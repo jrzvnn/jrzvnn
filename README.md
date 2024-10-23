@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane slashes the price of its AI Pin after weak sales](https://www.theverge.com/2024/10/23/24277964/humane-slashes-ai-pin-price-weak-sales)
+ - [Tesla says ‘more affordable’ EVs will launch early 2025](https://www.theverge.com/2024/10/23/24277609/tesla-earnings-q3-2024-net-income-margin-sales)
+ - [Apple will let everyone set new default phone and messaging apps with iOS 18.2](https://www.theverge.com/2024/10/23/24277926/apple-iphone-default-messaging-apps-ios-18-2)
  - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $699 while supplies last](https://appleinsider.com/articles/24/10/23/lowest-price-ever-apples-m2-macbook-air-drops-to-699-while-supplies-last?utm_medium=rss)
- - [Microsoft: Russia, China, and Iran are stepping up cyber-influence efforts on the US election; China has focused on down-ballot candidates and Congress members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241023/p35#a241023p35)
- - [Apple is preparing an M4 MacBook Air update for early next year](https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update)
- - [&#39;Despicable Me 4&#39; Streaming on Peacock: Release Date and Time](https://www.cnet.com/tech/services-and-software/despicable-me-4-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
- - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft: Russia, China, and Iran are stepping up cyber-influence efforts on the US election; China has focused on down-ballot candidates and Congress members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241023/p35#a241023p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

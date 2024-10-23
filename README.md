@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 😝 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
  - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 💣 [Well, that escalated quickly!](http://9gag.com/gag/aMVYQOW)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
  - 👉 [Ive never been with someone pro](http://9gag.com/gag/apR5pRn)<!-- MEMES:END -->
 
 ---

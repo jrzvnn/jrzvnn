@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
  - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
+ - 💣 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
  - 👉 [So much hate](http://9gag.com/gag/aXPjvgz)<!-- MEMES:END -->
 
 ---

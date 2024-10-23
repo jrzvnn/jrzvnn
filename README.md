@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much hate](http://9gag.com/gag/aXPjvgz)
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 💣 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 👉 [Yeah right..](http://9gag.com/gag/aryo5XX)<!-- MEMES:END -->
+ - 😝 [We had aztec earlier, lets see how many likes cs_assault will get](http://9gag.com/gag/an75b4V)
+ - 😝 [Dad of the Century](http://9gag.com/gag/abArzg8)
+ - 💣 [`keep the change`](http://9gag.com/gag/ajP5N1q)
+ - 😝 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)
+ - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
 
 ---
 

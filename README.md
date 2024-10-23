@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A mother plans to sue Character.AI after her 14-year-old son became obsessed with a chatbot before his suicide; Character.AI says it plans new safety features &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241023/p20#a241023p20)
  - [Sources: Apple has sharply scaled back Vision Pro production since early summer, and could stop making the existing version entirely by the end of 2024 &lpar;The Information&rpar;](http://www.techmeme.com/241023/p19#a241023p19)
  - [Adobe makes Fresco, its dedicated drawing and painting app, free to users, removing a subscription for premium features, to compete with Procreate and others &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241023/p18#a241023p18)
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Nvidia CEO Jensen Huang says a flaw in Blackwell AI chips that impacted production has been fixed with TSMC&#39;s help and the issue was &quot;100% Nvidia&#39;s fault&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241023/p17#a241023p17)
- - [How to Fly With a Personal Item—Plus Our 3 Favorite Small Bags &lpar;2024&rpar;](https://www.wired.com/story/how-to-fly-with-a-personal-item/)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says a flaw in Blackwell AI chips that impacted production has been fixed with TSMC&#39;s help and the issue was &quot;100% Nvidia&#39;s fault&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241023/p17#a241023p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

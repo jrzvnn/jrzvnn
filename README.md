@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disgusting!](http://9gag.com/gag/amo5rEj)
- - 😝 [The spell for immortality](http://9gag.com/gag/aZZ7Bp9)
- - 💣 [Aliens Humor. Laugh, for a change.](http://9gag.com/gag/aoy5O2n)
- - 😝 [What the Tokyo Drift theme does to a MF...](http://9gag.com/gag/aRB0KZQ)
- - 👉 [`keep the change`](http://9gag.com/gag/ajP5N1q)<!-- MEMES:END -->
+ - 😝 [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - 💣 [`keep the change`](http://9gag.com/gag/ajP5N1q)
+ - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
 
 ---
 

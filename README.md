@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 😝 [Ive never been with someone pro](http://9gag.com/gag/apR5pRn)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 😝 [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
+ - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - 💣 [The dilemma](http://9gag.com/gag/avyondM)
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 👉 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)<!-- MEMES:END -->
 
 ---
 

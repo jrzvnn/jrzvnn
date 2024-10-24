@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
  - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 😝 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 👉 [At a drive-thru](http://9gag.com/gag/aLn08xA)<!-- MEMES:END -->
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
+ - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - 👉 [No retaredment](http://9gag.com/gag/aD2ggrG)<!-- MEMES:END -->
 
 ---
 

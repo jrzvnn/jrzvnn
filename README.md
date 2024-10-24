@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [At an event in Mumbai, Nvidia announces tie-ups with Indian companies including Reliance Industries, and launches a 4B-parameter small language model for Hindi &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p7#a241024p7)
  - [A profile of, and interview with, Meta VP of AI Research Joelle Pineau on her career path, the FAIR lab, leading ~1,000 people across 10 locations, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241024/p6#a241024p6)
- - [Best Speakerphone in 2024 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
- - [Cate Blanchett Would Hate This List of the Best Leaf Blowers in 2024](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
- - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
+ - [Best Mattresses for Kids in 2024](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
+ - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

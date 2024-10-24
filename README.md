@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of, and interview with, Meta VP of AI Research Joelle Pineau on her career path, the FAIR lab, leading ~1,000 people across 10 locations, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241024/p6#a241024p6)
  - [Best Speakerphone in 2024 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
  - [Cate Blanchett Would Hate This List of the Best Leaf Blowers in 2024](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
  - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)
- - [Insight and Info: China&#39;s leading EDA companies for chip design, Empyrean Technology, Primarius, and Semitronix, had less than 2% of global market share in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p5#a241024p5)
- - [Best Desks of 2024](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Insight and Info: China&#39;s leading EDA companies for chip design, Empyrean Technology, Primarius, and Semitronix, had less than 2% of global market share in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p5#a241024p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finix, a &quot;payments infrastructure&quot; startup that became a payment processor like Stripe in 2023, raised a $75M Series C, bringing its total funding to $208M &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241024/p22#a241024p22)
  - [Next iPad mini to have OLED, but you&#39;ll have to wait and wait](https://appleinsider.com/articles/24/10/24/next-ipad-mini-to-have-oled-but-youll-have-to-wait-and-wait?utm_medium=rss)
  - [8 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
  - [Why AI companies are dropping the doomerism](https://www.theverge.com/24278413/ai-manifesto-anthropic-dario-amodei-agi-digital-god-openai-sam-altman-decoder-podcast)
- - [How the US and Nigeria wrestled over Binance executive Tigran Gambaryan&#39;s detention in February 2024, which US officials said hurt the two allies&#39; relationship &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p21#a241024p21)
- - [Google Calendar gets a redesign and dark mode](https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode)<!-- TECH:END -->
+ - [How the US and Nigeria wrestled over Binance executive Tigran Gambaryan&#39;s detention in February 2024, which US officials said hurt the two allies&#39; relationship &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p21#a241024p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

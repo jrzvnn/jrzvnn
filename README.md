@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Both the Harris and Trump campaigns are using TikTok to reach Gen Z; CredoIQ: viral conservative content surpassed progressive content at the start of October &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241024/p8#a241024p8)
  - [At an event in Mumbai, Nvidia announces tie-ups with Indian companies including Reliance Industries, and launches a 4B-parameter small language model for Hindi &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p7#a241024p7)
  - [A profile of, and interview with, Meta VP of AI Research Joelle Pineau on her career path, the FAIR lab, leading ~1,000 people across 10 locations, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241024/p6#a241024p6)
  - [Best Home Ellipticals in 2024](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [Best Mattresses for Kids in 2024](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattresses for Kids in 2024](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

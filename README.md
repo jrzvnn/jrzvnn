@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Is the Kindle Colorsoft Too Late? Amazon Reveals What Took So Damn Long to Catch Up](https://www.wired.com/story/kindles-colorsoft-king-reveals-what-took-amazon-so-damn-long-to-catch-up/)
  - [Bluesky is working on a subscription, but it won’t give you a blue check](https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription)
  - [Apple seeds second release candidate for macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/24/apple-seeds-second-release-candidate-for-macos-sequoia-151?utm_medium=rss)
- - [Google Photos will soon show you if an image was edited with AI](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)<!-- TECH:END -->
+ - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

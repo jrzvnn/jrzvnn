@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parents for no reason](http://9gag.com/gag/a9yRAe6)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
  - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 💣 [Insane job](http://9gag.com/gag/aLn0Dyv)
- - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
- - 👉 [Someone stop him](http://9gag.com/gag/aqyg1Z7)<!-- MEMES:END -->
+ - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
 

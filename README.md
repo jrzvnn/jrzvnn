@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insight and Info: China&#39;s leading EDA companies for chip design, Empyrean Technology, Primarius, and Semitronix, had less than 2% of global market share in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p5#a241024p5)
  - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)
  - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
  - [Secondhand fashion site Vinted raised &amp;euro;340M led by TPG at a &amp;euro;5B valuation, as the profitable startup plans to expand beyond clothes into electronics and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p3#a241024p3)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
- - [30% off Samsung Promo Codes - October 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

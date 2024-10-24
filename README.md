@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 😝 [Printer doesn&#39;t go brrrr](http://9gag.com/gag/amo57R9)
- - 💣 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)
- - 😝 [Cool kid](http://9gag.com/gag/azx1qox)
- - 👉 [Behold the thing you lose with streaming services](http://9gag.com/gag/aoy5Oqg)<!-- MEMES:END -->
+ - 😝 [`Raus`. Lady had enough. Nice to see someone stand up against this behavior.](http://9gag.com/gag/a2vRoPp)
+ - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 😝 [Parents for no reason](http://9gag.com/gag/a9yRAe6)
+ - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
 
 ---
 

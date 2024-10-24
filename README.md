@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 😝 [Hornet architecture](http://9gag.com/gag/aW4EqK3)
- - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 😝 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
+ - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
  - 👉 [Parents for no reason](http://9gag.com/gag/a9yRAe6)<!-- MEMES:END -->
 
 ---

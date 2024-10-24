@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 😝 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [Wait for it ...](http://9gag.com/gag/a5QRMOE)
- - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
+ - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 😝 [Am I wrong thogh](http://9gag.com/gag/a6ZNMKL)
- - 💣 [Parents for no reason](http://9gag.com/gag/a9yRAe6)
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
+ - 😝 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
 
 ---
 

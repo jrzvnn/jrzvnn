@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty Black Ops 6 is coming to Nvidia’s streaming service tomorrow](https://www.theverge.com/2024/10/24/24278406/call-of-duty-black-ops-6-nvidia-geforce-now-streaming)
+ - [The &#39;Rolex on the Wall&#39; That Kissinger, Reagan and Sinatra Loved, but You’ve Never Heard Of](https://www.wired.com/story/the-timepiece-that-kissinger-reagan-and-sinatra-loved-but-youve-never-heard-of/)
  - [Minecraft is losing VR support next year](https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025)
  - [DJI Osmo Action 5 Pro Review: Long Battery Life and Great 4K Footage](https://www.wired.com/review/dji-osmo-action-5-pro/)
- - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)
- - [Apple now lets third-party browsers add web apps to an iPhone&#39;s Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241024/p20#a241024p20)
- - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

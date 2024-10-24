@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel’s Core Ultra 9 285K CPU is one step forward, one step back for PC gaming](https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on)
  - [Nimble, which helps companies automate their warehouses using logistics robots, raised a $106M Series C led by FedEx at a $1B valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/241024/p24#a241024p24)
  - [Razer added RGB lighting to its Barracuda X wireless headphones](https://www.theverge.com/2024/10/24/24278481/razer-barracuda-x-chroma-wireless-headphones-gaming-rgb-lighting)
  - [Elon Musk’s $1 million election stunt is probably illegal — and the government is unlikely to stop him](https://www.theverge.com/2024/10/24/24278088/elon-musk-doj-america-pac-million-dollar-sweepstakes-petition)
- - [Peacock’s multiview is coming to make election night even more chaotic](https://www.theverge.com/2024/10/24/24278452/peacock-multiview-election-night-more-chaotic)
- - [Satechi’s 3-in-1 wireless charging pad is now faster](https://www.theverge.com/2024/10/24/24273636/satechi-qi2-trio-wireless-charging-pad-apple-watch-iphone-airpods)<!-- TECH:END -->
+ - [Peacock’s multiview is coming to make election night even more chaotic](https://www.theverge.com/2024/10/24/24278452/peacock-multiview-election-night-more-chaotic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

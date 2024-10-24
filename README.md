@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto super PAC Fairshake, a rare bipartisan PAC, plans to deploy $40M+ in the final weeks of the 2024 US elections, after already deploying $140M &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p2#a241024p2)
- - [Document: Guangzhou, China-based self-driving startup WeRide files for a Nasdaq IPO, planning to raise up to $119.4M &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p1#a241024p1)
- - [Automatic emergency braking is getting better at preventing crashes](https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa)
- - [Fortinet discloses a critical FortiManager API flaw being exploited in 0-day attacks to steal sensitive files, after warning customers privately over a week ago &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241023/p45#a241023p45)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [Secondhand fashion site Vinted raised &amp;euro;340M led by TPG at a &amp;euro;5B valuation, as the profitable startup plans to expand beyond clothes into electronics and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p3#a241024p3)
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
+ - [30% off Samsung Promo Codes - October 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

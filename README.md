@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 😝 [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
- - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
+ - 😝 [La reconquista it\u2019s my jam](http://9gag.com/gag/a0eRK9O)
+ - 😝 [Biker music](http://9gag.com/gag/aQz1e0r)
+ - 💣 [Cool kid](http://9gag.com/gag/azx1qox)
+ - 😝 [Thank me later](http://9gag.com/gag/ajP5D1g)
+ - 👉 [Lady Diana](http://9gag.com/gag/aoy5Ndx)<!-- MEMES:END -->
 
 ---
 

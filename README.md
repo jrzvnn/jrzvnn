@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to draw water](http://9gag.com/gag/aVv0MLK)
+ - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
+ - 💣 [No retaredment](http://9gag.com/gag/aD2ggrG)
  - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
- - 👉 [No retaredment](http://9gag.com/gag/aD2ggrG)<!-- MEMES:END -->
+ - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
 
 ---
 

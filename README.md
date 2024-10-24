@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of ZachXBT, a twentysomething X user with 650K+ followers who tracks down crypto scams and thefts, and has received $1.3M+ in donations since 2021 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241024/p15#a241024p15)
+ - [Influencers Get Their Final Marching Orders for the Election](https://www.wired.com/story/influencers-gop-and-democrats-ahead-of-election-day/)
  - [Raspberry Pi unveils the Raspberry Pi AI HAT+ in 13 and 26 TOPS versions in partnership with Hailo, after announcing branded SSDs, micro SD cards, and a bumper &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241024/p14#a241024p14)
  - [Judges and Border Police Targeted by Anti-Government Extremists, Doxed as ‘Traitors’](https://www.wired.com/story/judges-border-police-targeted-extremism/)
- - [The Irish Data Protection Commission fines LinkedIn &amp;euro;310M over using personal data for behavioral analysis and targeted ads under GDPR, after a 2018 complaint &lpar;Ian Curran/The Irish Times&rpar;](http://www.techmeme.com/241024/p13#a241024p13)
- - [Q&amp;A with Vinod Khosla on Elon Musk, AI, climate tech, Harris and Trump, the US economy, tech regulation, Silicon Valley&#39;s Trump supporters, taxation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p12#a241024p12)
- - [WiseTech Global co-founder Richard White steps down as CEO of Australia&#39;s largest listed tech company over allegations about bullying and his personal life &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241024/p11#a241024p11)<!-- TECH:END -->
+ - [The Irish Data Protection Commission fines LinkedIn &amp;euro;310M over using personal data for behavioral analysis and targeted ads under GDPR, after a 2018 complaint &lpar;Ian Curran/The Irish Times&rpar;](http://www.techmeme.com/241024/p13#a241024p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

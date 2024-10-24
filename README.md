@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 💣 [How to draw water](http://9gag.com/gag/aVv0MLK)
  - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
- - 💣 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 😝 [Gotta love wahmen](http://9gag.com/gag/a34RqZr)
- - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
+ - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 😝 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
- - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 😝 [Printer doesn&#39;t go brrrr](http://9gag.com/gag/amo57R9)
+ - 💣 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)
+ - 😝 [Cool kid](http://9gag.com/gag/azx1qox)
+ - 👉 [Behold the thing you lose with streaming services](http://9gag.com/gag/aoy5Oqg)<!-- MEMES:END -->
 
 ---
 

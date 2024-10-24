@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scout Motors mounts an electric comeback with new SUV and truck concepts](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs)
+ - [Apple Intelligence bug bounty invites researchers to test its privacy claims](https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute)
  - [In a post, Perplexity criticizes media companies that have sued over AI, saying they wish AI tools didn&#39;t exist and prefer that corporations own reported facts &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241024/p34#a241024p34)
  - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
- - [Best Savings Accounts for October 2024](https://www.cnet.com/personal-finance/best-savings-account/#ftag=CAD590a51e)
- - [Brooklyn Bedding Signature Hybrid Mattress Review](https://www.cnet.com/health/sleep/brooklyn-bedding-signature-hybrid-review/#ftag=CAD590a51e)
- - [What Are the New Free Games on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Savings Accounts for October 2024](https://www.cnet.com/personal-finance/best-savings-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

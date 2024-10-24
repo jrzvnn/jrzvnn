@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
  - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
+ - 💣 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - 👉 [Parents for no reason](http://9gag.com/gag/a9yRAe6)<!-- MEMES:END -->
 
 ---
 

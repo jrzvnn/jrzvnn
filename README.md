@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 😝 [A Cool Guide To AI Tools](http://9gag.com/gag/amo5YAo)
+ - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
  - 😝 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [How to draw water](http://9gag.com/gag/aVv0MLK)
- - 👉 [44 will soon be Antesamatic](http://9gag.com/gag/a875y8p)<!-- MEMES:END -->
+ - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
 
 ---
 

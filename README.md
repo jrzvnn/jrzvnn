@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 😝 [A Cool Guide To AI Tools](http://9gag.com/gag/amo5YAo)
- - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 😝 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - 💣 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 😝 [Gotta love wahmen](http://9gag.com/gag/a34RqZr)
+ - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
 
 ---
 

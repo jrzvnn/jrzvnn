@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Speakerphone in 2024 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
+ - [Cate Blanchett Would Hate This List of the Best Leaf Blowers in 2024](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
+ - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)
  - [Insight and Info: China&#39;s leading EDA companies for chip design, Empyrean Technology, Primarius, and Semitronix, had less than 2% of global market share in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p5#a241024p5)
- - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [Secondhand fashion site Vinted raised &amp;euro;340M led by TPG at a &amp;euro;5B valuation, as the profitable startup plans to expand beyond clothes into electronics and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p3#a241024p3)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Best Desks of 2024](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

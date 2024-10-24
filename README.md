@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence -- The test applications that paved the way for Apple&#39;s generative AI](https://appleinsider.com/articles/24/10/24/apple-intelligence----the-test-applications-that-paved-the-way-for-apples-generative-ai?utm_medium=rss)
+ - [Best Nut Milk Makers We’ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-nut-milk-makers/)
  - [Apple Watch display tech hints at iPhone ProMotion upgrade](https://appleinsider.com/articles/24/10/24/apple-watch-display-tech-hints-at-iphone-promotion-upgrade?utm_medium=rss)
  - [The UK CMA opens a formal probe into Google&#39;s Anthropic partnership, sets a December 19 deadline; Google planned to invest $2B in 2023 and signed a cloud deal &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241024/p19#a241024p19)
- - [The Biden administration issues the first-ever National Security Memorandum on AI, detailing how the Pentagon and intel agencies should use and protect AI &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/241024/p18#a241024p18)
- - [General Catalyst raised $8B, the most by a US VC since March 2022, and will put $4.5B in its core funds, $1.5B in creating startups, and $2B in other businesses &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p17#a241024p17)
- - [Sources: in 2005, Intel CEO Paul Otellini proposed buying Nvidia for $20B, but the board resisted due to concerns over the price tag and integrating Nvidia &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p16#a241024p16)<!-- TECH:END -->
+ - [The Biden administration issues the first-ever National Security Memorandum on AI, detailing how the Pentagon and intel agencies should use and protect AI &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/241024/p18#a241024p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

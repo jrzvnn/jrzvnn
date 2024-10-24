@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-24/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 24, #31](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-24-31/#ftag=CAD590a51e)
  - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)
- - [Best Apple Watch Deals: Save on the Brand-New High-End Series 10 and Rugged Ultra 2, Plus the Cheaper SE and Series 9 Models](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Hugging Face announces an open source software offering aimed at lowering costs for building chatbots and AI tools, in partnership with AWS, Google, and others &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241023/p44#a241023p44)
- - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [I Met Moo Deng in AR Using Snap&#39;s New Spectacles](https://www.cnet.com/tech/mobile/i-met-moo-deng-in-ar-using-snaps-new-spectacles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 24, #501](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-24-501/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 24, #235](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-24-235/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

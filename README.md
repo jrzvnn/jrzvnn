@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
- - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 👉 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)<!-- MEMES:END -->
+ - 😝 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
+ - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
 
 ---
 

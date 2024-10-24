@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos will soon show you if an image was edited with AI](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)
- - [Bluesky says it has 13M+ users, has raised a $15M Series A, and plans payment services to creators and a subscription for features like higher quality video &lpar;Bluesky&rpar;](http://www.techmeme.com/241024/p29#a241024p29)
- - [Goodreads&#39; co-founder Otis Chandler launches Smashing, an AI-powered app that aims to create a community around web content and has an AI Questions feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241024/p28#a241024p28)
- - [iPhone 14 Deals: Enjoy Money Off With Trade-Ins](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)
- - [Roblox Adding Parental Controls, Will Require Permissions for Young Players](https://www.cnet.com/tech/gaming/roblox-reportedly-adding-parental-controls-will-require-permissions-for-young-players/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple makes its Private Cloud Compute Virtual Research Environment publicly available for researchers, adds bounties for Private Cloud Compute vulnerabilities &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241024/p30#a241024p30)
+ - [Is the Kindle Colorsoft Too Late? Amazon Reveals What Took So Damn Long to Catch Up](https://www.wired.com/story/kindles-colorsoft-king-reveals-what-took-amazon-so-damn-long-to-catch-up/)
+ - [Bluesky is working on a subscription, but it won’t give you a blue check](https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription)
+ - [Apple seeds second release candidate for macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/24/apple-seeds-second-release-candidate-for-macos-sequoia-151?utm_medium=rss)
+ - [Google Photos will soon show you if an image was edited with AI](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
  - 😝 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 😝 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [Wait for it ...](http://9gag.com/gag/a5QRMOE)
+ - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
 
 ---
 

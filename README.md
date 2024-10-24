@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold the thing you lose with streaming services](http://9gag.com/gag/aoy5Oqg)
- - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
  - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 👉 [Cursed gumball](http://9gag.com/gag/aD2gW1N)<!-- MEMES:END -->
+ - 😝 [Biker music](http://9gag.com/gag/aQz1e0r)
+ - 💣 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)
+ - 😝 [Cool kid](http://9gag.com/gag/azx1qox)
+ - 👉 [Lady Diana](http://9gag.com/gag/aoy5Ndx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
- - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [Ive never been with someone pro](http://9gag.com/gag/apR5pRn)
+ - 💣 [Nice](http://9gag.com/gag/aqygKyQ)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
 
 ---
 

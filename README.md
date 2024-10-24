@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)
+ - [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/)
  - [The EU&#39;s Court of Justice sides with Intel over a once-record &amp;euro;1.06B antitrust fine, ruling that regulators failed to prove it gave illegal rebates to PC makers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241024/p9#a241024p9)
  - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
- - [Both the Harris and Trump campaigns are using TikTok to reach Gen Z; CredoIQ: viral conservative content surpassed progressive content at the start of October &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241024/p8#a241024p8)
- - [At an event in Mumbai, Nvidia announces tie-ups with Indian companies including Reliance Industries, and launches a 4B-parameter small language model for Hindi &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p7#a241024p7)
- - [A profile of, and interview with, Meta VP of AI Research Joelle Pineau on her career path, the FAIR lab, leading ~1,000 people across 10 locations, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241024/p6#a241024p6)<!-- TECH:END -->
+ - [Both the Harris and Trump campaigns are using TikTok to reach Gen Z; CredoIQ: viral conservative content surpassed progressive content at the start of October &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241024/p8#a241024p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

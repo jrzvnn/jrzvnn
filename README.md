@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers Private Cloud Compute up for a security probe](https://appleinsider.com/articles/24/10/24/apple-offers-private-cloud-compute-up-for-a-security-probe?utm_medium=rss)
  - [The 65 Best Movies on Disney+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
  - [Google will add an AI info section in the image details view of Google Photos, for images edited with tools like Magic Editor and Magic Eraser &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241024/p31#a241024p31)
  - [Air taxi maker Lilium is out of money and will cease operations](https://www.theverge.com/2024/10/24/24278673/lilium-air-taxi-evtol-insolvency-operations)
- - [The 13-inch MacBook Air M2 is a great value at its current sale price of $699](https://www.theverge.com/2024/10/24/24277746/apple-macbook-air-m2-m3-google-pixel-tablet-deal-sale)
- - [Apple makes its Private Cloud Compute Virtual Research Environment publicly available for researchers, adds bounties for Private Cloud Compute vulnerabilities &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241024/p30#a241024p30)<!-- TECH:END -->
+ - [The 13-inch MacBook Air M2 is a great value at its current sale price of $699](https://www.theverge.com/2024/10/24/24277746/apple-macbook-air-m2-m3-google-pixel-tablet-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

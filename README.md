@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it ...](http://9gag.com/gag/a5QRMOE)
- - 😝 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 💣 [44 will soon be Antesamatic](http://9gag.com/gag/a875y8p)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
+ - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 😝 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
+ - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
+ - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
 
 ---
 

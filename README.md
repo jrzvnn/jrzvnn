@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
+ - [Why AI companies are dropping the doomerism](https://www.theverge.com/24278413/ai-manifesto-anthropic-dario-amodei-agi-digital-god-openai-sam-altman-decoder-podcast)
+ - [How the US and Nigeria wrestled over Binance executive Tigran Gambaryan&#39;s detention in February 2024, which US officials said hurt the two allies&#39; relationship &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p21#a241024p21)
  - [Google Calendar gets a redesign and dark mode](https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Call of Duty Black Ops 6 is coming to Nvidia’s streaming service tomorrow](https://www.theverge.com/2024/10/24/24278406/call-of-duty-black-ops-6-nvidia-geforce-now-streaming)
- - [The &#39;Rolex on the Wall&#39; That Kissinger, Reagan and Sinatra Loved, but You’ve Never Heard Of](https://www.wired.com/story/the-timepiece-that-kissinger-reagan-and-sinatra-loved-but-youve-never-heard-of/)
- - [Minecraft is losing VR support next year](https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

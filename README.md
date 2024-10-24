@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
+ - 😝 [Insane job](http://9gag.com/gag/aLn0Dyv)
+ - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
 
 ---
 

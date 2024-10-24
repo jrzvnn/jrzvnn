@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
+ - 😝 [Heh, your blade is dull buddy.. check your ballz.](http://9gag.com/gag/aAygDnL)
  - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 😝 [How to draw water](http://9gag.com/gag/aVv0MLK)
- - 👉 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)<!-- MEMES:END -->
+ - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
+ - 👉 [How to draw water](http://9gag.com/gag/aVv0MLK)<!-- MEMES:END -->
 
 ---
 

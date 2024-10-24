@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)
- - [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/)
- - [The EU&#39;s Court of Justice sides with Intel over a once-record &amp;euro;1.06B antitrust fine, ruling that regulators failed to prove it gave illegal rebates to PC makers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241024/p9#a241024p9)
- - [Thursday Night Football: How to Watch, Stream Vikings vs. Rams Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-vikings-vs-rams-tonight-on-prime-video/#ftag=CAD590a51e)
- - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)<!-- TECH:END -->
+ - [Q&amp;A with Vinod Khosla on Elon Musk, AI, climate tech, Harris and Trump, the US economy, tech regulation, Silicon Valley&#39;s Trump supporters, taxation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p12#a241024p12)
+ - [WiseTech Global co-founder Richard White steps down as CEO of Australia&#39;s largest listed tech company over allegations about bullying and his personal life &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241024/p11#a241024p11)
+ - [This App Set Out to Fight Pesticides. After VCs Stepped In, Now It Helps Sell Them](https://www.wired.com/story/plantix-pesticides-venture-capital-app/)
+ - [&#39;Take Back the States&#39;: The Far-Right Sheriffs Ready to Disrupt the Election](https://www.wired.com/story/constitutional-sheriffs-disrupt-election/)
+ - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

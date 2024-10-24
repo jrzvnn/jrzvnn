@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to draw water](http://9gag.com/gag/aVv0MLK)
- - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
- - 💣 [No retaredment](http://9gag.com/gag/aD2ggrG)
- - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
+ - 😝 [Girl\u2019s road rage backfired in the most satisfying way](http://9gag.com/gag/aZZ77GQ)
+ - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
+ - 💣 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
+ - 😝 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)
+ - 👉 [How to draw water](http://9gag.com/gag/aVv0MLK)<!-- MEMES:END -->
 
 ---
 

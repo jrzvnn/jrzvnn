@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
- - 💣 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 😝 [At a drive-thru](http://9gag.com/gag/aLn08xA)
  - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
- - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
+ - 💣 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
 
 ---
 

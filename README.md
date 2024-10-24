@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automatic emergency braking is getting better at preventing crashes](https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa)
  - [Fortinet discloses a critical FortiManager API flaw being exploited in 0-day attacks to steal sensitive files, after warning customers privately over a week ago &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241023/p45#a241023p45)
- - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)
- - [Best Apple Watch Deals: Save on the Brand-New High-End Series 10 and Rugged Ultra 2, Plus the Cheaper SE and Series 9 Models](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Hugging Face announces an open source software offering aimed at lowering costs for building chatbots and AI tools, in partnership with AWS, Google, and others &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241023/p44#a241023p44)
- - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-24/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 24, #31](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-24-31/#ftag=CAD590a51e)
+ - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

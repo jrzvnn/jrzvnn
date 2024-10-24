@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Minecraft is losing VR support next year](https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025)
+ - [DJI Osmo Action 5 Pro Review: Long Battery Life and Great 4K Footage](https://www.wired.com/review/dji-osmo-action-5-pro/)
+ - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)
  - [Apple now lets third-party browsers add web apps to an iPhone&#39;s Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241024/p20#a241024p20)
- - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Apple Intelligence -- The test applications that paved the way for Apple&#39;s generative AI](https://appleinsider.com/articles/24/10/24/apple-intelligence----the-test-applications-that-paved-the-way-for-apples-generative-ai?utm_medium=rss)
- - [Best Nut Milk Makers We’ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-nut-milk-makers/)
- - [Apple Watch display tech hints at iPhone ProMotion upgrade](https://appleinsider.com/articles/24/10/24/apple-watch-display-tech-hints-at-iphone-promotion-upgrade?utm_medium=rss)<!-- TECH:END -->
+ - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

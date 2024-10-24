@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl\u2019s road rage backfired in the most satisfying way](http://9gag.com/gag/aZZ77GQ)
  - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 💣 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
- - 😝 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)
- - 👉 [How to draw water](http://9gag.com/gag/aVv0MLK)<!-- MEMES:END -->
+ - 😝 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
+ - 💣 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)
+ - 😝 [How to draw water](http://9gag.com/gag/aVv0MLK)
+ - 👉 [At a drive-thru](http://9gag.com/gag/aLn08xA)<!-- MEMES:END -->
 
 ---
 

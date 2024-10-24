@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Venom: The Last Dance stays firmly in its ridiculous lane](https://www.theverge.com/2024/10/24/24277702/venom-the-last-dance-review)
+ - [Meet the Far-Right Constitutional Sheriffs Ready to Assert Control if Trump Loses](https://www.wired.com/story/constitutional-sheriffs-election-denial/)
  - [A new iMessage safety feature prompts kids to report explicit images to Apple](https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images)
  - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)
- - [Hallmark has new greeting cards for the lazy gift giver who cares](https://www.theverge.com/2024/10/24/24278496/hallmark-gift-card-greetings-qr-code-digital-birthday)
- - [Apple SVP Greg Joswiak says &quot;we have an exciting week of announcements ahead, starting on Monday morning&quot;; rumors suggest new M4-powered Macs &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241024/p27#a241024p27)
- - [Verizon’s updated family-tracking app adds SOS alerts](https://www.theverge.com/2024/10/24/24278507/verizon-updated-family-tracking-app-sos-alerts)<!-- TECH:END -->
+ - [Hallmark has new greeting cards for the lazy gift giver who cares](https://www.theverge.com/2024/10/24/24278496/hallmark-gift-card-greetings-qr-code-digital-birthday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

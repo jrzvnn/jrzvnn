@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
- - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
+ - 😝 [Wait for it ...](http://9gag.com/gag/a5QRMOE)
+ - 😝 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
+ - 💣 [44 will soon be Antesamatic](http://9gag.com/gag/a875y8p)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
 
 ---
 

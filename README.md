@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Concentric AI, which helps companies secure and track sensitive data, raised a $45M Series B, bringing its total funding to $67M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p26#a241024p26)
  - [How the US could sabotage global climate goals](https://www.theverge.com/2024/10/24/24278402/us-presidential-election-trump-united-nations-climate-change-report)
  - [Anthropic launches an analysis tool to help Claude write and run JavaScript code, perform calculations, and analyze data from files, in preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p25#a241024p25)
  - [Intel’s Core Ultra 9 285K CPU is one step forward, one step back for PC gaming](https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on)
- - [Nimble, which helps companies automate their warehouses using logistics robots, raised a $106M Series C led by FedEx at a $1B valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/241024/p24#a241024p24)
- - [Razer added RGB lighting to its Barracuda X wireless headphones](https://www.theverge.com/2024/10/24/24278481/razer-barracuda-x-chroma-wireless-headphones-gaming-rgb-lighting)<!-- TECH:END -->
+ - [Nimble, which helps companies automate their warehouses using logistics robots, raised a $106M Series C led by FedEx at a $1B valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/241024/p24#a241024p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch display tech hints at iPhone ProMotion upgrade](https://appleinsider.com/articles/24/10/24/apple-watch-display-tech-hints-at-iphone-promotion-upgrade?utm_medium=rss)
  - [The UK CMA opens a formal probe into Google&#39;s Anthropic partnership, sets a December 19 deadline; Google planned to invest $2B in 2023 and signed a cloud deal &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241024/p19#a241024p19)
  - [The Biden administration issues the first-ever National Security Memorandum on AI, detailing how the Pentagon and intel agencies should use and protect AI &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/241024/p18#a241024p18)
  - [General Catalyst raised $8B, the most by a US VC since March 2022, and will put $4.5B in its core funds, $1.5B in creating startups, and $2B in other businesses &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p17#a241024p17)
- - [Sources: in 2005, Intel CEO Paul Otellini proposed buying Nvidia for $20B, but the board resisted due to concerns over the price tag and integrating Nvidia &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p16#a241024p16)
- - [A profile of ZachXBT, a twentysomething X user with 650K+ followers who tracks down crypto scams and thefts, and has received $1.3M+ in donations since 2021 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241024/p15#a241024p15)<!-- TECH:END -->
+ - [Sources: in 2005, Intel CEO Paul Otellini proposed buying Nvidia for $20B, but the board resisted due to concerns over the price tag and integrating Nvidia &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p16#a241024p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Source: TSMC&#39;s US division president said during a webinar that production yields in Arizona are 4 percentage points higher than at similar facilities in Taiwan &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241024/p33#a241024p33)
  - [What to expect from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)
  - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)
- - [Russia reportedly paid a former Florida cop to pump out anti-Harris deepfakes and disinformation](https://www.theverge.com/2024/10/24/24278626/russia-disinformation-deepfakes-john-dougan-2024-election)
- - [AirPods Pro 2 receive support for Hearing Health features with new firmware update](https://appleinsider.com/articles/24/10/24/airpods-pro-2-receive-support-for-hearing-health-features-with-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Russia reportedly paid a former Florida cop to pump out anti-Harris deepfakes and disinformation](https://www.theverge.com/2024/10/24/24278626/russia-disinformation-deepfakes-john-dougan-2024-election)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

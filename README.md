@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)
  - [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/)
  - [The EU&#39;s Court of Justice sides with Intel over a once-record &amp;euro;1.06B antitrust fine, ruling that regulators failed to prove it gave illegal rebates to PC makers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241024/p9#a241024p9)
- - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)
- - [Both the Harris and Trump campaigns are using TikTok to reach Gen Z; CredoIQ: viral conservative content surpassed progressive content at the start of October &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241024/p8#a241024p8)<!-- TECH:END -->
+ - [Thursday Night Football: How to Watch, Stream Vikings vs. Rams Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-vikings-vs-rams-tonight-on-prime-video/#ftag=CAD590a51e)
+ - [Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams and Thefts](https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

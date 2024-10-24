@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wombat Willow Pro keyboard review: Maximum keys, minimum space](https://appleinsider.com/articles/24/10/24/wombat-willow-pro-keyboard-review-maximum-keys-minimum-space?utm_medium=rss)
+ - [Fixify, which combines AI and human analysts to identify and fix IT problems, raised a $25M Series A co-led by Costanoa, Decibel, and Paladin Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241023/p43#a241023p43)
+ - [SK Hynix reports Q3 revenue up 94% YoY to a record ~$12.7B, vs. ~$13.2B expected, and operating profit of ~$5.1B, vs. ~$5B expected, on continued AI chip demand &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241023/p42#a241023p42)
  - [Police surveillance company Flock Safety buys drone startup Aerodome, sources say for $300M+; both are a16z-backed and have raised $680M+ and $28M respectively &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241023/p41#a241023p41)
- - [Documents show direct ties between Russia&#39;s government and a former Florida deputy sheriff behind a network of fake news sites using AI and targeting US voters &lpar;Catherine Belton/Washington Post&rpar;](http://www.techmeme.com/241023/p40#a241023p40)
- - [Roblox is making changes for pre-teen users after reports that it failed to protect children](https://www.theverge.com/2024/10/23/24277992/roblox-pre-teen-children-parent-accounts-default-settings)
- - [Character.AI and Google sued after chatbot-obsessed teen’s death](https://www.theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit)
- - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [35 Best Advent Calendars for the 2024 Christmas Season](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

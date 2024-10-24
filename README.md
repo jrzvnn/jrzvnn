@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane job](http://9gag.com/gag/aLn0Dyv)
- - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
  - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
+ - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
+ - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
 
 ---
 

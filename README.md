@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 😝 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
- - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Behold the thing you lose with streaming services](http://9gag.com/gag/aoy5Oqg)
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
  - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 👉 [Parents for no reason](http://9gag.com/gag/a9yRAe6)<!-- MEMES:END -->
+ - 👉 [Cursed gumball](http://9gag.com/gag/aD2gW1N)<!-- MEMES:END -->
 
 ---
 

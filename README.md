@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 😝 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
- - 💣 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
  - 😝 [How to draw water](http://9gag.com/gag/aVv0MLK)
- - 👉 [At a drive-thru](http://9gag.com/gag/aLn08xA)<!-- MEMES:END -->
+ - 👉 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)<!-- MEMES:END -->
 
 ---
 

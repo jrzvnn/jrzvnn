@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
- - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
  - 😝 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
+ - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
 
 ---
 

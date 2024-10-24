@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Concentric AI, which helps companies secure and track sensitive data, raised a $45M Series B, bringing its total funding to $67M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p26#a241024p26)
- - [How the US could sabotage global climate goals](https://www.theverge.com/2024/10/24/24278402/us-presidential-election-trump-united-nations-climate-change-report)
- - [Anthropic launches an analysis tool to help Claude write and run JavaScript code, perform calculations, and analyze data from files, in preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p25#a241024p25)
- - [Intel’s Core Ultra 9 285K CPU is one step forward, one step back for PC gaming](https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on)
- - [Nimble, which helps companies automate their warehouses using logistics robots, raised a $106M Series C led by FedEx at a $1B valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/241024/p24#a241024p24)<!-- TECH:END -->
+ - [A new iMessage safety feature prompts kids to report explicit images to Apple](https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images)
+ - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)
+ - [Hallmark has new greeting cards for the lazy gift giver who cares](https://www.theverge.com/2024/10/24/24278496/hallmark-gift-card-greetings-qr-code-digital-birthday)
+ - [Apple SVP Greg Joswiak says &quot;we have an exciting week of announcements ahead, starting on Monday morning&quot;; rumors suggest new M4-powered Macs &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241024/p27#a241024p27)
+ - [Verizon’s updated family-tracking app adds SOS alerts](https://www.theverge.com/2024/10/24/24278507/verizon-updated-family-tracking-app-sos-alerts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

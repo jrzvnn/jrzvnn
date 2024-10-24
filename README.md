@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venom: The Last Dance stays firmly in its ridiculous lane](https://www.theverge.com/2024/10/24/24277702/venom-the-last-dance-review)
- - [Meet the Far-Right Constitutional Sheriffs Ready to Assert Control if Trump Loses](https://www.wired.com/story/constitutional-sheriffs-election-denial/)
- - [A new iMessage safety feature prompts kids to report explicit images to Apple](https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images)
- - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)
- - [Hallmark has new greeting cards for the lazy gift giver who cares](https://www.theverge.com/2024/10/24/24278496/hallmark-gift-card-greetings-qr-code-digital-birthday)<!-- TECH:END -->
+ - [Goodreads&#39; co-founder Otis Chandler launches Smashing, an AI-powered app that aims to create a community around web content and has an AI Questions feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241024/p28#a241024p28)
+ - [iPhone 14 Deals: Enjoy Money Off With Trade-Ins](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)
+ - [Roblox Adding Parental Controls, Will Require Permissions for Young Players](https://www.cnet.com/tech/gaming/roblox-reportedly-adding-parental-controls-will-require-permissions-for-young-players/#ftag=CAD590a51e)
+ - [I&#39;m a Sleep Expert. These Are the 5 Must-Haves on My Nightstand](https://www.cnet.com/health/sleep/im-a-sleep-expert-these-are-the-5-must-haves-on-my-nightstand/#ftag=CAD590a51e)
+ - [Venom: The Last Dance stays firmly in its ridiculous lane](https://www.theverge.com/2024/10/24/24277702/venom-the-last-dance-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

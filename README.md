@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Insane job](http://9gag.com/gag/aLn0Dyv)
  - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 😝 [Ive never been with someone pro](http://9gag.com/gag/apR5pRn)
- - 💣 [Nice](http://9gag.com/gag/aqygKyQ)
+ - 💣 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
  - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
 
 ---
 

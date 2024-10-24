@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will add an AI info section in the image details view of Google Photos, for images edited with tools like Magic Editor and Magic Eraser &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241024/p31#a241024p31)
+ - [Air taxi maker Lilium is out of money and will cease operations](https://www.theverge.com/2024/10/24/24278673/lilium-air-taxi-evtol-insolvency-operations)
+ - [The 13-inch MacBook Air M2 is a great value at its current sale price of $699](https://www.theverge.com/2024/10/24/24277746/apple-macbook-air-m2-m3-google-pixel-tablet-deal-sale)
  - [Apple makes its Private Cloud Compute Virtual Research Environment publicly available for researchers, adds bounties for Private Cloud Compute vulnerabilities &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241024/p30#a241024p30)
- - [Is the Kindle Colorsoft Too Late? Amazon Reveals What Took So Damn Long to Catch Up](https://www.wired.com/story/kindles-colorsoft-king-reveals-what-took-amazon-so-damn-long-to-catch-up/)
- - [Bluesky is working on a subscription, but it won’t give you a blue check](https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription)
- - [Apple seeds second release candidate for macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/24/apple-seeds-second-release-candidate-for-macos-sequoia-151?utm_medium=rss)
- - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is the Kindle Colorsoft Too Late? Amazon Reveals What Took So Damn Long to Catch Up](https://www.wired.com/story/kindles-colorsoft-king-reveals-what-took-amazon-so-damn-long-to-catch-up/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

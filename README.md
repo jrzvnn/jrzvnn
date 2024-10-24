@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
  - [Overwatch 2 is officially bringing back 6v6 in testing this December](https://www.theverge.com/2024/10/24/24278781/overwatch-2-season-14-6v6-test)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Source: TSMC&#39;s US division president said during a webinar that production yields in Arizona are 4 percentage points higher than at similar facilities in Taiwan &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241024/p33#a241024p33)
- - [What to expect from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)
- - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

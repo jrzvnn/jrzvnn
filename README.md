@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face announces an open source software offering aimed at lowering costs for building chatbots and AI tools, in partnership with AWS, Google, and others &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241023/p44#a241023p44)
  - [Wombat Willow Pro keyboard review: Maximum keys, minimum space](https://appleinsider.com/articles/24/10/24/wombat-willow-pro-keyboard-review-maximum-keys-minimum-space?utm_medium=rss)
  - [Fixify, which combines AI and human analysts to identify and fix IT problems, raised a $25M Series A co-led by Costanoa, Decibel, and Paladin Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241023/p43#a241023p43)
- - [SK Hynix reports Q3 revenue up 94% YoY to a record ~$12.7B, vs. ~$13.2B expected, and operating profit of ~$5.1B, vs. ~$5B expected, on continued AI chip demand &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241023/p42#a241023p42)
- - [Police surveillance company Flock Safety buys drone startup Aerodome, sources say for $300M+; both are a16z-backed and have raised $680M+ and $28M respectively &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241023/p41#a241023p41)
- - [35 Best Advent Calendars for the 2024 Christmas Season](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Tulsa, Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-tulsa-ok/#ftag=CAD590a51e)
+ - [Is Trader Joe&#39;s Truly Cheaper Than Other Grocery Stores? We Did the Math](https://www.cnet.com/how-to/is-trader-joes-truly-cheaper-than-other-grocery-stores-we-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

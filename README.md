@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 receive support for Hearing Health features with new firmware update](https://appleinsider.com/articles/24/10/24/airpods-pro-2-receive-support-for-hearing-health-features-with-new-firmware-update?utm_medium=rss)
- - [Meta debuts &quot;quantized&quot; versions of Llama 3.2 1B and 3B models, designed to run on low-powered devices and developed in collaboration with Qualcomm and MediaTek &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241024/p32#a241024p32)
- - [Departing OpenAI leader says no company is ready for AGI](https://www.theverge.com/2024/10/24/24278694/openai-agi-readiness-miles-brundage-ai-safety)
- - [Apple offers Private Cloud Compute up for a security probe](https://appleinsider.com/articles/24/10/24/apple-offers-private-cloud-compute-up-for-a-security-probe?utm_medium=rss)
- - [Best Early Black Friday Deals: 15 Unbeatable Offers Worth Picking Up Now](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: TSMC&#39;s US division president said during a webinar that production yields in Arizona are 4 percentage points higher than at similar facilities in Taiwan &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241024/p33#a241024p33)
+ - [What to expect from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)
+ - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)
+ - [Russia reportedly paid a former Florida cop to pump out anti-Harris deepfakes and disinformation](https://www.theverge.com/2024/10/24/24278626/russia-disinformation-deepfakes-john-dougan-2024-election)
+ - [AirPods Pro 2 receive support for Hearing Health features with new firmware update](https://appleinsider.com/articles/24/10/24/airpods-pro-2-receive-support-for-hearing-health-features-with-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

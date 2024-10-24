@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judges and Border Police Targeted by Anti-Government Extremists, Doxed as ‘Traitors’](https://www.wired.com/story/judges-border-police-targeted-extremism/)
+ - [The Irish Data Protection Commission fines LinkedIn &amp;euro;310M over using personal data for behavioral analysis and targeted ads under GDPR, after a 2018 complaint &lpar;Ian Curran/The Irish Times&rpar;](http://www.techmeme.com/241024/p13#a241024p13)
  - [Q&amp;A with Vinod Khosla on Elon Musk, AI, climate tech, Harris and Trump, the US economy, tech regulation, Silicon Valley&#39;s Trump supporters, taxation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p12#a241024p12)
  - [WiseTech Global co-founder Richard White steps down as CEO of Australia&#39;s largest listed tech company over allegations about bullying and his personal life &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241024/p11#a241024p11)
- - [This App Set Out to Fight Pesticides. After VCs Stepped In, Now It Helps Sell Them](https://www.wired.com/story/plantix-pesticides-venture-capital-app/)
- - [&#39;Take Back the States&#39;: The Far-Right Sheriffs Ready to Disrupt the Election](https://www.wired.com/story/constitutional-sheriffs-disrupt-election/)
- - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)<!-- TECH:END -->
+ - [This App Set Out to Fight Pesticides. After VCs Stepped In, Now It Helps Sell Them](https://www.wired.com/story/plantix-pesticides-venture-capital-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

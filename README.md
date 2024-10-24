@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Microsoft puts an &quot;assessment of investing in bitcoin&quot; as a voting item for its December 10 shareholder meeting; its board recommends voting against it &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241024/p35#a241024p35)
  - [Scout Motors mounts an electric comeback with new SUV and truck concepts](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs)
  - [Apple Intelligence bug bounty invites researchers to test its privacy claims](https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute)
  - [In a post, Perplexity criticizes media companies that have sued over AI, saying they wish AI tools didn&#39;t exist and prefer that corporations own reported facts &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241024/p34#a241024p34)
- - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
- - [Best Savings Accounts for October 2024](https://www.cnet.com/personal-finance/best-savings-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

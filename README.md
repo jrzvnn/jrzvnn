@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Raus`. Lady had enough. Nice to see someone stand up against this behavior.](http://9gag.com/gag/a2vRoPp)
  - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 😝 [Parents for no reason](http://9gag.com/gag/a9yRAe6)
- - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 💣 [Parents for no reason](http://9gag.com/gag/a9yRAe6)
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
 
 ---
 

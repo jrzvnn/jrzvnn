@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 😝 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
+ - 😝 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
  - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
 
 ---

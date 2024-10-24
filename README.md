@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane job](http://9gag.com/gag/aLn0Dyv)
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 💣 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
+ - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 😝 [Hell to the no](http://9gag.com/gag/agm5nL6)
+ - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
+ - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
 
 ---
 

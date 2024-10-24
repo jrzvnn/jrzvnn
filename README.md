@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
  - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 😝 [Biker music](http://9gag.com/gag/aQz1e0r)
- - 💣 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)
- - 😝 [Cool kid](http://9gag.com/gag/azx1qox)
- - 👉 [Lady Diana](http://9gag.com/gag/aoy5Ndx)<!-- MEMES:END -->
+ - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 👉 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)<!-- MEMES:END -->
 
 ---
 

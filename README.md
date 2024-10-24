@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 😝 [Am I wrong thogh](http://9gag.com/gag/a6ZNMKL)
- - 💣 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 😝 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [Hornet architecture](http://9gag.com/gag/aW4EqK3)
+ - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [Parents for no reason](http://9gag.com/gag/a9yRAe6)<!-- MEMES:END -->
 
 ---
 

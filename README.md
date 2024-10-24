@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky says it has 13M+ users, has raised a $15M Series A led by Blockchain Capital, and plans a subscription for features like higher quality video uploads &lpar;Bluesky&rpar;](http://www.techmeme.com/241024/p29#a241024p29)
+ - [Google Photos will soon show you if an image was edited with AI](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)
+ - [Bluesky says it has 13M+ users, has raised a $15M Series A, and plans payment services to creators and a subscription for features like higher quality video &lpar;Bluesky&rpar;](http://www.techmeme.com/241024/p29#a241024p29)
  - [Goodreads&#39; co-founder Otis Chandler launches Smashing, an AI-powered app that aims to create a community around web content and has an AI Questions feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241024/p28#a241024p28)
  - [iPhone 14 Deals: Enjoy Money Off With Trade-Ins](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)
- - [Roblox Adding Parental Controls, Will Require Permissions for Young Players](https://www.cnet.com/tech/gaming/roblox-reportedly-adding-parental-controls-will-require-permissions-for-young-players/#ftag=CAD590a51e)
- - [I&#39;m a Sleep Expert. These Are the 5 Must-Haves on My Nightstand](https://www.cnet.com/health/sleep/im-a-sleep-expert-these-are-the-5-must-haves-on-my-nightstand/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roblox Adding Parental Controls, Will Require Permissions for Young Players](https://www.cnet.com/tech/gaming/roblox-reportedly-adding-parental-controls-will-require-permissions-for-young-players/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

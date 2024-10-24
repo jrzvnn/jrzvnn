@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 😝 [Hell to the no](http://9gag.com/gag/agm5nL6)
- - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
- - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
+ - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
+ - 😝 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
 
 ---
 

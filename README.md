@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
  - 😝 [Yeah right..](http://9gag.com/gag/aryo5XX)
- - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 💣 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - 😝 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 👉 [Parents for no reason](http://9gag.com/gag/a9yRAe6)<!-- MEMES:END -->
+ - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
 
 ---
 

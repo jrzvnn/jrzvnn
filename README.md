@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 😝 [Nice](http://9gag.com/gag/aqygKyQ)
+ - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
  - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [Here I got you this](http://9gag.com/gag/aMVYZPR)
- - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
+ - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
 
 ---
 

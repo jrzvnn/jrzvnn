@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk has been in regular contact with Vladimir Putin since late 2022; Putin asked Musk to not activate Starlink in Taiwan as a favor to Xi Jinping &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241024/p40#a241024p40)
- - [How to banish annoyances in Safari with Distraction Control on Mac](https://appleinsider.com/articles/24/10/25/how-to-banish-annoyances-in-safari-with-distraction-control-on-mac?utm_medium=rss)
- - [Source: OpenAI plans to launch its next flagship model, codenamed Orion, by December, rolling it out in phases starting with the company&#39;s trusted partners &lpar;The Verge&rpar;](http://www.techmeme.com/241024/p39#a241024p39)
- - [The company behind Arc is now building a second, much simpler browser](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc)
- - [Waiting for Public Service Loan Forgiveness? You May Want to Dump SAVE](https://www.cnet.com/personal-finance/loans/waiting-for-public-service-loan-forgiveness-you-may-want-to-dump-save/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Government Outlines Artificial Intelligence Guardrails in First Memorandum of Its Kind](https://www.cnet.com/tech/services-and-software/us-government-outlines-artificial-intelligence-guardrails-in-first-memorandum-of-its-kind/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 25, #502](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-25-502/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 25, #236](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-25-236/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 25, #1224](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-25-1224/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #32](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-32/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

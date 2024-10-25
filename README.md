@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell to the no](http://9gag.com/gag/agm5nL6)
- - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 💣 [Here I got you this](http://9gag.com/gag/aMVYZPR)
- - 😝 [She said no gold medal for you old man!](http://9gag.com/gag/aPAR7mB)
- - 👉 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)<!-- MEMES:END -->
+ - 😝 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
+ - 😝 [Schizo Ross](http://9gag.com/gag/aO807YD)
+ - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
+ - 😝 [Humanity](http://9gag.com/gag/aW4ExYx)
+ - 👉 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)<!-- MEMES:END -->
 
 ---
 

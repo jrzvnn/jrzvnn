@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 💣 [Me and who?](http://9gag.com/gag/a2vRZxZ)
  - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [A woman who was distracted on her phone ended up driving right into a 1948 Jaguar XK120.](http://9gag.com/gag/aVv0MNP)
  - 👉 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)<!-- MEMES:END -->
 
 ---

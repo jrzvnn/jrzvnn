@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Reddit CEO Steve Huffman on AI slop, the company&#39;s partnerships with Google and OpenAI, content moderation during an election year, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p7#a241025p7)
- - [New Macs, new iOS 18.2, and debunked Apple rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/25/new-macs-new-ios-182-and-debunked-apple-rumors-on-the-appleinsider-podcast?utm_medium=rss)
- - [The Best Samsung Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [&#39;Hear Me Out&#39;: Meme Halloween Costumes Are So Last Decade](https://www.wired.com/story/hear-me-out-meme-halloween-costumes-are-so-last-decade/)
- - [Sources: Meta strikes a multi-year deal with Reuters to use its news content to provide real-time answers to user queries in Meta AI chatbot, a first for Meta &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241025/p6#a241025p6)<!-- TECH:END -->
+ - [The UK CMA opens a phase one merger probe into chip designer Synopsys&#39; $35B takeover of 3D design software maker Ansys due to competition concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241025/p8#a241025p8)
+ - [Trek Slash+ 9.7 SLX/XT Electric Mountain Bike Review: Oh So Quiet](https://www.wired.com/review/trek-slash-97-slx-xt-electric-mountain-bike/)
+ - [A High-Profile Geneticist Is Launching a Fusion-Power Moonshot](https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/)
+ - [Adobe execs say artists need to embrace AI or get left behind](https://www.theverge.com/2024/10/25/24278715/adobe-artists-embrace-generative-ai-creative-community)
+ - [Q&amp;A with Reddit CEO Steve Huffman on AI slop, the company&#39;s partnerships with Google and OpenAI, content moderation during an election year, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p7#a241025p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

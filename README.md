@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The ending....](http://9gag.com/gag/avyoz1n)
  - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
  - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 👉 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)<!-- MEMES:END -->
+ - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 ---
 

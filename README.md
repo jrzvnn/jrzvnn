@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Spatial content shot for Apple Vision Pro will soon be viewable in Safari](https://appleinsider.com/articles/24/10/25/spatial-content-shot-for-apple-vision-pro-will-soon-be-viewable-in-safari?utm_medium=rss)
  - [Sources: the Trump campaign was informed that Chinese hackers may have gained access to data from phones of Trump and JD Vance, via a hack of Verizon systems &lpar;New York Times&rpar;](http://www.techmeme.com/241025/p21#a241025p21)
+ - [This $120 Satechi Slim Dock Lets You Boost Your iMac’s Storage](https://www.cnet.com/deals/this-120-satechi-slim-dock-lets-you-boost-your-imac-storage/#ftag=CAD590a51e)
  - [Sources: federal prosecutors are investigating Tether for possible violations of sanctions and anti-money-laundering rules; US Treasury is considering sanctions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p20#a241025p20)
- - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Best Patio Heaters of 2024](https://www.cnet.com/news/best-patio-heaters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

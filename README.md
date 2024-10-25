@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Video game preservationists have lost a legal fight to study games remotely](https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access)
+ - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
  - [Sources: Google is aiming to release its Gemini 2.0 model in December; the model isn&#39;t showing the performance gains the Demis Hassabis-led team had hoped for &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241025/p24#a241025p24)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)
- - [Linksys Hydra Pro 6 Review: Fast Wi-Fi 6 Speeds at a Steep Discount](https://www.cnet.com/home/internet/linksys-hydra-pro-6-review/#ftag=CAD590a51e)
- - [DAZN Launches Early Black Friday Deal With Up to 50% Off New Subscriptions](https://www.cnet.com/deals/dazn-launches-early-black-friday-deal-with-up-to-50-off-new-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

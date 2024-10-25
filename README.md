@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [San Francisco Will Pay $212 Million for Its Train System to Ditch Floppy Disks](https://www.wired.com/story/san-francisco-floppy-disks-muni-upgrade/)
  - [Chinese self-driving firm WeRide raised $120M in its US IPO at a $4.21B valuation, and sold 7.7M shares at $15.50 a piece, the lower end of its targeted range &lpar;Reuters&rpar;](http://www.techmeme.com/241025/p5#a241025p5)
  - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
  - [Best Internet Providers in Valrico, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-valrico-fl/#ftag=CAD590a51e)
- - [World Series 2024: How to Watch Game 1 Yankees vs. Dodgers Today](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-game-1-yankees-vs-dodgers/#ftag=CAD590a51e)
- - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [World Series 2024: How to Watch Game 1 Yankees vs. Dodgers Today](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-game-1-yankees-vs-dodgers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

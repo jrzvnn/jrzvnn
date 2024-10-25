@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)
- - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 💣 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
+ - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
+ - 😝 [Not a smart move while street racing.](http://9gag.com/gag/an759BV)
+ - 💣 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
+ - 👉 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)<!-- MEMES:END -->
 
 ---
 

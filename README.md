@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of and an interview with CISA Director Jen Easterly, as the agency ramps up efforts to protect the US elections from cyberattacks and misinformation &lpar;Max Ufberg/Fast Company&rpar;](http://www.techmeme.com/241025/p3#a241025p3)
+ - [VistaPrint Coupon for October 2024: 25% OFF Any Order](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Target Promo Code: $50 Off | October 2024](https://www.wired.com/story/target-promo-code/)
  - [UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241025/p2#a241025p2)
- - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)
- - [US Government Outlines Artificial Intelligence Guardrails in First Memorandum of Its Kind](https://www.cnet.com/tech/services-and-software/us-government-outlines-artificial-intelligence-guardrails-in-first-memorandum-of-its-kind/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 25, #502](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-25-502/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 25, #236](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-25-236/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

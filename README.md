@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Replying to an X post linking to a report on OpenAI planning to launch its next frontier model Orion by December, Sam Altman says &quot;fake news out of control&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241025/p11#a241025p11)
  - [Apple is the second-biggest smartphone seller in China](https://appleinsider.com/articles/24/10/25/apple-is-the-second-biggest-smartphone-seller-in-china?utm_medium=rss)
  - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)
  - [Microsoft launches Black Ops 6, the first Call of Duty game to debut on Xbox Game Pass, in the biggest test of its gaming strategy since acquiring Activision &lpar;Ramsay Hodgson/Financial Times&rpar;](http://www.techmeme.com/241025/p10#a241025p10)
- - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)
- - [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://www.theverge.com/2024/10/25/24278893/amazon-like-a-dragon-yakuza-prime-tv)<!-- TECH:END -->
+ - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

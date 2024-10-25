@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
- - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
+ - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 💣 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Best friend stuff](http://9gag.com/gag/a4PRE61)<!-- MEMES:END -->
+ - 👉 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)<!-- MEMES:END -->
 
 ---
 

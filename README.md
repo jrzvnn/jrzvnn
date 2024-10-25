@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
- - 😝 [Heh, your blade is dull buddy.. check your ballz.](http://9gag.com/gag/aAygDnL)
- - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
+ - 😝 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
+ - 😝 [Here I got you this](http://9gag.com/gag/aMVYZPR)
+ - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 😝 [Wait for it ...](http://9gag.com/gag/a5QRMOE)
  - 👉 [How to draw water](http://9gag.com/gag/aVv0MLK)<!-- MEMES:END -->
 
 ---

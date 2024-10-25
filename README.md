@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 💣 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 😝 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)
+ - 💣 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)<!-- MEMES:END -->
+ - 👉 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkham Intelligence: hackers returned $19.3M of $20M+ worth of crypto they stole from US government-controlled wallet on Thursday &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/241025/p16#a241025p16)
  - [Leica’s new $23,000 film camera is platinum-plated and destined for collector shelves](https://www.theverge.com/2024/10/25/24279278/leica-m-edition-70-rangefinder-35mm-film-camera-platinum-special-edition)
  - [A Neuralink Rival Says Its Eye Implant Restored Vision in Blind People](https://www.wired.com/story/science-corporation-neuralink-eye-implant-restored-vision-blind-people/)
  - [Siri’s big ChatGPT upgrade is here — for better and worse](https://www.theverge.com/2024/10/25/24278716/siri-chat-gpt-ios-18-2-developer-beta-apple-intelligence)
- - [Filing: Satya Nadella earned $79.1M during the FY ending June 30, up from $48.5M a year ago; compensation was reduced by $5M+ due to Microsoft&#39;s security issues &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241025/p15#a241025p15)
- - [UnitedHealth data breach leaked info on over 100 million people](https://www.theverge.com/2024/10/25/24279288/unitedhealth-change-breach-100-million-leak)<!-- TECH:END -->
+ - [Filing: Satya Nadella earned $79.1M during the FY ending June 30, up from $48.5M a year ago; compensation was reduced by $5M+ due to Microsoft&#39;s security issues &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241025/p15#a241025p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

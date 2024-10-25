@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 💣 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
+ - 😝 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
+ - 😝 [Not a smart move while street racing.](http://9gag.com/gag/an759BV)
+ - 💣 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [His first and last job](http://9gag.com/gag/a0eR7en)<!-- MEMES:END -->
+ - 👉 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)<!-- MEMES:END -->
 
 ---
 

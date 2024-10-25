@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 💣 [Me and who?](http://9gag.com/gag/a2vRZxZ)
- - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 👉 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)<!-- MEMES:END -->
+ - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 😝 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)
+ - 💣 [Schizo Ross](http://9gag.com/gag/aO807YD)
+ - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
+ - 👉 [Humanity](http://9gag.com/gag/aW4ExYx)<!-- MEMES:END -->
 
 ---
 

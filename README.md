@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Mike Solana, a Peter Thiel prot&amp;eacute;g&amp;eacute; whose Pirate Wires newsletter and podcast became popular among &quot;anti-woke&quot; tech figures since the &quot;techlash&quot; &lpar;Christopher Beam/The Atlantic&rpar;](http://www.techmeme.com/241025/p22#a241025p22)
+ - [Apple reportedly tests an app to manage blood sugar](https://www.theverge.com/2024/10/25/24279593/apple-blood-sugar-prediabetes-app)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Apple&#39;s M4 Mac event will be a week of daily press releases and I&#39;m here for it](https://appleinsider.com/articles/24/10/25/apples-m4-mac-event-will-be-a-week-of-daily-press-releases-and-im-here-for-it?utm_medium=rss)
- - [Jeff Bezos reportedly killed the Washington Post’s Kamala Harris endorsement](https://www.theverge.com/2024/10/25/24279602/jeff-bezos-washington-post-kamala-harris-endorsement)
- - [All the news about Scout Motors, a classic SUV brand gone electric](https://www.theverge.com/2024/10/25/24279566/scout-motors-a-classic-suv-brand-gone-electric)
- - [Spatial content shot for Apple Vision Pro will soon be viewable in Safari](https://appleinsider.com/articles/24/10/25/spatial-content-shot-for-apple-vision-pro-will-soon-be-viewable-in-safari?utm_medium=rss)
- - [Sources: the Trump campaign was informed that Chinese hackers may have gained access to data from phones of Trump and JD Vance, via a hack of Verizon systems &lpar;New York Times&rpar;](http://www.techmeme.com/241025/p21#a241025p21)<!-- TECH:END -->
+ - [Jeff Bezos reportedly killed the Washington Post’s Kamala Harris endorsement](https://www.theverge.com/2024/10/25/24279602/jeff-bezos-washington-post-kamala-harris-endorsement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

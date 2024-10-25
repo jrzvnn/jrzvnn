@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri’s big ChatGPT upgrade is here — for better and worse](https://www.theverge.com/2024/10/25/24278716/siri-chat-gpt-ios-18-2-developer-beta-apple-intelligence)
  - [Filing: Satya Nadella earned $79.1M during the FY ending June 30, up from $48.5M a year ago; compensation was reduced by $5M+ due to Microsoft&#39;s security issues &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241025/p15#a241025p15)
  - [UnitedHealth data breach leaked info on over 100 million people](https://www.theverge.com/2024/10/25/24279288/unitedhealth-change-breach-100-million-leak)
- - [&#39;Trap&#39; Is Now Streaming. Here&#39;s How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/trap-is-now-streaming-heres-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Oct. 25, 2024: Don&#39;t Wait to Open One of These High-Yield Accounts](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-25-2024/#ftag=CAD590a51e)
- - [Best Sonos Deals: Save on These High-End Wireless Speakers](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta signs its first big AI deal for news](https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media)
+ - [Perplexity CEO Aravind Srinivas says the AI-powered search engine now serves 100M queries each week; in July, Perplexity said it was serving 250M per month &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p14#a241025p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

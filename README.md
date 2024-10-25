@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Microsoft puts an &quot;assessment of investing in bitcoin&quot; as a voting item for its December 10 shareholder meeting; its board recommends voting against it &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241024/p35#a241024p35)
- - [Scout Motors mounts an electric comeback with new SUV and truck concepts](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs)
- - [Apple Intelligence bug bounty invites researchers to test its privacy claims](https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute)
- - [In a post, Perplexity criticizes media companies that have sued over AI, saying they wish AI tools didn&#39;t exist and prefer that corporations own reported facts &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241024/p34#a241024p34)
- - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Notion previews Mail, an email client that uses AI to organize, archive, or draft emails and handle scheduling and follow-ups, saying it is &quot;coming soon&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241024/p37#a241024p37)
+ - [11 Best Sexy Gifts for Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
+ - [A look at the White House&#39;s big bet on Intel; sources: Gina Raimondo urged companies to order Intel&#39;s US chips, but most favored TSMC&#39;s more advanced techniques &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p36#a241024p36)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Perplexity blasts media as ‘adversarial’ in response to copyright lawsuit](https://www.theverge.com/2024/10/24/24278950/perplexity-news-corp-response-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

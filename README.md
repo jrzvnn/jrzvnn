@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)
- - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
- - 💣 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
+ - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
+ - 💣 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
+ - 👉 [His first and last job](http://9gag.com/gag/a0eR7en)<!-- MEMES:END -->
 
 ---
 

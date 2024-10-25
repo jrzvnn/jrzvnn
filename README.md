@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A US federal jury awards Apple $250, finding that Masimo&#39;s smartwatches infringed Apple Watch design patents; Apple sought statutory minimum damages &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/241025/p26#a241025p26)
+ - [DreamCloud Premier Rest Memory Foam Mattress Review 2024: Side Sleepers Will Love This Premium Foam Bed](https://www.cnet.com/health/sleep/dreamcloud-premier-rest-memory-foam-mattress-review/#ftag=CAD590a51e)
+ - [Got iOS 18? Make These Long-Awaited Changes to Your iPhone Settings](https://www.cnet.com/tech/services-and-software/got-ios-18-make-these-long-awaited-changes-to-your-iphone-settings/#ftag=CAD590a51e)
  - [Chinese Hackers Target Trump Campaign via Verizon Breach](https://www.wired.com/story/trump-vance-phones-verizon-hack/)
- - [Boeing reportedly considers selling off its space business](https://www.theverge.com/2024/10/25/24279693/boeing-considers-selling-space-business-starliner)
- - [The US Copyright Office denies a request from video game preservationists to let libraries, archives, and museums lend games via remote access for study &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241025/p25#a241025p25)
- - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boeing reportedly considers selling off its space business](https://www.theverge.com/2024/10/25/24279693/boeing-considers-selling-space-business-starliner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

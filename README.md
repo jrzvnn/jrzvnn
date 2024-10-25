@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)
- - 💣 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 😝 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
+ - 💣 [Best friend stuff](http://9gag.com/gag/a4PRE61)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
+ - 👉 [This ideology needs to be eradicated for the survival of rationality in humans!!](http://9gag.com/gag/aoy5Mxm)<!-- MEMES:END -->
 
 ---
 

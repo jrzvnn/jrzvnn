@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)
  - [US Government Outlines Artificial Intelligence Guardrails in First Memorandum of Its Kind](https://www.cnet.com/tech/services-and-software/us-government-outlines-artificial-intelligence-guardrails-in-first-memorandum-of-its-kind/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 25, #502](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-25-502/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 25, #236](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-25-236/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 25, #1224](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-25-1224/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #32](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-32/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 25, #1224](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-25-1224/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

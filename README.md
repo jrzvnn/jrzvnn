@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next iPad mini rumored to get OLED, but you&#39;ll have to wait a while](https://appleinsider.com/articles/24/10/24/next-ipad-mini-to-have-oled-but-youll-have-to-wait-and-wait?utm_medium=rss)
  - [Put a Solar Panel on Your Head With $40 Off EcoFlow&#39;s Power Hat](https://www.cnet.com/deals/put-a-solar-panel-on-your-head-with-40-off-ecoflows-power-hat/#ftag=CAD590a51e)
  - [A look at the fight over valuable social media accounts when couples divorce; data: 44% of 27M paid US content creators say social media is their full-time job &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/241025/p4#a241025p4)
  - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)
- - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

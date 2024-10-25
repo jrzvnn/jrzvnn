@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [OpenAI says it doesn&#39;t have plans to release a model code-named Orion this year but plans &quot;to release a lot of other great technology&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p19#a241025p19)
  - [Sources: Apple tested an app to help people with prediabetes manage their food intake and make lifestyle changes, as part of its push into blood-sugar features &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241025/p18#a241025p18)
- - [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://www.theverge.com/2024/10/25/24279435/8bitdo-ultimate-mobile-gaming-controller-android-hall-effect)
- - [Q3 China smartphone shipments grew 3.2% YoY to 68.8M; Vivo grew 21.5% for a 18.6% marketshare, Apple fell 0.3% to a 15.6% share, Huawei grew 42% to 15.3% share &lpar;IDC&rpar;](http://www.techmeme.com/241025/p17#a241025p17)
- - [Best Buy’s gaming sale including deals on the Asus ROG Ally and Scuf’s mobile controller](https://www.theverge.com/2024/10/25/24278489/ring-battery-doorbell-plus-deal-sale)<!-- TECH:END -->
+ - [Save on Groceries and More With a $20 BJ’s Membership](https://www.cnet.com/deals/save-on-groceries-and-more-with-a-20-bjs-membership/#ftag=CAD590a51e)
+ - [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://www.theverge.com/2024/10/25/24279435/8bitdo-ultimate-mobile-gaming-controller-android-hall-effect)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

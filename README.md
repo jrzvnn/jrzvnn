@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
- - 💣 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
+ - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
+ - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 💣 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)<!-- MEMES:END -->
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 ---
 

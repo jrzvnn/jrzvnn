@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Give Neurotic Losers the Main Character Treatment](https://www.wired.com/story/dial-up-tony-tulathimutte-best-book-of-2024/)
+ - [Amazon quietly launches $849 M3 MacBook Air deal](https://appleinsider.com/articles/24/10/25/amazon-quietly-launches-849-m3-macbook-air-deal?utm_medium=rss)
  - [McDonald’s busted ice cream machines can now be fixed — legally](https://www.theverge.com/2024/10/25/24279371/mcdonalds-ice-cream-machines-right-to-repair-copyright)
  - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
- - [Apple CEO Tim Cook was business-focused at an early age](https://appleinsider.com/articles/24/10/25/apple-ceo-tim-cook-was-business-focused-at-an-early-age?utm_medium=rss)
- - [YouTuber made a Mac event video so Apple doesn&#39;t have to](https://appleinsider.com/articles/24/10/25/youtuber-made-a-mac-event-video-so-apple-doesnt-have-to?utm_medium=rss)
- - [Arkham Intelligence: hackers returned $19.3M of $20M+ worth of crypto they stole from US government-controlled wallet on Thursday &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/241025/p16#a241025p16)<!-- TECH:END -->
+ - [Apple CEO Tim Cook was business-focused at an early age](https://appleinsider.com/articles/24/10/25/apple-ceo-tim-cook-was-business-focused-at-an-early-age?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

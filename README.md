@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - 😝 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)
- - 💣 [Schizo Ross](http://9gag.com/gag/aO807YD)
- - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
- - 👉 [Humanity](http://9gag.com/gag/aW4ExYx)<!-- MEMES:END -->
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
+ - 💣 [There was an attempt](http://9gag.com/gag/aqyggRv)
+ - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
- - 😝 [Schizo Ross](http://9gag.com/gag/aO807YD)
- - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 😝 [Humanity](http://9gag.com/gag/aW4ExYx)
- - 👉 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)<!-- MEMES:END -->
+ - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 😝 [Here I got you this](http://9gag.com/gag/aMVYZPR)
+ - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
 
 ---
 

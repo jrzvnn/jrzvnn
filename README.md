@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
- - 😝 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)
- - 💣 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
+ - 😝 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [What kinda mental problems lead to this behavior?](http://9gag.com/gag/ae9551v)<!-- MEMES:END -->
+ - 👉 [Best friend stuff](http://9gag.com/gag/a4PRE61)<!-- MEMES:END -->
 
 ---
 

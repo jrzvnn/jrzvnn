@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Chinese self-driving firm WeRide raised $120M in its US IPO at a $4.21B valuation, and sold 7.7M shares at $15.50 a piece, the lower end of its targeted range &lpar;Reuters&rpar;](http://www.techmeme.com/241025/p5#a241025p5)
- - [Next iPad mini rumored to get OLED, but you&#39;ll have to wait a while](https://appleinsider.com/articles/24/10/24/next-ipad-mini-to-have-oled-but-youll-have-to-wait-and-wait?utm_medium=rss)
- - [Put a Solar Panel on Your Head With $40 Off EcoFlow&#39;s Power Hat](https://www.cnet.com/deals/put-a-solar-panel-on-your-head-with-40-off-ecoflows-power-hat/#ftag=CAD590a51e)
- - [A look at the fight over valuable social media accounts when couples divorce; data: 44% of 27M paid US content creators say social media is their full-time job &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/241025/p4#a241025p4)
- - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Valrico, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-valrico-fl/#ftag=CAD590a51e)
+ - [World Series 2024: How to Watch Game 1 Yankees vs. Dodgers Today](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-game-1-yankees-vs-dodgers/#ftag=CAD590a51e)
+ - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

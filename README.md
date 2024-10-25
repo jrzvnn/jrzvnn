@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)
  - [Source: Perplexity CEO told staff in 2023 that it had acquisition offers from X, OpenAI, and Notion, in the $150M to $200M range; Microsoft was also interested &lpar;Kevin Mclaughlin/The Information&rpar;](http://www.techmeme.com/241025/p23#a241025p23)
  - [Apple News+ adds Sudoku to the puzzle collection in iOS 18.2](https://appleinsider.com/articles/24/10/25/apple-news-adds-sudoku-to-the-puzzle-collection-in-ios-182?utm_medium=rss)
- - [A profile of Mike Solana, a Peter Thiel prot&amp;eacute;g&amp;eacute; whose Pirate Wires newsletter and podcast became popular among &quot;anti-woke&quot; tech figures since the &quot;techlash&quot; &lpar;Christopher Beam/The Atlantic&rpar;](http://www.techmeme.com/241025/p22#a241025p22)
- - [Apple reportedly tests an app to manage blood sugar](https://www.theverge.com/2024/10/25/24279593/apple-blood-sugar-prediabetes-app)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [A profile of Mike Solana, a Peter Thiel prot&amp;eacute;g&amp;eacute; whose Pirate Wires newsletter and podcast became popular among &quot;anti-woke&quot; tech figures since the &quot;techlash&quot; &lpar;Christopher Beam/The Atlantic&rpar;](http://www.techmeme.com/241025/p22#a241025p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

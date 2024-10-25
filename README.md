@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple tested an app to help people with prediabetes manage their food intake and make lifestyle changes, as part of its push into blood-sugar features &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241025/p18#a241025p18)
+ - [Save on Groceries and More With a $20 BJ’s Membership](https://www.cnet.com/deals/save-on-groceries-and-more-with-a-20-bjs-membership/#ftag=CAD590a51e)
  - [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://www.theverge.com/2024/10/25/24279435/8bitdo-ultimate-mobile-gaming-controller-android-hall-effect)
- - [Q3 China smartphone shipments grew 3.2% YoY to 68.8M; Vivo grew 21.5% for a 18.6% marketshare, Apple fell 0.3% to a 15.6% share, Huawei grew 42% to 15.3% share &lpar;IDC&rpar;](http://www.techmeme.com/241025/p17#a241025p17)
- - [Best Buy’s gaming sale including deals on the Asus ROG Ally and Scuf’s mobile controller](https://www.theverge.com/2024/10/25/24278489/ring-battery-doorbell-plus-deal-sale)
- - [How to Give Neurotic Losers the Main Character Treatment](https://www.wired.com/story/dial-up-tony-tulathimutte-best-book-of-2024/)
- - [Amazon quietly launches $849 M3 MacBook Air deal](https://appleinsider.com/articles/24/10/25/amazon-quietly-launches-849-m3-macbook-air-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Zillow Doomscrolling: Why I Can&#39;t Stop Looking at Homes I Can&#39;t Afford](https://www.cnet.com/personal-finance/zillow-doomscrolling-why-i-cant-stop-looking-at-homes-i-cant-afford/#ftag=CAD590a51e)
+ - [Thousands of Antidepressant Bottles Were Recalled Over &#39;Impurity&#39; Risk: Here&#39;s More Context](https://www.cnet.com/health/medical/thousands-of-antidepressant-bottles-were-recalled-over-impurity-risk-heres-more-context/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

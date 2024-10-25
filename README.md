@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)
  - [A profile of and an interview with CISA Director Jen Easterly, as the agency ramps up efforts to protect the US elections from cyberattacks and misinformation &lpar;Max Ufberg/Fast Company&rpar;](http://www.techmeme.com/241025/p3#a241025p3)
  - [VistaPrint Coupon for October 2024: 25% OFF Any Order](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Target Promo Code: $50 Off | October 2024](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
+ - [Target Promo Code: $50 Off | October 2024](https://www.wired.com/story/target-promo-code/)
+ - [UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241025/p2#a241025p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

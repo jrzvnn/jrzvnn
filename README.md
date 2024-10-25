@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 💣 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
+ - 😝 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
+ - 💣 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)<!-- MEMES:END -->
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 ---
 

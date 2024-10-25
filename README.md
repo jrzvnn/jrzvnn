@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump campaign was informed that Chinese hackers may have gained access to data from phones of Trump and JD Vance, via a hack of Verizon systems &lpar;New York Times&rpar;](http://www.techmeme.com/241025/p21#a241025p21)
+ - [Sources: federal prosecutors are investigating Tether for possible violations of sanctions and anti-money-laundering rules; US Treasury is considering sanctions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p20#a241025p20)
+ - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [OpenAI says it doesn&#39;t have plans to release a model code-named Orion this year but plans &quot;to release a lot of other great technology&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p19#a241025p19)
- - [Sources: Apple tested an app to help people with prediabetes manage their food intake and make lifestyle changes, as part of its push into blood-sugar features &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241025/p18#a241025p18)
- - [Save on Groceries and More With a $20 BJ’s Membership](https://www.cnet.com/deals/save-on-groceries-and-more-with-a-20-bjs-membership/#ftag=CAD590a51e)
- - [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://www.theverge.com/2024/10/25/24279435/8bitdo-ultimate-mobile-gaming-controller-android-hall-effect)<!-- TECH:END -->
+ - [OpenAI says it doesn&#39;t have plans to release a model code-named Orion this year but plans &quot;to release a lot of other great technology&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p19#a241025p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

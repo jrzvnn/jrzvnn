@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)
  - [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://www.theverge.com/2024/10/25/24278893/amazon-like-a-dragon-yakuza-prime-tv)
  - [A look at the dispute between Arm and Qualcomm, whose relationship soured after Qualcomm became one of the main opponents to Nvidia&#39;s attempted Arm acquisition &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241025/p9#a241025p9)
  - [The confusing state of Apple Intelligence](https://www.theverge.com/2024/10/25/24279264/apple-intelligence-ipad-mini-perplexity-ai-vergecast)
- - [8 Best Bed Frames &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bed-frames/)
- - [11 Things You Should Never Put in the Dishwasher](https://www.cnet.com/news/11-things-you-should-never-put-in-the-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Bed Frames &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

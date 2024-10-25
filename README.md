@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 😝 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)
  - 💣 [`Violated`](http://9gag.com/gag/aD2g4Zx)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)<!-- MEMES:END -->
+ - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
 
 ---
 

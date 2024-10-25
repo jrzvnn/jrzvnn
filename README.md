@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 😝 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)
- - 💣 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 😝 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)
+ - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 💣 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)<!-- MEMES:END -->
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 ---
 

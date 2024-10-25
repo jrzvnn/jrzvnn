@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t figure out why he was fired as a journalist](http://9gag.com/gag/aVv0wNv)
- - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
- - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
- - 😝 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
- - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
+ - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
+ - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 😝 [A woman who was distracted on her phone ended up driving right into a 1948 Jaguar XK120.](http://9gag.com/gag/aVv0MNP)
+ - 👉 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)<!-- MEMES:END -->
 
 ---
 

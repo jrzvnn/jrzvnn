@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
- - 😝 [Not a smart move while street racing.](http://9gag.com/gag/an759BV)
- - 💣 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
+ - 💣 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)<!-- MEMES:END -->
+ - 👉 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)<!-- MEMES:END -->
 
 ---
 

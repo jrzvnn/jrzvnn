@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 😝 [Hell to the no](http://9gag.com/gag/agm5nL6)
+ - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
  - 😝 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
- - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 💣 [Nice](http://9gag.com/gag/aqygKyQ)
- - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [Here I got you this](http://9gag.com/gag/aMVYZPR)<!-- MEMES:END -->
+ - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
 
 ---
 

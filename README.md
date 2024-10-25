@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [His first and last job](http://9gag.com/gag/a0eR7en)
- - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
- - 💣 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 😝 [Me and who?](http://9gag.com/gag/a2vRZxZ)
+ - 💣 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)<!-- MEMES:END -->
+ - 👉 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)<!-- MEMES:END -->
 
 ---
 

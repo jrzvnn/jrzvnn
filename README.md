@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google is aiming to release its Gemini 2.0 model in December; the model isn&#39;t showing the performance gains the Demis Hassabis-led team had hoped for &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241025/p24#a241025p24)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
  - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)
- - [Source: Perplexity CEO told staff in 2023 that it had acquisition offers from X, OpenAI, and Notion, in the $150M to $200M range; Microsoft was also interested &lpar;Kevin Mclaughlin/The Information&rpar;](http://www.techmeme.com/241025/p23#a241025p23)
- - [Apple News+ adds Sudoku to the puzzle collection in iOS 18.2](https://appleinsider.com/articles/24/10/25/apple-news-adds-sudoku-to-the-puzzle-collection-in-ios-182?utm_medium=rss)
- - [A profile of Mike Solana, a Peter Thiel prot&amp;eacute;g&amp;eacute; whose Pirate Wires newsletter and podcast became popular among &quot;anti-woke&quot; tech figures since the &quot;techlash&quot; &lpar;Christopher Beam/The Atlantic&rpar;](http://www.techmeme.com/241025/p22#a241025p22)<!-- TECH:END -->
+ - [Linksys Hydra Pro 6 Review: Fast Wi-Fi 6 Speeds at a Steep Discount](https://www.cnet.com/home/internet/linksys-hydra-pro-6-review/#ftag=CAD590a51e)
+ - [DAZN Launches Early Black Friday Deal With Up to 50% Off New Subscriptions](https://www.cnet.com/deals/dazn-launches-early-black-friday-deal-with-up-to-50-off-new-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

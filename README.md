@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://www.theverge.com/2024/10/25/24279435/8bitdo-ultimate-mobile-gaming-controller-android-hall-effect)
+ - [Q3 China smartphone shipments grew 3.2% YoY to 68.8M; Vivo grew 21.5% for a 18.6% marketshare, Apple fell 0.3% to a 15.6% share, Huawei grew 42% to 15.3% share &lpar;IDC&rpar;](http://www.techmeme.com/241025/p17#a241025p17)
  - [Best Buy’s gaming sale including deals on the Asus ROG Ally and Scuf’s mobile controller](https://www.theverge.com/2024/10/25/24278489/ring-battery-doorbell-plus-deal-sale)
  - [How to Give Neurotic Losers the Main Character Treatment](https://www.wired.com/story/dial-up-tony-tulathimutte-best-book-of-2024/)
- - [Amazon quietly launches $849 M3 MacBook Air deal](https://appleinsider.com/articles/24/10/25/amazon-quietly-launches-849-m3-macbook-air-deal?utm_medium=rss)
- - [McDonald’s busted ice cream machines can now be fixed — legally](https://www.theverge.com/2024/10/25/24279371/mcdonalds-ice-cream-machines-right-to-repair-copyright)
- - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)<!-- TECH:END -->
+ - [Amazon quietly launches $849 M3 MacBook Air deal](https://appleinsider.com/articles/24/10/25/amazon-quietly-launches-849-m3-macbook-air-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

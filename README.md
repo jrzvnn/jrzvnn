@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spatial content shot for Apple Vision Pro will soon be viewable in Safari](https://appleinsider.com/articles/24/10/25/spatial-content-shot-for-apple-vision-pro-will-soon-be-viewable-in-safari?utm_medium=rss)
  - [Sources: the Trump campaign was informed that Chinese hackers may have gained access to data from phones of Trump and JD Vance, via a hack of Verizon systems &lpar;New York Times&rpar;](http://www.techmeme.com/241025/p21#a241025p21)
  - [Sources: federal prosecutors are investigating Tether for possible violations of sanctions and anti-money-laundering rules; US Treasury is considering sanctions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p20#a241025p20)
  - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [OpenAI says it doesn&#39;t have plans to release a model code-named Orion this year but plans &quot;to release a lot of other great technology&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p19#a241025p19)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

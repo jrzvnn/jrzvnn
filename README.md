@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Samsung Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
  - [&#39;Hear Me Out&#39;: Meme Halloween Costumes Are So Last Decade](https://www.wired.com/story/hear-me-out-meme-halloween-costumes-are-so-last-decade/)
  - [Sources: Meta strikes a multi-year deal with Reuters to use its news content to provide real-time answers to user queries in Meta AI chatbot, a first for Meta &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241025/p6#a241025p6)
  - [San Francisco Will Pay $212 Million for Its Train System to Ditch Floppy Disks](https://www.wired.com/story/san-francisco-floppy-disks-muni-upgrade/)
- - [Best Internet Providers in Zanesville, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-zanesville-oh/#ftag=CAD590a51e)
- - [35 Best Kitchen Gifts for a Home Cook in 2024](https://www.cnet.com/news/best-kitchen-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Zanesville, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-zanesville-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

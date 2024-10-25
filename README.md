@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
- - 😝 [Schizo Ross](http://9gag.com/gag/aO807YD)
- - 💣 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)
- - 😝 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 👉 [Humanity](http://9gag.com/gag/aW4ExYx)<!-- MEMES:END -->
+ - 😝 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
+ - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
+ - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reuters signs an AI deal with Meta](https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media)
+ - [Meta signs its first big AI deal for news](https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media)
  - [Perplexity CEO Aravind Srinivas says the AI-powered search engine now serves 100M queries each week; in July, Perplexity said it was serving 250M per month &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p14#a241025p14)
  - [Waymo just raised $5.6 billion to spread robotaxis to more cities](https://www.theverge.com/2024/10/25/24279330/waymo-funding-round-series-c-amount-alphabet)
  - [LinkedIn says it has verified 55M+ users for free, the most verified individual human identities of any social network, to combat AI-fueled misinformation &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/241025/p13#a241025p13)

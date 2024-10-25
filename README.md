@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OceanGate Faces Federal Investigation a Year After the Titan Submersible Implosion](https://www.wired.com/story/oceangate-federal-investigation-titan-submersible-implosion/)
  - [Waymo closed a $5.6B Series C led by Alphabet to expand its robotaxi service in and beyond LA, San Francisco, and Phoenix, bringing its total funding to $11.1B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241025/p12#a241025p12)
  - [Replying to an X post linking to a report on OpenAI planning to launch its next frontier model Orion by December, Sam Altman says &quot;fake news out of control&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241025/p11#a241025p11)
  - [Apple is the second-biggest smartphone seller in China](https://appleinsider.com/articles/24/10/25/apple-is-the-second-biggest-smartphone-seller-in-china?utm_medium=rss)
- - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)
- - [Microsoft launches Black Ops 6, the first Call of Duty game to debut on Xbox Game Pass, in the biggest test of its gaming strategy since acquiring Activision &lpar;Ramsay Hodgson/Financial Times&rpar;](http://www.techmeme.com/241025/p10#a241025p10)<!-- TECH:END -->
+ - [The Best iPhone 16 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

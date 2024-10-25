@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
- - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
- - 💣 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)
+ - 😝 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)
+ - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
+ - 💣 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)<!-- MEMES:END -->
+ - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
 
 ---
 

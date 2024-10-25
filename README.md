@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple News+ adds Sudoku to the puzzle collection in iOS 18.2](https://appleinsider.com/articles/24/10/25/apple-news-adds-sudoku-to-the-puzzle-collection-in-ios-182?utm_medium=rss)
  - [A profile of Mike Solana, a Peter Thiel prot&amp;eacute;g&amp;eacute; whose Pirate Wires newsletter and podcast became popular among &quot;anti-woke&quot; tech figures since the &quot;techlash&quot; &lpar;Christopher Beam/The Atlantic&rpar;](http://www.techmeme.com/241025/p22#a241025p22)
  - [Apple reportedly tests an app to manage blood sugar](https://www.theverge.com/2024/10/25/24279593/apple-blood-sugar-prediabetes-app)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Apple&#39;s M4 Mac event will be a week of daily press releases and I&#39;m here for it](https://appleinsider.com/articles/24/10/25/apples-m4-mac-event-will-be-a-week-of-daily-press-releases-and-im-here-for-it?utm_medium=rss)
- - [Jeff Bezos reportedly killed the Washington Post’s Kamala Harris endorsement](https://www.theverge.com/2024/10/25/24279602/jeff-bezos-washington-post-kamala-harris-endorsement)<!-- TECH:END -->
+ - [Best Solar Shingles for October 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-shingles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

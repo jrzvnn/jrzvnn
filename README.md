@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
  - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 😝 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)
- - 💣 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 💣 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)<!-- MEMES:END -->
+ - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
 
 ---
 

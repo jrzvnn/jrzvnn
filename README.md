@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The ending....](http://9gag.com/gag/avyoz1n)
- - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
- - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
+ - 😝 [That&#39;s a lot of damage](http://9gag.com/gag/adB5Kdj)
+ - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
+ - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
 
 ---
 

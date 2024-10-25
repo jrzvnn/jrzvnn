@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 😝 [The ending....](http://9gag.com/gag/avyoz1n)
  - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
- - 💣 [There was an attempt](http://9gag.com/gag/aqyggRv)
- - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
+ - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 👉 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)<!-- MEMES:END -->
 
 ---
 

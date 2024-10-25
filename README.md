@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Elon Musk has been in regular contact with Vladimir Putin since late 2022; Putin asked Musk to not activate Starlink in Taiwan as a favor to Xi Jinping &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241024/p40#a241024p40)
+ - [How to banish annoyances in Safari with Distraction Control on Mac](https://appleinsider.com/articles/24/10/25/how-to-banish-annoyances-in-safari-with-distraction-control-on-mac?utm_medium=rss)
  - [Source: OpenAI plans to launch its next flagship model, codenamed Orion, by December, rolling it out in phases starting with the company&#39;s trusted partners &lpar;The Verge&rpar;](http://www.techmeme.com/241024/p39#a241024p39)
  - [The company behind Arc is now building a second, much simpler browser](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc)
- - [Waiting for Public Service Loan Forgiveness? You May Want to Dump SAVE](https://www.cnet.com/personal-finance/loans/waiting-for-public-service-loan-forgiveness-you-may-want-to-dump-save/#ftag=CAD590a51e)
- - [Identity verification service provider Socure agrees to acquire Effectiv, which helps businesses manage fraud prevention tools, for $136M in cash and equity &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/241024/p38#a241024p38)
- - [OpenAI plans to release its next big AI model by December](https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december)<!-- TECH:END -->
+ - [Waiting for Public Service Loan Forgiveness? You May Want to Dump SAVE](https://www.cnet.com/personal-finance/loans/waiting-for-public-service-loan-forgiveness-you-may-want-to-dump-save/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion previews Mail, an email client that uses AI to organize, archive, or draft emails and handle scheduling and follow-ups, saying it is &quot;coming soon&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241024/p37#a241024p37)
- - [11 Best Sexy Gifts for Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
- - [A look at the White House&#39;s big bet on Intel; sources: Gina Raimondo urged companies to order Intel&#39;s US chips, but most favored TSMC&#39;s more advanced techniques &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p36#a241024p36)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Perplexity blasts media as ‘adversarial’ in response to copyright lawsuit](https://www.theverge.com/2024/10/24/24278950/perplexity-news-corp-response-lawsuit)<!-- TECH:END -->
+ - [Source: OpenAI plans to launch its next flagship model, codenamed Orion, by December, rolling it out in phases starting with the company&#39;s trusted partners &lpar;The Verge&rpar;](http://www.techmeme.com/241024/p39#a241024p39)
+ - [The company behind Arc is now building a second, much simpler browser](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc)
+ - [Waiting for Public Service Loan Forgiveness? You May Want to Dump SAVE](https://www.cnet.com/personal-finance/loans/waiting-for-public-service-loan-forgiveness-you-may-want-to-dump-save/#ftag=CAD590a51e)
+ - [Identity verification service provider Socure agrees to acquire Effectiv, which helps businesses manage fraud prevention tools, for $136M in cash and equity &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/241024/p38#a241024p38)
+ - [OpenAI plans to release its next big AI model by December](https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

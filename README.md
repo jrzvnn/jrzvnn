@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ending....](http://9gag.com/gag/avyoz1n)
- - 😝 [That&#39;s a lot of damage](http://9gag.com/gag/adB5Kdj)
- - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
+ - 😝 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 💣 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
+ - 👉 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)<!-- MEMES:END -->
 
 ---
 

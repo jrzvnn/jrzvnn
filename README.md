@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Chinese Hackers Target Trump Campaign via Verizon Breach](https://www.wired.com/story/trump-vance-phones-verizon-hack/)
  - [Boeing reportedly considers selling off its space business](https://www.theverge.com/2024/10/25/24279693/boeing-considers-selling-space-business-starliner)
  - [The US Copyright Office denies a request from video game preservationists to let libraries, archives, and museums lend games via remote access for study &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241025/p25#a241025p25)
- - [Video game preservationists have lost a legal fight to study games remotely](https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access)
- - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)<!-- TECH:END -->
+ - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
+ - [Best Internet Providers in Marquette, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-marquette-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

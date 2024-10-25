@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)
  - [A profile of and an interview with CISA Director Jen Easterly, as the agency ramps up efforts to protect the US elections from cyberattacks and misinformation &lpar;Max Ufberg/Fast Company&rpar;](http://www.techmeme.com/241025/p3#a241025p3)
  - [VistaPrint Coupon for October 2024: 25% OFF Any Order](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Target Promo Code: $50 Off | October 2024](https://www.wired.com/story/target-promo-code/)
- - [UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241025/p2#a241025p2)
- - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)<!-- TECH:END -->
+ - [UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241025/p2#a241025p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

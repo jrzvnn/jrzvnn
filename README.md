@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
- - 💣 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
+ - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
+ - 💣 [10 is better than none](http://9gag.com/gag/azx193m)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
+ - 👉 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)<!-- MEMES:END -->
 
 ---
 

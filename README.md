@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can&#39;t figure out why he was fired as a journalist](http://9gag.com/gag/aVv0wNv)
+ - 😝 [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
+ - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
  - 😝 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
- - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
+ - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
 
 ---
 

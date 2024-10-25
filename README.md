@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - 😝 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 💣 [Best friend stuff](http://9gag.com/gag/a4PRE61)
+ - 😝 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
+ - 😝 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)
+ - 💣 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [This ideology needs to be eradicated for the survival of rationality in humans!!](http://9gag.com/gag/aoy5Mxm)<!-- MEMES:END -->
+ - 👉 [Best friend stuff](http://9gag.com/gag/a4PRE61)<!-- MEMES:END -->
 
 ---
 

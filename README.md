@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aqygKyQ)
- - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
- - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 👉 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)<!-- MEMES:END -->
+ - 😝 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
+ - 😝 [Schizo Ross](http://9gag.com/gag/aO807YD)
+ - 💣 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)
+ - 😝 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
+ - 👉 [Humanity](http://9gag.com/gag/aW4ExYx)<!-- MEMES:END -->
 
 ---
 

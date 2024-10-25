@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boeing reportedly considers selling off its space business](https://www.theverge.com/2024/10/25/24279693/boeing-considers-selling-space-business-starliner)
+ - [The US Copyright Office denies a request from video game preservationists to let libraries, archives, and museums lend games via remote access for study &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241025/p25#a241025p25)
+ - [Chinese Hackers Target Trump Campaign via Verizon Breach](https://www.wired.com/story/trump-vance-phones-verizon-hack/)
  - [Video game preservationists have lost a legal fight to study games remotely](https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access)
- - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
- - [Sources: Google is aiming to release its Gemini 2.0 model in December; the model isn&#39;t showing the performance gains the Demis Hassabis-led team had hoped for &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241025/p24#a241025p24)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)<!-- TECH:END -->
+ - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

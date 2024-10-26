@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $43M Series B led by Kleiner Perkins at a $285M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241025/p28#a241025p28)
  - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)
+ - [Best 4K TV for 2024](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
  - [Delta sues CrowdStrike, saying the July 19 outage caused mass flight cancellations, disrupted travel plans of 1.3M customers, and cost the carrier over $500M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241025/p27#a241025p27)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Samsung Galaxy Tab S9 FE Hits New Record-Low Price on Amazon](https://www.cnet.com/deals/samsung-galaxy-tab-s9-fe-hits-new-record-low-price-on-amazon-right-now/#ftag=CAD590a51e)
- - [Massive Change Healthcare Data Breach Impacted 100 Million People. What to Know](https://www.cnet.com/personal-finance/massive-change-healthcare-data-breach-impacted-100-million-people-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Wichita, Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-wichita-ks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

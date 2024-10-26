@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-26/#ftag=CAD590a51e)
- - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $43M Series B led by Kleiner Perkins at a $285M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241025/p28#a241025p28)
- - [Want a Better Smile? Stop Rinsing After You Brush](https://www.cnet.com/health/personal-care/want-a-better-smile-stop-rinsing-after-you-brush/#ftag=CAD590a51e)
- - [How to Keep Your Laptop Closed and Use a Monitor](https://www.cnet.com/tech/computing/how-to-keep-your-laptop-closed-and-use-a-monitor/#ftag=CAD590a51e)
- - [How to to Renewing Your US Passport Online Without Leaving Your House](https://www.cnet.com/tech/services-and-software/how-to-to-renewing-your-us-passport-online-without-leaving-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brain-computer interface company Science Corporation says its retinal implant, which has a 2mm chip, let some blind people read, play cards, and recognize faces &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/241026/p1#a241026p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 26, #33](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-26-33/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 26, #1225](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-26-1225/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 26, #237](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-26-237/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 26, #503](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-26-503/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

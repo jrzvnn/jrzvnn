@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Easiest Way to Clean White Sneakers So They Look Brand New](https://www.cnet.com/culture/fashion/the-easiest-way-to-clean-white-sneakers-so-they-look-brand-new/#ftag=CAD590a51e)
- - [Nolah Signature 12 Mattress Review 2024: Testing the Brand&#39;s Signature Take On Comfort](https://www.cnet.com/health/sleep/nolah-signature-12-mattress-review/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man City vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-southampton-from-anywhere/#ftag=CAD590a51e)
- - [Easy and Fun DIY Halloween Costumes You Can Do on a Budget](https://www.cnet.com/personal-finance/banking/easy-and-fun-diy-halloween-costumes-you-can-do-on-a-budget/#ftag=CAD590a51e)
- - [11 Apple TV Plus Sci-Fi Shows Every Genre Fan Should Watch](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 23 Best Movies on Amazon Prime Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The ramifications of a potential US crackdown against Tether, a noticeable player in the market for US debt, will extend beyond the digital asset industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p6#a241026p6)
+ - [Chinese Hackers Target Trump Campaign via Verizon Breach](https://www.wired.com/story/trump-vance-phones-verizon-hack/)
+ - [The Easiest Methods to Remove Stubborn Coffee Stains From Your Mugs](https://www.cnet.com/how-to/the-easiest-methods-to-remove-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
+ - [Social Security October 2024: Have You Received Your Check Yet?](https://www.cnet.com/personal-finance/social-security-october-2024-have-you-received-your-check-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

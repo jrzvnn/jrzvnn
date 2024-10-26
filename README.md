@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
- - 😝 [Umbrella Illusion](http://9gag.com/gag/aND0p20)
+ - 😝 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 💣 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
  - 👉 [What did he do?](http://9gag.com/gag/aYQ7V7m)<!-- MEMES:END -->

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
  - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)<!-- MEMES:END -->
+ - 😝 [The picture from the top of Drudgereport right now](https://www.reddit.com/r/funny/comments/1gculc8/the_picture_from_the_top_of_drudgereport_right_now/)
+ - 👉 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)<!-- MEMES:END -->
 
 ---
 

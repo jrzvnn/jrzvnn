@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ramifications of a potential US crackdown against Tether, a noticeable player in the market for US debt, will extend beyond the digital asset industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p6#a241026p6)
+ - [Chinese Hackers Target Trump Campaign via Verizon Breach](https://www.wired.com/story/trump-vance-phones-verizon-hack/)
  - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
  - [Estimated Vision Pro 2024 sales are only slightly less than the reported peak production capacity, implying sales are almost in line with Apple&#39;s expectations &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/241026/p5#a241026p5)
- - [Apple’s Sales in China Are Stalling. What Will It Sacrifice to Turn Things Around?](https://www.wired.com/story/apples-sales-in-china-are-stalling-what-will-it-sacrifice-to-turn-things-around/)
- - [Newegg Promo Code: 10% Off for Select Customers](https://www.wired.com/story/newegg-promo-code/)
- - [We&#39;re Sleep Experts. These Are the Beds We&#39;d Buy for Ourselves Right Now](https://www.cnet.com/health/sleep/were-sleep-experts-these-are-our-favorite-beds-on-the-market/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s Sales in China Are Stalling. What Will It Sacrifice to Turn Things Around?](https://www.wired.com/story/apples-sales-in-china-are-stalling-what-will-it-sacrifice-to-turn-things-around/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

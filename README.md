@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You must never hesitate](http://9gag.com/gag/aXPjjWD)
- - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 💣 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
+ - 😝 [Only DIN B125](http://9gag.com/gag/an75Qo5)
+ - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
+ - 💣 [Where bowl?](http://9gag.com/gag/adB5P5D)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
+ - 👉 [Things to do before you die](http://9gag.com/gag/ae95gK5)<!-- MEMES:END -->
 
 ---
 

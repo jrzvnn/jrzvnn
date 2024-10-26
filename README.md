@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where bowl?](http://9gag.com/gag/adB5P5D)
- - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
- - 💣 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [You must never hesitate](http://9gag.com/gag/aXPjjWD)
+ - 💣 [Where bowl?](http://9gag.com/gag/adB5P5D)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)<!-- MEMES:END -->
+ - 👉 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)<!-- MEMES:END -->
 
 ---
 

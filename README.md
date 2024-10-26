@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 😝 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
- - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
+ - 😝 [Things to do before you die](http://9gag.com/gag/ae95gK5)
+ - 😝 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
+ - 💣 [We see what the brain expects to see.](http://9gag.com/gag/a2vRv0Y)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Best friend stuff](http://9gag.com/gag/a4PRE61)<!-- MEMES:END -->
+ - 👉 [Proposal accepted](http://9gag.com/gag/aBygdxz)<!-- MEMES:END -->
 
 ---
 

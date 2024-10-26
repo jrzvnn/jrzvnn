@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proposal accepted](http://9gag.com/gag/aBygdxz)
- - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 💣 [RC shenanigans](http://9gag.com/gag/aLn0nBV)
+ - 😝 [This facial prosthesis](http://9gag.com/gag/amo5AOv)
+ - 😝 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
+ - 💣 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [First shoulder pads at level 15. First helm at level 28. It was incredible.](http://9gag.com/gag/ayNoNwq)<!-- MEMES:END -->
+ - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
 
 ---
 

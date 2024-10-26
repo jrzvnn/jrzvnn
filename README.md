@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lyft fined $2.1 million for misleading ads about how much drivers could make](https://www.theverge.com/2024/10/26/24280303/lyft-fine-misleading-earnings-claims-ads-ftc-doj)
- - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-on-prime-video-october-2024/#ftag=CAD590a51e)
  - [A look at Factorio, a strategy video game that is a cult hit among tech workers with ~4M copies sold over eight years, as it releases its first expansion pack &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p12#a241026p12)
  - [Month-end iPad sale: $298 10th Gen, M4 iPad Pro $899, iPad mini 7 deals](https://appleinsider.com/articles/24/10/26/month-end-ipad-sale-298-10th-gen-m4-ipad-pro-899-ipad-mini-7-deals?utm_medium=rss)
- - [MLB World Series Yankees vs. Dodgers Game 2: How to Watch, Start Time, Game Schedule](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-yankees-vs-dodgers-live-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Wellness and Fitness TikTok Trends Experts Want to &#39;De-Influence&#39;](https://www.cnet.com/health/6-wellness-and-fitness-tiktok-trends-experts-are-de-influencing-and-you-should-too/#ftag=CAD590a51e)
+ - [YouTuber shows off hardware hack to replace soldered MacBook storage](https://appleinsider.com/articles/24/10/26/youtuber-shows-off-hardware-hack-to-replace-soldered-macbook-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

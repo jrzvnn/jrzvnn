@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The ramifications of a potential US crackdown against Tether, a noticeable player in the market for US debt, will extend beyond the digital asset industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p6#a241026p6)
  - [Chinese Hackers Target Trump Campaign via Verizon Breach](https://www.wired.com/story/trump-vance-phones-verizon-hack/)
- - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
- - [Estimated Vision Pro 2024 sales are only slightly less than the reported peak production capacity, implying sales are almost in line with Apple&#39;s expectations &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/241026/p5#a241026p5)
- - [Apple’s Sales in China Are Stalling. What Will It Sacrifice to Turn Things Around?](https://www.wired.com/story/apples-sales-in-china-are-stalling-what-will-it-sacrifice-to-turn-things-around/)<!-- TECH:END -->
+ - [The Easiest Methods to Remove Stubborn Coffee Stains From Your Mugs](https://www.cnet.com/how-to/the-easiest-methods-to-remove-stubborn-coffee-stains-from-your-mugs/#ftag=CAD590a51e)
+ - [Social Security October 2024: Have You Received Your Check Yet?](https://www.cnet.com/personal-finance/social-security-october-2024-have-you-received-your-check-yet/#ftag=CAD590a51e)
+ - [You Can Change Your Social Security Number, but You Need a Good Reason To. What to Know.](https://www.cnet.com/personal-finance/you-can-change-your-social-security-number-but-you-need-a-good-reason-to-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

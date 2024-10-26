@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Factorio, a strategy video game that is a cult hit among tech workers with ~4M copies sold over eight years, as it releases its first expansion pack &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p12#a241026p12)
  - [Month-end iPad sale: $298 10th Gen, M4 iPad Pro $899, iPad mini 7 deals](https://appleinsider.com/articles/24/10/26/month-end-ipad-sale-298-10th-gen-m4-ipad-pro-899-ipad-mini-7-deals?utm_medium=rss)
+ - [6 Wellness and Fitness TikTok Trends Experts Want to &#39;De-Influence&#39;](https://www.cnet.com/health/6-wellness-and-fitness-tiktok-trends-experts-are-de-influencing-and-you-should-too/#ftag=CAD590a51e)
  - [YouTuber shows off hardware hack to replace soldered MacBook storage](https://appleinsider.com/articles/24/10/26/youtuber-shows-off-hardware-hack-to-replace-soldered-macbook-storage?utm_medium=rss)
- - [Sources: Google plans to preview an AI product codenamed Jarvis, which takes over a user&#39;s web browser to complete tasks like booking a flight, in December &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/241026/p11#a241026p11)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Barcelona El Clásico From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-barcelona-el-clasico-from-anywhere/#ftag=CAD590a51e)
- - [An interview with Salesforce CEO Marc Benioff on his background and the founding of Salesforce, his vision for AI, Agentforce, data and disruption, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241026/p10#a241026p10)<!-- TECH:END -->
+ - [Sources: Google plans to preview an AI product codenamed Jarvis, which takes over a user&#39;s web browser to complete tasks like booking a flight, in December &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/241026/p11#a241026p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

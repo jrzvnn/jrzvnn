@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New live action with Nicolas Cage as Spider-Noir. `please don&#39;t suck, please don&#39;t suck, please don&#39;t suck.`](http://9gag.com/gag/aND0wK3)
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 💣 [When you are your own fortune teller](http://9gag.com/gag/aZZ70MX)
+ - 😝 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
+ - 😝 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)
+ - 💣 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)<!-- MEMES:END -->
+ - 👉 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)<!-- MEMES:END -->
 
 ---
 

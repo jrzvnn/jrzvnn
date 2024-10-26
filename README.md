@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 😝 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
+ - 😝 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 😝 [This facial prosthesis](http://9gag.com/gag/amo5AOv)
  - 💣 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)<!-- MEMES:END -->
+ - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
 
 ---
 

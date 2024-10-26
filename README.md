@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
  - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
+ - 👉 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)<!-- MEMES:END -->
 
 ---
 

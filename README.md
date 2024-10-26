@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google plans to preview an AI product codenamed Jarvis, which takes over a user&#39;s web browser to complete tasks like booking a flight, in December &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/241026/p11#a241026p11)
  - [An interview with Salesforce CEO Marc Benioff on his background and the founding of Salesforce, his vision for AI, Agentforce, data and disruption, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241026/p10#a241026p10)
+ - [Best Internet Providers in Chandler, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)
  - [Tim Walz and AOC are going to play Madden together on Twitch](https://www.theverge.com/2024/10/26/24280200/tim-walz-aoc-twitch-madden)
- - [Apple Intelligence Image Playground, Genmoji testers face long wait](https://appleinsider.com/articles/24/10/26/apple-intelligence-image-playground-genmoji-testers-face-long-wait?utm_medium=rss)
- - [Judge awards Apple a token $250 in its latest lawsuit against Masimo](https://appleinsider.com/articles/24/10/26/judge-awards-apple-a-token-250-in-its-latest-lawsuit-against-masimo?utm_medium=rss)
- - [An interview with Humane co-founders Bethany Bongiorno and Imran Chaudhri on dealing with the reaction to the AI Pin, plans to license its CosmOS, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241026/p9#a241026p9)<!-- TECH:END -->
+ - [Titan Plus Mattress Review 2024: A Truly Firm Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/titan-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

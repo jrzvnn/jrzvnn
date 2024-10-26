@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Things to do before you die](http://9gag.com/gag/ae95gK5)
- - 😝 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
- - 💣 [We see what the brain expects to see.](http://9gag.com/gag/a2vRv0Y)
+ - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 😝 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
+ - 💣 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Proposal accepted](http://9gag.com/gag/aBygdxz)<!-- MEMES:END -->
+ - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
 
 ---
 

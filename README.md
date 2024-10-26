@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
  - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 😝 [Passengers on Bangkok\u2019s Chao Phraya River cruise crouch down to avoid the bridge as water level is higher than usual](http://9gag.com/gag/agm55n1)
- - 💣 [10 is better than none](http://9gag.com/gag/azx193m)
+ - 😝 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
+ - 😝 [His first and last job](http://9gag.com/gag/a0eR7en)
+ - 💣 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Here I got you this](http://9gag.com/gag/aMVYZPR)<!-- MEMES:END -->
+ - 👉 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)<!-- MEMES:END -->
 
 ---
 

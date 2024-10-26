@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba agrees to a $443.5M settlement in a US shareholder lawsuit alleging that Alibaba hurt investors by making misstatements about its exclusivity practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241026/p8#a241026p8)
+ - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
+ - [Classic survival horror is still alive and scaring](https://www.theverge.com/2024/10/26/24279276/survival-horror-silent-hill-2-fear-the-spotlight)
  - [A TikTok alternative called Loops is coming for the fediverse](https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open)
- - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
- - [The Lake House is a welcome return to Alan Wake 2 — and a bridge to the future](https://www.theverge.com/24279410/alan-wake-2-the-lake-house-expansion-review)
- - [Analysis: X is on track to fall well short of its goal of $100M in 2024 political ad revenue, raising just $15M to date, mainly from GOP and Trump campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p7#a241026p7)
- - [Renault 5 EV Review: Specs, Price, Availability](https://www.wired.com/review/review-renault-5-ev/)<!-- TECH:END -->
+ - [The Dinosaur Age Ended With Two Asteroids, Scientists Say](https://www.cnet.com/science/the-dinosaur-age-ended-with-two-asteroids-scientists-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

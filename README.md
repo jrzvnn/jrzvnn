@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
- - 💣 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)
+ - 😝 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 💣 [`Violated`](http://9gag.com/gag/aD2g4Zx)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
+ - 👉 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)<!-- MEMES:END -->
 
 ---
 

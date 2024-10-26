@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: X is on track to fall well short of its goal of $100M in 2024 political ad revenue, raising just $15M to date, mainly from GOP and Trump campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p7#a241026p7)
+ - [Renault 5 EV Review: Specs, Price, Availability](https://www.wired.com/review/review-renault-5-ev/)
  - [10 Best Tested Laptop Stands for Any Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
  - [Tesla Optimus vs. Unitree G1: Autonomy or Advertising? video](https://www.cnet.com/videos/tesla-optimus-vs-unitree-g1-autonomy-or-advertising/#ftag=CAD590a51e)
- - [Daylight Saving Time 2024 Is Almost Over: When the Clocks Fall Back](https://www.cnet.com/science/daylight-saving-time-2024-is-almost-over-when-the-clocks-fall-back/#ftag=CAD590a51e)
- - [Don’t Waste Your Patio This Fall: 3 Reasons a Smokeless Fire Pit Is the Perfect Addition](https://www.cnet.com/home/yard-and-outdoors/three-reasons-you-need-a-smokeless-fire-pit-this-season/#ftag=CAD590a51e)
- - [The Easiest Way to Clean White Sneakers So They Look Brand New](https://www.cnet.com/culture/fashion/the-easiest-way-to-clean-white-sneakers-so-they-look-brand-new/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daylight Saving Time 2024 Is Almost Over: When the Clocks Fall Back](https://www.cnet.com/science/daylight-saving-time-2024-is-almost-over-when-the-clocks-fall-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
  - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)<!-- MEMES:END -->
+ - 👉 [Best friend stuff](http://9gag.com/gag/a4PRE61)<!-- MEMES:END -->
 
 ---
 

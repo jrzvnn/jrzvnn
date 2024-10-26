@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creed being Creed](http://9gag.com/gag/aYQ77K0)
- - 😝 [10 is better than none](http://9gag.com/gag/azx193m)
+ - 😝 [New live action with Nicolas Cage as Spider-Noir. `please don&#39;t suck, please don&#39;t suck, please don&#39;t suck.`](http://9gag.com/gag/aND0wK3)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
  - 💣 [When you are your own fortune teller](http://9gag.com/gag/aZZ70MX)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)<!-- MEMES:END -->
+ - 👉 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)<!-- MEMES:END -->
 
 ---
 

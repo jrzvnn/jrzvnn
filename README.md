@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge awards Apple a token $250 in its latest lawsuit against Masimo](https://appleinsider.com/articles/24/10/26/judge-awards-apple-a-token-250-in-its-latest-lawsuit-against-masimo?utm_medium=rss)
  - [Alibaba agrees to a $443.5M settlement in a US shareholder lawsuit alleging that Alibaba hurt investors by making misstatements about its exclusivity practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241026/p8#a241026p8)
  - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
  - [Classic survival horror is still alive and scaring](https://www.theverge.com/2024/10/26/24279276/survival-horror-silent-hill-2-fear-the-spotlight)
- - [A TikTok alternative called Loops is coming for the fediverse](https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open)
- - [The Dinosaur Age Ended With Two Asteroids, Scientists Say](https://www.cnet.com/science/the-dinosaur-age-ended-with-two-asteroids-scientists-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A TikTok alternative called Loops is coming for the fediverse](https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

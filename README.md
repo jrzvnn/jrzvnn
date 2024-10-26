@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Judge awards Apple a token $250 in its latest lawsuit against Masimo](https://appleinsider.com/articles/24/10/26/judge-awards-apple-a-token-250-in-its-latest-lawsuit-against-masimo?utm_medium=rss)
+ - [An interview with Humane co-founders Bethany Bongiorno and Imran Chaudhri on dealing with the reaction to the AI Pin, plans to license its CosmOS, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241026/p9#a241026p9)
+ - [Android 16 could get iPhone-like ‘ongoing’ notifications](https://www.theverge.com/2024/10/26/24280157/android-16-rich-ongoing-notifications-beta-code-iphone-ios-live-activities)
  - [Alibaba agrees to a $443.5M settlement in a US shareholder lawsuit alleging that Alibaba hurt investors by making misstatements about its exclusivity practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241026/p8#a241026p8)
- - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
- - [Classic survival horror is still alive and scaring](https://www.theverge.com/2024/10/26/24279276/survival-horror-silent-hill-2-fear-the-spotlight)
- - [A TikTok alternative called Loops is coming for the fediverse](https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open)<!-- TECH:END -->
+ - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to wrap gifts with no tape](http://9gag.com/gag/aBygnx2)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
  - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
- - 💣 [He protec](http://9gag.com/gag/a875GMY)
+ - 💣 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)<!-- MEMES:END -->
+ - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
 
 ---
 

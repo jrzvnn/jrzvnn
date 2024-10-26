@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-26/#ftag=CAD590a51e)
  - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $43M Series B led by Kleiner Perkins at a $285M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241025/p28#a241025p28)
+ - [Want a Better Smile? Stop Rinsing After You Brush](https://www.cnet.com/health/personal-care/want-a-better-smile-stop-rinsing-after-you-brush/#ftag=CAD590a51e)
  - [How to Keep Your Laptop Closed and Use a Monitor](https://www.cnet.com/tech/computing/how-to-keep-your-laptop-closed-and-use-a-monitor/#ftag=CAD590a51e)
- - [How to to Renewing Your US Passport Online Without Leaving Your House](https://www.cnet.com/tech/services-and-software/how-to-to-renewing-your-us-passport-online-without-leaving-your-house/#ftag=CAD590a51e)
- - [Best Phones Under $300 in 2024](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)<!-- TECH:END -->
+ - [How to to Renewing Your US Passport Online Without Leaving Your House](https://www.cnet.com/tech/services-and-software/how-to-to-renewing-your-us-passport-online-without-leaving-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

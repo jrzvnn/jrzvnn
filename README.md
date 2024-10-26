@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No retaredment](http://9gag.com/gag/aD2ggrG)
- - 😝 [A new technique](http://9gag.com/gag/adB5gPZ)
- - 💣 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
+ - 😝 [Best friend stuff](http://9gag.com/gag/a4PRE61)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 💣 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [I\u2019m gonna make it so dry for you..](http://9gag.com/gag/a6ZNO8m)<!-- MEMES:END -->
+ - 👉 [How to wrap gifts with no tape](http://9gag.com/gag/aBygnx2)<!-- MEMES:END -->
 
 ---
 

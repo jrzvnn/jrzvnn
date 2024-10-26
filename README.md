@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence Image Playground, Genmoji testers face long wait](https://appleinsider.com/articles/24/10/26/apple-intelligence-image-playground-genmoji-testers-face-long-wait?utm_medium=rss)
  - [Judge awards Apple a token $250 in its latest lawsuit against Masimo](https://appleinsider.com/articles/24/10/26/judge-awards-apple-a-token-250-in-its-latest-lawsuit-against-masimo?utm_medium=rss)
  - [An interview with Humane co-founders Bethany Bongiorno and Imran Chaudhri on dealing with the reaction to the AI Pin, plans to license its CosmOS, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241026/p9#a241026p9)
  - [Android 16 could get iPhone-like ‘ongoing’ notifications](https://www.theverge.com/2024/10/26/24280157/android-16-rich-ongoing-notifications-beta-code-iphone-ios-live-activities)
- - [Alibaba agrees to a $443.5M settlement in a US shareholder lawsuit alleging that Alibaba hurt investors by making misstatements about its exclusivity practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241026/p8#a241026p8)
- - [The Best Electric Kick Scooters of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Alibaba agrees to a $443.5M settlement in a US shareholder lawsuit alleging that Alibaba hurt investors by making misstatements about its exclusivity practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241026/p8#a241026p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

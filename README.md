@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
- - 😝 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
- - 💣 [Umbrella Illusion](http://9gag.com/gag/aND0p20)
+ - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 💣 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)<!-- MEMES:END -->
+ - 👉 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)<!-- MEMES:END -->
 
 ---
 

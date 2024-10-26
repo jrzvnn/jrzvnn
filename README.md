@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
- - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 😝 [The picture from the top of Drudgereport right now](https://www.reddit.com/r/funny/comments/1gculc8/the_picture_from_the_top_of_drudgereport_right_now/)
- - 👉 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)<!-- MEMES:END -->
+ - 😝 [Umbrella Illusion](http://9gag.com/gag/aND0p20)
+ - 💣 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
+ - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
+ - 👉 [What did he do?](http://9gag.com/gag/aYQ7V7m)<!-- MEMES:END -->
 
 ---
 

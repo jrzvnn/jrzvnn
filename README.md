@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best friend stuff](http://9gag.com/gag/a4PRE61)
- - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
- - 💣 [How to wrap gifts with no tape](http://9gag.com/gag/aBygnx2)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 💣 [So surprise!](http://9gag.com/gag/a34RR53)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [He protec](http://9gag.com/gag/a875GMY)<!-- MEMES:END -->
+ - 👉 [Creed being Creed](http://9gag.com/gag/aYQ77K0)<!-- MEMES:END -->
 
 ---
 

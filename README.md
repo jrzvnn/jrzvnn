@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A TikTok alternative called Loops is coming for the fediverse](https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open)
  - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
  - [The Lake House is a welcome return to Alan Wake 2 — and a bridge to the future](https://www.theverge.com/24279410/alan-wake-2-the-lake-house-expansion-review)
  - [Analysis: X is on track to fall well short of its goal of $100M in 2024 political ad revenue, raising just $15M to date, mainly from GOP and Trump campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p7#a241026p7)
- - [Renault 5 EV Review: Specs, Price, Availability](https://www.wired.com/review/review-renault-5-ev/)
- - [Pregnancy Timeline: What Happens Each Month and Trimester](https://www.cnet.com/health/parenting/pregnancy-timeline-what-happens-each-month-and-trimester/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Renault 5 EV Review: Specs, Price, Availability](https://www.wired.com/review/review-renault-5-ev/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

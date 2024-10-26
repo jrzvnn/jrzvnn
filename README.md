@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
+ - 😝 [You bloody benchod!](http://9gag.com/gag/aND0Y2v)
  - 😝 [His first and last job](http://9gag.com/gag/a0eR7en)
- - 💣 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
+ - 💣 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
  - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)<!-- MEMES:END -->
+ - 👉 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)<!-- MEMES:END -->
 
 ---
 

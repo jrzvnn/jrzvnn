@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 💣 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)
+ - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
+ - 😝 [US Women Soccer Team vs Retired Male Team](http://9gag.com/gag/aD2g4p7)
+ - 💣 [Umbrella Illusion](http://9gag.com/gag/aND0p20)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)<!-- MEMES:END -->
+ - 👉 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only DIN B125](http://9gag.com/gag/an75Qo5)
- - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
- - 💣 [Where bowl?](http://9gag.com/gag/adB5P5D)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
+ - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Things to do before you die](http://9gag.com/gag/ae95gK5)<!-- MEMES:END -->
+ - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
 
 ---
 

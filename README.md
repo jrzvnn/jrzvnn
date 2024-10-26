@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Analysis: X is on track to fall well short of its goal of $100M in 2024 political ad revenue, raising just $15M to date, mainly from GOP and Trump campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p7#a241026p7)
  - [Renault 5 EV Review: Specs, Price, Availability](https://www.wired.com/review/review-renault-5-ev/)
+ - [Pregnancy Timeline: What Happens Each Month and Trimester](https://www.cnet.com/health/parenting/pregnancy-timeline-what-happens-each-month-and-trimester/#ftag=CAD590a51e)
  - [10 Best Tested Laptop Stands for Any Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
- - [Tesla Optimus vs. Unitree G1: Autonomy or Advertising? video](https://www.cnet.com/videos/tesla-optimus-vs-unitree-g1-autonomy-or-advertising/#ftag=CAD590a51e)
- - [Daylight Saving Time 2024 Is Almost Over: When the Clocks Fall Back](https://www.cnet.com/science/daylight-saving-time-2024-is-almost-over-when-the-clocks-fall-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla Optimus vs. Unitree G1: Autonomy or Advertising? video](https://www.cnet.com/videos/tesla-optimus-vs-unitree-g1-autonomy-or-advertising/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

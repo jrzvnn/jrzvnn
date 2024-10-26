@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)
  - [Delta sues CrowdStrike, saying the July 19 outage caused mass flight cancellations, disrupted travel plans of 1.3M customers, and cost the carrier over $500M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241025/p27#a241025p27)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [A US federal jury awards Apple $250, finding that Masimo&#39;s smartwatches infringed Apple Watch design patents; Apple sought statutory minimum damages &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/241025/p26#a241025p26)
- - [DreamCloud Premier Rest Memory Foam Mattress Review 2024: Side Sleepers Will Love This Premium Foam Bed](https://www.cnet.com/health/sleep/dreamcloud-premier-rest-memory-foam-mattress-review/#ftag=CAD590a51e)
- - [Got iOS 18? Make These Long-Awaited Changes to Your iPhone Settings](https://www.cnet.com/tech/services-and-software/got-ios-18-make-these-long-awaited-changes-to-your-iphone-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 FE Hits New Record-Low Price on Amazon](https://www.cnet.com/deals/samsung-galaxy-tab-s9-fe-hits-new-record-low-price-on-amazon-right-now/#ftag=CAD590a51e)
+ - [Massive Change Healthcare Data Breach Impacted 100 Million People. What to Know](https://www.cnet.com/personal-finance/massive-change-healthcare-data-breach-impacted-100-million-people-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

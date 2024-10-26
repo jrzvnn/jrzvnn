@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 😝 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
- - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
+ - 😝 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)
+ - 💣 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [What sun damage does to the body](http://9gag.com/gag/awyozRW)<!-- MEMES:END -->
+ - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
 
 ---
 

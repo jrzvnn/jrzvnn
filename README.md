@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese self-driving company WeRide&#39;s shares closed up 6.8% at $16.55, giving a market cap of ~$4.5B, after raising $440.5M in a US IPO and private placement &lpar;David Morris/Bloomberg&rpar;](http://www.techmeme.com/241026/p4#a241026p4)
+ - [Chinese self-driving company WeRide&#39;s shares closed up 6.8% at $16.55, giving it a market cap of ~$4.5B, after raising $440.5M in a US IPO and private placement &lpar;David Morris/Bloomberg&rpar;](http://www.techmeme.com/241026/p4#a241026p4)
  - [Engineers, developers, and researchers say OpenAI&#39;s transcription tool Whisper hallucinates chunks of text or even entire sentences, including racial commentary &lpar;Associated Press&rpar;](http://www.techmeme.com/241026/p3#a241026p3)
  - [Accel registers with the US SEC as an investment adviser to tap private markets, joining Sequoia, a16z, Bessemer, and other VC firms that made a similar move &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p2#a241026p2)
  - [Brain-computer interface company Science Corporation says its retinal implant, which has a 2mm chip, let some blind people read, play cards, and recognize faces &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/241026/p1#a241026p1)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Month-end iPad sale: $298 10th Gen, M4 iPad Pro $899, iPad mini 7 deals](https://appleinsider.com/articles/24/10/26/month-end-ipad-sale-298-10th-gen-m4-ipad-pro-899-ipad-mini-7-deals?utm_medium=rss)
  - [YouTuber shows off hardware hack to replace soldered MacBook storage](https://appleinsider.com/articles/24/10/26/youtuber-shows-off-hardware-hack-to-replace-soldered-macbook-storage?utm_medium=rss)
  - [Sources: Google plans to preview an AI product codenamed Jarvis, which takes over a user&#39;s web browser to complete tasks like booking a flight, in December &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/241026/p11#a241026p11)
  - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Barcelona El Clásico From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-barcelona-el-clasico-from-anywhere/#ftag=CAD590a51e)
- - [An interview with Salesforce CEO Marc Benioff on his background and the founding of Salesforce, his vision for AI, Agentforce, data and disruption, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241026/p10#a241026p10)
- - [Best Internet Providers in Miami, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Salesforce CEO Marc Benioff on his background and the founding of Salesforce, his vision for AI, Agentforce, data and disruption, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241026/p10#a241026p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [Creed being Creed](http://9gag.com/gag/aYQ77K0)
  - 😝 [10 is better than none](http://9gag.com/gag/azx193m)
- - 💣 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
+ - 💣 [When you are your own fortune teller](http://9gag.com/gag/aZZ70MX)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Passengers on Bangkok\u2019s Chao Phraya River cruise crouch down to avoid the bridge as water level is higher than usual](http://9gag.com/gag/agm55n1)<!-- MEMES:END -->
+ - 👉 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)<!-- MEMES:END -->
 
 ---
 

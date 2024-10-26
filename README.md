@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $43M Series B led by Kleiner Perkins at a $285M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241025/p28#a241025p28)
- - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)
- - [Best 4K TV for 2024](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Delta sues CrowdStrike, saying the July 19 outage caused mass flight cancellations, disrupted travel plans of 1.3M customers, and cost the carrier over $500M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241025/p27#a241025p27)
- - [Best Internet Providers in Wichita, Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-wichita-ks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Keep Your Laptop Closed and Use a Monitor](https://www.cnet.com/tech/computing/how-to-keep-your-laptop-closed-and-use-a-monitor/#ftag=CAD590a51e)
+ - [How to to Renewing Your US Passport Online Without Leaving Your House](https://www.cnet.com/tech/services-and-software/how-to-to-renewing-your-us-passport-online-without-leaving-your-house/#ftag=CAD590a51e)
+ - [Best Phones Under $300 in 2024](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
+ - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

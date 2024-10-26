@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
  - 💣 [Trust the guys](http://9gag.com/gag/an75gNV)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [What did he do?](http://9gag.com/gag/aYQ7V7m)<!-- MEMES:END -->
+ - 👉 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)<!-- MEMES:END -->
 
 ---
 

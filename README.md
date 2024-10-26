@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 😝 [You must never hesitate](http://9gag.com/gag/aXPjjWD)
- - 💣 [Where bowl?](http://9gag.com/gag/adB5P5D)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 😝 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
+ - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)<!-- MEMES:END -->
+ - 👉 [What sun damage does to the body](http://9gag.com/gag/awyozRW)<!-- MEMES:END -->
 
 ---
 

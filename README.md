@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 😝 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - 💣 [So surprise!](http://9gag.com/gag/a34RR53)
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [10 is better than none](http://9gag.com/gag/azx193m)
+ - 💣 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Creed being Creed](http://9gag.com/gag/aYQ77K0)<!-- MEMES:END -->
+ - 👉 [Passengers on Bangkok\u2019s Chao Phraya River cruise crouch down to avoid the bridge as water level is higher than usual](http://9gag.com/gag/agm55n1)<!-- MEMES:END -->
 
 ---
 

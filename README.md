@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 💣 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
+ - 😝 [Proposal accepted](http://9gag.com/gag/aBygdxz)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 💣 [RC shenanigans](http://9gag.com/gag/aLn0nBV)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [What did he do?](http://9gag.com/gag/aYQ7V7m)<!-- MEMES:END -->
+ - 👉 [First shoulder pads at level 15. First helm at level 28. It was incredible.](http://9gag.com/gag/ayNoNwq)<!-- MEMES:END -->
 
 ---
 

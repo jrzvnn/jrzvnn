@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 💣 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
+ - 😝 [You must never hesitate](http://9gag.com/gag/aXPjjWD)
+ - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
+ - 💣 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
+ - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
 
 ---
 

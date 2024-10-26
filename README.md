@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
- - 💣 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)
+ - 😝 [He protec](http://9gag.com/gag/a875GMY)
+ - 😝 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)
+ - 💣 [Only DIN B125](http://9gag.com/gag/an75Qo5)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)<!-- MEMES:END -->
+ - 👉 [Where bowl?](http://9gag.com/gag/adB5P5D)<!-- MEMES:END -->
 
 ---
 

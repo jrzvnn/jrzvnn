@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You bloody benchod!](http://9gag.com/gag/aND0Y2v)
- - 😝 [His first and last job](http://9gag.com/gag/a0eR7en)
- - 💣 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 😝 [\ud83c\udf83 Halloween gems are hidden around the city for you to uncover! Join the haunting fun in Hong Kong this Spooktober!](http://9gag.com/gag/aLn0gEx)
- - 👉 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)<!-- MEMES:END -->
+ - 😝 [Best friend stuff](http://9gag.com/gag/a4PRE61)
+ - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
+ - 💣 [How to wrap gifts with no tape](http://9gag.com/gag/aBygnx2)
+ - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
+ - 👉 [He protec](http://9gag.com/gag/a875GMY)<!-- MEMES:END -->
 
 ---
 

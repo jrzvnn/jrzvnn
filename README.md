@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [2024 iPad mini teardown reveals minimal internal changes](https://appleinsider.com/articles/24/10/27/2024-ipad-mini-teardown-reveals-minimal-internal-changes?utm_medium=rss)
- - [Best Board Game Deals: Save Big While Stocking Up on Games for Kids and Adults](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
- - [Q&amp;A with Agility Robotics CEO Peggy Johnson on Agility&#39;s humanoid robot Digit, which was demoed on stage sorting laundry, automation&#39;s impact on jobs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p8#a241027p8)
- - [Kitchen Staple Turned Health Hack: How to Get the Health Benefits of Apple Cider Vinegar](https://www.cnet.com/health/nutrition/how-to-get-the-health-benefits-of-apple-cider-vinegar/#ftag=CAD590a51e)
- - [The Best Horror Movies to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)
+ - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)
+ - [How to Watch Illumination&#39;s &#39;Despicable Me 4&#39; at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-illuminations-despicable-me-4-at-home/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

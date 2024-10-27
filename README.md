@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
  - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 💣 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
  - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 👉 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)<!-- MEMES:END -->
+ - 💣 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)
+ - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
 
 ---
 

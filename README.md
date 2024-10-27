@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 😝 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)
- - 💣 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
+ - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
+ - 😝 [Best waifu \u2764\ufe0f](http://9gag.com/gag/aPAR3jR)
+ - 💣 [True love](http://9gag.com/gag/a9yRqPj)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
+ - 👉 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)<!-- MEMES:END -->
 
 ---
 

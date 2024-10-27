@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Commercial shots](http://9gag.com/gag/aByg63z)
- - 😝 [What peak of civilization looks like](http://9gag.com/gag/a5QRQNO)
- - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
- - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
+ - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 💣 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 👉 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)<!-- MEMES:END -->
 
 ---
 

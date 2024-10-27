@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)
+ - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)
  - [2024 iPad mini teardown reveals minimal internal changes](https://appleinsider.com/articles/24/10/27/2024-ipad-mini-teardown-reveals-minimal-internal-changes?utm_medium=rss)
  - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)
- - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)
- - [How to Watch Illumination&#39;s &#39;Despicable Me 4&#39; at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-illuminations-despicable-me-4-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

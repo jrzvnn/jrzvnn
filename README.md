@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
- - 😝 [This facial prosthesis](http://9gag.com/gag/amo5AOv)
- - 💣 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
+ - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
+ - 😝 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)
+ - 💣 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
- - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
+ - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
 
 ---
 

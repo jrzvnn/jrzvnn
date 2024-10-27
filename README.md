@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 💣 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
+ - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
  - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
 
 ---

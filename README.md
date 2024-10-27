@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
+ - 😝 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)
+ - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
  - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
- - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
+ - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
 
 ---
 

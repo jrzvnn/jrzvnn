@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 💣 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 👉 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)<!-- MEMES:END -->
+ - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
+ - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
+ - 💣 [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
 
 ---
 

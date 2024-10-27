@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
  - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
+ - 💣 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
 
 ---
 

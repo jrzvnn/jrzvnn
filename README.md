@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least they are not doing tiktok dances](http://9gag.com/gag/aoy53m3)
- - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 💣 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
+ - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
+ - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
+ - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 💣 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 😝 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)
- - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
+ - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 💣 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)
+ - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 👉 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)<!-- MEMES:END -->
 
 ---
 

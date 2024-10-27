@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Livestream Chelsea vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [Microsoft Envisions Every Screen as an Xbox. How’s That Going So Far?](https://www.wired.com/story/microsoft-envisions-every-screen-as-an-xbox-hows-that-going-so-far/)
- - [Q&amp;A with Arm CEO Rene Haas on AI transforming the world much faster than the internet, Arm&#39;s global operations and China&#39;s role, geopolitics, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241027/p2#a241027p2)
- - [Japan has too many startups that IPO too early amid a lack of late-stage funding, hurting unicorn ambitions; data: funding is set to fall ~33% from 2022 to 2024 &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/241027/p1#a241027p1)
- - [At a TSMC event, founder Morris Chang said the company will soon face its &quot;most severe&quot; challenges in driving growth as free trade of semiconductors falters &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p15#a241026p15)<!-- TECH:END -->
+ - [How militaries around the world are using warfare simulation video games like Slitherine Software&#39;s Command: Professional Edition to run battle scenarios &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p3#a241027p3)
+ - [KitchenAid Design Series Evergreen Review: Beautiful and Useful](https://www.wired.com/review/kitchenaid-design-series-evergreen-stand-mixer/)
+ - [The Secret Electrostatic World of Insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
+ - [The VR game I’ve been waiting for](https://www.theverge.com/2024/10/27/24279432/batman-arkham-shadow-vr-quest-boox-palma-2-installer)
+ - [Wilmot Works It Out is the best parts of jigsaw puzzles, but faster and cleaner](https://www.theverge.com/2024/10/27/24278619/wilmot-works-it-out-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

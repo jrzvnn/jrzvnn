@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans second iMac G4-like smart home device](https://appleinsider.com/articles/24/10/27/apple-plans-second-imac-g4-like-smart-home-device?utm_medium=rss)
  - [Entry-level iPad to be updated in early 2025](https://appleinsider.com/articles/24/10/27/entry-level-ipad-to-be-updated-in-early-2025?utm_medium=rss)
- - [19 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
- - [How militaries around the world are using warfare simulation video games like Slitherine Software&#39;s Command: Professional Edition to run battle scenarios &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p3#a241027p3)
- - [KitchenAid Design Series Evergreen Review: Beautiful and Useful](https://www.wired.com/review/kitchenaid-design-series-evergreen-stand-mixer/)<!-- TECH:END -->
+ - [M4 Mac mini and more expected for Apple&#39;s week of announcements](https://appleinsider.com/articles/24/10/27/m4-mac-mini-and-more-expected-for-apples-week-of-announcements?utm_medium=rss)
+ - [10 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)
+ - [This is the Mac Mini’s big moment](https://www.theverge.com/2024/10/27/24278827/apple-mac-mini-m4-redesign-preview)
+ - [Apple plans second iMac G4-like smart home device](https://appleinsider.com/articles/24/10/27/apple-plans-second-imac-g4-like-smart-home-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

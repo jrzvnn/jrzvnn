@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Livestream Chelsea vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-chelsea-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
  - [Microsoft Envisions Every Screen as an Xbox. How’s That Going So Far?](https://www.wired.com/story/microsoft-envisions-every-screen-as-an-xbox-hows-that-going-so-far/)
  - [Q&amp;A with Arm CEO Rene Haas on AI transforming the world much faster than the internet, Arm&#39;s global operations and China&#39;s role, geopolitics, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241027/p2#a241027p2)
  - [Japan has too many startups that IPO too early amid a lack of late-stage funding, hurting unicorn ambitions; data: funding is set to fall ~33% from 2022 to 2024 &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/241027/p1#a241027p1)
- - [At a TSMC event, founder Morris Chang said the company will soon face its &quot;most severe&quot; challenges in driving growth as free trade of semiconductors falters &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p15#a241026p15)
- - [Sources: TSMC halted shipments to Chinese chip designer Sophgo, which was co-founded by Bitmain&#39;s Micree Zhan, after TSMC chips were found on Huawei AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/241026/p14#a241026p14)<!-- TECH:END -->
+ - [At a TSMC event, founder Morris Chang said the company will soon face its &quot;most severe&quot; challenges in driving growth as free trade of semiconductors falters &lpar;Bloomberg&rpar;](http://www.techmeme.com/241026/p15#a241026p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

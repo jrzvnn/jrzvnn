@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online influencers are earning thousands for a single post on behalf of groups backing Harris or Trump, with scant regulatory oversight or public transparency &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241027/p6#a241027p6)
- - [FTX agrees to drop its litigation against Bybit in a deal worth about $228M that will allow FTX to withdraw assets from Bybit&#39;s cryptocurrency exchange &lpar;Alex Wolf/Bloomberg Law&rpar;](http://www.techmeme.com/241027/p5#a241027p5)
- - [Apple’s first smart home display could pay homage to a classic iMac](https://www.theverge.com/2024/10/27/24280830/apple-intelligence-smart-home-display-imac-g4-design)
- - [Premier League Soccer: Livestream Arsenal vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [Are You 50 or Older? These Are the Vaccines You Need This Season](https://www.cnet.com/health/medical/are-you-50-or-older-these-are-the-vaccines-you-need-this-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Precision Neuroscience executives about the uses of brain-computer interfaces, human trials, brain implants becoming consumer devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p7#a241027p7)
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
+ - [Saints vs. Chargers Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/saints-vs-chargers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/bills-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Protein Made Simple: A Visual Guide for Vegans, Omnivores and Meat-Eaters](https://www.cnet.com/health/nutrition/protein-made-simple-a-visual-guide-for-vegans-omnivores-and-meat-eaters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

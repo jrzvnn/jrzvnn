@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best waifu \u2764\ufe0f](http://9gag.com/gag/aPAR3jR)
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
- - 💣 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
+ - 😝 [So this shows up while I&#39;m pooping and getting ready for work](http://9gag.com/gag/aoy5MK2)
+ - 😝 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 💣 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 😝 [Life&#39;s a mess. But hey, let&#39;s start by ditching those chaotic cables first.](http://9gag.com/gag/abArVQv)
  - 👉 [Think she should wear ear plugs when her mom and dad clapping..](http://9gag.com/gag/amo5Pey)<!-- MEMES:END -->
 

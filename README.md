@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pinkman is clueless](http://9gag.com/gag/abArVnL)
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
- - 💣 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 👉 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)<!-- MEMES:END -->
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 💣 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
+ - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
+ - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
 
 ---
 

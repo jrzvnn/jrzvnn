@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
- - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
- - 💣 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
 
 ---
 

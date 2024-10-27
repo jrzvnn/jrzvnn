@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Online influencers are earning thousands for a single post on behalf of groups backing Harris or Trump, with scant regulatory oversight or public transparency &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241027/p6#a241027p6)
  - [FTX agrees to drop its litigation against Bybit in a deal worth about $228M that will allow FTX to withdraw assets from Bybit&#39;s cryptocurrency exchange &lpar;Alex Wolf/Bloomberg Law&rpar;](http://www.techmeme.com/241027/p5#a241027p5)
  - [Apple’s first smart home display could pay homage to a classic iMac](https://www.theverge.com/2024/10/27/24280830/apple-intelligence-smart-home-display-imac-g4-design)
- - [A closer look at M4 Macs coming this week; sources: Apple&#39;s home smart display will have an iMac G3-like base and a square screen the size of about two iPhones &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241027/p4#a241027p4)
- - [How to use the new Private Space feature in Android 15](https://www.theverge.com/24279464/private-space-android-15-pixel-how-to)
- - [Crime blotter: NFL player robbed, SEC hacked, and iPhone thieves being arrested around the US](https://appleinsider.com/articles/24/10/27/crime-blotter-nfl-player-robbed-sec-hacked-and-iphone-thieves-being-arrested-around-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Arsenal vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
+ - [Are You 50 or Older? These Are the Vaccines You Need This Season](https://www.cnet.com/health/medical/are-you-50-or-older-these-are-the-vaccines-you-need-this-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Former employee thanks Apple for help evacuating family from Ukraine](https://appleinsider.com/articles/24/10/27/former-employee-thanks-apple-for-help-evacuating-family-from-ukraine?utm_medium=rss)
+ - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
  - [Q&amp;A with Precision Neuroscience executives about the uses of brain-computer interfaces, human trials, brain implants becoming consumer devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p7#a241027p7)
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Saints vs. Chargers Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/saints-vs-chargers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/bills-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Packers vs. Jaguars Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/packers-vs-jaguars-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Panthers vs. Broncos: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-broncos-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

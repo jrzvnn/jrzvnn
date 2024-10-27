@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
- - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 💣 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)
- - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
- - 👉 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)<!-- MEMES:END -->
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
+ - 💣 [This is just amazing.](http://9gag.com/gag/aZZ71v9)
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 👉 [Halloween is coming](http://9gag.com/gag/aYQ7QLN)<!-- MEMES:END -->
 
 ---
 

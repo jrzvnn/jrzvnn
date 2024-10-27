@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But But Modern Audience And Diversity](http://9gag.com/gag/aPARg1q)
- - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 💣 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
- - 😝 [It\u2019s not rocket science! isn&#39;t](http://9gag.com/gag/apR51BE)
- - 👉 [\ud83e\udd26\ud83c\udffb\u2642\ufe0f](http://9gag.com/gag/aND0Ln0)<!-- MEMES:END -->
+ - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 😝 [Think she should wear ear plugs when her mom and dad clapping..](http://9gag.com/gag/amo5Pey)
+ - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 😝 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
+ - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
 
 ---
 

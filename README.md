@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
- - 💣 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)<!-- MEMES:END -->
+ - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 💣 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)
+ - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
+ - 👉 [He&#39;s alliteratively a cartoon character](http://9gag.com/gag/aBygnOx)<!-- MEMES:END -->
 
 ---
 

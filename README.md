@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
- - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
- - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
+ - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 

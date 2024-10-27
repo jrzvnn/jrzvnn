@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
- - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
+ - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
+ - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 💣 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 👉 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)<!-- MEMES:END -->
 
 ---
 

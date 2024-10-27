@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ditch Your Password: Set Up a Passkey for Your Google Account](https://www.cnet.com/tech/services-and-software/ditch-your-password-set-up-a-passkey-for-your-google-account/#ftag=CAD590a51e)
+ - [Try This Trick to Lose Weight and Gain Lean Muscle at the Same Time](https://www.cnet.com/health/fitness/try-this-trick-to-lose-fat-and-gain-muscle-at-the-same/#ftag=CAD590a51e)
  - [Instagram saves the best video quality for the most popular content](https://www.theverge.com/2024/10/27/24280968/instagram-video-quality-lower-for-less-popular-videos)
  - [The Best Horror Movies to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)
- - [Casper Mattresses: An Overview of Casper&#39;s Catalog](https://www.cnet.com/health/sleep/casper-mattresses-an-overview-of-caspers-catalog/#ftag=CAD590a51e)
- - [Former employee thanks Apple for help evacuating family from Ukraine](https://appleinsider.com/articles/24/10/27/former-employee-thanks-apple-for-help-evacuating-family-from-ukraine?utm_medium=rss)
- - [Early Pregnancy Symptoms: How to Tell Before a Missed Period](https://www.cnet.com/health/parenting/early-pregnancy-symptoms-how-to-tell-before-a-missed-period/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Casper Mattresses: An Overview of Casper&#39;s Catalog](https://www.cnet.com/health/sleep/casper-mattresses-an-overview-of-caspers-catalog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

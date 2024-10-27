@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
- - 😝 [\ud83e\udd26\ud83c\udffb\u2642\ufe0f](http://9gag.com/gag/aND0Ln0)
- - 💣 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
- - 😝 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
- - 👉 [Me and the boys right after we land on mars](http://9gag.com/gag/aND09Kv)<!-- MEMES:END -->
+ - 😝 [Pinkman is clueless](http://9gag.com/gag/abArVnL)
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 💣 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 👉 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)<!-- MEMES:END -->
 
 ---
 

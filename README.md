@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-27/#ftag=CAD590a51e)
  - [China, the leading producer of rare minerals, has made it harder in recent weeks for foreign companies, particularly chip makers, to buy such materials in China &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/241026/p13#a241026p13)
  - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-october-2024/#ftag=CAD590a51e)
  - [Google is reportedly developing a ‘computer-using agent’ AI system](https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent)
- - [Lyft fined $2.1 million for misleading ads about how much drivers could make](https://www.theverge.com/2024/10/26/24280303/lyft-fine-misleading-earnings-claims-ads-ftc-doj)
- - [A look at Factorio, a strategy video game that is a cult hit among tech workers with ~4M copies sold over eight years, as it releases its first expansion pack &lpar;Financial Times&rpar;](http://www.techmeme.com/241026/p12#a241026p12)<!-- TECH:END -->
+ - [Lyft fined $2.1 million for misleading ads about how much drivers could make](https://www.theverge.com/2024/10/26/24280303/lyft-fine-misleading-earnings-claims-ads-ftc-doj)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

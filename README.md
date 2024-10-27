@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proposal accepted](http://9gag.com/gag/aBygdxz)
  - 😝 [We see what the brain expects to see.](http://9gag.com/gag/a2vRv0Y)
+ - 😝 [Proposal accepted](http://9gag.com/gag/aBygdxz)
  - 💣 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 😝 [It\u2019s not rocket science! isn&#39;t](http://9gag.com/gag/apR51BE)
- - 👉 [But But Modern Audience And Diversity](http://9gag.com/gag/aPARg1q)<!-- MEMES:END -->
+ - 😝 [But But Modern Audience And Diversity](http://9gag.com/gag/aPARg1q)
+ - 👉 [It\u2019s not rocket science! isn&#39;t](http://9gag.com/gag/apR51BE)<!-- MEMES:END -->
 
 ---
 

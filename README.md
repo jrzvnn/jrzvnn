@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use the new Private Space feature in Android 15](https://www.theverge.com/24279464/private-space-android-15-pixel-how-to)
+ - [Crime blotter: NFL player robbed, SEC hacked, and iPhone thieves being arrested around the US](https://appleinsider.com/articles/24/10/27/crime-blotter-nfl-player-robbed-sec-hacked-and-iphone-thieves-being-arrested-around-the-us?utm_medium=rss)
  - [Entry-level iPad to be updated in early 2025](https://appleinsider.com/articles/24/10/27/entry-level-ipad-to-be-updated-in-early-2025?utm_medium=rss)
  - [M4 Mac mini and more expected for Apple&#39;s week of announcements](https://appleinsider.com/articles/24/10/27/m4-mac-mini-and-more-expected-for-apples-week-of-announcements?utm_medium=rss)
- - [10 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)
- - [This is the Mac Mini’s big moment](https://www.theverge.com/2024/10/27/24278827/apple-mac-mini-m4-redesign-preview)
- - [Apple plans second iMac G4-like smart home device](https://appleinsider.com/articles/24/10/27/apple-plans-second-imac-g4-like-smart-home-device?utm_medium=rss)<!-- TECH:END -->
+ - [10 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

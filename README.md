@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
- - 😝 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)
- - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 👉 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)<!-- MEMES:END -->
+ - 😝 [But But Modern Audience And Diversity](http://9gag.com/gag/aPARg1q)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 💣 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
+ - 😝 [It\u2019s not rocket science! isn&#39;t](http://9gag.com/gag/apR51BE)
+ - 👉 [\ud83e\udd26\ud83c\udffb\u2642\ufe0f](http://9gag.com/gag/aND0Ln0)<!-- MEMES:END -->
 
 ---
 

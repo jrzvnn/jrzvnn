@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
- - 😝 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
- - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [What peak of civilization looks like](http://9gag.com/gag/a5QRQNO)
- - 👉 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)<!-- MEMES:END -->
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
+ - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
+ - 👉 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)<!-- MEMES:END -->
 
 ---
 

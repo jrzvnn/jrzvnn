@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former employee thanks Apple for help evacuating family from Ukraine](https://appleinsider.com/articles/24/10/27/former-employee-thanks-apple-for-help-evacuating-family-from-ukraine?utm_medium=rss)
  - [Q&amp;A with Precision Neuroscience executives about the uses of brain-computer interfaces, human trials, brain implants becoming consumer devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p7#a241027p7)
  - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
  - [Saints vs. Chargers Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/saints-vs-chargers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/bills-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Protein Made Simple: A Visual Guide for Vegans, Omnivores and Meat-Eaters](https://www.cnet.com/health/nutrition/protein-made-simple-a-visual-guide-for-vegans-omnivores-and-meat-eaters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/bills-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

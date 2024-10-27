@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC halted shipments to Chinese chip designer Sophgo, which was co-founded by Bitmain&#39;s Micree Zhan, after TSMC chips were found on Huawei AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/241026/p14#a241026p14)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 27, #504](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-27-504/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-27/#ftag=CAD590a51e)
  - [China, the leading producer of rare minerals, has made it harder in recent weeks for foreign companies, particularly chip makers, to buy such materials in China &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/241026/p13#a241026p13)
- - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-october-2024/#ftag=CAD590a51e)
- - [Google is reportedly developing a ‘computer-using agent’ AI system](https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent)
- - [Lyft fined $2.1 million for misleading ads about how much drivers could make](https://www.theverge.com/2024/10/26/24280303/lyft-fine-misleading-earnings-claims-ads-ftc-doj)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 💣 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
+ - 😝 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
  - 😝 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
- - 👉 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)<!-- MEMES:END -->
+ - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 👉 [What peak of civilization looks like](http://9gag.com/gag/a5QRQNO)<!-- MEMES:END -->
 
 ---
 

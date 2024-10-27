@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Instagram saves the best video quality for the most popular content](https://www.theverge.com/2024/10/27/24280968/instagram-video-quality-lower-for-less-popular-videos)
+ - [The Best Horror Movies to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)
+ - [Casper Mattresses: An Overview of Casper&#39;s Catalog](https://www.cnet.com/health/sleep/casper-mattresses-an-overview-of-caspers-catalog/#ftag=CAD590a51e)
  - [Former employee thanks Apple for help evacuating family from Ukraine](https://appleinsider.com/articles/24/10/27/former-employee-thanks-apple-for-help-evacuating-family-from-ukraine?utm_medium=rss)
- - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
- - [Q&amp;A with Precision Neuroscience executives about the uses of brain-computer interfaces, human trials, brain implants becoming consumer devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p7#a241027p7)
- - [Packers vs. Jaguars Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/packers-vs-jaguars-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Pregnancy Symptoms: How to Tell Before a Missed Period](https://www.cnet.com/health/parenting/early-pregnancy-symptoms-how-to-tell-before-a-missed-period/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

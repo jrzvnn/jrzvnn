@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Board Game Deals: Save Big While Stocking Up on Games for Kids and Adults](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
  - [Q&amp;A with Agility Robotics CEO Peggy Johnson on Agility&#39;s humanoid robot Digit, which was demoed on stage sorting laundry, automation&#39;s impact on jobs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p8#a241027p8)
- - [Ditch Your Password: Set Up a Passkey for Your Google Account](https://www.cnet.com/tech/services-and-software/ditch-your-password-set-up-a-passkey-for-your-google-account/#ftag=CAD590a51e)
- - [Try This Trick to Lose Weight and Gain Lean Muscle at the Same Time](https://www.cnet.com/health/fitness/try-this-trick-to-lose-fat-and-gain-muscle-at-the-same/#ftag=CAD590a51e)
- - [Instagram saves the best video quality for the most popular content](https://www.theverge.com/2024/10/27/24280968/instagram-video-quality-lower-for-less-popular-videos)
- - [The Best Horror Movies to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kitchen Staple Turned Health Hack: How to Get the Health Benefits of Apple Cider Vinegar](https://www.cnet.com/health/nutrition/how-to-get-the-health-benefits-of-apple-cider-vinegar/#ftag=CAD590a51e)
+ - [The Best Horror Movies to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)
+ - [Best iPhone Deals: Score Up to $1,000 Off on the iPhone 16 and Save on Previous-Gen Models](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

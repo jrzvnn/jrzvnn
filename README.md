@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
- - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [Pinkman is clueless](http://9gag.com/gag/abArVnL)
+ - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
+ - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
 
 ---
 

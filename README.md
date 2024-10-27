@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
- - 💣 [True love](http://9gag.com/gag/a9yRqPj)
- - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
+ - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
+ - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
+ - 💣 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
+ - 😝 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 😝 [Think she should wear ear plugs when her mom and dad clapping..](http://9gag.com/gag/amo5Pey)
- - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
- - 😝 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
- - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 😝 [Eyes can be easily deceived &lpar;look twice&rpar;.](http://9gag.com/gag/aVv0b1P)
+ - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
 
 ---
 

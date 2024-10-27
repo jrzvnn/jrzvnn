@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 😝 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
- - 💣 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
+ - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
+ - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 👉 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)<!-- MEMES:END -->
 
 ---
 

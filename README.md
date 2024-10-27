@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
- - 💣 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)
+ - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
+ - 👉 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)<!-- MEMES:END -->
 
 ---
 

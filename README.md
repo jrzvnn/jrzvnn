@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
- - 💣 [This is just amazing.](http://9gag.com/gag/aZZ71v9)
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 👉 [Halloween is coming](http://9gag.com/gag/aYQ7QLN)<!-- MEMES:END -->
+ - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
+ - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
 
 ---
 

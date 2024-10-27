@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
- - 😝 [Umbrella Illusion](http://9gag.com/gag/aND0p20)
- - 💣 [His first and last job](http://9gag.com/gag/a0eR7en)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
+ - 😝 [Proposal accepted](http://9gag.com/gag/aBygdxz)
+ - 😝 [We see what the brain expects to see.](http://9gag.com/gag/a2vRv0Y)
+ - 💣 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 😝 [It\u2019s not rocket science! isn&#39;t](http://9gag.com/gag/apR51BE)
+ - 👉 [But But Modern Audience And Diversity](http://9gag.com/gag/aPARg1q)<!-- MEMES:END -->
 
 ---
 

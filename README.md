@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proposal accepted](http://9gag.com/gag/aBygdxz)
- - 😝 [But But Modern Audience And Diversity](http://9gag.com/gag/aPARg1q)
- - 💣 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 😝 [It\u2019s not rocket science! isn&#39;t](http://9gag.com/gag/apR51BE)
- - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
+ - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 😝 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)
+ - 💣 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 😝 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
+ - 👉 [True love](http://9gag.com/gag/a9yRqPj)<!-- MEMES:END -->
 
 ---
 

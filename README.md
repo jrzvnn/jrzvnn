@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 😝 [At least they are not doing tiktok dances](http://9gag.com/gag/aoy53m3)
- - 💣 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
+ - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
+ - 👉 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)<!-- MEMES:END -->
 
 ---
 

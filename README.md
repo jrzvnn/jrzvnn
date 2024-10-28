@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Loops, a fediverse TikTok competitor, begins accepting signups, plans to become open-source and integrate with ActivityPub, and seeks user donations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241028/p12#a241028p12)
+ - [Read AI, which uses AI to summarize meetings, emails, and more, raised a $50M Series B and launches a free Chrome extension, after a $21M Series A in April 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241028/p11#a241028p11)
+ - [AI Is Decoding Oinks to See if the Pigs Are Alright](https://www.cnet.com/tech/computing/ai-is-decoding-oinks-to-see-if-the-pigs-are-all-right/#ftag=CAD590a51e)
  - [16 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)
- - [The pragmatist’s guide to the 2024 presidential election](https://www.theverge.com/24279103/2024-election-guide-trump-harris-policy-issues)
- - [A UK judge sentences a 27-year-old man who used AI tool Daz 3D to create child sexual abuse imagery to 18 years in prison, a landmark prosecution over deepfakes &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p10#a241028p10)
- - [A profile of Italian private equity firm Bending Spoons, which has acquired distressed SaaS businesses like WeTransfer and Evernote, and plans to spend billions &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241028/p9#a241028p9)
- - [Lull Original Premium Mattress Review 2024: An Upgraded Foam Bed Tested by Experts](https://www.cnet.com/health/sleep/lull-original-premium-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hack and Slash Your Way Through Netflix&#39;s Best Fantasy TV Shows](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
- - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
- - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 😝 [Say hello to Gary!](http://9gag.com/gag/aZZ78mp)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 😝 [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - 😝 [This is just amazing.](http://9gag.com/gag/aZZ71v9)
+ - 💣 [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 😝 [Happy Halloween!](http://9gag.com/gag/aW4Ev0K)
+ - 👉 [Unclogging the right way](http://9gag.com/gag/a5QRw3L)<!-- MEMES:END -->
 
 ---
 

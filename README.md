@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
- - 💣 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - 😝 [You done diddly done it now.](http://9gag.com/gag/aBygy7z)
+ - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
+ - 😝 [Manga authors are getting bolder every year](http://9gag.com/gag/aBygZ2N)
+ - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
  - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
 
 ---

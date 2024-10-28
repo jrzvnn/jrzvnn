@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Main character syndrome](http://9gag.com/gag/aAygK0L)
- - 😝 [This is just amazing.](http://9gag.com/gag/aZZ71v9)
- - 💣 [Apple Pay](http://9gag.com/gag/aoy53x3)
- - 😝 [Happy Halloween!](http://9gag.com/gag/aW4Ev0K)
- - 👉 [Unclogging the right way](http://9gag.com/gag/a5QRw3L)<!-- MEMES:END -->
+ - 😝 [Raughs](http://9gag.com/gag/adB5Q5N)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 💣 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
+ - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
+ - 👉 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Italian private equity firm Bending Spoons, which bought WeTransfer, Evernote, and other distressed subscription apps, and plans to spend billions &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241028/p9#a241028p9)
- - [A profile of ex-eBay and HP CEO Meg Whitman, who became US ambassador to Kenya in late 2021, as the US seeks to counterbalance Chinese tech influence in Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p8#a241028p8)
- - [iPhone 16 demand remains in line with the iPhone 15](https://appleinsider.com/articles/24/10/28/iphone-16-demand-remains-in-line-with-the-iphone-15?utm_medium=rss)
- - [How Jeff Bezos, who bought The Washington Post in 2013 and a DC mansion in 2016, never made a splash in the capital, visiting only on occasion for glitzy events &lpar;New York Times&rpar;](http://www.techmeme.com/241028/p7#a241028p7)
- - [Trade data analysis: Mumbai-based Shreya Life Sciences exported 1,111 Dell PowerEdge XE9680 servers with AI chips, worth $300M+, to Russia from April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)<!-- TECH:END -->
+ - [Lull Original Premium Mattress Review 2024: An Upgraded Foam Bed Tested by Experts](https://www.cnet.com/health/sleep/lull-original-premium-mattress-review/#ftag=CAD590a51e)
+ - [These 8 Streaming Devices Make Perfect Holiday Gifts in 2024](https://www.cnet.com/tech/home-entertainment/top-streaming-devices-to-give-for-the-holidays/#ftag=CAD590a51e)
+ - [This Major Blunder Shows Why You Can’t Trust ChatGPT With Home Security Questions](https://www.cnet.com/home/security/this-major-blunder-shows-why-you-cant-trust-chatgpt-with-home-security-questions/#ftag=CAD590a51e)
+ - [A profile of ex-eBay and HP CEO Meg Whitman, who became US ambassador to Kenya in late 2021, as the US seeks to counterbalance Chinese tech influence in Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p8#a241028p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

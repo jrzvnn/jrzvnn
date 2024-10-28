@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates the Magic Keyboard, Magic Mouse, and Magic Trackpad with USB-C; all three have featured the proprietary Lightning port since 2015 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241028/p28#a241028p28)
  - [Canada&#39;s media regulator grants Google a five-year exemption from the Online News Act, orders it to pay $100M to Canadian Journalism Collective within 60 days &lpar;CTV News&rpar;](http://www.techmeme.com/241028/p27#a241028p27)
+ - [Instagram Is Reducing the Quality of Some Videos in Your Feed. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/instagram-is-reducing-the-quality-of-some-videos-in-your-feed-heres-why/#ftag=CAD590a51e)
  - [Microsoft says Google runs &quot;shadow campaigns&quot; to discredit it with regulators in Europe, including organizing an &quot;astroturf group&quot; with European cloud providers &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241028/p26#a241028p26)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [How GOP figures from Stephen Miller to Elon Musk use lawsuits to silence groups studying disinformation, like the DFRLab, CCDH, GDI, Graphika, NewsGuard, others &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241028/p25#a241028p25)
- - [Best Early Black Friday Deals: Save Big on Everything From Laptops to Air Fryers](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want Affordable Care Act Health Insurance? You Need a Plan for Open Enrollment](https://www.cnet.com/how-to/want-affordable-care-act-health-insurance-you-need-a-plan-for-open-enrollment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

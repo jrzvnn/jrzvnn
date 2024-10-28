@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cNo one ever told me how lonely it is to be a man\u201d](http://9gag.com/gag/a8757md)
- - 😝 [Meanwhile, in the USA.](http://9gag.com/gag/aoy5VXx)
- - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
- - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
+ - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 😝 [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - 💣 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [Land of opportunity](http://9gag.com/gag/aD2g8A9)
+ - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
 
 ---
 

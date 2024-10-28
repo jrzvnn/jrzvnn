@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple Vision Pro a &#39;first year flop&#39; or tomorrow, today?](https://appleinsider.com/articles/24/10/28/is-apple-vision-pro-a-first-year-flop-or-tomorrow-today?utm_medium=rss)
- - [Don&#39;t Plug These 7 Devices Into an Extension Cord. An Expert Explains Why](https://www.cnet.com/how-to/dont-plug-these-7-devices-into-an-extension-cord-an-expert-explains-why/#ftag=CAD590a51e)
- - [Armis, which provides risk management tools, raised $200M led by General Catalyst and Alkeon at a $4.2B valuation ahead of a 2026 IPO, and passed $200M in ARR &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241028/p16#a241028p16)
- - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Netflix adds a Moments feature on iOS, letting users save, rewatch, and share scenes across Instagram, Snapchat, and others, and plans an Android launch soon &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241028/p15#a241028p15)<!-- TECH:END -->
+ - [New 24-inch iMac adds M4 chip, nano-texture glass option](https://appleinsider.com/articles/24/10/28/new-24-inch-imac-adds-m4-chip-nano-texture-glass-option?utm_medium=rss)
+ - [Apple updates the iMac with new colors and an M4 chip](https://www.theverge.com/2024/10/28/24273124/apple-imac-m4-chip-announced-price-release-date)
+ - [Animal Crossing mobile is getting its new, paid app in December](https://www.theverge.com/2024/10/28/24281659/animal-crossing-pocket-camp-complete-mobile-launch-date-introductory-price)
+ - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+ - [Apple Intelligence Isn&#39;t Ready to Wow You—Yet](https://www.wired.com/story/apple-intelligence-isnt-ready-to-wow-you-yet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

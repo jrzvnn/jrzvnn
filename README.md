@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada&#39;s media regulator grants Google a five-year exemption from the Online News Act, orders it to pay $100M to Canadian Journalism Collective within 60 days &lpar;CTV News&rpar;](http://www.techmeme.com/241028/p27#a241028p27)
+ - [Microsoft says Google runs &quot;shadow campaigns&quot; to discredit it with regulators in Europe, including organizing an &quot;astroturf group&quot; with European cloud providers &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241028/p26#a241028p26)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [How GOP figures from Stephen Miller to Elon Musk use lawsuits to silence many groups studying disinfo, like the Stanford Observatory, CCDH, Graphika, NewsGuard &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241028/p25#a241028p25)
- - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)
- - [Robinhood admits it’s just a gambling app](https://www.theverge.com/2024/10/28/24281883/robinhood-presidential-betting)
- - [Sierra, an AI startup co-founded by OpenAI board chairman and ex-Salesforce co-CEO Bret Taylor, raised $175M, valuing it at $4.5B, up from ~$1B in February 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/241028/p24#a241028p24)<!-- TECH:END -->
+ - [How GOP figures from Stephen Miller to Elon Musk use lawsuits to silence groups studying disinformation, like the DFRLab, CCDH, GDI, Graphika, NewsGuard, others &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241028/p25#a241028p25)
+ - [Best Early Black Friday Deals: Save Big on Everything From Laptops to Air Fryers](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

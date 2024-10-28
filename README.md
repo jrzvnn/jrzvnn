@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 💣 [Clown wingman](http://9gag.com/gag/amo5WgX)
- - 😝 [Main character syndrome](http://9gag.com/gag/aAygK0L)
- - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
+ - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 😝 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
 
 ---
 

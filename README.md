@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Paris-based Filigran, whose open-source threat intelligence platform OpenCTI is used by the EU, the FBI, and others, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)
  - [Banks and regulators warn of a rise in QR code phishing scams, which experts say are commonly deployed in emails to get through corporate cyber security filters &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241028/p1#a241028p1)
- - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 28, #35](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-28-35/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 28, #1227](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-28-1227/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-28/#ftag=CAD590a51e)
+ - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
+ - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 💣 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
+ - 😝 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
+ - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 💣 [Respect](http://9gag.com/gag/a4PRzQZ)
+ - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 👉 [Land of opportunity](http://9gag.com/gag/aD2g8A9)<!-- MEMES:END -->
 
 ---
 

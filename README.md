@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raughs](http://9gag.com/gag/adB5Q5N)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 💣 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
- - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - 👉 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)<!-- MEMES:END -->
+ - 😝 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
+ - 😝 [Good old pointy stick. Always the strongest.](http://9gag.com/gag/aLn0e4z)
+ - 💣 [Clown wingman](http://9gag.com/gag/amo5WgX)
+ - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 👉 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)<!-- MEMES:END -->
 
 ---
 

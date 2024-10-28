@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 💣 [Apple Pay](http://9gag.com/gag/aoy53x3)
  - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)<!-- MEMES:END -->
+ - 😝 [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
+ - 💣 [Good thing he came back](http://9gag.com/gag/an75n5L)
+ - 😝 [Clown wingman](http://9gag.com/gag/amo5WgX)
+ - 👉 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)<!-- MEMES:END -->
 
 ---
 

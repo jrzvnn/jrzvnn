@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)
  - [Robinhood admits it’s just a gambling app](https://www.theverge.com/2024/10/28/24281883/robinhood-presidential-betting)
  - [Sierra, an AI startup co-founded by OpenAI board chairman and former Salesforce co-CEO Bret Taylor, raised $175M, valuing it at $4.5B, up from ~$1B previously &lpar;Reuters&rpar;](http://www.techmeme.com/241028/p24#a241028p24)
- - [Google says its AI Overview summaries will begin rolling out in over 100 countries this week and will reach more than 1B monthly users with this expansion &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241028/p23#a241028p23)
- - [Scout Motors’ plan to ditch dealers is exactly what customers want](https://www.theverge.com/2024/10/28/24281884/scout-ev-dealer-sale-direct-to-sales-lawsuit)<!-- TECH:END -->
+ - [How Much Money Could You Save With a Space Heater This Winter? We Found Out](https://www.cnet.com/home/kitchen-and-household/how-much-money-could-you-save-with-a-space-heater-this-winter-we-found-out/#ftag=CAD590a51e)
+ - [Best Laptop Deals: Save on Tech From Top Brands, Such as Apple, HP, Acer and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

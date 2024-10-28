@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 💣 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [1488](http://9gag.com/gag/ae954Zm)
+ - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
  - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
+ - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gmail will now help you write an email on the web with AI](https://www.theverge.com/2024/10/28/24282103/gmail-help-me-write-email-web-ai-gemini)
  - [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement)
  - [Fortnite is streamlining its many battle passes](https://www.theverge.com/2024/10/28/24282075/fortnite-streamlining-battle-passes-music-lego-festival)
  - [Meta is reportedly working on its own AI-powered search engine, too](https://www.theverge.com/2024/10/28/24282017/meta-ai-powered-search-engine-report)
- - [Open-source AI must reveal its training data, per new OSI definition](https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama)
- - [Universal Music partners with AI company building an ‘ethical’ music generator](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)<!-- TECH:END -->
+ - [Open-source AI must reveal its training data, per new OSI definition](https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

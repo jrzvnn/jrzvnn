@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown wingman](http://9gag.com/gag/amo5WgX)
- - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 💣 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)
- - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 😝 [Anyone?](http://9gag.com/gag/aND0Qb6)
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 💣 [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - 😝 [Unclogging the right way](http://9gag.com/gag/a5QRw3L)
  - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
 
 ---

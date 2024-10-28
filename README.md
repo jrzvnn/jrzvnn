@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
- - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
- - 💣 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
+ - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
+ - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
+ - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 👉 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)<!-- MEMES:END -->
 
 ---
 

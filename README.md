@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
  - 😝 [Good old pointy stick. Always the strongest.](http://9gag.com/gag/aLn0e4z)
- - 💣 [Clown wingman](http://9gag.com/gag/amo5WgX)
- - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 👉 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)<!-- MEMES:END -->
+ - 😝 [Clown wingman](http://9gag.com/gag/amo5WgX)
+ - 💣 [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - 😝 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 

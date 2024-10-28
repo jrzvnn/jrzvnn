@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
  - [Philadelphia DA sues Elon Musk to stop $1 million election lottery](https://www.theverge.com/2024/10/28/24281752/elon-musk-pennsylvania-election-2024-lottery-lawsuit)
  - [Beats Solo 4 and Studio Pro headphones are an impressive 50 percent off](https://www.theverge.com/2024/10/28/24281656/beats-solo-4-studio-pro-lenovo-legion-go-deal-sale)
- - [Apple posts new M4 iMac announcement video, confirms more products coming](https://appleinsider.com/articles/24/10/28/apple-posts-new-m4-imac-announcement-video-confirms-more-products-coming?utm_medium=rss)
- - [Apple quietly released a video announcement for its new iMacs](https://www.theverge.com/2024/10/28/24281798/apple-imac-m4-2024-announcement-video-keynote)<!-- TECH:END -->
+ - [Back Up Your iPhone the Smart Way Before You Install iOS 18.1](https://www.cnet.com/tech/mobile/before-you-install-ios-18-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)
+ - [Apple posts new M4 iMac announcement video, confirms more products coming](https://appleinsider.com/articles/24/10/28/apple-posts-new-m4-imac-announcement-video-confirms-more-products-coming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

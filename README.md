@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 😝 [Clown wingman](http://9gag.com/gag/amo5WgX)
+ - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
  - 💣 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)
- - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
+ - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
 
 ---
 

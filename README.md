@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
- - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 😝 [\u201cNo one ever told me how lonely it is to be a man\u201d](http://9gag.com/gag/a8757md)
+ - 😝 [Meanwhile, in the USA.](http://9gag.com/gag/aoy5VXx)
+ - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
+ - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
  - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
 
 ---

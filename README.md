@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [How GOP figures from Stephen Miller to Elon Musk use lawsuits to silence many groups studying disinfo, like the Stanford Observatory, CCDH, Graphika, NewsGuard &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241028/p25#a241028p25)
- - [Best Early Black Friday Deals: Save Big on Everything From Laptops to Air Fryers](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [It Might Already Be Too Late to Register to Vote: Where Your State Stands](https://www.cnet.com/news/politics/it-might-already-be-too-late-to-register-to-vote-where-your-state-stands/#ftag=CAD590a51e)
- - [Best Internet Providers in Wake Forest, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wake-forest-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)
+ - [Robinhood admits it’s just a gambling app](https://www.theverge.com/2024/10/28/24281883/robinhood-presidential-betting)
+ - [Sierra, an AI startup co-founded by OpenAI board chairman and ex-Salesforce co-CEO Bret Taylor, raised $175M, valuing it at $4.5B, up from ~$1B in February 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/241028/p24#a241028p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

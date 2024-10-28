@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta is working on a search engine that provides conversational answers about current events for Meta AI users, to reduce its reliance on Google &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/241028/p19#a241028p19)
- - [Google might stick a Tensor chip in the Pixel Watch 5](https://www.theverge.com/2024/10/28/24281712/google-pixel-watch-5-tensor-chips-smartwatches-wearables)
- - [Apple&#39;s 2024 iPad Air 6 is down to the lowest price ever on Amazon](https://appleinsider.com/articles/24/10/28/apples-2024-ipad-air-6-is-down-to-the-lowest-price-ever-on-amazon?utm_medium=rss)
- - [Apple pushes watchOS 11.1 update to public, primarily focusing on bug fixes](https://appleinsider.com/articles/24/10/28/apple-pushes-watchos-111-update-to-public-primarily-focusing-on-bug-fixes?utm_medium=rss)
- - [New 24-inch iMac adds M4 chip, nano-texture glass option](https://appleinsider.com/articles/24/10/28/new-24-inch-imac-adds-m4-chip-nano-texture-glass-option?utm_medium=rss)<!-- TECH:END -->
+ - [macOS 15.1 Sequoia review: Apple Intelligence is on the Mac but you have to look for it](https://appleinsider.com/articles/24/10/28/macos-151-sequoia-review-apple-intelligence-is-on-the-mac-but-you-have-to-look-for-it?utm_medium=rss)
+ - [Apple updates &#39;Magic&#39; accessories to USB-C, included with M4 iMac](https://appleinsider.com/articles/24/10/28/apple-updates-magic-accessories-to-usb-c-included-with-m4-imac?utm_medium=rss)
+ - [iOS 18.1 with the first wave of Apple Intelligence features is out now](https://appleinsider.com/articles/24/10/28/ios-181-with-the-first-wave-of-apple-intelligence-features-is-out-now?utm_medium=rss)
+ - [Apple Intelligence in iOS 18.1 hands-on: a mixed bag with nice Photos updates, useful Type to Siri, a fancy Siri animation, but some features don&#39;t work well &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241028/p20#a241028p20)
+ - [Apple put the Magic Mouse’s charging port on the bottom again](https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

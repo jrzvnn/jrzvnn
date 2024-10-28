@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The things you may have missed from Monday&#39;s M4 iMac announcement](https://appleinsider.com/articles/24/10/28/the-things-you-may-have-missed-from-mondays-m4-imac-announcement?utm_medium=rss)
  - [Interviews with current and former staffers detail Evan Spiegel&#39;s efforts to revive Snap, his divisive AR bet, high senior staff turnover, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241028/p32#a241028p32)
  - [UMG partners with AI music company Klay Vision to create an &quot;ethical&quot; AI model for AI-generated music; Klay plans to launch out of stealth in the coming months &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/241028/p31#a241028p31)
- - [JPMorgan Chase Suing Customers Who Stole Money Using the Viral TikTok ATM &#39;Hack&#39;](https://www.cnet.com/personal-finance/banking/jpmorgan-chase-suing-customers-who-stole-money-using-the-viral-tiktok-atm-hack/#ftag=CAD590a51e)
- - [Best Headsets for Working From Home in 2024](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: VC firms are set to make hundreds of millions from Stripe&#39;s $1.1B acquisition of Bridge; Sequoia&#39;s ~16% stake is worth significantly more than $100M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241028/p30#a241028p30)
+ - [Meta disagrees with OSI&#39;s definition of open-source AI; Llama doesn&#39;t fit the definition due to restrictions on commercial use and lack of training data access &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241028/p29#a241028p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is reportedly working on its own AI-powered search engine, too](https://www.theverge.com/2024/10/28/24282017/meta-ai-powered-search-engine-report)
+ - [Open-source AI must reveal its training data, per new OSI definition](https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama)
+ - [Universal Music partners with AI company building an ‘ethical’ music generator](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)
  - [Apple updates the Magic Keyboard, Magic Mouse, and Magic Trackpad with USB-C; all three have featured the proprietary Lightning port since 2015 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241028/p28#a241028p28)
- - [Canada&#39;s media regulator grants Google a five-year exemption from the Online News Act, orders it to pay $100M to Canadian Journalism Collective within 60 days &lpar;CTV News&rpar;](http://www.techmeme.com/241028/p27#a241028p27)
- - [Instagram Is Reducing the Quality of Some Videos in Your Feed. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/instagram-is-reducing-the-quality-of-some-videos-in-your-feed-heres-why/#ftag=CAD590a51e)
- - [Microsoft says Google runs &quot;shadow campaigns&quot; to discredit it with regulators in Europe, including organizing an &quot;astroturf group&quot; with European cloud providers &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241028/p26#a241028p26)
- - [Want Affordable Care Act Health Insurance? You Need a Plan for Open Enrollment](https://www.cnet.com/how-to/want-affordable-care-act-health-insurance-you-need-a-plan-for-open-enrollment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canada&#39;s media regulator grants Google a five-year exemption from the Online News Act, orders it to pay $100M to Canadian Journalism Collective within 60 days &lpar;CTV News&rpar;](http://www.techmeme.com/241028/p27#a241028p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

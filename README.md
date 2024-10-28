@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement)
+ - [Fortnite is streamlining its many battle passes](https://www.theverge.com/2024/10/28/24282075/fortnite-streamlining-battle-passes-music-lego-festival)
  - [Meta is reportedly working on its own AI-powered search engine, too](https://www.theverge.com/2024/10/28/24282017/meta-ai-powered-search-engine-report)
  - [Open-source AI must reveal its training data, per new OSI definition](https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama)
- - [Universal Music partners with AI company building an ‘ethical’ music generator](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)
- - [Apple updates the Magic Keyboard, Magic Mouse, and Magic Trackpad with USB-C; all three have featured the proprietary Lightning port since 2015 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241028/p28#a241028p28)
- - [Canada&#39;s media regulator grants Google a five-year exemption from the Online News Act, orders it to pay $100M to Canadian Journalism Collective within 60 days &lpar;CTV News&rpar;](http://www.techmeme.com/241028/p27#a241028p27)<!-- TECH:END -->
+ - [Universal Music partners with AI company building an ‘ethical’ music generator](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These red lights captured in France.](http://9gag.com/gag/avyo6xb)
  - 😝 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
  - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 😝 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
- - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---
 

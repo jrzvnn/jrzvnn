@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - 😝 [Manga authors are getting bolder every year](http://9gag.com/gag/aBygZ2N)
- - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 💣 [Clown wingman](http://9gag.com/gag/amo5WgX)
  - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
- - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
+ - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
 
 ---
 

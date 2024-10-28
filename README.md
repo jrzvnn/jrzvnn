@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [1488](http://9gag.com/gag/ae954Zm)
- - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [visionOS 2.1 brings stability &amp; bug fixes to Apple Vision Pro](https://appleinsider.com/articles/24/10/28/visionos-21-brings-stability-bug-fixes-to-apple-vision-pro?utm_medium=rss)
  - [macOS 15.1 Sequoia review: Apple Intelligence is on the Mac but you have to look for it](https://appleinsider.com/articles/24/10/28/macos-151-sequoia-review-apple-intelligence-is-on-the-mac-but-you-have-to-look-for-it?utm_medium=rss)
  - [Apple updates &#39;Magic&#39; accessories to USB-C, included with M4 iMac](https://appleinsider.com/articles/24/10/28/apple-updates-magic-accessories-to-usb-c-included-with-m4-imac?utm_medium=rss)
  - [iOS 18.1 with the first wave of Apple Intelligence features is out now](https://appleinsider.com/articles/24/10/28/ios-181-with-the-first-wave-of-apple-intelligence-features-is-out-now?utm_medium=rss)
- - [Apple Intelligence in iOS 18.1 hands-on: a mixed bag with nice Photos updates, useful Type to Siri, a fancy Siri animation, but some features don&#39;t work well &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241028/p20#a241028p20)
- - [Apple put the Magic Mouse’s charging port on the bottom again](https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom)<!-- TECH:END -->
+ - [Apple Intelligence in iOS 18.1 hands-on: a mixed bag with nice Photos updates, useful Type to Siri, a fancy Siri animation, but some features don&#39;t work well &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241028/p20#a241028p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

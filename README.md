@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least they are not doing tiktok dances](http://9gag.com/gag/aoy53m3)
- - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
- - 💣 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
- - 😝 [Respect](http://9gag.com/gag/a4PRzQZ)
- - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
+ - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
+ - 😝 [Manga authors are getting bolder every year](http://9gag.com/gag/aBygZ2N)
+ - 💣 [She&#39;s like, `This is a raid. Where are all the candies?`](http://9gag.com/gag/aLn0Loz)
+ - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
+ - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Filigran, whose open-source threat intelligence platform OpenCTI is used by the EU, the FBI, and others, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)
+ - [Naspers and Prosus CEO Fabricio Bloisi says he is overhauling corporate culture and pay structures in search of growth beyond Prosus&#39; stake in Tencent &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p3#a241028p3)
+ - [Paris-based Filigran, which develops open-source threat intelligence platform OpenCTI used by the EU, the FBI, and more, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)
  - [Banks and regulators warn of a rise in QR code phishing scams, which experts say are commonly deployed in emails to get through corporate cyber security filters &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241028/p1#a241028p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-28/#ftag=CAD590a51e)
- - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
- - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)<!-- TECH:END -->
+ - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

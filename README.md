@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
- - 😝 [Manga authors are getting bolder every year](http://9gag.com/gag/aBygZ2N)
- - 💣 [She&#39;s like, `This is a raid. Where are all the candies?`](http://9gag.com/gag/aLn0Loz)
- - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
+ - 😝 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
+ - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 💣 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
 
 ---
 

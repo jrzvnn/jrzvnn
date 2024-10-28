@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Scout Motors’ plan to ditch dealers is exactly what customers want](https://www.theverge.com/2024/10/28/24281884/scout-ev-dealer-sale-direct-to-sales-lawsuit)
  - [Microsoft says Google is behind ‘shadow campaigns’ to undermine its cloud business](https://www.theverge.com/2024/10/28/24281926/microsoft-google-cloud-lobbying-european-commission-regulators)
  - [New Apple Intelligence ads show off memory movies and Writing Tools](https://appleinsider.com/articles/24/10/28/new-apple-intelligence-ads-show-off-memory-movies-and-writing-tools?utm_medium=rss)
- - [A Running List of the Tech CEOs Donald Trump Claims Are Calling Him to Suck Up](https://www.wired.com/story/tech-ceos-trump-claims-are-courting-him/)<!-- TECH:END -->
+ - [iOS 18.1 Is Out and It Brings Apple Intelligence to Some iPhones](https://www.cnet.com/tech/services-and-software/ios-18-1-is-out-and-it-brings-apple-intelligence-to-some-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

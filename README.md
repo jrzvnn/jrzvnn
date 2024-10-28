@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 😝 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
- - 💣 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
  - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
+ - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
 
 ---
 

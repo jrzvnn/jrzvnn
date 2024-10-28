@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sierra, an AI startup co-founded by OpenAI board chairman and former Salesforce co-CEO Bret Taylor, raised $175M, valuing it at $4.5B, up from ~$1B previously &lpar;Reuters&rpar;](http://www.techmeme.com/241028/p24#a241028p24)
  - [Google says its AI Overview summaries will begin rolling out in over 100 countries this week and will reach more than 1B monthly users with this expansion &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241028/p23#a241028p23)
  - [Scout Motors’ plan to ditch dealers is exactly what customers want](https://www.theverge.com/2024/10/28/24281884/scout-ev-dealer-sale-direct-to-sales-lawsuit)
  - [Microsoft says Google is behind ‘shadow campaigns’ to undermine its cloud business](https://www.theverge.com/2024/10/28/24281926/microsoft-google-cloud-lobbying-european-commission-regulators)
- - [New Apple Intelligence ads show off memory movies and Writing Tools](https://appleinsider.com/articles/24/10/28/new-apple-intelligence-ads-show-off-memory-movies-and-writing-tools?utm_medium=rss)
- - [iOS 18.1 Is Out and It Brings Apple Intelligence to Some iPhones](https://www.cnet.com/tech/services-and-software/ios-18-1-is-out-and-it-brings-apple-intelligence-to-some-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Apple Intelligence ads show off memory movies and Writing Tools](https://appleinsider.com/articles/24/10/28/new-apple-intelligence-ads-show-off-memory-movies-and-writing-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

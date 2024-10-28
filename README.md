@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
- - [Here’s where you can preorder Apple’s colorful M4 iMac &lpar;and what’s included&rpar;](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
- - [Google’s AI search summaries are rolling out to over 100 more countries](https://www.theverge.com/2024/10/28/24281860/google-ai-search-summaries-expand-more-countries)
- - [Inside Apple&#39;s effort to integrate hearing health into AirPods Pro 2](https://appleinsider.com/articles/24/10/28/inside-apples-effort-to-integrate-hearing-health-into-airpods-pro-2?utm_medium=rss)
- - [Apple Intelligence will gain expanded language support in April 2025](https://appleinsider.com/articles/24/10/28/apple-intelligence-will-gain-expanded-language-support-in-april-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Scout Motors’ plan to ditch dealers is exactly what customers want](https://www.theverge.com/2024/10/28/24281884/scout-ev-dealer-sale-direct-to-sales-lawsuit)
+ - [Microsoft says Google is behind ‘shadow campaigns’ to undermine its cloud business](https://www.theverge.com/2024/10/28/24281926/microsoft-google-cloud-lobbying-european-commission-regulators)
+ - [New Apple Intelligence ads show off memory movies and Writing Tools](https://appleinsider.com/articles/24/10/28/new-apple-intelligence-ads-show-off-memory-movies-and-writing-tools?utm_medium=rss)
+ - [A Running List of the Tech CEOs Donald Trump Claims Are Calling Him to Suck Up](https://www.wired.com/story/tech-ceos-trump-claims-are-courting-him/)
+ - [Donald Trump Vows to Let Robert F. Kennedy Jr. ‘Go Wild on Health’ If Elected](https://www.wired.com/story/donald-trump-robert-f-kennedy-jr-rfk-rally-go-wild-on-health-antivax/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

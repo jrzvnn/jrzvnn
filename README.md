@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 💣 [Clown wingman](http://9gag.com/gag/amo5WgX)
- - 😝 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
- - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
+ - 😝 [At least they are not doing tiktok dances](http://9gag.com/gag/aoy53m3)
+ - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 💣 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
+ - 😝 [Respect](http://9gag.com/gag/a4PRzQZ)
+ - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
 
 ---
 

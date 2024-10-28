@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 💣 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
- - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - 👉 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)<!-- MEMES:END -->
+ - 😝 [These red lights captured in France.](http://9gag.com/gag/avyo6xb)
+ - 😝 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 😝 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
+ - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
 
 ---
 

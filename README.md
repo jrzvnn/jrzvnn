@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Italian private equity firm Bending Spoons, which bought WeTransfer, Evernote, and other distressed subscription apps, and plans to spend billions &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241028/p9#a241028p9)
+ - [A UK judge sentences a 27-year-old man who used AI tool Daz 3D to create child sexual abuse imagery to 18 years in prison, a landmark prosecution over deepfakes &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p10#a241028p10)
+ - [A profile of Italian private equity firm Bending Spoons, which has acquired distressed SaaS businesses like WeTransfer and Evernote, and plans to spend billions &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241028/p9#a241028p9)
  - [Lull Original Premium Mattress Review 2024: An Upgraded Foam Bed Tested by Experts](https://www.cnet.com/health/sleep/lull-original-premium-mattress-review/#ftag=CAD590a51e)
  - [These 8 Streaming Devices Make Perfect Holiday Gifts in 2024](https://www.cnet.com/tech/home-entertainment/top-streaming-devices-to-give-for-the-holidays/#ftag=CAD590a51e)
- - [This Major Blunder Shows Why You Can’t Trust ChatGPT With Home Security Questions](https://www.cnet.com/home/security/this-major-blunder-shows-why-you-cant-trust-chatgpt-with-home-security-questions/#ftag=CAD590a51e)
- - [A profile of ex-eBay and HP CEO Meg Whitman, who became US ambassador to Kenya in late 2021, as the US seeks to counterbalance Chinese tech influence in Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p8#a241028p8)<!-- TECH:END -->
+ - [This Major Blunder Shows Why You Can’t Trust ChatGPT With Home Security Questions](https://www.cnet.com/home/security/this-major-blunder-shows-why-you-cant-trust-chatgpt-with-home-security-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

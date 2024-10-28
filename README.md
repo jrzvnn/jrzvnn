@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 💣 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 👉 [Hens turn their eggs about 50 times a day to prevent the embryo from sticking to the shell.](http://9gag.com/gag/adB5PWN)<!-- MEMES:END -->
+ - 😝 [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
+ - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
+ - 💣 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
 
 ---
 

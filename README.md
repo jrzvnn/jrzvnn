@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)
- - [Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than Russia or China](https://www.wired.com/story/cybercriminals-disruptive-hacking-us-elections-dhs-report/)
- - [The grievance-driven blueprint for the next Trump administration](https://www.theverge.com/24279329/project-2025-tech-policy-guide-trump-admin)
- - [Loops, a fediverse TikTok competitor, begins accepting signups, plans to become open-source and integrate with ActivityPub, and seeks user donations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241028/p12#a241028p12)
- - [Read AI, which uses AI to summarize meetings, emails, and more, raised a $50M Series B and launches a free Chrome extension, after a $21M Series A in April 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241028/p11#a241028p11)<!-- TECH:END -->
+ - [Robinhood says US users that meet a certain criteria can trade a Kamala Harris or Donald Trump contract via its Robinhood Derivatives unit and ForecastEx &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/241028/p13#a241028p13)
+ - [iPhone 16 sales banned in Indonesia until Apple invests more in the country](https://appleinsider.com/articles/24/10/28/iphone-16-sales-banned-in-indonesia-until-apple-invests-more-in-the-country?utm_medium=rss)
+ - [Best 21 Horror Movies to Watch on Tubi](https://www.cnet.com/tech/services-and-software/best-21-horror-movies-to-watch-on-tubi/#ftag=CAD590a51e)
+ - [3 Exercises to Keep You Moving Strong as You Get Older](https://www.cnet.com/health/fitness/3-exercises-to-keep-you-moving-strong-as-you-get-older/#ftag=CAD590a51e)
+ - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

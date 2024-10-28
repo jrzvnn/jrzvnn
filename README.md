@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta is working on a search engine that provides conversational answers about current events for Meta AI users, to reduce its reliance on Google &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/241028/p19#a241028p19)
+ - [Google might stick a Tensor chip in the Pixel Watch 5](https://www.theverge.com/2024/10/28/24281712/google-pixel-watch-5-tensor-chips-smartwatches-wearables)
  - [Apple&#39;s 2024 iPad Air 6 is down to the lowest price ever on Amazon](https://appleinsider.com/articles/24/10/28/apples-2024-ipad-air-6-is-down-to-the-lowest-price-ever-on-amazon?utm_medium=rss)
  - [Apple pushes watchOS 11.1 update to public, primarily focusing on bug fixes](https://appleinsider.com/articles/24/10/28/apple-pushes-watchos-111-update-to-public-primarily-focusing-on-bug-fixes?utm_medium=rss)
- - [New 24-inch iMac adds M4 chip, nano-texture glass option](https://appleinsider.com/articles/24/10/28/new-24-inch-imac-adds-m4-chip-nano-texture-glass-option?utm_medium=rss)
- - [You can now update your Apple TV to tvOS 18.1](https://appleinsider.com/articles/24/10/28/you-can-now-update-your-apple-tv-to-tvos-181?utm_medium=rss)
- - [Dragon Age: The Veilguard starts slow but strong](https://www.theverge.com/24281631/dragon-age-the-veilguard-early-review-ps5-xbox-pc)<!-- TECH:END -->
+ - [New 24-inch iMac adds M4 chip, nano-texture glass option](https://appleinsider.com/articles/24/10/28/new-24-inch-imac-adds-m4-chip-nano-texture-glass-option?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

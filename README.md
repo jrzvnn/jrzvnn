@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Month-end iPad sale: $199 9th Gen, M4 iPad Pro $899, iPad mini 7 deals](https://appleinsider.com/articles/24/10/26/month-end-ipad-sale-298-10th-gen-m4-ipad-pro-899-ipad-mini-7-deals?utm_medium=rss)
  - [Robinhood says US users that meet a certain criteria can trade a Kamala Harris or Donald Trump contract via its Robinhood Derivatives unit and ForecastEx &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/241028/p13#a241028p13)
  - [iPhone 16 sales banned in Indonesia until Apple invests more in the country](https://appleinsider.com/articles/24/10/28/iphone-16-sales-banned-in-indonesia-until-apple-invests-more-in-the-country?utm_medium=rss)
  - [Best 21 Horror Movies to Watch on Tubi](https://www.cnet.com/tech/services-and-software/best-21-horror-movies-to-watch-on-tubi/#ftag=CAD590a51e)
- - [3 Exercises to Keep You Moving Strong as You Get Older](https://www.cnet.com/health/fitness/3-exercises-to-keep-you-moving-strong-as-you-get-older/#ftag=CAD590a51e)
- - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)<!-- TECH:END -->
+ - [3 Exercises to Keep You Moving Strong as You Get Older](https://www.cnet.com/health/fitness/3-exercises-to-keep-you-moving-strong-as-you-get-older/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

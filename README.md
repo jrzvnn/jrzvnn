@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)
+ - [Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than Russia or China](https://www.wired.com/story/cybercriminals-disruptive-hacking-us-elections-dhs-report/)
+ - [The grievance-driven blueprint for the next Trump administration](https://www.theverge.com/24279329/project-2025-tech-policy-guide-trump-admin)
  - [Loops, a fediverse TikTok competitor, begins accepting signups, plans to become open-source and integrate with ActivityPub, and seeks user donations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241028/p12#a241028p12)
- - [Read AI, which uses AI to summarize meetings, emails, and more, raised a $50M Series B and launches a free Chrome extension, after a $21M Series A in April 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241028/p11#a241028p11)
- - [AI Is Decoding Oinks to See if the Pigs Are Alright](https://www.cnet.com/tech/computing/ai-is-decoding-oinks-to-see-if-the-pigs-are-all-right/#ftag=CAD590a51e)
- - [16 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)
- - [Hack and Slash Your Way Through Netflix&#39;s Best Fantasy TV Shows](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Read AI, which uses AI to summarize meetings, emails, and more, raised a $50M Series B and launches a free Chrome extension, after a $21M Series A in April 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241028/p11#a241028p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

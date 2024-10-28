@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
- - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 👉 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)<!-- MEMES:END -->
+ - 😝 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
+ - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 💣 [Respect](http://9gag.com/gag/a4PRzQZ)
+ - 😝 [Land of opportunity](http://9gag.com/gag/aD2g8A9)
+ - 👉 [Just the surface for sure](http://9gag.com/gag/a875AOY)<!-- MEMES:END -->
 
 ---
 

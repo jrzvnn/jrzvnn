@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 👉 [Good thing he came back](http://9gag.com/gag/an75n5L)<!-- MEMES:END -->
+ - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 😝 [Respect](http://9gag.com/gag/a4PRzQZ)
+ - 💣 [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
 
 ---
 

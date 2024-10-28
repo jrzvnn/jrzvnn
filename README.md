@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
- - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
- - 💣 [Respect](http://9gag.com/gag/a4PRzQZ)
- - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 👉 [Land of opportunity](http://9gag.com/gag/aD2g8A9)<!-- MEMES:END -->
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
+ - 👉 [\u201cNo one ever told me how lonely it is to be a man\u201d](http://9gag.com/gag/a8757md)<!-- MEMES:END -->
 
 ---
 

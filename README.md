@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A profile of ex-eBay and HP CEO Meg Whitman, who became US ambassador to Kenya in late 2021, as the US seeks to counterbalance Chinese tech influence in Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p8#a241028p8)
  - [iPhone 16 demand remains in line with the iPhone 15](https://appleinsider.com/articles/24/10/28/iphone-16-demand-remains-in-line-with-the-iphone-15?utm_medium=rss)
  - [How Jeff Bezos, who bought The Washington Post in 2013 and a DC mansion in 2016, never made a splash in the capital, visiting only on occasion for glitzy events &lpar;New York Times&rpar;](http://www.techmeme.com/241028/p7#a241028p7)
- - [Analysis of trade data: Mumbai-based Shreya Life Sciences exported 1,111 of Dell&#39;s advanced PowerEdge XE9680 servers, worth $300M+, to Russia in April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)<!-- TECH:END -->
+ - [Trade data analysis: Mumbai-based Shreya Life Sciences exported 1,111 Dell PowerEdge XE9680 servers with AI chips, worth $300M+, to Russia from April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

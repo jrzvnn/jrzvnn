@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
+ - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 💣 [\u201cNo one ever told me how lonely it is to be a man\u201d](http://9gag.com/gag/a8757md)
  - 😝 [Main character syndrome](http://9gag.com/gag/aAygK0L)
- - 💣 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 😝 [Land of opportunity](http://9gag.com/gag/aD2g8A9)
- - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
+ - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---
 

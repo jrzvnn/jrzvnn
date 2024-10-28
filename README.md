@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
  - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
- - 👉 [\u201cNo one ever told me how lonely it is to be a man\u201d](http://9gag.com/gag/a8757md)<!-- MEMES:END -->
+ - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 💣 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
 
 ---
 

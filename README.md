@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
- - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 💣 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 😝 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
+ - 😝 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 💣 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
+ - 👉 [Hens turn their eggs about 50 times a day to prevent the embryo from sticking to the shell.](http://9gag.com/gag/adB5PWN)<!-- MEMES:END -->
 
 ---
 

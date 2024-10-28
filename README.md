@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 😝 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 💣 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
+ - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
+ - 👉 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)<!-- MEMES:END -->
 
 ---
 

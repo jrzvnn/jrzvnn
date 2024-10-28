@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis of trade data: Mumbai-based Shreya Life Sciences exported 1,111 of Dell&#39;s advanced PowerEdge XE9680 servers, worth $300M+, to Russia in April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)
+ - [All the news from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements)
+ - [EssilorLuxottica gives &quot;full support&quot; to Chief Strategy Officer Leonardo Maria Del Vecchio after an Italian hacking probe; the company is not part of the probe &lpar;Silvia Sciorilli Borrelli/Financial Times&rpar;](http://www.techmeme.com/241028/p5#a241028p5)
  - [Hong Kong outlines an AI policy for finance and proposes an extension of a tax break on owning digital assets, as it seeks to become Asia&#39;s go-to financial hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p4#a241028p4)
- - [Best Savings Rates Today, Oct. 28, 2024: Maximize Your Money With APYs Up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-28-2024/#ftag=CAD590a51e)
- - [Naspers and Prosus CEO Fabricio Bloisi says he is overhauling corporate culture and pay structures in search of growth beyond Prosus&#39; stake in Tencent &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p3#a241028p3)
- - [Paris-based Filigran, which develops open-source threat intelligence platform OpenCTI used by the EU, the FBI, and more, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)
- - [Banks and regulators warn of a rise in QR code phishing scams, which experts say are commonly deployed in emails to get through corporate cyber security filters &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241028/p1#a241028p1)<!-- TECH:END -->
+ - [Best Savings Rates Today, Oct. 28, 2024: Maximize Your Money With APYs Up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

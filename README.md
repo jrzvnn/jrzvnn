@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Armis, which provides risk management tools, raised $200M led by General Catalyst and Alkeon at a $4.2B valuation ahead of a 2026 IPO, and passed $200M in ARR &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241028/p16#a241028p16)
- - [Google now sells ‘like-new’ refurbished Pixel 6 and 7 phones](https://www.theverge.com/2024/10/28/24281614/google-store-certified-refurbished-pixel-6-7-pro-llike-new)
  - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
  - [Netflix adds a Moments feature on iOS, letting users save, rewatch, and share scenes across Instagram, Snapchat, and others, and plans an Android launch soon &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241028/p15#a241028p15)
- - [Airbnb CEO Brian Chesky on the gospel of Steve Jobs and what founder mode really means](https://www.theverge.com/24279570/airbnb-ceo-brian-chesky-founder-mode-apple-steve-jobs-management-decoder-podcast-2024)<!-- TECH:END -->
+ - [Airbnb CEO Brian Chesky on the gospel of Steve Jobs and what founder mode really means](https://www.theverge.com/24279570/airbnb-ceo-brian-chesky-founder-mode-apple-steve-jobs-management-decoder-podcast-2024)
+ - [Netflix is making it easier to bookmark and share your favorite parts of a show](https://www.theverge.com/2024/10/28/24278861/netflix-moments-bookmark-share-favorite-part-show-movie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

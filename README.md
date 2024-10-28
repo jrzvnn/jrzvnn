@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
  - 😝 [Apple Pay](http://9gag.com/gag/aoy53x3)
- - 👉 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)<!-- MEMES:END -->
+ - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 😝 [Say hello to Gary!](http://9gag.com/gag/aZZ78mp)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 💣 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)
  - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
- - 💣 [\u201cNo one ever told me how lonely it is to be a man\u201d](http://9gag.com/gag/a8757md)
- - 😝 [Main character syndrome](http://9gag.com/gag/aAygK0L)
  - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---

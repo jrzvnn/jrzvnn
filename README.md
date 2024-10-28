@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musk said there&#39;s a &quot;chance&quot; HW3 systems, now in millions of Teslas, do &quot;not achieve the safety level&quot; for unsupervised FSD and mentioned free upgrades from HW3 &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/241027/p9#a241027p9)
  - [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)
  - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)
  - [2024 iPad mini teardown reveals minimal internal changes](https://appleinsider.com/articles/24/10/27/2024-ipad-mini-teardown-reveals-minimal-internal-changes?utm_medium=rss)
- - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)
- - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

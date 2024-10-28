@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 😝 [Good thing he came back](http://9gag.com/gag/an75n5L)
+ - 😝 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 💣 [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 👉 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)<!-- MEMES:END -->
 
 ---
 

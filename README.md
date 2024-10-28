@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2024 iPad Air 6 is down to the lowest price ever on Amazon](https://appleinsider.com/articles/24/10/28/apples-2024-ipad-air-6-is-down-to-the-lowest-price-ever-on-amazon?utm_medium=rss)
+ - [Apple pushes watchOS 11.1 update to public, primarily focusing on bug fixes](https://appleinsider.com/articles/24/10/28/apple-pushes-watchos-111-update-to-public-primarily-focusing-on-bug-fixes?utm_medium=rss)
  - [New 24-inch iMac adds M4 chip, nano-texture glass option](https://appleinsider.com/articles/24/10/28/new-24-inch-imac-adds-m4-chip-nano-texture-glass-option?utm_medium=rss)
- - [Apple updates the iMac with new colors and an M4 chip](https://www.theverge.com/2024/10/28/24273124/apple-imac-m4-chip-announced-price-release-date)
- - [Animal Crossing mobile is getting its new, paid app in December](https://www.theverge.com/2024/10/28/24281659/animal-crossing-pocket-camp-complete-mobile-launch-date-introductory-price)
- - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [Apple Intelligence Isn&#39;t Ready to Wow You—Yet](https://www.wired.com/story/apple-intelligence-isnt-ready-to-wow-you-yet/)<!-- TECH:END -->
+ - [You can now update your Apple TV to tvOS 18.1](https://appleinsider.com/articles/24/10/28/you-can-now-update-your-apple-tv-to-tvos-181?utm_medium=rss)
+ - [Dragon Age: The Veilguard starts slow but strong](https://www.theverge.com/24281631/dragon-age-the-veilguard-early-review-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI search summaries are rolling out to over 100 more countries](https://www.theverge.com/2024/10/28/24281860/google-ai-search-summaries-expand-more-countries)
+ - [Inside Apple&#39;s effort to integrate hearing health into AirPods Pro 2](https://appleinsider.com/articles/24/10/28/inside-apples-effort-to-integrate-hearing-health-into-airpods-pro-2?utm_medium=rss)
+ - [Apple Intelligence will gain expanded language support in April 2025](https://appleinsider.com/articles/24/10/28/apple-intelligence-will-gain-expanded-language-support-in-april-2025?utm_medium=rss)
  - [Google now sells ‘like-new’ refurbished Pixel 6 and 7 phones](https://www.theverge.com/2024/10/28/24281735/google-pixel-6-7-refurbished-phones)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [OpenAI&#39;s CFO: ChatGPT has 250M weekly active users, converts free users to paid at a rate of 5% to 6%, and ~75% of OpenAI&#39;s revenue is from paying consumers &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p22#a241028p22)
- - [Apple says that Apple Intelligence will begin rolling out to EU countries in spring 2025 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241028/p21#a241028p21)
- - [‘BBL Drizzy’ Was the Beginning of the Future of AI Music](https://www.wired.com/story/bbl-drizzy-foretold-the-future-of-ai-music/)<!-- TECH:END -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 demand remains in line with the iPhone 15](https://appleinsider.com/articles/24/10/28/iphone-16-demand-remains-in-line-with-the-iphone-15?utm_medium=rss)
  - [How Jeff Bezos, who bought the Washington Post in 2013 and a DC mansion in 2016, never made a splash in the capital, visiting only on occasion for glitzy events &lpar;New York Times&rpar;](http://www.techmeme.com/241028/p7#a241028p7)
  - [Analysis of trade data: Mumbai-based Shreya Life Sciences exported 1,111 of Dell&#39;s advanced PowerEdge XE9680 servers, worth $300M+, to Russia in April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)
  - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates for Oct. 28, 2024](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-for-oct-28-2024/#ftag=CAD590a51e)
- - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for Oct. 28, 2024](https://www.cnet.com/personal-finance/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-oct-28-2024/#ftag=CAD590a51e)
- - [Best Gifts Available on Amazon: From $10 to $250](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for Oct. 28, 2024](https://www.cnet.com/personal-finance/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-oct-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

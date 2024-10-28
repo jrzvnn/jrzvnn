@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
- - 😝 [Respect](http://9gag.com/gag/a4PRzQZ)
- - 💣 [Main character syndrome](http://9gag.com/gag/aAygK0L)
- - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
+ - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: VC firms are set to make hundreds of millions from Stripe&#39;s $1.1B acquisition of Bridge; Sequoia&#39;s ~16% stake is worth significantly more than $100M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241028/p30#a241028p30)
  - [Meta disagrees with OSI&#39;s definition of open-source AI; Llama doesn&#39;t fit the definition due to restrictions on commercial use and lack of training data access &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241028/p29#a241028p29)
- - [Gmail will now help you write an email on the web with AI](https://www.theverge.com/2024/10/28/24282103/gmail-help-me-write-email-web-ai-gemini)
- - [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement)
- - [Fortnite is streamlining its many battle passes](https://www.theverge.com/2024/10/28/24282075/fortnite-streamlining-battle-passes-music-lego-festival)
- - [Meta is reportedly working on its own AI-powered search engine, too](https://www.theverge.com/2024/10/28/24282017/meta-ai-powered-search-engine-report)<!-- TECH:END -->
+ - [This Is the Air Fryer Part You&#39;re Forgetting to Clean](https://www.cnet.com/home/kitchen-and-household/this-is-the-air-fryer-part-youre-forgetting-to-clean/#ftag=CAD590a51e)
+ - [Apple Intelligence Impressions: Don&#39;t Expect Radical Change video](https://www.cnet.com/videos/apple-intelligence-impressions-dont-expect-radical-change/#ftag=CAD590a51e)
+ - [Gmail will now help you write an email on the web with AI](https://www.theverge.com/2024/10/28/24282103/gmail-help-me-write-email-web-ai-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

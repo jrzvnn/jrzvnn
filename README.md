@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence is here, but it still has a lot to learn](https://www.theverge.com/2024/10/28/24279804/apple-intelligence-ios-18-1-siri-ai)
- - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
- - [Philadelphia DA sues Elon Musk to stop $1 million election lottery](https://www.theverge.com/2024/10/28/24281752/elon-musk-pennsylvania-election-2024-lottery-lawsuit)
- - [Beats Solo 4 and Studio Pro headphones are an impressive 50 percent off](https://www.theverge.com/2024/10/28/24281656/beats-solo-4-studio-pro-lenovo-legion-go-deal-sale)
- - [Back Up Your iPhone the Smart Way Before You Install iOS 18.1](https://www.cnet.com/tech/mobile/before-you-install-ios-18-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google now sells ‘like-new’ refurbished Pixel 6 and 7 phones](https://www.theverge.com/2024/10/28/24281735/google-pixel-6-7-refurbished-phones)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [OpenAI&#39;s CFO: ChatGPT has 250M weekly active users, converts free users to paid at a rate of 5% to 6%, and ~75% of OpenAI&#39;s revenue is from paying consumers &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p22#a241028p22)
+ - [Apple says that Apple Intelligence will begin rolling out to EU countries in spring 2025 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241028/p21#a241028p21)
+ - [‘BBL Drizzy’ Was the Beginning of the Future of AI Music](https://www.wired.com/story/bbl-drizzy-foretold-the-future-of-ai-music/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

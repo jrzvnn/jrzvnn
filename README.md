@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Birthday Bob Ross!](http://9gag.com/gag/ae95mPm)
- - 😝 [....... have you ever thought about it?](http://9gag.com/gag/amo5mQ2)
- - 💣 [This is the way](http://9gag.com/gag/aryoqX7)
- - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 👉 [Mega based](http://9gag.com/gag/aqygzmQ)<!-- MEMES:END -->
+ - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
+ - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
+ - 💣 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 👉 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)<!-- MEMES:END -->
 
 ---
 

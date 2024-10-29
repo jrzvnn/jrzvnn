@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
  - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 💣 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 👉 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)<!-- MEMES:END -->
+ - 💣 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)
+ - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 👉 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)<!-- MEMES:END -->
 
 ---
 

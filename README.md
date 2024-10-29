@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of the top US congressional X accounts: Republicans had nearly all of the posts with 20M+ views and saw bigger gains in followers since July 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/241029/p11#a241029p11)
  - [Shopify says it has lured hundreds of Salesforce clients, including Mattel and Casper; analysts say Shopify overtook Salesforce&#39;s e-commerce business in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p10#a241029p10)
  - [Sources: TSMC has suspended shipments of 7nm chips to at least two chip developers over suspicions they were trying to circumvent US export controls on Huawei &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/241029/p9#a241029p9)
  - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [Update Your Apple Watch Now to Get These New WatchOS 11 Features](https://www.cnet.com/tech/mobile/update-your-apple-watch-now-to-get-these-new-watchos-11-features/#ftag=CAD590a51e)
- - [iPhone 17 &#39;Slim&#39;: Rumors About the Super Thin iPhone Possibly Coming Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Update Your Apple Watch Now to Get These New WatchOS 11 Features](https://www.cnet.com/tech/mobile/update-your-apple-watch-now-to-get-these-new-watchos-11-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
  - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
- - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
  - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
- - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
+ - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
+ - 👉 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Poor guy](http://9gag.com/gag/aoy54K3)
  - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
+ - 💣 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
  - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 💣 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 👉 [Poor guy](http://9gag.com/gag/aoy54K3)<!-- MEMES:END -->
+ - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
+ - 😝 [Boos](http://9gag.com/gag/azx1Zyq)
  - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 💣 [Busted](http://9gag.com/gag/an75DgV)
- - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
- - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
+ - 💣 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
+ - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
 
 ---
 

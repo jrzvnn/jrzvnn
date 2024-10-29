@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is working with Broadcom and TSMC to build its first in-house AI chip focusing on inference, and has scaled back its foundry ambitions &lpar;Reuters&rpar;](http://www.techmeme.com/241029/p21#a241029p21)
- - [Apple brings the Mac mini to life in a new short video](https://appleinsider.com/articles/24/10/29/apple-brings-the-mac-mini-to-life-in-a-new-short-video?utm_medium=rss)
- - [A smaller Mac mini brings big problems for server farms and accessory makers](https://appleinsider.com/articles/24/10/29/a-smaller-mac-mini-brings-big-problems-for-server-farms-and-accessory-makers?utm_medium=rss)
- - [AI effects and text captions are coming to Final Cut Pro](https://appleinsider.com/articles/24/10/29/ai-effects-and-text-captions-are-coming-to-final-cut-pro?utm_medium=rss)
- - [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale)<!-- TECH:END -->
+ - [Consensys, the maker of the MetaMask crypto wallet, is cutting 162 staff, ~20% of its workforce, and notes costly fights with regulators &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/241029/p23#a241029p23)
+ - [These bookmarking apps can organize all of that content you’re saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
+ - [Apple stuck the Mac mini power button on the bottom](https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom?utm_medium=rss)
+ - [LinkedIn launches Hiring Assistant, an AI agent designed to take on a wide array of recruitment tasks like sourcing candidates, to a select group of customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241029/p22#a241029p22)
+ - [Sources: OpenAI is working with Broadcom and TSMC to build its first in-house AI chip focusing on inference, and has scaled back its foundry ambitions &lpar;Reuters&rpar;](http://www.techmeme.com/241029/p21#a241029p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

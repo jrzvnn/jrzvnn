@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI will start using AMD chips and could make its own AI hardware in 2026](https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips)
+ - [Dozens of sources explain how Intel CEO Pat Gelsinger fumbled the company&#39;s revival, including offending TSMC with comments on Taiwan and losing a chip discount &lpar;Reuters&rpar;](http://www.techmeme.com/241029/p24#a241029p24)
+ - [The 29 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [M4 Mac mini vs M2 Mac mini compared: Leaner and meaner](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-m2-mac-mini-compared-leaner-and-meaner?utm_medium=rss)
- - [New firmware available for fourth-generation AirPods](https://appleinsider.com/articles/24/10/29/new-firmware-available-for-fourth-generation-airpods?utm_medium=rss)
- - [Chrome introduces new ‘Performance’ tools to wrangle the tabs gobbling up your memory](https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs)
- - [Netflix’s deal with Universal will add more live-action films](https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation)
- - [Microsoft isn’t secretly installing Recall on your Windows PC](https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall)<!-- TECH:END -->
+ - [New firmware available for fourth-generation AirPods](https://appleinsider.com/articles/24/10/29/new-firmware-available-for-fourth-generation-airpods?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

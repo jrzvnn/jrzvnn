@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: TSMC has suspended shipments of 7nm chips to at least two chip developers over suspicions they were trying to circumvent US export controls on Huawei &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/241029/p9#a241029p9)
- - [Facebook Is Auto-Generating Militia Group Pages as Extremists Continue to Organize in Plain Sight](https://www.wired.com/story/facebook-militia-organizing-election/)
- - [India&#39;s iPhone exports jump up to $6 billion in six months](https://appleinsider.com/articles/24/10/29/indias-iphone-exports-jump-up-to-6-billion-in-six-months?utm_medium=rss)
- - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
- - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)<!-- TECH:END -->
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [Update Your Apple Watch Now to Get These New WatchOS 11 Features](https://www.cnet.com/tech/mobile/update-your-apple-watch-now-to-get-these-new-watchos-11-features/#ftag=CAD590a51e)
+ - [iPhone 17 &#39;Slim&#39;: Rumors About the Super Thin iPhone Possibly Coming Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)
+ - [Play Call of Duty: Black Ops 6 Now and StarCraft Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-call-of-duty-black-ops-6-now-and-starcraft-soon-on-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

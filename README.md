@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The end](http://9gag.com/gag/aYQ7EPq)
- - 😝 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
- - 💣 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
- - 😝 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
- - 👉 [The Newlywed Game, ABC 1966-74](http://9gag.com/gag/ae951bQ)<!-- MEMES:END -->
+ - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
+ - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)<!-- MEMES:END -->
 
 ---
 

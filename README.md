@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Cloud Q3 revenue grew 35% YoY to $11.4B, vs. $10.88B est., led by growth across AI Infrastructure, Generative AI Solutions, and core GCP products &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/241029/p26#a241029p26)
+ - [Alphabet reports Q3 revenue up 15% YoY to $88.27B, Search revenue up 12% to $49.39B, net income up 34% to $26.3B, and traffic acquisition costs up 9% to $13.72B &lpar;Alphabet&rpar;](http://www.techmeme.com/241029/p25#a241029p25)
+ - [Google accused of violating labor law for asking workers to ‘refrain’ from talking about antitrust case](https://www.theverge.com/2024/10/29/24278993/google-labor-law-nlrb-alphabet-labor-union-antitrust-search-remedies)
  - [An Elon Musk-funded super PAC is putting out fake pro-Harris ads](https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac)
- - [The Scary Movie franchise is getting a Wayans brothers reboot](https://www.theverge.com/2024/10/29/24282909/scary-movie-reboot-wayans-brothers)
- - [OpenAI will start using AMD chips and could make its own AI hardware in 2026](https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips)
- - [Dozens of sources explain how Intel CEO Pat Gelsinger fumbled the company&#39;s revival, including offending TSMC with comments on Taiwan and losing a chip discount &lpar;Reuters&rpar;](http://www.techmeme.com/241029/p24#a241029p24)
- - [The 29 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [Growing Out Your Hair? Try Taking More of These Vitamins for Long, Lush Locks](https://www.cnet.com/health/nutrition/vitamins-for-long-hair/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

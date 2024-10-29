@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nigeria-based Moniepoint, which offers bank accounts, loans, and POS terminals, raised $110M led by DPI, sources say at a $1B+ valuation, after raising $55M &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/241029/p6#a241029p6)
  - [Tap to Pay on iPhone comes to more European countries](https://appleinsider.com/articles/24/10/29/tap-to-pay-on-iphone-comes-to-more-european-countries?utm_medium=rss)
  - [Amazon leaks tiny Mac Mini with M4 Pro](https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size)
  - [An interview with Epic CEO Tim Sweeney on the path to the open metaverse, the growth of user-generated content on Fortnite, Epic&#39;s 3D assets store Fab, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241029/p5#a241029p5)
- - [A look at the rise of ransomware attacks on schools; a study says the number of ransomware attacks on K-12 increased by 393% from 14 in 2016 to 69 in 2022 &lpar;K-12 Dive&rpar;](http://www.techmeme.com/241029/p4#a241029p4)
- - [Q&amp;A with Airbnb CEO Brian Chesky on &quot;founder mode&quot; and why it&#39;s not about micromanagement, obsessing over company structure, Airbnb&#39;s Co-Host Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241029/p3#a241029p3)<!-- TECH:END -->
+ - [A look at the rise of ransomware attacks on schools; a study says the number of ransomware attacks on K-12 increased by 393% from 14 in 2016 to 69 in 2022 &lpar;K-12 Dive&rpar;](http://www.techmeme.com/241029/p4#a241029p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

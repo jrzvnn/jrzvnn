@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vizio’s new ‘MicMe’ soundbar has built-in karaoke](https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones)
- - [Lucid announces pricing of upcoming Gravity SUV](https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation)
- - [The future of crypto regulation comes down to one unpopular man](https://www.theverge.com/24280387/gary-gensler-sec-chair-presidential-election-2024)
- - [What to expect from Apple&#39;s Q4 2024 earnings on October 31](https://appleinsider.com/articles/24/10/29/what-to-expect-from-apples-q4-2024-earnings-on-october-31?utm_medium=rss)
- - [32 Best Gifts for Teens &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gift-ideas-for-teens/)<!-- TECH:END -->
+ - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
+ - [Two possible futures for AI](https://www.theverge.com/2024/10/29/24282333/ai-vision-anthropic-openai-shakealert-vergecast)
+ - [This election will decide what kind of car you’ll buy](https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car)
+ - [Sources: in a first, Apple is using an Indian factory to do the early manufacturing work for the base model of the iPhone 17; the iPhone 17 Pro remains in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/241029/p14#a241029p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe. . .](http://9gag.com/gag/a4PRAYZ)
- - 😝 [Sean Lock&#39;s Bests at 8 out of 10 cats does countdown.](http://9gag.com/gag/aMVYngA)
- - 💣 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 😝 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
- - 👉 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)<!-- MEMES:END -->
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
+ - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
+ - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Research: China&#39;s industrial policy to make the nation a leader in emerging technologies has largely been a success, despite US efforts to contain the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p37#a241029p37)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [EA reports Q2 net bookings up 14% YoY to $2.08B vs. $2.04B est., revenue up 6%, raises its FY 2025 bookings forecast, as its American football titles outperform &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241029/p36#a241029p36)
- - [Create the Perfect Haunted Halloween with These Smart Home Tricks](https://www.cnet.com/home/smart-home/create-the-perfect-haunted-halloween-with-these-smart-home-tricks/#ftag=CAD590a51e)
- - [Tubi&#39;s Best Hidden Horror Gem is A Devilish Retro-Inspired Chiller](https://www.cnet.com/tech/services-and-software/tubis-best-hidden-horror-gem-is-a-devilish-retro-inspired-chiller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Create the Perfect Haunted Halloween with These Smart Home Tricks](https://www.cnet.com/home/smart-home/create-the-perfect-haunted-halloween-with-these-smart-home-tricks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

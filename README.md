@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 😝 [Hehe. . .](http://9gag.com/gag/a4PRAYZ)
+ - 😝 [Sean Lock&#39;s Bests at 8 out of 10 cats does countdown.](http://9gag.com/gag/aMVYngA)
  - 💣 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 👉 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)<!-- MEMES:END -->
+ - 😝 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
+ - 👉 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)<!-- MEMES:END -->
 
 ---
 

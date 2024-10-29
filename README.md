@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal reports Q3 net revenue up 6% YoY to $7.9B, below est., total payments volume up 9% YoY to $422.6B, above $421.6B est., and projects Q4 revenue below est. &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241029/p18#a241029p18)
- - [Apple debuts M4 Pro: Thunderbolt 5, up to a 14-core CPU, up to a 20-core GPU with up to 2x more power than the M4, a 16-core Neural Engine, and up to 64GB RAM &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241029/p17#a241029p17)
- - [New Mac mini arrives with redesign, powerful M4 &amp; M4 Pro processors, more USB-C](https://appleinsider.com/articles/24/10/29/new-mac-mini-arrives-with-redesign-powerful-m4-m4-pro-processors-more-usb-c?utm_medium=rss)
- - [Apple rolls out new Thunderbolt 5 cable alongside M4 Pro Mac mini](https://appleinsider.com/articles/24/10/29/apple-rolls-out-new-thunderbolt-5-cable-alongside-m4-pro-mac-mini?utm_medium=rss)
- - [Watch Apple show off the M4 Mac Mini in its reveal video](https://www.theverge.com/2024/10/29/24282609/apple-m4-mac-mini-announcement-video-watch)<!-- TECH:END -->
+ - [Apple&#39;s new M4 Mac mini announcement video shows off Apple TV-like design](https://appleinsider.com/articles/24/10/29/apples-new-m4-mac-mini-announcement-video-shows-off-apple-tv-like-design?utm_medium=rss)
+ - [GitHub Copilot will support models from Anthropic, Google, and OpenAI](https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement)
+ - [Election Fraud Conspiracy Theories Are Already Thriving Online](https://www.wired.com/story/election-fraud-conspiracies-flooding-social-media/)
+ - [ESPN is launching a game inside Fortnite](https://www.theverge.com/2024/10/29/24279789/fortnite-espn-football-island-disney)
+ - [PayPal reports Q3 net revenue up 6% YoY to $7.9B, below est., total payments volume up 9% YoY to $422.6B, above $421.6B est., and projects Q4 revenue below est. &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241029/p18#a241029p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

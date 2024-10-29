@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activate all neurons](http://9gag.com/gag/aVv0L3n)
- - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 💣 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
- - 😝 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)
- - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
+ - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 💣 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
 
 ---
 

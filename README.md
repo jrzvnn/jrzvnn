@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [Busted](http://9gag.com/gag/an75DgV)
- - 👉 [That look](http://9gag.com/gag/a6ZNnLL)<!-- MEMES:END -->
+ - 😝 [Happy Birthday Bob Ross!](http://9gag.com/gag/ae95mPm)
+ - 😝 [....... have you ever thought about it?](http://9gag.com/gag/amo5mQ2)
+ - 💣 [This is the way](http://9gag.com/gag/aryoqX7)
+ - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 👉 [Mega based](http://9gag.com/gag/aqygzmQ)<!-- MEMES:END -->
 
 ---
 

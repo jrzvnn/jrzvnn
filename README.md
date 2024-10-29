@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
  - [Two possible futures for AI](https://www.theverge.com/2024/10/29/24282333/ai-vision-anthropic-openai-shakealert-vergecast)
  - [This election will decide what kind of car you’ll buy](https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car)
- - [Sources: in a first, Apple is using an Indian factory to do the early manufacturing work for the base model of the iPhone 17; the iPhone 17 Pro remains in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/241029/p14#a241029p14)<!-- TECH:END -->
+ - [Sources: in a first, Apple is using an Indian factory to do the early manufacturing work for the base iPhone 17; the primary iPhone 17 Pro sites remain in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/241029/p14#a241029p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

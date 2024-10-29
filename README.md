@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Airbnb CEO Brian Chesky on &quot;founder mode&quot; and why it&#39;s not about micromanagement, obsessing over company structure, Airbnb&#39;s Co-Host Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241029/p3#a241029p3)
+ - [Booking.com Promo Code: Save With 50% Off Travel Deals](https://www.wired.com/story/booking-com-promo-code/)
  - [Gartner: AI agents are &quot;one of the most hyped topics in gen AI today&quot;; survey: 75% of CEOs say AI will impact their industry, up from 21% in 2023 &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/241029/p2#a241029p2)
  - [Sources: Apple&#39;s iPhone exports from India reached ~$6B in the six months through September 2024, up 33% YoY, on track to pass $10B by the end of fiscal 2024 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241029/p1#a241029p1)
- - [Save up to $100 on Apple&#39;s 2024 iMac M4 with Best Buy Plus](https://appleinsider.com/articles/24/10/29/save-up-to-100-on-apples-2024-imac-m4-with-best-buy-plus?utm_medium=rss)
- - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
- - [Amazon leaks redesigned Mac mini with M4 Pro](https://appleinsider.com/articles/24/10/29/amazon-leaks-redesigned-mac-mini-with-m4-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Save up to $100 on Apple&#39;s 2024 iMac M4 with Best Buy Plus](https://appleinsider.com/articles/24/10/29/save-up-to-100-on-apples-2024-imac-m4-with-best-buy-plus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

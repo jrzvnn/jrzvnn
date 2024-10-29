@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
  - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
- - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 💣 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 👉 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)<!-- MEMES:END -->
 
 ---
 

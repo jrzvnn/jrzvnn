@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap says it will roll out its new &quot;simple&quot; Snapchat app in Q1 2025, ~10M users are testing it, but warns the engagement metrics are worse on iOS versus Android &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/241029/p31#a241029p31)
  - [Apple&#39;s new M4 iMac is up to $100 off, plus $20 off AppleCare](https://appleinsider.com/articles/24/10/29/apples-new-m4-imac-is-up-to-100-off-plus-20-off-applecare?utm_medium=rss)
  - [AMD reports Q3 revenue up 18% YoY to $6.82B, vs. $6.71B est., Data Center revenue up 122% to $3.5B, and Q4 revenue forecast below est.; AMD drops 5% after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241029/p30#a241029p30)
  - [Reddit Q3: revenue up 68% YoY to $348.4M, vs. $312.8M est., DAUs up 47% YoY to 97.2M, vs. 96.5M est, ARPU of $3.58, vs. $3.24 est.; RDDT jumps 20%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241029/p29#a241029p29)
- - [Snap reports Q3 revenue up 15% YoY to $1.37B vs. $1.36B est., DAUs up 9% YoY to 443M, issues light Q4 guidance, and announces $500M stock repurchase program &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241029/p28#a241029p28)
- - [YouTube Q3 ad revenue grew 12.2% YoY to $8.92B, vs. $8.89B est.; total ads and subscription revenues passed $50B over the past four quarters for the first time &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241029/p27#a241029p27)<!-- TECH:END -->
+ - [Snap reports Q3 revenue up 15% YoY to $1.37B vs. $1.36B est., DAUs up 9% YoY to 443M, issues light Q4 guidance, and announces $500M stock repurchase program &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241029/p28#a241029p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

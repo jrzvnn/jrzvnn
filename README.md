@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
  - [Amazon leaks redesigned Mac mini with M4 Pro](https://appleinsider.com/articles/24/10/29/amazon-leaks-redesigned-mac-mini-with-m4-pro?utm_medium=rss)
  - [Singapore-based fintech Zinc, which offers financial services tools for overseas students, raised a $25.5M seed led by Nexus Venture Partners &lpar;The Economic Times&rpar;](http://www.techmeme.com/241028/p36#a241028p36)
  - [A now deleted chart on Amazon leaked the new Mac mini, with M4 or M4 Pro chip, two front-facing USB-C ports, up to a 14-core CPU, up to 64GB of RAM, more &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241028/p35#a241028p35)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-29/#ftag=CAD590a51e)
- - [EnergyPal Review: A Convenient Way to Go Solar](https://www.cnet.com/home/energy-and-utilities/energypal-review-a-convenient-way-to-go-solar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

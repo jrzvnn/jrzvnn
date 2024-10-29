@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
- - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
- - 💣 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
- - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 👉 [Talk about stating the obvious.](http://9gag.com/gag/an75xvB)<!-- MEMES:END -->
+ - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
+ - 😝 [The end](http://9gag.com/gag/aYQ7EPq)
+ - 💣 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
+ - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 👉 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)<!-- MEMES:END -->
 
 ---
 

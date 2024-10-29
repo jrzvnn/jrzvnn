@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 💣 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
- - 😝 [Busted](http://9gag.com/gag/an75DgV)
- - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 👉 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)<!-- MEMES:END -->
 
 ---
 

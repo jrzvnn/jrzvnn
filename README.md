@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
- - 😝 [The end](http://9gag.com/gag/aYQ7EPq)
- - 💣 [We wouldn&#39;t wanna do that](http://9gag.com/gag/aKGdvBj)
- - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
+ - 😝 [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
+ - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
+ - 💣 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
+ - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 👉 [Talk about stating the obvious.](http://9gag.com/gag/an75xvB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
- - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
- - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 💣 [We wouldn&#39;t wanna do that](http://9gag.com/gag/aKGdvBj)
+ - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 👉 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)<!-- MEMES:END -->
 
 ---
 

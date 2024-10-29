@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac mini vs M2 Mac mini compared: Leaner and meaner](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-m2-mac-mini-compared-leaner-and-meaner?utm_medium=rss)
+ - [New firmware available for fourth-generation AirPods](https://appleinsider.com/articles/24/10/29/new-firmware-available-for-fourth-generation-airpods?utm_medium=rss)
  - [Chrome introduces new ‘Performance’ tools to wrangle the tabs gobbling up your memory](https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs)
  - [Netflix’s deal with Universal will add more live-action films](https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation)
- - [Microsoft isn’t secretly installing Recall on your Windows PC](https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall)
- - [Sony closes Concord studio and permanently shuts down the game](https://www.theverge.com/2024/10/29/24282900/sony-shutting-down-concord-firewalk-studios)
- - [Here’s where you can preorder Apple’s new iMac and Mac Mini with M4](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Microsoft isn’t secretly installing Recall on your Windows PC](https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

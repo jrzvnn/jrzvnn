@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new M4 Mac mini announcement video shows off Apple TV-like design](https://appleinsider.com/articles/24/10/29/apples-new-m4-mac-mini-announcement-video-shows-off-apple-tv-like-design?utm_medium=rss)
- - [GitHub Copilot will support models from Anthropic, Google, and OpenAI](https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement)
- - [Election Fraud Conspiracy Theories Are Already Thriving Online](https://www.wired.com/story/election-fraud-conspiracies-flooding-social-media/)
- - [ESPN is launching a game inside Fortnite](https://www.theverge.com/2024/10/29/24279789/fortnite-espn-football-island-disney)
- - [PayPal reports Q3 net revenue up 6% YoY to $7.9B, below est., total payments volume up 9% YoY to $422.6B, above $421.6B est., and projects Q4 revenue below est. &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241029/p18#a241029p18)<!-- TECH:END -->
+ - [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale)
+ - [Nintendo’s open-world RPG Xenoblade Chronicles X is getting remastered for the Switch](https://www.theverge.com/2024/10/29/24282741/xenoblade-chronicles-x-nintendo-switch-release-date-march-2025)
+ - [Elon Musk&#39;s PAC sends Republicans texts impersonating Kamala Harris without disclaimers, pushing policies Harris doesn&#39;t support, and ups its social ads spend &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241029/p20#a241029p20)
+ - [GitHub plans to update Copilot to support Anthropic, Google, and OpenAI models, unveils AI web app building tool Spark, updates Copilot in VS Code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241029/p19#a241029p19)
+ - [Apple&#39;s new M4 Mac mini announcement video shows off Apple TV-like design](https://appleinsider.com/articles/24/10/29/apples-new-m4-mac-mini-announcement-video-shows-off-apple-tv-like-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

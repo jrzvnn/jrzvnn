@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hurun China Rich List: ByteDance founder Zhang Yiming, who stepped down as CEO in 2021, is China&#39;s richest person at $49.3B, as ByteDance&#39;s global revenue jumps &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241029/p7#a241029p7)
- - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
- - [Nigeria-based Moniepoint, which offers bank accounts, loans, and POS terminals, raised $110M led by DPI, sources say at a $1B+ valuation, after raising $55M &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/241029/p6#a241029p6)
- - [Tap to Pay on iPhone comes to more European countries](https://appleinsider.com/articles/24/10/29/tap-to-pay-on-iphone-comes-to-more-european-countries?utm_medium=rss)
- - [Election 2024: Is It Too Late to Request a Mail-In Ballot for Voting? Where Your State Stands](https://www.cnet.com/news/election-2024-is-it-too-late-to-request-a-mail-in-ballot-for-voting-where-your-state-stands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)
+ - [Social Security Disability Insurance November 2024: Here&#39;s When You&#39;ll Get Your Check](https://www.cnet.com/personal-finance/social-security-disability-insurance-november-2024-heres-when-youll-get-your-check/#ftag=CAD590a51e)
+ - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
+ - [As Schools Ban Phones, More Kids Are Using Smartwatches](https://www.wired.com/story/schools-ban-phones-but-kids-arrive-with-smartwatches-edsurge/)
+ - [22 of the Best Gifts Under $50 for 2024](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

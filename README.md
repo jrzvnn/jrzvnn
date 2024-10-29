@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 💣 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
  - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
- - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 💣 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
+ - 👉 [When your children are very empathetic and care about you.](http://9gag.com/gag/avyoEEM)<!-- MEMES:END -->
 
 ---
 

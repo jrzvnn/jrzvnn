@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Magic Mouse charging port design has never been a big deal](https://appleinsider.com/articles/24/10/29/apples-magic-mouse-charging-port-design-has-never-been-a-big-deal?utm_medium=rss)
- - [Kindle Paperwhite Review &lpar;2024&rpar;: The E-Reader to Get](https://www.wired.com/review/kindle-paperwhite-signature-edition-2024/)
- - [A vote for Donald Trump is a vote for school shootings and measles](https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024)
- - [An analysis of the top US congressional X accounts: Republicans had nearly all of the posts with 20M+ views and saw bigger gains in followers since July 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/241029/p11#a241029p11)
- - [Shopify says it has lured hundreds of Salesforce clients, including Mattel and Casper; analysts say Shopify overtook Salesforce&#39;s e-commerce business in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p10#a241029p10)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s Q4 2024 earnings on October 31](https://appleinsider.com/articles/24/10/29/what-to-expect-from-apples-q4-2024-earnings-on-october-31?utm_medium=rss)
+ - [32 Best Gifts for Teens &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
+ - [Barcelona-based brain-computer interface startup Inbrain, which plans to work with graphene, raised $50M led by Imec.xpand and plans a trial of 10 patients &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241029/p13#a241029p13)
+ - [Trump’s takeover of the entire legal system hinges on this election](https://www.theverge.com/24279829/trump-supreme-court-federal-judiciary-judges)
+ - [Amazon plans to shut down its Kindle Vella serialized story platform in February 2025; users won&#39;t lose access to unlocked stories after the program closes &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/241029/p12#a241029p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

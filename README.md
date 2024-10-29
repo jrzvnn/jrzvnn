@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
  - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
  - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
- - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 👉 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)<!-- MEMES:END -->
+ - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
 
 ---
 

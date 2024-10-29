@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
  - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 💣 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - 😝 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
- - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
+ - 💣 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
 
 ---
 

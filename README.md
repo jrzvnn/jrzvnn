@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boos](http://9gag.com/gag/azx1Zyq)
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 💣 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
- - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
+ - 😝 [These red lights captured in France.](http://9gag.com/gag/avyo6xb)
+ - 😝 [Busted](http://9gag.com/gag/an75DgV)
+ - 💣 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
+ - 😝 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
+ - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
 
 ---
 

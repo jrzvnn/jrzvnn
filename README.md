@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
- - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 👉 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)<!-- MEMES:END -->
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 💣 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 👉 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - 💣 [That look](http://9gag.com/gag/a6ZNnLL)
- - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
+ - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 😝 [The end](http://9gag.com/gag/aYQ7EPq)
+ - 💣 [We wouldn&#39;t wanna do that](http://9gag.com/gag/aKGdvBj)
+ - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
 
 ---
 

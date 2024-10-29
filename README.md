@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
- - 😝 [Now she\u2019s more confident, haha!](http://9gag.com/gag/a34RAd5)
- - 💣 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
- - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
+ - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 💣 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)
+ - 😝 [TRAIN SURFING: so far 6 teenagers died from it and of course 1 lawsuit from a mom](http://9gag.com/gag/an75xgq)
+ - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
 
 ---
 

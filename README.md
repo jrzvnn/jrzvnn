@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [New Mac mini arrives with redesign, powerful M4 &amp; M4 Pro processors, more USB-C](https://appleinsider.com/articles/24/10/29/new-mac-mini-arrives-with-redesign-powerful-m4-m4-pro-processors-more-usb-c?utm_medium=rss)
  - [Apple rolls out new Thunderbolt 5 cable alongside M4 Pro Mac mini](https://appleinsider.com/articles/24/10/29/apple-rolls-out-new-thunderbolt-5-cable-alongside-m4-pro-mac-mini?utm_medium=rss)
  - [Watch Apple show off the M4 Mac Mini in its reveal video](https://www.theverge.com/2024/10/29/24282609/apple-m4-mac-mini-announcement-video-watch)
- - [Apple updates the Mac mini with a much smaller design, M4 or M4 Pro, two front-facing USB-C ports, up to 64GB of RAM, and more, shipping November 8 for $599+ &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241029/p16#a241029p16)<!-- TECH:END -->
+ - [MLB World Series Dodgers vs. Yankees Game 4: How to Watch, Start Time, Game Schedule](https://www.cnet.com/tech/services-and-software/world-series-2024-how-to-watch-yankees-vs-dodgers-live-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

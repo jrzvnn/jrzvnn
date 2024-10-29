@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrome introduces new ‘Performance’ tools to wrangle the tabs gobbling up your memory](https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs)
+ - [Netflix’s deal with Universal will add more live-action films](https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation)
+ - [Microsoft isn’t secretly installing Recall on your Windows PC](https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall)
  - [Sony closes Concord studio and permanently shuts down the game](https://www.theverge.com/2024/10/29/24282900/sony-shutting-down-concord-firewalk-studios)
- - [Here’s where you can preorder Apple’s new iMac and Mac Mini with M4](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
- - [Consensys, the maker of the MetaMask crypto wallet, is cutting 162 staff, ~20% of its workforce, and notes costly fights with regulators &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/241029/p23#a241029p23)
- - [These bookmarking apps can organize all of that content you’re saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
- - [Apple stuck the Mac mini power button on the bottom](https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s where you can preorder Apple’s new iMac and Mac Mini with M4](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

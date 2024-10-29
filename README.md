@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor guy](http://9gag.com/gag/aoy54K3)
- - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
- - 💣 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
- - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 👉 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)<!-- MEMES:END -->
+ - 😝 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
+ - 😝 [This is the way](http://9gag.com/gag/aryoqX7)
+ - 👉 [When someone says the Soviets `liberated` your country in WW2](http://9gag.com/gag/aGygAd0)<!-- MEMES:END -->
 
 ---
 

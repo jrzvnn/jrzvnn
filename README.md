@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
- - 💣 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 👉 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)<!-- MEMES:END -->
+ - 😝 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 💣 [Busted](http://9gag.com/gag/an75DgV)
+ - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
 
 ---
 

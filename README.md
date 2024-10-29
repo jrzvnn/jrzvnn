@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
- - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
- - 💣 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 😝 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
- - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
+ - 😝 [The end](http://9gag.com/gag/aYQ7EPq)
+ - 😝 [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
+ - 💣 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 😝 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
+ - 👉 [The Newlywed Game, ABC 1966-74](http://9gag.com/gag/ae951bQ)<!-- MEMES:END -->
 
 ---
 

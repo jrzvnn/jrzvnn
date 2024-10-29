@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 💣 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)
- - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
+ - 💣 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 😝 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)
  - 👉 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)<!-- MEMES:END -->
 
 ---

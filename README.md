@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
  - 😝 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 👉 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)<!-- MEMES:END -->
+ - 👉 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)<!-- MEMES:END -->
 
 ---
 

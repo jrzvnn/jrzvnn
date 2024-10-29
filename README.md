@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates the Mac mini with a much smaller design, M4 or M4 Pro, two front-facing USB-C ports, up to 64GB of RAM, and more, shipping November 8 for $599+ &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241029/p16#a241029p16)
+ - [New Mac mini arrives with redesign, powerful M4 &amp; M4 Pro processors, more USB-C](https://appleinsider.com/articles/24/10/29/new-mac-mini-arrives-with-redesign-powerful-m4-m4-pro-processors-more-usb-c?utm_medium=rss)
  - [Mac Mini &lpar;2024&rpar;: Specs, Release Date, Price, Features](https://www.wired.com/story/apple-mac-mini-2024/)
  - [Apple announces redesigned Mac Mini with M4 chip — and it’s so damn small](https://www.theverge.com/2024/10/29/24281589/apple-mac-mini-redesign-m4-announcement-specs)
- - [Volvo and Polestar EVs are now getting Tesla Supercharger access](https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs)
- - [The Playdate Stereo Dock has been shelved](https://www.theverge.com/2024/10/29/24282637/panic-playdate-stereo-dock-bluetooth-speaker-pause-development-challenges)
- - [14 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2024&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)<!-- TECH:END -->
+ - [Volvo and Polestar EVs are now getting Tesla Supercharger access](https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

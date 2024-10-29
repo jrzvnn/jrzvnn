@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can preorder Apple’s new iMac and Mac Mini with M4](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
  - [Consensys, the maker of the MetaMask crypto wallet, is cutting 162 staff, ~20% of its workforce, and notes costly fights with regulators &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/241029/p23#a241029p23)
  - [These bookmarking apps can organize all of that content you’re saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
  - [Apple stuck the Mac mini power button on the bottom](https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom?utm_medium=rss)
- - [LinkedIn launches Hiring Assistant, an AI agent designed to take on a wide array of recruitment tasks like sourcing candidates, to a select group of customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241029/p22#a241029p22)
- - [Sources: OpenAI is working with Broadcom and TSMC to build its first in-house AI chip focusing on inference, and has scaled back its foundry ambitions &lpar;Reuters&rpar;](http://www.techmeme.com/241029/p21#a241029p21)<!-- TECH:END -->
+ - [LinkedIn launches Hiring Assistant, an AI agent designed to take on a wide array of recruitment tasks like sourcing candidates, to a select group of customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241029/p22#a241029p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s iPhone exports jump up to $6 billion in six months](https://appleinsider.com/articles/24/10/29/indias-iphone-exports-jump-up-to-6-billion-in-six-months?utm_medium=rss)
  - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
  - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)
  - [Social Security Disability Insurance November 2024: Here&#39;s When You&#39;ll Get Your Check](https://www.cnet.com/personal-finance/social-security-disability-insurance-november-2024-heres-when-youll-get-your-check/#ftag=CAD590a51e)
- - [As Schools Ban Phones, More Kids Are Using Smartwatches](https://www.wired.com/story/schools-ban-phones-but-kids-arrive-with-smartwatches-edsurge/)
- - [22 of the Best Gifts Under $50 for 2024](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Schools Ban Phones, More Kids Are Using Smartwatches](https://www.wired.com/story/schools-ban-phones-but-kids-arrive-with-smartwatches-edsurge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

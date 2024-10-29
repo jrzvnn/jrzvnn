@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 😝 [We wouldn&#39;t wanna do that](http://9gag.com/gag/aKGdvBj)
- - 💣 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
+ - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
  - 😝 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
- - 👉 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)<!-- MEMES:END -->
+ - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
 
 ---
 

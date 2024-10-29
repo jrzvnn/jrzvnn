@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)
+ - 😝 [Poor guy](http://9gag.com/gag/aoy54K3)
+ - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
+ - 💣 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
  - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 💣 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
- - 👉 [When your children are very empathetic and care about you.](http://9gag.com/gag/avyoEEM)<!-- MEMES:END -->
+ - 👉 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)<!-- MEMES:END -->
 
 ---
 

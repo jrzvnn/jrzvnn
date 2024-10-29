@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $100 on Apple&#39;s 2024 iMac M4 with Best Buy Plus](https://appleinsider.com/articles/24/10/29/save-up-to-100-on-apples-2024-imac-m4-with-best-buy-plus?utm_medium=rss)
  - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
  - [Amazon leaks redesigned Mac mini with M4 Pro](https://appleinsider.com/articles/24/10/29/amazon-leaks-redesigned-mac-mini-with-m4-pro?utm_medium=rss)
  - [Singapore-based fintech Zinc, which offers financial services tools for overseas students, raised a $25.5M seed led by Nexus Venture Partners &lpar;The Economic Times&rpar;](http://www.techmeme.com/241028/p36#a241028p36)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 29, #36](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-29-36/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 29, #1228](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-29-1228/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 29, #36](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-29-36/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

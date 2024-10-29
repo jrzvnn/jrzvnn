@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud Q3 revenue grew 35% YoY to $11.4B, vs. $10.88B est., led by growth across AI Infrastructure, Generative AI Solutions, and core GCP products &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/241029/p26#a241029p26)
- - [Alphabet reports Q3 revenue up 15% YoY to $88.27B, Search revenue up 12% to $49.39B, net income up 34% to $26.3B, and traffic acquisition costs up 9% to $13.72B &lpar;Alphabet&rpar;](http://www.techmeme.com/241029/p25#a241029p25)
- - [Google accused of violating labor law for asking workers to ‘refrain’ from talking about antitrust case](https://www.theverge.com/2024/10/29/24278993/google-labor-law-nlrb-alphabet-labor-union-antitrust-search-remedies)
- - [An Elon Musk-funded super PAC is putting out fake pro-Harris ads](https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac)
- - [Growing Out Your Hair? Try Taking More of These Vitamins for Long, Lush Locks](https://www.cnet.com/health/nutrition/vitamins-for-long-hair/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD reports Q3 revenue up 18% YoY to $6.82B, vs. $6.71B est., Data Center revenue up 122% to $3.5B, and Q4 revenue forecast below est.; AMD drops 5% after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241029/p30#a241029p30)
+ - [Reddit Q3: revenue up 68% YoY to $348.4M, vs. $312.8M est., DAUs up 47% YoY to 97.2M, vs. 96.5M est, ARPU of $3.58, vs. $3.24 est.; RDDT jumps 20%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241029/p29#a241029p29)
+ - [Snap reports Q3 revenue up 15% YoY to $1.37B vs. $1.36B est., DAUs up 9% YoY to 443M, issues light Q4 guidance, and announces $500M stock repurchase program &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241029/p28#a241029p28)
+ - [YouTube Q3 ad revenue grew 12.2% YoY to $8.92B, vs. $8.89B est.; total ads and subscription revenues passed $50B over the past four quarters for the first time &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241029/p27#a241029p27)
+ - [Google Cloud Q3 revenue grew 35% YoY to $11.4B, vs. $10.88B est., led by accelerated growth in AI Infrastructure, Generative AI Solutions, and core GCP products &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/241029/p26#a241029p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

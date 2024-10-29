@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Map of La Plata, Argentina. One of the best planned cities in the world. Volvamos a los cl\u00e1sicos.](http://9gag.com/gag/aGygnYz)
- - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 💣 [`we have vintage 50 years aged Kool aid`](http://9gag.com/gag/a9yR5dW)
- - 😝 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
- - 👉 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)<!-- MEMES:END -->
+ - 😝 [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
+ - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
+ - 💣 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 😝 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)
+ - 👉 [No title](http://9gag.com/gag/a0eRVgZ)<!-- MEMES:END -->
 
 ---
 

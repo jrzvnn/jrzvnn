@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2024&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)
  - [Technics SC-CX700 Review: Faithful Musical Reproduction](https://www.wired.com/review/technics-sc-cx700/)
  - [Apple has killed the 8K120 support note for the M4 iMac](https://appleinsider.com/articles/24/10/29/apple-has-killed-the-8k120-support-note-for-the-m4-imac?utm_medium=rss)
- - [One of the best Mac calendar apps is now available for Windows](https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app)
- - [Cadillac’s first performance EV is the Lyriq-V](https://www.theverge.com/2024/10/29/24282592/cadillac-lyriq-v-series-performance-2026)
- - [Test iPhone 17 models are reportedly already being developed in India](https://appleinsider.com/articles/24/10/29/test-iphone-17-models-are-reportedly-already-being-developed-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Is Your iPhone Lagging? Speed Up a Slow iPhone With These Easy Tips](https://www.cnet.com/tech/mobile/is-your-iphone-lagging-speed-up-slow-iphone-with-easy-tips/#ftag=CAD590a51e)
+ - [Fans of &#39;What We Do in the Shadows&#39; Should Absolutely Watch This Cult Horror Comedy](https://www.cnet.com/tech/services-and-software/fans-of-what-we-do-in-the-shadows-should-absolutely-watch-this-cult-horror-comedy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 😝 [Activate all neurons](http://9gag.com/gag/aVv0L3n)
+ - 😝 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)
  - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
- - 😝 [This is the way](http://9gag.com/gag/aryoqX7)
- - 👉 [When someone says the Soviets `liberated` your country in WW2](http://9gag.com/gag/aGygAd0)<!-- MEMES:END -->
+ - 😝 [When someone says the Soviets `liberated` your country in WW2](http://9gag.com/gag/aGygAd0)
+ - 👉 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 👉 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)<!-- MEMES:END -->
+ - 😝 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
+ - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 💣 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
+ - 😝 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - 👉 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)<!-- MEMES:END -->
 
 ---
 

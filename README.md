@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 😝 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - 💣 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 😝 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)
- - 👉 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)<!-- MEMES:END -->
+ - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 😝 [Now she\u2019s more confident, haha!](http://9gag.com/gag/a34RAd5)
+ - 💣 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
+ - 😝 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
+ - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
 
 ---
 

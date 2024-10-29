@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vizio’s new ‘MicMe’ soundbar has built-in karaoke](https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones)
+ - [Lucid announces pricing of upcoming Gravity SUV](https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation)
+ - [The future of crypto regulation comes down to one unpopular man](https://www.theverge.com/24280387/gary-gensler-sec-chair-presidential-election-2024)
  - [What to expect from Apple&#39;s Q4 2024 earnings on October 31](https://appleinsider.com/articles/24/10/29/what-to-expect-from-apples-q4-2024-earnings-on-october-31?utm_medium=rss)
- - [32 Best Gifts for Teens &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [Barcelona-based brain-computer interface startup Inbrain, which plans to work with graphene, raised $50M led by Imec.xpand and plans a trial of 10 patients &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241029/p13#a241029p13)
- - [Trump’s takeover of the entire legal system hinges on this election](https://www.theverge.com/24279829/trump-supreme-court-federal-judiciary-judges)
- - [Amazon plans to shut down its Kindle Vella serialized story platform in February 2025; users won&#39;t lose access to unlocked stories after the program closes &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/241029/p12#a241029p12)<!-- TECH:END -->
+ - [32 Best Gifts for Teens &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gift-ideas-for-teens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
- - [Two possible futures for AI](https://www.theverge.com/2024/10/29/24282333/ai-vision-anthropic-openai-shakealert-vergecast)
- - [This election will decide what kind of car you’ll buy](https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car)
- - [Sources: in a first, Apple is using an Indian factory to do the early manufacturing work for the base iPhone 17; the primary iPhone 17 Pro sites remain in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/241029/p14#a241029p14)<!-- TECH:END -->
+ - [Cadillac’s first performance EV is the Lyriq-V](https://www.theverge.com/2024/10/29/24282592/cadillac-lyriq-v-series-performance-2026)
+ - [Test iPhone 17 models are reportedly already being developed in India](https://appleinsider.com/articles/24/10/29/test-iphone-17-models-are-reportedly-already-being-developed-in-india?utm_medium=rss)
+ - [Why Meta is well positioned to be AI&#39;s main beneficiary in the short, medium, and long term: generative AI, ads, infinite content, XR, &quot;generative UI&quot;, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/241029/p15#a241029p15)
+ - [The Verge’s guide to the 2024 presidential election](https://www.theverge.com/24279527/2024-presidential-election-guide-tech-policy)
+ - [Best iPhone &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

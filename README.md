@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor guy](http://9gag.com/gag/aoy54K3)
- - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
- - 💣 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
+ - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 😝 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
+ - 💣 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
+ - 😝 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
+ - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
 
 ---
 

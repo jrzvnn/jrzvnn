@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Magic Mouse charging port design has never been a big deal](https://appleinsider.com/articles/24/10/29/apples-magic-mouse-charging-port-design-has-never-been-a-big-deal?utm_medium=rss)
+ - [Kindle Paperwhite Review &lpar;2024&rpar;: The E-Reader to Get](https://www.wired.com/review/kindle-paperwhite-signature-edition-2024/)
+ - [A vote for Donald Trump is a vote for school shootings and measles](https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024)
  - [An analysis of the top US congressional X accounts: Republicans had nearly all of the posts with 20M+ views and saw bigger gains in followers since July 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/241029/p11#a241029p11)
- - [Shopify says it has lured hundreds of Salesforce clients, including Mattel and Casper; analysts say Shopify overtook Salesforce&#39;s e-commerce business in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p10#a241029p10)
- - [Sources: TSMC has suspended shipments of 7nm chips to at least two chip developers over suspicions they were trying to circumvent US export controls on Huawei &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/241029/p9#a241029p9)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [Update Your Apple Watch Now to Get These New WatchOS 11 Features](https://www.cnet.com/tech/mobile/update-your-apple-watch-now-to-get-these-new-watchos-11-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shopify says it has lured hundreds of Salesforce clients, including Mattel and Casper; analysts say Shopify overtook Salesforce&#39;s e-commerce business in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p10#a241029p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

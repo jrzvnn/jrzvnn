@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale)
- - [Nintendo’s open-world RPG Xenoblade Chronicles X is getting remastered for the Switch](https://www.theverge.com/2024/10/29/24282741/xenoblade-chronicles-x-nintendo-switch-release-date-march-2025)
- - [Elon Musk&#39;s PAC sends Republicans texts impersonating Kamala Harris without disclaimers, pushing policies Harris doesn&#39;t support, and ups its social ads spend &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241029/p20#a241029p20)
- - [GitHub plans to update Copilot to support Anthropic, Google, and OpenAI models, unveils AI web app building tool Spark, updates Copilot in VS Code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241029/p19#a241029p19)
- - [Apple&#39;s new M4 Mac mini announcement video shows off Apple TV-like design](https://appleinsider.com/articles/24/10/29/apples-new-m4-mac-mini-announcement-video-shows-off-apple-tv-like-design?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: OpenAI is working with Broadcom and TSMC to build its first in-house AI chip focusing on inference, and has scaled back its foundry ambitions &lpar;Reuters&rpar;](http://www.techmeme.com/241029/p21#a241029p21)
+ - [Apple brings the Mac mini to life in a new short video](https://appleinsider.com/articles/24/10/29/apple-brings-the-mac-mini-to-life-in-a-new-short-video?utm_medium=rss)
+ - [A smaller Mac mini brings big problems for server farms and accessory makers](https://appleinsider.com/articles/24/10/29/a-smaller-mac-mini-brings-big-problems-for-server-farms-and-accessory-makers?utm_medium=rss)
+ - [AI effects and text captions are coming to Final Cut Pro](https://appleinsider.com/articles/24/10/29/ai-effects-and-text-captions-are-coming-to-final-cut-pro?utm_medium=rss)
+ - [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activate all neurons](http://9gag.com/gag/aVv0L3n)
- - 😝 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)
- - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
- - 😝 [When someone says the Soviets `liberated` your country in WW2](http://9gag.com/gag/aGygAd0)
- - 👉 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)<!-- MEMES:END -->
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 😝 [Forbidden chocolate cookie batter.](http://9gag.com/gag/a6ZNB32)
+ - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
+ - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
 
 ---
 

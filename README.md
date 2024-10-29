@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
  - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
  - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 👉 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)<!-- MEMES:END -->
+ - 😝 [Busted](http://9gag.com/gag/an75DgV)
+ - 👉 [That look](http://9gag.com/gag/a6ZNnLL)<!-- MEMES:END -->
 
 ---
 

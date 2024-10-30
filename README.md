@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Alexa Skills revolution that wasn’t](https://www.theverge.com/24283253/amazon-alexa-skills-app-store-10th-anniversary)
+ - [Shinichirō Watanabe is ready to tell humanity something about itself with Lazarus](https://www.theverge.com/2024/10/30/24279398/shinichiro-watanabe-lazarus-interview-opioid-crisis-climate-change-sci-fi)
  - [13 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)
- - [Judges let algorithms help them make decisions, except when they don’t](https://www.theverge.com/2024/10/30/24281924/pretrial-risk-assessment-algorithms-research)
- - [The Amazon Echo graveyard](https://www.theverge.com/24271840/amazon-alexa-echo-discontinued-smart-home-assistant)
- - [M4 Pro Mac mini vs M1 Max Mac Studio compared: Smaller and better](https://appleinsider.com/inside/mac-mini/vs/m4-pro-mac-mini-vs-m1-max-mac-studio-compared-smaller-and-better?utm_medium=rss)
- - [Sources: in August, Andy Jassy called Donald Trump to outline Amazon&#39;s plans, and Trump said Amazon should cut him a large check for his presidential efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/241030/p25#a241030p25)<!-- TECH:END -->
+ - [Judges are using algorithms to justify doing what they already want](https://www.theverge.com/2024/10/30/24281924/pretrial-risk-assessment-algorithms-research)
+ - [The Amazon Echo graveyard](https://www.theverge.com/24271840/amazon-alexa-echo-discontinued-smart-home-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

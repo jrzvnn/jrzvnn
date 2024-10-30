@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s Q4 2024 earnings on October 31](https://appleinsider.com/articles/24/10/29/what-to-expect-from-apples-q4-2024-earnings-on-october-31?utm_medium=rss)
+ - [Kindle Colorsoft review: color display, quick page-turns, pinch-to-zoom, auto-adjusting front light, and no lockscreen ads, but pricey and screen has a blue hue &lpar;Valentina Palladino/Engadget&rpar;](http://www.techmeme.com/241030/p24#a241030p24)
  - [Dropbox CEO Drew Houston says the company is laying off 528 employees, or 20% of its workforce, as it enters a &quot;transitional period&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241030/p23#a241030p23)
  - [Alexa, thank you for the music](https://www.theverge.com/24282920/alexa-amazon-echo-care-senior)
- - [Donald Trump&#39;s Ground Game in Michigan Is Mostly Glitchy Apps and Vibes](https://www.wired.com/story/donald-trump-kamala-harris-michigan/)
- - [Kindle Colorsoft Review: A Color E-Reader and Not Much Else](https://www.wired.com/review/kindle-colorsoft/)
- - [Super Micro&#39;s stock drops 25%+ after disclosing that auditor Ernst &amp; Young had resigned following months of disagreement over governance and board independence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241030/p22#a241030p22)<!-- TECH:END -->
+ - [Donald Trump&#39;s Ground Game in Michigan Is Mostly Glitchy Apps and Vibes](https://www.wired.com/story/donald-trump-kamala-harris-michigan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

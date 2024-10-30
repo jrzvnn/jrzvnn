@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Reliance Retail plans to leverage its 3,000 supermarkets to catch up with India&#39;s quick commerce boom, which is expected to hit $6B in sales in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/241030/p4#a241030p4)
  - [Trump Media &amp; Technology Group&#39;s stock rose 8.8% on Oct. 29, pushing its five-week rally to 324%, adding $7.9B+ in market cap; Trump&#39;s stake is now worth ~$6B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241030/p3#a241030p3)
  - [Sources: Toyota and NTT plan to invest $3.3B to develop AI automotive software capable of Level 4 or Level 5 autonomy by 2028 and provide it to other automakers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241030/p2#a241030p2)
  - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p1#a241030p1)
- - [Alternative Sleep Cycles: How to Survive on 3 Hours of Sleep Each Night](https://www.cnet.com/health/sleep/alternative-sleep-cycles-how-to-survive-on-three-hours-of-sleep-each-night/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p1#a241030p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

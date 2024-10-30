@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
- - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 💣 [Busted](http://9gag.com/gag/an75DgV)
- - 😝 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)
- - 👉 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
+ - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 😝 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
+ - 💣 [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)
- - 😝 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
- - 💣 [Third class citizens](http://9gag.com/gag/a0eRO3X)
- - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
- - 👉 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)<!-- MEMES:END -->
+ - 😝 [Busted](http://9gag.com/gag/an75DgV)
+ - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
+ - 👉 [Right in front of my OSHA book ?!](http://9gag.com/gag/a6ZNp6e)<!-- MEMES:END -->
 
 ---
 

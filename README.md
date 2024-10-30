@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink Mini review: space internet goes ultraportable](https://www.theverge.com/24275688/starlink-mini-review-battery-powered-backpack-comparison)
  - [Waymo wants to use Google’s Gemini to train its robotaxis](https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi)
  - [The Best Spooky Tech for Your Halloween Smart Home: Smart Bulbs, Projectors, and More](https://www.wired.com/story/smart-home-halloween-tech/)
  - [Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human](https://www.theverge.com/2024/10/30/24283592/boston-dynamics-atlas-robot-autonomous)
- - [Cyberpunk 2077 will launch on Mac next year](https://www.theverge.com/2024/10/30/24283651/cyberpunk-2077-launch-mac)
- - [Apple releases a new video hyping up the new MacBook Pro lineup](https://appleinsider.com/articles/24/10/30/apple-releases-a-new-video-hyping-up-the-new-macbook-pro-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [Cyberpunk 2077 will launch on Mac next year](https://www.theverge.com/2024/10/30/24283651/cyberpunk-2077-launch-mac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

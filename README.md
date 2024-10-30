@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reliance Retail plans to leverage its 3,000 supermarkets to catch up with India&#39;s quick commerce boom, which is expected to hit $6B in sales in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/241030/p4#a241030p4)
- - [Trump Media &amp; Technology Group&#39;s stock rose 8.8% on Oct. 29, pushing its five-week rally to 324%, adding $7.9B+ in market cap; Trump&#39;s stake is now worth ~$6B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241030/p3#a241030p3)
- - [Sources: Toyota and NTT plan to invest $3.3B to develop AI automotive software capable of Level 4 or Level 5 autonomy by 2028 and provide it to other automakers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241030/p2#a241030p2)
- - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p1#a241030p1)<!-- TECH:END -->
+ - [Contributions to generative AI projects on GitHub grew 59% YoY between October 2023 and September 2024 and Python topped JavaScript as the most popular language &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/241030/p7#a241030p7)
+ - [Factor Promo Code: $130 Off in November 2024](https://www.wired.com/story/factor-promo-code/)
+ - [European Data Center Association Chair says lowering water temperatures to cool AI data centers is &quot;incompatible&quot; with the EU&#39;s new Energy Efficiency Directive &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/241030/p6#a241030p6)
+ - [NordVPN Coupon: Up to 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
+ - [Exclusive Logitech Promo Code: 10% Off in November 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

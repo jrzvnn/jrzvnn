@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel has its 2025 Disney Plus roadmap all laid out](https://www.theverge.com/2024/10/30/24283711/marvel-disney-plus-premiere-dates-2025-wonder-man-eyes-of-wakanda-ironheart-daredevil-born-again)
  - [Starlink Mini review: space internet goes ultraportable](https://www.theverge.com/24275688/starlink-mini-review-battery-powered-backpack-comparison)
- - [Waymo wants to use Google’s Gemini to train its robotaxis](https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi)
- - [The Best Spooky Tech for Your Halloween Smart Home: Smart Bulbs, Projectors, and More](https://www.wired.com/story/smart-home-halloween-tech/)
- - [Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human](https://www.theverge.com/2024/10/30/24283592/boston-dynamics-atlas-robot-autonomous)
- - [Cyberpunk 2077 will launch on Mac next year](https://www.theverge.com/2024/10/30/24283651/cyberpunk-2077-launch-mac)<!-- TECH:END -->
+ - [Best Bank Account Bonuses for October 2024](https://www.cnet.com/personal-finance/best-bank-account-bonuses/#ftag=CAD590a51e)
+ - [3 Rules for When Police Can Seize Your Home Security Videos](https://www.cnet.com/home/security/rules-for-when-police-can-seize-your-home-security-videos/#ftag=CAD590a51e)
+ - [Waymo wants to use Google’s Gemini to train its robotaxis](https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

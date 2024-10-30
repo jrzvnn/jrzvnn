@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media &amp; Technology Group&#39;s stock rose 8.8% on Oct. 29, pushing its five-week rally to 324%, adding $7.9B+ in market cap; Trump&#39;s stake is now worth ~$6B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/241030/p3#a241030p3)
  - [Sources: Toyota and NTT plan to invest $3.3B to develop AI automotive software capable of Level 4 or Level 5 autonomy by 2028 and provide it to other automakers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241030/p2#a241030p2)
+ - [Best Pillows for Back Sleepers in 2024](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
  - [China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p1#a241030p1)
- - [Canon’s budget-friendly 3D lens will be available in November](https://www.theverge.com/2024/10/30/24282588/canon-lens-3d-vr-eos-r7-camera)
- - [Samsung&#39;s stock has dropped 32% from its 2024 peak on July 9, cutting $122B off its market cap, more than any other chipmaker worldwide on AI and foundry woes &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p41#a241029p41)
- - [IDC: Samsung&#39;s global market share in Q3 fell from 21% to 18% YoY, the only one of the top five global smartphone makers to experience falling shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/241029/p40#a241029p40)<!-- TECH:END -->
+ - [Alternative Sleep Cycles: How to Survive on 3 Hours of Sleep Each Night](https://www.cnet.com/health/sleep/alternative-sleep-cycles-how-to-survive-on-three-hours-of-sleep-each-night/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

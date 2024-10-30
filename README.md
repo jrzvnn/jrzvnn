@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail how TikTok quickly struck a deal with GoTo to buy a ~75% stake in Tokopedia, letting TikTok restart TikTok Shop in Indonesia in December 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p18#a241030p18)
  - [Visa and Coinbase partner to let eligible US and EU users deposit funds into their Coinbase accounts, sometimes instantly; Visa powers the Coinbase debit card &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241030/p17#a241030p17)
  - [A Bluesky board member discusses the state of decentralized social media: big growth after Elon Musk bought X, but needs a &quot;killer app&quot; for long term appeal &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241030/p16#a241030p16)
  - [A Lost Mayan City Has Been Found With Laser Mapping](https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/)
- - [Google updates Chrome desktop to let users choose how aggressively it frees up inactive tab resources across three modes, and adds a Performance Detection tool &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241030/p15#a241030p15)
- - [PlayStation shutters Firewalk, which released shooter game Concord earlier in 2024 before taking it offline, and mobile studio Neon Koi, impacting ~210 jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241030/p14#a241030p14)<!-- TECH:END -->
+ - [Google updates Chrome desktop to let users choose how aggressively it frees up inactive tab resources across three modes, and adds a Performance Detection tool &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241030/p15#a241030p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

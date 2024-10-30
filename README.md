@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 💣 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
  - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
- - 👉 [TRAIN SURFING: so far 6 teenagers died from it and of course 1 lawsuit from a mom](http://9gag.com/gag/an75xgq)<!-- MEMES:END -->
+ - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
+ - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 😝 [TRAIN SURFING: so far 6 teenagers died from it and of course 1 lawsuit from a mom](http://9gag.com/gag/an75xgq)
+ - 👉 [The office](http://9gag.com/gag/a2vROZO)<!-- MEMES:END -->
 
 ---
 

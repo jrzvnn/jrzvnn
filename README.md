@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parallels Desktop now lets you use Apple Intelligence tools in Windows applications](https://appleinsider.com/articles/24/10/30/parallels-desktop-now-lets-you-use-apple-intelligence-tools-in-windows-applications?utm_medium=rss)
+ - [Coinbase reports Q3 revenue up 79% YoY to $1.21B, vs. $1.26B est., a $75M net income, vs. a $2.3M loss in Q3 2023, and announces a $1B stock buyback &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241030/p44#a241030p44)
  - [Microsoft Q1: Windows OEM and Devices revenue up 2% YoY, and Xbox content and services revenue up 61% YoY, but Xbox hardware revenue down 29% YoY &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241030/p43#a241030p43)
- - [Why you’re seeing those gross political ads during the World Series](https://www.theverge.com/2024/10/30/24283757/world-series-political-ads-anti-trans-abortion-dodgers-yankees)
- - [Robinhood reports Q3 revenue up 36% YoY to $637M, vs. $657.9M est., and crypto transaction revenue up 165% to $61M; HOOD drops 8%+ after hours &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241030/p42#a241030p42)
- - [eBay reports Q3 revenue up 3% YoY to $2.58B, GMV up 2% to $18.3B, net income down 51% to $636M, and forecasts Q4 revenue below est.; EBAY drops 9%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241030/p41#a241030p41)
- - [Microsoft’s gaming revenue keeps going up, even though hardware sales are down](https://www.theverge.com/2024/10/30/24283812/microsoft-q1-2025-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
+ - [Eero 6 Plus vs. Eero Pro 6E: Compare Amazon&#39;s Mesh Wi-Fi Systems](https://www.cnet.com/home/internet/eero-6-plus-vs-eero-pro-6e-wi-fi-mesh-routers/#ftag=CAD590a51e)
+ - [Save on Food, Travel and More: How to Maximize the Chase Sapphire Preferred Card](https://www.cnet.com/personal-finance/credit-cards/save-on-food-travel-and-more-how-to-maximize-the-chase-sapphire-preferred-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

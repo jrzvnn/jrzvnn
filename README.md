@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the price-matching policies for Best Buy, Walmart, Amazon, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
  - [Siemens agrees to buy engineering software company Altair for ~$10B including debt, a 19% premium on Altair&#39;s October 21 closing price; deal to close in H2 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p50#a241030p50)
- - [Roku reports Q3 revenue up 16% YoY to $1.06B, vs. $1.02B est., 85.5M streaming households, up 2M QoQ, and Q4 guidance below est.; ROKU drops 11%+ after hours &lpar;Alexandra Canal/Yahoo Finance&rpar;](http://www.techmeme.com/241030/p49#a241030p49)
- - [Meta is pushing for the government to use its AI](https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings)
- - [Nintendo Music app now available on iPhone](https://appleinsider.com/articles/24/10/30/nintendo-music-app-now-available-on-iphone?utm_medium=rss)
- - [Nintendo announces Nintendo Music, an app that lets Switch Online subscribers stream or download gaming tunes from Nintendo titles, available on Android and iOS &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/241030/p48#a241030p48)<!-- TECH:END -->
+ - [I Got to Play With Apple&#39;s New M4 Mac Mini, iMac and MacBook Pro](https://www.cnet.com/tech/computing/i-got-to-play-with-apples-new-m4-mac-mini-imac-and-macbook-pro/#ftag=CAD590a51e)
+ - [The Headless Halloween Comet Has Been Murdered by the Sun](https://www.cnet.com/science/the-headless-halloween-comet-has-been-murdered-by-the-sun/#ftag=CAD590a51e)
+ - [Roku reports Q3 revenue up 16% YoY to $1.06B, vs. $1.02B est., 85.5M streaming households, up 2M QoQ, and Q4 guidance below est.; ROKU drops 11%+ after hours &lpar;Alexandra Canal/Yahoo Finance&rpar;](http://www.techmeme.com/241030/p49#a241030p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Collect &#39;em all in Pokemon TCG Pocket, now available for iPad, iPhone](https://appleinsider.com/articles/24/10/30/collect-em-all-in-pokemon-tcg-pocket-now-available-for-ipad-iphone?utm_medium=rss)
+ - [Chaos Labs and Inca Digital analysts say Polymarket activity exhibits signs of wash trading, a form of market manipulation to create a false volume and activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241030/p26#a241030p26)
  - [The Alexa Skills revolution that wasn’t](https://www.theverge.com/24283253/amazon-alexa-skills-app-store-10th-anniversary)
  - [Shinichirō Watanabe is ready to tell humanity something about itself with Lazarus](https://www.theverge.com/2024/10/30/24279398/shinichiro-watanabe-lazarus-interview-opioid-crisis-climate-change-sci-fi)
- - [13 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)
- - [Judges are using algorithms to justify doing what they already want](https://www.theverge.com/2024/10/30/24281924/pretrial-risk-assessment-algorithms-research)
- - [The Amazon Echo graveyard](https://www.theverge.com/24271840/amazon-alexa-echo-discontinued-smart-home-assistant)<!-- TECH:END -->
+ - [13 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

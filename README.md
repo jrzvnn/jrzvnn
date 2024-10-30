@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [65% OFF Walmart Promo Codes, Coupons | November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
  - [Contributions to generative AI projects on GitHub grew 59% YoY between October 2023 and September 2024 and Python topped JavaScript as the most popular language &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/241030/p7#a241030p7)
  - [Factor Promo Code: $130 Off in November 2024](https://www.wired.com/story/factor-promo-code/)
  - [European Data Center Association Chair says lowering water temperatures to cool AI data centers is &quot;incompatible&quot; with the EU&#39;s new Energy Efficiency Directive &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/241030/p6#a241030p6)
- - [NordVPN Coupon: Up to 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
- - [Exclusive Logitech Promo Code: 10% Off in November 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [NordVPN Coupon: Up to 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

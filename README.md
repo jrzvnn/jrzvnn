@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
- - 💣 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
- - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
+ - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
+ - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 😝 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 

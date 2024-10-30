@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So KCDII gets denuvo... just canccelled my preorder too. Heartbreaking.](http://9gag.com/gag/aGygGb7)
- - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
- - 👉 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)<!-- MEMES:END -->
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 😝 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
+ - 💣 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
+ - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
 
 ---
 

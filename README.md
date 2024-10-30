@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kids with Android phones will be able to use Google Wallet tap-to-pay soon](https://www.theverge.com/2024/10/30/24283825/android-phones-google-wallet-tap-to-pay-fitbit-ace-lte)
+ - [Global Payments agrees to sell medical software business AdvancedMD to investment firm Francisco Partners for $1.13B; the deal is expected to close in Q4 2024 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241030/p33#a241030p33)
  - [Ubisoft dumps its NFT game on the market to little fanfare](https://www.theverge.com/2024/10/30/24283677/ubisoft-nft-game-champions-tactics-grimoria-chronicles-sequence)
  - [How to create and save Chrome tab groups](https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to)
- - [A first look at Apple’s redesigned Mac Mini and its other new Macs](https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos)
- - [Colorado says that some partial passwords for the state&#39;s voting systems were accidentally posted online but pose no threat to the November 5 general election &lpar;Jasper Ward/Reuters&rpar;](http://www.techmeme.com/241030/p32#a241030p32)
- - [Call of Duty’s massive filesize drives peak internet usage](https://www.theverge.com/2024/10/30/24283801/comcast-call-of-duty-black-ops-6-large-downloads)<!-- TECH:END -->
+ - [A first look at Apple’s redesigned Mac Mini and its other new Macs](https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

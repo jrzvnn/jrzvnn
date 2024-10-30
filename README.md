@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku reports Q3 revenue up 16% YoY to $1.06B, vs. $1.02B est., a net loss of $9.03M, vs. $330.1M in Q3 2023, and 85.5M streaming households, up 2M from Q2 2024 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/241030/p39#a241030p39)
+ - [Microsoft reports Q1 Intelligent Cloud revenue up 20% YoY to $24.09B, vs. $24.04B est., including Azure and other cloud services up 33% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241030/p38#a241030p38)
  - [Meta&#39;s Reality Labs posts Q3 revenue up 29% YoY to $270M, vs. $310.4M est., and a $4.4B operating loss, vs. $4.68B est.; Reality Labs has lost ~$58B since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241030/p37#a241030p37)
  - [DoorDash reports Q3 revenue up 25% YoY to $2.71B, vs. $2.66B est., total orders up 18% YoY to 643M, and forecasts Q4 adjusted EBITDA above estimates &lpar;Ananya Mariam Rajesh/Reuters&rpar;](http://www.techmeme.com/241030/p36#a241030p36)
- - [Amazon Has Dropped the Price of the Keurig K-Express to Just $60](https://www.cnet.com/deals/amazon-has-dropped-the-price-of-the-keurig-k-express-to-just-60/#ftag=CAD590a51e)
- - [Meta reports Q3 revenue up 19% YoY to $40.59B, net income up 35% to $15.69B, and family daily active people up 5% to 3.29B on average for September 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/241030/p35#a241030p35)
- - [Target&#39;s Black Friday Details Revealed: Don&#39;t Miss These Early Offers](https://www.cnet.com/deals/target-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Has Dropped the Price of the Keurig K-Express to Just $60](https://www.cnet.com/deals/amazon-has-dropped-the-price-of-the-keurig-k-express-to-just-60/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

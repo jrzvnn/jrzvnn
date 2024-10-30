@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Air gets a surprise upgrade to 16GB of RAM](https://www.theverge.com/2024/10/30/24282981/apple-macbook-air-m2-m3-16gb-ram-minimum-price-unchanged)
- - [Apple’s Mac week: everything announced](https://www.theverge.com/2024/10/30/24281607/apple-mac-week-everything-announced-m4-imac-macbook-pro)
- - [Apple updates the MacBook Pro with M4 Pro and M4 Max chips](https://www.theverge.com/2024/10/30/24270706/apple-macbook-pro-m4-pro-max-14-16-announcement-specs)
- - [All of Apple’s Macs now start with 16GB of RAM](https://www.theverge.com/2024/10/30/24270669/apple-macbook-pro-mac-mini-imac-16gb-ram-doubled-apple-intelligence-ai)
- - [Deadpool &amp; Wolverine hits Disney Plus this November](https://www.theverge.com/2024/10/30/24283598/deadpool-and-wolverine-disney-plus-premiere-date)<!-- TECH:END -->
+ - [iPhone 16 struggles to catch on while Pro models hold strong](https://appleinsider.com/articles/24/10/30/iphone-16-struggles-to-catch-fire-while-pro-models-hold-strong?utm_medium=rss)
+ - [Watch Apple’s M4 MacBook Pro announcement video](https://www.theverge.com/2024/10/30/24283485/apple-macbook-pro-m4-max-announcement-watch-video)
+ - [Sources: the European Commission plans to open formal DSA proceedings against Temu over concerns the platform is failing to curb the sale of illegal products &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p30#a241030p30)
+ - [MacBook Air doubles base memory to 16GB for same $999](https://appleinsider.com/articles/24/10/30/macbook-air-doubles-base-memory-to-16gb-for-same-999?utm_medium=rss)
+ - [Apple unveils the M4 Max: up to a 16-core CPU for up to 2.2x speeds over the M1 Max, up to a 40-core GPU, up to 128GB of memory, Thunderbolt 5, and more &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/241030/p29#a241030p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

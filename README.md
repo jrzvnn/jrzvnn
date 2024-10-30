@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing is making a glow-in-the-dark phone](https://www.theverge.com/2024/10/30/24282844/nothing-phone-2a-plus-community-edition-glowing)
  - [A profile of US voting machine maker Clear Ballot, which helps officials check paper ballots via its app, as Elon Musk spreads conspiracy theories about hacking &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/241030/p20#a241030p20)
  - [‘Double Standards and Hypocrisy’: The Dissent at Cisco Over the War in Gaza](https://www.wired.com/story/cisco-dissent-gaza-israel-war/)
  - [UK filings: Stability AI co-founder and ex-CEO Emad Mostaque has given up his controlling shares in the startup; Mostaque owned 75%+, per previous filings &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241030/p19#a241030p19)
- - [Sources detail how TikTok quickly struck a deal with GoTo to buy a ~75% stake in Tokopedia, letting TikTok restart TikTok Shop in Indonesia in December 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p18#a241030p18)
- - [Bag Apple&#39;s 9th-Gen iPad for Just $200 While You Still Can](https://www.cnet.com/deals/bag-apples-9th-gen-ipad-for-just-200-while-you-still-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail how TikTok quickly struck a deal with GoTo to buy a ~75% stake in Tokopedia, letting TikTok restart TikTok Shop in Indonesia in December 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p18#a241030p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

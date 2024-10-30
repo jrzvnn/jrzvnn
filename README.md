@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 struggles to catch fire while Pro models hold strong](https://appleinsider.com/articles/24/10/30/iphone-16-struggles-to-catch-fire-while-pro-models-hold-strong?utm_medium=rss)
- - [Collect &#39;em all in Pokemon TCG Pocket, now available for iPad, iPhone](https://appleinsider.com/articles/24/10/30/collect-em-all-in-pokemon-tcg-pocket-now-available-for-ipad-iphone?utm_medium=rss)
- - [Chaos Labs and Inca Digital analysts say Polymarket activity exhibits signs of wash trading, a form of market manipulation to create a false volume and activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241030/p26#a241030p26)
- - [The Alexa Skills revolution that wasn’t](https://www.theverge.com/24283253/amazon-alexa-skills-app-store-10th-anniversary)
- - [Shinichirō Watanabe is ready to tell humanity something about itself with Lazarus](https://www.theverge.com/2024/10/30/24279398/shinichiro-watanabe-lazarus-interview-opioid-crisis-climate-change-sci-fi)<!-- TECH:END -->
+ - [The MacBook Air gets a surprise upgrade to 16GB of RAM](https://www.theverge.com/2024/10/30/24282981/apple-macbook-air-m2-m3-16gb-ram-minimum-price-unchanged)
+ - [Apple’s Mac week: everything announced](https://www.theverge.com/2024/10/30/24281607/apple-mac-week-everything-announced-m4-imac-macbook-pro)
+ - [Apple updates the MacBook Pro with M4 Pro and M4 Max chips](https://www.theverge.com/2024/10/30/24270706/apple-macbook-pro-m4-pro-max-14-16-announcement-specs)
+ - [All of Apple’s Macs now start with 16GB of RAM](https://www.theverge.com/2024/10/30/24270669/apple-macbook-pro-mac-mini-imac-16gb-ram-doubled-apple-intelligence-ai)
+ - [Deadpool &amp; Wolverine hits Disney Plus this November](https://www.theverge.com/2024/10/30/24283598/deadpool-and-wolverine-disney-plus-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

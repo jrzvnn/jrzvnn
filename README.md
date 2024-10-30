@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub Copilot for Xcode now in public preview](https://appleinsider.com/articles/24/10/30/github-copilot-for-xcode-now-in-public-preview?utm_medium=rss)
- - [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://www.theverge.com/2024/10/29/24283263/amd-radeon-rdna-4-gpus-2025)
- - [Best Solar Panel Installation Companies in Arizona](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
- - [Election 2024: Is It Too Late to Request a Mail-In Ballot for Voting? Where Your State Stands](https://www.cnet.com/news/election-2024-is-it-too-late-to-request-a-mail-in-ballot-for-voting-where-your-state-stands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says Russian hackers have sent &quot;highly targeted spearphishing emails&quot; to thousands of US officials, defense workers, and others in a phishing campaign &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241029/p39#a241029p39)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-30/#ftag=CAD590a51e)
+ - [Best Internet Providers in New Orleans, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-new-orleans-la/#ftag=CAD590a51e)
+ - [Best iPhone 16 and iPhone 16 Pro Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)
+ - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

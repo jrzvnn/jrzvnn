@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
- - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 😝 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - 😝 [Best first date](http://9gag.com/gag/amo5RQd)
+ - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - 💣 [KARMA](http://9gag.com/gag/a5QR59N)
+ - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
 
 ---
 

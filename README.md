@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 😝 [It is ok](http://9gag.com/gag/agm5x7K)
- - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
- - 👉 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)<!-- MEMES:END -->
+ - 😝 [Busted](http://9gag.com/gag/an75DgV)
+ - 😝 [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - 💣 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - 😝 [Japan started putting up this flyer everywhere and guess who they&#39;re referring to.](http://9gag.com/gag/a9yROzm)
+ - 👉 [Savage teacher](http://9gag.com/gag/aRB0Ow5)<!-- MEMES:END -->
 
 ---
 

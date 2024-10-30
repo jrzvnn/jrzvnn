@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK filings: Stability AI co-founder and ex-CEO Emad Mostaque has given up his controlling shares in the startup; Mostaque owned 75%+, per previous filings &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241030/p19#a241030p19)
  - [Sources detail how TikTok quickly struck a deal with GoTo to buy a ~75% stake in Tokopedia, letting TikTok restart TikTok Shop in Indonesia in December 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p18#a241030p18)
- - [Visa and Coinbase partner to let eligible US and EU users deposit funds into their Coinbase accounts, sometimes instantly; Visa powers the Coinbase debit card &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241030/p17#a241030p17)
- - [A Bluesky board member discusses the state of decentralized social media: big growth after Elon Musk bought X, but needs a &quot;killer app&quot; for long term appeal &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241030/p16#a241030p16)
- - [A Lost Mayan City Has Been Found With Laser Mapping](https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/)
- - [Google updates Chrome desktop to let users choose how aggressively it frees up inactive tab resources across three modes, and adds a Performance Detection tool &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241030/p15#a241030p15)<!-- TECH:END -->
+ - [Bag Apple&#39;s 9th-Gen iPad for Just $200 While You Still Can](https://www.cnet.com/deals/bag-apples-9th-gen-ipad-for-just-200-while-you-still-can/#ftag=CAD590a51e)
+ - [Never Overpay for Airfare With These 5 Tips to Get Cheaper Plane Tickets](https://www.cnet.com/personal-finance/credit-cards/never-overpay-for-airfare-with-these-5-tips-to-get-cheaper-plane-tickets/#ftag=CAD590a51e)
+ - [Visa and Coinbase partner to let eligible US and EU users deposit funds into their Coinbase accounts, sometimes instantly; Visa powers the Coinbase debit card &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241030/p17#a241030p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

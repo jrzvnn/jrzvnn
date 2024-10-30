@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says the company&#39;s AI-driven feed and video recommendations have led to an 8% increase in time spent on Facebook and a 6% increase on Instagram &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p47#a241030p47)
  - [Mark Zuckerberg says Threads has almost 275M MAUs and is adding more than a million sign ups per day, while Meta AI has passed 500M MAUs &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241030/p46#a241030p46)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Nintendo made a music streaming app for Switch Online subscribers](https://www.theverge.com/2024/10/30/24284073/nintendo-music-streaming-app-switch-online-subscribers)
- - [Google’s AI-powered weather app is rolling out to older Pixels](https://www.theverge.com/2024/10/30/24283998/google-weather-app-pixel-8-7-6-ai-summaries)
- - [HP 23.8&quot; FHD All-in-One Desktop](https://www.cnet.com/tech/computing/hp-23-8-fhd-all-in-one-desktop-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s AI-powered weather app is rolling out to older Pixels](https://www.theverge.com/2024/10/30/24283998/google-weather-app-pixel-8-7-6-ai-summaries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

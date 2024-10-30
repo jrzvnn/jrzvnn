@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
- - 💣 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)
- - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
+ - 😝 [It is ok](http://9gag.com/gag/agm5x7K)
+ - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 😝 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
+ - 👉 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)<!-- MEMES:END -->
 
 ---
 

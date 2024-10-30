@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway](https://www.wired.com/story/hospitals-ai-transcription-tools-hallucination/)
  - [Here we go again - Apple again rumored to buy Intel](https://appleinsider.com/articles/24/10/30/here-we-go-again---apple-again-rumored-to-buy-intel?utm_medium=rss)
  - [Samsung Galaxy Book5 Pro 360 Review: Too Buggy](https://www.wired.com/review/samsung-galaxy-book5-pro-360/)
  - [Nothing is making a glow-in-the-dark phone](https://www.theverge.com/2024/10/30/24282844/nothing-phone-2a-plus-community-edition-glowing)
- - [A profile of US voting machine maker Clear Ballot, which helps officials check paper ballots via its app, as Elon Musk spreads conspiracy theories about hacking &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/241030/p20#a241030p20)
- - [Razer Wolverine V3 Pro Xbox Wireless Controller Review: Just About Perfect](https://www.cnet.com/tech/gaming/razer-wolverine-v3-pro-xbox-wireless-controller-review-just-about-perfect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of US voting machine maker Clear Ballot, which helps officials check paper ballots via its app, as Elon Musk spreads conspiracy theories about hacking &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/241030/p20#a241030p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

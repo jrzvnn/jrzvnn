@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s Q4 2024 earnings on October 31](https://appleinsider.com/articles/24/10/29/what-to-expect-from-apples-q4-2024-earnings-on-october-31?utm_medium=rss)
- - [Kindle Colorsoft review: color display, quick page-turns, pinch-to-zoom, auto-adjusting front light, and no lockscreen ads, but pricey and screen has a blue hue &lpar;Valentina Palladino/Engadget&rpar;](http://www.techmeme.com/241030/p24#a241030p24)
- - [Dropbox CEO Drew Houston says the company is laying off 528 employees, or 20% of its workforce, as it enters a &quot;transitional period&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241030/p23#a241030p23)
- - [Alexa, thank you for the music](https://www.theverge.com/24282920/alexa-amazon-echo-care-senior)
- - [Donald Trump&#39;s Ground Game in Michigan Is Mostly Glitchy Apps and Vibes](https://www.wired.com/story/donald-trump-kamala-harris-michigan/)<!-- TECH:END -->
+ - [13 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)
+ - [Judges let algorithms help them make decisions, except when they don’t](https://www.theverge.com/2024/10/30/24281924/pretrial-risk-assessment-algorithms-research)
+ - [The Amazon Echo graveyard](https://www.theverge.com/24271840/amazon-alexa-echo-discontinued-smart-home-assistant)
+ - [M4 Pro Mac mini vs M1 Max Mac Studio compared: Smaller and better](https://appleinsider.com/inside/mac-mini/vs/m4-pro-mac-mini-vs-m1-max-mac-studio-compared-smaller-and-better?utm_medium=rss)
+ - [Sources: in August, Andy Jassy called Donald Trump to outline Amazon&#39;s plans, and Trump said Amazon should cut him a large check for his presidential efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/241030/p25#a241030p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

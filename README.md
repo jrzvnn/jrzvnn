@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Busted](http://9gag.com/gag/an75DgV)
- - 😝 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 💣 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
- - 😝 [Japan started putting up this flyer everywhere and guess who they&#39;re referring to.](http://9gag.com/gag/a9yROzm)
- - 👉 [Savage teacher](http://9gag.com/gag/aRB0Ow5)<!-- MEMES:END -->
+ - 😝 [Dwight is a straight shooter](http://9gag.com/gag/a2vRLW9)
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 💣 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 👉 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)<!-- MEMES:END -->
 
 ---
 

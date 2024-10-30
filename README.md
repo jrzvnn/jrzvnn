@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IDC: Samsung&#39;s global market share in Q3 fell from 21% to 18% YoY, the only one of the top five global smartphone makers to experience falling shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/241029/p40#a241029p40)
  - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)
  - [Microsoft says Russian hackers have sent &quot;highly targeted spearphishing emails&quot; to thousands of US officials, defense workers, and others in a phishing campaign &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241029/p39#a241029p39)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-30/#ftag=CAD590a51e)
- - [Best Internet Providers in New Orleans, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-new-orleans-la/#ftag=CAD590a51e)
- - [Best iPhone 16 and iPhone 16 Pro Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in New Orleans, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-new-orleans-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

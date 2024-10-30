@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
- - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 💣 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 😝 [It is ok](http://9gag.com/gag/agm5x7K)
- - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 💣 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)
+ - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
 
 ---
 

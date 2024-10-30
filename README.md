@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visa and Coinbase partner to let eligible US and EU users deposit funds into their Coinbase accounts, sometimes instantly; Visa powers the Coinbase debit card &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241030/p17#a241030p17)
+ - [A Bluesky board member discusses the state of decentralized social media: big growth after Elon Musk bought X, but needs a &quot;killer app&quot; for long term appeal &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241030/p16#a241030p16)
+ - [A Lost Mayan City Has Been Found With Laser Mapping](https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/)
  - [Google updates Chrome desktop to let users choose how aggressively it frees up inactive tab resources across three modes, and adds a Performance Detection tool &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241030/p15#a241030p15)
- - [PlayStation shutters Firewalk, which released shooter game Concord earlier in 2024 before taking it offline, and mobile studio Neon Koi, impacting ~210 jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241030/p14#a241030p14)
- - [Sources: SoftBank plans to put Arm&#39;s tech at the center of a new network of data centres to build and train AI, setting Arm on a collision course with Nvidia &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p13#a241030p13)
- - [A look at TikTok-owned Tokopedia&#39;s sprawling e-commerce logistics network for delivering goods across Indonesia, a country of 270M people and 17,000 islands &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p12#a241030p12)
- - [These 3 Apple Intelligence Features in iOS 18.1 Are the Ones You&#39;ll Actually Use](https://www.cnet.com/tech/services-and-software/these-3-apple-intelligence-features-in-ios-18-1-are-the-ones-youll-actually-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation shutters Firewalk, which released shooter game Concord earlier in 2024 before taking it offline, and mobile studio Neon Koi, impacting ~210 jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241030/p14#a241030p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

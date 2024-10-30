@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces Nintendo Music, an app that lets Switch Online subscribers stream or download gaming tunes from Nintendo titles, available on Android and iOS &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/241030/p48#a241030p48)
- - [Mark Zuckerberg says the company&#39;s AI-driven feed and video recommendations have led to an 8% increase in time spent on Facebook and a 6% increase on Instagram &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p47#a241030p47)
- - [Mark Zuckerberg says Threads has almost 275M MAUs and is adding more than a million sign ups per day, while Meta AI has passed 500M MAUs &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241030/p46#a241030p46)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Nintendo made a music streaming app for Switch Online subscribers](https://www.theverge.com/2024/10/30/24284073/nintendo-music-streaming-app-switch-online-subscribers)<!-- TECH:END -->
+ - [Siemens agrees to buy engineering software company Altair for ~$10B including debt, a 19% premium on Altair&#39;s October 21 closing price; deal to close in H2 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p50#a241030p50)
+ - [Roku reports Q3 revenue up 16% YoY to $1.06B, vs. $1.02B est., 85.5M streaming households, up 2M QoQ, and Q4 guidance below est.; ROKU drops 11%+ after hours &lpar;Alexandra Canal/Yahoo Finance&rpar;](http://www.techmeme.com/241030/p49#a241030p49)
+ - [Meta is pushing for the government to use its AI](https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings)
+ - [Nintendo Music app now available on iPhone](https://appleinsider.com/articles/24/10/30/nintendo-music-app-now-available-on-iphone?utm_medium=rss)
+ - [Nintendo announces Nintendo Music, an app that lets Switch Online subscribers stream or download gaming tunes from Nintendo titles, available on Android and iOS &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/241030/p48#a241030p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

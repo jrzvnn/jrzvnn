@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iPad Air is on sale in all four colors for its lowest price to date](https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale)
- - [Google doesn’t sell headsets anymore — but its app store is getting ready for them](https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak)
- - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)
- - [Roku will stop giving quarterly updates on the number of streaming households and average revenue per user, starting Q1 2025, following Netflix&#39;s footsteps &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/241030/p45#a241030p45)
- - [Workers Say They Were Tricked and Threatened as Part of Elon Musk’s Get-Out-the-Vote Effort](https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads has almost 275M MAUs and is adding more than a million sign ups per day, while Meta AI has passed 500M MAUs &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241030/p46#a241030p46)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Nintendo made a music streaming app for Switch Online subscribers](https://www.theverge.com/2024/10/30/24284073/nintendo-music-streaming-app-switch-online-subscribers)
+ - [Google’s AI-powered weather app is rolling out to older Pixels](https://www.theverge.com/2024/10/30/24283998/google-weather-app-pixel-8-7-6-ai-summaries)
+ - [HP 23.8&quot; FHD All-in-One Desktop](https://www.cnet.com/tech/computing/hp-23-8-fhd-all-in-one-desktop-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

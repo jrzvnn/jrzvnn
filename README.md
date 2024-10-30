@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The blind girl was given the best Christmas present. She loves Harry Potter but Braille books are very expensive. Her aunt collected money for a volume of one of the parts and donated it.](http://9gag.com/gag/a4PRWq6)
- - 😝 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 💣 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
- - 😝 [Japan started putting up this flyer everywhere and guess who they&#39;re referring to.](http://9gag.com/gag/a9yROzm)
- - 👉 [Savage teacher](http://9gag.com/gag/aRB0Ow5)<!-- MEMES:END -->
+ - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 💣 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 😝 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 👉 [TRAIN SURFING: so far 6 teenagers died from it and of course 1 lawsuit from a mom](http://9gag.com/gag/an75xgq)<!-- MEMES:END -->
 
 ---
 

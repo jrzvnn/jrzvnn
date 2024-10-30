@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to create and save Chrome tab groups](https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to)
+ - [A first look at Apple’s redesigned Mac Mini and its other new Macs](https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos)
  - [Colorado says that some partial passwords for the state&#39;s voting systems were accidentally posted online but pose no threat to the November 5 general election &lpar;Jasper Ward/Reuters&rpar;](http://www.techmeme.com/241030/p32#a241030p32)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
- - [Best Weightlifting Shoes for 2024](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [Best Internet Providers in Waco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-waco-tx/#ftag=CAD590a51e)
- - [Best Produce Delivery Services in 2024](https://www.cnet.com/health/nutrition/best-produce-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Call of Duty’s massive filesize drives peak internet usage](https://www.theverge.com/2024/10/30/24283801/comcast-call-of-duty-black-ops-6-large-downloads)
+ - [M4 Pro 14-inch MacBook Pro vs M1 Pro 14-inch MacBook Pro compared: Big performance gains in three years](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m4-pro-14-inch-macbook-pro-vs-m1-pro-14-inch-macbook-pro-compared-big-performance-gains-in-three-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

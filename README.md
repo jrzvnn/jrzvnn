@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human](https://www.theverge.com/2024/10/30/24283592/boston-dynamics-atlas-robot-autonomous)
  - [Cyberpunk 2077 will launch on Mac next year](https://www.theverge.com/2024/10/30/24283651/cyberpunk-2077-launch-mac)
  - [Apple releases a new video hyping up the new MacBook Pro lineup](https://appleinsider.com/articles/24/10/30/apple-releases-a-new-video-hyping-up-the-new-macbook-pro-lineup?utm_medium=rss)
  - [New MacBook Pro arrives with M4 Pro, M4 Max, and a black colorway](https://appleinsider.com/articles/24/10/30/new-macbook-pro-arrives-with-m4-pro-m4-max-and-a-black-colorway?utm_medium=rss)
- - [&#39;We&#39;re a Fortress Now&#39;: The Militarization of US Elections Is Here](https://www.wired.com/story/2024-us-election-polling-location-militarized-security/)
- - [iPhone 16 struggles to catch on while Pro models hold strong](https://appleinsider.com/articles/24/10/30/iphone-16-struggles-to-catch-fire-while-pro-models-hold-strong?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;We&#39;re a Fortress Now&#39;: The Militarization of US Elections Is Here](https://www.wired.com/story/2024-us-election-polling-location-militarized-security/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
- - 💣 [Damn.](http://9gag.com/gag/aKGdO6Z)
- - 😝 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)
- - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
+ - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 💣 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 👉 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)<!-- MEMES:END -->
 
 ---
 

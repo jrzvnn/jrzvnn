@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
- - 😝 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 💣 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 😝 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
- - 👉 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)<!-- MEMES:END -->
+ - 😝 [A typical collapse at a cobalt mine in Africa.](http://9gag.com/gag/aQz12jr)
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 💣 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 😝 [Busted](http://9gag.com/gag/an75DgV)
+ - 👉 [It is ok](http://9gag.com/gag/agm5x7K)<!-- MEMES:END -->
 
 ---
 

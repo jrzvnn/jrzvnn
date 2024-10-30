@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft quietly launches its first blockchain game, Champions Tactics: Grimoria Chronicles, available for free on PC; in-game figurines cost $7 to $63K &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/241030/p21#a241030p21)
- - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
- - [Razer&#39;s Basilisk V3 X HyperSpeed Wireless Mouse Is at Its Lowest Price Ever](https://www.cnet.com/deals/razers-basilisk-v3-x-hyperspeed-wireless-mouse-is-at-its-lowest-price-ever/#ftag=CAD590a51e)
- - [10 Best Horror Movies to Watch on Netflix Right Now for Halloween](https://www.cnet.com/tech/services-and-software/10-best-horror-movies-to-watch-on-netflix-right-now-halloween/#ftag=CAD590a51e)
- - [Google Pixel 9 Pro Fold vs. Samsung Galaxy Z Fold 6: How Their Cameras Compare](https://www.cnet.com/tech/mobile/google-pixel-9-pro-fold-vs-samsung-galaxy-z-fold-6-how-their-cameras-compare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Super Micro&#39;s stock drops 25%+ after disclosing that auditor Ernst &amp; Young had resigned following months of disagreement over governance and board independence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241030/p22#a241030p22)
+ - [Cuzen Electric Matcha Maker Review: Great Tea but a Lazy Design](https://www.wired.com/review/cuzen-matcha-electric-matcha-maker/)
+ - [Avride rolls out its next-gen sidewalk delivery robots](https://www.theverge.com/2024/10/30/24282906/avride-sidewalk-delivery-robot-update-wheels)
+ - [Alexa, where’s my Star Trek Computer?](https://www.theverge.com/24282710/amazon-alexa-ai-star-trek-computer-10-years-assistant)
+ - [Ubisoft quietly launches its first blockchain game, Champions Tactics: Grimoria Chronicles, available for free on PC; in-game figurines cost $7 to $63K &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/241030/p21#a241030p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

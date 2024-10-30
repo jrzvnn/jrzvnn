@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Circle raises its fees to 0.03%+ per transaction for near-instant USDC redemptions above $2M; CoinGecko: USDC&#39;s market circulation is $35B, below USDT&#39;s $123B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241030/p11#a241030p11)
  - [Gallup: ~67% of US workers say they never use AI tools at work, while 4% use them daily and say they see benefits in productivity, efficiency, and more &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/241030/p10#a241030p10)
- - [Sources: an upcoming UK government-commissioned report says the UK should streamline the visa process for AI experts and create special zones for data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p9#a241030p9)
+ - [Sources: an upcoming UK government-commissioned report says the UK should streamline the visa process for AI experts and create special zones for data centers &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241030/p9#a241030p9)
  - [Q&amp;A with scientists Charley Kline and Bill Duvall, who sent the first Arpanet message in 1969, on what the internet has become, lessons from Arpanet, and more &lpar;Scott Nover/BBC&rpar;](http://www.techmeme.com/241030/p8#a241030p8)
- - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)
- - [Sennheiser’s new wireless clip-on mics can convert to a tabletop microphone](https://www.theverge.com/2024/10/30/24279394/sennheiser-profile-wireless-microphone)<!-- TECH:END -->
+ - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

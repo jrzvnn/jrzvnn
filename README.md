@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
+ - [Elon Musk’s Criticism of ‘Woke AI’ Suggests ChatGPT Could Be a Trump Administration Target](https://www.wired.com/llm-political-bias/)
  - [Starlink Mini review: super compact and light, can be powered by a small power bank, installs quickly at new locations, but Wi-Fi range is sometimes a concern &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/241030/p31#a241030p31)
  - [Google’s Pixel 9A might get a bigger display](https://www.theverge.com/2024/10/30/24283754/google-pixel-9a-bigger-display-price-rumors-leak)
- - [Dropbox cuts its workforce by 20 percent in latest round of layoffs](https://www.theverge.com/2024/10/30/24283613/dropbox-layoffs-20-percent-slow-core-business-demand)
- - [Apple takes a three-day week for its Mac launches](https://appleinsider.com/articles/24/10/30/apple-takes-a-three-day-week-for-its-mac-launches?utm_medium=rss)
- - [&#39;Cyberpunk 2077 Ultimate Edition&#39; to hit Apple Silicon Macs in 2025](https://appleinsider.com/articles/24/10/30/cyberpunk-2077-ultimate-edition-to-hit-apple-silicon-macs-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Dropbox cuts its workforce by 20 percent in latest round of layoffs](https://www.theverge.com/2024/10/30/24283613/dropbox-layoffs-20-percent-slow-core-business-demand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

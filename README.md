@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)
- - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 💣 [Instructions unclear](http://9gag.com/gag/a875ey3)
- - 😝 [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
- - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
+ - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
 
 ---
 

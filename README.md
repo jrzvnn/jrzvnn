@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
- - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
+ - 😝 [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - 😝 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - 💣 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)
+ - 😝 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
+ - 👉 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
- - 😝 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
- - 💣 [Clever kid](http://9gag.com/gag/aqygDAR)
- - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
- - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
+ - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
+ - 💣 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
+ - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
 
 ---
 

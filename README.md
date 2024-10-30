@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Q1: Windows OEM and Devices revenue up 2% YoY, and Xbox content and services revenue up 61% YoY, but Xbox hardware revenue down 29% YoY &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241030/p43#a241030p43)
+ - [Why you’re seeing those gross political ads during the World Series](https://www.theverge.com/2024/10/30/24283757/world-series-political-ads-anti-trans-abortion-dodgers-yankees)
  - [Robinhood reports Q3 revenue up 36% YoY to $637M, vs. $657.9M est., and crypto transaction revenue up 165% to $61M; HOOD drops 8%+ after hours &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241030/p42#a241030p42)
  - [eBay reports Q3 revenue up 3% YoY to $2.58B, GMV up 2% to $18.3B, net income down 51% to $636M, and forecasts Q4 revenue below est.; EBAY drops 9%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241030/p41#a241030p41)
- - [Microsoft’s gaming revenue keeps going up, even though hardware sales are down](https://www.theverge.com/2024/10/30/24283812/microsoft-q1-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Disney Plus has grown big enough to need a top 10 list](https://www.theverge.com/2024/10/30/24283967/disney-plus-top-10-list)
- - [Former FTX chief engineer Nishad Singh avoids prison time over his role in the collapse of FTX, after a US judge lauded his cooperation with prosecutors &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p40#a241030p40)<!-- TECH:END -->
+ - [Microsoft’s gaming revenue keeps going up, even though hardware sales are down](https://www.theverge.com/2024/10/30/24283812/microsoft-q1-2025-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku will stop giving quarterly updates on the number of streaming households and average revenue per user, starting Q1 2025, following Netflix&#39;s footsteps &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/241030/p45#a241030p45)
+ - [Workers Say They Were Tricked and Threatened as Part of Elon Musk’s Get-Out-the-Vote Effort](https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/)
  - [Parallels Desktop now lets you use Apple Intelligence tools in Windows applications](https://appleinsider.com/articles/24/10/30/parallels-desktop-now-lets-you-use-apple-intelligence-tools-in-windows-applications?utm_medium=rss)
  - [Coinbase reports Q3 revenue up 79% YoY to $1.21B, vs. $1.26B est., a $75M net income, vs. a $2.3M loss in Q3 2023, and announces a $1B stock buyback &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241030/p44#a241030p44)
- - [Microsoft Q1: Windows OEM and Devices revenue up 2% YoY, and Xbox content and services revenue up 61% YoY, but Xbox hardware revenue down 29% YoY &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241030/p43#a241030p43)
- - [Eero 6 Plus vs. Eero Pro 6E: Compare Amazon&#39;s Mesh Wi-Fi Systems](https://www.cnet.com/home/internet/eero-6-plus-vs-eero-pro-6e-wi-fi-mesh-routers/#ftag=CAD590a51e)
- - [Save on Food, Travel and More: How to Maximize the Chase Sapphire Preferred Card](https://www.cnet.com/personal-finance/credit-cards/save-on-food-travel-and-more-how-to-maximize-the-chase-sapphire-preferred-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Q1: Windows OEM and Devices revenue up 2% YoY, and Xbox content and services revenue up 61% YoY, but Xbox hardware revenue down 29% YoY &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241030/p43#a241030p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
- - 😝 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
- - 💣 [24 years ago.](http://9gag.com/gag/aPARXdq)
- - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
- - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
+ - 😝 [So KCDII gets denuvo... just canccelled my preorder too. Heartbreaking.](http://9gag.com/gag/aGygGb7)
+ - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
+ - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 👉 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)<!-- MEMES:END -->
 
 ---
 

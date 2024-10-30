@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [It is ok](http://9gag.com/gag/agm5x7K)
- - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
+ - 💣 [Damn.](http://9gag.com/gag/aKGdO6Z)
  - 😝 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)
- - 👉 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)<!-- MEMES:END -->
+ - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
 
 ---
 

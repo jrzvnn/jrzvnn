@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink Mini review: super compact and light, can be powered by a small power bank, installs quickly at new locations, but Wi-Fi range is sometimes a concern &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/241030/p31#a241030p31)
+ - [Google’s Pixel 9A might get a bigger display](https://www.theverge.com/2024/10/30/24283754/google-pixel-9a-bigger-display-price-rumors-leak)
  - [Dropbox cuts its workforce by 20 percent in latest round of layoffs](https://www.theverge.com/2024/10/30/24283613/dropbox-layoffs-20-percent-slow-core-business-demand)
  - [Apple takes a three-day week for its Mac launches](https://appleinsider.com/articles/24/10/30/apple-takes-a-three-day-week-for-its-mac-launches?utm_medium=rss)
- - [&#39;Cyberpunk 2077 Ultimate Edition&#39; to hit Apple Silicon Macs in 2025](https://appleinsider.com/articles/24/10/30/cyberpunk-2077-ultimate-edition-to-hit-apple-silicon-macs-in-2025?utm_medium=rss)
- - [Early Voting Winds Down in Certain States: Is There Still Time for You Before Election Day?](https://www.cnet.com/news/politics/early-voting-winds-down-in-certain-states-is-there-still-time-for-you-before-election-day/#ftag=CAD590a51e)
- - [How to Enjoy Halloween Candy Without Letting the Sugar Rush Ruin Your Sleep](https://www.cnet.com/health/sleep/how-to-enjoy-halloween-candy-without-letting-the-sugar-rush-ruin-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Cyberpunk 2077 Ultimate Edition&#39; to hit Apple Silicon Macs in 2025](https://appleinsider.com/articles/24/10/30/cyberpunk-2077-ultimate-edition-to-hit-apple-silicon-macs-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

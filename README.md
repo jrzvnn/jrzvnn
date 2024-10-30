@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
  - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 💣 [Busted](http://9gag.com/gag/an75DgV)
- - 😝 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)
- - 👉 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
+ - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 👉 [It is ok](http://9gag.com/gag/agm5x7K)<!-- MEMES:END -->
 
 ---
 

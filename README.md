@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Micro&#39;s stock drops 25%+ after disclosing that auditor Ernst &amp; Young had resigned following months of disagreement over governance and board independence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241030/p22#a241030p22)
- - [Cuzen Electric Matcha Maker Review: Great Tea but a Lazy Design](https://www.wired.com/review/cuzen-matcha-electric-matcha-maker/)
- - [Avride rolls out its next-gen sidewalk delivery robots](https://www.theverge.com/2024/10/30/24282906/avride-sidewalk-delivery-robot-update-wheels)
- - [Alexa, where’s my Star Trek Computer?](https://www.theverge.com/24282710/amazon-alexa-ai-star-trek-computer-10-years-assistant)
- - [Ubisoft quietly launches its first blockchain game, Champions Tactics: Grimoria Chronicles, available for free on PC; in-game figurines cost $7 to $63K &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/241030/p21#a241030p21)<!-- TECH:END -->
+ - [Dropbox CEO Drew Houston says the company is laying off 528 employees, or 20% of its workforce, as it enters a &quot;transitional period&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241030/p23#a241030p23)
+ - [Alexa, thank you for the music](https://www.theverge.com/24282920/alexa-amazon-echo-care-senior)
+ - [Donald Trump&#39;s Ground Game in Michigan Is Mostly Glitchy Apps and Vibes](https://www.wired.com/story/donald-trump-kamala-harris-michigan/)
+ - [Kindle Colorsoft Review: A Color E-Reader and Not Much Else](https://www.wired.com/review/kindle-colorsoft/)
+ - [Super Micro&#39;s stock drops 25%+ after disclosing that auditor Ernst &amp; Young had resigned following months of disagreement over governance and board independence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241030/p22#a241030p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 struggles to catch on while Pro models hold strong](https://appleinsider.com/articles/24/10/30/iphone-16-struggles-to-catch-fire-while-pro-models-hold-strong?utm_medium=rss)
- - [Watch Apple’s M4 MacBook Pro announcement video](https://www.theverge.com/2024/10/30/24283485/apple-macbook-pro-m4-max-announcement-watch-video)
- - [Sources: the European Commission plans to open formal DSA proceedings against Temu over concerns the platform is failing to curb the sale of illegal products &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p30#a241030p30)
- - [MacBook Air doubles base memory to 16GB for same $999](https://appleinsider.com/articles/24/10/30/macbook-air-doubles-base-memory-to-16gb-for-same-999?utm_medium=rss)
- - [Apple unveils the M4 Max: up to a 16-core CPU for up to 2.2x speeds over the M1 Max, up to a 40-core GPU, up to 128GB of memory, Thunderbolt 5, and more &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/241030/p29#a241030p29)<!-- TECH:END -->
+ - [Cyberpunk 2077 will launch on Mac next year](https://www.theverge.com/2024/10/30/24283651/cyberpunk-2077-launch-mac)
+ - [Apple releases a new video hyping up the new MacBook Pro lineup](https://appleinsider.com/articles/24/10/30/apple-releases-a-new-video-hyping-up-the-new-macbook-pro-lineup?utm_medium=rss)
+ - [New MacBook Pro arrives with M4 Pro, M4 Max, and a black colorway](https://appleinsider.com/articles/24/10/30/new-macbook-pro-arrives-with-m4-pro-m4-max-and-a-black-colorway?utm_medium=rss)
+ - [&#39;We&#39;re a Fortress Now&#39;: The Militarization of US Elections Is Here](https://www.wired.com/story/2024-us-election-polling-location-militarized-security/)
+ - [iPhone 16 struggles to catch on while Pro models hold strong](https://appleinsider.com/articles/24/10/30/iphone-16-struggles-to-catch-fire-while-pro-models-hold-strong?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

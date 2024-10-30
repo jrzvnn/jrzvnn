@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Busted](http://9gag.com/gag/an75DgV)
- - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
- - 💣 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 😝 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 👉 [Right in front of my OSHA book ?!](http://9gag.com/gag/a6ZNp6e)<!-- MEMES:END -->
+ - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 😝 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
+ - 💣 [24 years ago.](http://9gag.com/gag/aPARXdq)
+ - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
+ - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
 
 ---
 

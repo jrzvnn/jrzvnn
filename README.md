@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)
  - [Roku will stop giving quarterly updates on the number of streaming households and average revenue per user, starting Q1 2025, following Netflix&#39;s footsteps &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/241030/p45#a241030p45)
  - [Workers Say They Were Tricked and Threatened as Part of Elon Musk’s Get-Out-the-Vote Effort](https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/)
  - [Parallels Desktop now lets you use Apple Intelligence tools in Windows applications](https://appleinsider.com/articles/24/10/30/parallels-desktop-now-lets-you-use-apple-intelligence-tools-in-windows-applications?utm_medium=rss)
- - [Coinbase reports Q3 revenue up 79% YoY to $1.21B, vs. $1.26B est., a $75M net income, vs. a $2.3M loss in Q3 2023, and announces a $1B stock buyback &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241030/p44#a241030p44)
- - [Microsoft Q1: Windows OEM and Devices revenue up 2% YoY, and Xbox content and services revenue up 61% YoY, but Xbox hardware revenue down 29% YoY &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241030/p43#a241030p43)<!-- TECH:END -->
+ - [Coinbase reports Q3 revenue up 79% YoY to $1.21B, vs. $1.26B est., a $75M net income, vs. a $2.3M loss in Q3 2023, and announces a $1B stock buyback &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241030/p44#a241030p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

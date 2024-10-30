@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
- - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
- - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
- - 😝 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
+ - 😝 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
+ - 💣 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
 
 ---
 

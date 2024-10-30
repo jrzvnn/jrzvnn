@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway](https://www.wired.com/story/hospitals-ai-transcription-tools-hallucination/)
- - [Here we go again - Apple again rumored to buy Intel](https://appleinsider.com/articles/24/10/30/here-we-go-again---apple-again-rumored-to-buy-intel?utm_medium=rss)
- - [Samsung Galaxy Book5 Pro 360 Review: Too Buggy](https://www.wired.com/review/samsung-galaxy-book5-pro-360/)
- - [Nothing is making a glow-in-the-dark phone](https://www.theverge.com/2024/10/30/24282844/nothing-phone-2a-plus-community-edition-glowing)
- - [A profile of US voting machine maker Clear Ballot, which helps officials check paper ballots via its app, as Elon Musk spreads conspiracy theories about hacking &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/241030/p20#a241030p20)<!-- TECH:END -->
+ - [Ubisoft quietly launches its first blockchain game, Champions Tactics: Grimoria Chronicles, available for free on PC; in-game figurines cost $7 to $63K &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/241030/p21#a241030p21)
+ - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
+ - [Razer&#39;s Basilisk V3 X HyperSpeed Wireless Mouse Is at Its Lowest Price Ever](https://www.cnet.com/deals/razers-basilisk-v3-x-hyperspeed-wireless-mouse-is-at-its-lowest-price-ever/#ftag=CAD590a51e)
+ - [10 Best Horror Movies to Watch on Netflix Right Now for Halloween](https://www.cnet.com/tech/services-and-software/10-best-horror-movies-to-watch-on-netflix-right-now-halloween/#ftag=CAD590a51e)
+ - [Google Pixel 9 Pro Fold vs. Samsung Galaxy Z Fold 6: How Their Cameras Compare](https://www.cnet.com/tech/mobile/google-pixel-9-pro-fold-vs-samsung-galaxy-z-fold-6-how-their-cameras-compare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

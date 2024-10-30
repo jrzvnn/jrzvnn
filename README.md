@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 😝 [They almost got away](http://9gag.com/gag/amo5xWy)
- - 💣 [The office](http://9gag.com/gag/a2vROZO)
- - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
- - 👉 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)<!-- MEMES:END -->
+ - 😝 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
+ - 💣 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)
+ - 😝 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
+ - 👉 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)<!-- MEMES:END -->
 
 ---
 

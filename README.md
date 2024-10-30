@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest iPad Air is on sale in all four colors for its lowest price to date](https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale)
  - [Google doesn’t sell headsets anymore — but its app store is getting ready for them](https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak)
  - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)
  - [Roku will stop giving quarterly updates on the number of streaming households and average revenue per user, starting Q1 2025, following Netflix&#39;s footsteps &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/241030/p45#a241030p45)
- - [Workers Say They Were Tricked and Threatened as Part of Elon Musk’s Get-Out-the-Vote Effort](https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/)
- - [Parallels Desktop now lets you use Apple Intelligence tools in Windows applications](https://appleinsider.com/articles/24/10/30/parallels-desktop-now-lets-you-use-apple-intelligence-tools-in-windows-applications?utm_medium=rss)<!-- TECH:END -->
+ - [Workers Say They Were Tricked and Threatened as Part of Elon Musk’s Get-Out-the-Vote Effort](https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty’s massive filesize drives peak internet usage](https://www.theverge.com/2024/10/30/24283801/comcast-call-of-duty-black-ops-6-large-downloads)
  - [M4 Pro 14-inch MacBook Pro vs M1 Pro 14-inch MacBook Pro compared: Big performance gains in three years](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m4-pro-14-inch-macbook-pro-vs-m1-pro-14-inch-macbook-pro-compared-big-performance-gains-in-three-years?utm_medium=rss)
  - [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
  - [Elon Musk’s Criticism of ‘Woke AI’ Suggests ChatGPT Could Be a Trump Administration Target](https://www.wired.com/llm-political-bias/)
- - [Starlink Mini review: super compact and light, can be powered by a small power bank, installs quickly at new locations, but Wi-Fi range is sometimes a concern &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/241030/p31#a241030p31)
- - [Google’s Pixel 9A might get a bigger display](https://www.theverge.com/2024/10/30/24283754/google-pixel-9a-bigger-display-price-rumors-leak)<!-- TECH:END -->
+ - [Starlink Mini review: super compact and light, can be powered by a small power bank, installs quickly at new locations, but Wi-Fi range is sometimes a concern &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/241030/p31#a241030p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

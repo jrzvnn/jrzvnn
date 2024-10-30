@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Reports Third Quarter 2024 Results &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/241030/p35#a241030p35)
- - [Earnings Release FY25 Q1 &lpar;Microsoft&rpar;](http://www.techmeme.com/241030/p34#a241030p34)
- - [Kids with Android phones will be able to use Google Wallet tap-to-pay soon](https://www.theverge.com/2024/10/30/24283825/android-phones-google-wallet-tap-to-pay-fitbit-ace-lte)
- - [Global Payments agrees to sell medical software business AdvancedMD to investment firm Francisco Partners for $1.13B; the deal is expected to close in Q4 2024 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241030/p33#a241030p33)
- - [Ubisoft dumps its NFT game on the market to little fanfare](https://www.theverge.com/2024/10/30/24283677/ubisoft-nft-game-champions-tactics-grimoria-chronicles-sequence)<!-- TECH:END -->
+ - [Meta&#39;s Reality Labs posts Q3 revenue up 29% YoY to $270M, vs. $310.4M est., and a $4.4B operating loss, vs. $4.68B est.; Reality Labs has lost ~$58B since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241030/p37#a241030p37)
+ - [DoorDash reports Q3 revenue up 25% YoY to $2.71B, vs. $2.66B est., total orders up 18% YoY to 643M, and forecasts Q4 adjusted EBITDA above estimates &lpar;Ananya Mariam Rajesh/Reuters&rpar;](http://www.techmeme.com/241030/p36#a241030p36)
+ - [Amazon Has Dropped the Price of the Keurig K-Express to Just $60](https://www.cnet.com/deals/amazon-has-dropped-the-price-of-the-keurig-k-express-to-just-60/#ftag=CAD590a51e)
+ - [Meta reports Q3 revenue up 19% YoY to $40.59B, net income up 35% to $15.69B, and family daily active people up 5% to 3.29B on average for September 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/241030/p35#a241030p35)
+ - [Target&#39;s Black Friday Details Revealed: Don&#39;t Miss These Early Offers](https://www.cnet.com/deals/target-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

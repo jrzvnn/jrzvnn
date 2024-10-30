@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank plans to put Arm&#39;s tech at the center of a new network of data centres to build and train AI, setting Arm on a collision course with Nvidia &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p13#a241030p13)
  - [A look at TikTok-owned Tokopedia&#39;s sprawling e-commerce logistics network for delivering goods across Indonesia, a country of 270M people and 17,000 islands &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p12#a241030p12)
  - [Circle raises its fees to 0.03%+ per transaction for near-instant USDC redemptions above $2M; CoinGecko: USDC&#39;s market circulation is $35B, below USDT&#39;s $123B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241030/p11#a241030p11)
  - [Gallup: ~67% of US workers say they never use AI tools at work, while 4% use them daily and say they see benefits in productivity, efficiency, and more &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/241030/p10#a241030p10)
- - [Sources: an upcoming UK government-commissioned report says the UK should streamline the visa process for AI experts and create special zones for data centers &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241030/p9#a241030p9)
- - [Q&amp;A with scientists Charley Kline and Bill Duvall, who sent the first Arpanet message in 1969, on what the internet has become, lessons from Arpanet, and more &lpar;Scott Nover/BBC&rpar;](http://www.techmeme.com/241030/p8#a241030p8)<!-- TECH:END -->
+ - [Sources: an upcoming UK government-commissioned report says the UK should streamline the visa process for AI experts and create special zones for data centers &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241030/p9#a241030p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

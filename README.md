@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 😝 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)
- - 💣 [Japan started putting up this flyer everywhere and guess who they&#39;re referring to.](http://9gag.com/gag/a9yROzm)
- - 😝 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
- - 👉 [Savage teacher](http://9gag.com/gag/aRB0Ow5)<!-- MEMES:END -->
+ - 😝 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 💣 [Instructions unclear](http://9gag.com/gag/a875ey3)
+ - 😝 [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
+ - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
 
 ---
 

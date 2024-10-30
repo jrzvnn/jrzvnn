@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood reports Q3 revenue up 36% YoY to $637M, vs. $657.9M est., and crypto transaction revenue up 165% to $61M; HOOD drops 8%+ after hours &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241030/p42#a241030p42)
+ - [eBay reports Q3 revenue up 3% YoY to $2.58B, GMV up 2% to $18.3B, net income down 51% to $636M, and forecasts Q4 revenue below est.; EBAY drops 9%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241030/p41#a241030p41)
  - [Microsoft’s gaming revenue keeps going up, even though hardware sales are down](https://www.theverge.com/2024/10/30/24283812/microsoft-q1-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
  - [Disney Plus has grown big enough to need a top 10 list](https://www.theverge.com/2024/10/30/24283967/disney-plus-top-10-list)
- - [Former FTX chief engineer Nishad Singh avoids prison time over his role in the collapse of FTX, after a US judge lauded his cooperation with prosecutors &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p40#a241030p40)
- - [Roku reports Q3 revenue up 16% YoY to $1.06B, vs. $1.02B est., a net loss of $9.03M, vs. $330.1M in Q3 2023, and 85.5M streaming households, up 2M from Q2 2024 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/241030/p39#a241030p39)
- - [Microsoft reports Q1 Intelligent Cloud revenue up 20% YoY to $24.09B, vs. $24.04B est., including Azure and other cloud services up 33% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241030/p38#a241030p38)<!-- TECH:END -->
+ - [Former FTX chief engineer Nishad Singh avoids prison time over his role in the collapse of FTX, after a US judge lauded his cooperation with prosecutors &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p40#a241030p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

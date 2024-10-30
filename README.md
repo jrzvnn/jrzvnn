@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 💣 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
+ - 😝 [It is ok](http://9gag.com/gag/agm5x7K)
+ - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
  - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 👉 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)<!-- MEMES:END -->
+ - 👉 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Research: China&#39;s industrial policy to make the nation a leader in emerging technologies has largely been a success, despite US efforts to contain the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p37#a241029p37)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)
- - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GitHub Copilot for Xcode now in public preview](https://appleinsider.com/articles/24/10/30/github-copilot-for-xcode-now-in-public-preview?utm_medium=rss)
+ - [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://www.theverge.com/2024/10/29/24283263/amd-radeon-rdna-4-gpus-2025)
+ - [Best Solar Panel Installation Companies in Arizona](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
+ - [Election 2024: Is It Too Late to Request a Mail-In Ballot for Voting? Where Your State Stands](https://www.cnet.com/news/election-2024-is-it-too-late-to-request-a-mail-in-ballot-for-voting-where-your-state-stands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

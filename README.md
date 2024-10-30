@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NO WEEBS](http://9gag.com/gag/aYQ7qRq)
- - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 💣 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)
- - 😝 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
+ - 😝 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
+ - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
+ - 💣 [Busted](http://9gag.com/gag/an75DgV)
+ - 😝 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)
+ - 👉 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
 
 ---
 

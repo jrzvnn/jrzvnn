@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best first date](http://9gag.com/gag/amo5RQd)
- - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
- - 💣 [KARMA](http://9gag.com/gag/a5QR59N)
- - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
- - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
+ - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
+ - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
 
 ---
 

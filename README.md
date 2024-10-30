@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 😝 [Busted](http://9gag.com/gag/an75DgV)
- - 💣 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)
- - 😝 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
- - 👉 [Savage teacher](http://9gag.com/gag/aRB0Ow5)<!-- MEMES:END -->
+ - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
+ - 😝 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)
+ - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)<!-- MEMES:END -->
 
 ---
 

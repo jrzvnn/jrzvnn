@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
+ - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)
  - [Aurora Innovation delays deploying its autonomous commercial trucks from Q4 2024 to April 2025 to validate its self-driving tech, with up to 10 trucks at launch &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241030/p53#a241030p53)
  - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)
- - [Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p52#a241030p52)
- - [Apple Vision Pro launching in United Arab Emirates &amp; South Korea November 15](https://appleinsider.com/articles/24/10/31/apple-vision-pro-launching-in-united-arab-emirates-south-korea-november-15?utm_medium=rss)
- - [Kraken lays off workers and names Arjun Sethi as co-CEO; sources say the cuts amount to 15% of its workforce, or ~400 employees, including the COO and the CTO &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p51#a241030p51)<!-- TECH:END -->
+ - [Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p52#a241030p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

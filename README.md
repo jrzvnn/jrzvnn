@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age is just a number](http://9gag.com/gag/a34R2Xr)
+ - 😝 [I can fix her](http://9gag.com/gag/a1mRL12)
  - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 💣 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 👉 [I can fix her](http://9gag.com/gag/a1mRL12)<!-- MEMES:END -->
+ - 💣 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)
+ - 😝 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)
+ - 👉 [Smooth Operator!](http://9gag.com/gag/ae95RGp)<!-- MEMES:END -->
 
 ---
 

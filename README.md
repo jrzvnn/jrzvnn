@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)
  - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
  - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)
- - [Aurora Innovation delays deploying its autonomous commercial trucks from Q4 2024 to April 2025 to validate its self-driving tech, with up to 10 trucks at launch &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241030/p53#a241030p53)
- - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 31, #1230](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-31-1230/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 31, #242](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-31-242/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

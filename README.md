@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com Announces Third Quarter Results &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/241031/p44#a241031p44)
- - [During a Reddit AMA, Sam Altman says GPT-5 likely won&#39;t come this year as OpenAI faces &quot;limitations and hard decisions&quot; in allocating compute resources &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241031/p43#a241031p43)
- - [Elon Musk&#39;s America PAC Has Created an Election Denial Cesspool on X](https://www.wired.com/story/elon-musk-america-pac-election-denial-community-x/)
- - [Squid Game runs it back in season 2 trailer](https://www.theverge.com/2024/10/31/24284809/squid-game-season-2-teaser-trailer)
- - [Meta is working with Wonik and GelSight to develop and commercialize tactile sensors for AI, including the Allegro robotic hand and Digit 360 tactile fingertips &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241031/p42#a241031p42)<!-- TECH:END -->
+ - [Tidal is laying off more staff](https://www.theverge.com/2024/10/31/24284801/tidal-jack-dorsey-layoffs-report)
+ - [Amazon reports Q3 ad revenue up 19% YoY to $14.33B, vs. $14.25B estimated, amid the company&#39;s push to insert ads into Prime Video &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241031/p47#a241031p47)
+ - [Elon Musk Could Have US Citizenship Revoked If He Lied on Immigration Forms](https://www.wired.com/story/elon-musk-citizenship-revoked-denaturalized/)
+ - [Amazon reports Q3 AWS revenue up 19% YoY to $27.5B and AWS operating income of $10.4B, up from $7B in Q3 2023, and subscription sales up 11% to $11.3B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241031/p46#a241031p46)
+ - [Intel reports Q3 revenue down 6% YoY to $13.28B, vs. $13.02B est., a net loss of $16.99B, and Q4 guidance above estimates; INTC jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p45#a241031p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aurora Innovation delays deploying its autonomous commercial trucks from Q4 2024 to April 2025 to validate its self-driving tech, with up to 10 trucks at launch &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241030/p53#a241030p53)
  - [Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p52#a241030p52)
  - [Apple Vision Pro launching in United Arab Emirates &amp; South Korea November 15](https://appleinsider.com/articles/24/10/31/apple-vision-pro-launching-in-united-arab-emirates-south-korea-november-15?utm_medium=rss)
  - [Kraken lays off workers and names Arjun Sethi as co-CEO; sources say the cuts amount to 15% of its workforce, or ~400 employees, including the COO and the CTO &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p51#a241030p51)
- - [Meta’s Next Llama AI Models Are Training on a GPU Cluster ‘Bigger Than Anything’ Else](https://www.wired.com/story/meta-llama-ai-gpu-training/)
- - [These Airlines Have the Most Flight Delays and Cancelations](https://www.cnet.com/personal-finance/these-airlines-have-the-most-flight-delays-and-cancelations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ExpressVPN Rolls Out More Data Protections With Identity Defender](https://www.cnet.com/tech/services-and-software/expressvpn-rolls-out-more-data-protections-with-identity-defender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

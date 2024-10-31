@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is working with Wonik and GelSight to develop and commercialize tactile sensors for AI, including the Allegro robotic hand and Digit 360 tactile fingertips &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241031/p42#a241031p42)
  - [RFK Jr. Wants to Reshape US Health Policy. Good Luck With That](https://www.wired.com/story/trump-rfk-jr-make-america-healthy-again-government-position/)
  - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Anthropic’s Claude AI chatbot now has a desktop app](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app)
- - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)
- - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)<!-- TECH:END -->
+ - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

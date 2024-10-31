@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He took that well](http://9gag.com/gag/aBygX8x)
- - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
- - 👉 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)<!-- MEMES:END -->
+ - 😝 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)
+ - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 💣 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
+ - 😝 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)
+ - 👉 [They know \ud83d\udc2c](http://9gag.com/gag/an75rV0)<!-- MEMES:END -->
 
 ---
 

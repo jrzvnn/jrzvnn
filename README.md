@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton names Ford executive Peter Stern as CEO, starting January 1, to lead its turnaround, and projects Q2 subscriber numbers below analyst estimates &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241031/p20#a241031p20)
  - [A clever hack fixes the new Mac mini power button&#39;s awkward location](https://appleinsider.com/articles/24/10/31/a-clever-hack-fixes-the-new-mac-mini-power-buttons-awkward-location?utm_medium=rss)
  - [Uber reports Q3 revenue up 20% YoY to $11.2B, above est., gross bookings up 16% YoY to $41B, a $1.1B operating income, above est. and up from $394M in Q3 2023 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241031/p19#a241031p19)
  - [A profile of Pepijn van der Stap, a Dutch prodigy who hacked thousands of companies&#39; data while also doing legitimate cybersecurity work and is now in prison &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241031/p18#a241031p18)
- - [Ahead of the Election, Social Media Platforms Have Given Up](https://www.wired.com/story/tech-companies-abdicated-responsibility-for-their-platforms/)
- - [US court docs: in 2022, Apple privately warned TikTok that it had more mature content than was suitable for under-17s and to change its App Store age rating &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/241031/p17#a241031p17)<!-- TECH:END -->
+ - [Ahead of the Election, Social Media Platforms Have Given Up](https://www.wired.com/story/tech-companies-abdicated-responsibility-for-their-platforms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

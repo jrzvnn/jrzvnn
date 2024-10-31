@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumored to ditch Broadcom Wi-Fi for own design in iPhone 17](https://appleinsider.com/articles/24/10/31/apple-rumored-to-ditch-broadcom-wi-fi-for-own-design-in-iphone-17?utm_medium=rss)
- - [Get Samsung&#39;s 32-inch M8 monitor for $399 &lpar;$300 off&rpar; &amp; score a free 2TB T9 portable SSD](https://appleinsider.com/articles/24/10/31/get-samsungs-32-inch-m8-monitor-for-399-300-off-score-a-free-2tb-t9-portable-ssd?utm_medium=rss)
- - [Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241031/p28#a241031p28)
- - [Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout](https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch)
- - [Technics SL-1200GS Review: A Bomb Proof Classic](https://www.wired.com/review/technics-sl-1200g/)<!-- TECH:END -->
+ - [Save $300 on This Blink Outdoor Camera 6-Pack and Keep Your Space Protected](https://www.cnet.com/deals/save-300-on-this-blink-outdoor-camera-6-pack-and-keep-your-space-protected/#ftag=CAD590a51e)
+ - [Eye Health and Older Age: Learn How These 6 Conditions May Become More Common](https://www.cnet.com/health/personal-care/eye-health-and-older-age-learn-how-these-6-conditions-may-become-more-common/#ftag=CAD590a51e)
+ - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
+ - [Anthropic launches Claude apps for Mac and Windows in public beta, and releases a dictation tool for Claude on iOS, Android, and iPadOS &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241031/p29#a241031p29)
+ - [Stop Putting These 11 Things in the Dishwasher](https://www.cnet.com/news/11-things-you-should-never-put-in-the-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

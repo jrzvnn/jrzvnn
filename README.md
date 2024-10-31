@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden admin unveils an $825M investment in an Albany-based chip research and development facility; the NTSC says the facility aims to drive EUV innovation &lpar;Reuters&rpar;](http://www.techmeme.com/241031/p26#a241031p26)
+ - [Apple donating to relief efforts following Spain&#39;s devastating floods](https://appleinsider.com/articles/24/10/31/apple-donating-to-relief-efforts-following-spains-devastating-floods?utm_medium=rss)
+ - [AMD’s Ryzen 7 9800X3D gaming CPU arrives on November 7th for $479](https://www.theverge.com/2024/10/31/24284453/amd-ryzen-7-9800x3d-release-date-pricing)
  - [Peloton appoints Apple Fitness Plus cofounder as new CEO](https://www.theverge.com/2024/10/31/24284417/peloton-ceo-peter-stern-earnings-q1-2025)
- - [An investigation finds eight deceptive operations on Meta&#39;s platforms that collectively controlled 340+ Pages and placed 160K ads to collect users&#39; information &lpar;ProPublica&rpar;](http://www.techmeme.com/241031/p25#a241031p25)
- - [The 14 Best Office Chairs in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-office-chairs/)
- - [My Fanged Feline Loves This Spooky Cat Gear—Yours Will Too](https://www.wired.com/story/happy-and-polly-gothic-cat-tree-water-fountain-rave/)
- - [What’s on your desk, Kristen Radtke?](https://www.theverge.com/24277807/home-office-mac-wacom)<!-- TECH:END -->
+ - [An investigation finds eight deceptive operations on Meta&#39;s platforms that collectively controlled 340+ Pages and placed 160K ads to collect users&#39; information &lpar;ProPublica&rpar;](http://www.techmeme.com/241031/p25#a241031p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

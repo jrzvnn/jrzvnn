@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research finds judges are using algorithmic risk assessments for criminal defendants selectively, instead of wholesale adopting or rejecting algorithms&#39; advice &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241031/p4#a241031p4)
  - [Zuckerberg says Meta is training Llama 4 models on a cluster of 100K+ H100 chips, &quot;or bigger than anything that I&#39;ve seen reported for what others are doing&quot; &lpar;Wired&rpar;](http://www.techmeme.com/241031/p3#a241031p3)
  - [South Korean government data: semiconductor production fell 3% YoY in September 2024, the first decline in 14 months, indicating slowing demand for memory chips &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241031/p2#a241031p2)
  - [Mark Zuckerberg says Meta is &quot;executing quite well&quot; in building out AI infrastructure, as Meta raises the low end of its 2024 capex guidance to $38B from $37B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241031/p1#a241031p1)
- - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)
- - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

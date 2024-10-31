@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
  - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 💣 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
  - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 💣 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 👉 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)<!-- MEMES:END -->
+ - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
 
 ---
 

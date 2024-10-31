@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg says Meta is training Llama 4 models on a cluster of 100K+ H100 chips, &quot;or bigger than anything that I&#39;ve seen reported for what others are doing&quot; &lpar;Wired&rpar;](http://www.techmeme.com/241031/p3#a241031p3)
+ - [South Korean government data: semiconductor production fell 3% YoY in September 2024, the first decline in 14 months, indicating slowing demand for memory chips &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241031/p2#a241031p2)
  - [Mark Zuckerberg says Meta is &quot;executing quite well&quot; in building out AI infrastructure, as Meta raises the low end of its 2024 capex guidance to $38B from $37B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241031/p1#a241031p1)
  - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)
- - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
- - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 31, #1230](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-31-1230/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

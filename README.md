@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk&#39;s America PAC Has Created an Election Denial Cesspool on X](https://www.wired.com/story/elon-musk-america-pac-election-denial-community-x/)
  - [Squid Game runs it back in season 2 trailer](https://www.theverge.com/2024/10/31/24284809/squid-game-season-2-teaser-trailer)
  - [Meta is working with Wonik and GelSight to develop and commercialize tactile sensors for AI, including the Allegro robotic hand and Digit 360 tactile fingertips &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241031/p42#a241031p42)
  - [RFK Jr. Wants to Reshape US Health Policy. Good Luck With That](https://www.wired.com/story/trump-rfk-jr-make-america-healthy-again-government-position/)
- - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Anthropic’s Claude AI chatbot now has a desktop app](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app)<!-- TECH:END -->
+ - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

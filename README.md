@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knurling By Hand](http://9gag.com/gag/a5QRqzg)
- - 😝 [Best first date](http://9gag.com/gag/amo5RQd)
- - 💣 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 😝 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)
- - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
+ - 😝 [Monster hunter is so wild now](http://9gag.com/gag/azx14qZ)
+ - 😝 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 💣 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
 
 ---
 

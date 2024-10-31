@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Media Matters: from May to August 2024, the top 30 conservative YouTube channels posted 286 videos containing US election misinformation, racking up 47M+ views &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241031/p22#a241031p22)
+ - [Mark Zuckerberg’s Midlife Crisis](https://www.wired.com/story/uncanny-valley-mark-zuckerberg-midlife-crisis/)
+ - [Introducing WIRED’s Flagship Podcast, ‘Uncanny Valley’](https://www.wired.com/story/introducing-new-podcast-uncanny-valley/)
  - [Huawei reports Q3 revenue up 15.6% YoY to ~$23.7B and net profit down 70.5% YoY to ~$1.1B, a sign that the company may be struggling with its chipmaking yield &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p21#a241031p21)
- - [Peloton names Ford executive Peter Stern as CEO, starting January 1, to lead its turnaround, and projects Q2 subscriber numbers below analyst estimates &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241031/p20#a241031p20)
- - [A clever hack fixes the new Mac mini power button&#39;s awkward location](https://appleinsider.com/articles/24/10/31/a-clever-hack-fixes-the-new-mac-mini-power-buttons-awkward-location?utm_medium=rss)
- - [Uber reports Q3 revenue up 20% YoY to $11.2B, above est., gross bookings up 16% YoY to $41B, a $1.1B operating income, above est. and up from $394M in Q3 2023 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241031/p19#a241031p19)
- - [A profile of Pepijn van der Stap, a Dutch prodigy who hacked thousands of companies&#39; data while also doing legitimate cybersecurity work and is now in prison &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241031/p18#a241031p18)<!-- TECH:END -->
+ - [Peloton names Ford executive Peter Stern as CEO, starting January 1, to lead its turnaround, and projects Q2 subscriber numbers below analyst estimates &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241031/p20#a241031p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

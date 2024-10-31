@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What it is really called though?](http://9gag.com/gag/an75deq)
- - 😝 [I can fix her](http://9gag.com/gag/a1mRL12)
- - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 👉 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)<!-- MEMES:END -->
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese and Israeli academics predict the AI boom will increase global e-waste by 3% to 12% by 2030, or up to 2.5M metric tons of additional e-waste each year &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/241031/p8#a241031p8)
  - [CCDH: of 283 X posts in 2024 with false election claims that Community Notes members had responded to, only 20 had notes with enough votes to be publicly shown &lpar;Washington Post&rpar;](http://www.techmeme.com/241031/p7#a241031p7)
+ - [Best Firm Mattress of 2024, According to Our Sleep Experts](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
  - [In a note to staff, Block CEO Jack Dorsey says Tidal is in for another mass layoff; insiders say as many as 100 people could be laid off, or ~25% of Tidal staff &lpar;Kali Hays/Yahoo Finance&rpar;](http://www.techmeme.com/241031/p6#a241031p6)
- - [John O&#39;Nolan, CEO of open-source CMS Ghost, outlines the organization&#39;s governance structure and says the platform generates around $7.5M in annual revenue &lpar;John O&#39;Nolan&rpar;](http://www.techmeme.com/241031/p5#a241031p5)
- - [40% Off Nectar Coupon Code for October 2024](https://www.wired.com/story/nectar-coupon-code/)
- - [Study finds US judges are using algorithmic risk assessments for criminal defendants selectively, instead of wholesale adopting or rejecting algorithms&#39; advice &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241031/p4#a241031p4)<!-- TECH:END -->
+ - [John O&#39;Nolan, CEO of open-source CMS Ghost, outlines the organization&#39;s governance structure and says the platform generates around $7.5M in annual revenue &lpar;John O&#39;Nolan&rpar;](http://www.techmeme.com/241031/p5#a241031p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cheap Home Security Cameras for 2024](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Tampa](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-tampa/#ftag=CAD590a51e)
- - [Look Out Google, ChatGPT Search Is Here](https://www.cnet.com/tech/services-and-software/look-out-google-chatgpt-search-is-here/#ftag=CAD590a51e)
- - [I Tried AI to Change My Hair Before Seeing a Stylist. It Could Save You Hundreds](https://www.cnet.com/tech/services-and-software/i-tried-ai-to-change-my-hair-before-seeing-a-stylist-it-could-save-you-hundreds/#ftag=CAD590a51e)
- - [iPhone sales are booming — with or without Apple Intelligence](https://www.theverge.com/2024/10/31/24284854/apple-q4-2024-earnings-iphone-16-ai)<!-- TECH:END -->
+ - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)
+ - [iPhone sales are booming — with or without Apple Intelligence](https://www.theverge.com/2024/10/31/24284854/apple-q4-2024-earnings-iphone-16-ai)
+ - [Apple reports Q4 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $24.97B, a new quarterly record, but below est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241031/p50#a241031p50)
+ - [Tim Cook says users are updating to iOS 18.1 at twice the rate of iOS 17.1](https://appleinsider.com/articles/24/10/31/users-are-updating-to-ios-181-at-twice-the-rate-of-ios-171?utm_medium=rss)
+ - [Apple Q4 revenue: iPhone up 6% YoY to $46.22B, Mac up 2% YoY to $7.74B, iPad up 8% YoY to $6.95B, and Wearables, Home, and Accessories down 3% YoY to $9.04B &lpar;CNBC&rpar;](http://www.techmeme.com/241031/p49#a241031p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

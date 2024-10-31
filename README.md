@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports Q4 revenue down 0.3% YoY to $15.03B in Greater China, up 7.6% YoY to $5.93B in Japan, and up 16.6% YoY to $7.38B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241031/p52#a241031p52)
+ - [The iPhone 17 might use Apple’s own Wi-Fi chips](https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom)
  - [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://www.theverge.com/2024/10/31/24284880/google-chromebook-chromeos-130-quick-insert-ai-focus-mode)
  - [Tim Cook bids farewell to Luca Maestri on his last earnings call](https://appleinsider.com/articles/24/10/31/tim-cook-bids-farewell-to-luca-maestri-on-his-last-earnings-call?utm_medium=rss)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Tether reports Q3 net profits of $2.5B, driven by gains in its US Treasury and gold holdings and bringing YTD profit to $7.7B, as USDT market cap nears $120B &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241031/p51#a241031p51)
- - [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://www.theverge.com/2024/10/31/24284860/intel-gaudi-wont-meet-500-million-goal)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

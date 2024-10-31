@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple plans to use its own Wi-Fi and Bluetooth chips made by TSMC&#39;s N7 process and with Wi-Fi 7 in the iPhone 17 lineup, reducing its reliance on Broadcom &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241031/p32#a241031p32)
  - [OnePlus unveils the OnePlus 13, its next flagship with a Snapdragon 8 Elite SoC, 12GB+ RAM, and a 6,000mAh battery, available in China on November 1 for ~$630+ &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241031/p31#a241031p31)
  - [The newest Ring Battery Doorbell is $40 off and matching its lowest price](https://www.theverge.com/2024/10/31/24284448/ring-battery-doorbell-plus-samsung-galaxy-smarttag-2-deal-sale)
  - [The EU will review Nvidia&#39;s acquisition of AI workload management startup Run:ai, after a request by Italy&#39;s regulators; Nvidia reportedly paid $700M for Run:ai &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241031/p30#a241031p30)
- - [29 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
- - [The OnePlus 13 has a bigger battery and an upgraded fingerprint reader](https://www.theverge.com/2024/10/31/24284491/oneplus-13-smartphone-oppo-china)<!-- TECH:END -->
+ - [29 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

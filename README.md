@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US court docs: in 2022, Apple privately warned TikTok that it had more mature content than was suitable for under-17s and to change its App Store age rating &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/241031/p17#a241031p17)
- - [Amazon&#39;s threat intel unit is making a name for itself after years in the shadows, including disrupting Anonymous Sudan and combating anti-US disinformation &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241031/p16#a241031p16)
- - [A look at X&#39;s Election Integrity Community, a feed to &quot;share potential incidents of voter fraud&quot; that has 50K+ members, launched by Elon Musk&#39;s America PAC &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241031/p14#a241031p14)
- - [After the Election, California &lpar;Yes, That Hellscape&rpar; Will Keep Moving the World Forward No Matter What](https://www.wired.com/story/california-will-keep-moving-the-world-forward/)
- - [Will Your Elected Officials in Congress Accept the Results of the Election?](https://www.wired.com/story/congress-accept-election-results/)<!-- TECH:END -->
+ - [A clever hack fixes the new Mac mini power button&#39;s awkward location](https://appleinsider.com/articles/24/10/31/a-clever-hack-fixes-the-new-mac-mini-power-buttons-awkward-location?utm_medium=rss)
+ - [Uber reports Q3 revenue up 20% YoY to $11.2B, above est., gross bookings up 16% YoY to $41B, a $1.1B operating income, above est. and up from $394M in Q3 2023 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241031/p19#a241031p19)
+ - [A profile of Pepijn van der Stap, a Dutch prodigy who hacked thousands of companies&#39; data while also doing legitimate cybersecurity work and is now in prison &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241031/p18#a241031p18)
+ - [Ahead of the Election, Social Media Platforms Have Given Up](https://www.wired.com/story/tech-companies-abdicated-responsibility-for-their-platforms/)
+ - [US court docs: in 2022, Apple privately warned TikTok that it had more mature content than was suitable for under-17s and to change its App Store age rating &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/241031/p17#a241031p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

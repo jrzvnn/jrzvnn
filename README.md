@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
- - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
- - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
+ - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 💣 [Where is my son](http://9gag.com/gag/aByg48A)
+ - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 👉 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)<!-- MEMES:END -->
 
 ---
 

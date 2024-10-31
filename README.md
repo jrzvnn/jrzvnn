@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [NBA](http://9gag.com/gag/a875KW3)
- - 💣 [What it is really called though?](http://9gag.com/gag/an75deq)
- - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 👉 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)<!-- MEMES:END -->
+ - 😝 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
+ - 😝 [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
+ - 💣 [Meme Origins](http://9gag.com/gag/an75VBB)
+ - 😝 [I&#39;m curious.](http://9gag.com/gag/avyomxq)
+ - 👉 [Heh](http://9gag.com/gag/a9yRBe0)<!-- MEMES:END -->
 
 ---
 

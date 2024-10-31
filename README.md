@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 💣 [I can fix her](http://9gag.com/gag/a1mRL12)
+ - 😝 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
  - 😝 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - 👉 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)<!-- MEMES:END -->
+ - 💣 [I can fix her](http://9gag.com/gag/a1mRL12)
+ - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 👉 [I hear other people saying, `Have you tried crossfit?`](http://9gag.com/gag/ajP5dGg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
- - 👉 [What it is really called though?](http://9gag.com/gag/an75deq)<!-- MEMES:END -->
+ - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 👉 [Speed Dating.](http://9gag.com/gag/aGyg2vw)<!-- MEMES:END -->
 
 ---
 

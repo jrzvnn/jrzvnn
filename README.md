@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden admin unveils an $825M investment in an Albany-based chip research and development facility; the NTSC says the facility aims to drive EUV innovation &lpar;Reuters&rpar;](http://www.techmeme.com/241031/p26#a241031p26)
- - [Apple donating to relief efforts following Spain&#39;s devastating floods](https://appleinsider.com/articles/24/10/31/apple-donating-to-relief-efforts-following-spains-devastating-floods?utm_medium=rss)
- - [AMD’s Ryzen 7 9800X3D gaming CPU arrives on November 7th for $479](https://www.theverge.com/2024/10/31/24284453/amd-ryzen-7-9800x3d-release-date-pricing)
- - [Peloton appoints Apple Fitness Plus cofounder as new CEO](https://www.theverge.com/2024/10/31/24284417/peloton-ceo-peter-stern-earnings-q1-2025)
- - [An investigation finds eight deceptive operations on Meta&#39;s platforms that collectively controlled 340+ Pages and placed 160K ads to collect users&#39; information &lpar;ProPublica&rpar;](http://www.techmeme.com/241031/p25#a241031p25)<!-- TECH:END -->
+ - [Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout](https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch)
+ - [The EU Commission opens formal DSA proceedings against Temu over the alleged sales of non-compliant products and its platform design, like addictive features &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/241031/p27#a241031p27)
+ - [Google Maps’ enhanced navigation will make sure you’re in the right lane](https://www.theverge.com/2024/10/31/24284455/google-maps-enhanced-navigation-features-city-driving)
+ - [Waze will soon let you report incidents with your voice](https://www.theverge.com/2024/10/31/24284037/waze-report-incidents-voice)
+ - [Google Maps will use AI to answer questions about the new restaurant you want to try](https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

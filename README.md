@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Taiwan has become Asia&#39;s best performing major stock market in 2024 thanks to TSMC and others, which make almost all of the critical AI hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p10#a241031p10)
  - [Many long-time game workers are ditching large productions in favor of smaller teams, enabled by growing accessibility of Unreal Engine and other powerful tools &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241031/p9#a241031p9)
+ - [Best Internet Providers in San Francisco, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
  - [Chinese and Israeli academics predict the AI boom will increase global e-waste by 3% to 12% by 2030, or up to 2.5M metric tons of additional e-waste each year &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/241031/p8#a241031p8)
- - [CCDH: of 283 X posts in 2024 with false election claims that Community Notes members had responded to, only 20 had notes with enough votes to be publicly shown &lpar;Washington Post&rpar;](http://www.techmeme.com/241031/p7#a241031p7)
- - [Best Firm Mattress of 2024, According to Our Sleep Experts](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [Internal memo: Block CEO Jack Dorsey says Tidal is in for another mass layoff; insiders say as many as 100 people could be laid off, or ~25% of Tidal&#39;s staff &lpar;Kali Hays/Yahoo Finance&rpar;](http://www.techmeme.com/241031/p6#a241031p6)<!-- TECH:END -->
+ - [CCDH: of 283 X posts in 2024 with false election claims that Community Notes members had responded to, only 20 had notes with enough votes to be publicly shown &lpar;Washington Post&rpar;](http://www.techmeme.com/241031/p7#a241031p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

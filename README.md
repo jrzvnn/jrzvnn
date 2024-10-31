@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 💣 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 😝 [Knurling By Hand](http://9gag.com/gag/a5QRqzg)
- - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
+ - 😝 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)
+ - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - 💣 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
+ - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 👉 [I&#39;m curious.](http://9gag.com/gag/avyomxq)<!-- MEMES:END -->
 
 ---
 

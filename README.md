@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech leaders kiss the ring](https://www.theverge.com/2024/10/31/24282719/tech-leaders-trump-jeff-bezos-zuckerberg-pichai)
+ - [17 Best Horror Shows to Binge for Halloween](https://www.wired.com/story/best-horror-shows-streaming/)
+ - [A meditative take on sudoku that changes with the weather](https://www.theverge.com/2024/10/31/24283527/puzzmo-weather-memoku)
  - [Roblox reports Q3 revenue up 29% YoY to $919M, bookings up 34% YoY to $1.1B, above $1B est., and DAUs up 27% YoY to 88.9M; RBLX jumps 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241031/p24#a241031p24)
- - [Inside Sophos&#39; 5-Year War With the Chinese Hackers Hijacking Its Devices](https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/)
- - [The EU Is Investigating Temu for Illegal Products and Addictive Design](https://www.wired.com/story/eu-temu-investigation-illegal-products-addictive-design/)
- - [A look at VMware one year after Broadcom&#39;s acquisition: some customers say costs have risen 300%, Broadcom stopped selling perpetual VMware licenses, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241031/p23#a241031p23)
- - [‘Dark Tourism’ Appeals to Travelers Captivated by Death](https://www.wired.com/story/travel-dark-tourism/)<!-- TECH:END -->
+ - [Inside Sophos&#39; 5-Year War With the Chinese Hackers Hijacking Its Devices](https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
  - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 💣 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
  - 👉 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)<!-- MEMES:END -->
 
 ---

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tether reports Q3 net profits of $2.5B, driven by gains in its US Treasury and gold holdings and bringing YTD profit to $7.7B, as USDT market cap nears $120B &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241031/p51#a241031p51)
  - [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://www.theverge.com/2024/10/31/24284860/intel-gaudi-wont-meet-500-million-goal)
  - [Amazon’s new Alexa has reportedly slipped to 2025](https://www.theverge.com/2024/10/31/24284772/amazon-new-alexa-llm-voice-assistant-delayed-2025)
- - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)<!-- TECH:END -->
+ - [Best Solar Installation Companies in Las Vegas](https://www.cnet.com/home/energy-and-utilities/best-solar-installation-companies-in-las-vegas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

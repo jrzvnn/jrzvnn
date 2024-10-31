@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports Q4 revenue down 0.3% YoY to $15.03B in Greater China, up 7.6% YoY to $5.93B in Japan, and up 16.6% YoY to $7.38B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241031/p52#a241031p52)
+ - [Apple Q4 revenues: down 0.3% YoY to $15B in China, up 7.6% to $5.9B in Japan, up 16.6% to $7.38B in the rest of Asia-Pacific, and up 11% to $24.9B in Europe &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241031/p52#a241031p52)
  - [The iPhone 17 might use Apple’s own Wi-Fi chips](https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom)
  - [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://www.theverge.com/2024/10/31/24284880/google-chromebook-chromeos-130-quick-insert-ai-focus-mode)
  - [Tim Cook bids farewell to Luca Maestri on his last earnings call](https://appleinsider.com/articles/24/10/31/tim-cook-bids-farewell-to-luca-maestri-on-his-last-earnings-call?utm_medium=rss)

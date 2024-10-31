@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 😝 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
- - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
- - 👉 [He took that well](http://9gag.com/gag/aBygX8x)<!-- MEMES:END -->
+ - 😝 [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
+ - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 💣 [Don&#39;t smoke](http://9gag.com/gag/aD2gMvx)
+ - 😝 [Third class citizens](http://9gag.com/gag/a0eRO3X)
+ - 👉 [The truth about me.](http://9gag.com/gag/aW4E2K4)<!-- MEMES:END -->
 
 ---
 

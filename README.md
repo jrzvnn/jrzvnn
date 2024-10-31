@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snag a free $45 gift card with this early Black Friday Costco membership deal](https://appleinsider.com/articles/24/10/31/snag-a-free-45-gift-card-with-this-early-black-friday-costco-membership-deal?utm_medium=rss)
  - [Apple Q4 revenues: down 0.3% YoY to $15B in China, up 7.6% to $5.9B in Japan, up 16.6% to $7.38B in the rest of Asia-Pacific, and up 11% to $24.9B in Europe &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241031/p52#a241031p52)
  - [The iPhone 17 might use Apple’s own Wi-Fi chips](https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom)
- - [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://www.theverge.com/2024/10/31/24284880/google-chromebook-chromeos-130-quick-insert-ai-focus-mode)
- - [Tim Cook bids farewell to Luca Maestri on his last earnings call](https://appleinsider.com/articles/24/10/31/tim-cook-bids-farewell-to-luca-maestri-on-his-last-earnings-call?utm_medium=rss)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
+ - [Best Facial Sunscreens of 2024, Tested and Chosen From 50 Top Brands](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)
+ - [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://www.theverge.com/2024/10/31/24284880/google-chromebook-chromeos-130-quick-insert-ai-focus-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

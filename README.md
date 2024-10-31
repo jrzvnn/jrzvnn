@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a MacBook Pro M4 with AppleCare from $52/mo, with option to upgrade every 2 years](https://appleinsider.com/articles/24/10/31/get-a-macbook-pro-m4-with-applecare-from-52mo-with-option-to-upgrade-every-2-years?utm_medium=rss)
- - [Sophos details a five-year battle with Chinese hackers exploiting its firewalls, and how its device &quot;implants&quot; traced the hacks to a university and a contractor &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241031/p33#a241031p33)
- - [Microsoft wants $30 to let you keep using Windows 10 securely for another year](https://www.theverge.com/2024/10/31/24284398/microsoft-windows-10-extended-security-updates-consumer-pricing)
- - [Kuo: Apple plans to use its own Wi-Fi and Bluetooth chips made by TSMC&#39;s N7 process and with Wi-Fi 7 in the iPhone 17 lineup, reducing its reliance on Broadcom &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241031/p32#a241031p32)
- - [OnePlus unveils the OnePlus 13, its next flagship with a Snapdragon 8 Elite SoC, 12GB+ RAM, and a 6,000mAh battery, available in China on November 1 for ~$630+ &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241031/p31#a241031p31)<!-- TECH:END -->
+ - [WordPress co-founder asks court to dismiss WP Engine’s lawsuit](https://www.theverge.com/2024/10/31/24284537/wordpress-court-dismiss-wp-engine-lawsuit)
+ - [OpenAI unveils ChatGPT Search to let users search for timely information using GPT-4o, after testing the feature in July 2024, a direct challenge to Google &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241031/p36#a241031p36)
+ - [Filing: Trump&#39;s World Liberty Financial plans to raise ~$30M from investors, down from the $300M it had originally sought, after WLFI token sales fell short &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/241031/p35#a241031p35)
+ - [I Called My Grandkids From Europe on the AirPods 4](https://www.cnet.com/tech/mobile/i-called-my-grandkids-from-europe-on-the-airpods-4/#ftag=CAD590a51e)
+ - [Microsoft says Windows users will only be able to buy one year of Extended Security Updates for Windows 10 for $30, after support ends in October 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p34#a241031p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rumored to ditch Broadcom Wi-Fi for own design in iPhone 17](https://appleinsider.com/articles/24/10/31/apple-rumored-to-ditch-broadcom-wi-fi-for-own-design-in-iphone-17?utm_medium=rss)
  - [Get Samsung&#39;s 32-inch M8 monitor for $399 &lpar;$300 off&rpar; &amp; score a free 2TB T9 portable SSD](https://appleinsider.com/articles/24/10/31/get-samsungs-32-inch-m8-monitor-for-399-300-off-score-a-free-2tb-t9-portable-ssd?utm_medium=rss)
  - [Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241031/p28#a241031p28)
  - [Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout](https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch)
- - [Technics SL-1200GS Review: A Bomb Proof Classic](https://www.wired.com/review/technics-sl-1200g/)
- - [The EU Commission opens formal DSA proceedings against Temu over the alleged sales of non-compliant products and its platform design, like addictive features &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/241031/p27#a241031p27)<!-- TECH:END -->
+ - [Technics SL-1200GS Review: A Bomb Proof Classic](https://www.wired.com/review/technics-sl-1200g/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

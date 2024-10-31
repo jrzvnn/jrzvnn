@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)
- - [Best Cheap Home Security Cameras for 2024](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Tampa](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-tampa/#ftag=CAD590a51e)
- - [Look Out Google, ChatGPT Search Is Here](https://www.cnet.com/tech/services-and-software/look-out-google-chatgpt-search-is-here/#ftag=CAD590a51e)
- - [I Tried AI to Change My Hair Before Seeing a Stylist. It Could Save You Hundreds](https://www.cnet.com/tech/services-and-software/i-tried-ai-to-change-my-hair-before-seeing-a-stylist-it-could-save-you-hundreds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Tether reports Q3 net profits of $2.5B, driven by gains in its US Treasury and gold holdings and bringing YTD profit to $7.7B, as USDT market cap nears $120B &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241031/p51#a241031p51)
+ - [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://www.theverge.com/2024/10/31/24284860/intel-gaudi-wont-meet-500-million-goal)
+ - [Amazon’s new Alexa has reportedly slipped to 2025](https://www.theverge.com/2024/10/31/24284772/amazon-new-alexa-llm-voice-assistant-delayed-2025)
+ - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

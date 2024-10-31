@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim is really impressed by this impression of him](http://9gag.com/gag/a9yRB6W)
- - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
- - 💣 [Heh](http://9gag.com/gag/a9yRBe0)
- - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
- - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
+ - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 💣 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 😝 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports Q4 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $24.97B, a new quarterly record, but below est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241031/p50#a241031p50)
+ - [Tim Cook says users are updating to iOS 18.1 at twice the rate of iOS 17.1](https://appleinsider.com/articles/24/10/31/users-are-updating-to-ios-181-at-twice-the-rate-of-ios-171?utm_medium=rss)
  - [Apple Q4 revenue: iPhone up 6% YoY to $46.22B, Mac up 2% YoY to $7.74B, iPad up 8% YoY to $6.95B, and Wearables, Home, and Accessories down 3% YoY to $9.04B &lpar;CNBC&rpar;](http://www.techmeme.com/241031/p49#a241031p49)
  - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)
- - [Apple reports Q4 revenue up 6% YoY to $94.9B, net income of $14.74B, vs. $22.96B in Q4 2023, after paying a $10.2B charge as part of a tax decision in Europe &lpar;Apple Inc.&rpar;](http://www.techmeme.com/241031/p48#a241031p48)
- - [Tidal is laying off more staff](https://www.theverge.com/2024/10/31/24284801/tidal-jack-dorsey-layoffs-report)
- - [Amazon reports Q3 ad revenue up 19% YoY to $14.33B, vs. $14.25B estimated, amid the company&#39;s push to insert ads into Prime Video &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241031/p47#a241031p47)<!-- TECH:END -->
+ - [Apple reports Q4 revenue up 6% YoY to $94.9B, net income of $14.74B, vs. $22.96B in Q4 2023, after paying a $10.2B charge as part of a tax decision in Europe &lpar;Apple Inc.&rpar;](http://www.techmeme.com/241031/p48#a241031p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s on your desk, Kristen Radtke?](https://www.theverge.com/24277807/home-office-mac-wacom)
- - [Tech leaders kiss the ring](https://www.theverge.com/2024/10/31/24282719/tech-leaders-trump-jeff-bezos-zuckerberg-pichai)
- - [17 Best Horror Shows to Binge for Halloween](https://www.wired.com/story/best-horror-shows-streaming/)
- - [A meditative take on sudoku that changes with the weather](https://www.theverge.com/2024/10/31/24283527/puzzmo-weather-memoku)
- - [Roblox reports Q3 revenue up 29% YoY to $919M, bookings up 34% YoY to $1.1B, above $1B est., and DAUs up 27% YoY to 88.9M; RBLX jumps 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241031/p24#a241031p24)<!-- TECH:END -->
+ - [Peloton appoints Apple Fitness Plus cofounder as new CEO](https://www.theverge.com/2024/10/31/24284417/peloton-ceo-peter-stern-earnings-q1-2025)
+ - [An investigation finds eight deceptive operations on Meta&#39;s platforms that collectively controlled 340+ Pages and placed 160K ads to collect users&#39; information &lpar;ProPublica&rpar;](http://www.techmeme.com/241031/p25#a241031p25)
+ - [The 14 Best Office Chairs in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-office-chairs/)
+ - [My Fanged Feline Loves This Spooky Cat Gear—Yours Will Too](https://www.wired.com/story/happy-and-polly-gothic-cat-tree-water-fountain-rave/)
+ - [What’s on your desk, Kristen Radtke?](https://www.theverge.com/24277807/home-office-mac-wacom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

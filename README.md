@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
  - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)
- - [Aurora Innovation delays deploying its autonomous commercial trucks from Q4 2024 to April 2025 to validate its self-driving tech, with up to 10 trucks at launch &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241030/p53#a241030p53)
- - [Best Internet Providers in Round Rock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-round-rock-tx/#ftag=CAD590a51e)
- - [Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p52#a241030p52)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 31, #1230](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-31-1230/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 31, #242](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-31-242/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 31, #38](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-31-38/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

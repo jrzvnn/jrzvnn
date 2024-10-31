@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
  - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - 👉 [What it is really called though?](http://9gag.com/gag/an75deq)<!-- MEMES:END -->
+ - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 💣 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 

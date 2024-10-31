@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activision-Blizzard says the Call of Duty series has sold more than 500M copies to date; Nadella says Black Ops 6 set a record for first-day players &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/241031/p39#a241031p39)
+ - [Trump is planning a crackdown on legal immigration, too](https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute)
  - [Humane recalls the AI Pin’s charging case due to overheating concerns](https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard)
  - [Playdate is getting a second season of games in 2025](https://www.theverge.com/2024/10/31/24284707/playdate-season-2-release-date)
- - [FCC and the broadband industry argue net neutrality’s future](https://www.theverge.com/2024/10/31/24284435/fcc-net-neutrality-isp-sixth-circuit-oral-arguments)
- - [Stacey Abrams Has Some Ideas on How to Stop Elon Musk and the Far Right in Georgia](https://www.wired.com/story/stacey-abrams-elon-musk-far-right-georgia/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC and the broadband industry argue net neutrality’s future](https://www.theverge.com/2024/10/31/24284435/fcc-net-neutrality-isp-sixth-circuit-oral-arguments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

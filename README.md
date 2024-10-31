@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can fix her](http://9gag.com/gag/a1mRL12)
- - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 💣 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)
- - 😝 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)
- - 👉 [Smooth Operator!](http://9gag.com/gag/ae95RGp)<!-- MEMES:END -->
+ - 😝 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
+ - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 💣 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
 
 ---
 

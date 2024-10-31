@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
- - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 😝 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
  - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
+ - 👉 [He took that well](http://9gag.com/gag/aBygX8x)<!-- MEMES:END -->
 
 ---
 

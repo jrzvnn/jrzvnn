@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)
- - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
- - 💣 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
- - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
- - 👉 [I&#39;m curious.](http://9gag.com/gag/avyomxq)<!-- MEMES:END -->
+ - 😝 [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
+ - 😝 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
+ - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
 
 ---
 

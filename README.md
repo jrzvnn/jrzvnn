@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Media Matters: from May to August 2024, the top 30 conservative YouTube channels posted 286 videos containing US election misinformation, racking up 47M+ views &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241031/p22#a241031p22)
- - [Mark Zuckerberg’s Midlife Crisis](https://www.wired.com/story/uncanny-valley-mark-zuckerberg-midlife-crisis/)
- - [Introducing WIRED’s Flagship Podcast, ‘Uncanny Valley’](https://www.wired.com/story/introducing-new-podcast-uncanny-valley/)
- - [Huawei reports Q3 revenue up 15.6% YoY to ~$23.7B and net profit down 70.5% YoY to ~$1.1B, a sign that the company may be struggling with its chipmaking yield &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p21#a241031p21)
- - [Peloton names Ford executive Peter Stern as CEO, starting January 1, to lead its turnaround, and projects Q2 subscriber numbers below analyst estimates &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241031/p20#a241031p20)<!-- TECH:END -->
+ - [Roblox reports Q3 revenue up 29% YoY to $919M, bookings up 34% YoY to $1.1B, above $1B est., and DAUs up 27% YoY to 88.9M; RBLX jumps 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241031/p24#a241031p24)
+ - [Inside Sophos&#39; 5-Year War With the Chinese Hackers Hijacking Its Devices](https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/)
+ - [The EU Is Investigating Temu for Illegal Products and Addictive Design](https://www.wired.com/story/eu-temu-investigation-illegal-products-addictive-design/)
+ - [A look at VMware one year after Broadcom&#39;s acquisition: some customers say costs have risen 300%, Broadcom stopped selling perpetual VMware licenses, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241031/p23#a241031p23)
+ - [‘Dark Tourism’ Appeals to Travelers Captivated by Death](https://www.wired.com/story/travel-dark-tourism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

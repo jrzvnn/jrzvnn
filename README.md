@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - 💣 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
+ - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
+ - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 💣 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
+ - 😝 [Monster hunter is so wild now](http://9gag.com/gag/azx14qZ)
+ - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
 
 ---
 

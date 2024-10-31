@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 😝 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
- - 💣 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 👉 [I hear other people saying, `Have you tried crossfit?`](http://9gag.com/gag/ajP5dGg)<!-- MEMES:END -->
+ - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 😝 [Threats from Liam Neeson hits differently!](http://9gag.com/gag/an75rVn)
+ - 💣 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 

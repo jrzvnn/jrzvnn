@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research finds judges are using algorithmic risk assessments for criminal defendants selectively, instead of wholesale adopting or rejecting algorithms&#39; advice &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241031/p4#a241031p4)
- - [Zuckerberg says Meta is training Llama 4 models on a cluster of 100K+ H100 chips, &quot;or bigger than anything that I&#39;ve seen reported for what others are doing&quot; &lpar;Wired&rpar;](http://www.techmeme.com/241031/p3#a241031p3)
- - [South Korean government data: semiconductor production fell 3% YoY in September 2024, the first decline in 14 months, indicating slowing demand for memory chips &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241031/p2#a241031p2)
- - [Mark Zuckerberg says Meta is &quot;executing quite well&quot; in building out AI infrastructure, as Meta raises the low end of its 2024 capex guidance to $38B from $37B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241031/p1#a241031p1)
- - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)<!-- TECH:END -->
+ - [In a note to staff, Block CEO Jack Dorsey says Tidal is in for another mass layoff; insiders say as many 100 people could be laid off, or ~25% of Tidal&#39;s staff &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241031/p6#a241031p6)
+ - [John O&#39;Nolan, CEO of open-source CMS Ghost, outlines the organization&#39;s governance structure and says the platform generates around $7.5M in annual revenue &lpar;John O&#39;Nolan&rpar;](http://www.techmeme.com/241031/p5#a241031p5)
+ - [40% Off Nectar Coupon Code for October 2024](https://www.wired.com/story/nectar-coupon-code/)
+ - [Study finds US judges are using algorithmic risk assessments for criminal defendants selectively, instead of wholesale adopting or rejecting algorithms&#39; advice &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241031/p4#a241031p4)
+ - [Zuckerberg says Meta is training Llama 4 models on a cluster of 100K+ H100 chips, &quot;or bigger than anything that I&#39;ve seen reported for what others are doing&quot; &lpar;Wired&rpar;](http://www.techmeme.com/241031/p3#a241031p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

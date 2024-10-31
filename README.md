@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $300 on This Blink Outdoor Camera 6-Pack and Keep Your Space Protected](https://www.cnet.com/deals/save-300-on-this-blink-outdoor-camera-6-pack-and-keep-your-space-protected/#ftag=CAD590a51e)
- - [Eye Health and Older Age: Learn How These 6 Conditions May Become More Common](https://www.cnet.com/health/personal-care/eye-health-and-older-age-learn-how-these-6-conditions-may-become-more-common/#ftag=CAD590a51e)
- - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Anthropic launches Claude apps for Mac and Windows in public beta, and releases a dictation tool for Claude on iOS, Android, and iPadOS &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241031/p29#a241031p29)
- - [Stop Putting These 11 Things in the Dishwasher](https://www.cnet.com/news/11-things-you-should-never-put-in-the-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The newest Ring Battery Doorbell is $40 off and matching its lowest price](https://www.theverge.com/2024/10/31/24284448/ring-battery-doorbell-plus-samsung-galaxy-smarttag-2-deal-sale)
+ - [The EU will review Nvidia&#39;s acquisition of AI workload management startup Run:ai, after a request by Italy&#39;s regulators; Nvidia reportedly paid $700M for Run:ai &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241031/p30#a241031p30)
+ - [29 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
+ - [The OnePlus 13 has a bigger battery and an upgraded fingerprint reader](https://www.theverge.com/2024/10/31/24284491/oneplus-13-smartphone-oppo-china)
+ - [Save $300 on This Blink Outdoor Camera 6-Pack and Keep Your Space Protected](https://www.cnet.com/deals/save-300-on-this-blink-outdoor-camera-6-pack-and-keep-your-space-protected/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

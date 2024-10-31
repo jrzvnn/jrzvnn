@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
- - [OpenAI’s search engine is now live in ChatGPT](https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt)
- - [OpenAI says ChatGPT Search draws on articles from the WSJ and others it has deals with, and will direct election-related queries to sources like AP and Reuters &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/241031/p37#a241031p37)
- - [WordPress cofounder asks court to dismiss WP Engine’s lawsuit](https://www.theverge.com/2024/10/31/24284537/wordpress-court-dismiss-wp-engine-lawsuit)
- - [OpenAI unveils ChatGPT Search to let paid users search for timely information using GPT-4o, after testing the feature in July 2024, a direct challenge to Google &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241031/p36#a241031p36)<!-- TECH:END -->
+ - [Sources: Waymo was valued at more than $45B, after it raised $5.6B last week, led by Alphabet &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p38#a241031p38)
+ - [This Is a Glimpse of the Future of AI Robot](https://www.wired.com/story/physical-intelligence-home-robot/)
+ - [ChatGPT’s AI Search Tool Is Now Available](https://www.wired.com/story/chatgpt-ai-search-update-openai/)
+ - [Android 16 will ship early in 2025](https://www.theverge.com/2024/10/31/24284665/android-16-release-schedule-q2-2025)
+ - [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

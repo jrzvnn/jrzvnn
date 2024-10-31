@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at X&#39;s Election Integrity Community, a feed to &quot;share potential incidents of voter fraud&quot; that has 50K+ members, launched by Elon Musk&#39;s America PAC &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241031/p14#a241031p14)
+ - [After the Election, California &lpar;Yes, That Hellscape&rpar; Will Keep Moving the World Forward No Matter What](https://www.wired.com/story/california-will-keep-moving-the-world-forward/)
+ - [Will Your Elected Officials in Congress Accept the Results of the Election?](https://www.wired.com/story/congress-accept-election-results/)
  - [Ubisoft reports Q2 net bookings down 36% YoY to &amp;euro;352.3M, vs. &amp;euro;368M est., and expects Q3 net bookings of &amp;euro;380M, down from &amp;euro;626M in Q3 2023, as its big games flop &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/241031/p13#a241031p13)
- - [China sanctions Skydio, the US&#39; largest drone maker and a supplier to Ukraine&#39;s military; sources say Skydio is rushing to find new suppliers for critical parts &lpar;Financial Times&rpar;](http://www.techmeme.com/241031/p12#a241031p12)
- - [The Untold Story of Trump&#39;s Failed Attempt to Overthrow Venezuela&#39;s President](https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/)
- - [Miniot’s split-flap clock is what nostalgia sounds like](https://www.theverge.com/2024/10/31/24283510/miniot-klapklok-low-resolution-wall-clock-price)
- - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China sanctions Skydio, the US&#39; largest drone maker and a supplier to Ukraine&#39;s military; sources say Skydio is rushing to find new suppliers for critical parts &lpar;Financial Times&rpar;](http://www.techmeme.com/241031/p12#a241031p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

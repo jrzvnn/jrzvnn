@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 💣 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
- - 😝 [Monster hunter is so wild now](http://9gag.com/gag/azx14qZ)
- - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - 💣 [I can fix her](http://9gag.com/gag/a1mRL12)
+ - 😝 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 👉 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)<!-- MEMES:END -->
 
 ---
 

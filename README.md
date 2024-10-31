@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RFK Jr. Wants to Reshape US Health Policy. Good Luck With That](https://www.wired.com/story/trump-rfk-jr-make-america-healthy-again-government-position/)
+ - [The 40 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Anthropic’s Claude AI chatbot now has a desktop app](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app)
  - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)
- - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
- - [Chevy’s BrightDrop electric vans will be in Walmart’s fleet by the end of the year](https://www.theverge.com/2024/10/31/24284580/chevy-brightdrop-walmart-electric-delivery-van)
- - [Israel-based Decart, which lets organizations train massive AI models at scale while reducing costs, raised a $21M seed led by Sequoia and says it&#39;s profitable &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241031/p40#a241031p40)<!-- TECH:END -->
+ - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

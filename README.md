@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
  - [OpenAI’s search engine is now live in ChatGPT](https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt)
  - [OpenAI says ChatGPT Search draws on articles from the WSJ and others it has deals with, and will direct election-related queries to sources like AP and Reuters &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/241031/p37#a241031p37)
  - [WordPress cofounder asks court to dismiss WP Engine’s lawsuit](https://www.theverge.com/2024/10/31/24284537/wordpress-court-dismiss-wp-engine-lawsuit)
- - [OpenAI unveils ChatGPT Search to let paid users search for timely information using GPT-4o, after testing the feature in July 2024, a direct challenge to Google &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241031/p36#a241031p36)
- - [Filing: Trump&#39;s World Liberty Financial plans to raise ~$30M from investors, down from the $300M it had originally sought, after WLFI token sales fell short &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/241031/p35#a241031p35)<!-- TECH:END -->
+ - [OpenAI unveils ChatGPT Search to let paid users search for timely information using GPT-4o, after testing the feature in July 2024, a direct challenge to Google &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241031/p36#a241031p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

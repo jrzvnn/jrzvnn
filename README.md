@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
- - 😝 [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
- - 💣 [Meme Origins](http://9gag.com/gag/an75VBB)
- - 😝 [I&#39;m curious.](http://9gag.com/gag/avyomxq)
- - 👉 [Heh](http://9gag.com/gag/a9yRBe0)<!-- MEMES:END -->
+ - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
+ - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 😝 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)
+ - 👉 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)<!-- MEMES:END -->
 
 ---
 

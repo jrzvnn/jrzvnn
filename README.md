@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
- - 💣 [Third class citizens](http://9gag.com/gag/a0eRO3X)
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 👉 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)<!-- MEMES:END -->
+ - 😝 [Jim is really impressed by this impression of him](http://9gag.com/gag/a9yRB6W)
+ - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - 💣 [Heh](http://9gag.com/gag/a9yRBe0)
+ - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
 
 ---
 

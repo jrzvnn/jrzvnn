@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
- - 😝 [Clever kid](http://9gag.com/gag/aqygDAR)
- - 💣 [Don&#39;t smoke](http://9gag.com/gag/aD2gMvx)
- - 😝 [Third class citizens](http://9gag.com/gag/a0eRO3X)
- - 👉 [The truth about me.](http://9gag.com/gag/aW4E2K4)<!-- MEMES:END -->
+ - 😝 [Age is just a number](http://9gag.com/gag/a34R2Xr)
+ - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 💣 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 👉 [I can fix her](http://9gag.com/gag/a1mRL12)<!-- MEMES:END -->
 
 ---
 

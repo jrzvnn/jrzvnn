@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Decart, which lets organizations train massive AI models at scale while reducing costs, raised a $21M seed led by Sequoia and says it&#39;s profitable &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241031/p40#a241031p40)
+ - [This pocket-friendly e-reader also wants to be your minimalist phone](https://www.theverge.com/2024/10/31/24284604/mudita-kompakt-e-ink-smartphone-e-reader-android)
+ - [Ford won’t be making any new F-150 Lightnings until next year](https://www.theverge.com/2024/10/31/24284643/ford-f150-lightning-factory-idle-pause-production)
  - [Activision-Blizzard says the Call of Duty series has sold more than 500M copies to date; Nadella says Black Ops 6 set a record for first-day players &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/241031/p39#a241031p39)
- - [Trump is planning a crackdown on legal immigration, too](https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute)
- - [Humane recalls the AI Pin’s charging case due to overheating concerns](https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard)
- - [Playdate is getting a second season of games in 2025](https://www.theverge.com/2024/10/31/24284707/playdate-season-2-release-date)
- - [FCC and the broadband industry argue net neutrality’s future](https://www.theverge.com/2024/10/31/24284435/fcc-net-neutrality-isp-sixth-circuit-oral-arguments)<!-- TECH:END -->
+ - [Trump is planning a crackdown on legal immigration, too](https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

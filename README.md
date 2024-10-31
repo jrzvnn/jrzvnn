@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft once again delays the rollout of its controversial Recall feature for Copilot+ PCs, saying it needs more time to &quot;refine the experience&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)
+ - [Anthropic’s Claude AI chatbot now has a desktop app](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app)
+ - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)
  - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
  - [Chevy’s BrightDrop electric vans will be in Walmart’s fleet by the end of the year](https://www.theverge.com/2024/10/31/24284580/chevy-brightdrop-walmart-electric-delivery-van)
- - [Best Samsung Galaxy Z Fold 6 Deals: Save Big Money on This Versatile Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
- - [Israel-based Decart, which lets organizations train massive AI models at scale while reducing costs, raised a $21M seed led by Sequoia and says it&#39;s profitable &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241031/p40#a241031p40)<!-- TECH:END -->
+ - [Best Samsung Galaxy Z Fold 6 Deals: Save Big Money on This Versatile Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 💣 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
+ - 😝 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
+ - 😝 [Spoiled](http://9gag.com/gag/awyoGDx)
+ - 💣 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
 
 ---
 

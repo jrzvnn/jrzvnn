@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Waymo was valued at more than $45B, after it raised $5.6B last week, led by Alphabet &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p38#a241031p38)
- - [This Is a Glimpse of the Future of AI Robot](https://www.wired.com/story/physical-intelligence-home-robot/)
- - [ChatGPT’s AI Search Tool Is Now Available](https://www.wired.com/story/chatgpt-ai-search-update-openai/)
- - [Android 16 will ship early in 2025](https://www.theverge.com/2024/10/31/24284665/android-16-release-schedule-q2-2025)
- - [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)<!-- TECH:END -->
+ - [Playdate is getting a second season of games in 2025](https://www.theverge.com/2024/10/31/24284707/playdate-season-2-release-date)
+ - [FCC and the broadband industry argue net neutrality’s future](https://www.theverge.com/2024/10/31/24284435/fcc-net-neutrality-isp-sixth-circuit-oral-arguments)
+ - [Stacey Abrams Has Some Ideas on How to Stop Elon Musk and the Far Right in Georgia](https://www.wired.com/story/stacey-abrams-elon-musk-far-right-georgia/)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-31/#ftag=CAD590a51e)
+ - [Explore the Outer Banks and More in These Upcoming Netflix Games](https://www.cnet.com/tech/gaming/explore-the-outer-banks-and-more-in-these-upcoming-netflix-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

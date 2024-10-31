@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)
  - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
  - [Chevy’s BrightDrop electric vans will be in Walmart’s fleet by the end of the year](https://www.theverge.com/2024/10/31/24284580/chevy-brightdrop-walmart-electric-delivery-van)
- - [Best Samsung Galaxy Z Fold 6 Deals: Save Big Money on This Versatile Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israel-based Decart, which lets organizations train massive AI models at scale while reducing costs, raised a $21M seed led by Sequoia and says it&#39;s profitable &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241031/p40#a241031p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

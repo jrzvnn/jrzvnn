@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 💣 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 😝 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
- - 👉 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)<!-- MEMES:END -->
+ - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 😝 [Best first date](http://9gag.com/gag/amo5RQd)
+ - 💣 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
+ - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
 
 ---
 

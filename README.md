@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
- - 😝 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
- - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
+ - 😝 [He took that well](http://9gag.com/gag/aBygX8x)
+ - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - 💣 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
+ - 👉 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)<!-- MEMES:END -->
 
 ---
 

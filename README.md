@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241031/p28#a241031p28)
  - [Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout](https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch)
- - [The EU Commission opens formal DSA proceedings against Temu over the alleged sales of non-compliant products and its platform design, like addictive features &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/241031/p27#a241031p27)
- - [Google Maps’ enhanced navigation will make sure you’re in the right lane](https://www.theverge.com/2024/10/31/24284455/google-maps-enhanced-navigation-features-city-driving)
- - [Waze will soon let you report incidents with your voice](https://www.theverge.com/2024/10/31/24284037/waze-report-incidents-voice)
- - [Google Maps will use AI to answer questions about the new restaurant you want to try](https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions)<!-- TECH:END -->
+ - [Technics SL-1200GS Review: A Bomb Proof Classic](https://www.wired.com/review/technics-sl-1200g/)
+ - [Google Maps Meets Gemini: Hands-On With New AI Tools video](https://www.cnet.com/videos/google-maps-meets-gemini-hands-on-with-new-ai-tools/#ftag=CAD590a51e)
+ - [The EU Commission opens formal DSA proceedings against Temu over the alleged sales of non-compliant products and its platform design, like addictive features &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/241031/p27#a241031p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

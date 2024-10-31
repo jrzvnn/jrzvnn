@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
+ - 😝 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
  - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 💣 [Where is my son](http://9gag.com/gag/aByg48A)
+ - 💣 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)
  - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
  - 👉 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)<!-- MEMES:END -->
 

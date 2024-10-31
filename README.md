@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
+ - 😝 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 😝 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
+ - 💣 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
  - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [Are some GTA fans against having a female protagonist?](http://9gag.com/gag/adB52MM)
- - 👉 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)<!-- MEMES:END -->
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 

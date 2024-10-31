@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)
+ - [Apple reports fourth quarter results &lpar;Apple Inc.&rpar;](http://www.techmeme.com/241031/p48#a241031p48)
  - [Tidal is laying off more staff](https://www.theverge.com/2024/10/31/24284801/tidal-jack-dorsey-layoffs-report)
  - [Amazon reports Q3 ad revenue up 19% YoY to $14.33B, vs. $14.25B estimated, amid the company&#39;s push to insert ads into Prime Video &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241031/p47#a241031p47)
- - [Elon Musk Could Have US Citizenship Revoked If He Lied on Immigration Forms](https://www.wired.com/story/elon-musk-citizenship-revoked-denaturalized/)
- - [Amazon reports Q3 AWS revenue up 19% YoY to $27.5B and AWS operating income of $10.4B, up from $7B in Q3 2023, and subscription sales up 11% to $11.3B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241031/p46#a241031p46)
- - [Intel reports Q3 revenue down 6% YoY to $13.28B, vs. $13.02B est., a net loss of $16.99B, and Q4 guidance above estimates; INTC jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p45#a241031p45)<!-- TECH:END -->
+ - [Elon Musk Could Have US Citizenship Revoked If He Lied on Immigration Forms](https://www.wired.com/story/elon-musk-citizenship-revoked-denaturalized/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monster hunter is so wild now](http://9gag.com/gag/azx14qZ)
- - 😝 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
  - 💣 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
- - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
- - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
+ - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 

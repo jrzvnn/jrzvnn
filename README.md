@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 💣 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 😝 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
- - 👉 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)<!-- MEMES:END -->
+ - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 💣 [October 31. Who you gonna call?](http://9gag.com/gag/aLn0V16)
+ - 😝 [We are already there](http://9gag.com/gag/aW4EPOd)
+ - 👉 [Authentic Geological Map Of Scotland](http://9gag.com/gag/a0eRxyL)<!-- MEMES:END -->
 
 ---
 

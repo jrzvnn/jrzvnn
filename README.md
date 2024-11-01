@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Bose is taking up to 40 percent off headphones ahead of Black Friday](https://www.theverge.com/2024/11/1/24285396/bose-quietcomfort-ultra-headphones-backbone-one-controller-deal-sale)
  - [Google researchers detail Project Big Sleep, formerly Project Naptime, which used an AI agent to discover a previously unknown and exploitable bug in SQLite &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241101/p17#a241101p17)
+ - [Best TV Deals: Upgrade in Time for the Holidays and Save Hundreds on LG, Samsung and More](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Elon Musk’s America PAC Hit With Class Action Lawsuit](https://www.wired.com/story/elon-musk-america-pac-class-action-lawsuit/)
- - [The Guy Behind the Fake AI Halloween Parade Listing Says You’ve Got It All Wrong](https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/)
- - [Agatha All Along rushed its journey down the ‘Witches’ Road’](https://www.theverge.com/2024/11/1/24284710/agatha-all-along-finale-billy-maximoff-death)<!-- TECH:END -->
+ - [The Guy Behind the Fake AI Halloween Parade Listing Says You’ve Got It All Wrong](https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

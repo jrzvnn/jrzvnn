@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
  - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
  - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 👉 [What it is really called though?](http://9gag.com/gag/an75deq)<!-- MEMES:END -->
+ - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
 
 ---
 

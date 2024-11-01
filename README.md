@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hear other people saying, `Have you tried crossfit?`](http://9gag.com/gag/ajP5dGg)
- - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 💣 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
- - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - 👉 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)<!-- MEMES:END -->
+ - 😝 [Signature look of superiority stops](http://9gag.com/gag/aPARn7V)
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
 
 ---
 

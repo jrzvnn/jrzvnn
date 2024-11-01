@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These bookmarking apps can organize all of that content you’re saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
  - [Intel outlines plan to break free from TSMC manufacturing, including making a majority of Nova Lake CPUs, due in 2026, internally &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241101/p13#a241101p13)
  - [Apple&#39;s fourth quarter earnings were decent, but the holiday quarter will be vital](https://appleinsider.com/articles/24/11/01/apples-fourth-quarter-earnings-were-decent-but-the-holiday-quarter-will-be-vital?utm_medium=rss)
  - [Apple is buying a treasure in Pixelmator, and we hope it won&#39;t get destroyed](https://appleinsider.com/articles/24/11/01/apple-is-buying-a-treasure-in-pixelmator-and-we-hope-it-wont-get-destroyed?utm_medium=rss)
- - [How to watch Fortnite’s Remix: The Prelude event](https://www.theverge.com/2024/11/1/24285464/fortnite-remix-the-prelude-event-how-to-watch)
- - [Election Violence Is Already Here](https://www.wired.com/story/election-violence-is-already-here/)<!-- TECH:END -->
+ - [How to watch Fortnite’s Remix: The Prelude event](https://www.theverge.com/2024/11/1/24285464/fortnite-remix-the-prelude-event-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

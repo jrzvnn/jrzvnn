@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What it is really called though?](http://9gag.com/gag/an75deq)
+ - 😝 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
+ - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
  - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 💣 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
+ - 👉 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
 
 ---
 

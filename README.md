@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of YC Head of Public Policy Luther Lowe, who led a California pressure campaign against AI safety bill SB 1047 and aims to fight for &quot;little tech&quot; &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241101/p11#a241101p11)
  - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
  - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
  - [Wyze added a big color screen to its latest budget-friendly smart scale](https://www.theverge.com/2024/11/1/24285281/wyze-scale-ultra-smart-health)
- - [Donald Trump files yet another censorship lawsuit](https://www.theverge.com/2024/11/1/24285305/trump-lawsuit-cbs-harris-interview-fcc-broadcast-censorship)
- - [Google is building smart home controls into Gemini](https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app)<!-- TECH:END -->
+ - [Donald Trump files yet another censorship lawsuit](https://www.theverge.com/2024/11/1/24285305/trump-lawsuit-cbs-harris-interview-fcc-broadcast-censorship)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

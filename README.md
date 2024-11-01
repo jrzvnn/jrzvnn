@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Macs, Apple Intelligence, and more money for Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/01/new-macs-apple-intelligence-and-more-money-for-apple-on-the-appleinsider-podcast?utm_medium=rss)
- - [9 Best Advent Calendars &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-advent-calendars/)
- - [Lenovo Yoga Slim 7i Aura Edition review: Intel excellence inside, middling outside](https://www.theverge.com/24283884/lenovo-yoga-slim-7i-aura-edition-laptop-intel-lunar-lake-review)
- - [The capital expenditures of Amazon, Alphabet, Meta, and Microsoft are set to total over $200B in 2024 as companies accelerate spending chasing AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p9#a241101p9)
- - [How to Make an All-Natural Cleaner With Stuff You Already Have](https://www.cnet.com/how-to/how-to-make-an-all-natural-cleaner-with-stuff-you-already-have/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG Ultragear 34GS95QE Curved OLED Gaming Monitor Review: Big Curve](https://www.wired.com/review/lg-ultragear-34gs95qe-curved-oled-gaming-monitor/)
+ - [What voting machine companies are doing to avoid another 2020](https://www.theverge.com/2024/11/1/24284887/smartmatic-dominion-voting-machine-companies-trust-disinformation)
+ - [The Verge’s favorite social networks](https://www.theverge.com/24283800/threads-twitter-bluesky-favorites)
+ - [Apple makes $1.1 billion commitment to expand satellite messaging](https://appleinsider.com/articles/24/11/01/apple-makes-11-billion-commitment-to-expand-satellite-messaging?utm_medium=rss)
+ - [New Macs, Apple Intelligence, and more money for Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/01/new-macs-apple-intelligence-and-more-money-for-apple-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

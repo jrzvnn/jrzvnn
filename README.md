@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 😝 [Threats from Liam Neeson hits differently!](http://9gag.com/gag/an75rVn)
- - 💣 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - 😝 [She see](http://9gag.com/gag/ae95yjB)
+ - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - 💣 [Right in the feels](http://9gag.com/gag/aZZ7dRz)
+ - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 👉 [Authentic Geological Map Of Scotland](http://9gag.com/gag/a0eRxyL)<!-- MEMES:END -->
 
 ---
 

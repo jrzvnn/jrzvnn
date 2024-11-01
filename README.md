@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Istanbul-based Insider, which offers AI-powered marketing and customer engagement tools, raised a $500M Series E led by General Atlantic, plans a US expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p3#a241101p3)
  - [Anthropic says governments should urgently take action on AI policy in the next 18 months and suggests principles for AI regulation that support innovation &lpar;Anthropic&rpar;](http://www.techmeme.com/241101/p2#a241101p2)
  - [Tel Aviv-based, enterprise-focused cybersecurity startup Noma emerges from stealth with $32M in funding, including a $25M Series A led by Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241101/p1#a241101p1)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 1, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-1-509/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 1, #243](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-1-243/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 1, #1231](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-1-1231/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 1, #243](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-1-243/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

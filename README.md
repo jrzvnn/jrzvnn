@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
  - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
  - [Wyze added a big color screen to its latest budget-friendly smart scale](https://www.theverge.com/2024/11/1/24285281/wyze-scale-ultra-smart-health)
  - [Donald Trump files yet another censorship lawsuit](https://www.theverge.com/2024/11/1/24285305/trump-lawsuit-cbs-harris-interview-fcc-broadcast-censorship)
- - [Google is building smart home controls into Gemini](https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app)
- - [AI Will Understand Humans Better Than Humans Do](https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/)<!-- TECH:END -->
+ - [Google is building smart home controls into Gemini](https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

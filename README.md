@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is building smart home controls into Gemini](https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app)
+ - [AI Will Understand Humans Better Than Humans Do](https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/)
  - [Activo P1 Review: Wired Sound, Tired Looks](https://www.wired.com/review/activo-p1/)
  - [First M4 Max benchmark tears apart the M2 Ultra Mac Studio](https://appleinsider.com/articles/24/11/01/first-m4-max-benchmark-tears-apart-the-m2-ultra-mac-studio?utm_medium=rss)
- - [Satellite services provider Globalstar says Apple took a 20% ownership stake worth ~$400M, and has committed another $1.1B to expand satellite service capacity &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241101/p10#a241101p10)
- - [The AI garage door mystery](https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast)
- - [Refi Rates Jump Up Despite Cooler Jobs Data. Today&#39;s Refinance Rates, Nov. 1, 2024](https://www.cnet.com/personal-finance/refinance-rates-tick-higher-refinance-rates-for-nov-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Satellite services provider Globalstar says Apple took a 20% ownership stake worth ~$400M, and has committed another $1.1B to expand satellite service capacity &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241101/p10#a241101p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

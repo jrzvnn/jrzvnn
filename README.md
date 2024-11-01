@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
+ - 😝 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
+ - 😝 [October 31. Who you gonna call?](http://9gag.com/gag/aLn0V16)
+ - 💣 [Facts](http://9gag.com/gag/a9yR4Lm)
+ - 😝 [Imagine disliking an actor because he wants to portray a character he loves as best as he can. Who even hires these people?](http://9gag.com/gag/aAygL3g)
+ - 👉 [Welcome to Jurrasic park](http://9gag.com/gag/avyoXN5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)
+ - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
  - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 💣 [0% Luck](http://9gag.com/gag/aRB08bj)
  - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 👉 [What are some interesting myths you&#39;ve come across recently?](http://9gag.com/gag/ajP53Dq)<!-- MEMES:END -->
+ - 👉 [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)<!-- MEMES:END -->
 
 ---
 

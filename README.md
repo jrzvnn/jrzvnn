@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)
  - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)
  - [Save up to $230 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro with AppleCare](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)
  - [Meta’s new OS update for Quest includes a redesign and train mode](https://www.theverge.com/2024/11/1/24285641/meta-quest-os-update-v71-redesign-train-mode-calendar)
- - [iPhone 17 and iPhone 17 Slim could finally get ProMotion](https://appleinsider.com/articles/24/11/01/iphone-17-and-iphone-17-slim-could-finally-get-promotion?utm_medium=rss)
- - [Schwinn resurrected its classic ‘70s Hurricane as a modern e-bike](https://www.theverge.com/2024/11/1/24285571/schwinn-hurricane-compact-electric-bike)<!-- TECH:END -->
+ - [iPhone 17 and iPhone 17 Slim could finally get ProMotion](https://appleinsider.com/articles/24/11/01/iphone-17-and-iphone-17-slim-could-finally-get-promotion?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

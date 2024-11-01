@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cI\u2019m glad I did not embarrass myself on the ride\u201d](http://9gag.com/gag/aO80OND)
- - 😝 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - 💣 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
- - 😝 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
- - 👉 [Only a few](http://9gag.com/gag/ae95qKj)<!-- MEMES:END -->
+ - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
 
 ---
 

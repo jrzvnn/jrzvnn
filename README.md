@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Russian Disinfo Campaign Is Using Comment Sections to Seed Pro-Trump Conspiracy Theories](https://www.wired.com/story/russia-disinfo-campaign-right-wing-comment-sections-pro-trump/)
- - [iPhone 16 Pro one month review: an Apple Intelligence intro](https://appleinsider.com/articles/24/11/01/iphone-16-pro-one-month-review-an-apple-intelligence-intro?utm_medium=rss)
- - [M4 Mac mini vs 2018 Intel Mac mini compared: It&#39;s time to move to Apple Silicon](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-2018-intel-mac-mini-compared-its-time-to-move-to-apple-silicon?utm_medium=rss)
- - [Canalys: global smartphone shipments grew 5% YoY in Q3 to reach 309.9M units, the strongest Q3 performance since 2021; Samsung led with 57.5M units, Apple 54.5M &lpar;Canalys&rpar;](http://www.techmeme.com/241101/p8#a241101p8)
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
+ - [New Macs, Apple Intelligence, and more money for Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/01/new-macs-apple-intelligence-and-more-money-for-apple-on-the-appleinsider-podcast?utm_medium=rss)
+ - [9 Best Advent Calendars &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-advent-calendars/)
+ - [Lenovo Yoga Slim 7i Aura Edition review: Intel excellence inside, middling outside](https://www.theverge.com/24283884/lenovo-yoga-slim-7i-aura-edition-laptop-intel-lunar-lake-review)
+ - [The capital expenditures of Amazon, Alphabet, Meta, and Microsoft are set to total over $200B in 2024 as companies accelerate spending chasing AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p9#a241101p9)
+ - [How to Make an All-Natural Cleaner With Stuff You Already Have](https://www.cnet.com/how-to/how-to-make-an-all-natural-cleaner-with-stuff-you-already-have/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

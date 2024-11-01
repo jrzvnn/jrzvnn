@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activo P1 Review: Wired Sound, Tired Looks](https://www.wired.com/review/activo-p1/)
  - [First M4 Max benchmark tears apart the M2 Ultra Mac Studio](https://appleinsider.com/articles/24/11/01/first-m4-max-benchmark-tears-apart-the-m2-ultra-mac-studio?utm_medium=rss)
  - [Satellite services provider Globalstar says Apple took a 20% ownership stake worth ~$400M, and has committed another $1.1B to expand satellite service capacity &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241101/p10#a241101p10)
  - [The AI garage door mystery](https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast)
- - [LG Ultragear 34GS95QE Curved OLED Gaming Monitor Review: Big Curve](https://www.wired.com/review/lg-ultragear-34gs95qe-curved-oled-gaming-monitor/)
- - [What voting machine companies are doing to avoid another 2020](https://www.theverge.com/2024/11/1/24284887/smartmatic-dominion-voting-machine-companies-trust-disinformation)<!-- TECH:END -->
+ - [LG Ultragear 34GS95QE Curved OLED Gaming Monitor Review: Big Curve](https://www.wired.com/review/lg-ultragear-34gs95qe-curved-oled-gaming-monitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

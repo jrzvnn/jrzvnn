@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based, enterprise-focused cybersecurity startup Noma emerges from stealth with $32M in funding, including a $25M Series A led by Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241101/p1#a241101p1)
  - [UK police received 7,062 reports of online grooming in the last year; Snapchat was named in 48% of those cases where the means of communication was disclosed &lpar;Martyn Landi/The Independent&rpar;](http://www.techmeme.com/241031/p56#a241031p56)
  - [Early Geekbench scores show M4 Pro may outpace Mac Pro with M2 Ultra](https://appleinsider.com/articles/24/11/01/early-geekbench-scores-show-m4-pro-may-outpace-mac-pro-with-m2-ultra?utm_medium=rss)
  - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)
- - [Ex-Lacework CEO and Facebook&#39;s former global head of engineering Jay Parikh joins Microsoft&#39;s senior leadership team and will report directly to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p55#a241031p55)
- - [Phone Won&#39;t Charge When Plugged In? Try This Easy DIY Fix at Home First](https://www.cnet.com/tech/mobile/phone-wont-charge-try-this-easy-fix-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ex-Lacework CEO and Facebook&#39;s former global head of engineering Jay Parikh joins Microsoft&#39;s senior leadership team and will report directly to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p55#a241031p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

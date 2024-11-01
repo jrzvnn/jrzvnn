@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
  - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
- - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 💣 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 😝 [What it is really called though?](http://9gag.com/gag/an75deq)
+ - 👉 [From a drive to chaos](http://9gag.com/gag/avyoXgb)<!-- MEMES:END -->
 
 ---
 

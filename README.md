@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
- - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 💣 [We are already there](http://9gag.com/gag/aW4EPOd)
+ - 😝 [We are already there](http://9gag.com/gag/aW4EPOd)
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
  - 😝 [October 31. Who you gonna call?](http://9gag.com/gag/aLn0V16)
  - 👉 [Authentic Geological Map Of Scotland](http://9gag.com/gag/a0eRxyL)<!-- MEMES:END -->
 

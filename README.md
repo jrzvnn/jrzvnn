@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)
  - [KitchenAid Promo Codes and Coupons: 15% Off Select Items | WIRED](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Indonesia bans sales of Pixel smartphones, saying Google must comply with rules requiring 40% local content in smartphones, days after banning iPhone 16 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241101/p5#a241101p5)
  - [30% off Samsung Promo Codes - November 2024 Coupons](https://www.wired.com/story/samsung-promo-codes/)
- - [Chinese researchers linked to the People&#39;s Liberation Army developed an AI model using Llama 2 for potential military use; Meta says such use is &quot;unauthorized&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p4#a241101p4)
- - [Dell Coupon Code: 10% Off  | WIRED](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Chinese researchers linked to the People&#39;s Liberation Army developed an AI model using Llama 2 for potential military use; Meta says such use is &quot;unauthorized&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p4#a241101p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

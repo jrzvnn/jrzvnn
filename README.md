@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squarespace Promo Codes - 10% Off in November 2024 | WIRED](https://www.wired.com/story/squarespace-promo-code/)
- - [25% OFF VistaPrint Coupon, Promo Code for November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Dyson Promo Code: 20% Off November 2024 | WIRED](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
- - [Istanbul-based Insider, which offers AI-powered marketing and customer engagement tools, raised a $500M Series E led by General Atlantic, plans a US expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p3#a241101p3)<!-- TECH:END -->
+ - [Indonesia bans sales of Pixel smartphones, saying Google must comply with rules requiring 40% local content in smartphones, days after banning iPhone 16 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241101/p5#a241101p5)
+ - [Chinese researchers linked to the People&#39;s Liberation Army developed an AI model using Llama 2 for potential military use; Meta says such use is &quot;unauthorized&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p4#a241101p4)
+ - [Dell Coupon Code: 10% Off  | WIRED](https://www.wired.com/story/dell-coupon-code/)
+ - [Design Within Reach Promo Codes: 20% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [Newegg Promo Code: 10% Off | November 2024 | WIRED](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

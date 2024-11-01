@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Hyundai knows how to make a good-looking hydrogen concept car](https://www.theverge.com/2024/11/1/24285646/hyundai-initium-hydrogen-ev-suv-concept)
  - [CoreWeave told investors its signed contracts are worth $17B, including $10B by Microsoft from 2023 to 2030, and it expects revenue to grow 4x to $8B in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241101/p16#a241101p16)
- - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)
- - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)
- - [Save up to $230 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro with AppleCare](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [This Top-Rated Oral-B Smart Toothbrush Is $40 Off Right Now at Amazon](https://www.cnet.com/deals/this-smart-rated-oral-b-smart-toothbrush-is-40-off-right-now-at-amazon/#ftag=CAD590a51e)
+ - [Best Early Black Friday Streaming Deals: Watch All Winter With These Discounts](https://www.cnet.com/deals/best-early-black-friday-streaming-service-deals/#ftag=CAD590a51e)
+ - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

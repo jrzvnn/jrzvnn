@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s America PAC Hit With Class Action Lawsuit](https://www.wired.com/story/elon-musk-america-pac-class-action-lawsuit/)
+ - [The Guy Behind the Fake AI Halloween Parade Listing Says You’ve Got It All Wrong](https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/)
  - [Agatha All Along rushed its journey down the ‘Witches’ Road’](https://www.theverge.com/2024/11/1/24284710/agatha-all-along-finale-billy-maximoff-death)
- - [Hyundai knows how to make a good-looking hydrogen concept car](https://www.theverge.com/2024/11/1/24285646/hyundai-initium-hydrogen-ev-suv-concept)
- - [CoreWeave told investors its signed contracts are worth $17B, including $10B by Microsoft from 2023 to 2030, and it expects revenue to grow 4x to $8B in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241101/p16#a241101p16)
- - [This Top-Rated Oral-B Smart Toothbrush Is $40 Off Right Now at Amazon](https://www.cnet.com/deals/this-smart-rated-oral-b-smart-toothbrush-is-40-off-right-now-at-amazon/#ftag=CAD590a51e)
- - [Best Early Black Friday Streaming Deals: Watch All Winter With These Discounts](https://www.cnet.com/deals/best-early-black-friday-streaming-service-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You Like Piña Coladas, You Need This Ninja Blender &lpar;and It&#39;s Half Off Right Now&rpar;](https://www.cnet.com/deals/if-you-like-pina-coladas-you-need-this-ninja-blender-and-its-half-off-right-now/#ftag=CAD590a51e)
+ - [Election 2024: How Can I Track the Official Election Results in Key States on Nov. 5?](https://www.cnet.com/tech/services-and-software/election-2024-how-can-i-track-the-official-election-results-in-key-states-on-nov-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

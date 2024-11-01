@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thinking About Buying a Foldable Phone? Here&#39;s What to Know](https://www.cnet.com/tech/mobile/want-a-foldable-phone-ask-yourself-these-questions-first/#ftag=CAD590a51e)
+ - [Cheaper Gas Is One of 18 Amazon Prime Perks You Need to Know About](https://www.cnet.com/tech/mobile/cheaper-gas-is-one-of-18-amazon-prime-perks-you-need-to-know-about/#ftag=CAD590a51e)
+ - [Best Home Theater Gifts for 2024](https://www.cnet.com/tech/home-entertainment/best-gifts-to-upgrade-a-home-theater/#ftag=CAD590a51e)
  - [How Researchers Are Using Geospatial Technology to Uncover Mexico&#39;s Clandestine Graves](https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/)
- - [The Reason Your Election Anxiety Feels Worse in 2024](https://www.wired.com/story/the-reason-your-election-anxiety-feels-worse-in-2024/)
- - [Why is Nintendo targeting this YouTuber?](https://www.theverge.com/games/24272743/nintendo-retro-game-corps-russ-crandall-profile-youtube-emulation-dmca-takedown-copyright-strike)
- - [New Magic Mouse and Magic Keyboard don&#39;t work with older versions of macOS](https://appleinsider.com/articles/24/11/01/new-magic-mouse-and-magic-keyboard-dont-work-with-older-versions-of-macos?utm_medium=rss)
- - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)<!-- TECH:END -->
+ - [The Reason Your Election Anxiety Feels Worse in 2024](https://www.wired.com/story/the-reason-your-election-anxiety-feels-worse-in-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

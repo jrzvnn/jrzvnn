@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google researchers detail Project Big Sleep, formerly Project Naptime, which used an AI agent to discover a previously unknown and exploitable bug in SQLite &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241101/p17#a241101p17)
  - [Best TV Deals: Upgrade in Time for the Holidays and Save Hundreds on LG, Samsung and More](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Elon Musk’s America PAC Hit With Class Action Lawsuit](https://www.wired.com/story/elon-musk-america-pac-class-action-lawsuit/)
  - [The Guy Behind the Fake AI Halloween Parade Listing Says You’ve Got It All Wrong](https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/)
- - [Snag This Pair of Galaxy Earbuds for Just $60 While You Can](https://www.cnet.com/deals/snag-this-pair-of-galaxy-earbuds-for-just-60-while-you-can/#ftag=CAD590a51e)
- - [Can I Still Vote Before Election Day? Early Voting Winds Down in More States](https://www.cnet.com/news/politics/can-i-still-vote-before-election-day-early-voting-winds-down-in-more-states/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag This Pair of Galaxy Earbuds for Just $60 While You Can](https://www.cnet.com/deals/snag-this-pair-of-galaxy-earbuds-for-just-60-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

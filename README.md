@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
  - 😝 [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
  - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
  - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---

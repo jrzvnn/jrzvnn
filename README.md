@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google DeepMind Director John Jumper on winning the Nobel Prize in Chemistry, merging science and AI, advancing AlphaFold, rival labs, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/241101/p6#a241101p6)
- - [The Time Change Is About to Mess With Your Sleep. Try These 3 Tips to Restore Your Internal Clock](https://www.cnet.com/health/sleep/3-tips-to-restore-your-internal-clock-with-the-end-of-daylight-saving/#ftag=CAD590a51e)
- - [Nike Promo Code: 10% Off | November 2024 | WIRED](https://www.wired.com/story/nike-promo-code/)
- - [50+ Best Christmas Gifts 2024: Early Ideas for This Year&#39;s Holiday Shopping](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
- - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
+ - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)
+ - [Profiteers Are Exploiting US Election Conspiracies and Hate to Make Millions](https://www.wired.com/story/2024-election-profiteers/)
+ - [What&#39;s the Cheapest Way to Snag Airport Lounge Access? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-cheapest-way-to-score-airport-lounge-access-we-do-the-math/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Nov. 1, 2024: Grow Your Savings Faster With APYs Up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-nov-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

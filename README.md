@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best TV Deals: Upgrade in Time for the Holidays and Save Hundreds on LG, Samsung and More](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Elon Musk’s America PAC Hit With Class Action Lawsuit](https://www.wired.com/story/elon-musk-america-pac-class-action-lawsuit/)
  - [The Guy Behind the Fake AI Halloween Parade Listing Says You’ve Got It All Wrong](https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/)
- - [Agatha All Along rushed its journey down the ‘Witches’ Road’](https://www.theverge.com/2024/11/1/24284710/agatha-all-along-finale-billy-maximoff-death)
- - [If You Like Piña Coladas, You Need This Ninja Blender &lpar;and It&#39;s Half Off Right Now&rpar;](https://www.cnet.com/deals/if-you-like-pina-coladas-you-need-this-ninja-blender-and-its-half-off-right-now/#ftag=CAD590a51e)
- - [Election 2024: How Can I Track the Official Election Results in Key States on Nov. 5?](https://www.cnet.com/tech/services-and-software/election-2024-how-can-i-track-the-official-election-results-in-key-states-on-nov-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag This Pair of Galaxy Earbuds for Just $60 While You Can](https://www.cnet.com/deals/snag-this-pair-of-galaxy-earbuds-for-just-60-while-you-can/#ftag=CAD590a51e)
+ - [Can I Still Vote Before Election Day? Early Voting Winds Down in More States](https://www.cnet.com/news/politics/can-i-still-vote-before-election-day-early-voting-winds-down-in-more-states/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

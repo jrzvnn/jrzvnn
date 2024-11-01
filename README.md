@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Magic Mouse and Magic Keyboard don&#39;t work with older versions of macOS](https://appleinsider.com/articles/24/11/01/new-magic-mouse-and-magic-keyboard-dont-work-with-older-versions-of-macos?utm_medium=rss)
  - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
  - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)
  - [Profiteers Are Exploiting US Election Conspiracies and Hate to Make Millions](https://www.wired.com/story/2024-election-profiteers/)
- - [What&#39;s the Cheapest Way to Snag Airport Lounge Access? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-cheapest-way-to-score-airport-lounge-access-we-do-the-math/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Nov. 1, 2024: Grow Your Savings Faster With APYs Up to 5.25%](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-nov-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What&#39;s the Cheapest Way to Snag Airport Lounge Access? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-cheapest-way-to-score-airport-lounge-access-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

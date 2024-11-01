@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 and iPhone 17 Slim could finally get ProMotion](https://appleinsider.com/articles/24/11/01/iphone-17-and-iphone-17-slim-could-finally-get-promotion?utm_medium=rss)
+ - [Schwinn resurrected its classic ‘70s Hurricane as a modern e-bike](https://www.theverge.com/2024/11/1/24285571/schwinn-hurricane-compact-electric-bike)
+ - [Disney forms the Office of Technology Enablement to coordinate its use of emerging technologies such as AI and mixed reality, to be led by CTO Jamie Voris &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p14#a241101p14)
  - [Hands on: Apple&#39;s USB-C accessories leave us wanting more](https://appleinsider.com/articles/24/11/01/hands-on-apples-usb-c-accessories-leave-us-wanting-more?utm_medium=rss)
- - [What an ‘Airbnbopoly’ Game Says About Silicon Valley’s Standoff With Lina Khan](https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/)
- - [You can now try Microsoft’s more modern Windows Hello UI](https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing)
- - [Intel’s future laptops will have memory sticks again](https://www.theverge.com/2024/11/1/24285513/intel-ceo-lunar-lake-one-off-memory-package-discrete-gpu)
- - [These bookmarking apps can organize all of that content you’re saving for later](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)<!-- TECH:END -->
+ - [What an ‘Airbnbopoly’ Game Says About Silicon Valley’s Standoff With Lina Khan](https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

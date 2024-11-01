@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine disliking an actor because he wants to portray a character he loves as best as he can. Who even hires these people?](http://9gag.com/gag/aAygL3g)
- - 😝 [Welcome to Jurrasic park](http://9gag.com/gag/avyoXN5)
- - 💣 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 👉 [2000 personnel taking action against criminals, El Salvador](http://9gag.com/gag/ae95qVq)<!-- MEMES:END -->
+ - 😝 [I hear other people saying, `Have you tried crossfit?`](http://9gag.com/gag/ajP5dGg)
+ - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
+ - 💣 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
+ - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 👉 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)<!-- MEMES:END -->
 
 ---
 

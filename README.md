@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)
+ - [Save up to $230 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro with AppleCare](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)
  - [Meta’s new OS update for Quest includes a redesign and train mode](https://www.theverge.com/2024/11/1/24285641/meta-quest-os-update-v71-redesign-train-mode-calendar)
  - [iPhone 17 and iPhone 17 Slim could finally get ProMotion](https://appleinsider.com/articles/24/11/01/iphone-17-and-iphone-17-slim-could-finally-get-promotion?utm_medium=rss)
- - [Schwinn resurrected its classic ‘70s Hurricane as a modern e-bike](https://www.theverge.com/2024/11/1/24285571/schwinn-hurricane-compact-electric-bike)
- - [Disney forms the Office of Technology Enablement to coordinate its use of emerging technologies such as AI and mixed reality, to be led by CTO Jamie Voris &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p14#a241101p14)
- - [Hands on: Apple&#39;s USB-C accessories leave us wanting more](https://appleinsider.com/articles/24/11/01/hands-on-apples-usb-c-accessories-leave-us-wanting-more?utm_medium=rss)<!-- TECH:END -->
+ - [Schwinn resurrected its classic ‘70s Hurricane as a modern e-bike](https://www.theverge.com/2024/11/1/24285571/schwinn-hurricane-compact-electric-bike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

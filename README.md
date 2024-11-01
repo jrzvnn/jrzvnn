@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
  - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 💣 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 👉 [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)<!-- MEMES:END -->
+ - 💣 [\u201cI\u2019m glad I did not embarrass myself on the ride\u201d](http://9gag.com/gag/aO80OND)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
 
 ---
 

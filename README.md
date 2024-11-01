@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
- - 😝 [We are already there](http://9gag.com/gag/aW4EPOd)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [October 31. Who you gonna call?](http://9gag.com/gag/aLn0V16)
- - 👉 [Authentic Geological Map Of Scotland](http://9gag.com/gag/a0eRxyL)<!-- MEMES:END -->
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
 
 ---
 

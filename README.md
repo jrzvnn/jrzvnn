@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 💣 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 😝 [\u201cI\u2019m glad I did not embarrass myself on the ride\u201d](http://9gag.com/gag/aO80OND)
- - 👉 [Slick](http://9gag.com/gag/axy78Mn)<!-- MEMES:END -->
+ - 😝 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
+ - 😝 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 💣 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 👉 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)<!-- MEMES:END -->
 
 ---
 

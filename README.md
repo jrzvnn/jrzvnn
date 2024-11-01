@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Squarespace Promo Codes - 10% Off in November 2024 | WIRED](https://www.wired.com/story/squarespace-promo-code/)
  - [25% OFF VistaPrint Coupon, Promo Code for November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Dyson Promo Code: 20% Off November 2024 | WIRED](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
- - [Istanbul-based Insider, which offers AI-powered marketing and customer engagement tools, raised a $500M Series E led by General Atlantic, plans a US expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p3#a241101p3)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Istanbul-based Insider, which offers AI-powered marketing and customer engagement tools, raised a $500M Series E led by General Atlantic, plans a US expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p3#a241101p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

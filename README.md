@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
- - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)
  - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 👉 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
+ - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 👉 [What are some interesting myths you&#39;ve come across recently?](http://9gag.com/gag/ajP53Dq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
- - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 💣 [October 31. Who you gonna call?](http://9gag.com/gag/aLn0V16)
- - 😝 [We are already there](http://9gag.com/gag/aW4EPOd)
- - 👉 [Authentic Geological Map Of Scotland](http://9gag.com/gag/a0eRxyL)<!-- MEMES:END -->
+ - 😝 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 💣 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
+ - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 

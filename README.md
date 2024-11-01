@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Researchers Are Using Geospatial Technology to Uncover Mexico&#39;s Clandestine Graves](https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/)
+ - [The Reason Your Election Anxiety Feels Worse in 2024](https://www.wired.com/story/the-reason-your-election-anxiety-feels-worse-in-2024/)
+ - [Why is Nintendo targeting this YouTuber?](https://www.theverge.com/games/24272743/nintendo-retro-game-corps-russ-crandall-profile-youtube-emulation-dmca-takedown-copyright-strike)
  - [New Magic Mouse and Magic Keyboard don&#39;t work with older versions of macOS](https://appleinsider.com/articles/24/11/01/new-magic-mouse-and-magic-keyboard-dont-work-with-older-versions-of-macos?utm_medium=rss)
- - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
- - [The Complete Guide to Apple&#39;s New Passwords App: Passkeys, Verification Codes and More](https://www.cnet.com/tech/services-and-software/the-complete-guide-to-apples-new-passwords-app-passkeys-verification-codes-and-more/#ftag=CAD590a51e)
- - [Dear iPhone, Please Stop Saying My Friends Are &#39;Dead&#39;](https://www.cnet.com/tech/mobile/dear-iphone-please-stop-saying-my-friends-are-dead/#ftag=CAD590a51e)
- - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)<!-- TECH:END -->
+ - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 💣 [Hmm](http://9gag.com/gag/azx14Wj)
- - 😝 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - 👉 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)<!-- MEMES:END -->
+ - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 👉 [What it is really called though?](http://9gag.com/gag/an75deq)<!-- MEMES:END -->
 
 ---
 

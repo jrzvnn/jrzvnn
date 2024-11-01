@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple acquires the team behind Pixelmator Pro](https://appleinsider.com/articles/24/11/01/apple-acquires-the-team-behind-pixelmator-pro?utm_medium=rss)
+ - [Apple is acquiring the popular image editing app Pixelmator](https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing)
+ - [Apple is buying 20 percent of its iPhone satellite services partner](https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite)
  - [College football teams enthuse about nano-texture iPad Pro](https://appleinsider.com/articles/24/11/01/college-football-teams-enthuse-about-nano-texture-ipad-pro?utm_medium=rss)
- - [Popular photo editing company Pixelmator says it has signed an agreement to be acquired by Apple, pending regulatory approval &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/241101/p12#a241101p12)
- - [WhatsApp’s new custom lists help organize your chats](https://www.theverge.com/2024/11/1/24285380/whatsapp-custom-lists-organize-chats)
- - [Black Friday 2024: Tips for Finding the Best Deals From Home](https://www.wired.com/story/black-friday-2024-tips-and-tricks/)
- - [A profile of YC Head of Public Policy Luther Lowe, who led a California pressure campaign against AI safety bill SB 1047 and aims to fight for &quot;little tech&quot; &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241101/p11#a241101p11)<!-- TECH:END -->
+ - [Popular photo editing company Pixelmator says it has signed an agreement to be acquired by Apple, pending regulatory approval &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/241101/p12#a241101p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

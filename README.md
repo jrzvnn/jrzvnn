@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free)
  - [Hyundai’s cutesy Inster EV doesn’t need to be quick](https://www.theverge.com/2024/11/1/24285787/hyundai-inster-ev-small-compact-ev-specs)
+ - [Fortnite Chapter 2 Remix Revives the Game&#39;s Earlier Map with Artist Takeovers](https://www.cnet.com/tech/mobile/fortnite-chapter-2-remix-revives-the-games-earlier-map-with-artist-takeovers/#ftag=CAD590a51e)
  - [Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert](https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice)
- - [Bose is taking up to 40 percent off headphones ahead of Black Friday](https://www.theverge.com/2024/11/1/24285396/bose-quietcomfort-ultra-headphones-backbone-one-controller-deal-sale)
- - [Google researchers detail Project Big Sleep, formerly Project Naptime, which used an AI agent to discover a previously unknown and exploitable bug in SQLite &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241101/p17#a241101p17)<!-- TECH:END -->
+ - [Best Noise-Canceling Earbuds for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

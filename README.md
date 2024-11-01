@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Election Violence Is Already Here](https://www.wired.com/story/election-violence-is-already-here/)
  - [Apple acquires the team behind Pixelmator Pro](https://appleinsider.com/articles/24/11/01/apple-acquires-the-team-behind-pixelmator-pro?utm_medium=rss)
+ - [My first DIY phone fix made me a self-repair believer](https://www.theverge.com/2024/11/1/24284078/hmd-skyline-repair-ifixit-battery-replacement)
  - [Apple is acquiring the popular image editing app Pixelmator](https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing)
- - [Apple is buying 20 percent of its iPhone satellite services partner](https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite)
- - [College football teams enthuse about nano-texture iPad Pro](https://appleinsider.com/articles/24/11/01/college-football-teams-enthuse-about-nano-texture-ipad-pro?utm_medium=rss)
- - [Popular photo editing company Pixelmator says it has signed an agreement to be acquired by Apple, pending regulatory approval &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/241101/p12#a241101p12)<!-- TECH:END -->
+ - [Apple is buying 20 percent of its iPhone satellite services partner](https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

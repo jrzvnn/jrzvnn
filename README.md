@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`All she did wrong was drive her vehicle.`. Yeah.](http://9gag.com/gag/aLn0VXP)
- - 😝 [How trapped insects are removed](http://9gag.com/gag/ae95dEj)
- - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - 😝 [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
- - 👉 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)<!-- MEMES:END -->
+ - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 😝 [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
+ - 💣 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
 
 ---
 

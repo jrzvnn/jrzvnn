@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New Magic Mouse and Magic Keyboard don&#39;t work with older versions of macOS](https://appleinsider.com/articles/24/11/01/new-magic-mouse-and-magic-keyboard-dont-work-with-older-versions-of-macos?utm_medium=rss)
  - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
- - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)
- - [Profiteers Are Exploiting US Election Conspiracies and Hate to Make Millions](https://www.wired.com/story/2024-election-profiteers/)
- - [What&#39;s the Cheapest Way to Snag Airport Lounge Access? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-cheapest-way-to-score-airport-lounge-access-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Complete Guide to Apple&#39;s New Passwords App: Passkeys, Verification Codes and More](https://www.cnet.com/tech/services-and-software/the-complete-guide-to-apples-new-passwords-app-passkeys-verification-codes-and-more/#ftag=CAD590a51e)
+ - [Dear iPhone, Please Stop Saying My Friends Are &#39;Dead&#39;](https://www.cnet.com/tech/mobile/dear-iphone-please-stop-saying-my-friends-are-dead/#ftag=CAD590a51e)
+ - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

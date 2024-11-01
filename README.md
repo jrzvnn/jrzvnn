@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
  - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 💣 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
+ - 👉 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)<!-- MEMES:END -->
 
 ---
 

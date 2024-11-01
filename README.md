@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
- - 😝 [What it is really called though?](http://9gag.com/gag/an75deq)
- - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
+ - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 

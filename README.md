@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - 😝 [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
- - 💣 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
- - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
+ - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - 😝 [Right in the feels](http://9gag.com/gag/aZZ7dRz)
+ - 💣 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 😝 [We are already there](http://9gag.com/gag/aW4EPOd)
+ - 👉 [Authentic Geological Map Of Scotland](http://9gag.com/gag/a0eRxyL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
  - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 👉 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)<!-- MEMES:END -->
+ - 💣 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
 
 ---
 

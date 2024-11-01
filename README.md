@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro one month review: an Apple Intelligence intro](https://appleinsider.com/articles/24/11/01/iphone-16-pro-one-month-review-an-apple-intelligence-intro?utm_medium=rss)
  - [M4 Mac mini vs 2018 Intel Mac mini compared: It&#39;s time to move to Apple Silicon](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-2018-intel-mac-mini-compared-its-time-to-move-to-apple-silicon?utm_medium=rss)
  - [Canalys: global smartphone shipments grew 5% YoY in Q3 to reach 309.9M units, the strongest Q3 performance since 2021; Samsung led with 57.5M units, Apple 54.5M &lpar;Canalys&rpar;](http://www.techmeme.com/241101/p8#a241101p8)
  - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
- - [How Researchers Are Using Geospatial Technology to Uncover Mexico&#39;s Clandestine Graves](https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/)
- - [The Reason Your Election Anxiety Feels Worse in 2024](https://www.wired.com/story/the-reason-your-election-anxiety-feels-worse-in-2024/)<!-- TECH:END -->
+ - [How Researchers Are Using Geospatial Technology to Uncover Mexico&#39;s Clandestine Graves](https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

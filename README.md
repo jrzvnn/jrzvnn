@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
  - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 💣 [\u201cI\u2019m glad I did not embarrass myself on the ride\u201d](http://9gag.com/gag/aO80OND)
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
+ - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 💣 [What it is really called though?](http://9gag.com/gag/an75deq)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 😝 [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
- - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
- - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
+ - 😝 [What it is really called though?](http://9gag.com/gag/an75deq)
+ - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
+ - 💣 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
 
 ---
 

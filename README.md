@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
+ - [Wyze added a big color screen to its latest budget-friendly smart scale](https://www.theverge.com/2024/11/1/24285281/wyze-scale-ultra-smart-health)
+ - [Donald Trump files yet another censorship lawsuit](https://www.theverge.com/2024/11/1/24285305/trump-lawsuit-cbs-harris-interview-fcc-broadcast-censorship)
  - [Google is building smart home controls into Gemini](https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app)
- - [AI Will Understand Humans Better Than Humans Do](https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/)
- - [Activo P1 Review: Wired Sound, Tired Looks](https://www.wired.com/review/activo-p1/)
- - [First M4 Max benchmark tears apart the M2 Ultra Mac Studio](https://appleinsider.com/articles/24/11/01/first-m4-max-benchmark-tears-apart-the-m2-ultra-mac-studio?utm_medium=rss)
- - [Satellite services provider Globalstar says Apple took a 20% ownership stake worth ~$400M, and has committed another $1.1B to expand satellite service capacity &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241101/p10#a241101p10)<!-- TECH:END -->
+ - [AI Will Understand Humans Better Than Humans Do](https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

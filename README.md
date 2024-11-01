@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 😝 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
+ - 💣 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
  - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 👉 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)<!-- MEMES:END -->
+ - 👉 [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)<!-- MEMES:END -->
 
 ---
 

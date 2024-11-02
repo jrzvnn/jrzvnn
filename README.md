@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
  - 😝 [Mordern family values](http://9gag.com/gag/aQz15g8)
- - 💣 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
- - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 👉 [Just invent something new duh](http://9gag.com/gag/aqygwb7)<!-- MEMES:END -->
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 💣 [For the first time in recorded history &lpar;130 years&rpar;, there\u2019s no snow on Mt. Fuji in November](http://9gag.com/gag/a5QRAGq)
+ - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
 
 ---
 

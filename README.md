@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best Organic Mattress &amp; Bedding of 2024: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)
- - [Growing Your Hair Out? These Vitamins May Help You Achieve Longer, Healthier Locks](https://www.cnet.com/health/nutrition/vitamins-for-long-hair/#ftag=CAD590a51e)
  - [How to Choose a Router &lpar;2024&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
- - [Running Gear Guide: Everything You Need for the 2024 NYC Marathon and Other Fall Races](https://www.cnet.com/health/fitness/running-gear-guide/#ftag=CAD590a51e)
- - [An Expert Warns Against Plugging These 7 Devices Into an Extension Cord](https://www.cnet.com/how-to/an-expert-warns-against-plugging-these-7-devices-into-an-extension-cord/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Windblown shows how good roguelikes can be with friends](https://www.theverge.com/2024/11/2/24284956/windblown-roguelikes-friends-multiplayer)
+ - [A Chainalysis study based on digital wallet use data from January 1, 2024 to October 8, 2024 suggests Tether&#39;s USDT has gained traction in EMEA time zones &lpar;Bloomberg&rpar;](http://www.techmeme.com/241102/p6#a241102p6)
+ - [Best 5 Soda Makers for Sparkling Water &lpar;2024&rpar;](https://www.wired.com/gallery/best-soda-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

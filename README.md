@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A microscope image of a cell during division](http://9gag.com/gag/aryornd)
- - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
+ - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
+ - 💣 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [Throwback to the classic](http://9gag.com/gag/aBygznx)<!-- MEMES:END -->
 
 ---
 

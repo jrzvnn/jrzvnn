@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
- - 😝 [This is the wall that Egypt built on the border with Gaza to prevent Palestinian refugees. There are 57 Muslim-majority countries, not a single one has taken any Palestinian refugee. Ever wondered why?](http://9gag.com/gag/aQz15Zw)
- - 💣 [Taxpayers sleeping in cars while laughing invaders live in luxury.](http://9gag.com/gag/aKGdy6Q)
- - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
+ - 😝 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 💣 [Title,title](http://9gag.com/gag/a9yR4wL)
+ - 😝 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
+ - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
 
 ---
 

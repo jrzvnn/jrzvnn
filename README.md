@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
- - 👉 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)<!-- MEMES:END -->
+ - 😝 [The mad dash](http://9gag.com/gag/aryowgB)
+ - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
+ - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 👉 [Happy Halloween](http://9gag.com/gag/a875NQ1)<!-- MEMES:END -->
 
 ---
 

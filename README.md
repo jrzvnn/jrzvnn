@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mordern family values](http://9gag.com/gag/aQz15g8)
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 💣 [For the first time in recorded history &lpar;130 years&rpar;, there\u2019s no snow on Mt. Fuji in November](http://9gag.com/gag/a5QRAGq)
+ - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
+ - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 💣 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
  - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
+ - 👉 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
- - 💣 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
+ - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
+ - 💣 [Stay Strong](http://9gag.com/gag/an753QL)
  - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 👉 [Throwback to the classic](http://9gag.com/gag/aBygznx)<!-- MEMES:END -->
+ - 👉 [And games!](http://9gag.com/gag/agm593n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 💣 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 👉 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
+ - 😝 [The mad dash](http://9gag.com/gag/aryowgB)
+ - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 😝 [Taxpayers sleeping in cars while laughing invaders live in luxury.](http://9gag.com/gag/aKGdy6Q)
+ - 👉 [Happy Halloween](http://9gag.com/gag/a875NQ1)<!-- MEMES:END -->
 
 ---
 

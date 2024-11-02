@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OUCH](http://9gag.com/gag/a6ZNg52)
  - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 💣 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [OUCH](http://9gag.com/gag/a6ZNg52)
+ - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
  - 👉 [That recoil](http://9gag.com/gag/ae95BrW)<!-- MEMES:END -->
 
 ---

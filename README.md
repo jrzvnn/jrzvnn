@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a PhD Student Discovered a Lost Mayan City From Hundreds of Miles Away](https://www.wired.com/story/lost-maya-city-valeriana-interview/)
- - [Best Internet and TV Bundles for November 2024](https://www.cnet.com/home/internet/best-internet-and-tv-bundles/#ftag=CAD590a51e)
- - [27 of the Best Tech Gifts Under $100 for 2024](https://www.cnet.com/tech/best-tech-gifts-under-100/#ftag=CAD590a51e)
- - [43 Best Gifts for Mom for the Holidays 2024](https://www.cnet.com/news/best-gifts-for-mom/#ftag=CAD590a51e)
- - [Galanz Air Fryer Microwave Review: This $98 Appliance Is a Multifunctional Space Saver](https://www.cnet.com/news/galanz-air-fryer-microwave-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nab a Pair of Bose QuietComfort Headphones for a Whopping 43% Off at Amazon Right Now](https://www.cnet.com/deals/nab-a-pair-of-bose-quietcomfort-headphones-for-a-whopping-43-off-at-amazon-right-now/#ftag=CAD590a51e)
+ - [Why Bluesky not adding the federation systems that let users leave the Bluesky server and take their community to other hosts can lead to &quot;enshittification&quot; &lpar;Cory Doctorow/Pluralistic&rpar;](http://www.techmeme.com/241102/p10#a241102p10)
+ - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [How a PhD Student Discovered a Lost Mayan City From Hundreds of Miles Away](https://www.wired.com/story/lost-maya-city-valeriana-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

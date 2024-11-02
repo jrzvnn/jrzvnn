@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A skull of a man with Proteus syndrome, a rare condition characterized by overgrowth of bones, skin, muscles, fatty tissues, and blood and lymphatic vessels.](http://9gag.com/gag/a34Rxy1)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 💣 [Absolute madlads](http://9gag.com/gag/aGygo47)
- - 😝 [`All she did wrong was drive her vehicle.`. Yeah.](http://9gag.com/gag/aLn0VXP)
- - 👉 [Title,title](http://9gag.com/gag/a9yR4wL)<!-- MEMES:END -->
+ - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
+ - 😝 [For the first time in recorded history &lpar;130 years&rpar;, there\u2019s no snow on Mt. Fuji in November](http://9gag.com/gag/a5QRAGq)
+ - 💣 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 👉 [How and why?](http://9gag.com/gag/ayNoA9W)<!-- MEMES:END -->
 
 ---
 

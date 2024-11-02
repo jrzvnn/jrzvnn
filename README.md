@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
+ - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
+ - 👉 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)<!-- MEMES:END -->
 
 ---
 

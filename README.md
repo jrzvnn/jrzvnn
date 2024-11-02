@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [AI in Hollywood is a tech leap with a vast impact but remains a tool, not a replacement, for creatives; its speed, quality, and cost allow for VFX breakthroughs &lpar;Devin Gordon/New York Times&rpar;](http://www.techmeme.com/241102/p12#a241102p12)
+ - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
  - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)
- - [Trailers of the week: Squid Game, Presence, and Star Wars: Skeleton Crew](https://www.theverge.com/2024/11/2/24286263/trailers-of-the-week-squid-game-presence-queer-star-wars-skeleton-crew-mario-luigi-brothership)
- - [Apple TV+ subscribers to get last games in MLS season pass for free](https://appleinsider.com/articles/24/11/02/apple-tv-subscribers-to-get-last-games-in-mls-season-pass-for-free?utm_medium=rss)
- - [I Can Retire Early After Paying Off $300,000 in Debt. Here&#39;s How I Did It](https://www.cnet.com/personal-finance/investing/i-can-retire-early-after-paying-off-300000-in-debt-heres-how-i-did-it/#ftag=CAD590a51e)
- - [Apple&#39;s M4 Max chip scores 4,060 in single-core tests, making it the first production CPU to cross 4,000 in Geekbench 6, and scores 26,675 in multi-core tests &lpar;Hamid Ganji/Neowin&rpar;](http://www.techmeme.com/241102/p11#a241102p11)<!-- TECH:END -->
+ - [Trailers of the week: Squid Game, Presence, and Star Wars: Skeleton Crew](https://www.theverge.com/2024/11/2/24286263/trailers-of-the-week-squid-game-presence-queer-star-wars-skeleton-crew-mario-luigi-brothership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

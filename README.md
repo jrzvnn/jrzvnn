@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 💣 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)
  - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 👉 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)<!-- MEMES:END -->
+ - 👉 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 💣 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
  - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 👉 [Show the best ones](http://9gag.com/gag/a6ZN4O8)<!-- MEMES:END -->
+ - 💣 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 😝 [OUCH](http://9gag.com/gag/a6ZNg52)
+ - 👉 [Title,title](http://9gag.com/gag/a9yR4wL)<!-- MEMES:END -->
 
 ---
 

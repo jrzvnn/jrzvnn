@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s plan to rearchitect Alexa around LLMs could finally help Alexa understand what users actually want and reduce the awkward syntax needed to use Skills &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241102/p9#a241102p9)
  - [Apple still suppresses employees discussing pay equity, says Labor Board](https://appleinsider.com/articles/24/11/02/apple-still-suppresses-employees-discussing-pay-equity-says-labor-board?utm_medium=rss)
  - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
  - [9 Tips for Making Amazing Deviled Eggs, America&#39;s Most Underrated Snack](https://www.cnet.com/how-to/9-tips-for-amazing-deviled-eggs-americas-most-underrated-snack/#ftag=CAD590a51e)
- - [Here&#39;s Why Affordable Mortgage Rates Are Locking Out New Homebuyers](https://www.cnet.com/personal-finance/heres-why-affordable-mortgage-rates-are-locking-out-new-homebuyers/#ftag=CAD590a51e)
- - [Most Homebuyers Won&#39;t Budge Until Mortgage Rates Drop to 4%, CNET Survey Finds](https://www.cnet.com/personal-finance/most-homebuyers-wont-budge-until-mortgage-rates-drop-to-4-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s Why Affordable Mortgage Rates Are Locking Out New Homebuyers](https://www.cnet.com/personal-finance/heres-why-affordable-mortgage-rates-are-locking-out-new-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

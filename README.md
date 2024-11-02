@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg driving from Zurich to Rome!](http://9gag.com/gag/a875Qzd)
- - 😝 [Women logic](http://9gag.com/gag/aRB08gq)
- - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - 👉 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)<!-- MEMES:END -->
+ - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
+ - 💣 [Stay Strong](http://9gag.com/gag/an753QL)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [And games!](http://9gag.com/gag/agm593n)<!-- MEMES:END -->
 
 ---
 

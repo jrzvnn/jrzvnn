@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The soy is strong](http://9gag.com/gag/aW4Edbn)
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 💣 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 😝 [Title](http://9gag.com/gag/a34Rpqm)
- - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
+ - 😝 [You can&#39;t make this shit up LMAO. SK Parliament watching Johnny Somali&#39;s clips of disrespecting Korean&#39;s Comfort Women statue that was in honor of women who were forced into sexual slavery in WW2- Guess who&#39;s not getting out of Korea? Hahaha](http://9gag.com/gag/aO80Eb2)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 💣 [The soy is strong](http://9gag.com/gag/aW4Edbn)
+ - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
+ - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
 
 ---
 

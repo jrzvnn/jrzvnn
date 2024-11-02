@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 49 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Florida Man Accused of Hacking Disney World Menus, Changing Font to Wingdings](https://www.wired.com/story/disney-world-menu-hack-wingdings/)
  - [ChatGPT Search Is Here to Take On Google](https://www.cnet.com/tech/services-and-software/chatgpt-search-is-here-to-take-on-google/#ftag=CAD590a51e)
- - [How to Find and Cancel iPhone or Android App Subscriptions You Don&#39;t Need](https://www.cnet.com/tech/services-and-software/how-to-find-and-cancel-iphone-or-android-app-subscriptions-you-dont-need/#ftag=CAD590a51e)
- - [Sugar Overload? Prevent Halloween Candy From Keeping You Up at Night](https://www.cnet.com/health/sleep/prevent-halloween-candy-keeping-you-up-at-night/#ftag=CAD590a51e)
- - [What You Need to Know About 401&lpar;k&rpar; Updates and Other Retirement Changes Next Year](https://www.cnet.com/personal-finance/investing/what-you-need-to-know-about-401k-updates-and-other-retirement-changes-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Find and Cancel iPhone or Android App Subscriptions You Don&#39;t Need](https://www.cnet.com/tech/services-and-software/how-to-find-and-cancel-iphone-or-android-app-subscriptions-you-dont-need/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

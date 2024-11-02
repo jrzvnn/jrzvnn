@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 💣 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
+ - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
+ - 😝 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)
+ - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
+ - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
+ - 😝 [Dragon End is coming](http://9gag.com/gag/ayNoAwy)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 💣 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
+ - 😝 [Stay Strong](http://9gag.com/gag/an753QL)
+ - 👉 [Dragon End](http://9gag.com/gag/a2vRVxw)<!-- MEMES:END -->
 
 ---
 

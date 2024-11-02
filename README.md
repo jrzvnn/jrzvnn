@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: US regulators rejected a proposal to let Amazon buy nuclear power for AWS data centers in Pennsylvania over energy grid reliability and other concerns &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/241102/p13#a241102p13)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [AI in Hollywood is a tech leap with a vast impact but remains a tool, not a replacement, for creatives; its speed, quality, and cost allow for VFX breakthroughs &lpar;Devin Gordon/New York Times&rpar;](http://www.techmeme.com/241102/p12#a241102p12)
  - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)
- - [Trailers of the week: Squid Game, Presence, and Star Wars: Skeleton Crew](https://www.theverge.com/2024/11/2/24286263/trailers-of-the-week-squid-game-presence-queer-star-wars-skeleton-crew-mario-luigi-brothership)<!-- TECH:END -->
+ - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope useful](http://9gag.com/gag/aXPjdmV)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 💣 [Never ending laugh.](http://9gag.com/gag/aVv010y)
- - 😝 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
- - 👉 [Ok im full](http://9gag.com/gag/aoy5AGw)<!-- MEMES:END -->
+ - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 😝 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
+ - 💣 [Alright, councilor.](http://9gag.com/gag/aryoDz6)
+ - 😝 [But dragon age failguard is a huge success with 70K people on steam](http://9gag.com/gag/aKGdXB6)
+ - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple still suppresses employees discussing pay equity, says Labor Board](https://appleinsider.com/articles/24/11/02/apple-still-suppresses-employees-discussing-pay-equity-says-labor-board?utm_medium=rss)
  - [A profile of Microsoft CFO Amy Hood, a budget hawk who has been in the position for 11 years and is at the center of the company&#39;s AI spending spree &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/241102/p8#a241102p8)
  - [Berkshire Hathaway continues dumping AAPL to build up cash reserves](https://appleinsider.com/articles/24/11/02/berkshire-hathaway-continues-dumping-aapl-to-build-up-cash-reserves?utm_medium=rss)
  - [See the iPhone 16&#39;s New Visual Intelligence in Action video](https://www.cnet.com/videos/see-the-iphone-16s-new-visual-intelligence-in-action/#ftag=CAD590a51e)
- - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Wolves vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

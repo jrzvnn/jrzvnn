@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay Strong](http://9gag.com/gag/an753QL)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 💣 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)
- - 😝 [And games!](http://9gag.com/gag/agm593n)
- - 👉 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)<!-- MEMES:END -->
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
+ - 💣 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 👉 [Throwback to the classic](http://9gag.com/gag/aBygznx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A microscope image of a cell during division](http://9gag.com/gag/aryornd)
  - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 💣 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 😝 [OUCH](http://9gag.com/gag/a6ZNg52)
- - 👉 [Title,title](http://9gag.com/gag/a9yR4wL)<!-- MEMES:END -->
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A profile of Microsoft CFO Amy Hood, a budget hawk who has been in the position for 11 years and is at the center of the company&#39;s AI spending spree &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/241102/p8#a241102p8)
  - [Berkshire Hathaway continues dumping AAPL to build up cash reserves](https://appleinsider.com/articles/24/11/02/berkshire-hathaway-continues-dumping-aapl-to-build-up-cash-reserves?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Apple’s AirTags have dropped to one of their best prices to date](https://www.theverge.com/2024/11/2/24285795/apple-airtag-tracker-samsung-galaxy-buds-fe-earbuds-deal-sale)
- - [US House Speaker Mike Johnson says the GOP &quot;probably will&quot; try to repeal the CHIPS Act, but then walks it back, saying the GOP may &quot;further streamline&quot; the bill &lpar;Stephen Groves/Associated Press&rpar;](http://www.techmeme.com/241102/p7#a241102p7)<!-- TECH:END -->
+ - [See the iPhone 16&#39;s New Visual Intelligence in Action video](https://www.cnet.com/videos/see-the-iphone-16s-new-visual-intelligence-in-action/#ftag=CAD590a51e)
+ - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Wolves vs. Crystal Palace From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

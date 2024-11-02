@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
- - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
- - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
+ - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
+ - 😝 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
+ - 💣 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
+ - 😝 [Dragon End](http://9gag.com/gag/a2vRVxw)
+ - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
 
 ---
 

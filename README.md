@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Apple’s AirTags have dropped to one of their best prices to date](https://www.theverge.com/2024/11/2/24285795/apple-airtag-tracker-samsung-galaxy-buds-fe-earbuds-deal-sale)
  - [US House Speaker Mike Johnson says the GOP &quot;probably will&quot; try to repeal the CHIPS Act, but then walks it back, saying the GOP may &quot;further streamline&quot; the bill &lpar;Stephen Groves/Associated Press&rpar;](http://www.techmeme.com/241102/p7#a241102p7)
- - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Invincible Fight Girl’s creator wants to keep the dream of serialized animation alive](https://www.theverge.com/2024/11/2/24283804/invincible-fight-girl-interview-juston-gordon-montgomery)<!-- TECH:END -->
+ - [Best Ring Video Doorbells of 2024](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)
+ - [Kindle Paperwhite &lpar;2024&rpar; Review: Amazon&#39;s Best E-Reader Levels Up](https://www.cnet.com/tech/computing/kindle-paperwhite-2024-review-amazons-best-e-reader-levels-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

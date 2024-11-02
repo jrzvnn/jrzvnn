@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok im full](http://9gag.com/gag/aoy5AGw)
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
  - 😝 [The soy is strong](http://9gag.com/gag/aW4Edbn)
- - 👉 [New fear unlocked](http://9gag.com/gag/adB5M52)<!-- MEMES:END -->
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 💣 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 😝 [Title](http://9gag.com/gag/a34Rpqm)
+ - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
 
 ---
 

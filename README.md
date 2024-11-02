@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.1 Lets You Record iPhone Calls and Brings Apple Intelligence to Some](https://www.cnet.com/tech/services-and-software/ios-18-1-lets-you-record-iphone-calls-and-brings-apple-intelligence-to-some/#ftag=CAD590a51e)
- - [3 Apple Intelligence Features You&#39;ll Embrace in iOS 18.1](https://www.cnet.com/tech/services-and-software/3-apple-intelligence-features-youll-embrace-in-ios-18-1/#ftag=CAD590a51e)
- - [Will Income Tax Bracket Increases Put More Money in Your Paycheck Next Year?](https://www.cnet.com/personal-finance/taxes/will-income-tax-bracket-increases-put-more-money-in-your-paycheck-next-year/#ftag=CAD590a51e)
+ - [Model Y Is Getting a Mutt Makeover, Joining the List of Cars Designed for—and by—Dogs](https://www.wired.com/story/the-model-y-is-getting-a-mutt-makeover-joining-the-list-of-cars-designed-for-and-by-dogs/)
+ - [Is Amazon’s robotaxi company trying to sidestep federal safety laws?](https://www.theverge.com/2024/11/2/24285399/amazon-zoox-robotaxi-nhtsa-fmvss-comply)
+ - [For sale, a good night’s sleep, just $4,700](https://www.theverge.com/24279552/eight-sleep-pod-4-ultra-review-tracking)
  - [The 49 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 

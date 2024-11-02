@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
- - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
- - 💣 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 👉 [OUCH](http://9gag.com/gag/a6ZNg52)<!-- MEMES:END -->
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
+ - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
+ - 👉 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)<!-- MEMES:END -->
 
 ---
 

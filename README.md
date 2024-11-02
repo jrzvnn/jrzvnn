@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
- - 😝 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)
- - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
- - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
+ - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 😝 [This is the wall that Egypt built on the border with Gaza to prevent Palestinian refugees. There are 57 Muslim-majority countries, not a single one has taken any Palestinian refugee. Ever wondered why?](http://9gag.com/gag/aQz15Zw)
+ - 💣 [Taxpayers sleeping in cars while laughing invaders live in luxury.](http://9gag.com/gag/aKGdy6Q)
+ - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
 
 ---
 

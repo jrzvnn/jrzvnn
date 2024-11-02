@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
- - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 💣 [Stay Strong](http://9gag.com/gag/an753QL)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 👉 [And games!](http://9gag.com/gag/agm593n)<!-- MEMES:END -->
+ - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
+ - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
+ - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 👉 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)<!-- MEMES:END -->
 
 ---
 

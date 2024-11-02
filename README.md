@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
  - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 👉 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)<!-- MEMES:END -->
+ - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
+ - 👉 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)<!-- MEMES:END -->
 
 ---
 

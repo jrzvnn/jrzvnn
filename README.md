@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 😝 [Omg driving from Zurich to Rome!](http://9gag.com/gag/a875Qzd)
  - 😝 [Women logic](http://9gag.com/gag/aRB08gq)
- - 💣 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
- - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
+ - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - 👉 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
  - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 💣 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 😝 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
- - 👉 [Stay Strong](http://9gag.com/gag/an753QL)<!-- MEMES:END -->
+ - 💣 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [Dragon End](http://9gag.com/gag/a2vRVxw)<!-- MEMES:END -->
 
 ---
 

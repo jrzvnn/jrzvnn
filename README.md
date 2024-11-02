@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Chainalysis study based on digital wallet use data from January 1, 2024 to October 8, 2024 suggests Tether&#39;s USDT has gained traction in EMEA time zones &lpar;Bloomberg&rpar;](http://www.techmeme.com/241102/p6#a241102p6)
+ - [Best 5 Soda Makers for Sparkling Water &lpar;2024&rpar;](https://www.wired.com/gallery/best-soda-makers/)
  - [Model Y Is Getting a Mutt Makeover, Joining the List of Cars Designed for—and by—Dogs](https://www.wired.com/story/the-model-y-is-getting-a-mutt-makeover-joining-the-list-of-cars-designed-for-and-by-dogs/)
  - [Is Amazon’s robotaxi company trying to sidestep federal safety laws?](https://www.theverge.com/2024/11/2/24285399/amazon-zoox-robotaxi-nhtsa-fmvss-comply)
- - [For sale, a good night’s sleep, just $4,700](https://www.theverge.com/24279552/eight-sleep-pod-4-ultra-review-tracking)
- - [The 49 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [For sale, a good night’s sleep, just $4,700](https://www.theverge.com/24279552/eight-sleep-pod-4-ultra-review-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

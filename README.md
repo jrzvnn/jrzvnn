@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 💣 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
+ - 😝 [A skull of a man with Proteus syndrome, a rare condition characterized by overgrowth of bones, skin, muscles, fatty tissues, and blood and lymphatic vessels.](http://9gag.com/gag/a34Rxy1)
  - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 👉 [Dragon End](http://9gag.com/gag/a2vRVxw)<!-- MEMES:END -->
+ - 💣 [Absolute madlads](http://9gag.com/gag/aGygo47)
+ - 😝 [`All she did wrong was drive her vehicle.`. Yeah.](http://9gag.com/gag/aLn0VXP)
+ - 👉 [Title,title](http://9gag.com/gag/a9yR4wL)<!-- MEMES:END -->
 
 ---
 

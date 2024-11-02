@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: US regulators block a proposal related to AWS&#39; deal to buy nuclear power for data centers in Pennsylvania over grid reliability and other concerns &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241102/p1#a241102p1)
  - [Intel scraps forecast of selling $500M+ worth of Gaudi AI accelerator chips in 2024, with CEO Pat Gelsinger citing chip transition and slower uptake to software &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/241101/p23#a241101p23)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-510/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 2, #40](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-2-40/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1232](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1232/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 2, #244](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-2-244/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1232](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1232/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 💣 [Stay Strong](http://9gag.com/gag/an753QL)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 👉 [And games!](http://9gag.com/gag/agm593n)<!-- MEMES:END -->
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 😝 [Women logic](http://9gag.com/gag/aRB08gq)
+ - 💣 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
+ - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
 
 ---
 

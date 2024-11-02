@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How a PhD Student Discovered a Lost Mayan City From Hundreds of Miles Away](https://www.wired.com/story/lost-maya-city-valeriana-interview/)
- - [Amazon&#39;s plan to rearchitect Alexa around LLMs could finally help Alexa understand what users actually want and reduce the awkward syntax needed to use Skills &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241102/p9#a241102p9)
- - [Best Gifts Under $25 for 2024](https://www.cnet.com/tech/best-gifts-under-25/#ftag=CAD590a51e)
- - [Collagen Is the Latest Anti-Aging Hack: Benefits and Things to Consider](https://www.cnet.com/health/nutrition/collagen-is-the-latest-anti-aging-hack-benefits-and-things-to-consider/#ftag=CAD590a51e)
- - [Score a Nespresso Evoluo Coffee and Espresso Maker for as Low as $140 at QVC](https://www.cnet.com/deals/score-a-nespresso-evoluo-coffee-and-espresso-maker-for-as-low-as-140-at-qvc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet and TV Bundles for November 2024](https://www.cnet.com/home/internet/best-internet-and-tv-bundles/#ftag=CAD590a51e)
+ - [27 of the Best Tech Gifts Under $100 for 2024](https://www.cnet.com/tech/best-tech-gifts-under-100/#ftag=CAD590a51e)
+ - [43 Best Gifts for Mom for the Holidays 2024](https://www.cnet.com/news/best-gifts-for-mom/#ftag=CAD590a51e)
+ - [Galanz Air Fryer Microwave Review: This $98 Appliance Is a Multifunctional Space Saver](https://www.cnet.com/news/galanz-air-fryer-microwave-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

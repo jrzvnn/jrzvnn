@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 😝 [For the first time in recorded history &lpar;130 years&rpar;, there\u2019s no snow on Mt. Fuji in November](http://9gag.com/gag/a5QRAGq)
- - 💣 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 😝 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 👉 [How and why?](http://9gag.com/gag/ayNoA9W)<!-- MEMES:END -->
+ - 😝 [I lost 2 Fingers just by watching](http://9gag.com/gag/ae95Eem)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 💣 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
+ - 😝 [CAN YOU DIG IT?!](http://9gag.com/gag/a875NLe)
+ - 👉 [Halloween](http://9gag.com/gag/aRB0N72)<!-- MEMES:END -->
 
 ---
 

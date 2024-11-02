@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women logic](http://9gag.com/gag/aRB08gq)
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
- - 💣 [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
- - 👉 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)<!-- MEMES:END -->
+ - 😝 [Hope useful](http://9gag.com/gag/aXPjdmV)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 💣 [Never ending laugh.](http://9gag.com/gag/aVv010y)
+ - 😝 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
+ - 👉 [Ok im full](http://9gag.com/gag/aoy5AGw)<!-- MEMES:END -->
 
 ---
 

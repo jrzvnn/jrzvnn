@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)
  - [Trailers of the week: Squid Game, Presence, and Star Wars: Skeleton Crew](https://www.theverge.com/2024/11/2/24286263/trailers-of-the-week-squid-game-presence-queer-star-wars-skeleton-crew-mario-luigi-brothership)
  - [Apple TV+ subscribers to get last games in MLS season pass for free](https://appleinsider.com/articles/24/11/02/apple-tv-subscribers-to-get-last-games-in-mls-season-pass-for-free?utm_medium=rss)
  - [I Can Retire Early After Paying Off $300,000 in Debt. Here&#39;s How I Did It](https://www.cnet.com/personal-finance/investing/i-can-retire-early-after-paying-off-300000-in-debt-heres-how-i-did-it/#ftag=CAD590a51e)
- - [Apple&#39;s M4 Max chip scores 4,060 in single-core tests, making it the first production CPU to cross 4,000 in Geekbench 6, and scores 26,675 in multi-core tests &lpar;Hamid Ganji/Neowin&rpar;](http://www.techmeme.com/241102/p11#a241102p11)
- - [Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://www.theverge.com/2024/11/2/24286289/kindle-colorsoft-yellow-bar-display-e-reader)<!-- TECH:END -->
+ - [Apple&#39;s M4 Max chip scores 4,060 in single-core tests, making it the first production CPU to cross 4,000 in Geekbench 6, and scores 26,675 in multi-core tests &lpar;Hamid Ganji/Neowin&rpar;](http://www.techmeme.com/241102/p11#a241102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

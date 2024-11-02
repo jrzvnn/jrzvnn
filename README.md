@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 💣 [Title,title](http://9gag.com/gag/a9yR4wL)
- - 😝 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
- - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
+ - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
 
 ---
 

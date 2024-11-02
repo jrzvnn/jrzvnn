@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 😝 [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Stay Strong](http://9gag.com/gag/an753QL)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
  - 💣 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)
- - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 👉 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)<!-- MEMES:END -->
+ - 😝 [And games!](http://9gag.com/gag/agm593n)
+ - 👉 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)<!-- MEMES:END -->
 
 ---
 

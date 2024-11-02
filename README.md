@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and a16z jointly share US public policy ideas for AI startups, saying &quot;regulation should be implemented only if its benefits outweigh its costs&quot; &lpar;Microsoft&rpar;](http://www.techmeme.com/241101/p20#a241101p20)
+ - [Nvidia will replace Intel in the Dow Jones Industrial Average on November 8, after Amazon replaced Walgreens in February; Intel joined the index in 1999 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p19#a241101p19)
+ - [Can I Still Request a Mail Ballot so Close to Election Day?](https://www.cnet.com/news/politics/can-i-still-request-a-mail-ballot-so-close-to-election-day/#ftag=CAD590a51e)
  - [Polymarket user Fredi9999, a self-described Frenchman, says he bet $30M+ on Trump after analyzing polls; he can&#39;t exit his wagers without crashing the market &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241101/p18#a241101p18)
- - [Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free)
- - [Hyundai’s cutesy Inster EV doesn’t need to be quick](https://www.theverge.com/2024/11/1/24285787/hyundai-inster-ev-small-compact-ev-specs)
- - [Fortnite Chapter 2 Remix Revives the Game&#39;s Earlier Map with Artist Takeovers](https://www.cnet.com/tech/mobile/fortnite-chapter-2-remix-revives-the-games-earlier-map-with-artist-takeovers/#ftag=CAD590a51e)
- - [Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert](https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice)<!-- TECH:END -->
+ - [Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

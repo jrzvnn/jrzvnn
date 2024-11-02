@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mad dash](http://9gag.com/gag/aryowgB)
- - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
- - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 😝 [Taxpayers sleeping in cars while laughing invaders live in luxury.](http://9gag.com/gag/aKGdy6Q)
- - 👉 [Happy Halloween](http://9gag.com/gag/a875NQ1)<!-- MEMES:END -->
+ - 😝 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
+ - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
+ - 💣 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
+ - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
 
 ---
 

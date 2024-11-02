@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://www.theverge.com/2024/11/2/24286289/kindle-colorsoft-yellow-bar-display-e-reader)
- - [A new project is trying to preserve click-wheel iPod games](https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games?utm_medium=rss)
- - [Nab a Pair of Bose QuietComfort Headphones for a Whopping 43% Off at Amazon Right Now](https://www.cnet.com/deals/nab-a-pair-of-bose-quietcomfort-headphones-for-a-whopping-43-off-at-amazon-right-now/#ftag=CAD590a51e)
- - [Why Bluesky not adding the federation systems that let users leave the Bluesky server and take their community to other hosts can lead to &quot;enshittification&quot; &lpar;Cory Doctorow/Pluralistic&rpar;](http://www.techmeme.com/241102/p10#a241102p10)
- - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Walmart Deals: Headphones, Kitchenware and So Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
+ - [Save on Litter-Robot Bundles for Cyber Monday and the Rest of December](https://www.cnet.com/deals/save-on-litter-robot-bundles-for-cyber-monday-and-the-rest-of-december/#ftag=CAD590a51e)
+ - [Nab a Lifetime OneAir Elite Subscription for Just $70 This Weekend Only](https://www.cnet.com/deals/nab-a-lifetime-oneair-elite-subscription-for-just-70-this-weekend-only/#ftag=CAD590a51e)
+ - [A new project is trying to preserve click-wheel iPod games](https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

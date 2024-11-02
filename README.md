@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 😝 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
- - 💣 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 😝 [Dragon End](http://9gag.com/gag/a2vRVxw)
- - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
+ - 😝 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 💣 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [Show the best ones](http://9gag.com/gag/a6ZN4O8)<!-- MEMES:END -->
 
 ---
 

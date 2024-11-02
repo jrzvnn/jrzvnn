@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ subscribers to get last games in MLS season pass for free](https://appleinsider.com/articles/24/11/02/apple-tv-subscribers-to-get-last-games-in-mls-season-pass-for-free?utm_medium=rss)
  - [Apple&#39;s M4 Max chip scores 4,060 in single-core tests, making it the first production CPU to cross 4,000 in Geekbench 6, and scores 26,675 in multi-core tests &lpar;Hamid Ganji/Neowin&rpar;](http://www.techmeme.com/241102/p11#a241102p11)
  - [Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://www.theverge.com/2024/11/2/24286289/kindle-colorsoft-yellow-bar-display-e-reader)
- - [A new project is trying to preserve click-wheel iPod games](https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games?utm_medium=rss)
- - [Nab a Pair of Bose QuietComfort Headphones for a Whopping 43% Off at Amazon Right Now](https://www.cnet.com/deals/nab-a-pair-of-bose-quietcomfort-headphones-for-a-whopping-43-off-at-amazon-right-now/#ftag=CAD590a51e)
- - [Why Bluesky not adding the federation systems that let users leave the Bluesky server and take their community to other hosts can lead to &quot;enshittification&quot; &lpar;Cory Doctorow/Pluralistic&rpar;](http://www.techmeme.com/241102/p10#a241102p10)<!-- TECH:END -->
+ - [Best Walmart Deals: Headphones, Kitchenware and So Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)
+ - [Save on Litter-Robot Bundles for Cyber Monday and the Rest of December](https://www.cnet.com/deals/save-on-litter-robot-bundles-for-cyber-monday-and-the-rest-of-december/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

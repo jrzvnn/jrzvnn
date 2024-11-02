@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I lost 2 Fingers just by watching](http://9gag.com/gag/ae95Eem)
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 💣 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 😝 [CAN YOU DIG IT?!](http://9gag.com/gag/a875NLe)
- - 👉 [Halloween](http://9gag.com/gag/aRB0N72)<!-- MEMES:END -->
+ - 😝 [Ok im full](http://9gag.com/gag/aoy5AGw)
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
+ - 😝 [The soy is strong](http://9gag.com/gag/aW4Edbn)
+ - 👉 [New fear unlocked](http://9gag.com/gag/adB5M52)<!-- MEMES:END -->
 
 ---
 

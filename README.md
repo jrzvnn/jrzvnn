@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
+ - 😝 [Gaslighting](http://9gag.com/gag/aBygjDD)
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
  - 😝 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
- - 💣 [Alright, councilor.](http://9gag.com/gag/aryoDz6)
- - 😝 [But dragon age failguard is a huge success with 70K people on steam](http://9gag.com/gag/aKGdXB6)
  - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
 
 ---

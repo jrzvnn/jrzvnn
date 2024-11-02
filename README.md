@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
- - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 💣 [Happy Halloween](http://9gag.com/gag/a875NQ1)
- - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
- - 👉 [Who named him?](http://9gag.com/gag/aQz1jqz)<!-- MEMES:END -->
+ - 😝 [OUCH](http://9gag.com/gag/a6ZNg52)
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 💣 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 👉 [That recoil](http://9gag.com/gag/ae95BrW)<!-- MEMES:END -->
 
 ---
 

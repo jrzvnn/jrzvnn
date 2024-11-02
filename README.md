@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
  - 😝 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
- - 💣 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 👉 [Throwback to the classic](http://9gag.com/gag/aBygznx)<!-- MEMES:END -->
+ - 💣 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 👉 [OUCH](http://9gag.com/gag/a6ZNg52)<!-- MEMES:END -->
 
 ---
 

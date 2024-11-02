@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amazon&#39;s plan to rearchitect Alexa around LLMs could finally help Alexa understand what users actually want and reduce the awkward syntax needed to use Skills &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241102/p9#a241102p9)
- - [Apple still suppresses employees discussing pay equity, says Labor Board](https://appleinsider.com/articles/24/11/02/apple-still-suppresses-employees-discussing-pay-equity-says-labor-board?utm_medium=rss)
- - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [9 Tips for Making Amazing Deviled Eggs, America&#39;s Most Underrated Snack](https://www.cnet.com/how-to/9-tips-for-amazing-deviled-eggs-americas-most-underrated-snack/#ftag=CAD590a51e)
- - [Here&#39;s Why Affordable Mortgage Rates Are Locking Out New Homebuyers](https://www.cnet.com/personal-finance/heres-why-affordable-mortgage-rates-are-locking-out-new-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gifts Under $25 for 2024](https://www.cnet.com/tech/best-gifts-under-25/#ftag=CAD590a51e)
+ - [Collagen Is the Latest Anti-Aging Hack: Benefits and Things to Consider](https://www.cnet.com/health/nutrition/collagen-is-the-latest-anti-aging-hack-benefits-and-things-to-consider/#ftag=CAD590a51e)
+ - [Score a Nespresso Evoluo Coffee and Espresso Maker for as Low as $140 at QVC](https://www.cnet.com/deals/score-a-nespresso-evoluo-coffee-and-espresso-maker-for-as-low-as-140-at-qvc/#ftag=CAD590a51e)
+ - [Best Bread Machines of 2024, Tested by CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
- - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 😝 [Mordern family values](http://9gag.com/gag/aQz15g8)
+ - 💣 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
  - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 👉 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)<!-- MEMES:END -->
+ - 👉 [Just invent something new duh](http://9gag.com/gag/aqygwb7)<!-- MEMES:END -->
 
 ---
 

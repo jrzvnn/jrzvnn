@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Okta fixes a flaw present since July 23, 2024 that, under specific conditions, let users log in with any password if the account&#39;s username had 52+ characters &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241101/p22#a241101p22)
  - [An interview with EssilorLuxottica CEO Francesco Milleri on the Meta partnership, smart glasses replacing smartphones, and more, as the firm is valued at &amp;euro;100B &lpar;Silvia Sciorilli Borrelli/Financial Times&rpar;](http://www.techmeme.com/241101/p21#a241101p21)
  - [An Okta login bug bypassed checking passwords on some long usernames](https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass)
  - [Microsoft and a16z jointly share US public policy ideas for AI startups, saying &quot;regulation should be implemented only if its benefits outweigh its costs&quot; &lpar;Microsoft&rpar;](http://www.techmeme.com/241101/p20#a241101p20)
- - [Nvidia will replace Intel in the Dow Jones Industrial Average on November 8, after Amazon replaced Walgreens in February; Intel joined the index in 1999 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p19#a241101p19)
- - [Can I Still Request a Mail Ballot so Close to Election Day?](https://www.cnet.com/news/politics/can-i-still-request-a-mail-ballot-so-close-to-election-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia will replace Intel in the Dow Jones Industrial Average on November 8, after Amazon replaced Walgreens in February; Intel joined the index in 1999 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p19#a241101p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

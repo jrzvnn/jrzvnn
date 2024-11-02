@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Denmark&#39;s sovereign AI supercomputer Gefion, which has 1,528 H100 GPUs and was built with $100M in funding from Novo Nordisk and a state-owned fund &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241102/p3#a241102p3)
+ - [Canon Promo Codes: Up to $5,000 Off | November 2024](https://www.wired.com/story/canon-promo-code/)
  - [KitchenAid Promo Codes and Coupons: 15% Off Select Items | WIRED](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [A judge rules Parag Agrawal and other former Twitter executives can proceed with claims that Elon Musk cheated them out of severance pay by terminating them &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/241102/p2#a241102p2)
- - [Filing: US regulators block a proposal related to AWS&#39; deal to buy nuclear power for data centers in Pennsylvania over grid reliability and other concerns &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241102/p1#a241102p1)
- - [Intel scraps forecast of selling $500M+ worth of Gaudi AI accelerator chips in 2024, with CEO Pat Gelsinger citing chip transition and slower uptake to software &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/241101/p23#a241101p23)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-510/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: US regulators block a proposal related to AWS&#39; deal to buy nuclear power for data centers in Pennsylvania over grid reliability and other concerns &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241102/p1#a241102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okta fixes a flaw present since July 23, 2024 that, under specific conditions, let users log in with any password if the account&#39;s username had 52+ characters &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241101/p22#a241101p22)
- - [An interview with EssilorLuxottica CEO Francesco Milleri on the Meta partnership, smart glasses replacing smartphones, and more, as the firm is valued at &amp;euro;100B &lpar;Silvia Sciorilli Borrelli/Financial Times&rpar;](http://www.techmeme.com/241101/p21#a241101p21)
- - [An Okta login bug bypassed checking passwords on some long usernames](https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass)
- - [Microsoft and a16z jointly share US public policy ideas for AI startups, saying &quot;regulation should be implemented only if its benefits outweigh its costs&quot; &lpar;Microsoft&rpar;](http://www.techmeme.com/241101/p20#a241101p20)
- - [Nvidia will replace Intel in the Dow Jones Industrial Average on November 8, after Amazon replaced Walgreens in February; Intel joined the index in 1999 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p19#a241101p19)<!-- TECH:END -->
+ - [Intel scraps forecast of selling $500M+ worth of Gaudi AI accelerator chips in 2024, with CEO Pat Gelsinger citing chip transition and slower uptake to software &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/241101/p23#a241101p23)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-510/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 2, #40](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-2-40/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1232](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1232/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 2, #244](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-2-244/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

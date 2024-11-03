@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 💣 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
  - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
- - 😝 [Old London Bridge was the longest inhabited bridge in Europe. It was completed in 1209 and stood for over 600 years. Considered a wonder of the world, it had 138 shops, houses, churches &amp; gatehouses built on it! - more in comments](http://9gag.com/gag/aryoLXK)
- - 💣 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
- - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
- - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
+ - 👉 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)<!-- MEMES:END -->
 
 ---
 

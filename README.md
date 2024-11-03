@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [OUCH](http://9gag.com/gag/a6ZNg52)
- - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 👉 [That recoil](http://9gag.com/gag/ae95BrW)<!-- MEMES:END -->
+ - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 😝 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)
+ - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
+ - 👉 [Those were the days](http://9gag.com/gag/a5QRgoV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who named him?](http://9gag.com/gag/aQz1jqz)
- - 😝 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
- - 💣 [Calm your....](http://9gag.com/gag/aKGd5DN)
- - 😝 [Harambe &amp; Peanut](http://9gag.com/gag/aND0b64)
- - 👉 [Mordern family values](http://9gag.com/gag/aQz15g8)<!-- MEMES:END -->
+ - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
+ - 😝 [That recoil](http://9gag.com/gag/ae95BrW)
+ - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
+ - 👉 [How and why?](http://9gag.com/gag/ayNoA9W)<!-- MEMES:END -->
 
 ---
 

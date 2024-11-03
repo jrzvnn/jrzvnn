@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can I Still Request a Mail Ballot so Close to Election Day?](https://www.cnet.com/news/politics/can-i-still-request-a-mail-ballot-so-close-to-election-day/#ftag=CAD590a51e)
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
  - [Filing: US regulators rejected a proposal to let Amazon buy nuclear power for AWS data centers in Pennsylvania over energy grid reliability and other concerns &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/241102/p13#a241102p13)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [AI in Hollywood is a tech leap with a vast impact but remains a tool, not a replacement, for creatives; its speed, quality, and cost allow for VFX breakthroughs &lpar;Devin Gordon/New York Times&rpar;](http://www.techmeme.com/241102/p12#a241102p12)
- - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)<!-- TECH:END -->
+ - [AI in Hollywood is a tech leap with a vast impact but remains a tool, not a replacement, for creatives; its speed, quality, and cost allow for VFX breakthroughs &lpar;Devin Gordon/New York Times&rpar;](http://www.techmeme.com/241102/p12#a241102p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

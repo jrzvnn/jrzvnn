@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.2 with Image Playground and Visual Intelligence now expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
  - [7 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
  - [US immigration policy has a huge blind spot: climate change](https://www.theverge.com/2024/11/3/24285366/migration-climate-change-biden-election-trump-harris)
  - [Best Gifts Available on Amazon: From $10 to $250](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)
- - [Best Mattresses of 2024: Tested for Every Sleep Style](https://www.wired.com/gallery/best-mattresses/)
- - [Rocky Talkie Mountain Radio Review: Expensive, but Worth It](https://www.wired.com/review/rocky-talkie-mountain-radio/)<!-- TECH:END -->
+ - [Best Mattresses of 2024: Tested for Every Sleep Style](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

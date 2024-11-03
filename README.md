@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: iOS 18.2 may arrive during the week of December 2; thoughts on the Mac mini as a gaming device, the Pixelmator deal, Q4 earnings, and Peloton&#39;s new CEO &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241103/p5#a241103p5)
  - [iOS 18.2 with Image Playground and Visual Intelligence now expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
+ - [Best Fiber Supplements of 2024](https://www.cnet.com/health/nutrition/best-fiber-supplements-for-healthy-digestion/#ftag=CAD590a51e)
  - [7 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
- - [US immigration policy has a huge blind spot: climate change](https://www.theverge.com/2024/11/3/24285366/migration-climate-change-biden-election-trump-harris)
- - [Best Gifts Available on Amazon: From $10 to $250](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)
- - [Best Mattresses of 2024: Tested for Every Sleep Style](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [Sunday Night Football: How to Watch Colts vs. Vikings Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-colts-vs-vikings-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

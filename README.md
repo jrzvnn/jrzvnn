@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Livestream Tottenham vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
  - [The Toymaker Who Wants to Be the Next Willy Wonka of Sex Tech](https://www.wired.com/story/the-toymaker-who-wants-to-be-the-next-willy-wonka-of-sex-tech/)
+ - [39 Best Advent Calendars for the 2024 Holiday Season](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
  - [The Best Ever Game Controller May Be Set for a Comeback](https://www.wired.com/story/the-best-ever-game-controller-may-be-set-for-a-comeback/)
- - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [A single grant of $123M has been finalized from $33B+ announced so far under the US CHIPS Act, which is facing criticism on both sides of the political aisle &lpar;Politico&rpar;](http://www.techmeme.com/241103/p2#a241103p2)
- - [Google Cloud Q3 revenue grew 35% YoY to $11.35B with a 17% operating margin, outpacing AWS&#39; 19% YoY revenue growth to $27.45B with a 38% operating margin &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241103/p1#a241103p1)<!-- TECH:END -->
+ - [4 Sleep Hacks to Ditch Morning Crankiness After Daylight Saving Time](https://www.cnet.com/health/sleep/sleep-hacks-after-daylight-saving-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

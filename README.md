@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 😝 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)
- - 💣 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 👉 [Those were the days](http://9gag.com/gag/a5QRgoV)<!-- MEMES:END -->
+ - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 💣 [`this content is not available`](http://9gag.com/gag/abArwQv)
+ - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
 
 ---
 

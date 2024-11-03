@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 😝 [Electrician accidentaly summons a hellgate while rapairing a transformer](http://9gag.com/gag/aMVYLzA)
- - 💣 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 😝 [Old London Bridge was the longest inhabited bridge in Europe. It was completed in 1209 and stood for over 600 years. Considered a wonder of the world, it had 138 shops, houses, churches &amp; gatehouses built on it! - more in comments](http://9gag.com/gag/aryoLXK)
- - 👉 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)<!-- MEMES:END -->
+ - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
+ - 💣 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
+ - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
+ - 👉 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)<!-- MEMES:END -->
 
 ---
 

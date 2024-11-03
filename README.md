@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)
  - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 👉 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)<!-- MEMES:END -->
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)
+ - 😝 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)
+ - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
 
 ---
 

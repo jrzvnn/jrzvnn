@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 💣 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)
- - 😝 [What a thought](http://9gag.com/gag/aYQ7BW7)
- - 👉 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)<!-- MEMES:END -->
+ - 😝 [Every rim was scratched in the making of this movie](http://9gag.com/gag/aqygERM)
+ - 😝 [Wtf is going on???](http://9gag.com/gag/adB5DN9)
+ - 💣 [Man loses it when his coworker dresses up as him for Halloween](http://9gag.com/gag/aW4E5Xn)
+ - 😝 [Happy Halloween](http://9gag.com/gag/a875NQ1)
+ - 👉 [Who named him?](http://9gag.com/gag/aQz1jqz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 😝 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)
- - 💣 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 😝 [What a thought](http://9gag.com/gag/aYQ7BW7)
- - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
+ - 😝 [Who named him?](http://9gag.com/gag/aQz1jqz)
+ - 😝 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
+ - 💣 [Calm your....](http://9gag.com/gag/aKGd5DN)
+ - 😝 [Harambe &amp; Peanut](http://9gag.com/gag/aND0b64)
+ - 👉 [Mordern family values](http://9gag.com/gag/aQz15g8)<!-- MEMES:END -->
 
 ---
 

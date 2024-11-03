@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Cloud Q3 revenue grew 35% YoY to $11.35B with a 17% operating margin, outpacing AWS&#39; 19% YoY revenue growth to $27.45B with a 38% operating margin &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241103/p1#a241103p1)
  - [Spot AI, which helps companies analyze security camera footage, raised $31M and unveiled Video AI Agents that can detect and trigger responses to safety issues &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241102/p15#a241102p15)
  - [Today&#39;s Wordle Hints, Answer and Help for Nov. 3, #1233](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-3-1233/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 3, #511](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-3-511/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 3, #41](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-3-41/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 3, #245](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-3-245/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 3, #41](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-3-41/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

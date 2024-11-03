@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #938](http://9gag.com/gag/aryo056)
  - 😝 [Wtf is going on???](http://9gag.com/gag/adB5DN9)
- - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
+ - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 💣 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
 
 ---
 

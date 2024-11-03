@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A single grant of $123M has been finalized from $33B+ announced so far under the US CHIPS Act, which is facing criticism on both sides of the political aisle &lpar;Politico&rpar;](http://www.techmeme.com/241103/p2#a241103p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-3/#ftag=CAD590a51e)
+ - [Zenhaven Mattress Review 2024: Saatva&#39;s Flippable Answer to Natural and Organic Luxury](https://www.cnet.com/health/sleep/zenhaven-mattress-review/#ftag=CAD590a51e)
  - [Google Cloud Q3 revenue grew 35% YoY to $11.35B with a 17% operating margin, outpacing AWS&#39; 19% YoY revenue growth to $27.45B with a 38% operating margin &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241103/p1#a241103p1)
- - [Spot AI, which helps companies analyze security camera footage, raised $31M and unveiled Video AI Agents that can detect and trigger responses to safety issues &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241102/p15#a241102p15)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 3, #1233](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-3-1233/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 3, #511](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-3-511/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say Tesla&#39;s imitation learning-based approach to building fully autonomous driving systems needs AI breakthroughs that may not be achieved for some time &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241103/p3#a241103p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

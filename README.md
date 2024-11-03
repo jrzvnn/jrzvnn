@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Press F for Martin...](http://9gag.com/gag/ayNobYM)
- - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
- - 💣 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)
- - 👉 [ZERO](http://9gag.com/gag/a875x6e)<!-- MEMES:END -->
+ - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
+ - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
+ - 💣 [ZERO](http://9gag.com/gag/a875x6e)
+ - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 👉 [Idiots](http://9gag.com/gag/ayNobdb)<!-- MEMES:END -->
 
 ---
 

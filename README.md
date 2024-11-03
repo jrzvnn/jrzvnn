@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
- - 😝 [After a long and stressfull day.](http://9gag.com/gag/ae95z8j)
- - 💣 [`this content is not available`](http://9gag.com/gag/abArwQv)
- - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
- - 👉 [Her head looks like a peanut so she was probably jealous.](http://9gag.com/gag/aVv0y3d)<!-- MEMES:END -->
+ - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 😝 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)
+ - 💣 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
+ - 😝 [What a thought](http://9gag.com/gag/aYQ7BW7)
+ - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
 
 ---
 

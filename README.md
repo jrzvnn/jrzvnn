@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
+ - 😝 [CGI old school](http://9gag.com/gag/a5QR3qg)
+ - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
  - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 😝 [Her head looks like a peanut so she was probably jealous.](http://9gag.com/gag/aVv0y3d)
- - 💣 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
  - 👉 [I am scared, my dudes. Any advice?](http://9gag.com/gag/aVv05Zd)<!-- MEMES:END -->
 
 ---

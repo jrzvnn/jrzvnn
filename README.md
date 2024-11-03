@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 👉 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)<!-- MEMES:END -->
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [Her head looks like a peanut so she was probably jealous.](http://9gag.com/gag/aVv0y3d)
+ - 💣 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 😝 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)
+ - 👉 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)<!-- MEMES:END -->
 
 ---
 

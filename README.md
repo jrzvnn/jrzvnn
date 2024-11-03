@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can I Still Request a Mail Ballot so Close to Election Day?](https://www.cnet.com/news/politics/can-i-still-request-a-mail-ballot-so-close-to-election-day/#ftag=CAD590a51e)
- - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Filing: US regulators rejected a proposal to let Amazon buy nuclear power for AWS data centers in Pennsylvania over energy grid reliability and other concerns &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/241102/p13#a241102p13)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [AI in Hollywood is a tech leap with a vast impact but remains a tool, not a replacement, for creatives; its speed, quality, and cost allow for VFX breakthroughs &lpar;Devin Gordon/New York Times&rpar;](http://www.techmeme.com/241102/p12#a241102p12)<!-- TECH:END -->
+ - [Best Resume Writing Services for 2024](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
+ - [Interviews with Amazon&#39;s health chief Neil Lindsay and others on the company&#39;s health care push, the PillPack and One Medical acquisitions, its future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241102/p14#a241102p14)
+ - [Best Travel Coffee Mugs of 2024, Tested and Reviewed](https://www.cnet.com/home/kitchen-and-household/best-travel-coffee-mugs/#ftag=CAD590a51e)
+ - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
+ - [Best Keurig Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

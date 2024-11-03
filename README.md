@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Livestream Tottenham vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [The Toymaker Who Wants to Be the Next Willy Wonka of Sex Tech](https://www.wired.com/story/the-toymaker-who-wants-to-be-the-next-willy-wonka-of-sex-tech/)
- - [39 Best Advent Calendars for the 2024 Holiday Season](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
- - [The Best Ever Game Controller May Be Set for a Comeback](https://www.wired.com/story/the-best-ever-game-controller-may-be-set-for-a-comeback/)
- - [4 Sleep Hacks to Ditch Morning Crankiness After Daylight Saving Time](https://www.cnet.com/health/sleep/sleep-hacks-after-daylight-saving-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automakers Are Hot for Extended-Range EVs. They Hope Buyers Like Them Too](https://www.wired.com/story/extended-range-electric-vehicles-erev/)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Espanyol From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-espanyol-from-anywhere/#ftag=CAD590a51e)
+ - [An interview with Steve Ballmer on trying to turn USAFacts, his not-for-profit civic initiative, into a source of dispassionate statistics for US voters &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/241103/p4#a241103p4)
+ - [How to Watch and Stream the 2024 Sao Paulo GP](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-sao-paulo-gp/#ftag=CAD590a51e)
+ - [iOS 18 Cheat Sheet: What You Need to Know About the Latest iPhone Update](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-what-you-need-to-know-about-the-latest-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

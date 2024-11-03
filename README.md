@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 💣 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 😝 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)
- - 👉 [Just invent something new duh](http://9gag.com/gag/aqygwb7)<!-- MEMES:END -->
+ - 😝 [Why not a meme that is realistic?](http://9gag.com/gag/aLn07W6)
+ - 😝 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
+ - 💣 [Mordern family values](http://9gag.com/gag/aQz15g8)
+ - 😝 [Whooaaaa, ,Mama!!](http://9gag.com/gag/amo5QeX)
+ - 👉 [Mothers are the root cause of Transgenderism](http://9gag.com/gag/a9yRGzW)<!-- MEMES:END -->
 
 ---
 

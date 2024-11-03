@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 💣 [`this content is not available`](http://9gag.com/gag/abArwQv)
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
+ - 😝 [Calm your....](http://9gag.com/gag/aKGd5DN)
+ - 😝 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
+ - 💣 [Mordern family values](http://9gag.com/gag/aQz15g8)
+ - 😝 [Whooaaaa, ,Mama!!](http://9gag.com/gag/amo5QeX)
+ - 👉 [Mothers are the root cause of Transgenderism](http://9gag.com/gag/a9yRGzW)<!-- MEMES:END -->
 
 ---
 

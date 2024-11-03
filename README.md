@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the production of a cheaper version of Vision Pro has been delayed beyond 2027; Apple&#39;s only new headset in 2025 will be the Vision Pro with an M5 chip &lpar;@mingchikuo&rpar;](http://www.techmeme.com/241103/p6#a241103p6)
  - [Your favorite musician’s favorite TikTok show](https://www.theverge.com/2024/11/3/24285474/track-star-tiktok-music-game-show-vergecast)
  - [Sources: iOS 18.2 may arrive during the week of December 2; thoughts on the Mac mini as a gaming device, the Pixelmator deal, Q4 earnings, and Peloton&#39;s new CEO &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241103/p5#a241103p5)
  - [iOS 18.2 with Image Playground and Visual Intelligence now expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
- - [Best Fiber Supplements of 2024](https://www.cnet.com/health/nutrition/best-fiber-supplements-for-healthy-digestion/#ftag=CAD590a51e)
- - [7 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)<!-- TECH:END -->
+ - [Best Fiber Supplements of 2024](https://www.cnet.com/health/nutrition/best-fiber-supplements-for-healthy-digestion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

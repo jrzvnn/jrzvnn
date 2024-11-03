@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why not a meme that is realistic?](http://9gag.com/gag/aLn07W6)
- - 😝 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
- - 💣 [Mordern family values](http://9gag.com/gag/aQz15g8)
- - 😝 [Whooaaaa, ,Mama!!](http://9gag.com/gag/amo5QeX)
- - 👉 [Mothers are the root cause of Transgenderism](http://9gag.com/gag/a9yRGzW)<!-- MEMES:END -->
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 😝 [ZERO](http://9gag.com/gag/a875x6e)
+ - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 👉 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)<!-- MEMES:END -->
 
 ---
 

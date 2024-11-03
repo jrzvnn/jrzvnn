@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
- - 😝 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 💣 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
- - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
- - 👉 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)<!-- MEMES:END -->
+ - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 😝 [Old London Bridge was the longest inhabited bridge in Europe. It was completed in 1209 and stood for over 600 years. Considered a wonder of the world, it had 138 shops, houses, churches &amp; gatehouses built on it! - more in comments](http://9gag.com/gag/aryoLXK)
+ - 💣 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
+ - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 😝 [That recoil](http://9gag.com/gag/ae95BrW)
- - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
- - 👉 [How and why?](http://9gag.com/gag/ayNoA9W)<!-- MEMES:END -->
+ - 😝 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 💣 [`this content is not available`](http://9gag.com/gag/abArwQv)
+ - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 

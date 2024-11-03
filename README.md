@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys will always be boys](http://9gag.com/gag/aVv0y5v)
- - 😝 [Wtf is going on???](http://9gag.com/gag/adB5DN9)
- - 💣 [Harambe &amp; Peanut](http://9gag.com/gag/aND0b64)
- - 😝 [Squirrel Lives Matter](http://9gag.com/gag/aryo7MX)
- - 👉 [Islamism is the biggest downgrade in history](http://9gag.com/gag/awyoWey)<!-- MEMES:END -->
+ - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 💣 [ZERO](http://9gag.com/gag/a875x6e)
+ - 😝 [For the first time in recorded history &lpar;130 years&rpar;, there\u2019s no snow on Mt. Fuji in November](http://9gag.com/gag/a5QRAGq)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 

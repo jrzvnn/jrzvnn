@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Toymaker Who Wants to Be the Next Willy Wonka of Sex Tech](https://www.wired.com/story/the-toymaker-who-wants-to-be-the-next-willy-wonka-of-sex-tech/)
  - [The Best Ever Game Controller May Be Set for a Comeback](https://www.wired.com/story/the-best-ever-game-controller-may-be-set-for-a-comeback/)
  - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
  - [A single grant of $123M has been finalized from $33B+ announced so far under the US CHIPS Act, which is facing criticism on both sides of the political aisle &lpar;Politico&rpar;](http://www.techmeme.com/241103/p2#a241103p2)
- - [Google Cloud Q3 revenue grew 35% YoY to $11.35B with a 17% operating margin, outpacing AWS&#39; 19% YoY revenue growth to $27.45B with a 38% operating margin &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241103/p1#a241103p1)
- - [Experts say Tesla&#39;s imitation learning-based approach to building fully autonomous driving systems needs AI breakthroughs that may not be achieved for some time &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241103/p3#a241103p3)<!-- TECH:END -->
+ - [Google Cloud Q3 revenue grew 35% YoY to $11.35B with a 17% operating margin, outpacing AWS&#39; 19% YoY revenue growth to $27.45B with a 38% operating margin &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241103/p1#a241103p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

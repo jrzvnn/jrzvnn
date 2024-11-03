@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The AI search engines are here — and getting better](https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer)
+ - [Rolls-Royce’s first electric vehicle sounds like no other](https://www.theverge.com/2024/11/3/24281754/rolls-royce-spectre-review-ev-price-specs-sound)
  - [Automakers Are Hot for Extended-Range EVs. They Hope Buyers Like Them Too](https://www.wired.com/story/extended-range-electric-vehicles-erev/)
  - [La Liga Soccer Livestream: How to Watch Barcelona vs. Espanyol From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-espanyol-from-anywhere/#ftag=CAD590a51e)
- - [An interview with Steve Ballmer on trying to turn USAFacts, his not-for-profit civic initiative, into a source of dispassionate statistics for US voters &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/241103/p4#a241103p4)
- - [How to Watch and Stream the 2024 Sao Paulo GP](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-sao-paulo-gp/#ftag=CAD590a51e)
- - [iOS 18 Cheat Sheet: What You Need to Know About the Latest iPhone Update](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-what-you-need-to-know-about-the-latest-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Steve Ballmer on trying to turn USAFacts, his not-for-profit civic initiative, into a source of dispassionate statistics for US voters &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/241103/p4#a241103p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
  - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 💣 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
+ - 💣 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
  - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---

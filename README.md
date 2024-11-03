@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
- - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
+ - 😝 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)
+ - 😝 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)
+ - 💣 [`this content is not available`](http://9gag.com/gag/abArwQv)
+ - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
+ - 👉 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)<!-- MEMES:END -->
 
 ---
 

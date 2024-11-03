@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
  - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
- - 💣 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
  - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 👉 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)<!-- MEMES:END -->
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)
+ - 😝 [Press F for Martin...](http://9gag.com/gag/ayNobYM)
+ - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
 
 ---
 

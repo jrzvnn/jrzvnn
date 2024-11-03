@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 💣 [`this content is not available`](http://9gag.com/gag/abArwQv)
- - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
- - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
+ - 😝 [Electrician accidentaly summons a hellgate while rapairing a transformer](http://9gag.com/gag/aMVYLzA)
+ - 💣 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 😝 [Old London Bridge was the longest inhabited bridge in Europe. It was completed in 1209 and stood for over 600 years. Considered a wonder of the world, it had 138 shops, houses, churches &amp; gatehouses built on it! - more in comments](http://9gag.com/gag/aryoLXK)
+ - 👉 [They killed peanut for no reason](http://9gag.com/gag/azx1wWx)<!-- MEMES:END -->
 
 ---
 

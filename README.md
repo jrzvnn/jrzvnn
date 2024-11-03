@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Gifts Available on Amazon: From $10 to $250](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)
  - [Best Mattresses of 2024: Tested for Every Sleep Style](https://www.wired.com/gallery/best-mattresses/)
  - [Rocky Talkie Mountain Radio Review: Expensive, but Worth It](https://www.wired.com/review/rocky-talkie-mountain-radio/)
- - [Unbound Flick Review: A Ring Vibrator](https://www.wired.com/review/unbound-flick/)
- - [The AI search engines are here — and getting better](https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer)
- - [Rolls-Royce’s first electric vehicle sounds like no other](https://www.theverge.com/2024/11/3/24281754/rolls-royce-spectre-review-ev-price-specs-sound)<!-- TECH:END -->
+ - [Lenovo ThinkBook 14 2-in-1 Gen 4 Review: Affordable, Upgradeable Business Convertible](https://www.cnet.com/tech/computing/lenovo-thinkbook-14-2-in-1-gen-4-review-affordable-upgradeable-business-convertible/#ftag=CAD590a51e)
+ - [Every Essential Audio Settings All Spotify Users Should Know](https://www.cnet.com/tech/services-and-software/every-essential-audio-setting-all-spotify-users-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

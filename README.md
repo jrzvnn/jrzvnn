@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kidney Health Made Easy: 13 Essential Foods to Protect Your Function](https://www.cnet.com/health/nutrition/13-essential-foods-to-protect-your-kidney-function/#ftag=CAD590a51e)
+ - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
+ - [We Asked Experts About the Hardest Houseplants to Kill](https://www.cnet.com/news/we-asked-experts-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)
  - [Best Travel Tech Gifts: Must-Haves for the Journey and the Destination](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
- - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [Canvassers for Elon Musk’s America PAC Were Fired and Stranded in Michigan After Speaking Out](https://www.wired.com/story/canvassers-elon-musk-america-pac-fired-stranded-michigan-mistreatment/)
- - [Apple Vision Pro to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
+ - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

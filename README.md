@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Travel Tech Gifts: Must-Haves for the Journey and the Destination](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
  - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
  - [Canvassers for Elon Musk’s America PAC Were Fired and Stranded in Michigan After Speaking Out](https://www.wired.com/story/canvassers-elon-musk-america-pac-fired-stranded-michigan-mistreatment/)
- - [Apple Vision Pro to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)
- - [Sources: the production of a cheaper version of Vision Pro has been delayed beyond 2027; Apple&#39;s only new headset in 2025 will be the Vision Pro with an M5 chip &lpar;@mingchikuo&rpar;](http://www.techmeme.com/241103/p6#a241103p6)
- - [Chargers vs. Browns: How to Watch NFL Week 9 Online Today](https://www.cnet.com/tech/services-and-software/chargers-vs-browns-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro line could get a major redesign in 2026 for 20th anniversary](https://appleinsider.com/articles/24/11/03/macbook-pro-line-could-get-a-major-redesign-in-2026-for-20th-anniversary?utm_medium=rss)
  - [Q&amp;A with Kay Koplovitz about her transition to VC with Springboard after the sale of USA Networks, why women-led startups are underestimated, DEI, and more &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/241103/p7#a241103p7)
  - [Can Nintendo’s Alarmo run Doom? You bet it can](https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions)
  - [iOS 18.2 with Image Playground and Visual Intelligence expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
- - [Apple Vision Pro rumored to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)
- - [Jaguars vs. Eagles: How to Watch NFL Week 9 Online Today](https://www.cnet.com/tech/services-and-software/jaguars-vs-eagles-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro rumored to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

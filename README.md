@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spot AI, which helps companies analyze security camera footage, raised $31M and unveiled Video AI Agents that can detect and trigger responses to safety issues &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241102/p15#a241102p15)
  - [Best Resume Writing Services for 2024](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
  - [Interviews with Amazon&#39;s health chief Neil Lindsay and others on the company&#39;s health care push, the PillPack and One Medical acquisitions, its future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241102/p14#a241102p14)
  - [Best Travel Coffee Mugs of 2024, Tested and Reviewed](https://www.cnet.com/home/kitchen-and-household/best-travel-coffee-mugs/#ftag=CAD590a51e)
- - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
- - [Best Keurig Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

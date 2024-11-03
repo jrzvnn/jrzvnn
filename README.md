@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Voltme Retractable 100W USB-C Cable Is Just $10 With Amazon Prime Right Now](https://www.cnet.com/deals/this-voltme-retractable-100w-usb-c-cable-is-just-10-with-amazon-prime-right-now/#ftag=CAD590a51e)
  - [36 Unique Gifts for People Who Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)
  - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
  - [Best Internet Providers for Gaming in November 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
- - [Get Up to an Instant $600 Off a Tenways E-Bike With This Black Friday Deal](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)
- - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Up to an Instant $600 Off a Tenways E-Bike With This Black Friday Deal](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

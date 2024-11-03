@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)
- - [Best Internet Providers With No Data Caps in November 2024](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)
- - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
- - [MacBook Pro line could get a major redesign in 2026 for 20th anniversary](https://appleinsider.com/articles/24/11/03/macbook-pro-line-could-get-a-major-redesign-in-2026-for-20th-anniversary?utm_medium=rss)
- - [Best Online Hearing Tests of 2024](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [36 Unique Gifts for People Who Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
+ - [Best Internet Providers for Gaming in November 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
+ - [Get Up to an Instant $600 Off a Tenways E-Bike With This Black Friday Deal](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)
+ - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

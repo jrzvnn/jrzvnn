@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
  - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 💣 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 😝 [`this content is not available`](http://9gag.com/gag/abArwQv)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)<!-- MEMES:END -->
+ - 💣 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 👉 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)<!-- MEMES:END -->
 
 ---
 

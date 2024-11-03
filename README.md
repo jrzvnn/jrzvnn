@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [MacBook Pro line could get a major redesign in 2026 for 20th anniversary](https://appleinsider.com/articles/24/11/03/macbook-pro-line-could-get-a-major-redesign-in-2026-for-20th-anniversary?utm_medium=rss)
- - [Q&amp;A with Kay Koplovitz about her transition to VC with Springboard after the sale of USA Networks, why women-led startups are underestimated, DEI, and more &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/241103/p7#a241103p7)
- - [Can Nintendo’s Alarmo run Doom? You bet it can](https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions)
- - [iOS 18.2 with Image Playground and Visual Intelligence expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
- - [Apple Vision Pro rumored to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [Snag the Bose QuietComfort Ultra Headphones for an All-Time Low of $329](https://www.cnet.com/deals/snag-the-bose-quietcomfort-ultra-headphones-for-an-all-time-low-of-329/#ftag=CAD590a51e)
+ - [Save Money on Your Energy Bill by Unplugging These Appliances](https://www.cnet.com/how-to/how-unplugging-these-appliances-could-save-you-100-a-year/#ftag=CAD590a51e)
+ - [Best Headsets for Working From Home in 2024](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

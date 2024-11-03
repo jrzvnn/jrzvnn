@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
  - [MacBook Pro line could get a major redesign in 2026 for 20th anniversary](https://appleinsider.com/articles/24/11/03/macbook-pro-line-could-get-a-major-redesign-in-2026-for-20th-anniversary?utm_medium=rss)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [Snag the Bose QuietComfort Ultra Headphones for an All-Time Low of $329](https://www.cnet.com/deals/snag-the-bose-quietcomfort-ultra-headphones-for-an-all-time-low-of-329/#ftag=CAD590a51e)
- - [Save Money on Your Energy Bill by Unplugging These Appliances](https://www.cnet.com/how-to/how-unplugging-these-appliances-could-save-you-100-a-year/#ftag=CAD590a51e)
- - [Best Headsets for Working From Home in 2024](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Online Hearing Tests of 2024](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
+ - [Best Nanny Cams for 2024](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

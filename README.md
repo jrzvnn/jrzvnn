@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lion sleeps tonight](http://9gag.com/gag/a2vR6m9)
- - 😝 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
- - 💣 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)
- - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 👉 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)<!-- MEMES:END -->
+ - 😝 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 💣 [Man loses it when his coworker dresses up as him for Halloween](http://9gag.com/gag/aW4E5Xn)
+ - 😝 [Happy Halloween](http://9gag.com/gag/a875NQ1)
+ - 👉 [Who named him?](http://9gag.com/gag/aQz1jqz)<!-- MEMES:END -->
 
 ---
 

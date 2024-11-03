@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
  - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
+ - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 

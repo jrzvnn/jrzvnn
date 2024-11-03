@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
  - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aVv0pwP)
+ - 💣 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
  - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---

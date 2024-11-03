@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst cross country skier](http://9gag.com/gag/a7owgV2)
- - 😝 [What could go wrong?](http://9gag.com/gag/a875OR1)
- - 💣 [ZERO](http://9gag.com/gag/a875x6e)
- - 😝 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 👉 [Idiots](http://9gag.com/gag/ayNobdb)<!-- MEMES:END -->
+ - 😝 [ZERO](http://9gag.com/gag/a875x6e)
+ - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 💣 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 👉 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)<!-- MEMES:END -->
 
 ---
 

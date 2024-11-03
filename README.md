@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every rim was scratched in the making of this movie](http://9gag.com/gag/aqygERM)
- - 😝 [Wtf is going on???](http://9gag.com/gag/adB5DN9)
- - 💣 [Man loses it when his coworker dresses up as him for Halloween](http://9gag.com/gag/aW4E5Xn)
- - 😝 [Happy Halloween](http://9gag.com/gag/a875NQ1)
- - 👉 [Who named him?](http://9gag.com/gag/aQz1jqz)<!-- MEMES:END -->
+ - 😝 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 💣 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
+ - 👉 [What could go wrong?](http://9gag.com/gag/a875OR1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys will always be boys](http://9gag.com/gag/aVv0y5v)
- - 😝 [Cherish every Moment](http://9gag.com/gag/aGygmvG)
- - 💣 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
- - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
- - 👉 [Three meme icons have met up in person today](http://9gag.com/gag/aGyg4g7)<!-- MEMES:END -->
+ - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 💣 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)
+ - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 

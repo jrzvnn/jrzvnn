@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
- - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 💣 [Would you find out?](http://9gag.com/gag/aRB0bp2)
- - 😝 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
- - 👉 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)<!-- MEMES:END -->
+ - 😝 [Guys please hold me i have attacked EA employees!](http://9gag.com/gag/agm5e8g)
+ - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
+ - 💣 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 😝 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
+ - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
 
 ---
 

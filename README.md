@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p3#a241104p3)
- - [Tracking Elon Musk&#39;s Activities Over the Last Month Ahead of the Election](https://www.wired.com/story/elon-musk-trump-timeline/)
- - [How to Take a Hearing Test With an iPhone and AirPods Pro 2](https://www.cnet.com/tech/services-and-software/how-to-take-a-hearing-test-with-an-iphone-and-airpods-pro-2/#ftag=CAD590a51e)
- - [Election Deniers Are Out in Full Force. We Went Where They Did](https://www.wired.com/story/election-deniers-weekend-activity-fraud-claims/)
- - [Best Savings Rates Today, Nov. 4, 2024: Earn More With Up to 5.25% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-nov-4-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blackstone, Pimco, Carlyle, BlackRock, and others have loaned $11B+ to CoreWeave, Crusoe, and other &quot;neocloud&quot; companies, creating a lucrative new debt market &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/241104/p5#a241104p5)
+ - [An analysis of 800 US adults&#39; TikTok feeds: female users received ~11% more content about Harris than men did, and saw 40% more Harris campaign videos than men &lpar;Washington Post&rpar;](http://www.techmeme.com/241104/p4#a241104p4)
+ - [WIRED&#39;S 2024 US Election Live Blog](https://www.wired.com/live/us-election-2024-live-coverage/)
+ - [Inside the Massive Crime Industry That’s Hacking Billion-Dollar Companies](https://www.wired.com/story/inside-the-massive-crime-industry-thats-hacking-billion-dollar-companies/)
+ - [The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p3#a241104p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

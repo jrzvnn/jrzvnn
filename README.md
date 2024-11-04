@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
- - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 💣 [Idiots](http://9gag.com/gag/ayNobdb)
- - 😝 [Yes](http://9gag.com/gag/aND0N3r)
- - 👉 [The dream get true](http://9gag.com/gag/a5QROLG)<!-- MEMES:END -->
+ - 😝 [The El Presidente is not welcome in Spain,](http://9gag.com/gag/apR5448)
+ - 😝 [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 💣 [Too late](http://9gag.com/gag/aND0NKr)
+ - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - 👉 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)<!-- MEMES:END -->
 
 ---
 

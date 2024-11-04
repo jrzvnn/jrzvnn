@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity launched a dedicated hub for the US general election, including ballot measures and voting results, while rivals like OpenAI have been more cautious &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241103/p9#a241103p9)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Perplexity debuts an AI-powered election information hub](https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris)
- - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
- - [40 Best Advent Calendars for Kids in 2024](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 4, #1234](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-4-1234/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 4, #512](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-4-512/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 4, #42](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-4-42/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 4, #246](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-4-246/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

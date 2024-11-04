@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It had to be a Karen.](http://9gag.com/gag/amo54Ly)
  - 😝 [Too late](http://9gag.com/gag/aND0NKr)
- - 💣 [Metal \u00d7 air](http://9gag.com/gag/a875NxZ)
- - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
- - 👉 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)<!-- MEMES:END -->
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 💣 [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 

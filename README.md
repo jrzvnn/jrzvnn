@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
- - 💣 [Extreme sport](http://9gag.com/gag/a1mRjWb)
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 👉 [Too late](http://9gag.com/gag/aND0NKr)<!-- MEMES:END -->
+ - 😝 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
+ - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 💣 [I am scared, my dudes. Any advice?](http://9gag.com/gag/aVv05Zd)
+ - 😝 [Too late](http://9gag.com/gag/aND0NKr)
+ - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
 
 ---
 

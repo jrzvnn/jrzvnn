@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It had to be a Karen.](http://9gag.com/gag/amo54Ly)
- - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
- - 💣 [Wtf is going on???](http://9gag.com/gag/adB5DN9)
- - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
- - 👉 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)<!-- MEMES:END -->
+ - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 😝 [Would you find out?](http://9gag.com/gag/aRB0bp2)
+ - 💣 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - 😝 [Too late](http://9gag.com/gag/aND0NKr)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 

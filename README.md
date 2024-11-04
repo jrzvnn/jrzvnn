@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
- - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 💣 [Justice!](http://9gag.com/gag/aND076A)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 👉 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)<!-- MEMES:END -->
+ - 😝 [Some have more privileges](http://9gag.com/gag/a5QRO0L)
+ - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 💣 [Yes](http://9gag.com/gag/aND0N3r)
+ - 😝 [Yes](http://9gag.com/gag/amo5e3v)
+ - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
 
 ---
 

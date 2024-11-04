@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/ajP5e1Q)
- - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 💣 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 😝 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)
- - 👉 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)<!-- MEMES:END -->
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 😝 [Too late](http://9gag.com/gag/aND0NKr)
+ - 💣 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - 👉 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)<!-- MEMES:END -->
 
 ---
 

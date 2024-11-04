@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christopher Nolan uses red paper for scripts to prevent them from being illegally copied and leaked](http://9gag.com/gag/aRB0dy5)
- - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
- - 💣 [ZERO](http://9gag.com/gag/a875x6e)
- - 😝 [Would you find out?](http://9gag.com/gag/aRB0bp2)
- - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
+ - 😝 [It had to be a Karen.](http://9gag.com/gag/amo54Ly)
+ - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
+ - 💣 [Wtf is going on???](http://9gag.com/gag/adB5DN9)
+ - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
+ - 👉 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance&#39;s international revenue grew 60%+ YoY to about $17B in H1 2024, and overall revenue grew 35% to about $73B, after growing 40% in H1 2023 &lpar;The Information&rpar;](http://www.techmeme.com/241104/p26#a241104p26)
+ - [Amazon unveils X-Ray Recaps on Prime Video, an AI feature that generates &quot;spoiler-free and concise summaries&quot; of TV shows, in beta to Fire TV users in the US &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241104/p25#a241104p25)
  - [T-Mobile to use OpenAI tech for a customer service bot slated for next year that can refer to customer-specific data, and will pay OpenAI $100M over three years &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/241104/p24#a241104p24)
  - [Palantir reports Q3 revenue up 30% YoY to $725.5M, vs. $701.1M est., and raises 2024 revenue forecast again on robust AI adoption; PLTR jumps 11%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241104/p23#a241104p23)
- - [16 Best Cozy Games &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cozy-games/)
- - [GM says it has become the No. 2 seller of EVs in the US](https://www.theverge.com/2024/11/4/24287933/gm-no-2-ev-sales-october-2024)
- - [ChatGPT Search is impressive in some ways, but it&#39;s unreliable for short queries containing just a few words, meaning it&#39;s far from being a &quot;Google killer&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241104/p22#a241104p22)<!-- TECH:END -->
+ - [16 Best Cozy Games &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cozy-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

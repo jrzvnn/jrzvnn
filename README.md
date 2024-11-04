@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
+ - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 💣 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
  - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 💣 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 😝 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 👉 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)<!-- MEMES:END -->
+ - 👉 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)<!-- MEMES:END -->
 
 ---
 

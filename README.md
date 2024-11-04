@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is exploring a push into smart glasses with Atlas, an internal study of products currently on the market, led by its Product Systems Quality team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241104/p29#a241104p29)
  - [Developers can begin work on an app intent system that will make Siri smarter in 2025](https://appleinsider.com/articles/24/11/04/developers-can-begin-work-on-an-app-intent-system-that-will-make-siri-smarter-in-2025?utm_medium=rss)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Judge declines to block Musk’s $1 million voter giveaways](https://www.theverge.com/2024/11/4/24288183/musk-million-dollar-voter-giveaway-america-pac-philadelphia)
- - [Source: Meta informed ad partners that it will extend its ban on new election ads for the week leading up to the election until several days after polls close &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241104/p28#a241104p28)
- - [A judge denies Philadelphia DA&#39;s emergency injunction request aiming to bring a halt to the $1M/day giveaway by Elon Musk&#39;s America PAC ahead of the US election &lpar;NBC News&rpar;](http://www.techmeme.com/241104/p27#a241104p27)<!-- TECH:END -->
+ - [Best Internet Providers in Beaumont, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-beaumont-tx/#ftag=CAD590a51e)
+ - [What This Week&#39;s Fed Rate Cut Could Mean for Your Money](https://www.cnet.com/personal-finance/banking/what-this-weeks-fed-rate-cut-could-mean-for-your-money/#ftag=CAD590a51e)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

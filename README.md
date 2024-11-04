@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta confirms it has made Llama models available for US national security applications, with partners like Anduril, Booz Allen, Lockheed Martin using Llama AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241104/p16#a241104p16)
- - [Can Philadelphia’s ballot counters outrun election lies?](https://www.theverge.com/2024/11/4/24285822/philadelphia-mail-in-ballot-counting-machines-misinformation)
- - [How to use a VPN to get the best travel deals](https://appleinsider.com/inside/ios/tips/how-to-use-a-vpn-to-get-the-best-travel-deals?utm_medium=rss)
- - [Netflix is removing nearly all of its interactive titles](https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games)
- - [Apple&#39;s 2024 M4 14-inch MacBook Pro is on sale for just $1,499](https://appleinsider.com/articles/24/11/04/apples-2024-m4-14-inch-macbook-pro-is-on-sale-for-just-1499?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s Echo Spot alarm clock is on sale with a free color smart bulb](https://www.theverge.com/2024/11/4/24287736/amazon-echo-spot-fitbit-charge-6-tracker-deal-sale)
+ - [Elon Musk&#39;s lawyers claim in a Pennsylvania court that the $1M/day giveaway to registered voters, which Musk said multiple times is &quot;random&quot;, is not a lottery &lpar;The Philadelphia Inquirer&rpar;](http://www.techmeme.com/241104/p19#a241104p19)
+ - [The US NLRB alleges Grindr illegally imposed a return-to-office policy last year forcing out ~80 of its 178 staffers in an attempt to thwart a unionization push &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/241104/p18#a241104p18)
+ - [Netflix plans to delist nearly all of its interactive shows and films as of December 1 saying the tech &quot;served its purpose&quot;, after launching the format in 2017 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241104/p17#a241104p17)
+ - [Meta confirms it has made Llama models available for US national security applications, with partners like Anduril, Booz Allen, Lockheed Martin using Llama AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241104/p16#a241104p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

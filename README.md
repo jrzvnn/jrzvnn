@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too late](http://9gag.com/gag/aND0NKr)
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 💣 [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - 💣 [Too late](http://9gag.com/gag/aND0NKr)
  - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
- - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
+ - 👉 [Metal \u00d7 air](http://9gag.com/gag/a875NxZ)<!-- MEMES:END -->
 
 ---
 

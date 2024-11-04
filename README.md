@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not a girl, but...](http://9gag.com/gag/aryoj6B)
- - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
- - 😝 [Title](http://9gag.com/gag/agm5P4W)
- - 👉 [Prototype of autonomous US police officer](http://9gag.com/gag/aqygqOp)<!-- MEMES:END -->
+ - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 😝 [Would you find out?](http://9gag.com/gag/aRB0bp2)
+ - 💣 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - 😝 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
+ - 👉 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)<!-- MEMES:END -->
 
 ---
 

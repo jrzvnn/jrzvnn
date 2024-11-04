@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys please hold me i have attacked EA employees!](http://9gag.com/gag/agm5e8g)
- - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
- - 💣 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 😝 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
+ - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - 😝 [This is Monica Keasler. The lady from Texas who made the complaints about Peanut the Squirrel and Fred the Racoon](http://9gag.com/gag/aLn077P)
+ - 💣 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
+ - 👉 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)<!-- MEMES:END -->
 
 ---
 

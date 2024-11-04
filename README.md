@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
- - 💣 [Too late](http://9gag.com/gag/aND0NKr)
- - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
- - 👉 [Metal \u00d7 air](http://9gag.com/gag/a875NxZ)<!-- MEMES:END -->
+ - 😝 [Boys will always be boys](http://9gag.com/gag/aVv0y5v)
+ - 😝 [Cherish every Moment](http://9gag.com/gag/aGygmvG)
+ - 💣 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
+ - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
+ - 👉 [Three meme icons have met up in person today](http://9gag.com/gag/aGyg4g7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir reports Q3 revenue up 30% YoY to $725.5M, vs. $701.1M est., and raises 2024 revenue forecast again on robust AI adoption; PLTR jumps 11%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241104/p23#a241104p23)
  - [GM says it has become the No. 2 seller of EVs in the US](https://www.theverge.com/2024/11/4/24287933/gm-no-2-ev-sales-october-2024)
  - [ChatGPT Search is impressive in some ways, but it&#39;s unreliable for short queries containing just a few words, meaning it&#39;s far from being a &quot;Google killer&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241104/p22#a241104p22)
  - [An Oath Keeper Talks Civil War Over Pastrami and Rye](https://www.wired.com/story/oath-keeper-civil-war-election-day/)
- - [The second developer beta of iOS 18.2 shows a &quot;daily limit&quot; for free access to &quot;advanced&quot; ChatGPT via Siri and an option to upgrade to ChatGPT Plus in Settings &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241104/p21#a241104p21)
- - [Snoop Dogg’s Times Square concert showed the ambitious future of music in Fortnite](https://www.theverge.com/2024/11/4/24288014/fortnite-chapter-2-remix-snoop-dogg-times-square-music)<!-- TECH:END -->
+ - [The second developer beta of iOS 18.2 shows a &quot;daily limit&quot; for free access to &quot;advanced&quot; ChatGPT via Siri and an option to upgrade to ChatGPT Plus in Settings &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241104/p21#a241104p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

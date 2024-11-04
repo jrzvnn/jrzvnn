@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with GM SVP Baris Cetinok on having a &quot;high conviction&quot; that ditching CarPlay and Android Auto is the right call, building autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241104/p13#a241104p13)
+ - [The New York Times Tech Guild is on strike](https://www.theverge.com/2024/11/4/24287600/new-york-times-tech-guild-strike-before-presidential-election)
  - [13 Best White Elephant Gifts &lpar;2024&rpar;: Legos, Desk Accessories](https://www.wired.com/gallery/best-white-elephant-gifts/)
  - [GM software boss: we have ‘high conviction’ ditching CarPlay is the right path](https://www.theverge.com/24285581/gm-software-baris-cetinok-apple-carplay-android-auto-google-cars-evs-decoder-podcast)
- - [Valorant is winning the war against PC gaming cheaters](https://www.theverge.com/2024/11/4/24283482/valorant-is-winning-the-war-against-pc-gaming-cheaters)
- - [Oops, Apple approved another illegal streaming app](https://www.theverge.com/2024/11/4/24287574/apple-approved-illegal-streaming-app-univer-note)
- - [European regulators evaluate iPadOS changes for compliance with Digital Markets Act](https://appleinsider.com/articles/24/11/04/european-regulators-evaluate-ipados-changes-for-compliance-with-digital-markets-act?utm_medium=rss)<!-- TECH:END -->
+ - [Valorant is winning the war against PC gaming cheaters](https://www.theverge.com/2024/11/4/24283482/valorant-is-winning-the-war-against-pc-gaming-cheaters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

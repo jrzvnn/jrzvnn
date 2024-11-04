@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 💣 [Christopher Nolan uses red paper for scripts to prevent them from being illegally copied and leaked](http://9gag.com/gag/aRB0dy5)
- - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
- - 👉 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)<!-- MEMES:END -->
+ - 😝 [Too late](http://9gag.com/gag/aND0NKr)
+ - 😝 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)
+ - 💣 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
+ - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - 👉 [The man confused the dog that came to attack him](http://9gag.com/gag/a34RXL5)<!-- MEMES:END -->
 
 ---
 

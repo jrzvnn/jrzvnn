@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - 😝 [ZERO](http://9gag.com/gag/a875x6e)
+ - 💣 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
  - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
- - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
- - 💣 [Justice!](http://9gag.com/gag/aND076A)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 👉 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)<!-- MEMES:END -->
+ - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
 
 ---
 

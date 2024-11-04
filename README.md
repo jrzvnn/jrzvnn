@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
- - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 💣 [I am scared, my dudes. Any advice?](http://9gag.com/gag/aVv05Zd)
- - 😝 [Too late](http://9gag.com/gag/aND0NKr)
- - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
+ - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
+ - 😝 [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 💣 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - 👉 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)<!-- MEMES:END -->
 
 ---
 

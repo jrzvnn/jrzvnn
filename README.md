@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2024 M4 14-inch MacBook Pro is on sale for just $1,499](https://appleinsider.com/articles/24/11/04/apples-2024-m4-14-inch-macbook-pro-is-on-sale-for-just-1499?utm_medium=rss)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [PS5 Pro’s actual specs revealed](https://www.theverge.com/2024/11/4/24287657/sony-ps5-pro-gpu-specs-unboxing-games-list-enhanced)
  - [Best Savings Rates Today, Nov. 4, 2024: Earn More With Up to 5.25% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-4-2024/#ftag=CAD590a51e)
- - [Best Deals on Earbuds and Headphones: Jam Out With Outstanding Discounts from Apple, Sony, Beats and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Call of Duty Black Ops 6 Double XP Weekend Extended Beyond Today](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-extended-beyond-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on Earbuds and Headphones: Jam Out With Outstanding Discounts from Apple, Sony, Beats and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

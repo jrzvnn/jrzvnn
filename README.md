@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now try out Microsoft’s new AI-powered Xbox chatbot](https://www.theverge.com/2024/11/4/24288066/microsoft-xbox-chatbot-ai-support)
+ - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)
  - [Masimo&#39;s claims falter as Apple defends smartwatch designs in court](https://appleinsider.com/articles/24/11/04/masimos-claims-falter-as-apple-defends-smartwatch-designs-in-court?utm_medium=rss)
  - [JD Vance’s Senate Office Fires Key Adviser Who Posted About Drug Use on Reddit](https://www.wired.com/story/jd-vances-senate-office-fires-key-adviser-who-posted-about-drug-use-on-reddit/)
- - [Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2](https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings)
- - [Meta AI is ready for war](https://www.theverge.com/2024/11/4/24287951/meta-ai-llama-war-us-government-national-security)
- - [MAGA Influencers Are Making One Last Push for Donald Trump](https://www.wired.com/story/trump-campaign-influencers-election-day/)<!-- TECH:END -->
+ - [Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2](https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [In Pews Across America, Evangelicals Are Told That God Wants Donald Trump](https://www.wired.com/story/in-pews-across-america-evangelicals-are-told-that-god-wants-donald-trump/)
  - [Blackstone, Pimco, Carlyle, BlackRock, and others have loaned $11B+ to CoreWeave, Crusoe, and other &quot;neocloud&quot; companies, creating a lucrative new debt market &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/241104/p5#a241104p5)
  - [An analysis of 800 US adults&#39; TikTok feeds: female users received ~11% more content about Harris than men did, and saw 40% more Harris campaign videos than men &lpar;Washington Post&rpar;](http://www.techmeme.com/241104/p4#a241104p4)
- - [Inside the Massive Crime Industry That’s Hacking Billion-Dollar Companies](https://www.wired.com/story/inside-the-massive-crime-industry-thats-hacking-billion-dollar-companies/)<!-- TECH:END -->
+ - [WIRED&#39;S 2024 US Election Live Blog](https://www.wired.com/live/us-election-2024-live-coverage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

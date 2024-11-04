@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MAGA Influencers Are Making One Last Push for Donald Trump](https://www.wired.com/story/trump-campaign-influencers-election-day/)
- - [Anthropic releases Claude 3.5 Haiku, but it is priced at $1 per million input tokens, up 4x from Claude 3.0 Haiku&#39;s price, and lacks image analysis features &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241104/p20#a241104p20)
- - [Best Smart Displays of 2024](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
- - [Black Friday Gaming Deal: Backbone&#39;s Nifty Cloud Gaming Controllers Are 40% Off](https://www.cnet.com/deals/backbone-one-playstation-edition-black-friday-deal/#ftag=CAD590a51e)
- - [Prime Video will let you summon AI to recap what you’re watching](https://www.theverge.com/2024/11/4/24287955/amazon-prime-video-ai-x-ray-recaps)<!-- TECH:END -->
+ - [Masimo&#39;s claims falter as Apple defends smartwatch designs in court](https://appleinsider.com/articles/24/11/04/masimos-claims-falter-as-apple-defends-smartwatch-designs-in-court?utm_medium=rss)
+ - [JD Vance’s Senate Office Fires Key Adviser Who Posted About Drug Use on Reddit](https://www.wired.com/story/jd-vances-senate-office-fires-key-adviser-who-posted-about-drug-use-on-reddit/)
+ - [Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2](https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings)
+ - [Meta AI is ready for war](https://www.theverge.com/2024/11/4/24287951/meta-ai-llama-war-us-government-national-security)
+ - [MAGA Influencers Are Making One Last Push for Donald Trump](https://www.wired.com/story/trump-campaign-influencers-election-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Apple Watch-fueled fitness journey -- how hardware and software are helping me fix my health](https://appleinsider.com/articles/24/11/04/my-apple-watch-fueled-fitness-journey----how-hardware-and-software-are-helping-me-fix-my-health?utm_medium=rss)
  - [Find Your Thermostat&#39;s Sweet Spot: How to Save Money on Your Winter Heating Costs](https://www.cnet.com/home/energy-and-utilities/find-your-thermostats-sweet-spot-how-to-save-money-on-your-winter-heating-costs/#ftag=CAD590a51e)
  - [Apple Offers Up to $1 Million to Anyone Who Can Hack Its AI Servers](https://www.cnet.com/tech/computing/apple-offers-1-million-bounty-to-anyone-who-can-hack-its-ai-servers/#ftag=CAD590a51e)
  - [Samsung Galaxy Watch 7 vs. Google Pixel Watch 3: Smartwatch Showdown video](https://www.cnet.com/videos/samsung-galaxy-watch-7-vs-google-pixel-watch-3-smartwatch-showdown/#ftag=CAD590a51e)
- - [Get Your Free At-Home COVID-19 Tests in Time for the Holidays](https://www.cnet.com/health/get-your-free-at-home-covid-19-tests-in-time-for-the-holidays/#ftag=CAD590a51e)
- - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)<!-- TECH:END -->
+ - [Get Your Free At-Home COVID-19 Tests in Time for the Holidays](https://www.cnet.com/health/get-your-free-at-home-covid-19-tests-in-time-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

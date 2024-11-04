@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MSI&#39;s New AI PCs Are an Upgrade for Professionals and Power Users](https://www.cnet.com/paid-content/news/msis-new-ai-pcs-are-an-upgrade-for-professionals-and-power-users/#ftag=CAD590a51e)
  - [Best Gifts for Gamers for the Holidays 2024](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)
  - [X starts rolling out an update to let users see public posts, and following and followers lists, of users who block them; blocked users still can&#39;t engage or DM &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241104/p2#a241104p2)
  - [Interviews with Quantum Machines&#39; CTO and other executives on the startup&#39;s Nvidia partnership to use ML to get closer to an error-corrected quantum computer &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241104/p1#a241104p1)
- - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 4, #1234](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-4-1234/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

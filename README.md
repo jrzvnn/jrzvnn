@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge declines to block Musk’s $1 million voter giveaways](https://www.theverge.com/2024/11/4/24288183/musk-million-dollar-voter-giveaway-america-pac-philadelphia)
+ - [Source: Meta informed ad partners that it will extend its ban on new election ads for the week leading up to the election until several days after polls close &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241104/p28#a241104p28)
  - [A judge denies Philadelphia DA&#39;s emergency injunction request aiming to bring a halt to the $1M/day giveaway by Elon Musk&#39;s America PAC ahead of the US election &lpar;NBC News&rpar;](http://www.techmeme.com/241104/p27#a241104p27)
  - [Sources: ByteDance&#39;s international revenue grew 60%+ YoY to about $17B in H1 2024, and overall revenue grew 35% to about $73B, after growing 40% in H1 2023 &lpar;The Information&rpar;](http://www.techmeme.com/241104/p26#a241104p26)
- - [Amazon unveils X-Ray Recaps on Prime Video, an AI feature that generates &quot;spoiler-free and concise summaries&quot; of TV shows, in beta to Fire TV users in the US &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241104/p25#a241104p25)
- - [T-Mobile to use OpenAI tech for a customer service bot slated for next year that can refer to customer-specific data, and will pay OpenAI $100M over three years &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/241104/p24#a241104p24)
- - [Palantir reports Q3 revenue up 30% YoY to $725.5M, vs. $701.1M est., and raises 2024 revenue forecast again on robust AI adoption; PLTR jumps 11%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241104/p23#a241104p23)<!-- TECH:END -->
+ - [Amazon unveils X-Ray Recaps on Prime Video, an AI feature that generates &quot;spoiler-free and concise summaries&quot; of TV shows, in beta to Fire TV users in the US &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241104/p25#a241104p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

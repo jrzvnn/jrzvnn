@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple News will use Live Activities to track election results live on iPhone](https://appleinsider.com/articles/24/11/04/apple-news-will-use-live-activities-to-track-election-results-live-on-iphone?utm_medium=rss)
+ - [Sources: OpenAI is in early talks with the California AG&#39;s office to become a for-profit company; letter: it also has discussed the shift with the Delaware AG &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p30#a241104p30)
  - [Sources: Apple is exploring a push into smart glasses with Atlas, an internal study of products currently on the market, led by its Product Systems Quality team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241104/p29#a241104p29)
  - [Developers can begin work on an app intent system that will make Siri smarter in 2025](https://appleinsider.com/articles/24/11/04/developers-can-begin-work-on-an-app-intent-system-that-will-make-siri-smarter-in-2025?utm_medium=rss)
- - [Best Internet Providers in Beaumont, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-beaumont-tx/#ftag=CAD590a51e)
- - [What This Week&#39;s Fed Rate Cut Could Mean for Your Money](https://www.cnet.com/personal-finance/banking/what-this-weeks-fed-rate-cut-could-mean-for-your-money/#ftag=CAD590a51e)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

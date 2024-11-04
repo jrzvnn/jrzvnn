@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta confirms it has made Llama models available for US national security applications, with partners like Anduril, Booz Allen, Lockheed Martin using Llama AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241104/p16#a241104p16)
  - [Can Philadelphia’s ballot counters outrun election lies?](https://www.theverge.com/2024/11/4/24285822/philadelphia-mail-in-ballot-counting-machines-misinformation)
  - [How to use a VPN to get the best travel deals](https://appleinsider.com/inside/ios/tips/how-to-use-a-vpn-to-get-the-best-travel-deals?utm_medium=rss)
  - [Netflix is removing nearly all of its interactive titles](https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games)
- - [Apple&#39;s 2024 M4 14-inch MacBook Pro is on sale for just $1,499](https://appleinsider.com/articles/24/11/04/apples-2024-m4-14-inch-macbook-pro-is-on-sale-for-just-1499?utm_medium=rss)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Apple&#39;s 2024 M4 14-inch MacBook Pro is on sale for just $1,499](https://appleinsider.com/articles/24/11/04/apples-2024-m4-14-inch-macbook-pro-is-on-sale-for-just-1499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

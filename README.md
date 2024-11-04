@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is allowing people you’ve blocked to see your posts](https://www.theverge.com/2024/11/4/24287585/x-twitter-block-change-view-public-posts)
  - [How hackers used infostealer malware to breach AT&amp;T, Ticketmaster, Santander, EA, and more, as global law enforcement tries to shut down the growing industry &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/241104/p14#a241104p14)
  - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
  - [Q&amp;A with GM SVP Baris Cetinok on having a &quot;high conviction&quot; that ditching CarPlay and Android Auto is the right call, building autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241104/p13#a241104p13)
- - [The New York Times Tech Guild is on strike](https://www.theverge.com/2024/11/4/24287600/new-york-times-tech-guild-strike-before-presidential-election)
- - [An Expert Explains Why You Shouldn&#39;t Put Your Stanley Mug in the Dishwasher](https://www.cnet.com/how-to/an-expert-explains-why-you-shouldnt-put-your-stanley-mug-in-the-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The New York Times Tech Guild is on strike](https://www.theverge.com/2024/11/4/24287600/new-york-times-tech-guild-strike-before-presidential-election)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

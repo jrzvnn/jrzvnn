@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [PS5 Pro’s actual specs and the launch day list of upgraded games revealed](https://www.theverge.com/2024/11/4/24287657/sony-ps5-pro-gpu-specs-unboxing-games-list-enhanced)
+ - [PS5 Pro’s actual specs revealed](https://www.theverge.com/2024/11/4/24287657/sony-ps5-pro-gpu-specs-unboxing-games-list-enhanced)
  - [Best Savings Rates Today, Nov. 4, 2024: Earn More With Up to 5.25% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-4-2024/#ftag=CAD590a51e)
  - [Best Deals on Earbuds and Headphones: Jam Out With Outstanding Discounts from Apple, Sony, Beats and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
  - [Call of Duty Black Ops 6 Double XP Weekend Extended Beyond Today](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-extended-beyond-today/#ftag=CAD590a51e)<!-- TECH:END -->

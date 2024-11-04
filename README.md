@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p3#a241104p3)
  - [Tracking Elon Musk&#39;s Activities Over the Last Month Ahead of the Election](https://www.wired.com/story/elon-musk-trump-timeline/)
+ - [How to Take a Hearing Test With an iPhone and AirPods Pro 2](https://www.cnet.com/tech/services-and-software/how-to-take-a-hearing-test-with-an-iphone-and-airpods-pro-2/#ftag=CAD590a51e)
  - [Election Deniers Are Out in Full Force. We Went Where They Did](https://www.wired.com/story/election-deniers-weekend-activity-fraud-claims/)
- - [MSI&#39;s New AI PCs Are an Upgrade for Professionals and Power Users](https://www.cnet.com/paid-content/news/msis-new-ai-pcs-are-an-upgrade-for-professionals-and-power-users/#ftag=CAD590a51e)
- - [Best Gifts for Gamers for the Holidays 2024](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Savings Rates Today, Nov. 4, 2024: Earn More With Up to 5.25% APY](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-nov-4-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

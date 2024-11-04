@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s PAC admits $1 million voter giveaways aren’t ‘random’](https://www.theverge.com/2024/11/4/24287952/elon-musk-philadelphia-america-pac-hearing-random)
  - [Apple Intelligence feature testing continues in a fresh beta round](https://appleinsider.com/articles/24/11/04/apple-intelligence-feature-testing-continues-in-a-fresh-beta-round?utm_medium=rss)
  - [Amazon’s Echo Spot alarm clock is on sale with a free color smart bulb](https://www.theverge.com/2024/11/4/24287736/amazon-echo-spot-fitbit-charge-6-tracker-deal-sale)
- - [Elon Musk&#39;s lawyers claim in a Pennsylvania court that the $1M/day giveaway to registered voters, which Musk said multiple times is &quot;random&quot;, is not a lottery &lpar;The Philadelphia Inquirer&rpar;](http://www.techmeme.com/241104/p19#a241104p19)
- - [The US NLRB alleges Grindr illegally imposed a return-to-office policy last year forcing out ~80 of its 178 staffers in an attempt to thwart a unionization push &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/241104/p18#a241104p18)
- - [Netflix plans to delist nearly all of its interactive shows and films as of December 1 saying the tech &quot;served its purpose&quot;, after launching the format in 2017 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241104/p17#a241104p17)<!-- TECH:END -->
+ - [Best Tablet Deals: From Kids&#39; Fire Tabs to Galaxy Tabs, Save Big for the Whole Family](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
+ - [Elon Musk&#39;s lawyers claim in a Pennsylvania court that the $1M/day giveaway to registered voters, which Musk said multiple times is &quot;random&quot;, is not a lottery &lpar;The Philadelphia Inquirer&rpar;](http://www.techmeme.com/241104/p19#a241104p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

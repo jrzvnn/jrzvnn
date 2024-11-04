@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The El Presidente is not welcome in Spain,](http://9gag.com/gag/apR5448)
- - 😝 [Nope](http://9gag.com/gag/ajP5e1Q)
- - 💣 [Too late](http://9gag.com/gag/aND0NKr)
- - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 👉 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)<!-- MEMES:END -->
+ - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 💣 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Are Hall Effect Sensors and How Do They Work? &lpar;2024&rpar;](https://www.wired.com/story/what-is-hall-effect/)
- - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)
- - [How to install App Store apps on an external SSD](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-app-store-apps-on-an-external-ssd?utm_medium=rss)
- - [Raspberry Pi Touch Display 2 review: the new $60 screen is easy to build, works with the latest OS, and holds the Pi on its back, but scrolling can be awkward &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241104/p10#a241104p10)
- - [My Apple Watch-fueled fitness journey -- how hardware and software are helping me fix my health](https://appleinsider.com/articles/24/11/04/my-apple-watch-fueled-fitness-journey----how-hardware-and-software-are-helping-me-fix-my-health?utm_medium=rss)<!-- TECH:END -->
+ - [Meta plans to use its AI-based &quot;adult classifier&quot; tool to identify young Instagram users who are lying about their age and automatically switch privacy settings &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p12#a241104p12)
+ - [Elon Musk Has Spent the Final Days Before the Election Posting About Peanut the Squirrel](https://www.wired.com/story/elon-musk-peanut-the-squirrel/)
+ - [The Best Samsung Galaxy Z Fold 6 Deals Let You Trade-In Old Phones For Huge Discounts](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
+ - [Sources: as US rules bite, US chip toolmakers tell suppliers that they need alternatives to Chinese products and that suppliers can&#39;t have Chinese investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241104/p11#a241104p11)
+ - [Election 2024: How Do I Track Official Election Results in Key States on Nov. 5?](https://www.cnet.com/tech/services-and-software/election-2024-how-do-i-track-official-election-results-in-key-states-on-nov-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

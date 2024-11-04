@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The second developer beta of iOS 18.2 shows a &quot;daily limit&quot; for free access to &quot;advanced&quot; ChatGPT via Siri and an option to upgrade to ChatGPT Plus in Settings &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241104/p21#a241104p21)
+ - [Snoop Dogg’s Times Square concert showed the ambitious future of music in Fortnite](https://www.theverge.com/2024/11/4/24288014/fortnite-chapter-2-remix-snoop-dogg-times-square-music)
  - [Apple will let you share lost AirTag info with an airline](https://www.theverge.com/2024/11/4/24288045/apple-ios-find-my-airtag-airline-luggage-temporary)
  - [Here’s FCC Commissioner Brendan Carr sucking up to Donald Trump by threatening to take NBC off the air](https://www.theverge.com/2024/11/4/24287708/nbc-snl-kamala-harris-equal-time-rule-fcc-brendan-carr-speech-police)
- - [You can now try out Microsoft’s new AI-powered Xbox chatbot](https://www.theverge.com/2024/11/4/24288066/microsoft-xbox-chatbot-ai-support)
- - [Ahead of Black Friday, Woot Is Already Offering a Pixel 8 Pro for $400 Off](https://www.cnet.com/deals/before-black-friday-woot-is-already-offering-a-pixel-8-pro-for-400-off/#ftag=CAD590a51e)
- - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)<!-- TECH:END -->
+ - [You can now try out Microsoft’s new AI-powered Xbox chatbot](https://www.theverge.com/2024/11/4/24288066/microsoft-xbox-chatbot-ai-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

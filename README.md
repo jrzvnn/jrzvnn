@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - 😝 [This is Monica Keasler. The lady from Texas who made the complaints about Peanut the Squirrel and Fred the Racoon](http://9gag.com/gag/aLn077P)
- - 💣 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 😝 [ZERO](http://9gag.com/gag/a875x6e)
  - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 👉 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)<!-- MEMES:END -->
+ - 💣 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
+ - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
 
 ---
 

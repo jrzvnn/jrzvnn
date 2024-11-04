@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [R-E-S-P-E-C-T](http://9gag.com/gag/aBygpVP)
- - 😝 [We have food at home, and no money in the bank. Guess where we are eating?](http://9gag.com/gag/aRB0nx2)
- - 💣 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 😝 [Some have more privileges](http://9gag.com/gag/a5QRO0L)
- - 👉 [Yes](http://9gag.com/gag/aND0N3r)<!-- MEMES:END -->
+ - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 💣 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 👉 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)<!-- MEMES:END -->
 
 ---
 

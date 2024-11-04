@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p3#a241104p3)
+ - [Tracking Elon Musk&#39;s Activities Over the Last Month Ahead of the Election](https://www.wired.com/story/elon-musk-trump-timeline/)
  - [Election Deniers Are Out in Full Force. We Went Where They Did](https://www.wired.com/story/election-deniers-weekend-activity-fraud-claims/)
  - [MSI&#39;s New AI PCs Are an Upgrade for Professionals and Power Users](https://www.cnet.com/paid-content/news/msis-new-ai-pcs-are-an-upgrade-for-professionals-and-power-users/#ftag=CAD590a51e)
- - [Best Gifts for Gamers for the Holidays 2024](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)
- - [X starts rolling out an update to let users see public posts, and following and followers lists, of users who block them; blocked users still can&#39;t engage or DM &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241104/p2#a241104p2)
- - [Interviews with Quantum Machines&#39; CTO and other executives on the startup&#39;s Nvidia partnership to use ML to get closer to an error-corrected quantum computer &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241104/p1#a241104p1)<!-- TECH:END -->
+ - [Best Gifts for Gamers for the Holidays 2024](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 💣 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
- - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
+ - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 💣 [Would you find out?](http://9gag.com/gag/aRB0bp2)
+ - 😝 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
+ - 👉 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)<!-- MEMES:END -->
 
 ---
 

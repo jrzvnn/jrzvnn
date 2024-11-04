@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 💣 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
- - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
- - 👉 [I am scared, my dudes. Any advice?](http://9gag.com/gag/aVv05Zd)<!-- MEMES:END -->
+ - 😝 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
+ - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 💣 [Idiots](http://9gag.com/gag/ayNobdb)
+ - 😝 [Yes](http://9gag.com/gag/aND0N3r)
+ - 👉 [The dream get true](http://9gag.com/gag/a5QROLG)<!-- MEMES:END -->
 
 ---
 

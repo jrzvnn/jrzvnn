@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Unique Gifts for People Who Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Best Internet Providers for Gaming in November 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
- - [Get Up to an Instant $600 Off a Tenways E-Bike With This Black Friday Deal](https://www.cnet.com/roadshow/news/get-up-to-an-instant-600-off-a-tenways-e-bike-with-this-black-friday-deal/#ftag=CAD590a51e)
- - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity launched a dedicated hub for the US general election, including ballot measures and voting results, while rivals like OpenAI have been more cautious &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241103/p9#a241103p9)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Perplexity debuts an AI-powered election information hub](https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris)
+ - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
+ - [40 Best Advent Calendars for Kids in 2024](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

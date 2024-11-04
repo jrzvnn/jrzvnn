@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [PS5 Pro’s actual specs and the launch day list of upgraded games revealed](https://www.theverge.com/2024/11/4/24287657/sony-ps5-pro-gpu-specs-unboxing-games-list-enhanced)
- - [The Times Tech Guild, representing 600+ NYT devs, data analysts, and more, goes on strike ahead of the US election; management offered a 2.5% annual wage rise &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/241104/p15#a241104p15)
- - [X is allowing people you’ve blocked to see your posts](https://www.theverge.com/2024/11/4/24287585/x-twitter-block-change-view-public-posts)
- - [How hackers used infostealer malware to breach AT&amp;T, Ticketmaster, Santander, EA, and more, as global law enforcement tries to shut down the growing industry &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/241104/p14#a241104p14)<!-- TECH:END -->
+ - [Best Savings Rates Today, Nov. 4, 2024: Earn More With Up to 5.25% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-4-2024/#ftag=CAD590a51e)
+ - [Best Deals on Earbuds and Headphones: Jam Out With Outstanding Discounts from Apple, Sony, Beats and More](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [Call of Duty Black Ops 6 Double XP Weekend Extended Beyond Today](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-extended-beyond-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MAGA Influencers Are Making One Last Push for Donald Trump](https://www.wired.com/story/trump-campaign-influencers-election-day/)
  - [Anthropic releases Claude 3.5 Haiku, but it is priced at $1 per million input tokens, up 4x from Claude 3.0 Haiku&#39;s price, and lacks image analysis features &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241104/p20#a241104p20)
  - [Prime Video will let you summon AI to recap what you’re watching](https://www.theverge.com/2024/11/4/24287955/amazon-prime-video-ai-x-ray-recaps)
  - [Elon Musk’s PAC admits $1 million voter giveaways aren’t ‘random’](https://www.theverge.com/2024/11/4/24287952/elon-musk-philadelphia-america-pac-hearing-random)
- - [Apple Intelligence feature testing continues in a fresh beta round](https://appleinsider.com/articles/24/11/04/apple-intelligence-feature-testing-continues-in-a-fresh-beta-round?utm_medium=rss)
- - [Amazon’s Echo Spot alarm clock is on sale with a free color smart bulb](https://www.theverge.com/2024/11/4/24287736/amazon-echo-spot-fitbit-charge-6-tracker-deal-sale)<!-- TECH:END -->
+ - [Apple Intelligence feature testing continues in a fresh beta round](https://appleinsider.com/articles/24/11/04/apple-intelligence-feature-testing-continues-in-a-fresh-beta-round?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

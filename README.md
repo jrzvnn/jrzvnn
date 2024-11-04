@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical Female behaviour](http://9gag.com/gag/amo54jo)
- - 😝 [Cherish every Moment](http://9gag.com/gag/aGygmvG)
- - 💣 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
- - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
- - 👉 [Three meme icons have met up in person today](http://9gag.com/gag/aGyg4g7)<!-- MEMES:END -->
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - 💣 [Christopher Nolan uses red paper for scripts to prevent them from being illegally copied and leaked](http://9gag.com/gag/aRB0dy5)
+ - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
+ - 👉 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)<!-- MEMES:END -->
 
 ---
 

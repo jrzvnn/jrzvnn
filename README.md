@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers can begin work on an app intent system that will make Siri smarter in 2025](https://appleinsider.com/articles/24/11/04/developers-can-begin-work-on-an-app-intent-system-that-will-make-siri-smarter-in-2025?utm_medium=rss)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [Judge declines to block Musk’s $1 million voter giveaways](https://www.theverge.com/2024/11/4/24288183/musk-million-dollar-voter-giveaway-america-pac-philadelphia)
  - [Source: Meta informed ad partners that it will extend its ban on new election ads for the week leading up to the election until several days after polls close &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241104/p28#a241104p28)
- - [A judge denies Philadelphia DA&#39;s emergency injunction request aiming to bring a halt to the $1M/day giveaway by Elon Musk&#39;s America PAC ahead of the US election &lpar;NBC News&rpar;](http://www.techmeme.com/241104/p27#a241104p27)
- - [Sources: ByteDance&#39;s international revenue grew 60%+ YoY to about $17B in H1 2024, and overall revenue grew 35% to about $73B, after growing 40% in H1 2023 &lpar;The Information&rpar;](http://www.techmeme.com/241104/p26#a241104p26)<!-- TECH:END -->
+ - [A judge denies Philadelphia DA&#39;s emergency injunction request aiming to bring a halt to the $1M/day giveaway by Elon Musk&#39;s America PAC ahead of the US election &lpar;NBC News&rpar;](http://www.techmeme.com/241104/p27#a241104p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

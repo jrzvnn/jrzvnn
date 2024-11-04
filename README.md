@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
- - 😝 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 😝 [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
  - 💣 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
+ - 😝 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)
+ - 👉 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)<!-- MEMES:END -->
 
 ---
 

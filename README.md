@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 😝 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
- - 💣 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 👉 [RIP Peanut the Squirrel. F*ck you New York jackboot thugs extinguished a beautiful and innocent soul](http://9gag.com/gag/aAyg9Xd)<!-- MEMES:END -->
+ - 😝 [Christopher Nolan uses red paper for scripts to prevent them from being illegally copied and leaked](http://9gag.com/gag/aRB0dy5)
+ - 😝 [Woman&#39;s $2,000 brooch turns out to be a $15,000 Faberg\u00e9](http://9gag.com/gag/aW4EXD2)
+ - 💣 [ZERO](http://9gag.com/gag/a875x6e)
+ - 😝 [Would you find out?](http://9gag.com/gag/aRB0bp2)
+ - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ZERO](http://9gag.com/gag/a875x6e)
- - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 💣 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
+ - 😝 [I&#39;m not a girl, but...](http://9gag.com/gag/aryoj6B)
+ - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - 😝 [Title](http://9gag.com/gag/agm5P4W)
+ - 👉 [Prototype of autonomous US police officer](http://9gag.com/gag/aqygqOp)<!-- MEMES:END -->
 
 ---
 

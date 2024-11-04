@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)
- - [Astell &amp; Kern SP3000T review: a tube amp in your pocket](https://www.theverge.com/24285711/astell-kern-sp3000t-review-hybrid-tube-amp-dap)
- - [Can Apple innovate if iPhone remains the biggest slice of its revenues?](https://appleinsider.com/articles/24/11/04/can-apple-innovate-if-iphone-remains-the-biggest-slice-of-its-revenues?utm_medium=rss)
- - [Physical Intelligence, which plans to use AI to create brains for robots, raised $400M led by Jeff Bezos, Thrive Capital, and Lux Capital at a $2B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/241104/p9#a241104p9)
- - [Thousands of People Are Cloning Their Dead Pets. This Is the Woman They Call First](https://www.wired.com/story/your-next-job-pet-cloner/)<!-- TECH:END -->
+ - [Find Your Thermostat&#39;s Sweet Spot: How to Save Money on Your Winter Heating Costs](https://www.cnet.com/home/energy-and-utilities/find-your-thermostats-sweet-spot-how-to-save-money-on-your-winter-heating-costs/#ftag=CAD590a51e)
+ - [Apple Offers Up to $1 Million to Anyone Who Can Hack Its AI Servers](https://www.cnet.com/tech/computing/apple-offers-1-million-bounty-to-anyone-who-can-hack-its-ai-servers/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 7 vs. Google Pixel Watch 3: Smartwatch Showdown video](https://www.cnet.com/videos/samsung-galaxy-watch-7-vs-google-pixel-watch-3-smartwatch-showdown/#ftag=CAD590a51e)
+ - [Get Your Free At-Home COVID-19 Tests in Time for the Holidays](https://www.cnet.com/health/get-your-free-at-home-covid-19-tests-in-time-for-the-holidays/#ftag=CAD590a51e)
+ - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

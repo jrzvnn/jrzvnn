@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 💣 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
+ - 😝 [Justice!](http://9gag.com/gag/aND076A)
  - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
- - 👉 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)<!-- MEMES:END -->
+ - 💣 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 👉 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thunderbolt 5 vs Thunderbolt 4 -- everything you need to know](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
- - [Apple TV gains watch list, Apple hides Thread radios, and more new products on HomeKit Insider](https://appleinsider.com/articles/24/11/04/apple-tv-gains-watch-list-apple-hides-thread-radios-and-more-new-products-on-homekit-insider?utm_medium=rss)
- - [I Love the Adorably Teeny TinyTV 2](https://www.wired.com/story/tinycircuits-tinytv-2-rave/)
- - [Meta plans to use its AI-based &quot;adult classifier&quot; tool to identify young Instagram users who are lying about their age and automatically switch privacy settings &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p12#a241104p12)
- - [Elon Musk Has Spent the Final Days Before the Election Posting About Peanut the Squirrel](https://www.wired.com/story/elon-musk-peanut-the-squirrel/)<!-- TECH:END -->
+ - [13 Best White Elephant Gifts &lpar;2024&rpar;: Legos, Desk Accessories](https://www.wired.com/gallery/best-white-elephant-gifts/)
+ - [GM software boss: we have ‘high conviction’ ditching CarPlay is the right path](https://www.theverge.com/24285581/gm-software-baris-cetinok-apple-carplay-android-auto-google-cars-evs-decoder-podcast)
+ - [Valorant is winning the war against PC gaming cheaters](https://www.theverge.com/2024/11/4/24283482/valorant-is-winning-the-war-against-pc-gaming-cheaters)
+ - [Oops, Apple approved another illegal streaming app](https://www.theverge.com/2024/11/4/24287574/apple-approved-illegal-streaming-app-univer-note)
+ - [European regulators evaluate iPadOS changes for compliance with Digital Markets Act](https://appleinsider.com/articles/24/11/04/european-regulators-evaluate-ipados-changes-for-compliance-with-digital-markets-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

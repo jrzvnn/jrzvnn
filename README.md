@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Nov. 4, #1234](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-4-1234/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 4, #512](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-4-512/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 4, #42](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-4-42/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 4, #246](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-4-246/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 4, #246](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-4-246/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

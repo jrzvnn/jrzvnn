@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 💣 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
- - 😝 [A cery accurate credit](http://9gag.com/gag/a4PRMov)
- - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
+ - 😝 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
+ - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
+ - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
+ - 😝 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
+ - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
- - 💣 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
- - 😝 [Control !](http://9gag.com/gag/ayNoyby)
- - 👉 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)<!-- MEMES:END -->
+ - 😝 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - 😝 [Today](http://9gag.com/gag/aryoPwy)
+ - 💣 [This time it will be different!](http://9gag.com/gag/aQz1Y82)
+ - 😝 [Guessing Game](http://9gag.com/gag/adB53yB)
+ - 👉 [Carving, what a beautiful hobby](http://9gag.com/gag/a4PRvPd)<!-- MEMES:END -->
 
 ---
 

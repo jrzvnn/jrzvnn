@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Election Day 2024: Selfies and Voting, What Could Go Wrong? A Lot This Year](https://www.cnet.com/news/politics/selfies-and-voting-what-could-go-wrong-a-lot-this-election-year/#ftag=CAD590a51e)
  - [Nintendo reports Q2 revenue down 17% YoY to $1.8B, net profit down 69% YoY to ~$182.5M, and lowers its fiscal Switch sales forecast to 12.5M vs. 13.5M previous &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241105/p2#a241105p2)
  - [Perplexity CEO Aravind Srinivas says his offer to help NYT was &quot;to provide technical infra support&quot; and &quot;not to replace journalists or engineers&quot; after pushback &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241105/p1#a241105p1)
  - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)
- - [Google, Temasek, and Bain: online spending in Southeast Asia will reach $263B in 2024, up 15% YoY, the lowest growth rate since at least 2017, amid inflation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/241104/p35#a241104p35)
- - [How to edit PDFs on a Mac using Preview &amp; third-party apps](https://appleinsider.com/inside/mac/tips/how-to-edit-pdfs-on-a-mac-using-preview-third-party-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Google, Temasek, and Bain: online spending in Southeast Asia will reach $263B in 2024, up 15% YoY, the lowest growth rate since at least 2017, amid inflation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/241104/p35#a241104p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

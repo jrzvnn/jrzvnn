@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)
- - [The Follow-Up to One of 2024’s Best Games May Never Happen](https://www.wired.com/story/the-follow-up-to-one-of-2024s-best-games-may-never-happen/)
- - [Sketchy rumor says iPad Air, iMac, and Studio Display could be updated to 90Hz](https://appleinsider.com/articles/24/11/05/sketchy-rumor-says-ipad-air-imac-and-studio-display-could-be-updated-to-90hz?utm_medium=rss)
- - [Polymarket confirms paying US-based influencers, including large Instagram meme accounts, to promote election betting despite being banned in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/241105/p7#a241105p7)
- - [TikTok Employees Shrug Off the US Election](https://www.wired.com/story/tiktok-ban-us-election-donald-trump-kamala-harris/)<!-- TECH:END -->
+ - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
+ - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
+ - [This 1-Minute Microwave Poached Egg Is My New Go-To Breakfast](https://www.cnet.com/home/kitchen-and-household/this-1-minute-microwave-poached-egg-is-my-go-to-breakfast/#ftag=CAD590a51e)
+ - [I&#39;m Not Impressed With AI on Phones Yet. What It Will Take to Change My Mind](https://www.cnet.com/tech/mobile/im-not-impresssed-with-ai-on-phones-yet-what-it-takes-to-change-my-mind/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

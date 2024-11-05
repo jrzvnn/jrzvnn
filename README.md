@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 24-inch iMac vs M3 24-inch iMac compared -- Apple&#39;s iconic Mac gets a speed boost](https://appleinsider.com/articles/24/11/05/m4-24-inch-imac-vs-m3-24-inch-imac-compared----apples-iconic-mac-gets-a-speed-boost?utm_medium=rss)
+ - [The FBI says Russian emails are sending fake bomb threats to polling stations](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)
  - [The 40 Best Shows on Hulu Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [The hyperloop lives on as a 1/12th scale model in Switzerland](https://www.theverge.com/2024/11/5/24288954/hyperloop-swisspod-test-worlds-longest-scale-model)
- - [Toyota mounted five big-screen TVs to this Tundra truck](https://www.theverge.com/2024/11/5/24288874/toyota-ultimate-tailgate-tundra-sema-2024-concept-tvs)
- - [Elon Musk’s Twitter Takeover Set Off a Race to the Bottom](https://www.wired.com/story/elon-musk-trust-safety-industry/)
- - [Elon Musk’s ‘top 20’ Diablo IV claim is as real as his self-driving cars](https://www.theverge.com/2024/11/5/24288836/elon-musk-top-20-diablo-4-players-the-pit)<!-- TECH:END -->
+ - [Toyota mounted five big-screen TVs to this Tundra truck](https://www.theverge.com/2024/11/5/24288874/toyota-ultimate-tailgate-tundra-sema-2024-concept-tvs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

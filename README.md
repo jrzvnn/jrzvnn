@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Polymarket confirms paying US-based influencers, including large Instagram meme accounts, to promote election betting despite being banned in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/241105/p7#a241105p7)
+ - [TikTok Employees Shrug as the US Election Looms](https://www.wired.com/story/tiktok-ban-us-election-donald-trump-kamala-harris/)
  - [Apple offers Indonesia token investment to lift iPhone ban](https://appleinsider.com/articles/24/11/05/apple-offers-indonesia-token-investment-to-lift-iphone-ban?utm_medium=rss)
  - [TSMC CFO Wendell Huang says the chipmaker now expects to pay more for power in Taiwan than anywhere else; TSMC&#39;s electricity prices rose 25% in April 2024 &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241105/p6#a241105p6)
- - [Election Season in America: Scenes From Around the Country](https://www.wired.com/story/2024-us-election-photos/)
- - [CCDH: before the election, Elon Musk made 87 X posts that were debunked by fact-checkers, hitting 2B+ views; his political posts had 17.1B views since July 2024 &lpar;Marshall Cohen/CNN&rpar;](http://www.techmeme.com/241105/p5#a241105p5)<!-- TECH:END -->
+ - [Election Season in America: Scenes From Around the Country](https://www.wired.com/story/2024-us-election-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 40 Best Shows on Hulu Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [The hyperloop lives on as a 1/12th scale model in Switzerland](https://www.theverge.com/2024/11/5/24288954/hyperloop-swisspod-test-worlds-longest-scale-model)
  - [Toyota mounted five big-screen TVs to this Tundra truck](https://www.theverge.com/2024/11/5/24288874/toyota-ultimate-tailgate-tundra-sema-2024-concept-tvs)
  - [Elon Musk’s Twitter Takeover Set Off a Race to the Bottom](https://www.wired.com/story/elon-musk-trust-safety-industry/)
- - [Elon Musk’s ‘top 20’ Diablo IV claim is as real as his self-driving cars](https://www.theverge.com/2024/11/5/24288836/elon-musk-top-20-diablo-4-players-the-pit)
- - [Can I Still Request a Mail-in Ballot Today, on Election Day?](https://www.cnet.com/tech/services-and-software/can-i-still-request-a-mail-in-ballot-today-on-election-day/#ftag=CAD590a51e)
- - [An Election Denial Group Has Spent Months Compiling ‘Suspicious Voter’ Lists in North Carolina](https://www.wired.com/story/eagleai-network-suspicious-voter-lists-north-carolina/)<!-- TECH:END -->
+ - [Elon Musk’s ‘top 20’ Diablo IV claim is as real as his self-driving cars](https://www.theverge.com/2024/11/5/24288836/elon-musk-top-20-diablo-4-players-the-pit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

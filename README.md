@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They tested her](http://9gag.com/gag/amovqov)
- - 😝 [BioWaste: The Plural](http://9gag.com/gag/a0eNvoq)
- - 💣 [Maputo &lpar;MOZAMBIQUE&rpar;. The all country is in strike for the past 2 weeks, against the corrupt government. They cut down social media, please make it viral. 04NOV24](http://9gag.com/gag/a34wv15)
- - 😝 [Beethoven](http://9gag.com/gag/aAyeBKE)
- - 👉 [Fine for Parking!](http://9gag.com/gag/aRB76vB)<!-- MEMES:END -->
+ - 😝 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
+ - 😝 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
+ - 💣 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
+ - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
 
 ---
 

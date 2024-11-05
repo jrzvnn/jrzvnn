@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Salt Typhoon hackers breached US telecommunication infrastructure to carry out targeted espionage against the US for at least eight months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241105/p24#a241105p24)
  - [Apple Pay officially launches in Paraguay](https://appleinsider.com/articles/24/11/05/apple-pay-officially-launches-in-paraguay?utm_medium=rss)
  - [Steam’s built-in game recording is now available to all](https://www.theverge.com/2024/11/5/24289138/steam-game-recording-now-available-all-users)
  - [Google CEO says the company should be a ‘trusted source’ in the election](https://www.theverge.com/2024/11/5/24289170/google-ceo-election-memo-employees-trump-harris)
- - [Amazon’s CEO defends return-to-office policy](https://www.theverge.com/2024/11/5/24289159/amazon-ceo-andy-jassy-defends-return-to-office-policy)
- - [Filing: Trump Media lost $19.2M in Q3, while revenue fell 5.6% YoY to just $1.01M; DJT jumped 18.6% before closing down 1.16% on November 5 &lpar;Fred Imbert/CNBC&rpar;](http://www.techmeme.com/241105/p23#a241105p23)<!-- TECH:END -->
+ - [Amazon’s CEO defends return-to-office policy](https://www.theverge.com/2024/11/5/24289159/amazon-ceo-andy-jassy-defends-return-to-office-policy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

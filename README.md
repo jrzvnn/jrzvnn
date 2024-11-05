@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
  - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 💣 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 😝 [Justice!](http://9gag.com/gag/aND076A)
- - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
+ - 💣 [Karma](http://9gag.com/gag/amo5D96)
+ - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
 
 ---
 

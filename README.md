@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
- - 😝 [Title](http://9gag.com/gag/agm5P4W)
- - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
- - 😝 [The sheer number of perfect jokes in this scene will brighten your day](http://9gag.com/gag/amo5jGj)
- - 👉 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)<!-- MEMES:END -->
+ - 😝 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 💣 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
+ - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
 
 ---
 

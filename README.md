@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s music app has great ideas and frustrating limitations](https://www.theverge.com/2024/11/5/24288201/nintendo-music-streaming-hands-on-impressions)
- - [There are already Thunderbolt 5 devices &amp; cables for Apple&#39;s new pro Macs](https://appleinsider.com/articles/24/11/05/there-are-already-thunderbolt-5-devices-cables-for-apples-new-pro-macs?utm_medium=rss)
- - [Holiday gift guide 2024: best gifts for the Apple lovers in your life](https://appleinsider.com/articles/24/11/05/holiday-gift-guide-2024-best-gifts-for-the-apple-lovers-in-your-life?utm_medium=rss)
- - [The first wooden satellite launched into space](https://www.theverge.com/2024/11/5/24288643/first-wood-satellite-launch-spacex-international-space-station)
- - [Hands on with Apple&#39;s new $70 Thunderbolt 5 Pro cable](https://appleinsider.com/articles/24/11/05/hands-on-with-apples-new-70-thunderbolt-5-pro-cable?utm_medium=rss)<!-- TECH:END -->
+ - [Why free VPNs aren&#39;t always safe to use](https://appleinsider.com/inside/iphone/tips/why-free-vpns-arent-always-safe-to-use?utm_medium=rss)
+ - [Arizona&#39;s Kari Lake Is Already Claiming Election Fraud](https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/)
+ - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Nov. 5, 2024: You Can Still Earn Up to 5.25% APY With One of These Top Accounts – for Now](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-5-2024/#ftag=CAD590a51e)
+ - [Best CD Rates Today, Nov. 5, 2024: Don&#39;t Sleep on High APYs](https://www.cnet.com/personal-finance/cd-rates-today-nov-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

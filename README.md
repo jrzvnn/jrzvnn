@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cat Furniture, Scratching Posts, and Litter Boxes &lpar;2024&rpar;](https://www.wired.com/story/fancy-cat-furniture/)
+ - [SemiAnalysis: in a first, AMD overtook Intel in data center revenue in Q3 2024; AMD hit $3.55B, above Intel&#39;s $3.3B revenue, which is down from $6B+ in Q1 2022 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241105/p9#a241105p9)
  - [Alexa at 10: Amazon’s assistant is a winner and a failure](https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast)
  - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
- - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
- - [This 1-Minute Microwave Poached Egg Is My New Go-To Breakfast](https://www.cnet.com/home/kitchen-and-household/this-1-minute-microwave-poached-egg-is-my-go-to-breakfast/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Degeneration](http://9gag.com/gag/aRB0xW2)
- - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
- - 💣 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
- - 😝 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
- - 👉 [Coach u good?](http://9gag.com/gag/aQz102z)<!-- MEMES:END -->
+ - 😝 [Guessing Game](http://9gag.com/gag/adB53yB)
+ - 😝 [Alien technology used to build the pyramids](http://9gag.com/gag/aVv0NVv)
+ - 💣 [Karma](http://9gag.com/gag/amo5D96)
+ - 😝 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
+ - 👉 [Beethoven](http://9gag.com/gag/aAyeBKE)<!-- MEMES:END -->
 
 ---
 

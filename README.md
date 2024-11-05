@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flaw in Right-Wing ‘Election Integrity’ App Exposes Voter-Suppression Plan and User Data](https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/)
+ - [Hori’s officially licensed Steam controller is coming to the US](https://www.theverge.com/2024/11/5/24288729/hori-official-steam-controller-us-release-date-pricing)
+ - [GlobalFoundries reports Q3 revenue down 6% YoY to $1.7B and expects Q4 revenue of $1.8B-$1.85B, vs. $1.8B est., driven by smartphone chip demand; GFS jumps 11%+ &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/241105/p11#a241105p11)
  - [Amazon starts drone deliveries in Arizona](https://www.theverge.com/2024/11/5/24288735/amazon-arizona-tolleson-phoenix-drone-prime-air-launch)
- - [Apple News will let you watch election results from your lockscreen](https://www.theverge.com/2024/11/5/24288777/election-results-apple-news-lock-screen)
- - [China’s New Heavy Lift Rocket Looks a Whole Lot Like SpaceX’s Starship](https://www.wired.com/story/china-heavy-lift-rocket-spacex-starship/)
- - [Apple Watch &amp; Apple Vision Pro fabrics may get embedded medical sensors](https://appleinsider.com/articles/24/11/05/future-apple-watch-and-apple-vision-pro-could-have-fabric-with-health-sensors?utm_medium=rss)
- - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple News will let you watch election results from your lockscreen](https://www.theverge.com/2024/11/5/24288777/election-results-apple-news-lock-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

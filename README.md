@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guessing Game](http://9gag.com/gag/adB53yB)
- - 😝 [I agree with Her.](http://9gag.com/gag/abAr9Gp)
- - 💣 [POV: working from home](http://9gag.com/gag/a34R9KQ)
+ - 😝 [POV: working from home](http://9gag.com/gag/a34R9KQ)
+ - 💣 [I agree with Her.](http://9gag.com/gag/abAr9Gp)
  - 😝 [Alien technology used to build the pyramids](http://9gag.com/gag/aVv0NVv)
  - 👉 [Karma](http://9gag.com/gag/amo5D96)<!-- MEMES:END -->
 

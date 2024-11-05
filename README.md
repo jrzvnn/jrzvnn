@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Election Day 2024: all the news](https://www.theverge.com/2024/11/5/24288095/us-presidential-election-day-2024-trump-harris-news)
- - [Why free VPNs aren&#39;t always safe to use](https://appleinsider.com/inside/iphone/tips/why-free-vpns-arent-always-safe-to-use?utm_medium=rss)
- - [Arizona&#39;s Kari Lake Is Already Claiming Election Fraud](https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/)
- - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Nov. 5, 2024: You Can Still Earn Up to 5.25% APY With One of These Top Accounts – for Now](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon starts drone deliveries in Arizona](https://www.theverge.com/2024/11/5/24288735/amazon-arizona-tolleson-phoenix-drone-prime-air-launch)
+ - [Apple News will let you watch election results from your lock screen](https://www.theverge.com/2024/11/5/24288777/election-results-apple-news-lock-screen)
+ - [Apple Watch &amp; Apple Vision Pro fabrics may get embedded medical sensors](https://appleinsider.com/articles/24/11/05/future-apple-watch-and-apple-vision-pro-could-have-fabric-with-health-sensors?utm_medium=rss)
+ - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
+ - [Election Day 2024: all the news](https://www.theverge.com/2024/11/5/24288095/us-presidential-election-day-2024-trump-harris-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

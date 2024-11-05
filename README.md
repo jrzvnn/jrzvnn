@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 WORDS: Decide. Commit. Succeed.](http://9gag.com/gag/aqyg3dj)
- - 😝 [Karma](http://9gag.com/gag/amo5D96)
- - 💣 [Title](http://9gag.com/gag/agm5P4W)
- - 😝 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
- - 👉 [The sheer number of perfect jokes in this scene will brighten your day](http://9gag.com/gag/amo5jGj)<!-- MEMES:END -->
+ - 😝 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
+ - 😝 [Title](http://9gag.com/gag/agm5P4W)
+ - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - 😝 [The sheer number of perfect jokes in this scene will brighten your day](http://9gag.com/gag/amo5jGj)
+ - 👉 [Karma](http://9gag.com/gag/amo5D96)<!-- MEMES:END -->
 
 ---
 

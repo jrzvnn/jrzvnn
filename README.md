@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News will use Live Activities to track election results live on iPhone](https://appleinsider.com/articles/24/11/04/apple-news-will-use-live-activities-to-track-election-results-live-on-iphone?utm_medium=rss)
- - [Sources: OpenAI is in early talks with the California AG&#39;s office to become a for-profit company; letter: it also has discussed the shift with the Delaware AG &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p30#a241104p30)
- - [Sources: Apple is exploring a push into smart glasses with Atlas, an internal study of products currently on the market, led by its Product Systems Quality team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241104/p29#a241104p29)
- - [Developers can begin work on an app intent system that will make Siri smarter in 2025](https://appleinsider.com/articles/24/11/04/developers-can-begin-work-on-an-app-intent-system-that-will-make-siri-smarter-in-2025?utm_medium=rss)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [Sources: Canadian authorities arrested Alexander &quot;Connor&quot; Moucka, who is allegedly behind hacks in June and July of up to 165 Snowflake customers including AT&amp;T &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p34#a241104p34)
+ - [Caitlin Kalinowski, who served as Meta&#39;s head of AR glasses from March 2022 to July 2024 and oversaw Orion, joins OpenAI to lead robotics and consumer hardware &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241104/p33#a241104p33)
+ - [Apple is researching smart glasses with an internal study, report claims](https://appleinsider.com/articles/24/11/05/apple-is-researching-smart-glasses-with-an-internal-study-report-claims?utm_medium=rss)
+ - [Here’s when the Black Friday sales start at Amazon, Walmart, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)
+ - [Meta is extending its ban on new political ads past Election Day in the US, &quot;until later this week&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241104/p32#a241104p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

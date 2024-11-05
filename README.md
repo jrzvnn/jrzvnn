@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)
  - [Google, Temasek, and Bain: online spending in Southeast Asia will reach $263B in 2024, up 15% YoY, the lowest growth rate since at least 2017, amid inflation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/241104/p35#a241104p35)
  - [How to edit PDFs on a Mac using Preview &amp; third-party apps](https://appleinsider.com/inside/mac/tips/how-to-edit-pdfs-on-a-mac-using-preview-third-party-apps?utm_medium=rss)
  - [Today&#39;s Wordle Hints, Answer and Help for Nov. 5, #1235](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-5-1235/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 5, #513](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-5-513/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 5, #247](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-5-247/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 5, #513](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-5-513/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

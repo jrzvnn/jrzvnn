@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Misleading ‘pro-Harris’ texts are bombarding swing state voters](https://www.theverge.com/2024/11/5/24288263/harris-texts-israel-gaza-michigan-pennsylvania)
- - [Man Arrested for Snowflake Hacking Spree Faces US Extradition](https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Amazon says it’s fixing the Kindle Colorsoft’s yellow screen](https://www.theverge.com/2024/11/5/24288131/amazon-kindle-colorsoft-display-fix-replacements-delay-yellow-band-display-complaints-issues)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [An Election Denial Group Has Spent Months Compiling ‘Suspicious Voter’ Lists in North Carolina](https://www.wired.com/story/eagleai-network-suspicious-voter-lists-north-carolina/)
+ - [Apple News adds a Live Activity widget to track the results of the US elections in real time on iPhone, iPad, and Watch &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/241105/p14#a241105p14)
+ - [New in iOS 18.2 developer beta 2: Additional settings for ChatGPT, Camera Control, and more](https://appleinsider.com/articles/24/11/05/new-in-ios-182-developer-beta-2-additional-settings-for-chatgpt-camera-control-and-more?utm_medium=rss)
+ - [Best Buy slashes M3 MacBook Pros to as low as $1,099, save up to $600](https://appleinsider.com/articles/24/11/05/best-buy-slashes-m3-macbook-pros-to-as-low-as-1099-save-up-to-600?utm_medium=rss)
+ - [Misleading ‘pro-Harris’ texts are bombarding swing state voters](https://www.theverge.com/2024/11/5/24288263/harris-texts-israel-gaza-michigan-pennsylvania)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

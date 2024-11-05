@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
- - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
  - 💣 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 😝 [Would you find out?](http://9gag.com/gag/aRB0bp2)
  - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia Is Going All Out on Election Day Interference](https://www.wired.com/story/russia-election-disinformation-2024-election-day/)
+ - [Voting tech isn’t perfect, but so far it’s holding up](https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines)
  - [How FTC Chair Lina Khan became a US election hot topic, drawing increasing vitriol as the presidential vote neared; Trump is expected to replace Khan if he wins &lpar;New York Times&rpar;](http://www.techmeme.com/241105/p15#a241105p15)
- - [This Google election conspiracy theory doesn’t hold up](https://www.theverge.com/2024/11/5/24289025/google-election-conspiracy-theory-harris-trump-where-can-i-vote-for-elon-musk)
- - [The fever dream of TikTok Live election results](https://www.theverge.com/24288837/tiktok-live-presidential-election-results-electoral-map-votes)
- - [M4 24-inch iMac vs M3 24-inch iMac compared -- Apple&#39;s iconic Mac gets a speed boost](https://appleinsider.com/articles/24/11/05/m4-24-inch-imac-vs-m3-24-inch-imac-compared----apples-iconic-mac-gets-a-speed-boost?utm_medium=rss)
- - [The FBI says Russian emails are sending fake bomb threats to polling stations](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)<!-- TECH:END -->
+ - [This Google election conspiracy theory doesn’t add up](https://www.theverge.com/2024/11/5/24289025/google-election-conspiracy-theory-harris-trump-where-can-i-vote-for-elon-musk)
+ - [The fever dream of TikTok Live election results](https://www.theverge.com/24288837/tiktok-live-presidential-election-results-electoral-map-votes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

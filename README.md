@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
  - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 💣 [Goal ?](http://9gag.com/gag/abAr9Q8)
- - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 👉 [And is this good or bad?](http://9gag.com/gag/aAygnZp)<!-- MEMES:END -->
+ - 💣 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
+ - 😝 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 👉 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)<!-- MEMES:END -->
 
 ---
 

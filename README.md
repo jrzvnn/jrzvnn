@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dublin Justice WWE Style](http://9gag.com/gag/a2vR3WE)
- - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
- - 💣 [Making a splatter vinyl record](http://9gag.com/gag/aGyg4rw)
- - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
- - 👉 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)<!-- MEMES:END -->
+ - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - 😝 [Wrong number](http://9gag.com/gag/aZZ7OXV)
+ - 💣 [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 😝 [Goal ?](http://9gag.com/gag/abAr9Q8)
+ - 👉 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)<!-- MEMES:END -->
 
 ---
 

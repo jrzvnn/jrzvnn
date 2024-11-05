@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guessing Game](http://9gag.com/gag/adB53yB)
- - 😝 [Alien technology used to build the pyramids](http://9gag.com/gag/aVv0NVv)
- - 💣 [Karma](http://9gag.com/gag/amo5D96)
- - 😝 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - 👉 [Beethoven](http://9gag.com/gag/aAyeBKE)<!-- MEMES:END -->
+ - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - 😝 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
+ - 💣 [Goal ?](http://9gag.com/gag/abAr9Q8)
+ - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
+ - 👉 [Future felon](http://9gag.com/gag/a9yRQZK)<!-- MEMES:END -->
 
 ---
 

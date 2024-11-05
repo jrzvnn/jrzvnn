@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too late](http://9gag.com/gag/aND0NKr)
+ - 😝 [Well damn.](http://9gag.com/gag/axy7q0D)
+ - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 💣 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
  - 😝 [Would you find out?](http://9gag.com/gag/aRB0bp2)
- - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
- - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 👉 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)<!-- MEMES:END -->
+ - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
 
 ---
 

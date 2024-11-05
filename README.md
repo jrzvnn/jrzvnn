@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon starts drone deliveries in Arizona](https://www.theverge.com/2024/11/5/24288735/amazon-arizona-tolleson-phoenix-drone-prime-air-launch)
  - [Apple News will let you watch election results from your lock screen](https://www.theverge.com/2024/11/5/24288777/election-results-apple-news-lock-screen)
+ - [China’s New Heavy Lift Rocket Looks a Whole Lot Like SpaceX’s Starship](https://www.wired.com/story/china-heavy-lift-rocket-spacex-starship/)
  - [Apple Watch &amp; Apple Vision Pro fabrics may get embedded medical sensors](https://appleinsider.com/articles/24/11/05/future-apple-watch-and-apple-vision-pro-could-have-fabric-with-health-sensors?utm_medium=rss)
- - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)
- - [Election Day 2024: all the news](https://www.theverge.com/2024/11/5/24288095/us-presidential-election-day-2024-trump-harris-news)<!-- TECH:END -->
+ - [Best Garden Hoses for 2024](https://www.cnet.com/news/best-garden-hoses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

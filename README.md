@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU might fine Apple for failure to comply with DMA, for real this time](https://appleinsider.com/articles/24/11/05/eu-might-fine-apple-for-failure-to-comply-with-dma-for-real-this-time?utm_medium=rss)
- - [Sources: Perplexity is finalizing a $500M funding round led by IVP that would value it at $9B, triple its reported valuation from just a few months ago &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241105/p20#a241105p20)
- - [Super Micro says an independent probe into concerns flagged by former auditor EY found &quot;no evidence of fraud or misconduct&quot; by its management or board &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241105/p19#a241105p19)
- - [Super Micro&#39;s stock drops ~16% in extended trading after it issued preliminary Q1 results and Q2 guidance below est., as the company faces accusations of fraud &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241105/p18#a241105p18)
- - [Mozilla is eliminating its advocacy division, which fought for a free and open web](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)<!-- TECH:END -->
+ - [Google CEO says the company should be a ‘trusted source’ in the election](https://www.theverge.com/2024/11/5/24289170/google-ceo-election-memo-employees-trump-harris)
+ - [Amazon’s CEO defends return-to-office policy](https://www.theverge.com/2024/11/5/24289159/amazon-ceo-andy-jassy-defends-return-to-office-policy)
+ - [Filing: Trump Media lost $19.2M in Q3, while revenue fell 5.6% YoY to just $1.01M; DJT jumped 18.6% before closing down 1.16% on November 5 &lpar;Fred Imbert/CNBC&rpar;](http://www.techmeme.com/241105/p23#a241105p23)
+ - [Apple News Live Activities for tracking election results now live on iPhone](https://appleinsider.com/articles/24/11/04/apple-news-will-use-live-activities-to-track-election-results-live-on-iphone?utm_medium=rss)
+ - [The Mozilla Foundation lays off 30% of its employees and tells staff in an email that it is eliminating its advocacy and global programs divisions &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241105/p22#a241105p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

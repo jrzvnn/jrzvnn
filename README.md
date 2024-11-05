@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.2 could finally estimate your iPhone’s charging time](https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time)
+ - [Sources: EU regulators are preparing to impose a fine on Apple, under the DMA, after it failed to let developers steer users to offers outside of the App Store &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241105/p16#a241105p16)
  - [Russia Is Going All Out on Election Day Interference](https://www.wired.com/story/russia-election-disinformation-2024-election-day/)
  - [Voting tech isn’t perfect, but so far it’s holding up](https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines)
- - [How FTC Chair Lina Khan became a US election hot topic, drawing increasing vitriol as the presidential vote neared; Trump is expected to replace Khan if he wins &lpar;New York Times&rpar;](http://www.techmeme.com/241105/p15#a241105p15)
- - [This Google election conspiracy theory doesn’t add up](https://www.theverge.com/2024/11/5/24289025/google-election-conspiracy-theory-harris-trump-where-can-i-vote-for-elon-musk)
- - [The fever dream of TikTok Live election results](https://www.theverge.com/24288837/tiktok-live-presidential-election-results-electoral-map-votes)<!-- TECH:END -->
+ - [How FTC Chair Lina Khan became a US election hot topic, drawing increasing vitriol as the presidential vote neared; Trump is expected to replace Khan if he wins &lpar;New York Times&rpar;](http://www.techmeme.com/241105/p15#a241105p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

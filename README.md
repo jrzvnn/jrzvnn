@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super Micro&#39;s stock drops ~16% in extended trading after it issued preliminary Q1 results and Q2 guidance below est., as the company faces accusations of fraud &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241105/p18#a241105p18)
+ - [Mozilla is eliminating its advocacy division, which fought for a free and open web](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
+ - [Will Social Platforms Take Down a Premature Donald Trump Victory Post?](https://www.wired.com/story/will-social-platforms-take-down-a-premature-trump-victory-post/)
  - [Apple reportedly facing first-ever EU fine over App Store rules](https://www.theverge.com/2024/11/5/24289067/apple-eu-fine-digital-markets-act-app-store)
- - [Apple Stores in three U.S. cities will change locations on November 9](https://appleinsider.com/articles/24/11/05/apple-stores-in-three-us-cities-will-change-locations-on-november-9?utm_medium=rss)
- - [Sources: Apple has asked Foxconn to produce AI servers in Taiwan using Apple silicon, but Foxconn&#39;s capacity is limited by demand for Nvidia&#39;s GB200 servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241105/p17#a241105p17)
- - [Sony is discontinuing its $9,000 Airpeak S1 pro photography drone](https://www.theverge.com/2024/11/5/24288933/sony-airpeak-s1-camera-drone-discontinued)
- - [iOS 18.2 could finally estimate your iPhone’s charging time](https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time)<!-- TECH:END -->
+ - [Apple Stores in three U.S. cities will change locations on November 9](https://appleinsider.com/articles/24/11/05/apple-stores-in-three-us-cities-will-change-locations-on-november-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

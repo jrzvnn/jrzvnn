@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
- - 😝 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
- - 💣 [Future felon](http://9gag.com/gag/a9yRQZK)
  - 😝 [Dublin Justice WWE Style](http://9gag.com/gag/a2vR3WE)
- - 👉 [Goal ?](http://9gag.com/gag/abAr9Q8)<!-- MEMES:END -->
+ - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
+ - 💣 [Making a splatter vinyl record](http://9gag.com/gag/aGyg4rw)
+ - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 👉 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)<!-- MEMES:END -->
 
 ---
 

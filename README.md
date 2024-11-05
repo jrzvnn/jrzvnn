@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eastern European girls need donations](http://9gag.com/gag/an75mLz)
- - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 💣 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
- - 😝 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
- - 👉 [Would you find out?](http://9gag.com/gag/aRB0bp2)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/agm5P4W)
+ - 😝 [Hail your new god](http://9gag.com/gag/aYQ78Pv)
+ - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - 😝 [The sheer number of perfect jokes in this scene will brighten your day](http://9gag.com/gag/amo5jGj)
+ - 👉 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)<!-- MEMES:END -->
 
 ---
 

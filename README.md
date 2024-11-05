@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
+ - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 💣 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
  - 😝 [A cery accurate credit](http://9gag.com/gag/a4PRMov)
- - 💣 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
- - 👉 [Coach u good?](http://9gag.com/gag/aQz102z)<!-- MEMES:END -->
+ - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
 
 ---
 

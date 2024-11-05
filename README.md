@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
  - 😝 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
- - 😝 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
+ - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 💣 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
+ - 😝 [Control !](http://9gag.com/gag/ayNoyby)
+ - 👉 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)<!-- MEMES:END -->
 
 ---
 

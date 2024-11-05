@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How FTC Chair Lina Khan became a US election hot topic, drawing increasing vitriol as the presidential vote neared; Trump is expected to replace Khan if he wins &lpar;New York Times&rpar;](http://www.techmeme.com/241105/p15#a241105p15)
+ - [This Google election conspiracy theory doesn’t hold up](https://www.theverge.com/2024/11/5/24289025/google-election-conspiracy-theory-harris-trump-where-can-i-vote-for-elon-musk)
+ - [The fever dream of TikTok Live election results](https://www.theverge.com/24288837/tiktok-live-presidential-election-results-electoral-map-votes)
  - [M4 24-inch iMac vs M3 24-inch iMac compared -- Apple&#39;s iconic Mac gets a speed boost](https://appleinsider.com/articles/24/11/05/m4-24-inch-imac-vs-m3-24-inch-imac-compared----apples-iconic-mac-gets-a-speed-boost?utm_medium=rss)
- - [The FBI says Russian emails are sending fake bomb threats to polling stations](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)
- - [The 40 Best Shows on Hulu Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The hyperloop lives on as a 1/12th scale model in Switzerland](https://www.theverge.com/2024/11/5/24288954/hyperloop-swisspod-test-worlds-longest-scale-model)
- - [Toyota mounted five big-screen TVs to this Tundra truck](https://www.theverge.com/2024/11/5/24288874/toyota-ultimate-tailgate-tundra-sema-2024-concept-tvs)<!-- TECH:END -->
+ - [The FBI says Russian emails are sending fake bomb threats to polling stations](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

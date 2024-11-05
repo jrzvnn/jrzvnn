@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, Temasek, and Bain: online spending in Southeast Asia will reach $263B in 2024, up 15% YoY, the lowest growth rate since at least 2017, amid inflation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/241104/p35#a241104p35)
  - [How to edit PDFs on a Mac using Preview &amp; third-party apps](https://appleinsider.com/inside/mac/tips/how-to-edit-pdfs-on-a-mac-using-preview-third-party-apps?utm_medium=rss)
  - [Review: Hohem iSteady MT2 Camera/Smartphone Gimbal Kit](https://appleinsider.com/articles/24/11/05/review-hohem-isteady-mt2-camerasmartphone-gimbal-kit?utm_medium=rss)
  - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Want Affordable Care Act Health Insurance? Open Enrollment Is Here](https://www.cnet.com/personal-finance/insurance/want-affordable-care-act-health-insurance-open-enrollment-is-here/#ftag=CAD590a51e)
- - [Sources: Canadian authorities arrested Alexander &quot;Connor&quot; Moucka, who is allegedly behind hacks in June and July of up to 165 Snowflake customers including AT&amp;T &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p34#a241104p34)<!-- TECH:END -->
+ - [Want Affordable Care Act Health Insurance? Open Enrollment Is Here](https://www.cnet.com/personal-finance/insurance/want-affordable-care-act-health-insurance-open-enrollment-is-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

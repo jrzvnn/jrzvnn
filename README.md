@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Election Day 2024: all the news](https://www.theverge.com/2024/11/5/24288095/us-presidential-election-day-2024-trump-harris-news)
  - [Why free VPNs aren&#39;t always safe to use](https://appleinsider.com/inside/iphone/tips/why-free-vpns-arent-always-safe-to-use?utm_medium=rss)
  - [Arizona&#39;s Kari Lake Is Already Claiming Election Fraud](https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/)
  - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Nov. 5, 2024: You Can Still Earn Up to 5.25% APY With One of These Top Accounts – for Now](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-5-2024/#ftag=CAD590a51e)
- - [Best CD Rates Today, Nov. 5, 2024: Don&#39;t Sleep on High APYs](https://www.cnet.com/personal-finance/cd-rates-today-nov-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Savings Rates Today, Nov. 5, 2024: You Can Still Earn Up to 5.25% APY With One of These Top Accounts – for Now](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Title](http://9gag.com/gag/agm5P4W)
  - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
  - 😝 [The sheer number of perfect jokes in this scene will brighten your day](http://9gag.com/gag/amo5jGj)
- - 👉 [Karma](http://9gag.com/gag/amo5D96)<!-- MEMES:END -->
+ - 👉 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)<!-- MEMES:END -->
 
 ---
 

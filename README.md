@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Holiday gift guide 2024: best gifts for the Apple lovers in your life](https://appleinsider.com/articles/24/11/05/holiday-gift-guide-2024-best-gifts-for-the-apple-lovers-in-your-life?utm_medium=rss)
+ - [The first wooden satellite launched into space](https://www.theverge.com/2024/11/5/24288643/first-wood-satellite-launch-spacex-international-space-station)
  - [Hands on with Apple&#39;s new $70 Thunderbolt 5 Pro cable](https://appleinsider.com/articles/24/11/05/hands-on-with-apples-new-70-thunderbolt-5-pro-cable?utm_medium=rss)
  - [India issues a notice to Wikipedia over bias concerns, questioning if it should be classified as a publisher, after judges called its open editing &quot;dangerous&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241105/p10#a241105p10)
- - [Alleged Snowflake hacker arrested following massive data breaches](https://www.theverge.com/2024/11/5/24288654/alleged-snowflake-hacker-arrested-ticketmaster-att-data-breaches)
- - [The Best Cat Furniture, Scratching Posts, and Litter Boxes &lpar;2024&rpar;](https://www.wired.com/story/fancy-cat-furniture/)
- - [SemiAnalysis: in a first, AMD overtook Intel in data center revenue in Q3 2024; AMD hit $3.55B, above Intel&#39;s $3.3B revenue, which is down from $6B+ in Q1 2022 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241105/p9#a241105p9)<!-- TECH:END -->
+ - [Mortgage Rates Rise Ahead of Election Results and Fed Cut. Today&#39;s Mortgage Rates, Nov. 5, 2024](https://www.cnet.com/personal-finance/mortgage-rates-climb-mortgage-interest-rates-for-nov-5-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

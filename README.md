@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo’s music app has great ideas and frustrating limitations](https://www.theverge.com/2024/11/5/24288201/nintendo-music-streaming-hands-on-impressions)
  - [There are already Thunderbolt 5 devices &amp; cables for Apple&#39;s new pro Macs](https://appleinsider.com/articles/24/11/05/there-are-already-thunderbolt-5-devices-cables-for-apples-new-pro-macs?utm_medium=rss)
  - [Holiday gift guide 2024: best gifts for the Apple lovers in your life](https://appleinsider.com/articles/24/11/05/holiday-gift-guide-2024-best-gifts-for-the-apple-lovers-in-your-life?utm_medium=rss)
  - [The first wooden satellite launched into space](https://www.theverge.com/2024/11/5/24288643/first-wood-satellite-launch-spacex-international-space-station)
- - [Hands on with Apple&#39;s new $70 Thunderbolt 5 Pro cable](https://appleinsider.com/articles/24/11/05/hands-on-with-apples-new-70-thunderbolt-5-pro-cable?utm_medium=rss)
- - [India issues a notice to Wikipedia over bias concerns, questioning if it should be classified as a publisher, after judges called its open editing &quot;dangerous&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241105/p10#a241105p10)<!-- TECH:END -->
+ - [Hands on with Apple&#39;s new $70 Thunderbolt 5 Pro cable](https://appleinsider.com/articles/24/11/05/hands-on-with-apples-new-70-thunderbolt-5-pro-cable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

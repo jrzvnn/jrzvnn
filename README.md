@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Reddit sleuths track down the band behind the internet’s most mysterious song](https://www.theverge.com/2024/11/5/24288782/unidentified-song-mystery-reddit-fex-subways-of-the-mind)
- - [Hisense’s new U6N TV is an even better value now that it’s hit an all-time low](https://www.theverge.com/2024/11/5/24287830/hisense-u6n-series-google-tv-55-inch-deal-sale)
- - [In its annual report, Apple warns of future products perhaps never exceeding the iPhone&#39;s profitability, &quot;geopolitical tensions&quot;, and AI features&#39; safety risks &lpar;Financial Times&rpar;](http://www.techmeme.com/241105/p13#a241105p13)
- - [Amazon receives FAA approval to fly its newer, smaller delivery drones, including beyond pilots&#39; line of sight, and aims to ramp up deliveries near Phoenix &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241105/p12#a241105p12)<!-- TECH:END -->
+ - [Misleading ‘pro-Harris’ texts are bombarding swing state voters](https://www.theverge.com/2024/11/5/24288263/harris-texts-israel-gaza-michigan-pennsylvania)
+ - [Man Arrested for Snowflake Hacking Spree Faces US Extradition](https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Amazon says it’s fixing the Kindle Colorsoft’s yellow screen](https://www.theverge.com/2024/11/5/24288131/amazon-kindle-colorsoft-display-fix-replacements-delay-yellow-band-display-complaints-issues)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

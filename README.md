@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
  - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 😝 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
  - 💣 [Goal ?](http://9gag.com/gag/abAr9Q8)
- - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
- - 👉 [Future felon](http://9gag.com/gag/a9yRQZK)<!-- MEMES:END -->
+ - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
+ - 👉 [And is this good or bad?](http://9gag.com/gag/aAygnZp)<!-- MEMES:END -->
 
 ---
 

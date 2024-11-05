@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carving, what a beautiful hobby](http://9gag.com/gag/a4PRvPd)
  - 😝 [Guessing Game](http://9gag.com/gag/adB53yB)
- - 💣 [POV: working from home](http://9gag.com/gag/a34R9KQ)
  - 😝 [I agree with Her.](http://9gag.com/gag/abAr9Gp)
- - 👉 [Alien technology used to build the pyramids](http://9gag.com/gag/aVv0NVv)<!-- MEMES:END -->
+ - 💣 [POV: working from home](http://9gag.com/gag/a34R9KQ)
+ - 😝 [Alien technology used to build the pyramids](http://9gag.com/gag/aVv0NVv)
+ - 👉 [Karma](http://9gag.com/gag/amo5D96)<!-- MEMES:END -->
 
 ---
 

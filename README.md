@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flaw in Right-Wing ‘Election Integrity’ App Exposes Voter-Suppression Plan and User Data](https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/)
- - [Hori’s officially licensed Steam controller is coming to the US](https://www.theverge.com/2024/11/5/24288729/hori-official-steam-controller-us-release-date-pricing)
- - [GlobalFoundries reports Q3 revenue down 6% YoY to $1.7B and expects Q4 revenue of $1.8B-$1.85B, vs. $1.8B est., driven by smartphone chip demand; GFS jumps 11%+ &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/241105/p11#a241105p11)
- - [Amazon starts drone deliveries in Arizona](https://www.theverge.com/2024/11/5/24288735/amazon-arizona-tolleson-phoenix-drone-prime-air-launch)
- - [Apple News will let you watch election results from your lockscreen](https://www.theverge.com/2024/11/5/24288777/election-results-apple-news-lock-screen)<!-- TECH:END -->
+ - [In its annual report, Apple warns of future products perhaps never exceeding the iPhone&#39;s profitability, &quot;geopolitical tensions&quot;, and AI features&#39; safety risks &lpar;Financial Times&rpar;](http://www.techmeme.com/241105/p13#a241105p13)
+ - [Amazon receives FAA approval to fly its newer, smaller delivery drones, including beyond pilots&#39; line of sight, and aims to ramp up deliveries near Phoenix &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241105/p12#a241105p12)
+ - [Kia’s rugged EV concepts are standouts at 2024’s SEMA conference](https://www.theverge.com/2024/11/5/24282790/sema-2024-ev-concept-kia-dodge-mopar-restomod)
+ - [Anova’s new steam oven can recognize your food and tell you how to cook it](https://www.theverge.com/2024/11/5/24288723/anova-precision-oven-2-steam-convection)
+ - [The 5 Best Multivitamins for Men in 2024](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

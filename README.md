@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU might fine Apple for failure to comply with DMA, for real this time](https://appleinsider.com/articles/24/11/05/eu-might-fine-apple-for-failure-to-comply-with-dma-for-real-this-time?utm_medium=rss)
  - [Sources: Perplexity is finalizing a $500M funding round led by IVP that would value it at $9B, triple its reported valuation from just a few months ago &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241105/p20#a241105p20)
  - [Super Micro says an independent probe into concerns flagged by former auditor EY found &quot;no evidence of fraud or misconduct&quot; by its management or board &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241105/p19#a241105p19)
  - [Super Micro&#39;s stock drops ~16% in extended trading after it issued preliminary Q1 results and Q2 guidance below est., as the company faces accusations of fraud &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241105/p18#a241105p18)
- - [Mozilla is eliminating its advocacy division, which fought for a free and open web](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
- - [Will Social Platforms Take Down a Premature Donald Trump Victory Post?](https://www.wired.com/story/will-social-platforms-take-down-a-premature-trump-victory-post/)<!-- TECH:END -->
+ - [Mozilla is eliminating its advocacy division, which fought for a free and open web](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
- - 😝 [Today](http://9gag.com/gag/aryoPwy)
- - 💣 [This time it will be different!](http://9gag.com/gag/aQz1Y82)
+ - 😝 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
+ - 😝 [This time it will be different!](http://9gag.com/gag/aQz1Y82)
+ - 💣 [Today](http://9gag.com/gag/aryoPwy)
  - 😝 [Guessing Game](http://9gag.com/gag/adB53yB)
  - 👉 [Carving, what a beautiful hobby](http://9gag.com/gag/a4PRvPd)<!-- MEMES:END -->
 

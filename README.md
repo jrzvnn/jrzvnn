@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA says it would approve the &amp;pound;15B Vodafone-Three merger if they commit to investing &amp;pound;11B to upgrade the UK&#39;s network, ahead of a December 7 decision &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/241105/p4#a241105p4)
  - [AppGrowing: in Q3, Moonshot, Zhipu, ByteDance, Alibaba, and other Chinese AI companies spent ~$70.2M to promote their AI chatbots, as the market gets crowded &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/241105/p3#a241105p3)
  - [Election Day 2024: Selfies and Voting, What Could Go Wrong? A Lot This Year](https://www.cnet.com/news/politics/selfies-and-voting-what-could-go-wrong-a-lot-this-election-year/#ftag=CAD590a51e)
  - [Nintendo reports Q2 revenue down 17% YoY to $1.8B, net profit down 69% YoY to ~$182.5M, and lowers its FY 2025 Switch sales forecast to 12.5M from 13.5M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241105/p2#a241105p2)
- - [Perplexity CEO Aravind Srinivas says his offer to help the NYT was &quot;to provide technical infra support&quot; and &quot;not to replace journalists or engineers&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241105/p1#a241105p1)
- - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)<!-- TECH:END -->
+ - [Perplexity CEO Aravind Srinivas says his offer to help the NYT was &quot;to provide technical infra support&quot; and &quot;not to replace journalists or engineers&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241105/p1#a241105p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

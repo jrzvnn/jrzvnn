@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
- - 😝 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
- - 💣 [Absolutely Chad](http://9gag.com/gag/aZZ7e23)
- - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 👉 [Goal ?](http://9gag.com/gag/abAr9Q8)<!-- MEMES:END -->
+ - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 😝 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
+ - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
+ - 😝 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
+ - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
 
 ---
 

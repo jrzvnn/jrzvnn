@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 💣 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 😝 [Justice!](http://9gag.com/gag/aND076A)
- - 👉 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)<!-- MEMES:END -->
+ - 😝 [Dublin Justice WWE Style](http://9gag.com/gag/a2vR3WE)
+ - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 💣 [AI needs to stop messing with our memes.](http://9gag.com/gag/aND0EEv)
+ - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 👉 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)<!-- MEMES:END -->
 
 ---
 

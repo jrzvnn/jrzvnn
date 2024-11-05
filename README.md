@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - 😝 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
- - 💣 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
- - 😝 [Hello ?](http://9gag.com/gag/aKGdRYQ)
- - 👉 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)<!-- MEMES:END -->
+ - 😝 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
+ - 💣 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)
+ - 😝 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
+ - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Review: Hohem iSteady MT2 Camera/Smartphone Gimbal Kit](https://appleinsider.com/articles/24/11/05/review-hohem-isteady-mt2-camerasmartphone-gimbal-kit?utm_medium=rss)
+ - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
+ - [Want Affordable Care Act Health Insurance? Open Enrollment Is Here](https://www.cnet.com/personal-finance/insurance/want-affordable-care-act-health-insurance-open-enrollment-is-here/#ftag=CAD590a51e)
  - [Sources: Canadian authorities arrested Alexander &quot;Connor&quot; Moucka, who is allegedly behind hacks in June and July of up to 165 Snowflake customers including AT&amp;T &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p34#a241104p34)
- - [Caitlin Kalinowski, who served as Meta&#39;s head of AR glasses from March 2022 to July 2024 and oversaw Orion, joins OpenAI to lead robotics and consumer hardware &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241104/p33#a241104p33)
- - [Apple is researching smart glasses with an internal study, report claims](https://appleinsider.com/articles/24/11/05/apple-is-researching-smart-glasses-with-an-internal-study-report-claims?utm_medium=rss)
- - [Here’s when the Black Friday sales start at Amazon, Walmart, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)<!-- TECH:END -->
+ - [Caitlin Kalinowski, who served as Meta&#39;s head of AR glasses from March 2022 to July 2024 and oversaw Orion, joins OpenAI to lead robotics and consumer hardware &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241104/p33#a241104p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

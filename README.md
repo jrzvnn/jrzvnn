@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexa at 10: Amazon’s assistant is a winner and a failure](https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast)
  - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
  - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
  - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
- - [This 1-Minute Microwave Poached Egg Is My New Go-To Breakfast](https://www.cnet.com/home/kitchen-and-household/this-1-minute-microwave-poached-egg-is-my-go-to-breakfast/#ftag=CAD590a51e)
- - [I&#39;m Not Impressed With AI on Phones Yet. What It Will Take to Change My Mind](https://www.cnet.com/tech/mobile/im-not-impresssed-with-ai-on-phones-yet-what-it-takes-to-change-my-mind/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This 1-Minute Microwave Poached Egg Is My New Go-To Breakfast](https://www.cnet.com/home/kitchen-and-household/this-1-minute-microwave-poached-egg-is-my-go-to-breakfast/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

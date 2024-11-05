@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - 😝 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
- - 💣 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)
- - 😝 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
- - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
+ - 😝 [They tested her](http://9gag.com/gag/amovqov)
+ - 😝 [BioWaste: The Plural](http://9gag.com/gag/a0eNvoq)
+ - 💣 [Maputo &lpar;MOZAMBIQUE&rpar;. The all country is in strike for the past 2 weeks, against the corrupt government. They cut down social media, please make it viral. 04NOV24](http://9gag.com/gag/a34wv15)
+ - 😝 [Beethoven](http://9gag.com/gag/aAyeBKE)
+ - 👉 [Fine for Parking!](http://9gag.com/gag/aRB76vB)<!-- MEMES:END -->
 
 ---
 

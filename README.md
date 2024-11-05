@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers Indonesia token investment to lift iPhone ban](https://appleinsider.com/articles/24/11/05/apple-offers-indonesia-token-investment-to-lift-iphone-ban?utm_medium=rss)
+ - [TSMC CFO Wendell Huang says the chipmaker now expects to pay more for power in Taiwan than anywhere else; TSMC&#39;s electricity prices rose 25% in April 2024 &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241105/p6#a241105p6)
  - [Election Season in America: Scenes From Around the Country](https://www.wired.com/story/2024-us-election-photos/)
  - [CCDH: before the election, Elon Musk made 87 X posts that were debunked by fact-checkers, hitting 2B+ views; his political posts had 17.1B views since July 2024 &lpar;Marshall Cohen/CNN&rpar;](http://www.techmeme.com/241105/p5#a241105p5)
- - [The UK CMA says it would approve the &amp;pound;15B Vodafone-Three merger if they commit to investing &amp;pound;11B to upgrade the UK&#39;s network, ahead of a December 7 decision &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/241105/p4#a241105p4)
- - [AppGrowing: in Q3, Moonshot, Zhipu, ByteDance, Alibaba, and other Chinese AI companies spent ~$70.2M to promote their AI chatbots, as the market gets crowded &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/241105/p3#a241105p3)
- - [Election Day 2024: Selfies and Voting, What Could Go Wrong? A Lot This Year](https://www.cnet.com/news/politics/selfies-and-voting-what-could-go-wrong-a-lot-this-election-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA says it would approve the &amp;pound;15B Vodafone-Three merger if they commit to investing &amp;pound;11B to upgrade the UK&#39;s network, ahead of a December 7 decision &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/241105/p4#a241105p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

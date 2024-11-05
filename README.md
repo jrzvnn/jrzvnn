@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 😝 [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 💣 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 😝 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
- - 👉 [Maddona is wild these days](http://9gag.com/gag/avyoK4Z)<!-- MEMES:END -->
+ - 😝 [3 WORDS: Decide. Commit. Succeed.](http://9gag.com/gag/aqyg3dj)
+ - 😝 [Karma](http://9gag.com/gag/amo5D96)
+ - 💣 [Title](http://9gag.com/gag/agm5P4W)
+ - 😝 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - 👉 [The sheer number of perfect jokes in this scene will brighten your day](http://9gag.com/gag/amo5jGj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple has asked Foxconn to produce AI servers in Taiwan using Apple silicon, but Foxconn&#39;s capacity is limited by demand for Nvidia&#39;s GB200 servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241105/p17#a241105p17)
  - [Sony is discontinuing its $9,000 Airpeak S1 pro photography drone](https://www.theverge.com/2024/11/5/24288933/sony-airpeak-s1-camera-drone-discontinued)
  - [iOS 18.2 could finally estimate your iPhone’s charging time](https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time)
  - [Sources: EU regulators are preparing to impose a fine on Apple, under the DMA, after it failed to let developers steer users to offers outside of the App Store &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241105/p16#a241105p16)
- - [Russia Is Going All Out on Election Day Interference](https://www.wired.com/story/russia-election-disinformation-2024-election-day/)
- - [Voting tech isn’t perfect, but so far it’s holding up](https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines)<!-- TECH:END -->
+ - [Russia Is Going All Out on Election Day Interference](https://www.wired.com/story/russia-election-disinformation-2024-election-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

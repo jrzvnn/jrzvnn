@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Follow-Up to One of 2024’s Best Games May Never Happen](https://www.wired.com/story/the-follow-up-to-one-of-2024s-best-games-may-never-happen/)
  - [Sketchy rumor says iPad Air, iMac, and Studio Display could be updated to 90Hz](https://appleinsider.com/articles/24/11/05/sketchy-rumor-says-ipad-air-imac-and-studio-display-could-be-updated-to-90hz?utm_medium=rss)
  - [Polymarket confirms paying US-based influencers, including large Instagram meme accounts, to promote election betting despite being banned in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/241105/p7#a241105p7)
- - [TikTok Employees Shrug as the US Election Looms](https://www.wired.com/story/tiktok-ban-us-election-donald-trump-kamala-harris/)<!-- TECH:END -->
+ - [TikTok Employees Shrug Off the US Election](https://www.wired.com/story/tiktok-ban-us-election-donald-trump-kamala-harris/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

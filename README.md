@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)
  - [The EU Commission opens an antitrust investigation into smartphone glass maker Corning over allegedly abusing its market dominance to squeeze out rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241106/p14#a241106p14)
  - [Sources: the US has recently renewed calls for Italy to repeal its domestic web tax, which applies to Meta, Google, and Amazon and raises under &amp;euro;500M per year &lpar;Giuseppe Fonte/Reuters&rpar;](http://www.techmeme.com/241106/p13#a241106p13)
  - [PS5 Pro review: how close is your TV?](https://www.theverge.com/reviews/24289319/ps5-pro-review)
- - [Donald Trump Defeats Kamala Harris in the 2024 Presidential Election](https://www.wired.com/story/election-2024-donald-trump-win/)
- - [Trump Media &amp; Technology Group&#39;s stock jumps 30%+ in pre-market trading, hitting a $7B+ market cap, as Trump beats Kamala Harris; TSLA rises 15%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p12#a241106p12)<!-- TECH:END -->
+ - [Donald Trump Defeats Kamala Harris in the 2024 Presidential Election](https://www.wired.com/story/election-2024-donald-trump-win/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

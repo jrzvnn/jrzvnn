@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Saudi Arabia plans a new AI project to rival the UAE&#39;s tech hub, backed by $50B to $100B to invest in data centers, startups, new talent, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p24#a241106p24)
  - [Nintendo’s next generation is off to a great start](https://www.theverge.com/2024/11/6/24289674/nintendo-switch-2-next-generation-backward-compatibility)
  - [Far-Right Donald Trump Supporters Celebrate His Victory with Violent Memes and Calls for Executions](https://www.wired.com/story/donald-trump-far-right-supporters-violent-memes/)
  - [Jeff Bezos, Sam Altman, Sundar Pichai, Mark Zuckerberg, Satya Nadella, Michael Dell, and other tech leaders congratulate Trump on his election victory &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241106/p23#a241106p23)
- - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)
- - [Generation gaps: How much faster Apple Silicon gets with each release](https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release?utm_medium=rss)<!-- TECH:END -->
+ - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
+ - 😝 [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
  - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 💣 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)
+ - 💣 [Unbelievable](http://9gag.com/gag/aLn0qLv)
  - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
+ - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
 
 ---
 

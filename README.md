@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Commission opens an antitrust investigation into smartphone glass maker Corning over allegedly abusing its market dominance to squeeze out rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241106/p14#a241106p14)
+ - [Sources: the US has recently renewed calls for Italy to repeal its domestic web tax, which applies to Meta, Google, and Amazon and raises under &amp;euro;500M per year &lpar;Giuseppe Fonte/Reuters&rpar;](http://www.techmeme.com/241106/p13#a241106p13)
  - [PS5 Pro review: how close is your TV?](https://www.theverge.com/reviews/24289319/ps5-pro-review)
  - [Donald Trump Defeats Kamala Harris in the 2024 Presidential Election](https://www.wired.com/story/election-2024-donald-trump-win/)
- - [Trump Media &amp; Technology Group&#39;s stock jumps 30%+ in pre-market trading, hitting a $7B+ market cap, as Trump beats Kamala Harris; TSLA rises 15%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p12#a241106p12)
- - [Elon Musk&#39;s gamble on Donald Trump pays off, as Trump wins the race; Trump gave Musk a lengthy shout out in his victory speech, calling him &quot;a super-genius&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p11#a241106p11)
- - [As Trump wins the US election, Polymarket, Kalshi, PredictIt, and other prediction betting markets, which heavily favored Trump for months, are vindicated &lpar;Marc Hochstein/CoinDesk&rpar;](http://www.techmeme.com/241106/p10#a241106p10)<!-- TECH:END -->
+ - [Trump Media &amp; Technology Group&#39;s stock jumps 30%+ in pre-market trading, hitting a $7B+ market cap, as Trump beats Kamala Harris; TSLA rises 15%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p12#a241106p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

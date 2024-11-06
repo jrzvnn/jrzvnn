@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
- - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 💣 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
+ - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
  - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
+ - 👉 [Unbelievable](http://9gag.com/gag/aLn0qLv)<!-- MEMES:END -->
 
 ---
 

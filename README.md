@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 😝 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
+ - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
  - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
- - 👉 [Walmart employee about tragedy recently](http://9gag.com/gag/avyoYpE)<!-- MEMES:END -->
+ - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 👉 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
- - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 💣 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
- - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
- - 👉 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)<!-- MEMES:END -->
+ - 😝 [He has done it twice](http://9gag.com/gag/a5QWdzr)
+ - 😝 [For the memes! Guess who&#39;s back](http://9gag.com/gag/aAyeY3R)
+ - 💣 [2016 nostalgia](http://9gag.com/gag/adBVN5D)
+ - 😝 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
+ - 👉 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)<!-- MEMES:END -->
 
 ---
 

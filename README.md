@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new emulator could bring more games to Windows on Arm](https://www.theverge.com/2024/11/6/24289844/microsoft-windows-on-arm-emulator-prism-update)
  - [Election Denial Conspiracy Theories Are Exploding on X. This Time They’re Coming From the Left](https://www.wired.com/story/election-denial-conspiracy-theories-x-left-blueanon/)
  - [Canada orders the windup of TikTok&#39;s Canadian business citing national security risks, and says it&#39;s not blocking Canadians&#39; access to the app &lpar;Reuters&rpar;](http://www.techmeme.com/241106/p31#a241106p31)
  - [Trump Won. What Will Happen to Electric Vehicles?](https://www.wired.com/story/trump-won-what-happens-to-electric-vehicles-now/)
- - [Match Group reports Q3 revenue up 2% YoY to $895M, vs. $900.9M est., paying users down 3% to 15.2M, forecasts Q4 revenue below est.; MTCH drops 12%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p30#a241106p30)
- - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)<!-- TECH:END -->
+ - [Match Group reports Q3 revenue up 2% YoY to $895M, vs. $900.9M est., paying users down 3% to 15.2M, forecasts Q4 revenue below est.; MTCH drops 12%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p30#a241106p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

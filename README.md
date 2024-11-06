@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm reports Q2 revenue up 5% YoY to $844M, vs. $810.9M est., royalty revenue up 23% to $514M, and forecasts Q3 revenue below estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241106/p28#a241106p28)
+ - [Kalshi CEO Tarek Mansour On Prediction Markets’ Big Night: ‘We Even Overtook Pornhub’](https://www.wired.com/story/kalshi-ceo-tarek-mansour-prediction-markets-pornhub/)
+ - [Roblox is banning kids from ‘social hangout’ spaces](https://www.theverge.com/2024/11/6/24289837/roblox-banning-preteens-social-hangout-spaces)
  - [Qualcomm reports Q4 revenue up 19% YoY to $10.24B, vs. $9.9B est., guides to a strong Q1, and approves $15B in additional buybacks; QCOM jumps 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241106/p27#a241106p27)
- - [Galaxy S25 ‘Slim’ rumors suggest a skinny phone showdown next year](https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u)
- - [Apple&#39;s numerous internal projects led to the upcoming API-powered Siri with AI](https://appleinsider.com/articles/24/11/06/apples-numerous-internal-projects-led-to-the-upcoming-api-powered-siri-with-ai?utm_medium=rss)
- - [As Trump Takes a Victory Lap, the Crypto Faithful Kiss the Ring](https://www.wired.com/story/trump-crypto-support/)
- - [DJI announces the $229 Goggles N3 for its FPV drones Neo and Avata 2, with a 1080p screen, a 54-degree field of view, and a defogger, available later this month &lpar;Adrian Kingsley-Hughes/ZDNET&rpar;](http://www.techmeme.com/241106/p26#a241106p26)<!-- TECH:END -->
+ - [Galaxy S25 ‘Slim’ rumors suggest a skinny phone showdown next year](https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

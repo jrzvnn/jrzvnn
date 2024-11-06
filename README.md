@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European Union evaluating if Corning monopolizes the smartphone screen market](https://appleinsider.com/articles/24/11/06/european-union-evaluating-if-corning-monopolizes-the-smartphone-screen-market?utm_medium=rss)
+ - [iPhone average selling price soars because of big demand for Pro models &amp; more storage](https://appleinsider.com/articles/24/11/06/iphone-average-selling-price-soars-because-of-big-demand-for-pro-models-more-storage?utm_medium=rss)
+ - [Google’s Pixel Watch 3 is available at a new record low price for Verge readers](https://www.theverge.com/2024/11/6/24288785/googles-pixel-watch-3-m2-macbook-air-deal-sale)
  - [Pick up Apple&#39;s M2 MacBook Air with 16GB RAM for $799 with early Black Friday savings](https://appleinsider.com/articles/24/11/06/pick-up-apples-m2-macbook-air-with-16gb-ram-for-799-with-early-black-friday-savings?utm_medium=rss)
- - [Here’s the first 240W USB-PD charger you can actually buy](https://www.theverge.com/2024/11/6/24289498/delta-electronics-240w-usb-c-pd-charger-first-adapter)
- - [They Searched Through Hundreds of Bands to Solve an Online Mystery](https://www.wired.com/story/the-most-mysterious-song-on-the-internet-mystery-solved/)
- - [Polymarket and Kalshi expect to pay out ~$450M total to US election bettors; Kalshi says 28K bet on Harris, 40K on Trump; one Polymarket user bet $40M on Trump &lpar;Michelle Conlin/Reuters&rpar;](http://www.techmeme.com/241106/p19#a241106p19)
- - [Yes, Houseplants Can Be Toxic to Pets -- But These 7 Are Perfectly Safe](https://www.cnet.com/how-to/yes-houseplants-can-be-toxic-to-pets-but-these-7-are-perfectly-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s the first 240W USB-PD charger you can actually buy](https://www.theverge.com/2024/11/6/24289498/delta-electronics-240w-usb-c-pd-charger-first-adapter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

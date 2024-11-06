@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wise reports H1 2025 revenue up 19% YoY to &amp;pound;591.9M, profit up 55% YoY to &amp;pound;217.3M, and active consumer and business clients up 25% YoY to 11.4M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241106/p8#a241106p8)
  - [Abu Dhabi National Oil Company CEO Sultan al-Jaber says AI gives oil firms incentive to invest in renewables, as ADNOC unveils plans for integrating AI agents &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241106/p7#a241106p7)
- - [Workers at AI companies seek specific whistleblower protections, arguing that AI advancements pose threats that they can&#39;t legally expose under current US laws &lpar;Kaustuv Basu/Bloomberg Law&rpar;](http://www.techmeme.com/241106/p6#a241106p6)
- - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
- - [The UK launches a platform with guidance and practical resources to help businesses conduct impact assessments and evaluations of the safety of new AI systems &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241106/p5#a241106p5)<!-- TECH:END -->
+ - [Best Internet Providers in Alexandria, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-alexandria-va/#ftag=CAD590a51e)
+ - [How to Select the Right Size Heat Pump for Your Home](https://www.cnet.com/home/energy-and-utilities/heres-how-to-pick-the-right-size-heat-pump-for-your-home/#ftag=CAD590a51e)
+ - [Workers at AI companies seek specific whistleblower protections, arguing that AI advancements pose threats that they can&#39;t legally expose under current US laws &lpar;Kaustuv Basu/Bloomberg Law&rpar;](http://www.techmeme.com/241106/p6#a241106p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

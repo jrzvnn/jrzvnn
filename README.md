@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 👉 [Unbelievable](http://9gag.com/gag/aLn0qLv)<!-- MEMES:END -->
+ - 😝 [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)
+ - 😝 [How a car differential works from 1937](http://9gag.com/gag/aqyn9BR)
+ - 💣 [For the memes! Guess who&#39;s back](http://9gag.com/gag/aAyeY3R)
+ - 😝 [2016 nostalgia](http://9gag.com/gag/adBVN5D)
+ - 👉 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
  - 😝 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
- - 💣 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
- - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 👉 [Future felon](http://9gag.com/gag/a9yRQZK)<!-- MEMES:END -->
+ - 😝 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
+ - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - 😝 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
+ - 👉 [Unbelievable](http://9gag.com/gag/aLn0qLv)<!-- MEMES:END -->
 
 ---
 

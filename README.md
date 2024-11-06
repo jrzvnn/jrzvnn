@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To everyone that promised to leave/unalive themselves when Trump wins](http://9gag.com/gag/an74X5z)
  - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
  - 😝 [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
- - 👉 [And the tyranny already begins](http://9gag.com/gag/a1mWewP)<!-- MEMES:END -->
+ - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
+ - 😝 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
+ - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
 
 ---
 

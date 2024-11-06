@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)
  - [Arm reports Q2 revenue up 5% YoY to $844M, vs. $810.9M est., royalty revenue up 23% to $514M, and forecasts Q3 revenue below estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241106/p28#a241106p28)
  - [Kalshi CEO Tarek Mansour On Prediction Markets’ Big Night: ‘We Even Overtook Pornhub’](https://www.wired.com/story/kalshi-ceo-tarek-mansour-prediction-markets-pornhub/)
  - [Roblox is banning kids from ‘social hangout’ spaces](https://www.theverge.com/2024/11/6/24289837/roblox-banning-preteens-social-hangout-spaces)
- - [Qualcomm reports Q4 revenue up 19% YoY to $10.24B, vs. $9.9B est., guides to a strong Q1, and approves $15B in additional buybacks; QCOM jumps 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241106/p27#a241106p27)
- - [Galaxy S25 ‘Slim’ rumors suggest a skinny phone showdown next year](https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u)<!-- TECH:END -->
+ - [Qualcomm reports Q4 revenue up 19% YoY to $10.24B, vs. $9.9B est., guides to a strong Q1, and approves $15B in additional buybacks; QCOM jumps 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241106/p27#a241106p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

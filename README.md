@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Election Denial Conspiracy Theories Are Exploding on X. This Time They’re Coming From the Left](https://www.wired.com/story/election-denial-conspiracy-theories-x-left-blueanon/)
+ - [Canada orders the windup of TikTok&#39;s Canadian business citing national security risks, and says it&#39;s not blocking Canadians&#39; access to the app &lpar;Reuters&rpar;](http://www.techmeme.com/241106/p31#a241106p31)
+ - [Trump Won. What Will Happen to Electric Vehicles?](https://www.wired.com/story/trump-won-what-happens-to-electric-vehicles-now/)
  - [Match Group reports Q3 revenue up 2% YoY to $895M, vs. $900.9M est., paying users down 3% to 15.2M, forecasts Q4 revenue below est.; MTCH drops 12%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p30#a241106p30)
- - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)
- - [Arm reports Q2 revenue up 5% YoY to $844M, vs. $810.9M est., royalty revenue up 23% to $514M, and forecasts Q3 revenue below estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241106/p28#a241106p28)
- - [Kalshi CEO Tarek Mansour On Prediction Markets’ Big Night: ‘We Even Overtook Pornhub’](https://www.wired.com/story/kalshi-ceo-tarek-mansour-prediction-markets-pornhub/)
- - [Roblox is banning kids from ‘social hangout’ spaces](https://www.theverge.com/2024/11/6/24289837/roblox-banning-preteens-social-hangout-spaces)<!-- TECH:END -->
+ - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

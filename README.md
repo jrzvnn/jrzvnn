@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Kindle to Buy in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
  - [How to schedule your Mac to start up and shut down on its own](https://www.theverge.com/24288127/mac-power-schedule-terminal-commands-automation-startup-shutdown)
  - [Netflix confirms Stranger Things season 5 is coming in 2025](https://www.theverge.com/2024/11/6/24289501/stranger-things-season-5-2025-netflix)
  - [Lyft partners with autonomous vehicle startup May Mobility to launch cars in Atlanta in 2025, and self-driving car company Mobileye and smart dashcam firm Nexar &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241106/p18#a241106p18)
- - [AMD Ryzen 7 9800X3D review: the $479 Zen 5-based CPU improves gaming performance, day-to-day tasks, and creative workloads, and should be the pick for PC gamers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241106/p17#a241106p17)
- - [Keychron K2 HE Review: An Affordable Hall Effect Keyboard](https://www.wired.com/review/keychron-k2-he/)<!-- TECH:END -->
+ - [AMD Ryzen 7 9800X3D review: the $479 Zen 5-based CPU improves gaming performance, day-to-day tasks, and creative workloads, and should be the pick for PC gamers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241106/p17#a241106p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

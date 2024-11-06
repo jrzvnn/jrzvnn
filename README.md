@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Donald Trump wins the 2024 presidential election](https://www.theverge.com/2024/11/6/24287838/donald-trump-wins-2024-presidential-election)
  - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)
  - [The EU Commission opens an antitrust investigation into smartphone glass maker Corning over allegedly abusing its market dominance to squeeze out rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241106/p14#a241106p14)
- - [Sources: the US has recently renewed calls for Italy to repeal its domestic web tax, which applies to Meta, Google, and Amazon and raises under &amp;euro;500M per year &lpar;Giuseppe Fonte/Reuters&rpar;](http://www.techmeme.com/241106/p13#a241106p13)
- - [PS5 Pro review: how close is your TV?](https://www.theverge.com/reviews/24289319/ps5-pro-review)<!-- TECH:END -->
+ - [52 Best Christmas Gifts 2024: Early Ideas for This Year&#39;s Holiday Shopping](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
+ - [Refinance Rates Tick Higher: Mortgage Refinance Rates on Nov. 6, 2024](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-on-nov-6-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

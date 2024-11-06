@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soon you can let Microsoft’s Notepad rewrite text for you](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
- - [Apple’s iOS 18.2 public beta starts opening up access to more AI features](https://www.theverge.com/2024/11/6/24289714/ios-18-2-apple-intelligence-public-beta-chatgpt-siri-image-playground)
- - [Striking NYT tech workers made a custom Connections so you don’t cross the picket line](https://www.theverge.com/2024/11/6/24289634/nyt-tech-guild-connections-strike-edition-custom-creator)
- - [Sources: Saudi Arabia plans a new AI project to rival the UAE&#39;s tech hub, backed by $50B to $100B to invest in data centers, startups, new talent, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p24#a241106p24)
- - [Best Samsung Galaxy Tab S9 Deals: Early Black Friday Discounts and Trade-In Offers Worth Considering](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)
+ - [OpenAI acquired chat.com, which now redirects to ChatGPT; HubSpot co-founder Dharmesh Shah reportedly bought the domain, registered in 1996, for $15.5M in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241106/p25#a241106p25)
+ - [Apple CEO Tim Cook congratulates Trump on his second election win](https://appleinsider.com/articles/24/11/06/apple-ceo-tim-cook-congratulates-trump-on-his-second-election-win?utm_medium=rss)
+ - [States’ Abortion Rights Wins May Be Short-Lived Under a Second Trump Term](https://www.wired.com/story/donald-trump-win-seven-states-vote-abortion-rights/)
+ - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Belkin&#39;s Vision Pro strap that Apple didn&#39;t want to make](https://appleinsider.com/articles/24/11/06/hands-on-with-belkins-vision-pro-strap-that-apple-didnt-want-to-make?utm_medium=rss)
+ - [Stand With Crypto: US voters elected 253 pro-crypto candidates to the House, compared to 115 anti-crypto candidates, and 16 pro-crypto Senate candidates &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/241106/p21#a241106p21)
  - [Jeff Bezos congratulates Trump on his &quot;political comeback and decisive victory&quot; in a rare X post; Bezos last reacted to Trump&#39;s failed assassination on July 13 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241106/p20#a241106p20)
  - [The Manosphere Won](https://www.wired.com/story/donald-trump-manosphere-won/)
- - [Don&#39;t Miss Out on the Samsung Galaxy Tab S9 FE At A Record-Low Price](https://www.cnet.com/deals/dont-miss-out-on-the-samsung-galaxy-tab-s9-fe-at-a-record-low-price/#ftag=CAD590a51e)
- - [Best Light Therapy Lamps for 2024](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)
- - [How Another Fed Rate Cut Could Help &lpar;or Hurt&rpar; Your Finances](https://www.cnet.com/personal-finance/banking/how-another-fed-rate-cut-could-help-or-hurt-your-finances/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What does Trump’s election mean for EVs, Tesla, and Elon Musk?](https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

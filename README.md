@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dogecoin and other memecoins rise as Trump gets closer to victory; memecoins and AI-related tokens outperformed the crypto market in the lead-up to Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241106/p2#a241106p2)
  - [A PeakMetrics analysis of ~25K posts on X discussing election fraud in battleground states on November 5 finds that ~60% of posts were focused on Pennsylvania &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/241106/p1#a241106p1)
  - [Bitcoin passes $74K to reach an all-time high amid Donald Trump&#39;s early lead in the 2024 US presidential race; bitcoin is up nearly 70% year-to-date &lpar;The Block&rpar;](http://www.techmeme.com/241105/p28#a241105p28)
  - [Today&#39;s NYT Mini Crossword Answers for Wedneday, Nov. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wedneday-nov-6/#ftag=CAD590a51e)
- - [Logitech G915 X Keyboard review: Stylish and slim](https://appleinsider.com/articles/24/11/06/logitech-g915-x-keyboard-review-stylish-and-slim?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 6, #1236](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-6-1236/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech G915 X Keyboard review: Stylish and slim](https://appleinsider.com/articles/24/11/06/logitech-g915-x-keyboard-review-stylish-and-slim?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

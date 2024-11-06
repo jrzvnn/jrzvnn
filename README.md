@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)
  - [OpenAI acquired chat.com, which now redirects to ChatGPT; HubSpot co-founder Dharmesh Shah reportedly bought the domain, registered in 1996, for $15.5M in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241106/p25#a241106p25)
  - [Apple CEO Tim Cook congratulates Trump on his second election win](https://appleinsider.com/articles/24/11/06/apple-ceo-tim-cook-congratulates-trump-on-his-second-election-win?utm_medium=rss)
- - [States’ Abortion Rights Wins May Be Short-Lived Under a Second Trump Term](https://www.wired.com/story/donald-trump-win-seven-states-vote-abortion-rights/)
- - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)<!-- TECH:END -->
+ - [States’ Abortion Rights Wins May Be Short-Lived Under a Second Trump Term](https://www.wired.com/story/donald-trump-win-seven-states-vote-abortion-rights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

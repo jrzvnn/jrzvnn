@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
+ - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
  - 😝 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
- - 💣 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
- - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 👉 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)<!-- MEMES:END -->
+ - 💣 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
+ - 😝 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)
+ - 👉 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)<!-- MEMES:END -->
 
 ---
 

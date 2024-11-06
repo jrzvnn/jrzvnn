@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)
- - 😝 [How a car differential works from 1937](http://9gag.com/gag/aqyn9BR)
- - 💣 [For the memes! Guess who&#39;s back](http://9gag.com/gag/aAyeY3R)
- - 😝 [2016 nostalgia](http://9gag.com/gag/adBVN5D)
- - 👉 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)<!-- MEMES:END -->
+ - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 💣 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
+ - 👉 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Workers at AI companies seek specific whistleblower protections, arguing that AI advancements pose threats that they can&#39;t legally expose under current US laws &lpar;Kaustuv Basu/Bloomberg Law&rpar;](http://www.techmeme.com/241106/p6#a241106p6)
  - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)
  - [Best Vitamins for Healthy Hair, Skin and Nails in 2024](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
  - [The UK launches a platform with guidance and practical resources to help businesses conduct impact assessments and evaluations of the safety of new AI systems &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241106/p5#a241106p5)
- - [Best Power Bank for iPhones in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [GOP&#39;s Bernie Moreno, a blockchain entrepreneur, defeats Senate Banking Chair Sherrod Brown in Ohio Senate race, where crypto PACs directed $40M to defeat Brown &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/241106/p4#a241106p4)<!-- TECH:END -->
+ - [Best Power Bank for iPhones in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

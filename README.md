@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Salt Typhoon hackers breached US telecommunication infrastructure to carry out targeted espionage against the US for at least eight months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241105/p24#a241105p24)
- - [Apple Pay officially launches in Paraguay](https://appleinsider.com/articles/24/11/05/apple-pay-officially-launches-in-paraguay?utm_medium=rss)
- - [Steam’s built-in game recording is now available to all](https://www.theverge.com/2024/11/5/24289138/steam-game-recording-now-available-all-users)
- - [Google CEO says the company should be a ‘trusted source’ in the election](https://www.theverge.com/2024/11/5/24289170/google-ceo-election-memo-employees-trump-harris)
- - [Amazon’s CEO defends return-to-office policy](https://www.theverge.com/2024/11/5/24289159/amazon-ceo-andy-jassy-defends-return-to-office-policy)<!-- TECH:END -->
+ - [Groypers Gave Illegal Hot Dogs and Burgers to Trump Voters](https://www.wired.com/story/groypers-illegally-gave-hot-dogs-and-burgers-to-trump-voters/)
+ - [Suzuki teams up with Toyota on its first EV: the E Vitara](https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch)
+ - [Elon Musk&#39;s America PAC Canvassers Faced Surveillance, Sickness, and Late Pay in Arizona](https://www.wired.com/story/elon-musks-america-pac-canvassers-surveillance-sickness-late-pay-arizona/)
+ - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)
+ - [Elon Musk is being sued over his $1 million giveaway to voters — again](https://www.theverge.com/2024/11/5/24289173/elon-musk-america-pac-class-action-lawsuit-fraud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

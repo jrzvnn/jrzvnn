@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
  - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - 💣 [Too bad](http://9gag.com/gag/aPA7vXq)
- - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
- - 👉 [Probably my favorite clip from last night.](http://9gag.com/gag/ayNe07r)<!-- MEMES:END -->
+ - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 💣 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
+ - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - 👉 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)<!-- MEMES:END -->
 
 ---
 

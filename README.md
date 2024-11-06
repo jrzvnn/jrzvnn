@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Striking NYT tech workers made a custom Connections so you don’t cross the picket line](https://www.theverge.com/2024/11/6/24289634/nyt-tech-guild-connections-strike-edition-custom-creator)
  - [Sources: Saudi Arabia plans a new AI project to rival the UAE&#39;s tech hub, backed by $50B to $100B to invest in data centers, startups, new talent, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p24#a241106p24)
- - [Nintendo’s next generation is off to a great start](https://www.theverge.com/2024/11/6/24289674/nintendo-switch-2-next-generation-backward-compatibility)
- - [Far-Right Donald Trump Supporters Celebrate His Victory with Violent Memes and Calls for Executions](https://www.wired.com/story/donald-trump-far-right-supporters-violent-memes/)
- - [Jeff Bezos, Sam Altman, Sundar Pichai, Mark Zuckerberg, Satya Nadella, Michael Dell, and other tech leaders congratulate Trump on his election victory &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241106/p23#a241106p23)
- - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)<!-- TECH:END -->
+ - [Best Samsung Galaxy Tab S9 Deals: Early Black Friday Discounts and Trade-In Offers Worth Considering](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
+ - [Anyone Can Follow the 10-3-2-1-0 Sleep Rule Tonight](https://www.cnet.com/health/sleep/anyone-can-follow-the-10-3-2-1-0-sleep-rule-tonight/#ftag=CAD590a51e)
+ - [Nintendo’s next generation is off to a great start](https://www.theverge.com/2024/11/6/24289674/nintendo-switch-2-next-generation-backward-compatibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

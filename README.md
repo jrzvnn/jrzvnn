@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Trump nears a US election win, Polymarket, Kalshi, PredictIt, and other predict betting markets, which heavily favored Trump, are seemingly vindicated &lpar;Marc Hochstein/CoinDesk&rpar;](http://www.techmeme.com/241106/p10#a241106p10)
+ - [Trump Media &amp; Technology Group&#39;s stock jumps 30%+ in pre-market trading, hitting a $7B+ market cap, as Trump looks set to win; TSLA rises 13%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p12#a241106p12)
+ - [Elon Musk&#39;s gamble on Donald Trump pays off, as Trump looks set to win; Trump gave Musk a lengthy shout out in his victory speech, calling him &quot;a super-genius&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p11#a241106p11)
+ - [As Trump nears a US election win, Polymarket, Kalshi, PredictIt, and other prediction betting markets, which heavily favored Trump, are seemingly vindicated &lpar;Marc Hochstein/CoinDesk&rpar;](http://www.techmeme.com/241106/p10#a241106p10)
  - [Nvidia closed up 2.9% at $139.93, hitting a $3.43T market cap and surpassing Apple at $3.38T and Microsoft at $3.06T; NVDA is up 850% since the end of 2022 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241106/p9#a241106p9)
- - [Wise reports H1 2025 revenue up 19% YoY to &amp;pound;591.9M, profit up 55% YoY to &amp;pound;217.3M, and active consumer and business clients up 25% YoY to 11.4M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241106/p8#a241106p8)
- - [Abu Dhabi National Oil Company CEO Sultan al-Jaber says AI gives oil firms incentive to invest in renewables, as ADNOC unveils plans for integrating AI agents &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241106/p7#a241106p7)
- - [Best Internet Providers in Alexandria, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-alexandria-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wise reports H1 2025 revenue up 19% YoY to &amp;pound;591.9M, profit up 55% YoY to &amp;pound;217.3M, and active consumer and business clients up 25% YoY to 11.4M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241106/p8#a241106p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

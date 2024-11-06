@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini shows Apple can be low cost -- it just doesn&#39;t often want to](https://appleinsider.com/articles/24/11/06/mac-mini-shows-apple-can-be-low-cost----it-just-doesnt-often-want-to?utm_medium=rss)
- - [9 Best Down Comforters &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
- - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)
- - [Take Your Best Night-Mode Photos on Your Phone With These Pro Tips](https://www.cnet.com/tech/mobile/take-your-best-night-mode-photos-on-your-phone-with-these-pro-tips/#ftag=CAD590a51e)
- - [The Stanley Tumbler Is Worth the Hype. Here&#39;s Why It Makes a Great Gift](https://www.cnet.com/deals/the-stanley-tumbler-is-worth-the-hype-heres-why-it-makes-a-great-gift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD Ryzen 7 9800X3D review: the $479 Zen 5-based GPU improves gaming performance, day-to-day tasks, and creative workloads, and should be the pick for PC gamers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241106/p17#a241106p17)
+ - [Keychron K2 HE Review: An Affordable Hall Effect Keyboard](https://www.wired.com/review/keychron-k2-he/)
+ - [Lyft is also partnering with robotaxi companies](https://www.theverge.com/2024/11/6/24289475/lyft-may-mobility-mobileye-nexar-autonomous-robotaxi)
+ - [AMD Ryzen 7 9800X3D: the best gaming CPU](https://www.theverge.com/2024/11/6/24288948/amd-ryzen-7-9800x3d-review-cpu-processor-benchmark-test)
+ - [Mac mini shows Apple can be low cost -- it just doesn&#39;t often want to](https://appleinsider.com/articles/24/11/06/mac-mini-shows-apple-can-be-low-cost----it-just-doesnt-often-want-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

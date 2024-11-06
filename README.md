@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He has done it twice](http://9gag.com/gag/a5QWdzr)
- - 😝 [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
- - 💣 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
- - 😝 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)
- - 👉 [To everyone that promised to leave/unalive themselves when Trump wins](http://9gag.com/gag/an74X5z)<!-- MEMES:END -->
+ - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
+ - 👉 [Walmart employee about tragedy recently](http://9gag.com/gag/avyoYpE)<!-- MEMES:END -->
 
 ---
 

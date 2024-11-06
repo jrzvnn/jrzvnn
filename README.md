@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beethoven](http://9gag.com/gag/aAyeBKE)
- - 😝 [They tested her](http://9gag.com/gag/amovqov)
- - 💣 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - 😝 [Massive protests started in Serbia after a train station built by corrupt government collapsed just months after opening, killing at least 14 people](http://9gag.com/gag/a1mWvAR)
- - 👉 [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)<!-- MEMES:END -->
+ - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
+ - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - 💣 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
+ - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
 
 ---
 

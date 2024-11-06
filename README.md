@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - 😝 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
  - 💣 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)
  - 😝 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
- - 👉 [Future felon](http://9gag.com/gag/a9yRQZK)<!-- MEMES:END -->
+ - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
 
 ---
 

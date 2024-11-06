@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
  - 😝 [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)
- - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
- - 😝 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
- - 👉 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)<!-- MEMES:END -->
+ - 💣 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
+ - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
+ - 👉 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)<!-- MEMES:END -->
 
 ---
 

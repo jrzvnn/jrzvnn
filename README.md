@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
- - 😝 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
- - 💣 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
- - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 👉 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)<!-- MEMES:END -->
+ - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - 😝 [He has done it twice](http://9gag.com/gag/a5QWdzr)
+ - 💣 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
+ - 😝 [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
+ - 👉 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)<!-- MEMES:END -->
 
 ---
 

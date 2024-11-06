@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [9 Best Down Comforters &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
  - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)
- - [I flew DJI’s $199 drone with its new $229 Goggles N3](https://www.theverge.com/24285651/dji-goggles-n3-price-release-date-hands-on)
- - [9 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)
- - [A look at Trump&#39;s potential new administration, including Elon Musk, tasked with &quot;a complete financial and performance audit of the entire federal government&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p16#a241106p16)<!-- TECH:END -->
+ - [Take Your Best Night-Mode Photos on Your Phone With These Pro Tips](https://www.cnet.com/tech/mobile/take-your-best-night-mode-photos-on-your-phone-with-these-pro-tips/#ftag=CAD590a51e)
+ - [The Stanley Tumbler Is Worth the Hype. Here&#39;s Why It Makes a Great Gift](https://www.cnet.com/deals/the-stanley-tumbler-is-worth-the-hype-heres-why-it-makes-a-great-gift/#ftag=CAD590a51e)
+ - [You Should Check Out These Epic Sci-Fi Movies on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Power Bank for iPhones in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
  - [GOP&#39;s Bernie Moreno, a blockchain entrepreneur, defeats Senate Banking Chair Sherrod Brown in Ohio Senate race, where crypto PACs directed $40M to defeat Brown &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/241106/p4#a241106p4)
  - [A ~12% stock rally on November 5 lifted Reddit&#39;s market cap to $21.5B, making Reddit more valuable than Snap, which has 4x as many users and 4x as much revenue &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/241106/p3#a241106p3)
  - [Extra 25% Off Nike Promo Code | November 2024](https://www.wired.com/story/nike-promo-code/)
- - [KitchenAid Promo Codes and Coupons: 30% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Dogecoin and other memecoins rise as Trump gets closer to victory; memecoins and AI-related tokens outperformed the crypto market in the lead-up to Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241106/p2#a241106p2)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Coupons: 30% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

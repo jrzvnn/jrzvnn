@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bitcoin passes $74K to reach an all-time high amid Donald Trump&#39;s early lead in the 2024 US presidential race; bitcoin is up nearly 70% year-to-date &lpar;The Block&rpar;](http://www.techmeme.com/241105/p28#a241105p28)
+ - [Today&#39;s NYT Mini Crossword Answers for Wedneday, Nov. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wedneday-nov-6/#ftag=CAD590a51e)
  - [Logitech G915 X Keyboard review: Stylish and slim](https://appleinsider.com/articles/24/11/06/logitech-g915-x-keyboard-review-stylish-and-slim?utm_medium=rss)
- - [Scenes From a Battleground Philadelphia Suburb on Election Day](https://www.wired.com/story/election-day-battleground-philadelphia-suburb-photos/)
- - [If the Electoral College has invaded your phone screen, here’s how to get rid of it](https://www.theverge.com/2024/11/5/24289313/washington-post-toggle-election-night-ios)
- - [Nintendo says its unannounced Switch successor will be able to play current Switch games and have carryover for Switch Online services and accounts &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/241105/p27#a241105p27)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 6, #1236](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-6-1236/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 6, #514](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-6-514/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

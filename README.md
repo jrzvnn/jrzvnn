@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
+ - 😝 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
  - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 💣 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
- - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
- - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
+ - 💣 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)
+ - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
 
 ---
 

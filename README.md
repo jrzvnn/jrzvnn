@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scenes From a Battleground Philadelphia Suburb on Election Day](https://www.wired.com/story/election-day-battleground-philadelphia-suburb-photos/)
  - [If the Electoral College has invaded your phone screen, here’s how to get rid of it](https://www.theverge.com/2024/11/5/24289313/washington-post-toggle-election-night-ios)
  - [Nintendo says its unannounced Switch successor will be able to play current Switch games and have carryover for Switch Online services and accounts &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/241105/p27#a241105p27)
  - [In a lawsuit, the US FTC accuses fintech startup Dave of misleading struggling borrowers about its cash advances&#39; terms, charging undisclosed fees, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/241105/p26#a241105p26)
- - [Coupang reports Q3 revenue up 27% YoY to $7.9B, net retail sales of $6.14B, vs. $6.24B est., and operating income below projections; CPNG drops 8% after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241105/p25#a241105p25)
- - [Nintendo says its Switch successor will be backward compatible with Switch games](https://www.theverge.com/2024/11/5/24284745/switch-2-backward-compatibility-nintendo-online-preservation)<!-- TECH:END -->
+ - [Coupang reports Q3 revenue up 27% YoY to $7.9B, net retail sales of $6.14B, vs. $6.24B est., and operating income below projections; CPNG drops 8% after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241105/p25#a241105p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)
+ - [A look at Trump&#39;s potential new administration, including Elon Musk, tasked with &quot;a complete financial and performance audit of the entire federal government&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p16#a241106p16)
+ - [The $50 Million Movie &#39;Here&#39; De-Aged Tom Hanks With Generative AI](https://www.wired.com/story/here-movie-de-age-tom-hanks-generative-ai/)
  - [Budget Apple Vision Pro could be slimmer and brighter](https://appleinsider.com/articles/24/11/06/budget-apple-vision-pro-could-be-slimmer-and-brighter?utm_medium=rss)
- - [Corning’s Gorilla Glass under EU antitrust investigation](https://www.theverge.com/2024/11/6/24289450/corning-eu-antitrust-investigation-gorilla-glass)
- - [Apple Watch users may get a Ten Year Celebration activity challenge](https://appleinsider.com/articles/24/11/06/apple-watch-users-may-get-a-ten-year-celebration-activity-challenge?utm_medium=rss)
- - [Donald Trump wins the 2024 presidential election](https://www.theverge.com/2024/11/6/24287838/donald-trump-wins-2024-presidential-election)
- - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)<!-- TECH:END -->
+ - [Corning’s Gorilla Glass under EU antitrust investigation](https://www.theverge.com/2024/11/6/24289450/corning-eu-antitrust-investigation-gorilla-glass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

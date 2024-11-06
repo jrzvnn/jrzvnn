@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony PlayStation 5 Pro Review: More Power, More Immersion, More Money](https://www.wired.com/review/sony-playstation-5-pro/)
  - [How to use iPad in portrait with Sidecar with macOS Sequoia](https://appleinsider.com/inside/ipados-18/tips/how-to-use-ipad-in-portrait-with-sidecar-with-macos-sequoia?utm_medium=rss)
  - [Did OpenAI just spend more than $10 million on a URL?](https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot)
  - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

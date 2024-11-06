@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Take-Two is selling its indie games label Private Division](https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale)
  - [CrowdStrike agrees to acquire Tel Aviv-based Adaptive Shield, which offers cloud security for SaaS apps; sources say CrowdStrike will pay ~$300M for the company &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241106/p32#a241106p32)
  - [The FTC orders Sitejabber to stop faking product reviews](https://www.theverge.com/2024/11/6/24289857/ftc-fake-review-order-sitejabber-misleading-product-ratings)
  - [NYT tech workers are making their own games while on strike](https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle)
- - [Microsoft’s new emulator could bring more games to Windows on Arm](https://www.theverge.com/2024/11/6/24289844/microsoft-windows-on-arm-emulator-prism-update)
- - [Election Denial Conspiracy Theories Are Exploding on X. This Time They’re Coming From the Left](https://www.wired.com/story/election-denial-conspiracy-theories-x-left-blueanon/)<!-- TECH:END -->
+ - [Microsoft’s new emulator could bring more games to Windows on Arm](https://www.theverge.com/2024/11/6/24289844/microsoft-windows-on-arm-emulator-prism-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

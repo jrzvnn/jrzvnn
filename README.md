@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)
+ - [I flew DJI’s $199 drone with its new $229 Goggles N3](https://www.theverge.com/24285651/dji-goggles-n3-price-release-date-hands-on)
  - [9 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)
  - [A look at Trump&#39;s potential new administration, including Elon Musk, tasked with &quot;a complete financial and performance audit of the entire federal government&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p16#a241106p16)
- - [The $50 Million Movie &#39;Here&#39; De-Aged Tom Hanks With Generative AI](https://www.wired.com/story/here-movie-de-age-tom-hanks-generative-ai/)
- - [Budget Apple Vision Pro could be slimmer and brighter](https://appleinsider.com/articles/24/11/06/budget-apple-vision-pro-could-be-slimmer-and-brighter?utm_medium=rss)
- - [Corning’s Gorilla Glass under EU antitrust investigation](https://www.theverge.com/2024/11/6/24289450/corning-eu-antitrust-investigation-gorilla-glass)<!-- TECH:END -->
+ - [The $50 Million Movie &#39;Here&#39; De-Aged Tom Hanks With Generative AI](https://www.wired.com/story/here-movie-de-age-tom-hanks-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

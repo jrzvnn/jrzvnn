@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
- - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
- - 👉 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)<!-- MEMES:END -->
+ - 😝 [Guess who&#39;s back.](http://9gag.com/gag/azxmLVx)
+ - 😝 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
+ - 💣 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)
+ - 😝 [Trump 2024](http://9gag.com/gag/ajP965p)
+ - 👉 [Good morning everyone](http://9gag.com/gag/amovXgd)<!-- MEMES:END -->
 
 ---
 

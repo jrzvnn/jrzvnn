@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
  - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - 💣 [Too bad](http://9gag.com/gag/aPA7vXq)
- - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
+ - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 👉 [They tested her](http://9gag.com/gag/amovqov)<!-- MEMES:END -->
 
 ---
 

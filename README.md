@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Akron, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-akron-oh/#ftag=CAD590a51e)
- - [Perplexity Dove Into Real-Time Election Tracking While Other AI Companies Held Back](https://www.wired.com/story/perplexity-election-tracking/)
- - [Did Your Sleep Take a Hit With the Time Change? Here Are Our Favorite Sleep Products To Combat The End of Daylight Saving](https://www.cnet.com/health/sleep/wellness-editors-favorite-sleep-products-for-the-end-of-dst/#ftag=CAD590a51e)
- - [&#39;Look Back&#39; Anime Movie Hits Streaming: When to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/look-back-anime-movie-hits-streaming-when-to-watch-on-prime-video/#ftag=CAD590a51e)
- - [Hands on with Belkin&#39;s Vision Pro strap that Apple didn&#39;t want to make](https://appleinsider.com/articles/24/11/06/hands-on-with-belkins-vision-pro-strap-that-apple-didnt-want-to-make?utm_medium=rss)<!-- TECH:END -->
+ - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)
+ - [Generation gaps: How much faster Apple Silicon gets with each release](https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release?utm_medium=rss)
+ - [All the Big Tech leaders congratulating Donald Trump](https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election)
+ - [What a Trump victory means for tech: antitrust woes die down, except for Google, TikTok survives, AI progress accelerates, social media shifts right, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241106/p22#a241106p22)
+ - [Life is Strange: Double Exposure ends with a disappointing finale](https://www.theverge.com/24289524/life-is-strange-double-exposure-review-pc-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

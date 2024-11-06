@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Akron, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-akron-oh/#ftag=CAD590a51e)
  - [Perplexity Dove Into Real-Time Election Tracking While Other AI Companies Held Back](https://www.wired.com/story/perplexity-election-tracking/)
- - [Hands on with Belkin&#39;s Vision Pro strap that Apple didn&#39;t want to make](https://appleinsider.com/articles/24/11/06/hands-on-with-belkins-vision-pro-strap-that-apple-didnt-want-to-make?utm_medium=rss)
- - [Stand With Crypto: US voters elected 253 pro-crypto candidates to the House, compared to 115 anti-crypto candidates, and 16 pro-crypto Senate candidates &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/241106/p21#a241106p21)
- - [Jeff Bezos congratulates Trump on his &quot;political comeback and decisive victory&quot; in a rare X post; Bezos last reacted to Trump&#39;s failed assassination on July 13 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241106/p20#a241106p20)
- - [The Manosphere Won](https://www.wired.com/story/donald-trump-manosphere-won/)<!-- TECH:END -->
+ - [Did Your Sleep Take a Hit With the Time Change? Here Are Our Favorite Sleep Products To Combat The End of Daylight Saving](https://www.cnet.com/health/sleep/wellness-editors-favorite-sleep-products-for-the-end-of-dst/#ftag=CAD590a51e)
+ - [&#39;Look Back&#39; Anime Movie Hits Streaming: When to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/look-back-anime-movie-hits-streaming-when-to-watch-on-prime-video/#ftag=CAD590a51e)
+ - [Hands on with Belkin&#39;s Vision Pro strap that Apple didn&#39;t want to make](https://appleinsider.com/articles/24/11/06/hands-on-with-belkins-vision-pro-strap-that-apple-didnt-want-to-make?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What does Trump’s election mean for EVs, Tesla, and Elon Musk?](https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk)
- - [European Union evaluating if Corning monopolizes the smartphone screen market](https://appleinsider.com/articles/24/11/06/european-union-evaluating-if-corning-monopolizes-the-smartphone-screen-market?utm_medium=rss)
- - [iPhone average selling price soars because of big demand for Pro models &amp; more storage](https://appleinsider.com/articles/24/11/06/iphone-average-selling-price-soars-because-of-big-demand-for-pro-models-more-storage?utm_medium=rss)
- - [Google’s Pixel Watch 3 is available at a new record low price for Verge readers](https://www.theverge.com/2024/11/6/24288785/googles-pixel-watch-3-m2-macbook-air-deal-sale)
- - [Pick up Apple&#39;s M2 MacBook Air with 16GB RAM for $799 with early Black Friday savings](https://appleinsider.com/articles/24/11/06/pick-up-apples-m2-macbook-air-with-16gb-ram-for-799-with-early-black-friday-savings?utm_medium=rss)<!-- TECH:END -->
+ - [Jeff Bezos congratulates Trump on his &quot;political comeback and decisive victory&quot; in a rare X post; Bezos last reacted to Trump&#39;s failed assassination on July 13 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241106/p20#a241106p20)
+ - [The Manosphere Won](https://www.wired.com/story/donald-trump-manosphere-won/)
+ - [Don&#39;t Miss Out on the Samsung Galaxy Tab S9 FE At A Record-Low Price](https://www.cnet.com/deals/dont-miss-out-on-the-samsung-galaxy-tab-s9-fe-at-a-record-low-price/#ftag=CAD590a51e)
+ - [Best Light Therapy Lamps for 2024](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)
+ - [How Another Fed Rate Cut Could Help &lpar;or Hurt&rpar; Your Finances](https://www.cnet.com/personal-finance/banking/how-another-fed-rate-cut-could-help-or-hurt-your-finances/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

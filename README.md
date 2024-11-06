@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s back.](http://9gag.com/gag/azxmLVx)
- - 😝 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
- - 💣 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)
- - 😝 [Trump 2024](http://9gag.com/gag/ajP965p)
- - 👉 [Good morning everyone](http://9gag.com/gag/amovXgd)<!-- MEMES:END -->
+ - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - 💣 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
+ - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
+ - 👉 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)<!-- MEMES:END -->
 
 ---
 

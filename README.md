@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
- - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
- - 😝 [Guess who is back](http://9gag.com/gag/a2vWNZp)
- - 👉 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)<!-- MEMES:END -->
+ - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
+ - 💣 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
+ - 👉 [Probably my favorite clip from last night.](http://9gag.com/gag/ayNe07r)<!-- MEMES:END -->
 
 ---
 

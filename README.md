@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
- - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
- - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 👉 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)<!-- MEMES:END -->
+ - 😝 [To everyone that promised to leave/unalive themselves when Trump wins](http://9gag.com/gag/an74X5z)
+ - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
+ - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
+ - 😝 [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
+ - 👉 [And the tyranny already begins](http://9gag.com/gag/a1mWewP)<!-- MEMES:END -->
 
 ---
 

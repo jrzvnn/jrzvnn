@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
  - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 💣 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
  - 😝 [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
- - 👉 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)<!-- MEMES:END -->
+ - 💣 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
 
 ---
 

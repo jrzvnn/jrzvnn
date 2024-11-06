@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
  - 😝 [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
- - 💣 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
+ - 💣 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
  - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
  - 👉 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)<!-- MEMES:END -->
 

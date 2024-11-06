@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo’s next generation is off to a great start](https://www.theverge.com/2024/11/6/24289674/nintendo-switch-2-next-generation-backward-compatibility)
+ - [Far-Right Donald Trump Supporters Celebrate His Victory with Violent Memes and Calls for Executions](https://www.wired.com/story/donald-trump-far-right-supporters-violent-memes/)
+ - [Jeff Bezos, Sam Altman, Sundar Pichai, Mark Zuckerberg, Satya Nadella, Michael Dell, and other tech leaders congratulate Trump on his election victory &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241106/p23#a241106p23)
  - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)
- - [Generation gaps: How much faster Apple Silicon gets with each release](https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release?utm_medium=rss)
- - [All the Big Tech leaders congratulating Donald Trump](https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election)
- - [What a Trump victory means for tech: antitrust woes die down, except for Google, TikTok survives, AI progress accelerates, social media shifts right, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241106/p22#a241106p22)
- - [Life is Strange: Double Exposure ends with a disappointing finale](https://www.theverge.com/24289524/life-is-strange-double-exposure-review-pc-ps5-xbox)<!-- TECH:END -->
+ - [Generation gaps: How much faster Apple Silicon gets with each release](https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

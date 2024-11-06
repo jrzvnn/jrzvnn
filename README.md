@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Budget Apple Vision Pro could be slimmer and brighter](https://appleinsider.com/articles/24/11/06/budget-apple-vision-pro-could-be-slimmer-and-brighter?utm_medium=rss)
+ - [Corning’s Gorilla Glass under EU antitrust investigation](https://www.theverge.com/2024/11/6/24289450/corning-eu-antitrust-investigation-gorilla-glass)
+ - [Apple Watch users may get a Ten Year Celebration activity challenge](https://appleinsider.com/articles/24/11/06/apple-watch-users-may-get-a-ten-year-celebration-activity-challenge?utm_medium=rss)
  - [Donald Trump wins the 2024 presidential election](https://www.theverge.com/2024/11/6/24287838/donald-trump-wins-2024-presidential-election)
- - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)
- - [The EU Commission opens an antitrust investigation into smartphone glass maker Corning over allegedly abusing its market dominance to squeeze out rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/241106/p14#a241106p14)
- - [52 Best Christmas Gifts 2024: Early Ideas for This Year&#39;s Holiday Shopping](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
- - [Refinance Rates Tick Higher: Mortgage Refinance Rates on Nov. 6, 2024](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-on-nov-6-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

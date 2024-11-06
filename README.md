@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 😝 [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
- - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
- - 😝 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
- - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
+ - 😝 [Probably my favorite clip from last night.](http://9gag.com/gag/ayNe07r)
+ - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - 💣 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
+ - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
 
 ---
 

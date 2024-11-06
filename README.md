@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a lawsuit, the US FTC accuses fintech startup Dave of misleading struggling borrowers about its cash advances&#39; terms, charging undisclosed fees, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/241105/p26#a241105p26)
+ - [Coupang reports Q3 revenue up 27% YoY to $7.9B, net retail sales of $6.14B, vs. $6.24B est., and operating income below projections; CPNG drops 8% after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241105/p25#a241105p25)
+ - [Nintendo says its Switch successor will be backward compatible with Switch games](https://www.theverge.com/2024/11/5/24284745/switch-2-backward-compatibility-nintendo-online-preservation)
  - [Groypers Gave Illegal Hot Dogs and Burgers to Trump Voters](https://www.wired.com/story/groypers-illegally-gave-hot-dogs-and-burgers-to-trump-voters/)
- - [Suzuki teams up with Toyota on its first EV: the E Vitara](https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch)
- - [Elon Musk&#39;s America PAC Canvassers Faced Surveillance, Sickness, and Late Pay in Arizona](https://www.wired.com/story/elon-musks-america-pac-canvassers-surveillance-sickness-late-pay-arizona/)
- - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)
- - [Elon Musk is being sued over his $1 million giveaway to voters — again](https://www.theverge.com/2024/11/5/24289173/elon-musk-america-pac-class-action-lawsuit-fraud)<!-- TECH:END -->
+ - [Best Vitamin Subscriptions for 2024](https://www.cnet.com/health/nutrition/best-vitamin-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

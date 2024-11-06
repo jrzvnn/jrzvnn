@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac mini shows Apple can be low cost -- it just doesn&#39;t often want to](https://appleinsider.com/articles/24/11/06/mac-mini-shows-apple-can-be-low-cost----it-just-doesnt-often-want-to?utm_medium=rss)
  - [9 Best Down Comforters &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
  - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)
  - [Take Your Best Night-Mode Photos on Your Phone With These Pro Tips](https://www.cnet.com/tech/mobile/take-your-best-night-mode-photos-on-your-phone-with-these-pro-tips/#ftag=CAD590a51e)
- - [The Stanley Tumbler Is Worth the Hype. Here&#39;s Why It Makes a Great Gift](https://www.cnet.com/deals/the-stanley-tumbler-is-worth-the-hype-heres-why-it-makes-a-great-gift/#ftag=CAD590a51e)
- - [You Should Check Out These Epic Sci-Fi Movies on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Stanley Tumbler Is Worth the Hype. Here&#39;s Why It Makes a Great Gift](https://www.cnet.com/deals/the-stanley-tumbler-is-worth-the-hype-heres-why-it-makes-a-great-gift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

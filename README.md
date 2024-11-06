@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s the first 240W USB-PD charger you can actually buy](https://www.theverge.com/2024/11/6/24289498/delta-electronics-240w-usb-c-pd-charger-first-adapter)
+ - [Polymarket and Kalshi expect to pay out ~$450M total to US election bettors; Kalshi says 28K bet on Harris, 40K on Trump; one Polymarket user bet $40M on Trump &lpar;Michelle Conlin/Reuters&rpar;](http://www.techmeme.com/241106/p19#a241106p19)
  - [Stardew Valley’s 1.6 Update Is Out Everywhere &lpar;2024&rpar;](https://www.wired.com/story/stardew-valley-november-2024-update/)
  - [Another Trump presidency is literally toxic — his opponents are gearing up for battle](https://www.theverge.com/2024/11/6/24288965/election-trump-president-environment-pollution-climate-change)
- - [Apple in talks with Foxconn to build Apple Intelligence servers in Taiwan](https://appleinsider.com/articles/24/11/06/apple-in-talks-with-foxconn-to-build-apple-intelligence-servers-in-taiwan?utm_medium=rss)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [Best Kindle to Buy in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [Apple in talks with Foxconn to build Apple Intelligence servers in Taiwan](https://appleinsider.com/articles/24/11/06/apple-in-talks-with-foxconn-to-build-apple-intelligence-servers-in-taiwan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

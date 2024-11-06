@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 💣 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
  - 😝 [Unbelievable](http://9gag.com/gag/aLn0qLv)
- - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 😝 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
- - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
+ - 👉 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)<!-- MEMES:END -->
 
 ---
 

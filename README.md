@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did OpenAI just spend more than $10 million on a URL?](https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)
- - [First Fed Meeting After Election: Expect a Rate Cut, but What&#39;s in Store for 2025?](https://www.cnet.com/personal-finance/banking/why-this-weeks-fed-meeting-might-not-matter-as-much-as-next-years/#ftag=CAD590a51e)
- - [Best Cheap TV Deals: Score Top TVs from Amazon, LG and More for Under $500](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
- - [OpenAI acquired chat.com, which now redirects to ChatGPT; HubSpot co-founder Dharmesh Shah reportedly bought the domain, registered in 1996, for $15.5M in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241106/p25#a241106p25)<!-- TECH:END -->
+ - [First Fed Meeting After Election: Expect a Rate Cut, but What&#39;s in Store for 2025?](https://www.cnet.com/personal-finance/banking/why-this-weeks-fed-meeting-might-not-matter-as-much-as-next-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

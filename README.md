@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony PlayStation 5 Pro Review: More Power, More Immersion, More Money](https://www.wired.com/review/sony-playstation-5-pro/)
- - [How to use iPad in portrait with Sidecar with macOS Sequoia](https://appleinsider.com/inside/ipados-18/tips/how-to-use-ipad-in-portrait-with-sidecar-with-macos-sequoia?utm_medium=rss)
- - [Did OpenAI just spend more than $10 million on a URL?](https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
+ - [Apple&#39;s numerous internal projects led to the upcoming API-powered Siri with AI](https://appleinsider.com/articles/24/11/06/apples-numerous-internal-projects-led-to-the-upcoming-api-powered-siri-with-ai?utm_medium=rss)
+ - [As Trump Takes a Victory Lap, the Crypto Faithful Kiss the Ring](https://www.wired.com/story/trump-crypto-support/)
+ - [DJI announces the $229 Goggles N3 for its FPV drones Neo and Avata 2, with a 1080p screen, a 54-degree field of view, and a defogger, available later this month &lpar;Adrian Kingsley-Hughes/ZDNET&rpar;](http://www.techmeme.com/241106/p26#a241106p26)
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
+ - [Donald Trump&#39;s Win Cements a New Era for Campaigning Online](https://www.wired.com/story/donald-trump-online-campaign-era/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name that girl band.](http://9gag.com/gag/awyBNnW)
+ - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
  - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
- - 💣 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
+ - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 👉 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)<!-- MEMES:END -->
 
 ---
 

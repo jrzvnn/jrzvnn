@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [He has done it twice](http://9gag.com/gag/a5QWdzr)
  - 😝 [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
  - 💣 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
- - 😝 [To everyone that promised to leave/unalive themselves when Trump wins](http://9gag.com/gag/an74X5z)
- - 👉 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)<!-- MEMES:END -->
+ - 😝 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)
+ - 👉 [To everyone that promised to leave/unalive themselves when Trump wins](http://9gag.com/gag/an74X5z)<!-- MEMES:END -->
 
 ---
 

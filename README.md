@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
- - 😝 [Every damn time](http://9gag.com/gag/aW4x6Vq)
- - 💣 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
- - 😝 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 😝 [Understandable, have a nice day](http://9gag.com/gag/aD24oex)
+ - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
  - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---

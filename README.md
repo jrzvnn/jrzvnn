@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 💣 [The best co worker huh?](http://9gag.com/gag/a87GW46)
- - 😝 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
- - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
+ - 😝 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
+ - 👉 [We are SO back!](http://9gag.com/gag/aVvwPrn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC SVP Cliff Hou says Taiwan must improve its chip tech to maintain its global leadership; in October, Trump said that Taiwan &quot;stole 95% of our business&quot; &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241107/p13#a241107p13)
  - [Sources: before Trump&#39;s win, Elon Musk asked him to hire SpaceX staff as top government officials, including in the DOD, a sign of the benefits Musk may reap &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p12#a241107p12)
  - [How doctors are pioneering the use of AI to improve outcomes for patients, including faster diagnostics, more targeted treatment, and better communication &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/241107/p11#a241107p11)
  - [Best CD Rates Today, Nov. 7, 2024: Lock in a High APY While You Still Can](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-7-2024/#ftag=CAD590a51e)
- - [Nintendo says it has sold 146M Switch consoles in 7.5 years, the user community has grown to 127M annual players, and Pok&amp;eacute;mon sales on Switch have reached 99M &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241107/p10#a241107p10)
- - [Best Internet Providers in Bryan, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-bryan-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo says it has sold 146M Switch consoles in 7.5 years, the user community has grown to 127M annual players, and Pok&amp;eacute;mon sales on Switch have reached 99M &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241107/p10#a241107p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

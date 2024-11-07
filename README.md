@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh sure... wait what](http://9gag.com/gag/aZZyWM6)
- - 😝 [As OP I concur](http://9gag.com/gag/aAyeRx2)
- - 💣 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
- - 👉 [Unexpected question](http://9gag.com/gag/adBVYXd)<!-- MEMES:END -->
+ - 😝 [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
+ - 😝 [The memeconemy is booming](http://9gag.com/gag/aE0P7Ox)
+ - 💣 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
+ - 😝 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
+ - 👉 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)<!-- MEMES:END -->
 
 ---
 

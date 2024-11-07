@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Tested Safety Apps for Personal Protection &lpar;2024&rpar;](https://www.wired.com/gallery/which-personal-safety-app-is-best-for-me/)
+ - [Microsoft Outlook now has dynamic AI-powered themes](https://www.theverge.com/2024/11/7/24290273/microsoft-outlook-ai-themes-copilot)
  - [Early Black Friday deals: save up to $300 on every M4 MacBook Pro 14-inch &amp; 16-inch](https://appleinsider.com/articles/24/11/07/early-black-friday-deals-save-up-to-300-on-every-m4-macbook-pro-14-inch-16-inch?utm_medium=rss)
  - [The gorgeous Mononoke movie is coming to Netflix later this month](https://www.theverge.com/2024/11/7/24290381/mononoke-the-movie-phantom-in-the-rain-netflix-premiere-date-trailer)
- - [Galaxy Digital signs a non-binding deal with a US-based hyperscaler company to use its 800MW of mining capacity for hosting high-performance computers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p26#a241107p26)
- - [Apple iMac &lpar;M4, 2024&rpar; Review: Small but Worthwhile Upgrades](https://www.wired.com/review/apple-imac-m4-2024/)
- - [M4 Mac mini review roundup: Pint-sized powerhouse that won&#39;t break the bank](https://appleinsider.com/articles/24/11/07/m4-mac-mini-review-roundup-pint-sized-powerhouse-that-wont-break-the-bank?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy Digital signs a non-binding deal with a US-based hyperscaler company to use its 800MW of mining capacity for hosting high-performance computers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p26#a241107p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

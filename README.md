@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
+ - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)
  - [Streams Charts: Election Day livestreams generated ~84M hours of watch time, with 80.6% on YouTube, where Fox News had 1.14M peak viewers, beating other outlets &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/241107/p5#a241107p5)
  - [Blue Apron Coupon: 30% Off | November 2024](https://www.wired.com/story/blue-apron-coupon/)
- - [The US SEC&#39;s crypto-related enforcement is slated for a major rollback under President Trump, who has pledged to fire Gary Gensler on the first day in office &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p4#a241107p4)
- - [Truecaller co-founders Alan Mamedi and Nami Zarringhalam plan to hand over day-to-day company operations to product chief Rishit Jhunjhunwala in January 2025 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241107/p3#a241107p3)
- - [Qualcomm and Arm&#39;s earnings results show the smartphone industry making an uneven comeback, with both companies seeing a stronger demand for high-end models &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241107/p2#a241107p2)<!-- TECH:END -->
+ - [The US SEC&#39;s crypto-related enforcement is slated for a major rollback under President Trump, who has pledged to fire Gary Gensler on the first day in office &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p4#a241107p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

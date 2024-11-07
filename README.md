@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is opening a pop-up retail store for the Ray-Ban Meta glasses](https://www.theverge.com/2024/11/7/24290479/meta-is-opening-a-pop-up-retail-store-for-the-ray-ban-meta-glasses)
- - [Act Fast to Get This 5TB Seagate Game Drive for $130 and Never Run Out of PS5 Storage Space Again](https://www.cnet.com/deals/act-fast-to-get-this-5tb-seagate-game-drive-for-130-and-never-run-out-of-ps5-storage-space-again/#ftag=CAD590a51e)
- - [Audi launches a new brand in China without the four-ring logo](https://www.theverge.com/2024/11/7/24290431/audi-china-rebrand-e-concept-launch)
- - [iRobot is laying off staff for the second time this year](https://www.theverge.com/2024/11/7/24290515/irobot-laying-off-staff-second-time-2024)
- - [Star Wars is reportedly getting a new film trilogy](https://www.theverge.com/2024/11/7/24290544/star-wars-new-film-trilogy-simon-kinberg)<!-- TECH:END -->
+ - [Sources: CFPB told staff not to use mobile voice calls or text messages due to risk from the China-linked telecom hack; many US officials curtailed phone use &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241107/p28#a241107p28)
+ - [You can now share streaming music directly to TikTok posts](https://www.theverge.com/2024/11/7/24290571/tiktok-spotify-apple-music-integration)
+ - [Jeff Bezos says he’s a climate guy — why is he kissing the ring?](https://www.theverge.com/2024/11/7/24289945/jeff-bezos-donald-trump-election-amazon-climate-change-fund)
+ - [8BitDo now sells its retro mechanical keyboards with integrated number pads](https://www.theverge.com/2024/11/7/24290514/8bitdo-retro-108-mechanical-keyboard-nintendo-famicom-numpad)
+ - [Meta is opening a pop-up retail store for the Ray-Ban Meta glasses](https://www.theverge.com/2024/11/7/24290479/meta-is-opening-a-pop-up-retail-store-for-the-ray-ban-meta-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

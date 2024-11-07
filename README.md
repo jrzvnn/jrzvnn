@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Matter launches its 1.4 spec, including &quot;enhanced multi-admin&quot; and updates to energy management support, in a bid to get the smart home standard back on track &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241107/p20#a241107p20)
+ - [Apple Notes Is Getting Supercharged in iOS 18. Here’s What&#39;s New](https://www.wired.com/story/iphone-notes-app-in-ios-18-whats-new/)
  - [Donald Trump&#39;s win flips the idea that Elon Musk overpaid for X on its head, after Musk turned his feed into a Trump-inspired billboard for his 200M+ followers &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/241107/p19#a241107p19)
  - [Testing out Mac ultra wide display mirror on Apple Vision Pro](https://appleinsider.com/articles/24/11/07/testing-out-mac-ultra-wide-display-mirror-on-apple-vision-pro?utm_medium=rss)
- - [Anthropic partners with Palantir and AWS to provide US intelligence and defense agencies access to its Claude models and &quot;operationalize&quot; their use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241107/p18#a241107p18)
- - [New Matter 1.4 spec supports more device types &amp; improvements for Apple Home](https://appleinsider.com/articles/24/11/07/new-matter-14-spec-supports-more-device-types-improvements-for-apple-home?utm_medium=rss)<!-- TECH:END -->
+ - [Anthropic partners with Palantir and AWS to provide US intelligence and defense agencies access to its Claude models and &quot;operationalize&quot; their use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241107/p18#a241107p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

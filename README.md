@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good bye](http://9gag.com/gag/aRB7AO2)
- - 😝 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
- - 💣 [The Spaniards from Valencia and their unity.](http://9gag.com/gag/aPA7WYn)
- - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
- - 👉 [Nice smile...](http://9gag.com/gag/aryVNyX)<!-- MEMES:END -->
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 😝 [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
+ - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
+ - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
 
 ---
 

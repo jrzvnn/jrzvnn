@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
  - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 😝 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
- - 💣 [Get married already](http://9gag.com/gag/aXPgb9z)
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 👉 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)<!-- MEMES:END -->
+ - 💣 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 👉 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)<!-- MEMES:END -->
 
 ---
 

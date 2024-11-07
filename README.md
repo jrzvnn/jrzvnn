@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free hugs](http://9gag.com/gag/aAyeR89)
- - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 💣 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 😝 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
- - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 💣 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
+ - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
+ - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
 
 ---
 

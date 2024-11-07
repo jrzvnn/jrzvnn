@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AppLovin shares close up 46% after the company reported Q3 revenue up 39% YoY to $1.2B, vs. $1.13B est., and issued guidance well above est.; APP is up 519% YTD &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241107/p37#a241107p37)
  - [Toast reports Q3 revenue up 26% YoY to $1.305B, vs. $1.292B est., and annualized run rate up 28% YoY to $1.6B, vs. $1.5B est.; TOST jumps 15%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/241107/p36#a241107p36)
  - [Did Elon Musk Win the Election for Trump?](https://www.wired.com/story/politics-lab-podcast-elon-musk-donald-trump-victory/)
  - [Cloudflare reports Q3 revenue up 28% YoY to $430.1M, vs. $424.1M estimated, and forecasts Q4 revenue below estimates; NET drops 7%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241107/p35#a241107p35)
- - [iPhones stored for forensic analysis unexpectedly reboot, causing problems for police](https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials?utm_medium=rss)
- - [Soundcore Rave Party 2 Speaker](https://www.cnet.com/tech/home-entertainment/soundcore-rave-party-2-speaker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhones stored for forensic analysis unexpectedly reboot, causing problems for police](https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

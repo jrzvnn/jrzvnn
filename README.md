@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Mac mini review roundup: Pint-sized powerhouse that won&#39;t break the bank](https://appleinsider.com/articles/24/11/07/m4-mac-mini-review-roundup-pint-sized-powerhouse-that-wont-break-the-bank?utm_medium=rss)
  - [What’s really behind Big Tech’s return-to-office mandates?](https://www.theverge.com/24290345/return-to-office-mandates-amazon-productivity-remote-work-hybrid-decoder-podcast)
  - [No Man’s Sky adds cross-saves and PS5 Pro support](https://www.theverge.com/2024/11/7/24290373/no-mans-sky-cross-saves-ps5-pro-enhanced)
  - [iMac review roundup: good performance, good price -- and great colors](https://appleinsider.com/articles/24/11/07/imac-review-roundup-good-performance-good-price----and-great-colors?utm_medium=rss)
- - [Nikon’s entry-level Z50II adds a dedicated button for color styles](https://www.theverge.com/2024/11/7/24289897/nikon-z50ii-digital-camera-crop-sensor-mirrorless-aps-c)
- - [11 Best Cheap Mattresses, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)<!-- TECH:END -->
+ - [Nikon’s entry-level Z50II adds a dedicated button for color styles](https://www.theverge.com/2024/11/7/24289897/nikon-z50ii-digital-camera-crop-sensor-mirrorless-aps-c)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

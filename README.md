@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Mass Effect is Amazon’s next video game adaptation](https://www.theverge.com/2024/11/7/24290596/mass-effect-tv-show-amazon-fallout)
+ - [Pixel Watch Deals: Upgrade to the Pixel Watch 3 for Less With These Top Trade-In Offers](https://www.cnet.com/deals/pixel-watch-deals/#ftag=CAD590a51e)
+ - [Best Teeth Whitening Strips of 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
  - [Sources: CFPB told staff not to use mobile voice calls or text messages due to risk from the China-linked telecom hack; many US officials curtailed phone use &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241107/p28#a241107p28)
- - [You can now share streaming music directly to TikTok posts](https://www.theverge.com/2024/11/7/24290571/tiktok-spotify-apple-music-integration)
- - [Jeff Bezos says he’s a climate guy — why is he kissing the ring?](https://www.theverge.com/2024/11/7/24289945/jeff-bezos-donald-trump-election-amazon-climate-change-fund)
- - [8BitDo now sells its retro mechanical keyboards with integrated number pads](https://www.theverge.com/2024/11/7/24290514/8bitdo-retro-108-mechanical-keyboard-nintendo-famicom-numpad)<!-- TECH:END -->
+ - [Apple Releases First iOS 18.2 Public Beta With New Apple Intelligence Features. How to Download It](https://www.cnet.com/tech/services-and-software/apple-releases-first-ios-18-2-public-beta-with-new-apple-intelligence-features-how-to-download-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

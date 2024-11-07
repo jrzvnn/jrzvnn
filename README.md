@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
  - 😝 [Batshitcrazy](http://9gag.com/gag/aO87bgE)
- - 😝 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
+ - 💣 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
  - 😝 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
- - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
+ - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
 
 ---
 

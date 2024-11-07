@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Google Photos is getting an Updates page to help you follow changes to shared albums](https://www.theverge.com/2024/11/7/24290815/google-photos-updates-changes-shared-albums)
  - [Two senior presidential campaign officials&#39; iPhones maybe hacked by Chinese group](https://appleinsider.com/articles/24/11/07/two-senior-presidential-campaign-officials-iphones-maybe-hacked-by-chinese-group?utm_medium=rss)
  - [Dispatch From Maricopa County: Election Deniers, Voting Counts, and More](https://www.wired.com/story/maricopa-county-arizona-us-election-photos/)
- - [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture)
- - [January 6 Rioters Think Donald Trump’s Victory Is Their Get-Out-of-Jail-Free Card](https://www.wired.com/story/january-6-rioters-trump-victory-pardon/)
- - [Apple is finally letting green bubbles send message reactions](https://www.theverge.com/2024/11/7/24290703/apple-green-bubble-message-reaction-rcs-android)<!-- TECH:END -->
+ - [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

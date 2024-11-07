@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some Irish pub.](http://9gag.com/gag/aRB7P3Q)
- - 😝 [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
- - 💣 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
- - 😝 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
- - 👉 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)<!-- MEMES:END -->
+ - 😝 [Get married already](http://9gag.com/gag/aXPgb9z)
+ - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
+ - 💣 [We are SO back!](http://9gag.com/gag/aVvwPrn)
+ - 😝 [Magic](http://9gag.com/gag/aXPg07z)
+ - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
 
 ---
 

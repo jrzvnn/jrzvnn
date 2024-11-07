@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
- - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
- - 👉 [They tested her](http://9gag.com/gag/amovqov)<!-- MEMES:END -->
+ - 😝 [Batshitcrazy](http://9gag.com/gag/aO87bgE)
+ - 😝 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
+ - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
+ - 😝 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
+ - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
 
 ---
 

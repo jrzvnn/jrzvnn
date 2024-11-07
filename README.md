@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC reports Q3 revenue up 34% YoY to ~$2.17B, vs $2.2B est., and net income up 58.3% YoY to ~$148.8M, below $199.71M est., as the chip sector recovers &lpar;Reuters&rpar;](http://www.techmeme.com/241107/p15#a241107p15)
- - [MacBook Air with OLED reportedly delayed until 2028](https://appleinsider.com/articles/24/11/07/macbook-air-with-oled-reportedly-delayed-until-2028?utm_medium=rss)
- - [The Future of Political Influencers](https://www.wired.com/story/political-influencers-donald-trump/)
- - [The Creator of Houseparty Is Back. This Time He’s Taking on Slack and Discord](https://www.wired.com/story/the-creator-of-houseparty-is-back-this-time-hes-taking-on-slack-and-discord/)
- - [France&#39;s gambling regulator says it is &quot;aware&quot; of Polymarket and is &quot;currently examining its operation and compliance&quot;, after user Fredi9999 made a $48M profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p14#a241107p14)<!-- TECH:END -->
+ - [Q&amp;A with Houseparty co-founder Ben Rubin on his new group messaging platform Towns, using the River Protocol, moderation, raising a $25M Series A, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241107/p17#a241107p17)
+ - [Microsoft is bundling its AI-powered Office features into Microsoft 365 subscriptions](https://www.theverge.com/2024/11/7/24290268/microsoft-copilot-office-features-microsoft-365)
+ - [How to set up a VPN on your router for whole-home protection](https://appleinsider.com/inside/iphone/tips/how-to-set-up-a-vpn-on-your-router-for-whole-home-protection?utm_medium=rss)
+ - [Mark Zuckerberg, Tim Cook, Sundar Pichai, and more quietly courted Trump before the election, laying the groundwork for improved Silicon Valley and DC relations &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p16#a241107p16)
+ - [Alpine A290 Review: Price, Specs, Availability](https://www.wired.com/review/review-alpine-a290/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

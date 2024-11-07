@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple makes room for new Macs by rethinking retail Vision Pro demo stations](https://appleinsider.com/articles/24/11/07/apple-makes-room-for-new-macs-by-rethinking-retail-vision-pro-demo-stations?utm_medium=rss)
  - [A whole bunch of Sega classics are being delisted](https://www.theverge.com/2024/11/7/24290671/sega-classic-games-delisted)
  - [David Zaslav says Trump will fuel big media mergers](https://www.theverge.com/2024/11/7/24290627/david-zaslav-trump-big-media-mergers-warner-bros-discovery)
  - [What Donald Trump&#39;s Win Will Mean for Big Tech](https://www.wired.com/story/trump-tech-policy/)
- - [The 32 Best Movies on Hulu This Week &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Why You Should Care About the Fed&#39;s Interest Rate Decision Today](https://www.cnet.com/personal-finance/banking/why-you-should-care-about-the-feds-interest-rate-decision-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 32 Best Movies on Hulu This Week &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

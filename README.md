@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
- - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
+ - 💣 [Magic](http://9gag.com/gag/aXPg07z)
+ - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
+ - 👉 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)<!-- MEMES:END -->
 
 ---
 

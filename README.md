@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adyen reports Q3 revenue up 20% YoY to &amp;euro;498.3M, vs. &amp;euro;503.3M est., and processed volume growth slowed to 32% from 45% in H1 2024; ADYEN falls 9%+ in Amsterdam &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/241107/p8#a241107p8)
  - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)
  - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
  - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-7/#ftag=CAD590a51e)
- - [Streams Charts: Election Day livestreams generated ~84M hours of watch time, with 80.6% on YouTube, where Fox News had 1.14M peak viewers, beating other outlets &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/241107/p5#a241107p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

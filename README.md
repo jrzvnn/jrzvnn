@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
  - 😝 [Free hugs](http://9gag.com/gag/aAyeR89)
- - 💣 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
- - 😝 [They tested her](http://9gag.com/gag/amovqov)
- - 👉 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)<!-- MEMES:END -->
+ - 💣 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
 
 ---
 

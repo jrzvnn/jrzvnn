@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As OP I concur](http://9gag.com/gag/aAyeRx2)
- - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
- - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
+ - 😝 [Magic](http://9gag.com/gag/aXPg07z)
+ - 😝 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
+ - 💣 [Get married already](http://9gag.com/gag/aXPgb9z)
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
  - 👉 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)<!-- MEMES:END -->
 
 ---

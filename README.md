@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
- - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 💣 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - 😝 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
- - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
+ - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [She&#39;s overqualified](http://9gag.com/gag/an74qgq)
+ - 👉 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)<!-- MEMES:END -->
 
 ---
 

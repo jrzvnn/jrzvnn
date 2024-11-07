@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
- - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 💣 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)
- - 😝 [Understandable, have a nice day](http://9gag.com/gag/aD24oex)
- - 👉 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)<!-- MEMES:END -->
+ - 😝 [Magic](http://9gag.com/gag/aXPg07z)
+ - 😝 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
+ - 💣 [Elon&#39;s wasted $$ on twitter](http://9gag.com/gag/aqynNoZ)
+ - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
+ - 👉 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)<!-- MEMES:END -->
 
 ---
 

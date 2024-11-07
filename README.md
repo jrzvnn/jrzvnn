@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo says it has sold 146M Switch consoles in 7.5 years, the user community has grown to 127M annual players, and Pok&amp;eacute;mon sales on Switch have reached 99M &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241107/p10#a241107p10)
  - [Microsoft starts rolling out AI-powered text editing feature Rewrite in Notepad, and Generative Fill and Generative Erase features in Paint to Windows Insiders &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241107/p9#a241107p9)
  - [Best Internet Providers in Bend, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-bend-or/#ftag=CAD590a51e)
  - [Adyen reports Q3 revenue up 20% YoY to &amp;euro;498.3M, vs. &amp;euro;503.3M est., and processed volume growth slowed to 32% from 45% in H1 2024; ADYEN falls 9%+ in Amsterdam &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/241107/p8#a241107p8)
- - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [You Have Less Than 2 Weeks to Claim Your Share of Cash App&#39;s $15M Settlement. Here&#39;s How](https://www.cnet.com/personal-finance/you-have-less-than-2-weeks-to-claim-your-share-of-cash-apps-15m-settlement-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

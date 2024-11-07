@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
  - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
  - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
  - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
- - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
+ - 👉 [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)<!-- MEMES:END -->
 
 ---
 

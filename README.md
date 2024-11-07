@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble reports Q3 revenue down 0.7% YoY to $273.6M, vs. $271.9M est., its first quarterly sales drop since going public in 2021, and 4.3M total paying users &lpar;Priyanka.G/Reuters&rpar;](http://www.techmeme.com/241106/p34#a241106p34)
+ - [JPMorgan rebrands its Onyx blockchain unit as Kinexys and plans to add on-chain foreign exchange capabilities as early as Q1 2025, starting with USD and EUR &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241106/p33#a241106p33)
  - [Take-Two is selling its indie games label Private Division](https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale)
  - [CrowdStrike agrees to acquire Tel Aviv-based Adaptive Shield, which offers cloud security for SaaS apps; sources say CrowdStrike will pay ~$300M for the company &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241106/p32#a241106p32)
- - [The FTC orders Sitejabber to stop faking product reviews](https://www.theverge.com/2024/11/6/24289857/ftc-fake-review-order-sitejabber-misleading-product-ratings)
- - [NYT tech workers are making their own games while on strike](https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle)
- - [Microsoft’s new emulator could bring more games to Windows on Arm](https://www.theverge.com/2024/11/6/24289844/microsoft-windows-on-arm-emulator-prism-update)<!-- TECH:END -->
+ - [How to Watch Moo Deng, the Sassy, Viral Pygmy Hippo, on a 24/7 Livestream](https://www.cnet.com/science/how-to-watch-moo-deng-the-sassy-hippo-on-a-247-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

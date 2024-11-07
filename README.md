@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [There is still good people Out there](http://9gag.com/gag/a9yR3VW)
  - 😝 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)
- - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 💣 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
- - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - 👉 [They tested her](http://9gag.com/gag/amovqov)<!-- MEMES:END -->
+ - 💣 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 👉 [Koreans getting blue prints of johnny somali&#39;s hideouts](http://9gag.com/gag/aKG74L1)<!-- MEMES:END -->
 
 ---
 

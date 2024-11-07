@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
- - 😝 [The memeconemy is booming](http://9gag.com/gag/aE0P7Ox)
- - 💣 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
- - 😝 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
- - 👉 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)<!-- MEMES:END -->
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 💣 [The best co worker huh?](http://9gag.com/gag/a87GW46)
+ - 😝 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
+ - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
 
 ---
 

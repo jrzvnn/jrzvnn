@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)
  - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
  - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)
- - [Streams Charts: Election Day livestreams generated ~84M hours of watch time, with 80.6% on YouTube, where Fox News had 1.14M peak viewers, beating other outlets &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/241107/p5#a241107p5)
- - [Blue Apron Coupon: 30% Off | November 2024](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-7/#ftag=CAD590a51e)
+ - [Streams Charts: Election Day livestreams generated ~84M hours of watch time, with 80.6% on YouTube, where Fox News had 1.14M peak viewers, beating other outlets &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/241107/p5#a241107p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

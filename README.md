@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A whole bunch of Sega classics are being delisted](https://www.theverge.com/2024/11/7/24290671/sega-classic-games-delisted)
  - [David Zaslav says Trump will fuel big media mergers](https://www.theverge.com/2024/11/7/24290627/david-zaslav-trump-big-media-mergers-warner-bros-discovery)
  - [What Donald Trump&#39;s Win Will Mean for Big Tech](https://www.wired.com/story/trump-tech-policy/)
  - [The 32 Best Movies on Hulu This Week &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Why You Should Care About the Fed&#39;s Interest Rate Decision Today](https://www.cnet.com/personal-finance/banking/why-you-should-care-about-the-feds-interest-rate-decision-today/#ftag=CAD590a51e)
- - [Refi Rates Climb Higher as the Fed Cuts Rates. Today&#39;s Refinance Rates, Nov. 7, 2024](https://www.cnet.com/personal-finance/homeowners-face-higher-refi-rates-refinance-rates-for-nov-7-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why You Should Care About the Fed&#39;s Interest Rate Decision Today](https://www.cnet.com/personal-finance/banking/why-you-should-care-about-the-feds-interest-rate-decision-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

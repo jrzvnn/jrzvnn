@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ladies and gentlemen, let the good times start](http://9gag.com/gag/aVvwXOd)
+ - 😝 [Magic](http://9gag.com/gag/aXPg07z)
+ - 💣 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
  - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
- - 👉 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)<!-- MEMES:END -->
+ - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
 
 ---
 

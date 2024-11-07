@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toast reports Q3 revenue up 26% YoY to $1.305B, vs. $1.292B est., and annualized run rate up 28% YoY to $1.6B, vs. $1.5B est.; TOST jumps 15%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/241107/p36#a241107p36)
+ - [Did Elon Musk Win the Election for Trump?](https://www.wired.com/story/politics-lab-podcast-elon-musk-donald-trump-victory/)
  - [Cloudflare reports Q3 revenue up 28% YoY to $430.1M, vs. $424.1M estimated, and forecasts Q4 revenue below estimates; NET drops 7%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241107/p35#a241107p35)
  - [iPhones stored for forensic analysis unexpectedly reboot, causing problems for police](https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials?utm_medium=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Google Photos is getting an Updates page to help you follow changes to shared albums](https://www.theverge.com/2024/11/7/24290815/google-photos-updates-changes-shared-albums)
- - [Two senior presidential campaign officials&#39; iPhones maybe hacked by Chinese group](https://appleinsider.com/articles/24/11/07/two-senior-presidential-campaign-officials-iphones-maybe-hacked-by-chinese-group?utm_medium=rss)<!-- TECH:END -->
+ - [Soundcore Rave Party 2 Speaker](https://www.cnet.com/tech/home-entertainment/soundcore-rave-party-2-speaker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

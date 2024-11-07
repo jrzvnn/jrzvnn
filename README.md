@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Houseparty co-founder Ben Rubin on his new group messaging platform Towns, using the River Protocol, moderation, raising a $25M Series A, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241107/p17#a241107p17)
- - [Microsoft is bundling its AI-powered Office features into Microsoft 365 subscriptions](https://www.theverge.com/2024/11/7/24290268/microsoft-copilot-office-features-microsoft-365)
- - [How to set up a VPN on your router for whole-home protection](https://appleinsider.com/inside/iphone/tips/how-to-set-up-a-vpn-on-your-router-for-whole-home-protection?utm_medium=rss)
- - [Mark Zuckerberg, Tim Cook, Sundar Pichai, and more quietly courted Trump before the election, laying the groundwork for improved Silicon Valley and DC relations &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p16#a241107p16)
- - [Alpine A290 Review: Price, Specs, Availability](https://www.wired.com/review/review-alpine-a290/)<!-- TECH:END -->
+ - [Anthropic partners with Palantir and AWS to provide US intelligence and defense agencies access to its Claude models and &quot;operationalize&quot; their use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241107/p18#a241107p18)
+ - [New Matter 1.4 spec supports more device types &amp; improvements for Apple Home](https://appleinsider.com/articles/24/11/07/new-matter-14-spec-supports-more-device-types-improvements-for-apple-home?utm_medium=rss)
+ - [Archer Aviation gets another big order for its futuristic air taxis](https://www.theverge.com/2024/11/7/24290281/archer-soracle-evtol-air-taxi-japan)
+ - [Matter 1.4 tries to set the smart home standard back on track](https://www.theverge.com/2024/11/7/24289972/matter-smart-home-standard-1-4-spec-new-features-device-types)
+ - [Q&amp;A with Houseparty co-founder Ben Rubin on his new group messaging platform Towns, using the River Protocol, moderation, raising a $25M Series A, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241107/p17#a241107p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 💣 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
- - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 👉 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)<!-- MEMES:END -->
+ - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - 💣 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 😝 [Unexpected question](http://9gag.com/gag/adBVYXd)
+ - 👉 [The best co worker huh?](http://9gag.com/gag/a87GW46)<!-- MEMES:END -->
 
 ---
 

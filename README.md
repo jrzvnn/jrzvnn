@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google could add AI replies to its handy call-screening feature](https://www.theverge.com/2024/11/7/24290425/google-pixel-phone-ai-replies-call-screening)
+ - [Apple Reportedly Pushes OLED MacBook Air Release by Another Year](https://www.cnet.com/tech/computing/apple-reportedly-pushes-oled-macbook-air-release-by-another-year/#ftag=CAD590a51e)
+ - [Australia Proposes Sweeping Social Media Ban for Kids Under 16](https://www.cnet.com/tech/services-and-software/australia-proposes-sweeping-social-media-ban-for-kids-under-16/#ftag=CAD590a51e)
  - [6 Tested Safety Apps for Personal Protection &lpar;2024&rpar;](https://www.wired.com/gallery/which-personal-safety-app-is-best-for-me/)
- - [Microsoft Outlook now has dynamic AI-powered themes](https://www.theverge.com/2024/11/7/24290273/microsoft-outlook-ai-themes-copilot)
- - [Early Black Friday deals: save up to $300 on every M4 MacBook Pro 14-inch &amp; 16-inch](https://appleinsider.com/articles/24/11/07/early-black-friday-deals-save-up-to-300-on-every-m4-macbook-pro-14-inch-16-inch?utm_medium=rss)
- - [The gorgeous Mononoke movie is coming to Netflix later this month](https://www.theverge.com/2024/11/7/24290381/mononoke-the-movie-phantom-in-the-rain-netflix-premiere-date-trailer)<!-- TECH:END -->
+ - [Solar Energy World Review: The Best Warranty We&#39;ve Seen](https://www.cnet.com/home/energy-and-utilities/solar-energy-world-review-the-best-warranty-weve-seen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get married already](http://9gag.com/gag/aXPgb9z)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
- - 💣 [We are SO back!](http://9gag.com/gag/aVvwPrn)
- - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
+ - 😝 [Oh sure... wait what](http://9gag.com/gag/aZZyWM6)
+ - 😝 [As OP I concur](http://9gag.com/gag/aAyeRx2)
+ - 💣 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
+ - 👉 [Unexpected question](http://9gag.com/gag/adBVYXd)<!-- MEMES:END -->
 
 ---
 

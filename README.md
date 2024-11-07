@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [David Zaslav says Trump will fuel big media mergers](https://www.theverge.com/2024/11/7/24290627/david-zaslav-trump-big-media-mergers-warner-bros-discovery)
+ - [What Donald Trump&#39;s Win Will Mean for Big Tech](https://www.wired.com/story/trump-tech-policy/)
+ - [The 32 Best Movies on Hulu This Week &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
  - [Why You Should Care About the Fed&#39;s Interest Rate Decision Today](https://www.cnet.com/personal-finance/banking/why-you-should-care-about-the-feds-interest-rate-decision-today/#ftag=CAD590a51e)
- - [Refi Rates Climb Higher as the Fed Cuts Rates. Today&#39;s Refinance Rates, Nov. 7, 2024](https://www.cnet.com/personal-finance/homeowners-face-higher-refi-rates-refinance-rates-for-nov-7-2024/#ftag=CAD590a51e)
- - [The latest AirPods Pro are on sale for $1 shy of their all-time low today](https://www.theverge.com/2024/11/7/24290523/apple-airpods-pro-2-earbuds-walmart-best-buy-deal-sale)
- - [Best iPhone 16 Deals: Get the Greatest iPhone Yet With Huge Discounts](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
- - [How to fix iPhone Notes disappearing after iCloud terms &amp; conditions update](https://appleinsider.com/inside/ios-18/tips/how-to-fix-iphone-notes-disappearing-after-icloud-terms-conditions-update?utm_medium=rss)<!-- TECH:END -->
+ - [Refi Rates Climb Higher as the Fed Cuts Rates. Today&#39;s Refinance Rates, Nov. 7, 2024](https://www.cnet.com/personal-finance/homeowners-face-higher-refi-rates-refinance-rates-for-nov-7-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

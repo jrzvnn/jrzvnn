@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
- - 😝 [They tested her](http://9gag.com/gag/amovqov)
- - 👉 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)<!-- MEMES:END -->
+ - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - 💣 [Koreans getting blue prints of johnny somali&#39;s hideouts](http://9gag.com/gag/aKG74L1)
+ - 😝 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)
+ - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
 
 ---
 

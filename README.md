@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
- - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
- - 👉 [We are SO back!](http://9gag.com/gag/aVvwPrn)<!-- MEMES:END -->
+ - 😝 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
+ - 😝 [Every damn time](http://9gag.com/gag/aW4x6Vq)
+ - 💣 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
+ - 😝 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
+ - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---
 

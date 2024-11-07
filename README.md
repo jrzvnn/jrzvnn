@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audi launches a new brand in China without the four-ring logo](https://www.theverge.com/2024/11/7/24290431/audi-china-rebrand-e-concept-launch)
+ - [iRobot is laying off staff for the second time this year](https://www.theverge.com/2024/11/7/24290515/irobot-laying-off-staff-second-time-2024)
  - [Star Wars is reportedly getting a new film trilogy](https://www.theverge.com/2024/11/7/24290544/star-wars-new-film-trilogy-simon-kinberg)
  - [Big Tech Wants You Back in the Office](https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/)
- - [How Russia openly escalated its online interference before the US election, including fabricated videos to support Trump, some of which had very little traction &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p27#a241107p27)
- - [The Fitbit Inspire 3 is down to just $70, its best price yet](https://www.theverge.com/2024/11/7/24290438/fitbit-inspire-3-fitness-tracker-deal-sale)
- - [12 Best Stocking Stuffers &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-stocking-stuffers/)<!-- TECH:END -->
+ - [How Russia openly escalated its online interference before the US election, including fabricated videos to support Trump, some of which had very little traction &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p27#a241107p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

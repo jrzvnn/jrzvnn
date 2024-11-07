@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and gentlemen, let the good times start](http://9gag.com/gag/aVvwXOd)
- - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 💣 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
+ - 😝 [As OP I concur](http://9gag.com/gag/aAyeRx2)
+ - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
+ - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
+ - 👉 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)<!-- MEMES:END -->
 
 ---
 

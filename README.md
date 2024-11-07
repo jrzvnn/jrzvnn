@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 MacBook Pro review roundup: fantastically fast -- but no real surprises](https://appleinsider.com/articles/24/11/07/m4-macbook-pro-review-roundup-fantastically-fast----but-no-real-surprises?utm_medium=rss)
  - [Max is getting ready for its own password-sharing crackdown](https://www.theverge.com/2024/11/7/24290326/max-password-sharing-crackdown-messaging-q3-2024-earnings)
  - [Nvidia plans to add a 100-hour monthly cap for new Performance or Ultimate GeForce Now users from January 1 to avoid raising prices &quot;in the foreseeable future&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241107/p25#a241107p25)
  - [How to Use a VPN to Watch to Netflix When You Travel Overseas](https://www.wired.com/story/how-to-use-a-vpn-to-watch-to-netflix-when-you-travel/)
- - [MacBook Pro &lpar;16&quot;, 2024&rpar; review: fast M4 chips, brighter display, sharp 12MP Center Stage webcam, Thunderbolt 5, and long battery life, but pricey spec upgrades &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241107/p24#a241107p24)
- - [iMac &lpar;2024&rpar; review: M4 is speedy, 4.5K display is lovely, six speakers is great, upgraded webcam is nice, but lacks height adjustment and a touch screen option &lpar;Alex Wawro/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241107/p23#a241107p23)<!-- TECH:END -->
+ - [MacBook Pro &lpar;16&quot;, 2024&rpar; review: fast M4 chips, brighter display, sharp 12MP Center Stage webcam, Thunderbolt 5, and long battery life, but pricey spec upgrades &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241107/p24#a241107p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

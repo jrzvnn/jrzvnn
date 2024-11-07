@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
- - 😝 [Free hugs](http://9gag.com/gag/aAyeR89)
- - 💣 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
- - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
- - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
+ - 😝 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
+ - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
+ - 💣 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
+ - 😝 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
+ - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 💣 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
- - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
- - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
+ - 😝 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
+ - 😝 [Batshitcrazy](http://9gag.com/gag/aO87bgE)
+ - 💣 [US Election](http://9gag.com/gag/a9yndOZ)
+ - 😝 [Do Not Come](http://9gag.com/gag/a4P3dRy)
+ - 👉 [Guess who is back](http://9gag.com/gag/a2vWNZp)<!-- MEMES:END -->
 
 ---
 

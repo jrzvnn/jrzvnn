@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 😝 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - 💣 [Batshitcrazy](http://9gag.com/gag/aO87bgE)
- - 😝 [US Election](http://9gag.com/gag/a9yndOZ)
- - 👉 [Do Not Come](http://9gag.com/gag/a4P3dRy)<!-- MEMES:END -->
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 💣 [Free hugs](http://9gag.com/gag/aAyeR89)
+ - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
+ - 👉 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new AirPlay options for macOS add a little more privacy](https://www.theverge.com/2024/11/7/24290301/apple-macos-screen-mirroring-airplay-single-window)
- - [M4 MacBook Pro review roundup: fantastically fast -- but no real surprises](https://appleinsider.com/articles/24/11/07/m4-macbook-pro-review-roundup-fantastically-fast----but-no-real-surprises?utm_medium=rss)
- - [Max is getting ready for its own password-sharing crackdown](https://www.theverge.com/2024/11/7/24290326/max-password-sharing-crackdown-messaging-q3-2024-earnings)
- - [Nvidia plans to add a 100-hour monthly cap for new Performance or Ultimate GeForce Now users from January 1 to avoid raising prices &quot;in the foreseeable future&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241107/p25#a241107p25)
- - [How to Use a VPN to Watch to Netflix When You Travel Overseas](https://www.wired.com/story/how-to-use-a-vpn-to-watch-to-netflix-when-you-travel/)<!-- TECH:END -->
+ - [What’s really behind Big Tech’s return-to-office mandates?](https://www.theverge.com/24290345/return-to-office-mandates-amazon-productivity-remote-work-hybrid-decoder-podcast)
+ - [No Man’s Sky adds cross-saves and PS5 Pro support](https://www.theverge.com/2024/11/7/24290373/no-mans-sky-cross-saves-ps5-pro-enhanced)
+ - [iMac review roundup: good performance, good price -- and great colors](https://appleinsider.com/articles/24/11/07/imac-review-roundup-good-performance-good-price----and-great-colors?utm_medium=rss)
+ - [Nikon’s entry-level Z50II adds a dedicated button for color styles](https://www.theverge.com/2024/11/7/24289897/nikon-z50ii-digital-camera-crop-sensor-mirrorless-aps-c)
+ - [11 Best Cheap Mattresses, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

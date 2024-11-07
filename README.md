@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb reports Q3 revenue up 10% YoY to $3.73B, vs. $3.72B est., and Nights and Experiences Booked up 8% to 122.8M, vs. 121.4M est.; ABNB jumps 5%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241107/p31#a241107p31)
- - [Mistral AI launches a content moderation API powered by its Ministral 8B model, to detect potentially harmful content in 11 languages &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241107/p30#a241107p30)
- - [764 Terror Network Member Richard Densmore Sentenced to 30 Years in Prison](https://www.wired.com/story/richard-densmore-sentencing-764/)
- - [Apple makes room for new Macs by rethinking retail Vision Pro demo stations](https://appleinsider.com/articles/24/11/07/apple-makes-room-for-new-macs-by-rethinking-retail-vision-pro-demo-stations?utm_medium=rss)
- - [A whole bunch of Sega classics are being delisted](https://www.theverge.com/2024/11/7/24290671/sega-classic-games-delisted)<!-- TECH:END -->
+ - [iVerify founder says the FBI is investigating whether China used its access to Verizon networks to infect the iPhones of staff of a US presidential campaign &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/241107/p33#a241107p33)
+ - [Upgrade your iPhone’s weak flash with this adjustable MagSafe light](https://www.theverge.com/2024/11/7/24290598/harlowe-sol-5-magsafe-iphone-mobile-light)
+ - [AOL’s ‘You’ve Got Mail’ voice, Elwood Edwards, dies at age 74](https://www.theverge.com/2024/11/7/24290700/elwood-edwards-aol-youve-got-mail-voice-obituary)
+ - [Pinterest reports Q3 revenue up 18% YoY to $898M, vs. $896M est., MAUs up 11% to a record 537M, but forecasts Q4 revenue below est.; PINS drops 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241107/p32#a241107p32)
+ - [Airbnb reports Q3 revenue up 10% YoY to $3.73B, vs. $3.72B est., and Nights and Experiences Booked up 8% to 122.8M, vs. 121.4M est.; ABNB jumps 5%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241107/p31#a241107p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
  - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 💣 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
  - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 💣 [Free hugs](http://9gag.com/gag/aAyeR89)
- - 😝 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 👉 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)<!-- MEMES:END -->
+ - 👉 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)<!-- MEMES:END -->
 
 ---
 

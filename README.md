@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb reports Q3 revenue up 10% YoY to $3.73B, vs. $3.72B est., and Nights and Experiences Booked up 8% to 122.8M, vs. 121.4M est.; ABNB jumps 5%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241107/p31#a241107p31)
  - [Mistral AI launches a content moderation API powered by its Ministral 8B model, to detect potentially harmful content in 11 languages &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241107/p30#a241107p30)
  - [764 Terror Network Member Richard Densmore Sentenced to 30 Years in Prison](https://www.wired.com/story/richard-densmore-sentencing-764/)
  - [Apple makes room for new Macs by rethinking retail Vision Pro demo stations](https://appleinsider.com/articles/24/11/07/apple-makes-room-for-new-macs-by-rethinking-retail-vision-pro-demo-stations?utm_medium=rss)
- - [A whole bunch of Sega classics are being delisted](https://www.theverge.com/2024/11/7/24290671/sega-classic-games-delisted)
- - [Galaxy S24 Ultra Cell Phone &lpar;512GB, Titanium Black&rpar;](https://www.cnet.com/tech/mobile/galaxy-s24-ultra-cell-phone-512gb-titanium-black-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A whole bunch of Sega classics are being delisted](https://www.theverge.com/2024/11/7/24290671/sega-classic-games-delisted)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

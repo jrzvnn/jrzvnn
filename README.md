@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brah imagine losing the most important election in history because of a squirrel](http://9gag.com/gag/azxmbmm)
+ - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
  - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 💣 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)
- - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
+ - 💣 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 👉 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)<!-- MEMES:END -->
 
 ---
 

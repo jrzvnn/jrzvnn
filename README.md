@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 😝 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 💣 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
  - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 💣 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 😝 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)
- - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
+ - 👉 [Unexpected question](http://9gag.com/gag/adBVYXd)<!-- MEMES:END -->
 
 ---
 

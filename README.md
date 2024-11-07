@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iVerify founder says the FBI is investigating whether China used its access to Verizon networks to infect the iPhones of staff of a US presidential campaign &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/241107/p33#a241107p33)
- - [Upgrade your iPhone’s weak flash with this adjustable MagSafe light](https://www.theverge.com/2024/11/7/24290598/harlowe-sol-5-magsafe-iphone-mobile-light)
- - [AOL’s ‘You’ve Got Mail’ voice, Elwood Edwards, dies at age 74](https://www.theverge.com/2024/11/7/24290700/elwood-edwards-aol-youve-got-mail-voice-obituary)
- - [Pinterest reports Q3 revenue up 18% YoY to $898M, vs. $896M est., MAUs up 11% to a record 537M, but forecasts Q4 revenue below est.; PINS drops 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241107/p32#a241107p32)
- - [Airbnb reports Q3 revenue up 10% YoY to $3.73B, vs. $3.72B est., and Nights and Experiences Booked up 8% to 122.8M, vs. 121.4M est.; ABNB jumps 5%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241107/p31#a241107p31)<!-- TECH:END -->
+ - [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture)
+ - [January 6 Rioters Think Donald Trump’s Victory Is Their Get Out of Jail Free Card](https://www.wired.com/story/january-6-rioters-trump-victory-pardon/)
+ - [Apple is finally letting green bubbles send message reactions](https://www.theverge.com/2024/11/7/24290703/apple-green-bubble-message-reaction-rcs-android)
+ - [Block reports Q3 revenue up 6% YoY to $5.98B, vs. $6.24B est., gross profit up 19% to $2.25B, Cash App gross profit up 21% to $1.31B; SQ drops 6%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/241107/p34#a241107p34)
+ - [iVerify founder says the FBI is investigating whether China used its access to Verizon networks to infect the iPhones of staff of a US presidential campaign &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/241107/p33#a241107p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 15 led sales globally in mid-2024 with Samsung close behind](https://appleinsider.com/articles/24/11/07/apples-iphone-15-led-sales-globally-in-mid-2024-with-samsung-close-behind?utm_medium=rss)
- - [Matter launches its 1.4 spec, including &quot;enhanced multi-admin&quot; and updates to energy management support, in a bid to get the smart home standard back on track &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241107/p20#a241107p20)
- - [Apple Notes Is Getting Supercharged in iOS 18. Here’s What&#39;s New](https://www.wired.com/story/iphone-notes-app-in-ios-18-whats-new/)
- - [Donald Trump&#39;s win flips the idea that Elon Musk overpaid for X on its head, after Musk turned his feed into a Trump-inspired billboard for his 200M+ followers &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/241107/p19#a241107p19)
- - [Testing out Mac ultra wide display mirror on Apple Vision Pro](https://appleinsider.com/articles/24/11/07/testing-out-mac-ultra-wide-display-mirror-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [iMac &lpar;2024&rpar; review: the M4 is fast, lovely 4.5K display, great six-speaker system, an upgraded webcam, but lacks height adjustment and a touch screen option &lpar;Alex Wawro/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241107/p23#a241107p23)
+ - [Mac mini &lpar;2024&rpar; review: the M4 Pro is incredibly fast, 16GB+ of RAM, front USB-C, smaller design, and Thunderbolt 5 with M4 Pro, but overpriced spec upgrades &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241107/p22#a241107p22)
+ - [MacBook Pro &lpar;M4&rpar; review: upgrade on the 2023 M3, 14&quot; has the same I/O as 16&quot;, more RAM, new webcam, and nano-texture option, but M4 Pro and Max are appealing &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/241107/p21#a241107p21)
+ - [Death Stranding gets a surprise launch on Xbox](https://www.theverge.com/2024/11/7/24290316/death-stranding-xbox-launch)
+ - [Apple Mac Mini &lpar;M4, 2024&rpar; Review: A Small Yet Powerful Desktop](https://www.wired.com/review/apple-mac-mini-m4-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

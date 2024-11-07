@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
  - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 💣 [Probably at the airport right now.](http://9gag.com/gag/a0eNYoQ)
- - 😝 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
- - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)
+ - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
 
 ---
 

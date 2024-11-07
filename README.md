@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 😝 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
- - 💣 [Elon&#39;s wasted $$ on twitter](http://9gag.com/gag/aqynNoZ)
- - 😝 [The best co worker huh?](http://9gag.com/gag/a87GW46)
- - 👉 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)<!-- MEMES:END -->
+ - 😝 [Some Irish pub.](http://9gag.com/gag/aRB7P3Q)
+ - 😝 [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
+ - 💣 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - 😝 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
+ - 👉 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)<!-- MEMES:END -->
 
 ---
 

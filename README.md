@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)
- - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 💣 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 😝 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
+ - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 💣 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)
+ - 😝 [Understandable, have a nice day](http://9gag.com/gag/aD24oex)
  - 👉 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)<!-- MEMES:END -->
 
 ---

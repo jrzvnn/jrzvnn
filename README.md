@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 😝 [Too bad](http://9gag.com/gag/aPA7vXq)
- - 💣 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 😝 [Unexpected question](http://9gag.com/gag/adBVYXd)
- - 👉 [The best co worker huh?](http://9gag.com/gag/a87GW46)<!-- MEMES:END -->
+ - 😝 [Free hugs](http://9gag.com/gag/aAyeR89)
+ - 😝 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 💣 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 😝 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
+ - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest AirPods Pro are on sale for $1 shy of their all-time low today](https://www.theverge.com/2024/11/7/24290523/apple-airpods-pro-2-earbuds-walmart-best-buy-deal-sale)
  - [How to fix iPhone Notes disappearing after iCloud terms &amp; conditions update](https://appleinsider.com/inside/ios-18/tips/how-to-fix-iphone-notes-disappearing-after-icloud-terms-conditions-update?utm_medium=rss)
  - [An interview with Changpeng Zhao about his four months of incarceration, investing in X, forced separation from Binance, plans for the future, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p29#a241107p29)
  - [After Trump&#39;s Victory, the 4B Movement Is Spreading Across TikTok](https://www.wired.com/story/trump-election-4b-movement-tiktok-x-reddit/)
- - [Mass Effect is Amazon’s next video game adaptation](https://www.theverge.com/2024/11/7/24290596/mass-effect-tv-show-amazon-fallout)
- - [Pixel Watch Deals: Upgrade to the Pixel Watch 3 for Less With These Top Trade-In Offers](https://www.cnet.com/deals/pixel-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mass Effect is Amazon’s next video game adaptation](https://www.theverge.com/2024/11/7/24290596/mass-effect-tv-show-amazon-fallout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

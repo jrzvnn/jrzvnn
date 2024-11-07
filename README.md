@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is opening a pop-up retail store for the Ray-Ban Meta glasses](https://www.theverge.com/2024/11/7/24290479/meta-is-opening-a-pop-up-retail-store-for-the-ray-ban-meta-glasses)
  - [Act Fast to Get This 5TB Seagate Game Drive for $130 and Never Run Out of PS5 Storage Space Again](https://www.cnet.com/deals/act-fast-to-get-this-5tb-seagate-game-drive-for-130-and-never-run-out-of-ps5-storage-space-again/#ftag=CAD590a51e)
  - [Audi launches a new brand in China without the four-ring logo](https://www.theverge.com/2024/11/7/24290431/audi-china-rebrand-e-concept-launch)
  - [iRobot is laying off staff for the second time this year](https://www.theverge.com/2024/11/7/24290515/irobot-laying-off-staff-second-time-2024)
- - [Star Wars is reportedly getting a new film trilogy](https://www.theverge.com/2024/11/7/24290544/star-wars-new-film-trilogy-simon-kinberg)
- - [Best OLED Laptop Deals: Acer, Razer, Samsung and More Top Models](https://www.cnet.com/deals/best-oled-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Star Wars is reportedly getting a new film trilogy](https://www.theverge.com/2024/11/7/24290544/star-wars-new-film-trilogy-simon-kinberg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

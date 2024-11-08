@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
- - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
- - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 👉 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)<!-- MEMES:END -->
+ - 😝 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
+ - 😝 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
+ - 💣 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
+ - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
+ - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---
 

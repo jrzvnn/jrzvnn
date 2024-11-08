@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 💣 [A lot of it is pretty decent.](http://9gag.com/gag/adBVXb9)
- - 😝 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
- - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 😝 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
+ - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
+ - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
 
 ---
 

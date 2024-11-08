@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
- - 😝 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
- - 💣 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
- - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
- - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
+ - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 💣 [Punch on sight. Earth&#39;s walking hemorrhoid.](http://9gag.com/gag/agmA0XW)
+ - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 👉 [Elon&#39;s wasted $$ on twitter](http://9gag.com/gag/aqynNoZ)<!-- MEMES:END -->
 
 ---
 

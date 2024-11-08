@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
- - 😝 [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
- - 💣 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)<!-- MEMES:END -->
+ - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches Share to TikTok, which lets users directly share music from Apple Music and Spotify in a post to their TikTok Feed or in DMs via TikTok Messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241107/p38#a241107p38)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [AppLovin shares close up 46% after the company reported Q3 revenue up 39% YoY to $1.2B, vs. $1.13B est., and issued guidance well above est.; APP is up 519% YTD &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241107/p37#a241107p37)
- - [Toast reports Q3 revenue up 26% YoY to $1.305B, vs. $1.292B est., and annualized run rate up 28% YoY to $1.6B, vs. $1.5B est.; TOST jumps 15%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/241107/p36#a241107p36)
- - [Did Elon Musk Win the Election for Trump?](https://www.wired.com/story/politics-lab-podcast-elon-musk-donald-trump-victory/)<!-- TECH:END -->
+ - [Block says it is investing less in music streaming app Tidal and winding down decentralized &quot;Web5&quot; venture TBD to focus on bitcoin mining and its crypto wallet &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p41#a241107p41)
+ - [A US judge dismisses a copyright lawsuit by Raw Story and AlterNet against OpenAI over AI training, for now, saying the outlets couldn&#39;t show enough harm &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241107/p40#a241107p40)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [HP Envy Windows Desktop &lpar;1TB&rpar;](https://www.cnet.com/tech/computing/hp-envy-windows-desktop-1tb-dpnl/#ftag=CAD590a51e)
+ - [Source: Amazon is discussing a second multibillion-dollar investment in Anthropic, but wants Anthropic to use a large number of servers powered by Amazon chips &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241107/p39#a241107p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

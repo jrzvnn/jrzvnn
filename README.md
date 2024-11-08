@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was born ready for this](http://9gag.com/gag/amovrr2)
- - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
- - 💣 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)
- - 😝 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
- - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
+ - 😝 [Unexpected question](http://9gag.com/gag/adBVYXd)
+ - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 💣 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
+ - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
+ - 👉 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)<!-- MEMES:END -->
 
 ---
 

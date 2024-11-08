@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)
+ - [6 Best Cheap Mattress for 2024 -- Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [How to import your old passwords into the new Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_medium=rss)
  - [Best Cheap Phone of 2024: Most Value for the Money](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Glyde 4-in-1 Portable Charging Station review: Mobile charging without compromise](https://appleinsider.com/articles/24/11/08/glyde-4-in-1-portable-charging-station-review-mobile-charging-without-compromise?utm_medium=rss)
- - [A US judge dismisses Ethan Zuckerman&#39;s lawsuit against Meta; Zuckerman sought to stop Meta from suing him over a tool to let users unfollow everyone on Facebook &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/241107/p44#a241107p44)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 8, #46](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-8-46/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Glyde 4-in-1 Portable Charging Station review: Mobile charging without compromise](https://appleinsider.com/articles/24/11/08/glyde-4-in-1-portable-charging-station-review-mobile-charging-without-compromise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

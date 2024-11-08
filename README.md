@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [What a second Trump presidency means for tech](https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto)
+ - [Google Fiber Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)
  - [Google rolls out its Gemini AI-powered video presentation app](https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout)
- - [AI startup founders and VCs hope that a Trump administration will lead to lighter regulations and the return of real acquisitions, not &quot;contorted&quot; ones &lpar;Forbes&rpar;](http://www.techmeme.com/241108/p9#a241108p9)
- - [Gorilla Glass maker Corning to receive up to $32 million under CHIPS Act](https://www.theverge.com/2024/11/8/24291273/gorilla-glass-maker-corning-receive-chips-act-funding)
- - [Hyte Y60 Review: A Clear PC Case for Great Builders](https://www.wired.com/review/hyte-y60/)
- - [Google Slides is getting a new collection of professionally designed templates](https://www.theverge.com/2024/11/8/24291234/google-slides-templates-presentations)<!-- TECH:END -->
+ - [Hurry Up and Redeem Your PlayStation Rewards Before They&#39;re Gone](https://www.cnet.com/personal-finance/credit-cards/hurry-up-and-redeem-your-playstation-rewards-before-theyre-gone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

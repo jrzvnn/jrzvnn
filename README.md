@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
  - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
  - 💣 [Soooo... the question of questions... 9gaggers, do you raise your left hand or right hand? Let&#39;s see which wins](http://9gag.com/gag/avyzLjb)
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 👉 [Unexpected question](http://9gag.com/gag/adBVYXd)<!-- MEMES:END -->
+ - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
+ - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 ---
 

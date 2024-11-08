@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
- - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 💣 [Yes please](http://9gag.com/gag/ajP9qd8)
+ - 😝 [I am old](http://9gag.com/gag/aKG72K1)
+ - 😝 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - 💣 [RIP](http://9gag.com/gag/aD24mjx)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
+ - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
- - 😝 [Yes please](http://9gag.com/gag/ajP9qd8)
- - 💣 [I&#39;m a baddie](http://9gag.com/gag/an74Bno)
+ - 😝 [The most important three minutes of video on the internet right now.](http://9gag.com/gag/amovYL4)
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 💣 [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [I am old](http://9gag.com/gag/aKG72K1)<!-- MEMES:END -->
+ - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
 
 ---
 

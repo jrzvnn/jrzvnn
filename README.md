@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected question](http://9gag.com/gag/adBVYXd)
  - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 💣 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
  - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
- - 👉 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)<!-- MEMES:END -->
+ - 💣 [Soooo... the question of questions... 9gaggers, do you raise your left hand or right hand? Let&#39;s see which wins](http://9gag.com/gag/avyzLjb)
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 👉 [Unexpected question](http://9gag.com/gag/adBVYXd)<!-- MEMES:END -->
 
 ---
 

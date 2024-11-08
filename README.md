@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
- - 😝 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
- - 💣 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 💣 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
+ - 👉 [Yes please](http://9gag.com/gag/ajP9qd8)<!-- MEMES:END -->
 
 ---
 

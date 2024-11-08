@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 💣 [Just as he promised](http://9gag.com/gag/aPA7vzn)
  - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 💣 [A lot of it is pretty decent.](http://9gag.com/gag/adBVXb9)
+ - 😝 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
+ - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 ---
 

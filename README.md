@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift Fans Are Leaving X for Bluesky After Trump&#39;s Election](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)
+ - [The Beatles’ final song, restored using AI, is up for a Grammy](https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination)
+ - [Taylor Swift Fans Are Leaving X for Bluesky After Trump’s Election](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)
  - [YouTube Premium’s legacy price breaks are going away for more users](https://www.theverge.com/2024/11/8/24291572/youtube-premium-music-price-hike-legacy-subscription)
  - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)
- - [Amazon is testing grocery formats that pull together fulfillment networks for Whole Foods and Amazon Fresh stores into a common delivery platform &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/241108/p14#a241108p14)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Amazon is testing grocery formats that pull together fulfillment networks for Whole Foods and Amazon Fresh stores into a common delivery platform &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/241108/p14#a241108p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

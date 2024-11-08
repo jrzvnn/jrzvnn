@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s best gaming CPU is really difficult to buy during its launch week](https://www.theverge.com/2024/11/8/24291165/amd-ryzen-7-9800x3d-stock-sold-out)
  - [Mercury Research: AMD&#39;s desktop CPU market share, in units, grew from 19.1% in Q3 2023 to 28.7% in Q3 2024 and from 19.5% to 22.3% for mobile in the same period &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/241108/p4#a241108p4)
  - [Best Internet Providers in Arlington, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)
  - [It&#39;s Time to Apply for ACA Health Insurance. Here&#39;s How It Works](https://www.cnet.com/personal-finance/insurance/its-time-to-apply-for-aca-health-insurance-heres-how-it-works/#ftag=CAD590a51e)
- - [Are You Eligible for Up to $10,000 from 23andMe&#39;s Data Breach Settlement?](https://www.cnet.com/personal-finance/are-you-eligible-for-up-to-10000-from-23andmes-data-breach-settlement/#ftag=CAD590a51e)
- - [Sony reports Q2 revenue up 9% YoY to ~$19.45B, operating profit up 73% YoY to ~$2.96B vs. ~$2.18B est., and PS5 sales of 3.8M units, down from 4.9M a year ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/241108/p3#a241108p3)<!-- TECH:END -->
+ - [Are You Eligible for Up to $10,000 from 23andMe&#39;s Data Breach Settlement?](https://www.cnet.com/personal-finance/are-you-eligible-for-up-to-10000-from-23andmes-data-breach-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

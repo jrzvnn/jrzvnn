@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 😝 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
- - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [I hate islam](http://9gag.com/gag/aqynb5p)
+ - 😝 [Rate my gaming pc](http://9gag.com/gag/a34wqL8)
+ - 💣 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
+ - 👉 [Nice smile...](http://9gag.com/gag/aryVNyX)<!-- MEMES:END -->
 
 ---
 

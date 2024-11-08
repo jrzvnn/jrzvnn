@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Feds investigate racist texts sent across the country post-election](https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election)
+ - [2024 is going to smash heat records](https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals)
  - [Bowers and Wilkins’ excellent sounding PX7 S2e headphones are $120 off](https://www.theverge.com/2024/11/8/24291236/bowers-and-wilkins-noise-canceling-headphones-irobot-roomba-j9-deal-sale)
  - [UnifyApp, which lets companies build their own AI chatbots by connecting their SaaS apps and data, raised a $20M Series A, around six months after a $11M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241108/p11#a241108p11)
- - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
- - [The new Mac Mini takes a small step towards upgradeable storage](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability)
- - [GOP, Cruz Tell FCC &#39;Pencils Down&#39; After Trump Win](https://www.cnet.com/home/internet/gop-cruz-tell-fcc-pencils-down-after-trump-win/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

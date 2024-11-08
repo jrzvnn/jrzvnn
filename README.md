@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
- - 😝 [No to camping](http://9gag.com/gag/aKG7PMj)
- - 💣 [Vengeance](http://9gag.com/gag/aE0PR9x)
+ - 😝 [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 💣 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
+ - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
 
 ---
 

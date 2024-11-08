@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Internet Providers Offer Discounts for Veterans and Active Military Members](https://www.cnet.com/home/internet/these-internet-providers-offer-discounts-for-veterans-and-active-military-members/#ftag=CAD590a51e)
+ - [Texas Solar Panel Incentives: Rebates, Tax Credits, Financing and More](https://www.cnet.com/home/energy-and-utilities/texas-solar-panel-incentives-tax-credits-rebates-and-buyback-programs/#ftag=CAD590a51e)
  - [iPhone 16 Pro Max review two months later -- Like Apple says, the best iPhone yet](https://appleinsider.com/articles/24/11/08/iphone-16-pro-max-long-term-review----like-apple-says-the-best-iphone-yet?utm_medium=rss)
  - [Experts say the Trump administration&#39;s approach to cybersecurity is likely to focus on confronting China, relaxing regulations, narrowing CISA&#39;s focus, and more &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241108/p13#a241108p13)
- - [My Favorite Video Doorbell Is Now Almost Half Off Just Ahead of Black Friday](https://www.cnet.com/deals/my-favorite-video-doorbell-is-now-almost-half-off-just-ahead-of-black-friday/#ftag=CAD590a51e)
- - [Holiday Cooking Just Got Easier With $100 Off This KitchenAid Stand Mixer](https://www.cnet.com/deals/holiday-cooking-just-got-easier-with-100-off-this-kitchenaid-stand-mixer/#ftag=CAD590a51e)
- - [Pocketpair says Nintendo and Pok&amp;eacute;mon Company are seeking ~$65K in damages in their lawsuit and lists the three patents the studio is accused of infringing &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241108/p12#a241108p12)<!-- TECH:END -->
+ - [Jabra Elite 10 Earbuds Are at a New Record Low Price, Saving You $100](https://www.cnet.com/deals/jabra-elite-10-earbuds-are-at-a-new-record-low-price-saving-you-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

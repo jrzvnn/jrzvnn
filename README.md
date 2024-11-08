@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am old](http://9gag.com/gag/aKG72K1)
- - 😝 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
- - 💣 [RIP](http://9gag.com/gag/aD24mjx)
+ - 😝 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - 😝 [Cute](http://9gag.com/gag/avyzGpM)
+ - 💣 [Nice smile...](http://9gag.com/gag/aryVNyX)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
+ - 👉 [I hate islam](http://9gag.com/gag/aqynb5p)<!-- MEMES:END -->
 
 ---
 

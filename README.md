@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catfishing](http://9gag.com/gag/ae9DG0j)
- - 😝 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
- - 💣 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 😝 [Owned.](http://9gag.com/gag/a2vWm7Y)
- - 👉 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)<!-- MEMES:END -->
+ - 😝 [I was born ready for this](http://9gag.com/gag/amovrr2)
+ - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
+ - 💣 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)
+ - 😝 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
+ - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
 
 ---
 

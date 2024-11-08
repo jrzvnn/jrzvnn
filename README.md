@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most important three minutes of video on the internet right now.](http://9gag.com/gag/amovYL4)
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 💣 [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)
+ - 😝 [Israeli football fans got ambushed in Amsterdam in several locations. Masked men are trying to break into hotels where Israelis are apparently staying. One tourist asked a policeman to help, and he answered &#39;yes yes, bye bye&#39; and laughed.](http://9gag.com/gag/aKG72LN)
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 💣 [Yes please](http://9gag.com/gag/ajP9qd8)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
+ - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
 
 ---
 

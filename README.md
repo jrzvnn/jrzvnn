@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate islam](http://9gag.com/gag/aqynb5p)
- - 😝 [Rate my gaming pc](http://9gag.com/gag/a34wqL8)
- - 💣 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
+ - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
+ - 😝 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
+ - 💣 [Why are you gay](http://9gag.com/gag/aD243Ox)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Nice smile...](http://9gag.com/gag/aryVNyX)<!-- MEMES:END -->
+ - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
 
 ---
 

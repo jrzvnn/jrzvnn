@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Mac mini has a slotted &amp; removable SSD -- but don&#39;t expect upgrades](https://appleinsider.com/articles/24/11/08/new-mac-mini-has-a-slotted-removable-ssd----but-dont-expect-upgrades?utm_medium=rss)
  - [We Tested and Reviewed the Best Home Treadmills &lpar;2024&rpar;](https://www.wired.com/story/best-home-treadmills/)
  - [Kuo: Apple plans to upgrade the wide-angle lens in the high-end iPhone 18 in 2026 to a variable aperture camera &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241108/p6#a241108p6)
  - [iPhone 18 Pro rumored to gain a variable aperture wide-angle lens](https://appleinsider.com/articles/24/11/08/iphone-18-pro-rumored-to-gain-a-variable-aperture-wide-angle-lens?utm_medium=rss)
- - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [iPad mini 7 review: a more mighty micro tablet](https://appleinsider.com/articles/24/11/08/ipad-mini-7-review-a-more-mighty-micro-tablet?utm_medium=rss)<!-- TECH:END -->
+ - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

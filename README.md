@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 18 Pro rumored to gain a variable aperture wide-angle lens](https://appleinsider.com/articles/24/11/08/iphone-18-pro-rumored-to-gain-a-variable-aperture-wide-angle-lens?utm_medium=rss)
+ - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
  - [iPad mini 7 review: a more mighty micro tablet](https://appleinsider.com/articles/24/11/08/ipad-mini-7-review-a-more-mighty-micro-tablet?utm_medium=rss)
  - [4 Best All-in-One Computers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-all-in-one-computers/)
- - [Sources: TSMC told Chinese customers it would no longer manufacture AI chips at advanced process nodes of 7nm or smaller as of this coming Monday &lpar;Financial Times&rpar;](http://www.techmeme.com/241108/p5#a241108p5)
- - [US Airlines Have New Rules on Refunds for Canceled Flights. Here’s What to Know](https://www.wired.com/story/us-airlines-new-rules-on-refunds-for-canceled-flights/)
- - [Thinking About a Heat Pump? Here’s What a Sustainable Heating System Will Cost You](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-heat-pump-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: TSMC told Chinese customers it would no longer manufacture AI chips at advanced process nodes of 7nm or smaller as of this coming Monday &lpar;Financial Times&rpar;](http://www.techmeme.com/241108/p5#a241108p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

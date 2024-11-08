@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 😝 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
+ - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
  - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 👉 [Soooo... the question of questions... 9gaggers, do you raise your left hand or right hand? Let&#39;s see which wins](http://9gag.com/gag/avyzLjb)<!-- MEMES:END -->
+ - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
 
 ---
 

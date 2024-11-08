@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)
  - [Amazon is testing grocery formats that pull together fulfillment networks for Whole Foods and Amazon Fresh stores into a common delivery platform &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/241108/p14#a241108p14)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [DJI just added the two most requested features to its $199 Neo drone](https://www.theverge.com/2024/11/8/24291530/dji-neo-vertical-video-faster-tracking)
- - [How to start using Image Playground in iOS 18.2 to create funny selfies](https://appleinsider.com/inside/ios-18/tips/how-to-start-using-image-playground-in-ios-182-to-create-funny-selfies?utm_medium=rss)
- - [These Internet Providers Offer Discounts for Veterans and Active Military Members](https://www.cnet.com/home/internet/these-internet-providers-offer-discounts-for-veterans-and-active-military-members/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to start using Image Playground in iOS 18.2 to create funny selfies](https://appleinsider.com/inside/ios-18/tips/how-to-start-using-image-playground-in-ios-182-to-create-funny-selfies?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

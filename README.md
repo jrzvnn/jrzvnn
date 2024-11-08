@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 💣 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
+ - 😝 [Yes please](http://9gag.com/gag/ajP9qd8)
+ - 💣 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Yes please](http://9gag.com/gag/ajP9qd8)<!-- MEMES:END -->
+ - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
 
 ---
 

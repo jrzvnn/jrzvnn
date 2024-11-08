@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Feds investigate racist texts sent across the country post-election](https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election)
  - [2024 is going to smash heat records](https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals)
- - [Bowers and Wilkins’ excellent sounding PX7 S2e headphones are $120 off](https://www.theverge.com/2024/11/8/24291236/bowers-and-wilkins-noise-canceling-headphones-irobot-roomba-j9-deal-sale)
- - [UnifyApp, which lets companies build their own AI chatbots by connecting their SaaS apps and data, raised a $20M Series A, around six months after a $11M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241108/p11#a241108p11)
- - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)<!-- TECH:END -->
+ - [Best VPN Deals: Protect Your Online Activities, Starting at Just $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)
+ - [Can I Buy Unclaimed Mail Packages? It&#39;s Easy and Legal, Here&#39;s How](https://www.cnet.com/personal-finance/can-i-buy-unclaimed-mail-packages-its-easy-and-legal-heres-how/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Philadelphia](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-philadelphia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

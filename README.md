@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Early Black Friday Deals on Outdoor Gear](https://www.wired.com/story/black-friday-outdoor-deals-rei-2024/)
- - [Starship’s Next Launch Could Be Just Two Weeks Away](https://www.wired.com/story/starships-next-launch-could-be-just-two-weeks-away/)
- - [AMD’s best gaming CPU is really difficult to buy during its launch week](https://www.theverge.com/2024/11/8/24291165/amd-ryzen-7-9800x3d-stock-sold-out)
- - [Mercury Research: AMD&#39;s desktop CPU market share, in units, grew from 19.1% in Q3 2023 to 28.7% in Q3 2024 and from 19.5% to 22.3% for mobile in the same period &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/241108/p4#a241108p4)
- - [Best CD Rates Today, Nov. 8, 2024: Act Now to Lock in a High APY](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-8-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: TSMC told Chinese customers it would no longer manufacture AI chips at advanced process nodes of 7nm or smaller as of this coming Monday &lpar;Financial Times&rpar;](http://www.techmeme.com/241108/p5#a241108p5)
+ - [US Airlines Have New Rules on Refunds for Canceled Flights. Here’s What to Know](https://www.wired.com/story/us-airlines-new-rules-on-refunds-for-canceled-flights/)
+ - [Thinking About a Heat Pump? Here’s What a Sustainable Heating System Will Cost You](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-heat-pump-cost/#ftag=CAD590a51e)
+ - [Bear Original Mattress Review: Affordable, Memory Foam Mattress With a Unique Cover](https://www.cnet.com/health/sleep/bear-original-mattress-review/#ftag=CAD590a51e)
+ - [The Best Early Black Friday Deals on Outdoor Gear](https://www.wired.com/story/black-friday-outdoor-deals-rei-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

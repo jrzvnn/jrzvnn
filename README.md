@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Spaniards from Valencia and their unity.](http://9gag.com/gag/aPA7WYn)
- - 😝 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
- - 💣 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
- - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
- - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
+ - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [One-way ticket, please!](http://9gag.com/gag/aqyn2jQ)
+ - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - 😝 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
+ - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
 
 ---
 

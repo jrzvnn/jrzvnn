@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 💣 [Yes please](http://9gag.com/gag/ajP9qd8)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
+ - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---
 

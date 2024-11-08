@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
- - 😝 [Something completely different](http://9gag.com/gag/axy9Ggp)
- - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 👉 [RIP](http://9gag.com/gag/aD24mjx)<!-- MEMES:END -->
+ - 😝 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
+ - 😝 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
+ - 💣 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
+ - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
+ - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---
 

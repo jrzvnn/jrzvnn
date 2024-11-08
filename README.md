@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump Isn’t the Only Chaos Agent](https://www.wired.com/story/plaintext-donald-trump-isnt-the-only-chaos-agent/)
+ - [Here are the patents Nintendo and The Pokémon Company are suing Palworld over](https://www.theverge.com/2024/11/8/24291232/nintendo-pocketpair-palworld-lawsuit-patents)
  - [2024 Mac Buyer&#39;s Guide -- Which desktop Mac you should buy?](https://appleinsider.com/articles/24/11/08/2024-mac-buyers-guide----which-desktop-mac-you-should-buy?utm_medium=rss)
  - [13 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
- - [Best Organic Mattress &amp; Bedding of 2024: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses-1/)
- - [With Elon Musk&#39;s ascension in Trump&#39;s orbit, tech leaders on the right hope to steer the second Trump administration, bringing a startup ethos to the government &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241108/p7#a241108p7)
- - [The PS5 Pro made us sit closer to the screen](https://www.theverge.com/2024/11/8/24291250/apple-mac-mini-macbook-pro-ps5-pro-vergecast)<!-- TECH:END -->
+ - [Best Organic Mattress &amp; Bedding of 2024: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

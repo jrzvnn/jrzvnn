@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-8/#ftag=CAD590a51e)
  - [Yelp agrees to buy RepairPal, a site for car repair estimates, for $80M in cash, with the deal expected to close by the end of 2024; RepairPal had raised $21.3M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241107/p43#a241107p43)
  - [Best Wine Clubs and Subscriptions to Gift in 2024](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
  - [Source: Baidu plans to unveil smart glasses with built-in cameras and voice support for AI model Ernie next week, launching as soon as early 2025 for under $299 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p42#a241107p42)
- - [Best Internet Providers in Alabama](https://www.cnet.com/home/internet/best-internet-providers-in-alabama/#ftag=CAD590a51e)
- - [Tips and Tricks to Help You Marvel at the Moon In All Its Phases](https://www.cnet.com/science/space/full-moons-explained-from-blue-moons-to-supermoons-to-lunar-phases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Alabama](https://www.cnet.com/home/internet/best-internet-providers-in-alabama/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

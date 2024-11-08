@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Catfishing](http://9gag.com/gag/ae9DG0j)
+ - 😝 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - 💣 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
  - 😝 [Owned.](http://9gag.com/gag/a2vWm7Y)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 💣 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 👉 [Punch on sight. Earth&#39;s walking hemorrhoid.](http://9gag.com/gag/agmA0XW)<!-- MEMES:END -->
+ - 👉 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)<!-- MEMES:END -->
 
 ---
 

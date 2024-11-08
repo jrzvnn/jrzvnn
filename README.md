@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 😝 [One-way ticket, please!](http://9gag.com/gag/aqyn2jQ)
- - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
- - 😝 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
- - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
+ - 😝 [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
+ - 😝 [Something completely different](http://9gag.com/gag/axy9Ggp)
+ - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 👉 [RIP](http://9gag.com/gag/aD24mjx)<!-- MEMES:END -->
 
 ---
 

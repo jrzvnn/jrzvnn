@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stripper Magician](http://9gag.com/gag/a2vWd79)
- - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 💣 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
+ - 😝 [Vengeance](http://9gag.com/gag/aE0PR9x)
+ - 😝 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
+ - 💣 [Stripper Magician](http://9gag.com/gag/a2vWd79)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
+ - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
 
 ---
 

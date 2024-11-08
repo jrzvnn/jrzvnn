@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
+ - [The new Mac Mini takes a small step towards upgradeable storage](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability)
  - [Apple has added a High Power performance mode, previously reserved for Max and Ultra chips, to the M4 Pro in both the Mac mini and in the new MacBook Pro &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/241108/p10#a241108p10)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [What a second Trump presidency means for tech](https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto)
- - [Google Fiber Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)
- - [Google rolls out its Gemini AI-powered video presentation app](https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout)<!-- TECH:END -->
+ - [What a second Trump presidency means for tech](https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

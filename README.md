@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 💣 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 💣 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
+ - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [UnifyApp, which lets companies build their own AI chatbots by connecting their SaaS apps and data, raised a $20M Series A, around six months after a $11M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241108/p11#a241108p11)
  - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
  - [The new Mac Mini takes a small step towards upgradeable storage](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability)
- - [Apple has added a High Power performance mode, previously reserved for Max and Ultra chips, to the M4 Pro in both the Mac mini and in the new MacBook Pro &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/241108/p10#a241108p10)<!-- TECH:END -->
+ - [GOP, Cruz Tell FCC &#39;Pencils Down&#39; After Trump Win](https://www.cnet.com/home/internet/gop-cruz-tell-fcc-pencils-down-after-trump-win/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

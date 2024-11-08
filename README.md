@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Michigan man, a member of an online terrorist network called 764, is sentenced to 30 years in prison for preying on kids in Discord servers and chat rooms &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/241108/p16#a241108p16)
  - [Google rolls out its Gemini-powered Vids app that lets users create video presentations using a prompt, with full access for Workspace users until at least 2026 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241108/p15#a241108p15)
  - [The Beatles’ final song, restored using AI, is up for a Grammy](https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination)
  - [Taylor Swift Fans Are Leaving X for Bluesky After Trump’s Election](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)
- - [Best Early Black Friday Vacuum Deals: Get Up to $270 Off Dyson, Tineco and More](https://www.cnet.com/deals/best-early-black-friday-vacuum-deals/#ftag=CAD590a51e)
- - [Five Things to Know Before You Buy a New Router](https://www.cnet.com/home/internet/five-things-to-know-before-you-buy-a-new-router/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Early Black Friday Vacuum Deals: Get Up to $270 Off Dyson, Tineco and More](https://www.cnet.com/deals/best-early-black-friday-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

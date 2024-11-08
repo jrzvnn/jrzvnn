@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 💣 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
+ - 😝 [Stripper Magician](http://9gag.com/gag/a2vWd79)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 💣 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
+ - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Owned.](http://9gag.com/gag/a2vWm7Y)
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 💣 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
  - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 😝 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
- - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 😝 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
- - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
+ - 👉 [Punch on sight. Earth&#39;s walking hemorrhoid.](http://9gag.com/gag/agmA0XW)<!-- MEMES:END -->
 
 ---
 

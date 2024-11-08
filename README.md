@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Detroit plans to accept crypto, including BTC and ETH, for tax and fee payments starting mid-2025 via a PayPal-managed platform, the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)
  - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)
  - [6 Best Cheap Mattress for 2024 -- Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [How to import your old passwords into the new Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_medium=rss)
- - [Best Cheap Phone of 2024: Most Value for the Money](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Glyde 4-in-1 Portable Charging Station review: Mobile charging without compromise](https://appleinsider.com/articles/24/11/08/glyde-4-in-1-portable-charging-station-review-mobile-charging-without-compromise?utm_medium=rss)<!-- TECH:END -->
+ - [Best Cheap Phone of 2024: Most Value for the Money](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

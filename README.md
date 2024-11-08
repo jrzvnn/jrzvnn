@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
  - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 💣 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
+ - 💣 [Just as he promised](http://9gag.com/gag/aPA7vzn)
  - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
+ - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pocketpair says Nintendo and Pok&amp;eacute;mon Company are seeking ~$65K in damages in their lawsuit and lists the three patents the studio is accused of infringing &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241108/p12#a241108p12)
  - [Feds investigate racist texts sent across the country post-election](https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election)
  - [2024 is going to smash heat records](https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals)
  - [Best VPN Deals: Protect Your Online Activities, Starting at Just $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)
- - [Can I Buy Unclaimed Mail Packages? It&#39;s Easy and Legal, Here&#39;s How](https://www.cnet.com/personal-finance/can-i-buy-unclaimed-mail-packages-its-easy-and-legal-heres-how/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Philadelphia](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-philadelphia/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can I Buy Unclaimed Mail Packages? It&#39;s Easy and Legal, Here&#39;s How](https://www.cnet.com/personal-finance/can-i-buy-unclaimed-mail-packages-its-easy-and-legal-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

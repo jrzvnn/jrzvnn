@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
  - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 💣 [Bet she&#39;ll do it again.](http://9gag.com/gag/a6ZKLK8)
+ - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
+ - 💣 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Instant karma hit](http://9gag.com/gag/aqyn1mj)<!-- MEMES:END -->
+ - 👉 [I&#39;m showing you my strength.](http://9gag.com/gag/ayNex7q)<!-- MEMES:END -->
 
 ---
 

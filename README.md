@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 💣 [Punch on sight. Earth&#39;s walking hemorrhoid.](http://9gag.com/gag/agmA0XW)
- - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 👉 [Elon&#39;s wasted $$ on twitter](http://9gag.com/gag/aqynNoZ)<!-- MEMES:END -->
+ - 😝 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 👉 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)<!-- MEMES:END -->
 
 ---
 

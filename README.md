@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
- - 😝 [Cute](http://9gag.com/gag/avyzGpM)
- - 💣 [Nice smile...](http://9gag.com/gag/aryVNyX)
+ - 😝 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
+ - 😝 [No to camping](http://9gag.com/gag/aKG7PMj)
+ - 💣 [Vengeance](http://9gag.com/gag/aE0PR9x)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [I hate islam](http://9gag.com/gag/aqynb5p)<!-- MEMES:END -->
+ - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
 
 ---
 

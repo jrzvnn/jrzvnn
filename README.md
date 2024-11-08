@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stripper Magician](http://9gag.com/gag/a2vWd79)
  - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 💣 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
+ - 😝 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
+ - 💣 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
+ - 👉 [Unexpected question](http://9gag.com/gag/adBVYXd)<!-- MEMES:END -->
 
 ---
 

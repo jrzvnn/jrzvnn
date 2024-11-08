@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top Canon Promo Codes and Coupons for November 2024](https://www.wired.com/story/canon-promo-code/)
+ - [$10 OFF Walmart Promo Code for November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [KitchenAid Promo Codes: 5% Off Countertop Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Sources: Trump&#39;s transition team is considering Dan Gallagher, an ex-SEC commissioner and Robinhood&#39;s current legal chief, as SEC chair replacing Gary Gensler &lpar;Reuters&rpar;](http://www.techmeme.com/241108/p2#a241108p2)
- - [Detroit plans to accept crypto for tax and fee payments starting mid-2025 through a PayPal-managed platform, becoming the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)
- - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)
- - [6 Best Cheap Mattress for 2024 -- Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [How to import your old passwords into the new Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_medium=rss)<!-- TECH:END -->
+ - [Detroit plans to accept crypto for tax and fee payments starting mid-2025 through a PayPal-managed platform, becoming the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

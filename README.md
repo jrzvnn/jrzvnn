@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
- - 😝 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
- - 💣 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
- - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
- - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 👉 [Soooo... the question of questions... 9gaggers, do you raise your left hand or right hand? Let&#39;s see which wins](http://9gag.com/gag/avyzLjb)<!-- MEMES:END -->
 
 ---
 

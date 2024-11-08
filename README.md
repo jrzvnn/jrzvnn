@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facing a Second Trump Term, Trans People Are Forming DIY Networks for Gender-Affirming Care](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)
+ - [YouTube Premium’s legacy price breaks are going away for more users](https://www.theverge.com/2024/11/8/24291572/youtube-premium-music-price-hike-legacy-subscription)
  - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)
  - [Amazon is testing grocery formats that pull together fulfillment networks for Whole Foods and Amazon Fresh stores into a common delivery platform &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/241108/p14#a241108p14)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [DJI just added the two most requested features to its $199 Neo drone](https://www.theverge.com/2024/11/8/24291530/dji-neo-vertical-video-faster-tracking)
- - [The 10-3-2-1-0 Sleep Hack May Be the Solution to Your Sleepless Nights](https://www.cnet.com/health/sleep/the-10-3-2-1-0-sleep-may-be-the-solution-to-sleepless-nights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

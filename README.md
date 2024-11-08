@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pocketpair says Nintendo and Pok&amp;eacute;mon Company are seeking ~$65K in damages in their lawsuit and lists the three patents the studio is accused of infringing &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241108/p12#a241108p12)
- - [Heretic’s directors on crafting their new horror villain: ‘This has to be Hugh Grant’](https://www.theverge.com/24291478/heretic-director-interview-scott-beck-bryan-woods)
- - [Feds investigate racist texts sent across the country post-election](https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election)
- - [2024 is going to smash heat records](https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals)
- - [Best VPN Deals: Protect Your Online Activities, Starting at Just $2 a Month](https://www.cnet.com/deals/best-vpn-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say the Trump administration&#39;s approach to cybersecurity is likely to focus on confronting China, relaxing regulations, narrowing CISA&#39;s focus, and more &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241108/p13#a241108p13)
+ - [iPhone 16 Pro Max long term review -- Like Apple says, the best iPhone yet](https://appleinsider.com/articles/24/11/08/iphone-16-pro-max-long-term-review----like-apple-says-the-best-iphone-yet?utm_medium=rss)
+ - [My Favorite Video Doorbell Is Now Almost Half Off Just Ahead of Black Friday](https://www.cnet.com/deals/my-favorite-video-doorbell-is-now-almost-half-off-just-ahead-of-black-friday/#ftag=CAD590a51e)
+ - [Holiday Cooking Just Got Easier With $100 Off This KitchenAid Stand Mixer](https://www.cnet.com/deals/holiday-cooking-just-got-easier-with-100-off-this-kitchenaid-stand-mixer/#ftag=CAD590a51e)
+ - [Pocketpair says Nintendo and Pok&amp;eacute;mon Company are seeking ~$65K in damages in their lawsuit and lists the three patents the studio is accused of infringing &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241108/p12#a241108p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

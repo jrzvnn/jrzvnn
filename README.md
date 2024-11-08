@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 💣 [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
+ - 😝 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
+ - 😝 [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
+ - 💣 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
+ - 👉 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)<!-- MEMES:END -->
 
 ---
 

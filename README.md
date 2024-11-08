@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [DJI just added the two most requested features to its $199 Neo drone](https://www.theverge.com/2024/11/8/24291530/dji-neo-vertical-video-faster-tracking)
+ - [How to start using Image Playground in iOS 18.2 to create funny selfies](https://appleinsider.com/inside/ios-18/tips/how-to-start-using-image-playground-in-ios-182-to-create-funny-selfies?utm_medium=rss)
  - [These Internet Providers Offer Discounts for Veterans and Active Military Members](https://www.cnet.com/home/internet/these-internet-providers-offer-discounts-for-veterans-and-active-military-members/#ftag=CAD590a51e)
- - [Texas Solar Panel Incentives: Rebates, Tax Credits, Financing and More](https://www.cnet.com/home/energy-and-utilities/texas-solar-panel-incentives-tax-credits-rebates-and-buyback-programs/#ftag=CAD590a51e)
- - [iPhone 16 Pro Max review two months later -- Like Apple says, the best iPhone yet](https://appleinsider.com/articles/24/11/08/iphone-16-pro-max-long-term-review----like-apple-says-the-best-iphone-yet?utm_medium=rss)
- - [Experts say the Trump administration&#39;s approach to cybersecurity is likely to focus on confronting China, relaxing regulations, narrowing CISA&#39;s focus, and more &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241108/p13#a241108p13)
- - [Jabra Elite 10 Earbuds Are at a New Record Low Price, Saving You $100](https://www.cnet.com/deals/jabra-elite-10-earbuds-are-at-a-new-record-low-price-saving-you-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texas Solar Panel Incentives: Rebates, Tax Credits, Financing and More](https://www.cnet.com/home/energy-and-utilities/texas-solar-panel-incentives-tax-credits-rebates-and-buyback-programs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

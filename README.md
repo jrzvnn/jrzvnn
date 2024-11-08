@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vengeance](http://9gag.com/gag/aE0PR9x)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 😝 [Stripper Magician](http://9gag.com/gag/a2vWd79)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 💣 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
+ - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 ---
 

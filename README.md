@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Arlington, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)
+ - [It&#39;s Time to Apply for ACA Health Insurance. Here&#39;s How It Works](https://www.cnet.com/personal-finance/insurance/its-time-to-apply-for-aca-health-insurance-heres-how-it-works/#ftag=CAD590a51e)
+ - [Are You Eligible for Up to $10,000 from 23andMe&#39;s Data Breach Settlement?](https://www.cnet.com/personal-finance/are-you-eligible-for-up-to-10000-from-23andmes-data-breach-settlement/#ftag=CAD590a51e)
  - [Sony reports Q2 revenue up 9% YoY to ~$19.45B, operating profit up 73% YoY to ~$2.96B vs. ~$2.18B est., and PS5 sales of 3.8M units, down from 4.9M a year ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/241108/p3#a241108p3)
- - [eBay Coupon Code: $5 Off Select Orders in November 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Design Within Reach Promo Code: 15% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Nest Sparrow Hybrid Review 2024: Universal Comfort for Couples](https://www.cnet.com/health/sleep/nest-sparrow-hybrid-review/#ftag=CAD590a51e)
- - [Top Canon Promo Codes and Coupons for November 2024](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [eBay Coupon Code: $5 Off Select Orders in November 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

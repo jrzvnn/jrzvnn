@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the reason why many americans vote for this man](http://9gag.com/gag/aE0P74p)
- - 😝 [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
- - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 😝 [Nothing beats selfishness](http://9gag.com/gag/a5QWKnE)
- - 👉 [The best co worker huh?](http://9gag.com/gag/a87GW46)<!-- MEMES:END -->
+ - 😝 [The Spaniards from Valencia and their unity.](http://9gag.com/gag/aPA7WYn)
+ - 😝 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)
+ - 💣 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
+ - 😝 [Aged like fine wine.](http://9gag.com/gag/a0eNpOn)
+ - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---
 

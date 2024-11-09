@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recharging brain before going to work](http://9gag.com/gag/an74MQL)
  - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 💣 [Why is this actually fire](http://9gag.com/gag/aBymxy2)
+ - 😝 [Why is this actually fire](http://9gag.com/gag/aBymxy2)
+ - 💣 [Men.](http://9gag.com/gag/avyzOjd)
  - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
  - 👉 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)<!-- MEMES:END -->
 

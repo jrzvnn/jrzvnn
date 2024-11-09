@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [^_^](http://9gag.com/gag/aD24z0K)
- - 😝 [Guide imitates the marking of a territorial boundary](http://9gag.com/gag/axy90X1)
- - 💣 [Antarctica](http://9gag.com/gag/amov2LX)
- - 😝 [Mind Blowers](http://9gag.com/gag/aYQyxe2)
- - 👉 [Recharging brain before going to work](http://9gag.com/gag/an74MQL)<!-- MEMES:END -->
+ - 😝 [3rd world sht hole](http://9gag.com/gag/aE0PB39)
+ - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
+ - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [Moon](http://9gag.com/gag/azxmrjp)
+ - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 ---
 

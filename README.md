@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
- - 😝 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)
- - 💣 [Yes please](http://9gag.com/gag/ajP9qd8)
- - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)<!-- MEMES:END -->
+ - 😝 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
+ - 😝 [Help yourself](http://9gag.com/gag/aAyeD40)
+ - 💣 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 👉 [I&#39;m showing you my strength.](http://9gag.com/gag/ayNex7q)<!-- MEMES:END -->
 
 ---
 

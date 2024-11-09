@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhones on iOS 18.1 will automatically reboot and lock down after being idle for a while](https://appleinsider.com/articles/24/11/09/iphones-on-ios-181-will-automatically-reboot-and-lock-down-after-being-idle-for-a-while?utm_medium=rss)
  - [The Taiwan Semiconductor Industry Association says Taiwan&#39;s semiconductor production is on track to increase 22% YoY to a record $165B in 2024 on AI demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241109/p9#a241109p9)
  - [A new iOS 18 security feature makes it harder for police to unlock iPhones](https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult)
  - [How to Spot a Great Bottle of Wine for Cheap, According to an Expert](https://www.cnet.com/how-to/how-to-spot-a-great-bottle-of-wine-for-cheap-according-to-a-wine-expert/#ftag=CAD590a51e)
- - [Seagate’s 2TB Xbox Expansion Card has returned to its best price to date](https://www.theverge.com/2024/11/9/24291552/seagate-storage-expansion-card-xbox-series-x-s-fitbit-charge-6-deal-sale)
- - [7 Best Water Bottles &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)<!-- TECH:END -->
+ - [Seagate’s 2TB Xbox Expansion Card has returned to its best price to date](https://www.theverge.com/2024/11/9/24291552/seagate-storage-expansion-card-xbox-series-x-s-fitbit-charge-6-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

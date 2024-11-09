@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comedy gold!](http://9gag.com/gag/aKG73zb)
- - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
- - 💣 [I&#39;m glad she&#39;ll be fired. Good riddance.](http://9gag.com/gag/aE0P7en)
+ - 😝 [So sad, so blue](http://9gag.com/gag/ayNednV)
+ - 😝 [Boom! There goes the house.](http://9gag.com/gag/amovzqj)
+ - 💣 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Ol far snow man .](http://9gag.com/gag/aO87mnM)<!-- MEMES:END -->
+ - 👉 [Here they come :&rpar;&rpar;](http://9gag.com/gag/aVvwMqd)<!-- MEMES:END -->
 
 ---
 

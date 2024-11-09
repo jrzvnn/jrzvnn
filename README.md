@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
- - 😝 [3rd world sht hole](http://9gag.com/gag/aE0PB39)
- - 💣 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 👉 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)<!-- MEMES:END -->
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 💣 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)
+ - 😝 [Dont put molten slag in water please...](http://9gag.com/gag/a4P373v)
+ - 👉 [People are afraid](http://9gag.com/gag/a6ZK7Wq)<!-- MEMES:END -->
 
 ---
 

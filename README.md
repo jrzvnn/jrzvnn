@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its seems the future is bright.](http://9gag.com/gag/abAG0pb)
- - 😝 [Lego fail](http://9gag.com/gag/axy9jGL)
- - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [His soul unburdened. His mind clear. Once he was sleepy, but now he\u2019s just Joe.](http://9gag.com/gag/awyB5KB)
+ - 😝 [It\u2019s going to be okay](http://9gag.com/gag/aryVNqV)
+ - 💣 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
  - 👉 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)<!-- MEMES:END -->
 

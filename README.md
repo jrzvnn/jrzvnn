@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the increase in quality from GPT-4 to Orion is far smaller than the jump from GPT-3 to GPT-4; Orion may not outperform GPT-4 in tasks like coding &lpar;The Information&rpar;](http://www.techmeme.com/241109/p12#a241109p12)
+ - [Sources: the jump in quality from GPT-4 to Orion is far smaller than the jump from GPT-3 to GPT-4; Orion may not outperform predecessors in tasks like coding &lpar;The Information&rpar;](http://www.techmeme.com/241109/p12#a241109p12)
  - [No Need to Skip the Sweets. 6 Natural Sugar Substitutes That Don&#39;t Compromise Your Health](https://www.cnet.com/health/nutrition/6-natural-sugar-substitutes-that-dont-compromise-your-health/#ftag=CAD590a51e)
  - [Consolidated Communications Review: Plans, Prices and Availability](https://www.cnet.com/home/internet/consolidated-communications-review/#ftag=CAD590a51e)
  - [Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec)

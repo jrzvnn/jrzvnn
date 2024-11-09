@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm...](http://9gag.com/gag/aVvw3MP)
+ - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
  - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 💣 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 💣 [A good man](http://9gag.com/gag/aAyexeL)
  - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
- - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
+ - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 ---
 

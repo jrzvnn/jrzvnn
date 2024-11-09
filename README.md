@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
- - 😝 [Bloated Cow can&#39;t pass gas so gets a helping hand!](http://9gag.com/gag/amovYYd)
- - 💣 [A good man](http://9gag.com/gag/aAyexeL)
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
- - 👉 [White liberal women](http://9gag.com/gag/aqyn1Yj)<!-- MEMES:END -->
+ - 😝 [Guide imitates the marking of a territorial boundary](http://9gag.com/gag/axy90X1)
+ - 😝 [It just gets better and better, their mental illness and narcissistic behaviours are through the roof](http://9gag.com/gag/a87G8KZ)
+ - 💣 [Nice smile...](http://9gag.com/gag/aryVNyX)
+ - 😝 [^_^](http://9gag.com/gag/aD24z0K)
+ - 👉 [Antarctica](http://9gag.com/gag/amov2LX)<!-- MEMES:END -->
 
 ---
 

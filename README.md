@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TCL QM7 TV Review: Great Picture, Suspect Software](https://www.wired.com/review/tcl-qm7/)
  - [8 Best Touchscreen Gloves &lpar;2024&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
  - [I got a desk treadmill to relieve stress — instead, it stressed me out](https://www.theverge.com/24291281/mobvoi-home-walking-pad-review-treadmills-fitness)
  - [Best Compression Socks for 2024](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)
- - [Yoga Mats, Props, and WIRED-Tested Yoga Gear &lpar;2024&rpar;](https://www.wired.com/story/yoga-guide/)
- - [Best Internet Providers in Clovis, California](https://www.cnet.com/home/internet/best-internet-providers-in-clovis-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yoga Mats, Props, and WIRED-Tested Yoga Gear &lpar;2024&rpar;](https://www.wired.com/story/yoga-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

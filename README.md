@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes please](http://9gag.com/gag/ajP9qd8)
- - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 💣 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)
+ - 😝 [Help yourself](http://9gag.com/gag/aAyeD40)
+ - 😝 [I&#39;m showing you my strength.](http://9gag.com/gag/ayNex7q)
+ - 💣 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
+ - 👉 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)<!-- MEMES:END -->
 
 ---
 

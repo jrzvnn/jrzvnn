@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
- - 💣 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
- - 😝 [Moon](http://9gag.com/gag/azxmrjp)
- - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
+ - 😝 [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)
+ - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 😝 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)
+ - 👉 [Moon](http://9gag.com/gag/azxmrjp)<!-- MEMES:END -->
 
 ---
 

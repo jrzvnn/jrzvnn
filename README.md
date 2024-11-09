@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moon](http://9gag.com/gag/azxmrjp)
- - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 💣 [Ladies, Your options are that, or me. And i dont have a Hawaiian shirt.](http://9gag.com/gag/aVvwPBP)
- - 😝 [Bloated Cow can&#39;t pass gas so gets a helping hand!](http://9gag.com/gag/amovYYd)
- - 👉 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)<!-- MEMES:END -->
+ - 😝 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
+ - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 💣 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)
+ - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 👉 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)<!-- MEMES:END -->
 
 ---
 

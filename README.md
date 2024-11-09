@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The office](http://9gag.com/gag/aZZyMMV)
- - 😝 [The Red Wave washes over everything.](http://9gag.com/gag/an74yKn)
- - 💣 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)
+ - 😝 [I was born ready for this](http://9gag.com/gag/amovrr2)
+ - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
+ - 💣 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Today&#39;s large eruption on the Sun &lpar;Credit: Edward Vijayakumar&rpar;](http://9gag.com/gag/aE0Pnze)<!-- MEMES:END -->
+ - 👉 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)<!-- MEMES:END -->
 
 ---
 

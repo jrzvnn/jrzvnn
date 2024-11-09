@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 💣 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)
- - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
+ - 😝 [Moon](http://9gag.com/gag/azxmrjp)
+ - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
  - 👉 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)<!-- MEMES:END -->
 
 ---

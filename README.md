@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
- - 😝 [Moon](http://9gag.com/gag/azxmrjp)
- - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
- - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 👉 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)<!-- MEMES:END -->
+ - 😝 [Nice smile...](http://9gag.com/gag/aryVNyX)
+ - 😝 [^_^](http://9gag.com/gag/aD24z0K)
+ - 💣 [It just gets better and better, their mental illness and narcissistic behaviours are through the roof](http://9gag.com/gag/a87G8KZ)
+ - 😝 [Antarctica](http://9gag.com/gag/amov2LX)
+ - 👉 [But Mom, it&#39;s Christmas! What does this mean?](http://9gag.com/gag/aNDgALw)<!-- MEMES:END -->
 
 ---
 

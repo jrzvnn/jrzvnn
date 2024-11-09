@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Casper Mattresses: An Overview of Casper&#39;s Catalog](https://www.cnet.com/health/sleep/casper-mattresses-an-overview-of-caspers-catalog/#ftag=CAD590a51e)
+ - [Best Internet Providers in Asheville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bellevue, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellevue-wa/#ftag=CAD590a51e)
  - [Netflix&#39;s Arcane Season 2 Opens With Shifting Alliances and Bad Blood](https://www.cnet.com/tech/services-and-software/netflixs-arcane-season-2-opens-with-shifting-alliances-and-bad-blood/#ftag=CAD590a51e)
- - [My Favorite Keyboard Packs a Punch That Rivals Apple&#39;s Magic Keyboard.](https://www.cnet.com/tech/computing/my-favorite-keyboard-packs-a-punch-that-rivals-apples-magic-keyboard/#ftag=CAD590a51e)
- - [The 2024 US election cycle showed how crypto has turned out to be a practically perfect special interest group for an era of unlimited corporate spending &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/241109/p6#a241109p6)
- - [Ethereum Foundation financial report: $970.2M in treasury as of Oct. 31, down from $1.6B in March 2022; ~80% of holdings in ETH, which declined 20%+ since 2022 &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241109/p5#a241109p5)
- - [Tencent partners with Visa to launch a palm biometric authentication payment service at stores and restaurants in Singapore, its first expansion outside China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241109/p4#a241109p4)<!-- TECH:END -->
+ - [My Favorite Keyboard Packs a Punch That Rivals Apple&#39;s Magic Keyboard.](https://www.cnet.com/tech/computing/my-favorite-keyboard-packs-a-punch-that-rivals-apples-magic-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

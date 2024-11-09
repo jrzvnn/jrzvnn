@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guide imitates the marking of a territorial boundary](http://9gag.com/gag/axy90X1)
- - 😝 [It just gets better and better, their mental illness and narcissistic behaviours are through the roof](http://9gag.com/gag/a87G8KZ)
- - 💣 [Nice smile...](http://9gag.com/gag/aryVNyX)
- - 😝 [^_^](http://9gag.com/gag/aD24z0K)
- - 👉 [Antarctica](http://9gag.com/gag/amov2LX)<!-- MEMES:END -->
+ - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 😝 [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
+ - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
+ - 👉 [3rd world sht hole](http://9gag.com/gag/aE0PB39)<!-- MEMES:END -->
 
 ---
 

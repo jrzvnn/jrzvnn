@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was born ready for this](http://9gag.com/gag/amovrr2)
- - 😝 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)
- - 💣 [I&#39;m not a fan, don&#39;t think she would make a good president, but damn, i&#39;d love to see democrats talk about how electing a black woman is bad](http://9gag.com/gag/a0eNpjL)
+ - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
+ - 💣 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)<!-- MEMES:END -->
+ - 👉 [So sad, so blue](http://9gag.com/gag/ayNednV)<!-- MEMES:END -->
 
 ---
 

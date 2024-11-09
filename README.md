@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Is the Worst Thing to Pour Down the Drain, According to an Expert](https://www.cnet.com/how-to/this-is-the-worst-thing-to-pour-down-the-drain-according-to-an-expert/#ftag=CAD590a51e)
+ - [Streaming on Max: The 24 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-november-2024/#ftag=CAD590a51e)
  - [The Best Ebook Readers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ereaders/)
- - [How to use the latest AI video editing tools in Google Photos](https://www.theverge.com/24290456/google-photos-ai-clip-how-to)
- - [Analysis: US private construction spending on data centers grew to ~$30B/year, over 2x the amount in late 2022; global spending is on track to reach $250B/year &lpar;Ben Holland/Bloomberg&rpar;](http://www.techmeme.com/241109/p8#a241109p8)
- - [Instagram stops the ‘rug pull’ that disappears videos while you’re watching them](https://www.theverge.com/2024/11/9/24292040/instagram-stops-loading-videos-after-opening-app-rug-pull-adam-mosseri)
- - [TCL QM7 TV Review: Great Picture, Suspect Software](https://www.wired.com/review/tcl-qm7/)<!-- TECH:END -->
+ - [The Fed Cut Rates Again. Will Savings Account and CD APYs Continue to Drop?](https://www.cnet.com/personal-finance/the-fed-rate-pause-is-great-for-savers-heres-how/#ftag=CAD590a51e)
+ - [Best Outdoor Tech for 2024](https://www.cnet.com/news/the-best-outdoor-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

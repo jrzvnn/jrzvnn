@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3rd world sht hole](http://9gag.com/gag/aE0PB39)
- - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
- - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 💣 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
  - 😝 [Moon](http://9gag.com/gag/azxmrjp)
- - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
+ - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
 
 ---
 

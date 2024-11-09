@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Invasive Species Are Threatening the Quality of New York’s Tap Water](https://www.wired.com/story/invasive-species-are-threatening-the-quality-of-new-yorks-tap-water/)
+ - [The 26 Best Shows on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Auto-Rebooting iPhones Are Causing Chaos for Cops](https://www.wired.com/story/mysterious-iphone-reboot-ios-18-police/)
  - [The Best Veterans Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-veterans-day-mattress-deals-2024/)
- - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)
- - [I’ve Tested Every Purple Mattress Out There. Here Are My Thoughts on the New Line](https://www.cnet.com/health/sleep/ive-tested-every-purple-mattress-here-are-my-thoughts-on-the-new-line/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Osasuna From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-osasuna-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So sad, so blue](http://9gag.com/gag/ayNednV)
- - 😝 [Boom! There goes the house.](http://9gag.com/gag/amovzqj)
- - 💣 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - 😝 [Here they come :&rpar;&rpar;](http://9gag.com/gag/aVvwMqd)
+ - 😝 [Lego fail](http://9gag.com/gag/axy9jGL)
+ - 💣 [Owned.](http://9gag.com/gag/a2vWm7Y)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Here they come :&rpar;&rpar;](http://9gag.com/gag/aVvwMqd)<!-- MEMES:END -->
+ - 👉 [Laughing in Android](http://9gag.com/gag/a6ZK7o2)<!-- MEMES:END -->
 
 ---
 

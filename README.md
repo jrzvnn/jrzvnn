@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram stops the ‘rug pull’ that disappears videos when you open it](https://www.theverge.com/2024/11/9/24292040/instagram-stops-loading-videos-after-opening-app-rug-pull-adam-mosseri)
- - [TCL QM7 TV Review: Great Picture, Suspect Software](https://www.wired.com/review/tcl-qm7/)
- - [Premier League Soccer: Livestream Liverpool vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brighton vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brighton-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [Vacuum Smarter: Repeat This Technique for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/vacuum-smarter-try-this-technique-for-a-cleaner-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Ebook Readers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ereaders/)
+ - [How to use the latest AI video editing tools in Google Photos](https://www.theverge.com/24290456/google-photos-ai-clip-how-to)
+ - [Analysis: US private construction spending on data centers grew to ~$30B/year, over 2x the amount in late 2022; global spending is on track to reach $250B/year &lpar;Ben Holland/Bloomberg&rpar;](http://www.techmeme.com/241109/p8#a241109p8)
+ - [Instagram stops the ‘rug pull’ that disappears videos while you’re watching them](https://www.theverge.com/2024/11/9/24292040/instagram-stops-loading-videos-after-opening-app-rug-pull-adam-mosseri)
+ - [TCL QM7 TV Review: Great Picture, Suspect Software](https://www.wired.com/review/tcl-qm7/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

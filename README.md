@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Touchscreen Gloves &lpar;2024&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
+ - [I got a desk treadmill to relieve stress — instead, it stressed me out](https://www.theverge.com/24291281/mobvoi-home-walking-pad-review-treadmills-fitness)
  - [Best Compression Socks for 2024](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)
  - [Yoga Mats, Props, and WIRED-Tested Yoga Gear &lpar;2024&rpar;](https://www.wired.com/story/yoga-guide/)
- - [Best Internet Providers in Clovis, California](https://www.cnet.com/home/internet/best-internet-providers-in-clovis-ca/#ftag=CAD590a51e)
- - [New Data Shows AI Companies Love &#39;Premium Publisher&#39; Content](https://www.cnet.com/tech/services-and-software/new-data-shows-ai-companies-love-premium-publisher-content/#ftag=CAD590a51e)
- - [Mario &amp; Luigi Brothership: New Nintendo RPG Shows We Need the Switch 2 Now](https://www.cnet.com/tech/gaming/mario-luigi-brothership-new-nintendo-rpg-shows-we-need-the-switch-2-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Clovis, California](https://www.cnet.com/home/internet/best-internet-providers-in-clovis-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

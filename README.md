@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casper Mattresses: An Overview of Casper&#39;s Catalog](https://www.cnet.com/health/sleep/casper-mattresses-an-overview-of-caspers-catalog/#ftag=CAD590a51e)
- - [Best Internet Providers in Asheville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)
- - [Best Internet Providers in Bellevue, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellevue-wa/#ftag=CAD590a51e)
- - [Netflix&#39;s Arcane Season 2 Opens With Shifting Alliances and Bad Blood](https://www.cnet.com/tech/services-and-software/netflixs-arcane-season-2-opens-with-shifting-alliances-and-bad-blood/#ftag=CAD590a51e)
- - [My Favorite Keyboard Packs a Punch That Rivals Apple&#39;s Magic Keyboard.](https://www.cnet.com/tech/computing/my-favorite-keyboard-packs-a-punch-that-rivals-apples-magic-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Veterans Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-veterans-day-mattress-deals-2024/)
+ - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)
+ - [I’ve Tested Every Purple Mattress Out There. Here Are My Thoughts on the New Line](https://www.cnet.com/health/sleep/ive-tested-every-purple-mattress-here-are-my-thoughts-on-the-new-line/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Osasuna From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-osasuna-from-anywhere/#ftag=CAD590a51e)
+ - [Average Power Bill in Connecticut: What to Expect and Smart Ways to Save](https://www.cnet.com/home/energy-and-utilities/heres-the-average-power-bill-in-connecticut-and-how-to-save/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

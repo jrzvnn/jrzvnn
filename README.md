@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ethereum Foundation financial report: $970.2M in treasury as of Oct. 31, down from $1.6B in March 2022; ~80% of holdings in ETH, which declined 20%+ since 2022 &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/241109/p5#a241109p5)
  - [Tencent partners with Visa to launch a palm biometric authentication payment service at stores and restaurants in Singapore, its first expansion outside China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241109/p4#a241109p4)
  - [Source: AI coding assistant startup Anysphere has received unsolicited offers valuing the company at as much as $2.5B from Benchmark, Index, a16z, and others &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241109/p3#a241109p3)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-9/#ftag=CAD590a51e)
- - [Swiggy closes an oversubscribed ~$1.4B IPO, as investors bet on a quick commerce boom; analysts expect the company to make a muted stock market debut next week &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/241109/p2#a241109p2)
- - [ChatGPT gave ~2M responses asking users to get election news elsewhere on Nov. 5 and Nov. 6, and rejected 250K+ requests for DALL-E images of Trump and others &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241109/p1#a241109p1)<!-- TECH:END -->
+ - [Swiggy closes an oversubscribed ~$1.4B IPO, as investors bet on a quick commerce boom; analysts expect the company to make a muted stock market debut next week &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/241109/p2#a241109p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

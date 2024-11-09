@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
- - 💣 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
- - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
+ - 😝 [Moon](http://9gag.com/gag/azxmrjp)
+ - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 💣 [Ladies, Your options are that, or me. And i dont have a Hawaiian shirt.](http://9gag.com/gag/aVvwPBP)
+ - 😝 [Bloated Cow can&#39;t pass gas so gets a helping hand!](http://9gag.com/gag/amovYYd)
+ - 👉 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)<!-- MEMES:END -->
 
 ---
 

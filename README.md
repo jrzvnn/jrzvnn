@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I was born ready for this](http://9gag.com/gag/amovrr2)
- - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
- - 💣 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
+ - 😝 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)
+ - 💣 [I&#39;m not a fan, don&#39;t think she would make a good president, but damn, i&#39;d love to see democrats talk about how electing a black woman is bad](http://9gag.com/gag/a0eNpjL)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
  - 👉 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)<!-- MEMES:END -->
 

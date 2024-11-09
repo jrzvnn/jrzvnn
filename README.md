@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
- - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
- - 💣 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)
+ - 😝 [Help yourself](http://9gag.com/gag/aAyeD40)
+ - 😝 [Beautiful](http://9gag.com/gag/aqynbZL)
+ - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [So sad, so blue](http://9gag.com/gag/ayNednV)<!-- MEMES:END -->
+ - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice smile...](http://9gag.com/gag/aryVNyX)
- - 😝 [^_^](http://9gag.com/gag/aD24z0K)
- - 💣 [It just gets better and better, their mental illness and narcissistic behaviours are through the roof](http://9gag.com/gag/a87G8KZ)
- - 😝 [Antarctica](http://9gag.com/gag/amov2LX)
- - 👉 [But Mom, it&#39;s Christmas! What does this mean?](http://9gag.com/gag/aNDgALw)<!-- MEMES:END -->
+ - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 😝 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
+ - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)
+ - 👉 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)<!-- MEMES:END -->
 
 ---
 

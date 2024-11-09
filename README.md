@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://www.theverge.com/2024/11/9/24292340/captain-america-brave-new-world-thunderbolts-marvel-trailers-red-hulk-bob)
  - [Sources: the jump in quality from GPT-4 to Orion is far smaller than the jump from GPT-3 to GPT-4; Orion may not outperform predecessors in tasks like coding &lpar;The Information&rpar;](http://www.techmeme.com/241109/p12#a241109p12)
  - [No Need to Skip the Sweets. 6 Natural Sugar Substitutes That Don&#39;t Compromise Your Health](https://www.cnet.com/health/nutrition/6-natural-sugar-substitutes-that-dont-compromise-your-health/#ftag=CAD590a51e)
  - [Consolidated Communications Review: Plans, Prices and Availability](https://www.cnet.com/home/internet/consolidated-communications-review/#ftag=CAD590a51e)
- - [Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec)
- - [Chegg lost 500K+ subscribers since ChatGPT&#39;s launch, and its stock is down 99% from early 2021, as students looking for homework help turn to free AI tools &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241109/p11#a241109p11)<!-- TECH:END -->
+ - [Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

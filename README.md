@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 💣 [A good man](http://9gag.com/gag/aAyexeL)
+ - 😝 [A good man](http://9gag.com/gag/aAyexeL)
  - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 💣 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
  - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 ---

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ChatGPT gave ~2M responses asking users to get election news elsewhere on Nov. 5 and Nov. 6, and rejected 250K+ requests for DALL-E images of Trump and others &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241109/p1#a241109p1)
  - [Arcane’s second season is a revolutionary powderkeg](https://www.theverge.com/24291592/arcane-season-2-review-netflix)
  - [In an email in May, the NHTSA warned Tesla that its online posts falsely suggested that its cars are autonomous, potentially misleading and endangering drivers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241108/p20#a241108p20)
- - [Experts say a new feature in iOS 18.1 causes iPhone to reboot after few days of inactivity, which improves security and has caused concern among law enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241108/p19#a241108p19)
- - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 9, #47](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-9-47/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 9, #251](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-9-251/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

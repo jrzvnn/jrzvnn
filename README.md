@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 😝 [Why is this actually fire](http://9gag.com/gag/aBymxy2)
- - 💣 [Men.](http://9gag.com/gag/avyzOjd)
+ - 😝 [Hmm...](http://9gag.com/gag/aVvw3MP)
  - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 👉 [Once in a lifetime shot?](http://9gag.com/gag/an74Mrq)<!-- MEMES:END -->
+ - 💣 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
 
 ---
 

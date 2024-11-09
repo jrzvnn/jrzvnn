@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 😝 [Beautiful](http://9gag.com/gag/aqynbZL)
- - 💣 [Owned.](http://9gag.com/gag/a2vWm7Y)
+ - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
+ - 💣 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)<!-- MEMES:END -->
+ - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 ---
 

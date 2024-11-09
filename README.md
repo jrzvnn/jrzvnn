@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec)
  - [Chegg lost 500K+ subscribers since ChatGPT&#39;s launch, and its stock is down 99% from early 2021, as students looking for homework help turn to free AI tools &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241109/p11#a241109p11)
- - [Best iMac Deals: Nab an Apple M4 or M3 Desktop for Less](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)
- - [FTX sues Anthony Scaramucci, Crypto.com, Zuckerberg&#39;s FWD.US, and others to recoup SBF&#39;s &quot;investments&quot; as part of his &quot;campaign of influence-buying&quot; in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241109/p10#a241109p10)
- - [Last Chance: Save 30% on Speck Accessories With Our Exclusive Early Black Friday Coupon Code](https://www.cnet.com/deals/last-chance-save-30-on-speck-accessories-with-our-exclusive-early-black-friday-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)
+ - [&#39;The Penguin&#39; Season 1 Finale: How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/the-penguin-season-1-finale-how-to-watch-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Burlington, Vermont](https://www.cnet.com/home/internet/best-internet-providers-in-burlington-vt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

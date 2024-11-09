@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 😝 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
+ - 😝 [3rd world sht hole](http://9gag.com/gag/aE0PB39)
+ - 💣 [White liberal women](http://9gag.com/gag/aqyn1Yj)
  - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 💣 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
- - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
- - 👉 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)<!-- MEMES:END -->
+ - 👉 [Orangeman are much more respectable.](http://9gag.com/gag/aGydD8n)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [FTX sues Anthony Scaramucci, Crypto.com, Zuckerberg&#39;s FWD.US, and others to recoup SBF&#39;s &quot;investments&quot; as part of his &quot;campaign of influence-buying&quot; in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241109/p10#a241109p10)
- - [Last Chance: Save 30% on Speck Accessories With Our Exclusive Early Black Friday Coupon Code](https://www.cnet.com/deals/last-chance-save-30-on-speck-accessories-with-our-exclusive-early-black-friday-coupon-code/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Alabama](https://www.cnet.com/home/energy-and-utilities/alabama-solar-panels/#ftag=CAD590a51e)
- - [Best Weight Loss Programs for 2024](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)
- - [How To Remove Clothing Stains: Scrub out Blood, Grease, Grass, Oil and More](https://www.cnet.com/how-to/how-to-remove-stains-from-clothing-blood-grease-grass-oil-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Ways to Use Lemons to Naturally Clean Your Home](https://www.cnet.com/how-to/how-to-clean-your-home-naturally-with-lemons-7-helpful-tips/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in New Jersey](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
+ - [Thinking About Deleting Your X Account? Here&#39;s How to Do It](https://www.cnet.com/tech/thinking-about-deleting-your-x-account-heres-how-to-do-it/#ftag=CAD590a51e)
+ - [iPhones on iOS 18.1 will automatically reboot and lock down after being idle for a while](https://appleinsider.com/articles/24/11/09/iphones-on-ios-181-will-automatically-reboot-and-lock-down-after-being-idle-for-a-while?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

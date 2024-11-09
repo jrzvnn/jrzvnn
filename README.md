@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Upwind, which sells tools to secure cloud infrastructure, is raising a $100M Series B at a $850M-$900M valuation, after raising $50M in September 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241108/p18#a241108p18)
+ - [A US judge sentences Russian-Swedish national Roman Sterlingov to 12.5 years for operating crypto mixer Bitcoin Fog from 2011 to 2021, laundering ~$400M &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241108/p17#a241108p17)
  - [A Michigan man, a member of an online terrorist network called 764, is sentenced to 30 years in prison for preying on kids in Discord servers and chat rooms &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/241108/p16#a241108p16)
- - [Google rolls out its Gemini-powered Vids app that lets users create video presentations using a prompt, with full access for Workspace users until at least 2026 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241108/p15#a241108p15)
- - [The Beatles’ final song, restored using AI, is up for a Grammy](https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination)
- - [Taylor Swift Fans Are Leaving X for Bluesky After Trump’s Election](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)
- - [Best Early Black Friday Vacuum Deals: Get Up to $270 Off Dyson, Tineco and More](https://www.cnet.com/deals/best-early-black-friday-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zoma Boost Mattress Review: Surprisingly Luxurious Pillow Top Comfort](https://www.cnet.com/health/sleep/zoma-boost-mattress-review/#ftag=CAD590a51e)
+ - [More People Should Watch This Devilish &#39;80s-Inspired Horror Movie on Tubi](https://www.cnet.com/tech/services-and-software/more-people-should-watch-this-devilish-80s-inspired-horror-movie-on-tubi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swiggy closes an oversubscribed ~$1.4B IPO, as investors bet on a quick commerce boom; analysts expect the company to make a muted stock market debut next week &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/241109/p2#a241109p2)
  - [ChatGPT gave ~2M responses asking users to get election news elsewhere on Nov. 5 and Nov. 6, and rejected 250K+ requests for DALL-E images of Trump and others &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241109/p1#a241109p1)
  - [Arcane’s second season is a revolutionary powderkeg](https://www.theverge.com/24291592/arcane-season-2-review-netflix)
  - [In an email in May, the NHTSA warned Tesla that its online posts falsely suggested that its cars are autonomous, potentially misleading and endangering drivers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241108/p20#a241108p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 9, #47](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-9-47/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 9, #251](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-9-251/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 9, #47](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-9-47/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seagate’s 2TB Xbox Expansion Card has returned to its best price to date](https://www.theverge.com/2024/11/9/24291552/seagate-storage-expansion-card-xbox-series-x-s-fitbit-charge-6-deal-sale)
  - [7 Best Water Bottles &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
  - [This Is the Worst Thing to Pour Down the Drain, According to an Expert](https://www.cnet.com/how-to/this-is-the-worst-thing-to-pour-down-the-drain-according-to-an-expert/#ftag=CAD590a51e)
  - [Streaming on Max: The 24 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-november-2024/#ftag=CAD590a51e)
- - [The Best Ebook Readers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ereaders/)
- - [The Fed Cut Rates Again. Will Savings Account and CD APYs Continue to Drop?](https://www.cnet.com/personal-finance/the-fed-rate-pause-is-great-for-savers-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Ebook Readers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

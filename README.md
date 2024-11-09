@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
- - 💣 [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
+ - 😝 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [I&#39;m not a fan, don&#39;t think she would make a good president, but damn, i&#39;d love to see democrats talk about how electing a black woman is bad](http://9gag.com/gag/a0eNpjL)
+ - 💣 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
  - 👉 [I&#39;m showing you my strength.](http://9gag.com/gag/ayNex7q)<!-- MEMES:END -->
 

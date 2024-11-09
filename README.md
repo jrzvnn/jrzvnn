@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His soul unburdened. His mind clear. Once he was sleepy, but now he\u2019s just Joe.](http://9gag.com/gag/awyB5KB)
- - 😝 [It\u2019s going to be okay](http://9gag.com/gag/aryVNqV)
- - 💣 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
+ - 😝 [Comedy gold!](http://9gag.com/gag/aKG73zb)
+ - 😝 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
+ - 💣 [I&#39;m glad she&#39;ll be fired. Good riddance.](http://9gag.com/gag/aE0P7en)
  - 😝 [Autumn goals: stay cozy and have many cuddles. \ud83c\udf41](http://9gag.com/gag/aKG7q26)
- - 👉 [Monk assaults homeless man in Rotterdam. Still on the run. Lets get this MF](http://9gag.com/gag/azxmqmZ)<!-- MEMES:END -->
+ - 👉 [Ol far snow man .](http://9gag.com/gag/aO87mnM)<!-- MEMES:END -->
 
 ---
 

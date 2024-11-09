@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Invasive Species Are Threatening the Quality of New York’s Tap Water](https://www.wired.com/story/invasive-species-are-threatening-the-quality-of-new-yorks-tap-water/)
- - [The 26 Best Shows on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Auto-Rebooting iPhones Are Causing Chaos for Cops](https://www.wired.com/story/mysterious-iphone-reboot-ios-18-police/)
- - [The Best Veterans Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-veterans-day-mattress-deals-2024/)
- - [Best Solar Panel Installation Companies in California](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data shows open interest on Polymarket fell 64% from $510.95M on November 5 to $184.16M by November 8, highlighting the platform&#39;s reliance on political betting &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241109/p7#a241109p7)
+ - [I Went Birding With the World’s First AI-Powered Binoculars](https://www.wired.com/story/swarovski-optik-ax-visio-ai-binoculars/)
+ - [Best Internet Providers in Dayton, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-dayton-oh/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Pennsylvania](https://www.cnet.com/home/energy-and-utilities/pennsylvania-solar-panels/#ftag=CAD590a51e)
+ - [Yes, You Can Make Focaccia in 1 Day. Here&#39;s How](https://www.cnet.com/how-to/yes-you-can-make-focaccia-in-1-day-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

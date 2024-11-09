@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an email in May, the NHTSA warned Tesla that its online posts falsely suggested that its cars are autonomous, potentially misleading and endangering drivers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241108/p20#a241108p20)
  - [Experts say a new feature in iOS 18.1 causes iPhone to reboot after few days of inactivity, which improves security and has caused concern among law enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241108/p19#a241108p19)
  - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
- - [Experiencing Anxiety Chest Pain? Try These 4 Ways to Get Rid of It](https://www.cnet.com/health/mental/experiencing-anxiety-chest-pain-try-these-4-ways-to-get-rid-of-it/#ftag=CAD590a51e)
- - [These States Could See the Northern Lights This Weekend](https://www.cnet.com/science/these-states-could-see-the-northern-lights-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experiencing Anxiety Chest Pain? Try These 4 Ways to Get Rid of It](https://www.cnet.com/health/mental/experiencing-anxiety-chest-pain-try-these-4-ways-to-get-rid-of-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

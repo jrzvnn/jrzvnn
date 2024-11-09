@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram stops the ‘rug pull’ that disappears videos when you open it](https://www.theverge.com/2024/11/9/24292040/instagram-stops-loading-videos-after-opening-app-rug-pull-adam-mosseri)
  - [TCL QM7 TV Review: Great Picture, Suspect Software](https://www.wired.com/review/tcl-qm7/)
- - [8 Best Touchscreen Gloves &lpar;2024&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
- - [I got a desk treadmill to relieve stress — instead, it stressed me out](https://www.theverge.com/24291281/mobvoi-home-walking-pad-review-treadmills-fitness)
- - [Best Compression Socks for 2024](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)
- - [Yoga Mats, Props, and WIRED-Tested Yoga Gear &lpar;2024&rpar;](https://www.wired.com/story/yoga-guide/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Liverpool vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Brighton vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brighton-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [Vacuum Smarter: Repeat This Technique for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/vacuum-smarter-try-this-technique-for-a-cleaner-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

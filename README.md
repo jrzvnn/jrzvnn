@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House in Arlington, Virginia explodes after police approached it with a search warrant](http://9gag.com/gag/aO87BeN)
- - 😝 [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 💣 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
- - 😝 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)
- - 👉 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)<!-- MEMES:END -->
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 😝 [Help yourself](http://9gag.com/gag/aAyeD40)
+ - 💣 [Power of friendship](http://9gag.com/gag/aVvwM6M)
+ - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
 
 ---
 

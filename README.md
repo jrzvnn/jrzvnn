@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say a new feature in iOS 18.1 causes iPhone to reboot after few days of inactivity, which improves security and has caused concern among law enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241108/p19#a241108p19)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
  - [Experiencing Anxiety Chest Pain? Try These 4 Ways to Get Rid of It](https://www.cnet.com/health/mental/experiencing-anxiety-chest-pain-try-these-4-ways-to-get-rid-of-it/#ftag=CAD590a51e)
  - [These States Could See the Northern Lights This Weekend](https://www.cnet.com/science/these-states-could-see-the-northern-lights-this-weekend/#ftag=CAD590a51e)
- - [Sources: Upwind, which sells tools to secure cloud infrastructure, is raising a $100M Series B at a $850M-$900M valuation, after raising $50M in September 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241108/p18#a241108p18)
- - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Upwind, which sells tools to secure cloud infrastructure, is raising a $100M Series B at a $850M-$900M valuation, after raising $50M in September 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241108/p18#a241108p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

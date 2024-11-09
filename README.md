@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)
- - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
- - 💣 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 😝 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)
- - 👉 [Moon](http://9gag.com/gag/azxmrjp)<!-- MEMES:END -->
+ - 😝 [Just scratching around.](http://9gag.com/gag/azxmrzj)
+ - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 💣 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 👉 [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)<!-- MEMES:END -->
 
 ---
 

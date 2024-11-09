@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Taiwan Semiconductor Industry Association says Taiwan&#39;s semiconductor production is on track to increase 22% YoY to a record $165B in 2024 on AI demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241109/p9#a241109p9)
+ - [A new iOS 18 security feature makes it harder for police to unlock iPhones](https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult)
+ - [How to Spot a Great Bottle of Wine for Cheap, According to an Expert](https://www.cnet.com/how-to/how-to-spot-a-great-bottle-of-wine-for-cheap-according-to-a-wine-expert/#ftag=CAD590a51e)
  - [Seagate’s 2TB Xbox Expansion Card has returned to its best price to date](https://www.theverge.com/2024/11/9/24291552/seagate-storage-expansion-card-xbox-series-x-s-fitbit-charge-6-deal-sale)
- - [7 Best Water Bottles &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [This Is the Worst Thing to Pour Down the Drain, According to an Expert](https://www.cnet.com/how-to/this-is-the-worst-thing-to-pour-down-the-drain-according-to-an-expert/#ftag=CAD590a51e)
- - [Streaming on Max: The 24 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-november-2024/#ftag=CAD590a51e)
- - [The Best Ebook Readers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
+ - [7 Best Water Bottles &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
